@@ -1,7 +1,7 @@
 ---
 title: "Incorporating Your Own Generative Models Into ChatGPT Sessions: A How-To Approach"
-date: 2024-07-23 18:49:50
-updated: 2024-07-25 12:10:11
+date: 2024-08-02T15:57:42.129Z
+updated: 2024-08-03T15:57:42.129Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/00ca8ff6fce624dea66e7545a63f888233e8bb4b7
 
  ChatGPT and Notion AI have several useful tools to help improve your workflow, discover answers to questions you may have, and translate bits of text. However, the two AI solutions are also different in several ways. Today, you’ll find out how Notion AI and ChatGPT compare with each other in numerous different aspects.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ## 1\. Availability
 
  To use[Notion AI](https://www.notion.so/product/ai) , you must first sign up for a Notion account. You can use the feature with a free plan, but you must purchase Notion AI as an add-on. For users with a free membership, Notion AI costs $10 per month.
@@ -27,22 +31,34 @@ thumbnail: https://thmb.techidaily.com/00ca8ff6fce624dea66e7545a63f888233e8bb4b7
 
  You can use[ChatGPT](https://chat.openai.com/) ’s basic features for free, and you can type numerous responses into the app. On top of that, you can get ChatGPT Plus—which costs $20 per month. ChatGPT Plus offers access during periods when lots of other people are using the platform, along with other useful features.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## 2\. Drafting Ideas
 
  You’ll find many[online AI tools for content creation](https://www.makeuseof.com/best-online-ai-tools-content-creation/) , so how do Notion AI and ChatGPT compare in this respect? Notion AI has several tools to help you draft ideas for articles, videos, podcasts, and more.
 
  If you go to the Draft With AI section, for example, you’ll find an option called**Brainstorm ideas...** . When typing the subject you want to come up with topics for, you’ll receive a list of potential options.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Notion AI Brainstorm Idea Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/notion-ai-brainstorm-idea.jpg)
 
  As you can see from the example below, we’ve asked Notion AI to brainstorm ideas related to sports.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ![Notion AI Sport Ideas Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/notion-ai-sport-ideas.jpg)
 
  Notion AI also lets you draft social media posts, press releases, blog posts, and more.
 
  When using ChatGPT, you can also generate ideas for your projects. After signing in to your account, you can ask the bot to come up with a list of different things that you can then research further.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 3\. Creating Summaries of Existing Pages
 
 ![Blog Topics ChatGPT Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/blog-topics-chatgpt.jpg)
@@ -55,6 +71,9 @@ thumbnail: https://thmb.techidaily.com/00ca8ff6fce624dea66e7545a63f888233e8bb4b7
 
  When using ChatGPT, you can ask the tool to provide summaries on different topics. If you’ve created a conversation, you can get it to provide an overview by typing**“summarize this conversation so far”** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. Finding Answers to Questions
 
  If you have broader questions that require answering, ChatGPT is a better option than Notion AI. You can ask ChatGPT for answers to numerous questions, such as why people enjoy or dislike visiting a certain place. In another example below, we’ve used ChatGPT to ask where in the world people speak the German language.
@@ -83,6 +102,9 @@ thumbnail: https://thmb.techidaily.com/00ca8ff6fce624dea66e7545a63f888233e8bb4b7
 
  One thing you should keep in mind is that ChatGPT can often experience periods of full capacity. While you can upgrade to ChatGPT Plus to avoid this problem, you may not have round-the-clock access with a free plan.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## 7\. Generating To-Do Lists
 
  Creating to-do lists isn’t the most exciting task, but having one is a good idea if you want to stay on track during your day. Notion lets you create to-do lists from scratch, but you may also be able to make action items if you’ve already got items on your page.
@@ -93,6 +115,9 @@ thumbnail: https://thmb.techidaily.com/00ca8ff6fce624dea66e7545a63f888233e8bb4b7
 
  You can also ask ChatGPT to create to-do lists, but you’ll have to provide it with enough context to make your list personalized. If you’ve already got information written somewhere, Notion AI is probably a better option for tasks of this nature.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Notion AI and ChatGPT: Two Different Forms of Generative AI
 
  Notion AI and ChatGPT offer various generative AI features, but they differ in terms of strengths and weaknesses. If you want to create summaries of things you’ve already listed or make to-do lists to organize your day better, Notion AI is a better choice.

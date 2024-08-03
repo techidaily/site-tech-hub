@@ -1,7 +1,7 @@
 ---
 title: Generate Images for Free with DALL-E 3 Through Microsoft Bing Integration
-date: 2024-07-28 20:10:56
-updated: 2024-07-29 11:48:31
+date: 2024-08-02T15:58:06.337Z
+updated: 2024-08-03T15:58:06.337Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,18 @@ thumbnail: https://thmb.techidaily.com/6304baca930779dbe6ae3412704c6577c66eb8d78
 
 ## Navigate Through the Best Free AI Image Synthesis Programs – Our Open Source Selection
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [Craiyon](https://www.makeuseof.com/best-open-source-ai-image-generators/#craiyon)
@@ -45,6 +57,9 @@ thumbnail: https://thmb.techidaily.com/6304baca930779dbe6ae3412704c6577c66eb8d78
 
  The model is free to use, but free users are limited to nine free images at a time within a minute. You can subscribe to their Supporter or Professional tiers (priced at $5 and $20 a month, respectively, and billed annually) to get no ads or watermarks, faster generation, and the option to keep your generated images private. A Custom subscription tier also allows custom models, integration, dedicated support, and private servers.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 2 [Stable Diffusion 1.5](https://github.com/runwayml/stable-diffusion)
 
  Stable Diffusion is perhaps one of the most popular open-source text-to-image generation models. It also powers other models, including the three image generators mentioned below. It was released in 2022 and has had many implementations since.
@@ -61,12 +76,19 @@ thumbnail: https://thmb.techidaily.com/6304baca930779dbe6ae3412704c6577c66eb8d78
 
  Running the model is also rather easy. We tested it with the[AUTOMATIC1111 Stable Diffusion web user interface](https://github.com/AUTOMATIC1111/stable-diffusion-webui) , and all controls and parameters work well. It's also quite NSFW-proof courtesy of the LAION-5B database that the model trained on (although it's not perfect, mind you). While generation time itself will vary based on your hardware, you can expect your images to be detailed and realistic even with basic prompts.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ## 3 [DreamShaper](https://huggingface.co/Lykon/DreamShaper)
 
  DreamShaper is an image generation model based on Stable Diffusion. It was intended as an open-source alternative to MidJourney and focuses on photorealism in the generated images, although it can handle anime and painting styles just as well with a few tweaks.
 
  The model is more capable than Stable Diffusion, allowing users more freedom over the final output, ranging from lightning improvements to looser NSFW restrictions. Running the model is also easy, with a[downloadable, pre-trained version available](https://civitai.com/models/4384?modelVersionId=128713) online for local access and a host of websites, including[Sinkin.ai](https://sinkin.ai/m/4zdwGOB) ,[RandomSeed](https://randomseed.co/?id=20) , and[Mage.space](https://www.mage.space/) (requires a basic subscription) that let you run the model with GPU acceleration.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![dreamshaper-stablediffusion-comparison](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/dreamshaper-stablediffusion-comparison.jpg)
 
  As you can probably guess by now, images generated by DreamShaper tend to look more realistic compared to Stable Diffusion. Even if you run the same prompt on both models, the DreamShaper model will likely be more realistic, detailed, and better-lit.
@@ -87,6 +109,9 @@ thumbnail: https://thmb.techidaily.com/6304baca930779dbe6ae3412704c6577c66eb8d78
 
  However, the extra control does bring a few limitations, most notably stricter hardware requirements. InvokeAI recommends a dedicated GPU with at least 4GB of memory, with six to eight GB recommended for running the XL variant. The VRAM requirements apply to both AMD and Nvidia GPUs. You'll also need at least 12GB of RAM and 12GB of free disk space for the model, its dependencies, and Python.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![invoke-ai-generated-image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/invoke-ai-generated-image.jpg)
 
  Yadullah Abidi/MakeUseOf/InvokeAI  
@@ -95,6 +120,9 @@ thumbnail: https://thmb.techidaily.com/6304baca930779dbe6ae3412704c6577c66eb8d78
 
  For the image generation part, the model tends to lean more toward artistic styles than photorealism. Of course, you can train the model on your dataset and have it generate images closer to what you want, even if that involves photorealistic images, especially if you're working in product design, architecture, or retail spaces. However, one important thing to keep in mind is that InvokeAI is primarily an image generation engine, meaning you'll likely have to use your own models for the best results (easily found via the model manager provided in the web interface) as the default model is quite similar to Stable Diffusion itself.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 5 [Openjourney](https://openjourney.art/)
 
  Openjourney is a free, open-source AI image generation model based yet again on Stable Diffusion. If you're wondering why the model is called Openjourney, it's because it was trained on Midjourney images and can mimic its style in the images it generates.
@@ -107,6 +135,9 @@ thumbnail: https://thmb.techidaily.com/6304baca930779dbe6ae3412704c6577c66eb8d78
 
  Openjourney doesn't list any specific hardware requirements for running the model locally on its website, but you can expect similar hardware requirements to Stable Diffusion. This means a dedicated GPU with 4GB VRAM, 16GB RAM, and around 12 to 15GB of free space on your computer to save the model and its dependencies.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![openjourney-ai-generated-image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/openjourney-ai-generated-image.jpg)
 
  Yadullah Abidi/MakeUseOf/OpenJourney

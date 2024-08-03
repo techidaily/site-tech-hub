@@ -1,7 +1,7 @@
 ---
 title: Exploring the Inner Workings of Artificial Intelligence on Devices
-date: 2024-07-26 15:19:17
-updated: 2024-07-28 12:19:55
+date: 2024-08-02T15:58:28.108Z
+updated: 2024-08-03T15:58:28.108Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/c3853b005ad6636456539b898eb59cf75f875d556
 
  Whether you want to improve your French-speaking skills or pick up some German, GPT-4 is surprisingly capable. It can help you build your vocabulary, learn grammar and syntax, and even learn a bit about culture.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 1\. What's the Best Place to Start?
 
 ![ChatGPT Plus best way to learn a language](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-best-way-to-learn-a-language-1.jpg)
@@ -31,6 +34,9 @@ thumbnail: https://thmb.techidaily.com/c3853b005ad6636456539b898eb59cf75f875d556
 
 ## 2\. Building Your Vocabulary
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT-Plus-Vocabulary](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-vocabulary.jpg)
 
  Expanding your vocabulary is a good place to start when you're trying to learn a new language. You want to learn how to pronounce common words and understand how/why they are used in various situations. As you can imagine, GPT-4's conversational skills can easily handle this process.
@@ -51,8 +57,14 @@ thumbnail: https://thmb.techidaily.com/c3853b005ad6636456539b898eb59cf75f875d556
 
  GPT-3.5 also worked well here. However, it responded with much longer responses and, at times, completely forgot to critique our writing/speaking skills. It still works, but you'll have to occasionally remind the language model about its mistakes.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. Learn Grammar and Syntax
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT Plus Grammar Syntax Correction](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-grammar-syntax-correction.jpg)
 
  Grammar and syntax provide the structure and rules necessary to communicate and understand others. ChatGPT can help you learn the grammar and syntax rules by providing real-time feedback, explanations, and examples during written interactions. Since ChatGPT is all about interactivity, it does a better job here than most language-learning apps.
@@ -61,6 +73,9 @@ thumbnail: https://thmb.techidaily.com/c3853b005ad6636456539b898eb59cf75f875d556
 
 ## 5\. Personalized Tests
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT Plus Test](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-test.jpg)
 
  Quizzes and tests are a common feature of most language learning apps. It helps you to check your progress and determine your weak points. ChatGPT is quite good at creating such tests, but you must be creative with the prompts.
@@ -74,6 +89,9 @@ Here's how you can create your own personalized tests:
 3. Determine the test length by specifying the number of questions. You can also set a time limit, but you'll have to time yourself.
 4. Select your preferred format for the test. It could be a multiple-choice, true or false, or even a traditional short question/answer format.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 6\. Cultural Learning
 
 ![ChatGPT Plus Cultural Learning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-cultural-learning.jpg)
@@ -90,6 +108,10 @@ Here's how you can create your own personalized tests:
 
  ChatGPT Plus may not provide you with the speaking or listening capabilities to help with pronunciation that other[language-learning apps](https://www.makeuseof.com/tag/five-free-apps-help-learn-foreign-language/) have, but it acts as your teacher that understands context and your progress. These two items help expedite your journey of learning a new language—something no other app can really do.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ## ChatGPT Is the Perfect Partner for Learning a New Language
 
  The problem with language learning apps is that you often feel like you're all on your own. This isn't something you'll run into when you use ChatGPT. Since it's all about conversation and the constant back and forth, you feel like you're discussing your issues with a partner. If you're someone who prefers an interactive experience while learning, GPT-4 is worth checking out.

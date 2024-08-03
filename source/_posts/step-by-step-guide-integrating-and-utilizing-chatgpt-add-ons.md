@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Integrating & Utilizing ChatGPT Add-Ons"
-date: 2024-07-23 17:10:47
-updated: 2024-07-25 12:29:16
+date: 2024-08-02T15:58:07.571Z
+updated: 2024-08-03T15:58:07.571Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/cd61def31c266f510e96724b2a8477792657278ca
 
 ## Personalizing ChatGPT Encounters Using Tailored GPT Mentions – Strategies Inside
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [What Is ChatGPT's GPT Mentions Feature?](https://www.makeuseof.com/how-to-use-gpt-mentions-in-chatgpt-conversation/#what-is-chatgpt-39-s-gpt-mentions-feature)
@@ -28,6 +31,9 @@ thumbnail: https://thmb.techidaily.com/cd61def31c266f510e96724b2a8477792657278ca
 
  OpenAI's premium version of ChatGPT, known as ChatGPT Plus, offers users a range of extra features in exchange for the monthly subscription fee. ChatGPT Plus's newest feature, GPT call-outs or mentions, may prove very useful to you if you use various GPTs within the ChatGPT interface. So, how does this feature work, and how can it benefit you?
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is ChatGPT's GPT Mentions Feature?
 
  As a ChatGPT Plus member, you can[enjoy custom GPTs from the Custom GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/) . These are versions of ChatGPT that are tailored to help with specific tasks. Some[popular custom GPTs](https://www.makeuseof.com/best-custom-gpts/) include...
@@ -44,20 +50,32 @@ thumbnail: https://thmb.techidaily.com/cd61def31c266f510e96724b2a8477792657278ca
 
 So, how can you use this?
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Use the GPT Mentions Feature
 
  If you're using a few custom GPTs in separate conversations, you'll now see the pop-up below displayed above your chat text box.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![screenshot of GPT mentions feature window on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-mention-1.png)
 
  It's super easy to use GPT Mentions, so let's delve into an example of when it would be helpful.
 
  Let's say you wanted to gather some key data and then create an infographic to introduce what you've found. To find the data, you start a chat with the Consensus GPT. Once Consensus gives you the relevant information, you mention Canva in your chat, and click on the Canva GPT option.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![screenshot of chatgpt beta mentions feature being used in desktop browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-mentions-chat.png)
 
  Now, you're chatting with Canva until you click "X" on the**Talking to Canva** tab that will appear above the chat text box.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![screenshot of active canva chat using beta gpt mentions feature on desktop browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-canva-talking.png)
 
  You can talk to the Canva GPT while mentioning the above conversation you've already had with Consensus. Simply ask Canva to create a graphic introducing the research Consensus provided, and the GPT will get to work providing you with something useful.

@@ -1,7 +1,7 @@
 ---
 title: How Does Predictive AI Make Its Predictions?
-date: 2024-07-22 13:35:53
-updated: 2024-07-23 11:35:27
+date: 2024-08-02T15:57:40.921Z
+updated: 2024-08-03T15:57:40.921Z
 tags:
   - chatgpt
   - open-ai
@@ -19,8 +19,15 @@ thumbnail: https://thmb.techidaily.com/337350c11ae587c77e044eafd70c0e67c4637d755
 
  GPT-3 left its mark, GPT-3.5 is a phenomenon, and GPT-4 wowed with what AI models are capable of. Now, the question on the mind of every keen observer is: Will there be a GPT-5? If so, when?
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Will There Be a GPT-5?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![ChatGPT logo on dark green background ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-risk.jpg)
 
  Yes, there will almost certainly be a 5th iteration of OpenAI's GPT large language model called GPT-5\. Unfortunately, much like its predecessors, GPT-3.5 and GPT-4, OpenAI adopts a reserved stance when disclosing details about the next iteration of its GPT models. Instead, the company typically reserves such information until a release date is very close. This tight-lipped policy typically fuels conjectures about the release timeline for every upcoming GPT model.
@@ -33,6 +40,9 @@ thumbnail: https://thmb.techidaily.com/337350c11ae587c77e044eafd70c0e67c4637d755
 
 Here's a video of Altman's discussion below:
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ## When Is GPT-5 Coming?
 
 ![When is GPT-5 coming. Question mark illustration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/pexels-pixabay-356079-1.jpg)
@@ -51,8 +61,14 @@ So, a 2024 release date for GPT-5? Is that possible?
 
  Remember, GPT-4 is both a language model and a vision model. However, consumers have barely used the "vision model" capabilities of GPT-4\. There is still huge potential in GPT-4 we've not explored, and OpenAI might dedicate the next several months to helping consumers make the best of it rather than push for the much hype GPT-5.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Changes Could GPT-5 Bring?
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![chatgpt conversation open on smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/smartphone-chatgpt-1.jpg)
 
  While it might be too early to say with certainty, we fully expect GPT-5 to be a considerable leap from GPT-4\. GPT-3 was mainly a language model. GPT-4 improved on that by being both a language model and a vision model. We expect GPT-5 might possess the abilities of a sound recognition model in addition to the abilities of GPT-4.
@@ -61,6 +77,10 @@ So, a 2024 release date for GPT-5? Is that possible?
 
  However, considering the current abilities of GPT-4, we expect the law of diminishing marginal returns to set in. Simply increasing the model size, throwing in more computational power, or diversifying training data might not necessarily bring the significant improvements we expect from GPT-5.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ## GPT-5: An Exciting Future Awaits
 
  While much of the details about GPT-5 are speculative, it is undeniably going to be another important step towards an awe-inspiring paradigm shift in artificial intelligence.

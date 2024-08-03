@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Word Meets GPT: A Symbiosis for Automation"
-date: 2024-07-24 18:28:50
-updated: 2024-07-27 10:38:18
+date: 2024-08-02T15:58:18.921Z
+updated: 2024-08-03T15:58:18.921Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/afe8f045484617e9f5a2ca5a0fbc786ffaec7f39c
 
 ## Four Desired Improvements for the Next Generation AI, GPT-5
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [What Is OpenAI's GPT-5?](https://www.makeuseof.com/gpt-5-features-we-want-to-see/#what-is-openai-39-s-gpt-5)
@@ -29,6 +32,9 @@ thumbnail: https://thmb.techidaily.com/afe8f045484617e9f5a2ca5a0fbc786ffaec7f39c
 
  Still, no matter the due date, there are a few key features we want to see when GPT-5 launches.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is OpenAI's GPT-5?
 
  GPT-5 is the highly anticipated successor to OpenAI's GPT-4 AI model, widely expected to be the most powerful generative model in the market. While there is currently no official release date for GPT-5, there are indications it could be released as early as the summer of 2024\. Very little detail about the model is known at this time, but several things can be said with some amount of certainty:
@@ -41,6 +47,9 @@ thumbnail: https://thmb.techidaily.com/afe8f045484617e9f5a2ca5a0fbc786ffaec7f39c
 
 ## 1\. More Multimodality
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![OpenAI Sora text-to-video generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/openai-sora-text-to-video-generator.jpg)
 
  One of the most exciting improvements to the GPT family of AI models has been multimodality. For clarity, multimodality is the ability of an AI model to process more than just text but also other types of inputs like images, audio, and video. Multimodality will be an important advancement benchmark for the GPT family of models going forward.
@@ -49,9 +58,15 @@ thumbnail: https://thmb.techidaily.com/afe8f045484617e9f5a2ca5a0fbc786ffaec7f39c
 
  So, for GPT-5, we expect to be able to play around with videos—upload videos as prompts, create videos on the go, edit videos with text prompts, extract segments from videos, and find specific scenes from large video files. We expect to be able to do similar things to audio files. It's a big ask, yes. But given how fast AI development is, it's a very reasonable expectation.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Larger and More Efficient Context Window
 
-![Monitor on a desk with OpenAI logo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-analyze-your-local-documents-with-langchain-and-chatgpt-featured-image.jpg)
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
+![Monitor on a desk with OpenAI logo](https://thmb.techidaily.com/0d605cbff29d9fac95ea636e3f1dc6722b73dcac2e7b43e02dacf71b94afcc8e.jpg)
 
  Ralf Jhetner Borja/[flickr](https://www.flickr.com/photos/198726053@N04/53043766807/)
 
@@ -61,9 +76,12 @@ thumbnail: https://thmb.techidaily.com/afe8f045484617e9f5a2ca5a0fbc786ffaec7f39c
 
  You see, a model might have a one million token context window (around 700,000 words capacity) but fail to produce a comprehensive summary when asked to summarize a 500,000-word book because it can't adequately process the entirety of the context despite having the capacity to do so in theory. That you can read a 500k-word book does not mean you can recall everything in it or process it sensibly.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. GPT Agents
 
-![ChatGPT accessed on a smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/muo-chatgpt-mentions-fi.jpg)
+![ChatGPT accessed on a smartphone](https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51ce8909742113d79362ddfedd.jpg)
 
  Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/vancouver-canada-jan-23-2024-webpage-2417500449)
 

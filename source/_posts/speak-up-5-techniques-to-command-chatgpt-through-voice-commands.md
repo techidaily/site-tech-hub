@@ -1,7 +1,7 @@
 ---
 title: "Speak Up: 5 Techniques to Command ChatGPT Through Voice Commands"
-date: 2024-07-22 16:35:52
-updated: 2024-07-25 10:30:41
+date: 2024-08-02T15:58:22.797Z
+updated: 2024-08-03T15:58:22.797Z
 tags:
   - chatgpt
   - open-ai
@@ -17,24 +17,39 @@ thumbnail: https://thmb.techidaily.com/cf88e87b734b5b9f59ddbd2f8f99680f9b1ec3ba8
 
  While ChatGPT is undoubtedly a powerful tool, privacy concerns surround the platform. Understandably, this dissuasive argument may lead you to avoid ChatGPT. But there are alternative ways to use the tool. Here, we look at some ways you can use ChatGPT without an OpenAI account.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## 1\. Bing Chat
 
 ![Screenshot of Bing Chat Home Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-bing-chat-home-page.jpg)
 
  Bing Chat is probably the easiest way for most people to use ChatGPT without an OpenAI account. The Microsoft chatbot is based on the GPT-4 version of the platform. Additionally, it can also incorporate "live results" from current data sources into its results.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![Screenshot Of Bing Chat confirming no OpenAI account is needed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-bing-chat-confirming-no-openai-account-is-needed.jpg)
 
  To use Bing Chat, you need a Microsoft account and access to Microsoft Edge. You may already have a Microsoft account if you are a Windows User. The exception is if it is a local account; a[local account differs substantially from a Microsoft account](https://www.makeuseof.com/ways-microsoft-and-local-account-different-windows/) .
 
  Once you have your account details, accessing the chatbot is simple—use Microsoft Edge to navigate to the new[Bing](https://www.bing.com/new) , and the magic of ChatGPT will be at your fingertips.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Bing Mobile App
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![Screenshot_of Bing app opening screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot_of-bing-app-opening-screen.jpg)
 
 ![Screenshot of Bing Chat Opening Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-bing-chat-opening-screen.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of Bing answering query](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-bing-answering-query.jpg)
 
 Close
@@ -61,6 +76,9 @@ Close
 
 ## 4\. ChatGPT Writer
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot ChatGPT Writer home](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-chatgpt-writer-home.jpg)
 
  This is very similar to the Merlin Chat extension. It works by embedding itself within your chosen browser (Chrome or Edge) and from here it can be called up to perform a variety of tasks.
@@ -75,8 +93,14 @@ Close
 
 **Download** : ChatGPT Writer for[Google Chrome/Microsoft Edge](https://chrome.google.com/webstore/detail/chatgpt-writer-write-mail/pdnenlnelpdomajfejgapbdpmjkfpjkp/related) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 5\. Forefront.AI
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![forefront ai chatgpt prompt output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/forefront-ai-chatgpt-prompt-output.jpg)
 
 [Forefront.ai](http://chat.forefront.ai) is a multi-use generative AI tool that allows you to use ChatGPT-3.5, ChatGPT-4, Claude Instant 1.2, and Claude 2 from the same web app. You'll have to subscribe to use ChatGPT-4, Claude Instant 1.2, and Claude 2 (all with limited messaging rates), but you can sign-up and use ChatGPT-3.5 for free.

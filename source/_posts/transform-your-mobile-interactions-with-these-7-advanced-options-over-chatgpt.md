@@ -1,7 +1,7 @@
 ---
 title: Transform Your Mobile Interactions with These 7 Advanced Options over ChatGPT
-date: 2024-07-22 18:46:29
-updated: 2024-07-25 10:41:37
+date: 2024-08-02T15:58:14.723Z
+updated: 2024-08-03T15:58:14.723Z
 tags:
   - chatgpt
   - open-ai
@@ -29,6 +29,18 @@ thumbnail: https://thmb.techidaily.com/37cbd79bb1dc4f01076609d4f2040fc4f61e96fa4
 
  Explore[responsible ways of writing with AI](https://www.makeuseof.com/ways-to-use-ai-as-writer-editor/) instead. ChatGPT streamlines non-writing tasks, like researching topics, editing drafts, and analyzing reader personas.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Automating Employee Performance Reviews Through ChatGPT
 
  ChatGPT’s sophisticated[natural language processing](https://www.makeuseof.com/what-is-natural-language-processing-and-how-does-it-work/) (NLP) system understands input and produces corresponding responses. Some employees rely on it for drafting performance reports. They make ChatGPT write customized reviews by submitting their subordinates’ key performance indicators (KPIs).
@@ -37,6 +49,9 @@ thumbnail: https://thmb.techidaily.com/37cbd79bb1dc4f01076609d4f2040fc4f61e96fa4
 
 ## 3\. Asking ChatGPT to Draft Legal Documents and Contracts
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![Person Highlighting Parts of a Contract in Green](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/highilighting-parts-of-contract.jpg)
 
 [OpenAI](https://openai.com/policies/terms-of-use) states in its terms of use that ChatGPT records and reviews all user conversations. The company uses non-API content for data training. While[ChatGPT doesn’t learn from chats in real-time](https://www.makeuseof.com/does-chatgpt-learn-from-user-conversations/) , its trainers still screen and filter input. You should never divulge company information.
@@ -51,14 +66,23 @@ thumbnail: https://thmb.techidaily.com/37cbd79bb1dc4f01076609d4f2040fc4f61e96fa4
 
  And make sure you double-check the figures that ChatGPT presents. Blindly trusting AI’s formulas will cause errors in your computations, which might get you into trouble. Employers could also fire you if you consistently submit erroneous data.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 5\. Making ChatGPT Reply to Messages
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Copy-Pasting Message from ChatGPT to Slack](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-replying-to-message.jpg)
 
  A study by[McKinsey & Company](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-social-economy) shows that employees spend 28 percent of the workweek answering and reading messages. To save time, you might consider automating some responses. ChatGPT can compose customized output based on the messages and instructions you input.
 
  Although you won’t get fired, you should still avoid sending ChatGPT-generated responses. They come across as rude and distant. You’ll elicit more favorable responses if you compose unique, personalized messages.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ## 6\. Composing Emails on ChatGPT
 
  Employees find it harder to write emails than chat messages because of their formal nature. To hasten the writing process, they[compose difficult emails on ChatGPT](https://www.makeuseof.com/use-chatgpt-write-work-emails/) .
@@ -73,6 +97,9 @@ thumbnail: https://thmb.techidaily.com/37cbd79bb1dc4f01076609d4f2040fc4f61e96fa4
 
 ## 8\. Using Code Snippets Written by ChatGPT
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Asking ChatGPT to Write a Sample Code Snippet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/sample-code-snippet-from-chatgpt.jpg)
 
  ChatGPT’s ability to code in various languages caught the attention of programmers worldwide. It can write an entire site’s code in seconds. Many programmers reduce their workload by offloading much of the coding process to ChatGPT.
@@ -81,6 +108,9 @@ thumbnail: https://thmb.techidaily.com/37cbd79bb1dc4f01076609d4f2040fc4f61e96fa4
 
  Explore[ethical ways of using ChatGPT in programming](https://www.makeuseof.com/chatgpt-programming-practical-uses/) . Most employers are okay with their dev team researching algorithms, generating placeholders, and refracting snippets on AI tools, but you must write and edit codes manually.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ## 9\. Editing Articles and Papers With ChatGPT
 
  ChatGPT can help you edit drafts. Its sophisticated language model detects awkward sentences, grammatical errors, and even incoherent statements. Take the below conversation as an example. We asked for constructive criticism based on our preferred style guide and tonality.
@@ -91,6 +121,9 @@ thumbnail: https://thmb.techidaily.com/37cbd79bb1dc4f01076609d4f2040fc4f61e96fa4
 
 ## 10\. Analyzing Financial Charts on ChatGPT
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Red and Green Prices on a Financial Chart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/financial-charts-and-scores-on-screen.jpg)
 
  One of[OpenAI’s worst issues with ChatGPT](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/) is that it gets confused with word and number problems. You can only ask intermediate-level questions. Making ChatGPT analyze complex financial reports would likely produce errors and inaccuracies.

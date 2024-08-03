@@ -1,7 +1,7 @@
 ---
 title: ChatGPT Unleashed on Desktop - Explore How It Outshines Its Online Alternative
-date: 2024-07-22 19:38:30
-updated: 2024-07-25 12:49:20
+date: 2024-08-02T15:57:53.299Z
+updated: 2024-08-03T15:57:53.299Z
 tags:
   - chatgpt
   - open-ai
@@ -32,6 +32,9 @@ thumbnail: https://thmb.techidaily.com/4af354c0c4f31e85da7815990d834961f2e7342ec
 
  I've been using the ChatGPT desktop app for a little while now, and despite my first impressions, it's clear it's better than ChatGPT's website version in almost every way.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Get ChatGPT for macOS
 
  macOS, iOS, and Android are the only OSs that have a native ChatGPT app so far. OpenAI says it will bring apps to other platforms in the future but hasn't yet disclosed when. While you can get the official app on Android and iOS from their respective app stores, the ChatGPT app doesn't yet have a version for the Mac App Store. Therefore, you should[avoid any ChatGPT apps on the Mac App Store](https://www.makeuseof.com/why-avoid-chatgpt-apps-on-mac-app-store/) because they'd likely be reskins or fakes.
@@ -55,6 +58,9 @@ thumbnail: https://thmb.techidaily.com/4af354c0c4f31e85da7815990d834961f2e7342ec
 
  The desktop app offers a few extra features over the website, but the strongest and most obvious two are Voice Mode and the launcher.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot 2024-06-26 at 11.29.36 AM](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/screenshot-2024-06-26-at-11-29-36-am.png)
 
  If you use ChatGPT on your phone, you're likely already familiar with Voice Mode. It allows you to talk to ChatGPT with your voice as it responds and transcribes the entire conversation. You can activate it on your Mac by clicking the headphones button on the right side of the input box.
@@ -63,20 +69,32 @@ thumbnail: https://thmb.techidaily.com/4af354c0c4f31e85da7815990d834961f2e7342ec
 
  The launcher, however, is a unique-to-macOS feature that lets you use a shortcut (**Option** +**Space** ) to open a small prompt box. Enter your queries, and you can reach ChatGPT anywhere on your Mac. I've grown quite fond of it, and that's the sole reason I now use the desktop app instead of the website.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## The ChatGPT App Can Also Access Your Apple Photo Library, Take Screenshots, and Use the Webcam
 
  After the big two features, Voice Mode and the launcher, a few useful features still earmark the Mac app from the website. OpenAI took advantage of the direct permissions an app can have on macOS and has expanded the options for uploading media.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT desktop app sorting through the Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/screenshot-2024-06-26-at-5-21-58-pm.png)
 
  Apple users know the dichotomy of having photos in the Photo Library (which syncs through the Photos app on all your devices) and having an image stored in Files (iOS) or Finder (macOS). On the website, you're limited to uploading files and images from the latter, but the ChatGPT app can access your photo library directly, letting you filter through them better.
 
  You can also give the app permission to take screenshots and automatically upload them to the chat. This feature is very useful for quick analysis of text on your screen. Finally, it can also use your webcam with permission, which could be useful for quick photos of documents.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![Attachment menu in the ChatGPT desktop app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/screenshot-2024-06-26-at-5-17-43-pm.png)
 
  All these media features are in the attachment menu on the left side of the input box, both on the launcher and in the app. Just click the**paperclip icon,** and all media options appear in the small menu. Of course, you'll need to give ChatGPT permissions the first time you use them.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Is It Worth Using the ChatGPT Desktop Version?
 
  Apart from the launcher, the desktop version of ChatGPT is similar to the ones on Android and iOS. Taking photos and handling media (on a small scale) is also much easier on a phone than on a computer. However, some of these features were unavailable on desktop, and this app has remedied that.

@@ -1,7 +1,7 @@
 ---
 title: Is Utilizing ChatGPT Secure? Unveiling Six Potential Cybersecurity Threats
-date: 2024-07-23 23:55:30
-updated: 2024-07-24 11:10:56
+date: 2024-08-02T15:58:28.762Z
+updated: 2024-08-03T15:58:28.762Z
 tags:
   - chatgpt
   - open-ai
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/70f241d066e5ba09e0220593e00f2a957d64d581f
 
  OpenAI has officially launched its long-awaited ChatGPT Plugins to ChatGPT Plus users.After months of speculation regarding the internet-connected Plugins, OpenAI has pushed its Plugins live, allowing Plus users to choose whether to turn them on or not using a new Beta feature.Connecting ChatGPT to the internet has been a long-standing request for millions of ChatGPT users, and now, the moment is here.
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ## OpenAI Rolls Out Web Browsing and Plugins to ChatGPT Plus Users
 
  Late on May 12, 2023, an[OpenAI blog post revealed](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) that ChatGPT's Plugin feature would become available to ChatGPT Plus users.
@@ -25,6 +28,9 @@ thumbnail: https://thmb.techidaily.com/70f241d066e5ba09e0220593e00f2a957d64d581f
 
 > If you are a ChatGPT Plus user, enjoy early access to experimental new features, which may change during development. We’ll be making these features accessible via a new beta panel in your settings, which is rolling out to all Plus users over the course of the next week.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Are ChatGPT Plugins?
 
  ChatGPT Plugins are internet-connected tools specifically designed to extend ChatGPT's functionality.
@@ -47,10 +53,16 @@ That's not all, though.
 
  For example, I asked ChatGPT: "Who is the current leader of the F1 World Championship?"
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![chatgpt web browsing search may 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023.jpg)
 
 ![chatgpt web browsing search may 2023 looking for examples](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023-looking-for-examples.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![chatgpt web browsing search may 2023 results with source](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023-results-with-source.jpg)
 
 Close
@@ -69,6 +81,9 @@ Close
 
  You can enable ChatGPT Plugins and Web Browsing using the new Beta Features Settings options.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![chatgpt beta tools may 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-beta-tools-may-2023.jpg)
 
 1. Head to your**Settings** in the bottom left-hand corner of the ChatGPT screen
@@ -80,6 +95,9 @@ Close
 
  From here, you can select either Web Browsing to enable web-connected search or select**Plugin Store** to begin installing and enabling Plugins.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## ChatGPT Is Finally Connected to the Internet
 
  Internet-connected ChatGPT is finally here. Although the Web Browsing and Plugins are limited to ChatGPT Plus currently, it won't be long until regular ChatGPT users can gain access to internet-powered generative AI.

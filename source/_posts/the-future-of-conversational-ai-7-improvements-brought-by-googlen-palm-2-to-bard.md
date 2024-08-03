@@ -1,7 +1,7 @@
 ---
 title: "The Future of Conversational AI: 7 Improvements Brought by Google'n PaLM 2 to Bard"
-date: 2024-07-23 11:11:59
-updated: 2024-07-26 10:57:39
+date: 2024-08-02T15:57:52.032Z
+updated: 2024-08-03T15:57:52.032Z
 tags:
   - chatgpt
   - open-ai
@@ -35,8 +35,15 @@ thumbnail: https://thmb.techidaily.com/1e11de4cf4f80ef092048741d4366db23f2bbee14
 
  We saw a glimpse of what could be possible. A future where Bard AI integrates with Google Maps, Sheets, and a range of exciting services from third-party developers. This has the potential to be genuinely game-changing. Well, that is if Google doesn't under-deliver, of course.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Image Prompting
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![Image prompting with Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/image-prompting-with-bard-ai.jpg)
 
  Image Credit:[Google](https://blog.google/technology/ai/google-bard-updates-io-2023/)
@@ -45,6 +52,9 @@ thumbnail: https://thmb.techidaily.com/1e11de4cf4f80ef092048741d4366db23f2bbee14
 
  In other words, instead of just text prompts, you'll be able to upload images as prompts alongside text. For example, you could upload a picture of a dog and ask Bard which dog breed it is. The specifics of the feature are still a mystery, but if it is well crafted, some compelling use cases could pop up.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ## 5\. Image Generation With Adobe Firefly
 
 ![Red and orange text that reads Adobe Firefly, surrounded by AI generated images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/adobe-firefly.jpg)
@@ -55,8 +65,19 @@ thumbnail: https://thmb.techidaily.com/1e11de4cf4f80ef092048741d4366db23f2bbee14
 
  Although we aren't exactly sure how deeply integrated Bard AI will be with Abode Firefly, the demo at Google I/O gave a sneak peek at something exciting.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Tools for Exporting Generated Content
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![exporting data from Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/exporting-data-from-bard-ai.jpg)
 
  One thing missing from most[AI chatbots like ChatGPT and Bing AI](https://www.makeuseof.com/chatgpt-vs-bing-ai-chatbot/) is a way to export generated content that preserves its formatting. If you generated a table with ChatGPT, for instance, copying over that table to a word processor with style intact is challenging.
@@ -65,6 +86,9 @@ thumbnail: https://thmb.techidaily.com/1e11de4cf4f80ef092048741d4366db23f2bbee14
 
 ## 7\. Improved Code Generation
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Generating code with Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/generating-code-with-bard-ai.jpg)
 
  At launch, Bard AI couldn't write code—an embarrassing pitfall considering coding was one of the big hype surrounding the emergence of AI chatbots. However, Bard AI competitors like[ChatGPT have been helping people code](https://www.makeuseof.com/chatgpt-programming-practical-uses/) since its debut. Google has now significantly ramped up Bard's coding abilities—so much so that a lot of precious presentation time was dedicated to discussing it at its Google I/O 2023 event.

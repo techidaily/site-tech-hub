@@ -1,7 +1,7 @@
 ---
 title: ChatGPT's Ultimate Advice on Crafting Persuasive and Impactful Cover Letters
-date: 2024-07-25 23:19:27
-updated: 2024-07-27 12:42:18
+date: 2024-08-02T15:57:50.085Z
+updated: 2024-08-03T15:57:50.085Z
 tags:
   - chatgpt
   - open-ai
@@ -19,8 +19,15 @@ thumbnail: https://thmb.techidaily.com/93cb6ac8ec609718de42842a42295e1ee84908cc0
 
  Like any technology, ChatGPT can be used for nefarious reasons. Hackers, for instance, can use it to create malicious content, like writing phony email messages to get access to your PC or even your bank account.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## ChatGPT Can Help Cybercriminals Hack Your PC
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Laptop with chatgpt site on screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/laptop-with-chatgpt-site-on-screen.jpg)
 
  Hackers, including script kiddies, can[use ChatGPT to create new malware](https://www.makeuseof.com/can-chatgpt-be-used-malware-creation/) or improve existing ones. Some cybercriminals already use the chatbot, especially its earlier versions, to write code they claim can encrypt files.
@@ -33,8 +40,14 @@ thumbnail: https://thmb.techidaily.com/93cb6ac8ec609718de42842a42295e1ee84908cc0
 
  In a separate incident, the researchers prompted ChatGPT to generate malicious VBA code that could be implanted into a Microsoft Excel file that would infect your PC if opened; it successfully did. Plus, there are claims that ChatGPT can code malicious software capable of spying on your keyboard strokes.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Can ChatGPT Hack Your Bank Account?
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![An illustration of a customer service chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customer-service.jpg)
 
  Many data breaches start with[a successful phishing attack](http://www.makeuseof.com/what-is-phishing/) . Phishing attacks often involve a malicious actor sending a recipient an email that contains legitimate-looking documents or links, which, when clicked on, can install malware on their device. In this way, code from ChatGPT doesn't need to hack your bank account directly. Someone only needs to use ChatGPT to help them trick you into giving them access.
@@ -49,6 +62,9 @@ thumbnail: https://thmb.techidaily.com/93cb6ac8ec609718de42842a42295e1ee84908cc0
 
  Another kind of phishing attack involving the use of ChatGPT is where a hacker creates a fake account on a popular chat platform like Discord and pretends to be a customer representative. The fake customer rep then contacts customers who have posted concerns and offers help. If a user falls for the trap, the cybercriminal will redirect them to a bogus website that tricks them into sharing personal information, like their bank login details.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Protect Your PC and Bank Account in the AI-Era
 
  ChatGPT is a powerful and valuable tool that can answer many questions you throw its way. But the chatbot can also be used for malicious purposes, like generating phishing messages and creating malware.

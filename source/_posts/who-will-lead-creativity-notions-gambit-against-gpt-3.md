@@ -1,7 +1,7 @@
 ---
 title: Who Will Lead Creativity? Notion's Gambit Against GPT-3
-date: 2024-07-24 20:39:18
-updated: 2024-07-27 10:43:19
+date: 2024-08-02T15:58:08.855Z
+updated: 2024-08-03T15:58:08.855Z
 tags:
   - chatgpt
   - open-ai
@@ -23,8 +23,14 @@ thumbnail: https://thmb.techidaily.com/6029eec233aad0fb3c2ba7e54dc1e274f5e9fe224
 
  If you want to try DALL-E 3 but don't want to pay for a ChatGPT Plus subscription, there's an easy way around it. Microsoft Bing has a powerful DALL-E 3 integration, and right now, you can use it for free.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Access DALL-E 3 With Microsoft Bing
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![A half human half robot character generated with DALL-E 3 on Bing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/a-half-human-half-robot-character-generated-with-dall-e-3-on-bing.jpg)
 
  Bing is a search engine featuring an AI chat function and an AI Image Creator. Thanks to a partnership with OpenAI, Microsoft was the first company to integrate DALL-E 3 into its products. This means you can use DALL-E 3 for free using either of the features mentioned.
@@ -44,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/6029eec233aad0fb3c2ba7e54dc1e274f5e9fe224
 
  But the most notable change about DALL-E 3 is that it has been integrated into ChatGPT, OpenAI's powerful AI chatbot. It opens up a whole new way of interacting with the image generator and gives you a fresh way of creating prompts.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ## How to Craft a Good DALLE-3 Prompt Using Bing
 
  DALL-E 3 is much easier to use thanks to its integration with GPT-4, the large language model that powers ChatGPT and Microsoft Bing.
@@ -60,10 +70,25 @@ thumbnail: https://thmb.techidaily.com/6029eec233aad0fb3c2ba7e54dc1e274f5e9fe224
 
  Compare that with DALL-E 3 in Bing. The image it generated is quite good, considering our prompt barely contained any specific details.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![DALL-E 3 in Bing Chat image of a city covered in plants](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-3-in-bing-chat-image-of-a-city-covered-in-plants.jpg)
 
  We followed this up by asking if it could add animals to the image it just created. Unlike DALL-E 2, it had no trouble understanding our request.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![DALL-E 3 iamge of New York City overgrown with plants and animals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-3-iamge-of-new-york-city-overgrown-with-plants-and-animals.jpg)
 
  You can even ask Bing to redo one of the images. We told it that we liked the second image and would like to see if it could make the animals more detailed.
@@ -72,6 +97,9 @@ thumbnail: https://thmb.techidaily.com/6029eec233aad0fb3c2ba7e54dc1e274f5e9fe224
 
  With just a small amount of time chatting with DALLE-3 in Bing, we arrived at a really interesting image of New York City if it were overrun by plants and animals. No prompt engineering is required.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![DALL-E 3 image of a city with animals on top of buildings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-3-image-of-a-city-with-animals-on-top-of-buildings.jpg)
 
 ## Limitations of DALL-E 3 and Bing
@@ -86,6 +114,9 @@ thumbnail: https://thmb.techidaily.com/6029eec233aad0fb3c2ba7e54dc1e274f5e9fe224
 
  But this will be a welcome addition for artists who don't want their images to train DALL-E in the first place. Adding to this, you can now fill in the[OpenAI opt-out form](https://share.hsforms.com/1%5FOuT5tfFSpic89PqN6r1CQ4sk30) to make sure your image doesn't go into the training pool.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ## Don't Wait to Try DALL-E 3; Access It Now With Bing
 
  Head to Bing Chat to try DALL-E 3 for free. Each week, you get free boost credits that make it quick to generate an image. On top of that, you don't need to worry about engineering a prompt any longer, as DALL-E 3 can transform even the most vague request into an interesting AI-generated image.

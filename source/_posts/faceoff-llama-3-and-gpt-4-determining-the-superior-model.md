@@ -1,7 +1,7 @@
 ---
 title: "Faceoff: Llama 3 and GPT- 4 – Determining the Superior Model"
-date: 2024-07-27 13:54:47
-updated: 2024-07-28 10:19:11
+date: 2024-08-02T15:57:46.947Z
+updated: 2024-08-03T15:57:46.947Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
 
  Wouldn't it be great if ChatGPT could step in as your trusty sidekick, curating the ideal movie selection for you? Sounds interesting? Well, here's a thrilling guide on how to use ChatGPT to figure out what to watch next.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 1\. Identify Similar Movies and TV Shows
 
  You’ve just seen the last episode of “The Last of Us,” “Succession.” or whichever movie keeps you glued to the screen. Now you need similar TV shows, but Google keeps turning up suggestions that make your stomach turn. How do you dig out TV shows similar to what you've just finished watching? ChatGPT can help you[find the perfect movie to stream next](https://www.makeuseof.com/tag/find-perfect-movie-watch-right-now/) .
@@ -41,6 +44,9 @@ Imagine you are a movie and TV show recommendation expert. A user wants to find 
 
 ![Similar tv shows recommendation from ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/similar-tv-shows-recommendation-from-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ## 2\. Try a Different Genre
 
  Are you tired of seeing the same genre of movies but have no clue what else you'd love? You're not alone. Fortunately, ChatGPT can help out. Simply tell ChatGPT what you’ve had enough of, and prompt it to surprise you with something radically different.
@@ -65,6 +71,9 @@ I would like to request a list of five TV shows that feature a female protagonis
 
 We tried the prompt above and got some very enticing suggestions.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ![TV shows with a certain storyline-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/tv-shows-with-a-certain-storyline-1.jpg)
 
 ## 4\. Help Remember a Movie You've Forgotten
@@ -77,8 +86,14 @@ Below is an example of a prompt that can help you with such a request:
 
  When we tried the prompt above, we had the exact movie we had in mind, which was the 2000 movie "Romeo Must Die."
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT finds movies from description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-finds-movies-from-description.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Use ChatGPT to Discover Lesser-Known or Underrated Movies
 
  There are a lot of hidden gems sitting around in the catalogs of streaming services. A number of them are better than similar titles with better publicity. ChatGPT can help you discover some of these lesser-known movies you may have overlooked.
@@ -87,6 +102,9 @@ Below is an example of a prompt that can help you with such a request:
 
 ![Underated Korean Tv series suggested by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/underated-korean-tv-series-suggested-by-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ## 6\. Research Movies Starring Your Favorite Actors
 
  You just watched an amazing TV show with an unfamiliar lead actor. You enjoyed their performance and want to see more of their movies. Or, maybe you just want to research more movies from popular actors you follow. Whichever is the case, ChatGPT can assist you with that. You can simply use prompts like:
@@ -99,6 +117,9 @@ Below is an example of a prompt that can help you with such a request:
 
 ![Action movies featuring Dwayne--The Rock--Johnson](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/action-movies-featuring-dwayne-the-rock-johnson.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 7\. Discover Movies From Short Clips
 
  Remember that frustrating moment when you watched a short movie clip on TikTok or YouTube shorts but had no idea which movie it was? It's like solving a puzzle without all the pieces. You came across an exciting scene from a movie that caught your interest, but the clip didn't provide any hints or title. Don't worry; ChatGPT is here to help.

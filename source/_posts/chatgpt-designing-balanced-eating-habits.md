@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT: Designing Balanced Eating Habits"
-date: 2024-07-25 10:19:55
-updated: 2024-07-26 10:24:19
+date: 2024-08-02T15:57:52.204Z
+updated: 2024-08-03T15:57:52.204Z
 tags:
   - chatgpt
   - open-ai
@@ -17,6 +17,14 @@ thumbnail: https://thmb.techidaily.com/91d5be9a6861c4c9aa999253b8784315fe4d3aae2
 
  ChatGPT has undoubtedly made history as the most popular AI chatbot to hit our screens, but it has no shortage of competitors. One such competitor, Claude, offers an impressive AI chatbot service, but does this outshine ChatGPT?
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## What Are ChatGPT and Claude?
 
  You've likely already heard of OpenAI's ChatGPT AI chatbot and its GPT[LLM (large language model)](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) . While ChatGPT is presented as a chatbot, incredible work has been done behind the scenes to make it a knowledge hub.
@@ -51,10 +59,16 @@ We'll be using Claude 1.3 and Claude 2 in this comparison.
 
 As you can see, there are several differences to consider.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## ChatGPT's Pros and Cons
 
  In what ways does ChatGPT outshine Claude? What perks and advantages does it boast?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ### ChatGPT's Pros
 
  ChatGPT offers great features and benefits to its users, starting with its ability to fulfill prompts.
@@ -89,6 +103,9 @@ Additionally, ChatGPT has a wide range of browser plugins, including:
 
  Lastly, ChatGPT does not support use via a VPN, which can be tricky if you're a regular VPN user or want to get around your region's geo-restrictions.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Claude's Pros and Cons
 
 So, how does Claude compare to ChatGPT?
@@ -117,20 +134,37 @@ So, how does Claude compare to ChatGPT?
 
  Like ChatGPT, Claude is also at risk of hallucinating, which is important to remember.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ChatGPT vs. Claude: a Direct Comparison
 
  To further understand how these two AI chatbots and their respective LLMs work, let's provide each with the same prompts to see how they react.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Creative Abilities
 
  First, we asked both Claude and ChatGPT to provide us with a poem using the same prompt each time.
 
  Both ChatGPT and Claude provided poems that fit the parameters of the prompt.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![screenshot of chatgpt poem prompt response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-poem-prompt.jpg)
 
  ChatGPT's poem was a little shorter, highlighting that it followed the requested ABAB rhyming structure.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![claude poem prompt chat screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-poem-prompt.jpg)
 
  On the other hand, Claude provided a slightly lengthier poem, but both are fairly equal in their creative abilities.

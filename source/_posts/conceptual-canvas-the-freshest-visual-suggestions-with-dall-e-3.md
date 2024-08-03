@@ -1,7 +1,7 @@
 ---
 title: "Conceptual Canvas: The Freshest Visual Suggestions with DALL-E 3"
-date: 2024-07-23 20:22:55
-updated: 2024-07-24 11:45:28
+date: 2024-08-02T15:57:31.497Z
+updated: 2024-08-03T15:57:31.497Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,9 @@ thumbnail: https://thmb.techidaily.com/259362f05442761cee2c53bd4a987280fdd7ced53
 
  While this isn't entirely a new feature per se, it's refreshing to know that Google has dropped the waitlist for using Bard and opened the chatbot to all. So, if you've been sneaking onto the Bard website using a VPN, it's time to drop the mask. Bard is now open to over 180 countries and territories.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ## 2\. Dark Theme
 
 ![Bard on Dark theme](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bard-on-dark-theme.jpg)
@@ -35,8 +38,14 @@ thumbnail: https://thmb.techidaily.com/259362f05442761cee2c53bd4a987280fdd7ced53
 
  We saw a glimpse of what could be possible. A future where Bard AI integrates with Google Maps, Sheets, and a range of exciting services from third-party developers. This has the potential to be genuinely game-changing. Well, that is if Google doesn't under-deliver, of course.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Image Prompting
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Image prompting with Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/image-prompting-with-bard-ai.jpg)
 
  Image Credit:[Google](https://blog.google/technology/ai/google-bard-updates-io-2023/)
@@ -45,8 +54,14 @@ thumbnail: https://thmb.techidaily.com/259362f05442761cee2c53bd4a987280fdd7ced53
 
  In other words, instead of just text prompts, you'll be able to upload images as prompts alongside text. For example, you could upload a picture of a dog and ask Bard which dog breed it is. The specifics of the feature are still a mystery, but if it is well crafted, some compelling use cases could pop up.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 5\. Image Generation With Adobe Firefly
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![Red and orange text that reads Adobe Firefly, surrounded by AI generated images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/adobe-firefly.jpg)
 
  Image Credit:[Adobe](https://www.adobe.com/sensei/generative-ai/firefly.html)
@@ -71,6 +86,9 @@ thumbnail: https://thmb.techidaily.com/259362f05442761cee2c53bd4a987280fdd7ced53
 
  Bard AI can now generate code in several programming languages. It can also explain code snippets, debug code, and sometimes point to the origin of the code to give credit to whoever created the original codebase that was used to answer your question.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Google's AI Endgame Is Gemini
 
  Bard AI currently runs on PaLM 2 (the latest iteration of its PaLM large language model) and relies on different Google products and services to offer most of the features announced at Google I/O 2023\. Meanwhile, Sundar Pichai, the CEO of Google, briefly discussed Gemini—a new large language model currently being developed from the ground up to power future iterations of Bard AI.

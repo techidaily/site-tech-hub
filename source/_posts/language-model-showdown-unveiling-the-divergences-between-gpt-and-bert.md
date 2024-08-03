@@ -1,7 +1,7 @@
 ---
 title: "Language Model Showdown: Unveiling the Divergences Between GPT and BERT"
-date: 2024-07-25 17:49:34
-updated: 2024-07-27 11:33:17
+date: 2024-08-02T15:57:57.243Z
+updated: 2024-08-03T15:57:57.243Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/0c5d42c4dd20613a1c9b759dc5acc559eb281ce84
 
  Both platforms are impressive in their own right, but which one best suits freelancers? Running multiple tools simultaneously could potentially waste time. Here are eight factors to consider when deciding between Bing Chat and ChatGPT for your freelancing business.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Bing Chat Lists Down Its Sources
 
 ![Bing Chat Listing Its Sources for Outputs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bing-chat-lists-sources.jpg)
@@ -33,12 +36,19 @@ thumbnail: https://thmb.techidaily.com/0c5d42c4dd20613a1c9b759dc5acc559eb281ce84
 
  You must set Microsoft Edge as your primary browser to use Bing Chat efficiently. It’s not accessible elsewhere. If you try hitting the Chat button on Bing, you’ll get a prompt asking you to install Edge.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![Bing Asking User to Download Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bing-prompt-to-download-microsoft-edge.jpg)
 
  Unfortunately, Microsoft Edge is not as popular as some other web browsers. Like millions of other working adults, you probably prefer using Google Chrome. It’s the most widely used browser.[Statista](https://www.statista.com/statistics/544400/market-share-of-internet-browsers-desktop/) even reports that Google Chrome has a whopping 66.14 percent market share.
 
  Unless you can migrate your data to Microsoft Edge, consider using ChatGPT by default.[Toggling between work apps wastes too much time](https://www.makeuseof.com/toggling-work-applications-how-to-resolve/) .
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ## 3\. Bing Chat Is Connected to the Internet
 
  If your job typically involves current events or industry developments, you should likely choose Bing Chat over ChatGPT. They pull information differently.
@@ -53,6 +63,9 @@ thumbnail: https://thmb.techidaily.com/0c5d42c4dd20613a1c9b759dc5acc559eb281ce84
 
 ![Bing Chat Providing a Weather Update from the Internet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bing-chat-answer-weather-question.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Bing Chat Offers GPT-4 for Free
 
  You must pay for ChatGPT Plus to access GPT-4\. Free ChatGPT users can only use GPT-3.5, although they might get a slight upgrade[when GPT-5 launches](https://www.makeuseof.com/when-will-gpt5-launch/) . Alternatively, Bing Chat offers GPT-4 for free. Just download Microsoft Edge, and you’re good to go—there’s no need to buy anything else.
@@ -61,6 +74,9 @@ thumbnail: https://thmb.techidaily.com/0c5d42c4dd20613a1c9b759dc5acc559eb281ce84
 
 ## 5\. You Can Use Bing Chat on Different Platforms
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Using Bing Chat on Bing App for Smartphones](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bing-chat-on-mobile-1.jpg)
 
 ![Using the Bing Chatbot on Skype](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bing-chat-on-skype.jpg)
@@ -79,14 +95,23 @@ Close
 
  Take the below prompt as an example. ChatGPT rejected our role-play request because Tomie is an evil fictional character.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT Refuses to Roleplay as Tomie the Character ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-rejects-roleplay-request-as-tomie.jpg)
 
 But it obliged after we rephrased our prompt.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT Roleplaying as Tomie from the Manga Tomie](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-accepting-roleplay-request.jpg)
 
  Meanwhile, Bing Chat ignored our requests outright, regardless of our phrasing.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![Bing Chat Rejecting Roleplay Request Due to Security Restrictions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bing-chat-rejecting-request.jpg)
 
  Make a list of jailbreak instructions. Learning how GPT models analyze and absorb inputs will help you[write more effective AI prompts](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/) . You could even create template formulas.
@@ -106,6 +131,9 @@ But it obliged after we rephrased our prompt.
 
  The below image shows a sample cover letter by ChatGPT. It’s grammatically correct, but it also sounds stiff and awkward.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT Writing a Cover Letter for a Content Writer Application](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-writing-cover-letter-1.jpg)
 
 Meanwhile, Bing Chat’s phrases flow smoothly.
@@ -118,6 +146,9 @@ Meanwhile, Bing Chat’s phrases flow smoothly.
 
  Explore OpenAI’s systems. Developers, programmers, and prompt engineers might find them helpful. You could even build AI-integrated apps from scratch.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Find the Right AI Chatbot for Your Freelance Business
 
  Whether you should get Bing Chat or ChatGPT depends on your freelancing needs. If your job involves extensive research, use Bing Chat. It lists its sources and lets you use the search engine quickly. Alternatively, ChatGPT suits OpenAI coders and programmers who prefer testing versatile platforms compatible with Google Chrome.

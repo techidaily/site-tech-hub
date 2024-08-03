@@ -1,7 +1,7 @@
 ---
 title: Fourfold Responsibility of Governments to Monitor AI Progress
-date: 2024-07-22 20:35:50
-updated: 2024-07-24 11:43:17
+date: 2024-08-02T15:57:44.762Z
+updated: 2024-08-03T15:57:44.762Z
 tags:
   - chatgpt
   - open-ai
@@ -29,6 +29,9 @@ thumbnail: https://thmb.techidaily.com/8823459ab6574b19c976d6905c67df41ee5da3519
 
  Explore[responsible ways of writing with AI](https://www.makeuseof.com/ways-to-use-ai-as-writer-editor/) instead. ChatGPT streamlines non-writing tasks, like researching topics, editing drafts, and analyzing reader personas.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Automating Employee Performance Reviews Through ChatGPT
 
  ChatGPT’s sophisticated[natural language processing](https://www.makeuseof.com/what-is-natural-language-processing-and-how-does-it-work/) (NLP) system understands input and produces corresponding responses. Some employees rely on it for drafting performance reports. They make ChatGPT write customized reviews by submitting their subordinates’ key performance indicators (KPIs).
@@ -37,6 +40,9 @@ thumbnail: https://thmb.techidaily.com/8823459ab6574b19c976d6905c67df41ee5da3519
 
 ## 3\. Asking ChatGPT to Draft Legal Documents and Contracts
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Person Highlighting Parts of a Contract in Green](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/highilighting-parts-of-contract.jpg)
 
 [OpenAI](https://openai.com/policies/terms-of-use) states in its terms of use that ChatGPT records and reviews all user conversations. The company uses non-API content for data training. While[ChatGPT doesn’t learn from chats in real-time](https://www.makeuseof.com/does-chatgpt-learn-from-user-conversations/) , its trainers still screen and filter input. You should never divulge company information.
@@ -53,12 +59,18 @@ thumbnail: https://thmb.techidaily.com/8823459ab6574b19c976d6905c67df41ee5da3519
 
 ## 5\. Making ChatGPT Reply to Messages
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Copy-Pasting Message from ChatGPT to Slack](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-replying-to-message.jpg)
 
  A study by[McKinsey & Company](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-social-economy) shows that employees spend 28 percent of the workweek answering and reading messages. To save time, you might consider automating some responses. ChatGPT can compose customized output based on the messages and instructions you input.
 
  Although you won’t get fired, you should still avoid sending ChatGPT-generated responses. They come across as rude and distant. You’ll elicit more favorable responses if you compose unique, personalized messages.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ## 6\. Composing Emails on ChatGPT
 
  Employees find it harder to write emails than chat messages because of their formal nature. To hasten the writing process, they[compose difficult emails on ChatGPT](https://www.makeuseof.com/use-chatgpt-write-work-emails/) .
@@ -71,8 +83,15 @@ thumbnail: https://thmb.techidaily.com/8823459ab6574b19c976d6905c67df41ee5da3519
 
  You won’t get fired if you research responsibly. As with any other online resource, it’s best to verify information multiple times before presenting it. Compare data from other sources. Solely relying on ChatGPT’s output puts you at risk of spreading misinformation, a potentially career-ending mistake.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ## 8\. Using Code Snippets Written by ChatGPT
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![Asking ChatGPT to Write a Sample Code Snippet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/sample-code-snippet-from-chatgpt.jpg)
 
  ChatGPT’s ability to code in various languages caught the attention of programmers worldwide. It can write an entire site’s code in seconds. Many programmers reduce their workload by offloading much of the coding process to ChatGPT.
@@ -89,6 +108,9 @@ thumbnail: https://thmb.techidaily.com/8823459ab6574b19c976d6905c67df41ee5da3519
 
  It’s not unethical for employees to edit with chatbots. But if you’re an editor who publishes articles edited by ChatGPT, you’ll likely get fired. Your employer pays you to correct drafts yourself. Just running them through AI-driven tools and platforms is unethical and violates your contract.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ## 10\. Analyzing Financial Charts on ChatGPT
 
 ![Red and Green Prices on a Financial Chart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/financial-charts-and-scores-on-screen.jpg)
@@ -99,6 +121,9 @@ thumbnail: https://thmb.techidaily.com/8823459ab6574b19c976d6905c67df41ee5da3519
 
  You can still offload some tasks to ChatGPT, like drawing charts or writing summaries. Just note that it lacks contextual understanding and takes input at face value—you must perform fact-checking yourself.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Use ChatGPT Ethically and Responsibly
 
  The mere act of using ChatGPT doesn’t justify termination. Most employers fire workers who exploit chatbots and pass off AI-generated output as original work. Just be transparent about your workflow. Don’t use ChatGPT if you have to hide it from your coworkers and supervisors.

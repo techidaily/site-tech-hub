@@ -1,7 +1,7 @@
 ---
 title: "PC Assembly Advice for Enthusiasts: Boost Your Setup with Insider Know-How"
-date: 2024-07-23 11:53:26
-updated: 2024-07-25 11:25:52
+date: 2024-08-02T15:58:15.187Z
+updated: 2024-08-03T15:58:15.187Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,9 @@ thumbnail: https://thmb.techidaily.com/450ec1b84e72a24dc748a4aee1ff3d014e9229d42
 
  So, what exactly is a vector database? How does it work, and when should you use them to boost AI capabilities?
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## What Is a Vector Database?
 
  A vector database is a way to store information through the use of vectors. Unlike the usual form of databases that organize data as tabulated lists, vector databases organize data through high-dimensional vectors. These vectors can then be represented in mathematical space as vector embeddings.
@@ -29,6 +32,9 @@ thumbnail: https://thmb.techidaily.com/450ec1b84e72a24dc748a4aee1ff3d014e9229d42
 
  Vector databases are services that can easily be integrated with a pre-trained model, many of which will need an[API key to access the service](https://www.makeuseof.com/chatgpt-api-complete-guide/) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ## What Are Vector Embeddings
 
  In simple terms, vector embeddings, or simply embeddings, are numerical representations of a subject or a word. For example, a two-dimensional embedding might look like "2, -3", where 2 represents two units in the positive direction along the x-axis, while -3 represents a negative three units along the y-axis. While a three-dimensional embedding would look like "2, -3, 5", where five places the data point 5 units in the positive direction of the z-axis.
@@ -39,12 +45,18 @@ thumbnail: https://thmb.techidaily.com/450ec1b84e72a24dc748a4aee1ff3d014e9229d42
 
  Generation of vector embeddings requires the use of vector embedding models and tools such as BERT, CNNs, and RNNs.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why Are Vector Embeddings Important?
 
  Having the ability to plot the location of data in mathematical space allows computers to understand the relationship between data points and how strongly correlated they are to each other. By knowing the degree of correlation between each data point, an AI model will have the capability to understand queries in a contextual manner like a human would.
 
  Without understanding semantics or context, an AI may provide logically correct but contextually wrong answers. For example, the AI may misinterpret the phrase "He had a heavy heart as he walked away" as a guy with a heart condition instead of a guy feeling sad or burdened.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Vector Databases Help Boost AI
 
  Vector embeddings are important components in training various types of AI models. Having a specialized database that can store, index, and query vector embeddings is essential to maximize the benefits of using vector embeddings. Furthermore, vector databases boost your AI by being a fast, reliable, and scalable database that can continuously help grow and train an AI model.
@@ -66,6 +78,9 @@ thumbnail: https://thmb.techidaily.com/450ec1b84e72a24dc748a4aee1ff3d014e9229d42
 2. **Indexing:** Once vector embeddings have been generated, they can now be stored on a vector database such as Pinecone, Milvus, and Chroma. These vector databases use various algorithms, such as product quantization (PQ) and locality-sensitive hashing (LSH), to index each embedding for quick and efficient storing and retrieval of data.
 3. **Querying:** When an application issues a query, the query must first go through the same vector embedding model used to generate the stored data on the vector database. The generated vector query is then placed on the vector database, where the nearest vector is then retrieved as the most fitting answer to the query.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ## Popular Vector Databases
 
  With the explosion of publicly available pre-trained models, vector databases rapidly gained popularity as expanded the capabilities and rate of fine-tuning of these models. And with such high demand for vector databases, many companies have started their own vector database services; here are some of the most popular ones:
@@ -75,6 +90,9 @@ thumbnail: https://thmb.techidaily.com/450ec1b84e72a24dc748a4aee1ff3d014e9229d42
 * **Redis:** A high-performance vector database capable of supporting real-time applications, session management, and high-traffic websites. Redis is often used for real-time analytics, similarity search, and recommendation systems.
 * **Weaviate:** Offers schema discovery, real-time updates, semantic search, and contextualizing data. With these features, Weaviate is often used to create personalized experience systems for applications.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## The Future of Vector Databases
 
  With the continuous growth of high-dimensional data types for images, videos, and text, vector databases will play a crucial role in improving and expanding the capabilities of current AI models. Through constant development with vector databases, we can expect better services in the fields of healthcare, finance, e-commerce, and cybersecurity.

@@ -1,7 +1,7 @@
 ---
 title: "Learning Healthy Recipes: Can AI Assistants Like ChatGPT Help?"
-date: 2024-07-25 20:58:17
-updated: 2024-07-27 11:38:31
+date: 2024-08-02T15:57:38.890Z
+updated: 2024-08-03T15:57:38.890Z
 tags:
   - chatgpt
   - open-ai
@@ -25,6 +25,9 @@ thumbnail: https://thmb.techidaily.com/bd1f3164b21938808543fb77a181f9a976b01572c
 * Data privacy is a concern when using chatbots like ChatGPT, so it's important to ensure the service has good privacy policies and avoids sharing personal information.
 * AI chatbots with better contextual understanding, like ChatGPT Plus, provide more detailed responses, distinguishing them from search engines.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 1\. Response Accuracy
 
  AI chatbots can sometimes fall prey to[AI Hallucination, meaning the output can be inaccurate or illogical](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/) . While chatbots are good at responding to basic prompts, they occasionally struggle with longer or more complex questions. It's the kind of tradeoff you expect when talking about bleeding-edge technology.
@@ -33,6 +36,9 @@ thumbnail: https://thmb.techidaily.com/bd1f3164b21938808543fb77a181f9a976b01572c
 
 ## 2\. Security and Data Privacy
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![Man holding phone using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/man-holding-phone-using-chatgpt.jpg)
 
  While many people are beginning to use AI tools, we're still in largely uncharted territory. It's hard to predict how AI will affect society and how we will deal with it. There are also concerns that chatbots like[ChatGPT represent a privacy risk](https://www.makeuseof.com/chatgpt-privacy-risk/) . For example, ChatGPT developer OpenAI has stated that they review your ChatGPT conversations to further its training.
@@ -49,18 +55,27 @@ thumbnail: https://thmb.techidaily.com/bd1f3164b21938808543fb77a181f9a976b01572c
 
 ## 4\. Knowledge Base
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Laptop screen showing computer codes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/laptop-screen-showing-computer-codes.jpg)
 
  Most AI chatbots are trained on a limited knowledge base. They have information cutoffs, meaning they can't access information released beyond a certain date. This is a well-known issue with ChatGPT, which is trained on data up to September 2021.
 
  Access to the internet is an obvious fix to this problem. Microsoft's[Bing is now powered by AI](https://www.makeuseof.com/more-likely-to-use-bing-now-powered-by-ai/) , meaning Bing AI Chat also has access to the web and can access relevant and updated information without any limits.[ChatGPT Plus also has this feature in the form of plugins](https://www.makeuseof.com/how-install-and-use-chatgpt-plugins/) , but you'll have to upgrade from the free version if you want to use them.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 5\. Language Model
 
  The biggest difference between AI chatbots is the[type of large language model (LLM)](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) they use. For example, the free version of Perplexity uses GPT-3, while the paid version gives you access to GPT-4\. The situation is similar in the case of ChatGPT. Some chatbots, such as Bard, use Google's PaLM 2 LLM, with others use Meta's Llama or one of its many variants.
 
  Currently, most AI chatbots appear to use GPT-3 or GPT-4.[While GPT-3 is quite capable, GPT-4 is much better](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained) . The latter is better at understanding longer prompts, has better contextual understanding, and is trained on a larger dataset.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 6\. Multilingual Support
 
 ![Cell phone screens with Hello in different languages](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/cell-phone-screens-with-hello-in-different-languages.jpg)
@@ -77,6 +92,9 @@ thumbnail: https://thmb.techidaily.com/bd1f3164b21938808543fb77a181f9a976b01572c
 
  You'll have to consider carefully whether the paid AI chatbot versions are worth it. Usually, the features are great for the price, but it depends on how much use you will get out of them. Remember that the paid versions also tend to be faster than the free ones. Paying for faster responses should be a no-brainer if your workflow involves time-sensitive projects.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ## Should You Care About Paid Chatbot Services?
 
  While paid AI chatbot services are great, the free versions are often good enough. In fact, they're almost too good. GPT-3 or GPT-3.5 is enough for most people, meaning upgrading to GPT-4 might not be worth it for everyone. However, it's still worth it if you need more detailed and faster responses.

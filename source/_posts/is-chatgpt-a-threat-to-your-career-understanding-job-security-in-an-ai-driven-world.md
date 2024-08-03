@@ -1,7 +1,7 @@
 ---
 title: "Is ChatGPT a Threat to Your Career?: Understanding Job Security in an AI-Driven World"
-date: 2024-07-26 19:40:37
-updated: 2024-07-28 12:30:27
+date: 2024-08-02T15:58:23.851Z
+updated: 2024-08-03T15:58:23.851Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/289107adae482c208effdc1eb510e9f1c669fd2ac
 
  And while it is almost impossible not to be fascinated by ChatGPT, there are some glaring issues that need to be addressed; privacy concerns, for example. Is ChatGPT really a privacy risk?
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Does ChatGPT Gather Data?
 
  If you've ever interacted with other chatbots, you know that none of them can really compare to ChatGPT, which is actually capable of generating human-like responses. But why is ChatGPT so much better than other similar software?
@@ -31,8 +34,14 @@ thumbnail: https://thmb.techidaily.com/289107adae482c208effdc1eb510e9f1c669fd2ac
 
  Ethical considerations aside, there are serious concerns that Open AI is violating the General Data Protection Regulation (GDPR), and other similar privacy laws. Due to these concerns,[Italy officially banned ChatGPT](https://www.makeuseof.com/why-has-italy-banned-chatgpt/) in March 2023, with the country's data protection authority accusing Open AI of violating user privacy with its data collection practices in more than one way.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ChatGPT's Privacy Policy: What You Need to Know
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT logo on dark purple background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-policy.jpg)
 
  How much data does OpenAI collect from ChatGPT users directly, and how? The service's[privacy policy](https://openai.com/policies/privacy-policy) offers some answers.
@@ -45,10 +54,16 @@ thumbnail: https://thmb.techidaily.com/289107adae482c208effdc1eb510e9f1c669fd2ac
 
  But what about the conversations you have with the chatbot? How much of that information is stored, and how is it used? In the[FAQ](https://help.openai.com/en/articles/6783457-what-is-chatgpt) section, OpenAI explicitly states that it "reviews" conversations users have with ChatGPT, and that these conversations may be used for training. As for the prompts you submit to the bot, they cannot be deleted, according to OpenAI.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Protect Your Privacy When Using ChatGPT: 3 Key Tips
 
  Clearly, ChatGPT is not privacy-friendly—far from it. But few apps are these days, and there isn't much we can do about it. What you can do, however, is use ChatGPT responsibly. Here are three things you can do to protect your privacy.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ### 1\. Register With a Private Email
 
  You can sign up to use ChatGPT with your Google or Microsoft account, but that would not be a very good idea, as convenient as it may seem. In order to protect your privacy, you should create an account with an email, preferably using a secure and encrypted email service like[ProtonMail or Tutanota](https://www.makeuseof.com/protonmail-vs-tutanota-which-encrypted-email-is-best/) .
@@ -57,6 +72,9 @@ thumbnail: https://thmb.techidaily.com/289107adae482c208effdc1eb510e9f1c669fd2ac
 
  This is very important. You should be particularly careful what you share with ChatGPT, since there's a strong possibility all of it is being recorded and fed into the system. In fact, it might even be reviewed manually by a human being at some point. Assume that whatever you put into ChatGPT is in the public domain, and act accordingly.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 3\. Delete Your Information
 
  Under GDPR, you have the right to be forgotten (also called the right of erasure, or the right to deletion). Californians have the same right, due to the[California Consumer Privacy Act (CCPA)](https://www.makeuseof.com/what-is-the-california-consumer-privacy-act/) . So, at least in theory, if you are in Europe or the state of California, you should be able to delete your personal information from OpenAI's servers. You can delete your OpenAI account entirely if you are based somewhere else, but it's unclear if the company would get rid of your data.

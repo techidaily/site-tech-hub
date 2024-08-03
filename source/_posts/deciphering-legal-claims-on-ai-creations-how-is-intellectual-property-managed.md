@@ -1,7 +1,7 @@
 ---
 title: "Deciphering Legal Claims on AI Creations: How Is Intellectual Property Managed?"
-date: 2024-07-23 14:34:29
-updated: 2024-07-25 12:55:59
+date: 2024-08-02T15:58:03.005Z
+updated: 2024-08-03T15:58:03.005Z
 tags:
   - chatgpt
   - open-ai
@@ -27,6 +27,9 @@ thumbnail: https://thmb.techidaily.com/25bf753c78130a921149c781a28200c1963f284bc
 
  For material, we thought it would be quite fun to give ChatGPT a crack at writing an intro for this article and then comparing it against the “human-generated” intro:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Test One: Comparing a Human and AI-Generated Article Intro
 
  The first thing we did was get ChatGPT to generate an introduction. We entered the title and gave it no further information. For the record, we used GPT-3.5 for the test.
@@ -35,6 +38,9 @@ thumbnail: https://thmb.techidaily.com/25bf753c78130a921149c781a28200c1963f284bc
 
  We then copied the text and pasted it into ZeroGPT. As you can see, the results were less than stellar.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Screenshot of ZeroGPT incorrect response to AI intro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-zerogpt-incorrect-response-to-ai-intro.jpg)
 
  An inconspicuous start, but it does illustrate just how effective AI chatbots are. To complete the test, we let ZeroGPT analyze a human-created draft intro.
@@ -43,6 +49,9 @@ thumbnail: https://thmb.techidaily.com/25bf753c78130a921149c781a28200c1963f284bc
 
  At least it got this part correct. Overall, ZeroGPT failed in this round. It did determine that at least part of the AI-generated introduction was suspect but failed to highlight specific issues.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Test Two: The False Positive Problem
 
  As the use of ChatGPT and other AI tools grows, the likelihood of knowing or hearing about someone being confronted by claims that their work was AI-generated increases. These accusations are one of the more serious problems with ChatGPT and AI-detection tools like ZeroGPT, as this kind of error can damage reputations and affect livelihoods.
@@ -53,12 +62,18 @@ thumbnail: https://thmb.techidaily.com/25bf753c78130a921149c781a28200c1963f284bc
 
  To be fair, I was aiming for this result. I kept the text generic and used “salesy” language. But the point that a human wrote this remains just as valid. This is not an inconvenience or something that can just be shrugged off. Errors like this can have serious ramifications for writers, students, and other professionals who create written works.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Test Three: Testing ZeroGPT on Fiction
 
  For the third test, we are going to use ChatGPT and ask it to write some fiction. To do this, we created a scenario and prompted ChatGPT to write a brief introduction to a fictional story.
 
  We kept it simple and just asked to write an intro for a story about two strangers who meet on a railway platform:
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPT fiction](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-chatgpt-fiction.jpg)
 
 And here was the response from ZeroGPT:
@@ -77,6 +92,9 @@ And here was the response from ZeroGPT:
 
  The tool so consistently flagged each news article as AI-generated that we decided to test it on a dummy news article that we wrote for the purpose.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of ZeroGPT misidentifying news story](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-zerogpt-misidentifying-news-story.jpg)
 
  It did at least identify some of the articles as human-generated, but it flagged over 70% as AI-generated. Again, we need to be fair here; this was a fairly basic re-hash of the Bing article and was hardly Pulitzer Prize quality.
@@ -97,8 +115,14 @@ And here was the response from ZeroGPT:
 
  Another factor that must be considered is what constitutes AI-generated content. If AI-generated content is simply reworded, is it human or AI-generated content? This represents another major challenge—the blurring of the lines between the two makes defining machine-created content almost impossible.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Looking to the Future of AI Detection
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![cyber-glasses-1938449_1280](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/cyber-glasses-1938449_1280.jpg)
 
  This may sound like we are knocking tools like ZeroGPT. This isn’t the case; they face massive challenges, and the technology is barely out of diapers. The rapid uptake of tools like ChatGPT has created a demand for AI detection, and the technology should be given a chance to mature and learn.

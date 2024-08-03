@@ -1,7 +1,7 @@
 ---
 title: "Multiple Languages Support:"
-date: 2024-07-24 22:28:25
-updated: 2024-07-27 11:34:50
+date: 2024-08-02T15:57:31.174Z
+updated: 2024-08-03T15:57:31.174Z
 tags:
   - chatgpt
   - open-ai
@@ -21,8 +21,15 @@ thumbnail: https://thmb.techidaily.com/ad35e613eb8093bc386d3ad0e03dab2452cb6287c
 
  Links have not been provided for each custom GPT because the documents uploaded as a knowledge base contain private information. However, you can still take the title and outline and make each idea your own, with your own private information. Just be careful if you share any custom GPTs, as you may accidentally grant access to sensitive information.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ## 1\. Resume and Cover Letter Creator
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![Screenshot of Custom GPT Resume Maestro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/resume-maestro.jpg)
 
  I built a custom GPT called "Resume Maestro." Once it receives a job post description, it immediately comes up with a resume with the right professional details included. It captures everything from names and contact details to work experience, educational history, and achievements. It also writes a cover letter that isn't just tailored to the job post but also aligns with personal experiences relevant to the job. Better still, its output is immediately available for download as a PDF or Word file, all under ten seconds.
@@ -35,6 +42,9 @@ thumbnail: https://thmb.techidaily.com/ad35e613eb8093bc386d3ad0e03dab2452cb6287c
 
 ## 2\. Translation Tool
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Screenshot of Custom GPT called Pidgin Hero](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/pidgin-hero-description-card.jpg)
 
  In the weeks following ChatGPT's release, we tested[ChatGPT's ability to translate text compared to Google Translate](https://www.makeuseof.com/chatgpt-vs-google-translate-which-is-better-at-translation/) . While Google's translation tool performed admirably against the massive power that is ChatGPT, it struggled with certain languages like Pidgin English, a widely spoken Creole in parts of West Africa. Although ChatGPT was better in this aspect, it also struggled as well.
@@ -51,6 +61,9 @@ thumbnail: https://thmb.techidaily.com/ad35e613eb8093bc386d3ad0e03dab2452cb6287c
 
  You can deploy custom GPTs to solve this problem. Simply prompt the chatbot to create a specialized GPT that focuses on the programming languages used in your project, then upload your entire project files, including a detailed description of what you're trying to build. Whenever you run into a problem with the project, prompt the GPTs, and you'll get a much more precise and relevant solution than you'd get from your regular ChatGPT.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Personal Movie Recommender
 
 ![movie recommender Custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/movie-recommender-custom-gpt.jpg)
@@ -61,6 +74,9 @@ thumbnail: https://thmb.techidaily.com/ad35e613eb8093bc386d3ad0e03dab2452cb6287c
 
 **Try this GPT** :[K-Drama Hero](https://chat.openai.com/g/g-WhObLzfn5-k-drama-hero) .
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Interactive Text and Image Games
 
 ![Custom ChatGPT game called Dungeon weaver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-chatgpt-game-called-dungeon-weaver.jpg)
@@ -75,6 +91,9 @@ thumbnail: https://thmb.techidaily.com/ad35e613eb8093bc386d3ad0e03dab2452cb6287c
 
 **Try this GPT** :[Dungeon Weaver](https://chat.openai.com/g/g-BRT1bAbjI-dungeon-weaver) .
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Personal Tutor
 
 ![Custom GPT for Abstract math tutoring](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-gpt-for-abstract-math-tutoring.jpg)
@@ -87,6 +106,9 @@ thumbnail: https://thmb.techidaily.com/ad35e613eb8093bc386d3ad0e03dab2452cb6287c
 
 **Try this GPT** :[Abstract Math Genius](https://chat.openai.com/g/g-wFmBbvdm0-abstract-math-genius) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Niche Tools for Work
 
 ![Custom GPT for Work](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-gpt-for-work.jpg)

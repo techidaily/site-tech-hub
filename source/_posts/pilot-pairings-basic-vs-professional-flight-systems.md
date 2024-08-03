@@ -1,7 +1,7 @@
 ---
 title: "Pilot Pairings: Basic Vs. Professional Flight Systems"
-date: 2024-07-24 10:22:37
-updated: 2024-07-26 12:37:32
+date: 2024-08-02T15:58:20.658Z
+updated: 2024-08-03T15:58:20.658Z
 tags:
   - chatgpt
   - open-ai
@@ -35,8 +35,14 @@ thumbnail: https://thmb.techidaily.com/4fdba735ca68de32414a243ab29c0a7ff66726341
 
  Of course, some may see[using AI to provide mental health advice as risky](https://www.makeuseof.com/dangers-using-ai-free-therapist-psychiatrist/) . We'll discuss the possible downsides of this a little later.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Monitoring Patient Progress With AI
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ![person typing on laptop next to stethoscope on desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/stetho-laptop-1.jpg)
 
  Monitoring a patient's progress to ensure they're not taking steps backward is a very important step in recovery. While a human professional can do this well, the number of individuals requiring mental health support makes it difficult for human personnel to keep up with the demand.
@@ -45,6 +51,18 @@ thumbnail: https://thmb.techidaily.com/4fdba735ca68de32414a243ab29c0a7ff66726341
 
  But there are risks to consider here, and the AI system in use would have to be very thoroughly trained on how to spot possible red flags. Still, simply using this as an initial assessment could prove highly beneficial, both to doctors and patients.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Developing New Support Techniques With AI
 
  There's no denying that researchers are still working to further understand our brains and why they give way to mental illnesses. Not only is the origin of mental illness still being researched, but techniques on how to better treat patients are also being developed.
@@ -55,10 +73,16 @@ thumbnail: https://thmb.techidaily.com/4fdba735ca68de32414a243ab29c0a7ff66726341
 
  Though this all seems very promising, there are also[dangers associated with using AI](https://www.makeuseof.com/is-ai-dangerous-5-immediate-risks-of-artificial-intelligence/) in the mental health field and other ways that AI can worsen mental health in general.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How Can AI Worsen Mental Health?
 
  While AI has significant potential to improve mental healthcare, there are also risks and dangers in the adoption of this fast-evolving technology.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Increased Reliance on AI
 
  Over the past few decades, the rise of smart technology has led many people to rely on phones, PCs, tablets, and other devices to simplify and enhance their lives. Whether they're chatting on social media, streaming movies, browsing for new clothes, or simply getting some work done, technology usually stands as the backbone. Many people are even[addicted to their smartphones](https://www.makeuseof.com/smartphone-addiction-how-overcome-negative-habit/) or computers, which can have a huge impact on their lives.
@@ -81,6 +105,9 @@ thumbnail: https://thmb.techidaily.com/4fdba735ca68de32414a243ab29c0a7ff66726341
 
  There are plenty of things that can go wrong while using AI, particularly as it is in its early stages. System malfunctions, software bugs, and improper training can all lead to issues, with malicious attacks also posing a possible risk.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## AI's Future in Mental Health Must Be Watched Carefully
 
  AI has so much potential that it's no secret why people are so excited about it. However, as is the case with any emerging technology, it is crucial that AI is not too quickly applied or outright misused. In mental healthcare, this could do more harm than good to patients. Time will tell if, or when, AI becomes a key element in the mental health industry and whether this turns out to be a blessing or a curse.

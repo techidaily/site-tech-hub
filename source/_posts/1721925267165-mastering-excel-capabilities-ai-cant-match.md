@@ -1,7 +1,7 @@
 ---
 title: "Mastering Excel: Capabilities AI Can't Match"
-date: 2024-07-24 19:20:22
-updated: 2024-07-26 10:22:37
+date: 2024-08-02T15:58:27.863Z
+updated: 2024-08-03T15:58:27.863Z
 tags:
   - chatgpt
   - open-ai
@@ -29,8 +29,14 @@ thumbnail: https://thmb.techidaily.com/01a9c6a754e21b99c858623b51177464f69009a94
 
 ## 1\. ChatGPT
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT in App Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-in-app-store.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT App Login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-login.jpg)
 
 ![ChatGPT app welcome screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-welcome-screen.jpg)
@@ -47,10 +53,17 @@ Close
 
 ## 2\. WOMBO Dream
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![WOMBO Dream AI art generator app text prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/wombo-dream-ai-art-generator-app-text-prompt.jpg)
 
 ![WOMBO Dream AI art generator app art style options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/wombo-dream-ai-art-generator-app-art-style-options.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![WOMBO Dream AI artwork example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/wombo-dream-ai-artwork-example.jpg)
 
 Close
@@ -63,14 +76,32 @@ Close
 
 **Download:** WOMBO Dream for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2027009/https://play.google.com/store/apps/details?id=com.womboai.wombodream) |[iOS](https://apps.apple.com/us/app/wombo-dream-ai-art-generator/id1586366816) (Free, subscription available)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 3\. Youper
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Youper Therapy chatbot conversations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/youper-therapy-chatbot-conversations.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![Youper Therapy chatbot tracking emotional state](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/youper-therapy-chatbot-tracking-emotional-state.jpg)
 
 ![Youper Therapy chatbot emotions tracking slider](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/youper-therapy-chatbot-emotions-tracking-slider.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![Youper Therapy chatbot emotions log](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/youper-therapy-chatbot-emotions-log.jpg)
 
 Close
@@ -83,8 +114,23 @@ Close
 
 **Download:** Youper for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2027009/https://play.google.com/store/apps/details?id=br.com.youper) |[iOS](https://apps.apple.com/us/app/youper-cbt-therapy-chatbot/id1060691513) (Free, subscription available)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. Replika
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Replika AI app relationship status options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/replika-ai-app-relationship-status-options.jpg)
 
 ![Replika AI app chat example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/replika-ai-app-chat-example.jpg)
@@ -101,10 +147,19 @@ Close
 
 ## 5\. Be My Eyes
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Be My Eyes app start screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/be-my-eyes-app-start-screen.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ![Be My Eyes app home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/be-my-eyes-app-home-page.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Be My Eyes app instructions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/be-my-eyes-app-instructions.jpg)
 
 ![Be My Eyes app community menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/be-my-eyes-app-community-menu.jpg)
@@ -135,12 +190,18 @@ Close
 
 ## 7\. ELSA
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![ELSA Speak English learning app home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/elsa-speak-english-learning-app-home-page.jpg)
 
 ![ELSA Speak English learning app training options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/elsa-speak-english-learning-app-training-options.jpg)
 
 ![ELSA Speak English learning app catching errors in pronunciation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/elsa-speak-english-learning-app-catching-errors-in-pronunciation.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ![ELSA Speak English learning app personalized course](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/elsa-speak-english-learning-app-personalized-course.jpg)
 
 Close
@@ -151,14 +212,24 @@ Close
 
 **Download:** ELSA for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2027009/https://play.google.com/store/apps/details?id=us.nobarriers.elsa) |[iOS](https://apps.apple.com/us/app/elsa-english-language-app/id1083804886) (Free, subscription available)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ## 8\. Otter
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![Otter AI app home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/otter-ai-app-home-page.jpg)
 
 ![Otter AI app transcribing speech example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/otter-ai-app-transcribing-speech-example.jpg)
 
 ![Otter AI app menu options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/otter-ai-app-menu-options.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Otter AI app Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/otter-ai-app-settings-menu.jpg)
 
 Close

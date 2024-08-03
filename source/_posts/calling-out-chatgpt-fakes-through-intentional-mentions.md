@@ -1,7 +1,7 @@
 ---
 title: Calling Out ChatGPT Fakes Through Intentional Mentions
-date: 2024-07-28 22:32:30
-updated: 2024-07-29 10:42:14
+date: 2024-08-02T15:57:56.062Z
+updated: 2024-08-03T15:57:56.062Z
 tags:
   - chatgpt
   - open-ai
@@ -25,6 +25,9 @@ thumbnail: https://thmb.techidaily.com/9fa9e4346708270d82530e01172580b66a8c63e17
 
  So, how, exactly, might AI prove useful here, and in what ways may it pose a risk?
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Providing Instant Advice and Support Using AI
 
  Finding a therapist can take a long time, and can even be an inaccessible option for some due to its high cost. So, when someone needs advice and support immediately, who can they turn to?
@@ -35,6 +38,9 @@ thumbnail: https://thmb.techidaily.com/9fa9e4346708270d82530e01172580b66a8c63e17
 
  Of course, some may see[using AI to provide mental health advice as risky](https://www.makeuseof.com/dangers-using-ai-free-therapist-psychiatrist/) . We'll discuss the possible downsides of this a little later.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### Monitoring Patient Progress With AI
 
 ![person typing on laptop next to stethoscope on desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/stetho-laptop-1.jpg)
@@ -45,6 +51,9 @@ thumbnail: https://thmb.techidaily.com/9fa9e4346708270d82530e01172580b66a8c63e17
 
  But there are risks to consider here, and the AI system in use would have to be very thoroughly trained on how to spot possible red flags. Still, simply using this as an initial assessment could prove highly beneficial, both to doctors and patients.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Developing New Support Techniques With AI
 
  There's no denying that researchers are still working to further understand our brains and why they give way to mental illnesses. Not only is the origin of mental illness still being researched, but techniques on how to better treat patients are also being developed.
@@ -55,10 +64,17 @@ thumbnail: https://thmb.techidaily.com/9fa9e4346708270d82530e01172580b66a8c63e17
 
  Though this all seems very promising, there are also[dangers associated with using AI](https://www.makeuseof.com/is-ai-dangerous-5-immediate-risks-of-artificial-intelligence/) in the mental health field and other ways that AI can worsen mental health in general.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How Can AI Worsen Mental Health?
 
  While AI has significant potential to improve mental healthcare, there are also risks and dangers in the adoption of this fast-evolving technology.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ### Increased Reliance on AI
 
  Over the past few decades, the rise of smart technology has led many people to rely on phones, PCs, tablets, and other devices to simplify and enhance their lives. Whether they're chatting on social media, streaming movies, browsing for new clothes, or simply getting some work done, technology usually stands as the backbone. Many people are even[addicted to their smartphones](https://www.makeuseof.com/smartphone-addiction-how-overcome-negative-habit/) or computers, which can have a huge impact on their lives.
@@ -71,6 +87,9 @@ thumbnail: https://thmb.techidaily.com/9fa9e4346708270d82530e01172580b66a8c63e17
 
  But if AI becomes increasingly used in the mental health industry, accessing face-to-face treatment, such as talking therapy, may become even more challenging than it currently is. If AI is too frequently used as a replacement for human contact, a decline in recovery rates and patient progress may occur as a result.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![hands reaching out to each other](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/hands-reaching-1.jpg)
 
  At the moment, humans are seen as much more effective at conducting therapy than machines, and this may always be the case. This is why the application of AI in the mental health field should be regulated and monitored very carefully so that patients are still receiving the best care possible.

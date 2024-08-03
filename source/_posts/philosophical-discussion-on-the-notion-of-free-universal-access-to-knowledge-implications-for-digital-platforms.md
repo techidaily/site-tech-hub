@@ -1,7 +1,7 @@
 ---
 title: "Philosophical Discussion on the Notion of Free, Universal Access to Knowledge: Implications for Digital Platforms"
-date: 2024-07-23 19:28:55
-updated: 2024-07-25 11:16:20
+date: 2024-08-02T15:57:57.339Z
+updated: 2024-08-03T15:57:57.339Z
 tags:
   - chatgpt
   - open-ai
@@ -27,6 +27,9 @@ thumbnail: https://thmb.techidaily.com/503f764ce718cdd5118d7c5be0e25d96b4338086c
 
  You can still[use ChatGPT like a search engine](https://www.makeuseof.com/is-chatgpt-search-engine-threat/) . Just make sure you don’t take its answers at face value; otherwise, you might publish misleading information. As a general rule, always compare AI responses with official resources.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Language Models Like GPT-3 Follow Templates
 
  Modern AI platforms use[sophisticated language models like GPT-3](https://www.makeuseof.com/what-is-gpt-3-and-is-it-really-the-future-of-creative-work/) . They execute aggressive machine and deep learning methods to produce human-like text.
@@ -37,10 +40,16 @@ thumbnail: https://thmb.techidaily.com/503f764ce718cdd5118d7c5be0e25d96b4338086c
 
  Take the below text about cats as an example. You won’t spot any basic errors like typos, missing punctuation marks, or misspelled words. It’s a relatively decent piece.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT Generated a 200-Word Article on Cats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-article-on-cats.jpg)
 
  Now, compare it with the below photo. You’ll notice that the response follows the exact template, although this one talks about dogs.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![ChatGPT Generated a 200-Word Article on Dogs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-article-about-dogs.jpg)
 
 ## 3\. Overdependence on AI Makes You a Lazy Researcher
@@ -51,6 +60,9 @@ thumbnail: https://thmb.techidaily.com/503f764ce718cdd5118d7c5be0e25d96b4338086c
 
  Before writing, make sure you study your subject. Extensive research is the core of every well-written piece—spend at least 30 to 60 minutes reading online sources. You can provide value by comparing resources, laying down verified facts, and asserting well-founded conclusions. Simply paraphrasing what chatbots say is senseless.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. AI Scrapes Commonly Published Information
 
 ![Copy.ai Generates an Article on Taking Care of Dogs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/copy-ai-article-on-dogs.jpg)
@@ -69,8 +81,14 @@ thumbnail: https://thmb.techidaily.com/503f764ce718cdd5118d7c5be0e25d96b4338086c
 
  For more accurate insights, double-check facts by visiting reputable, credible resources. Also, compare differing opinions. There are several ways to approach topics—you don’t have to copy the story angles of your AI tools.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. AI Can’t Adopt Your Tone
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT Generates Dog Articles in Different Tones](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-dog-articles-examples.jpg)
 
  AI writing tools and chatbots can structure responses in certain ways. For instance, the above photo shows that ChatGPT could form professional and casual variations of the same topic. Generally, if you insert specific keywords into your prompts, you’ll trigger detailed changes.
@@ -79,6 +97,9 @@ thumbnail: https://thmb.techidaily.com/503f764ce718cdd5118d7c5be0e25d96b4338086c
 
  It’s best to curate articles yourself. Remember that consistent branding plays a crucial role in retaining site visitors. The content you publish, your layout, and the conclusions you assert should resonate with your target audience. Give them reasons to come back to your site.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Writing Tools Don’t Incorporate SEO Tactics Into Its Pieces
 
  Writers typically use AI platforms to hasten the writing process. Most tools produce thousands of words within seconds, so theoretically, you could edit and publish a new blog in under 10 minutes.

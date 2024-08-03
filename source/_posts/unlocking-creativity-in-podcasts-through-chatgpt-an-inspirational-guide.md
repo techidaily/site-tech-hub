@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Creativity in Podcasts Through ChatGPT: An Inspirational Guide"
-date: 2024-07-24 13:22:38
-updated: 2024-07-27 11:56:55
+date: 2024-08-02T15:57:59.635Z
+updated: 2024-08-03T15:57:59.635Z
 tags:
   - chatgpt
   - open-ai
@@ -22,6 +22,9 @@ thumbnail: https://thmb.techidaily.com/22dc377b14c8750c75c360ab6d9b7d702e69a18c8
 * [Getting Started With Microsoft Copilot on Your Mac](https://www.makeuseof.com/how-to-get-microsoft-copilot-on-mac/#getting-started-with-microsoft-copilot-on-your-mac)
 * [The Benefits of Using Copilot Over ChatGPT](https://www.makeuseof.com/how-to-get-microsoft-copilot-on-mac/#the-benefits-of-using-copilot-over-chatgpt)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Mac users can install Microsoft Copilot in two ways: through the App Store on Apple silicon Macs or as a web app on Intel Macs.
@@ -30,6 +33,9 @@ thumbnail: https://thmb.techidaily.com/22dc377b14c8750c75c360ab6d9b7d702e69a18c8
 
  Microsoft doesn't offer a native Mac app for Copilot, but Mac users can still install the popular chatbot on their computers. There are two ways to get Copilot on a Mac, and you can even launch it at the press of a button.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Install Microsoft Copilot From the Mac App Store
 
 ![Microsoft Copilot on the App Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/microsoft-copilot-on-the-app-store.jpg)
@@ -45,6 +51,14 @@ thumbnail: https://thmb.techidaily.com/22dc377b14c8750c75c360ab6d9b7d702e69a18c8
 
  Double-click its icon to start using Copilot right away. Jump to the**Getting Started** section below to get acquainted with the app.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ### How to Launch Copilot on Mac With a Keyboard Shortcut
 
  If adding Copilot to the Dock isn't convenient enough, and you'd like to launch Microsoft's AI chatbot at the press of a button, you can create a custom shortcut using the Shortcuts app in macOS:
@@ -56,12 +70,18 @@ thumbnail: https://thmb.techidaily.com/22dc377b14c8750c75c360ab6d9b7d702e69a18c8
 4. Click the blue**App** field and use the search bar to find and select**Copilot** .  
 ![Creating a simple Open app shortcut to quickly open Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/creating-a-simple-open-app-shortcut-to-quickly-open-copilot.jpg)
 5. Next, switch to the**Info (i)** tab of the sidebar and click**Add Keyboard Shortcut** .  
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![Assigning a custom keyboard shortcut to launch Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/assigning-a-custom-keyboard-shortcut-to-launch-copilot.jpg)
 6. Now, enter a key combination you like, but make sure it doesn't overlap with any other[useful Mac keyboard shortcuts](https://www.makeuseof.com/tag/useful-mac-osx-shortcuts-pdf/) . Then, hit the**Return** key.  
 ![Assigning a custom keyboard shortcut to run Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/assigning-a-custom-keyboard-shortcut-to-run-copilot.jpg)
 
  You can now exit the Shortcuts app and enter the keyboard shortcut you added to quickly launch Microsoft Copilot on your Mac, no matter what you're doing.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## Install Microsoft Copilot as a Web App on Your Mac
 
  If you have an Intel Mac, you won't be able to install Copilot's iPad app from the Mac App Store. Instead, you'll need to install Microsoft Copilot as a web app on macOS Sonoma or later:
@@ -71,6 +91,9 @@ thumbnail: https://thmb.techidaily.com/22dc377b14c8750c75c360ab6d9b7d702e69a18c8
 3. Now, click**File > Add to Dock** from the menu bar.
 4. When you get a confirmation pop-up, click**Add** .
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![Adding Copilot web app to the Dock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/adding-copilot-web-app-to-the-dock.jpg)
 
  You'll find the Copilot web app on your Dock immediately. Launch it to begin.
@@ -81,6 +104,9 @@ thumbnail: https://thmb.techidaily.com/22dc377b14c8750c75c360ab6d9b7d702e69a18c8
 
 1. The first thing you should do is enable GPT-4, as that's one of the biggest advantages of using Copilot over ChatGPT. Scroll down on the main screen and toggle on**Use GPT-4** .
 2. Next, click the**ellipsis (...)** icon in the top-right corner of the window and choose**Show All Tones** to customize Copilot's responses.  
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Enabling GPT-4 in Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/enabling-gpt-4-in-copilot.jpg)
 3. You can choose from**Creative** ,**Balanced** , and**Precise** . By default, it's set to**Creative** , which gets you descriptive responses. I use the**Precise** setting as I prefer concise responses with only the facts that I need.  
 ![Changing tone in the Copilot app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/changing-tone-in-the-copilot-app.jpg)
@@ -90,6 +116,9 @@ thumbnail: https://thmb.techidaily.com/22dc377b14c8750c75c360ab6d9b7d702e69a18c8
 
  You can clear your Copilot search history by heading to the app's privacy settings menu.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Benefits of Using Copilot Over ChatGPT
 
  The biggest advantage of using Microsoft's AI chatbot over OpenAI's ChatGPT offering is that you can[access GPT-4 for free](https://www.makeuseof.com/ways-access-gpt-4-free/) . This means you can include images in your queries, take advantage of DALL·E 3 art generation, install third-party plugins to expand Copilot's feature set, and more.

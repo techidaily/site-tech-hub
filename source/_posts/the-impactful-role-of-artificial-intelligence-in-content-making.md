@@ -1,7 +1,7 @@
 ---
 title: The Impactful Role of Artificial Intelligence in Content Making
-date: 2024-07-21 23:49:58
-updated: 2024-07-24 12:25:54
+date: 2024-08-02T15:57:53.595Z
+updated: 2024-08-03T15:57:53.595Z
 tags:
   - chatgpt
   - open-ai
@@ -37,6 +37,9 @@ thumbnail: https://thmb.techidaily.com/15e035d4efa2fa176e5e93f0c8b98ab30d2606bf7
 
 ### Monitoring Patient Progress With AI
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![person typing on laptop next to stethoscope on desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/stetho-laptop-1.jpg)
 
  Monitoring a patient's progress to ensure they're not taking steps backward is a very important step in recovery. While a human professional can do this well, the number of individuals requiring mental health support makes it difficult for human personnel to keep up with the demand.
@@ -45,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/15e035d4efa2fa176e5e93f0c8b98ab30d2606bf7
 
  But there are risks to consider here, and the AI system in use would have to be very thoroughly trained on how to spot possible red flags. Still, simply using this as an initial assessment could prove highly beneficial, both to doctors and patients.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### Developing New Support Techniques With AI
 
  There's no denying that researchers are still working to further understand our brains and why they give way to mental illnesses. Not only is the origin of mental illness still being researched, but techniques on how to better treat patients are also being developed.
@@ -55,22 +62,43 @@ thumbnail: https://thmb.techidaily.com/15e035d4efa2fa176e5e93f0c8b98ab30d2606bf7
 
  Though this all seems very promising, there are also[dangers associated with using AI](https://www.makeuseof.com/is-ai-dangerous-5-immediate-risks-of-artificial-intelligence/) in the mental health field and other ways that AI can worsen mental health in general.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How Can AI Worsen Mental Health?
 
  While AI has significant potential to improve mental healthcare, there are also risks and dangers in the adoption of this fast-evolving technology.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Increased Reliance on AI
 
  Over the past few decades, the rise of smart technology has led many people to rely on phones, PCs, tablets, and other devices to simplify and enhance their lives. Whether they're chatting on social media, streaming movies, browsing for new clothes, or simply getting some work done, technology usually stands as the backbone. Many people are even[addicted to their smartphones](https://www.makeuseof.com/smartphone-addiction-how-overcome-negative-habit/) or computers, which can have a huge impact on their lives.
 
  So, when AI becomes prominent across various industries, it could have a detrimental effect on mental health. For instance, an individual may opt to[use AI for their education](https://www.makeuseof.com/reasons-teachers-embrace-ai/) , work, entertainment, and other elements of their social life. This, in turn, may lead to something of an AI addiction. There are already plenty of people addicted to social media, online shopping, and online gaming today, which can often give way to feelings of anxiety and very real social and financial problems.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ### Lack of Human Contact
 
  Humans are, by nature, social beings. So, it can often be hugely beneficial to discuss your feelings with somebody else, instead of dealing with them alone.
 
  But if AI becomes increasingly used in the mental health industry, accessing face-to-face treatment, such as talking therapy, may become even more challenging than it currently is. If AI is too frequently used as a replacement for human contact, a decline in recovery rates and patient progress may occur as a result.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![hands reaching out to each other](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/hands-reaching-1.jpg)
 
  At the moment, humans are seen as much more effective at conducting therapy than machines, and this may always be the case. This is why the application of AI in the mental health field should be regulated and monitored very carefully so that patients are still receiving the best care possible.

@@ -1,7 +1,7 @@
 ---
 title: Bing Transformed with Microsoft’s Artificial Intelligence
-date: 2024-07-27 18:25:35
-updated: 2024-07-28 12:23:12
+date: 2024-08-02T15:57:53.784Z
+updated: 2024-08-03T15:57:53.784Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,9 @@ thumbnail: https://thmb.techidaily.com/04b5de1b8632b8069ff9f587e17e0dbf1c9f260b0
 
  So, what exactly is a vector database? How does it work, and when should you use them to boost AI capabilities?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## What Is a Vector Database?
 
  A vector database is a way to store information through the use of vectors. Unlike the usual form of databases that organize data as tabulated lists, vector databases organize data through high-dimensional vectors. These vectors can then be represented in mathematical space as vector embeddings.
@@ -29,10 +32,21 @@ thumbnail: https://thmb.techidaily.com/04b5de1b8632b8069ff9f587e17e0dbf1c9f260b0
 
  Vector databases are services that can easily be integrated with a pre-trained model, many of which will need an[API key to access the service](https://www.makeuseof.com/chatgpt-api-complete-guide/) .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## What Are Vector Embeddings
 
  In simple terms, vector embeddings, or simply embeddings, are numerical representations of a subject or a word. For example, a two-dimensional embedding might look like "2, -3", where 2 represents two units in the positive direction along the x-axis, while -3 represents a negative three units along the y-axis. While a three-dimensional embedding would look like "2, -3, 5", where five places the data point 5 units in the positive direction of the z-axis.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Two and three dimensional vectors](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/05/dimensional-vector.jpg)
 
  Having more dimensions provides more context to what a piece of data is supposed to be. The number of dimensions used in vector database often range from 100 to 300 dimensions for NLP and several hundred for computer vision.
@@ -45,6 +59,13 @@ thumbnail: https://thmb.techidaily.com/04b5de1b8632b8069ff9f587e17e0dbf1c9f260b0
 
  Without understanding semantics or context, an AI may provide logically correct but contextually wrong answers. For example, the AI may misinterpret the phrase "He had a heavy heart as he walked away" as a guy with a heart condition instead of a guy feeling sad or burdened.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ## How Vector Databases Help Boost AI
 
  Vector embeddings are important components in training various types of AI models. Having a specialized database that can store, index, and query vector embeddings is essential to maximize the benefits of using vector embeddings. Furthermore, vector databases boost your AI by being a fast, reliable, and scalable database that can continuously help grow and train an AI model.
@@ -58,6 +79,9 @@ thumbnail: https://thmb.techidaily.com/04b5de1b8632b8069ff9f587e17e0dbf1c9f260b0
 
 ## How a Vector Database Works
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![How vector database works](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/step-by-step.jpg)
 
  From generating vector embeddings to querying data from a vector database, your data undergoes a three-step process:
@@ -66,6 +90,11 @@ thumbnail: https://thmb.techidaily.com/04b5de1b8632b8069ff9f587e17e0dbf1c9f260b0
 2. **Indexing:** Once vector embeddings have been generated, they can now be stored on a vector database such as Pinecone, Milvus, and Chroma. These vector databases use various algorithms, such as product quantization (PQ) and locality-sensitive hashing (LSH), to index each embedding for quick and efficient storing and retrieval of data.
 3. **Querying:** When an application issues a query, the query must first go through the same vector embedding model used to generate the stored data on the vector database. The generated vector query is then placed on the vector database, where the nearest vector is then retrieved as the most fitting answer to the query.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ## Popular Vector Databases
 
  With the explosion of publicly available pre-trained models, vector databases rapidly gained popularity as expanded the capabilities and rate of fine-tuning of these models. And with such high demand for vector databases, many companies have started their own vector database services; here are some of the most popular ones:

@@ -1,7 +1,7 @@
 ---
 title: Exploring Why GPT Can't Be Tweaked Easily
-date: 2024-07-25 18:27:15
-updated: 2024-07-27 10:50:57
+date: 2024-08-02T15:58:12.866Z
+updated: 2024-08-03T15:58:12.866Z
 tags:
   - chatgpt
   - open-ai
@@ -19,14 +19,24 @@ thumbnail: https://thmb.techidaily.com/8f7510761ca720ed11b8607a0a38e0963e70a7dc5
 
  While Siri and ChatGPT are both driven by AI, that's pretty much where the similarities end. So, we'll look at how Siri and ChatGPT differ and why they're both equally useful in their own unique ways.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## Siri vs. ChatGPT: How Are They Different?
 
  The most fundamental difference between the two arises in their purpose. While ChatGPT is a language-based model with the ability to hold a human-like conversation, Siri is a virtual assistant that responds to commands and performs various tasks on Apple devices.
 
  It's safe to say both occupy completely different niches despite being run by AI. It's not much of a race if they're both playing a different sport, is it? We'll dissect some specific differences down below so that you know which is better suited for your purpose.\\
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ### Real-Time Updates
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Using Siri on an iPhone on a white table.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/siri-on-iphone-2.jpg)
 
  You may think ChatGPT is your one-stop shop for anything and everything you need, but there's one major setback you may not be aware of. ChatGPT has absolutely no real-time access to current events, and its knowledge is limited to data from September 2021 and older. So, you will not receive an answer if you try to ask for any sort of update.
@@ -49,6 +59,9 @@ thumbnail: https://thmb.techidaily.com/8f7510761ca720ed11b8607a0a38e0963e70a7dc5
 
 ### Activation
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![voice recognition homepod](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/voice-recognition-homepo.jpg)
 
  Image Credit:[Apple](https://support.apple.com/en-us/HT204753)
@@ -71,6 +84,9 @@ thumbnail: https://thmb.techidaily.com/8f7510761ca720ed11b8607a0a38e0963e70a7dc5
 
 ### Answering Your Questions
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ![A ChatGPT screenshot showing a personalized output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-personalized-responses.jpg)
 
  Siri and ChatGPT both hold power to answer your queries, albeit in slightly different ways. Put forth a question for Siri, and it will give you a short and sweet response.
@@ -81,6 +97,9 @@ thumbnail: https://thmb.techidaily.com/8f7510761ca720ed11b8607a0a38e0963e70a7dc5
 
  When ChatGPT is posed with the same questions, it will do all the hard work for you. It will run through all the data it has and give you a well-formulated answer, so you don't have to spend your time poring over large chunks of text.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Use Both Siri and ChatGPT for the Best Results
 
  While they're both great in their own ways, there's a way you can get the best of both worlds! Here's a[detailed guide of how you can use ChatGPT with Siri](https://www.makeuseof.com/how-to-use-chatgpt-with-siri-on-iphone/) , but we'll do a quick overview for you here:
@@ -93,8 +112,14 @@ thumbnail: https://thmb.techidaily.com/8f7510761ca720ed11b8607a0a38e0963e70a7dc5
 
 ![OpenAI profile options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/openai-profile-options.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![create new secret key for OpenAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/create-new-secret-key.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![copy OpenAI API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/copy-api-key.jpg)
 
 Close
@@ -110,6 +135,9 @@ Now:
 
 ![set up iOS shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/set-up-shortcut.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![paste OpenAI API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/paste-api-key.jpg)
 
 Close

@@ -1,7 +1,7 @@
 ---
 title: 6 Free Artificial Intelligence Services Similar to Sora
-date: 2024-07-24 22:46:49
-updated: 2024-07-25 10:24:19
+date: 2024-08-02T15:58:12.073Z
+updated: 2024-08-03T15:58:12.073Z
 tags:
   - chatgpt
   - open-ai
@@ -21,8 +21,14 @@ thumbnail: https://thmb.techidaily.com/a05ae5ee6982c15ff3eed9139528bca4d5df10563
 
  Your browser does not support the video tag.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 1.[Decktopus AI](https://www.decktopus.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A Screenshot of Decktopus AI s Generative Presentation Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/decktopus-ai-presentation-generator-screenshot.jpg)
 
  Decktopus is an AI-powered presentation generator that aims to simplify the process of making presentations for any situation, and getting started with it couldn't be easier. All you have to do is type out a description of what you want your presentation to be about. If you’re not sure, Decktopus can often provide some useful suggestions.
@@ -45,8 +51,14 @@ thumbnail: https://thmb.techidaily.com/a05ae5ee6982c15ff3eed9139528bca4d5df10563
 
  Alternatively, you can ask SlidesAI.io to create a presentation using just a simple title. The process here is much the same. There are also options to customize the look of SlidesAI.io within the add-on, though you can always adjust the look using Google Slides' in-built tools as well if you so wish.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3.[Tome](https://tome.app/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A Screenshot of Tome s Generative Presentation Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/tome-ai-presentation-generator-screenshot.jpg)
 
  If you’re looking for a comprehensive presentation tool full of features, then Tome might just be exactly what you’re looking for. Features such as custom themes, fonts, and logos, are all present with Tome. If you’re looking for collaborative tools or[how to make a presentation more interactive](https://www.makeuseof.com/make-presentations-interactive-google-slides-presenter-view/) , then you can find that too.
@@ -65,6 +77,9 @@ thumbnail: https://thmb.techidaily.com/a05ae5ee6982c15ff3eed9139528bca4d5df10563
 
 ## 5.[Presentations.AI](https://www.presentations.ai/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A Screenshot of Presentations AI s Generative Presentation Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/presentations-ai-presentation-generator-screenshot.jpg)
 
  Presentations.AI is an online presentation generation service that uses AI to create presentations for business. To get started, all you have to do is select an AI template, and Presentations.AI will handle the rest.
@@ -83,8 +98,14 @@ thumbnail: https://thmb.techidaily.com/a05ae5ee6982c15ff3eed9139528bca4d5df10563
 
  ChatBA supports exporting in both PPTX and PDF file types, which is great if you already work in PowerPoint or are looking to present directly and want a PDF that you can easily share or present from.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ## 7.[MagicSlides](https://www.magicslides.app)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![A Screenshot of MagicSlides AI Presentation Generation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/magicslides-ai-presentation-generator-screenshot.jpg)
 
  MagicSlides is a Google Slides add-on that aims to work like ChatGPT for your presentations. To use MagicSlides, all you have to do is enter your topic, though you can also include additional information such as reference material and instructions.

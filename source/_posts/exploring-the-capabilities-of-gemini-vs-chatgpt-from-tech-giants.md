@@ -1,7 +1,7 @@
 ---
 title: Exploring the Capabilities of Gemini Vs. ChatGPT From Tech Giants
-date: 2024-07-26 14:15:57
-updated: 2024-07-27 11:41:18
+date: 2024-08-02T15:58:26.408Z
+updated: 2024-08-03T15:58:26.408Z
 tags:
   - chatgpt
   - open-ai
@@ -25,6 +25,9 @@ thumbnail: https://thmb.techidaily.com/28fd18825089fcdfad3c1b773e77abf9c25cebff2
 
  It's safe to say both occupy completely different niches despite being run by AI. It's not much of a race if they're both playing a different sport, is it? We'll dissect some specific differences down below so that you know which is better suited for your purpose.\\
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Real-Time Updates
 
 ![Using Siri on an iPhone on a white table.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/siri-on-iphone-2.jpg)
@@ -35,8 +38,14 @@ thumbnail: https://thmb.techidaily.com/28fd18825089fcdfad3c1b773e77abf9c25cebff2
 
  Siri, on the other hand, can give you real-time updates on the weather and other things like the stock market, and its database is updated regularly, so it does not have a knowledge cutoff as old as ChatGPT does. Siri will immediately tell you the date Queen Elizabeth passed away and what the weather will be like tomorrow.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ### Engaging in Conversations
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Person Using ChatGPT on Laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/cchatgpt-on-laptop.jpg)
 
  One of the biggest reasons ChatGPT is as popular as it is today is its ability to engage in conversations, similar to how a human would converse.
@@ -49,6 +58,9 @@ thumbnail: https://thmb.techidaily.com/28fd18825089fcdfad3c1b773e77abf9c25cebff2
 
 ### Activation
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![voice recognition homepod](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/voice-recognition-homepo.jpg)
 
  Image Credit:[Apple](https://support.apple.com/en-us/HT204753)
@@ -59,6 +71,9 @@ thumbnail: https://thmb.techidaily.com/28fd18825089fcdfad3c1b773e77abf9c25cebff2
 
  However, if you want to use ChatGPT with voice and integrate it into your iPhone, there's a way, and we've explained it in detail towards the end of this article.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Executing Basic Commands
 
 ![iOS 16.2 Siri shutdown prompt on iPhone offering the Cancel and Power Off options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/apple-ios-16-2-siri-prompt-turn-off-iphone.jpg)
@@ -91,10 +106,20 @@ thumbnail: https://thmb.techidaily.com/28fd18825089fcdfad3c1b773e77abf9c25cebff2
 4. Tap**\+ Create new secret key** .
 5. Tap on the**Copy** icon in green and press**OK** to finish.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![OpenAI profile options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/openai-profile-options.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![create new secret key for OpenAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/create-new-secret-key.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![copy OpenAI API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/copy-api-key.jpg)
 
 Close
@@ -116,6 +141,9 @@ Close
 
  Now all you have to say is, "Hey Siri, launch ChatGPT 1.2.4," and the chatbot will work. You can also use shortcuts apart from the one listed above, so make sure to pick out the option you find easiest.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Siri vs. ChatGPT: Two Completely Different AI Models
 
  Siri and ChatGPT differ in their functions, their purpose, the way they work, and how they respond. Siri is a holy grail for all Apple users as it executes all your commands and performs essential tasks.

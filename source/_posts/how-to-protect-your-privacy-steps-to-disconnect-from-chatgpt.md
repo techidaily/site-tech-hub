@@ -1,7 +1,7 @@
 ---
 title: "How to Protect Your Privacy: Steps to Disconnect From ChatGPT"
-date: 2024-07-24 19:48:41
-updated: 2024-07-26 11:19:14
+date: 2024-08-02T15:57:37.766Z
+updated: 2024-08-03T15:57:37.766Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/1a71493edba37cb030611c5a8b9738f6d63a9069f
 
  But if ChatGPT isn't saving the chat history, you'll have to repeat some of your prompts all over again. So, how do you fix ChaGPT when it won't save your conversations?
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Turn On the Chat History & Training Data
 
  ChatGPT will save your previous conversations by default, so you can access them anytime. Now, if you or someone else accidentally disabled the feature, ChatGPT will no longer save any new conversations and delete the chat history.
@@ -27,6 +30,9 @@ thumbnail: https://thmb.techidaily.com/1a71493edba37cb030611c5a8b9738f6d63a9069f
 
  Head to ChatGPT and click the**three-dot** icon next to your username, followed by**Settings** **\>** **Data controls** . Hit the toggle next to**Chat history & training** so that ChatGPT will save your conversations.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ![Save your conversations on ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-history-1.jpg)
 
  You should know that this setting doesn't sync across multiple devices or browsers. So if you use ChatGPT on more than one browser or device, you'll have to enable the feature for each one.
@@ -37,12 +43,18 @@ thumbnail: https://thmb.techidaily.com/1a71493edba37cb030611c5a8b9738f6d63a9069f
 
  If you still can't figure out what's wrong with your internet connection, check out[how to fix your internet connection](https://www.makeuseof.com/how-to-fix-internet-connection/) .
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Delete Browser Cache
 
  When dealing with a website malfunction, you should try[deleting the browser cache and cookies](https://www.makeuseof.com/how-to-clear-cookies-cache-in-chrome/) . This works well because it stops your computer from using old forms, which may not be removed even if you update your browser.
 
  After you've deleted the browser cache, you might notice websites loading a bit slower. This is because your browser is rebuilding the cache, which shouldn't take long.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ## 4\. Use a Different Browser
 
  ChatGPT's inability to save your conversation might be limited to your browser. To test it, switch to another browser. If ChatGPT is working as usual, you'll have to fix your default browser.
@@ -59,8 +71,15 @@ thumbnail: https://thmb.techidaily.com/1a71493edba37cb030611c5a8b9738f6d63a9069f
 
  If you still can't get ChatGPT to save your conversation history, it's time to contact the support team. Go to OpenAI Help Center and click the**Chat** icon in the bottom-right corner. Then, click**Send us a message** and describe the ChatGPT malfunction to the support team.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ![Contact OpenAI support](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-support-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Have ChatGPT Save Your Conversations
 
  Hopefully, one or more of the methods above helped you, and now ChatGPT is saving your conversations. If nothing works, contact ChatGPT support and inform them about the problem.

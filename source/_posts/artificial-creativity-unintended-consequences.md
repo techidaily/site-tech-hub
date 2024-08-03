@@ -1,7 +1,7 @@
 ---
 title: "Artificial Creativity: Unintended Consequences?"
-date: 2024-07-26 11:25:38
-updated: 2024-07-29 10:31:37
+date: 2024-08-02T15:58:03.967Z
+updated: 2024-08-03T15:58:03.967Z
 tags:
   - chatgpt
   - open-ai
@@ -35,6 +35,9 @@ thumbnail: https://thmb.techidaily.com/b3153ec899dbcf21db1ce658bb4385472e45719d1
 
 ## 2.[SlidesAI.io](https://www.slidesai.io/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![A Screenshot of the SlidesAI io Google Slides Add-on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/slides-ai-presentation-generator-screenshot.jpg)
 
  If you’re looking for an AI presentation generator that works directly within Google Slides, then you can’t go wrong with SlidesAI.io. That's because SlidesAI.io is a Google Workspace add-on.
@@ -45,8 +48,14 @@ thumbnail: https://thmb.techidaily.com/b3153ec899dbcf21db1ce658bb4385472e45719d1
 
  Alternatively, you can ask SlidesAI.io to create a presentation using just a simple title. The process here is much the same. There are also options to customize the look of SlidesAI.io within the add-on, though you can always adjust the look using Google Slides' in-built tools as well if you so wish.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3.[Tome](https://tome.app/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![A Screenshot of Tome s Generative Presentation Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/tome-ai-presentation-generator-screenshot.jpg)
 
  If you’re looking for a comprehensive presentation tool full of features, then Tome might just be exactly what you’re looking for. Features such as custom themes, fonts, and logos, are all present with Tome. If you’re looking for collaborative tools or[how to make a presentation more interactive](https://www.makeuseof.com/make-presentations-interactive-google-slides-presenter-view/) , then you can find that too.
@@ -63,8 +72,14 @@ thumbnail: https://thmb.techidaily.com/b3153ec899dbcf21db1ce658bb4385472e45719d1
 
  As you might imagine, GPT\_PPT generates PowerPoint files. The results aren’t always the cleanest, and there’s no way to edit them from within the web page. Fortunately, you can always open them in PowerPoint to edit them yourself and tidy them up. If you already know some of[these advanced Microsoft PowerPoint features that everyone must know](https://www.makeuseof.com/advanced-microsoft-powerpoint-features/) , then making a stunning presentation out of them shouldn’t be hard.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5.[Presentations.AI](https://www.presentations.ai/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A Screenshot of Presentations AI s Generative Presentation Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/presentations-ai-presentation-generator-screenshot.jpg)
 
  Presentations.AI is an online presentation generation service that uses AI to create presentations for business. To get started, all you have to do is select an AI template, and Presentations.AI will handle the rest.
@@ -85,6 +100,9 @@ thumbnail: https://thmb.techidaily.com/b3153ec899dbcf21db1ce658bb4385472e45719d1
 
 ## 7.[MagicSlides](https://www.magicslides.app)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![A Screenshot of MagicSlides AI Presentation Generation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/magicslides-ai-presentation-generator-screenshot.jpg)
 
  MagicSlides is a Google Slides add-on that aims to work like ChatGPT for your presentations. To use MagicSlides, all you have to do is enter your topic, though you can also include additional information such as reference material and instructions.
@@ -93,6 +111,9 @@ thumbnail: https://thmb.techidaily.com/b3153ec899dbcf21db1ce658bb4385472e45719d1
 
  The looks, however, leave a little to be desired. There are options to adjust the theme when the presentation is generated, but they're not super easy to use. You can always use the theme features that are already present in Google Slides to fix this, however.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Make a Presentation Like Never Before
 
  There are plenty of AI tools out there that can create presentations for you entirely from scratch. Whether you’re looking for a presentation you can bring up at your next meeting, a way to engage your colleagues, or just a faster way of making that next slideshow, there’s an AI presentation generator out there for you.

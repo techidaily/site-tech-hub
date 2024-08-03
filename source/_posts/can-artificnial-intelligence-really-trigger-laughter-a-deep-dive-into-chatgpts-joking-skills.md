@@ -1,7 +1,7 @@
 ---
 title: Can Artificnial Intelligence Really Trigger Laughter? A Deep Dive Into ChatGPT's Joking Skills
-date: 2024-07-24 21:45:59
-updated: 2024-07-26 11:46:29
+date: 2024-08-02T15:58:09.515Z
+updated: 2024-08-03T15:58:09.515Z
 tags:
   - chatgpt
   - open-ai
@@ -27,6 +27,9 @@ thumbnail: https://thmb.techidaily.com/a1eaffde65a5d9aa5d6c9c56b7c923db02320385e
 
 The below image shows ChatGPT suggesting text corrections.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Asking ChatGPT to Edit Text and Spot Grammar Errors](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-spotting-spelling-errors.jpg)
 
  Bing Chat provides more accurate results by referencing other grammar checkers in real-time.
@@ -47,8 +50,14 @@ The below image shows ChatGPT suggesting text corrections.
 
  Many shady AI writers actually draw flak for spreading misinformation. Only use chatbots for preliminary research. Ask them to break down complex subjects before diving into academic journals and scholarly papers.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Generic AI-Generated Articles Flood SERPs
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Google Analytics Google Search Results on a Smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/google-search-results-on-smartphone.jpg)
 
  Unfortunately, you’ll find AI content ranking on Google. AI writers use the time and effort they save to improve their SEO, boosting page visibility. Some of them even utilize backlinks to fake authoritativeness.
@@ -57,6 +66,9 @@ The below image shows ChatGPT suggesting text corrections.
 
  The upside is that Google rewards well-researched content. Googlebot eventually replaces ranking AI articles that provide no added value to readers. Even results on page one could quickly drop. Just keep publishing quality pieces. You could also brush up on[Google’s helpful content guide update](https://www.makeuseof.com/tips-to-write-for-google-helpful-content-update/) to write even better.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Marketers Revamp Their SEO Strategies
 
  SEO tools often come with a steep price tag. Widely used options like[Ahrefs](https://ahrefs.com/) and[Semrush](https://semrush.sjv.io/c/119570/995972/13053?subId1=UUmuoUeUpU2024741&subId2=emuo&u=https%3A%2F%2Fwww.semrush.com%2F) could set you back by hundreds a month. The fees don’t make sense unless you run all their features.
@@ -69,8 +81,14 @@ The below image shows Bing Chat’s keyword research on AI.
 
  Since Bing Chat wasn’t designed for SEO research, you must phrase your prompts properly. Don’t just say you need SEO analytics. Ask for specific data, like top-ranking LSI keywords, search volume analytics, and market trends.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ## 5\. Content Mills Publish AI-Generated Articles in Masses
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![Asking ChatGPT to Write a 1,000 word Article on AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-writing-1-000-word-article.jpg)
 
  Content mills have always prioritized quantity over quality. But with the availability of AI-driven chatbots, they further sped up the writing process at no extra cost. It’s common for them to publish hundreds of AI content daily.
@@ -99,6 +117,9 @@ The below image shows Bing Chat’s keyword research on AI.
 
  Ultimately, the lack of variation and originality triggers plagiarism offenses. Your site’s ranking will quickly drop, and visitors won’t bother reading your blogs if they’ve already seen them elsewhere.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 8\. AI Chatbots Commodify Subpar Content
 
  As content mills bombard readers with AI-generated pieces, other publications are forced to fight back. Even global media publishers invest in writing tools nowadays. Some use them ironically, while others churn out content to stay relevant.
@@ -107,6 +128,9 @@ The below image shows Bing Chat’s keyword research on AI.
 
  Also, AI writing tools are unsustainable.[Google](https://developers.google.com/search/blog/2022/12/google-raters-guidelines-e-e-a-t) prioritizes authoritative websites that publish well-researched articles—it might start cracking down on AI content soon. It already prohibits manipulating SERP rankings with AI, after all.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ## Do AI Chatbots Positively or Negatively Impact the Content Industry?
 
  Despite all these points, you can’t just call AI chatbots a positive or negative influence on the content industry. AI is inherently unbiased. Instead of criticizing chatbots, blame writers for exploiting them. Harmful, plagiarized, and damaging output stem from human prejudices—machines only respond to input.

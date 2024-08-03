@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate FREE Way to Leverage GPT-4's Speed with Copilot: Your Guide Inside!"
-date: 2024-07-22 22:21:48
-updated: 2024-07-24 12:36:33
+date: 2024-08-02T15:57:45.425Z
+updated: 2024-08-03T15:57:45.425Z
 tags:
   - chatgpt
   - open-ai
@@ -27,6 +27,9 @@ thumbnail: https://thmb.techidaily.com/e514549e53689704682ed6ce2de6e46bd9d8c6aa0
 
  Here are the handiest ChatGPT extensions you can install for VS Code today.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 1.[ChatGPT - EasyCode](https://marketplace.visualstudio.com/items?itemName=EasyCodeAI.chatgpt-gpt4-gpt3-vscode)
 
 ![ChatGPT by EasyCode AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-by-easycode-ai.jpg)
@@ -37,8 +40,14 @@ thumbnail: https://thmb.techidaily.com/e514549e53689704682ed6ce2de6e46bd9d8c6aa0
 
  The EasyCode ChatGPT extension also features a follow-up option if your previous prompt needs further explanations. In addition to inline code autocompletion, it features single-click built-in prompts to generate responses on the go.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ## 2.[CodeGPT by Tim Kmecl](https://marketplace.visualstudio.com/items?itemName=timkmecl.codegpt3)
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![CodeGPT by Tim Kmcel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/codegpt-by-tim-kmcel.jpg)
 
  The CodeGPT extension by Tim Kmcel uses ChatGPT-3 models. So it may be less resourceful than other extensions that use GPT-3.5 and GPT-4\. It features built-in prompts that generate responses with a single click. You can also write custom prompts via the chat box if you have a more specific request.
@@ -57,8 +66,14 @@ thumbnail: https://thmb.techidaily.com/e514549e53689704682ed6ce2de6e46bd9d8c6aa0
 
  It features built-in and custom prompts. A small setback is that it only allows a maximum of 800 tokens per request, so it supports less text than some other providers.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4.[ChatGPT Helper](https://marketplace.visualstudio.com/items?itemName=kiranshah.chatgpt-helper)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![ChatGPT Helper extsnion VS Code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-helper-extsnion-vs-code.jpg)
 
  The ChatGPT Helper VS Code extension is a simple AI assistant you can add to VS Code if you only need to solve programming problems quickly. This extension is straightforward to use and only designed for accepting a limited number of built-in prompts.
@@ -77,6 +92,9 @@ thumbnail: https://thmb.techidaily.com/e514549e53689704682ed6ce2de6e46bd9d8c6aa0
 
  While using the extension, you don't need to manually copy and paste the code it generates. Genie AI will automatically write responses into relevant code files, which you can use directly in your app. You can also save your conversations locally and resume them later.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6.[ChatGPT VS Code Plugin by Jay Barnes](https://marketplace.visualstudio.com/items?itemName=JayBarnes.chatgpt-vscode-plugin)
 
 ![ChatGPT VS Code extension by Jay Barnes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-vs-code-extension-by-jay-barnes.jpg)
@@ -87,6 +105,18 @@ thumbnail: https://thmb.techidaily.com/e514549e53689704682ed6ce2de6e46bd9d8c6aa0
 
  Like other ChatGPT extensions, it features built-in prompts and accepts custom ones via the chat menu. Overall, this extension wouldn't have made our list of the best ChatGPT extensions for VS Code. But it's free and may be handy when you exhaust your free credit. However, be careful to[prevent your session from getting hijacked](https://www.makeuseof.com/what-is-session-hijacking-how-to-prevent/) .
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Use ChatGPT Productively in VS Code
 
  ChatGPT and other generative AI models have found valuable uses in our daily lives. Whether we accept them or not, they're here to stay. These AI tools are more helpful than they are threatening if you use them productively.

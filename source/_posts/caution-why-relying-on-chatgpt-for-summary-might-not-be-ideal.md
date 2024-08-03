@@ -1,7 +1,7 @@
 ---
 title: "Caution: Why Relying on ChatGPT for Summary Might Not Be Ideal"
-date: 2024-07-22 18:40:13
-updated: 2024-07-24 12:26:14
+date: 2024-08-02T15:58:10.067Z
+updated: 2024-08-03T15:58:10.067Z
 tags:
   - chatgpt
   - open-ai
@@ -39,8 +39,15 @@ Imagine you are a movie and TV show recommendation expert. A user wants to find 
 
  We used the prompt above and then asked ChatGPT to provide TV shows similar to "The Walking Dead" :
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ![Similar tv shows recommendation from ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/similar-tv-shows-recommendation-from-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. Try a Different Genre
 
  Are you tired of seeing the same genre of movies but have no clue what else you'd love? You're not alone. Fortunately, ChatGPT can help out. Simply tell ChatGPT what you’ve had enough of, and prompt it to surprise you with something radically different.
@@ -51,6 +58,9 @@ I've seen a lot of TV shows based on spy, romance, and war themes. I want you to
 
 Trying the prompt above, we had:
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![radically different TV shows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/radically-different-tv-shows.jpg)
 
 ## 3\. Identify Movies With a Desired Storyline
@@ -79,6 +89,18 @@ Below is an example of a prompt that can help you with such a request:
 
 ![ChatGPT finds movies from description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-finds-movies-from-description.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Use ChatGPT to Discover Lesser-Known or Underrated Movies
 
  There are a lot of hidden gems sitting around in the catalogs of streaming services. A number of them are better than similar titles with better publicity. ChatGPT can help you discover some of these lesser-known movies you may have overlooked.
@@ -87,6 +109,9 @@ Below is an example of a prompt that can help you with such a request:
 
 ![Underated Korean Tv series suggested by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/underated-korean-tv-series-suggested-by-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ## 6\. Research Movies Starring Your Favorite Actors
 
  You just watched an amazing TV show with an unfamiliar lead actor. You enjoyed their performance and want to see more of their movies. Or, maybe you just want to research more movies from popular actors you follow. Whichever is the case, ChatGPT can assist you with that. You can simply use prompts like:
@@ -99,12 +124,18 @@ Below is an example of a prompt that can help you with such a request:
 
 ![Action movies featuring Dwayne--The Rock--Johnson](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/action-movies-featuring-dwayne-the-rock-johnson.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Discover Movies From Short Clips
 
  Remember that frustrating moment when you watched a short movie clip on TikTok or YouTube shorts but had no idea which movie it was? It's like solving a puzzle without all the pieces. You came across an exciting scene from a movie that caught your interest, but the clip didn't provide any hints or title. Don't worry; ChatGPT is here to help.
 
  Simply share the details of the scene and the dialogue from the clip, and ask ChatGPT to provide[movie recommendations](https://www.makeuseof.com/unique-ways-to-find-film-and-tv-show-recommendations/) that match the description. While it might not always yield perfect results, you'll be amazed by the commendable effort it puts in to assist you.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ## Let ChatGPT Be Your Personal Movie Recommender
 
  Whether it's a blockbuster thriller, a heart-warming rom-com, a spine-chilling horror, or a timeless classic, ChatGPT can help you narrow down movies and TV shows that truly resonate with you.

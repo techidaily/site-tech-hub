@@ -1,7 +1,7 @@
 ---
 title: "Bulk Crafting Stunning Visuals: Integrate Canva with ChatGPT for Quick Creation"
-date: 2024-07-26 19:20:30
-updated: 2024-07-28 12:57:29
+date: 2024-08-02T15:58:23.562Z
+updated: 2024-08-03T15:58:23.562Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/1ed4f091728645649c840ae907d2be87aba494a53
 
 ## Create Stunning Visuals with These 8 DALL-E Aster Prompts
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [A Poster of Your Favorite Place](https://www.makeuseof.com/dall-e-3-best-image-prompts/#a-poster-of-your-favorite-place)
@@ -28,6 +31,9 @@ thumbnail: https://thmb.techidaily.com/1ed4f091728645649c840ae907d2be87aba494a53
 
  Learn how to create better AI-generated images in DALL-E 3 with this tried-and-tested list of prompts. You can use these prompts in numerous scenarios and play around with your own ideas and variations for optimal results. Let’s walk through the examples I’ve created.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ## 1 A Poster of Your Favorite Place
 
  There are many[websites to find unique art for your home](https://www.makeuseof.com/best-sites-find-unique-art/) , but creating one in DALL-E3 is easier and more personal. One prompt you can try is asking the platform to generate a poster of your favorite place.
@@ -38,6 +44,9 @@ thumbnail: https://thmb.techidaily.com/1ed4f091728645649c840ae907d2be87aba494a53
 
 And here is the final result:
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![An image of the NYC skyline Created with DALL-E 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-poster-image.jpeg)
 
 ## 2 Calendar Cover Artwork
@@ -52,6 +61,9 @@ I asked DALL-E 3:
 
 ![DALL-E 3 Calendar Cover](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-calendar.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ## 3 A Birthday Card Cover
 
  Will a loved one be celebrating their special day soon? Consider using AI to generate the image for a birthday card cover. I entered the following prompt:
@@ -74,6 +86,9 @@ Okay, so that didn’t go to plan…
 
  You have to be very specific with your prompts. I was relatively happy with the final result (below), but my prior prompts were perhaps too vague. I did, however, explicitly tell DALL-E 3 to correct the spelling.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![DALL-E 3 Birthday Card Cover](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-birthday-card.jpeg)
 
 ## 4 Desktop Wallpapers
@@ -84,6 +99,9 @@ Okay, so that didn’t go to plan…
 
  Below is the result, which I’m happy with. You may need to get more specific, such as asking DALL-E 3 to remove the white background.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A Desktop Background Created in DALL-E 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-desktop-background.jpeg)
 
 ## 5 Smartphone Wallpapers
@@ -98,6 +116,9 @@ So, I tried a different prompt:
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6 Music Album Covers
 
  You can find several[websites to sell your own music](https://www.makeuseof.com/tag/great-sites-to-sell-your-own-music-on/) , and a visually appealing album cover is paramount to standing out and getting recognized.
@@ -120,8 +141,14 @@ I used the following prompt:
 
  You can customize the above prompt for any landmark or genre that interests you. Below is the result I got with just one prompt. I was happy with this, and it was a much smoother process than some of the other attempts in this article.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ![A social media banner image generated with DALL-E 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-social-media-banner.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 8 Photo Album Covers
 
  Do you want to print photos you took on a recent trip? If so, why not also customize the photo album cover? You can also create physical photo album covers for other things, like images of your dogs and family.

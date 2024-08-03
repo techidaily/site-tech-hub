@@ -1,7 +1,7 @@
 ---
 title: What Is GPTBot and How Did Websites React by Blocking It?
-date: 2024-07-25 18:23:10
-updated: 2024-07-27 11:28:55
+date: 2024-08-02T15:57:34.741Z
+updated: 2024-08-03T15:57:34.741Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,9 @@ thumbnail: https://thmb.techidaily.com/c9bde50ffc9a9a68a0d89e0f0e5e46cd2e144cb4e
 
 ## 1\. Bing Chat Lists Down Its Sources
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ![Bing Chat Listing Its Sources for Outputs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bing-chat-lists-sources.jpg)
 
  Professionals are often cautious when using chatbots for research as these tools don't independently verify facts. AI only states the information in its datasets. Although it references widely trusted sources, inaccuracies may still appear occasionally.
@@ -29,10 +32,16 @@ thumbnail: https://thmb.techidaily.com/c9bde50ffc9a9a68a0d89e0f0e5e46cd2e144cb4e
 
  For easier fact-checking, use Bing Chat. Unlike ChatGPT, it lists down all its sources whenever it references claims, statistics, and trivia.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ## 2\. ChatGPT Is Available on Google Chrome
 
  You must set Microsoft Edge as your primary browser to use Bing Chat efficiently. It’s not accessible elsewhere. If you try hitting the Chat button on Bing, you’ll get a prompt asking you to install Edge.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Bing Asking User to Download Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bing-prompt-to-download-microsoft-edge.jpg)
 
  Unfortunately, Microsoft Edge is not as popular as some other web browsers. Like millions of other working adults, you probably prefer using Google Chrome. It’s the most widely used browser.[Statista](https://www.statista.com/statistics/544400/market-share-of-internet-browsers-desktop/) even reports that Google Chrome has a whopping 66.14 percent market share.
@@ -51,6 +60,9 @@ thumbnail: https://thmb.techidaily.com/c9bde50ffc9a9a68a0d89e0f0e5e46cd2e144cb4e
 
  Meanwhile, Bing Chat has access to real-time sources. The below image shows its capacity to produce comprehensive weather updates based on your location.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Bing Chat Providing a Weather Update from the Internet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bing-chat-answer-weather-question.jpg)
 
 ## 4\. Bing Chat Offers GPT-4 for Free
@@ -59,6 +71,9 @@ thumbnail: https://thmb.techidaily.com/c9bde50ffc9a9a68a0d89e0f0e5e46cd2e144cb4e
 
  ChatGPT Plus costs $20 a month. While the fees won’t make you go bankrupt, you might want to minimize your expenses if you already have other premium tools. Otherwise, your subscriptions might eat up your profits.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 5\. You Can Use Bing Chat on Different Platforms
 
 ![Using Bing Chat on Bing App for Smartphones](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bing-chat-on-mobile-1.jpg)
@@ -73,12 +88,18 @@ Close
 * **Bing Mobile:** [Bing Chat is available on iOS and Android devices](https://www.makeuseof.com/bing-egde-skype-chatpgt-android-iphone/) . The app is popular among professionals who use smartphones for work tasks, e.g., salespeople, social media managers, and eCommerce entrepreneurs.
 * **Skype:** Bing is available on Skype. Either message Bing privately or add the chatbot to your group chats. This feature is helpful if you often talk to your clients and coworkers on Skype.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. ChatGPT Has Less Rigid Restrictions
 
  If you need versatility, use ChatGPT. It follows less rigid restrictions than Bing Chat. You can even bypass certain rules by phrasing your prompts differently. Your instructions’ word choice, tone, and language drastically change output quality—keep testing prompt variations.
 
  Take the below prompt as an example. ChatGPT rejected our role-play request because Tomie is an evil fictional character.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![ChatGPT Refuses to Roleplay as Tomie the Character ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-rejects-roleplay-request-as-tomie.jpg)
 
 But it obliged after we rephrased our prompt.
@@ -93,6 +114,9 @@ But it obliged after we rephrased our prompt.
 
  Just note that some jailbreak prompts might stop working. OpenAI routinely updates its guidelines to prevent crooks from exploiting ChatGPT’s vulnerabilities.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Bing Chat Mimics Human-Like Text Better
 
  Regardless of your profession, never claim ownership of AI-generated content. AI only references third-party sources. ChatGPT rephrases information from its datasets, while Bing Chat excerpts output from relevant sites. Either way, passing them off as your own classifies as plagiarism.
@@ -106,10 +130,17 @@ But it obliged after we rephrased our prompt.
 
  The below image shows a sample cover letter by ChatGPT. It’s grammatically correct, but it also sounds stiff and awkward.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![ChatGPT Writing a Cover Letter for a Content Writer Application](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-writing-cover-letter-1.jpg)
 
 Meanwhile, Bing Chat’s phrases flow smoothly.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Bing Chat Writing Cover Letter for Content Writer Application](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bing-chat-writing-cover-letter.jpg)
 
 ## 8\. OpenAI Offers Several AI Tools

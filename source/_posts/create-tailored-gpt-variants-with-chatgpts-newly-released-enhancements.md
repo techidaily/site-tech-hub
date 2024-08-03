@@ -1,7 +1,7 @@
 ---
 title: Create Tailored GPT Variants with ChatGPT's Newly Released Enhancements
-date: 2024-07-24 20:28:26
-updated: 2024-07-26 12:59:36
+date: 2024-08-02T15:57:37.064Z
+updated: 2024-08-03T15:57:37.064Z
 tags:
   - chatgpt
   - open-ai
@@ -22,6 +22,9 @@ thumbnail: https://thmb.techidaily.com/0d5172690106aeb0b1e42f6467812ce6f42bcdb66
 * [How to Use DuckDuckGo's AI Chat](https://www.makeuseof.com/what-is-duckduckgo-private-ai-chat/#how-to-use-duckduckgo-39-s-ai-chat)
 * [What Are DuckDuckGo's AI Chat Limitations?](https://www.makeuseof.com/what-is-duckduckgo-private-ai-chat/#what-are-duckduckgo-39-s-ai-chat-limitations)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * DuckDuckGo AI Chat offers anonymous access to popular chatbots, protecting user privacy.
@@ -32,6 +35,9 @@ thumbnail: https://thmb.techidaily.com/0d5172690106aeb0b1e42f6467812ce6f42bcdb66
 
  Now, privacy-focused search engine DuckDuckGo has stepped up to provide an alternative, and its AI Chat offers anonymous access to a host of generative AI chatbots.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ## What Is DuckDuckGo AI Chat?
 
 [DuckDuckGo is well-known for its privacy-friendly search engine](https://www.makeuseof.com/why-consider-duckduckgo/) , which, unlike most other options, doesn't collect and store heaps of data as you use it. DDG is extending its push for privacy into the world of AI chatbots, as its AI Chat lets you have anonymous conversations with popular AI chat models, including OpenAI's ChatGPT 3.5 Turbo, Anthropic's Claude 3 Haiku, Mistral AI's Mixtral 8x7B, and Meta's Llama 3 70B.
@@ -50,18 +56,40 @@ thumbnail: https://thmb.techidaily.com/0d5172690106aeb0b1e42f6467812ce6f42bcdb66
 
  As noted in[DuckDuckGo's AI Chat](https://duckduckgo.com/aichat/privacy-terms?ref=spreadprivacy.com) privacy and terms of use page, the company does not store personally identifiable information. By removing metadata containing personal information like your IP address before sending your prompts to one of the third-party AI models it supports, DuckDuckGo ensures that your chats remain anonymous.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ![duckduckgo-ai-privacy-measures](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/duckduckgo-ai-privacy-measures.jpeg)
 
  In addition to anonymizing your chats, the company states that it has agreements with model providers that prevent them from using your conversations to develop or train their models and delete your chat history within 30 days. This allows you to engage with AI chatbots without worrying about being identified, making it ideal for sensitive conversations or discussing personal information.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Use DuckDuckGo's AI Chat
 
  Launch a browser of your choice and visit the[DuckDuckGo AI Chat](https://duckduckgo.com/?q=DuckDuckGo&ia=chat) website. Click****Get Started,** select your preferred AI model from the list, and click****Next**. Read the****Privacy Policy and Terms of Use** and click the****I Agree** button to proceed. You can enter your query or use one of the suggested prompts to start your anonymous conversation with the AI model.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ![DuckDuckGo's AI welcome dashboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/duckduck-ai-chat.jpeg)
 
  You can pick a different chat model at any time by clicking the name of the current model on the left of the screen and selecting another model from the list. Click****Start New Chat** to begin a conversation with the selected model. The DuckDuckGo AI Chat has a familiar interface, so if you have used other chatbots before, you will find it easy to use. Like other AI chatbots, you can ask questions, summarize text, compose emails, and more.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Are DuckDuckGo's AI Chat Limitations?
 
  It's fair to say that DuckDuckGo's AI Chat privacy-focused approach may be a double-edged sword. While it provides a sense of security and anonymity, generative AI chatbots need a vast amount of data to predict human-like responses. In addition, AI chatbots are not static; they need continuous learning and improvement through user interactions.

@@ -1,7 +1,7 @@
 ---
 title: "From Text to Images Seamlessly: Craft Your Next Masterpiece With These 8 DALL-E 3 Suggestions"
-date: 2024-07-22 18:16:50
-updated: 2024-07-25 12:18:26
+date: 2024-08-02T15:58:23.778Z
+updated: 2024-08-03T15:58:23.778Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/d08434487f817b4e37cfe7558cadbd43386d2a121
 
 ## Navigate Through the Best Free AI Image Synthesis Programs – Our Open Source Selection
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [Craiyon](https://www.makeuseof.com/best-open-source-ai-image-generators/#craiyon)
@@ -29,6 +32,9 @@ thumbnail: https://thmb.techidaily.com/d08434487f817b4e37cfe7558cadbd43386d2a121
 
 ## 1 [Craiyon](https://www.craiyon.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![craiyon-home-page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/craiyon-home-page.jpg)
 
  Craiyon is one of the most easily accessible open-source AI image generators. It's based on DALL-E Mini, and while you can clone the[Github repository](https://github.com/borisdayma/dalle-mini) and install the model locally on your computer, Craiyon seems to have dropped this approach in favor of its website.
@@ -49,12 +55,18 @@ thumbnail: https://thmb.techidaily.com/d08434487f817b4e37cfe7558cadbd43386d2a121
 
  Stable Diffusion is perhaps one of the most popular open-source text-to-image generation models. It also powers other models, including the three image generators mentioned below. It was released in 2022 and has had many implementations since.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![stable-diffusion-web-ui](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/stable-diffusion-web-ui.jpg)
 
  I'll spare you the overly technical details of how the model works (for which you can check out their[official Github repository](https://github.com/runwayml/stable-diffusion) ), but the model is easy to install even for complete beginners and works well as long as you have a dedicated GPU with at least 4GB of memory. You can also access[Stable Diffusion](https://stablediffusionweb.com/) online, and we've got you covered if you want to[run Stable Diffusion on a Mac](https://www.makeuseof.com/how-to-use-stable-diffusion-mac/) .
 
  There are several checkpoints (consider them versions) available to use for Stable Diffusion. While we tested out version 1.5,[version 2.1](https://huggingface.co/stabilityai/stable-diffusion-2-1) is also in active development and is more precise.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dreamshaper-ai-generated-image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/dreamshaper-ai-generated-image.jpg)
 
  Yadullah Abidi/MakeUseOf/DreamShaper
@@ -67,6 +79,9 @@ thumbnail: https://thmb.techidaily.com/d08434487f817b4e37cfe7558cadbd43386d2a121
 
  The model is more capable than Stable Diffusion, allowing users more freedom over the final output, ranging from lightning improvements to looser NSFW restrictions. Running the model is also easy, with a[downloadable, pre-trained version available](https://civitai.com/models/4384?modelVersionId=128713) online for local access and a host of websites, including[Sinkin.ai](https://sinkin.ai/m/4zdwGOB) ,[RandomSeed](https://randomseed.co/?id=20) , and[Mage.space](https://www.mage.space/) (requires a basic subscription) that let you run the model with GPU acceleration.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ![dreamshaper-stablediffusion-comparison](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/dreamshaper-stablediffusion-comparison.jpg)
 
  As you can probably guess by now, images generated by DreamShaper tend to look more realistic compared to Stable Diffusion. Even if you run the same prompt on both models, the DreamShaper model will likely be more realistic, detailed, and better-lit.
@@ -87,6 +102,9 @@ thumbnail: https://thmb.techidaily.com/d08434487f817b4e37cfe7558cadbd43386d2a121
 
  However, the extra control does bring a few limitations, most notably stricter hardware requirements. InvokeAI recommends a dedicated GPU with at least 4GB of memory, with six to eight GB recommended for running the XL variant. The VRAM requirements apply to both AMD and Nvidia GPUs. You'll also need at least 12GB of RAM and 12GB of free disk space for the model, its dependencies, and Python.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![invoke-ai-generated-image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/invoke-ai-generated-image.jpg)
 
  Yadullah Abidi/MakeUseOf/InvokeAI  
@@ -107,6 +125,9 @@ thumbnail: https://thmb.techidaily.com/d08434487f817b4e37cfe7558cadbd43386d2a121
 
  Openjourney doesn't list any specific hardware requirements for running the model locally on its website, but you can expect similar hardware requirements to Stable Diffusion. This means a dedicated GPU with 4GB VRAM, 16GB RAM, and around 12 to 15GB of free space on your computer to save the model and its dependencies.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ![openjourney-ai-generated-image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/openjourney-ai-generated-image.jpg)
 
  Yadullah Abidi/MakeUseOf/OpenJourney

@@ -1,7 +1,7 @@
 ---
 title: "Safeguard Your AI: Exploring the Risks of Information Leakage via Neural Network Model Inversion Attacks on Chatbots"
-date: 2024-07-25 22:49:20
-updated: 2024-07-27 11:22:30
+date: 2024-08-02T15:58:05.947Z
+updated: 2024-08-03T15:58:05.947Z
 tags:
   - chatgpt
   - open-ai
@@ -37,12 +37,21 @@ thumbnail: https://thmb.techidaily.com/c9771ef48189c5657c46cc55dbf30e5b22c5c13c4
 
  Take the below text about cats as an example. You won’t spot any basic errors like typos, missing punctuation marks, or misspelled words. It’s a relatively decent piece.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT Generated a 200-Word Article on Cats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-article-on-cats.jpg)
 
  Now, compare it with the below photo. You’ll notice that the response follows the exact template, although this one talks about dogs.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT Generated a 200-Word Article on Dogs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-article-about-dogs.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ## 3\. Overdependence on AI Makes You a Lazy Researcher
 
  AI has further simplified “research.” Instead of combing through Google search results, you can just ask chatbots and writing tools. They’ll provide brief, concise answers.
@@ -51,6 +60,10 @@ thumbnail: https://thmb.techidaily.com/c9771ef48189c5657c46cc55dbf30e5b22c5c13c4
 
  Before writing, make sure you study your subject. Extensive research is the core of every well-written piece—spend at least 30 to 60 minutes reading online sources. You can provide value by comparing resources, laying down verified facts, and asserting well-founded conclusions. Simply paraphrasing what chatbots say is senseless.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ## 4\. AI Scrapes Commonly Published Information
 
 ![Copy.ai Generates an Article on Taking Care of Dogs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/copy-ai-article-on-dogs.jpg)
@@ -63,12 +76,18 @@ thumbnail: https://thmb.techidaily.com/c9771ef48189c5657c46cc55dbf30e5b22c5c13c4
 
  Of course, you can still discuss general subjects. Just make sure you cover a unique angle or stand that aligns with your branding and image.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ## 5\. AI Generates the Same Results for Similar Questions
 
  While AI scans billions of resources, its answers contain the same information. Chatbots and writing tools generate formulaic text comprising repeated data, regardless of how you state questions. Restructuring prompts will only trigger sentence variations.
 
  For more accurate insights, double-check facts by visiting reputable, credible resources. Also, compare differing opinions. There are several ways to approach topics—you don’t have to copy the story angles of your AI tools.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. AI Can’t Adopt Your Tone
 
 ![ChatGPT Generates Dog Articles in Different Tones](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-dog-articles-examples.jpg)
@@ -97,6 +116,9 @@ thumbnail: https://thmb.techidaily.com/c9771ef48189c5657c46cc55dbf30e5b22c5c13c4
 
  Writers have differing opinions about the morality of publishing AI content and plagiarism, but as a respectable professional, you should do your own research. Never risk plagiarizing content. Study the topics for yourself, draw logical conclusions, then convey them in your own words.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Use AI Chatbots Responsibly
 
  Treat AI like a tool, not a content production department. Always remember that writing tools check for neither plagiarism nor factual accuracy. Publishing AI-generated pieces as is will plummet your site’s SERP ranking, hurt your credibility, and diminish your writing quality. It’s also hard to shake off the reputation of being a lazy, AI-dependent writer.

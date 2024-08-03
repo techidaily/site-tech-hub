@@ -1,7 +1,7 @@
 ---
 title: Best AI Sidekicks for Everyday Life – Is It Claude or ChatGPT?
-date: 2024-07-24 12:35:20
-updated: 2024-07-27 12:42:26
+date: 2024-08-02T15:58:11.085Z
+updated: 2024-08-03T15:58:11.085Z
 tags:
   - chatgpt
   - open-ai
@@ -35,6 +35,15 @@ We'll be using Claude 1.3 and Claude 2 in this comparison.
 
  ChatGPT's two most recent versions, GPT-3.5 and GPT-4, can be used, though the latter is only available via ChatGPT Plus. GPT-4 has far more parameters than GPT-3.5 and a higher character input and output limit. Again, both iterations of ChatGPT will be discussed here.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ## ChatGPT vs. Claude: a Quick Comparison
 
  Before discussing ChatGPT and Claude's pros and cons in depth, we've provided a simple comparison table that you can use to understand the basics.
@@ -51,6 +60,9 @@ We'll be using Claude 1.3 and Claude 2 in this comparison.
 
 As you can see, there are several differences to consider.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## ChatGPT's Pros and Cons
 
  In what ways does ChatGPT outshine Claude? What perks and advantages does it boast?
@@ -93,6 +105,9 @@ Additionally, ChatGPT has a wide range of browser plugins, including:
 
 So, how does Claude compare to ChatGPT?
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Claude's Pros
 
  There are some[ways in which Claude outshines ChatGPT](https://www.makeuseof.com/ways-claude-ai-chatbot-better-than-chatgpt/) , which we'll get into here.
@@ -121,6 +136,9 @@ So, how does Claude compare to ChatGPT?
 
  To further understand how these two AI chatbots and their respective LLMs work, let's provide each with the same prompts to see how they react.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 1\. Creative Abilities
 
  First, we asked both Claude and ChatGPT to provide us with a poem using the same prompt each time.
@@ -131,20 +149,32 @@ So, how does Claude compare to ChatGPT?
 
  ChatGPT's poem was a little shorter, highlighting that it followed the requested ABAB rhyming structure.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![claude poem prompt chat screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-poem-prompt.jpg)
 
  On the other hand, Claude provided a slightly lengthier poem, but both are fairly equal in their creative abilities.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Mathematical Abilities
 
  We also asked both ChatGPT and Claude to solve a mathematical equation. Both chatbots were given the same trigonometry question, which involved finding the value of an angle.
 
  ChatGPT's response took us through the equation step-by-step instead of just providing the answer.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![screenshot of chatgpt trigonometry prompt response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-trig-1.jpg)
 
 When given the same problem, Claude gave us the following response:
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![screenshot of claude response to trigonometry prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-trig-1.jpg)
 
  Interestingly, both chatbots gave different outcomes, with ChatGPT providing the correct answer.

@@ -1,7 +1,7 @@
 ---
 title: Four Desired Improvements for the Next Generation AI, GPT-5
-date: 2024-07-23 21:16:29
-updated: 2024-07-25 10:32:37
+date: 2024-08-02T15:58:03.649Z
+updated: 2024-08-03T15:58:03.649Z
 tags:
   - chatgpt
   - open-ai
@@ -29,6 +29,9 @@ thumbnail: https://thmb.techidaily.com/7893aa47861abae86c2201349f48204a58f66be5a
 
  Still, no matter the due date, there are a few key features we want to see when GPT-5 launches.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is OpenAI's GPT-5?
 
  GPT-5 is the highly anticipated successor to OpenAI's GPT-4 AI model, widely expected to be the most powerful generative model in the market. While there is currently no official release date for GPT-5, there are indications it could be released as early as the summer of 2024\. Very little detail about the model is known at this time, but several things can be said with some amount of certainty:
@@ -49,9 +52,15 @@ thumbnail: https://thmb.techidaily.com/7893aa47861abae86c2201349f48204a58f66be5a
 
  So, for GPT-5, we expect to be able to play around with videos—upload videos as prompts, create videos on the go, edit videos with text prompts, extract segments from videos, and find specific scenes from large video files. We expect to be able to do similar things to audio files. It's a big ask, yes. But given how fast AI development is, it's a very reasonable expectation.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Larger and More Efficient Context Window
 
-![Monitor on a desk with OpenAI logo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-analyze-your-local-documents-with-langchain-and-chatgpt-featured-image.jpg)
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Monitor on a desk with OpenAI logo](https://thmb.techidaily.com/0d605cbff29d9fac95ea636e3f1dc6722b73dcac2e7b43e02dacf71b94afcc8e.jpg)
 
  Ralf Jhetner Borja/[flickr](https://www.flickr.com/photos/198726053@N04/53043766807/)
 
@@ -61,9 +70,16 @@ thumbnail: https://thmb.techidaily.com/7893aa47861abae86c2201349f48204a58f66be5a
 
  You see, a model might have a one million token context window (around 700,000 words capacity) but fail to produce a comprehensive summary when asked to summarize a 500,000-word book because it can't adequately process the entirety of the context despite having the capacity to do so in theory. That you can read a 500k-word book does not mean you can recall everything in it or process it sensibly.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## 3\. GPT Agents
 
-![ChatGPT accessed on a smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/muo-chatgpt-mentions-fi.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![ChatGPT accessed on a smartphone](https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51ce8909742113d79362ddfedd.jpg)
 
  Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/vancouver-canada-jan-23-2024-webpage-2417500449)
 
@@ -79,6 +95,9 @@ thumbnail: https://thmb.techidaily.com/7893aa47861abae86c2201349f48204a58f66be5a
 
  So, if GPT-5 ships with GPT Agents, you could ask it to "build a portfolio website for Maxwell Timothy" rather than just "write me a code for the homepage." GPT-5 would then theoretically be able to self-prompt by invoking expert AI agents to handle the various subtasks needed to build a website. It might invoke one GPT to scrap the web for information on Maxwell Timothy, another agent to write the code for different pages, another agent to generate and optimize images, and even another AI agent to deploy the site, all without the need for repeated human prompting.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. Less Hallucination
 
  Although OpenAI has come a long way in dealing with hallucinations in its AI models, the true litmus test for GPT-5 will be its ability to address the persistent issue of hallucinations, which has held back the widespread adoption of AI in high-stakes, safety-critical domains like healthcare, aviation, and cybersecurity. These are all areas that would benefit heavily from heavy AI involvement but are currently avoiding any significant adoption.

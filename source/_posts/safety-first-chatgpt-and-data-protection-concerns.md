@@ -1,7 +1,7 @@
 ---
 title: "Safety First: ChatGPT & Data Protection Concerns"
-date: 2024-07-26 18:39:14
-updated: 2024-07-29 11:18:44
+date: 2024-08-02T15:58:00.036Z
+updated: 2024-08-03T15:58:00.036Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,9 @@ thumbnail: https://thmb.techidaily.com/aef9f8cb7b85429cf28cb38f2d49cc0528e1c43a7
 
  More importantly, we need to look ahead and decode how our experience with the search engines we’ve acquainted ourselves with for so many years will change in the future.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## What Is the Microsoft Prometheus Model?
 
  Microsoft has branded Bing and the Edge browser as your AI copilot for the web. Undoubtedly, the new [AI-powered Bing packs some huge upgrades](http://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/) , but it’s essential to understand how they’re made possible.
@@ -33,28 +36,44 @@ thumbnail: https://thmb.techidaily.com/aef9f8cb7b85429cf28cb38f2d49cc0528e1c43a7
 
  The Prometheus model powers the new Bing to deliver summarized search results that are more relevant and can even answer composite search queries.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## A New Generation of AI for Web Searching
 
  As a result of Bing’s AI transition, web searching will fundamentally change. In the near future, we won’t have to explore a list of potentially relevant results aimlessly. Instead, AI chatbots will give us the precise information we need to be styled in a format of your choosing.
 
  For instance, if you had to do homework for Science class, you’d typically end up querying Google for information related to your topic. The search engine would then return you a list of sites it thinks are relevant to your specific search query, and finally, you’d explore some of the top-ranked sites to get accurate and relevant information.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Google app on the home screen of a smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/best-google-fi-phones.jpg)
 
  On the AI-powered Bing, you can specifically query it to give you a list of important points related to your Science class, and Bing will provide you with precisely that. You won’t have to explore multiple retrieved search results. Instead, you can rest assured that Bing has all the correct answers you need, thanks to its AI-powered search algorithm.
 
  You can also use Bing as your AI chatbot and query it for simple questions like “What’s the weather going to be like in two weeks?” and even complex queries such as “I enjoyed Coachella, what similar music festivals should I visit?”. If you’re not satisfied with Bing’s answer, you can ask it to refine the response per your needs.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ## A New Era for Web Browsers as Well?
 
  Web browsers such as Google Chrome and Microsoft Edge are used to surf the web. They allow you to access webpages on the internet, view multimedia content on sites such as YouTube and Netflix, access your email inbox, play games, and more. With all the AI advancements in the web domain, it's crucial to consider the impact it could have on web browsers and how we access the web.
 
-![Icons of multiple web browsers on a wooden board background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-clear-dns-cache-in-chrome-edge-firefox-safari-and-opera-browser.jpg)
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Icons of multiple web browsers on a wooden board background](https://thmb.techidaily.com/fa206782af9b714e31a62f7ae5d0a20ed9b7932652ed0826ec0104cd05df9774.jpg)
 
  While we’re certainly still a long way from seeing web browsers go obsolete, but we can expect functional upgrades that make it easy to access AI-powered web searching and content generation. Perhaps other browsers, such as Chrome and Opera, will adopt something similar to Edge’s new AI sidebar.
 
 [Google is expected to release its Bard competitor](https://www.makeuseof.com/google-launching-bard-ai-compete-with-chatgpt/) to Microsoft’s AI-powered Bing very soon. Once it’s launched and possibly integrated with Google Chrome, we’ll have a better idea of how web browsers will evolve in the coming future.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Bing Redefines Searching Using AI
 
  Microsoft has redefined the web searching experience with Bing’s new AI capabilities. While change can sometimes be messy, AI-powered searching has revolutionized how we access the internet for the better.

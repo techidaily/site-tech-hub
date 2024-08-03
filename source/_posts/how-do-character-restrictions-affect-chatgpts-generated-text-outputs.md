@@ -1,7 +1,7 @@
 ---
 title: How Do Character Restrictions Affect ChatGPT's Generated Text Outputs?
-date: 2024-07-26 21:41:32
-updated: 2024-07-27 10:26:13
+date: 2024-08-02T15:57:43.113Z
+updated: 2024-08-03T15:57:43.113Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,9 @@ thumbnail: https://thmb.techidaily.com/ca106d3a1759df91ff994491e604d7b2503de3936
 
 ## 1\. My AI Runs on GPT-3.5
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Snapchat Logo on top of Blurred OpenAI Logos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-and-openai-logo.jpg)
 
  Snapchat uses the same[large language model](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) (LLM) as ChatGPT. The GPT model is a powerful LLM that composes coherent paragraphs, adopts different writing styles, and uses everyday language. Its output almost seems indistinguishable from human writing.
@@ -49,12 +52,23 @@ Close
 
 Close
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. My AI Can Pull Real-Time Information
 
  My AI has some access to real-time data. Although it has trouble answering specific questions about current events, it can quickly pull general information online, such as weather forecasts, news headlines, and local events.
 
  Here’s My AI providing the weather forecast for Manila, Philippines. Google and Snapchat use different units of measurement, but they’re essentially the same after conversion.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Asking Snapchat About the Weather Tomorrow in Manila](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/manila-weather-forecast-snapchat.jpg)
 
 ![Searching the Weather Forecast for Manila on Google](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/manila-weather-forecast-google.jpg)
@@ -67,8 +81,14 @@ Close
 
  Snapchat offers helpful location-based services. It can tell you which establishments and landmarks are near your current location.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Asking Snapchat About Nearby Gas Stations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-location-test.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![Snapchat Suggesting Nearby Gas Stations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-location-suggestions.jpg)
 
 Close
@@ -81,14 +101,24 @@ Close
 
  While Bard AI and Bing Chat use more advanced LLMs than Snapchat, My AI surprisingly does well in Math.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Asking Snapchat a Probability and Statistics Math Problem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-word-problem-probability.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Asking Snapchat a Riddle About Family Relatives](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-riddle-family-relatives.jpg)
 
 Close
 
  Try rephrasing word problems that My AI answers wrong. You’ll generate better output if you compose clear, detailed prompts—avoid vague phrasing.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## 6\. Snapchat Continuously Updates My AI
 
  Snapchat unexpectedly joined the AI race. Initial users responded poorly to My AI—it faced backlash for its faulty training and restrictions.[The Washington Post](https://www.washingtonpost.com/technology/2023/03/14/snapchat-myai/) even showed the chatbot providing harmful advice.
@@ -97,6 +127,9 @@ Close
 
  Snapchat also adds new features consistently. Take My AI’s image prompting feature as an example. The chatbot is getting way better at recognizing images, even ones you take yourself. Meanwhile, other chatbots have yet to adopt image prompting.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## Try Snapchat’s New AI Assistant
 
  My AI was initially limited to Snapchat+ subscriptions. But Snapchat has made the chatbot available for free users.

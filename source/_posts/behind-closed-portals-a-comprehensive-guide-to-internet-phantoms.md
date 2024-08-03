@@ -1,7 +1,7 @@
 ---
 title: "Behind Closed Portals: A Comprehensive Guide to Internet Phantoms"
-date: 2024-07-27 18:21:54
-updated: 2024-07-29 12:35:27
+date: 2024-08-02T15:57:57.038Z
+updated: 2024-08-03T15:57:57.038Z
 tags:
   - chatgpt
   - open-ai
@@ -35,8 +35,14 @@ thumbnail: https://thmb.techidaily.com/d64a92b374563fd7f8dd564ef2b564a68a3b72b9d
 
  These free travel planning apps use AI and machine-learning tools like ChatGPT to prepare an itinerary for you in a few seconds, and we took them for a spin.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1.[Layla](https://justasklayla.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ![layla ai trip planner](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/layla-ai-trip-planner.png)
 
  Layla describes itself as an AI trip planner, meaning you can use it to decide your vacation destination, create itineraries, and find suitable hotels and flights.
@@ -49,6 +55,18 @@ thumbnail: https://thmb.techidaily.com/d64a92b374563fd7f8dd564ef2b564a68a3b72b9d
 
 ## 2.[Wonderplan](https://wonderplan.ai/)
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wonderplan website screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/wonderplan-screenshot.jpg)
 
  Wonderplan is a wonderful AI tool for planning your trip. To create your itinerary, Wonderplan first asks you to enter your destination country and city, your budget, the number of days you'll be staying, and your interests.
@@ -71,6 +89,9 @@ thumbnail: https://thmb.techidaily.com/d64a92b374563fd7f8dd564ef2b564a68a3b72b9d
 
  However, if the suggested itinerary doesn't sound appealing, you can again enter a prompt to edit it.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4.[iplan.ai](https://iplan.ai/)
 
  While iplan.ai doesn't mention which AI or machine-learning algorithm it uses, the results are fantastic enough to gloss over that. The app works beautifully on phones to give you a full itinerary for any one city at a time, depending on how many days you have there.
@@ -87,6 +108,9 @@ thumbnail: https://thmb.techidaily.com/d64a92b374563fd7f8dd564ef2b564a68a3b72b9d
 
 ## 5.[Curiosio](https://curiosio.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Curiosio is a roadtrip planning app based on AI that gives you several parameters to refine your journey before plotting a route based on your interests](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/travel-planning-ai-apps-generate-itinerary-curiosio.jpg)
 
  The easiest last-minute travel plan is to get into a car and drive. Curiosio specializes in helping you plan an itinerary for a road trip to several major countries on all continents. It doesn't cover every single place, but the existing collection is impressive enough.
@@ -99,6 +123,9 @@ thumbnail: https://thmb.techidaily.com/d64a92b374563fd7f8dd564ef2b564a68a3b72b9d
 
 ## 6.[Trip Planner AI](https://tripplanner.ai/)
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![trip planner ai screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/trip-planner-ai-screenshot.png)
 
  Trip Planner AI plans a perfect trip to your dream destination. Begin creating your itinerary by entering the city you wish to visit and traveling dates. You can add multiple destinations here.
@@ -109,6 +136,9 @@ thumbnail: https://thmb.techidaily.com/d64a92b374563fd7f8dd564ef2b564a68a3b72b9d
 
  Finally, Trip Planner AI generates a detailed itinerary, a map, and basic information about the city you're visiting. For each destination, it provides the details of the place, expected traveling time, and cost. Though it provides a complete plan for your trip, you can manually add or remove activities from your itinerary. You can also invite your friends to edit the itinerary and download it as a PDF.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7.[Vacay Chatbot](https://www.usevacay.com/chatbot)
 
 ![vacay chatbot screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/vacay-chatbot-screenshot.png)

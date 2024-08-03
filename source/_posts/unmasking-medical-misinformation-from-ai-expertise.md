@@ -1,7 +1,7 @@
 ---
 title: Unmasking Medical Misinformation From AI Expertise
-date: 2024-07-26 11:18:11
-updated: 2024-07-29 11:16:21
+date: 2024-08-02T15:57:50.990Z
+updated: 2024-08-03T15:57:50.990Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/3ae6340df4d4c49e0276be718794a66a7c17d49d4
 
 ## 1\. ChatGPT Email Scams
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![picture of mail app icon on iphone menu screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/iphone-mail-1.jpg)
 
  Email has been used as a scam vector for many years, be it to spread malware, blackmail victims, or steal valuable information. Now, ChatGPT's name is being used in email scams to trick recipients.
@@ -29,6 +32,9 @@ thumbnail: https://thmb.techidaily.com/3ae6340df4d4c49e0276be718794a66a7c17d49d4
 
  In general, using ChatGPT to write phishing emails can streamline the scam process for cybercriminals, which may cause phishing attacks to grow in frequency overall.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. Fake ChatGPT Browser Extensions
 
 ![chatgpt open on computer monitor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-open-monitor.jpg)
@@ -41,8 +47,14 @@ thumbnail: https://thmb.techidaily.com/3ae6340df4d4c49e0276be718794a66a7c17d49d4
 
  So, it's crucial that you verify the legitimacy of a ChatGPT extension before downloading it. Also keep an eye out for discrete differences in the names of extensions, as a malicious extension can be listed under a very similar name in order to trick users.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 3\. Fake ChatGPT Apps
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![app store application open on smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/app-store-smartphone.jpg)
 
  Like browser extensions, cybercriminals can also use ChatGPT's name to spread malicious apps. Malicious apps are nothing new and have been used for years to deploy malware, steal data, and monitor device activity. Now, ChatGPT's well-known name is being used to push malicious apps.
@@ -51,6 +63,9 @@ thumbnail: https://thmb.techidaily.com/3ae6340df4d4c49e0276be718794a66a7c17d49d4
 
  To keep yourself safe from these apps, it's important to do background research on any given kind of software program to see if it has a positive reputation, or any reputation at all. Even if an app looks enticing, it's not worth the installation if you can't verify whether it is safe. Stick to trusted app stores and check user reviews before downloading any kind of app.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## 4\. Malware Created by ChatGPT
 
 ![black skull and bones flag on laptop screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/malware-on-laptop.jpg)
@@ -63,6 +78,9 @@ thumbnail: https://thmb.techidaily.com/3ae6340df4d4c49e0276be718794a66a7c17d49d4
 
 ## 5\. ChatGPT Phishing Sites
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ![Hacker phishing data from a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/hacker-phishing-data.jpg)
 
  Phishing attacks are often conducted using malicious websites. These sites are designed to log the keystrokes you enter so that valuable data can be stolen and exploited.

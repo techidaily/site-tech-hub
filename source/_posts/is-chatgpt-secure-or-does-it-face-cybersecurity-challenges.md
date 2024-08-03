@@ -1,7 +1,7 @@
 ---
 title: Is ChatGPT Secure, or Does It Face Cybersecurity Challenges?
-date: 2024-07-26 11:11:38
-updated: 2024-07-29 11:41:11
+date: 2024-08-02T15:57:35.554Z
+updated: 2024-08-03T15:57:35.554Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/d10946fd797c909f3b766507ccc413e54b73231c6
 
  So, with all these concerns, is OpenAI losing control of one of the most potent AI chatbots currently online? Let's find out.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## Understanding How ChatGPT Works
 
 ![a robot with a brain representing artificial intelligence](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/artificial-intelligence.jpg)
@@ -49,14 +53,23 @@ thumbnail: https://thmb.techidaily.com/d10946fd797c909f3b766507ccc413e54b73231c6
 
  Take a look at some examples below. If you ask ChatGPT how to cheat in exams, it will not produce any helpful response.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![How to cheat in an exams by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-cheat-in-an-exams.jpg)
 
  But if you jailbreak ChatGPT using specially-crafted prompts, it will give you tips on cheating on an exam using concealed notes.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![How to smuggle a hidden notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-smuggle-a-hidden-notes.jpg)
 
  Here's another example: we asked the vanilla ChatGPT an unethical question, and OpenAI's safeguards stopped it from answering.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![hide a dead body by chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/hide-a-dead-body-by-chatgpt.jpg)
 
  But when we asked our jailbroken instance of the AI chatbot, we got some serial-killer-styled responses.
@@ -65,6 +78,9 @@ thumbnail: https://thmb.techidaily.com/d10946fd797c909f3b766507ccc413e54b73231c6
 
 It even wrote a classic Nigerian Prince email scam when asked.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ![Nigerian prince scam email](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/nigerian-prince-scam-email.jpg)
 
  Jailbreaking almost completely invalidates any safeguards that OpenAI has put in place, highlighting that the company might not have a reliable way to keep its AI chatbot under control.
@@ -73,6 +89,9 @@ It even wrote a classic Nigerian Prince email scam when asked.
 
 ## What Does the Future Hold for ChatGPT?
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Robot Machine Technology](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/robot.jpg)
 
  Ideally, OpenAI wants to plug as many ethical loopholes as possible to prevent[ChatGPT from becoming a cybersecurity threat](https://www.makeuseof.com/chatgpt-cybersecurity-threat/) . However, for every safeguard it employs, ChatGPT tends to become a bit less valuable. It's a dilemma.

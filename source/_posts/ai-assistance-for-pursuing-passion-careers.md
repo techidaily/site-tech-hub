@@ -1,7 +1,7 @@
 ---
 title: AI Assistance for Pursuing Passion Careers
-date: 2024-07-27 23:19:25
-updated: 2024-07-28 10:58:57
+date: 2024-08-02T15:57:36.468Z
+updated: 2024-08-03T15:57:36.468Z
 tags:
   - chatgpt
   - open-ai
@@ -25,6 +25,9 @@ thumbnail: https://thmb.techidaily.com/94e07137a13ad182683de85211bfdf3891ed8a395
 
 ## 1\. ChatGPT Has Limited Knowledge
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Pig-to-heart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/pig-to-heart.jpg)
 
  ChatGPT does not know everything. According to OpenAI, ChatGPT has limited knowledge, particularly when it comes to what happened after September 2021\.
@@ -33,6 +36,9 @@ thumbnail: https://thmb.techidaily.com/94e07137a13ad182683de85211bfdf3891ed8a395
 
  Therefore, it cannot get current news on developments in medical fields. Yes, ChatGPT is unaware of the pig-to-human heart transplant or any other very recent breakthroughs in medical science.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. ChatGPT May Produce Incorrect Information
 
  ChatGPT can answer the questions you ask, but the responses can be inaccurate or biased. According to a [PLoS Digital Health](https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000198) study, ChatGPT performed with at least 50% accuracy across all USMLE examinations. And while it exceeded the 60% passing threshold in some aspects, there is still the possibility of error.
@@ -41,6 +47,9 @@ thumbnail: https://thmb.techidaily.com/94e07137a13ad182683de85211bfdf3891ed8a395
 
  Because ChatGPT cannot independently research or verify material, it cannot differentiate between fact and fiction. Respected medical journals, including the Journal of the American Medical Association (JAMA), have established strict regulations that only humans can write scientific studies published in the journal. As a result, [you should constantly fact-check ChatGPT's responses](https://www.makeuseof.com/fact-check-health-information-chatgpt-ai-sources/).
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. ChatGPT Does Not Physically Examine You
 
  Medical diagnoses are not solely dependent on symptoms. Physicians can gain insights into the pattern and severity of an illness through a patient's physical examination. In order to diagnose patients, doctors today use both medical technologies and the five senses.
@@ -49,6 +58,9 @@ thumbnail: https://thmb.techidaily.com/94e07137a13ad182683de85211bfdf3891ed8a395
 
 ## 4\. ChatGPT Can Provide False Information
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT False Response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-false-response.jpg)
 
  A recent study by the [University of Maryland School of Medicine](https://www.medschool.umaryland.edu/news/2023/UM-School-of-Medicine-Study-Finds-ChatGPT-Helpful-for-Breast-Cancer-Screening-Advice-With-Certain-Caveats-.html) on ChatGPT's advice for breast cancer screening found the following results:
@@ -61,10 +73,16 @@ thumbnail: https://thmb.techidaily.com/94e07137a13ad182683de85211bfdf3891ed8a395
 
 ## 5\. ChatGPT Is Just an AI Language Model
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT Medical](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-medical.jpg)
 
  Language models function by memorizing and generalizing text rather than examining or studying a patient's condition. Despite generating responses that match human standards in terms of language and grammar, [ChatGPT still contains a number of problems](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/), much like other AI bots.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## ChatGPT Is Not a Replacement for Your Doctor
 
  Human doctors will always be needed to make the final call on healthcare decisions. ChatGPT usually advises speaking with a licensed healthcare practitioner when you ask for medical advice.

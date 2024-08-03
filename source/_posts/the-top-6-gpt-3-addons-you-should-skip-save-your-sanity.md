@@ -1,7 +1,7 @@
 ---
 title: The Top 6 GPT-3 Addons You Should Skip - Save Your Sanity!
-date: 2024-07-22 16:25:15
-updated: 2024-07-24 11:42:16
+date: 2024-08-02T15:58:13.558Z
+updated: 2024-08-03T15:58:13.558Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/88b9d1a1839e87bc852a7b88397e12987972348fa
 
  If you're an iPhone user, you're probably curious about the features OpenAI has baked into its app. Below, we'll discuss everything you can get in the ChatGPT iOS app that puts it a notch above its website.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ## 1\. Voice Input
 
  Voice input has probably been the most anticipated feature ever since the launch of ChatGPT, and it's finally available in the iOS app through OpenAI's open-source speech recognition system called Whisper. While you can already[use Whisper in Windows to turn voice into speech](https://www.makeuseof.com/dictate-documents-openai-whisper/) , it's a first for iOS devices.
@@ -29,10 +32,16 @@ thumbnail: https://thmb.techidaily.com/88b9d1a1839e87bc852a7b88397e12987972348fa
 
  To use voice input in the app, all you have to do is tap on the microphone icon in the**Message** bar, and your recording will begin. Tap anywhere in the blue area to stop recording, and the app will automatically convert your words into text. Then, tap the**blue arrow** to send your message.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![tap to stop recording on chatGPT iOS app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/tap-to-stop-recording-on-chatgpt-ios-app.jpg)
 
 ![converting to text prompt on iOS app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/converting-to-text-prompt-on-ios-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ![voice to text conversation in chatGPT iOS app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/voice-to-text-conversation-in-chatgpt-ios-app.jpg)
 
 Close
@@ -45,6 +54,9 @@ Close
 
  Due to its simplistic design, people from all age groups can easily begin using the app without much need for intensive learning and practice.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![ChatGPT opening page on iOS app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-opening-page-on-ios-app.jpg)
 
 ![chatGPT menu on iOS app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-menu-on-ios-app.jpg)
@@ -53,6 +65,10 @@ Close
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ## 3\. Change Your Preferred Language for Speech
 
  If introducing voice input wasn't enough to be a step ahead of everyone else in the AI race, this feature certainly seals the deal. Not only can you now use speech to interact with ChatGPT, but you can do so in more than 35 different languages, with more to come as time passes.
@@ -65,8 +81,14 @@ Close
 2. Select**Main Language** under**Speech** . It will be set to**Auto-Detect** by default.
 3. Now, choose your preferred language.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![chatGPT menu on iOS app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-menu-on-ios-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![haptic feedback toggle on and main language option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/haptic-feedback-toggle-on-and-main-language-option.jpg)
 
 ![different languages available in chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/different-languages-available-in-chatgpt.jpg)
@@ -95,10 +117,16 @@ Close
 
  The ChatGPT app also syncs your chat history across other compatible Apple devices, like your iPad, allowing you to access it from anywhere.[Deleting your ChatGPT history](https://www.makeuseof.com/how-to-delete-your-chatgpt-history/) is possible on both the website and the app.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ![viewing chatGPT history while offline in iOS app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/viewing-chatgpt-history-while-offline-in-ios-app.jpg)
 
 ![chatGPT old conversation while offline](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-old-conversation-while-offline.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![search chatGPT history offline in app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/search-chatgpt-history-offline-in-app.jpg)
 
 Close
@@ -115,6 +143,9 @@ Close
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ChatGPT's iOS App Makes a Statement
 
  Rated number one on the App Store's Productivity charts just days after its launch, OpenAI's ChatGPT app for iOS has been an incredible hit among Apple users. You can download the app on your iPhone and iPad from the App Store and sync your conversations across your devices.

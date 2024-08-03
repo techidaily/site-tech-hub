@@ -1,7 +1,7 @@
 ---
 title: Ready for a Challenge? Dive Into ChatGPT’s Selection of the 6 Greatest Games
-date: 2024-07-26 20:57:12
-updated: 2024-07-28 10:51:55
+date: 2024-08-02T15:57:37.865Z
+updated: 2024-08-03T15:57:37.865Z
 tags:
   - chatgpt
   - open-ai
@@ -21,8 +21,14 @@ thumbnail: https://thmb.techidaily.com/3269c858221e8ab75b91d65fc2cbdc3bf0d972fb5
 
  So, with all these concerns, is OpenAI losing control of one of the most potent AI chatbots currently online? Let's find out.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Understanding How ChatGPT Works
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![a robot with a brain representing artificial intelligence](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/artificial-intelligence.jpg)
 
  Before we can get a clear picture of how much OpenAI is losing control of ChatGPT, we must first understand[how ChatGPT works](https://www.makeuseof.com/how-does-chatgpt-work/) .
@@ -35,8 +41,14 @@ thumbnail: https://thmb.techidaily.com/3269c858221e8ab75b91d65fc2cbdc3bf0d972fb5
 
  So, from the onset, you have an AI capable of "good and evil." It's then the responsibility of OpenAI to ensure that ChatGPT's "evil" side is not exploited for unethical gains. The question is; is OpenAI doing enough to keep ChatGPT as ethical as possible? Or has OpenAI lost control of ChatGPT?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Is ChatGPT Too Powerful for Its Own Good?
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![plastic robot with blue face](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/plastic-robot-with-blue-face.jpg)
 
  In the early days of ChatGPT, you could get the chatbot to create guides on making bombs if you asked nicely. Instructions on making malware or writing a perfect scam email were also in the picture.
@@ -61,10 +73,16 @@ thumbnail: https://thmb.techidaily.com/3269c858221e8ab75b91d65fc2cbdc3bf0d972fb5
 
  But when we asked our jailbroken instance of the AI chatbot, we got some serial-killer-styled responses.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Hide dead body options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/hide-dead-body-options.jpg)
 
 It even wrote a classic Nigerian Prince email scam when asked.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![Nigerian prince scam email](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/nigerian-prince-scam-email.jpg)
 
  Jailbreaking almost completely invalidates any safeguards that OpenAI has put in place, highlighting that the company might not have a reliable way to keep its AI chatbot under control.

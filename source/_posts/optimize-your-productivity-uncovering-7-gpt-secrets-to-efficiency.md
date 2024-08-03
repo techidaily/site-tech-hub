@@ -1,7 +1,7 @@
 ---
 title: "Optimize Your Productivity: Uncovering 7 GPT Secrets to Efficiency"
-date: 2024-07-22 13:57:41
-updated: 2024-07-24 11:26:13
+date: 2024-08-02T15:58:24.373Z
+updated: 2024-08-03T15:58:24.373Z
 tags:
   - chatgpt
   - open-ai
@@ -22,6 +22,9 @@ thumbnail: https://thmb.techidaily.com/0e850e00d907836de022b6a5493d7e424fd91aaca
 * [Getting Started With Microsoft Copilot on Your Mac](https://www.makeuseof.com/how-to-get-microsoft-copilot-on-mac/#getting-started-with-microsoft-copilot-on-your-mac)
 * [The Benefits of Using Copilot Over ChatGPT](https://www.makeuseof.com/how-to-get-microsoft-copilot-on-mac/#the-benefits-of-using-copilot-over-chatgpt)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Mac users can install Microsoft Copilot in two ways: through the App Store on Apple silicon Macs or as a web app on Intel Macs.
@@ -30,8 +33,14 @@ thumbnail: https://thmb.techidaily.com/0e850e00d907836de022b6a5493d7e424fd91aaca
 
  Microsoft doesn't offer a native Mac app for Copilot, but Mac users can still install the popular chatbot on their computers. There are two ways to get Copilot on a Mac, and you can even launch it at the press of a button.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Install Microsoft Copilot From the Mac App Store
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Microsoft Copilot on the App Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/microsoft-copilot-on-the-app-store.jpg)
 
  If you have an Apple silicon Mac, you're in luck because you can install and run the iPad version of Microsoft Copilot on your computer. Here's how:
@@ -45,19 +54,31 @@ thumbnail: https://thmb.techidaily.com/0e850e00d907836de022b6a5493d7e424fd91aaca
 
  Double-click its icon to start using Copilot right away. Jump to the**Getting Started** section below to get acquainted with the app.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ### How to Launch Copilot on Mac With a Keyboard Shortcut
 
  If adding Copilot to the Dock isn't convenient enough, and you'd like to launch Microsoft's AI chatbot at the press of a button, you can create a custom shortcut using the Shortcuts app in macOS:
 
 1. Launch the built-in**Shortcuts** app on your Mac. You'll see it in the Launchpad inside the**Other** folder. Alternatively,[use Spotlight search on your Mac](http://www.makeuseof.com/spotlight-search-on-mac-beginners-guide/) (**Command + Space** ) to find it.
 2. Select**All Shortcuts** from the left sidebar and click the**plus (+)** button in the toolbar at the top of the window to create a new shortcut.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Adding a new shortcut in macOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/adding-a-new-shortcut-in-macos.jpg)
 3. Drag the**Open App** action from the right sidebar to the empty space on the left.
 4. Click the blue**App** field and use the search bar to find and select**Copilot** .  
 ![Creating a simple Open app shortcut to quickly open Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/creating-a-simple-open-app-shortcut-to-quickly-open-copilot.jpg)
 5. Next, switch to the**Info (i)** tab of the sidebar and click**Add Keyboard Shortcut** .  
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Assigning a custom keyboard shortcut to launch Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/assigning-a-custom-keyboard-shortcut-to-launch-copilot.jpg)
 6. Now, enter a key combination you like, but make sure it doesn't overlap with any other[useful Mac keyboard shortcuts](https://www.makeuseof.com/tag/useful-mac-osx-shortcuts-pdf/) . Then, hit the**Return** key.  
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Assigning a custom keyboard shortcut to run Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/assigning-a-custom-keyboard-shortcut-to-run-copilot.jpg)
 
  You can now exit the Shortcuts app and enter the keyboard shortcut you added to quickly launch Microsoft Copilot on your Mac, no matter what you're doing.
@@ -90,6 +111,9 @@ thumbnail: https://thmb.techidaily.com/0e850e00d907836de022b6a5493d7e424fd91aaca
 
  You can clear your Copilot search history by heading to the app's privacy settings menu.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## The Benefits of Using Copilot Over ChatGPT
 
  The biggest advantage of using Microsoft's AI chatbot over OpenAI's ChatGPT offering is that you can[access GPT-4 for free](https://www.makeuseof.com/ways-access-gpt-4-free/) . This means you can include images in your queries, take advantage of DALL·E 3 art generation, install third-party plugins to expand Copilot's feature set, and more.

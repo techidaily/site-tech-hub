@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Acquires Blizzard Entertainment: Insights on AI-Generated Art & Machine Translation in Latest Podcast"
-date: 2024-07-21 15:32:53
-updated: 2024-07-24 10:26:53
+date: 2024-08-02T15:57:58.312Z
+updated: 2024-08-03T15:57:58.312Z
 tags:
   - chatgpt
   - open-ai
@@ -55,6 +55,9 @@ thumbnail: https://thmb.techidaily.com/d1e396e3c497492ee5cb72e95e743dcb132cd92c3
 
  You can adjust each prompyour chosen languageosing, and ChatGPT will do the rest.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ### 2\. Declare the Type of Text
 
  Another important factor that can increase the accuracy of your translation is outright declaring the kind of text you're trying to translate. For example, is it an idiom, a song, a financial document, or an ordinary text? Simply letting ChatGPT know what you're trying to translate gives the chatbot an edge toward providing more accurate translations.
@@ -66,6 +69,13 @@ thumbnail: https://thmb.techidaily.com/d1e396e3c497492ee5cb72e95e743dcb132cd92c3
 
  The prompts above or similar ones help ChatGPT use relevant or industry-specific context when generating a translation. Although ChatGPT sometimes recognizes the right niche words to use for translation, you'll have to explicitly prompt it to do so using type declaration in some cases.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ### 3\. Use Style Transfer
 
  Sometimes, when translating text, the translation might be too technical or simply inappropriate for the target audience. Using style transfer in ChatGPT can help adjust the tone and style of a translation to match the target audience or industry. So, if you're translating a legal document, the translation could retain the author's original meaning while using more layman's wording. In the example below, I translated a soccer commentary from Spanish to English, first without style transfer and then using style transfer.
@@ -74,6 +84,9 @@ thumbnail: https://thmb.techidaily.com/d1e396e3c497492ee5cb72e95e743dcb132cd92c3
 
  The translation above uses the closest English equivalent of the corresponding Spanish words, while the one below uses words suitable for an audience not acquainted with soccer terms. However, it is interesting to note that both translations are considered accurate.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![An English translation using style transfer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/an-english-translation-using-style-transfer.jpg)
 
  To use style transfer when translating, use prompts like:
@@ -84,6 +97,10 @@ thumbnail: https://thmb.techidaily.com/d1e396e3c497492ee5cb72e95e743dcb132cd92c3
 
  You might have to tweak and adjust the style you want, but the possibilities are effectively endless.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ### 4\. Account for Regional Differences
 
  Some words may have different meanings or connotations depending on the region or country of the speaker. For instance, the English sentence "I'm going to play football" could translate to "我要去踢足球 (Wǒ yào qù tī zúqiú)" in Chinese. While this seems like a perfect translation, if the speaker was American, the translation could be wrong. By saying "football," an American speaker would likely be referring to the rugby-style sport called American football instead of the football known by the rest of the world.
@@ -92,10 +109,25 @@ thumbnail: https://thmb.techidaily.com/d1e396e3c497492ee5cb72e95e743dcb132cd92c3
 
  We prompted ChatGPT to translate "I'm going to play football" into Chinese. As expected, it produced "我要去踢足球 (Wǒ yào qù tī zúqiú)." In Chinese, "zúqiú" means "football," which refers to soccer rather than the rugby-style sport.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT translation accounting for regional differences in meaning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-translation-accounting-for-regional-differences-in-meaning.jpg)
 
  We repeated the translation prompt but added hints about the speaker's origin and possible intent. ChatGPT changed the translation to "我要去踢橄榄球 (Wǒ yào qù tī gǎnlǎnqiú)," this time using "gǎnlǎnqiú" which is the Chinese term for American football and better reflects the potential intent of the speaker.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ### 5\. Use Summarized Translation
 
  Sometimes, you don't want to read the entirety of a text. You just want to understand the message the author or speaker is trying to convey. ChatGPT is one of the few translation tools you can rely on for situations like this.Fort a summarized translation, ask ChatGPT to provide a "summarized" or "condensed" translation of the target text. Some prompts examples include:
@@ -119,10 +151,16 @@ thumbnail: https://thmb.techidaily.com/d1e396e3c497492ee5cb72e95e743dcb132cd92c3
 
  You can also make ChatGPT translations more accurate by providing several large texts and their verified translations. You can then prompt ChatGPT to deduce the right translation of words and phrases from the provided samples and apply it when translating text involving a similar language pair. While you can use significantly longer texts to fine-tune ChatGPT translations, below is a short illustration of how it works using a short paragraph.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ![Providing a parralel corpus of text for ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/providing-a-parralel-corpus-of-text-for-chatgpt.jpg)
 
  We achieved improved translation with every prompt without taking any further steps.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 7\. Use Custom Instructions for Consistency in Translations
 
  If you use ChatGPT for translation frequently, one of the most frustrating limitations you'll experience is having to provide certain translation instructions every time you start a new chat. Fortunately, [ChatGPT's Custom Instructions feature](https://www.makeuseof.com/what-is-chatgpt-custom-instructions-feature/) can help solve that problem. The feature allows you to create reusable translation instructions that ChatGPT will remember across all future conversations. You can use it to specify your preferred translation style just once, and ChatGPT will then apply automatically whenever you ask ChatGPT to translate something.
@@ -141,6 +179,9 @@ thumbnail: https://thmb.techidaily.com/d1e396e3c497492ee5cb72e95e743dcb132cd92c3
 
  You can get ChatGPT to translate while retaining at least some semblance of its original artistic or comic value. This can be achieved by instructing ChatGPT to retain its original form, preferably by providing an example ChatGPT can learn from. In the example in the screenshot below, we asked ChatGPT to translate some Spanish sentences while preserving the sense of humor, playfulness, rhyming, or creativity and staying true to the original meaning.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Translation that preserves linguistic form](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/translation-that-preserves-linguistic-form.jpg)
 
  Of course, this is not a perfect translation example, but with a few prompt tweaks, there's more to achieve.

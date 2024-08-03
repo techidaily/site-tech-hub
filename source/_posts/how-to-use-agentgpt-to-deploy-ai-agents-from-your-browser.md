@@ -1,7 +1,7 @@
 ---
 title: How to Use AgentGPT to Deploy AI Agents From Your Browser
-date: 2024-07-21 16:57:10
-updated: 2024-07-24 11:26:44
+date: 2024-08-02T15:58:28.737Z
+updated: 2024-08-03T15:58:28.737Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,9 @@ thumbnail: https://thmb.techidaily.com/6816402dd23c56a105ec64bc0a33bec17942a9ec3
 
  At the time of writing, OpenAI hasn't released an official app for ChatGPT on the Chrome Web Store or the Microsoft Store. Please be cautious while searching for any purported ChatGPT app on these and other app marketplaces.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Run ChatGPT as a Windows App Using Edge
 
  Microsoft Edge offers an**Install this site as an app** feature. It lets you run web pages as standalone native Windows apps. Since ChatGPT is only available as a web app, you can install the AI chatbot website as an app on your computer. It looks and works similarly to the web version, except you don't see any web elements such as bookmarks, tabs, etc.
@@ -29,6 +32,9 @@ To add ChatGPT as a Windows app using Edge:
 
 1. Go to the[ChatGPT page](https://chat.openai.com/chat) on the Edge browser and sign in with your account credentials.
 2. Next, click the t**hree-dots menu** to access the browser menu.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ![install this site as an app chatgpt edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-this-site-as-an-app-chatgpt-edge.jpg)
 3. Go to**Apps** and select**Install this site as an app** .  
 ![install chatgpt app windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-chatgpt-app-windows.jpg)
@@ -46,6 +52,9 @@ To add ChatGPT as a Windows app using Edge:
 
 ### Uninstall the ChatGPT Web App on Edge
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![uninstall chatgpt edge app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-chatgpt-edge-app.jpg)
 
 1. Press the**Win** key and type**ChatGPT** .
@@ -58,9 +67,16 @@ To add ChatGPT as a Windows app using Edge:
 
 1. In Google Chrome, navigate to the[ChatGPT page](https://chat.openai.com/chat) and sign in with your account.
 2. Click the**three-dots menu** in the top right corner.  
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![chatgpt create chrome shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-create-chrome-shortcut.jpg)
 3. Select**More Tools** and then**Create Shortcut** .
 4. Enter a name in the**Create shortcut** popup.  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ![chatgpt create chrome shortcut create](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-create-chrome-shortcut-create.jpg)
 5. Select the**Open as window** option. Without this, the ChatGPT shortcut will open the site in a new Chrome window instead of in its standalone window.
 6. Click**Create** to finish.
@@ -69,6 +85,9 @@ To add ChatGPT as a Windows app using Edge:
 
  If you want to uninstall the Chrome shortcut for ChatGPT, here’s how to do it:
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![uninstall chrome shortcut chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-chrome-shortcut-chatgpt.jpg)
 
 1. Press the**Win** key and type**ChatGPT** .
@@ -110,6 +129,9 @@ Here’s how to run the unofficial ChatGPT project on Windows:
 
  Once done, you might also want to delete the setup file from the Downloads folder in File Explorer.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Install ChatGPT as a Windows App
 
  Adding ChatGPT as a Windows app lets you access the app in a standalone window. This removes the hassle of visiting the site frequently to use the service.

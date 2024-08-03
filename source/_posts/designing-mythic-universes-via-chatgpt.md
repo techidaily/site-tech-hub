@@ -1,7 +1,7 @@
 ---
 title: Designing Mythic Universes via ChatGPT
-date: 2024-07-24 14:48:35
-updated: 2024-07-26 11:13:48
+date: 2024-08-02T15:58:04.661Z
+updated: 2024-08-03T15:58:04.661Z
 tags:
   - chatgpt
   - open-ai
@@ -17,8 +17,14 @@ thumbnail: https://thmb.techidaily.com/2b3cfba87301486dbbd741d1b746c08f2612d6801
 
  ChatGPT has become a mainstream tool around the world, offering an AI chatbot service to billions. But the popularity of this chatbot is now being capitalized upon by cybercriminals looking to swindle unsuspecting users. So, what kinds of ChatGPT scams should you be looking out for?
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. ChatGPT Email Scams
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![picture of mail app icon on iphone menu screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/iphone-mail-1.jpg)
 
  Email has been used as a scam vector for many years, be it to spread malware, blackmail victims, or steal valuable information. Now, ChatGPT's name is being used in email scams to trick recipients.
@@ -43,6 +49,9 @@ thumbnail: https://thmb.techidaily.com/2b3cfba87301486dbbd741d1b746c08f2612d6801
 
 ## 3\. Fake ChatGPT Apps
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![app store application open on smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/app-store-smartphone.jpg)
 
  Like browser extensions, cybercriminals can also use ChatGPT's name to spread malicious apps. Malicious apps are nothing new and have been used for years to deploy malware, steal data, and monitor device activity. Now, ChatGPT's well-known name is being used to push malicious apps.
@@ -53,6 +62,9 @@ thumbnail: https://thmb.techidaily.com/2b3cfba87301486dbbd741d1b746c08f2612d6801
 
 ## 4\. Malware Created by ChatGPT
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![black skull and bones flag on laptop screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/malware-on-laptop.jpg)
 
  There's been a lot of talk about AI and cybercrime in recent years, as many are concerned this technology may make it easier for malicious actors to scam and attack victims.
@@ -61,8 +73,14 @@ thumbnail: https://thmb.techidaily.com/2b3cfba87301486dbbd741d1b746c08f2612d6801
 
  This malware was not highly complex, and no severely dangerous malware, such as ransomware, has been identified as a product of ChatGPT. But ChatGPT's ability to write even simple malware programs opens a door to people who want to get into cybercrime but do not have much, or any, technical expertise. In any case, this new AI-powered capability may prove to be a big issue in the near future.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. ChatGPT Phishing Sites
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ![Hacker phishing data from a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/hacker-phishing-data.jpg)
 
  Phishing attacks are often conducted using malicious websites. These sites are designed to log the keystrokes you enter so that valuable data can be stolen and exploited.

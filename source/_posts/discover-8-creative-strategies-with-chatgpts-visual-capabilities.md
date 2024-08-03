@@ -1,7 +1,7 @@
 ---
 title: Discover 8 Creative Strategies with ChatGPT's Visual Capabilities
-date: 2024-07-27 21:54:18
-updated: 2024-07-29 11:51:54
+date: 2024-08-02T15:57:39.841Z
+updated: 2024-08-03T15:57:39.841Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,10 @@ thumbnail: https://thmb.techidaily.com/57a4dd5881ee89a7ccb05cda2bbc7d01f9c197463
 
 ## Create Stunning Visuals with These 8 DALL-E Aster Prompts
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [A Poster of Your Favorite Place](https://www.makeuseof.com/dall-e-3-best-image-prompts/#a-poster-of-your-favorite-place)
@@ -38,6 +42,9 @@ thumbnail: https://thmb.techidaily.com/57a4dd5881ee89a7ccb05cda2bbc7d01f9c197463
 
 And here is the final result:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ![An image of the NYC skyline Created with DALL-E 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-poster-image.jpeg)
 
 ## 2 Calendar Cover Artwork
@@ -50,8 +57,14 @@ I asked DALL-E 3:
 
  When I asked DALL-E 3 the first time around, it gave me “20225” instead of “2025.” So, you might need to request grammatical corrections. And remember to use the image size format that your calendar will follow.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ![DALL-E 3 Calendar Cover](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-calendar.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3 A Birthday Card Cover
 
  Will a loved one be celebrating their special day soon? Consider using AI to generate the image for a birthday card cover. I entered the following prompt:
@@ -74,6 +87,9 @@ Okay, so that didn’t go to plan…
 
  You have to be very specific with your prompts. I was relatively happy with the final result (below), but my prior prompts were perhaps too vague. I did, however, explicitly tell DALL-E 3 to correct the spelling.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ![DALL-E 3 Birthday Card Cover](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-birthday-card.jpeg)
 
 ## 4 Desktop Wallpapers
@@ -84,8 +100,14 @@ Okay, so that didn’t go to plan…
 
  Below is the result, which I’m happy with. You may need to get more specific, such as asking DALL-E 3 to remove the white background.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![A Desktop Background Created in DALL-E 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-desktop-background.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 5 Smartphone Wallpapers
 
  If you want a unique smartphone wallpaper, you can experiment with DALL-E 3 and see what it comes up with. I first asked DALL-E 3 to give me a smartphone wallpaper in 16:9 format, but despite asking multiple times, the AI did not remove the images of an actual smartphone (see the first and second images at the bottom of this section).
@@ -98,6 +120,9 @@ So, I tried a different prompt:
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 6 Music Album Covers
 
  You can find several[websites to sell your own music](https://www.makeuseof.com/tag/great-sites-to-sell-your-own-music-on/) , and a visually appealing album cover is paramount to standing out and getting recognized.
@@ -122,6 +147,9 @@ I used the following prompt:
 
 ![A social media banner image generated with DALL-E 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-social-media-banner.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ## 8 Photo Album Covers
 
  Do you want to print photos you took on a recent trip? If so, why not also customize the photo album cover? You can also create physical photo album covers for other things, like images of your dogs and family.

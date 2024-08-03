@@ -1,7 +1,7 @@
 ---
 title: Crafting One-of-a-Kind AI Pictures Using Microsoft's Innovative Image Creator Tool
-date: 2024-07-27 13:50:58
-updated: 2024-07-28 12:47:25
+date: 2024-08-02T15:57:39.820Z
+updated: 2024-08-03T15:57:39.820Z
 tags:
   - chatgpt
   - open-ai
@@ -27,6 +27,9 @@ thumbnail: https://thmb.techidaily.com/cf4cfca74e707c3edc4a37fda10a303db8db8787c
 
  Try “write an edgy sonnet about going to the movies with your best friend” for a laugh.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT edgy sonnet example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-edgy-sonnet-example.jpg)
 
  It can also generate acrostic poems, or ones in which the first letter of each line spells out a word.
@@ -35,8 +38,15 @@ thumbnail: https://thmb.techidaily.com/cf4cfca74e707c3edc4a37fda10a303db8db8787c
 
  The language bot does appear to struggle with free verse or unrhymed poetry in general (at this time). It appears partial to end rhymes, or at least close rhymes.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT unrhymed poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-unrhymed-poem.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ## 2\. Find Rhymes
 
  You can also use the app to find perfect, imperfect, and more varieties of rhymes for different words. It's a playful way to expand your rhyming options for verses.
@@ -45,6 +55,9 @@ thumbnail: https://thmb.techidaily.com/cf4cfca74e707c3edc4a37fda10a303db8db8787c
 
  It's also a helpful tool for finding matches for words that are notoriously difficult to rhyme.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT rhyme feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-rhyme-feature.jpg)
 
 ## 3\. Check Poetic Meter
@@ -53,6 +66,9 @@ thumbnail: https://thmb.techidaily.com/cf4cfca74e707c3edc4a37fda10a303db8db8787c
 
 Simply prompt ChatGPT to scan the poem, then paste in your verses.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT scans a Robert Frost poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-scans-a-robert-frost-poem.jpg)
 
  You can ask the bot follow-up questions about the scansion, as well as poetic form.
@@ -63,10 +79,16 @@ Simply prompt ChatGPT to scan the poem, then paste in your verses.
 
 ![ChatGPT explanation of Frost poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-explanation-of-frost-poem.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Generate Story Ideas
 
  ChatGPT really shines as an idea generator for just about any genre of story. Prompt it to “give me 20 story ideas for a sci-fi tale about space travel and adventure.”
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT sci fi story ideas](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-sci-fi-story-ideas.jpg)
 
 You'll get a huge list of ideas to spark your creativity.
@@ -77,6 +99,9 @@ You'll get a huge list of ideas to spark your creativity.
 
  You can also get the app to use specific authors for inspiration, too. For instance, prompt it to “provide 15 story ideas in the style of Hemingway about choosing a new pet” or “provide 12 ideas for love stories in the style of Philip K. Dick.”
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ![ChatGPT story ideas similar to Hemingway](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-story-ideas-similar-to-hemingway.jpg)
 
  The app keys in on each author's familiar themes and styles to construct these inspiring (and sometimes a bit bizarre) story ideas.
@@ -97,6 +122,10 @@ You'll get a huge list of ideas to spark your creativity.
 
  It’s fun to see what changes appear, and it’s an instructive practice in customizing your work for different audiences.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ## 6\. Overcome Writer’s Block
 
  Use ChatGPT to find the right word, rephrase sentences, and generally overcome some of the common hurdles associated with writer’s block. If you get stuck on one sentence, for instance, then you can prompt the chatbot to rephrase it a number of different ways.
@@ -109,12 +138,18 @@ You'll get a huge list of ideas to spark your creativity.
 
  In addition, you can ask the bot to help with whatever is keeping you from writing, whether that's getting started or taking your story to the next chapter.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT mystery story plot twist ideas](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-mystery-story-plot-twist-ideas.jpg)
 
  In this instance, the chatbot offers some ideas for mystery story plot twists. You can also get more specific and ask it for "unexpected plot twists" or similar prompts.
 
  In many ways, ChatGPT can help you overcome the biggest hurdle for plenty of writers: the blank page (or screen).
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Caveats About Using ChatGPT for Creative Writing
 
  Although ChatGPT is an amazing tool with impressive storytelling abilities, it's important to use the chatbot responsibly.
@@ -127,6 +162,9 @@ You'll get a huge list of ideas to spark your creativity.
 
  Lastly, remember that your own memories and experiences can’t be generated by AI, so tap into them for your creative writing. ChatGPT is an excellent tool, but it can’t tell your stories for you.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Boost Your Creative Writing Skills With ChatGPT
 
  Whether you're writing fiction, poetry, journal entries, blog posts, or other nonfiction content, ChatGPT offers a wide array of guidance for writers. Dig deeper into poetic forms, find the word that's on the tip of your tongue, and generate endless story ideas with help from the popular AI chatbot. With a little help from ChatGPT, you may never have to stare down a blank screen again.

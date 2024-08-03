@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT Evolved: Discover the Features That Matter Most"
-date: 2024-07-24 14:40:35
-updated: 2024-07-26 12:49:56
+date: 2024-08-02T15:57:41.896Z
+updated: 2024-08-03T15:57:41.896Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc
 
 ## Ultimate Guide: Discover the 5 Most Effective GitHub Copilot Alternatives for VS Code
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Install ChatGPT extensions for VS Code to access AI assistance within your programming environment. It covers various coding needs like unit testing, debugging, documentation, code explanation, and code generation.
@@ -29,6 +32,9 @@ thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc
 
 ## 1.[ChatGPT - EasyCode](https://marketplace.visualstudio.com/items?itemName=EasyCodeAI.chatgpt-gpt4-gpt3-vscode)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT by EasyCode AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-by-easycode-ai.jpg)
 
  The ChatGPT extension by EasyCode is a readily available way to get AI assistance via different language models. It supports ChatGPT-3.5 and ChatGPT-4, with the option to switch between them easily. The extension also supports[Claude AI an alternative to ChatGPT](https://www.makeuseof.com/what-is-claude-ai-why-use-it/) . If your OpenAI account includes premium features from GPT-4, you can also add your API key for extended use.
@@ -39,6 +45,9 @@ thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc
 
 ## 2.[CodeGPT by Tim Kmecl](https://marketplace.visualstudio.com/items?itemName=timkmecl.codegpt3)
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![CodeGPT by Tim Kmcel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/codegpt-by-tim-kmcel.jpg)
 
  The CodeGPT extension by Tim Kmcel uses ChatGPT-3 models. So it may be less resourceful than other extensions that use GPT-3.5 and GPT-4\. It features built-in prompts that generate responses with a single click. You can also write custom prompts via the chat box if you have a more specific request.
@@ -47,8 +56,14 @@ thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc
 
  Another valuable feature is code indexing, allowing you to highlight your code and seek help in navigating complex situations. This extension requires an OpenAI API key, which you'll set in its settings menu after installation. However, the extension may fail if you’ve exhausted your free OpenAI credit.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3.[Code GPT](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Code GPT 4 interface VS Code extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/code-gpt-4-interface-vs-code-extension.jpg)
 
  Code GPT offers a more inclusive AI service for VS Code. Although its default AI model choice comes from OpenAI's ChatGPT-3.5 and ChatGPT-4, it also features[ChatGPT alternatives](https://www.makeuseof.com/best-alternatives-chatgpt/) , including Cohere, AI21, Google's Bard, and Anthropic, among others.
@@ -67,8 +82,23 @@ thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc
 
  However, unlike other ChatGPT extensions, it doesn't have a chat feature. But you can send custom and built-in prompts via VS Code's command palette. It writes responses in separate text files, allowing you to save prompt replies for later.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 5.[ChatGPT - Genie AI](https://marketplace.visualstudio.com/items?itemName=genieai.chatgpt-vscode)
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Genie AI ChatGPT extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/genie-ai-chatgpt-extension.jpg)
 
  The ChatGPT extension by Genie AI has a better aesthetic, featuring built-in prompts in a more relatable interface. It supports GPT-3, GPT-3.5, and GPT-4\. And like many ChatGPT extensions mentioned previously, it also requires an OpenAI API key.

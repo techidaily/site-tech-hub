@@ -1,7 +1,7 @@
 ---
 title: "Unleashing Creativity: How ChatGPT’s New Feature Enables Fully Tailored GPT Model Generation"
-date: 2024-07-23 23:41:42
-updated: 2024-07-26 11:16:17
+date: 2024-08-02T15:57:34.715Z
+updated: 2024-08-03T15:57:34.715Z
 tags:
   - chatgpt
   - open-ai
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/543a8e6d7f06f3d9129829edd8982dbf9c6a6048e
 
  OpenAI has officially launched its long-awaited ChatGPT Plugins to ChatGPT Plus users.After months of speculation regarding the internet-connected Plugins, OpenAI has pushed its Plugins live, allowing Plus users to choose whether to turn them on or not using a new Beta feature.Connecting ChatGPT to the internet has been a long-standing request for millions of ChatGPT users, and now, the moment is here.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## OpenAI Rolls Out Web Browsing and Plugins to ChatGPT Plus Users
 
  Late on May 12, 2023, an[OpenAI blog post revealed](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) that ChatGPT's Plugin feature would become available to ChatGPT Plus users.
@@ -25,6 +28,9 @@ thumbnail: https://thmb.techidaily.com/543a8e6d7f06f3d9129829edd8982dbf9c6a6048e
 
 > If you are a ChatGPT Plus user, enjoy early access to experimental new features, which may change during development. We’ll be making these features accessible via a new beta panel in your settings, which is rolling out to all Plus users over the course of the next week.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Are ChatGPT Plugins?
 
  ChatGPT Plugins are internet-connected tools specifically designed to extend ChatGPT's functionality.
@@ -47,6 +53,9 @@ That's not all, though.
 
  For example, I asked ChatGPT: "Who is the current leader of the F1 World Championship?"
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![chatgpt web browsing search may 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023.jpg)
 
 ![chatgpt web browsing search may 2023 looking for examples](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023-looking-for-examples.jpg)
@@ -59,16 +68,25 @@ Close
 
  I then asked if ChatGPT Plus with Web Browsing could provide a list of the current F1 World Championship rankings, which it did without any extra prompting:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![chatgpt web browsing search may 2023 f1 world champs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023-f1-world-champs.jpg)
 
  On both occasions, ChatGPT provided a source for its information, and on both occasions, it was accurate.
 
  Now, these aren't the most challenging data searches, but it shows that ChatGPT's Web Browsing tool is up and running proper.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ## How to Enable ChatGPT Plugins and Web Browsing
 
  You can enable ChatGPT Plugins and Web Browsing using the new Beta Features Settings options.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![chatgpt beta tools may 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-beta-tools-may-2023.jpg)
 
 1. Head to your**Settings** in the bottom left-hand corner of the ChatGPT screen

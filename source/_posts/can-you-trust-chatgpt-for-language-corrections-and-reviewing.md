@@ -1,7 +1,7 @@
 ---
 title: Can You Trust ChatGPT for Language Corrections and Reviewing?
-date: 2024-07-26 17:42:37
-updated: 2024-07-29 10:53:20
+date: 2024-08-02T15:58:06.196Z
+updated: 2024-08-03T15:58:06.196Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,9 @@ thumbnail: https://thmb.techidaily.com/192f81e62d92a192c6756d4acefa6e25619bd0109
 
  Let's see how these improvements perform as we check out Google Bard vs. ChatGPT.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ChatGPT vs. Google Bard: Comparing the Underlying Technology
 
  Both rely on large language models (LLMs) to generate their "human-like" responses.
@@ -44,6 +47,9 @@ Let's look at both models in action and analyze their performance.
 
  Signing up for both tools is simple, although the Google Bard country restriction is inconvenient. However, it may be possible to[circumvent these restrictions using a VPN](https://www.makeuseof.com/tag/7-completely-free-vpn-services-protect-privacy/) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ## Comparing Google Bard and ChatGPT-3.5's Accuracy
 
  Both chatbots are quick to point out that the accuracy of their responses should not be taken at face value. A point proved by asking Google Bard a simple question that it shouldn't have any problems with: "What large language model is Google Bard using?"
@@ -54,6 +60,9 @@ Let's look at both models in action and analyze their performance.
 
  The first is the inclusion of dark mode, which was omitted from the first iteration. The second is the inclusion of a**Google it** button and suggested follow on questions.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of Google Bard Google button and follow on prompts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-google-bard-google-button-and-follow-on-prompts.jpg)
 
 These are both welcome updates to the tool.
@@ -66,6 +75,9 @@ These are both welcome updates to the tool.
 
 ChatGPT was unable to provide up-to-date information.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPT responding to world cup attendance question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-responding-to-world-cup-attendance-question.jpg)
 
  Next, we tried to test on non-topical data. We asked both chatbots to answer this question: "How long would it take to drive to the sun?"
@@ -76,14 +88,23 @@ Google Bard first; it answered with some comprehensive details.
 
  We were quite disappointed with the ChatGPT response. This should have been recognized as a hypothetical question, with the result only requiring some basic arithmetic.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPTs answer to driving to sun question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpts-answer-to-driving-to-sun-question.jpg)
 
  To give ChatGPT a second chance, we reworded the question and asked: "How long would it take me to travel to the sun at 65mph?"
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPT response to reworded question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-response-to-reworded-question.jpg)
 
  This time it did produce some meaningful figures, but it had rounded the figure up to 1.5 million hours, causing a disparity of eight years between the responses. However, this disparity could be due to the distance between the Earth and the Sun.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Testing Google Bard vs. ChatGPT-4
 
  Dated information is a known issue with the free ChatGPT version. So let's level the playing field slightly and test Google Bard vs. ChatGPT for accuracy by testing Bard against the more advanced GPT-4 LLM.
@@ -92,6 +113,9 @@ Google Bard first; it answered with some comprehensive details.
 
  First up was Google Bard. It correctly reported that Linda Yaccarino had been appointed CEO and accurately summed up her career to date.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Screenshot of Google Bard answering Twitter CEO question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-google-bard-answering-twitter-ceo-question.jpg)
 
  Despite apologizing for the lack of detail, the premium version of ChatGPT was equally impressive. However, it is worth reiterating that if you are using the free version of ChatGPT, this question would be met with a blank stare!
@@ -108,6 +132,9 @@ Google Bard first; it answered with some comprehensive details.
 
 The original version of Google Bard gave us this:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of Google Bard Poetry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-google-bard-poetry.jpg)
 
  When compared to the ChatGPT-3.5 answer below, this is flat and uninspiring.
@@ -132,6 +159,9 @@ That ChatGPT is the place to be,
 
 When it comes to creativity!
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## ChatGPT vs. Google Bard: Which Is the Best AI Chatbot?
 
  The different LLMs that power the tools are fundamental to how the tools perform. They are the key reason for the differences in the test responses, each having its own strengths and weaknesses. Choosing between them will be determined more by user intent than user preference.

@@ -1,7 +1,7 @@
 ---
 title: ChatGPT as a Trustworthy AI Companer for Emotional Health Coaching
-date: 2024-07-23 22:52:23
-updated: 2024-07-26 11:42:53
+date: 2024-08-02T15:58:23.600Z
+updated: 2024-08-03T15:58:23.600Z
 tags:
   - chatgpt
   - open-ai
@@ -17,22 +17,52 @@ thumbnail: https://thmb.techidaily.com/97d4b7a24e4095203ce78f6219b92226bf6791663
 
  The wildly popular ChatGPT has affected the way people write code, conduct research, and even learn. But how well does ChatGPT work in the kitchen? Here’s what happened when we used the AI app to teach us how to cook delicious and healthy meals.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. How to Get Basic Recipes and Tips on ChatGPT
 
  For the most part, ChatGPT handles basic recipe and cooking questions well. Prompts like “what's a healthy recipe for salmon?” or “how do I make a salad that tastes good?” provide fine responses for starter recipes.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT salmon recipe part 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-salmon-recipe-part-1.jpg)
 
  In addition, the chatbot can assist with everyday cooking questions, such as providing helpful techniques for preparing eggs in a more nutritious way upon request. With its ability to provide immediate and tailored advice, this feature offers a practical resource for anyone looking to make healthier and more informed cooking choices.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT healthier eggs tips](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-healthier-eggs-tips.jpg)
 
  Healthier cooking options are just a simple prompt away. If you're already a fan of the[best healthy eating apps](https://www.makeuseof.com/best-healthy-eating-apps/) , such as Mealime, then ChatGPT can offer similar recipes and advice. Because you can keep asking ChatGPT to refine its answers or omit any ingredients, however, it's a more interactive option than standard recipe collections.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ## 2\. Refine Your Prompts for Personalized ChatGPT Recipe Selections
 
  More specific prompts like “design a healthy breakfast with adequate protein and vegetables” or “what's a healthy, vegetarian dinner with spices like turmeric and red pepper?” also provide appropriate recipes. Get as specific as you like with the prompts.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ![ChatGPT healthy breakfast options part 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-healthy-breakfast-options-part-2.jpg)
 
  Don't feel like visiting the grocery store? Note the ingredients you already have on hand and the app can (usually) find an appropriate recipe.
@@ -51,6 +81,9 @@ thumbnail: https://thmb.techidaily.com/97d4b7a24e4095203ce78f6219b92226bf6791663
 
  In other words, use your prompts to find recipes that suit your needs and interests. Tailor them to your family's nutritional needs, or try out different types of cuisine from around the world.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Does ChatGPT Provide Useful Nutritional Information?
 
  ChatGPT is (admirably) cautious about offering nutritional information. When prompted to provide nutritional information for the seared asparagus recipe, it responded: “As an AI language model, I am not able to provide exact nutritional information for recipes.”

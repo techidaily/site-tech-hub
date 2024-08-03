@@ -1,7 +1,7 @@
 ---
 title: "Unlock the Secrets: Persuasive Proposal Writing Techniques via ChatGPT"
-date: 2024-07-25 15:33:21
-updated: 2024-07-26 12:50:46
+date: 2024-08-02T15:58:00.135Z
+updated: 2024-08-03T15:58:00.135Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,9 @@ thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad9
 
  Learn how to create better AI-generated images in DALL-E 3 with this tried-and-tested list of prompts. You can use these prompts in numerous scenarios and play around with your own ideas and variations for optimal results. Let’s walk through the examples I’ve created.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ## 1 A Poster of Your Favorite Place
 
  There are many[websites to find unique art for your home](https://www.makeuseof.com/best-sites-find-unique-art/) , but creating one in DALL-E3 is easier and more personal. One prompt you can try is asking the platform to generate a poster of your favorite place.
@@ -38,8 +41,14 @@ thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad9
 
 And here is the final result:
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![An image of the NYC skyline Created with DALL-E 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-poster-image.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2 Calendar Cover Artwork
 
  You can[make a printable calendar with Canva](https://www.makeuseof.com/tag/make-your-own-calendar-using-canva/) and other apps, but that doesn’t mean you can’t use DALL-E 3 to generate the front cover artwork. Whether you want to gift someone your calendar or use it yourself, try using this prompt.
@@ -50,6 +59,9 @@ I asked DALL-E 3:
 
  When I asked DALL-E 3 the first time around, it gave me “20225” instead of “2025.” So, you might need to request grammatical corrections. And remember to use the image size format that your calendar will follow.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![DALL-E 3 Calendar Cover](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-calendar.jpeg)
 
 ## 3 A Birthday Card Cover
@@ -74,8 +86,14 @@ Okay, so that didn’t go to plan…
 
  You have to be very specific with your prompts. I was relatively happy with the final result (below), but my prior prompts were perhaps too vague. I did, however, explicitly tell DALL-E 3 to correct the spelling.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![DALL-E 3 Birthday Card Cover](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-birthday-card.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ## 4 Desktop Wallpapers
 
  You can[create a desktop background using AI](https://www.makeuseof.com/how-to-create-desktop-background-using-ai/) in many ways, including with DALL-E 3\. This prompt is very simple. All I asked was the following:
@@ -84,6 +102,9 @@ Okay, so that didn’t go to plan…
 
  Below is the result, which I’m happy with. You may need to get more specific, such as asking DALL-E 3 to remove the white background.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A Desktop Background Created in DALL-E 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-desktop-background.jpeg)
 
 ## 5 Smartphone Wallpapers
@@ -120,6 +141,9 @@ I used the following prompt:
 
  You can customize the above prompt for any landmark or genre that interests you. Below is the result I got with just one prompt. I was happy with this, and it was a much smoother process than some of the other attempts in this article.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![A social media banner image generated with DALL-E 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-social-media-banner.jpeg)
 
 ## 8 Photo Album Covers
@@ -132,6 +156,9 @@ Below is a prompt I tried for a photo album cover:
 
  After a few more prompts to change the orientation and adjust the French flag, I received the below result—which I was quite happy with.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![DALL-E 3 Photo Album Cover Image of a Street Scene](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-photo-album-cover-image.jpeg)
 
  You can ask DALL-E 3 to remove text, alter colors, and various other things if you want these. If you want to design a picture book, consider checking out this guide on[how to make your own photo book](https://www.makeuseof.com/how-to-make-photo-book-guide/) .

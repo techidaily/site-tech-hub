@@ -1,7 +1,7 @@
 ---
 title: "Live Coding: CodeGPT and VS Code Synergy"
-date: 2024-07-23 17:23:23
-updated: 2024-07-25 10:26:15
+date: 2024-08-02T15:57:52.470Z
+updated: 2024-08-03T15:57:52.470Z
 tags:
   - chatgpt
   - open-ai
@@ -38,10 +38,16 @@ thumbnail: https://thmb.techidaily.com/4e339c0438a311f0739fe8dd767b8fe136567e49f
 
  read more
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![AI prompt example asking for content strategy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/muo-photo-standard-26.jpg)
 
  Notice that the example provides context along with the instruction. When asking complex questions, going direct to the question or instruction without providing the proper context won't usually give you the best output.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Does an AI Prompt Engineer Do?
 
 ![binary code background showing a woman face to face with a robot ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/muo-photo-standard-10-2.jpg)
@@ -52,6 +58,9 @@ thumbnail: https://thmb.techidaily.com/4e339c0438a311f0739fe8dd767b8fe136567e49f
 
 ## Applications of AI Prompt Engineering
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ![online conversation with a customer service AI chatbot ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/muo-photo-standard-11-2.jpg)
 
  AI prompt engineering creates more accurate and efficient language models that help people work efficiently. It's a legitimate career that helps develop the most[impressive web apps you can try right now](https://www.makeuseof.com/best-ai-web-apps/) .
@@ -64,6 +73,9 @@ thumbnail: https://thmb.techidaily.com/4e339c0438a311f0739fe8dd767b8fe136567e49f
 
  There are multiple[practical uses of ChatGPT in Programming](https://www.makeuseof.com/chatgpt-programming-practical-uses/) and other[creative ways to use ChatGPT by OpenAI](https://www.makeuseof.com/creative-ways-to-use-chatgpt-openai/) . But generating successful results requires knowledge of AI prompt engineering.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Is AI Prompt Engineering a Stable Career Path?
 
  Is an AI prompt engineering career stable? Will it give you room for career growth, and will it last forever? Given the speed by which AI and other tech are developing (plus volatile economic conditions), no job is truly stable. However, the best time to learn AI prompt engineering is now, while the technology is relatively new, and the profession isn't saturated with "experts."
@@ -72,17 +84,26 @@ thumbnail: https://thmb.techidaily.com/4e339c0438a311f0739fe8dd767b8fe136567e49f
 
  Moreover, a simple search online shows that companies are hiring prompt engineers. You can check out job posts from the[Boston Children's Hospital](https://jobs.bostonchildrens.org/job/17785868/ai-prompt-engineer-idha-boston-ma/) and the AI safety and research company[Anthropic](https://jobs.lever.co/Anthropic/e3cde481-d446-460f-b576-93cab67bd1ed) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![screenshot of Anthropic Prompt Engineer Job Opening](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/muo-photo-standard-5-1.jpg)
 
  AI prompt engineering is necessary for companies and businesses looking to leverage AI. The AI revolution has just started, so you can safely assume there will be a growing demand for AI prompt engineers as long as people use AI tools.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Start Your AI Prompt Engineer Career
 
  You don't need coding skills, a tech background, or experience with AI to become an AI prompt engineer. For example, Anna Bernstein, previously mentioned in this article, is an English major and former freelance writer. To succeed in this role:
 
 ### 1\. Develop Your AI Prompt Engineering Skills
 
-![Webpage of ChatGPT, a prototype AI chatbot, is seen on the website of OpenAI, on iPhone or smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-token-limits.jpg)
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
+![Webpage of ChatGPT, a prototype AI chatbot, is seen on the website of OpenAI, on iPhone or smartphone](https://thmb.techidaily.com/0313aeb6801c4ad054aee4b20ba488ff337dac52c595922f616f6d67ab2cd3c7.jpg)
 
 This non-exhaustive skills list will be helpful for your AI career:
 
@@ -117,6 +138,9 @@ This non-exhaustive skills list will be helpful for your AI career:
 
 ### 4\. Look and Apply for Jobs
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![screenshot of Joblist.ai website showing AI prompt engineering jobs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/muo-photo-standard-6-1.jpg)
 
  AI prompt engineering is a new career path. But you can already start looking for jobs on these websites:
@@ -127,6 +151,9 @@ This non-exhaustive skills list will be helpful for your AI career:
 
  Always check the legitimacy of online jobs. Take note of[red flags that your job offer isn't legitimate](https://www.makeuseof.com/red-flags-job-isnt-legitimate/) .
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Position Yourself as an AI Prompt Engineer
 
  While no job is truly stable, AI prompt engineering is a valuable skill to learn today. It's a viable career path as more companies seek AI prompt engineers. And even if AI tools are developing and changing quickly, you can already start your career as an AI prompt engineer.

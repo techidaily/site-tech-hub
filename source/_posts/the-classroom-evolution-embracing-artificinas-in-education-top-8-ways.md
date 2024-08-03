@@ -1,7 +1,7 @@
 ---
 title: "The Classroom Evolution: Embracing Artificinas in Education (Top 8 Ways)"
-date: 2024-07-22 21:42:12
-updated: 2024-07-25 11:11:45
+date: 2024-08-02T15:58:19.613Z
+updated: 2024-08-03T15:58:19.613Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
 
 ## Revolutionize Your Interaction with ChatGPT Through Voice Commands – Top 5 Ways
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * You can control ChatGPT with your voice using the official mobile app for Android and iOS, making it easy and convenient.
@@ -25,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
 
  Unfortunately, it can be frustrating to type out everything you need ChatGPT to do over and over again. So, to save you the stress of typing out long ChatGPT prompts, we've put together five ways you can control ChatGPT with your voice.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## 1\. Using the ChatGPT Mobile App
 
  Perhaps the easiest and most hassle-free way of controlling ChatGPT with your voice is by[using the official ChatGPT mobile app](https://www.makeuseof.com/how-to-use-chatgpt-on-android-and-ios/) . It is available for both Android and iOS and is quite easy to use. To control ChatGPT using your voice from the mobile app:
@@ -36,10 +43,19 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
 5. After the transcription is complete, review the text to make sure it accurately captured what you said.
 6. Tap the send button to submit the transcribed text as your prompt to ChatGPT.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Controlling ChatGPT with your voice using the mobile app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/screenshot_2023-09-26-06-32-12-044_com-openai-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Controlling ChatGPT with your voice using the mobile app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/screenshot_2023-09-26-06-33-26-153_com-openai-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Controlling ChatGPT with your voice using the mobile app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/screenshot_2023-09-26-06-32-55-011_com-openai-chatgpt.jpg)
 
 Close
@@ -58,6 +74,9 @@ Close
 4. Tap on the Home icon and scroll down to enable the**Show InstaBubble** setting. Also, enable the**Hey, Chat** hot word detection slider.
 5. Whenever you want to use voice commands on ChatGPT, simply launch the app, tab the message icon below the screen, speak your questions and commands out loud. ChatGPT will display the text and respond by voice.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ![VoiceGPT splash screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/screenshot_2023-09-26-14-05-10-704_gpt-voice-chatgpt.jpg)
 
 ![Signing into the VoiceGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/screenshot_2023-09-26-16-54-32-766_gpt-voice-chatgpt.jpg)
@@ -107,6 +126,9 @@ Like Gboard, Microsoft SwiftKey is also available on iOS.
 
  ​​​​​​If you don't know how to set up or use the voice typing feature on your laptop or desktop, we have a comprehensive[guide to set up and use voice typing on Mac](https://www.makeuseof.com/tag/dictation-mac-voice-text/) and an explainer on[how to use the voice typing feature on Windows](https://www.makeuseof.com/how-to-start-voice-typing-on-windows-11/) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ## 5\. Using Chrome Extensions
 
  If you're accessing ChatGPT on a desktop browser, another option for using voice commands is through Chrome extensions. You can use general-purpose text-to-speech Chrome extensions or those specifically designed for ChatGPT. Here are some speech-to-text Chrome extensions you can use for ChatGPT.
@@ -119,14 +141,23 @@ Like Gboard, Microsoft SwiftKey is also available on iOS.
 
 ### [VoiceWave - ChatGPT Voice Control](https://chrome.google.com/webstore/detail/voicewave-chatgpt-voice-c/baahncfnjojaofhdmdfkpeadigoemkif)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![voice wave chrome extension for chatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/voice-wave-chrome-extension-for-chatgpt.jpg)
 
  VoiceWave is purpose-built for ChatGPT and comes with many customization features you'll find handy. For example, you can issue voice commands in dozens of languages, and VoiceWave will automatically transcribe them to text right inside the ChatGPT prompt input box.
 
  Recording with the tool is quite easy. Once you've installed and activated the Chrome extension, a small microphone icon sits next to your ChatGPT prompt input box every time you visit the ChatGPT website. Clicking the microphone icon activates the speech-to-text feature, activates your computer's microphone, and listens to your voice commands for transcription.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### [Talk-to-ChatGPT](https://chrome.google.com/webstore/detail/talk-to-chatgpt/hodadfhfagpiemkeoliaelelfbboamlk)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ![talk-to-chatgpt chrome extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/talk-to-chatgpt-chrome-extension.jpg)
 
  Although not entirely the best in design and accessibility, Talk-to-ChatGPT is one of the most widely used extensions for issuing voice commands to ChatGPT. It supports most major languages and comes with many customization features you'll find useful.
@@ -141,6 +172,9 @@ Like Gboard, Microsoft SwiftKey is also available on iOS.
 
  Unlike Talk-to-ChatGPT and VoiceWave, editing out mistakes or mistranscribed words is a bit complex since the text is not directly injected into ChatGPT's prompt text box. It takes a bit of getting used to, but it's an excellent speech-to-text tool nonetheless.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## Will ChatGPT Get An Official Audio Input Feature?
 
  Despite popular demand for a voice input feature, OpenAI has kept its ChatGPT interface as basic as possible. While the clutter-free design is appealing to many users, ChatGPT might benefit from an inbuilt voice input feature, especially considering how frequently people use the app.

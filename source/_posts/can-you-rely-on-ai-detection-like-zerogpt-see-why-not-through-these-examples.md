@@ -1,7 +1,7 @@
 ---
 title: Can You Rely on AI Detection Like ZeroGPT? See Why Not Through These Examples.
-date: 2024-07-21 19:47:51
-updated: 2024-07-24 10:54:24
+date: 2024-08-02T15:57:45.063Z
+updated: 2024-08-03T15:57:45.063Z
 tags:
   - chatgpt
   - open-ai
@@ -21,16 +21,25 @@ thumbnail: https://thmb.techidaily.com/6327dfd2fe6706001f2a15356912946cde0731783
 
  Let’s take a closer look at AI detection tools and see whether they can tell the difference between human and AI-generated text.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Testing AI-Detection Tools
 
  They say that the proof of the pudding is in the eating. So, let’s try some tests and see just how effective these tools are. It is impossible to test every tool, so we're testing one of the most popular tools—ZeroGPT.
 
  For material, we thought it would be quite fun to give ChatGPT a crack at writing an intro for this article and then comparing it against the “human-generated” intro:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ### Test One: Comparing a Human and AI-Generated Article Intro
 
  The first thing we did was get ChatGPT to generate an introduction. We entered the title and gave it no further information. For the record, we used GPT-3.5 for the test.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPT generated intro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-chatgpt-generated-intro.jpg)
 
  We then copied the text and pasted it into ZeroGPT. As you can see, the results were less than stellar.
@@ -49,16 +58,25 @@ thumbnail: https://thmb.techidaily.com/6327dfd2fe6706001f2a15356912946cde0731783
 
  False positives occur when human-generated content is incorrectly flagged as being the work of AI. As the example below shows, the problem is easily replicated. I am a keen angler, so I decided to write an intro to an imaginary article about fishing in Florida. I then let ZeroGPT analyze the text—it flagged that the text was 100% AI-generated.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of ZeroGPT false positive result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-zerogpt-false-positive-result.jpg)
 
  To be fair, I was aiming for this result. I kept the text generic and used “salesy” language. But the point that a human wrote this remains just as valid. This is not an inconvenience or something that can just be shrugged off. Errors like this can have serious ramifications for writers, students, and other professionals who create written works.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ### Test Three: Testing ZeroGPT on Fiction
 
  For the third test, we are going to use ChatGPT and ask it to write some fiction. To do this, we created a scenario and prompted ChatGPT to write a brief introduction to a fictional story.
 
  We kept it simple and just asked to write an intro for a story about two strangers who meet on a railway platform:
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPT fiction](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-chatgpt-fiction.jpg)
 
 And here was the response from ZeroGPT:
@@ -83,6 +101,9 @@ And here was the response from ZeroGPT:
 
  But the point remains valid. This was written by a human using research found on the internet.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why Aren't AI-Detection Tools Very Good?
 
  There is no single reason behind the flaws in tools like ZeroGPT. However, one fundamental problem is the effectiveness of generative AI chatbots. These represent an incredibly powerful and rapidly evolving technology that effectively makes them a moving target for AI detection tools.
@@ -97,6 +118,9 @@ And here was the response from ZeroGPT:
 
  Another factor that must be considered is what constitutes AI-generated content. If AI-generated content is simply reworded, is it human or AI-generated content? This represents another major challenge—the blurring of the lines between the two makes defining machine-created content almost impossible.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Looking to the Future of AI Detection
 
 ![cyber-glasses-1938449_1280](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/cyber-glasses-1938449_1280.jpg)

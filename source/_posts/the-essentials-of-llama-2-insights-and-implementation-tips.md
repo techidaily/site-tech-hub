@@ -1,7 +1,7 @@
 ---
 title: "The Essentials of Llama 2: Insights and Implementation Tips"
-date: 2024-07-24 10:43:53
-updated: 2024-07-26 12:15:15
+date: 2024-08-02T15:57:54.746Z
+updated: 2024-08-03T15:57:54.746Z
 tags:
   - chatgpt
   - open-ai
@@ -29,6 +29,9 @@ thumbnail: https://thmb.techidaily.com/6b8b8cd944b78f2fca9befdc6ff94bcc8ad2bce09
 
 ### NVIDIA NeMo
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![NVIDIA NEMO illustration ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nvidia-nemo.jpg)
 
  Image Credit:[NVIDIA](https://nvidianews.nvidia.com/news/nvidia-brings-large-language-ai-models-to-enterprises-worldwide)
@@ -43,12 +46,18 @@ thumbnail: https://thmb.techidaily.com/6b8b8cd944b78f2fca9befdc6ff94bcc8ad2bce09
 
 ### NVIDIA Picasso
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Various different AI-generated images made with DALL-E](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dall-e-ai-generated-image-gallery.jpg)
 
 [NVIDIA Picasso](https://www.nvidia.com/en-us/gpu-cloud/picasso/) is a generative AI model that works similarly to[OpenAI's DALL-E image creator](https://www.makeuseof.com/what-is-dall-e-ai-image-generator/) . However, NVIDIA Picasso is not limited to images only since it can also turn text into video or 3D content.
 
  In addition, NVIDIA Picasso is made for software creators, service providers, and businesses intending to train AI models using copyright or licensed data. Alternatively, using pre-trained models, you could add text prompts to create images, videos, and 3D content from scratch.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## NVIDIA BioNeMo
 
 ![nvidia-bionemo-cloud-services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nvidia-bionemo-cloud-services.jpg)
@@ -59,8 +68,14 @@ thumbnail: https://thmb.techidaily.com/6b8b8cd944b78f2fca9befdc6ff94bcc8ad2bce09
 
  Beyond that, pharmaceutical scientists can choose from six different AI models of BioNemo depending on their scope of research. This could revolutionize[the future of the healthcare industry](https://www.makeuseof.com/ai-will-power-future-healthcare/) .
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ## Who Can Use NVIDIA AI Foundations?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![NVIDIA AI Foundations ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nvidia-ai-foundations.png)
 
  Image Credit:[NVIDIA](https://nvidianews.nvidia.com/news/nvidia-brings-generative-ai-to-worlds-enterprises-with-cloud-services-for-creating-large-language-and-visual-models)
@@ -69,6 +84,9 @@ thumbnail: https://thmb.techidaily.com/6b8b8cd944b78f2fca9befdc6ff94bcc8ad2bce09
 
  So far, a few companies like Getty Images, Adobe, and Shutterstock have partnered with NVIDIA to develop text-to-image or video AI models. Similarly, more than a dozen big companies, including Deloitte and Morningstar, have already implemented NVIDIA's AI language models into their business operations. Biotech companies like Amgen and Insilico Medicine are also using NVIDIA's BioNeMo to develop drugs.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## NVIDIA'S AI Foundation is a Game Changer
 
  NVIDIA has partnered with Microsoft Azure, Google Cloud, and Oracle Cloud to develop its AI model for businesses. On top of that, NVIDIA has decades of experience building the best GPUs on the market—for example, OpenAI used NVIDIA GPUs to develop ChatGPT.

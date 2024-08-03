@@ -1,7 +1,7 @@
 ---
 title: Demystifying WinChatGPT App Claims and Deceptions
-date: 2024-07-25 23:43:51
-updated: 2024-07-27 10:28:56
+date: 2024-08-02T15:58:05.678Z
+updated: 2024-08-03T15:58:05.678Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/e317ee1375b71965ab23395d09818c610ccf5d2d8
 
  OpenAI's advanced chatbot may have reinvigorated the public's interest in artificial intelligence, but few have seriously contemplated the potential security risks associated with this product.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ChatGPT: Security Threats and Issues
 
  The technology underpinning ChatGPT and other chatbots may be similar, but ChatGPT is in a category of its own. This is great news if you intend to use it as a kind of personal assistant, but worrying if you consider that threat actors also use it.
@@ -29,8 +32,14 @@ thumbnail: https://thmb.techidaily.com/e317ee1375b71965ab23395d09818c610ccf5d2d8
 
  This just underscores how important it is to[limit what you share with ChatGPT](https://www.makeuseof.com/shouldnt-trust-chatgpt-confidential-data/) , which collects a staggering amount of data by default. Tech behemoth Samsung learned this the hard way, when a group of employees who had been using the chatbot as an assistant accidentally leaked confidential information to it.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Is ChatGPT a Threat to Your Privacy?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT logo on green background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-threat.jpg)
 
 [Security and privacy are not one and the same](https://www.makeuseof.com/privacy-anonymity-security-mean/) , but they are closely related and often intersect. If ChatGPT is a security threat, then it is also a threat to privacy, and vice versa. But what does this mean in more practical terms? What are ChatGPT's security and privacy policies like?
@@ -39,6 +48,9 @@ thumbnail: https://thmb.techidaily.com/e317ee1375b71965ab23395d09818c610ccf5d2d8
 
  In any case, you should be careful when using ChatGPT, especially[if you use it for work](https://www.makeuseof.com/things-you-can-do-with-chatgpt) , or to process sensitive information. As a general rule of thumb, you should not share with the bot what you wouldn't like the public to know.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Addressing the Security Risks Associated With ChatGPT
 
  Artificial intelligence will be regulated at some point, but it's difficult to imagine a world in which it doesn't pose a security threat. Like all technology, it can—and will—be abused.
@@ -47,6 +59,10 @@ thumbnail: https://thmb.techidaily.com/e317ee1375b71965ab23395d09818c610ccf5d2d8
 
  This will radically transform security as we know it. But as Malwarebytes also noted, ChatGPT and similar tools can be used by cybersecurity professionals as well; for example to look for bugs in software, or "suspicious patterns" in network activity.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ## Raising Awareness Is Key
 
  What will ChatGPT be capable of five or 10 years from now? We can only speculate, but what we do know for sure is that artificial intelligence is not going anywhere.

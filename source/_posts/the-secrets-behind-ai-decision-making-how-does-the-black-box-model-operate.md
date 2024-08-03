@@ -1,7 +1,7 @@
 ---
 title: "The Secrets Behind AI Decision-Making: How Does the 'Black Box' Model Operate?"
-date: 2024-07-27 12:31:51
-updated: 2024-07-29 11:10:52
+date: 2024-08-02T15:57:37.448Z
+updated: 2024-08-03T15:57:37.448Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,9 @@ thumbnail: https://thmb.techidaily.com/d8ea0db08299b418f8415fcdb55459d60a299aaea
 
 ## 1\. Bing Chat Lists Down Its Sources
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Bing Chat Listing Its Sources for Outputs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bing-chat-lists-sources.jpg)
 
  Professionals are often cautious when using chatbots for research as these tools don't independently verify facts. AI only states the information in its datasets. Although it references widely trusted sources, inaccuracies may still appear occasionally.
@@ -39,6 +42,9 @@ thumbnail: https://thmb.techidaily.com/d8ea0db08299b418f8415fcdb55459d60a299aaea
 
  Unless you can migrate your data to Microsoft Edge, consider using ChatGPT by default.[Toggling between work apps wastes too much time](https://www.makeuseof.com/toggling-work-applications-how-to-resolve/) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ## 3\. Bing Chat Is Connected to the Internet
 
  If your job typically involves current events or industry developments, you should likely choose Bing Chat over ChatGPT. They pull information differently.
@@ -47,12 +53,22 @@ thumbnail: https://thmb.techidaily.com/d8ea0db08299b418f8415fcdb55459d60a299aaea
 
  Likewise, ChatGPT’s model has limited knowledge of real-world events after 2021\. It can’t access publications and media outlets. The platform even malfunctions when you ask for simple weather updates.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![ChatGPT Can't Provide Weather Update Because It's Not Connected to the Internet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-can-t-answer-weather-update.jpg)
 
  Meanwhile, Bing Chat has access to real-time sources. The below image shows its capacity to produce comprehensive weather updates based on your location.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ![Bing Chat Providing a Weather Update from the Internet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bing-chat-answer-weather-question.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Bing Chat Offers GPT-4 for Free
 
  You must pay for ChatGPT Plus to access GPT-4\. Free ChatGPT users can only use GPT-3.5, although they might get a slight upgrade[when GPT-5 launches](https://www.makeuseof.com/when-will-gpt5-launch/) . Alternatively, Bing Chat offers GPT-4 for free. Just download Microsoft Edge, and you’re good to go—there’s no need to buy anything else.
@@ -73,6 +89,10 @@ Close
 * **Bing Mobile:** [Bing Chat is available on iOS and Android devices](https://www.makeuseof.com/bing-egde-skype-chatpgt-android-iphone/) . The app is popular among professionals who use smartphones for work tasks, e.g., salespeople, social media managers, and eCommerce entrepreneurs.
 * **Skype:** Bing is available on Skype. Either message Bing privately or add the chatbot to your group chats. This feature is helpful if you often talk to your clients and coworkers on Skype.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## 6\. ChatGPT Has Less Rigid Restrictions
 
  If you need versatility, use ChatGPT. It follows less rigid restrictions than Bing Chat. You can even bypass certain rules by phrasing your prompts differently. Your instructions’ word choice, tone, and language drastically change output quality—keep testing prompt variations.
@@ -83,16 +103,25 @@ Close
 
 But it obliged after we rephrased our prompt.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![ChatGPT Roleplaying as Tomie from the Manga Tomie](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-accepting-roleplay-request.jpg)
 
  Meanwhile, Bing Chat ignored our requests outright, regardless of our phrasing.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ![Bing Chat Rejecting Roleplay Request Due to Security Restrictions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bing-chat-rejecting-request.jpg)
 
  Make a list of jailbreak instructions. Learning how GPT models analyze and absorb inputs will help you[write more effective AI prompts](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/) . You could even create template formulas.
 
  Just note that some jailbreak prompts might stop working. OpenAI routinely updates its guidelines to prevent crooks from exploiting ChatGPT’s vulnerabilities.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Bing Chat Mimics Human-Like Text Better
 
  Regardless of your profession, never claim ownership of AI-generated content. AI only references third-party sources. ChatGPT rephrases information from its datasets, while Bing Chat excerpts output from relevant sites. Either way, passing them off as your own classifies as plagiarism.
@@ -118,6 +147,9 @@ Meanwhile, Bing Chat’s phrases flow smoothly.
 
  Explore OpenAI’s systems. Developers, programmers, and prompt engineers might find them helpful. You could even build AI-integrated apps from scratch.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Find the Right AI Chatbot for Your Freelance Business
 
  Whether you should get Bing Chat or ChatGPT depends on your freelancing needs. If your job involves extensive research, use Bing Chat. It lists its sources and lets you use the search engine quickly. Alternatively, ChatGPT suits OpenAI coders and programmers who prefer testing versatile platforms compatible with Google Chrome.

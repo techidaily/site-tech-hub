@@ -1,7 +1,7 @@
 ---
 title: The Do’s and Don’ts of Using ChatGPT as a Freelance Writer
-date: 2024-07-23 10:16:56
-updated: 2024-07-25 10:32:17
+date: 2024-08-02T15:58:14.137Z
+updated: 2024-08-03T15:58:14.137Z
 tags:
   - chatgpt
   - open-ai
@@ -19,8 +19,15 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
 
  Both platforms are impressive in their own right, but which one best suits freelancers? Running multiple tools simultaneously could potentially waste time. Here are eight factors to consider when deciding between Bing Chat and ChatGPT for your freelancing business.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## 1\. Bing Chat Lists Down Its Sources
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Bing Chat Listing Its Sources for Outputs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bing-chat-lists-sources.jpg)
 
  Professionals are often cautious when using chatbots for research as these tools don't independently verify facts. AI only states the information in its datasets. Although it references widely trusted sources, inaccuracies may still appear occasionally.
@@ -47,10 +54,16 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
 
  Likewise, ChatGPT’s model has limited knowledge of real-world events after 2021\. It can’t access publications and media outlets. The platform even malfunctions when you ask for simple weather updates.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT Can't Provide Weather Update Because It's Not Connected to the Internet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-can-t-answer-weather-update.jpg)
 
  Meanwhile, Bing Chat has access to real-time sources. The below image shows its capacity to produce comprehensive weather updates based on your location.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Bing Chat Providing a Weather Update from the Internet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bing-chat-answer-weather-question.jpg)
 
 ## 4\. Bing Chat Offers GPT-4 for Free
@@ -59,10 +72,19 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
 
  ChatGPT Plus costs $20 a month. While the fees won’t make you go bankrupt, you might want to minimize your expenses if you already have other premium tools. Otherwise, your subscriptions might eat up your profits.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. You Can Use Bing Chat on Different Platforms
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Using Bing Chat on Bing App for Smartphones](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bing-chat-on-mobile-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![Using the Bing Chatbot on Skype](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bing-chat-on-skype.jpg)
 
 Close
@@ -83,10 +105,16 @@ Close
 
 But it obliged after we rephrased our prompt.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT Roleplaying as Tomie from the Manga Tomie](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-accepting-roleplay-request.jpg)
 
  Meanwhile, Bing Chat ignored our requests outright, regardless of our phrasing.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Bing Chat Rejecting Roleplay Request Due to Security Restrictions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bing-chat-rejecting-request.jpg)
 
  Make a list of jailbreak instructions. Learning how GPT models analyze and absorb inputs will help you[write more effective AI prompts](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/) . You could even create template formulas.
@@ -110,6 +138,9 @@ But it obliged after we rephrased our prompt.
 
 Meanwhile, Bing Chat’s phrases flow smoothly.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Bing Chat Writing Cover Letter for Content Writer Application](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bing-chat-writing-cover-letter.jpg)
 
 ## 8\. OpenAI Offers Several AI Tools

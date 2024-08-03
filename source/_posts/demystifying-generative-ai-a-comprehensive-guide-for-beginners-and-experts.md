@@ -1,7 +1,7 @@
 ---
 title: "Demystifying Generative AI: A Comprehensive Guide for Beginners and Experts"
-date: 2024-07-26 10:45:19
-updated: 2024-07-28 10:57:14
+date: 2024-08-02T15:57:47.897Z
+updated: 2024-08-03T15:57:47.897Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/ce715e4a5f07116757cf7fe719b940aadd98801d0
 
 ## Four Desired Improvements for the Next Generation AI, GPT-5
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [What Is OpenAI's GPT-5?](https://www.makeuseof.com/gpt-5-features-we-want-to-see/#what-is-openai-39-s-gpt-5)
@@ -39,8 +42,19 @@ thumbnail: https://thmb.techidaily.com/ce715e4a5f07116757cf7fe719b940aadd98801d0
 
  These all point to one exciting reality: GPT-5 is coming! That said, quite a lot of things are speculations at this point. But there are a few things we hope to see and are fairly confident of seeing in the model. Here are some of them:
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. More Multimodality
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![OpenAI Sora text-to-video generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/openai-sora-text-to-video-generator.jpg)
 
  One of the most exciting improvements to the GPT family of AI models has been multimodality. For clarity, multimodality is the ability of an AI model to process more than just text but also other types of inputs like images, audio, and video. Multimodality will be an important advancement benchmark for the GPT family of models going forward.
@@ -49,9 +63,15 @@ thumbnail: https://thmb.techidaily.com/ce715e4a5f07116757cf7fe719b940aadd98801d0
 
  So, for GPT-5, we expect to be able to play around with videos—upload videos as prompts, create videos on the go, edit videos with text prompts, extract segments from videos, and find specific scenes from large video files. We expect to be able to do similar things to audio files. It's a big ask, yes. But given how fast AI development is, it's a very reasonable expectation.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ## 2\. Larger and More Efficient Context Window
 
-![Monitor on a desk with OpenAI logo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-analyze-your-local-documents-with-langchain-and-chatgpt-featured-image.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![Monitor on a desk with OpenAI logo](https://thmb.techidaily.com/0d605cbff29d9fac95ea636e3f1dc6722b73dcac2e7b43e02dacf71b94afcc8e.jpg)
 
  Ralf Jhetner Borja/[flickr](https://www.flickr.com/photos/198726053@N04/53043766807/)
 
@@ -61,9 +81,12 @@ thumbnail: https://thmb.techidaily.com/ce715e4a5f07116757cf7fe719b940aadd98801d0
 
  You see, a model might have a one million token context window (around 700,000 words capacity) but fail to produce a comprehensive summary when asked to summarize a 500,000-word book because it can't adequately process the entirety of the context despite having the capacity to do so in theory. That you can read a 500k-word book does not mean you can recall everything in it or process it sensibly.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## 3\. GPT Agents
 
-![ChatGPT accessed on a smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/muo-chatgpt-mentions-fi.jpg)
+![ChatGPT accessed on a smartphone](https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51ce8909742113d79362ddfedd.jpg)
 
  Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/vancouver-canada-jan-23-2024-webpage-2417500449)
 

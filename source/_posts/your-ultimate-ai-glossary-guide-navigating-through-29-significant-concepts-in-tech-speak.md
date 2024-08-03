@@ -1,7 +1,7 @@
 ---
 title: "Your Ultimate AI Glossary Guide: Navigating Through 29 Significant Concepts in Tech Speak"
-date: 2024-07-25 14:54:55
-updated: 2024-07-26 12:40:43
+date: 2024-08-02T15:57:33.580Z
+updated: 2024-08-03T15:57:33.580Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/5a6b81e19407a604be22bf69df443b0f8b7b5bc4d
 
 ## Navigate Through the Best Free AI Image Synthesis Programs – Our Open Source Selection
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [Craiyon](https://www.makeuseof.com/best-open-source-ai-image-generators/#craiyon)
@@ -29,6 +32,9 @@ thumbnail: https://thmb.techidaily.com/5a6b81e19407a604be22bf69df443b0f8b7b5bc4d
 
 ## 1 [Craiyon](https://www.craiyon.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![craiyon-home-page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/craiyon-home-page.jpg)
 
  Craiyon is one of the most easily accessible open-source AI image generators. It's based on DALL-E Mini, and while you can clone the[Github repository](https://github.com/borisdayma/dalle-mini) and install the model locally on your computer, Craiyon seems to have dropped this approach in favor of its website.
@@ -37,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/5a6b81e19407a604be22bf69df443b0f8b7b5bc4d
 
  In terms of functionality, you'll see all the usual options that you expect from an AI image generator. Once you enter your prompt and get an image, you can use the upscale feature to get a higher-resolution copy. There are three styles to choose from: Art, Photo, and Drawing. You can also select the "None" option if you want the model to decide.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![craiyon-generated-image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/craiyon-generated-image.jpg)
 
  Additionally, "Expert Mode" lets you include negative words, which tells the model to avoid specific items. There's also a prompt prediction feature, which uses ChatGPT to help users write the best, most detailed prompts possible. Lastly, the AI-powered remove background features can help you save time and effort cropping backgrounds out of images.
@@ -45,16 +55,26 @@ thumbnail: https://thmb.techidaily.com/5a6b81e19407a604be22bf69df443b0f8b7b5bc4d
 
  The model is free to use, but free users are limited to nine free images at a time within a minute. You can subscribe to their Supporter or Professional tiers (priced at $5 and $20 a month, respectively, and billed annually) to get no ads or watermarks, faster generation, and the option to keep your generated images private. A Custom subscription tier also allows custom models, integration, dedicated support, and private servers.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## 2 [Stable Diffusion 1.5](https://github.com/runwayml/stable-diffusion)
 
  Stable Diffusion is perhaps one of the most popular open-source text-to-image generation models. It also powers other models, including the three image generators mentioned below. It was released in 2022 and has had many implementations since.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![stable-diffusion-web-ui](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/stable-diffusion-web-ui.jpg)
 
  I'll spare you the overly technical details of how the model works (for which you can check out their[official Github repository](https://github.com/runwayml/stable-diffusion) ), but the model is easy to install even for complete beginners and works well as long as you have a dedicated GPU with at least 4GB of memory. You can also access[Stable Diffusion](https://stablediffusionweb.com/) online, and we've got you covered if you want to[run Stable Diffusion on a Mac](https://www.makeuseof.com/how-to-use-stable-diffusion-mac/) .
 
  There are several checkpoints (consider them versions) available to use for Stable Diffusion. While we tested out version 1.5,[version 2.1](https://huggingface.co/stabilityai/stable-diffusion-2-1) is also in active development and is more precise.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dreamshaper-ai-generated-image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/dreamshaper-ai-generated-image.jpg)
 
  Yadullah Abidi/MakeUseOf/DreamShaper
@@ -79,6 +99,9 @@ thumbnail: https://thmb.techidaily.com/5a6b81e19407a604be22bf69df443b0f8b7b5bc4d
 
  Invoke AI is another AI-based image generation model based on Stable Diffusion, with an XL version based on Stable Diffusion XL. It also has its own web and command line user interface, meaning you won't have to jump hoops with things like the Stable Diffusion web UI.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ![invokeai-user-interface-with-image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/invokeai-user-interface-with-image.jpg)
 
  The model focuses on letting users create visuals based on their intellectual property with customized workflows. InvokeAI is one of the best open-source AI image generation models for training custom models and working with intellectual property.

@@ -1,7 +1,7 @@
 ---
 title: "Top 7 Substitutes for ChatGPT in Auto-Coding: Find the Best Options"
-date: 2024-07-21 21:38:12
-updated: 2024-07-24 12:50:53
+date: 2024-08-02T15:57:30.740Z
+updated: 2024-08-03T15:57:30.740Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/b7025f879b7f69fff163ff4565fc3f42cd715d8a0
 
  Bard AI, Google's ChatGPT alternative, has yet to impress despite Google's massive investment in artificial intelligence and a reputation for innovation. Fortunately, at Google I/O 2023, Google announced numerous new features that have the potential to supercharge Bard AI. We've compiled the most exciting Bard AI news announced at Google I/O 2023.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ## 1\. No More Waitlist for Bard AI
 
  While this isn't entirely a new feature per se, it's refreshing to know that Google has dropped the waitlist for using Bard and opened the chatbot to all. So, if you've been sneaking onto the Bard website using a VPN, it's time to drop the mask. Bard is now open to over 180 countries and territories.
@@ -35,6 +39,9 @@ thumbnail: https://thmb.techidaily.com/b7025f879b7f69fff163ff4565fc3f42cd715d8a0
 
  We saw a glimpse of what could be possible. A future where Bard AI integrates with Google Maps, Sheets, and a range of exciting services from third-party developers. This has the potential to be genuinely game-changing. Well, that is if Google doesn't under-deliver, of course.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. Image Prompting
 
 ![Image prompting with Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/image-prompting-with-bard-ai.jpg)
@@ -45,6 +52,9 @@ thumbnail: https://thmb.techidaily.com/b7025f879b7f69fff163ff4565fc3f42cd715d8a0
 
  In other words, instead of just text prompts, you'll be able to upload images as prompts alongside text. For example, you could upload a picture of a dog and ask Bard which dog breed it is. The specifics of the feature are still a mystery, but if it is well crafted, some compelling use cases could pop up.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 5\. Image Generation With Adobe Firefly
 
 ![Red and orange text that reads Adobe Firefly, surrounded by AI generated images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/adobe-firefly.jpg)
@@ -55,8 +65,15 @@ thumbnail: https://thmb.techidaily.com/b7025f879b7f69fff163ff4565fc3f42cd715d8a0
 
  Although we aren't exactly sure how deeply integrated Bard AI will be with Abode Firefly, the demo at Google I/O gave a sneak peek at something exciting.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## 6\. Tools for Exporting Generated Content
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![exporting data from Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/exporting-data-from-bard-ai.jpg)
 
  One thing missing from most[AI chatbots like ChatGPT and Bing AI](https://www.makeuseof.com/chatgpt-vs-bing-ai-chatbot/) is a way to export generated content that preserves its formatting. If you generated a table with ChatGPT, for instance, copying over that table to a word processor with style intact is challenging.
@@ -71,6 +88,9 @@ thumbnail: https://thmb.techidaily.com/b7025f879b7f69fff163ff4565fc3f42cd715d8a0
 
  Bard AI can now generate code in several programming languages. It can also explain code snippets, debug code, and sometimes point to the origin of the code to give credit to whoever created the original codebase that was used to answer your question.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Google's AI Endgame Is Gemini
 
  Bard AI currently runs on PaLM 2 (the latest iteration of its PaLM large language model) and relies on different Google products and services to offer most of the features announced at Google I/O 2023\. Meanwhile, Sundar Pichai, the CEO of Google, briefly discussed Gemini—a new large language model currently being developed from the ground up to power future iterations of Bard AI.

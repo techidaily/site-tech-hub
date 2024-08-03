@@ -1,7 +1,7 @@
 ---
 title: Establishing a Daily Meditation Routine Using ChatGPT's Guidance
-date: 2024-07-26 16:35:17
-updated: 2024-07-27 10:25:32
+date: 2024-08-02T15:57:52.903Z
+updated: 2024-08-03T15:57:52.903Z
 tags:
   - chatgpt
   - open-ai
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/ab4dd483e1f79e38d09cf8e4fff380926562633e9
 
  ChatGPT has undoubtedly made history as the most popular AI chatbot to hit our screens, but it has no shortage of competitors. One such competitor, Claude, offers an impressive AI chatbot service, but does this outshine ChatGPT?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ## What Are ChatGPT and Claude?
 
  You've likely already heard of OpenAI's ChatGPT AI chatbot and its GPT[LLM (large language model)](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) . While ChatGPT is presented as a chatbot, incredible work has been done behind the scenes to make it a knowledge hub.
@@ -35,6 +38,9 @@ We'll be using Claude 1.3 and Claude 2 in this comparison.
 
  ChatGPT's two most recent versions, GPT-3.5 and GPT-4, can be used, though the latter is only available via ChatGPT Plus. GPT-4 has far more parameters than GPT-3.5 and a higher character input and output limit. Again, both iterations of ChatGPT will be discussed here.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ChatGPT vs. Claude: a Quick Comparison
 
  Before discussing ChatGPT and Claude's pros and cons in depth, we've provided a simple comparison table that you can use to understand the basics.
@@ -51,10 +57,16 @@ We'll be using Claude 1.3 and Claude 2 in this comparison.
 
 As you can see, there are several differences to consider.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## ChatGPT's Pros and Cons
 
  In what ways does ChatGPT outshine Claude? What perks and advantages does it boast?
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ### ChatGPT's Pros
 
  ChatGPT offers great features and benefits to its users, starting with its ability to fulfill prompts.
@@ -93,6 +105,9 @@ Additionally, ChatGPT has a wide range of browser plugins, including:
 
 So, how does Claude compare to ChatGPT?
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Claude's Pros
 
  There are some[ways in which Claude outshines ChatGPT](https://www.makeuseof.com/ways-claude-ai-chatbot-better-than-chatgpt/) , which we'll get into here.
@@ -131,6 +146,9 @@ So, how does Claude compare to ChatGPT?
 
  ChatGPT's poem was a little shorter, highlighting that it followed the requested ABAB rhyming structure.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![claude poem prompt chat screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-poem-prompt.jpg)
 
  On the other hand, Claude provided a slightly lengthier poem, but both are fairly equal in their creative abilities.
@@ -141,10 +159,16 @@ So, how does Claude compare to ChatGPT?
 
  ChatGPT's response took us through the equation step-by-step instead of just providing the answer.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![screenshot of chatgpt trigonometry prompt response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-trig-1.jpg)
 
 When given the same problem, Claude gave us the following response:
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![screenshot of claude response to trigonometry prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-trig-1.jpg)
 
  Interestingly, both chatbots gave different outcomes, with ChatGPT providing the correct answer.

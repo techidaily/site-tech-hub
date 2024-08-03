@@ -1,7 +1,7 @@
 ---
 title: The ChatGPT Advantage Matrix - Platinum Edition
-date: 2024-07-28 12:10:58
-updated: 2024-07-29 10:49:43
+date: 2024-08-02T15:58:25.515Z
+updated: 2024-08-03T15:58:25.515Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/805e7ed862b37908d5fd3eef7b67791c5d0d0472c
 
  If you're looking to buy AI prompts or even sell some prompts of your own, you may find AI prompt marketplaces useful—but which is the best AI prompt platform?
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1.[PromptBase](https://promptbase.com/)
 
 ![screenshot of promptbase website homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/prompt-base-1.jpg)
@@ -29,6 +32,9 @@ thumbnail: https://thmb.techidaily.com/805e7ed862b37908d5fd3eef7b67791c5d0d0472c
 
  To find the AI prompt you need, use PromptBase's search input tool or browse through the categories in the top bar menu on the website's homepage.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![screenshot of promptbase search results](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/prompt-base-2.jpg)
 
  Even when searching via category, you can filter your searches to narrow down the options based on your preferences.
@@ -39,8 +45,14 @@ thumbnail: https://thmb.techidaily.com/805e7ed862b37908d5fd3eef7b67791c5d0d0472c
 
  To sell a prompt, PromptBase requires you to provide a prompt name, type, description, and price. Then, you'll need to directly paste your prompt into the provided box. PromptBase will test the prompt to see if it's legitimate, and if everything checks out, you can go ahead and list your prompt.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ## 2.[PromptHero](https://prompthero.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![prompthero website homepage screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/prompt-hero-1.jpg)
 
  PromptHero offers a fairly similar service to PromptBase. This prompt marketplace offers prompts for ChatGPT, Midjourney, Openjourney, and Stable Diffusion. These prompts can be used for all kinds of purposes, including photography, anime, architecture, fashion, interior design, logos, and icons. If you want a general browse, you can also take a look at PromptHero's Featured, Hot, New, and Top categories.
@@ -61,6 +73,9 @@ thumbnail: https://thmb.techidaily.com/805e7ed862b37908d5fd3eef7b67791c5d0d0472c
 
  On the other hand, if you opt for ChatX's ChatGPT or Midjourney prompt generator, you can have text-based prompts created on your behalf for free.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![chat x chatgpt prompt generator screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chat-x-generator.jpg)
 
  Simply describe what you want the AI model to act as and produce, and you'll be provided with a text prompt to download for future use.
@@ -73,6 +88,9 @@ thumbnail: https://thmb.techidaily.com/805e7ed862b37908d5fd3eef7b67791c5d0d0472c
 
  It's important to note that PromptSea has an interesting twist: each prompt is a[non-fungible token (NFT)](https://www.makeuseof.com/what-is-a-non-fungible-token-nft/) . This prevents prompts from being copied and resold without the correct authorization. These NFTs are stored on the Tezos, Polygon, or[BNB Chain](https://www.makeuseof.com/binance-bnb-chain/) blockchains.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ![screenshot of promptsea product purchase page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/prompt-sea-buy.jpg)
 
  On PromptSea, you can pay for prompts using cryptocurrencies such as Tezos, Polygon, or BNB. You can't use traditional tenders, such as dollars or pounds, to pay for digital items on PromptSea. If you're not a fan of crypto or NFTs, you may want to opt for one of the other marketplaces listed here.
@@ -89,10 +107,16 @@ So, how do you know what you're buying?
 
  When you see a prompt bundle you're interested in on Etsy, click on the listing and read the item details. This is crucial to determine what kind of prompts you're purchasing here. The title will likely indicate the type or theme of the prompts included, but you can usually access more information in the item details section.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![highlighted item details section on etsy product page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/etsy-item-page-1.jpg)
 
  If you want to buy just a handful of AI prompts or something highly specific, Etsy may not be the right platform. Don't forget that Etsy isn't a dedicated AI prompt marketplace designed for finding and searching for prompts specifically.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ## 6.[AIPRM](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj)
 
 ![chatgpt interface with aiprm plugin active](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chatgpt-aiprgm-plugin.jpg)
@@ -114,6 +138,9 @@ So, how do you know what you're buying?
 
 ## 7.[FlowGPT](https://flowgpt.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![screennshot of flowgpt website homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/flow-gpt-site.jpg)
 
  FlowGPT offers a range of useful AI services, including a prompt marketplace for ChatGPT users. FlowGPT's marketplace works a little differently from your standard prompt marketplace, with the option to actually interact with a wide range of AI chatbots using GPT.

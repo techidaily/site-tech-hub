@@ -1,7 +1,7 @@
 ---
 title: The Clear Cut Essence of AI
-date: 2024-07-26 14:32:14
-updated: 2024-07-28 12:29:29
+date: 2024-08-02T15:58:17.915Z
+updated: 2024-08-03T15:58:17.915Z
 tags:
   - chatgpt
   - open-ai
@@ -23,12 +23,18 @@ GPT-4 is here, and the rush to integrate it into apps has begun.
 
 ## 1\. Duolingo
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Picture of Duolingo Max App Logo-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/picture-of-duolingo-max-app-logo-1.jpg)
 
  Image Credit:[Duolingo](https://blog.duolingo.com/duolingo-max/)
 
  There are plenty of[language learning apps to choose from](https://www.makeuseof.com/tag/five-free-apps-help-learn-foreign-language/) , and developers are always looking for innovative ways to improve their products. Duolingo's early uptake of GPT-4 allowed them to roll out a new app called[Duolingo Max](https://blog.duolingo.com/duolingo-max/) , which brings two new GPT-4 enabled features.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ![Screenshots from Duolingo Max](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshots-from-duolingo-max.jpg)
 
  Image Credit:[Duolingo](https://blog.duolingo.com/duolingo-max/)
@@ -38,12 +44,18 @@ GPT-4 is here, and the rush to integrate it into apps has begun.
 
  GPT-4 is being used to create a reactive and responsive learning environment where no two conversations are alike. The first version is restricted to English speakers wanting to learn Spanish or French and is available only on iOS. Duolingo Max is priced at $29.99 monthly or $167.99 for an annual subscription.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ## 2\. Be My Eyes
 
 ![Picture Introducing Virtual Volunteer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/picture-introducing-virtual-volunteer.jpg)
 
  The use of AI in our lives has been the source of many heated discussions. However, there are some areas where there can be little argument that AI has a positive effect. Be My Eyes is one such example. The app is designed to make the world more accessible for visually impaired people.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### How Does Be My Eyes Use GPT-4?
 
  The role that GPT-4 plays in the app is that of a virtual volunteer. The process works by analyzing images through GPT-4's image-to-text generator. Context is the critical factor here. The GPT-4 engine doesn't just analyze the content of the image but the context of the image as well.
@@ -60,6 +72,9 @@ GPT-4 is here, and the rush to integrate it into apps has begun.
 
  Khan Academy sees GPT-4 as a virtual teacher. The roll-out of the app is limited, with the teaching assistant (dubbed Khanmigo) only available to a limited number of users. However, a[Khan Academy waitlist](https://www.khanacademy.org/khan-labs) exists for those wanting to help test the product. Successful applicants are asked to donate $20 per month.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ### How Does Khan Academy Use GPT-4?
 
  Khan Academy is quick to point out that this tool will not give students answers to questions. Rather, it is intended to use AI to walk them through the steps to arrive at the correct answer, with GPT-4 leading them on.
@@ -81,6 +96,9 @@ GPT-4 is here, and the rush to integrate it into apps has begun.
 
  The Khan Academy app is free across all platforms; students and teachers can sign up online to join[Khan Academy](https://www.khanacademy.org/signup) .
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Stripe
 
 ![Screenshot of Stripe Homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-stripe-homepage.jpg)
@@ -101,6 +119,9 @@ GPT-4 is here, and the rush to integrate it into apps has begun.
 
  The developers say that the new system will be able to understand users' questions fully. It can also scan support documentation and offer solutions or highlight relevant text within documents.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 5\. ChatSonic
 
 ![Screenshot of ChatSonic homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-chatsonic-homepage.jpg)
@@ -111,6 +132,9 @@ GPT-4 is here, and the rush to integrate it into apps has begun.
 
  The app is an upgraded version of WriteSonic, a writing aid based on ChatGPT 3.5\. WriteSonic is the foundation that ChatSonic was built on; GPT-4 adds the extra functionality.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### What Can You Do With ChatSonic?
 
  The basis of the app is to be a one-stop personal assistant for your business. From developing your website to acting as a customer support chatbot, ChatSonic can do this and much more. The core tasks of this multi-tool include:
@@ -127,6 +151,9 @@ GPT-4 is here, and the rush to integrate it into apps has begun.
 
 ![Screenshot_of Bing app opening screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot_of-bing-app-opening-screen.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Screenshot of Bing Chat Opening Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-bing-chat-opening-screen.jpg)
 
 ![Screenshot of Bing answering query](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-bing-answering-query.jpg)
@@ -164,12 +191,18 @@ Close
 
  The most basic tier for GPT-4 is a one-off payment of $3.99 on top of the cost of the app.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ### What Can You Do With Petey?
 
  It has all the usual features you'd expect from a ChatGPT-based app. However, the inclusion of GPT-4 brings the added benefit of access to real-time data, which comes into its own with its Apple Music integration. Without GPT-4, this feature can only use music released before the GPT-3.5 cut-off date (around late 2021).
 
 **Download** :[Petey](https://apps.apple.com/us/app/petey-ai-assistant/id6446047813) for iOS ($3.99 Premium version required for GPT-4)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## GPT-4: A New Level of Artificial Intelligence
 
  These apps represent the tip of a huge GPT-4 iceberg. As more developers unlock the power of GPT-4, there will be many apps to follow. These will likely emulate many of the features and uses we mentioned. But what is more exciting is the companies looking to explore new and imaginative uses for a fledgling technology.

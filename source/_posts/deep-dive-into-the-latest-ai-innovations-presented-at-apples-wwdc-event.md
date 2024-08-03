@@ -1,7 +1,7 @@
 ---
 title: Deep Dive Into the Latest AI Innovations Presented at Apple's WWDC Event
-date: 2024-07-25 14:19:24
-updated: 2024-07-28 10:27:30
+date: 2024-08-02T15:57:48.402Z
+updated: 2024-08-03T15:57:48.402Z
 tags:
   - chatgpt
   - open-ai
@@ -29,14 +29,23 @@ thumbnail: https://thmb.techidaily.com/6ea4b6540cbc9defac45234e6794ae14daad67ae8
 
  Dark mode is the new cool, and Google has finally listened to the request of Bard AI users by adding the dark mode feature to the Bard website. To toggle on dark mode, toggle**Use dark theme** in the bottom left corner of the Bard web interface. If you are accessing Bard from your mobile browser, you'll need to tap the menu icon in the top right corner of the Bard website to reveal the**Use dark theme** button in the bottom left corner.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Integration With Google Products and Third-Party Plugins
 
  This is one of the most significant Bard AI announcements since the chatbot itself was announced. Let's face it; Bard AI isn't as good as its competitors. We did a bit of a[ChatGPT vs. Bing AI vs. Bard AI test](https://www.makeuseof.com/chatgpt-vs-bing-ai-vs-google-bard/) , and Bard didn't impress. There are a lot of shortfalls we could talk about, but that's a discussion for another day. The good news, however, is that a bulk of those shortfalls could be fixed by opening up Bard to third-party services and other Google products.
 
  We saw a glimpse of what could be possible. A future where Bard AI integrates with Google Maps, Sheets, and a range of exciting services from third-party developers. This has the potential to be genuinely game-changing. Well, that is if Google doesn't under-deliver, of course.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ## 4\. Image Prompting
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ![Image prompting with Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/image-prompting-with-bard-ai.jpg)
 
  Image Credit:[Google](https://blog.google/technology/ai/google-bard-updates-io-2023/)
@@ -47,6 +56,9 @@ thumbnail: https://thmb.techidaily.com/6ea4b6540cbc9defac45234e6794ae14daad67ae8
 
 ## 5\. Image Generation With Adobe Firefly
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Red and orange text that reads Adobe Firefly, surrounded by AI generated images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/adobe-firefly.jpg)
 
  Image Credit:[Adobe](https://www.adobe.com/sensei/generative-ai/firefly.html)
@@ -55,6 +67,9 @@ thumbnail: https://thmb.techidaily.com/6ea4b6540cbc9defac45234e6794ae14daad67ae8
 
  Although we aren't exactly sure how deeply integrated Bard AI will be with Abode Firefly, the demo at Google I/O gave a sneak peek at something exciting.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Tools for Exporting Generated Content
 
 ![exporting data from Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/exporting-data-from-bard-ai.jpg)
@@ -71,6 +86,9 @@ thumbnail: https://thmb.techidaily.com/6ea4b6540cbc9defac45234e6794ae14daad67ae8
 
  Bard AI can now generate code in several programming languages. It can also explain code snippets, debug code, and sometimes point to the origin of the code to give credit to whoever created the original codebase that was used to answer your question.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ## Google's AI Endgame Is Gemini
 
  Bard AI currently runs on PaLM 2 (the latest iteration of its PaLM large language model) and relies on different Google products and services to offer most of the features announced at Google I/O 2023\. Meanwhile, Sundar Pichai, the CEO of Google, briefly discussed Gemini—a new large language model currently being developed from the ground up to power future iterations of Bard AI.

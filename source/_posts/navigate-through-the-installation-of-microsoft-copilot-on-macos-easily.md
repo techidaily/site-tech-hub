@@ -1,7 +1,7 @@
 ---
 title: Navigate Through the Installation of Microsoft Copilot on macOS Easily
-date: 2024-07-20 17:34:56
-updated: 2024-07-23 12:57:40
+date: 2024-08-02T15:58:02.634Z
+updated: 2024-08-03T15:58:02.634Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/1015d95938322524d6bc75ebe9eaf3943bcb8d4c9
 
 ## Unlocking Productivity: Install Microsoft Copilot on Your Mac Today
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [Install Microsoft Copilot From the Mac App Store](https://www.makeuseof.com/how-to-get-microsoft-copilot-on-mac/#install-microsoft-copilot-from-the-mac-app-store)
@@ -22,6 +25,9 @@ thumbnail: https://thmb.techidaily.com/1015d95938322524d6bc75ebe9eaf3943bcb8d4c9
 * [Getting Started With Microsoft Copilot on Your Mac](https://www.makeuseof.com/how-to-get-microsoft-copilot-on-mac/#getting-started-with-microsoft-copilot-on-your-mac)
 * [The Benefits of Using Copilot Over ChatGPT](https://www.makeuseof.com/how-to-get-microsoft-copilot-on-mac/#the-benefits-of-using-copilot-over-chatgpt)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Mac users can install Microsoft Copilot in two ways: through the App Store on Apple silicon Macs or as a web app on Intel Macs.
@@ -41,6 +47,9 @@ thumbnail: https://thmb.techidaily.com/1015d95938322524d6bc75ebe9eaf3943bcb8d4c9
 3. Click**Get** next to the app's name to install it.
 4. You'll find the app in your Launchpad. You can drag it to the Dock to access it quickly.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Dragging Copilot app from Launchpad to the Dock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/dragging-copilot-app-from-launchpad-to-the-dock.jpg)
 
  Double-click its icon to start using Copilot right away. Jump to the**Getting Started** section below to get acquainted with the app.
@@ -51,6 +60,9 @@ thumbnail: https://thmb.techidaily.com/1015d95938322524d6bc75ebe9eaf3943bcb8d4c9
 
 1. Launch the built-in**Shortcuts** app on your Mac. You'll see it in the Launchpad inside the**Other** folder. Alternatively,[use Spotlight search on your Mac](http://www.makeuseof.com/spotlight-search-on-mac-beginners-guide/) (**Command + Space** ) to find it.
 2. Select**All Shortcuts** from the left sidebar and click the**plus (+)** button in the toolbar at the top of the window to create a new shortcut.  
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Adding a new shortcut in macOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/adding-a-new-shortcut-in-macos.jpg)
 3. Drag the**Open App** action from the right sidebar to the empty space on the left.
 4. Click the blue**App** field and use the search bar to find and select**Copilot** .  
@@ -62,6 +74,9 @@ thumbnail: https://thmb.techidaily.com/1015d95938322524d6bc75ebe9eaf3943bcb8d4c9
 
  You can now exit the Shortcuts app and enter the keyboard shortcut you added to quickly launch Microsoft Copilot on your Mac, no matter what you're doing.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Install Microsoft Copilot as a Web App on Your Mac
 
  If you have an Intel Mac, you won't be able to install Copilot's iPad app from the Mac App Store. Instead, you'll need to install Microsoft Copilot as a web app on macOS Sonoma or later:
@@ -75,14 +90,23 @@ thumbnail: https://thmb.techidaily.com/1015d95938322524d6bc75ebe9eaf3943bcb8d4c9
 
  You'll find the Copilot web app on your Dock immediately. Launch it to begin.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ## Getting Started With Microsoft Copilot on Your Mac
 
  When you launch Copilot for the first time, you'll see its welcome screen prompting you to agree to Microsoft's Terms of Service. Click**Continue** and follow these steps to configure Copilot on your Mac properly:
 
 1. The first thing you should do is enable GPT-4, as that's one of the biggest advantages of using Copilot over ChatGPT. Scroll down on the main screen and toggle on**Use GPT-4** .
 2. Next, click the**ellipsis (...)** icon in the top-right corner of the window and choose**Show All Tones** to customize Copilot's responses.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Enabling GPT-4 in Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/enabling-gpt-4-in-copilot.jpg)
 3. You can choose from**Creative** ,**Balanced** , and**Precise** . By default, it's set to**Creative** , which gets you descriptive responses. I use the**Precise** setting as I prefer concise responses with only the facts that I need.  
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Changing tone in the Copilot app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/changing-tone-in-the-copilot-app.jpg)
 4. Additionally, you can click**Sign in** in the top-left corner of the window and log in with your Microsoft account. This allows you to ask more questions and have longer conversations with the AI chatbot.
 

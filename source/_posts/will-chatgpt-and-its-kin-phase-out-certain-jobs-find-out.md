@@ -1,7 +1,7 @@
 ---
 title: Will ChatGPT and Its Kin Phase Out Certain Jobs? Find Out
-date: 2024-07-25 14:15:16
-updated: 2024-07-27 12:53:23
+date: 2024-08-02T15:57:49.438Z
+updated: 2024-08-03T15:57:49.438Z
 tags:
   - chatgpt
   - open-ai
@@ -19,10 +19,17 @@ thumbnail: https://thmb.techidaily.com/909f3c7957e52f6fe9de5cd9ae15915a5af92e863
 
 ## What Is ChatGPT?
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![artificial intelligence brain connected to human being](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/artificial-intelligence-4389372_1920-1.jpg)
 
 [ChatGPT is a chatbot](http://www.makeuseof.com/how-does-chatgpt-work/) that uses the GPT-3 (Generative Pretrained Transformer 3) framework, a highly advanced artificial intelligence (AI) model used for language processing developed by OpenAI. ChatGPT has more than 175 billion parameters, making it among the largest and most powerful language models available, and the model was trained using a massive amount of data from the internet and other sources.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ## How Do People Use ChatGPT?
 
  ChatGPT launched in November 2022, and it didn’t take long for people to experiment with how they might use it. For example, you can[use ChatGPT to do everything](http://www.makeuseof.com/things-you-can-do-with-chatgpt/) from telling pumpkin jokes to advising how to improve team collaboration or even writing marketing emails!
@@ -35,8 +42,14 @@ thumbnail: https://thmb.techidaily.com/909f3c7957e52f6fe9de5cd9ae15915a5af92e863
 
  These examples might make you think there’s[no limit to what ChatGPT can do](https://www.makeuseof.com/openai-lost-control-chatgpt/) . However, that’s not an accurate assumption.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Will ChatGPT Replace Programmers?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![artificial intelligence coming out of computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/artificial-intelligence-7215709_1280.png)
 
  Whenever a new AI tool emerges on the tech scene, many people understandably wonder whether that innovation might get so advanced that it makes their jobs obsolete. Even people such as programmers, who have highly specialized skills, might face that worry.
@@ -53,6 +66,9 @@ thumbnail: https://thmb.techidaily.com/909f3c7957e52f6fe9de5cd9ae15915a5af92e863
 
  Some malicious actors have tried to use ChatGPT to their advantage. For example, some[criminals are using ChatGPT to make malware](https://www.makeuseof.com/chatgpt-used-by-cybercriminals-to-write-malware/) , ransomware, and other malicious encryption tools, despite having limited programming knowledge. This ChatGPT application will likely increase the challenges cybersecurity teams face.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ### Will ChatGPT Replace Other Jobs?
 
  You might wonder if[content writers should worry about ChatGPT](http://www.makeuseof.com/why-chatgpt-wont-take-writing-job/) taking their jobs. Fortunately, those professionals need not fear. ChatGPT responses are often repetitive and sometimes outdated, making them less valuable.
@@ -63,6 +79,9 @@ thumbnail: https://thmb.techidaily.com/909f3c7957e52f6fe9de5cd9ae15915a5af92e863
 
  Elsewhere, people are explicitly[formatting questions to make ChatGPT ignore](https://www.makeuseof.com/how-to-get-best-results-from-chatgpt/) its programming. That practice could spread misinformation. The question-and-answer site Stack Overflow also initiated a temporary ban on ChatGPT. Staff members explained the influx of ChatGPT-generated responses swamped content moderators who need some level of subject matter expertise to verify the accuracy, and[spotting generative AI written text](http://www.makeuseof.com/dangers-ai-writing-how-spot-ai-generated-text/) is next to impossible.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ## ChatGPT Deserves Caution
 
  The examples above and elsewhere highlight how ChatGPT might gradually change how employees work, but it won’t take over entire jobs. Instead, more people will start using ChatGPT to guide applicable parts of their workflows. If you’re thinking about using the chatbot for business, school, or pleasure, do so carefully and never assume you got wholly accurate answers.

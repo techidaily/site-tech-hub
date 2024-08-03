@@ -1,7 +1,7 @@
 ---
 title: Unlock the Power of ChatGPT with These 5 Steps - No Account Necessary
-date: 2024-07-26 18:57:37
-updated: 2024-07-29 10:24:20
+date: 2024-08-02T15:57:31.353Z
+updated: 2024-08-03T15:57:31.353Z
 tags:
   - chatgpt
   - open-ai
@@ -23,18 +23,27 @@ thumbnail: https://thmb.techidaily.com/f242798f01f6eb6860b3f63a7fdce4b4bcb3c643f
 
  Bing Chat is probably the easiest way for most people to use ChatGPT without an OpenAI account. The Microsoft chatbot is based on the GPT-4 version of the platform. Additionally, it can also incorporate "live results" from current data sources into its results.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ![Screenshot Of Bing Chat confirming no OpenAI account is needed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-bing-chat-confirming-no-openai-account-is-needed.jpg)
 
  To use Bing Chat, you need a Microsoft account and access to Microsoft Edge. You may already have a Microsoft account if you are a Windows User. The exception is if it is a local account; a[local account differs substantially from a Microsoft account](https://www.makeuseof.com/ways-microsoft-and-local-account-different-windows/) .
 
  Once you have your account details, accessing the chatbot is simple—use Microsoft Edge to navigate to the new[Bing](https://www.bing.com/new) , and the magic of ChatGPT will be at your fingertips.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ## 2\. Bing Mobile App
 
 ![Screenshot_of Bing app opening screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot_of-bing-app-opening-screen.jpg)
 
 ![Screenshot of Bing Chat Opening Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-bing-chat-opening-screen.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of Bing answering query](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-bing-answering-query.jpg)
 
 Close
@@ -53,6 +62,9 @@ Close
 * **Adding AI** **replies to Google searches** : Merlin appears as an "alternative" answer to Google queries.
 * **Summarize blog posts or YouTube videos** : Merlin can be used to bullet point blog posts and videos. It can also transcribe entire YouTube videos, although there are already plenty of[YouTube extensions that perform transcribing and other tasks admirably](https://www.makeuseof.com/ai-apps-extensions-for-a-better-youtube-experience/) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Screenshot of Merlin Google integration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-merlin-google-integration.jpg)
 
  Installing this is simple, although you will need to sign up for a Merlin account. This is slightly more restrictive than standalone chatbots, but it is a good premise and works well.
@@ -61,6 +73,9 @@ Close
 
 ## 4\. ChatGPT Writer
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Screenshot ChatGPT Writer home](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-chatgpt-writer-home.jpg)
 
  This is very similar to the Merlin Chat extension. It works by embedding itself within your chosen browser (Chrome or Edge) and from here it can be called up to perform a variety of tasks.
@@ -69,12 +84,18 @@ Close
 
  We tested it using Gmail, writing a fictional email requesting more details in support of a job application and asking ChatGPT Writer to respond. The results were impressive, and the tool was easily accessible from the**Gmail** **reply toolbar** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot ChatGPT Writer gmail response screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-chatgpt-writer-gmail-response-screen.jpg)
 
  Overall, this was a smooth experience that just edged Merlin in terms of ease of use.
 
 **Download** : ChatGPT Writer for[Google Chrome/Microsoft Edge](https://chrome.google.com/webstore/detail/chatgpt-writer-write-mail/pdnenlnelpdomajfejgapbdpmjkfpjkp/related) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Forefront.AI
 
 ![forefront ai chatgpt prompt output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/forefront-ai-chatgpt-prompt-output.jpg)
@@ -83,6 +104,9 @@ Close
 
  Forefront.AI's ChatGPT-3.5 output matches (or is extremely similar to) what you'll find on OpenAI's ChatGPT, so you can be assured you're getting the same responses.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![chatgpt wood chuck chuck prompt response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-wood-chuck-chuck-prompt-response.jpg)
 
 ## Using ChatGPT Without an OpenAI Account

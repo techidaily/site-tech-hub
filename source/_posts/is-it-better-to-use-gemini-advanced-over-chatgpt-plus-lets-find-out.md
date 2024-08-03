@@ -1,7 +1,7 @@
 ---
 title: Is It Better to Use Gemini Advanced Over ChatGPT Plus? Let's Find Out
-date: 2024-07-23 12:39:15
-updated: 2024-07-25 12:41:53
+date: 2024-08-02T15:57:35.026Z
+updated: 2024-08-03T15:57:35.026Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/c6867ae9c4f4e3df3c9379b15f4163ebd35319a50
 
 ## Is It Better to Use Gemini Advanced Over ChatGPT Plus? Let's Find Out
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [User Interface](https://www.makeuseof.com/gemini-advanced-vs-chatgpt-plus/#user-interface)
@@ -65,6 +68,9 @@ Close
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ### Image Summarization
 
  When asked to summarize an image, both express an inability to fetch the image over the internet. The image provided is not behind a firewall, nor is the domain set to block GPTs.
@@ -91,6 +97,9 @@ Close
 
  On the other hand, YouTube is supposed to be Gemini's home turf, and it has a dedicated plugin for YouTube. But yet again, it veers off task and begins summarizing the video instead of providing the full-text transcript. Gemini needs to complete the answer before displaying its summarizing skills.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Transcript generation by Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/14-2.png)
 
  It is YouTube videos only, though. Neither can fetch videos from other online video services.
@@ -105,16 +114,25 @@ Close
 
  Mobile phones, with their built-in cameras and microphones, allow for advanced functions within each chatbot's respective app. I am using a Google Pixel phone for these tests.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Picture Recognition
 
  To test ChatGPT and Gemini Advanced mobile app capabilities, I grabbed a set of headphones and started to ask each app questions. First, why do the headphones have a USB port instead of a regular 3.5mm jack? Both explained it well enough and when asked how I could connect them to the phone for audio, both of them answered correctly.
 
 ![Question on the photo taken answered by ChatGPT on phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/26-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Question on the photo taken answered by Google Gemini on phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/26-2.png)
 
 ![Photo related question answered by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/27-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Photo related question answered by Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/27-2.png)
 
 Close
@@ -123,30 +141,51 @@ Close
 
 ![Headphones recognition by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/28-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Headphones recognition by Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/28-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![Where to buy question answered by Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/29.png)
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Speech Recognition
 
  One important feature of the mobile app is how well it recognizes speech. ChatGPT listens till you pause and then converts it into text, and its output is accurate.
 
 ![Speech recording for conversion to text by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/30-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Speech conversion to text in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/30-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Converted text from speech prompt answered by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/30-3.png)
 
 Close
 
  Google has mastered this art, and Gemini Advanced's voice recognition is live, seamless, and accurate.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Speech to text conversion in Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/31-1.png)
 
 ![Converted text from speech prompt answered by Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/31-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Translation to telugu by Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/31-3.png)
 
 Close
@@ -159,6 +198,10 @@ Close
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ## Computation and Reasoning
 
  The ideal use of a GPT is to solve complex problems. Feed in tons of data, and it can churn out answers at the speed of light. So, what better way to test ChatGPT Plus and Gemini Advanced than to solve problems?
@@ -193,12 +236,20 @@ Close
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ### Programming
 
  Programming is the holy grail of AI, and bringing a layman's idea to life will be the pinnacle. When asked to write a code to delay the text input, both ChatGPT and Gemini Advanced did a wonderful job. It took a few more iterations to customize the code to fit the purpose, but it did work in the end. Each tool receives a point for this one.
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ### Creative Writing
 
  I asked both tools to write a 100-word story on AI. Most GPTs and AI tools are strong at writing creative stories, and both did well at this task.
@@ -215,6 +266,9 @@ Close
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Pricing and Limits
 
  Both ChatGPT Plus and Google Gemini cost $20 per month.[ChatGPT has a limit of 40 messages every 3 hours](https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4) , while Gemini allows 50\. A point here for Gemini.

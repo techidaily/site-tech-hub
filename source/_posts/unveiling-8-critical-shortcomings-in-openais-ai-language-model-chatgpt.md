@@ -1,7 +1,7 @@
 ---
 title: Unveiling 8 Critical Shortcomings in OpenAI's AI Language Model, ChatGPT
-date: 2024-07-23 11:43:56
-updated: 2024-07-26 12:42:36
+date: 2024-08-02T15:57:31.919Z
+updated: 2024-08-03T15:57:31.919Z
 tags:
   - chatgpt
   - open-ai
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/0e797ac9495f1912f56b8317309a2339c9d64cc11
 
  ChatGPT has undoubtedly made history as the most popular AI chatbot to hit our screens, but it has no shortage of competitors. One such competitor, Claude, offers an impressive AI chatbot service, but does this outshine ChatGPT?
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## What Are ChatGPT and Claude?
 
  You've likely already heard of OpenAI's ChatGPT AI chatbot and its GPT[LLM (large language model)](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) . While ChatGPT is presented as a chatbot, incredible work has been done behind the scenes to make it a knowledge hub.
@@ -35,6 +38,9 @@ We'll be using Claude 1.3 and Claude 2 in this comparison.
 
  ChatGPT's two most recent versions, GPT-3.5 and GPT-4, can be used, though the latter is only available via ChatGPT Plus. GPT-4 has far more parameters than GPT-3.5 and a higher character input and output limit. Again, both iterations of ChatGPT will be discussed here.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ## ChatGPT vs. Claude: a Quick Comparison
 
  Before discussing ChatGPT and Claude's pros and cons in depth, we've provided a simple comparison table that you can use to understand the basics.
@@ -55,6 +61,9 @@ As you can see, there are several differences to consider.
 
  In what ways does ChatGPT outshine Claude? What perks and advantages does it boast?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### ChatGPT's Pros
 
  ChatGPT offers great features and benefits to its users, starting with its ability to fulfill prompts.
@@ -93,6 +102,9 @@ Additionally, ChatGPT has a wide range of browser plugins, including:
 
 So, how does Claude compare to ChatGPT?
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Claude's Pros
 
  There are some[ways in which Claude outshines ChatGPT](https://www.makeuseof.com/ways-claude-ai-chatbot-better-than-chatgpt/) , which we'll get into here.
@@ -117,6 +129,9 @@ So, how does Claude compare to ChatGPT?
 
  Like ChatGPT, Claude is also at risk of hallucinating, which is important to remember.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ChatGPT vs. Claude: a Direct Comparison
 
  To further understand how these two AI chatbots and their respective LLMs work, let's provide each with the same prompts to see how they react.
@@ -127,6 +142,9 @@ So, how does Claude compare to ChatGPT?
 
  Both ChatGPT and Claude provided poems that fit the parameters of the prompt.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![screenshot of chatgpt poem prompt response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-poem-prompt.jpg)
 
  ChatGPT's poem was a little shorter, highlighting that it followed the requested ABAB rhyming structure.
@@ -135,6 +153,9 @@ So, how does Claude compare to ChatGPT?
 
  On the other hand, Claude provided a slightly lengthier poem, but both are fairly equal in their creative abilities.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Mathematical Abilities
 
  We also asked both ChatGPT and Claude to solve a mathematical equation. Both chatbots were given the same trigonometry question, which involved finding the value of an angle.
@@ -149,6 +170,9 @@ When given the same problem, Claude gave us the following response:
 
  Interestingly, both chatbots gave different outcomes, with ChatGPT providing the correct answer.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 3\. Translation
 
  Lastly, we asked ChatGPT and Claude to translate a paragraph of Japanese into English. The original paragraph reads:

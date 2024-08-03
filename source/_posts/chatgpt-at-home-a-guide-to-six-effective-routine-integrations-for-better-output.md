@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT at Home: A Guide to Six Effective Routine Integrations for Better Output"
-date: 2024-07-27 19:53:51
-updated: 2024-07-29 12:26:59
+date: 2024-08-02T15:57:55.431Z
+updated: 2024-08-03T15:57:55.431Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/2ef59ce044e2e7e5ba0e6dcc5016c001910532c38
 
 ## Ultimate Guide: Discover the 5 Most Effective GitHub Copilot Alternatives for VS Code
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Install ChatGPT extensions for VS Code to access AI assistance within your programming environment. It covers various coding needs like unit testing, debugging, documentation, code explanation, and code generation.
@@ -27,6 +30,18 @@ thumbnail: https://thmb.techidaily.com/2ef59ce044e2e7e5ba0e6dcc5016c001910532c38
 
  Here are the handiest ChatGPT extensions you can install for VS Code today.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1.[ChatGPT - EasyCode](https://marketplace.visualstudio.com/items?itemName=EasyCodeAI.chatgpt-gpt4-gpt3-vscode)
 
 ![ChatGPT by EasyCode AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-by-easycode-ai.jpg)
@@ -47,6 +62,9 @@ thumbnail: https://thmb.techidaily.com/2ef59ce044e2e7e5ba0e6dcc5016c001910532c38
 
  Another valuable feature is code indexing, allowing you to highlight your code and seek help in navigating complex situations. This extension requires an OpenAI API key, which you'll set in its settings menu after installation. However, the extension may fail if you’ve exhausted your free OpenAI credit.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 3.[Code GPT](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt)
 
 ![Code GPT 4 interface VS Code extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/code-gpt-4-interface-vs-code-extension.jpg)
@@ -57,8 +75,14 @@ thumbnail: https://thmb.techidaily.com/2ef59ce044e2e7e5ba0e6dcc5016c001910532c38
 
  It features built-in and custom prompts. A small setback is that it only allows a maximum of 800 tokens per request, so it supports less text than some other providers.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4.[ChatGPT Helper](https://marketplace.visualstudio.com/items?itemName=kiranshah.chatgpt-helper)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ![ChatGPT Helper extsnion VS Code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-helper-extsnion-vs-code.jpg)
 
  The ChatGPT Helper VS Code extension is a simple AI assistant you can add to VS Code if you only need to solve programming problems quickly. This extension is straightforward to use and only designed for accepting a limited number of built-in prompts.
@@ -67,6 +91,9 @@ thumbnail: https://thmb.techidaily.com/2ef59ce044e2e7e5ba0e6dcc5016c001910532c38
 
  However, unlike other ChatGPT extensions, it doesn't have a chat feature. But you can send custom and built-in prompts via VS Code's command palette. It writes responses in separate text files, allowing you to save prompt replies for later.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ## 5.[ChatGPT - Genie AI](https://marketplace.visualstudio.com/items?itemName=genieai.chatgpt-vscode)
 
 ![Genie AI ChatGPT extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/genie-ai-chatgpt-extension.jpg)
@@ -87,6 +114,9 @@ thumbnail: https://thmb.techidaily.com/2ef59ce044e2e7e5ba0e6dcc5016c001910532c38
 
  Like other ChatGPT extensions, it features built-in prompts and accepts custom ones via the chat menu. Overall, this extension wouldn't have made our list of the best ChatGPT extensions for VS Code. But it's free and may be handy when you exhaust your free credit. However, be careful to[prevent your session from getting hijacked](https://www.makeuseof.com/what-is-session-hijacking-how-to-prevent/) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ## Use ChatGPT Productively in VS Code
 
  ChatGPT and other generative AI models have found valuable uses in our daily lives. Whether we accept them or not, they're here to stay. These AI tools are more helpful than they are threatening if you use them productively.

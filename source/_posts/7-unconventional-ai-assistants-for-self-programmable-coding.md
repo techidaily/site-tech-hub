@@ -1,7 +1,7 @@
 ---
 title: 7 Unconventional AI Assistants for Self-Programmable Coding
-date: 2024-07-23 13:53:58
-updated: 2024-07-24 11:32:41
+date: 2024-08-02T15:57:38.648Z
+updated: 2024-08-03T15:57:38.648Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,14 @@ thumbnail: https://thmb.techidaily.com/9b4ef88ca5d37551ec4a533dabc3804d405a74574
 
 ## Can You Count on ChatGPT for Reliable Text Summarization? Think Again
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [ChatGPT Can Ignore or Misunderstand Your Prompt](https://www.makeuseof.com/why-you-shouldnt-trust-chatgpt-to-summarize-your-text/#chatgpt-can-ignore-or-misunderstand-your-prompt)
@@ -23,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/9b4ef88ca5d37551ec4a533dabc3804d405a74574
 * [ChatGPT Can Get Facts Wrong](https://www.makeuseof.com/why-you-shouldnt-trust-chatgpt-to-summarize-your-text/#chatgpt-can-get-facts-wrong)
 * [ChatGPT Can Get Word or Character Limits Wrong](https://www.makeuseof.com/why-you-shouldnt-trust-chatgpt-to-summarize-your-text/#chatgpt-can-get-word-or-character-limits-wrong)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * ChatGPT can misinterpret prompts, deviate from instructions, and fail to recognize specific words. Be precise and monitor its responses.
@@ -31,6 +46,9 @@ thumbnail: https://thmb.techidaily.com/9b4ef88ca5d37551ec4a533dabc3804d405a74574
 
  There are limits to what ChatGPT knows. And its programming forces it to deliver what you ask for, even if the result is wrong. This means ChatGPT makes mistakes, and moreover, there are some common mistakes it makes, especially when it’s summarizing information and you’re not paying attention.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## ChatGPT Can Ignore or Misunderstand Your Prompt
 
  If you give the chatbot lots of data to sort through, even a complex prompt, it’s likely to deviate from your instructions and follow its own interpretation of them.
@@ -39,10 +57,16 @@ thumbnail: https://thmb.techidaily.com/9b4ef88ca5d37551ec4a533dabc3804d405a74574
 
  In the following example, ChatGPT got lots of information about the linguistic function of emojis. The intentionally simple prompt asked the chatbot to summarize everything and explain the links between emojis and cultures.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT Misintepreting a Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-misintepreting-a-prompt.jpg)
 
  The chatbot merged both answers into one paragraph. A follow-up prompt with clearer instructions asked it to dip into its knowledge pool, too.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![ChatGPT Breaking Down Information as Instructed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-breaking-down-information-as-instructed.jpg)
 
  This is why you should keep your instructions precise, provide context when necessary, and keep an eye on ChatGPT’s results. If you flag up any mistake immediately, the chatbot can produce something more accurate.
@@ -55,6 +79,9 @@ thumbnail: https://thmb.techidaily.com/9b4ef88ca5d37551ec4a533dabc3804d405a74574
 
  To test ChatGPT, it was asked to summarize a length of text on must-see Scottish destinations and create an itinerary for a family vacation.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT Summarizing Holiday Destinations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-summarizing-holiday-destinations.jpg)
 
  When asked if it omitted details, it admitted that, yes, it left certain information out, such as specific attractions and transportation options. Conciseness was its goal.
@@ -63,6 +90,9 @@ thumbnail: https://thmb.techidaily.com/9b4ef88ca5d37551ec4a533dabc3804d405a74574
 
  If left to its own devices, there’s no guarantee that ChatGPT will use the details you expect. So, plan and phrase your prompts carefully to ensure the chatbot’s summary is spot on.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ## ChatGPT Can Use Wrong or False Alternatives
 
  OpenAI has updated GPT-4o with data available up to October 2023, while GPT-4 Turbo's cut-off is December of the same year. However, the algorithm’s knowledge isn’t infinite or reliable with real-time facts—it doesn’t know everything about the world. Furthermore, it won’t always reveal that it lacks data on a particular subject unless you ask it directly.

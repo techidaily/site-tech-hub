@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Virtual Assistants: The Science Behind Programming Chatbots to Engage Like People"
-date: 2024-07-24 15:12:50
-updated: 2024-07-25 11:15:53
+date: 2024-08-02T15:58:19.114Z
+updated: 2024-08-03T15:58:19.114Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/8edbdeedec707f11bb72a9ed7f55e988ffc8071ba
 
 ## Best Programming Assistant of 2023: GitHub Copilot or ChatGPT Takes on the Challenge
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [What Is GitHub Copilot?](https://www.makeuseof.com/github-copilot-vs-chatgpt-which-better-programming/#what-is-github-copilot)
@@ -35,6 +38,18 @@ thumbnail: https://thmb.techidaily.com/8edbdeedec707f11bb72a9ed7f55e988ffc8071ba
 
  So, which one should you be using?
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is GitHub Copilot?
 
  GitHub Copilot is an AI-powered code completion tool developed by GitHub in collaboration with OpenAI. With the power of GPT-4, it provides real-time code suggestions as you type, helping to streamline the coding process. It is a paid service that you can easily use with most popular environments, including Visual Studio, Visual Studio Code, Vim/Neovim, Azure Data Studio, and JetBrains.
@@ -45,6 +60,9 @@ thumbnail: https://thmb.techidaily.com/8edbdeedec707f11bb72a9ed7f55e988ffc8071ba
 
  This makes it a good programming tool as it can help clarify concepts, provide explanations, and even generate pseudocode based on user input. ChatGPT is a versatile tool. You can use it for non-coding tasks like planning, brainstorming, and problem-solving, all of which are useful in software development.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Comparing GitHub Copilot and ChatGPT
 
  So, which AI tool should you use for programming? Here’s a break-down of the strengths and weaknesses of each tool:
@@ -66,6 +84,9 @@ thumbnail: https://thmb.techidaily.com/8edbdeedec707f11bb72a9ed7f55e988ffc8071ba
 
  GitHub Copilot can save you a lot of typing by providing contextually correct suggestions:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Advanced Code Completion with GitHub Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/github-copilot-adavanced-code-suggestions.jpg)
 
  Aside from advanced code completion, you can also use GitHub Copilot for refactoring, helping you[write cleaner and better code](https://www.makeuseof.com/tag/10-tips-writing-cleaner-better-code/) . And since it’s integrated into your programming environment, it’s more quickly available than a web app like ChatGPT. This saves you time and concentration, especially over long coding sessions.
@@ -82,10 +103,16 @@ thumbnail: https://thmb.techidaily.com/8edbdeedec707f11bb72a9ed7f55e988ffc8071ba
 
  Furthermore, its integration with popular IDEs, multi-language support, and collaborative coding system ensures GitHub Copilot works well on any team-based project. Whether you're programming for a passion project or a team player in a large company, GitHub Copilot provides advanced AI capabilities that make coding fast and easy.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## ChatGPT Is Better for Learning
 
  While ChatGPT may not match GitHub Copilot's prowess in code completion, it excels in other aspects outside of programming. It can be an invaluable tool for designing and brainstorming your project.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Asking development related questions with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/asking-developer-questions.jpg)
 
  If you’re learning to code, you can prompt ChatGPT to generate pseudocode to help you explore different solutions for a specific problem.
@@ -102,8 +129,14 @@ thumbnail: https://thmb.techidaily.com/8edbdeedec707f11bb72a9ed7f55e988ffc8071ba
 
  What’s great about ChatGPT is that it offers a completely free version that you can use throughout your learning process. Of course, a paid subscription does have extra benefits like better response quality and plugins. But overall, as long as you[employ prompting techniques](https://www.makeuseof.com/how-to-get-best-results-from-chatgpt/) , the free version should work fine as a learning tool.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## You Can Always Use Both
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Using both ChatGPT and GitHub Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/using-chatgpt-and-github-copilot.jpg)
 
  Why choose between GitHub Copilot and ChatGPT when you can use both to your benefit? Integrating these tools into your workflow can offer the best of both worlds.

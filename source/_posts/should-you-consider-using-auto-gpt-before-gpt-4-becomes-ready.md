@@ -1,7 +1,7 @@
 ---
 title: Should You Consider Using Auto-GPT Before GPT-4 Becomes Ready?
-date: 2024-07-25 20:40:54
-updated: 2024-07-28 12:24:28
+date: 2024-08-02T15:58:14.664Z
+updated: 2024-08-03T15:58:14.664Z
 tags:
   - chatgpt
   - open-ai
@@ -47,20 +47,35 @@ thumbnail: https://thmb.techidaily.com/fa21f0e3da9170853bae87f9e51fccaaee500ab18
 
  Likewise, ChatGPT’s model has limited knowledge of real-world events after 2021\. It can’t access publications and media outlets. The platform even malfunctions when you ask for simple weather updates.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT Can't Provide Weather Update Because It's Not Connected to the Internet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-can-t-answer-weather-update.jpg)
 
  Meanwhile, Bing Chat has access to real-time sources. The below image shows its capacity to produce comprehensive weather updates based on your location.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![Bing Chat Providing a Weather Update from the Internet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bing-chat-answer-weather-question.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. Bing Chat Offers GPT-4 for Free
 
  You must pay for ChatGPT Plus to access GPT-4\. Free ChatGPT users can only use GPT-3.5, although they might get a slight upgrade[when GPT-5 launches](https://www.makeuseof.com/when-will-gpt5-launch/) . Alternatively, Bing Chat offers GPT-4 for free. Just download Microsoft Edge, and you’re good to go—there’s no need to buy anything else.
 
  ChatGPT Plus costs $20 a month. While the fees won’t make you go bankrupt, you might want to minimize your expenses if you already have other premium tools. Otherwise, your subscriptions might eat up your profits.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ## 5\. You Can Use Bing Chat on Different Platforms
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Using Bing Chat on Bing App for Smartphones](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bing-chat-on-mobile-1.jpg)
 
 ![Using the Bing Chatbot on Skype](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bing-chat-on-skype.jpg)
@@ -79,10 +94,30 @@ Close
 
  Take the below prompt as an example. ChatGPT rejected our role-play request because Tomie is an evil fictional character.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ![ChatGPT Refuses to Roleplay as Tomie the Character ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-rejects-roleplay-request-as-tomie.jpg)
 
 But it obliged after we rephrased our prompt.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ![ChatGPT Roleplaying as Tomie from the Manga Tomie](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-accepting-roleplay-request.jpg)
 
  Meanwhile, Bing Chat ignored our requests outright, regardless of our phrasing.
@@ -93,6 +128,9 @@ But it obliged after we rephrased our prompt.
 
  Just note that some jailbreak prompts might stop working. OpenAI routinely updates its guidelines to prevent crooks from exploiting ChatGPT’s vulnerabilities.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Bing Chat Mimics Human-Like Text Better
 
  Regardless of your profession, never claim ownership of AI-generated content. AI only references third-party sources. ChatGPT rephrases information from its datasets, while Bing Chat excerpts output from relevant sites. Either way, passing them off as your own classifies as plagiarism.
@@ -110,6 +148,9 @@ But it obliged after we rephrased our prompt.
 
 Meanwhile, Bing Chat’s phrases flow smoothly.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Bing Chat Writing Cover Letter for Content Writer Application](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bing-chat-writing-cover-letter.jpg)
 
 ## 8\. OpenAI Offers Several AI Tools
@@ -118,6 +159,9 @@ Meanwhile, Bing Chat’s phrases flow smoothly.
 
  Explore OpenAI’s systems. Developers, programmers, and prompt engineers might find them helpful. You could even build AI-integrated apps from scratch.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Find the Right AI Chatbot for Your Freelance Business
 
  Whether you should get Bing Chat or ChatGPT depends on your freelancing needs. If your job involves extensive research, use Bing Chat. It lists its sources and lets you use the search engine quickly. Alternatively, ChatGPT suits OpenAI coders and programmers who prefer testing versatile platforms compatible with Google Chrome.

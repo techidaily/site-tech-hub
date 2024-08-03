@@ -1,7 +1,7 @@
 ---
 title: Defending Against Leaks in Professional AI Dialogues
-date: 2024-07-23 20:10:34
-updated: 2024-07-25 10:15:47
+date: 2024-08-02T15:58:14.990Z
+updated: 2024-08-03T15:58:14.990Z
 tags:
   - chatgpt
   - open-ai
@@ -23,8 +23,14 @@ thumbnail: https://thmb.techidaily.com/7190f701d24b2bca2702a5bcd803eaeb74415822a
 
  As ChatGPT advances, it has the potential to transform the healthcare sector completely. When integrated with health systems, it may improve patient access to care and boost doctors' work efficiency. However, because it is AI-based, several concerns about its potential dangers exist.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. ChatGPT Has Limited Knowledge
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![Pig-to-heart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/pig-to-heart.jpg)
 
  ChatGPT does not know everything. According to OpenAI, ChatGPT has limited knowledge, particularly when it comes to what happened after September 2021\.
@@ -41,12 +47,18 @@ thumbnail: https://thmb.techidaily.com/7190f701d24b2bca2702a5bcd803eaeb74415822a
 
  Because ChatGPT cannot independently research or verify material, it cannot differentiate between fact and fiction. Respected medical journals, including the Journal of the American Medical Association (JAMA), have established strict regulations that only humans can write scientific studies published in the journal. As a result, [you should constantly fact-check ChatGPT's responses](https://www.makeuseof.com/fact-check-health-information-chatgpt-ai-sources/).
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. ChatGPT Does Not Physically Examine You
 
  Medical diagnoses are not solely dependent on symptoms. Physicians can gain insights into the pattern and severity of an illness through a patient's physical examination. In order to diagnose patients, doctors today use both medical technologies and the five senses.
 
  ChatGPT cannot perform a complete virtual checkup or even a physical examination; it can only reply to the symptoms you provide as messages. For a patient's safety and care, errors in physical examination—or completely ignoring physical examination—can be harmful. Because ChatGPT didn't physically examine you, it will offer an incorrect diagnosis.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. ChatGPT Can Provide False Information
 
 ![ChatGPT False Response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-false-response.jpg)
@@ -61,10 +73,16 @@ thumbnail: https://thmb.techidaily.com/7190f701d24b2bca2702a5bcd803eaeb74415822a
 
 ## 5\. ChatGPT Is Just an AI Language Model
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT Medical](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-medical.jpg)
 
  Language models function by memorizing and generalizing text rather than examining or studying a patient's condition. Despite generating responses that match human standards in terms of language and grammar, [ChatGPT still contains a number of problems](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/), much like other AI bots.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ## ChatGPT Is Not a Replacement for Your Doctor
 
  Human doctors will always be needed to make the final call on healthcare decisions. ChatGPT usually advises speaking with a licensed healthcare practitioner when you ask for medical advice.

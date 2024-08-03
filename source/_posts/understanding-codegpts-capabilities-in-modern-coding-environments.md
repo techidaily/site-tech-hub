@@ -1,7 +1,7 @@
 ---
 title: Understanding CodeGPT's Capabilities in Modern Coding Environments
-date: 2024-07-27 21:20:54
-updated: 2024-07-28 12:35:59
+date: 2024-08-02T15:58:02.245Z
+updated: 2024-08-03T15:58:02.245Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,14 @@ thumbnail: https://thmb.techidaily.com/b1aabf9182a40f39eacfea832a56e2883c1058666
 
 ## Introducing Grok by Elon Musk – Explore Its Capabilities and Find Out the Price Tag
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Elon Musk's AI startup xAI has unveiled Grok, a large language model aiming to compete with other leading models like OpenAI's GPT and Anthropic's Claude.
@@ -27,6 +35,9 @@ thumbnail: https://thmb.techidaily.com/b1aabf9182a40f39eacfea832a56e2883c1058666
 
  Musk has talked xAI's Grok up, but does it have what it takes to compete?
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## What Is xAI's Grok?
 
  Despite Musk regularly reminding the world that AI could be bad, that it could create a world without jobs for regular folks (if you believe Musk's take on this is benign, I have a bridge to sell you), and that the entire focus of AI needs greater governance, Musk proudly proclaimed on X that "In some important aspects, it \[Grok\] is the best that current exists."
@@ -41,6 +52,9 @@ thumbnail: https://thmb.techidaily.com/b1aabf9182a40f39eacfea832a56e2883c1058666
 
  For any casual observer, Musk's chortling about being based is anything but, landing more on the toe-curling plane of discomfort, delivering a visceral sense of embarrassment. But for Musk's legion of fans, xAI's Grok is the long-awaited "answer to the monstrosity of WokeGPT," a reference to the boundaries and perceived neutering of ChatGPT's capabilities by OpenAI.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Does Grok Perform? Is Grok Better Than ChatGPT?
 
  Given only a minute number of users have been given access to Grok so far, most of what we know about its performance comes from xAI. The company was keen to stress that "Grok is still a very early beta product" and that its current performance is "the best we could do with 2 months of training."
@@ -53,6 +67,9 @@ thumbnail: https://thmb.techidaily.com/b1aabf9182a40f39eacfea832a56e2883c1058666
 
  Currently, it's difficult to say whether Grok is better than ChatGPT, and it's clear that Grok is speeding forward based on the work already laid out by other AI research companies.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Much Will Grok Cost? Who Can Use Grok?
 
  Grok is still currently in early testing. Limited beta access has been granted to a small number of X Premium Plus users, which currently costs $16 per month. Once Grok leaves its beta period, it will become available to all X Premium Plus subscribers, dangling a weighty AI-shaped carrot over X verification.
@@ -63,6 +80,9 @@ thumbnail: https://thmb.techidaily.com/b1aabf9182a40f39eacfea832a56e2883c1058666
 
  Musk has indicated that a separate version of Grok may launch in the future, but there is little information on that at the current time.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ## What's Next for xAI's Grok?
 
  xAI's development of Grok ticks off another goal for Musk, who was once part of the OpenAI team. He's long rallied against OpenAI's perceived censorship of ChatGPT, arguing that limiting its capabilities is limiting what people can and should be able to do with such powerful AI tools.

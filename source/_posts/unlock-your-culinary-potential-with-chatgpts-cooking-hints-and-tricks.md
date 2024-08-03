@@ -1,7 +1,7 @@
 ---
 title: Unlock Your Culinary Potential with ChatGPT's Cooking Hints & Tricks
-date: 2024-07-22 18:13:48
-updated: 2024-07-25 11:43:18
+date: 2024-08-02T15:58:06.047Z
+updated: 2024-08-03T15:58:06.047Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,9 @@ thumbnail: https://thmb.techidaily.com/e431075a9d1c5a5fc01489c600cd9d77b46bf785e
 
 ## 1\. Resume and Cover Letter Creator
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ![Screenshot of Custom GPT Resume Maestro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/resume-maestro.jpg)
 
  I built a custom GPT called "Resume Maestro." Once it receives a job post description, it immediately comes up with a resume with the right professional details included. It captures everything from names and contact details to work experience, educational history, and achievements. It also writes a cover letter that isn't just tailored to the job post but also aligns with personal experiences relevant to the job. Better still, its output is immediately available for download as a PDF or Word file, all under ten seconds.
@@ -35,6 +38,9 @@ thumbnail: https://thmb.techidaily.com/e431075a9d1c5a5fc01489c600cd9d77b46bf785e
 
 ## 2\. Translation Tool
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Screenshot of Custom GPT called Pidgin Hero](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/pidgin-hero-description-card.jpg)
 
  In the weeks following ChatGPT's release, we tested[ChatGPT's ability to translate text compared to Google Translate](https://www.makeuseof.com/chatgpt-vs-google-translate-which-is-better-at-translation/) . While Google's translation tool performed admirably against the massive power that is ChatGPT, it struggled with certain languages like Pidgin English, a widely spoken Creole in parts of West Africa. Although ChatGPT was better in this aspect, it also struggled as well.
@@ -43,14 +49,23 @@ thumbnail: https://thmb.techidaily.com/e431075a9d1c5a5fc01489c600cd9d77b46bf785e
 
 **Try this GPT:** [Pidgin Hero](https://chat.openai.com/g/g-CcgN0HIuC-pidgin-hero) .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ## 3\. Programming Project Assistant
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Custom chatgpt screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-chatgpt-screenshot.jpg)
 
  It is no news that[ChatGPT can write code](https://www.makeuseof.com/chatgpt-programming-practical-uses/) . It could write code since the days of GPT-3.5 and has improved significantly with the arrival of GPT-4 and the GPT-4 Turbo. However, although the chatbot is quite adept at solving programming problems, it doesn't perform particularly well within the context of a single project since it has a limited context window and cannot soak up all the details of a project to provide a context-specific solution.
 
  You can deploy custom GPTs to solve this problem. Simply prompt the chatbot to create a specialized GPT that focuses on the programming languages used in your project, then upload your entire project files, including a detailed description of what you're trying to build. Whenever you run into a problem with the project, prompt the GPTs, and you'll get a much more precise and relevant solution than you'd get from your regular ChatGPT.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Personal Movie Recommender
 
 ![movie recommender Custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/movie-recommender-custom-gpt.jpg)
@@ -61,8 +76,14 @@ thumbnail: https://thmb.techidaily.com/e431075a9d1c5a5fc01489c600cd9d77b46bf785e
 
 **Try this GPT** :[K-Drama Hero](https://chat.openai.com/g/g-WhObLzfn5-k-drama-hero) .
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ## 5\. Interactive Text and Image Games
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Custom ChatGPT game called Dungeon weaver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-chatgpt-game-called-dungeon-weaver.jpg)
 
  Another very exciting use case for GPTs is creating games. You can bring almost any text and image-based games you can think of into reality. You can program, modify the rules, and play games like Tic-Tac-Toe, Hangman, Word Ladder, and more. We've previously created a list of simple but[interesting games you can play with ChatGPT](https://www.makeuseof.com/simple-games-you-can-play-chatgpt/) . You can spice those games up by invoking the DALL-E image creator to create scenery and characters on the go.

@@ -1,7 +1,7 @@
 ---
 title: How to Detect and Handle Illegitimate ChatGPT Sites
-date: 2024-07-24 11:13:33
-updated: 2024-07-27 12:17:21
+date: 2024-08-02T15:58:03.108Z
+updated: 2024-08-03T15:58:03.108Z
 tags:
   - chatgpt
   - open-ai
@@ -19,8 +19,14 @@ thumbnail: https://thmb.techidaily.com/b1b8ad1f82349ebf2764ddbc134fc39036adf7776
 
  Both platforms are impressive in their own right, but which one best suits freelancers? Running multiple tools simultaneously could potentially waste time. Here are eight factors to consider when deciding between Bing Chat and ChatGPT for your freelancing business.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 1\. Bing Chat Lists Down Its Sources
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Bing Chat Listing Its Sources for Outputs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bing-chat-lists-sources.jpg)
 
  Professionals are often cautious when using chatbots for research as these tools don't independently verify facts. AI only states the information in its datasets. Although it references widely trusted sources, inaccuracies may still appear occasionally.
@@ -51,6 +57,9 @@ thumbnail: https://thmb.techidaily.com/b1b8ad1f82349ebf2764ddbc134fc39036adf7776
 
  Meanwhile, Bing Chat has access to real-time sources. The below image shows its capacity to produce comprehensive weather updates based on your location.
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Bing Chat Providing a Weather Update from the Internet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bing-chat-answer-weather-question.jpg)
 
 ## 4\. Bing Chat Offers GPT-4 for Free
@@ -61,8 +70,15 @@ thumbnail: https://thmb.techidaily.com/b1b8ad1f82349ebf2764ddbc134fc39036adf7776
 
 ## 5\. You Can Use Bing Chat on Different Platforms
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Using Bing Chat on Bing App for Smartphones](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bing-chat-on-mobile-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![Using the Bing Chatbot on Skype](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bing-chat-on-skype.jpg)
 
 Close
@@ -83,6 +99,9 @@ Close
 
 But it obliged after we rephrased our prompt.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT Roleplaying as Tomie from the Manga Tomie](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-accepting-roleplay-request.jpg)
 
  Meanwhile, Bing Chat ignored our requests outright, regardless of our phrasing.
@@ -93,6 +112,9 @@ But it obliged after we rephrased our prompt.
 
  Just note that some jailbreak prompts might stop working. OpenAI routinely updates its guidelines to prevent crooks from exploiting ChatGPT’s vulnerabilities.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ## 7\. Bing Chat Mimics Human-Like Text Better
 
  Regardless of your profession, never claim ownership of AI-generated content. AI only references third-party sources. ChatGPT rephrases information from its datasets, while Bing Chat excerpts output from relevant sites. Either way, passing them off as your own classifies as plagiarism.
@@ -106,10 +128,16 @@ But it obliged after we rephrased our prompt.
 
  The below image shows a sample cover letter by ChatGPT. It’s grammatically correct, but it also sounds stiff and awkward.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT Writing a Cover Letter for a Content Writer Application](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-writing-cover-letter-1.jpg)
 
 Meanwhile, Bing Chat’s phrases flow smoothly.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Bing Chat Writing Cover Letter for Content Writer Application](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bing-chat-writing-cover-letter.jpg)
 
 ## 8\. OpenAI Offers Several AI Tools
@@ -118,6 +146,10 @@ Meanwhile, Bing Chat’s phrases flow smoothly.
 
  Explore OpenAI’s systems. Developers, programmers, and prompt engineers might find them helpful. You could even build AI-integrated apps from scratch.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Find the Right AI Chatbot for Your Freelance Business
 
  Whether you should get Bing Chat or ChatGPT depends on your freelancing needs. If your job involves extensive research, use Bing Chat. It lists its sources and lets you use the search engine quickly. Alternatively, ChatGPT suits OpenAI coders and programmers who prefer testing versatile platforms compatible with Google Chrome.

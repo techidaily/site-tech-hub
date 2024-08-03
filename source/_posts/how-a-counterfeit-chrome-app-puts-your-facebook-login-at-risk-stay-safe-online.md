@@ -1,7 +1,7 @@
 ---
 title: How a Counterfeit Chrome App Puts Your Facebook Login at Risk – Stay Safe Online
-date: 2024-07-24 18:38:49
-updated: 2024-07-27 10:23:42
+date: 2024-08-02T15:57:36.132Z
+updated: 2024-08-03T15:57:36.132Z
 tags:
   - chatgpt
   - open-ai
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/836971730456bc9358fe3cf3cc37a571dba17728e
 
  A malicious Chrome extension using ChatGPT's name is being used to steal users' Facebook logins for malicious advertising.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ## A Fake ChatGPT Extension Is Targeting Facebook Users
 
  Facebook and Chrome users are being targeted by a malicious browser extension using the well-known name of the[AI-powered chatbot ChatGPT](https://www.makeuseof.com/what-is-chat-gpt-generative-ai-explained/) .
@@ -31,16 +34,25 @@ Guardio took to Twitter to warn readers of the malicious campaign.
 
  It was also speculated in the blog post that, once the attacker has accessed your data, they will "probably[sell it to the highest bidder](https://www.makeuseof.com/how-can-data-be-sold-dark-web/) as usual."
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Thousands of Facebook Accounts May Have Been Compromised
 
  In this malicious campaign, thousands of Facebook accounts may have been successfully hijacked. In the aforementioned blog post, it was stated that there are "more than 2000 users installing this extension on a daily basis since its first appearance on 03/03/2023."
 
  On top of this, Tal wrote that each one of the individuals installing the add-on "gets his Facebook account stolen and probably this is not the only damage," suggesting that other consequences may arise from the extension's presence.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Malicious App Has Been Removed from Chrome
 
  Though thousands have downloaded this phony browser extension, it has now been taken down from the Google Chrome Store, preventing further attacks via Chrome-based downloads. It is not yet known exactly how many people have been affected by this campaign, but the number of installations is a definite concern.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## ChatGPT's Name Is Consistently Used by Scammers
 
  Since ChatGPT's rise to fame, its name has been repeatedly used by cybercriminals to gain the trust of potential victims. Whether its phony ChatGPT-related tokens, or malicious Chat GPT-branded extensions, the popularity of this AI-powered chatbot is undoubtedly being exploited by malicious actors to steal data and money.

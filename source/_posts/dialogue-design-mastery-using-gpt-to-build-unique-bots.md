@@ -1,7 +1,7 @@
 ---
 title: "Dialogue Design Mastery: Using GPT to Build Unique Bots"
-date: 2024-07-24 16:25:15
-updated: 2024-07-25 10:50:48
+date: 2024-08-02T15:58:15.012Z
+updated: 2024-08-03T15:58:15.012Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/28b1ebd463673cb8f4ec1dcff8b4e8726440d728e
 
 ## Personalized AI Now Possible with ChatGPT's Latest Update - Build Unique GPT Models Easily
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * The arrival of GPT-4 Turbo introduces significant improvements to ChatGPT, including a larger context window, up-to-date knowledge base, and improved instruction following abilities. It offers the largest context window of any commercially available AI chatbot.
@@ -25,6 +28,9 @@ thumbnail: https://thmb.techidaily.com/28b1ebd463673cb8f4ec1dcff8b4e8726440d728e
 
  There's a lot to get through, and we don't want you to miss out—so we’ve explored the latest ChatGPT update to see how it will impact your experience with the AI chatbot.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 1\. The Arrival of GPT-4 Turbo
 
  Without a doubt, the most significant addition to ChatGPT is the GPT-4 Turbo model. While GPT-4 Turbo is not an entirely new AI model, it features several game-changing improvements, including a larger context window, a more recent cutoff date, improved instruction following abilities, and improved multimodal abilities. How will this impact your ChatGPT experience?
@@ -39,12 +45,23 @@ thumbnail: https://thmb.techidaily.com/28b1ebd463673cb8f4ec1dcff8b4e8726440d728e
 
  Also, ChatGPT Plus users can rejoice—the cumbersome dropdown menu for switching between models will soon be retired. ChatGPT’s upgraded multimodal skills owing to GPT-4 Turbo’s upgrades will allow it to automatically select the optimal model for a given task, goodbye to manual toggling. This improvement may seem minor, but power users will appreciate not having to constantly switch models mid-conversation.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ## 2\. Ability to Create Custom GPTs
 
  GPT-4 Turbo’s arrival is big news, but what you’ll perhaps find more exciting is the ability GPTs feature. In its simplest form, custom GPTs allow you to create mini versions of ChatGPT customized for specific purposes. ​I knocked up an example of an extremely basic custom GPT in seconds, asking the model to help me in Football Manager 2024.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![chatgpt custom gpt model football manager example november 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/chatgpt-custom-gpt-model-football-manager-example-november-2023.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![chatgpt custom gpt model football manager example with suggestions november 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/chatgpt-custom-gpt-model-football-manager-example-with-suggestions-november-2023.jpg)
 
 Close
@@ -57,6 +74,10 @@ Close
 
  You can build a custom GPT, or you can choose from a long list of hundreds of pre-built options to supercharge your prompting experience. Since they are optimized for particular functions, you can get even better responses than regular ChatGPT for niche uses. The[pre-built GPTs have already been primed](https://www.makeuseof.com/how-use-chatgpt-my-gpt-bots/) with specialized knowledge to supercharge performance for targeted prompting.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ![list of new integrated chatgpt bots november 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/list-of-new-integrated-chatgpt-bots-november-2023.jpg)
 
  With so many to select from, you can find a tailored GPT for nearly any purpose you can imagine. Options include a Creative Writing Coach to provide feedback on your work, a Math Mentor to explain complex concepts, and a Trip Planner to craft your perfect vacation. You can even get a Laundry Buddy for stain help or a Game Time assistant to explain the rules for family game night. Each prebuilt option has niche expertise to deliver superior performance for prompts related to its focus area. With this expansive range of GPTs, you can easily find a customized AI with the ideal skills and knowledge to supercharge prompting in your unique domain of interest. GPTs allow you to tap into the power of customized AI without the effort of creating your own.

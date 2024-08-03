@@ -1,7 +1,7 @@
 ---
 title: Elevate ChatGPT Responses Through Proven Techniques – Discover the 7 Most Impactful Ones
-date: 2024-07-26 19:32:59
-updated: 2024-07-28 11:39:23
+date: 2024-08-02T15:58:05.168Z
+updated: 2024-08-03T15:58:05.168Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/4ccddc2cbd35cdd9b67d25078c429c9af70b9857f
 
 ## Navigate Through the Best Free AI Image Synthesis Programs – Our Open Source Selection
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [Craiyon](https://www.makeuseof.com/best-open-source-ai-image-generators/#craiyon)
@@ -27,6 +30,9 @@ thumbnail: https://thmb.techidaily.com/4ccddc2cbd35cdd9b67d25078c429c9af70b9857f
 
  There are dozens of free and open-source AI text-to-image generators available on the internet that specialize in specific kinds of images. So, we've sifted through the pile and found the best open-source AI text-to-image generators you can try right now.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1 [Craiyon](https://www.craiyon.com/)
 
 ![craiyon-home-page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/craiyon-home-page.jpg)
@@ -45,10 +51,16 @@ thumbnail: https://thmb.techidaily.com/4ccddc2cbd35cdd9b67d25078c429c9af70b9857f
 
  The model is free to use, but free users are limited to nine free images at a time within a minute. You can subscribe to their Supporter or Professional tiers (priced at $5 and $20 a month, respectively, and billed annually) to get no ads or watermarks, faster generation, and the option to keep your generated images private. A Custom subscription tier also allows custom models, integration, dedicated support, and private servers.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2 [Stable Diffusion 1.5](https://github.com/runwayml/stable-diffusion)
 
  Stable Diffusion is perhaps one of the most popular open-source text-to-image generation models. It also powers other models, including the three image generators mentioned below. It was released in 2022 and has had many implementations since.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![stable-diffusion-web-ui](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/stable-diffusion-web-ui.jpg)
 
  I'll spare you the overly technical details of how the model works (for which you can check out their[official Github repository](https://github.com/runwayml/stable-diffusion) ), but the model is easy to install even for complete beginners and works well as long as you have a dedicated GPU with at least 4GB of memory. You can also access[Stable Diffusion](https://stablediffusionweb.com/) online, and we've got you covered if you want to[run Stable Diffusion on a Mac](https://www.makeuseof.com/how-to-use-stable-diffusion-mac/) .
@@ -61,12 +73,18 @@ thumbnail: https://thmb.techidaily.com/4ccddc2cbd35cdd9b67d25078c429c9af70b9857f
 
  Running the model is also rather easy. We tested it with the[AUTOMATIC1111 Stable Diffusion web user interface](https://github.com/AUTOMATIC1111/stable-diffusion-webui) , and all controls and parameters work well. It's also quite NSFW-proof courtesy of the LAION-5B database that the model trained on (although it's not perfect, mind you). While generation time itself will vary based on your hardware, you can expect your images to be detailed and realistic even with basic prompts.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 3 [DreamShaper](https://huggingface.co/Lykon/DreamShaper)
 
  DreamShaper is an image generation model based on Stable Diffusion. It was intended as an open-source alternative to MidJourney and focuses on photorealism in the generated images, although it can handle anime and painting styles just as well with a few tweaks.
 
  The model is more capable than Stable Diffusion, allowing users more freedom over the final output, ranging from lightning improvements to looser NSFW restrictions. Running the model is also easy, with a[downloadable, pre-trained version available](https://civitai.com/models/4384?modelVersionId=128713) online for local access and a host of websites, including[Sinkin.ai](https://sinkin.ai/m/4zdwGOB) ,[RandomSeed](https://randomseed.co/?id=20) , and[Mage.space](https://www.mage.space/) (requires a basic subscription) that let you run the model with GPU acceleration.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![dreamshaper-stablediffusion-comparison](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/dreamshaper-stablediffusion-comparison.jpg)
 
  As you can probably guess by now, images generated by DreamShaper tend to look more realistic compared to Stable Diffusion. Even if you run the same prompt on both models, the DreamShaper model will likely be more realistic, detailed, and better-lit.
@@ -101,6 +119,10 @@ thumbnail: https://thmb.techidaily.com/4ccddc2cbd35cdd9b67d25078c429c9af70b9857f
 
 [PromptHero](http://prompthero.com/create) , the company behind Openjourney, lets you test the model alongside other models, including Stable Diffusion (versions 1.5 and 2), DreamShaper, and Realistic Vision. When signing up, you get 25 free credits (one credit for each image generated), after which you have to subscribe to their Pro subscription tier, which costs $9 a month and gives you access to 300 credits each month with other exclusive features.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ![openjourney-stablediffusion-comparison](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/openjourney-stablediffusion-comparison.jpg)
 
  However, if you want to run it locally and for free, you can[download the model file from HuggingFace](https://huggingface.co/prompthero/openjourney) and run it using the Stable Diffusion web UI. Openjourney is also the second most downloaded AI image generation model on HuggingFace, right behind Stable Diffusion.

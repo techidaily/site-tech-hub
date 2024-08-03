@@ -1,7 +1,7 @@
 ---
 title: Can You Count on ChatGPT for Reliable Text Summarization? Think Again!
-date: 2024-07-24 19:16:21
-updated: 2024-07-26 12:55:17
+date: 2024-08-02T15:57:56.538Z
+updated: 2024-08-03T15:57:56.538Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/81ebff8fdaf42fd74fab3caf1df319bd8e37362bc
 
 ## Can You Count on ChatGPT for Reliable Text Summaries? Think Again
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [ChatGPT Can Ignore or Misunderstand Your Prompt](https://www.makeuseof.com/why-you-shouldnt-trust-chatgpt-to-summarize-your-text/#chatgpt-can-ignore-or-misunderstand-your-prompt)
@@ -23,6 +26,9 @@ thumbnail: https://thmb.techidaily.com/81ebff8fdaf42fd74fab3caf1df319bd8e37362bc
 * [ChatGPT Can Get Facts Wrong](https://www.makeuseof.com/why-you-shouldnt-trust-chatgpt-to-summarize-your-text/#chatgpt-can-get-facts-wrong)
 * [ChatGPT Can Get Word or Character Limits Wrong](https://www.makeuseof.com/why-you-shouldnt-trust-chatgpt-to-summarize-your-text/#chatgpt-can-get-word-or-character-limits-wrong)
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * ChatGPT can misinterpret prompts, deviate from instructions, and fail to recognize specific words. Be precise and monitor its responses.
@@ -39,6 +45,9 @@ thumbnail: https://thmb.techidaily.com/81ebff8fdaf42fd74fab3caf1df319bd8e37362bc
 
  In the following example, ChatGPT got lots of information about the linguistic function of emojis. The intentionally simple prompt asked the chatbot to summarize everything and explain the links between emojis and cultures.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ![ChatGPT Misintepreting a Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-misintepreting-a-prompt.jpg)
 
  The chatbot merged both answers into one paragraph. A follow-up prompt with clearer instructions asked it to dip into its knowledge pool, too.
@@ -47,6 +56,9 @@ thumbnail: https://thmb.techidaily.com/81ebff8fdaf42fd74fab3caf1df319bd8e37362bc
 
  This is why you should keep your instructions precise, provide context when necessary, and keep an eye on ChatGPT’s results. If you flag up any mistake immediately, the chatbot can produce something more accurate.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ## ChatGPT Can Omit Information You Provide
 
  ChatGPT is smart, but it’s not a good idea to bombard it with details about a particular topic without specifying what is or isn’t important.
@@ -63,6 +75,9 @@ thumbnail: https://thmb.techidaily.com/81ebff8fdaf42fd74fab3caf1df319bd8e37362bc
 
  If left to its own devices, there’s no guarantee that ChatGPT will use the details you expect. So, plan and phrase your prompts carefully to ensure the chatbot’s summary is spot on.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ChatGPT Can Use Wrong or False Alternatives
 
  OpenAI has updated GPT-4o with data available up to October 2023, while GPT-4 Turbo's cut-off is December of the same year. However, the algorithm’s knowledge isn’t infinite or reliable with real-time facts—it doesn’t know everything about the world. Furthermore, it won’t always reveal that it lacks data on a particular subject unless you ask it directly.
@@ -87,10 +102,17 @@ thumbnail: https://thmb.techidaily.com/81ebff8fdaf42fd74fab3caf1df319bd8e37362bc
 
  Most of the explanations were slightly wrong or lacked specifics about what posters must do. The description of the UMG Music trend was especially misleading. The trend changed after the catalogue’s removal from TikTok, and users now post videos to criticize, not support UMG, something which ChatGPT doesn’t know.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT Explaining a TikTok Trend Wrong](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-explaining-a-tiktok-trend-wrong.jpg)
 
  The best solution is to not blindly trust AI chatbots with your text. Even if ChatGPT compiled information you provided yourself, make sure you edit everything it produces, check its descriptions and claims, and make a note of any facts it gets wrong. Then, you’ll know how to structure your prompts for the best results.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ## ChatGPT Can Get Word or Character Limits Wrong
 
  As much as[OpenAI enhances ChatGPT with new features](https://www.makeuseof.com/chatgpt-new-features-spring-update/) , it still seems to struggle with basic instructions, such as sticking to a specific word or character limit.

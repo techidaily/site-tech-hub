@@ -1,7 +1,7 @@
 ---
 title: Discovering the Premier Mega Language Models on the Market
-date: 2024-07-25 11:52:25
-updated: 2024-07-26 10:11:42
+date: 2024-08-02T15:57:52.847Z
+updated: 2024-08-03T15:57:52.847Z
 tags:
   - chatgpt
   - open-ai
@@ -22,6 +22,9 @@ thumbnail: https://thmb.techidaily.com/8787ab7f7fcdda2f4df516fbd446b3033c8b29f54
 * [Larger Context Window](https://www.makeuseof.com/reasons-use-claude-3-instead-of-chatgpt/#larger-context-window)
 * [More Messages Per Hour](https://www.makeuseof.com/reasons-use-claude-3-instead-of-chatgpt/#more-messages-per-hour)
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Claude excels at creative writing, producing engaging and natural-sounding content with less clichés.
@@ -41,6 +44,9 @@ thumbnail: https://thmb.techidaily.com/8787ab7f7fcdda2f4df516fbd446b3033c8b29f54
  Putting our theory to the test, it was just as predicted. ChatGPT (GPT-3.5 and GPT-4) used cliché intros in five out of five trials. Here are the first three samples:
 
 1. Sample 1  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![chatgpt using cliche writing style example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-flaws-1.jpg)
 2. Sample 2  
 ![chatgpt using cliche writing style example-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-flaws-2.jpg)
@@ -63,16 +69,26 @@ Here's ChatGPT's take:
 
 And here's Claude's take:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ![Coconut to wealth by Claude writing example song lyrics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/coconut-to-wealth-by-claude.jpg)
 
  Early adopters of ChatGPT probably have a deep-rooted preference for the AI chatbot, but when it comes to creative writing, ChatGPT has some serious catching up to do in many areas.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2 Claude Offers Multimodality for Free
 
 ![screengrab of the claude ai homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/claude-screengrab.jpg)
 
  Besides Google's Gemini AI chatbot, there are hardly any major AI chatbots in the market that offer Claude's multimodal features for free. With the free version of ChatGPT, all you get is text generation abilities, and that's it. No file uploads for analysis, no image processing, nothing else! On the other hand, Claude offers these premium features on its free tier. So, you can use image prompting or upload files for analysis on the chatbot for free if you use the free beta version of the bot.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ## 3 Larger Context Window
 
  Context window is the limit of text data an AI chatbot can process at a go. Think of it as how many things you can keep in your memory (and be able to recall) at a time.
@@ -83,6 +99,9 @@ And here's Claude's take:
 
  Why does this even matter? Well, the larger the context window, the more text data you can process at a time without the AI chatbot making things up. Claude's 200k context window is equivalent to around 150,000 words. Yep, it means you'll theoretically be able to process 150,000 words simultaneously with Claude, while ChatGPT could cap you out at 24,000 words even on its premium tier. You see? The difference is like night and day—at least in theory.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ## 4 More Messages Per Hour
 
  Rate limits can be a pain. You're in the middle of an interesting prompting session, you get an alert that you've reached your limit and have to wait (sometimes hours!) to get a reset. It's a huge joy killer and can set your work back hours. However, this happens both on ChatGPT and Claude, so it's an even ground on that point.

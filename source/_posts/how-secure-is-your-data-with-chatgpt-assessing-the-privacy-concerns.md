@@ -1,7 +1,7 @@
 ---
 title: "How Secure Is Your Data with ChatGPT: Assessing the Privacy Concerns"
-date: 2024-07-26 21:30:31
-updated: 2024-07-28 10:21:15
+date: 2024-08-02T15:57:55.090Z
+updated: 2024-08-03T15:57:55.090Z
 tags:
   - chatgpt
   - open-ai
@@ -21,8 +21,14 @@ thumbnail: https://thmb.techidaily.com/7e2e77f0d86cd559dbfa986d906ed8c2ea5221019
 
  Links have not been provided for each custom GPT because the documents uploaded as a knowledge base contain private information. However, you can still take the title and outline and make each idea your own, with your own private information. Just be careful if you share any custom GPTs, as you may accidentally grant access to sensitive information.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Resume and Cover Letter Creator
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of Custom GPT Resume Maestro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/resume-maestro.jpg)
 
  I built a custom GPT called "Resume Maestro." Once it receives a job post description, it immediately comes up with a resume with the right professional details included. It captures everything from names and contact details to work experience, educational history, and achievements. It also writes a cover letter that isn't just tailored to the job post but also aligns with personal experiences relevant to the job. Better still, its output is immediately available for download as a PDF or Word file, all under ten seconds.
@@ -33,6 +39,9 @@ thumbnail: https://thmb.techidaily.com/7e2e77f0d86cd559dbfa986d906ed8c2ea5221019
 
  Here's a guide on[how to create your first custom GPT](https://www.makeuseof.com/how-use-create-a-gpt-to-create-a-customized-version-of-chatgpt/) if you're not sure how to.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. Translation Tool
 
 ![Screenshot of Custom GPT called Pidgin Hero](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/pidgin-hero-description-card.jpg)
@@ -53,6 +62,9 @@ thumbnail: https://thmb.techidaily.com/7e2e77f0d86cd559dbfa986d906ed8c2ea5221019
 
 ## 4\. Personal Movie Recommender
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![movie recommender Custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/movie-recommender-custom-gpt.jpg)
 
  Let's be honest, Netflix can be horrible at suggesting what to watch next. I asked classic ChatGPT to recommend some historical Korean TV shows. I wanted shows with themes of power, royalty, heroism, and war. The result was a mixed bag. Some options were strong, while others seemed randomly selected based on popularity rather than relevance.
@@ -63,6 +75,9 @@ thumbnail: https://thmb.techidaily.com/7e2e77f0d86cd559dbfa986d906ed8c2ea5221019
 
 ## 5\. Interactive Text and Image Games
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ![Custom ChatGPT game called Dungeon weaver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-chatgpt-game-called-dungeon-weaver.jpg)
 
  Another very exciting use case for GPTs is creating games. You can bring almost any text and image-based games you can think of into reality. You can program, modify the rules, and play games like Tic-Tac-Toe, Hangman, Word Ladder, and more. We've previously created a list of simple but[interesting games you can play with ChatGPT](https://www.makeuseof.com/simple-games-you-can-play-chatgpt/) . You can spice those games up by invoking the DALL-E image creator to create scenery and characters on the go.
@@ -77,6 +92,18 @@ thumbnail: https://thmb.techidaily.com/7e2e77f0d86cd559dbfa986d906ed8c2ea5221019
 
 ## 6\. Personal Tutor
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Custom GPT for Abstract math tutoring](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-gpt-for-abstract-math-tutoring.jpg)
 
  Custom GPT models offer exciting new ways to accelerate learning and preparation, whether you're a student prepping for exams, a professional gearing up for interviews, or anyone looking to upskill rapidly. Leveraging GPT-4's vast context window, you can create specialized GPTs that serve as expert tutors on specific subjects. Feed them textbooks, course materials, flashcards, and other learning resources from the field you want to master.
@@ -99,6 +126,10 @@ thumbnail: https://thmb.techidaily.com/7e2e77f0d86cd559dbfa986d906ed8c2ea5221019
 
  Another example I tried was building a GPT for interior design. After teaching the GPT the kind of designs I liked, prompting the GPT to provide interior design ideas based on certain parameters was quite easy. With custom GPTs, there are many angles to explore; it all boils down to what you do and how creative you get. The possibilities to leverage GPTs are vast across professions.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Custom GPTs: Endless Possibilities for Work and Fun
 
  While ChatGPT provides a strong foundation, custom GPTs can take performance to new levels in specific domains. By training GPTs on niche datasets, we can create purpose-built AI assistants that excel at specific needs. The applications are vast, and we've barely scratched the surface of what could be possible.

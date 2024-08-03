@@ -1,7 +1,7 @@
 ---
 title: "The Price Tag Behind Elon Musk’s New Brainchild: Understanding Grok AI Costs"
-date: 2024-07-25 20:33:20
-updated: 2024-07-26 12:17:16
+date: 2024-08-02T15:58:11.353Z
+updated: 2024-08-03T15:58:11.353Z
 tags:
   - chatgpt
   - open-ai
@@ -19,16 +19,30 @@ thumbnail: https://thmb.techidaily.com/bab43c6ebbd68c7b02aa8931b44c8b3c5cf156c7a
 
  Because of how LLMs are trained, it was inevitable there would be a conflict between copyright law and artificial intelligence. Now the chickens are coming home to roost, as Sarah Silverman and other artists are suing OpenAI and Meta over copyright infringement.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why Sarah Silverman and Other Artists Are Suing Open AI and Meta
 
-![Person having a chat on ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-conversation-featured-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Person having a chat on ChatGPT](https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5163c7ab05139a28f15cb6cd.jpg)
 
  In[a class action lawsuit](https://llmlitigation.com/pdf/03416/silverman-openai-complaint.pdf) \[PDF\] filed in California, comedian Sarah Silverman and other writers (Christopher Golden and Richard Kadrey) seek to recover damages against OpenAI and Meta over copyright infringement. The lawsuit alleges OpenAI and Meta scraped copyrighted books from pirate websites to train their AI models. This is the equivalent of an AI model downloading its training datasets from Piratebay without compensating the authors.
 
  Coincidentally, a[separate class action lawsuit](https://storage.courtlistener.com/recap/gov.uscourts.cand.414822/gov.uscourts.cand.414822.1.0%5F1.pdf) \[PDF\] against OpenAI alleges the company used unauthorized private information to train ChatGPT. Google is also facing a similar lawsuit over allegedly using stolen data to train Google Bard. This is why you should[make it a habit to protect your personal information](https://www.makeuseof.com/online-safety-habits-data-privacy/) , though publishing work and private personal data are not the same.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ## What Are the Chances Sarah Silverman Could Win the Lawsuit?
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ![Ai cloud with robot head](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/ai-cloud-with-robot-head.jpg)
 
  Image Credit:[freepik](https://www.freepik.com/free-photo/ai-cloud-with-robot-head%5F32471117.htm)
@@ -41,12 +55,18 @@ thumbnail: https://thmb.techidaily.com/bab43c6ebbd68c7b02aa8931b44c8b3c5cf156c7a
 
 ## What Is the Future of AI Models and Copyright Law?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ![A laptop screen showing logos of chatgpt and google bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-bard-vs-chatgpt-for-coding.jpg)
 
  We're still in the early days of AI to know how it will adapt to copyright law. It's even more complex trying to figure out[who owns the copyright to AI creation](https://www.makeuseof.com/who-owns-copyright-to-ai-creations/) . But for human creators, regulations exist to protect them against someone else accessing their copyrighted material without compensation, consent, or credit. If the rules exist for humans, will they apply to AI models?
 
  The EU parliament drafted the closest glimpse into the future of how AI models will comply with copyright law. If the EU AI Act is assented into law, AI models like ChatGPT and Bard will be required to publish all their dataset sources and copyrighted data used for training. This will help clear up any confusion if the AI models accessed copyrighted books, movies, music, and photos for training through illegal piracy websites.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The AI Class Action Lawsuit Ruling Will Set a Legal Precedent
 
  Large language models can scrape all the corners of the internet for data used in training. But would they be liable for copyright infringement if they access illegal torrent websites to acquire the data? And if they do, can you prove it?

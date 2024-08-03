@@ -1,7 +1,7 @@
 ---
 title: "Avoid These 4 Traps: Tips for Effective ChatGPT-Based Content Creation"
-date: 2024-07-21 10:20:19
-updated: 2024-07-24 12:49:33
+date: 2024-08-02T15:57:35.968Z
+updated: 2024-08-03T15:57:35.968Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/59fadab74810371b89474ece0e1afaf00b25fe1d9
 
  What if you could have AI create it all for you? Since ChatGPT can't output files, you can combine ChatGPT with another AI tool and have them build your presentation from scratch. All in a matter of seconds. Sounds good? Read on to learn how.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ## Create a Presentation From Scratch With ChatGPT
 
  Before diving into creating a presentation with ChatGPT, let's go over the steps involved. We'll use a combination of two AI tools to make this presentation.
@@ -41,6 +45,9 @@ thumbnail: https://thmb.techidaily.com/59fadab74810371b89474ece0e1afaf00b25fe1d9
 
  So, other than the topic, your prompt should include the main points and some structural features like the number of slides. You can see a sample conversation with ChatGPT for this purpose in the image below or through this[shared chat link](https://chat.openai.com/share/0130da56-15cb-4e8e-bc86-58f79ca9cbc9) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![A sample conversation with ChatGPT to generate text for a presentation.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-presentation-text.jpg)
 
  Once you have provided the information, ChatGPT will generate the presentation text for you. You can edit and refine the text to meet your needs and preferences. It's best to remove the structural phrases, such as the slide numbers and the image descriptions. Keep only the main text.
@@ -70,22 +77,37 @@ thumbnail: https://thmb.techidaily.com/59fadab74810371b89474ece0e1afaf00b25fe1d9
 
 1. Open the**Extensions** menu.
 2. Go to SlidesAI and then click**Generate Slides** .  
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Extensions menu in Google Slides](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/slidesai-generate-slides.jpg)
 3. In the new window, paste your text under**Enter text** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![SlidesAI extension in Google Slides](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-slides-slidesai.jpg)
 4. Select the presentation type and the number of slides from the right.
 5. Check whether you want SlidesAI to add images or a title and thank you slides.
 6. Check**Replace Existing Slides** .
 7. Go to the**Themes** tab and select a style.  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Choosing a theme in SlidesAI ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/slides-slidesai-theme.jpg)
 8. When all is set, go back to the**Text** tab and click**Create Slides** .
 
  SlidesAI will now take the text you generated with ChatGPT and use it to automatically create the slides for your presentation. This can take a while, depending on your input.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![An AI generated presentation in Google Slides](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-slides-presentation.jpg)
 
  Once the AI is done, you'll get a message saying your slides have been created. Close the SlidesAI window and check them out!
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Add the Finishing Touches and Export the Presentation
 
  Now you can customize the slides and add the finishing touches. Remember that AI is still prone to making mistakes, so proofread your presentation to ensure there aren't any blunders. If the main content looks good, you can then start making visual improvements like[adding animations to your slides](https://www.makeuseof.com/add-animation-google-slides/) .

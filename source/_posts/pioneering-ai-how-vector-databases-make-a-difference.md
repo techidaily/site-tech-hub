@@ -1,7 +1,7 @@
 ---
 title: "Pioneering AI: How Vector Databases Make a Difference"
-date: 2024-07-21 13:14:55
-updated: 2024-07-24 10:16:37
+date: 2024-08-02T15:58:16.309Z
+updated: 2024-08-03T15:58:16.309Z
 tags:
   - chatgpt
   - open-ai
@@ -25,6 +25,9 @@ thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b9
 * [Trip Planner AI](https://www.makeuseof.com/free-travel-planning-ai-chatgpt-apps/#trip-planner-ai)
 * [Vacay Chatbot](https://www.makeuseof.com/free-travel-planning-ai-chatgpt-apps/#vacay-chatbot)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Layla, Wonderplan, and PLAN by ixigo are AI travel planning apps with customizable itineraries.
@@ -35,6 +38,9 @@ thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b9
 
  These free travel planning apps use AI and machine-learning tools like ChatGPT to prepare an itinerary for you in a few seconds, and we took them for a spin.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 1.[Layla](https://justasklayla.com/)
 
 ![layla ai trip planner](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/layla-ai-trip-planner.png)
@@ -47,6 +53,9 @@ thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b9
 
  Once you've perfected your itinerary, you can share it with your friends via a URL or add it to your bucket list.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 2.[Wonderplan](https://wonderplan.ai/)
 
 ![wonderplan website screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/wonderplan-screenshot.jpg)
@@ -59,8 +68,14 @@ thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b9
 
  In addition to your itinerary, Wonderplan also shows essential information about the country you're visiting. These include the currency conversion rate, electricity plug type, languages spoken, weather, and popular conveyances.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ## 3.[PLAN by ixigo](https://www.ixigo.com/plan)
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![PLAN by ixigo website screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/plan-by-ixigo-screenshot.jpg)
 
  PLAN by ixigo starts by asking you about your dream destination. Then, it provides an option to describe the type of experience you want to have. This is just like a ChatGPT prompt, so you can enter anything you wish.
@@ -87,6 +102,9 @@ thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b9
 
 ## 5.[Curiosio](https://curiosio.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![Curiosio is a roadtrip planning app based on AI that gives you several parameters to refine your journey before plotting a route based on your interests](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/travel-planning-ai-apps-generate-itinerary-curiosio.jpg)
 
  The easiest last-minute travel plan is to get into a car and drive. Curiosio specializes in helping you plan an itinerary for a road trip to several major countries on all continents. It doesn't cover every single place, but the existing collection is impressive enough.
@@ -109,6 +127,9 @@ thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b9
 
  Finally, Trip Planner AI generates a detailed itinerary, a map, and basic information about the city you're visiting. For each destination, it provides the details of the place, expected traveling time, and cost. Though it provides a complete plan for your trip, you can manually add or remove activities from your itinerary. You can also invite your friends to edit the itinerary and download it as a PDF.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 7.[Vacay Chatbot](https://www.usevacay.com/chatbot)
 
 ![vacay chatbot screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/vacay-chatbot-screenshot.png)

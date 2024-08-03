@@ -1,7 +1,7 @@
 ---
 title: How Do These Seven Innovative Apps Harness GPT- 4 for Enhanced Performance?
-date: 2024-07-24 12:17:22
-updated: 2024-07-26 10:17:16
+date: 2024-08-02T15:58:00.794Z
+updated: 2024-08-03T15:58:00.794Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,9 @@ GPT-4 is here, and the rush to integrate it into apps has begun.
 
  These updates, among others, have seen companies rush to integrate GPT-4 into their apps and services. So, let's look at the first apps to take advantage of GPT-4.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ## 1\. Duolingo
 
 ![Picture of Duolingo Max App Logo-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/picture-of-duolingo-max-app-logo-1.jpg)
@@ -38,8 +41,14 @@ GPT-4 is here, and the rush to integrate it into apps has begun.
 
  GPT-4 is being used to create a reactive and responsive learning environment where no two conversations are alike. The first version is restricted to English speakers wanting to learn Spanish or French and is available only on iOS. Duolingo Max is priced at $29.99 monthly or $167.99 for an annual subscription.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ## 2\. Be My Eyes
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Picture Introducing Virtual Volunteer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/picture-introducing-virtual-volunteer.jpg)
 
  The use of AI in our lives has been the source of many heated discussions. However, there are some areas where there can be little argument that AI has a positive effect. Be My Eyes is one such example. The app is designed to make the world more accessible for visually impaired people.
@@ -60,6 +69,9 @@ GPT-4 is here, and the rush to integrate it into apps has begun.
 
  Khan Academy sees GPT-4 as a virtual teacher. The roll-out of the app is limited, with the teaching assistant (dubbed Khanmigo) only available to a limited number of users. However, a[Khan Academy waitlist](https://www.khanacademy.org/khan-labs) exists for those wanting to help test the product. Successful applicants are asked to donate $20 per month.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How Does Khan Academy Use GPT-4?
 
  Khan Academy is quick to point out that this tool will not give students answers to questions. Rather, it is intended to use AI to walk them through the steps to arrive at the correct answer, with GPT-4 leading them on.
@@ -89,6 +101,9 @@ GPT-4 is here, and the rush to integrate it into apps has begun.
 
  OpenAI—the brains behind the brains of GPT-4—is already in collaboration with Stripe. Now, Stripe is integrating GPT-4 into its platform. The company already used GPT-3 for simple tasks, but integrating GPT-4 means AI will play a bigger role in the company's processes.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How Stripe Intends to Use GPT-4
 
  Details of the roles GPT-4 will play are sketchy at the moment. However,[Stripe](https://openai.com/customer-stories/stripe) has reportedly looked at 50 potential uses, of which 15 were strong enough candidates.
@@ -103,6 +118,9 @@ GPT-4 is here, and the rush to integrate it into apps has begun.
 
 ## 5\. ChatSonic
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Screenshot of ChatSonic homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-chatsonic-homepage.jpg)
 
  Image Credit: ChatSonic
@@ -123,6 +141,9 @@ GPT-4 is here, and the rush to integrate it into apps has begun.
 
  ChatSonic is free to try, and the paid version starts at $12.67 per month. Full details are available on the[WriteSonic](https://writesonic.com/chat) website.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 6\. Bing AI
 
 ![Screenshot_of Bing app opening screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot_of-bing-app-opening-screen.jpg)
@@ -137,6 +158,9 @@ Close
 
  The Bing app is representative of the next generation of search engines and, in true ChatGPT style, is capable of far more than just listing relevant results.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### What Can You Use the Bing AI App For?
 
  This is an app that can be used as a personal assistant in so many different ways. Among the capabilities of Bing AI are:
@@ -152,6 +176,9 @@ Close
 
 **Download** : Bing AI for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2023057/https://play.google.com/store/apps/details?id=com.microsoft.bing) |[iOS](https://apps.apple.com/us/app/bing-your-ai-copilot/id345323231) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## 7\. Petey
 
 ![Screenshot of Petey home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-petey-home-page.jpg)
@@ -164,12 +191,18 @@ Close
 
  The most basic tier for GPT-4 is a one-off payment of $3.99 on top of the cost of the app.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What Can You Do With Petey?
 
  It has all the usual features you'd expect from a ChatGPT-based app. However, the inclusion of GPT-4 brings the added benefit of access to real-time data, which comes into its own with its Apple Music integration. Without GPT-4, this feature can only use music released before the GPT-3.5 cut-off date (around late 2021).
 
 **Download** :[Petey](https://apps.apple.com/us/app/petey-ai-assistant/id6446047813) for iOS ($3.99 Premium version required for GPT-4)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## GPT-4: A New Level of Artificial Intelligence
 
  These apps represent the tip of a huge GPT-4 iceberg. As more developers unlock the power of GPT-4, there will be many apps to follow. These will likely emulate many of the features and uses we mentioned. But what is more exciting is the companies looking to explore new and imaginative uses for a fledgling technology.

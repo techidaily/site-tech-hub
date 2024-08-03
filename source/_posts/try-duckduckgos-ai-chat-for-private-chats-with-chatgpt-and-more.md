@@ -1,7 +1,7 @@
 ---
 title: Try DuckDuckGo's AI Chat for Private Chats With ChatGPT and More
-date: 2024-07-23 12:59:20
-updated: 2024-07-24 12:43:17
+date: 2024-08-02T15:58:08.805Z
+updated: 2024-08-03T15:58:08.805Z
 tags:
   - chatgpt
   - open-ai
@@ -22,6 +22,9 @@ thumbnail: https://thmb.techidaily.com/0fabbd6ca39e068e6ff5a1dc76e09f39c4c023b26
 * [How to Use DuckDuckGo's AI Chat](https://www.makeuseof.com/what-is-duckduckgo-private-ai-chat/#how-to-use-duckduckgo-39-s-ai-chat)
 * [What Are DuckDuckGo's AI Chat Limitations?](https://www.makeuseof.com/what-is-duckduckgo-private-ai-chat/#what-are-duckduckgo-39-s-ai-chat-limitations)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * DuckDuckGo AI Chat offers anonymous access to popular chatbots, protecting user privacy.
@@ -32,6 +35,9 @@ thumbnail: https://thmb.techidaily.com/0fabbd6ca39e068e6ff5a1dc76e09f39c4c023b26
 
  Now, privacy-focused search engine DuckDuckGo has stepped up to provide an alternative, and its AI Chat offers anonymous access to a host of generative AI chatbots.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## What Is DuckDuckGo AI Chat?
 
 [DuckDuckGo is well-known for its privacy-friendly search engine](https://www.makeuseof.com/why-consider-duckduckgo/) , which, unlike most other options, doesn't collect and store heaps of data as you use it. DDG is extending its push for privacy into the world of AI chatbots, as its AI Chat lets you have anonymous conversations with popular AI chat models, including OpenAI's ChatGPT 3.5 Turbo, Anthropic's Claude 3 Haiku, Mistral AI's Mixtral 8x7B, and Meta's Llama 3 70B.
@@ -42,6 +48,9 @@ thumbnail: https://thmb.techidaily.com/0fabbd6ca39e068e6ff5a1dc76e09f39c4c023b26
 
  It's a novel idea. Other services combine multiple AI chatbots into a single tool, but DuckDuckGo's AI Chat will make it easier for users to use some of the best AI chatbots while maintaining some privacy.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How DuckDuckGo AI Chat Keeps Your Chats Private
 
  Privacy is a rare commodity in the digital era, more so when it comes to interacting with AI chatbots. Generative AI chatbots are data-hungry, as they rely on large data sets to continuously train and improve their language models. For instance, ChatGPT stores your chat history for as long as you have an account.
@@ -50,10 +59,16 @@ thumbnail: https://thmb.techidaily.com/0fabbd6ca39e068e6ff5a1dc76e09f39c4c023b26
 
  As noted in[DuckDuckGo's AI Chat](https://duckduckgo.com/aichat/privacy-terms?ref=spreadprivacy.com) privacy and terms of use page, the company does not store personally identifiable information. By removing metadata containing personal information like your IP address before sending your prompts to one of the third-party AI models it supports, DuckDuckGo ensures that your chats remain anonymous.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![duckduckgo-ai-privacy-measures](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/duckduckgo-ai-privacy-measures.jpeg)
 
  In addition to anonymizing your chats, the company states that it has agreements with model providers that prevent them from using your conversations to develop or train their models and delete your chat history within 30 days. This allows you to engage with AI chatbots without worrying about being identified, making it ideal for sensitive conversations or discussing personal information.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Use DuckDuckGo's AI Chat
 
  Launch a browser of your choice and visit the[DuckDuckGo AI Chat](https://duckduckgo.com/?q=DuckDuckGo&ia=chat) website. Click****Get Started,** select your preferred AI model from the list, and click****Next**. Read the****Privacy Policy and Terms of Use** and click the****I Agree** button to proceed. You can enter your query or use one of the suggested prompts to start your anonymous conversation with the AI model.
@@ -62,6 +77,9 @@ thumbnail: https://thmb.techidaily.com/0fabbd6ca39e068e6ff5a1dc76e09f39c4c023b26
 
  You can pick a different chat model at any time by clicking the name of the current model on the left of the screen and selecting another model from the list. Click****Start New Chat** to begin a conversation with the selected model. The DuckDuckGo AI Chat has a familiar interface, so if you have used other chatbots before, you will find it easy to use. Like other AI chatbots, you can ask questions, summarize text, compose emails, and more.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ## What Are DuckDuckGo's AI Chat Limitations?
 
  It's fair to say that DuckDuckGo's AI Chat privacy-focused approach may be a double-edged sword. While it provides a sense of security and anonymity, generative AI chatbots need a vast amount of data to predict human-like responses. In addition, AI chatbots are not static; they need continuous learning and improvement through user interactions.

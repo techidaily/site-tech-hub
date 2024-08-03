@@ -1,7 +1,7 @@
 ---
 title: Stay Alert! Understanding the Recent Twitter Fraud Craze, Meta's Trustworthy Badge Launch, and ChatGPT-4 Demystified
-date: 2024-07-27 10:37:32
-updated: 2024-07-28 10:52:55
+date: 2024-08-02T15:57:50.345Z
+updated: 2024-08-03T15:57:50.345Z
 tags:
   - chatgpt
   - open-ai
@@ -33,6 +33,9 @@ thumbnail: https://thmb.techidaily.com/e59e0cf4120a7fd0bdb3cfb3525237678186517f5
 
  If you're wondering how ChatGPT stacks up against Google Translate as a translation tool, here's a [comparison of ChatGPT vs. Google Translate](https://www.makeuseof.com/chatgpt-vs-google-translate-which-is-better-at-translation/). Furthermore, did you know you can [use ChatGPT to help you learn a new language](https://www.makeuseof.com/how-chatgpt-plus-can-help-you-learn-a-language/)? Translating with ChatGPT is fast and accurate, but why not go the extra step and learn an entirely new language using an AI tutor?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ## How to Translate Languages With ChatGPT
 
  Translating with ChatGPT is easy. All you need to do is provide the text you want to translate and specify the language you want to translate it to, and ChatGPT will handle the rest. However, you can customize ChatGPT's language translation outputs, create unique language translation scenarios, and adjust many more aspects. ChatGPT is a generative AI tool, after all.
@@ -45,6 +48,9 @@ thumbnail: https://thmb.techidaily.com/e59e0cf4120a7fd0bdb3cfb3525237678186517f5
 
  Take the Spanish sentence “Gracias por preguntar, pero estoy bastante seguro aquí” for instance. Google Translate produces "Thanks for asking, but I'm pretty sure here" as the translation. While this isn't entirely wrong, depending on the context, the sentence could mean, "Thanks for asking, but I'm safe here."
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ![Translating with context using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/translating-with-context-using-chatgpt.jpg)
 
  Of course, Google Translate will provide the same translation no matter how many times you attempt to translate it because it doesn't have a way to recognize contextual nuance. As per the screenshot above, ChatGPT will attempt to provide the most accurate translation depending on the provided context. Providing context can significantly improve the quality of your translation. If you are not sure how to provide context, here are some inspirations:
@@ -55,6 +61,10 @@ thumbnail: https://thmb.techidaily.com/e59e0cf4120a7fd0bdb3cfb3525237678186517f5
 
  You can adjust each prompyour chosen languageosing, and ChatGPT will do the rest.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### 2\. Declare the Type of Text
 
  Another important factor that can increase the accuracy of your translation is outright declaring the kind of text you're trying to translate. For example, is it an idiom, a song, a financial document, or an ordinary text? Simply letting ChatGPT know what you're trying to translate gives the chatbot an edge toward providing more accurate translations.
@@ -70,6 +80,9 @@ thumbnail: https://thmb.techidaily.com/e59e0cf4120a7fd0bdb3cfb3525237678186517f5
 
  Sometimes, when translating text, the translation might be too technical or simply inappropriate for the target audience. Using style transfer in ChatGPT can help adjust the tone and style of a translation to match the target audience or industry. So, if you're translating a legal document, the translation could retain the author's original meaning while using more layman's wording. In the example below, I translated a soccer commentary from Spanish to English, first without style transfer and then using style transfer.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Translating with ChatGPT using style transfer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/translating-using-style-transfer.jpg)
 
  The translation above uses the closest English equivalent of the corresponding Spanish words, while the one below uses words suitable for an audience not acquainted with soccer terms. However, it is interesting to note that both translations are considered accurate.
@@ -84,6 +97,18 @@ thumbnail: https://thmb.techidaily.com/e59e0cf4120a7fd0bdb3cfb3525237678186517f5
 
  You might have to tweak and adjust the style you want, but the possibilities are effectively endless.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. Account for Regional Differences
 
  Some words may have different meanings or connotations depending on the region or country of the speaker. For instance, the English sentence "I'm going to play football" could translate to "我要去踢足球 (Wǒ yào qù tī zúqiú)" in Chinese. While this seems like a perfect translation, if the speaker was American, the translation could be wrong. By saying "football," an American speaker would likely be referring to the rugby-style sport called American football instead of the football known by the rest of the world.
@@ -92,10 +117,16 @@ thumbnail: https://thmb.techidaily.com/e59e0cf4120a7fd0bdb3cfb3525237678186517f5
 
  We prompted ChatGPT to translate "I'm going to play football" into Chinese. As expected, it produced "我要去踢足球 (Wǒ yào qù tī zúqiú)." In Chinese, "zúqiú" means "football," which refers to soccer rather than the rugby-style sport.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ![ChatGPT translation accounting for regional differences in meaning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-translation-accounting-for-regional-differences-in-meaning.jpg)
 
  We repeated the translation prompt but added hints about the speaker's origin and possible intent. ChatGPT changed the translation to "我要去踢橄榄球 (Wǒ yào qù tī gǎnlǎnqiú)," this time using "gǎnlǎnqiú" which is the Chinese term for American football and better reflects the potential intent of the speaker.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5\. Use Summarized Translation
 
  Sometimes, you don't want to read the entirety of a text. You just want to understand the message the author or speaker is trying to convey. ChatGPT is one of the few translation tools you can rely on for situations like this.Fort a summarized translation, ask ChatGPT to provide a "summarized" or "condensed" translation of the target text. Some prompts examples include:
@@ -129,6 +160,9 @@ thumbnail: https://thmb.techidaily.com/e59e0cf4120a7fd0bdb3cfb3525237678186517f5
 
  For instance, in point six above, we talked about a word-translation pair. You can simply add your preferred translations of words to the ChatGPT Custom Instruction editor and have the chatbot use that preference across all chat sessions. If you spend time translating between two specific languages and use tricky, unique, or colloquial words and phrasing, this will speed up your ChatGPT language translation efforts.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### 8\. Replicate Linguistic Form
 
  Being able to replicate linguistic forms on demand is one of the most important advantages of ChatGPT as a translation tool over conventional translation tools. In certain texts, like those meant to entertain, the choice of words and phrases is always integral to creating entertainment value. Simply substituting different terms in another language may not preserve entertainment value.
@@ -145,6 +179,9 @@ thumbnail: https://thmb.techidaily.com/e59e0cf4120a7fd0bdb3cfb3525237678186517f5
 
  Of course, this is not a perfect translation example, but with a few prompt tweaks, there's more to achieve.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Don't Rely Solely on Machine Translation
 
  While ChatGPT is an impressive translation tool, it's important to remember that it is still a machine and may not always produce the best translation. So don't rely solely on it, especially for important or sensitive documents. Instead, try a combination of tools, and whenever possible, consider using a professional translator to proofread to ensure accuracy.

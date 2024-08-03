@@ -1,7 +1,7 @@
 ---
 title: "Harnessing Vocal Power: Top Strategies to Manage ChatGPT by Speaking"
-date: 2024-07-26 22:43:53
-updated: 2024-07-29 11:17:16
+date: 2024-08-02T15:57:55.069Z
+updated: 2024-08-03T15:57:55.069Z
 tags:
   - chatgpt
   - open-ai
@@ -19,12 +19,18 @@ thumbnail: https://thmb.techidaily.com/5a6b81e19407a604be22bf69df443b0f8b7b5bc4d
 
  This release is poised to shake things up with a huge impact on the world of business. ChatGPT has been quite the talk since late 2022, then what's this buzz surrounding the ChatGPT and Whisper APIs?
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ## OpenAI Grants Access to ChatGPT and Whisper APIs
 
  The ChatGPT API is powered by the**gpt-3.5-turbo** language model, which is the same model that's used in ChatGPT. This means you can now get access to all the capabilities of ChatGPT through this API.
 
  The developer community has lauded Whisper for its impressive capabilities, but it has been reported to be challenging to set up and run. However, OpenAI has made the**large-v2** model of Whisper available through its API, which offers improved speed and accessibility.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Pricing
 
  OpenAI now gives you 1,000 tokens at a rate of $0.002, which it claims is 10x cheaper than the existing GPT-3.5 models. Even though 1,000 tokens may seem like a lot, sending just one snippet of text for the API to respond to could cost several tokens. In the official ChatGPT API announcement post,[OpenAI](https://openai.com/blog/introducing-chatgpt-and-whisper-apis) mentioned:
@@ -33,12 +39,18 @@ thumbnail: https://thmb.techidaily.com/5a6b81e19407a604be22bf69df443b0f8b7b5bc4d
 
  Whisper’s large-v2 model is priced at $0.006/minute (of audio input), which is also cheaper.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Access to the API
 
  GPT models take in unstructured text and represent it as a sequence of**tokens** for the model to understand. But with ChatGPT models, the input is consumed as a sequence of messages along with metadata. Even though the input is still processed as a sequence of tokens using the ChatML (Chat Markup Language) format, it allows for a more conversational experience. To give more context, we've covered[how ChatGPT works and how it answers questions](https://www.makeuseof.com/how-does-chatgpt-work/) in detail.
 
  To interact with the[ChatGPT model](https://platform.openai.com/docs/guides/chat) via the new API, OpenAI has developed a new endpoint that accommodates this format. This adds to the list of[things you can do with ChatGPT](https://www.makeuseof.com/things-you-can-do-with-chatgpt/) .
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Will Businesses Use the ChatGPT and Whisper API?
 
 ![Someone holding business data and analytics while a working on a Samsung tablet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/a-samsung-table-and-papers-on-table.jpg)
@@ -53,6 +65,9 @@ thumbnail: https://thmb.techidaily.com/5a6b81e19407a604be22bf69df443b0f8b7b5bc4d
 
 ## What Does This Mean for Users?
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![OpenAI's Official website to access ChatGPT playground](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt.jpg)
 
  Expect to see more natural language processing and improved conversational experiences in your mainstream apps. This is because ChatGPT and Whisper API will set a new standard for NLP, and developers will likely try to integrate similar features into their apps to keep up with the competition.
@@ -63,6 +78,9 @@ thumbnail: https://thmb.techidaily.com/5a6b81e19407a604be22bf69df443b0f8b7b5bc4d
 
  This could lead to a proliferation of new chatbot-based services and applications, as well as improved experiences for users interacting with these systems.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## A New Era of AI
 
  This is the first bold step towards promoting accessibility and inclusivity in AI development and deployment. Learning how to use AI tools like ChatGPT can be a game-changer for businesses, as it empowers them to streamline operations and gain valuable insights from vast amounts of data—and there’s no better time than today.

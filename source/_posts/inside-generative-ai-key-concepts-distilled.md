@@ -1,7 +1,7 @@
 ---
 title: "Inside Generative AI: Key Concepts Distilled"
-date: 2024-07-23 13:50:48
-updated: 2024-07-25 12:56:27
+date: 2024-08-02T15:58:05.287Z
+updated: 2024-08-03T15:58:05.287Z
 tags:
   - chatgpt
   - open-ai
@@ -25,8 +25,14 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
 
  Of course, there are many[ways to get started with meditation](https://www.makeuseof.com/meditation-how-to-get-started/) . ChatGPT will lead you through the practice, but your first step is to set up a safe space without distractions. You might not need help with this, but it could be your first interaction with ChatGPT. When I asked, “Can you recommend how to set up a quiet space for a meditation session?” I received a list of 12 great ideas to set the scene.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of a ChatGPT response to meditation setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-a-chatgpt-response-to-meditation-setup.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ## 2\. Ask ChatGPT Initial Questions About Meditation
 
  A great way to familiarize yourself with ChatGPT is to ask questions about any aspects of meditation that you want to learn more about. For example, you could use prompts such as:
@@ -43,6 +49,9 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
 
  You can ask more specific questions to get more tailored answers, for example, by outlining any medical conditions you have and asking how ChatGPT can help you.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![Screenshot of a ChatGPT response to asking questions about meditation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-a-chatgpt-response-to-asking-questions-about-meditation.jpeg)
 
  Of course, you must exercise caution when interacting with ChatGPT about such issues. When I asked about depression and meditation, the first line of the ChatGPT answer was, “I'm not a mental health professional, but I can provide some general information about the potential benefits of meditation for mental health.” Here’s[how to fact-check health information from ChatGPT and AI sources](https://www.makeuseof.com/fact-check-health-information-chatgpt-ai-sources/) .
@@ -62,6 +71,9 @@ Try to frame your intentions positively, with statements such as:
 
  It can be helpful to write down any useful suggestions you receive for future reference.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Start Your Meditation Session Using ChatGPT
 
  Now that you have defined your intentions, direct ChatGPT to prompt your meditation session in a way that reflects your needs. Use prompts like:
@@ -70,6 +82,9 @@ Try to frame your intentions positively, with statements such as:
 * What are some techniques to cultivate peace of mind?
 * I'm feeling overwhelmed. Can you give me some meditation techniques?
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of a ChatGPT response to meditation session](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-a-chatgpt-response-to-meditation-session.jpeg)
 
  Because ChatGPT is a text-based service, it won’t lead you through a session as you would expect from a[meditation app like Insight Timer](https://www.makeuseof.com/deep-dive-into-insight-timer-meditation-app/) , the[meditation and mindfulness app Calm](https://www.makeuseof.com/meditating-calm-app-improve-mindfulness/) , or even a teacher. Instead, you’ll receive a list of ideas to work with, and you can consider which approaches might work best for you.
@@ -82,6 +97,9 @@ Try to frame your intentions positively, with statements such as:
 
 ![Screenshot of a ChatGPT response refining answers about meditation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-a-chatgpt-response-refining-answers-about-meditation.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ## 6\. Apply the ChatGPT Advice in Your Meditation Session
 
  Practice some of the suggestions, using everything you have learned from your interactions with ChatGPT.
@@ -92,6 +110,9 @@ Try to frame your intentions positively, with statements such as:
 
  Breathe deeply and take a few moments to return to your ordinary state. You could journal your responses to help you next time.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of a ChatGPT response to breathing exercise question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-a-chatgpt-response-to-breathing-exercise-question.jpeg)
 
 ## 8\. Set Future Goals Using ChatGPT for Guidance
@@ -104,6 +125,9 @@ Try to frame your intentions positively, with statements such as:
 
  When I asked how to incorporate meditation into my daily routine, ChatGPT came up with a dozen great ideas, including using breaks wisely and incorporating mindful moments into everyday tasks like walking, eating, or washing dishes.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of a ChatGPT response to setting meditation goals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-a-chatgpt-response-to-setting-meditation-goals.jpeg)
 
  Of course, you can combine these answers with advice from other sources, such as our list of[meditation apps to help you pause for a mindful moment on the go](https://www.makeuseof.com/meditation-apps-mindful-moment-on-go/) .

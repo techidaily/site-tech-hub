@@ -1,7 +1,7 @@
 ---
 title: $1 Million Token Breakthrough in Gemini's Saga
-date: 2024-07-25 19:48:11
-updated: 2024-07-27 10:15:52
+date: 2024-08-02T15:57:42.888Z
+updated: 2024-08-03T15:57:42.888Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,18 @@ thumbnail: https://thmb.techidaily.com/8902585d66f327811523945d1407154d052552e15
 
 ## Multi-Modal AI and DIY: What Is a Multi-Modal AI?
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![An electric bulb on a black chalkboard with chat bubbles](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bulb-on-chalkboard.jpg)
 
  Multi-modal AI refers to AI models that can process and understand different types of data, such as text, images, and videos. Get this, if GPT-4 becomes a multi-modal AI, it will be a game changer for DIY enthusiasts.
@@ -33,10 +45,16 @@ thumbnail: https://thmb.techidaily.com/8902585d66f327811523945d1407154d052552e15
 
 ## How Will GPT-4 Speed Up DIY Development?
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Woman working on a circuit board](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/woman-working-on-a-circuit-board.jpg)
 
  As the field of NLP continues to evolve, the release of GPT-4 is highly anticipated due to its potential to accelerate DIY development.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Advanced Language Processing Capabilities
 
  Large-scale language generation is a feature that will allow the generation of large, coherent, and accurate texts that provide informative responses to DIY enthusiasts. A multilingual support feature will also diversify the use of the language model by the DIY community, hence promoting collaboration and quickening the formation and implementation of ideas.
@@ -47,18 +65,28 @@ thumbnail: https://thmb.techidaily.com/8902585d66f327811523945d1407154d052552e15
 
  Such tools being available in development environments aid in the generation of flawless code, and speed up the process of writing code for complex DIY projects—not forgetting debugging features.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Integration of Machine-Learning Algorithms
 
  Integrating algorithms can improve model response relevance and accuracy, leading to personalized DIY recommendations based on user behavior. ML algorithms can recognize DIY-related keywords and tailor user-specific responses, easing the product research and development process.
 
 ## The Future of Microcontroller-Based Platforms
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ![A white robot assistant with a tablet with user interface attached to the chest](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/white-robot-assistant.jpg)
 
  Microcontroller-based platforms could benefit greatly from advancements in AI models such as ChatGPT4\. Integrating these models can expand the processing power and memory of the platforms, leading to more accurate data analysis from embedded and IoT systems. Speaking of this, we've covered many[Arduino IoT projects](https://www.makeuseof.com/best-arduino-iot-projects/) you can try without waiting for GPT advancements.
 
  Predictive maintenance measures could also be developed using this data. In the future, lightweight AI versions could even be integrated into devices for DIY projects using compression techniques. Generally, DIY partakers will soon be able to efficiently ideate, research, implement, and modify projects.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Bringing AI to the DIY World
 
  GPT-4 will undoubtedly transform the DIY industry. Generation of personalized and accurate responses, multilingual support, virtual DIY assistance, coding assistant, and debugging features are just the tip of the iceberg of the capabilities the upcoming language model has to offer the field.

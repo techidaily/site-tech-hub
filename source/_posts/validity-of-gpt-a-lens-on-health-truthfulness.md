@@ -1,7 +1,7 @@
 ---
 title: "Validity of GPT: A Lens on Health Truthfulness"
-date: 2024-07-24 13:53:57
-updated: 2024-07-26 12:34:57
+date: 2024-08-02T15:58:23.497Z
+updated: 2024-08-03T15:58:23.497Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/b7ac3fecaf39cbf4ad53ade68b5607328fb5fc5fa
 
 ## The Longevity of Auto-GPT in the Era of GPT-4: Assessing Its Independent Worth
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Auto-GPT is an automation AI model that uses GPT-3.5 or GPT-4 to complete tasks independently, making it like a personal assistant that can automate most of your tasks.
@@ -37,7 +40,10 @@ thumbnail: https://thmb.techidaily.com/b7ac3fecaf39cbf4ad53ade68b5607328fb5fc5fa
 
 ## How Do You Access Auto-GPT on Your PC?
 
-![A grey laptop and a phone on a table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/a-grey-laptop-and-a-phone-on-a-table.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
+![A grey laptop and a phone on a table](https://thmb.techidaily.com/21f134ff6252e8b65e4072cbcc9d1f7716bea3abeb6dec26820e9ae291c1ae1c.jpg)
 
  For starters, you can access Auto-GPT using Windows, MacOS, or Linux. You also need an OpenAI API account before you start.
 
@@ -53,6 +59,9 @@ Here is a step-by-step guide on how to install Auto-GPT on your PC:
 6. Copy your secret API keys from Open AI. If you don't have API keys, click on**Create new secret key** .  
 ![Screenshot showing blurred out OpenAI API keys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/api-keys.jpg)
 7. Replace the "your-openai-api-key" text in the ".env.template" file with the API keys.  
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A notepad showing blurred out OpenAI key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/notepad.jpg)
 8. Create a free account on[pinecone.io](https://www.pinecone.io/) . Once you've signed in to your account, select**API Keys** and click**Create API Key** . However, it's not mandatory you use pinecone.io to install Auto-GPT—if you're put on a waiting list, you can skip to step 12.
 9. After naming and creating the new API key on Pinecone, copy the**Key Value** and paste it to replace "your-pinecone-api-key—this is on the third line under "PINECONE" on the ".env" file you've opened using Notepad.
@@ -62,6 +71,9 @@ Here is a step-by-step guide on how to install Auto-GPT on your PC:
 12. Right-click the Auto-GPT folder and select**Open in Terminal** .  
 ![Open AutoGPT environment](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/10-open-terminal.jpg)
 13. After you've opened the Terminal, enter "pip install -r requirements.txt" to automatically download and install the necessary libraries for Auto-GPT.  
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Pip install requirements](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/11-pip-install-requirements.jpg)
 14. Launch Auto-GPT on your computer by executing the following command: "python -m autogpt".  
 ![AutoGPT installation success](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/weldom.jpg)
@@ -71,12 +83,22 @@ Here is a step-by-step guide on how to install Auto-GPT on your PC:
 
  If you want to stop an ongoing task quickly, you can utilize the**Ctrl + C** keyboard shortcut.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Auto-GPT Benchmarking Tool
 
  The Auto-GPT August 2023 update introduced a new benchmarking tool designed to track the performance of the agents deployed.[Auto-GPT Benchmarks](https://github.com/Significant-Gravitas/AutoGPT/tree/master/benchmark) is still in development, but it gives you an idea of how your automated agents are performing in areas like "code, retrieval, memory, and safety."
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Do You Access Auto-GPT on Your Browser?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![A screenshot of Agent GPT with name and goal defined. ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/agent-gpt.png)
 
  If accessing Auto-GPT on your PC is too complicated, especially if you're unfamiliar with the Windows Terminal, you can still access it on your browser using AgentGPT. It could also be a safer option if you're concerned about privacy on your PC.
@@ -106,6 +128,9 @@ Once it's done, you can copy or save the information.
 
  However, the updated Auto-GPT has been improved with planning and task management capabilities that make it better to execute a task. In addition to that, the AI will let you know its thoughts, reasoning, plan, and criticism when performing an action.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![AutoGPT downloading file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3-recipe-generator.jpg)
 
  In retrospect, Auto-GPT with either GPT-3.5 or GPT-4 API can automate some of your tasks with simple defined goals. Of course, Auto-GPT with GPT-4 API has the edge over GPT-3.5 because it's more accurate and better at making sense of images. Here are the[key differences between GPT-4 and GPT 3.5 explained](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained) .
@@ -114,10 +139,16 @@ Once it's done, you can copy or save the information.
 
  Even though Auto-GPT with GPT-4 API performs better than Auto-GPT-3.5, you can still use Auto-GPT 3.5 to complete tasks autonomously. For example, I prompted Auto-GPT with GPT-3.5 API to search the internet for the best laptops on the market and give me a report with pros and cons.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![auto-gpt with gpt 3.5 output example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/auto-gpt-with-gpt-3-5-output-example.jpg)
 
  Similarly, I prompted Auto-GPT with GPT-4 API with the same goals, and it gave me a report.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![auto-gpt with gpt 4 output example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/auto-gpt-with-gpt-4-output-example.jpg)
 
  Based on the results, we can deduce that Auto-GPT is still a useful tool without GPT-4 API. In fact, Auto-GPT-3.5 tokens are way cheaper than GPT-4 tokens. Here is what you need to know about the[ChatGPT token limit](https://www.makeuseof.com/what-is-chatgpt-token-limit-can-you-exceed-it/) .
@@ -128,6 +159,9 @@ Once it's done, you can copy or save the information.
 
  Besides that, Auto-GPT's developers acknowledge that Auto-GPT is experimental and may not be ideal for real-world situations.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Auto-GPT Is a Game Changer
 
  Auto-GPT is the closest thing we have to artificial general intelligence, consideringit'ss an AI agent that can perform most tasks autonomously with just a few prompts.It'ss also easy to set up, and you can use it with GPT-3.5 or GPT-4\. However, Auto-GPT has its flaws, and it requires a human to verify the information after autonomously completing the tasks.

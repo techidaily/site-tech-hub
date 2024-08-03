@@ -1,7 +1,7 @@
 ---
 title: 7 Mistakes to Avoid When Using Generative AI Tools
-date: 2024-07-25 20:30:48
-updated: 2024-07-26 11:16:32
+date: 2024-08-02T15:58:08.314Z
+updated: 2024-08-03T15:58:08.314Z
 tags:
   - chatgpt
   - open-ai
@@ -15,12 +15,18 @@ thumbnail: https://thmb.techidaily.com/3e8a6c48903de348edfc32de01dc40c1bc954d345
 
 ## DALL-E 3 Reveals Integrated Editing Tools - Time to Polish and Perfect Them
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [What Are DALL-E 3's Editing Tools?](https://www.makeuseof.com/how-dalle-3-editing-tools-work/#what-are-dall-e-3-39-s-editing-tools)
 * [How to Use DALL-E 3's Editing Tool](https://www.makeuseof.com/how-dalle-3-editing-tools-work/#how-to-use-dall-e-3-39-s-editing-tool)
 * [DALL-E's Editing Tools Are Useful, But Need Work (and a Little Persistence)](https://www.makeuseof.com/how-dalle-3-editing-tools-work/#dall-e-39-s-editing-tools-are-useful-but-need-work-and-a-little-persistence)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * OpenAI adds editing tools to DALL-E 3 in ChatGPT for inline adjustments.
@@ -47,10 +53,16 @@ However, it's a mixed bag.
 
  That's not to say the editing tools don't work. They can absolutely remove features and make small changes, as detailed below, but it's all on a small scale.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Use DALL-E 3's Editing Tool
 
  The best way to show you what DALL-E 3's editing tool can do is with some proper examples.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Removing and Erasing
 
  DALL-E 3's editing tools can erase some small features, but it definitely struggles. In the following image, I'd asked DALL-E to create "A robotic hand holding a glowing, transparent square chip with 'AI Accelerated' written on it. The background is dark blue, creating a futuristic and high-tech atmosphere."
@@ -83,10 +95,16 @@ Close
 
  Again, the original image is good, has sharp, vibrant colors, and matches the prompt. However, I wanted to switch the yeti to a different type of scary animal.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dalle 3 editing tools yeti removed from image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-yeti-removed-from-image.jpg)
 
  Instead of swapping the yeti for a different animal, it's just completely gone. Instead, I returned to the original image and asked it to add another yeti, which it failed to do. It similarly failed when asked to add more trees to the image.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Adding Text
 
  There isn't much to cover here. As said, generative AI generally struggles with text anyway, and adding text to an image is even more difficult. I prompted DALL-E to create a postcard from a British seaside, which it did, capturing the scene nicely. I then wanted to add the words "Sunny Beach" to the image, which it just couldn't handle. That is, until after around six or seven back-and-forth prompts reminding DALL-E what it needed to do, it created a whole new image with the required text. And accurate text, too; I'm not sure about the baby face in the sunshine, mind.

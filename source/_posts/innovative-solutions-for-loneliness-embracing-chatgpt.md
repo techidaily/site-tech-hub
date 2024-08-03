@@ -1,7 +1,7 @@
 ---
 title: "Innovative Solutions for Loneliness: Embracing ChatGPT"
-date: 2024-07-27 13:11:19
-updated: 2024-07-28 10:58:19
+date: 2024-08-02T15:58:22.185Z
+updated: 2024-08-03T15:58:22.185Z
 tags:
   - chatgpt
   - open-ai
@@ -27,12 +27,18 @@ thumbnail: https://thmb.techidaily.com/7dc1f793da1f2b9c448c995323e3532e944d03082
 
  No, it doesn't require any programming knowledge to set up. The process isn't too technical—it is relatively easy to complete. All you'll need to get started is to grab an OpenAI API key and add the "GPT for Sheets and Docs" extension to your Google Sheets account. But how do you get an OpenAI API key?
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Add the GPT for Sheets and Docs Extension to Google Sheets
 
 To add the GPT for Sheets and Docs extension to your Google Sheets:
 
 1. Open a new Google Sheets spreadsheet on your computer.
 2. Locate and click on**Extensions > Add-ons > Get Add-ons** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ![Adding GPT for Sheets and Docs to Google Sheets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/adding-gpt-for-sheets-and-docs-to-google-sheets.jpg)
 3. Up next, you should be taken to the Google Workspace Marketplace. Locate the search bar in the top right corner of the screen and search for**GPT for Sheets and Docs** .  
 ![Google Workspace Marketplace](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/google-workspace-marketplace.jpg)
@@ -71,6 +77,9 @@ To add the GPT for Sheets and Docs extension to your Google Sheets:
 
 Well, the possibilities are endless.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Generate Text
 
  With GPT-powered Google Sheets, you can use regular ChatGPT prompts and get similar replies to ChatGPT right within Google Sheets. For instance, if you want to populate cell C3 with a story about Snapchat, you could type the formula**\=GPT("Write a short story about Snapchat")** right inside the cell.
@@ -81,18 +90,39 @@ Well, the possibilities are endless.
 
  Alternatively, you could type out the prompt on cell A1 and reference the cell in your formula using the formula**\=GPT(A1)** to achieve a similar result.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Run GPT functions by cell reference](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-gpt-functions-by-cell-reference.jpg)
 
  Of course, we are dealing with a spreadsheet, so you probably need your results to span multiple cells. To do that, you can use the**\=GPT\_LIST** function. An example could be **\=GPT\_LIST("write five creative taglines for an ice-cream shop")** or**\=GPT\_LIST(A1)** .
 
 ![multi-cell response in GPT for sheets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/multi-cell-response-in-gpt-for-sheets.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Translate Text
 
  With the GPT for Sheets and Docs extension, you can use[ChatGPT translation prompts](https://www.makeuseof.com/how-to-translate-with-chatgpt/) within Google Sheets. You can achieve this using the**GPT\_TRANSLATE** function or wrapping a typical ChatGPT translation prompt around the base GPT function. This could be in the form of**\=GPT(" translate 'Bonjour' to English ")** or **GPT\_TRANSLATE(\[text\_to\_translate\], \[target\_language\], \[source\_language\])** .
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![translating with GPT on Sheets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/translating-with-gpt-on-sheets.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 3\. Summarize Text
 
  To summarize text, you can either wrap a summarization prompt with the base =GPT function or use the**\=GPT\_SUMMARIZE** function. For instance,**\=GPT\_SUMMARIZE(C44)** will summarize the content of cell C44 into the active cell.
@@ -103,6 +133,9 @@ Well, the possibilities are endless.
 
  For instance,**\=GPT\_CLASSIFY(D6,E4)** will use the category labels provided in cell E4 to classify the content of cell D6\. In the example below, we used the red-colored text in cell E4 to label cells D6 to D8.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![GPT_CLASSIFY in GPT for sheets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/gpt_classify-in-gpt-for-sheets.jpg)
 
 ### 5\. Generate Data Tables
@@ -111,18 +144,27 @@ Well, the possibilities are endless.
 
  However,**\=GPT\_TABLE** can produce the table in 3 seconds. You'd have to do something like**\=GPT\_TABLE** ( **"20 of the best Korean TV shows, their IMDB rating and three words to describe their theme")** . We ran the function, and here's what we got.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![GPT_TABLE function in GPT for sheets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/gpt_table-function-in-gpt-for-sheets.jpg)
 
 ### 6\. Copy Text Formatting
 
  When working on a spreadsheet, some formatting is a bit too loosely defined or arbitrary for Google Sheets to replicate. For cases like this, the**\=GPT\_FILL** can be a lifesaver. To use the function, demonstrate a few examples of what you need to be done and invoke the**\=GPT\_FILL** to copy the formatting. Below is a video that demonstrates how to use the function.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 7\. Extract Data
 
  If you are working with a lot of mixed-up data or text, you can extract certain data types into assigned cells using the**\=GPT\_EXTRACT** function. For instance, you could paste a CSV file in cell B23 and use**\=GPT\_EXTRACT(B48, C48)** to extract email addresses from the CSV text to the current cell. In the function, the C48 references a cell that contains the data type to extract, in this case, email addresses.
 
 ![Data Extraction using GPT functions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/data-extraction-using-gpt-functions.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Boost Your Productivity With ChatGPT Prompts in Google Sheets
 
  If you are a fan of ChatGPT and Google Sheets, you'll find GPT for Sheets and Docs a useful addition to your productivity tools. With it, you can do the things you'd typically do with ChatGPT in your spreadsheets.

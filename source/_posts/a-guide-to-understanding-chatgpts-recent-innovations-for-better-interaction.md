@@ -1,7 +1,7 @@
 ---
 title: A Guide to Understanding ChatGPT's Recent Innovations for Better Interaction
-date: 2024-07-24 21:27:27
-updated: 2024-07-25 10:37:43
+date: 2024-08-02T15:58:13.224Z
+updated: 2024-08-03T15:58:13.224Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/573a01f636332d7e5c995b169e7da5e56cb9c949c
 
  What if you could have AI create it all for you? Since ChatGPT can't output files, you can combine ChatGPT with another AI tool and have them build your presentation from scratch. All in a matter of seconds. Sounds good? Read on to learn how.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ## Create a Presentation From Scratch With ChatGPT
 
  Before diving into creating a presentation with ChatGPT, let's go over the steps involved. We'll use a combination of two AI tools to make this presentation.
@@ -41,6 +44,9 @@ thumbnail: https://thmb.techidaily.com/573a01f636332d7e5c995b169e7da5e56cb9c949c
 
  So, other than the topic, your prompt should include the main points and some structural features like the number of slides. You can see a sample conversation with ChatGPT for this purpose in the image below or through this[shared chat link](https://chat.openai.com/share/0130da56-15cb-4e8e-bc86-58f79ca9cbc9) .
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A sample conversation with ChatGPT to generate text for a presentation.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-presentation-text.jpg)
 
  Once you have provided the information, ChatGPT will generate the presentation text for you. You can edit and refine the text to meet your needs and preferences. It's best to remove the structural phrases, such as the slide numbers and the image descriptions. Keep only the main text.
@@ -70,18 +76,30 @@ thumbnail: https://thmb.techidaily.com/573a01f636332d7e5c995b169e7da5e56cb9c949c
 
 1. Open the**Extensions** menu.
 2. Go to SlidesAI and then click**Generate Slides** .  
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![Extensions menu in Google Slides](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/slidesai-generate-slides.jpg)
 3. In the new window, paste your text under**Enter text** .  
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![SlidesAI extension in Google Slides](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-slides-slidesai.jpg)
 4. Select the presentation type and the number of slides from the right.
 5. Check whether you want SlidesAI to add images or a title and thank you slides.
 6. Check**Replace Existing Slides** .
 7. Go to the**Themes** tab and select a style.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ![Choosing a theme in SlidesAI ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/slides-slidesai-theme.jpg)
 8. When all is set, go back to the**Text** tab and click**Create Slides** .
 
  SlidesAI will now take the text you generated with ChatGPT and use it to automatically create the slides for your presentation. This can take a while, depending on your input.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ![An AI generated presentation in Google Slides](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-slides-presentation.jpg)
 
  Once the AI is done, you'll get a message saying your slides have been created. Close the SlidesAI window and check them out!
@@ -105,6 +123,9 @@ thumbnail: https://thmb.techidaily.com/573a01f636332d7e5c995b169e7da5e56cb9c949c
 
  If you want to use Microsoft PowerPoint, you can export your Google Slides presentation as a PowerPoint slideshow. Head to**File > Download** and then select**Microsoft PowerPoint** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Create Efficient Presentations in Minutes
 
  Creating a presentation involves a lot of invisible work. In an ideal world, you would dedicate your precious time to researching and rehearsing, and have someone else do the labor of creating the presentation.

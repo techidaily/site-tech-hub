@@ -1,7 +1,7 @@
 ---
 title: "Optimize Your Workflows: 10 Essential ChatGPT Integrations in VS Code"
-date: 2024-07-23 23:27:46
-updated: 2024-07-25 10:25:27
+date: 2024-08-02T15:58:06.448Z
+updated: 2024-08-03T15:58:06.448Z
 tags:
   - chatgpt
   - open-ai
@@ -34,6 +34,9 @@ It’s a very simple process, and you’ll want to do it again and again.
 
  After ChatGPT generates your prompts, read over them. One of the[issues with using ChatGPT](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/) is occasionally it generates inaccurate information. If you’re making content that informs people, you should ensure that it is correct.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ## 2\. Copy the Text Into a Spreadsheet
 
 ![GoogleSheets-quotes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/googlesheets-quotes.jpg)
@@ -44,8 +47,15 @@ It’s a very simple process, and you’ll want to do it again and again.
 
  Paste your content into A2 by using**Cmd** +**V** on Mac or**Ctrl** +**V** on Windows. Despite selecting only one box, each line of text will be input into a new row.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## 3\. Tidy Up the Content
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![Google Sheets with quotes in one column and credits in another.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/googlesheets-remove-attirubtion.jpg)
 
  First, widen column A to the right. Hover your cursor over the connecting edge of A and B until the cursor changes to arrows, then click and drag A column until you can see the ends of your content within the column width.
@@ -54,8 +64,14 @@ It’s a very simple process, and you’ll want to do it again and again.
 
  You can add more elements if required, but for most social media posts, you don’t want to overcrowd information.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. Label Your Columns
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Google Sheets with Quotes and Attribution labels.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/labelledgoogledocs.jpg)
 
  Now it’s time to put labels in the first row. This allows Canva to attribute your spreadsheet values to its bulk creation system later.
@@ -74,18 +90,39 @@ It’s a very simple process, and you’ll want to do it again and again.
 
 ## 6\. Make Your Design in Canva
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Create a Design options in Canva.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/create-design-canva.jpg)
 
  Head to[Canva](https://www.canva.com) and choose a size for your bulk designs. Whether you’re using a pre-made template, or designing from a blank page, make sure your design isn’t overcrowded and that there will be enough space for your text.
 
  If you’ve already[made and published Canva templates](https://www.makeuseof.com/canva-how-to-create-publish-templates/) , choose one of those, or if you’re designing from scratch, you could[use Canva’s Brand Kit feature](https://www.makeuseof.com/canva-how-to-use-brand-kit-feature/) to incorporate your branding into your design. Both of those features require a Canva Pro subscription or the free trial.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Canva template design](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/canva-template-design.jpg)
 
  Add elements around the edges of your design, leaving enough empty space for your text. You could add your logo, images, a background, or decorative patterns.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 7\. Add Text Placeholders
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Canva design with placeholder text.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/placeholder-text-canva.jpg)
 
  Select the**Text** tool and write placeholders for your labels. Place them where your text will go on the design. Remember to give yourself space to accommodate different lengths of content.
@@ -112,6 +149,9 @@ It’s a very simple process, and you’ll want to do it again and again.
 
  You’ll see a list of all the content to be applied with checkboxes next to each item. To remove any text items, uncheck the box next to it. If you’re happy with all the content, keep them all checked and select**Generate Pages** . Ensure you don't have a pop-up blocker on as your designs will open in a new tab.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 9\. Review and Edit Your Designs
 
 ![Canva bulk designs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/canva-bulk-designs.jpg)
@@ -122,6 +162,9 @@ It’s a very simple process, and you’ll want to do it again and again.
 
  At this point you can also add emphasis to individual words with extra colors, bold or italics, or change the font for certain words or phrases. This isn’t possible to do with Bulk Create.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 10\. Save Your Bulk-Created Designs
 
 ![Canva save options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/canva-save-options.jpg)
@@ -132,6 +175,9 @@ It’s a very simple process, and you’ll want to do it again and again.
 
  You can add your bulk content to a social media scheduling app, like Hootsuite or Later, to save even more time and to ensure regular posting. Bulk designs are great for weekly or monthly posts of a similar type, for example, Monday Motivation or monthly calendar posts.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Bulk Create Content With Canva and ChatGPT
 
  Whether you use ChatGPT, another AI chatbot, or manually generate the written content, Canva’s Bulk Create feature is not one to be missed. You can quickly and easily create months’ worth of designs for social media or other uses. Canva’s easy system removes any complications you might find in other software and saves time and energy for mass production.

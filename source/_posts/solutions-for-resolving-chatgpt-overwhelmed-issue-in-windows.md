@@ -1,7 +1,7 @@
 ---
 title: Solutions for Resolving 'ChatGPT Overwhelmed' Issue in Windows
-date: 2024-07-25 23:40:18
-updated: 2024-07-28 10:15:57
+date: 2024-08-02T15:58:21.160Z
+updated: 2024-08-03T15:58:21.160Z
 tags:
   - chatgpt
   - open-ai
@@ -52,12 +52,18 @@ To add ChatGPT as a Windows app using Edge:
 2. Right-click on the app icon and**Uninstall.**
 3. Click**Uninstall** again to confirm the action.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ## How to Add ChatGPT as a Windows App Using Chrome
 
  Similar to Microsoft Edge, Chrome features a Create shortcut feature. You can add any site as a shortcut to use it as a native app. Here’s how to add ChatGPT as a shortcut using Chrome.
 
 1. In Google Chrome, navigate to the[ChatGPT page](https://chat.openai.com/chat) and sign in with your account.
 2. Click the**three-dots menu** in the top right corner.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![chatgpt create chrome shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-create-chrome-shortcut.jpg)
 3. Select**More Tools** and then**Create Shortcut** .
 4. Enter a name in the**Create shortcut** popup.  
@@ -78,8 +84,16 @@ To add ChatGPT as a Windows app using Edge:
 
  In addition to this, you can[install websites as desktop apps on Windows](https://www.makeuseof.com/websites-desktop-apps-windows/) using tools like WebCatalog. It allows you to turn web pages into desktop apps, organize them, and even switch between multiple accounts without logging out.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Run ChatGPT Natively Using an Unofficial Project
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ![chat gpt github unofficial project running on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chat-gpt-github-unofficial-project-running-on-windows.jpg)
 
  A developer on GitHub has posted an unofficial ChatGPT project which runs natively on the Windows computer. To use the app, you need to log in using the ChatGPT credentials. It works similarly to the AI chatbot web app but offers some additional features.
@@ -89,6 +103,9 @@ To add ChatGPT as a Windows app using Edge:
 Here’s how to run the unofficial ChatGPT project on Windows:
 
 1. Go to the[ChatGPT unofficial GitHub page](https://github.com/lencx/ChatGPT) .  
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![chat gpt github unofficial project](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chat-gpt-github-unofficial-project.jpg)
 2. Scroll down to the Windows section and click on the**.msi installer** download link for the**Direct download installer** . On Microsoft Edge, Windows Defender Screen Filter may temporarily block the download and prompt you to confirm whether you trust the file. To allow the download, click on**Show more,** and then the**three-dots** **menu** . Next, select**Keep** to download the installer. To be on the safer side, you can[scan the installer using an online virus scanning tool](https://www.makeuseof.com/check-suspicious-file-malware/) to find any traces of malware.
 3. Next, run the installer and follow the on-screen instructions to complete the installation.
@@ -102,6 +119,9 @@ Here’s how to run the unofficial ChatGPT project on Windows:
 
  If you decide to uninstall the app, you can do so from the**Settings** app:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![uninstall chatgpt unofficial client](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/uninstall-chatgpt-unofficial-client.jpg)
 
 1. Press**Win + I** to open**Settings** .
@@ -110,6 +130,9 @@ Here’s how to run the unofficial ChatGPT project on Windows:
 
  Once done, you might also want to delete the setup file from the Downloads folder in File Explorer.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Install ChatGPT as a Windows App
 
  Adding ChatGPT as a Windows app lets you access the app in a standalone window. This removes the hassle of visiting the site frequently to use the service.

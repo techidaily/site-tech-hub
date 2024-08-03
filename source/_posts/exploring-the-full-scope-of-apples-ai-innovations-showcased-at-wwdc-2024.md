@@ -1,7 +1,7 @@
 ---
 title: Exploring the Full Scope of Apple’s AI Innovations Showcased at WWDC 2024
-date: 2024-07-25 20:13:18
-updated: 2024-07-27 11:20:48
+date: 2024-08-02T15:57:59.931Z
+updated: 2024-08-03T15:57:59.931Z
 tags:
   - chatgpt
   - open-ai
@@ -41,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/1766f7bb7d62dccbd0941bc3a3d98f6308c902e15
 
  ChatGPT has been trained on the information that was available until the end of 2021\. When asking the chatbot about anything that happened in 2022 and later, it apologizes for not having that information.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![ChatGPT Apologizing For Not Having any Information About Events Happened in 2022](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-apologizing-for-not-having-information-about-events-happened-in-2022.jpg)
 
  Therefore, processing real-time information is the first significant hurdle ChatGPT needs to overcome to compete directly with search engines.
@@ -49,8 +53,15 @@ thumbnail: https://thmb.techidaily.com/1766f7bb7d62dccbd0941bc3a3d98f6308c902e15
 
  Despite being AI-driven, ChatGPT often gives inaccurate responses. OpenAI, the parent company of ChatGPT, admits that the chatbot sometimes generates inaccurate answers. The company has listed this shortcoming as one of the limitations of its product on its official blog.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT Saying It Can Also Generate Wrong Answers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-saying-it-can-also-generate-wrong-answers-and-explains-why-it-does-so.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ### 3\. ChatGPT Is Less Credible
 
  On search engines, you know where information is coming from. Each time you search for something, you know the source of the webpage (i.e., brand or website). By putting in some effort, you can also check the authenticity of authors.
@@ -61,6 +72,9 @@ thumbnail: https://thmb.techidaily.com/1766f7bb7d62dccbd0941bc3a3d98f6308c902e15
 
  You can[sign up and start using ChatGPT](https://www.makeuseof.com/how-to-use-chatgpt-by-openai/) in just a few minutes. If you haven't tried it yet, take advantage of it to enhance your productivity. Although ChatGPT isn't ready to disrupt the search engine industry just yet, does it have the potential to do so in the future?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ## Is ChatGPT Capable of Disrupting Search Engines in the Future?
 
  Even though ChatGPT has some limitations, it has some strengths that make it an excellent candidate to disrupt the search engine industry. Let's discuss a few of them.
@@ -87,8 +101,14 @@ thumbnail: https://thmb.techidaily.com/1766f7bb7d62dccbd0941bc3a3d98f6308c902e15
 
  For example, ChatGPT can quickly answer whether cats eat carrots since it is a solid fact. However, it may not effectively satisfy the search intent of some queries (such as how-to explainer guides) where users expect to see images alongside textual information.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ![ChatGPT Saying It Can't Generate Images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-saying-it-can-t-generate-images.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ## Let ChatGPT Evolve
 
  It will take time before people trust ChatGPT as they do on search engine results; it will be fascinating to see how this technology evolves.

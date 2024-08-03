@@ -1,7 +1,7 @@
 ---
 title: "Combat AI-Created Forgeries: Preserve Authenticity with Nightshade Strategies in Art"
-date: 2024-07-23 15:16:36
-updated: 2024-07-26 10:16:21
+date: 2024-08-02T15:58:08.345Z
+updated: 2024-08-03T15:58:08.345Z
 tags:
   - chatgpt
   - open-ai
@@ -37,14 +37,23 @@ But what are the best AI search engines and web search tools?
 
 ## 1 [ChatGPT](https://chat.openai.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT dashboard responding to a query ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-ai-search-engine-1.jpeg)
 
  It's only fitting to begin this list with the AI chatbot that spearheaded the widespread adoption of AI-powered conversational search engines. OpenAI's ChatGPT has garnered immense popularity since its launch thanks to its ability to process queries and provide human-sounding responses.
 
  The[ChatGPT Plus $20/month premium subscription offers several benefits](http://www.makeuseof.com/reasons-you-should-upgrade-chatgpt-plus/) , including internet access and search. It gives you access to more relevant, accurate, and up-to-date information, among other features like GPT-4, custom GPTs, DALL-E 3 image generation, and priority access to new features.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ## 2 [Microsoft Copilot](https://copilot.microsoft.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ![The Copilot dashboard in Edge showing a response to a query](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ai-search-engine-copilot.jpeg)
 
  In February 2023, Microsoft introduced Bing AI, a cutting-edge AI search engine powered by OpenAI's GPT-4 AI model, to enhance its search experience. Later in 2023,[Microsoft rebranded Bing Chat to Copilot](https://www.makeuseof.com/microsoft-rebrand-bing-chat-copilot-compete-chatgpt/) , opening up its innovative AI technology to other systems beyond Bing.
@@ -61,14 +70,23 @@ But what are the best AI search engines and web search tools?
 
  However, those issues aside, you can use Gemini's extensions to access information from Google Workspace, YouTube, Google Maps, and more. For instance, you can use the**@Gmail** command to search for specific emails in your inbox or**@Google Drive** to access specific files in your account. This gives you a more personalized search experience. Moreover, you can also[use Gemini instead of Google Assistant on your Android device](https://www.makeuseof.com/how-to-use-google-gemini-on-android/) .
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4 [Perplexity AI](http://www.perplexity.ai/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Perplexity dashboard showing a response to a query](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ai-search-engine-perplexity.jpeg)
 
  If you are looking for one of the best[generative AI tools](https://www.makeuseof.com/generative-ai-tools-improve-work-life/) with real-time, accurate, and cited information to assist with your research task, Perplaxity AI is a great choice. Perplexity.ai is an AI-powered conversational answer engine that provides concise and well-cited responses based on your queries, eliminating the need to skip from one link to another to find relevant information on a traditional search engine.
 
  Unlike other AI chatbots that often generate inaccurate responses, using Perplexity.ai is one of the best ways to[minimize AI hallucination](https://www.makeuseof.com/how-to-reduce-ai-hallucination/) (the tendency of AI models to make up information), making it a reliable AI search tool for research. In addition, you can toggle its**Pro Search** feature to get more comprehensive and fine-tuned responses based on your preferences, but the free version is limited to five searches per day.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5 [You.com](https://you.com/)
 
 ![You.com dashboard showing a response to a query](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ai-search-engine-you-com.jpeg)

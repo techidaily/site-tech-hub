@@ -1,7 +1,7 @@
 ---
 title: Top 6 Innovative Uses for the ChatGPT Coding Companion
-date: 2024-07-23 23:27:25
-updated: 2024-07-25 12:40:39
+date: 2024-08-02T15:57:48.263Z
+updated: 2024-08-03T15:57:48.263Z
 tags:
   - chatgpt
   - open-ai
@@ -31,6 +31,9 @@ thumbnail: https://thmb.techidaily.com/db6e8bb5b9330de241494205e28fd162607bcee64
 
  Once you've generated the presentation, all that is left is to make some final changes and export the presentation to any format you like. If you want to create a PowerPoint slideshow with AI, you can follow these same steps and then export the slideshow to PowerPoint.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Generate the Presentation Text With ChatGPT
 
  The first step in creating a presentation is to generate the text with ChatGPT. To get a proper output, you must provide ChatGPT with some basic information about the presentation, such as the topic, the audience, and the main points you want to cover.
@@ -49,10 +52,16 @@ thumbnail: https://thmb.techidaily.com/db6e8bb5b9330de241494205e28fd162607bcee64
 
  If you want to make the whole process even easier and don't feel like editing the AI-generated text yourself, you can use yet another[AI writing tool](https://www.makeuseof.com/ai-writing-tools/) to edit ChatGPT's output.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Install SlidesAI for Google Slides
 
  After generating the text for your presentation, the next step is to install[SlidesAI for Google Slides](https://workspace.google.com/marketplace/app/slidesaiio%5Fcreate%5Fslides%5Fwith%5Fai/904276957168) . You can do this through the Google Slides add-ons store.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![SlidesAI on the Google Webstore](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-slides-store.jpg)
 
 1. Go to Google Slides.
@@ -82,6 +91,9 @@ thumbnail: https://thmb.techidaily.com/db6e8bb5b9330de241494205e28fd162607bcee64
 
  SlidesAI will now take the text you generated with ChatGPT and use it to automatically create the slides for your presentation. This can take a while, depending on your input.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![An AI generated presentation in Google Slides](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-slides-presentation.jpg)
 
  Once the AI is done, you'll get a message saying your slides have been created. Close the SlidesAI window and check them out!
@@ -90,6 +102,9 @@ thumbnail: https://thmb.techidaily.com/db6e8bb5b9330de241494205e28fd162607bcee64
 
  Now you can customize the slides and add the finishing touches. Remember that AI is still prone to making mistakes, so proofread your presentation to ensure there aren't any blunders. If the main content looks good, you can then start making visual improvements like[adding animations to your slides](https://www.makeuseof.com/add-animation-google-slides/) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![The Magic Write tool in SlidesAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/slides-magic-write.jpg)
 
  There's a chance that SlidesAI adds irrelevant images to some slides. In that case, you can replace the image with SlideAI's Magic Write tool. This feature considers the slide's content and suggests relevant stock photos.
@@ -101,10 +116,16 @@ thumbnail: https://thmb.techidaily.com/db6e8bb5b9330de241494205e28fd162607bcee64
 
  Once your slideshow is all set, it's time to start preparing for the presentation. If you want to present on Google Slides, there's only a little left to do other than rehearse.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Downloading a Google Slides presentation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-slides-download.jpg)
 
  If you want to use Microsoft PowerPoint, you can export your Google Slides presentation as a PowerPoint slideshow. Head to**File > Download** and then select**Microsoft PowerPoint** .
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Create Efficient Presentations in Minutes
 
  Creating a presentation involves a lot of invisible work. In an ideal world, you would dedicate your precious time to researching and rehearsing, and have someone else do the labor of creating the presentation.

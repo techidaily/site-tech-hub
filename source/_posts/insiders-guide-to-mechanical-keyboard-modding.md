@@ -1,7 +1,7 @@
 ---
 title: Insider's Guide to Mechanical Keyboard Modding
-date: 2024-07-28 17:35:37
-updated: 2024-07-29 11:20:21
+date: 2024-08-02T15:58:24.869Z
+updated: 2024-08-03T15:58:24.869Z
 tags:
   - chatgpt
   - open-ai
@@ -39,8 +39,14 @@ Imagine you are a movie and TV show recommendation expert. A user wants to find 
 
  We used the prompt above and then asked ChatGPT to provide TV shows similar to "The Walking Dead" :
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Similar tv shows recommendation from ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/similar-tv-shows-recommendation-from-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. Try a Different Genre
 
  Are you tired of seeing the same genre of movies but have no clue what else you'd love? You're not alone. Fortunately, ChatGPT can help out. Simply tell ChatGPT what you’ve had enough of, and prompt it to surprise you with something radically different.
@@ -53,6 +59,18 @@ Trying the prompt above, we had:
 
 ![radically different TV shows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/radically-different-tv-shows.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Identify Movies With a Desired Storyline
 
  Sometimes you have an idea of the kind of movies you want to watch; you just don’t know how to find them. Googling might help if you have a general theme like "undercover spy in an enemy country." However, if you have a detailed storyline, Google might not be much help, but ChatGPT excels at that.
@@ -67,6 +85,9 @@ We tried the prompt above and got some very enticing suggestions.
 
 ![TV shows with a certain storyline-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/tv-shows-with-a-certain-storyline-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Help Remember a Movie You've Forgotten
 
  You probably have that one movie you've seen in the past and would love to see again but can't remember the name. Maybe you saw it at a young age or just don't have great luck with keeping movie names in memory. ChatGPT can help you hunt down that elusive movie. Just describe every bit of the movie you can remember. Names of any actor you can recall, major scenes, storyline, every element you can think of, and let ChatGPT do its magic.
@@ -85,6 +106,13 @@ Below is an example of a prompt that can help you with such a request:
 
  How? You can start by using prompts like: "Can you suggest some hidden gems in the comedy genre that most people haven't seen?" Or "What are some underrated historical Korean TV shows that deserve more attention, why are they worth seeing, and what's their IMDB score?"
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ![Underated Korean Tv series suggested by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/underated-korean-tv-series-suggested-by-chatgpt.jpg)
 
 ## 6\. Research Movies Starring Your Favorite Actors
@@ -99,12 +127,18 @@ Below is an example of a prompt that can help you with such a request:
 
 ![Action movies featuring Dwayne--The Rock--Johnson](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/action-movies-featuring-dwayne-the-rock-johnson.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ## 7\. Discover Movies From Short Clips
 
  Remember that frustrating moment when you watched a short movie clip on TikTok or YouTube shorts but had no idea which movie it was? It's like solving a puzzle without all the pieces. You came across an exciting scene from a movie that caught your interest, but the clip didn't provide any hints or title. Don't worry; ChatGPT is here to help.
 
  Simply share the details of the scene and the dialogue from the clip, and ask ChatGPT to provide[movie recommendations](https://www.makeuseof.com/unique-ways-to-find-film-and-tv-show-recommendations/) that match the description. While it might not always yield perfect results, you'll be amazed by the commendable effort it puts in to assist you.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ## Let ChatGPT Be Your Personal Movie Recommender
 
  Whether it's a blockbuster thriller, a heart-warming rom-com, a spine-chilling horror, or a timeless classic, ChatGPT can help you narrow down movies and TV shows that truly resonate with you.

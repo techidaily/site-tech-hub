@@ -1,7 +1,7 @@
 ---
 title: Discover the Ultimate 7 AI Applications for Crafting Perfect Presentations
-date: 2024-07-24 12:20:55
-updated: 2024-07-27 12:58:52
+date: 2024-08-02T15:58:17.618Z
+updated: 2024-08-03T15:58:17.618Z
 tags:
   - chatgpt
   - open-ai
@@ -31,6 +31,9 @@ thumbnail: https://thmb.techidaily.com/8607afd112c21db80344a74ef1409282fa825e22b
 
  Once you've generated the presentation, all that is left is to make some final changes and export the presentation to any format you like. If you want to create a PowerPoint slideshow with AI, you can follow these same steps and then export the slideshow to PowerPoint.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Generate the Presentation Text With ChatGPT
 
  The first step in creating a presentation is to generate the text with ChatGPT. To get a proper output, you must provide ChatGPT with some basic information about the presentation, such as the topic, the audience, and the main points you want to cover.
@@ -49,10 +52,16 @@ thumbnail: https://thmb.techidaily.com/8607afd112c21db80344a74ef1409282fa825e22b
 
  If you want to make the whole process even easier and don't feel like editing the AI-generated text yourself, you can use yet another[AI writing tool](https://www.makeuseof.com/ai-writing-tools/) to edit ChatGPT's output.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Install SlidesAI for Google Slides
 
  After generating the text for your presentation, the next step is to install[SlidesAI for Google Slides](https://workspace.google.com/marketplace/app/slidesaiio%5Fcreate%5Fslides%5Fwith%5Fai/904276957168) . You can do this through the Google Slides add-ons store.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![SlidesAI on the Google Webstore](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-slides-store.jpg)
 
 1. Go to Google Slides.
@@ -64,12 +73,18 @@ thumbnail: https://thmb.techidaily.com/8607afd112c21db80344a74ef1409282fa825e22b
 
  SlidesAI will then ask you to sign in with your Google Account. Follow the instructions and then wait for SlidesAI to finish installing.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 3\. Compile the Presentation With SlidesAI
 
  With SlidesAI installed, you can now begin creating your presentation. You can do this in the same blank presentation you made in the previous step. SlidesAI will automatically add new slides and fill them with appropriate content.
 
 1. Open the**Extensions** menu.
 2. Go to SlidesAI and then click**Generate Slides** .  
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Extensions menu in Google Slides](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/slidesai-generate-slides.jpg)
 3. In the new window, paste your text under**Enter text** .  
 ![SlidesAI extension in Google Slides](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-slides-slidesai.jpg)
@@ -82,6 +97,9 @@ thumbnail: https://thmb.techidaily.com/8607afd112c21db80344a74ef1409282fa825e22b
 
  SlidesAI will now take the text you generated with ChatGPT and use it to automatically create the slides for your presentation. This can take a while, depending on your input.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![An AI generated presentation in Google Slides](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-slides-presentation.jpg)
 
  Once the AI is done, you'll get a message saying your slides have been created. Close the SlidesAI window and check them out!
@@ -101,6 +119,9 @@ thumbnail: https://thmb.techidaily.com/8607afd112c21db80344a74ef1409282fa825e22b
 
  Once your slideshow is all set, it's time to start preparing for the presentation. If you want to present on Google Slides, there's only a little left to do other than rehearse.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Downloading a Google Slides presentation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-slides-download.jpg)
 
  If you want to use Microsoft PowerPoint, you can export your Google Slides presentation as a PowerPoint slideshow. Head to**File > Download** and then select**Microsoft PowerPoint** .

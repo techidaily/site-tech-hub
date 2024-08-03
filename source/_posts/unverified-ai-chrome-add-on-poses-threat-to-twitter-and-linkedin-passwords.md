@@ -1,7 +1,7 @@
 ---
 title: Unverified AI Chrome Add-On Poses Threat to Twitter and LinkedIn Passwords
-date: 2024-07-22 21:32:43
-updated: 2024-07-25 10:13:25
+date: 2024-08-02T15:57:44.463Z
+updated: 2024-08-03T15:57:44.463Z
 tags:
   - chatgpt
   - open-ai
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/e24af9d0b47d7bf3dcde61ab73ef441dcda155d4e
 
  There's no denying that AI usage is on the rise, be it in manufacturing, education, cybersecurity, or even transport. But with this growing AI prevalence, should you be at all concerned about your mental health? Will AI improve or worsen mental health across the board?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ## How Can AI Improve Mental Health?
 
  AI is already a big deal in a number of industries, including healthcare, transport, and finance. But you may not know that AI is also being experimented with in the mental health realm.
@@ -35,6 +38,9 @@ thumbnail: https://thmb.techidaily.com/e24af9d0b47d7bf3dcde61ab73ef441dcda155d4e
 
  Of course, some may see[using AI to provide mental health advice as risky](https://www.makeuseof.com/dangers-using-ai-free-therapist-psychiatrist/) . We'll discuss the possible downsides of this a little later.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Monitoring Patient Progress With AI
 
 ![person typing on laptop next to stethoscope on desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/stetho-laptop-1.jpg)
@@ -45,6 +51,9 @@ thumbnail: https://thmb.techidaily.com/e24af9d0b47d7bf3dcde61ab73ef441dcda155d4e
 
  But there are risks to consider here, and the AI system in use would have to be very thoroughly trained on how to spot possible red flags. Still, simply using this as an initial assessment could prove highly beneficial, both to doctors and patients.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ### Developing New Support Techniques With AI
 
  There's no denying that researchers are still working to further understand our brains and why they give way to mental illnesses. Not only is the origin of mental illness still being researched, but techniques on how to better treat patients are also being developed.
@@ -55,6 +64,9 @@ thumbnail: https://thmb.techidaily.com/e24af9d0b47d7bf3dcde61ab73ef441dcda155d4e
 
  Though this all seems very promising, there are also[dangers associated with using AI](https://www.makeuseof.com/is-ai-dangerous-5-immediate-risks-of-artificial-intelligence/) in the mental health field and other ways that AI can worsen mental health in general.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ## How Can AI Worsen Mental Health?
 
  While AI has significant potential to improve mental healthcare, there are also risks and dangers in the adoption of this fast-evolving technology.
@@ -65,6 +77,9 @@ thumbnail: https://thmb.techidaily.com/e24af9d0b47d7bf3dcde61ab73ef441dcda155d4e
 
  So, when AI becomes prominent across various industries, it could have a detrimental effect on mental health. For instance, an individual may opt to[use AI for their education](https://www.makeuseof.com/reasons-teachers-embrace-ai/) , work, entertainment, and other elements of their social life. This, in turn, may lead to something of an AI addiction. There are already plenty of people addicted to social media, online shopping, and online gaming today, which can often give way to feelings of anxiety and very real social and financial problems.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Lack of Human Contact
 
  Humans are, by nature, social beings. So, it can often be hugely beneficial to discuss your feelings with somebody else, instead of dealing with them alone.
@@ -75,6 +90,10 @@ thumbnail: https://thmb.techidaily.com/e24af9d0b47d7bf3dcde61ab73ef441dcda155d4e
 
  At the moment, humans are seen as much more effective at conducting therapy than machines, and this may always be the case. This is why the application of AI in the mental health field should be regulated and monitored very carefully so that patients are still receiving the best care possible.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ### AI Giving Faulty Advice or Solutions
 
  While AI is capable of some amazing things, it is also vulnerable to errors. This is a big concern when AI is being entrusted with people's mental health. Misjudging someone's state of mind, offering ineffective treatment, or misinterpreting important data could be catastrophic for the patient, so there are major considerations that need to be made here.
