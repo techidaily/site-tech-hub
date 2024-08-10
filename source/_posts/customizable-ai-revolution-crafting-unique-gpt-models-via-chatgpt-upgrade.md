@@ -1,0 +1,163 @@
+---
+title: "Customizable AI Revolution: Crafting Unique GPT Models via ChatGPT Upgrade"
+date: 2024-08-09T19:45:49.222Z
+updated: 2024-08-10T19:45:49.222Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: "This Article Describes Customizable AI Revolution: Crafting Unique GPT Models via ChatGPT Upgrade"
+excerpt: "This Article Describes Customizable AI Revolution: Crafting Unique GPT Models via ChatGPT Upgrade"
+thumbnail: https://thmb.techidaily.com/4278a11dc73e1c0d6c218af281491c5ebbfcb593f38d324f2ddde851d89b6bd2.jpeg
+---
+
+## Introducing OpenAI's Customizable, Cutting-Edge GPT Stores
+
+### Quick Links
+
+* [How to Access the GPT Store](https://godlikehost.sjv.io/vnbxzv)
+* [How to Find the Best Custom GPTs in the GPT Store](https://ancheer.sjv.io/y96bgp)
+* [Is it Worth Upgrading to ChatGPT Plus to Use Custom GPTs?](https://getlyla.pxf.io/ek9gkg)
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
+### Key Takeaways
+
+* OpenAI has launched the GPT Store, where users can find custom GPTs created by the ChatGPT community.
+* Access to the GPT Store is available to users with premium ChatGPT subscriptions, but access is being rolled out gradually.
+* Users can browse and search for custom GPTs in the store by category or keywords, and save them for future access. Upgrading to ChatGPT Plus is worth it for the variety of custom GPTs available.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ OpenAI has finally unveiled its highly anticipated GPT Store, offering users a selection of ChatGPT community-created custom GPTs featuring specialized chatbots ranging from writing and design to programming and productivity. The launch marks OpenAI's latest move to capitalize on the runaway popularity of its AI creation ChatGPT, which took the world by storm after its launch in November 2022\.
+
+ ChatGPT's custom GPT Store is open right now, and this is how you can use it to find the pre-programmed AI tools you need.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
+## How to Access the GPT Store
+
+ Access and use of the new GPT Store [requires a ChatGPT subscription](http://www.makeuseof.com/chatgpt-plus-subscription-worth-it/). Only users with ChatGPT Plus, ChatGPT Teams, or ChatGPT Enterprise accounts will be able to use the store's catalog of custom GPTs. You also need a ChatGPT subscription if you want to [create your own custom GPT](https://www.makeuseof.com/how-use-create-a-gpt-to-create-a-customized-version-of-chatgpt/).
+
+ However, even premium subscribers may not have immediate access. OpenAI is gradually enabling GPT Store functionality for millions of subscribed users in batches. So, while your premium ChatGPT membership is necessary, it alone does not guarantee you can currently use the store due to the phased rollout. Users without a premium subscription "can currently browse the GPTs catalog but won't be able to use it." Check your ChatGPT account periodically to see if your access has been granted as OpenAI continues expanding availability to additional batches of subscribers.
+
+ How do you know when you've been granted access?
+
+ On the left sidebar of the ChatGPT interface, you should see **Explore GPTs** instead of simply **Explore**. Once you see this, you can start using the GPT Store! Remember, the whole idea of the GPT Store is to help users browse and access a wide range of GPTs built by the community. So, how can you use it to find the right GPT for your tasks?
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## How to Find the Best Custom GPTs in the GPT Store
+
+ Using the GPT Store is quite straightforward. Here's how you can browse and search for custom GPTs:
+
+1. Once you can access the GPT Store, click **Explore GPTs** on the left sidebar of the ChatGPT interface to open the store.
+2. At the top of the store page, you will see featured categories like Writing, Productivity, Programming, Research and Analysis, and DALL-E for image generation. Click on a category to view a list of the top-performing custom GPT models in that specific category.  
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
+![Screenshot of the GPT store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-store.jpg)
+3. You can also use the search bar to find GPTs by keyword or related terms.  
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
+![GPT Store search screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-store-search-screen.jpg)
+4. When you find a GPT you want to try, click on it to open the individual GPT page.
+5. On the GPT page, you will see information about what that model offers.
+6. After testing a GPT that solves your problem well, take one important extra step—click on the GPT name in the top left corner of the page, then click **Keep in sidebar**. This saves that GPT to the sidebar along with your chat history for easy future access.  
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
+![Adding a GPT to sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/adding-a-gpt-to-sidebar.jpg)
+
+ However, you should note that at the time of writing, the GPT Store isn't reviewed, and there is no rating system or otherwise. We're hoping that OpenAI will introduce some type of rating system in the near future, as currently, without any system in place, you're effectively on your own when it comes to figuring out what works well. By extension, it seems likely that some form of rating or review system will be implemented once GPT Store revenue sharing is launched, but OpenAI hasn't given any fixed timeline for this.
+
+## Is it Worth Upgrading to ChatGPT Plus to Use Custom GPTs?
+
+ Since you need a ChatGPT subscription to use custom GPTs, you're probably wondering whether it's worth paying the $20 subscription fee to access the feature.
+
+ The short answer is yes. Whether you're a beginner or an advanced ChatGPT user, you'll find many impressive custom GPTs in the store. Furthermore, if your AI prompting skills are not particularly strong, custom GPTs are quite useful because they simplify prompting. Basically, the GPT creator does most of the heavy lifting with regard to prompting, programming the custom GPT for a specific topic, and letting you reap the benefits with minimal work.
+
+ With millions of GPTs available, perhaps the biggest argument for subscribing is that someone might have listed a GPT that solves the exact problem you are currently struggling with. Also, remember, a subscription also gives you access to several other perks, most notably access to GPT-4 and the DALL-E text-to-image tool.
+
+</article
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/est-7-multimedia-cameras-for-quality-live-streams-and-video-blogs-for-2024/"><u>[New] Best 7 Multimedia Cameras For Quality Live Streams & Video Blogs for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-elite-8-streaming-software-selections-for-2024/"><u>[New] Elite 8 Streaming Software Selections for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-premier-12-channel-online-video-broadcast-system/"><u>[New] Premier 12-Channel Online Video Broadcast System</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-best-in-class-premium-screenshots-and-recorders/"><u>[Updated] 2024 Approved  Best in Class  Premium Screenshots & Recorders</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-achieving-visual-harmony-in-your-fb-videos-with-proper-ratio-adjustments/"><u>[Updated] In 2024, Achieving Visual Harmony in Your FB Videos with Proper Ratio Adjustments</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-top-tiktok-wallpaper-templates-uncovered-for-2024/"><u>[Updated] Top TikTok Wallpaper Templates Uncovered for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-transition-smoothly-to-metaverse-living-with-these-tools/"><u>[Updated] Transition Smoothly to Metaverse Living with These Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-best-bargains-on-stunning-5k-displays-8-selection/"><u>2024 Approved  Best Bargains on Stunning 5K Displays - #8 Selection</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-rapid-route-to-reclaimed-reddit-articles/"><u>2024 Approved  Rapid Route to Reclaimed Reddit Articles</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-netgear-ac750-wi-fi-repeater-ex3700/"><u>Comprehensive Review: Netgear AC750 Wi-Fi Repeater EX3700</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/deciphering-ais-lexicon-leaders-unpacking-the-comparative-analysis-between-gpt-and-bert-systems/"><u>Deciphering AI's Lexicon Leaders: Unpacking the Comparative Analysis Between GPT and BERT Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/deciphering-chatgpt-control-pros-and-cons/"><u>Deciphering ChatGPT Control: Pros & Cons</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/deep-dive-into-the-latest-ai-innovations-presented-at-apples-wwdc-event/"><u>Deep Dive Into the Latest AI Innovations Presented at Apple's WWDC Event</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/demystifying-the-differences-deep-dive-into-strong-and-weak-artificular-intelligence/"><u>Demystifying the Differences: Deep Dive Into Strong and Weak Artificular Intelligence</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/dialogue-engine-differences-10-highlights-of-ai-discrepanrances/"><u>Dialogue Engine Differences: 10 Highlights of AI Discrepanrances</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discovering-chatgpt-copilot-unveiling-its-functions-and-capabilities/"><u>Discovering ChatGPT Copilot: Unveiling Its Functions & Capabilities</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/do-user-dialogues-influence-chatgpts-knowledge-growth/"><u>Do User Dialogues Influence ChatGPT's Knowledge Growth?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/dual-domain-delight-posting-videos-across-social-platforms/"><u>Dual-Domain Delight  Posting Videos Across Social Platforms</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/empower-your-browsing-experience-with-agentgpt-agents/"><u>Empower Your Browsing Experience with AgentGPT Agents</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ensuring-online-security-for-young-users-a-guide-to-using-chatgpt-responsibly/"><u>Ensuring Online Security for Young Users - A Guide to Using ChatGPT Responsibly</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-evolution-of-ai-linguistic-models-differentiating-gpt-4-gpt-4turbo-and-phi/"><u>Exploring the Evolution of AI Linguistic Models: Differentiating GPT-4, GPT-4Turbo & Phi</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-locked-apple-iphone-15-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>Forgot Locked Apple iPhone 15 Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/future-trends-in-generative-ai-and-chatbots-what-innovations-lie-beneath/"><u>Future Trends in Generative AI and Chatbots: What Innovations Lie Beneath?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/get-intel-hd520-graphics-software/"><u>Get Intel HD520 Graphics Software</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/hone-your-prompt-mastery-the-quintessential-approach-to-perfecting-chatgpt-conversations/"><u>Hone Your Prompt Mastery: The Quintessential Approach to Perfecting ChatGPT Conversations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-i-leveraged-chatgpt-for-effective-podcast-scriptwriting-insights-and-outcomes/"><u>How I Leveraged ChatGPT for Effective Podcast Scriptwriting - Insights and Outcomes</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Vivo Y17s? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-spot-and-avoid-the-dangerous-trio-of-fake-chatgpt-viruses-compromising-user-privacy/"><u>How to Spot and Avoid the Dangerous Trio of Fake ChatGPT Viruses Compromising User Privacy</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-utilize-gptzero-effectively-your-ultimate-guide-to-detecting-artificially-crafted-prose/"><u>How to Utilize GPTZero Effectively - Your Ultimate Guide to Detecting Artificially Crafted Prose</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/identifying-and-handling-encounter-with-chatgpt-phishing-sites-safely/"><u>Identifying and Handling Encounter with ChatGPT Phishing Sites Safely</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/inside-claudes-world-shaping-tomorrow-with-intelligent-solutions/"><u>Inside Claude's World: Shaping Tomorrow with Intelligent Solutions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-there-a-length-cap-on-answers-from-chatgpt/"><u>Is There a Length Cap on Answers From ChatGPT?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/latest-overhaul-sonys-s6500-hd-and-bd-player-review/"><u>Latest Overhaul  Sony's S6500 HD & BD Player Review</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/master-your-minutes-top-4-chatgpt-strategies-for-time-optimization/"><u>Master Your Minutes: Top 4 ChatGPT Strategies for Time Optimization</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-chatgpt-a-guide-to-ensuring-your-chats-are-saved-correctly/"><u>Mastering ChatGPT: A Guide to Ensuring Your Chats Are Saved Correctly</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-chatgpt-api-a-step-by-step-guide/"><u>Mastering the ChatGPT API: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/openai-is-it-losing-the-reins-on-chatgpts-future/"><u>OpenAI: Is It Losing the Reins on ChatGPT's Future?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/overcoming-chatgpt-authentication-hurdles-expert-tips-and-techniques/"><u>Overcoming ChatGPT Authentication Hurdles: Expert Tips & Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/overcoming-lonely-moments-using-chatgpt-technology/"><u>Overcoming Lonely Moments Using ChatGPT Technology</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/potential-issues-with-ai-in-detecting-plagiarized-texts-and-possible-fixes/"><u>Potential Issues with AI in Detecting Plagiarized Texts and Possible Fixes</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/premier-eco-friendly-camera-systems-for-filmmakers/"><u>Premier Eco-Friendly Camera Systems for Filmmakers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/real-time-learning-via-chatgpt-worldwide/"><u>Real-Time Learning via ChatGPT Worldwide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/rhyme-fight-poets-vs-virtual-intelligence-woolly-side/"><u>Rhyme Fight - Poets vs Virtual Intelligence, Woolly Side</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/safeguarding-your-info-in-bot-chats-3-critical-risks-discussed/"><u>Safeguarding Your Info in Bot Chats: 3 Critical Risks Discussed</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/sea-dwellers-in-focus-tips-for-shooting-stunning-gopro-video-below-water/"><u>Sea Dwellers in Focus  Tips for Shooting Stunning GoPro Video Below Water</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/strategic-steps-to-build-robust-personas-with-chatgpt-for-improved-interaction/"><u>Strategic Steps to Build Robust Personas with ChatGPT for Improved Interaction</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tailor-made-preparation-how-to-utilize-chatgpt-for-a-winning-job-interview/"><u>Tailor-Made Preparation: How to Utilize ChatGPT for a Winning Job Interview</u></a></li>
+</ul></div>

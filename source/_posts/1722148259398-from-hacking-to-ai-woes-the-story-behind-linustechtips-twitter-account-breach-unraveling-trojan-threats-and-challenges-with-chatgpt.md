@@ -1,7 +1,7 @@
 ---
 title: "From Hacking to AI Woes: The Story Behind @LinusTechTips' Twitter Account Breach, Unraveling Trojan Threats & Challenges with ChatGPT."
-date: 2024-08-02T15:58:39.860Z
-updated: 2024-08-03T15:58:39.860Z
+date: 2024-08-09T19:36:45.009Z
+updated: 2024-08-10T19:36:45.009Z
 tags:
   - chatgpt
   - open-ai
@@ -147,3 +147,47 @@ thumbnail: https://thmb.techidaily.com/134b4c3950f92b62491adfc9a2cfa838e49057f0e
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-perfect-your-titles-and-descriptions-for-top-ranked-igtv-videos/"><u>[New] Perfect Your Titles & Descriptions for Top-Ranked IGTV Videos</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-socialnet-movie-replayer-for-2024/"><u>[New] SocialNet Movie Replayer for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-your-gameplay-our-archive-top-6-minecraft-recording-tactics/"><u>[New] Your Gameplay, Our Archive  Top 6 Minecraft Recording Tactics</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-elevate-your-iphone-shots-10-best-camera-apps-x-7/"><u>[Updated] 2024 Approved  Elevate Your iPhone Shots  10 Best Camera Apps (X, 7)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-capture-spectacular-video-on-youtube-top-webcam-picks-for-2024/"><u>[Updated] Capture Spectacular Video on YouTube  Top Webcam Picks for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-revolutionize-social-sagas-no-cost-for-online-and-mobile-excellence/"><u>[Updated] In 2024, Revolutionize Social Sagas – No Cost for Online & Mobile Excellence</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-pinnaclepix-z7-pro-elevate-your-photos-dimensions-for-2024/"><u>[Updated] PinnaclePix Z7 Pro  Elevate Your Photo's Dimensions for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-excellence-in-capturing-slow-motions/"><u>2024 Approved  Excellence in Capturing Slow Motions</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-ideal-methods-for-streaming-and-archiving-sports-events/"><u>2024 Approved  Ideal Methods for Streaming and Archiving Sports Events</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-integrating-marketing-the-power-of-youtube-and-brand-collaboration/"><u>2024 Approved  Integrating Marketing  The Power of YouTube and Brand Collaboration</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-obs-repair-camera-functioning-now/"><u>2024 Approved  OBS Repair  Camera Functioning Now</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-seamless-srt-to-text-transformation-a-modern-technique/"><u>2024 Approved  Seamless SRT-to-Text Transformation  A Modern Technique</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/4-ways-to-let-chatgpt-read-pdfs/"><u>4 Ways to Let ChatGPT Read PDFs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-comprehensive-guide-to-using-chatgpts-inbuilt-tools-for-enhanced-ai-interactions/"><u>A Comprehensive Guide to Using ChatGPT's Inbuilt Tools for Enhanced AI Interactions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-deep-dive-into-ais-creative-writing-advantagesdisadvantages/"><u>A Deep Dive Into AI’s Creative Writing Advantages/Disadvantages</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/adaptive-wellness-tools-select-8-gpt-integrations/"><u>Adaptive Wellness Tools: Select 8 GPT Integrations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/advanced-gemini-vs-chatgpt-plus-a-comprehensive-comparison/"><u>Advanced Gemini Vs. ChatGPT Plus: A Comprehensive Comparison</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-face-off-determining-whether-to-opt-for-snapchats-my-ai-or-chatgpt/"><u>AI Face-Off: Determining Whether to Opt for Snapchat’s My AI or ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-innovations-showdown-dissecting-forefront-and-chatgpts-features/"><u>AI Innovations Showdown: Dissecting Forefront and ChatGPT's Features</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/artificial-intelligence-and-cybersecurity-threats-top-5-concerns/"><u>Artificial Intelligence and Cybersecurity Threats: Top 5 Concerns</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/behind-the-scenes-the-development-story-of-elon-musks-truthgpt-initiative/"><u>Behind the Scenes: The Development Story of Elon Musk's TruthGPT Initiative</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-you-exceed-the-word-count-in-chatgpts-responses/"><u>Can You Exceed the Word Count in ChatGPT's Responses?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chrome-extension-revolutionizing-how-you-interact-with-chatgpt/"><u>Chrome Extension Revolutionizing How You Interact with ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/claude-2-decoded-features-functions-unveiled/"><u>Claude 2 Decoded: Features, Functions Unveiled</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/claude-and-chatgpt-showdown-determining-the-top-ai-assistant-for-daily-use/"><u>Claude and ChatGPT Showdown: Determining the Top AI Assistant for Daily Use</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/creating-a-web-application-using-chatgpt-a-step-by-step-guide/"><u>Creating a Web Application Using ChatGPT: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-http.techidaily.com/decoding-the-magic-of-4k-in-benq-sw320-monitor-for-2024/"><u>Decoding the Magic of 4K in BenQ SW320 Monitor for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-updated-nvidia-geforce-rtx-2n60-super-drivers-for-windows-1011-systems/"><u>Download Updated NVIDIA GeForce RTX 2N60 Super Drivers for Windows 10/11 Systems</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/global-launch-alert-lenovos-innovative-mini-pc-the-yoga-portal-ai-enhanced-by-powerful-intel-desktop-chips/"><u>Global Launch Alert: Lenovo's Innovative Mini PC - The Yoga Portal AI Enhanced by Powerful Intel Desktop Chips</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/in-2024-10-best-memes-right-now-include-image-gifvideo/"><u>In 2024, 10 Best Memes Right Now (Include Image/ GIF/Video)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fundamentals-of-managing-volume-increase-in-projects/"><u>In 2024, Fundamentals of Managing Volume Increase in Projects</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-honor-play-8t-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Honor Play 8T FRP Bypass</u></a></li>
+<li><a href="https://change-location.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-chatgpt-a-deep-dive-into-its-use-of-external-data-for-responses/"><u>Understanding ChatGPT: A Deep Dive Into Its Use of External Data for Responses</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleash-untapped-potential-explore-these-5-overlooked-chatgpt-capabilities/"><u>Unleash Untapped Potential: Explore These 5 Overlooked ChatGPT Capabilities</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-gpt-3-addressing-the-top-four-disruptions/"><u>Unlock GPT-3: Addressing the Top Four Disruptions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-ai-potential-free-gpt-eboost-with-copilots-seamless-integration/"><u>Unlocking AI Potential: Free GPT-Eboost with Copilot's Seamless Integration</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unraveling-the-mystery-of-grok-the-breakthrough-ai-from-elon-musk-and-its-price-tag/"><u>Unraveling the Mystery of Grok: The Breakthrough AI From Elon Musk & Its Price Tag</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-are-there-no-more-chatgpt-jailbreaks-7-reasons-chatgpt-jailbreaks-dont-work/"><u>Why Are There No More ChatGPT Jailbreaks? 7 Reasons ChatGPT Jailbreaks Don't Work</u></a></li>
+</ul></div>
