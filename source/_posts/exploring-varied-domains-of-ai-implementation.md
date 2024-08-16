@@ -1,0 +1,208 @@
+---
+title: Exploring Varied Domains of AI Implementation
+date: 2024-08-15T22:09:25.115Z
+updated: 2024-08-16T22:09:25.115Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: This Article Describes Exploring Varied Domains of AI Implementation
+excerpt: This Article Describes Exploring Varied Domains of AI Implementation
+thumbnail: https://thmb.techidaily.com/3b3d53f3a3456319783aa99ca770516fad2e58dbe2bd45f2ec6f3eb305fb3d58.png
+---
+
+## Exploring the Proficiency of ChatGPT in Tackling Mathematical Questions
+
+ ChatGPT has enjoyed a surge in popularity, and with that, people from all over the world are finding new ways to apply it to their studies and work. Considering the buzz about the chatbot's errors, however, it’s easy to wonder whether the AI is reliably accurate.
+
+ Can ChatGPT solve math problems? While it’s impossible for the AI-powered tool to solve every problem correctly one hundred percent of the time, it’s important to have an idea of just how accurate the AI is. There's no better way to test ChatGPT than directly subjecting it to a variety of math problems.
+
+## Can ChatGPT Solve Arithmetic and Algebra Problems?
+
+ Before attempting to have ChatGPT solve any complex problems, it’s important to determine whether it understands the fundamentals. One user went viral for finding that ChatGPT would respond with eight when asked what five plus two equals—but as time passes, it’s likely that such basic errors have been fixed.
+
+ You can ask ChatGPT questions by navigating to the OpenAI website. Before you go any further, it’s important to note that you should[use the best version of ChatGPT](https://www.makeuseof.com/which-version-of-chatgpt-should-you-use/) —GPT-4—if you want the most accurate results. The free version, GPT-3.5, is suitable for most users, however.
+
+ To start testing ChatGPT, it was subjected to problems involving PEMDAS, fractions, and decimals.
+
+![asking chatgpt to solve 8 divided by 1 plus 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/arithmetic-1.jpg)
+
+![asking chatgpt to solve 5 divided by 6 minus 2 divided by 8](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/arithmetic-2.jpg)
+
+![Asking chatgpt to solve 1.195 minus 1.128](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/arithmetic-3.jpg)
+
+![asking chatgpt to solve 2.98 minus 4 divided by 13](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/arithmetic-4-1.jpg)
+
+Close
+
+ Pleasantly, ChatGPT was able to solve all the arithmetic problems given to it correctly within seconds. It showed proficiency with topics like PEMDAS and decimals, and supplied explanations without prompting. When asked to explain how it divided four by thirteen to someone unfamiliar with long division, it provided an adequately detailed overview of the steps.
+
+ Next, the test continued with ChatGPT pitted against three problems in Algebra—in this case, testing its familiarity with linear equations, arithmetic sequences, geometric sequences, and quadratic equations. As seen with arithmetic, GPT-4 managed to solve all the problems without error.
+
+![asking chatgpt to solve for the slope intercept and point slope form of y divided by 4 equals 6 plus 2 times x](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/algebra-1.jpg)
+
+![asking chatgpt to solve for the distance a ball bounces into the air on the seventh bounce given an initial height of ten feet with each successive bounce rising to 75 percent of the previous height](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/algebra-2.jpg)
+
+![asking chatgpt to solve the bouncing ball problem as a geometric sequence](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/algebra-3.jpg)
+
+![asking chatgpt to solve a quadratic equation where x squared plus six times x plus 8 equals zero](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/algebra-4.jpg)
+
+Close
+
+## Can ChatGPT Solve Geometry and Trigonometry Problems?
+
+ Seeing as ChatGPT was able to solve arithmetic and algebra problems without error, the challenge proceeded with a few problems in geometry and trigonometry. Despite being faced with a few topics in trig—including the Pythagorean theorem, inscribed angles, and the directrix of a parabola—GPT-4 solved all problems accurately.
+
+![asking chatgpt to solve for the hypotenuse of a triangle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/geometry-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
+
+![asking chatgpt to solve for an angle given a three sided shape inscribed within a triangle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/geometry-2.jpg)
+
+![chatgpt makes a mistake in the inscribed angle problem after being asked for an explanation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/geometry-3.jpg)
+
+![chatgpt solves for the equation of a parabola given the focus and vertex](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/geometry-4.jpg)
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Close
+
+ Interestingly, ChatGPT was exceedingly quick to walk back its confident response to the inscribed angle problem as soon as it was asked for an explanation. This is even though it was plainly stated that points A, B, and C all lie on the circumference of the circle, with the clear implication that the inscribed angle theorem would apply to the problem.
+
+ In fact, it contradicted the information given that “all three points are along the circumference of the circle” by suggesting that AB and BC intersect within the circle.
+
+ Essentially, you don’t have to purposefully pressure ChatGPT into giving wrong answers—a brief prompt for explanation was enough to make ChatGPT offer an incorrect answer as appeasement. Unfortunately,[wrong answers aren't the only issue with ChatGPT](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/) , either.
+
+ As with geometry and the topics before it, ChatGPT was able to solve trigonometry problems relating to topics like sinusoidal equations, amplitude, and the sine of complementary angles with ease. When given an incorrect premise in the fourth equation, however, ChatGPT was just as willing to offer a confidently incorrect answer.
+
+![chatgpt solves for x given a cosine equation where 16 times the cosine of 12 times x plus eight equals negative eight](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/trig-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
+
+![chatgpt solves for the amplitude of a waveform given the minimum value and midpoint of an equation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/trig-2.jpg)
+
+![chatgpt solves for the cosine and sine of the interior angle of a right triangle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/trig-3.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
+
+![chatgpt gives an incorrect definition of sine after user insists that it is incorrect](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/trig-4.jpg)
+
+Close
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+## Can ChatGPT Solve Calculus Problems?
+
+ Finally, ChatGPT’s abilities to solve calculus problems were tested with a simple limit problem and a question about derivatives. Its logical reasoning capabilities and ability to withstand unreasonable criticism were also tested.
+
+ Previous mistakes by ChatGPT didn't inspire confidence regarding whether it would stand by correct answers or eventually submit to forceful but wrong thinking.
+
+ As seen before, ChatGPT's primary susceptibility was to user error. It successfully solved for the limit as x approached 0, and it just as readily solved for the limit as x approached 2 when corrected.
+
+ ChatGPT originally offered the correct solution for the derivative g'(1) given that g(x) was the inverse function of f(x), but it quickly amended its answer to be incorrect when given a vague rejection instead of standing by its solution.
+
+![chatgpt solves for the limit of an equation correctly](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/calc-1.jpg)
+
+![chatgpt solves for the value of the derivative of an inverse function](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/calc-2.jpg)
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![chatgpt offers a correct answer for the derivative of an inverse of a function](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/calc-3.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
+
+![chatgpt gives an incorrect answer after being told its original correct answer was erroneous](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/calc-4.jpg)
+
+Close
+
+## Is ChatGPT Accurate at Solving Math Problems?
+
+ Overall, ChatGPT is accurate at solving math problems. It is highly capable of answering and explaining questions from a broad assortment of topics in math. The main issue that ChatGPT faces is that it isn’t as capable of correcting false assumptions and misunderstandings—and in some cases, it can affirm mistakes without being prompted to do so.
+
+ That doesn’t make ChatGPT a bad tool for solving math problems. In many cases, ChatGPT serves as a reliable and accurate time-saver—and it’s completely free to use. The mistakes made by ChatGPT don’t condemn it, but they do serve as a reminder that you need to[use the right techniques when working with ChatGPT](https://www.makeuseof.com/how-to-get-best-results-from-chatgpt/) and double-check its answers.
+
+## ChatGPT’s Equation Solving Limitations
+
+ ChatGPT doesn’t appear to have any significant limitations in solving math problems, but there are a few rules you should keep in mind as you work with it.
+
+* ChatGPT 3.5 cannot work with images. As it is extremely difficult to describe images accurately, you may find that attempting to explain a problem to ChatGPT that relies on images only leads to errors. You should consider using GPT-4 if you need to use images.
+* ChatGPT always answers confidently. If you aren’t familiar enough with math to discern when it gives an incorrect answer but rely on it for learning, you may develop serious misunderstandings about concepts in math over time.
+* ChatGPT bends to the will of the user. Regardless of whether you intend to manipulate its answers, it may offer incorrect information to appease you if something in your response triggers it.
+* ChatGPT may not pick up on inherent errors in the information that you give it. You should reconsider using ChatGPT for math if you aren’t familiar enough with a concept because it may simply reinforce your misunderstanding.
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Use ChatGPT Carefully When Solving Math Problems
+
+ It’s clear that ChatGPT has an impressive ability to solve math problems ranging from arithmetic to calculus. ChatGPT can be used as a powerful study tool, but it should be used carefully—after all, you’ll only be able to easily identify when it makes errors by developing your math skills enough to double-check its work.
+
+ Rather put the AI-powered chatbot to other uses? There are plenty of creative ways to use ChatGPT as well.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-guide-to-enhancing-video-subtitles-through-web-apps/"><u>[New] Expert Guide to Enhancing Video Subtitles Through Web Apps</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/he-essential-toolkit-for-youtube-video-editors-everywhere-for-2024/"><u>[New] The Essential Toolkit for YouTube Video Editors Everywhere for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-transforming-views-to-interactions-a-telegram-strategy-guide-for-2024/"><u>[New] Transforming Views to Interactions  A Telegram Strategy Guide for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-closer-look-at-prompt-engineering-is-it-a-viable-profession-top-9-considerations-revealed/"><u>A Closer Look at Prompt Engineering: Is It A Viable Profession? Top 9 Considerations Revealed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/alleviating-isolation-with-ai-conversations/"><u>Alleviating Isolation with AI Conversations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/altmans-departure-from-openai-impact-on-chatgpt-and-future-prospects/"><u>Altman's Departure From OpenAI: Impact on ChatGPT and Future Prospects</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/are-expensive-ai-writing-prompts-justified-by-their-benefits/"><u>Are Expensive AI Writing Prompts Justified by Their Benefits?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-down-unveiling-the-instant-italian-prohibition/"><u>ChatGPT Down: Unveiling the Instant Italian Prohibition</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comprehensive-insight-into-apples-artificial-intelligence-rollout-from-wwdc-202n/"><u>Comprehensive Insight Into Apple's Artificial Intelligence Rollout From WWDC 202N</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/cracking-the-code-exploring-openai-chiefs-appeal-for-increased-supervision-of-ai-technologies/"><u>Cracking The Code: Exploring OpenAI Chief's Appeal for Increased Supervision of AI Technologies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/creating-a-consistent-meditation-routine-with-chatgpt-a-step-by-step-guide/"><u>Creating a Consistent Meditation Routine with ChatGPT: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/deciding-on-the-best-ai-companion-an-in-depth-look-at-google-bard-and-bing-chat/"><u>Deciding on the Best AI Companion: An In-Depth Look at Google Bard and Bing Chat</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discerning-authenticity-in-chatgpt-using-gpt-tags/"><u>Discerning Authenticity in ChatGPT Using GPT Tags</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortless-ways-to-verify-your-devices-imei-without-using-the-phone/"><u>Effortless Ways to Verify Your Device's IMEI Without Using the Phone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1721946727065-elevate-web-dialogue-with-these-7-essential-chatgpt-extensions-for-browsers-better-responses-guaranteed/"><u>Elevate Web Dialogue with These 7 Essential ChatGPT Extensions for Browsers - Better Responses Guaranteed!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-s18e-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Vivo S18e Location by Number | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-mobile-media-3-key-steps-to-stabilize-iphone-videos-for-2024/"><u>Mastering Mobile Media  3 Key Steps to Stabilize iPhone Videos for 2024</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-15-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 15 Data From iOS iCloud | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/solutions-for-resolving-chatgpt-overwhelmed-issue-in-windows/"><u>Solutions for Resolving 'ChatGPT Overwhelmed' Issue in Windows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722030199604-steer-clear-of-the-dangerous-google-bard-app-its-infected-with-viruses/"><u>Steer Clear of the Dangerous Google Bard App – It's Infected with Viruses!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/still-using-pattern-locks-with-itel-a60s-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Itel A60s? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/stop-direct-parallels-siri-and-chatgpts-uniqueness/"><u>Stop Direct Parallels: Siri and ChatGPT's Uniqueness</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tailored-chatgpt-strategies-for-sports-buffs/"><u>Tailored ChatGPT Strategies for Sports Buffs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-fallacy-of-faithfulness-in-chatgpts-summaries/"><u>The Fallacy of Faithfulness in ChatGPT's Summaries</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-mac-users-handbook-for-integrating-and-using-chatgpt-effectively/"><u>The Mac User's Handbook for Integrating and Using ChatGPT Effectively</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-next-leap-in-ai-musks-secret-project/"><u>The Next Leap in AI: Musk’s Secret Project</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-rise-in-chatgpt-security-breaches-uncovering-the-culprits-objectives/"><u>The Rise in ChatGPT Security Breaches: Uncovering the Culprits' Objectives</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-solution-to-bypass-region-lockouts-connect-with-chatgpt-internationally-via-chatgpt-everywhere/"><u>The Ultimate Solution to Bypass Region Lockouts: Connect with ChatGPT Internationally via ChatGPT Everywhere</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tips-and-tricks-enhancing-your-rpg-campaigns-using-ai-powered-assistant-chatgpt/"><u>Tips & Tricks: Enhancing Your RPG Campaigns Using AI-Powered Assistant, ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-4-ai-detection-software-solutions-for-educators-and-managers-checking-gpt-authenticity/"><u>Top 4 AI Detection Software Solutions for Educators & Managers Checking GPT Authenticity</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-7-creative-uses-of-chatgpt-in-the-kitchen/"><u>Top 7 Creative Uses of ChatGPT in the Kitchen</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/traversing-codegpt-an-ai-that-could-change-software-development/"><u>Traversing CodeGPT: An AI That Could Change Software Development</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-new-potentials-in-google-bard-with-palm-2-enhancements/"><u>Unlocking New Potentials in Google Bard with PaLM 2 Enhancements</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-distinctions-a-comparison-of-codex-copilot-vs-github-copilot-pro/"><u>Unveiling the Distinctions: A Comparison of Codex Copilot Vs. GitHub Copilot Pro</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-full-spectrum-of-artificial-intelligence-at-apples-worldwide-developers-conference-2024/"><u>Unveiling the Full Spectrum of Artificial Intelligence at Apple's Worldwide Developers Conference 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-top-7-platforms-for-ai-creative-prompts/"><u>Unveiling the Top 7 Platforms for AI Creative Prompts</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Lava Blaze 2? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/will-generative-ai-revolutionize-the-labor-market-understanding-job-displacement-risks/"><u>Will Generative AI Revolutionize the Labor Market? Understanding Job Displacement Risks.</u></a></li>
+</ul></div>

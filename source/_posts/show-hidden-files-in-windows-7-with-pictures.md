@@ -1,7 +1,7 @@
 ---
 title: Show Hidden Files in Windows 7 (with Pictures)
-date: 2024-08-13 14:40:57
-updated: 2024-08-16 12:36:40
+date: 2024-08-15T20:14:38.137Z
+updated: 2024-08-16T20:14:38.137Z
 tags:
   - win11
   - win10
@@ -36,6 +36,9 @@ If you just upgraded to Windows 10 or reinstalled Windows 10, you may want to up
 
  Repeat the steps above to update drivers for each graphics card if you’ve installed more than one graphics card.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 2: Download and install new drivers from manufacturers
 
  You can download and install the drivers manually if you know what you’re doing. Both PC manufacturers and device manufacturers provide drivers. If you’re using a prebuilt desktop or a laptop, it’s recommended you go to the PC manufacturer’s website, as they will customize the driver. If you built the desktop on your own or if the PC manufacturer doesn’t provide the new video drivers you need, you can download the drivers from the graphics card manufacturer.
@@ -52,6 +55,9 @@ If you just upgraded to Windows 10 or reinstalled Windows 10, you may want to up
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a1297d215761.jpg)
 3. The**System Type** is the specific Windows version. In my case, the version is Windows 10 64-bit.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a1298a663ccc.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 
 ### Download the video drivers from graphics card manufacturers
 
@@ -61,9 +67,15 @@ If you just upgraded to Windows 10 or reinstalled Windows 10, you may want to up
 
 1. On your keyboard, press the**Windows** logo key and**R** key at the same time to invoke the**Run** command. Type **devmgmt.msc**  and press**Enter** to open Device Manager.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a1299e9140b3.png)
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 2. Expand the**Display adapters**  category then you’ll get the graphics card model name. If you’ve installed more than one graphics card, you’ll see more than one item under this branch.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a129a861195e.png)
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ## Method 3: Update video drivers automatically
 
  If you don’t have the time, patience, or computer skills to video drives manually in Windows 10, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -75,10 +87,16 @@ If you just upgraded to Windows 10 or reinstalled Windows 10, you may want to up
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/graphics-card-and-chipset..jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 4. After updating, restart your computer to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -102,3 +120,61 @@ If you just upgraded to Windows 10 or reinstalled Windows 10, you may want to up
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-creating-a-cash-flow-from-content-youtubes-monetization-techniques-for-the-future/"><u>[New] 2024 Approved  Creating a Cash Flow From Content  YouTube's Monetization Techniques for the Future</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-humor-hub-creator/"><u>[New] 2024 Approved  Humor Hub Creator</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ffortless-youtube-income-computations-for-2024/"><u>[New] Effortless YouTube Income Computations for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-guide-to-flawless-transition-of-phone-cookies-from-device-to-social-media/"><u>[New] In 2024, Guide to Flawless Transition of Phone' Cookies From Device to Social Media</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-seamless-screen-saving-on-iphone/"><u>[New] Seamless Screen Saving on iPhone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-smooth-steam-gaming-recordings-guide/"><u>[New] Smooth Steam Gaming Recordings Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-fb-chronicles-the-hidden-viewer/"><u>[Updated] 2024 Approved  FB Chronicles  The Hidden Viewer</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-where-custom-visuals-for-youtube-live-and-breathe/"><u>[Updated] Where Custom Visuals for YouTube Live and Breathe</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/50-mobile-phone-deal-unlocking-the-secrets-of-ransomware-decryption-join-us-for-an-exciting-chatgpt-powered-podcast/"><u>$50 Mobile Phone Deal: Unlocking the Secrets of Ransomware Decryption - Join Us for an Exciting ChatGPT-Powered Podcast!</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-poco-x5-pro-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2023s-leading-vr-game-development-tools/"><u>2023'S Leading VR Game Development Tools</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-from-raw-renders-to-rich-realities-grading-in-post-production/"><u>2024 Approved  From Raw Renders to Rich Realities  Grading in Post-Production</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-online-concert-for-a-click-music-and-memories/"><u>2024 Approved  Online Concert for a Click  Music and Memories</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/5-critical-reasons-driving-businesses-to-limit-access-to-chatgpt/"><u>5 Critical Reasons Driving Businesses to Limit Access to ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/5-gigantic-missteps-in-chatbot-plugin-selection-for-your-websites-downfall/"><u>5 Gigantic Missteps in Chatbot Plugin Selection for Your Website's Downfall</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/5-reasons-you-cannot-use-chatgpt-for-crypto-analysis/"><u>5 Reasons You Cannot Use ChatGPT for Crypto Analysis</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/6-recurring-chatbot-hiccups-and-how-to-resolve-them-with-ease/"><u>6 Recurring Chatbot Hiccups and How To Resolve Them with Ease</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/7-cutting-edge-replacements-for-the-conversational-gpt-bot/"><u>7 Cutting-Edge Replacements for the Conversational GPT Bot</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/7-key-factors-preventing-effective-chatgpt-jailbreak-strategies-from-thriving/"><u>7 Key Factors Preventing Effective ChatGPT Jailbreak Strategies From Thriving</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/8-innovative-neural-network-alternatives-eclipsing-chatgpts-mobile-version/"><u>8 Innovative Neural Network Alternatives Eclipsing ChatGPT's Mobile Version</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-comprehensive-guide-the-6-primary-criteria-you-must-review-when-using-chatgpt-for-mental-care/"><u>A Comprehensive Guide: The 6 Primary Criteria You Must Review When Using ChatGPT for Mental Care</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-deep-dive-into-why-chatgpt-4-lags-compared-to-the-faster-chatgpt-35/"><u>A Deep Dive Into Why ChatGPT-4 Lags Compared to the Faster ChatGPT-3.5?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-detailed-breakdown-of-chatgpt-vs-huggingchat-who-wins-out/"><u>A Detailed Breakdown of ChatGPT Vs. HuggingChat - Who Wins Out?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-new-era-of-fitness-coaching-how-to-implement-chatgpt-technology-for-personalized-workout-creation/"><u>A New Era of Fitness Coaching: How to Implement ChatGPT Technology for Personalized Workout Creation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/academic-writing-gpts-role-and-its-consequences/"><u>Academic Writing : GPT's Role and Its Consequences</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/accelerate-administrative-hr-tasks-5-smart-gpt-powered-techniques/"><u>Accelerate Administrative HR Tasks: 5 Smart GPT-Powered Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ace-your-conversations-is-google-bard-or-bing-chat-the-top-contender/"><u>Ace Your Conversations: Is Google Bard or Bing Chat the Top Contender?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ace-your-job-hunt-writing-an-impressive-resume-using-chatgpt/"><u>Ace Your Job Hunt: Writing an Impressive Resume Using ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/achieve-peak-performance-working-from-home-by-harnessing-chatgpt-six-key-techniques-for-successful-telecommuting-and-freelancing/"><u>Achieve Peak Performance Working From Home by Harnessing ChatGPT - Six Key Techniques for Successful Telecommuting and Freelancing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/advanced-spreadsheets-excels-edge-in-calculations-vs-conversation/"><u>Advanced Spreadsheets: Excel’s Edge in Calculations Vs. Conversation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/advantages-unveiled-picking-microsoft-copilot-over-chatgpt-explained-in-4-key-points/"><u>Advantages Unveiled: Picking Microsoft Copilot Over ChatGPT Explained in 4 Key Points</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-assistants-face-off-is-google-bard-beating-out-microsofts-bing-chat-in-popularity/"><u>AI Assistants Face-Off: Is Google Bard Beating Out Microsoft’s Bing Chat in Popularity?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-in-education-why-teachers-should-embrace-change-8-points/"><u>AI in Education: Why Teachers Should Embrace Change (8 Points)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-driven-recruitment-tips-navigating-linkedin-with-10-helpful-insights/"><u>AI-Driven Recruitment Tips: Navigating LinkedIn with 10 Helpful Insights</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-itel-p55-5g-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Itel P55 5G? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1721902570228-begin-your-journey-with-any-of-the-8-accessible-gpt-instances-right-now/"><u>Begin Your Journey with Any of the 8 Accessible GPT Instances Right Now!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1721919030220-boost-your-development-with-zero-cost-here-are-5-amazing-phi-variant-replacements-at-hand/"><u>Boost Your Development with Zero Cost: Here Are 5 Amazing Phi Variant Replacements at Hand!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/decoding-the-mystery-of-post-color-correction/"><u>Decoding the Mystery of Post-Color Correction</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722103373320-discover-the-top-6-engaging-games-available-on-chatgpt/"><u>Discover the Top 6 Engaging Games Available on ChatGPT!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1721938666609-download-chatgpt-your-ai-companion-is-now-accessible-on-android-devices/"><u>Download ChatGPT: Your AI Companion Is Now Accessible on Android Devices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevating-your-conversations-advanced-prompting-strategies-for-ai/"><u>Elevating Your Conversations: Advanced Prompting Strategies for AI</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/hdr-mastery-for-home-and-professional-pcs/"><u>HDR Mastery for Home and Professional PCs</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-14-plus-with-a-broken-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone 14 Plus with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oneplus-12-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock OnePlus 12 Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-streamline-video-editing-in-windows-10-photos-using-story-remix/"><u>In 2024, Streamline Video Editing in Windows 10 Photos Using Story Remix</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/most-popular-fb-videos-download-now-for-2024/"><u>Most Popular FB Videos - Download Now for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-how-to-translate-youtube-videos-without-cc/"><u>New How to Translate YouTube Videos Without CC</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/print-spooler-service-activated-windows-7/"><u>Print Spooler Service Activated, Windows 7</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722032531634-secrets-to-safeguarding-your-chatgpt-talks-no-need-to-delete/"><u>Secrets to Safeguarding Your ChatGPT Talks: No Need to Delete</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/sharper-stars-in-iphone-nocturne-photos/"><u>Sharper Stars in iPhone Nocturne Photos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/soft-soundscapes-low-profile-alterations-in-garageband-for-2024/"><u>Soft Soundscapes  Low-Profile Alterations in Garageband for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+</ul></div>

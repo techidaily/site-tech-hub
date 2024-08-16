@@ -1,7 +1,7 @@
 ---
 title: Find Out What Motherboard You Have Easily!
-date: 2024-08-14 17:50:50
-updated: 2024-08-16 10:18:53
+date: 2024-08-15T20:10:32.188Z
+updated: 2024-08-16T20:10:32.188Z
 tags:
   - win11
   - win10
@@ -25,14 +25,32 @@ If you see an error message popping up when you plug in your USB device saying t
 
 Part 1:[**What is USB selective suspend?**](https://tools.techidaily.com/drivereasy/download/)Part 2:[**Should I disable it or enable it?**](https://tools.techidaily.com/drivereasy/download/)Part 3: **[If I want to disable it, how can I do that?](https://tools.techidaily.com/drivereasy/download/)** Part 4:[**What to do if my USB device is still not recognized?**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: What is USB selective suspend?
 
 **The tl;dr version**: it prevents your computer from using too much unnecessary power by putting certain USB port(s) in a low-power state, i.e. the suspend state. USB selective suspend feature only works when you have USB devices connected to your computer, and that you have the most recent correct drivers for your USB ports. (Not sure if you have the most recent correct USB device drivers? Use[**Driver Easy Free**](https://tools.techidaily.com/drivereasy/download/)to find out! 😉 ) USB devices such as webcams, printers, and scanners are not in active use every minute of the day. To reduce the overall power consumption, especially if you’re a laptop or tablet user, Windows will automatically put a certain USB port that is not in use in a low-power state. This is one of the ways how Windows avoid data loss and driver corruption in devices such as external hard drives. That said, you’ll have more power available from idle external devices, and your actively in use USB devices won’t be affected. This is where the “selective” comes. It comes really handy for laptop and tablet users, especially when you don’t have a charger plugged in. Not to worry that your idle keyboard and mouse device will be suspended, because if you have enabled Wake from Keyboard/Mouse option in BIOS settings, which is usually the case with most of the computers, these two basic devices are filtered out. Such being the case, if Windows detects that none of your USB devices are in active use, it will first suspend accordant USB ports, and then go to the sleep or hibernate mode, to reduce your power consumption. In other words, if some of your USB ports are not suspended, your Windows is not likely to be able to go to the sleep or hibernate mode. Because some of your devices keep running somewhere.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Should I disable USB selective suspend or enable it?
 
 You should choose to leave it enable or disable it as per your own needs.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Why should I enable it?
 
 As mentioned, the USB selective suspend is really handy for laptop and tablet users in that it saves you power from unnecessary USB devices. So if you have not experienced any problems with your external USB devices on your laptop or tablet, you should leave it be.
@@ -42,14 +60,24 @@ As mentioned, the USB selective suspend is really handy for laptop and tablet us
 If you run into_**USB device not recognized**_problem, always have the charger plugged in your computer, or you are on a full-power required USB device at all times, you should disable this feature.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3a425938f75.png)
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Frankly speaking, the USB selective suspend feature is not entirely helpful for desktop users, since desktops are always plugging into the power cord. But it won’t hurt either just to leave it at the enable state.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## Part 3: If I want to disable it, how can I do that?
 
 **NOTE**: The screenshots here are shown in Windows 10, but all the operations apply to Windows 7 and Windows 8 as well. If you have to disable the USB selective suspend feature because it’s affecting how you use your USB devices, here is how you can do it: 1) On your keyboard, press the**Windows logo key**and**S**at the same time, type in the search box **power plan**  and click **Choose a power plan**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a377758f2bdc.png)
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 2) Click **Change plan settings**  next to the plan option you’re having now.
 
@@ -78,6 +106,9 @@ Frankly speaking, the USB selective suspend feature is not entirely helpful for 
 3) Click the **Update**  button next to the flagged drivers to automatically download and install the correct versions (you can do this with the **FREE** version). Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the [**Pro**](https://tools.techidaily.com/drivereasy/download/) version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3a478d09cbf.jpg)
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * [USB](https://tools.techidaily.com/drivereasy/download/)
 
@@ -95,3 +126,41 @@ Frankly speaking, the USB selective suspend feature is not entirely helpful for 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-interpreting-instagrams-per-video-timeframe-rule/"><u>[Updated] In 2024, Interpreting Instagram's Per-Video Timeframe Rule</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-creating-high-quality-professional-gopro-videos/"><u>2024 Approved  Creating High-Quality, Professional GoPro Videos</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-whats-not-advertised-ten-facts-about-instagram-reels/"><u>2024 Approved  What's Not Advertised  Ten Facts About Instagram Reels</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/7-game-changing-bard-ai-features-revealed-at-googles-2023-tech-expo/"><u>7 Game-Changing Bard AI Features Revealed at Google's 2023 Tech Expo</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/7-responsible-ways-to-use-ai-as-a-content-writer-or-editor/"><u>7 Responsible Ways to Use AI as a Content Writer or Editor</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/9-essential-strategies-leveraging-chatgpt-for-enhanced-well-being/"><u>9 Essential Strategies: Leveraging ChatGPT for Enhanced Well-Being</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/9-insights-into-the-future-workforce-for-prompt-crafting/"><u>9 Insights Into the Future Workforce for Prompt Crafting</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-closer-look-at-dall-es-version-3-editing-capabilities-introduced-still-under-development/"><u>A Closer Look at DALL-E's Version 3: Editing Capabilities Introduced, Still Under Development</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-deep-dive-into-huggingchat-an-open-and-free-competitor-to-the-famous-chatgpt/"><u>A Deep Dive Into HuggingChat – An Open and Free Competitor to the Famous ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-guide-to-child-centric-chatbot-use-top-5-security-tips/"><u>A Guide to Child-Centric Chatbot Use: Top 5 Security Tips</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-peek-into-hugging-faces-workings-and-uses/"><u>A Peek Into Hugging Face’s Workings and Uses</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ace-your-queries-transformative-power-of-perplexity-ai/"><u>Ace Your Queries: Transformative Power of Perplexity AI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/activating-gpt-4s-capabilities-in-chatgpt-how-to-do-it-right-this-moment/"><u>Activating GPT-4's Capabilities in ChatGPT: How to Do It Right This Moment</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/addressing-real-time-gpt-streaming-hiccups/"><u>Addressing Real-Time GPT Streaming Hiccups</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-and-you-6-essential-insights-into-why-unquestioning-confidence-may-not-be-wise/"><u>AI and You: 6 Essential Insights Into Why Unquestioning Confidence May Not Be Wise</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-battle-royale-comparing-notion-ai-and-chatgpt-for-optimal-performance/"><u>AI Battle Royale: Comparing Notion AI and ChatGPT for Optimal Performance</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-revolution-will-claude-overtake-chatgpt/"><u>AI Revolution: Will Claude Overtake ChatGPT?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-powered-troubleshooting-resolve-common-pc-glitches-with-chatgpt-help/"><u>AI-Powered Troubleshooting: Resolve Common PC Glitches with ChatGPT Help</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/designing-short-trailers-that-tell-a-story-for-2024/"><u>Designing Short Trailers That Tell a Story for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/direct-from-twitter-posting-engaging-video-content-on-snapchat-for-2024/"><u>Direct From Twitter  Posting Engaging Video Content on Snapchat for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-download-of-updated-drivers-for-hp-laserjet-amoindprinters-1320-series-on-windows-devices/"><u>Easy Download of Updated Drivers for HP LaserJet amoindPrinters, 1320 Series on Windows Devices</u></a></li>
+<li><a href="https://video-capture.techidaily.com/evaluating-top-screen-capture-software-which-is-superior-obs-or-fraps-for-2024/"><u>Evaluating Top Screen Capture Software  Which Is Superior, OBS or Fraps for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-infinix-gt-10-pro-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Infinix GT 10 Pro to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-master-video-cutting-and-splicing-with-vimeo-for-free/"><u>In 2024, Master Video Cutting & Splicing with Vimeo, for Free</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-zte-blade-a73-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends ZTE Blade A73 5G without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722164761518-maximize-your-productivity-with-these-ai-driven-chrome-addons-top-picks/"><u>Maximize Your Productivity with These AI-Driven Chrome Addons - Top Picks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1721857619637-navigate-the-digital-world-easier-bings-new-ai-search-feature-for-phones/"><u>Navigate the Digital World Easier: Bing’s New AI Search Feature for Phones.</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722188554826-navigate-the-web-with-ease-bings-ai-search-on-ios-and-android/"><u>Navigate the Web with Ease: Bing's AI Search on iOS & Android.</u></a></li>
+<li><a href="https://extra-support.techidaily.com/optimal-free-tools-5-gif-to-video-conversion-websites-without-downloads-for-2024/"><u>Optimal Free Tools  5 GIF-to-Video Conversion Websites Without Downloads for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/proven-strategies-for-showcasing-excellence-in-your-facebook-profile/"><u>Proven Strategies for Showcasing Excellence in Your Facebook Profile</u></a></li>
+<li><a href="https://win11.techidaily.com/regaining-control-over-your-pcs-touchpad-gestures/"><u>Regaining Control Over Your PC's Touchpad Gestures</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/skin-perfection-without-the-price-tag-fcpx-plugin-free-tutorial-for-2024/"><u>Skin Perfection without the Price Tag FCPX Plugin-Free Tutorial for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722108145001-strategic-planning-using-chatgpt-boost-your-workflow-efficiency-now/"><u>Strategic Planning Using ChatGPT: Boost Your Workflow Efficiency Now</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-powershot-sx530-review-where-novices-meet-cameras/"><u>The PowerShot SX530 Review: Where Novices Meet Cameras</u></a></li>
+</ul></div>

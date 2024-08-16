@@ -1,7 +1,7 @@
 ---
 title: Can Generative AI Models Like ChatGPT Contribute to Building Harmful Programs or Viruses?
-date: 2024-08-02T15:57:43.417Z
-updated: 2024-08-03T15:57:43.417Z
+date: 2024-08-15T21:38:05.631Z
+updated: 2024-08-16T21:38:05.631Z
 tags:
   - chatgpt
   - open-ai
@@ -126,3 +126,65 @@ Here's the fictitious article that ChatGPT came up with:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/xploring-12-premium-cameras-for-professional-vloggers-for-2024/"><u>[New] Exploring 12 Premium Cameras for Professional Vloggers for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-social-network-showdown-tiktok-vs-snap/"><u>[Updated] In 2024, Social Network Showdown  TikTok Vs Snap</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-leading-movie-teasers-highlighted/"><u>[Updated] Leading Movie Teasers Highlighted</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-professional-gear-tips-gopro-edition/"><u>[Updated] Professional Gear Tips  GoPro Edition</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-multiplayer-metaverse-games-to-share-with-pals/"><u>2024 Approved  Best Multiplayer Metaverse Games to Share With Pals</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-expert-advice-on-itunes-video-capturing/"><u>2024 Approved  Expert Advice on iTunes Video Capturing</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-itel-s23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Itel S23 | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/a-step-by-step-guide-to-instagrams-premier-status-6-practical-steps-for-enthusiasts/"><u>A Step-by-Step Guide to Instagram's Premier Status  6 Practical Steps For Enthusiasts</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/best-no-pressure-pc-games-guide-for-2024/"><u>Best No-Pressure PC Games Guide for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpts-impact-on-employment-what-positions-are-at-risk/"><u>ChatGPT's Impact on Employment: What Positions Are at Risk?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/choosing-the-right-tool-snapchats-my-ai-vs-chatgpt-best-practices/"><u>Choosing the Right Tool: Snapchat's My AI Vs. ChatGPT - Best Practices</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparing-chatgpt-and-huggingchat-determining-the-superior-conversation-ai/"><u>Comparing ChatGPT and HuggingChat: Determining the Superior Conversation AI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/crafting-a-boundless-chatbot-experience-install-and-customize-a-freedomgpt-powered-alternative-on-windows/"><u>Crafting a Boundless Chatbot Experience: Install and Customize a FreedomGPT-Powered Alternative on Windows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/create-professional-slideshows-effortlessly-using-the-best-ai-presentation-generators/"><u>Create Professional Slideshows Effortlessly Using the Best AI Presentation Generators</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/deciphering-the-divide-differences-between-nlp-and-machine-learning-explained/"><u>Deciphering the Divide: Differences Between NLP and Machine Learning Explained</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/demystifying-generative-ai-how-algorithms-are-learning-to-create/"><u>Demystifying Generative AI: How Algorithms Are Learning To Create</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/detecting-fake-chatgpt-portals-and-protecting-yourself-from-phishing-attempts-online/"><u>Detecting Fake ChatGPT Portals & Protecting Yourself From Phishing Attempts Online</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-privacy-first-conversations-engage-with-chatgpt-and-others-on-duckduckgos-secure-ai-platform/"><u>Discover Privacy-First Conversations: Engage with ChatGPT & Others on DuckDuckGo’s Secure AI Platform</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/discover-the-best-10-audio-capturing-software-on-spotify-for-2024/"><u>Discover the Best 10 Audio Capturing Software on Spotify for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/dissecting-the-role-and-value-of-snapchats-ai-with-6-reasons/"><u>Dissecting the Role and Value of Snapchat's AI with 6 Reasons</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-your-health-discussions-the-top-7-justifications-to-trust-chatgpt/"><u>Elevate Your Health Discussions: The Top 7 Justifications to Trust ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722011383584-embrace-the-newly-free-gpt-4-era-dont-overlook-these-6-persuasive-benefits-for-upgrading-to-chatgpt-plus/"><u>Embrace the Newly Free GPT-4 Era - Don't Overlook These 6 Persuasive Benefits for Upgrading to ChatGPT Plus</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ensuring-a-protected-experience-how-to-guide-your-childs-safe-engagement-with-chatgpt/"><u>Ensuring a Protected Experience: How to Guide Your Child's Safe Engagement with ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/essential-insights-navigating-through-potential-security-issues-with-chatbot-technology/"><u>Essential Insights: Navigating Through Potential Security Issues with Chatbot Technology</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/explore-innovative-ways-for-sound-capture-in-modern-windows-11-pcs/"><u>Explore Innovative Ways for Sound Capture in Modern Windows 11 PCs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-ai-chatbots-how-they-work-and-why-theyre-gaining-attention/"><u>Exploring AI Chatbots - How They Work & Why They're Gaining Attention</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-one-to-many-making-the-leap-in-content-design/"><u>From One to Many: Making the Leap in Content Design</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gpt-vs-bert-unveiled-analyzing-the-main-contrasts-in-revolutionary-linguistic-algorithms/"><u>GPT Vs. BERT Unveiled: Analyzing the Main Contrasts in Revolutionary Linguistic Algorithms</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/grasping-ais-essence-benefits-hazards-and-cautions/"><u>Grasping AI's Essence: Benefits, Hazards & Cautions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-does-one-tackle-the-issue-of-ensuring-ai-works-as-intended/"><u>How Does One Tackle the Issue of Ensuring AI Works as Intended?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-does-the-chatgpt-language-model-work-exploring-the-core-translator-tool/"><u>How Does the ChatGPT Language Model Work? Exploring the Core Translator Tool</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-x-ios-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone X iOS System Issues? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-honor-magic-6-pro-phone-without-password-by-drfone-android/"><u>How To Unlock Honor Magic 6 Pro Phone Without Password?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-amplifying-online-videos-best-5-tools-and-tricks/"><u>In 2024, Amplifying Online Videos  Best 5 Tools & Tricks</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-conquer-windows-10-a-mov-filming-masterclass/"><u>In 2024, Conquer Windows 10  A MOV Filming Masterclass</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Oppo A56s 5G? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-oneplus-nord-3-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best OnePlus Nord 3 5G Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-honor-magic-6-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Honor Magic 6 Device</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-microsofts-chatgpt-functioning-follow-these-5-checkpoints-to-confirm/"><u>Is Microsoft's ChatGPT Functioning? Follow These 5 Checkpoints to Confirm</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/legislative-measures-in-the-management-of-artificial-intelligence/"><u>Legislative Measures in the Management of Artificial Intelligence</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/master-the-conversation-with-tech-activating-and-using-nvidias-revolutionary-rtx-ai-companion/"><u>Master the Conversation with Tech: Activating and Using NVIDIA's Revolutionary RTX AI Companion</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-browser-based-ai-deployment-the-ultimate-guide-to-leveraging-agentgpt/"><u>Mastering Browser-Based AI Deployment: The Ultimate Guide to Leveraging AgentGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-gpt-responses-top-techniques-unveiled/"><u>Mastering GPT Responses: Top Techniques Unveiled</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/navigating-image-purification-avoiding-obscuring-elements/"><u>Navigating Image Purification  Avoiding Obscuring Elements</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-soundscape-dilution-via-audacity-tools-for-2024/"><u>Navigating Soundscape Dilution via Audacity Tools for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/pinnacle-of-1980s-movie-magic-in-editing-for-2024/"><u>Pinnacle of 1980S Movie Magic in Editing for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/pioneering-free-tools-for-ai-artwork/"><u>Pioneering Free Tools for AI Artwork</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/protecting-yourself-from-fraudgpt-a-guide-to-staying-safe-in-the-digital-world/"><u>Protecting Yourself From FraudGPT: A Guide to Staying Safe in the Digital World</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/quoras-poe-a-step-toward-ai-engagement/"><u>Quora's POE: A Step Toward AI Engagement</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revive-your-pc-troubleshooting-tips-via-chatgpt/"><u>Revive Your PC: Troubleshooting Tips via ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionize-your-workflow-with-8-strategic-uses-for-gpt-automation-tools/"><u>Revolutionize Your Workflow with 8 Strategic Uses for GPT Automation Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/solving-the-chatgpt-sign-in-issue-a-step-by-step-guide/"><u>Solving the ChatGPT Sign-In Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-viewing-guide-see-the-conjuring-franchise-in-order/"><u>Step-by-Step Viewing Guide: See 'The Conjuring' Franchise in Order</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-definitive-solution-ensuring-seamless-airpods-integration-with-windows-11/"><u>The Definitive Solution : Ensuring Seamless AirPods Integration with Windows 11</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-orderly-quest-for-veiled-youtube-vaults-for-2024/"><u>The Orderly Quest for Veiled YouTube Vaults for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/transform-your-youtube-views-into-profits-instantly/"><u>Transform Your YouTube Views Into Profits Instantly</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-oneplus-nord-n30-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change OnePlus Nord N30 5G IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-razer-blackwidow-controller-step-by-step-guide-and-official-support/"><u>Update Your Razer BlackWidow Controller: Step-by-Step Guide & Official Support</u></a></li>
+</ul></div>

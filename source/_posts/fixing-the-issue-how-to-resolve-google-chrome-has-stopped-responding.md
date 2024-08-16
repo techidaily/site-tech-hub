@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: How to Resolve 'Google Chrome Has Stopped Responding'"
-date: 2024-08-14 21:18:26
-updated: 2024-08-16 10:11:36
+date: 2024-08-15T20:10:55.211Z
+updated: 2024-08-16T20:10:55.211Z
 tags:
   - win11
   - win10
@@ -47,6 +47,9 @@ thumbnail: https://thmb.techidaily.com/8a0450f4fd7bc300e9114c673cd1aaae00e28e53e
  3) Click**Apply this fix** to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap830.png)
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Follow the on-screen instructions to troubleshoot this issue.
 
@@ -65,6 +68,9 @@ thumbnail: https://thmb.techidaily.com/8a0450f4fd7bc300e9114c673cd1aaae00e28e53e
  4) Click on the**Run** button next to**Windows Update** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Troubleshooter-Windows-Update-1200x616.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When the process is finished, perform a Windows update again to see if it still takes much longer than usual. If this issue persists, try the next fix, below.
 
@@ -91,15 +97,24 @@ thumbnail: https://thmb.techidaily.com/8a0450f4fd7bc300e9114c673cd1aaae00e28e53e
  2) Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 
  3) Click**Update** next to any device to download the correct version of its driver, and then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Update-All.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 3: Reset Windows Update components
 
  This issue may occur if there’s something wrong with Windows Update components. If Windows Update components are corrupted, Windows Update may not work properly. In this case, try resetting Windows Update components. Here is how to do it:
@@ -107,6 +122,9 @@ thumbnail: https://thmb.techidaily.com/8a0450f4fd7bc300e9114c673cd1aaae00e28e53e
  1) On your keyboard, press**the Windows logo key** and **R** at the same time to open the Run dialog. Type **cmd** and press**Ctrl** , **Shift** and **Enter** at the same time to **run Command Prompt as administrator** . You’ll be prompted for permission. Click **Yes** to open the Command Prompt.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap468.png)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) In Command Prompt, type the command lines below and press**Enter** on your keyboard **after typing each** :
 
@@ -164,6 +182,9 @@ thumbnail: https://thmb.techidaily.com/8a0450f4fd7bc300e9114c673cd1aaae00e28e53e
 **Dism /Online /Cleanup-Image /RestoreHealth**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap3-4.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The command line**Dism /Online /Cleanup-Image /RestoreHealth** tells the DISM tool to try to repair the corrupted files detected. It will replace the corrupted files with the files from official sources online. It may take several minutes for this command operation to be completed.
 
@@ -172,6 +193,9 @@ thumbnail: https://thmb.techidaily.com/8a0450f4fd7bc300e9114c673cd1aaae00e28e53e
 3) Close the Command Prompt when the restore operation is completed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap4-6.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 
  Try performing a Windows update to see if this fix works. If this issue persists, try running the System File Checker.
 
@@ -188,6 +212,10 @@ thumbnail: https://thmb.techidaily.com/8a0450f4fd7bc300e9114c673cd1aaae00e28e53e
 **sfc /scannow**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap1-3.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 
 It may take some time for the command operation to be completed.
 
@@ -195,6 +223,9 @@ It may take some time for the command operation to be completed.
 
  Perform a Windows update to check whether this fix works or not. If you still fail to install updates for your Windows system, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 6: Download updates from Microsoft Update Catalog manually
 
 **[Microsoft Update Catalog](https://www.catalog.update.microsoft.com/home.aspx)**  offers updates for Windows 2000 SP3 and later versions of Windows operating system. If None of the fixes above works for you, you can try downloading the updates you failed to install from the Microsoft Update Catalog and install them manually. Here is how to do it:
@@ -222,16 +253,25 @@ It may take some time for the command operation to be completed.
  5) Type the update number that you want to download. In this example, type KB3006137 and then click**Search** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap473.png)
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  6) In the list of search results, select the correct update for your operating system and click**Download** .
 
  If your**Windows OS is 64-bit** , you should download the update whose name contains “**x64-based** ”.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap474.png)
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 7) In the pop-up window, click the link to start downloading the updates.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap475.png)
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  8)**Double-click** the downloaded file and follow the on-screen instructions to install the update.
 
@@ -255,3 +295,40 @@ Restart your PC to see if this issue persists. If not, congratulations!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-boost-engagement-through-anime-style-subscribe-buttons-filmora-tutorial/"><u>[New] 2024 Approved  Boost Engagement Through Anime-Style Subscribe Buttons (Filmora Tutorial)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-elite-capture-best-screen-recorder-apps-timelapse/"><u>[Updated] Elite Capture  Best Screen Recorder Apps (Timelapse)</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-reviving-the-reluctant-connection-of-your-obs-capture-device-for-2024/"><u>[Updated] Reviving the Reluctant Connection of Your OBS Capture Device for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-the-invisible-dimensions-of-instagram-story-fans/"><u>[Updated] The Invisible Dimensions of Instagram Story Fans</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-4k-clarity-comes-closer-with-asuss-innovative-mg28uq-display/"><u>2024 Approved  4K Clarity Comes Closer with ASUS's Innovative MG28UQ Display</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-understanding-intellectual-property-rights-on-video-screen-captures/"><u>2024 Approved  Understanding Intellectual Property Rights on Video Screen Captures</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-lava-blaze-2-pro-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Lava Blaze 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/delving-into-the-gloomy-depths-of-bloodborne-a-comprehensive-review/"><u>Delving Into the Gloomy Depths of Bloodborne - A Comprehensive Review</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discovering-the-efficiency-of-aukeys-minimalist-stylish-usb-3erhub-a-detailed-appraisal/"><u>Discovering the Efficiency of Aukey's Minimalist, Stylish USB 3.erhub: A Detailed Appraisal</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-lava-yuva-2-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Lava Yuva 2 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-your-writing-mastering-character-creation-using-the-ultimate-11-chatgpt-techniques-for-authors/"><u>Elevate Your Writing: Mastering Character Creation Using the Ultimate 11 ChatGPT Techniques for Authors</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancing-expeditions-ai-powered-strategies-for-the-ultimate-dandd-guide/"><u>Enhancing Expeditions: AI-Powered Strategies for the Ultimate D&D Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-implications-of-ai-assistants-on-future-search-engine-technologies/"><u>Exploring the Implications of AI Assistants on Future Search Engine Technologies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-possibilities-with-nvidias-generative-ai-services-for-businesses/"><u>Exploring the Possibilities with NVIDIA's Generative AI Services for Businesses</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-do-these-7-innovative-apps-harness-the-power-of-gpt-amazing-features/"><u>How Do These 7 Innovative Apps Harness the Power of GPT-Amazing Features?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/hyper-personalized-sites-with-advanced-ai-search/"><u>Hyper-Personalized Sites with Advanced AI Search</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, 6 Methods to Protect Yourself from Location Tracking on Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-realme-narzo-60-pro-5g-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Realme Narzo 60 Pro 5G Phone that is Locked?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-wmp-cd-extraction-and-bursting-techniques/"><u>In 2024, Mastering WMP  CD Extraction & Bursting Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovations-in-ai-discovering-the-distinctive-aspects-of-bert-versus-traditional-gpt-methodologies/"><u>Innovations in AI: Discovering the Distinctive Aspects of BERT Versus Traditional GPT Methodologies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/protect-privacy-tips-for-deleting-your-chat-records-with-chatgpt/"><u>Protect Privacy: Tips for Deleting Your Chat Records with ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/resolve-chatgpt-overload-in-windows-with-simple-troubleshooting-tips/"><u>Resolve ChatGPT Overload in Windows with Simple Troubleshooting Tips</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionize-your-productivity-discover-how-chatgpt-can-help-manage-time-wisely-in-four-ways/"><u>Revolutionize Your Productivity: Discover How ChatGPT Can Help Manage Time Wisely in Four Ways</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/safeguarding-your-data-examining-the-cyber-risks-associated-with-ai-platforms-such-as-chatgpt/"><u>Safeguarding Your Data: Examining the Cyber Risks Associated with AI Platforms Such as ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/storytelling-excellence-achieved-through-chatgpt-key-strategies-revealed/"><u>Storytelling Excellence Achieved Through ChatGPT: Key Strategies Revealed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-emerging-threat-using-generative-ai-for-deceptive-purposes/"><u>The Emerging Threat: Using Generative AI for Deceptive Purposes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-growing-dangers-of-unchecked-generative-ai-top-8-problematic-areas/"><u>The Growing Dangers of Unchecked Generative AI: Top 8 Problematic Areas</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/threefold-strategies-in-the-conversational-realm-of-chatgpt-wolframlink/"><u>Threefold Strategies in the Conversational Realm of ChatGPT-WolframLink</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-guide-to-mastering-ai-prompt-engineering-with-top-5-online-classes/"><u>Ultimate Guide to Mastering AI Prompt Engineering with Top 5 Online Classes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-the-significance-of-real-time-information-for-chatgpt-users-worldwide/"><u>Unlocking the Significance of Real-Time Information for ChatGPT Users Worldwide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/unveiling-8-top-choices-your-go-to-templates-on-ig/"><u>Unveiling 8 Top Choices  Your Go-To Templates on IG</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-secrets-behind-ai-prompt-injection-assaults-and-their-operations/"><u>Unveiling the Secrets Behind AI Prompt Injection Assaults and Their Operations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-snapchats-my-ai-excels-beyond-entertainment/"><u>Why Snapchat’s My AI Excels Beyond Entertainment</u></a></li>
+</ul></div>

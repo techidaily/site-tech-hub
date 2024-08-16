@@ -1,7 +1,7 @@
 ---
 title: "Create and Use a Portable Windows 11 Installation USB: A Visual Tutorial for Seamless Setup"
-date: 2024-08-14 18:19:55
-updated: 2024-08-16 12:51:35
+date: 2024-08-15T20:10:45.513Z
+updated: 2024-08-16T20:10:45.513Z
 tags:
   - win11
   - win10
@@ -44,10 +44,16 @@ thumbnail: https://thmb.techidaily.com/62d72eb39093270995757df1adc43019ed0e362b7
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press Win (the Windows logo key) and type **cmd** . Select **Run as Administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. In the command prompt, type or paste the following command and press **Enter** .  
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
  If you see a prompt similar to this, **return to step 2** to enable the Ultimate Performance power plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 
 Once done, restart your game and check the performance.
 
@@ -59,6 +65,9 @@ If you don’t see any changes, simply continue to the next fix.
 
 1. On your keyboard, press**Win+R** (the Windows logo key and the R key) to invoke the Run box. Type or paste**control update** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 2. Click**Check for updates** . Windows will then check for available updates. (Or click Restart now if it prompts “Restart required”)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
 
@@ -85,6 +94,9 @@ If the performance is still crappy, take a look at the next method.
 
  If the latest drivers don’t give you luck, simply continue to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### Fix 4: Disable Virtualization-Based Security (VBS)
 
  If your computer ships with a pre-installed Windows 11, you may want to turn off Virtualization-Based Security (VBS). It’s a feature that **isolates part of the memory and uses it to host other security features** .
@@ -97,10 +109,36 @@ If the performance is still crappy, take a look at the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/msinfo32-run.jpg)
 2. Scroll down to check if**Virtualization-based security** is running. If it is, continue to the next step.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/msinfo32-vbs-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 3. On your keyboard, press the**Windows logo key** . Type core isolation and select**Core isolation** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/core-isolation-vbs.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 4. Make sure**Memory integrity** is set to**Off** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/core-isolation-vbs-2.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 5. Restart your computer and test the gameplay again.
 
  If this trick doesn’t do the charm for you, check out the next method below.
@@ -111,8 +149,14 @@ If the performance is still crappy, take a look at the next method.
 
 1. On your keyboard, press the**Windows logo key** . Type**other users** and select**Other users** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/windows-11-new-user-0.jpg)
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 2. In the**Other users** section, click**Add account** . In the pop-up window, follow the on-screen instructions to complete the process. (You can just create a local account so you won’t need another Microsoft account.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/windows-11-new-user.jpg)
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3. Once done, restart your PC and sign in as the new user. Then you can run your game directly from the installation folder. If there’re obvious improvements, you can continue to the next fix to run a full scan to find out what went wrong. If there aren’t, it could indicate a system issue, or it could mean that your hardware is not compatible with Windows 11.
 
 ### Fix 6: Scan and repair Windows
@@ -126,6 +170,9 @@ If the performance is still crappy, take a look at the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -149,3 +196,53 @@ If the performance is still crappy, take a look at the next method.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-snapshotpro-v2021-ultimate-edition/"><u>[New] 2024 Approved  SnapshotPro V2021 - Ultimate Edition</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-fb-content-takedown-what-are-your-rights-and-recourse-in-2024/"><u>[New] FB Content Takedown  What Are Your Rights and Recourse, In 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-how-to-speed-up-video-on-instagram-mobileonlinedesktop-solutions/"><u>[New] How to Speed Up Video on Instagram [Mobile/Online/Desktop Solutions]</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-which-action-cam-wins-max-360-vs-hero-11-analysis/"><u>[New] In 2024, Which Action Cam Wins  Max 360 vs Hero 11 Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-6-online-communities-catering-to-the-commercial-world/"><u>[New] Top 6 Online Communities Catering to the Commercial World</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-from-vision-to-viewers-step-by-step-guide-to-live-tv-screens-on-windows-pcs/"><u>[Updated] From Vision to Viewers  Step-by-Step Guide to Live TV Screens on Windows PCs</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-hidden-screenshotters-concealed-photography-on-the-snapchat-app-for-2024/"><u>[Updated] Hidden ScreenShotters  Concealed Photography on the Snapchat App for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-step-by-step-guide-adding-tracks-to-premiere-pro-projects/"><u>[Updated] Step-by-Step Guide  Adding Tracks to Premiere Pro Projects</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-streamlining-youtube-edits-with-advanced-sony-vegas-techniques-for-2024/"><u>[Updated] Streamlining YouTube Edits with Advanced Sony Vegas Techniques for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/50-guide-to-unlocking-your-phone-from-ransomware-learn-about-chatgpts-role-in-our-podcast/"><u>$50 Guide to Unlocking Your Phone From Ransomware - Learn About ChatGPT's Role in Our Podcast!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-the-ultimate-trivia-realm-for-24/"><u>2024 Approved  Explore the Ultimate Trivia Realm for '24</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/4-ways-government-may-regulate-ai-tools/"><u>4 Ways Government May Regulate AI Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/7-compelling-factors-for-opting-chatgpt-in-managing-personal-health-inquiries/"><u>7 Compelling Factors for Opting ChatGPT in Managing Personal Health Inquiries</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-creative-leap-with-chatgpt-for-podcasts-insights-from-an-unconventional-approach/"><u>A Creative Leap with ChatGPT for Podcasts - Insights From an Unconventional Approach</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-game-plan-with-my-bots-strategy-for-board-games-and-creative-visuals/"><u>A Game Plan with My Bots: Strategy for Board Games & Creative Visuals</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-guide-to-tranquility-with-gpt/"><u>A Guide to Tranquility with GPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ace-your-interview-with-a-professional-cover-letter-assistance-from-chatgpt/"><u>Ace Your Interview with a Professional Cover Letter - Assistance From ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/achieve-exceptional-results-using-copilots-complimentary-gpt-4-turbo-integration/"><u>Achieve Exceptional Results Using Copilot's Complimentary GPT-4 Turbo Integration</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/activision-breach-exposed-implications-for-gaming-security/"><u>Activision Breach Exposed: Implications for Gaming Security</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/adopting-the-future-of-conversational-ai-four-points-for-claude-3/"><u>Adopting the Future of Conversational AI: Four Points for Claude 3</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/advanced-techniques-boost-your-board-game-expertise-and-image-making-with-chatgpts-intelligent-bot-solutions/"><u>Advanced Techniques: Boost Your Board Game Expertise and Image Making with ChatGPT's Intelligent Bot Solutions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-advancements-predicting-job-replacements/"><u>AI Advancements: Predicting Job Replacements?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-coding-face-off-determining-the-best-between-chatgpt-and-gemini/"><u>AI Coding Face-Off: Determining the Best Between ChatGPT & Gemini</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-dialogues-battlefront-choosing-between-gpt-and-bing/"><u>AI Dialogues Battlefront: Choosing Between GPT & Bing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-misinterpretations-unveiled-how-to-detect-and-handle-hallucination-phenomena/"><u>AI Misinterpretations Unveiled: How to Detect and Handle Hallucination Phenomena</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-infused-search-microsoft-bing-redefined/"><u>AI-Infused Search: Microsoft Bing Redefined</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-powered-assistants-transforming-the-editors-workspace/"><u>AI-Powered Assistants Transforming the Editor's Workspace</u></a></li>
+<li><a href="https://program-issues.techidaily.com/banish-your-rockstar-games-launcher-woes-with-these-ultimate-2024-repair-guides/"><u>Banish Your Rockstar Games Launcher Woes with These Ultimate 2024 Repair Guides</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722058682171-chatgpt-goes-mobile-seamlessly-integrate-ai-with-your-android-phone/"><u>ChatGPT Goes Mobile: Seamlessly Integrate AI with Your Android Phone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722205835780-chatgpts-desktop-version-still-coming-no-problem-try-these-powerful-open-source-apps-instead/"><u>ChatGPT's Desktop Version Still Coming? No Problem – Try These Powerful Open Source Apps Instead</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-compelling-narratives-through-supplemental-footage-for-2024/"><u>Crafting Compelling Narratives Through Supplemental Footage for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1721994307953-discover-the-wonders-of-gpt-4-universal-access-unveiled/"><u>Discover the Wonders of GPT-4: Universal Access Unveiled!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1721773651402-enhance-your-private-talks-using-duckduckgos-intelligent-chat-features-and-more/"><u>Enhance Your Private Talks Using DuckDuckGo's Intelligent Chat Features and More</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/enhancing-social-media-engagement-with-branded-icons-on-instagram/"><u>Enhancing Social Media Engagement with Branded Icons on Instagram</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/illuminate-your-graphics-instinct-for-adobe-motion-blur/"><u>Illuminate Your Graphics  Instinct for Adobe Motion Blur</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722193389897-impatient-for-chatgpts-desktop-version-heres-an-exceptional-free-open-source-substitute-to-check-out/"><u>Impatient for ChatGPT's Desktop Version? Here's an Exceptional Free Open Source Substitute to Check Out</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Nokia 150 (2023) | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-grasping-the-balance-positives-and-negatives-of-vr/"><u>In 2024, Grasping the Balance  Positives and Negatives of VR</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Tecno Spark Go (2023)? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-step-by-step-audacity-crossfading-process/"><u>In 2024, Step-by-Step Audacity Crossfading Process</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-newbies-guide-to-av1-codec/"><u>In 2024, The Newbie's Guide to AV1 Codec</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-fallout-n76-top-strategies-to-combat-slow-performance-and-enhance-play/"><u>Mastering Fallout N76: Top Strategies to Combat Slow Performance and Enhance Play</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-how-to-increase-volume-of-the-media-files-for-2024/"><u>New How to Increase Volume of the Media Files for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722169062478-step-by-step-guide-to-utilizing-openais-cutting-edge-custom-gpt-shop-access-today/"><u>Step-by-Step Guide to Utilizing OpenAI's Cutting-Edge Custom GPT Shop – Access Today!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722177654446-unlocking-secrets-50-mobile-phone-deal-plus-demystifying-ransomware-decryption-tactics/"><u>Unlocking Secrets: $50 Mobile Phone Deal + Demystifying Ransomware Decryption Tactics</u></a></li>
+<li><a href="https://techidaily.com/what-is-rank-tracking-by-link-assistant-rank-tracker-rank-tracker/"><u>What is rank tracking?</u></a></li>
+</ul></div>

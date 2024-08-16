@@ -1,7 +1,7 @@
 ---
 title: Spotting Bogus AI in Conversations via GPT Notation
-date: 2024-08-02T15:57:35.110Z
-updated: 2024-08-03T15:57:35.110Z
+date: 2024-08-15T21:53:08.244Z
+updated: 2024-08-16T21:53:08.244Z
 tags:
   - chatgpt
   - open-ai
@@ -130,3 +130,67 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-mastering-video-recording-camstudios-total-package/"><u>[New] 2024 Approved  Mastering Video Recording  CamStudio's Total Package</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-building-a-loyal-following-with-respectful-requests/"><u>[New] Building a Loyal Following with Respectful Requests</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-deciphering-youtubes-profit-for-a-mil-of-viewers/"><u>[Updated] Deciphering YouTube’s Profit for A Mil of Viewers</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-simple-guide-to-free-video-embedding-in-articles/"><u>[Updated] The Simple Guide to Free Video Embedding in Articles</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-translate-speech-to-text-the-right-way-with-google-translate-for-2024/"><u>[Updated] Translate Speech to Text the Right Way with Google Translate for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-digital-frame-snatchers-top-video-tools/"><u>2024 Approved  Digital Frame Snatchers  Top Video Tools</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-eliminating-exposure-how-to-conceal-private-video-sections/"><u>2024 Approved  Eliminating Exposure  How to Conceal Private Video Sections</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pajama-plots-performed-a-critical-study-of-bedtime-storytelling-vids/"><u>2024 Approved  Pajama Plots Performed  A Critical Study of Bedtime Storytelling Vids</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-realme-note-50-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Realme Note 50? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/craft-exclusive-gpt-versions/"><u>Craft Exclusive GPT Versions</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/deconstructing-the-viva-video-experience/"><u>Deconstructing the Viva Video Experience</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/directing-bavarder-installation-with-ease-linux/"><u>Directing Bavarder Installation with Ease (Linux)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discovering-llama-2-insightful-guide-on-its-functions-and-applications/"><u>Discovering Llama 2: Insightful Guide on Its Functions & Applications</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/doubting-the-faithfulness-of-zerogpt-and-similar-devices/"><u>Doubting the Faithfulness of ZeroGPT and Similar Devices</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/drone-racing-things-you-need-to-know-and-top-5-best-fpv-racing-drones-for-2024/"><u>Drone Racing  Things You Need to Know and Top 5 Best FPV Racing Drones for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effective-solutions-to-overcome-communication-glitches-between-chatgpt-and-third-party-plugins/"><u>Effective Solutions to Overcome Communication Glitches Between ChatGPT and Third-Party Plugins</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effective-techniques-for-crafting-chatgpt-user-personas-enhancing-outcomes/"><u>Effective Techniques for Crafting ChatGPT User Personas: Enhancing Outcomes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/engage-with-ease-myai-vs-gpt-in-the-realm-of-chat/"><u>Engage with Ease: MyAI vs GPT in the Realm of Chat</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/experience-ai-artistry-for-free-with-dall-e-3-and-microsoft-bing/"><u>Experience AI Artistry for Free with DALL-E 3 & Microsoft Bing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/explore-the-fresh-capabilities-now-available-in-chatgpt/"><u>Explore the Fresh Capabilities Now Available in ChatGPT</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-excel-2021-found-a-problem-with-one-or-more-formula-by-stellar-guide/"><u>Fixed Excel 2021 Found a Problem with One or more Formula</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-samsung-galaxy-m34-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Samsung Galaxy M34 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-habits-to-happiness-elevating-your-existence-through-chatgpt-strategies/"><u>From Habits to Happiness: Elevating Your Existence Through ChatGPT Strategies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/has-chatgpt-revolutionized-the-way-we-write-school-assignments/"><u>Has ChatGPT Revolutionized the Way We Write School Assignments?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-vivo-y77t-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Vivo Y77t Phones with/without a PC</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-motorola-moto-g34-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Motorola Moto G34 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-do-vector-databases-empower-artific-5-unveiling-vector-databases-their-impact-on-boosting-ai-capabilities/"><u>How Do Vector Databases Empower Artific 5. Unveiling Vector Databases: Their Impact on Boosting AI Capabilities</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-does-the-artificial-intelligence-directive-by-the-eu-influence-platforms-like-chatgpt/"><u>How Does the Artificial Intelligence Directive by the EU Influence Platforms Like ChatGPT?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-efficient-is-chatgpt-in-serving-as-your-digital-proofreader/"><u>How Efficient Is ChatGPT in Serving as Your Digital Proofreader?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-itel-p55-5g-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Itel P55 5G to Roku | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-infinix-hot-40-pro-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Infinix Hot 40 Pro Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-affordable-high-res-camera-options/"><u>In 2024, Affordable High-Res Camera Options</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-breaking-ice-the-peak-of-chinas-sports-showcase-2022/"><u>In 2024, Breaking Ice  The Peak of China's Sports Showcase, 2022</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-change-location-on-yik-yak-for-your-xiaomi-civi-3-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Xiaomi Civi 3 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-on-iphone-12-mini-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud on iPhone 12 mini Safe and Legal</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-camera-clicks-to-youtube-clips-an-experts-step-by-step-visual-instruction-manual/"><u>In 2024, From Camera Clicks to YouTube Clips  An Expert's Step-by-Step Visual Instruction Manual</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-xiaomi-redmi-note-13-proplus-5g-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Xiaomi Redmi Note 13 Pro+ 5G to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-stolen-iphone-7-in-different-conditionsin-by-drfone-ios/"><u>In 2024, How To Unlock Stolen iPhone 7 In Different Conditionsin</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-probing-deep-into-inshots-editing-capabilities/"><u>In 2024, Probing Deep Into InShot's Editing Capabilities</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/integrating-siri-with-chatgpt-a-comprehensive-guide-for-iphone-users/"><u>Integrating Siri with ChatGPT: A Comprehensive Guide for iPhone Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-there-a-maximum-characterswords-threshold-in-chatgpt-replies/"><u>Is There a Maximum Characters/Words Threshold in ChatGPT Replies?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/leading-slow-motions-camera-edition-for-2024/"><u>Leading Slow-Motions  Camera Edition for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-safe-use-of-deep-learning-algos/"><u>Mastering Safe Use of Deep Learning Algos</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-convincing-a-step-by-step-guide-on-crafting-effective-proposals-with-chatgpt/"><u>Mastering the Art of Convincing: A Step-by-Step Guide on Crafting Effective Proposals with ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-claude-3-experience-with-anthropics-innovative-prompt-store-solution/"><u>Mastering the Claude 3 Experience with Anthropic's Innovative Prompt Store Solution</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigate-the-new-wave-of-ai-with-openais-tailored-gpt-store-access-guide/"><u>Navigate the New Wave of AI with OpenAI's Tailored GPT Store Access Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-social-media-safely-spotting-fresh-twitter-frauds-meta-introduces-a-secure-verified-platform-and-demystifying-chatgpt-sophisticated-ai-technology72/"><u>Navigating Social Media Safely: Spotting Fresh Twitter Frauds, Meta Introduces a Secure Verified Platform, and Demystifying ChatGPT-Sophisticated AI Technology Explained</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/navigating-through-your-new-laptops-m1-max-clips/"><u>Navigating Through Your New Laptop's M1 Max Clips</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/overcoming-high-traffic-warnings-fixing-chatgpt-limits-in-windows/"><u>Overcoming High Traffic Warnings: Fixing ChatGPT Limits in Windows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionize-your-diy-adventures-experience-the-impact-of-gpt-4s-groundbreaking-artificial-intelligence-tools/"><u>Revolutionize Your DIY Adventures: Experience the Impact of GPT-4's Groundbreaking Artificial Intelligence Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/simplify-your-workflow-using-the-top-10-tools-that-integrate-chatgpt-with-pdf-creation-save-time-and-energy/"><u>Simplify Your Workflow Using the Top 10 Tools That Integrate ChatGPT With PDF Creation – Save Time and Energy</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-unlock-global-availability-of-chatgpt-with-chatgpt-everywhere/"><u>Step-by-Step Guide: Unlock Global Availability of ChatGPT with ChatGPT Everywhere</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/streamlining-video-sharing-zoom-and-tiktok-harmony-for-2024/"><u>Streamlining Video Sharing  Zoom and TikTok Harmony for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/sustainable-value-can-auto-gpt-work-alone/"><u>Sustainable Value: Can Auto-GPT Work Alone?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-digital-shaker-challenge-how-well-does-chatgpt-concoct-cocktails/"><u>The Digital Shaker Challenge: How Well Does ChatGPT Concoct Cocktails?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-limits-of-chatgpt-responses-strategies-beyond-token-restrictions/"><u>The Limits of ChatGPT Responses: Strategies Beyond Token Restrictions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-operations-and-applications-of-claude-2/"><u>The Operations and Applications of Claude 2</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-power-of-tailored-directives-with-chatgpt-insights-into-its-versatile-features/"><u>The Power of Tailored Directives with ChatGPT: Insights Into Its Versatile Features</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/unlock-your-creativity-top-movie-making-software-for-home-dvds/"><u>Unlock Your Creativity Top Movie Making Software for Home DVDs</u></a></li>
+</ul></div>

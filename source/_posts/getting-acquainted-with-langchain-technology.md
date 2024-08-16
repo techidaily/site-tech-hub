@@ -1,7 +1,7 @@
 ---
 title: Getting Acquainted with LangChain Technology
-date: 2024-08-02T15:58:12.292Z
-updated: 2024-08-03T15:58:12.292Z
+date: 2024-08-15T20:50:15.159Z
+updated: 2024-08-16T20:50:15.159Z
 tags:
   - chatgpt
   - open-ai
@@ -135,3 +135,64 @@ thumbnail: https://thmb.techidaily.com/981f5aab13809d22943cf0e3715f6a9d6dac906b3
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-comparing-mp4-recorders-the-latest-edition/"><u>[New] 2024 Approved  Comparing MP4 Recorders - The Latest Edition</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-discover-the-top-6-fb-lite-video-export-apps-of-2023/"><u>[New] In 2024, Discover the Top 6 FB Lite Video Export Apps of 2023</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-launch-into-action-quick-tips-to-start-going-live-on-facebook-immediately/"><u>[New] In 2024, Launch Into Action  Quick Tips to Start Going Live on Facebook Immediately</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-4k-videos-with-the-versatile-nikon-1j5/"><u>[New] Mastering 4K Videos with the Versatile Nikon 1J5</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-top-6-respectful-android-recorder-apps-for-2024/"><u>[New] Top 6 Respectful Android Recorder Apps for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-becoming-a-leader-in-video-marketing-on-youtube/"><u>[Updated] Becoming a Leader in Video Marketing on YouTube</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-blending-bits-volume-manipulation-mastery-with-reaper/"><u>[Updated] Blending Bits  Volume Manipulation Mastery with Reaper</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-direct-download-vs-alternative-store-instagram-reels-efficiently/"><u>[Updated] Direct Download vs Alternative  Store Instagram Reels Efficiently</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hits-and-misses-the-photographers-account/"><u>[Updated] Hits and Misses  The Photographer's Account</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-galaxy-s8-review-a-leap-forward-with-4k-display/"><u>2024 Approved  Galaxy S8 Review - A Leap Forward with 4K Display</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-samsung-galaxy-m14-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-comprehensive-guide-to-chatgpts-default-add-ons-and-their-practical-benefits/"><u>A Comprehensive Guide to ChatGPT's Default Add-Ons and Their Practical Benefits</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ace-the-interview-with-chatgpt-training-tips/"><u>Ace the Interview with ChatGPT Training Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/actions-to-take-when-ipad-images-fault-during-transfer-to-windows/"><u>Actions to Take When iPad Images Fault During Transfer to Windows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-companions-for-cupids-cause-improving-your-love-life-with-chatgpt-insights/"><u>AI Companions for Cupid's Cause: Improving Your Love Life with ChatGPT Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/artists-alliance-challenging-openai-and-meta-in-court/"><u>Artists' Alliance: Challenging OpenAI and Meta in Court</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/avi-file-editing-simplified-cut-trim-and-split-with-these-easy-steps-for-2024/"><u>AVI File Editing Simplified Cut, Trim, and Split with These Easy Steps for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/battle-of-brains-determining-the-most-advanced-ai-among-chatgpt-bing-ai-and-googles-bard/"><u>Battle of Brains: Determining the Most Advanced AI Among ChatGPT, Bing AI, and Google's Bard</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-4-the-metasig-revolution-in-social-networking/"><u>ChatGPT 4: The Metasig Revolution in Social Networking</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-for-writers-maximizing-benefits-and-minimizing-risks-as-a-freelancer/"><u>ChatGPT for Writers: Maximizing Benefits and Minimizing Risks as a Freelancer</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-review-of-the-sony-xperia-5-tiny-yet-towering-in-quality-with-a-premium-price/"><u>Comprehensive Review of the Sony Xperia 5 - Tiny Yet Towering in Quality with a Premium Price</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/craft-your-perfect-trip-with-7-free-ai-aided-instant-itinerary-tools/"><u>Craft Your Perfect Trip with 7 Free AI-Aided, Instant Itinerary Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/critical-evaluation-of-health-tips-from-chatgpt-and-artificial-intelligence-a-guide/"><u>Critical Evaluation of Health Tips From ChatGPT and Artificial Intelligence - A Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/deciphering-digital-disguises-spotting-ai-content-creation/"><u>Deciphering Digital Disguises: Spotting AI Content Creation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/differences-between-gpt-4-variants-understanding-gpt-4-gpt-4-turbo-and-gpt-4o/"><u>Differences Between GPT- 4 Variants: Understanding GPT-4, GPT-4 Turbo and GPT-4o</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/dissecting-language-leaders-googles-palm-2-vs-gpt-4/"><u>Dissecting Language Leaders: Google's PaLM 2 Vs. GPT-4</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/efficient-chatgpt-engagement-in-multilingual-scenarios/"><u>Efficient ChatGPT Engagement in Multilingual Scenarios</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722203023324-effortless-auto-gpt-installation-follow-these-steps/"><u>Effortless Auto-GPT Installation - Follow These Steps</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-personal-training-discover-8-powerful-chatgpt-plugins-for-wellness-coaching/"><u>Elevate Personal Training: Discover 8 Powerful ChatGPT Plugins for Wellness Coaching</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/engage-in-confidential-dialogue-experience-the-future-of-private-messaging-with-duckduckgo-and-chatgpt-integration/"><u>Engage in Confidential Dialogue - Experience the Future of Private Messaging with DuckDuckGo and ChatGPT Integration</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhance-your-ai-experience-discover-5-key-ways-to-implement-chatgpts-tailored-directives/"><u>Enhance Your AI Experience: Discover 5 Key Ways to Implement ChatGPT's Tailored Directives</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancing-your-social-media-presence-a-guide-to-writing-effective-posts-using-chatgpt/"><u>Enhancing Your Social Media Presence: A Guide to Writing Effective Posts Using ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/explore-these-6-powerful-ai-tools-as-affordable-options-to-replace-gpt-3/"><u>Explore These 6 Powerful AI Tools as Affordable Options to Replace GPT-3!</u></a></li>
+<li><a href="https://windows11.techidaily.com/exploring-aggregatorhostexe-in-windows-how-it-works-and-safety-aspects/"><u>Exploring AggregatorHost.exe in Windows: How It Works and Safety Aspects</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-huggingchat-an-affordable-open-source-chatbot-option-like-chatgpt/"><u>Exploring HuggingChat - An Affordable, Open Source Chatbot Option Like ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-large-scale-llms-an-insight-into-their-working-mechanisms/"><u>Exploring Large-Scale LLMs: An Insight Into Their Working Mechanisms</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-realm-of-predictive-artificeal-intelligence-insights-and-functionality/"><u>Exploring the Realm of Predictive Artificeal Intelligence: Insights & Functionality</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exposing-deceptive-chatgpt-networks-know-what-to-do/"><u>Exposing Deceptive ChatGPT Networks: Know What To Do</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/foreseeing-future-firewalls-the-latest-in-security-trends/"><u>Foreseeing Future Firewalls: The Latest in Security Trends</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-xiaomi-redmi-k70e-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Xiaomi Redmi K70E Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-vivo-s17t-devices-by-drfone-android/"><u>How to Reset Gmail Password on Vivo S17t Devices</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-detailed-guide-on-removing-iphone-12-mini-activation-lock-without-previous-owner-by-drfone-ios/"><u>In 2024, Detailed Guide on Removing iPhone 12 mini Activation Lock without Previous Owner?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-apple-iphone-15-plus-in-3-ways-drfone-by-drfone-virtual-ios/"><u>In 2024, Edit and Send Fake Location on Telegram For your Apple iPhone 15 Plus in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-samsung-galaxy-s23plus-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Samsung Galaxy S23+ Phone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-sony-xperia-1-v-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Sony Xperia 1 V to Outlook | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-multiple-ways-how-to-remove-icloud-activation-lock-on-your-iphone-8-plus-by-drfone-ios/"><u>In 2024, New Multiple Ways How To Remove iCloud Activation Lock On your iPhone 8 Plus</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-samsung-galaxy-s23-fe-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Samsung Galaxy S23 FE Phone Pattern Lock</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/meta-openai-under-legal-scrutiny-by-artistic-collective-leaders/"><u>Meta, OpenAI Under Legal Scrutiny by Artistic Collective Leaders</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/reclaim-your-missing-iphone-notes-with-advanced-recovery-software-solutions/"><u>Reclaim Your Missing iPhone Notes with Advanced Recovery Software Solutions</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/the-wizardry-of-images-elevate-your-snapchat-with-edits-for-2024/"><u>The Wizardry of Images  Elevate Your Snapchat with Edits for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722153355435-transforming-diy-innovation-with-the-upcoming-arrival-of-gpt-navigate-through-ais-next-giant-leap/"><u>Transforming DIY Innovation with the Upcoming Arrival of GPT-Navigate Through AI's Next Giant Leap</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-the-future-of-interaction-7-ways-palm-2-revolutionizes-googles-bard-ai-experience/"><u>Unlocking the Future of Interaction: 7 Ways PaLM 2 Revolutionizes Google's Bard AI Experience</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-model-clarity-with-openais-shap-e/"><u>Unveiling Model Clarity with OpenAI's SHAP E</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/what-is-codegpt-and-can-it-really-write-code/"><u>What Is CodeGPT and Can It Really Write Code?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-has-chatgpt-halted-new-registrations-unveiling-reasons-and-predicting-comeback-timelines/"><u>Why Has ChatGPT Halted New Registrations? Unveiling Reasons and Predicting Comeback Timelines</u></a></li>
+</ul></div>

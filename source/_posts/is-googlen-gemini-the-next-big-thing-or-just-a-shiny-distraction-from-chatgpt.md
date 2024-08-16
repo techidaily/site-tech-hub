@@ -1,7 +1,7 @@
 ---
 title: Is Google'n Gemini the Next Big Thing or Just a Shiny Distraction From ChatGPT?
-date: 2024-08-02T15:57:37.797Z
-updated: 2024-08-03T15:57:37.797Z
+date: 2024-08-15T21:48:21.785Z
+updated: 2024-08-16T21:48:21.785Z
 tags:
   - chatgpt
   - open-ai
@@ -143,3 +143,37 @@ We did manage to get a response from Bard by rewording the prompt.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-the-ultimate-guide-to-chromes-picture-in-picture-feature/"><u>[New] The Ultimate Guide to Chrome's Picture In Picture Feature</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-mastering-youtube-pace-control-top-tips-for-slower-views-48-chars/"><u>[Updated] Mastering YouTube Pace Control  Top Tips for Slower Views (48 Chars)</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-the-art-of-advertising-making-money-on-the-worlds-social-network-for-2024/"><u>[Updated] The Art of Advertising  Making Money on the World's Social Network for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-assistants-face-off-snapchats-my-ai-versus-chatgpt-for-optimal-performance/"><u>AI Assistants Face-Off: Snapchat's My AI Versus ChatGPT for Optimal Performance</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/avoid-stumbling-blocks-overcome-these-amo-common-roadblocks-in-your-autogpt-installation-journey/"><u>Avoid Stumbling Blocks: Overcome These Amo Common Roadblocks in Your AutoGPT Installation Journey</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beyond-convenience-the-limitations-of-ai-powered-text-summaries-and-why-you-should-think-twice-about-using-them/"><u>Beyond Convenience: The Limitations of AI-Powered Text Summaries and Why You Should Think Twice About Using Them</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-y100i-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Y100i</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/capture-life-in-high-definition-on-a-budget-(1k/"><u>Capture Life in High Definition on a Budget (<$1K)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-world-of-warcraft-voice-chat-failures-and-interruptions/"><u>Effective Fixes for World of Warcraft Voice Chat Failures and Interruptions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-no-more-overcome-print-driver-host-malfunction-on-32-bit-platforms/"><u>Error No More! Overcome 'Print Driver Host' Malfunction on 32-Bit Platforms</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-troubleshooting-techniques-tackling-the-dark-side-of-warzone-2024-fresh-insights/"><u>Master Troubleshooting Techniques: Tackling the Dark Side of Warzone - 2024 Fresh Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/rediscover-your-interactions-with-chatgpt-techniques-to-retrieve-forgotten-chats/"><u>Rediscover Your Interactions with ChatGPT: Techniques to Retrieve Forgotten Chats</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionize-your-presentations-with-these-7-ai-tools-ranked-best/"><u>Revolutionize Your Presentations with These 7 AI Tools Ranked Best</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/run-chatgpt-seamlessly-with-this-windows-application-installation-hack/"><u>Run ChatGPT Seamlessly with This Windows Application Installation Hack</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/test-of-minds-can-computers-surpass-human-intuition/"><u>Test of Minds: Can Computers Surpass Human Intuition?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-future-is-here-7-remarkable-enhancements-in-googles-bard-ai-from-the-latest-io-event/"><u>The Future Is Here: 7 Remarkable Enhancements in Google's Bard AI From the Latest I/O Event</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-top-8-limitations-of-ai-chatbots-for-professional-copywriters/"><u>The Top 8 Limitations of AI Chatbots for Professional Copywriters</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-guide-to-bulk-creating-via-canva-and-chatgpt/"><u>The Ultimate Guide to Bulk Creating via Canva & ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-6-innovative-tools-for-interacting-with-your-pdfs-using-chatgpt/"><u>Top 6 Innovative Tools for Interacting with Your PDFs Using ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722010915433-top-contenders-in-llm-showdown-bard-chatgpt-and-offline-alpaca-battle-it-out/"><u>Top Contenders in LLM Showdown: Bard, ChatGPT and Offline Alpaca Battle It Out</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-from-apple-iphone-xs-max-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID From Apple iPhone XS Max Making It Possible</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transform-how-you-find-information-why-perplexity-ai-reigns-as-the-premier-google-search-assistant-powered-by-artificial-intelligence/"><u>Transform How You Find Information: Why Perplexity AI Reigns as the Premier Google Search Assistant Powered by Artificial Intelligence</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-chatgpts-language-decoder-how-does-it-work-and-why-is-it-vital/"><u>Understanding ChatGPT’s Language Decoder: How Does It Work and Why Is It Vital?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-creative-potential-how-to-navigate-and-utilize-gpt-3-in-the-openai-playground/"><u>Unlocking Creative Potential: How to Navigate and Utilize GPT-3 in the OpenAI Playground</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-artificial-intelligence-exploring-its-potential-risks/"><u>Unveiling Artificial Intelligence: Exploring Its Potential Risks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/what-is-the-paperclip-maximizer-problem-and-how-does-it-relate-to-ai/"><u>What Is the Paperclip Maximizer Problem and How Does It Relate to AI?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/what-sets-claude-pro-apart-from-the-advanced-capabilities-of-chatgpt-plus/"><u>What Sets Claude Pro Apart From the Advanced Capabilities of ChatGPT Plus?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/whats-next-after-gpt-4-predicting-the-arrival-and-launch-date-of-gpt-5/"><u>What's Next After GPT-4: Predicting the Arrival and Launch Date of GPT-5</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/which-large-language-model-reigns-supreme-a-comparison-of-bard-chatgpt-and-offline-alpaca-for-optimal-performance/"><u>Which Large Language Model Reigns Supreme? A Comparison of Bard, ChatGPT, and Offline Alpaca for Optimal Performance</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/be-video-magic-comprehensive-editing-for-professionals/"><u>YouTube Video Magic  Comprehensive Editing for Professionals</u></a></li>
+</ul></div>

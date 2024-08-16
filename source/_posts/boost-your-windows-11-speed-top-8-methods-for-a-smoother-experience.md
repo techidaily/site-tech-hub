@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Windows 11 Speed: Top 8 Methods for a Smoother Experience"
-date: 2024-08-13 23:45:29
-updated: 2024-08-16 12:54:27
+date: 2024-08-15T20:11:33.128Z
+updated: 2024-08-16T20:11:33.128Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/6f24909f969f84628da7cca908a8ecbcf1f131079
 5. [**Run the game as a new user**](https://tools.techidaily.com/drivereasy/download/)
 6. [**Scan and repair Windows**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### Fix 1: Change the power plan
 
  Power plans are no more than a set of settings that controls how your PC consumes/saves power. And in Windows 10, Microsoft introduced a power plan for workstation called Ultimate Performance, which can be a safe and easy-to-get performance boost.
@@ -40,10 +44,16 @@ thumbnail: https://thmb.techidaily.com/6f24909f969f84628da7cca908a8ecbcf1f131079
 
 1. On your keyboard, press **Win+R** (the Windows logo key and the r key) at the same time. Type or paste **powercfg.cpl**  and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/cmd-run-power-option.jpg)
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 2. Select **Ultimate Performance** . If you don’t see this power plan, simply continue to the next step to unhide it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press Win (the Windows logo key) and type **cmd** . Select **Run as Administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 4. In the command prompt, type or paste the following command and press **Enter** .  
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
  If you see a prompt similar to this, **return to step 2** to enable the Ultimate Performance power plan.  
@@ -66,6 +76,10 @@ If you don’t see any changes, simply continue to the next fix.
 
 If the performance is still crappy, take a look at the next method.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ### Fix 3: Update all your drivers
 
  The latest computer drivers improve overall stability and performance. And this is especially true for gaming PCs, as they usually need the up-to-date GPU drivers to unleash the full potential on new titles. So if you don’t remember when was the last time you checked for driver updates, definitely do it now.
@@ -85,6 +99,9 @@ If the performance is still crappy, take a look at the next method.
 
  If the latest drivers don’t give you luck, simply continue to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 4: Disable Virtualization-Based Security (VBS)
 
  If your computer ships with a pre-installed Windows 11, you may want to turn off Virtualization-Based Security (VBS). It’s a feature that **isolates part of the memory and uses it to host other security features** .
@@ -97,14 +114,23 @@ If the performance is still crappy, take a look at the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/msinfo32-run.jpg)
 2. Scroll down to check if**Virtualization-based security** is running. If it is, continue to the next step.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/msinfo32-vbs-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 3. On your keyboard, press the**Windows logo key** . Type core isolation and select**Core isolation** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/core-isolation-vbs.jpg)
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. Make sure**Memory integrity** is set to**Off** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/core-isolation-vbs-2.jpg)
 5. Restart your computer and test the gameplay again.
 
  If this trick doesn’t do the charm for you, check out the next method below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ### Fix 5: Run the game as a new user
 
  In some cases, your local settings, services and apps would slow down your system. To check if this is your case, you can run the game as a new user. This would isolate most of the settings and give you a fresh Windows 11 experience.
@@ -113,6 +139,9 @@ If the performance is still crappy, take a look at the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/windows-11-new-user-0.jpg)
 2. In the**Other users** section, click**Add account** . In the pop-up window, follow the on-screen instructions to complete the process. (You can just create a local account so you won’t need another Microsoft account.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/windows-11-new-user.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 3. Once done, restart your PC and sign in as the new user. Then you can run your game directly from the installation folder. If there’re obvious improvements, you can continue to the next fix to run a full scan to find out what went wrong. If there aren’t, it could indicate a system issue, or it could mean that your hardware is not compatible with Windows 11.
 
 ### Fix 6: Scan and repair Windows
@@ -126,6 +155,9 @@ If the performance is still crappy, take a look at the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -149,3 +181,43 @@ If the performance is still crappy, take a look at the next method.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-the-ultimate-guide-to-browser-screen-capturing-software/"><u>[New] 2024 Approved  The Ultimate Guide to Browser Screen Capturing Software</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-archive-of-awe-high-quality-gif-preservation-for-tweeters-for-2024/"><u>[New] Archive of Awe  High-Quality GIF Preservation for Tweeters for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-counteract-fake-views-boosting-genuine-audience-size/"><u>[New] In 2024, Counteract Fake Views  Boosting Genuine Audience Size</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-a-beginners-guide-to-producing-facebook-reels/"><u>2024 Approved  A Beginner's Guide to Producing Facebook Reels</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/from-lurkers-to-leaders-top-30-strategies-for-facebook-pros-for-2024/"><u>From Lurkers to Leaders  Top 30 Strategies for Facebook Pros for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-from-apple-iphone-14-pro-max-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code From Apple iPhone 14 Pro Max in the Best Ways</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/how-to-keep-your-videos-quiet-and-clear/"><u>How to Keep Your Videos Quiet and Clear</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/how-to-make-picture-in-picture-videos-on-mac-os-sierra/"><u>How to Make Picture in Picture Videos on Mac OS Sierra</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondly-unveils-new-help-and-inquiry-resource/"><u>Mondly Unveils New Help and Inquiry Resource</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/probing-the-efficacy-of-codegpt-could-it-streamline-development/"><u>Probing the Efficacy of CodeGPT: Could It Streamline Development?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/questioning-zerogpts-credibility-tech-tools-under-fire/"><u>Questioning ZeroGPT's Credibility: Tech Tools Under Fire</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ready-for-a-challenge-dive-into-chatgpts-selection-of-the-6-greatest-games/"><u>Ready for a Challenge? Dive Into ChatGPT’s Selection of the 6 Greatest Games</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/simplify-problem-solving-in-mathematics-using-our-selection-of-the-top-7-ai-systems/"><u>Simplify Problem-Solving in Mathematics Using Our Selection of the Top 7 AI Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/steer-clear-from-the-hacked-google-bard-software-a-risky-malware-threat/"><u>Steer Clear From The Hacked 'Google Bard' Software - A Risky Malware Threat</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-into-a-world-of-anytime-anywhere-ai-support-mastering-chatgpt-through-universal-accessibility-with-chatgpt-everywhere/"><u>Step Into a World of Anytime, Anywhere AI Support - Mastering ChatGPT Through Universal Accessibility with ChatGPT Everywhere</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/talk-titans-duo-comparing-gpt-and-bings-virtual-voices/"><u>Talk Titans Duo: Comparing GPT & Bing's Virtual Voices</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tapping-into-chatgpt-potential-with-its-api/"><u>Tapping Into ChatGPT Potential with Its API</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-evolution-of-college-assignments-in-the-age-of-artificial-intelligence-are-students-written-works-becoming-outdated/"><u>The Evolution of College Assignments in the Age of Artificial Intelligence: Are Students' Written Works Becoming Outdated?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-showdown-is-forefront-ai-a-superior-alternative-to-chatgpt/"><u>The Showdown: Is Forefront AI a Superior Alternative to ChatGPT?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-guide-4-innovative-uses-of-chnagpt-for-mastering-your-time/"><u>The Ultimate Guide: 4 Innovative Uses of Chnagpt for Mastering Your Time</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-way-to-reach-chatgpt-from-any-device-with-chatgpt-everywhere/"><u>The Ultimate Way to Reach ChatGPT From Any Device with ChatGPT Everywhere</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/titans-of-tech-talk-blending-blizzards-magic-with-microsofts-machine-intelligence-interview/"><u>Titans of Tech Talk: Blending Blizzard's Magic with Microsoft's Machine Intelligence [Interview]</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-ai-prompt-crafting-and-assessing-its-viability-as-a-long-term-profession/"><u>Understanding AI Prompt Crafting and Assessing Its Viability as a Long-Term Profession</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-popularity-in-the-era-of-digital-companions/"><u>Understanding Popularity in the Era of Digital Companions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-the-professional-landscape-for-ai-interaction-experts/"><u>Understanding the Professional Landscape for AI Interaction Experts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-ai-understanding-the-ultimate-compendium-of-29-crucial-terms-explained/"><u>Unlocking AI Understanding: The Ultimate Compendium of 29 Crucial Terms Explained</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-imagination-a-guide-to-using-chatgpt-and-dall-e-for-dungeons-and-dragons-characters/"><u>Unlocking Imagination: A Guide to Using ChatGPT and DALL-E for Dungeons & Dragons Characters</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-linguistic-mastery-the-power-of-chatgpt-plus-in-your-language-learning-journey/"><u>Unlocking Linguistic Mastery: The Power of ChatGPT Plus in Your Language Learning Journey</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-new-opportunities-how-businesses-benefit-from-the-latest-chatgpt-and-whisper-api-integrations/"><u>Unlocking New Opportunities: How Businesses Benefit From the Latest ChatGPT & Whisper API Integrations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-future-the-anticipated-arrival-of-gpt-5-explained/"><u>Unveiling the Future: The Anticipated Arrival of GPT-5 Explained</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-latest-insights-into-apples-artificial-intelligence-announcements-at-wwdc-2024/"><u>Unveiling the Latest Insights Into Apple's Artificial Intelligence Announcements at WWDC 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-power-of-shapley-explanations-in-machine-learning-with-openais-shape/"><u>Unveiling the Power of Shapley Explanations in Machine Learning with OpenAI's ShapE</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-powerhouse-a-comprehensive-review-of-the-202-groovycompostsnew-seo-titles-for-apple-macbook-air-m1-chip-apple-m1-chip-inside-the-macbook-air-m22/"><u>Unveiling The Powerhouse: A Comprehensive Review Of The 202 groovy.com/posts/new-seo-titles-for-apple-macbook-air-m1-chip Apple M1 Chip Inside the MacBook Air (Mid-2020)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-top-5-innovative-tools-to-generate-advanced-ai-dialogue-starters/"><u>Unveiling the Top 5 Innovative Tools to Generate Advanced AI Dialogue Starters</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/weaving-tales-gpt-3-and-world-design/"><u>Weaving Tales: GPT-3 and World Design</u></a></li>
+</ul></div>

@@ -1,0 +1,171 @@
+---
+title: "Leveraging AI for Mass Graphic Creation: Combining Canva's Power with ChatGPT"
+date: 2024-08-15T22:03:43.341Z
+updated: 2024-08-16T22:03:43.341Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: "This Article Describes Leveraging AI for Mass Graphic Creation: Combining Canva's Power with ChatGPT"
+excerpt: "This Article Describes Leveraging AI for Mass Graphic Creation: Combining Canva's Power with ChatGPT"
+thumbnail: https://thmb.techidaily.com/3609177e3560fa8effb2d59f8677c6110107a707b47535bc397c5818cfbe880e.jpg
+---
+
+## Generate Captivating Tales with 4 Leading Artificebased Narrators - Worth a Spin
+
+ Whether you’re a professional screenwriter, a creative writing student, or just writing for fun, you’re probably familiar with the struggle of coming up with new ideas. Since many writers work alone, there’s no one to bounce ideas off of or help you workshop your characters.
+
+ Luckily, with advances in AI, there are now tools to help you do just that. Several AI story generators are available for people who feel stuck, blocked, or in need of inspiration. They can also assist with advancing your plot and rewriting rough material. Here are the best AI story writers you should try.
+
+## What Is an AI Story Writer?
+
+ Before we start examining the tools, here’s a quick explanation of what they are and how they normally work. You’ve probably already heard about[ChatGPT](https://www.makeuseof.com/how-to-use-chatgpt-by-openai/) , which people can also use for writing stories.
+
+ You can give the tool instructions, like “write a 500-word story about…” and it will generate a basic response. Then you can ask it to add things, rewrite, and so on.
+
+ AI writing stories tools work in a similar way, but they are more focused on the story aspect. They have more advanced features to optimize the tone, write for a specific scenario, or even help you develop characters.
+
+ A lot of AI story writers are not just for fiction writing.[AI can assist content writers](https://www.makeuseof.com/ways-to-use-ai-as-writer-editor/) and marketers who want to write website content, blog posts, social media posts, emails, and more. However, in this article, we’ll focus on the features related to fiction and AI script generators.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
+## 1\. Rytr
+
+![Rytr](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/rytr.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
+
+ If you’re a beginner fiction writer or looking for a new story AI generator on a budget, this one is for you.[Rytr](https://rytr.me/) doesn’t come with many bells and whistles, but it gets the job done.
+
+ It lets you pick from numerous tones, such as**awestruck** or**critical** , and can provide up to three variants. There are several use cases to help optimize the text, but for the fiction writer, the best one is the**Story Plot** .
+
+ Once you pick that, you can write your story idea, detail the characters, and provide the genre and details of sub-plots. The more precise you get, the better the results are.
+
+ After the AI story generator provides the first bit of text, you can play around with it. There are options to rewrite certain bits, expand them, continue writing, and more.
+
+ Besides this app, you should consider using[several creative writing apps](https://www.makeuseof.com/reasons-to-use-creative-writing-apps/) to improve your content quality.
+
+**Cost:** Free for 10,000 characters per month. $9 per month for 100,000 characters and $29 per month for unlimited use.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 2\. ShortlyAI
+
+![ShortlyAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/shortlyai.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
+
+[ShortlyAI](https://www.shortlyai.com/) is another tool without too many features. However, this one is focused on either blog posts or story writing, which makes it much more specialized.
+
+ To begin a story, you’ll need to pick**I’m writing a story** . Then, you can input your title and the first few words. The magic happens thanks to the**Story background** . That’s where you tell your AI about your characters, plot, genre, and tone in not more than 500 characters.
+
+ Once you pick the output length and press**Write for me,** you’ll get the first few paragraphs. To keep the story going, you’ll need to press the button. But you can change or add to the background with each press. You can also expand on different parts, shorten, or rewrite.
+
+ As this software looks like a regular Word document, it’s quite intuitive and easy to use. You can also go back to previous drafts and edit them.
+
+**Cost:** $79 per month for unlimited use. However, if you want to try it out, you can sign up without a credit card—and you get four clicks a day.
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 3\. DeepStory
+
+![DeepStoryAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/deepstoryai.jpg)
+
+ The next on the list,[DeepStory](https://deepstory.ai/) , is a specialized AI script generator. Not only will it help you get unstuck if you’re experiencing writer's block, but it also generates content in precise script form. This can be extremely useful if you are starting out in this field and still struggling with the structure.
+
+ You can start your own script from scratch, where the AI helps you add in dialogs, actions, character notes, and more. But the even better option for beginners is to use one of its samples. They have anything, from Lord of the Rings to Kill Bill and the Exorcist. It is an amazing educational tool.
+
+**Cost:** $12 per month, with a limit of 10,000 words. You can also try it out for free for 10 generations.
+
+## 4\. NovelAI
+
+![NovelAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/novelai.jpg)
+
+[NovelAI](https://novelai.net/) is one of the most complex AI story writers on the list. But it’s also one of the most exciting ones. The basic new story AI generator works somewhat similarly to the others. You start writing the first few words or sentences of the story, and let the AI continue.
+
+ However, the configuration options are endless. First, there is something called**Config Preset** . This determines the way the story is being told. There are presets better for poems; one focused on story development or coherence.
+
+ Then, if you really want to get into the small details of how this AI works, there are the advanced features. You can set the levels of randomness and repetition, or even make certain phrases less common.
+
+ But the most fun part of this software is the**Adventure Text Module** . With this feature, writing becomes almost like a game. Instead of just writing a prompt, you can instruct the software that the prompt is either**Do, Say, or Story** . It feels like a “build your own adventure” book, where everything is written in real-time.
+
+**Cost:** $10/$15/$25 per month. All of these give you unlimited text generations but offer other advanced and experimental features. You can try it for free for 100 text generations.
+
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## Leave the Writer’s Block Behind With These AI Story Generators
+
+ The main benefit of AI story generators is for people who feel like they’ve lost their creativity. If you feel like you keep coming back to the same ideas, these can definitely help you break out of old habits.
+
+ Since these AI story writers receive their information from thousands of different sources, they can come up with unexpected content. And if you don’t like it, you can always ask the AI to rewrite it until it comes up with something better.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-swipe-to-enhance-turning-videos-upside-down/"><u>[New] 2024 Approved  Swipe to Enhance  Turning Videos Upside Down</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-transform-your-online-reputation-and-increase-your-social-media-following/"><u>[New] In 2024, Transform Your Online Reputation and Increase Your Social Media Following</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-worlds-beyond-borders-best-10-mmo-adventures-for-free/"><u>[New] In 2024, Worlds Beyond Borders  Best 10 MMO Adventures for Free</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-quick-start-guide-recording-your-pcs-display-with-hp/"><u>[New] Quick Start Guide  Recording Your PC's Display with HP</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-audio-clarity-commandments-choosing-from-the-best-6-livestreaming-mics/"><u>[Updated] Audio Clarity Commandments  Choosing From the Best 6 Livestreaming Mics</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-expertly-selected-webcams-and-recording-software-in-win-10/"><u>[Updated] In 2024, Expertly Selected Webcams & Recording Software in Win 10</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-shoot-with-clarity-capture-immersive-experiences-9-essentials/"><u>2024 Approved  Shoot with Clarity, Capture Immersive Experiences (9 Essentials)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/deciding-audio-platforms-podcasts-or-youtube/"><u>Deciding Audio Platforms  Podcasts or YouTube?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-samsung-galaxy-xcover-7-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Samsung Galaxy XCover 7 to Protect Your Individual Information</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-xs-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone XS Data From iOS iTunes Backup? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-samsung-galaxy-xcover-6-pro-tactical-edition-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Samsung Galaxy XCover 6 Pro Tactical Edition by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-apples-new-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone SE, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/passfab-apple-iphone-15-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>PassFab Apple iPhone 15 Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/preventing-personal-data-breach-from-curated-chatgpts/"><u>Preventing Personal Data Breach From Curated ChatGPTs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-downloading-and-installing-auto-gpt-with-ease/"><u>Step-by-Step Guide: Downloading & Installing Auto-GPT with Ease</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tales-of-turing-strong-vs-subdued-ai/"><u>Tales of Turing: Strong Vs. Subdued AI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/techniques-to-curtail-ai-fictional-responses/"><u>Techniques to Curtail AI Fictional Responses</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-8-best-crypto-chatgpt-plugins/"><u>The 8 Best Crypto ChatGPT Plugins</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-quintessence-of-quick-growth-chatgpts-pivotal-points/"><u>The Quintessence of Quick Growth: ChatGPT’s Pivotal Points</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-science-behind-chatbot-dialogue-understanding-virtual-communication/"><u>The Science Behind Chatbot Dialogue: Understanding Virtual Communication</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-4-methods-of-ai-tool-oversight-by-governments/"><u>Top 4 Methods of AI Tool Oversight by Governments</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-7-revolutionary-ai-applications-for-mastering-mathematics/"><u>Top 7 Revolutionary AI Applications for Mastering Mathematics</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-unleashed-capabilities-of-chatgpt-maximizing-your-ai-experience/"><u>Top Unleashed Capabilities of ChatGPT: Maximizing Your AI Experience</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transform-your-web-design-projects-the-gpt-3-approach/"><u>Transform Your Web Design Projects: The GPT-3 Approach</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/truth-spoken-out-discrediting-windows-gpt-malware-myth/"><u>Truth Spoken Out: Discrediting Windows GPT Malware Myth</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-trojans-cybersecurity-essentials-for-protecting-your-digital-life/"><u>Understanding Trojans: Cybersecurity Essentials for Protecting Your Digital Life</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleashing-imagination-in-writing-through-chatgpt-learn-these-6-strategies/"><u>Unleashing Imagination in Writing Through ChatGPT: Learn These 6 Strategies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-career-potentials-with-these-6-reasons-to-learn-chatgpt/"><u>Unlock Career Potentials with These 6 Reasons to Learn ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-new-possibilities-mastery-of-chatgpt-wolfram-plugin-tactics/"><u>Unlock New Possibilities: Mastery of ChatGPT-Wolfram Plugin Tactics</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unraveling-the-mystery-gpt-4-gpt-4-turbo-and-gpt-a-comprehensive-side-by-side-comparison/"><u>Unraveling the Mystery: GPT-4, GPT-4 Turbo, and GPT-# - A Comprehensive Side-by-Side Comparison</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-better-of-two-giants-chatgpt-and-huggingchat-in-a-comparative-study/"><u>Unveiling the Better of Two Giants - ChatGPT and HuggingChat in a Comparative Study</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-critical-concerns-with-openais-chatgpt-platform/"><u>Unveiling the Critical Concerns with OpenAI’s ChatGPT Platform</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-twitters-new-checkmark-feature-in-depth-analysis-and-linus-tech-tips-security-breach-exposed/"><u>Unveiling Twitter's New 'Checkmark' Feature: In-Depth Analysis & Linus Tech Tips Security Breach Exposed!</u></a></li>
+</ul></div>

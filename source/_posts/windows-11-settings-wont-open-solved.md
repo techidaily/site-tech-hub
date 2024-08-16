@@ -1,7 +1,7 @@
 ---
 title: Windows 11 Settings Won't Open ? [Solved]
-date: 2024-08-13 14:35:19
-updated: 2024-08-16 10:41:37
+date: 2024-08-15T20:13:10.744Z
+updated: 2024-08-16T20:13:10.744Z
 tags:
   - win11
   - win10
@@ -32,6 +32,9 @@ Click the link below to get to your interested part:
 
  USB tethering has the fastest speed among the three ones. It requires a USB cable to connect your laptop with your phone. But at the same time, it makes your phone suck power from your laptop’s USB port instead of draining.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ## Is it free to use USB tethering?
 
  Whether it will cost your money or not, it depends on your carrier. In the US, most carriers do charge. You can**consult your carrier’s website** for further information.
@@ -51,10 +54,17 @@ It’s very easy to tether your phone on Windows 10, do these:
 **Note:**  You may also find the tethering option under the **Mobile Data**  or **Personal Hotspot**  sections based on different phones.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a78ef25f8dc.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 
  4) Tap to check **USB tethering** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a78f68dcbb1.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 
  5) If your Windows 10 is in a no wired and no wireless network place, it should then be used this network adapter automatically: **Remote NDIS based Internet Sharing Device** . It’s your USB tethering connection in the Windows 10.
 
@@ -71,6 +81,9 @@ It’s very easy to tether your phone on Windows 10, do these:
 1. [Update your USB tethering driver via Driver Easy automatically](https://tools.techidaily.com/drivereasy/download/) **[ \[RECOMMENDED\]](https://tools.techidaily.com/drivereasy/download/)**
 2. [Replace the driver with the built-in one on your Windows 10 manually](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1: Update your USB tethering driver via Driver Easy automatically
 
 **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  is a very helpful and credible driver tool. It will automatically recognize Windows 10 or any other version of Windows system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.
@@ -82,6 +95,9 @@ It’s very easy to tether your phone on Windows 10, do these:
  2) Run Driver Easy and click **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a8bea488065.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 
 3) Click the **Update**  button next to a flagged driver to automatically download and install the correct version of this driver (you can do this with the**FREE** version).
 
@@ -91,6 +107,9 @@ Or click **Update All**  to automatically download and install the correct versi
 
  4) Restart your laptop. Then check to see if you can access the Internet on your Windows 10 via USB tethering.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 2: Replace the driver with the built-in one on your Windows 10 manually
 
  1) On your keyboard, press**Windows logo key** **![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)**  and **X**  at the same time to invoke the quick access menu.
@@ -102,14 +121,24 @@ Or click **Update All**  to automatically download and install the correct versi
  3) Expand **Network adapters**  and right-click **Remote NDIS based Internet Sharing Device** . Then click **Update driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a79bee367fe.png)
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Click**Browse my computer for driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a79e6f2a6c1.png)
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 
  5) Click **Let me pick from a list of device drivers on my computer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a79fa25a97b.png)
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 
  6) Click the small box beside the **Show compatible hardware** . Note: It’s ticked on by default. When you click it, it will get blank.
 
@@ -122,6 +151,10 @@ Or click **Update All**  to automatically download and install the correct versi
  8) Click **Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a7e44842e31.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 
  Wait for a while, Microsoft will install the driver for you. Then you should see this screen
 
@@ -145,3 +178,39 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-16-best-kickstart-videos-on-youtube-for-visibility-boost-for-2024/"><u>[New] 16 Best Kickstart Videos on YouTube for Visibility Boost for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-effortless-android-sound-capture-4-non-root-methods/"><u>[New] 2024 Approved  Effortless Android Sound Capture  4 Non-Root Methods</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-essential-skills-for-efficient-teamsnap-photo-taking-for-2024/"><u>[New] Essential Skills for Efficient TeamSnap Photo Taking for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-unlisting-youtube-videos-a-guide-to-non-indexable-content/"><u>[New] In 2024, Unlisting YouTube Videos  A Guide to Non-Indexable Content</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-navigating-auto-captioned-content-in-social-media-visuals/"><u>[New] Navigating Auto-Captioned Content in Social Media Visuals</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-eradicating-youtube-content-in-a-device-friendly-way/"><u>[Updated] Eradicating YouTube Content in a Device-Friendly Way</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-stand-out-in-the-crowd-top-15-innovative-snapchat-posts/"><u>[Updated] Stand Out in the Crowd  Top 15 Innovative Snapchat Posts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-desktop-still-not-out-check-this-great-gratis-open-source-option-for-your-needs/"><u>ChatGPT Desktop Still Not Out? Check This Great, Gratis Open Source Option for Your Needs.</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-vs-bing-ai-chatbot-an-insightful-look-at-their-10-main-contrasts-and-variations/"><u>ChatGPT Vs. Bing AI Chatbot - An Insightful Look at Their 10 Main Contrasts and Variations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/context-upturn-how-gemini-15s-million-tokens-reshaped-market/"><u>Context Upturn: How Gemini 1.5'S Million Tokens Reshaped Market</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/create-a-local-free-gpt-version-for-your-system/"><u>Create a Local, Free GPT Version for Your System</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/creating-ai-artwork-with-chatgpt-your-ultimate-guide/"><u>Creating AI Artwork with ChatGPT: Your Ultimate Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/deciphering-the-pros-and-cons-of-local-language-models/"><u>Deciphering the Pros and Cons of Local Language Models</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/designing-mythic-universes-via-chatgpt/"><u>Designing Mythic Universes via ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/digital-deception-insight-on-new-twitter-scam-tactics-introduction-of-meta-verification-and-deep-dive-into-chatgpt-n-explanation/"><u>Digital Deception: Insight on New Twitter Scam Tactics, Introduction of Meta Verification & Deep Dive Into ChatGPT-N Explanation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discovering-the-power-of-chatgptaturized-command-tools-unlock-potential-with-customizable-features/"><u>Discovering the Power of ChatGPT'aturized Command Tools: Unlock Potential with Customizable Features</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-methods-to-cancel-and-clear-out-your-chatgpt-account/"><u>Easy Methods to Cancel and Clear Out Your ChatGPT Account</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effective-methods-for-advancing-your-chatgpt-interactions-learn-the-7-key-techniques/"><u>Effective Methods for Advancing Your ChatGPT Interactions – Learn the 7 Key Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-batch-design-production-using-canva-and-chatgpt-techniques/"><u>Effortless Batch Design Production Using Canva & ChatGPT Techniques</u></a></li>
+<li><a href="https://win-answers.techidaily.com/eliminate-lag-and-crashes-in-fifa-20-for-pc-a-detailed-guide-to-ensuring-smooth-gameplay/"><u>Eliminate Lag & Crashes in FIFA 20 for PC: A Detailed Guide to Ensuring Smooth Gameplay</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exclusive-gpodc-must-haves-for-2024/"><u>Exclusive GPodC Must-Haves for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/experience-cutting-edge-ai-search-on-the-go-with-bings-new-app-support-for-android-and-ios/"><u>Experience Cutting-Edge AI Search on the Go with Bing's New App Support for Android and iOS!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-new-horizons-with-chatgpt-enabling-beta-browsing-and-plugin-functions-for-an-upgraded-online-journey/"><u>Exploring New Horizons with ChatGPT: Enabling Beta Browsing and Plugin Functions for an Upgraded Online Journey</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/flavor-and-fitness-ai-powered-meal-prepping-tips/"><u>Flavor & Fitness: AI-Powered Meal Prepping Tips</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/hack-alert-activision-breach-exposed-are-chatgpt-infused-ai-taking-our-jobs/"><u>Hack Alert: Activision Breach Exposed, Are ChatGPT-Infused AI Taking Our Jobs?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-does-gpt-4-differ-from-its-cousins-a-deep-dive-into-gpt-4-vs-gpt-4-turbo-vs-gpt-4o/"><u>How Does GPT-4 Differ From Its Cousins? A Deep Dive Into GPT-4 Vs. GPT-4 Turbo Vs. GPT-4o</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/inside-googles-cutting-edge-initiative-the-gemini-ai-project-explained/"><u>Inside Google's Cutting-Edge Initiative: The Gemini AI Project Explained</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/installation-made-easy-running-gpt-on-windows/"><u>Installation Made Easy: Running GPT on Windows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-the-turing-test-outdated-5-turing-test-alternatives/"><u>Is the Turing Test Outdated? 5 Turing Test Alternatives</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-transform-your-content-with-the-best-3d-video-generators-for-2024/"><u>New Transform Your Content with the Best 3D Video Generators for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-unlock-fcp-x-advanced-chroma-keying-techniques-for-video-editors-for-2024/"><u>Updated Unlock FCP X Advanced Chroma Keying Techniques for Video Editors for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/virtual-venue-face-off-assessing-obs-and-twitch-studios-for-2024/"><u>Virtual Venue Face-Off  Assessing OBS & Twitch Studios for 2024</u></a></li>
+</ul></div>
