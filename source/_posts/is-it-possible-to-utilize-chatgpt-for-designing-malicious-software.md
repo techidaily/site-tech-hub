@@ -1,0 +1,162 @@
+---
+title: Is It Possible to Utilize ChatGPT for Designing Malicious Software?
+date: 2024-08-20T10:54:52.822Z
+updated: 2024-08-21T10:54:52.822Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: This Article Describes Is It Possible to Utilize ChatGPT for Designing Malicious Software?
+excerpt: This Article Describes Is It Possible to Utilize ChatGPT for Designing Malicious Software?
+thumbnail: https://thmb.techidaily.com/6a8b7b3cdb25a03e07ba1819bb3940ce3cb079bf3680cebd2f9e48a956c136d3.jpg
+---
+
+## Waiting for ChatGPT's Desktop Version Is Tough – Here’s a Great, Free Software Replacement
+
+### Quick Links
+
+* [What Is the Open-Source ChatGPT Desktop Application?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#what-is-the-open-source-chatgpt-desktop-application)
+* [How to Install and Configure ChatGPT Desktop Application](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#how-to-install-and-configure-chatgpt-desktop-application)
+* [When Is the Official ChatGPT Desktop Version Launching?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#when-is-the-official-chatgpt-desktop-version-launching)
+
+### Key Takeaways
+
+* OpenAI is releasing a ChatGPT desktop version, starting with macOS and later for Windows.
+* However, an open-source ChatGPT desktop version is available as an alternative.
+* The official version is slowly rolling out to users, but it's a slow process.
+
+ As part of its massive 2024 Spring Update, OpenAI revealed that a long-awaited ChatGPT desktop version was incoming.
+
+ Starting with macOS, OpenAI is officially bringing ChatGPT to desktops, with Windows support coming later.
+
+ But if you can't wait—like me!—you can try a free, open-source version instead.
+
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## What Is the Open-Source ChatGPT Desktop Application?
+
+ ChatGPT users have long wanted a desktop version. The world's leading generative AI chatbot works great in a browser, but sometimes, a desktop app is more convenient.
+
+[OpenAI's Spring Update launched GPT-4o](https://www.makeuseof.com/how-gpt-4o-works-is-it-free/) among a host of[other shiny new ChatGPT features](https://www.makeuseof.com/chatgpt-new-features-spring-update/) , wowing the world with its new capabilities.
+
+ The long-awaited desktop version was one of them—but intrepid ChatGPT users need to wait a little longer.
+
+ Developer[Lencx's open source ChatGPT](https://github.com/lencx/ChatGPT) gives you the option to try a desktop version right now, without waiting. It's a website wrapper that runs on Windows, macOS, and Linux, so it's a little basic, but it replicates the functionality of the website, and does a really good job, too.
+
+![chatgpt open source desktop version login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-login.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
+ The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## How to Install and Configure ChatGPT Desktop Application
+
+![chatgpt open source desktop version home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-home-page.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+1. Head to the open-source[ChatGPT Desktop Application download page](https://github.com/lencx/ChatGPT/releases/tag/v1.1.0) . The latest version at the time of writing is V1.1.0, but you can check for a newer version.
+2. Download the applicable version for your operating system, then install it as per your operating system.
+3. Launch the ChatGPT Desktop Application.
+
+ Then, just sign in to ChatGPT as you usually would. All of your previous chats will be waiting for you, and you can choose from GPT-4, GPT-4o, DALL-E, and so on.
+
+![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## When Is the Official ChatGPT Desktop Version Launching?
+
+ The official ChatGPT Desktop app is already slowly rolling out to macOS users.
+
+ As with many of OpenAI's major updates, it takes time to filter through to the majority, and a Windows version will take longer still.
+
+ Still, if you can't wait, you can give this open-source ChatGPT desktop version a try instead.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-best-6-mac-video-snaggers-compiled-here/"><u>[New] 2024 Approved  Best 6 Mac Video Snaggers Compiled Here</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-silent-snaptaking-the-art-of-concealed-picture-recording/"><u>[New] In 2024, Silent SnapTaking  The Art of Concealed Picture Recording</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-securing-quality-streams-the-best-of-the-best-18-webcams/"><u>[New] Securing Quality Streams  The Best of the Best 18 Webcams</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-showcase-a-dialogue-in-one-instagram-post/"><u>[New] Showcase a Dialogue in One Instagram Post</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-curator-of-tweets-premium-compilation-toolkit/"><u>[Updated] 2024 Approved  Curator of Tweets - Premium Compilation Toolkit</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-gamers-almanac-expert-tips-to-record-and-save-your-minecraft-sessions-for-2024/"><u>[Updated] Gamer's Almanac  Expert Tips to Record and Save Your Minecraft Sessions for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-unbeatable-11-audio-devices-reviewed-here/"><u>[Updated] In 2024, Unbeatable 11 Audio Devices Reviewed Here</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-mycam-reviewed-does-it-deliver-on-performance-promises-in-2024/"><u>[Updated] MyCam Reviewed  Does It Deliver on Performance Promises, In 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-discover-key-methods-to-store-discord-livestream-videos-efficiently/"><u>2024 Approved  Discover Key Methods to Store Discord Livestream Videos Efficiently</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pro-3-the-new-standard-for-action-video-recording-by-ion/"><u>2024 Approved  Pro 3 - The New Standard for Action Video Recording by ION</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/android-friendly-guide-to-bings-ai-chatting-capabilities/"><u>Android-Friendly Guide to Bing's AI Chatting Capabilities</u></a></li>
+<li><a href="https://driver-install.techidaily.com/audio-performance-leap-nvidia-update-for-win7/"><u>Audio Performance Leap: Nvidia Update for Win7</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beginner-friendly-tutorial-for-integrating-microsoft-copilot-into-your-mac-experience/"><u>Beginner-Friendly Tutorial for Integrating Microsoft Copilot Into Your Mac Experience</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/best-artificial-intelligence-systems-enhancing-web-search/"><u>Best Artificial Intelligence Systems Enhancing Web Search</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/best-results-from-bot-brains-evaluating-the-top-performers-on-an-identical-challenge/"><u>Best Results From Bot Brains: Evaluating the Top Performers on an Identical Challenge</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boost-productivity-with-a-simple-chrome-extension-for-easy-chatgpt-prompts/"><u>Boost Productivity with a Simple Chrome Extension for Easy ChatGPT Prompts</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/budget-friendly-caixun-75-inch-4k-android-tv-comprehensive-review-and-analysis/"><u>Budget-Friendly Caixun 75 Inch 4K Android TV: Comprehensive Review and Analysis</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-chatgpts-joke-crafting-skills-truly-elicit-genuine-laughter/"><u>Can ChatGPT's Joke-Crafting Skills Truly Elicit Genuine Laughter?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-mastery-6-effective-techniques-for-freelancers-and-remote-professionals/"><u>ChatGPT Mastery: 6 Effective Techniques for Freelancers and Remote Professionals</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chrome-add-on-dupes-facebook-login-credentials-is-it-secure/"><u>Chrome Add-On Dupes Facebook Login Credentials - Is It Secure?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/claudes-clash-with-chatgpt-who-has-the-edge/"><u>Claude's Clash with ChatGPT: Who Has The Edge?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparing-top-ai-chatbots-chatgpt-plus-vs-perplexity-which-wins/"><u>Comparing Top AI Chatbots: ChatGPT Plus Vs. Perplexity – Which Wins?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/crafting-rules-for-ais-code/"><u>Crafting Rules for AI's Code</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/editors-compendium-top-devices-transforming-media-projects-for-2024/"><u>Editor's Compendium  Top Devices Transforming Media Projects for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effective-strategies-utilizing-chatgpt-for-personalized-car-customization-tips/"><u>Effective Strategies: Utilizing ChatGPT for Personalized Car Customization Tips</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-every-aspect-of-existence-with-chatgpt/"><u>Elevate Every Aspect of Existence with ChatGPT</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/essential-drivers-free-hp-spectre-x360-installation-files-compatible-with-windows/"><u>Essential Drivers: Free HP Spectre X360 Installation Files Compatible with Windows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/essential-tips-for-launching-your-career-in-natural-language-understanding-and-prompt-design/"><u>Essential Tips for Launching Your Career in Natural Language Understanding and Prompt Design</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/evolution-of-online-search-discover-whats-new-with-microsofts-artificam-intelligence-on-bing/"><u>Evolution of Online Search: Discover What’s New with Microsoft’s Artificam Intelligence on Bing</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/explore-these-best-5-iphone-podcast-platforms-now/"><u>Explore These Best 5 iPhone Podcast Platforms Now</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-post-chatgpt-era-the-next-frontier-in-generative-ai-and-conversational-agents/"><u>Exploring Post-ChatGPT Era: The Next Frontier in Generative AI & Conversational Agents</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-solo-efficacy-of-auto-gpt/"><u>Exploring the Solo Efficacy of Auto-GPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-use-chatgpt-for-3d-printing/"><u>How to Use ChatGPT for 3D Printing</u></a></li>
+<li><a href="https://facebook.techidaily.com/improving-loading-performance-of-facebook-alertsposts/"><u>Improving Loading Performance of Facebook Alerts/Posts</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-6-drfone-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-basic-tips-how-to-record-and-save-google-voice-calls/"><u>In 2024, Basic Tips  How to Record and Save Google Voice Calls</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-discovering-the-best-webcams-for-smart-investment/"><u>In 2024, Discovering the Best Webcams for Smart Investment</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-expert-techniques-for-professionalizing-mobile-based-youtube-thumbnails/"><u>In 2024, Expert Techniques for Professionalizing Mobile-Based YouTube Thumbnails</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-laughmaker-quick-meme-and-image-crafter/"><u>In 2024, LaughMaker  Quick Meme & Image Crafter</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/install-updated-drivers-for-your-tp-link-ub400-bluetooth-stick-today/"><u>Install Updated Drivers for Your TP-Link UB400 Bluetooth Stick Today</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/manage-your-chatgpt-experience-top-4-tools-for-saving-and-sharing-conversations/"><u>Manage Your ChatGPT Experience: Top 4 Tools for Saving & Sharing Conversations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-craft-integrating-gpt-my-bots-into-hobbies-and-artistry/"><u>Mastering the Craft: Integrating GPT-My Bots Into Hobbies and Artistry</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/online-title-mastery-techniques-you-cant-ignore-for-2024/"><u>Online Title Mastery  Techniques You Can't Ignore for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-samsung-galaxy-s24-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Samsung Galaxy S24</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/simple-chatgpt-versus-browsing-enhanced-gpt-functions/"><u>Simple ChatGPT Versus Browsing-Enhanced GPT Functions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/taming-data-management-how-chatgpt-can-revolutionize-your-excel-workflows/"><u>Taming Data Management: How ChatGPT Can Revolutionize Your Excel Workflows</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/tapping-into-igtvs-potential-a-hashtag-guide-to-growth/"><u>Tapping Into IGTV's Potential  A Hashtag Guide to Growth</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-digital-debate-chatgpt-versus-bings-bot-dialogues/"><u>The Digital Debate: ChatGPT Versus Bing's Bot Dialogues</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-insiders-guide-to-using-gptzero-for-detecting-machine-created-text/"><u>The Insider's Guide to Using GPTZero for Detecting Machine-Created Text</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/to-hire-or-not-to-hire-a-local-llm-understanding-potential-outcomes-for-your-case/"><u>To Hire or Not to Hire a Local LL.M.: Understanding Potential Outcomes for Your Case</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/token-triumph-geminis-1m-impact-shifted/"><u>Token Triumph: Gemini’s $1M Impact Shifted</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-samsung-galaxy-a34-5g-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Samsung Galaxy A34 5G Phone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-ai-evolutions-how-does-gpt-4-turbo-stack-up-against-the-standard-and-gpt-n/"><u>Understanding AI Evolutions: How Does GPT-4 Turbo Stack Up Against the Standard and GPT-N?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/understanding-livestream-technology-explained-for-2024/"><u>Understanding Livestream Technology Explained for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-vector-databases-enhancing-artificial-intelligence-capabilities/"><u>Understanding Vector Databases: Enhancing Artificial Intelligence Capabilities</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-latest-twists-new-twitter-scheme-exposed-and-innovative-meta-verification-rollout/"><u>Unveiling the Latest Twists: New Twitter Scheme Exposed & Innovative Meta Verification Rollout</u></a></li>
+</ul></div>
