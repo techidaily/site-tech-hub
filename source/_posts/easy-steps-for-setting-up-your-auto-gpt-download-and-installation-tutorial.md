@@ -1,0 +1,221 @@
+---
+title: "Easy Steps for Setting Up Your Auto-GPT: Download & Installation Tutorial"
+date: 2024-08-24T11:26:58.794Z
+updated: 2024-08-25T11:26:58.794Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: "This Article Describes Easy Steps for Setting Up Your Auto-GPT: Download & Installation Tutorial"
+excerpt: "This Article Describes Easy Steps for Setting Up Your Auto-GPT: Download & Installation Tutorial"
+thumbnail: https://thmb.techidaily.com/76af2589a0e801a6b3434a05625504e9a24382860270c85ff4fd48c9e5e5afe1.png
+---
+
+## Effortless Auto-GPT Installation - Follow These Steps
+
+ With the explosion of ChatGPT, many people were impressed by the power and utility of OpenAI's GPT technology. This sparked the idea of making an automatic ChatGPT that answers and generates its prompts to achieve a specific goal, an idea that evolved into Auto-GPT.
+
+ Since Auto-GPT is still under development, you'll only be able to access Auto-GPT just how a developer would—which may require a bit of technical know-how.
+
+ To make things easier for you, here is a step-by-step guide on how to download and install Auto-GPT.
+
+## Step 1: Download Python and AutoGPT
+
+ Despite what you may have read elsewhere, installing Auto-GPT is pretty straightforward.
+
+ Let's begin by manually downloading the latest version of Python 3 and the Auto-GPT executable from GitHub. You'll first want to download and install Python 3 since your PC will need it to read and execute files within Auto-GPT.
+
+**Download:** [Python 3](https://www.python.org/downloads/) (Free)
+
+ Once downloaded, double-click on the file to install Python. Make sure to tick the box for**Add python.exe to PATH** . This will enable your PC to use Python anywhere in your PC. After that, go ahead and click**Install Now** .
+
+![A tab showing a tab to install Python ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2-install-python.jpg)
+
+After Installing Python, you can download Auto-GPT from GitHub.
+
+**Download** :[Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT/releases/tag/v0.4.7) (Free)
+
+**Source code.zip** is for Windows, while**Source code.tar.gz** is for Linux and MacOS. First, download the file for your operating system, then copy the folder and paste it into your desired location.
+
+## Step 2: Configure Auto-GPT
+
+ Since AutoGPT uses OpenAI's GPT model, you must generate an API key from OpenAI to act as your credential to use their product.
+
+ Keep in mind that your account on ChatGPT is different from an OpenAI account. You must[register for an OpenAI account](https://openai.com/blog/openai-api) to access an OpenAI API. Now:
+
+1. After registration and login, click on**Personal** in the top right corner of the website and select**View API keys** . This will send you to the[OpenAI API keys management](https://platform.openai.com/account/api-keys) , where you can manage your API keys.
+2. To create a key, click**Create new secret key** , input a name, then click**Create secret key** . You can then copy the API key by using**CTRL + C** or clicking the copy icon on the right.  
+![Create API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/7-create-test-key.jpg)
+3. Now you have your API key, go to your Auto-GPT folder and open the**.env** file using Notepad.  
+![Open env with Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/6-open-env.jpg)
+4. Once opened, scroll down to the**LLM PROVIDER** section. There you will see OPENAI\_API\_KEY. Replace the placeholder with the API key you've just copied, then save the file.  
+![Set API as environment variable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/wrwe.jpg)
+
+ This file is where all your service credentials are placed, so if you want to use a[backend vector database to boost AI](https://www.makeuseof.com/what-is-a-vector-database/) , you can set your product API keys here. But if you only want to use AutoGPT, the OpenAI API key should be enough.
+
+## Step 3: Install Auto-GPT Dependencies
+
+ Now that you have configured Auto-GPT, it's time to install its dependencies through a terminal.
+
+1. To open a terminal in the Auto-GPT environment, right-click on the Auto-GPT folder, then select**Open in Terminal** .
+2. To install all the requirements needed for Auto-GPT to work, use the command:  
+pip install -r requirements.txt
+3. Once you press enter, your terminal will download and install all the required dependencies.  
+![Pip install requirements](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/3-4.jpg)
+4. After installation, try opening Auto-GPT using:  
+python -m autogpt  
+![AutoGPT installation success](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
+Congratulations! You have successfully Installed Auto-GPT.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## How to Use Auto-GPT
+
+ Now that you have successfully installed Auto-GPT on your computer let's discuss how to use Auto-GPT.
+
+ When you first open Auto-GPT, you'll be given two options: Manual or Automatic mode. Automatic mode is the default mode where you'll only need to input what you want to be achieved. In this mode, AutoGPT will automatically assign the name of your AI assistant, its role, and its goals. Use this mode if you're not particularly knowledgeable about the process of achieving your goal.
+
+ But if you are knowledgeable, we suggest you use the Manual mode. This ensures that your goals are properly detailed, which makes the output more likely to mirror your expectations. To activate this mode, use the command:
+
+--manual
+
+ After setting AutoGPT on Manual mode, it will ask you to name your AI assistant, then assign its role and five goals the AI should follow.
+
+ You can input any name you want. It doesn't affect Auto-GPT performance (as far as we know). After giving a name, try providing a clear and concise role, as this will set the AI's role.
+
+ Although you don't need to fill all five goals, it is still recommended that you do, as this will likely affect the efficiency of your AI.
+
+![Creating Recipe-Generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/recipe-generator.jpg)
+
+ In this example, we have named our AI assistant "Recipe-Generator." Its role is to make a recipe based on the top five ingredients readily available in the US. We've set the first three goals as parameters on what we expect the recipe will be and set the last two to tell Auto-GPT to save the file as TXT, then shutdown.
+
+![Running Recipe-Generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2-recipe-generator-thinking.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Once you give your last goal, you can hit enter for Auto-GPT to run.
+
+ While running, you can see the AI's thoughts, reasoning, plan, and criticism. For every action of the AI assistant, you will be asked to authorize its plan to execute. You can do so by typing "y" as yes.
+
+ If you want the AI to continue a number of times without asking you for authorization, you can type "y -(number actions authorized)." For example, if you want your AI assistant to continue executing the following five steps, you can type "y -5" and hit enter.
+
+ One advantage of Auto-GPT over ChatGPT is that it is free to probe through the internet. As you can see here, our Recipe-Generator assistant downloads a file.
+
+![AutoGPT downloading file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3-recipe-generator.jpg)
+
+ This makes this[AI potentially dangerous](https://www.makeuseof.com/what-is-ai-what-dangers-does-artificial-intelligence-pose/) ; that's why Auto-GPT always asks you for authorization before executing plans. Always read and understand your AI assistant's thoughts, reasoning, and plan before authorizing its actions.
+
+ After every action of the AI, you can also provide your feedback to help the AI with its task.
+
+![Providing human input](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/4-recipe-generator-human-interaction.jpg)
+
+ In this screenshot, our AI assistant has looped through the same step three times. So, we tell the AI to skip browsing for recipes and start creating the output.
+
+After making the recipe, our AI has now completed its task.
+
+![Shutting down Auto-GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/6-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ To view the output, go to your Auto-GPT folder and**open auto-gpt-workspace** .
+
+![Viewing-AutoGPT-Output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/7-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
+ Success! Our AI assistant has given us a recipe for a chicken pot pie casserole.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
+## Auto-GPT Limitations
+
+ Although Auto-GPT's automation works, it's still quite limited. Through a series of testing, we discovered that Auto-GPT couldn't handle anything complex. Most of the time, it continued looping around the same thought and reasoning. Although you can keep providing helpful prompts, it feels more like ChatGPT stuck in a loop instead of the autonomous assistant it is meant to be.
+
+ Many of these loopings are caused by an endless cycle of generating prompts for a problem, querying the internet about the problem, identifying what is true from false, then trying to solve the problem with the information gathered.
+
+ The problem with Generative Pre-trained Models is that they are expected to hallucinate occasionally ([AI hallucination refers to an AI tool outputting false information](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/) but presenting it as fact). If the GPT model hallucinates, Auto-GPT will likely continue looping as it looks to solve problems generated from false info. The more complex the problem is, the more likely that Auto-GPT and similar programs will get stuck in this loop.
+
+ Other problems that contribute to Auto-GPT getting stuck are the model struggling to handle or navigate website advertising and cookies, login pages, and all kinds of pop-ups (the stuff humans hate, too!).
+
+ Using GPT-4 will noticeably reduce hallucinations and improve overall performance. However, its context size is still limited to 8,000 tokens. After reaching the 8k-token mark, GPT-4 will start losing context starting from the beginning of the task, affecting results. Furthermore, using GPT-4 is several times pricier than GPT-3.5 ([each GPT token has a cost](https://www.makeuseof.com/what-is-chatgpt-token-limit-can-you-exceed-it/) ). You'll want to set limits through your API account.
+
+## The Future of Auto-GPT
+
+ Ever since the start of August 2023, the Auto-GPT GitHub project has continuously gained support gaining over 140,000 GitHub Starts. Developments and updates don't seem to be slowing down. Future developments are expected to provide more functionalities, bug fixes, and improved stability in conjunction with the release of GPT-4 and its 32K model.
+
+ With that said, Auto-GPT is still in its early development stage, and GPT-4 is still on its 8k model. As for now, Auto-GPT should not be used as a tool for any professional or business applications. Anyone using it should only be for the purpose of learning and experimentation.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-music-for-instagram-videos-here-is-all-you-need-to-know-for-2024/"><u>[New] Music for Instagram Videos - Here Is All You Need to Know for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-buzzing-beats-essential-background-scores-for-viral-video-shorts/"><u>[Updated] 2024 Approved  Buzzing Beats  Essential Background Scores for Viral Video Shorts</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-delving-into-the-strengths-of-yuneecs-typhoon-h-drone/"><u>[Updated] Delving Into the Strengths of Yuneec's Typhoon H Drone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-obs-vs-streamlabs-for-2024/"><u>[Updated] OBS vs Streamlabs for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-playing-halted-a6400-video-viewing-woes-for-2024/"><u>[Updated] Playing Halted  A6400 Video Viewing Woes for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-art-of-adding-podcasts-in-instagram-stories/"><u>2024 Approved  The Art of Adding Podcasts in Instagram Stories</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-realme-12-pro-5g-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Realme 12 Pro 5G Fingerprint Lock</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beyond-syntax-understanding-gptbots-impact-and-site-restrictions/"><u>Beyond Syntax: Understanding GPTBot's Impact and Site Restrictions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-for-productivity-navigating-through-4-time-strategies/"><u>ChatGPT for Productivity: Navigating Through 4 Time Strategies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-versus-google-bard-an-in-depth-review-of-their-capabilities/"><u>ChatGPT Versus Google Bard: An In-Depth Review of Their Capabilities</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/culinary-expertise-boosted-by-7-chatgpt-features/"><u>Culinary Expertise Boosted by 7 ChatGPT Features</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/delve-into-the-world-of-chatgpt-enterprise-services-differences-and-more/"><u>Delve Into the World of ChatGPT Enterprise – Services, Differences & More</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-ultimate-7-ai-software-solutions-for-tackling-math-challenges/"><u>Discover the Ultimate 7 AI Software Solutions for Tackling Math Challenges</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/excel-mastery-discover-the-three-key-benefits-of-integrating-chabtgpt-into-your-spreadsheets/"><u>Excel Mastery: Discover the Three Key Benefits of Integrating ChabTGPT Into Your Spreadsheets</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-cybersecurity-implications-for-chatgpt/"><u>Exploring Cybersecurity Implications for ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-distinctions-gpt-4-vs-gpt-4-turbo-vs-phi/"><u>Exploring the Distinctions: GPT-4 Vs. GPT-4 Turbo Vs. Phi</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/forefront-ai-explained-is-it-superior-to-chatgpt/"><u>Forefront AI Explained – Is It Superior to ChatGPT?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/free-entry-into-the-world-of-ai-5-strategies-for-gpt-4-use/"><u>Free Entry Into the World of AI: 5 Strategies for GPT-4 Use</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-important-is-it-to-be-cordial-when-engaging-with-ai-services-like-microsofts-chatgpt-alexa-or-apples-siri/"><u>How Important Is It to Be Cordial When Engaging with AI Services Like Microsoft's ChatGPT, Alexa, or Apple’s Siri?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-learning-chatgpt-can-advance-your-professional-journey-6-key-reasons/"><u>How Learning ChatGPT Can Advance Your Professional Journey: 6 Key Reasons</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-use-chatgpt-and-dall-e-to-create-characters-for-dungeons-and-dragons/"><u>How to Use ChatGPT and DALL-E to Create Characters for Dungeons & Dragons</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-itel-p40-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Itel P40 to New Android? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-iphone-xs-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking iPhone XS Passcode without a Computer</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/initiate-low-cost-windows-ai-simulation-via-gpt4all/"><u>Initiate Low-Cost Windows AI Simulation via GPT4All</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leading-conversations-in-gpt-and-crypto-space/"><u>Leading Conversations in GPT & Crypto Space</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leading-edge-ai-hardware-tech-the-futures-five-titans/"><u>Leading-Edge AI Hardware Tech: The Future's Five Titans</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leveraging-chatgpts-power-building-effective-web-applications-easily/"><u>Leveraging ChatGPT's Power: Building Effective Web Applications Easily</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/local-llm-weighing-the-benefits-vs-drawbacks-is-it-right-for-your-business/"><u>Local LLM: Weighing the Benefits vs Drawbacks - Is It Right for Your Business?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximize-productivity-on-the-go-how-to-implement-chatgpt-into-your-iphone-or-ipad-experience/"><u>Maximize Productivity on the Go: How to Implement ChatGPT Into Your iPhone or iPad Experience</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/multilingual-mastery-unlocking-the-potential-of-chatgpt-across-different-languages/"><u>Multilingual Mastery: Unlocking the Potential of ChatGPT Across Different Languages</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-create-stunning-slow-mo-videos-with-windows-live-movie-maker-updated-2023/"><u>New Create Stunning Slow-Mo Videos with Windows Live Movie Maker Updated 2023</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/quoras-secret-key-to-connecting-with-llms-and-chatbots-efficiently/"><u>Quora's Secret Key to Connecting with LLMs and Chatbots Efficiently</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/the-most-efficient-tools-to-convert-text-to-mp3-with-the-best-natural-voices/"><u>The Most Efficient Tools to Convert Text to MP3 With the Best Natural Voices</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-path-to-a-freed-chatgpt-pc/"><u>The Ultimate Path to a Freed ChatGPT PC</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-five-aspects-to-assess-prior-to-integrating-chatgpt-into-mental-wellness-care/"><u>Top Five Aspects to Assess Prior to Integrating ChatGPT Into Mental Wellness Care</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-six-strategies-for-leveraging-chatgpt-in-crafting-engaging-video-game-narratives/"><u>Top Six Strategies for Leveraging ChatGPT in Crafting Engaging Video Game Narratives</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transforming-replies-with-ai-merging-gpt-3-and-whatsapp-help/"><u>Transforming Replies with AI: Merging GPT-3 and WhatsApp Help</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-chatgpt-plus-advantages-and-disadvantages-revealed/"><u>Understanding ChatGPT Plus: Advantages and Disadvantages Revealed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleash-your-creativity-with-chatgpt-6-innovative-strategies-for-writing/"><u>Unleash Your Creativity with ChatGPT: 6 Innovative Strategies for Writing</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/unveil-the-quickest-ways-to-transform-your-game-characters-speech-in-pubg-for-2024/"><u>Unveil the Quickest Ways to Transform Your Game Characters' Speech in PUBG for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/upgrade-procedure-for-laptop-improved-graphics/"><u>Upgrade Procedure for Laptop Improved Graphics</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/websites-reimagined-through-ai-the-evolutionary-influence-of-cognitive-technologies-on-search-engine-optimization/"><u>Websites Reimagined Through AI: The Evolutionary Influence of Cognitive Technologies on Search Engine Optimization</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Honor Magic 6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/what-sets-auto-gpt-apart-from-chatgpt-discover-the-distinctive-aspects/"><u>What Sets Auto-GPT Apart From ChatGPT? Discover the Distinctive Aspects</u></a></li>
+</ul></div>
