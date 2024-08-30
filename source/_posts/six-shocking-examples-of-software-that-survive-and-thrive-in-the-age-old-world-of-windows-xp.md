@@ -1,7 +1,7 @@
 ---
 title: Six Shocking Examples of Software That Survive and Thrive in the Age-Old World of Windows XP!
-date: 2024-08-26 13:26:51
-updated: 2024-08-29 12:11:26
+date: 2024-08-29T01:12:48.300Z
+updated: 2024-08-30T01:12:48.300Z
 tags:
   - deals
 categories:
@@ -31,22 +31,34 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![A girl lies on an MRI machine before examining her body and the radiologist gives command to her to prepare for a diagnosis](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-girl-lies-on-an-mri-machine-before-examining-her-body-and-the-radiologist-gives-command-to-her-to-prepare-for-a-diagnosis.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 [guys\_who\_shoot / Shutterstock.com](https://www.shutterstock.com/image-photo/girl-lies-on-mri-machine-before-2386190239)
 
  While plenty of medical lab and diagnostic equipment runs [some flavor of Linux](https://extra-tips.techidaily.com/a-filmmakers-handbook-mastering-close-up-videography/), lots of gadgets in your hospital are likely [still running Windows XP](https://www.cnet.com/health/medical/hospital-devices-exposed-to-hacking-with-unsupported-operating-systems/). Most of these are probably not networked, and just spit out prints of some sort for a specialist to look at, but it does raise some questions about personal data safety, since someone getting direct access to these systems could compromise them.
 
  Like other large bureaucracies, hospitals take a long time to upgrade or replace equipment. Budgets are tight, and there's always some sort of emergency, so I can totally understand why a perfectly working MRI machine or blood testing system in the lab would be far down the list of things to spend money on.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3  POS Systems 
 
 ![Stylish bearded smiling waiter dressed black uniform processing customer orders using point of sale order terminal system touch screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/stylish-bearded-smiling-waiter-dressed-black-uniform-processing-customer-orders-using-point-of-sale-order-terminal-system-touch-screen.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Soloviova Liudmyla / Shutterstock.com](https://www.shutterstock.com/image-photo/stylish-bearded-smiling-waiter-dressed-black-2389207939)
 
  Point-Of-Sale or POS systems are used to manage sales in a business. It's the software that runs on the computer the cashier uses to ring up your purchases. This is another type of device you probably encounter that has a good chance of still running Windows XP.
 
  It's more likely to be the case in a small business, where there's no reason to upgrade and the cost of a new POS system is a big deal, but don't be surprised if some larger outlets are still stuck using this older OS, since the cost and complexity of replacing something that still works is hard to justify in many cases.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4  Industrial Control Systems 
 
 ![car production plant. People work on assembling line. Young woman in focus only.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/car-production-plant-people-work-on-assembling-line-young-woman-in-focus-only.jpg) 
@@ -59,10 +71,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  This is why it was necessary to sneak USB drives into facilities to infect them with [malware like Stuxnet](https://youtube-video-recordings.techidaily.com/advanced-editing-for-published-youtube-videos/). This is a practice known as "air-gapping" and if your system doesn't need to be online, it shouldn be seen as a basic security measure.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ## 5  Public Transport 
 
 ![Young smiling woman holding onto a handle while traveling by public bus.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/young-smiling-woman-holding-onto-a-handle-while-traveling-by-public-bus.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 Drazen Zigic / Shutterstock.com
 
  You've probably spotted a trend here, but public transport is another massive, entrenched system that's hard to upgrade or halt. In 2019, for example, the fare kiosks in Boston were [still running on Windows XP](https://patch.com/massachusetts/salem/mbta-fare-kiosks-are-hackable-report) and I can't find any subsequent announcements that this has changed. At the time, a spokesperson for the transport authority explained that there was no security issue in their eyes simply because the kiosks run on a closed network, but, of course, that still leaves physical access as one avenue for hackers.
@@ -93,3 +111,38 @@ Drazen Zigic / Shutterstock.com
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-seamless-file-access-top-windows-and-mac-strategies-for-downloading-igtv/"><u>[Updated] 2024 Approved  Seamless File Access  Top Windows & Mac Strategies for Downloading IGTV</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-best-cameras-for-face-viewing-easy-access/"><u>[Updated] Best Cameras for Face Viewing  Easy Access</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-tangoing-turquoise-toucan/"><u>[Updated] Tangoing Turquoise Toucan</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-showdown-determining-the-top-choice-between-chatgpt-microsoft-bings-intelligence-and-google-bard/"><u>AI Showdown: Determining the Top Choice Between ChatGPT, Microsoft Bing's Intelligence, and Google Bard</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boost-your-coding-skills-merging-chatgpt-functionality-in-vs-code/"><u>Boost Your Coding Skills: Merging ChatGPT Functionality in VS Code</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-user-input-influence-the-evolution-of-chatgpts-ai-responses/"><u>Can User Input Influence the Evolution of ChatGPT's AI Responses?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-vs-google-bard-which-advanced-language-model-reigns-supreme/"><u>ChatGPT Vs. Google Bard – Which Advanced Language Model Reigns Supreme?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-powered-podcast-narrative-crafting/"><u>ChatGPT-Powered Podcast Narrative Crafting</u></a></li>
+<li><a href="https://extra-information.techidaily.com/discovering-why-your-social-media-feed-freezes-and-how-to-fix-it/"><u>Discovering Why Your Social Media Feed Freezes and How to Fix It</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/dissecting-the-inflexible-nature-of-chatgpt/"><u>Dissecting the Inflexible Nature of ChatGPT</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-the-latest-hp-deskjet-2755e-driver-software-compatible-with-windows-devices/"><u>Download the Latest HP Deskjet 2755E Driver Software Compatible with Windows Devices</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancing-your-digital-dialogue-5-best-chatgpt-instructions/"><u>Enhancing Your Digital Dialogue: 5 Best ChatGPT Instructions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/experience-unparalleled-performance-with-the-groundbreaking-atomman-g7-pt-the-original-tiny-amd-advantage-mini-pc/"><u>Experience Unparalleled Performance with the Groundbreaking AtomMan G7 Pt: The Original Tiny AMD Advantage Mini PC</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/explore-and-master-russian-alphabet-speech/"><u>Explore & Master Russian Alphabet Speech</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/guide-to-flourishing-freeconversations-windows-edition/"><u>Guide to Flourishing FreeConversations: Windows Edition</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/honest-discoveries-in-vpn-crackdown/"><u>Honest Discoveries in VPN Crackdown</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-motorola-moto-g-stylus-2023-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Motorola Moto G Stylus (2023)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/inspiration-infused-da-vincis-latest-ai-prompts-for-artists/"><u>Inspiration Infused: Da Vinci's Latest AI Prompts for Artists</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-chatgpt-five-expert-techniques-for-personalized-commands/"><u>Mastering ChatGPT: Five Expert Techniques for Personalized Commands</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-paperwork-with-chatgpts-4-essential-methods/"><u>Navigating Paperwork with ChatGPT's 4 Essential Methods</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/resolving-mobile-errors-9-steps-to-get-your-iphones-chatgpt-up-and-running-again/"><u>Resolving Mobile Errors: 9 Steps to Get Your iPhone's ChatGPT Up and Running Again</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rtx-glitch-outbreak-your-game-saving-guidebook/"><u>RTX Glitch Outbreak: Your Game-Saving Guidebook</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/streamline-writing-with-hix-and-gpt-4/"><u>Streamline Writing with HIX and GPT-4</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-10-tips-and-tricks-for-subway-surfers/"><u>Top 10 Tips and Tricks for ‘Subway Surfers’</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-20-innovative-github-dialogues-with-chatgpt/"><u>Top 20 Innovative Github Dialogues with ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-6-essential-factors-to-examine-when-considering-chatgpt-as-a-source-of-psychological-help/"><u>Top 6 Essential Factors To Examine When Considering ChatGPT as a Source of Psychological Help</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-recurrent-noxplayer-instability-issues-on-windowsmacos/"><u>Troubleshooting Recurrent NoxPlayer Instability Issues on Windows/MacOS</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-duo-gemini-max-and-supercharged-gpt/"><u>Ultimate Duo: Gemini Max & Supercharged GPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-output-boundaries-is-word-length-capped-for-chatgpt-replies/"><u>Understanding Output Boundaries: Is Word Length Capped for ChatGPT Replies?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/unmasking-imagerys-origins-a-complete-guide-to-reverse-picture-searching-in-instagram/"><u>Unmasking Imagery's Origins  A Complete Guide to Reverse Picture Searching in Instagram</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/unmountablebootvolume-error-on-windows-10-blue-screen-troubleshooting-steps-and-solutions/"><u>UNMOUNTABLE_BOOT_VOLUME Error on Windows 10 Blue Screen: Troubleshooting Steps and Solutions</u></a></li>
+</ul></div>

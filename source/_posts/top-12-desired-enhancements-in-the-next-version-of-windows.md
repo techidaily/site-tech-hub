@@ -1,7 +1,7 @@
 ---
 title: Top 12 Desired Enhancements in the Next Version of Windows
-date: 2024-08-28 12:42:12
-updated: 2024-08-29 12:39:57
+date: 2024-08-29T01:12:08.906Z
+updated: 2024-08-30T01:12:08.906Z
 tags:
   - desktop
 categories:
@@ -44,6 +44,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The Microsoft Phone Link app with a Pixel device.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-06_02h14_14.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ##  Universal Noise Cancellation Built-in
 
  Many applications now have noise cancelation built in, but the quality is widely variable. [Discord, which uses Krisp](https://ai-editing-video.techidaily.com/new-2024-approved-creative-ways-to-add-green-screen-effects-in-photoshop/), has excellent noise cancelation. NVIDIA also offers [NVIDIA Broadcast](https://extra-skills.techidaily.com/in-2024-orchestrating-the-scene-adding-cropping-and-adjusting-music-in-canva/), which includes a noise cancellation feature. NVIDIA Broadcast allows users with an NVIDIA GPU to filter out echoes or troublesome background noise. It works really well, but it requires [an RTX GPU](https://remote-screen-capture.techidaily.com/2024-approved-mastering-mayhem-and-mystery-the-essential-gaming-list-top-10/) to run.
@@ -54,14 +57,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![A microphone on a table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/52730616053_b68b4eca6b_o.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 Andrew Heinzman / How-To Geek
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Live and Dynamic Backgrounds
 
  Linux, macOS, iOS, and Samsung Android devices all allow you to use live or dynamic backgrounds. There are plenty of great tools out there that let you [set a live wallpaper on Windows](https://fake-location.techidaily.com/how-to-fix-vivo-y100-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/), but we’d like to see it included natively in Windows 12.
 
  In the interim, [Wallpaper Engine](https://www.wallpaperengine.io/en) or [Lively](https://apps.microsoft.com/detail/9ntm2qc6qws7) are great, low-cost ways to get your animated background fix.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  More Useful Widgets
 
  Microsoft has made several attempts at implementing widgets in Windows over the years, and none of them have been particularly successful. One—Gadgets in Windows Vista and 7—quite famously [introduced security vulnerabilities](https://learn.microsoft.com/en-us/security-updates/SecurityAdvisories/2013/2719662?redirectedfrom=MSDN).
@@ -76,6 +88,11 @@ Andrew Heinzman / How-To Geek
 
  Personally, I’d love a little weather widget in the upper right corner of my right monitor.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ##  Control Over the Right-Click Menu
 
  The right-click context menu is an essential part of using a Windows computer, and yet, we have no meaningful built-in tools to customize how it looks and operates. Why not?
@@ -84,6 +101,9 @@ Andrew Heinzman / How-To Geek
 
  We’ve been living with cluttered right-click menus for decades. A native tool would be a small but fantastic addition to Windows 12.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  A Favorites List on the Emoji Picker
 
 [The emoji picker](https://screen-video-capture.techidaily.com/2024-approved-top-6-minecraft-house-ideas-for-beginners/) is one of my favorite additions in the recent versions of Windows, but it is lacking one critical feature: a favorites list!
@@ -119,6 +139,9 @@ Andrew Heinzman / How-To Geek
 1. It needs to have a local backup option, with support for local “Restore from Backup” functionality. Currently, you're limited by how much OneDrive storage you have.
 2. Users need more control over which files and folders are included in the backup.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Improve Windows Start Search
 
  You can press the Windows key and start typing to search your PC (and Bing, if you don't [disable Bing search](https://unlock-android.techidaily.com/how-to-unlock-any-vivo-y200e-5g-phone-password-using-emergency-call-by-drfone-android/)), but it is still slower, clunkier, and less fully-featured than Spotlight Search on Macs.
@@ -127,6 +150,9 @@ Andrew Heinzman / How-To Geek
 
 ![The Run feature from Windows PowerToys.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-06_02h17_07.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
  We’d love to see something that combines the best of Windows Search (live results, like weather) with PowerToys' Run integrated into Windows 12.
 
 ##  Helpful Local AI Tools
@@ -153,3 +179,46 @@ Andrew Heinzman / How-To Geek
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-harnessing-ambiance-with-thoughtful-lighting/"><u>[New] 2024 Approved  Harnessing Ambiance with Thoughtful Lighting</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-unveiling-new-ways-to-record-presentations/"><u>[New] 2024 Approved  Unveiling New Ways to Record Presentations</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-immersive-tech-vr-explained-simply/"><u>[New] Exploring Immersive Tech  VR Explained Simply</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-grandest-directors-reveals/"><u>[New] Grandest Directors' Reveals</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-architectural-marvels-for-vr-display/"><u>[Updated] Architectural Marvels for VR Display</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-corrected-non-existence-of-shorts-on-feeds-for-2024/"><u>[Updated] Corrected  Non-Existence of Shorts on Feeds for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-affordable-gopros-where-to-buy-with-best-price/"><u>[Updated] In 2024, Affordable GoPros  Where to Buy with Best Price</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-ultimate-guide-to-drawing-characters-with-snaps-for-2024/"><u>[Updated] The Ultimate Guide to Drawing Characters with Snaps for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-host-smart-and-cheap-your-guide-to-youtube-seminars/"><u>2024 Approved  Host Smart and Cheap  Your Guide to Youtube Seminars</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beware-no-authentic-chatgpt-app-available-on-windows-avoid-illicit-software-replicas/"><u>Beware: No Authentic ChatGPT App Available on Windows – Avoid Illicit Software Replicas!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-nubia-z50-ultra-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Nubia Z50 Ultra?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-unveiled-the-quintet-of-reasons-for-its-record-breaking-speed-to-fame/"><u>ChatGPT Unveiled: The Quintet of Reasons for Its Record-Breaking Speed to Fame</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/choosing-between-gemini-and-chatgpt-plus-a-detailed-comparison/"><u>Choosing Between Gemini and ChatGPT Plus: A Detailed Comparison</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-the-complexities-of-ai-in-plain-language/"><u>Decoding the Complexities of AI in Plain Language</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-gaming-delights-with-chatgpt-see-our-selection-of-6-great-games/"><u>Discover Gaming Delights with ChatGPT - See Our Selection of 6 Great Games!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/elevate-your-esports-rig-an-expert-review-of-an-advanced-apc-uninterruptible-power-supply/"><u>Elevate Your Esports Rig: An Expert Review of an Advanced APC Uninterruptible Power Supply</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancing-ai-capabilities-with-vector-databases-an-in-depth-look/"><u>Enhancing AI Capabilities with Vector Databases: An In-Depth Look</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/explore-the-best-4-ai-driven-storytelling-software-options-available-now/"><u>Explore the Best 4 AI Driven Storytelling Software Options Available Now</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/get-connected-without-a-phone-register-on-platforms-such-as-chatgpt-telegram-and-whatsapp-using-alternative-id-verification-techniques/"><u>Get Connected Without a Phone: Register on Platforms Such as ChatGPT, Telegram & WhatsApp Using Alternative ID Verification Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-authenticate-your-health-information-sourced-through-chatgpt-and-advanced-ai-technologies/"><u>How to Authenticate Your Health Information Sourced Through ChatGPT & Advanced AI Technologies</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-show-wi-fi-password-on-nokia-130-music-by-drfone-android/"><u>How to Show Wi-Fi Password on Nokia 130 Music</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-unveil-image-by-removing-surroundings/"><u>In 2024, Unveil Image by Removing Surroundings</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/interpretive-analysis-of-the-metaphor-equating-the-internet-with-an-open-access-public-library-system/"><u>Interpretive Analysis of the Metaphor Equating the Internet with an Open-Access Public Library System</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leveraging-gpt-for-modern-cognitive-behavioral-strategies/"><u>Leveraging GPT for Modern Cognitive Behavioral Strategies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-accessibility-can-you-use-chatgpt-through-a-secure-vpn/"><u>Navigating Accessibility: Can You Use ChatGPT Through a Secure VPN?</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-rotate-videos-on-iphone-for-free-top-5-essential-tools-for-2024/"><u>New Rotate Videos on iPhone for Free Top 5 Essential Tools for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/openais-ai-conversations-a-security-review/"><u>OpenAI's AI Conversations: A Security Review</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/post-altman-openai-pivots-ahead-of-chatgpt-prospects/"><u>Post-Altman, OpenAI Pivots Ahead of ChatGPT Prospects</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/quick-and-effective-chat-utilizing-nvidias-rtx-agent/"><u>Quick and Effective Chat: Utilizing Nvidia’s RTX Agent</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionize-human-resources-tasks-using-5-key-gpt-strategies/"><u>Revolutionize Human Resources Tasks Using 5 Key GPT Strategies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tailoring-text-with-chatgpt-teach-it-your-writing-style/"><u>Tailoring Text with ChatGPT: Teach It Your Writing Style</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1723262424809-the-hidden-power-within-an-everyday-aerosol-spray-achieving-mach-velocity/"><u>The Hidden Power Within an Everyday Aerosol Spray: Achieving Mach Velocity!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-4-advantages-choosing-microsoft-copilot-over-chatgpt/"><u>Top 4 Advantages: Choosing Microsoft Copilot Over ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transform-your-language-education-journey-using-chatgpt-plus/"><u>Transform Your Language Education Journey Using ChatGPT Plus</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-resolving-2024-fortnite-performance-issues-and-freezing-on-windowsmac/"><u>Ultimate Guide: Resolving 2024 Fortnite Performance Issues and Freezing on Windows/Mac</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-bert-exploring-the-distinct-features-of-this-ais-nlp-capabilities-compared-to-gpt/"><u>Understanding BERT: Exploring the Distinct Features of This AI's NLP Capabilities Compared to GPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-excel-power-3-advanced-skills-beyond-ai-capabilities/"><u>Unlocking Excel Power: 3 Advanced Skills Beyond AI Capabilities</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unmasking-machinerys-myths-spotting-misrepresented-data-by-ai-systems/"><u>Unmasking Machinery's Myths: Spotting Misrepresented Data by AI Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unraveling-6-typical-gpt-glitches-solutions-revealed/"><u>Unraveling 6 Typical GPT Glitches: Solutions Revealed</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Editing Images with Your iPhone's Photos App: A Step-by-Step Guide"
-date: 2024-08-27 23:19:34
-updated: 2024-08-29 10:14:26
+date: 2024-08-29T01:10:52.055Z
+updated: 2024-08-30T01:10:52.055Z
 tags:
   - mobile
 categories:
@@ -53,6 +53,9 @@ thumbnail: https://thmb.techidaily.com/dd77f8cbbec8ed8ce40dfd9ce55bda6a399ba6919
 
 ![The photo editing interface as it appears in the Photos app for iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ios_photos_adjust.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  In total, there are 15 adjustment parameters plus an "auto" option with a "magic wand" icon. Tap the wand to enhance the image automatically, then move the slider left and right to adjust the image. Tap on the wand again to undo these changes.
 
  While automatic edits make it easy to improve a mediocre image, you'll learn more about photo editing in general by experimenting with the other options. If you want your images to exhibit a unique sense of style, manually editing your image is a must.
@@ -89,6 +92,10 @@ thumbnail: https://thmb.techidaily.com/dd77f8cbbec8ed8ce40dfd9ce55bda6a399ba6919
 * **Noise reduction:** Apply digital noise reduction to smooth out image grain, useful for images shot in low light.
 * **Vignette:** A vignette is a dark or light ring around the edge of an image, which is often an unwanted effect of shooting with certain lenses.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ##  Previewing Your Changes
 
  At any point while editing your image, you can tap once on the photo to see the original. This provides a point of reference for any edits you have made. You can see whether your changes enhance the image or not. The original image is indicated by the "Original" label that appears on the screen.
@@ -105,18 +112,30 @@ thumbnail: https://thmb.techidaily.com/dd77f8cbbec8ed8ce40dfd9ce55bda6a399ba6919
 
 ![The "Cancel" and "Revert" options in the iPhone Photos editing interface.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ios_photos_cancel_revert.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
  Can't see the "Revert" option? You'll need to hit "Done" first to save your image, then tap "Edit" to enter the editing interface so that the "Revert" button appears.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ##  Editing with Filters
 
  Tap on the "Filters" button to the right of the "Adjust" section to see a selection of Apple photo filters. Swipe through them and tap on one to apply it, then move the slider underneath to adjust the intensity of the effect. You can only apply one filter at a time.
 
 ![Filters in the Photos app for iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ios_photos_filters.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
  Like Apple's other photo-editing tools, filters are non-destructive. You can apply a filter, save your image, then come back at any time and select a different filter (or turn filters off altogether).
 
  You can't shoot with filters enabled, but you can [apply in-camera Photographic Styles](https://some-knowledge.techidaily.com/updated-funny-carousel-image-builder/) to give your images a certain look.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Crop, Straighten and Perspective
 
  To the right of the other editing tools is the Crop section. When you tap on this button, you'll see manual straightening tools at the bottom of the screen. Move the slider left or right to reposition your image as you see fit.
@@ -133,6 +152,9 @@ thumbnail: https://thmb.techidaily.com/dd77f8cbbec8ed8ce40dfd9ce55bda6a399ba6919
 
  You can use these tools to crop your photos for a better composition, to remove sensitive information from a screenshot you intend to share, or to create square format images from portrait and landscape shots. Just like the other tools on this list, you can always get back to your original photo by editing it or using the "Revert" button.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Choose a Key Photo from a Live Photo
 
  When you tap Edit on an image in the Photos app, you might see a Live Photo icon at the bottom of the screen. (It looks like a circle surrounded by a dotted circle). Tap this to see the few seconds of video that was recorded alongside your photo.
@@ -165,8 +187,14 @@ thumbnail: https://thmb.techidaily.com/dd77f8cbbec8ed8ce40dfd9ce55bda6a399ba6919
 
 ![Copy and paste edits or edit a photo with other apps using Photos for iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ios_photos_apps_copy_paste.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can also use this option to copy edits you have applied to an image or paste edits that you've already copied. This can make batch editing a little easier.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Some Good Editing Tips to Remember
 
  Hopefully, with this guide and some experimentation, you can take your images to the next level. The best way to learn is to experiment, and you can do so consequence-free, knowing that you can simply revert to the original image at any point.
@@ -175,6 +203,18 @@ thumbnail: https://thmb.techidaily.com/dd77f8cbbec8ed8ce40dfd9ce55bda6a399ba6919
 
 ![Editing a photo on iPhone in landscape orientation.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ios_photos_landscape.png) 
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Tim Brookes / How-To Geek
 
  With that in mind, it's a good idea to exercise restraint with a few sliders. Overdoing the saturation can result in overly colorized images and highly unnatural skin tones. Some digital sharpening can help save a soft image, but too much will introduce noise.
@@ -201,3 +241,41 @@ Tim Brookes / How-To Geek
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/eview-youtube-app-for-iphone-and-android/"><u>[New] Review  YouTube App for iPhone and Android</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-a-step-by-step-journey-through-vo-and-powerpoint-magic/"><u>[Updated] 2024 Approved  A Step-by-Step Journey Through VO and Powerpoint Magic</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-choosing-your-go-to-youtube-video-downloaders-on-android-platform-for-2024/"><u>[Updated] Choosing Your Go-To YouTube Video Downloaders on Android Platform for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-innovative-approaches-for-rising-through-the-rankings/"><u>[Updated] In 2024, Innovative Approaches for Rising Through the Rankings</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-tools-that-enhance-your-travel-videos/"><u>[Updated] In 2024, Tools That Enhance Your Travel Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-your-phones-potential-with-custom-android-audio-alerts/"><u>2024 Approved  Unlocking Your Phone's Potential with Custom Android Audio Alerts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/battle-of-brains-comparing-perplex-to-chatgpt-plus-for-top-tier-ai-chatting-experience/"><u>Battle of Brains: Comparing Perplex to ChatGPT Plus for Top-Tier AI Chatting Experience</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/breakdown-of-ai-jargon-learn-and-decode-29-essential-artificial-intelligence-terms/"><u>Breakdown of AI Jargon: Learn and Decode 29 Essential Artificial Intelligence Terms</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-you-go-overboard-with-chatgpts-response-length-insights-on-token-limits/"><u>Can You Go Overboard with ChatGPT's Response Length? Insights on Token Limits</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-in-action-a-list-of-7-current-practical-uses/"><u>ChatGPT in Action: A List of 7 Current Practical Uses</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpts-literary-evolution-personalizing-prose/"><u>ChatGPT's Literary Evolution: Personalizing Prose</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/essential-tips-for-overcoming-chatgpt-logout-issues/"><u>Essential Tips for Overcoming ChatGPT Logout Issues</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-ai-prompt-engineering-is-this-an-emerging-profession-worth-pursuing/"><u>Exploring AI Prompt Engineering: Is This an Emerging Profession Worth Pursuing?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-eu-ai-act-consequences-for-advanced-language-models-such-as-chatgpt/"><u>Exploring the EU AI Act: Consequences for Advanced Language Models Such as ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-truthgpts-capabilities-coinciding-with-authorities-sting-against-privacy-focused-mullvad-vpn-premier-selection-of-free-gaming-titles-for-computers39/"><u>Exploring TruthGPT's Capabilities: Coinciding with Authorities' Sting Against Privacy-Focused Mullvad VPN, Premier Selection of Free Gaming Titles for Computers & Detailed Overview of Switching to Mechanical Keyboards</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Vivo G2? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/look-at-the-performance-trend-over-time-to-see-if-its-improving-or-declining-also-analyze-how-different-pages-rank-for-this-query-on-your-site/"><u>Look at the Performance Trend over Time to See if It's Improving or Declining. Also, Analyze How Different Pages Rank for This Query on Your Site</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-chatgpt-the-power-of-custom-commands/"><u>Mastering ChatGPT: The Power of Custom Commands</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-potions-tips-and-tricks-for-creating-awkward-elixirs-in-minecraft/"><u>Mastering Potions: Tips & Tricks for Creating Awkward Elixirs in Minecraft</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximizing-your-experience-a-step-by-step-guide-to-navigating-chatgpt/"><u>Maximizing Your Experience: A Step-by-Step Guide to Navigating ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/quick-fix-guide-solving-non-responsive-chatgpt-problems-on-your-iphone/"><u>Quick Fix Guide: Solving Non-Responsive ChatGPT Problems on Your iPhone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/remote-work-reimagined-leveraging-chatgpt-in-freelancing/"><u>Remote Work Reimagined: Leveraging ChatGPT in Freelancing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/slow-response-analyzing-chatgpt-4-against-gpt-35s-agility/"><u>Slow Response: Analyzing ChatGPT-4 Against GPT-3.5's Agility</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-up-your-messaging-game-with-privacy-secured-ai-chats-explore-duckduckgos-features-including-powerful-chatgpt-integration/"><u>Step Up Your Messaging Game with Privacy-Secured AI Chats - Explore DuckDuckGo's Features, Including Powerful ChatGPT Integration</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/streamlining-document-generation-mastering-chatgpt-integration-with-microsoft-word/"><u>Streamlining Document Generation: Mastering ChatGPT Integration with Microsoft Word</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tech-talk-microsoft-purchases-blizzard-unraveling-ais-impact-on-translation-and-visual-arts-podcast-episodes/"><u>Tech Talk: Microsoft Purchases Blizzard, Unraveling AI's Impact on Translation and Visual Arts - Podcast Episodes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-hidden-dangers-of-overtrusting-artificial-intelligence-learn-why-caution-is-needed/"><u>The Hidden Dangers of Overtrusting Artificial Intelligence – Learn Why Caution Is Needed</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-nokia-c32-by-drfone-android/"><u>Three Ways to Sim Unlock Nokia C32</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-7-strategies-to-enhance-response-quality-with-chatgpt/"><u>Top 7 Strategies to Enhance Response Quality with ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transform-your-career-application-process-using-chatgpt-to-write-resumes/"><u>Transform Your Career Application Process Using ChatGPT to Write Resumes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transforming-life-with-chatgpt-a-comprehensive-guide/"><u>Transforming Life with ChatGPT: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-the-distinction-between-strong-artificial-intelligence-and-weak-ai/"><u>Understanding the Distinction Between Strong Artificial Intelligence and Weak AI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-truthgpt-coin-could-this-be-a-fraudulent-scheme/"><u>Understanding TruthGPT Coin: Could This Be a Fraudulent Scheme?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/when-tech-fails-patients-why-not-trust-chatgpt/"><u>When Tech Fails Patients: Why Not Trust ChatGPT</u></a></li>
+</ul></div>

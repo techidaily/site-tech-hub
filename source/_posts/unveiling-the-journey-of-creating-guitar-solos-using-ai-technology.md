@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Journey of Creating Guitar Solos Using AI Technology
-date: 2024-08-27 11:24:52
-updated: 2024-08-29 11:38:35
+date: 2024-08-29T01:13:49.465Z
+updated: 2024-08-30T01:13:49.465Z
 tags:
   - cutting-edge
 categories:
@@ -26,6 +26,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  I started playing electric guitar recently and quickly discovered that creating new songs is hard, especially if you don't know music theory or scales. So, I thought, why not ask someone who knows music theory better than anyone else—AI?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ##  Rocking It With ChatGPT
 
  Let's kick things off with something simple, such as a rock guitar riff.
@@ -50,6 +53,9 @@ Your browser does not support the video tag.
 
  An odd anomaly is that ChatGPT said the riff contains slides and bends, but there aren't any indications in the tabs to play them. Slides are usually indicated with a slanted line or the letter "s," and bends are indicated with a "b." They're missing from the tabs, so I chose to omit them as well.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Does Gemini Do It Better?
 
 Your browser does not support the video tag. 
@@ -62,6 +68,9 @@ Your browser does not support the video tag.
 
  Considering that these two riffs were the best that I could get after fiddling with Gemini for half an hour, I think that ChatGPT is the better musician.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Let’s Try a Few Basslines
 
  Since bass is my favorite instrument, I had to include a couple of basslines to see how ChatGPT did.
@@ -74,6 +83,9 @@ Your browser does not support the video tag.
 
  The second bassline is for a rock song, and I think that it's pretty good. It's a bit repetitive, but that could easily be remedied by alternating between lower and higher strings while maintaining the same intervals.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ##  It’s Best to Interpret and Improvise
 
  There's a lot of room for creativity within these riffs and basslines. If you sit down with your guitar with the intent to make an original song but don't feel inspired, there's no shame in asking ChatGPT to get you started with a unique riff. Figuring out the rhythm alone is a massive part of the music creation process; let your emotions dictate how the tabs should be played, just like I did today.
@@ -94,3 +106,52 @@ Your browser does not support the video tag.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-best-cam-cover-hacks-top-10-list-for-2024/"><u>[New] Best Cam Cover Hacks - Top 10 List for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-how-to-forge-an-impeccable-vr-self-representation-for-2024/"><u>[New] How to Forge an Impeccable VR Self-Representation for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-boredom-be-gone-find-joy-with-these-top-15-humorists-for-2024/"><u>[Updated] Boredom Be Gone  Find Joy with These Top 15 Humorists for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-implementing-visual-learning-strategies-in-classrooms/"><u>[Updated] Implementing Visual Learning Strategies in Classrooms</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-simplified-techniques-for-correcting-profile-ages/"><u>[Updated] Simplified Techniques for Correcting Profile Ages</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-perfect-mac-imagery-a-guide-to-5-effective-snapshot-techniques/"><u>2024 Approved  Perfect Mac Imagery  A Guide to 5 Effective Snapshot Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/are-there-newer-options-to-replace-the-classic-turing-test-in-ai/"><u>Are There Newer Options to Replace the Classic Turing Test in AI?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/avoiding-surveillance-is-a-vpn-necessary-for-gpt/"><u>Avoiding Surveillance: Is a VPN Necessary for GPT?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/behind-the-scenes-generating-podcast-content-via-chatgpt-an-episode-breakdown/"><u>Behind-the-Scenes: Generating Podcast Content via ChatGPT – An Episode Breakdown</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beyond-the-hype-the-five-downfalls-of-using-chatgpt-for-crypto-predictions/"><u>Beyond the Hype – The Five Downfalls of Using ChatGPT for Crypto Predictions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-integration-for-seamless-smart-living-controls/"><u>ChatGPT Integration for Seamless Smart Living Controls</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-unleashed-exploring-the-world-of-ai-jailbreaking-is-it-safe/"><u>ChatGPT Unleashed: Exploring the World of AI Jailbreaking – Is It Safe?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/combatting-loneliness-via-interactive-chatai-dialogues/"><u>Combatting Loneliness via Interactive ChatAI Dialogues</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparing-the-cutting-edge-of-conversational-ai-claude-pro-against-microsofts-chatgptplus/"><u>Comparing the Cutting Edge of Conversational AI: Claude Pro Against Microsoft's ChatGPT+</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/deepen-relationships-with-emotional-intelligence-assistance/"><u>Deepen Relationships with Emotional Intelligence Assistance</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-ultimate-list-of-20-prime-chatgpt-triggers-sourced-from-github-repositories/"><u>Discover the Ultimate List of 20 Prime ChatGPT Triggers Sourced From GitHub Repositories</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-impact-of-ai-chatbot-content-moderation-on-users/"><u>Exploring the Impact of AI Chatbot Content Moderation on Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/forward-thinking-5-ai-tools-for-todays-entrepreneurs/"><u>Forward-Thinking: 5 AI Tools for Today's Entrepreneurs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-binary-to-beauty-a-step-by-step-guide-on-utilizing-chatgpt-for-poem-composition/"><u>From Binary to Beauty: A Step-by-Step Guide on Utilizing ChatGPT for Poem Composition</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-ideas-to-slide-decks-creating-stellar-presentations-with-chatgpt/"><u>From Ideas to Slide Decks: Creating Stellar Presentations with ChatGPT</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-iphone-15-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for iPhone 15 With 7 Methods</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-from-iphone-se-2022-without-password-by-drfone-ios/"><u>How to Delete iCloud Account From iPhone SE (2022) without Password?</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-pro-max-to-other-iphone-15-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 Pro Max to other iPhone 15 devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-oppo-a2-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Oppo A2 to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-12-to-other-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 12 to Other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-nighttime-iphone-photography-secrets-revealed/"><u>In 2024, Nighttime iPhone Photography Secrets Revealed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/learn-ai-prompt-engineering-with-our-top-5-expert-led-online-courses/"><u>Learn AI Prompt Engineering with Our Top 5 Expert-Led Online Courses</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leveraging-gptzero-strategies-to-detect-machine-generated-text-effortlessly/"><u>Leveraging GPTZero: Strategies to Detect Machine-Generated Text Effortlessly</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-referencing-personalized-gpt-models-in-chat-based-interactions/"><u>Mastering the Art of Referencing Personalized GPT Models in Chat-Based Interactions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-running-llama-2-locally/"><u>Mastering the Art of Running Llama 2 Locally</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/musks-mystery-the-future-of-gpt-revealed/"><u>Musk's Mystery: The Future of GPT Revealed?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/my-ai-or-chatgpt-on-snapchat-the-ultimate-comparison-for-users/"><u>My AI or ChatGPT on Snapchat: The Ultimate Comparison for Users</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-final-cut-pro-x-for-filmmakers-creating-visually-stunning-videos/"><u>New Final Cut Pro X for Filmmakers Creating Visually Stunning Videos</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/restore-functionality-effective-solutions-for-when-chatgpt-stops-working-on-an-iphone/"><u>Restore Functionality: Effective Solutions for When ChatGPT Stops Working on an iPhone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionize-data-interpretation-6-effective-uses-of-chatgpt-for-analysts/"><u>Revolutionize Data Interpretation: 6 Effective Uses of ChatGPT for Analysts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/save-time-with-10-essential-chatgpt-inspired-pdf-automation-extensions/"><u>Save Time with 10 Essential ChatGPT-Inspired PDF Automation Extensions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-case-for-claude-3-top-4-benefits-over-chatgpt/"><u>The Case for Claude 3: Top 4 Benefits Over ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-impact-of-conversations-on-the-growth-of-chatgpts-knowledge-base/"><u>The Impact of Conversations on the Growth of ChatGPT's Knowledge Base</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-risks-of-sharing-sensitive-data-with-chatgpt-a-cautionary-guide/"><u>The Risks of Sharing Sensitive Data with ChatGPT: A Cautionary Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-list-of-why-chatgpt-became-an-instant-hit-in-the-tech-world/"><u>The Ultimate List of Why ChatGPT Became an Instant Hit in the Tech World</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-honor-x7b-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-chatgpt-generative-ais-role-explored/"><u>Unveiling ChatGPT: Generative AI's Role Explored</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/who-should-programmers-pick-for-efficiency-copilotchatgpt-discussion/"><u>Who Should Programmers Pick for Efficiency? Copilot/ChatGPT Discussion</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-nokia-xr21-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Nokia XR21? Fixed | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: How Can You Spot a Photo Created by Machine Learning? Tips & Techniques
-date: 2024-08-27 15:31:22
-updated: 2024-08-29 11:49:42
+date: 2024-08-29T01:13:32.109Z
+updated: 2024-08-30T01:13:32.109Z
 tags:
   - cutting-edge
 categories:
@@ -29,12 +29,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Messing with AI to create [fantastical images](https://www.instagram.com/everydayyokai/) can be fun, and even help brainstorm ideas, but it has raised concerns over digital rights, privacy, and [copyright](https://article-files.techidaily.com/beyond-ustream-an-examination-of-video-streaming/). If someone uses an AI likeness of someone without their consent that depicts them in an intentionally humiliating light, for example, that's a huge problem. So how do we know if an image is real or churned out by AI?
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ##  4 Ways to Check If a Photo Was Made by AI
 
  At the current level of AI-generated imagery, it's usually easy to tell an artificial image by sight. Fingers or glasses look off. Light sources don't make sense. Backgrounds are warped.
 
  But there are other, more technical ways to dig into an image if you're still not sure. We'll get to that below, but we'll start with the most common-sense tip on the list.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ###  Check the Photo Caption/Description and Comments
 
  Oftentimes people playing with AI and posting the results to social media like Instagram will straight up tell you the image isn't real. Read the caption for clues if it's not immediately obvious the image is fake.
@@ -60,6 +72,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Objects and people in the background of AI images are especially prone to weirdness. In originalaiartgallery's (objectively amazing) [series of AI photos of the pope baptizing a crowd with a squirt gun](https://www.instagram.com/p/Cs9R-nsufzR/), you can see that several of the people's faces in the background look strange. The water in some shots also appears to be coming from nowhere.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ###  Try Using a GAN Detector
 
  AI image generators use Generative Adversarial Networks, or GANs. There are a few apps and plugins designed to try and detect fake images that you can use as an extra layer of security when attempting to authenticate an image. For example, there's a [Chrome plugin](https://chrome.google.com/webstore/detail/fake-profile-detector-dee/jbpcgcnnhmjmajjkgdaogpgefbnokpcc) that will check if a profile picture is GAN generated when you right-click on the photo.
@@ -68,10 +83,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Screenshot of test results from Maybe's AI Image detector mistakenly marking an AI photo as a human.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/Screenshot-2023-07-12-at-3.05.49-PM.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  As with [AI image generators](https://fox-info.techidaily.com/new-synthesize-stellar-titles-using-ai-insights/), this technology will continue to improve, so don't discount it completely either.
 
 Related: [Audio Deepfakes: Can Anyone Tell If They're Fake?](https://buynow-marvelous.techidaily.com/unbeatable-endurance-a-deep-dive-into-moto-g-powers-remarkable-battery-performance/) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ###  Run an Image or Web Search
 
  If you aren't sure of what you're seeing, there's always the old [Google image search](https://extra-lessons.techidaily.com/expert-tips-on-syncing-gmail-and-zoom-for-remote-collaboration/). These days you can just right click an image to search it with Google and it'll return visually similar images.
@@ -80,6 +101,9 @@ Related: [Audio Deepfakes: Can Anyone Tell If They're Fake?](https://buynow-marv
 
  If the image is used in a news story that could be a disinformation piece, look for other reporting on the same event. If no other outlets are reporting on it, especially if the event in question is incredibly sensational, it could be fake.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  AI Images of the Future
 
  These programs are only going to improve, and some of them are already scarily good. Midjourney's V5 seems to have tackled the problem of rendering hands correctly, and its images can be [strikingly photorealistic](https://instagram-clips.techidaily.com/2024-approved-visual-storytelling-on-social-media-crafting-an-effective-plan/).
@@ -102,3 +126,42 @@ Related: [How Good Is Midjourney at AI Art? We Compared All the Models](https://
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-decoding-the-marketplace-where-to-invest-in-monetized-channels/"><u>[Updated] 2024 Approved  Decoding the Marketplace  Where to Invest in Monetized Channels</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-unleash-creativity-crafting-tiktok-choreographies-on-macos-for-2024/"><u>[Updated] Unleash Creativity  Crafting TikTok Choreographies on MacOS for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-navigating-the-highest-rated-pixel-soundtracks-online/"><u>2024 Approved  Navigating the Highest-Rated Pixel Soundtracks Online</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-showdown-determining-the-top-choice-between-chatgpt-microsoft-bings-intelligence-and-google-bard/"><u>AI Showdown: Determining the Top Choice Between ChatGPT, Microsoft Bing's Intelligence, and Google Bard</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/building-websites-made-easy-how-chatgpt-assists-in-the-process/"><u>Building Websites Made Easy: How ChatGPT Assists in the Process</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-vs-google-bard-which-advanced-language-model-reigns-supreme/"><u>ChatGPT Vs. Google Bard – Which Advanced Language Model Reigns Supreme?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/determining-chatgpts-maximum-response-length/"><u>Determining ChatGPT’s Maximum Response Length</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/dissecting-the-inflexible-nature-of-chatgpt/"><u>Dissecting the Inflexible Nature of ChatGPT</u></a></li>
+<li><a href="https://games-able.techidaily.com/do-mac-systems-hold-the-key-to-next-gen-games/"><u>Do Mac Systems Hold the Key to Next-Gen Games?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancing-your-digital-dialogue-5-best-chatgpt-instructions/"><u>Enhancing Your Digital Dialogue: 5 Best ChatGPT Instructions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/experience-unparalleled-performance-with-the-groundbreaking-atomman-g7-pt-the-original-tiny-amd-advantage-mini-pc/"><u>Experience Unparalleled Performance with the Groundbreaking AtomMan G7 Pt: The Original Tiny AMD Advantage Mini PC</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-latest-pcie-device-drivers-for-all-supported-windows-os-win11-win7/"><u>Get Your Latest PCIe Device Drivers for All Supported Windows OS (Win11-Win7)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-get-tech-support-for-your-iphone-with-the-apple-support-app/"><u>How to Get Tech Support for Your iPhone With the Apple Support App</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-infinix-note-30-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-13-mini-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>How To Unlock iPhone 13 mini Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Nokia G22? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-lava-yuva-3-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Lava Yuva 3 Phone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transforming-patient-reach-top-fb-med-ad-tactics/"><u>In 2024, Transforming Patient Reach  Top FB Med Ad Tactics</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/inspiration-infused-da-vincis-latest-ai-prompts-for-artists/"><u>Inspiration Infused: Da Vinci's Latest AI Prompts for Artists</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-chatbot-assistance-lifesaving-when-lost-in-natures-embrace/"><u>Is Chatbot Assistance Lifesaving When Lost in Nature's Embrace?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/latest-developments-in-ai-ethics-chatgpt-controversies-googles-news-feed-transformation-and-maximizing-mobile-internet-during-holidays/"><u>Latest Developments in AI Ethics: ChatGPT Controversies, Google's News Feed Transformation & Maximizing Mobile Internet During Holidays</u></a></li>
+<li><a href="https://fox-http.techidaily.com/mastering-the-use-and-maintenance-of-m1-max-clips-for-2024/"><u>Mastering the Use and Maintenance of M1 Max Clips for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-uses-of-llama-2-for-maximum-efficiency/"><u>Mastering the Uses of Llama 2 for Maximum Efficiency</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximizing-wellness-8-innovative-gpt-integrations/"><u>Maximizing Wellness: 8 Innovative GPT Integrations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/questioning-your-assumptions-six-reasons-to-distrust-ai/"><u>Questioning Your Assumptions: Six Reasons to Distrust AI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/resolving-mobile-errors-9-steps-to-get-your-iphones-chatgpt-up-and-running-again/"><u>Resolving Mobile Errors: 9 Steps to Get Your iPhone's ChatGPT Up and Running Again</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionize-your-recipes-7-essential-uses-of-chatgpt-in-the-kitchen/"><u>Revolutionize Your Recipes: 7 Essential Uses of ChatGPT in the Kitchen</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/share-your-chatgpt-interactions-easily-the-ultimate-tutorial-on-linking-chats/"><u>Share Your ChatGPT Interactions Easily - The Ultimate Tutorial on Linking Chats</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/simple-or-enhanced-your-preferred-chatgpt-experience/"><u>Simple or Enhanced: Your Preferred ChatGPT Experience</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/trusting-chatgpt-and-bard-in-the-world-of-cash-management/"><u>Trusting ChatGPT & Bard in the World of Cash Management</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-duo-gemini-max-and-supercharged-gpt/"><u>Ultimate Duo: Gemini Max & Supercharged GPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-output-boundaries-is-word-length-capped-for-chatgpt-replies/"><u>Understanding Output Boundaries: Is Word Length Capped for ChatGPT Replies?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/uninterrupted-gaming-on-rtx-graphics/"><u>Uninterrupted Gaming on RTX Graphics</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-advanced-productivity-features-by-combining-onlyoffice-docspace-with-the-power-of-chnaghpt-technology/"><u>Unlocking Advanced Productivity Features by Combining ONLYOFFICE DocSpace with the Power of Chnaghpt Technology</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unraveling-and-resolving-top-6-gpt-missteps/"><u>Unraveling & Resolving: Top 6 GPT Missteps</u></a></li>
+</ul></div>

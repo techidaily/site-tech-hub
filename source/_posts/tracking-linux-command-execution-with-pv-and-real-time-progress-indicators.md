@@ -1,7 +1,7 @@
 ---
 title: Tracking Linux Command Execution with 'Pv' And Real-Time Progress Indicators
-date: 2024-08-28 13:25:25
-updated: 2024-08-29 11:35:43
+date: 2024-08-29T01:11:17.790Z
+updated: 2024-08-30T01:11:17.790Z
 tags:
   - desktop
 categories:
@@ -54,6 +54,10 @@ sudo pacman -Syu pv
 
 ![sudo pacman -Syu pv in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/progress_3.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Using pv
 
 `pv` stands for [pipe viewer](http://man7.org/linux/man-pages/man1/pv.1.html). Piping has to be involved in the command somewhere. Here's an example where we're piping an ISO image through `zip` to make a compressed zip file of the ISO.
@@ -64,6 +68,9 @@ pv /media/dave/SILVERXHD/gparted-live-1.0.0-1-amd64.iso | zip > gparted.zip
 
 ![pv /media/dave/SILVERXHD/gparted-live-1.0.0-1-amd64.iso | zip > gparted.zip in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/progress_6.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The information `pv` gives us can be seen in the bottom line of the display.
 
 ![pv output for creating a zip file in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/progress_7.png) 
@@ -76,6 +83,9 @@ pv /media/dave/SILVERXHD/gparted-live-1.0.0-1-amd64.iso | zip > gparted.zip
 * A progress bar and a percentage completed figure.
 * The estimated time left before completion (ETA).
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Copying a File with pv
 
  To copy a file with output from `pv`, use this command:
@@ -84,10 +94,16 @@ pv /media/dave/SILVERXHD/gparted-live-1.0.0-1-amd64.iso > gparted.iso
 
 ![pv /media/dave/SILVERXHD/gparted-live-1.0.0-1-amd64.iso | gparted.iso in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/progress_8.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
  We get a progress report as the file is copied.
 
 ![copying a file with pv in a te terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/progress_9.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Copying Multiple Files with pv
 
  To copy multiple files and folders with `pv` we need to use a little trick. We use `tar` to move the files for us.
@@ -106,6 +122,9 @@ tar -c help-files/ | pv | tar -x -C Documents/
 
  We do not get an ETA. The progress bar now displays a moving indicator. It shows that the process is active, but it doesn't grow from left to right like a traditional progress bar. `pv` is limited to displaying the information it can extract from the process that is being piped.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ##  Using pv and tar to Create an Archive
 
  Copying files with `pv` and `tar` does not leave us with an archive file. A sort of "virtual" archive is created by `tar`, which is fed straight back into `tar` to extract the files. If our objective is to copy files, that is accomplished. But what if we want to create an archive file?
@@ -124,6 +143,9 @@ tar -czf - ./help-files/ | pv > help-files.tgz
 
 ![sudo apt-get install pv in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/progress_1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The pv Display Options
 
  There are a number of options you can use with `pv` to change the details of its report.
@@ -145,6 +167,9 @@ tar -czf - ./help-files/ | pv - p > help-files.tgz
 
 ![sudo apt-get install pv in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/progress_1.png) 
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
  This turns off all of the other display options. `pv` provides the percentage completed element only.
 
  Because `pv` doesn't get a percentage completed figure from `tar`, the progress bar is replaced with a moving indicator. There is no percentage figure.
@@ -165,6 +190,12 @@ tar -czf - ./help-files/ | pv - p > help-files.tgz
 
 ![sudo apt-get install pv in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/progress_1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ##  Installing the progress Command
 
  The `progress` command gives the same sort of [useful information](http://manpages.ubuntu.com/manpages/bionic/man1/progress.1.html) as `pv`, but it works with a specific set of Linux commands.
@@ -181,12 +212,18 @@ sudo dnf install progress
 
 ![sudo dnf install pv in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/progress_2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
  To install `progress` in Manjaro, use this command:
 
 sudo pacman -Syu progress
 
 ![sudo dnf install pv in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/progress_2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The Commands progress Works With
 
  Typing `progress` in a terminal window and pressing Enter will give you a list of the commands that `progress` works with.
@@ -195,6 +232,9 @@ progress
 
 ![output of progress commmand in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/progress_5.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Using Progress With Pipes
 
  There are two techniques we can use to monitor commands with `progress`. The first is to use pipes.
@@ -209,6 +249,9 @@ tar -czf help.tgz ./help-files/ | progress -m
 
 ![sudo apt-get install pv in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/progress_1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The terminal window will show the progress of the `tar` command as it creates the archive.
 
 ![sudo apt-get install pv in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/progress_1.png) 
@@ -224,6 +267,9 @@ tar -czf help.tgz ./help-files/ | progress -m
 
  You might be surprised to see a second data set appear. This first data set is for `tar`. The second one is for `gzip`. `tar` calls `gzip` to perform the compression. Because `gzip` is in the list of supported commands, `progress` reports on it.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Using Progress in Continual Monitor Mode
 
  You can use `progress` in a real-time continual monitor mode by using the -M (monitor) option.
@@ -280,3 +326,63 @@ cat words.page
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-superb-video-connections-adventures/"><u>[New] 2024 Approved  Superb Video Connections Adventures</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-best-ios-applications-for-gameplaying-iconic-psp-titles/"><u>[New] Best iOS Applications for Gameplaying Iconic PSP Titles</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-dissection-of-goofy-quest-the-videotape-perspective-for-2024/"><u>[New] Dissection of 'Goofy Quest' – The Videotape Perspective for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-how-to-go-live-on-instagram/"><u>[New] In 2024, How to Go Live on Instagram</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-simplified-techniques-for-browsing-youtube-comments/"><u>[New] In 2024, Simplified Techniques for Browsing YouTube Comments</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-unveiled-list-leading-top-10-facebook-video-downloaders-for-android/"><u>[New] Unveiled List  Leading Top 10 Facebook Video Downloaders for Android</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-enhancing-your-film-edits-proficient-use-of-kinemaster-and-best-digital-options/"><u>[Updated] Enhancing Your Film Edits  Proficient Use of KineMaster & Best Digital Options</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-what-is-the-youtube-highlighted-comment/"><u>[Updated] In 2024, What Is the YouTube Highlighted Comment?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-masterclass-in-muting-and-dismantling-an-instagram-account-for-2024/"><u>[Updated] Masterclass in Muting & Dismantling an Instagram Account for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-prime-naturalist-screen-recording-systems-explained/"><u>2024 Approved  Prime Naturalist Screen Recording Systems Explained</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-showdown-notion-vs-gpt-3-in-content-creation/"><u>AI Showdown: Notion Vs. GPT-3 in Content Creation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/an-introduction-to-claude-3-and-its-potential-applications/"><u>An Introduction to Claude 3 and Its Potential Applications</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/anticipating-the-official-chatgpt-desktop-release-check-out-our-top-free-open-source-ai-chatbot/"><u>Anticipating the Official ChatGPT Desktop Release? Check Out Our Top Free, Open-Source AI Chatbot</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/beat-the-challenge-in-depth-strategies-for-fixing-error-code-103003-in-tarkov-online/"><u>Beat the Challenge: In-Depth Strategies for Fixing Error Code 103003 in Tarkov Online</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/between-two-tech-giants-determining-the-best-ai-chatbot-experience-with-google-bard-vs-bing-chat/"><u>Between Two Tech Giants: Determining the Best AI Chatbot Experience with Google Bard Vs. Bing Chat</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boosting-data-management-in-excel-with-these-3-chatgpt-techniques/"><u>Boosting Data Management in Excel with These 3 ChatGPT Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/building-websites-made-easy-how-chatgpt-assists-in-the-process/"><u>Building Websites Made Easy: How ChatGPT Assists in the Process</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/coding-fun-how-ai-is-shaping-tomorrows-game-landscapes/"><u>Coding Fun: How AI Is Shaping Tomorrow's Game Landscapes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparing-top-tech-giants-chatgpt-microsoft-bing-ai-and-google-bard-who-reigns-supreme/"><u>Comparing Top Tech Giants: ChatGPT, Microsoft Bing AI, and Google Bard - Who Reigns Supreme?</u></a></li>
+<li><a href="https://games-able.techidaily.com/dashboard-deluge-oc-induced-chaos/"><u>Dashboard Deluge: OC-Induced Chaos</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-chatgpt-enterprise-insights-into-functionality-services-and-unique-aspects/"><u>Decoding ChatGPT Enterprise: Insights Into Functionality, Services, and Unique Aspects</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/determining-chatgpts-maximum-response-length/"><u>Determining ChatGPT’s Maximum Response Length</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-microsoft-word-automation-using-chatgpt/"><u>Effortless Microsoft Word Automation Using ChatGPT</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhanced-performance-and-fix-for-star-citizen-windows-instability-issues/"><u>Enhanced Performance & Fix for Star Citizen Windows Instability Issues</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/explore-the-7-most-fascinating-features-launched-for-bard-by-google-at-their-annual-conference/"><u>Explore The 7 Most Fascinating Features Launched for BARD by Google at Their Annual Conference</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-functionality-of-hugging-face-in-machine-learning/"><u>Exploring the Functionality of Hugging Face in Machine Learning</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/game-changing-ai-for-the-diy-industry-gpt-4-is-coming/"><u>Game-Changing AI for the DIY Industry: GPT-4 Is Coming</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-canon-mx3n-series-printer-drivers-compatible-with-widows-1187/"><u>Get the Latest Canon MX3n Series Printer Drivers Compatible with Widows 11/8/7</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-oppo-reno-8t-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Oppo Reno 8T Phone | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-touch-screen-on-nokia-c02-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-audio-integration-into-visual-screens-via-apple/"><u>In 2024, Audio Integration Into Visual Screens via Apple</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-samsung-galaxy-f34-5g-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Samsung Galaxy F34 5G FRP Without Computer</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, Reasons why Pokémon GPS does not Work On Apple iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Vivo V27e? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovative-therapeutic-methods-integrating-chatgpt-into-cognitive-behavioral-therapy/"><u>Innovative Therapeutic Methods: Integrating ChatGPT Into Cognitive Behavioral Therapy</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-chatbot-assistance-lifesaving-when-lost-in-natures-embrace/"><u>Is Chatbot Assistance Lifesaving When Lost in Nature's Embrace?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/latest-developments-in-ai-ethics-chatgpt-controversies-googles-news-feed-transformation-and-maximizing-mobile-internet-during-holidays/"><u>Latest Developments in AI Ethics: ChatGPT Controversies, Google's News Feed Transformation & Maximizing Mobile Internet During Holidays</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-uses-of-llama-2-for-maximum-efficiency/"><u>Mastering the Uses of Llama 2 for Maximum Efficiency</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximizing-potential-with-every-chatgpt-token-used/"><u>Maximizing Potential with Every ChatGPT Token Used</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximizing-wellness-8-innovative-gpt-integrations/"><u>Maximizing Wellness: 8 Innovative GPT Integrations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/questioning-your-assumptions-six-reasons-to-distrust-ai/"><u>Questioning Your Assumptions: Six Reasons to Distrust AI</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/rendering-revival-radeon-reboot-for-2024/"><u>Rendering Revival  Radeon Reboot for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/resurrecting-lost-confidential-snapshots/"><u>Resurrecting Lost, Confidential Snapshots</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/secure-your-personal-info-a-users-manual-for-exiting-chatgpt/"><u>Secure Your Personal Info: A User's Manual for Exiting ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/share-your-chatgpt-interactions-easily-the-ultimate-tutorial-on-linking-chats/"><u>Share Your ChatGPT Interactions Easily - The Ultimate Tutorial on Linking Chats</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/simple-or-enhanced-your-preferred-chatgpt-experience/"><u>Simple or Enhanced: Your Preferred ChatGPT Experience</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-pros-and-cons-of-using-chatgpt-for-creative-writing/"><u>The Pros and Cons of Using ChatGPT for Creative Writing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-quirk-of-machine-learning-discovering-why-chatgpt-cant-detect-its-creations/"><u>The Quirk of Machine Learning: Discovering Why ChatGPT Can't Detect Its Creations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transform-your-teaching-approach-the-8-main-motivators-for-educators-to-embrace-artificial-intelligence/"><u>Transform Your Teaching Approach: The 8 Main Motivators for Educators to Embrace Artificial Intelligence</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/trusting-chatgpt-and-bard-in-the-world-of-cash-management/"><u>Trusting ChatGPT & Bard in the World of Cash Management</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleash-the-power-of-ai-connecting-gpt-3-and-python-seamlessly/"><u>Unleash the Power of AI: Connecting GPT-3 and Python Seamlessly</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleashing-potential-with-ai-the-impact-of-chatgpt-on-next-gen-wearable-devices/"><u>Unleashing Potential with AI: The Impact of ChatGPT on Next-Gen Wearable Devices</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-advanced-productivity-features-by-combining-onlyoffice-docspace-with-the-power-of-chnaghpt-technology/"><u>Unlocking Advanced Productivity Features by Combining ONLYOFFICE DocSpace with the Power of Chnaghpt Technology</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unraveling-and-resolving-top-6-gpt-missteps/"><u>Unraveling & Resolving: Top 6 GPT Missteps</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-critical-problems-within-openais-chatgpt-service/"><u>Unveiling Critical Problems Within OpenAI's ChatGPT Service</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-oneplus-open-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your OnePlus Open | Dr.fone</u></a></li>
+</ul></div>

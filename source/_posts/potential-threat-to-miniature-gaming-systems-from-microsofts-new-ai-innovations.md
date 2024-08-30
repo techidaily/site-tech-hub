@@ -1,7 +1,7 @@
 ---
 title: Potential Threat to Miniature Gaming Systems From Microsoft’s New AI Innovations
-date: 2024-08-27 14:32:30
-updated: 2024-08-29 12:29:34
+date: 2024-08-29T01:11:11.423Z
+updated: 2024-08-30T01:11:11.423Z
 tags:
   - desktop
 categories:
@@ -49,6 +49,9 @@ _AMD_
 
  While a wider memory bus on next-gen AMD APUs is good news, Intel is cooking something even better, something that could completely solve memory bandwidth issues for future handheld PCs.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ##  On-Package RAM Could Be a Silver Lining for Handheld Chips
 
  Aside from low bandwidth, APUs also have to deal with high latency since the system memory isn’t placed right next to the iGPU but is instead either soldered to the PCB or slotted into SO-DIMM slots.
@@ -57,12 +60,19 @@ _AMD_
 
 ![Intel CPU die with on-package RAM chips.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/intel-on-package-ram.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Intel
 
  That said, we don’t yet have any info regarding the memory bandwidth of this on-package RAM solution, but I’m confident it will be pretty high because, like AMD, Intel wants to do this to improve the AI performance of its chips. Once again, an AI-focused improvement could indirectly benefit future gaming handhelds.
 
  Even though NPUs and AI performance are currently all the rage at AMD and Intel, the silver lining here is that both iGPUs and AI-related tasks greatly benefit from increased memory bandwidth. While Microsoft’s AI push looked like pretty bad news for future handhelds at first glance, it could turn out to be a pretty solid boon in the end.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ##  What About ARM Solutions Like the Snapdragon X Elite?
 
  ARM-based chips and [Windows on ARM](https://fox-http.techidaily.com/essential-list-best-microphones-for-4k-ultra-hd/) have been gaining more and more traction in the recent couple of years.
@@ -73,6 +83,9 @@ Intel
 
 ![Snapdragon X Elite Hero Revised](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/snapdragon-x-elite-hero-revised.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 Qualcomm 
 
  This sounds promising for future ARM-based Windows laptops, but it could also mean that we might see handheld gaming PCs powered by ARM chips in the future. ARM SoCs can be incredibly power efficient, making them perfect for mobile solutions. The high-performance version of the Snapdragon X Elite [gulps up to 80W of power](https://tools.techidaily.com/anandtech/products/), the thin and light version of the chip only uses 23W of power, and that’s for the entire device, not only the SoC.
@@ -103,3 +116,46 @@ Qualcomm
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/tep-by-step-guide-to-making-your-youtube-content-stand-out/"><u>[New] Step-by-Step Guide to Making Your YouTube Content Stand Out</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-capturing-clarity-the-essential-list-of-macos-recorders/"><u>[Updated] Capturing Clarity  The Essential List of macOS Recorders</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-essential-tips-building-an-instagram-money-machine/"><u>2024 Approved  Essential Tips  Building an Instagram Money Machine</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-guideline-on-budgeting-for-music-video-filming/"><u>2024 Approved  Guideline on Budgeting for Music Video Filming</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-mastering-image-transitions-with-ease-and-style/"><u>2024 Approved  Mastering Image Transitions with Ease and Style</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-maximize-views-sharing-your-twitch-stream-on-fb/"><u>2024 Approved  Maximize Views  Sharing Your Twitch Stream on FB</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/creative-contest-among-ai-assistants-which-chatbot-emerges-victorious/"><u>Creative Contest Among AI Assistants: Which Chatbot Emerges Victorious?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cutting-edge-accessories-reviewing-the-best-in-vr/"><u>Cutting-Edge Accessories  Reviewing the Best in VR</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/developing-better-empathy-and-self-awareness-through-chatgpt-tools/"><u>Developing Better Empathy and Self-Awareness Through ChatGPT Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-text-to-image-mastery-harnessing-the-capabilities-of-dall-e-and-gpt-4-for-innovative-visuals/"><u>From Text to Image Mastery: Harnessing the Capabilities of DALL-E and GPT-4 for Innovative Visuals</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/get-started-quickly-effective-ways-to-apply-gpt-3-in-your-chatgpt-experience-today/"><u>Get Started Quickly: Effective Ways to Apply GPT-^3 in Your ChatGPT Experience Today</u></a></li>
+<li><a href="https://change-location.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-can-neural-network-mia-threaten-your-chatbots-privacy-understanding-attack-mechanisms/"><u>How Can Neural Network MIA Threaten Your Chatbot's Privacy - Understanding Attack Mechanisms</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-protect-your-privacy-from-chatgpt-opt-out-methods-revealed/"><u>How To Protect Your Privacy From ChatGPT - Opt Out Methods Revealed</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-realme-11-proplus-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Realme 11 Pro+ to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovating-audio-artistry-using-chatgpt-in-digital-production/"><u>Innovating Audio Artistry: Using ChatGPT in Digital Production</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovative-strategies-combining-mind-mapping-tools-with-chatgpt-for-effective-idea-generation/"><u>Innovative Strategies: Combining Mind Mapping Tools with ChatGPT for Effective Idea Generation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/introducing-huggingchat-the-economical-and-interactive-solution-for-those-seeking-a-chat-gpt-substitute/"><u>Introducing HuggingChat: The Economical and Interactive Solution for Those Seeking a Chat GPT Substitute</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-the-era-of-traditional-student-writing-over-with-chatgpts-rise/"><u>Is the Era of Traditional Student Writing Over with ChatGPT's Rise?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-anthropics-claude-3-ai-toolkit/"><u>Mastering Anthropic's Claude 3 AI Toolkit</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/maximizing-b-roll-impact-in-your-edits-for-2024/"><u>Maximizing B-Roll Impact in Your Edits for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mending-common-faults-a-guide-to-fixing-6-gpt-issues/"><u>Mending Common Faults: A Guide to Fixing 6 GPT Issues</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-change-ais-contribution-to-the-evolution-of-game-design/"><u>Navigating Change: AI's Contribution to the Evolution of Game Design</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/peak-craft-space-25-appraisal-for-2024/"><u>Peak Craft Space 25 Appraisal for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revealing-ai-constraints-how-chatgpt-struggles-with-recognizing-its-own-written-content/"><u>Revealing AI Constraints: How ChatGPT Struggles with Recognizing Its Own Written Content</u></a></li>
+<li><a href="https://win11.techidaily.com/tailoring-functionalities-of-fn-keys-on-windows-11-devices/"><u>Tailoring Functionalities of FN Keys on Windows 11 Devices</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-future-of-wearables-explore-6-revolutionary-uses-of-chatgpt-with-your-smartwatch/"><u>The Future of Wearables: Explore 6 Revolutionary Uses of ChatGPT with Your Smartwatch</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/the-google-meet-conversation-blueprint-for-success/"><u>The Google Meet Conversation Blueprint for Success</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-next-leap-in-ai-essential-upgrades-for-the-anticipated-gpt-5-model/"><u>The Next Leap in AI: Essential Upgrades for the Anticipated GPT-5 Model</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-risks-of-relying-on-chatgpt-for-text-summary-why-you-need-alternatives/"><u>The Risks of Relying on ChatGPT for Text Summary: Why You Need Alternatives</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-20-essential-chatgpt-triggers-available-on-github/"><u>Top 20 Essential ChatGPT Triggers Available on GitHub</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-the-potential-of-chatgpt-in-crafting-top-notch-academic-papers-and-theses/"><u>Unlock the Potential of ChatGPT in Crafting Top-Notch Academic Papers and Theses</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-chatgpts-potential-in-linux-with-a-simple-shell-command/"><u>Unlocking ChatGPT's Potential in Linux with a Simple Shell Command</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unraveling-the-secrets-to-dynamic-youtube-trailers-in-filmora-for-2024/"><u>Unraveling the Secrets to Dynamic YouTube Trailers in Filmora for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-secrets-behind-modern-streaming-gadgets/"><u>Unveiling the Secrets Behind Modern Streaming Gadgets</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-top-10-animation-tools-for-teachers-and-students/"><u>Updated 2024 Approved Top 10 Animation Tools for Teachers and Students</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/when-tech-fails-patients-why-not-trust-chatgpt/"><u>When Tech Fails Patients: Why Not Trust ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-chatgpt-cannot-spot-its-own-writing/"><u>Why ChatGPT Cannot Spot Its Own Writing</u></a></li>
+<li><a href="https://change-location.techidaily.com/why-is-ipogo-not-working-on-vivo-v29-pro-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Vivo V29 Pro? Fixed | Dr.fone</u></a></li>
+</ul></div>

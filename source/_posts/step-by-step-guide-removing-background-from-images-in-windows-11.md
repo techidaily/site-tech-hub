@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Removing Background From Images in Windows 11"
-date: 2024-08-26 13:15:31
-updated: 2024-08-29 12:24:53
+date: 2024-08-29T01:12:02.751Z
+updated: 2024-08-30T01:12:02.751Z
 tags:
   - desktop
 categories:
@@ -45,12 +45,26 @@ thumbnail: https://thmb.techidaily.com/6ef60ecb7cca2401b9fc5fadf824084078b845e24
 
 ![A background-less image in Paint.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-background-removed-paint.jpg) 
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  To save this background-less image select File > Save from Paint’s menu bar, or press Ctrl+S.
 
 ![File > Save highlighted in Paint.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-save-photo-paint.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  And that’s it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Remove Background From the Selected Area of an Image
 
  If you don’t want to remove the entire background but a portion of it, select that portion in Paint and then use the background removal option.
@@ -59,6 +73,9 @@ thumbnail: https://thmb.techidaily.com/6ef60ecb7cca2401b9fc5fadf824084078b845e24
 
 ![Open With > Paint highlighted in an image's context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-open-image-with-paint.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  In Paint, in the "Selection" section at the top, click the down-arrow icon and choose "Rectangle." You can’t use the "Free-form" selection tool, as accessing it disables Paint’s background removal feature.
 
 ![The 'Rectangle' selection tool highlighted in Paint.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-rectangle-selection-tool-paint.jpg) 
@@ -67,10 +84,19 @@ thumbnail: https://thmb.techidaily.com/6ef60ecb7cca2401b9fc5fadf824084078b845e24
 
 ![An image area selection and 'Remove Background' highlighted in Paint.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-select-image-area-paint.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Wait while Paint deletes the background from the specified image area. Then, save your image by navigating to File > Save or pressing Ctrl+S.
 
 ![File > Save highlighted in Paint.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-save-edited-image-paint.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Replace an Image's Background With a Solid Color
 
  If you want to replace an image’s background with a solid color, say the solid blue color, use the built-in Photos app as follows.
@@ -83,6 +109,9 @@ thumbnail: https://thmb.techidaily.com/6ef60ecb7cca2401b9fc5fadf824084078b845e24
 
 !['Edit Image' highlighted in Photos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/10-edit-image-photos.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  On the following screen, from the options at the top, select the icon of a person with lines behind them. This is the background removal and replacement tool.
 
 !['Remove Background' highlighted in Photos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/11-remove-background-photos.jpg) 
@@ -107,6 +136,9 @@ thumbnail: https://thmb.techidaily.com/6ef60ecb7cca2401b9fc5fadf824084078b845e24
 
  And Photos will perform your chosen action.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ###  What if You Don't Find the "Replace" Option in Photos
 
  If you don’t see the “Replace” option in Photos, the app version is outdated. Microsoft added the ability to replace backgrounds in Photos’ version 2023.11110.8002.0.
@@ -121,6 +153,10 @@ thumbnail: https://thmb.techidaily.com/6ef60ecb7cca2401b9fc5fadf824084078b845e24
 
 !['Open' highlighted for Microsoft Photos in Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/17-update-photos-microsoft-store.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
  Relaunch Photos and you’ll find the option to replace your images’ backgrounds.
 
  If you need more advanced image editing features you'll have to look elsewhere, however. Photoshop is the obvious first choice for that, but there are plenty of [good (and free) Photoshop alternatives](https://facebook-clips.techidaily.com/new-2024-approved-tips-to-incorrante-tv-with-facebook-live-integration/) out there.
@@ -139,3 +175,49 @@ thumbnail: https://thmb.techidaily.com/6ef60ecb7cca2401b9fc5fadf824084078b845e24
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-provideocapture-pro-10plus-features-and-functionality-overview/"><u>[New] In 2024, ProVideoCapture Pro 10+  Features & Functionality Overview</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-final-verdict-on-the-best-video-editors-online/"><u>[Updated] The Final Verdict on the Best Video Editors Online</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-bridging-worlds-unveiling-the-best-6-in-nft-art/"><u>2024 Approved  Bridging Worlds  Unveiling the Best 6 in NFT Art</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-showdown-notion-vs-gpt-3-in-content-creation/"><u>AI Showdown: Notion Vs. GPT-3 in Content Creation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/an-introduction-to-claude-3-and-its-potential-applications/"><u>An Introduction to Claude 3 and Its Potential Applications</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/artificial-intelligence-pitfalls-six-reasons-to-think-twice-before-trusting-algorithms-blindly/"><u>Artificial Intelligence Pitfalls: Six Reasons to Think Twice Before Trusting Algorithms Blindly</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boosting-data-management-in-excel-with-these-3-chatgpt-techniques/"><u>Boosting Data Management in Excel with These 3 ChatGPT Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-we-bid-farewell-to-handwritten-essays-in-the-era-of-chatgpt/"><u>Can We Bid Farewell to Handwritten Essays in the Era of ChatGPT?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/coding-fun-how-ai-is-shaping-tomorrows-game-landscapes/"><u>Coding Fun: How AI Is Shaping Tomorrow's Game Landscapes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/deciphering-gpts-inbuilt-features-and-their-uses/"><u>Deciphering GPT’s Inbuilt Features & Their Uses</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-chatgpt-enterprise-insights-into-functionality-services-and-unique-aspects/"><u>Decoding ChatGPT Enterprise: Insights Into Functionality, Services, and Unique Aspects</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/essential-guide-video-recording-with-vlc/"><u>Essential Guide  Video Recording with VLC</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-strategies-for-windows-activation-failure-0x803f700f/"><u>Expert Strategies for Windows Activation Failure: 0X803F700f</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/expert-picked-webcams-for-crystal-clear-zoom-meetings/"><u>Expert-Picked Webcams for Crystal Clear Zoom Meetings</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/explore-the-7-most-fascinating-features-launched-for-bard-by-google-at-their-annual-conference/"><u>Explore The 7 Most Fascinating Features Launched for BARD by Google at Their Annual Conference</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-ai-limitations-with-gpt-3/"><u>Exploring AI Limitations with GPT-3</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-functionality-of-hugging-face-in-machine-learning/"><u>Exploring the Functionality of Hugging Face in Machine Learning</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-no-sound-problem-a-step-by-step-chromecast-solution/"><u>Fixing No Sound Problem: A Step-by-Step Chromecast Solution</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/flip-and-rotate-avi-videos-for-free-top-5-software-options-for-2024/"><u>Flip and Rotate AVI Videos for Free Top 5 Software Options for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-honor-magic-vs-2-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Honor Magic Vs 2 Safely | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-6s-to-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 6s To Android devices? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-vivo-y78plus-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Vivo Y78+ Activity | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-everything-to-know-about-apple-id-password-requirements-for-iphone-15-plus-by-drfone-ios/"><u>In 2024, Everything To Know About Apple ID Password Requirements For iPhone 15 Plus</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-zte-blade-a73-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock ZTE Blade A73 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovative-therapeutic-methods-integrating-chatgpt-into-cognitive-behavioral-therapy/"><u>Innovative Therapeutic Methods: Integrating ChatGPT Into Cognitive Behavioral Therapy</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-chatgpt-getting-dumber-openai-says-no/"><u>Is ChatGPT Getting Dumber? OpenAI Says No</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/master-storytelling-effective-chatgpt-triggers-to-shape-your-books-cast/"><u>Master Storytelling: Effective ChatGPT Triggers to Shape Your Book's Cast</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/master-your-typing-easy-download-of-keyboard-drivers-for-windows-7-users/"><u>Master Your Typing: Easy Download of Keyboard Drivers for Windows 7 Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximizing-potential-with-every-chatgpt-token-used/"><u>Maximizing Potential with Every ChatGPT Token Used</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/rapidly-rise-as-a-social-media-star-on-instagram-for-2024/"><u>Rapidly Rise as a Social Media Star on Instagram for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/seamlessly-integrating-chatgpt-with-your-linux-machine/"><u>Seamlessly Integrating ChatGPT with Your Linux Machine</u></a></li>
+<li><a href="https://win11.techidaily.com/1719358882925-solve-your-windows-dilemma-help-strategies-revealed/"><u>Solve Your Windows Dilemma: Help Strategies Revealed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-pros-and-cons-of-using-chatgpt-for-creative-writing/"><u>The Pros and Cons of Using ChatGPT for Creative Writing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transform-your-teaching-approach-the-8-main-motivators-for-educators-to-embrace-artificial-intelligence/"><u>Transform Your Teaching Approach: The 8 Main Motivators for Educators to Embrace Artificial Intelligence</u></a></li>
+<li><a href="https://driver-install.techidaily.com/triple-boost-for-better-window-graphics/"><u>Triple Boost for Better Window Graphics</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleash-the-power-of-ai-connecting-gpt-3-and-python-seamlessly/"><u>Unleash the Power of AI: Connecting GPT-3 and Python Seamlessly</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleashing-excels-full-potential-with-chatgpt-guidance/"><u>Unleashing Excel's Full Potential with ChatGPT Guidance</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-high-quality-video-sequences-via-gopros-burst-for-2024/"><u>Unlocking High-Quality Video Sequences via GoPro's Burst for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-corporate-concerns-the-5-most-significant-arguments-for-banning-gpt/"><u>Unveiling Corporate Concerns: The 5 Most Significant Arguments for Banning GPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-critical-problems-within-openais-chatgpt-service/"><u>Unveiling Critical Problems Within OpenAI's ChatGPT Service</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-how-to-translate-youtube-videos-without-cc/"><u>Updated In 2024, How to Translate YouTube Videos Without CC</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/youtube-enhancement-the-art-of-background-blur-for-2024/"><u>YouTube Enhancement  The Art of Background Blur for 2024</u></a></li>
+</ul></div>

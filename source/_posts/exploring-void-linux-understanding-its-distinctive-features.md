@@ -1,7 +1,7 @@
 ---
 title: "Exploring Void Linux: Understanding Its Distinctive Features"
-date: 2024-08-28 17:23:19
-updated: 2024-08-29 11:23:13
+date: 2024-08-29T01:11:44.737Z
+updated: 2024-08-30T01:11:44.737Z
 tags:
   - desktop
 categories:
@@ -29,18 +29,27 @@ thumbnail: https://thmb.techidaily.com/faf305db1bff9ec7cfb8fafeb68d0a5e6478101d4
 
 Void Linux opts for lightweight software, such as the XFCE4 desktop environment.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  What Makes Void Different?
 
  Void is an independent Linux distro, meaning it isn't based on another existing distribution (e.g., Ubuntu is based on Debian). As such, it has a unique package manager (the X Binary Package System, or "XBPS"). XBPS is similar to other package managers in that it's the way Void installs applications and software. Like most other tools in Void, XBPS is lightweight; as a result, it installs, updates, and deletes apps quickly and efficiently.
 
 ![A picture of the terminal displaying options for Void Linux's package manager binaries.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/xbps-install-xbps-remove-help.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 There are separate binaries for installing, removing, and finding software in Void Linux.
 
  Void also uses a different "init" system (the first program an operating system runs to initialize other programs and services) than most other Linux distros; while systemd is commonly used by distros, Void uses runit, which is significantly smaller in scope and size. As such, Void boots very quickly and generally uses fewer computing resources than other distros like Ubuntu or Fedora.
 
  Lastly, Void is a "stable rolling release," which attempts to strike a balance between distros like Arch (which uses the latest software available, bugs and all) and Debian (which releases major updates every few years). Void and its packages are updated frequently with tested and "stable" versions, meaning Void provides up-to-date software without most of the pitfalls of a true rolling release. The end result for you as the user is access to the newest versions of apps that are tested and suitable for public release.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ##  Why Should You Use Void?
 
  You might like Void Linux if you're looking for a distro that focuses on lightweight software without sacrificing many of the features modern Linux distros enjoy. Void ships out of the box with lighter software like runit and the XFCE4 desktop environment, which both focus on efficiency over features.
@@ -55,6 +64,9 @@ There are separate binaries for installing, removing, and finding software in Vo
 
 ![HTOP in Void Linux showing less than 1% CPU usage and 400MB RAM usage during an idle desktop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/void-linux-idle-htop.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 On an idle desktop, Void uses less than 1% of CPU and roughly 400-500MB of RAM.
 
 ![A picture of HTOP in Void showing CPU usage at 5% and RAM usage at 1.53 GB with 5 tabs open in Firefox and an image loaded in GIMP.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/void-linux-htop-firefox-5-tabs-gimp-with-picture-loaded.png) 
@@ -73,6 +85,23 @@ Even with 5 tabs in Firefox (including a YouTube video playing) and an image loa
 
 ![The Void installer has a simple interface and walks through the installation setup.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/void-installer-options.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
  Here are my recommendations:
 
 **Keyboard:** Set to"us" for United States English (standard QWERTY)
@@ -117,6 +146,9 @@ Even with 5 tabs in Firefox (including a YouTube video playing) and an image loa
 
 ![This is a picture of the Void Linux logo set as the wallpaper for the desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/enter-the-void.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -131,3 +163,37 @@ Even with 5 tabs in Firefox (including a YouTube video playing) and an image loa
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-start-screen-special-free-editing-tools/"><u>[New] Start Screen Special  Free Editing Tools</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-top-choices-for-screen-recorders-that-dont-tie-you-down/"><u>[Updated] 2024 Approved  Top Choices for Screen Recorders That Don't Tie You Down</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-cutting-edge-cadence-exclusive-perfected-dj-templates-online/"><u>[Updated] Cutting Edge Cadence  Exclusive, Perfected DJ Templates Online</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-infinix-note-30-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Infinix Note 30?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatbot-confidentiality-concerns-identifying-and-mitigating-top-three-threats-to-your-privacy/"><u>Chatbot Confidentiality Concerns: Identifying and Mitigating Top Three Threats to Your Privacy</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-for-a-healthier-you-unveiling-9-powerful-techniques/"><u>ChatGPT for a Healthier You: Unveiling 9 Powerful Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-the-complexities-of-ai-in-plain-language/"><u>Decoding the Complexities of AI in Plain Language</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancing-ai-capabilities-with-vector-databases-an-in-depth-look/"><u>Enhancing AI Capabilities with Vector Databases: An In-Depth Look</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/experience-enhanced-android-and-ios-search-with-bings-latest-ai-technology/"><u>Experience Enhanced Android & iOS Search with Bing's Latest AI Technology.</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/explore-the-best-4-ai-driven-storytelling-software-options-available-now/"><u>Explore the Best 4 AI Driven Storytelling Software Options Available Now</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/get-connected-without-a-phone-register-on-platforms-such-as-chatgpt-telegram-and-whatsapp-using-alternative-id-verification-techniques/"><u>Get Connected Without a Phone: Register on Platforms Such as ChatGPT, Telegram & WhatsApp Using Alternative ID Verification Techniques</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-xiaomi-civi-3-disney-100th-anniversary-edition-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Xiaomi Civi 3 Disney 100th Anniversary Edition Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-gigglegenius-funniest-memes-await/"><u>In 2024, GiggleGenius  Funniest Memes Await</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Oppo Reno 11F 5G? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-google-pixel-fold-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Google Pixel Fold Android SIM Unlock APK</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/install-and-utilize-microsoft-copilot-a-macos-manual/"><u>Install and Utilize Microsoft Copilot: A macOS Manual</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leveraging-gpt-for-modern-cognitive-behavioral-strategies/"><u>Leveraging GPT for Modern Cognitive Behavioral Strategies</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-remote-control-a-guide-to-connecting-with-your-samsung-smart-tv/"><u>Mastering Remote Control: A Guide to Connecting with Your Samsung Smart TV</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/post-altman-openai-pivots-ahead-of-chatgpt-prospects/"><u>Post-Altman, OpenAI Pivots Ahead of ChatGPT Prospects</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/protecting-your-personal-information-from-chatgpt-a-guide-on-how-to-withdraw-consent/"><u>Protecting Your Personal Information From ChatGPT - A Guide on How to Withdraw Consent</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionize-human-resources-tasks-using-5-key-gpt-strategies/"><u>Revolutionize Human Resources Tasks Using 5 Key GPT Strategies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tailoring-text-with-chatgpt-teach-it-your-writing-style/"><u>Tailoring Text with ChatGPT: Teach It Your Writing Style</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/take-your-games-to-the-next-level-install-updated-drivers-for-geforce-rtx-2080-ti/"><u>Take Your Games to The Next Level - Install Updated Drivers for GeForce RTX 2080 Ti</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1723262424809-the-hidden-power-within-an-everyday-aerosol-spray-achieving-mach-velocity/"><u>The Hidden Power Within an Everyday Aerosol Spray: Achieving Mach Velocity!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-4-advantages-choosing-microsoft-copilot-over-chatgpt/"><u>Top 4 Advantages: Choosing Microsoft Copilot Over ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-bert-exploring-the-distinct-features-of-this-ais-nlp-capabilities-compared-to-gpt/"><u>Understanding BERT: Exploring the Distinct Features of This AI's NLP Capabilities Compared to GPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-excel-power-3-advanced-skills-beyond-ai-capabilities/"><u>Unlocking Excel Power: 3 Advanced Skills Beyond AI Capabilities</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unmasking-machinerys-myths-spotting-misrepresented-data-by-ai-systems/"><u>Unmasking Machinery's Myths: Spotting Misrepresented Data by AI Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unmasking-the-usefulness-of-advanced-language-models/"><u>Unmasking the Usefulness of Advanced Language Models</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unraveling-6-typical-gpt-glitches-solutions-revealed/"><u>Unraveling 6 Typical GPT Glitches: Solutions Revealed</u></a></li>
+</ul></div>

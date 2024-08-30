@@ -1,7 +1,7 @@
 ---
 title: Top 10 Essential Batch File Scripts for Power Users on Windows
-date: 2024-08-28 12:13:24
-updated: 2024-08-29 10:32:21
+date: 2024-08-29T01:12:59.789Z
+updated: 2024-08-30T01:12:59.789Z
 tags:
   - deals
 categories:
@@ -46,6 +46,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The msconfig window open on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/msconfig-system-configuration-window.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Run msinfo32 to Get Your System Specs
 
  Curious about your [system's specs](https://tech-haven.techidaily.com/has-chatgpt-simplified-or-compromised-academic-writings/)? Just type **msinfo32** in the Run dialog box, and you’ll see everything from your processor type to the amount of RAM installed. You can access detailed system summaries, including hardware resources, software environments, and components.
@@ -54,6 +60,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The example PC's information.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/msinfo32-system-infomation.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ##  Manage Your Installed Apps With appwiz.cpl
 
  If you're looking to manage your installed applications, appwiz.cpl is the command for you. This command brings up the Programs and Features window, giving you a complete list of installed applications on your PC. With a few clicks, you can [quickly uninstall programs](https://youtube-docs.techidaily.com/ed-in-2024-strategies-for-using-youtube-to-boost-classroom-engagement/), change installed programs, or repair programs that aren't working properly.
@@ -62,6 +71,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![A list of installed programs showing in Programs and Features window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/appwiz-programs-and-features-window.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Customize Your Display With desk.cpl
 
  Whether you need to [change your screen resolution](https://instagram-clips.techidaily.com/2024-approved-unleashing-your-brand-potential-with-advanced-insights-on-instagram-data/), or [orientation](https://some-knowledge.techidaily.com/frustrated-photographers-face-black-screen-woes-for-2024/), or manage multiple monitors, the desk.cpl command brings all display-related settings to your fingertips. Additionally, it allows you to adjust your screen brightness, refresh rate, or the size of apps, text, or any other items.
@@ -78,6 +93,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Showing properties and other options for mouse and trackpad.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/main-mouse-properties.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Establish a Remote Connection Using mstsc
 
  mstsc refers to Microsoft Terminal Services Client, which is usually known as Remote Desktop Connection. Simply type **mstsc** in the Run window and [establish a remote desktop connection](https://fox-direct.techidaily.com/unleash-creativity-with-these-essential-vector-editors-for-2024/). You can also customize your remote desktop settings by changing its size, color, audio, and others.
@@ -86,12 +104,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The remote desktop connections window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/mstsc-remote-desktop-connection.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Calibrate Your Screen With dccw
 
  Want to calibrate your monitor for accurate colors? Try dccw. Running this command will open the Display Color Calibration tool, which guides you through [adjusting your monitor’s color settings](https://games-able.techidaily.com/catch-up-on-classic-gaming-with-iphone-and-psp-fusion/). Poor color accuracy can be frustrating, especially for graphic designers or photographers.
 
  To make sure that colors are displayed correctly while calibrating, follow the step-by-step instructions in the dccw calibration window. Additionally, it guides you through adjusting gamma, brightness, contrast, and color balance.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ##  Remove Junk and Old Files Using cleanmgr
 
  Over time, your computer builds up unnecessary files. To keep your computer working smoothly, you need to [remove these files](https://on-screen-recording.techidaily.com/updated-street-smart-showdown-top-hand-to-hand-video-games-for-2024/). You can do this within a few steps by typing the **cleanmgr** command in the Run dialog box.
@@ -108,6 +132,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Viewing real time data of system resources in Resource Monitor window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/resmon-resource-tool.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Navigate Efficiently With "." and ".."
 
  Finally, we have the single dot **.** and the double dot **..** commands. You might use these **.** and **..** commands with cd in the command prompt or PowerShell or any other [terminal for changing directories](https://extra-information.techidaily.com/quick-and-easy-iphone-burst-techniques/). The **.** and **..** commands may seem simple, but they're incredibly useful for navigating the Windows file system.
@@ -134,3 +161,52 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-digital-recorder-snap-your-screen-upload-to-youtube-onlinepcmac/"><u>[New] 2024 Approved  Digital Recorder  Snap Your Screen, Upload to YouTube Online/PC/Mac</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-complete-blueprint-for-optimizing-data-in-adobes-cloud-realm/"><u>[New] The Complete Blueprint for Optimizing Data in Adobe's Cloud Realm</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-inexpensive-capture-apps-reviewed-for-budget-pcs/"><u>[Updated] 2024 Approved  Inexpensive Capture Apps Reviewed For Budget PCs</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-30-webcams-built-for-windows-os-for-2024/"><u>[Updated] Top 30 Webcams Built for Windows OS for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-windows-photo-inspector-fast-edition/"><u>2024 Approved  Top Windows Photo Inspector, Fast Edition</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/are-lessons-on-crafting-balanced-nourishing-dishes-available-from-chatgpt/"><u>Are Lessons on Crafting Balanced, Nourishing Dishes Available From ChatGPT?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/become-a-pro-mastering-codegpt-install-in-vs-code/"><u>Become a Pro: Mastering CodeGPT Install in VS Code</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/best-practices-for-maintaining-privacy-with-chatgpt-during-business-operations/"><u>Best Practices for Maintaining Privacy with ChatGPT During Business Operations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/between-bing-chat-and-chatgpt-what-freelancers-need-to-know-before-deciding-top-8-considerations/"><u>Between Bing Chat & ChatGPT: What Freelancers Need to Know Before Deciding (Top 8 Considerations)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/brace-for-battle-in-ai-conversations-as-googles-bard-sparks-off-to-face-chatgpt/"><u>Brace for Battle in AI Conversations as Google's Bard Sparks Off to Face ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-and-personal-fitness-training-revolutionizing-custom-workout-strategies/"><u>ChatGPT and Personal Fitness Training: Revolutionizing Custom Workout Strategies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-on-iphone-frozen-or-crashing-discover-these-t8-quick-solutions/"><u>ChatGPT on iPhone Frozen or Crashing? Discover These T8 Quick Solutions!</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/clearpathstoexpertisewithyoucamcapture-for-2024/"><u>ClearPathsToExpertiseWithYouCamCapture for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/combatting-loneliness-a-guide-on-leveraging-chatgpts-power/"><u>Combatting Loneliness: A Guide on Leveraging ChatGPT's Power</u></a></li>
+<li><a href="https://video-capture.techidaily.com/detailed-tutorial-on-screen-capturing-in-online-meetings-google/"><u>Detailed Tutorial on Screen Capturing in Online Meetings (Google)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/everyone-with-gpt-4-simplified-user-guide/"><u>Everyone with GPT-4: Simplified User Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/excellence-in-editing-merging-storyremix-with-windows-photos-for-professional-results-for-2024/"><u>Excellence in Editing  Merging StoryRemix with Windows Photos for Professional Results for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/google-is-launching-an-ai-called-bard-to-compete-with-chatgpt/"><u>Google Is Launching An AI Called Bard to Compete With ChatGPT</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-from-iphone-11-pro-without-password-by-drfone-ios/"><u>How to Delete iCloud Account From iPhone 11 Pro without Password?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-evade-chatgpts-conversational-history-logging/"><u>How to Evade ChatGPT's Conversational History Logging</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/improving-your-social-media-content-with-chatgpt-a-step-by-step-guide/"><u>Improving Your Social Media Content with ChatGPT: A Step-by-Step Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-xiaomi-civi-3-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Xiaomi Civi 3 Face Lock?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-optibackup-insider-opinions/"><u>In 2024, OptiBackup Insider Opinions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-courtesy-essential-when-interacting-with-virtual-assistants-like-chatgpt-amazons-alexa-or-apples-siri/"><u>Is Courtesy Essential When Interacting with Virtual Assistants Like ChatGPT, Amazon's Alexa, or Apple's Siri?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-laughter-in-line-for-ai-travel-through-the-past-present-and-future-of-laptop-technology-and-vpn-innovations/"><u>Is Laughter in Line for AI? Travel Through the Past, Present, and Future of Laptop Technology and VPN Innovations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/laughing-at-the-logic-of-machines-ais-journey-in-humor-tracing-laptop-milestones-and-vpn-advances/"><u>Laughing at the Logic of Machines: AI's Journey in Humor, Tracing Laptop Milestones & VPN Advances</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/master-new-tongues-with-ease-leveraging-the-advantages-of-chatgpt-plus-for-multilanguage-education/"><u>Master New Tongues with Ease: Leveraging the Advantages of ChatGPT Plus for Multilanguage Education</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/master-your-minutes-a-deep-dive-into-chatgpts-impact-on-time-management/"><u>Master Your Minutes: A Deep Dive Into ChatGPT's Impact on Time Management</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-androids-voice-assistant-steps-for-getting-a-chatbot-like-chatgpt-using-voicegpt-app/"><u>Mastering Android's Voice Assistant: Steps for Getting a Chatbot Like ChatGPT Using VoiceGPT App</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximize-productivity-in-telecommuting-using-chatgpt-a-6-step-guide/"><u>Maximize Productivity in Telecommuting Using ChatGPT - A 6-Step Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-ai-types-community-wide-to-homebound-integration/"><u>Navigating AI Types: Community-Wide to Homebound Integration</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/paperclip-maximizer-conundrum-and-its-connection-with-ai-technology/"><u>Paperclip Maximizer Conundrum and Its Connection with AI Technology</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/refining-texts-with-ai-insight/"><u>Refining Texts with AI Insight?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionize-cryptocurrency-interactions-unveiling-8-leading-gpt-powered-plugins/"><u>Revolutionize Cryptocurrency Interactions: Unveiling 8 Leading GPT-Powered Plugins</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionizing-online-queries-meet-the-smart-ai-powered-microsoft-bing/"><u>Revolutionizing Online Queries - Meet the Smart, AI-Powered Microsoft Bing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/separating-auto-gpt-from-gpt-4-effectiveness/"><u>Separating Auto-GPT From GPT-4 Effectiveness</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-final-puzzle-will-machines-overcome-humans/"><u>The Final Puzzle: Will Machines Overcome Humans?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-role-of-chatgpt-in-my-podcast-development/"><u>The Role of ChatGPT in My Podcast Development</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/third-party-plugins-and-user-safety-with-gpt/"><u>Third-Party Plugins and User Safety with GPT?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-5-strategies-how-chatgpt-boosts-your-cryptocurrency-investments/"><u>Top 5 Strategies: How ChatGPT Boosts Your Cryptocurrency Investments</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-8-essential-uses-of-auto-gpt-a-comprehensive-guide/"><u>Top 8 Essential Uses of Auto-GPT: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-every-aspect-of-apples-artificial-intelligence-at-wwdc-24/"><u>Unveiling Every Aspect of Apple's Artificial Intelligence at WWDC '24</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-functionalities-of-gpt-extensions/"><u>Unveiling the Functionalities of GPT Extensions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/update-your-protonvpn-contact-information-easily-an-essential-guide-for-users/"><u>Update Your ProtonVPN Contact Information Easily: An Essential Guide for Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/what-you-need-to-know-about-shapley-explainer-engine-shap-e-by-openai/"><u>What You Need to Know About Shapley Explainer Engine (SHAP-E) by OpenAI</u></a></li>
+</ul></div>

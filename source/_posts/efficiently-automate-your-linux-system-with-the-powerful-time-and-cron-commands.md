@@ -1,7 +1,7 @@
 ---
 title: Efficiently Automate Your Linux System with the Powerful Time and Cron Commands
-date: 2024-08-28 14:38:40
-updated: 2024-08-29 12:12:58
+date: 2024-08-29T01:11:10.397Z
+updated: 2024-08-30T01:11:10.397Z
 tags:
   - desktop
 categories:
@@ -31,6 +31,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  We want to use the GNU version of time because it has more [options](http://man7.org/linux/man-pages/man1/time.1.html#OPTIONS) and is more flexible.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ##  Which time Will Run?
 
  You can check which version will run by using the type command. type will let you know whether the shell will handle your instruction itself, with its internal routines, or pass it on to the GNU binary. In a terminal window type the word **type**, a space, and then the word **time**and hit Enter.
@@ -39,12 +42,18 @@ type time
 
 ![type time in a bash terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/05/time_1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
  We can see that in the bash shell time is a reserved word. This means Bash will use its internal time routines by default.
 
 type time
 
 ![type time in a zsh terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/05/time_2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  In the Z shell (zsh) time is a reserved word, so the internal shell routines will be used by default.
 
 type time
@@ -133,12 +142,18 @@ int main (int argc, char* argv[])
 
 ![time results for loop1 in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/05/time_6.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
  Now let's do the same for `loop2`.
 
 \time ./loop2
 
 ![time output for loop2 in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/05/time_7.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
  That's given us two sets of results, but they're in a really ugly format. We can do something about that later, but let's pick a few bits of information out of the results.
 
  When programs run there are two execution modes that they are switched back and forth between. These are called user mode and kernel mode.
@@ -149,6 +164,9 @@ int main (int argc, char* argv[])
 
  The inefficient `loop2` program took three times longer to execute. Its total elapsed time is 0.3 seconds. The duration of the processing time in user mode is 0.29 seconds. Nothing is registering for kernel mode. `loop2` was awarded an average of 96% of CPU time for the duration of its run.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Formatting The Output
 
  You can customize the output from `time` using a format string. The format string can contain text and format specifiers. The list of format specifiers can be [found on the man page](http://man7.org/linux/man-pages/man1/time.1.html#OPTIONS) for `time`. Each of the format specifiers represents a piece of information.
@@ -187,6 +205,9 @@ cat test_results.txt
 
 ![type time in a bash terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/05/time_1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
  The loop1 program output is displayed in the terminal window and the results from time go to the test\_results.txt file.
 
  If you want to capture the next set of results in the same file, you must use the -a (append) option as follows:
@@ -197,6 +218,9 @@ cat test_results.txt
 
 ![type time in a bash terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/05/time_1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
  It should now be apparent why we used the %C format specifier to include the name of the program in the output from the format string.
 
 ##  And We're Out Of time
@@ -223,3 +247,76 @@ cat test_results.txt
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-trends-that-triumph-making-your-instagram-content-viral/"><u>[New] 2024 Approved  Trends That Triumph  Making Your Instagram Content Viral</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-win-with-these-8-free-superior-3d-video-tools/"><u>[New] 2024 Approved  Win with These 8 Free, Superior 3D Video Tools</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/coustic-mastery-secrets-for-exceptional-audio-capture-for-2024/"><u>[New] Acoustic Mastery  Secrets for Exceptional Audio Capture for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-best-for-broadcasting-is-obs-superior-to-twitch-studio-in-2024/"><u>[New] Best for Broadcasting  Is OBS Superior to Twitch Studio, In 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-combining-youtube-videos-for-seamless-playback-for-2024/"><u>[New] Combining YouTube Videos for Seamless Playback for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-transform-your-videography-effortless-recording-and-editing-via-adobe-connect/"><u>[New] In 2024, Transform Your Videography  Effortless Recording and Editing via Adobe Connect</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-essential-techniques-for-video-posts-on-discord/"><u>[Updated] 2024 Approved  Essential Techniques for Video Posts on Discord</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-converting-horizontals-for-igtv-tips-and-techniques-explored-for-2024/"><u>[Updated] Converting Horizontals for IGTV  Tips & Techniques Explored for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-ensuring-correct-ad-revenue-a-comprehensive-guide-to-yt-channel-earnings/"><u>[Updated] In 2024, Ensuring Correct Ad Revenue  A Comprehensive Guide to YT Channel Earnings</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-the-ultimate-guide-to-selecting-peak-frames-per-second-for-slow-motion-cinema/"><u>[Updated] In 2024, The Ultimate Guide to Selecting Peak Frames Per Second For Slow-Motion Cinema</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-overcoming-facebook-algorithm-change-hurdles-for-2024/"><u>[Updated] Overcoming Facebook Algorithm Change Hurdles for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-picture-in-progressive-screen-mastery-for-chrome-users-across-platforms/"><u>[Updated] Picture in Progressive Screen Mastery for Chrome Users Across Platforms</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-a-visual-voyage-with-toolwiz-comprerande-review-2023-edition/"><u>2024 Approved  A Visual Voyage with Toolwiz  Comprerande Review, 2023 Edition</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-digital-heroes-choice-top-10-astonishing-adventure-games/"><u>2024 Approved  Digital Heroes' Choice  Top 10 Astonishing Adventure Games</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pinpointing-key-versions-of-microsofts-movie-maker/"><u>2024 Approved  Pinpointing Key Versions of Microsoft's Movie Maker</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-sony-xperia-5-v-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Sony Xperia 5 V Phone When You Forget the Password</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/become-a-pro-mastering-codegpt-install-in-vs-code/"><u>Become a Pro: Mastering CodeGPT Install in VS Code</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/best-practices-for-maintaining-privacy-with-chatgpt-during-business-operations/"><u>Best Practices for Maintaining Privacy with ChatGPT During Business Operations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-ai-revolutionize-how-students-craft-their-written-assignments/"><u>Can AI Revolutionize How Students Craft Their Written Assignments?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/demystifying-chatgpt-enterprise-key-features-exclusive-offers-and-differentiating-factors/"><u>Demystifying ChatGPT Enterprise: Key Features, Exclusive Offers, and Differentiating Factors</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ning-the-ideal-youtube-playlist-for-you-for-2024/"><u>Designing the Ideal YouTube Playlist for You for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/discover-new-languages-easily-only-047-more-than-before/"><u>Discover New Languages Easily – Only $0.47 More than Before</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/dissecting-the-legal-implications-can-you-be-fired-for-chatgpt-use/"><u>Dissecting the Legal Implications: Can You Be Fired for ChatGPT Use?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/diy-chatgpt-customization-how-to-develop-a-unique-gpt-model/"><u>DIY ChatGPT Customization: How to Develop a Unique GPT Model</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-driver-downloads-for-realteks-rtl81andampcu-wireless-adapter-compatible-with-windows-10-7/"><u>Easy Driver Downloads for Realtek's RTL81^&amp;CU Wireless Adapter Compatible with Windows 10, 7</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-your-ai-experience-with-chatgpts-ios-app-why-its-superior-to-web-browsing/"><u>Elevate Your AI Experience with ChatGPT's iOS App - Why It's Superior to Web Browsing</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-brother-mfc-erotype-9130cw-driver-software-here/"><u>Get the Latest Brother MFC-Erotype-9130CW Driver Software Here!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/guide-ensuring-the-accuracy-of-medical-data-retrieved-via-chatgpt-and-other-ais/"><u>Guide: Ensuring the Accuracy of Medical Data Retrieved via ChatGPT and Other AIs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-does-the-eus-new-ai-legislation-shape-the-future-of-services-such-as-chatgpt/"><u>How Does the EU's New AI Legislation Shape the Future of Services Such as ChatGPT?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-on-apple-iphone-14-plus-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock On Apple iPhone 14 Plus?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-use-chatgpt-to-create-ai-images/"><u>How to Use ChatGPT to Create AI Images</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-will-artificial-intelligence-impact-the-future-of-mental-well-being-and-therapeutic-assistance/"><u>How Will Artificial Intelligence Impact the Future of Mental Well-Being and Therapeutic Assistance?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-motorola-moto-g14-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Motorola Moto G14 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-oneplus-open-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your OnePlus Open via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-elevate-your-content-strategy-with-social-blade-and-youtube-stats/"><u>In 2024, Elevate Your Content Strategy with Social Blade and YouTube Stats</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-find-my-iphone-without-apple-id-on-your-iphone-14-plus-by-drfone-ios/"><u>In 2024, How to Remove Find My iPhone without Apple ID On your iPhone 14 Plus?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-pairing-facebook-playback-with-home-theaters/"><u>In 2024, Pairing Facebook Playback With Home Theaters</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/inside-toms-computer-gear-hub-advanced-tech-analysis-and-advice/"><u>Inside Tom's Computer Gear Hub: Advanced Tech Analysis and Advice</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/intelligent-reading-assistants-5-cutting-edge-tools-powered-by-ai-for-personalized-book-suggestions/"><u>Intelligent Reading Assistants: 5 Cutting-Edge Tools Powered by AI for Personalized Book Suggestions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/introducing-bard-googles-new-ai-system-in-response-to-chatgpt/"><u>Introducing Bard: Google's New AI System in Response to ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/introducing-bard-googles-new-artificial-intelligence-challenge-to-chatgpt/"><u>Introducing Bard: Google's New Artificial Intelligence Challenge to ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-a-standalone-chatgpt-sufficient-or-do-plugins-matter/"><u>Is a Standalone ChatGPT Sufficient, or Do Plugins Matter?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/laughing-at-the-logic-of-machines-ais-journey-in-humor-tracing-laptop-milestones-and-vpn-advances/"><u>Laughing at the Logic of Machines: AI's Journey in Humor, Tracing Laptop Milestones & VPN Advances</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/managing-tension-through-chatgpt-strategies-for-relief-and-resilience/"><u>Managing Tension Through ChatGPT: Strategies for Relief and Resilience</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-androids-voice-assistant-steps-for-getting-a-chatbot-like-chatgpt-using-voicegpt-app/"><u>Mastering Android's Voice Assistant: Steps for Getting a Chatbot Like ChatGPT Using VoiceGPT App</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-ai-types-community-wide-to-homebound-integration/"><u>Navigating AI Types: Community-Wide to Homebound Integration</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-ais-moral-compass-control/"><u>Navigating AI's Moral Compass Control</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-score-a-bargain-on-final-cut-pro-with-our-education-bundle-guide-for-2024/"><u>New Score a Bargain on Final Cut Pro with Our Education Bundle Guide for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/refining-texts-with-ai-insight/"><u>Refining Texts with AI Insight?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionize-cryptocurrency-interactions-unveiling-8-leading-gpt-powered-plugins/"><u>Revolutionize Cryptocurrency Interactions: Unveiling 8 Leading GPT-Powered Plugins</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/securing-administrative-access-the-ultimate-guide-to-bypassing-trustedinstaller-in-windows-11/"><u>Securing Administrative Access: The Ultimate Guide to Bypassing TrustedInstaller in Windows 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/setting-up-chatgpt-widget-for-android-users-comprehensive-instructions/"><u>Setting Up ChatGPT Widget for Android Users - Comprehensive Instructions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/smart-study-hacks-steering-clear-of-misuses-of-chatgpt-for-academic-success/"><u>Smart Study Hacks: Steering Clear of Misuses of ChatGPT for Academic Success</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/snapchats-ai-dilemma-myai-or-chatgpt/"><u>Snapchat's AI Dilemma: MyAI or ChatGPT?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-instructions-for-activating-bing-ai-in-your-android-keyboard/"><u>Step-by-Step Instructions for Activating Bing AI in Your Android Keyboard</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-final-puzzle-will-machines-overcome-humans/"><u>The Final Puzzle: Will Machines Overcome Humans?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-quick-guide-to-correcting-6-common-chatgpt-faults/"><u>The Quick Guide to Correcting 6 Common ChatGPT Faults</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-infinix-note-30-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Infinix Note 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-5-strategies-how-chatgpt-boosts-your-cryptocurrency-investments/"><u>Top 5 Strategies: How ChatGPT Boosts Your Cryptocurrency Investments</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-8-effective-uses-of-auto-gpt-for-enhanced-productivity/"><u>Top 8 Effective Uses of Auto-GPT for Enhanced Productivity</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-8-essential-uses-of-auto-gpt-a-comprehensive-guide/"><u>Top 8 Essential Uses of Auto-GPT: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-auto-gpt-vs-chatgpt-fundamentals/"><u>Understanding Auto-GPT vs ChatGPT Fundamentals</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-limits-when-cant-chatgpt-deliver-answers-or-carry-out-tasks/"><u>Understanding Limits: When Can’t ChatGPT Deliver Answers or Carry Out Tasks?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-creativity-with-chatgpt-a-guide-for-content-producers-9-tips/"><u>Unlocking Creativity with ChatGPT: A Guide for Content Producers (9 Tips)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unmasking-the-most-inventive-bot-in-a-tie-test/"><u>Unmasking the Most Inventive Bot in a Tie Test</u></a></li>
+<li><a href="https://facebook.techidaily.com/untangling-instagram-from-facebook-services/"><u>Untangling Instagram From Facebook Services</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-every-aspect-of-apples-artificial-intelligence-at-wwdc-24/"><u>Unveiling Every Aspect of Apple's Artificial Intelligence at WWDC '24</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-functionalities-of-gpt-extensions/"><u>Unveiling the Functionalities of GPT Extensions</u></a></li>
+</ul></div>
