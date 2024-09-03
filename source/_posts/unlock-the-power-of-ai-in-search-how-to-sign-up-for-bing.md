@@ -1,0 +1,131 @@
+---
+title: Unlock the Power of AI in Search - How to Sign Up for Bing
+date: 2024-09-02T09:31:29.313Z
+updated: 2024-09-03T09:31:29.313Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: This Article Describes Unlock the Power of AI in Search - How to Sign Up for Bing
+excerpt: This Article Describes Unlock the Power of AI in Search - How to Sign Up for Bing
+thumbnail: https://thmb.techidaily.com/b1557e3d9700a9810b8b9bbec88362c53ba5a3f98f5f309c7652fc768db4746d.jpg
+---
+
+## Unlock the Power of AI in Search - How to Sign Up for Bing
+
+ Bing brings much more to the browser table with the introduction of its AI-powered search engine, which turns search from one-way traffic to a two-way conversation between humans and AI.
+
+ You can even customize your chats and search results to suit your personality. For instance, you can ask Prometheus (that's it's name) to be more creative, balanced, or precise with its results.
+
+## Bing Adds AI Power to Search
+
+ Microsoft's AI-powered Bing search engine looks[set to change search as we know it](https://www.makeuseof.com/how-bing-ai-powered-change-search-experience/) . The jury's still out on whether it can[beat Google at search](https://www.makeuseof.com/bing-ai-powered-beat-google-search/) , but things certainly look promising.
+
+ As you no doubt already know, a typical Google search returns hundreds or millions of possible results. Prometheus, the new Bing AI-powered search engine, uses OpenAI's language model and works differently but similarly to ChatGPT.
+
+ For every query you submit, it will scour the internet for relevant answers. But it doesn't stop there. The search engine will further summarize its findings into more straightforward and articulate responses that you can use immediately. Plus, it'll equally cite sources as references.
+
+## How to Use Bing’s AI-Powered Search Engine
+
+ At launch, you needed to join a waitlist in order to try Bing's AI-powered search engine, but it's now available for everyone. Here's how to use it:
+
+1. Head over to[Bing](https://www.bing.com/new?form=MY029I&OCID=MY029I) 's dedicated page.
+2. If you're using a non-Edge browser, you'll need to switch over to Edge.  
+![Open in Microsoft Edge prompt on a white background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/open-in-microsoft-edge.jpg)
+3. Click on**Sign in** (in the top-right corner) to log in to your Microsoft Account.
+4. Once inside, click on**Chat now** .
+5. Pick a conversation style. By default, this is set to**More Balanced** . You can choose to be**More Precise** or**More Creative** .  
+![New Bing Chat Interface showing Conversation Style options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/new-bing-chat-interface.jpg)
+6. Go to the typing area and enter your question. You have a 2,000-character limit.
+7. When done, click the send arrow and wait for it to populate your answer.
+8. It will also preempt your next question or response by suggesting chat prompts.  
+![New Bing Chat Feedback showing Chat Prompts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/new-bing-chat-feedback.jpg)
+
+ Bing also allows you to switch between just**Chat** and**Search** with chat. To experience the Bing AI-powered search:
+
+1. Go to the top of the page and click on**Search** , next to**Chat** .
+2. Clear the search box of any pre-filled query and enter yours. It'll return a search result box similar to[Google's Featured Snippets](https://www.makeuseof.com/what-are-google-featured-snippets/) .  
+![Bing AI-powered search showing results page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-ai-powered-search-results.jpg)
+3. It'll also show you prompts that you can click on to learn more about your subject, including how to contact them (for most people searches).
+4. You can further refine your search by typing a query into the chat box just beneath the main result (if available for your query). To your right, you'll find additional information, for some searches.
+5. If you search for celebrities or popular personalities, it can pull up their Wikipedia entries as well as a chat option to help you learn more about their work, personalities, worldview, and so on. Again, this is subject to availability. To begin, simply click on**Let's chat** .  
+![Bing AI-powered Search showing results page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/new-bing-search-with-ai.jpg)
+
+ Chat mode will only be available when you have access to the AI-powered Bing.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
+## What to Expect from Bing’s AI-Powered Search Engine
+
+ With Bing's AI-powered search, you can expect to enjoy a faster and richer search experience than you would get from a regular Google or Bing search. You can also expect to get citations or references as well as conversational chat results.
+
+ In March 2023, Google also released the early version of Bard, its ChatGPT and Bing AI search competitor. Time will tell who does it better. At the end of the day, users will be the better for it, with a much more improved search experience either with Bing or Google.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ecoming-a-skin-deep-sage-setting-up-your-beauty-channel/"><u>[New] Becoming a Skin-Deep Sage  Setting Up Your Beauty Channel</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-enhance-igtv-engagement-with-diverse-subtitle-options/"><u>[New] Enhance IGTV Engagement with Diverse Subtitle Options</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-unlocking-cost-effective-clouds-for-the-budget-conscious/"><u>[Updated] 2024 Approved  Unlocking Cost-Effective Clouds for the Budget-Conscious</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-behind-the-shoot-spots-seeking-budget-friendly-stunning-tiktok-backdrops/"><u>[Updated] Behind-the-Shoot Spots  Seeking Budget-Friendly, Stunning TikTok Backdrops</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-cinematic-cadence-top-cameras-for-elegant-slow-movement/"><u>2024 Approved  Cinematic Cadence  Top Cameras for Elegant Slow Movement</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-interactions-in-virtuosity-the-top-30-quotes/"><u>2024 Approved  Innovative Interactions in Virtuosity  The Top 30 Quotes</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-the-ultimate-monitor-list-for-an-immersive-xbox-series-x-experience/"><u>2024 Approved  The Ultimate Monitor List for an Immersive Xbox Series X Experience</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beyond-syntax-understanding-gptbots-impact-and-site-restrictions/"><u>Beyond Syntax: Understanding GPTBot's Impact and Site Restrictions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-conversational-ai-drive-health-transformation/"><u>Can Conversational AI Drive Health Transformation?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-versus-google-bard-an-in-depth-review-of-their-capabilities/"><u>ChatGPT Versus Google Bard: An In-Depth Review of Their Capabilities</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/delve-into-the-world-of-chatgpt-enterprise-services-differences-and-more/"><u>Delve Into the World of ChatGPT Enterprise – Services, Differences & More</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722961753984-easy-setup-guide-with-arduino-mega-2560-drivers-downloaded-here/"><u>Easy Setup Guide with Arduino Mega 2560 Drivers Downloaded Here!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effective-strategies-avoiding-common-pitfalls-of-chatgpt-for-students/"><u>Effective Strategies: Avoiding Common Pitfalls of ChatGPT for Students</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-your-note-taking-game-using-chatgpt-insider-secrets-uncovered/"><u>Elevate Your Note-Taking Game Using ChatGPT - Insider Secrets Uncovered</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-your-prompt-engineering-with-these-7-online-platforms/"><u>Elevate Your Prompt Engineering with These 7 Online Platforms</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/embrace-the-world-of-video-design-in-xp/"><u>Embrace the World of Video Design in XP</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/examining-the-quintessential-reasons-behind-chatgpts-swift-ascent-to-global-popularity/"><u>Examining the Quintessential Reasons Behind ChatGPT’s Swift Ascent to Global Popularity</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/excel-mastery-discover-the-three-key-benefits-of-integrating-chabtgpt-into-your-spreadsheets/"><u>Excel Mastery: Discover the Three Key Benefits of Integrating ChabTGPT Into Your Spreadsheets</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-cybersecurity-implications-for-chatgpt/"><u>Exploring Cybersecurity Implications for ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-distinctions-gpt-4-vs-gpt-4-turbo-vs-phi/"><u>Exploring the Distinctions: GPT-4 Vs. GPT-4 Turbo Vs. Phi</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/forefront-ai-explained-is-it-superior-to-chatgpt/"><u>Forefront AI Explained – Is It Superior to ChatGPT?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/free-entry-into-the-world-of-ai-5-strategies-for-gpt-4-use/"><u>Free Entry Into the World of AI: 5 Strategies for GPT-4 Use</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/get-your-next-adventure-ready-with-these-7-ai-based-free-itinerary-tools/"><u>Get Your Next Adventure Ready with These 7 AI-Based, Free Itinerary Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-ai-search-engines-could-change-websites/"><u>How AI Search Engines Could Change Websites</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-important-is-it-to-be-cordial-when-engaging-with-ai-services-like-microsofts-chatgpt-alexa-or-apples-siri/"><u>How Important Is It to Be Cordial When Engaging with AI Services Like Microsoft's ChatGPT, Alexa, or Apple’s Siri?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-learning-chatgpt-can-advance-your-professional-journey-6-key-reasons/"><u>How Learning ChatGPT Can Advance Your Professional Journey: 6 Key Reasons</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-changefake-your-vivo-y100t-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Vivo Y100t Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-use-chatgpt-and-dall-e-to-create-characters-for-dungeons-and-dragons/"><u>How to Use ChatGPT and DALL-E to Create Characters for Dungeons & Dragons</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/initiate-low-cost-windows-ai-simulation-via-gpt4all/"><u>Initiate Low-Cost Windows AI Simulation via GPT4All</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leading-conversations-in-gpt-and-crypto-space/"><u>Leading Conversations in GPT & Crypto Space</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leading-edge-ai-hardware-tech-the-futures-five-titans/"><u>Leading-Edge AI Hardware Tech: The Future's Five Titans</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leveraging-chatgpts-power-building-effective-web-applications-easily/"><u>Leveraging ChatGPT's Power: Building Effective Web Applications Easily</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-chatgpt-for-excel-conquer-spreadsheet-anxiety/"><u>Mastering ChatGPT for Excel: Conquer Spreadsheet Anxiety</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-top-10-animated-text-tools-you-need-to-try/"><u>New In 2024, Top 10 Animated Text Tools You Need to Try</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/quoras-secret-key-to-connecting-with-llms-and-chatbots-efficiently/"><u>Quora's Secret Key to Connecting with LLMs and Chatbots Efficiently</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/secure-dialogue-preventing-model-inversion/"><u>Secure Dialogue: Preventing Model Inversion</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/streamline-your-teams-productivity-using-chatgpt-strategies-and-tips/"><u>Streamline Your Team's Productivity Using ChatGPT Strategies and Tips</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-path-to-a-freed-chatgpt-pc/"><u>The Ultimate Path to a Freed ChatGPT PC</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-six-strategies-for-leveraging-chatgpt-in-crafting-engaging-video-game-narratives/"><u>Top Six Strategies for Leveraging ChatGPT in Crafting Engaging Video Game Narratives</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transforming-replies-with-ai-merging-gpt-3-and-whatsapp-help/"><u>Transforming Replies with AI: Merging GPT-3 and WhatsApp Help</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-chatgpt-plus-advantages-and-disadvantages-revealed/"><u>Understanding ChatGPT Plus: Advantages and Disadvantages Revealed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleash-your-creativity-with-chatgpt-6-innovative-strategies-for-writing/"><u>Unleash Your Creativity with ChatGPT: 6 Innovative Strategies for Writing</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unleashing-fun-and-skills-the-ultimate-dji-robomaster-s1-drones-an-inspiring-tech-review/"><u>Unleashing Fun & Skills: The Ultimate DJI RoboMaster S1 Drones - An Inspiring Tech Review</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-the-potential-navigating-anthropics-advanced-claude-3-ai-services/"><u>Unlocking the Potential: Navigating Anthropic’s Advanced Claude 3 AI Services</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-tak/"><u>Updated Tak</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/what-sets-auto-gpt-apart-from-chatgpt-discover-the-distinctive-aspects/"><u>What Sets Auto-GPT Apart From ChatGPT? Discover the Distinctive Aspects</u></a></li>
+</ul></div>

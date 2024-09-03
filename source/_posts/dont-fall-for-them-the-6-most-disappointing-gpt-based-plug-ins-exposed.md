@@ -1,0 +1,163 @@
+---
+title: Don't Fall for Them! The 6 Most Disappointing GPT-Based Plug-Ins Exposed
+date: 2024-09-02T09:33:02.229Z
+updated: 2024-09-03T09:33:02.229Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: This Article Describes Don't Fall for Them! The 6 Most Disappointing GPT-Based Plug-Ins Exposed
+excerpt: This Article Describes Don't Fall for Them! The 6 Most Disappointing GPT-Based Plug-Ins Exposed
+thumbnail: https://thmb.techidaily.com/88fe982f8ab0af867f1f236b151f6e7396d26757691ab451f3dce8ae4b3a818b.jpg
+---
+
+## To Use or Not to Use a Localized Legal Expert System? Weighing Your Options
+
+### Key Takeaways
+
+* Less censorship: Local LLMs offer the freedom to discuss thought-provoking topics without the restrictions imposed on public chatbots, allowing for more open conversations.
+* Better data privacy: By using a local LLM, all the data generated stays on your computer, ensuring privacy and preventing access by companies running publicly-facing LLMs.
+* Offline usage: Local LLMs allow for uninterrupted usage in remote or isolated areas without reliable internet access, providing a valuable tool in such scenarios.
+
+ Since the arrival of ChatGPT in November 2022, the term large language model (LLM) has quickly transitioned from a niche term for AI nerds to a buzzword on everyone's lips. The greatest allure of a local LLM is the ability to replicate the abilities of a chatbot like ChatGPT on your computer without the baggage of a cloud-hosted version.
+
+ Arguments exist for and against setting up a local LLM on your computer. We'll cut the hype and bring you the facts. Should you use a local LLM?
+
+## The Pros of Using Local LLMs
+
+![digital graphic of ai brain with various icons spreading outward and laptop in background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/ai-brain-digital.jpg)
+
+ Why are people so hyped about setting up their own[large language models](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) on their computers? Beyond the hype and bragging rights, what are some practical benefits?
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 1\. Less Censorship
+
+ When ChatGPT and Bing AI first came online, the things both chatbots were willing to say and do were as fascinating as they were alarming. Bing AI acted warm and lovely, like it had emotions. ChatGPT was willing to use curse words if you asked nicely. At the time, both chatbots would even help you make a bomb if you used the right prompts. This might sound like all shades of wrong, but being able to do anything was emblematic of the unrestricted capabilities of the language models that powered them.
+
+ Today, both[chatbots have been so tightly censored](https://www.makeuseof.com/what-is-chatbot-censorship/) that they won't even help you write a fictional crime novel with violent scenes. Some AI chatbots won't even talk about religion or politics. Although LLMs you can set up locally aren't entirely censorship-free, many of them will gladly do the thought-provoking things the public-facing chatbots won't do. So, if you don't want a robot lecturing you about morality when discussing topics of personal interest, running a local LLM might be the way to go.
+
+### 2\. Better Data Privacy
+
+ One of the primary reasons people opt for a local LLM is to ensure that whatever happens on their computer stays on their computer. When you use a local LLM, it's like having a conversation privately in your living room—no one outside can listen in. Whether you're experimenting with your credit card details or having sensitive personal conversations with the LLM, all the resulting data is stored only on your computer. The alternative is using publicly-facing LLMs like GPT-4, which gives the companies in charge access to your chat information.
+
+### 3\. Offline Usage
+
+ With the internet being widely affordable and accessible, offline access might seem like a trivial reason to use a local LLM. Offline access could become especially critical in remote or isolated locations where internet service is unreliable or unavailable. In such scenarios, a local LLM operating independently of an internet connection becomes a vital tool. It allows you to continue doing whatever you want to do without interruption.
+
+### 4\. Cost Savings
+
+ The average price of accessing a capable LLM like GPT-4 or Claude 2 is $20 per month. Although that might not seem like an alarming price, you still get several annoying restrictions for that amount. For instance, with GPT-4, accessed via ChatGPT, you are stuck with a 50-message per three-hour cap. You can only get past those limits by[switching to the ChatGPT Enterprise plan](https://www.makeuseof.com/what-is-chatgpt-enterprise/) , which could potentially cost thousands of dollars. With a local LLM, once you've set up the software, there are no $20 monthly subscription or recurring costs to pay. It's like buying a car instead of relying on ride-share services. Initially, it's expensive, but over time, you save money.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
+### 5\. Better Customization
+
+ Publicly available AI chatbots have restricted customization due to security and censorship concerns. With a locally hosted AI assistant, you can fully customize the model for your specific needs. You can train the assistant on proprietary data tailored to your use cases, improving relevance and accuracy. For example, a lawyer could optimize their local AI to generate more precise legal insights. The key benefit is control over customization for your unique requirements.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
+## The Cons of Using Local LLMs
+
+![An illustration of a young boy using ChatGPT on a computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-and-child.jpg)
+
+ Before you make the switch, there are some downsides to using a local LLM you should consider.
+
+### 1\. Resource Intensive
+
+ To run a performant local LLM, you'll need high-end hardware. Think powerful CPUs, lots of RAM, and likely a dedicated GPU. Don't expect a $400 budget laptop to provide a good experience. Responses will be painfully slow, especially with larger AI models. It's like running cutting-edge video games—you need beefy specs for optimal performance. You may even need specialized cooling solutions. The bottom line is that local LLMs require an investment in top-tier hardware to get the speed and responsiveness you enjoy on web-based LLMs (or even improve on that). The computing demands on your end will be significant compared to using web-based services.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
+### 2\. Slower Responses and Inferior Performance
+
+ A common limitation of local LLMs is slower response times. The exact speed depends on the specific AI model and hardware used, but most setups lag behind online services. After experiencing instant responses from ChatGPT, Bard, and others, local LLMs can feel jarringly sluggish. Words slowly trickle out versus being quickly returned. This isn't universally true, as some local deployments achieve good performance. But average users face a steep drop-off from the snappy web experience. So, prepare for a "culture shock" from fast online systems to slower local equivalents.
+
+ In short, unless you're rocking an absolute top-of-the-line setup (we're talking AMD Ryzen 5800X3D with an Nvidia RTX 4090 and enough RAM to sink a ship), the overall performance of your local LLM won't compare to the online generative AI chatbots you're used to.
+
+### 3\. Complex Setup
+
+ Deploying a local LLM is more involved than just signing up for a web-based AI service. With an internet connection, your ChatGPT, Bard, or Bing AI account could be ready to start prompting in minutes. Setting up a full local LLM stack requires downloading frameworks, configuring infrastructure, and integrating various components. For larger models, this complex process can take hours, even with tools that aim to simplify installation. Some bleeding-edge AI systems still require deep technical expertise to get running locally. So, unlike plug-and-play web-based AI models, managing your own AI involves a significant technical and time investment.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+### 4\. Limited Knowledge
+
+ A lot of local LLMs are stuck in the past. They have limited knowledge of current events. Remember when ChatGPT couldn't access the internet? When it could only provide answers to questions about events that occurred before September 2021? Yes? Well, similar to early ChatGPT models, locally hosted language models are often trained only on data before a certain cutoff date. As a result, they lack awareness of recent developments after that point.
+
+ Additionally, local LLMs can't access live internet data. This restricts usefulness for real-time queries like stock prices or weather. To enjoy a semblance of real-time data, local LLMs will typically require an additional layer of integration with internet-connected services. Internet access is one of the reasons you might[consider upgrading to ChatGPT Plus](https://www.makeuseof.com/reasons-you-should-upgrade-chatgpt-plus/) !
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## Should You Use a Local LLM?
+
+ Local large language models provide tempting benefits but also have real downsides to consider before taking the plunge. Less censorship, better privacy, offline access, cost savings, and customization make a compelling case for setting up your LLM locally. However, these benefits come at a price.
+
+ With lots of freely available LLMs online, jumping into local LLMs may be like swatting a fly with a sledgehammer–possible but overkill. But remember, if it's free, you and the data you generate are likely the product. So, there is no definitive right or wrong answer today. Assessing your priorities will determine if now is the right time to make the switch.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/1716183956335-new-2024-approved-how-to-reverse-image-search-instagram/"><u>[New] 2024 Approved  How to Reverse Image Search Instagram</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-the-ultimate-guide-to-iphoneipad-recording/"><u>[New] 2024 Approved  The Ultimate Guide to iPhone/iPad Recording</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-a-detailed-guide-to-streamlabs-obs/"><u>[New] A Detailed Guide to Streamlabs OBS</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-accelerate-audience-engagement-with-high-impact-hash-tags/"><u>[New] In 2024, Accelerate Audience Engagement with High-Impact Hash Tags</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-structuring-vimeo-footage-chapter-creation-tips-for-2024/"><u>[New] Structuring Vimeo Footage  Chapter Creation Tips for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-framefixer-editor/"><u>[Updated] In 2024, FrameFixer Editor</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-whatsapp-friendly-broadcasting-facebook-videos/"><u>[Updated] In 2024, WhatsApp-Friendly  Broadcasting Facebook Videos</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boosting-your-gaming-experience-solutions-for-higher-frame-rates-in-assassins-creed-valhalla/"><u>Boosting Your Gaming Experience: Solutions for Higher Frame Rates in Assassin's Creed Valhalla</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/complete-guide-activating-the-default-admin-profile-across-windows-11-7-and-8-a-step-by-step-tutorial/"><u>Complete Guide: Activating the Default Admin Profile Across Windows 11, 7 & 8 - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/complete-guide-halting-all-updates-on-your-windows-10-pc/"><u>Complete Guide: Halting All Updates on Your Windows 10 PC</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-windows-10-soundscape-the-ultimate-guide-to-improving-speakers-and-headphones/"><u>Elevate Windows 10 Soundscape: The Ultimate Guide to Improving Speakers and Headphones</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-your-gaming-experience-proven-methods-to-enhance-fps-in-roblox-games-as-of-2024/"><u>Elevate Your Gaming Experience: Proven Methods to Enhance FPS in Roblox Games as of 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-your-listening-experience-with-a-windows-11-sound-equalizer-best-practices-unveiled/"><u>Elevate Your Listening Experience with a Windows 11 Sound Equalizer - Best Practices Unveiled</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enable-third-party-devices-without-signatures-on-your-windows-10-system/"><u>Enable Third-Party Devices Without Signatures on Your Windows 10 System</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/essential-hardware-guide-confirming-your-pcs-compatibility-with-overwatch/"><u>Essential Hardware Guide: Confirming Your PC's Compatibility with Overwatch</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-tech-insights-and-reviews-your-guide-to-the-latest-gadgets/"><u>Exploring Tom's Tech Insights & Reviews - Your Guide to the Latest Gadgets</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/fixing-format-failed-on-windows-a-step-by-step-guide-to-complete-the-process/"><u>Fixing 'Format Failed' On Windows - A Step-by-Step Guide to Complete the Process</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/free-downloads-latest-dell-device-drivers-compatible-with-windows-7/"><u>Free Downloads: Latest Dell Device Drivers Compatible with Windows 7</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-novice-to-expert-a-beginners-guide-to-pc-video-production/"><u>From Novice to Expert: A Beginner's Guide to PC Video Production</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/getting-windows-10-driver-updates-done-in-a-flash-tips-and-tricks/"><u>Getting Windows 10 Driver Updates Done in a Flash: Tips & Tricks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-change-skype-password-easily/"><u>How to Change Skype Password Easily</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-convert-soundcloud-to-mp3-quickly-and-easily/"><u>How to Convert SoundCloud to MP3 – Quickly & Easily</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-easily-distribute-games-through-your-steam-library/"><u>How to Easily Distribute Games Through Your Steam Library</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-restore-a-bricked-honor-x9a-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Honor X9a Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-honor-magic-6-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Honor Magic 6 Phone Without Password?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-restore-original-sound-in-tweet-video-links/"><u>In 2024, Restore Original Sound in Tweet Video Links</u></a></li>
+<li><a href="https://facebook.techidaily.com/infiltrating-intimacy-a-guide-to-fb-privacy/"><u>Infiltrating Intimacy: A Guide to Fb Privacy</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-no-sound-challenges-with-your-conexant-smartaudio-hd-in-windows-11/"><u>Overcoming No Sound Challenges with Your Conexant SmartAudio HD in Windows 11</u></a></li>
+<li><a href="https://app-tips.techidaily.com/reviving-your-messages-comprehensive-guide-on-recovering-whatsapp-backups-from-google-drive-on-ios-devices/"><u>Reviving Your Messages: Comprehensive Guide on Recovering WhatsApp Backups From Google Drive on iOS Devices</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-strategies-to-clean-up-bloatware-from-your-windows-11-system/"><u>Step-by-Step Strategies to Clean Up Bloatware From Your Windows 11 System</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/troubleshooting-steps-for-the-non-functioning-exodus-kodi-add-on-latest-july-fixes/"><u>Troubleshooting Steps for the Non-Functioning Exodus Kodi Add-On - Latest July Fixes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/troubleshooting-techniques-for-detecting-an-unseen-hdd-on-windows-10-systems/"><u>Troubleshooting Techniques for Detecting an Unseen HDD on Windows 10 Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-preventing-counter-strike-2-from-crashing-in-your-latest-update/"><u>Troubleshooting Tips for Preventing Counter-Strike 2 From Crashing in Your Latest Update</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-windows-10s-latest-features-with-update-kb4103429-and-kb4013418/"><u>Understanding Windows 10'S Latest Features with Update KB4103429 & KB4013418</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1723808150629-unlock-seamless-gaming-mastering-ps4s-remote-play-functionality-on-android-with-a-quick-tutorial/"><u>Unlock Seamless Gaming: Mastering PS4's Remote Play Functionality on Android with a Quick Tutorial!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-seamless-screen-mirroring-in-windows-1011-using-miracast-set-up-and-troubleshooting-tips-included/"><u>Unlock Seamless Screen Mirroring in Windows 10/11 Using Miracast – Set Up & Troubleshooting Tips Included</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unseen-tracks-strategies-for-discreet-online-journeys/"><u>Unseen Tracks: Strategies for Discreet Online Journeys</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/video-recording-mastery-tips-for-shooting-with-a-pc-camera/"><u>Video Recording Mastery: Tips for Shooting with a PC Camera</u></a></li>
+</ul></div>

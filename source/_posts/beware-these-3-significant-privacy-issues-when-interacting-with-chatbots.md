@@ -1,0 +1,203 @@
+---
+title: Beware These 3 Significant Privacy Issues When Interacting With Chatbots
+date: 2024-09-02T09:32:58.190Z
+updated: 2024-09-03T09:32:58.190Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: This Article Describes Beware These 3 Significant Privacy Issues When Interacting With Chatbots
+excerpt: This Article Describes Beware These 3 Significant Privacy Issues When Interacting With Chatbots
+thumbnail: https://thmb.techidaily.com/df0051150a59f2be7546002ebadac6c91a67abcc0cae700de7b83f4b7dc74cf2.jpg
+---
+
+## ChatGPT or Gemini? Assessing the Strengths of Google's Newest Artificial Intelligence
+
+### Quick Links
+
+* [What Is Google's Gemini AI Model?](https://www.makeuseof.com/is-google-gemini-better-than-chatgpt/#what-is-google-39-s-gemini-ai-model)
+* [How to Use Google Gemini AI](https://www.makeuseof.com/is-google-gemini-better-than-chatgpt/#how-to-use-google-gemini-ai)
+* [How Gemini Compares to GPT-3.5 and GPT-4](https://www.makeuseof.com/is-google-gemini-better-than-chatgpt/#how-gemini-compares-to-gpt-3-5-and-gpt-4)
+* [Is Gemini Better than ChatGPT?](https://www.makeuseof.com/is-google-gemini-better-than-chatgpt/#is-gemini-better-than-chatgpt)
+
+### Key Takeaways
+
+* Google's AI model Gemini has three variants, Ultra, Pro, and Nano, focused on different tasks and complexity levels.
+* Gemini Ultra shows promising results on key AI benchmarks, but, as of December 2023, not available for public use. Google says it should be available in January of 2024.
+* Gemini Pro is available and while it performs quite well, it presently fails to dethrone GPT-4.
+
+ Google has consistently promised that its Gemini AI model would be better than OpenAI's GPT-4, the model that powers ChatGPT Plus. Now that Google Gemini has launched, we can finally put it to the test and see how Gemini compares to GPT-4.
+
+ When Google launched Bard in March 2023, there were many reasons to be excited. Finally, OpenAI's ChatGPT monopoly would be broken, and we'd get worthy competition.
+
+ But Bard was never the AI titan people hoped for, and GPT-4 remains the dominant generative AI chat bot platform. Now, Google's Gemini is here—but is the long-awaited AI model better than ChatGPT?
+
+## What Is Google's Gemini AI Model?
+
+[Gemini is Google's most capable generative AI model](https://www.makeuseof.com/what-is-googles-ai-project-gemini/) , able to understand and operate across different data formats, including text, audio, image, and video. It is Google's attempt to create a unified AI model drawing capabilities from its most capable AI technologies. Gemini will be available in three variants:
+
+1. **Gemini Ultra:** The largest and most capable variant designed to handle highly complex tasks.
+2. **Gemini Pro:** The best model for scaling and delivering high performance across a wide range of tasks, but less capable than Ultra.
+3. **Gemini Nano:** The most efficient model designed for on-device task deployment. For example, developers can use Gemini Nano to build mobile apps or integrated systems, bringing powerful AI into the mobile space.
+
+ On its official blog,[The Keyword](https://blog.google/technology/ai/google-gemini-ai/) , Google says Gemini Ultra outperforms the state-of-the-art in several benchmarks. Google claims Gemini Ultra beats the industry-leading GPT-4 in several key benchmarks.
+
+ With an unprecedented 90.0% score on the rigorous MMLU benchmark, Google says Gemini Ultra is the first model to surpass human-level performance on this multifaceted test spanning 57 subjects.
+
+![google gemini ai data comparing to open ai gpt4 model](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/google-gemini-ai-data-comparing-to-open-ai-gpt4-model.jpg)
+
+[Google](https://blog.google/technology/ai/google-gemini-ai/#performance)
+
+ Gemini Ultra can also understand, explain, and generate high-quality code in some of the world's most popular programming languages, including Go, JavaScript, Python, Java, and C++. On paper, these are all great results. But these are all benchmarks, and benchmarks do not always tell the whole story. So, how well does Gemini perform in real-world tasks?
+
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
+## How to Use Google Gemini AI
+
+ Of the three variants of the Gemini AI model, you can start using Gemini Pro right now. Gemini Pro is currently available on Google's Bard chatbot. To use Gemini Pro with Bard, head to[bard.google.com](http://bard.google.com/chat) and sign in with your Google account.
+
+ Google says that Gemini Ultra will roll out in January 2024, so we've had to settle for testing Gemini Pro against ChatGPT for now.
+
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## How Gemini Compares to GPT-3.5 and GPT-4
+
+ When any new AI model is launched, it is tested against OpenAI's GPT AI models, which are generally accepted as the state-of-the-art model other models should be held up against. So, using Bard and ChatGPT, we tested Gemini's ability in math, creative writing, code generation, and accurately processing image inputs.
+
+ Starting with the easiest math question we could think of, we asked both chatbots to solve:**\-1 x -1 x -1** .
+
+ Bard went first. We repeated the question twice, all coming back with wrong answers. We did get the answer on the third attempt, but that doesn't count.
+
+![Bard answers Math question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/bard-answers-math-question.jpg)
+
+We tried ChatGPT running on GPT-3.5\. The first trial got it right.
+
+![ChatGPT answers math question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-answers-math-question.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
+ To test Gemini's image interpretation abilities, we tasked it with interpreting some popular memes. It declined, saying it can't interpret images with people in it. ChatGPT, running GPT-4V, was willing and able to do so flawlessly.
+
+ We tried another attempt at making it interpret an image while testing its problem-solving and coding ability. We gave Bard, running Gemini Pro, a screenshot and asked it to interpret and write HTML and CSS code to replicate the screenshot.
+
+Here's the source screenshot.
+
+![screenshot of Chatbase chatbot creator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot-to-replicate.jpg)
+
+ Below is Gemini Pro's attempt to interpret and replicate the screenshot using HTML and CSS.
+
+![results of screenshot replication by Bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/results-of-screenshot-replication-by-bard.jpg)
+
+ And here's GPT-4's attempt at replicating the screenshot. The result is not surprising, considering GPT-4 has historically been strong at coding. We've previously demonstrated[using GPT-4 to build a web app from scratch](https://www.makeuseof.com/chatgpt-how-build-web-app/) .
+
+![results of screenshot replication by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/results-of-screenshot-replication-by-chatgpt.jpg)
+
+ We asked Gemini Pro to create a poem about Tesla (the electric vehicle car brand). It showed marginal improvements from previous tests we've done in the past. Here's the result:
+
+![Bard running Gemini Pro writes a poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/bard-writes-peom.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
+ At this point, we thought comparing the results against GPT-3.5 rather than the supercharged GPT-4 would be more appropriate. So, we asked ChatGPT running GPT-3.5 to create a similar poem.
+
+![ChatGPT writes poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-writes-poem.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ It may be a personal choice, but Gemini Pro's take on this seems better. But we'll let you be the judge.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
+## Is Gemini Better than ChatGPT?
+
+ Before Google launched Bard, we thought it'd be the ChatGPT competition we had been waiting for—it wasn't. Now, Gemini is here, and so far, Gemini Pro doesn't seem like the model to give ChatGPT the knockout punch.
+
+ Google says Gemini Ultra is going to be much better. We truly hope it is, and that it meets or exceeds the claims made in the Gemini Ultra announcement. But until we see and test the best version of Google's generative AI tool, we won't know if it can unseat other AI model competitors. As it stands, GPT-4 remains the undisputed AI model champion.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-home-cinematographers-review-best-video-recorders-for-2024/"><u>[New] Home Cinematographer's Review  Best Video Recorders for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-unleashing-funimate-joy-comprehensive-tutorials/"><u>[New] In 2024, Unleashing Funimate Joy - Comprehensive Tutorials</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-achieving-excellence-in-android-video-production-using-obs/"><u>[Updated] 2024 Approved  Achieving Excellence in Android Video Production Using OBS</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-exploring-easy-to-use-game-recording-and-edit-software/"><u>[Updated] Exploring Easy-to-Use Game Recording & Edit Software</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-making-your-youtube-content-stand-out-with-engaging-subtitle-designs/"><u>[Updated] Making Your YouTube Content Stand Out with Engaging Subtitle Designs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-mastering-the-installation-of-movie-maker-6-for-2024/"><u>[Updated] Mastering the Installation of Movie Maker 6 for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-strategies-for-purchasing-clear-visual-content/"><u>[Updated] Strategies for Purchasing Clear Visual Content</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-streamlining-your-online-impact-with-correct-fb-video-dimensions-for-2024/"><u>[Updated] Streamlining Your Online Impact with Correct FB Video Dimensions for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-the-secret-sauce-for-a-viral-tiktok-unboxer-masterpiece-for-2024/"><u>[Updated] The Secret Sauce for a Viral TikTok Unboxer Masterpiece for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-becoming-a-maestro-at-zoom-broadcasting-on-youtube/"><u>2024 Approved  Becoming a Maestro at Zoom Broadcasting on YouTube</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-top-10-fastest-flip-screen-games-on-desktops-and-phones/"><u>2024 Approved  Top 10 Fastest Flip-Screen Games on Desktops & Phones</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-comprehensive-guide-setting-up-a-vpn-connection-on-windows-10-easy-step-by-step-instructions/"><u>A Comprehensive Guide: Setting Up a VPN Connection on Windows 10 - Easy, Step-by-Step Instructions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/befreier-fur-dvds-gratuit-ohne-digitalen-wasserzeichen-unbeschrankte-dvd-konvertierung/"><u>Befreier Für DVDs Gratuit, Ohne Digitalen Wasserzeichen – Unbeschränkte DVD Konvertierung</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bluetooth-troubleshooting-how-to-extend-range-and-strengthen-signals-on-your-windows-11-pc/"><u>Bluetooth Troubleshooting: How to Extend Range & Strengthen Signals on Your Windows 11 PC</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boost-performance-optimizing-nvidias-3d-settings-via-control-panel/"><u>Boost Performance: Optimizing NVIDIA's 3D Settings via Control Panel</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boost-your-windows-11-speed-top-8-methods-for-a-smoother-experience/"><u>Boost Your Windows 11 Speed: Top 8 Methods for a Smoother Experience</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boosting-frame-rate-in-assassins-creed-valhalla-expert-tips-and-tricks/"><u>Boosting Frame Rate in Assassin's Creed Valhalla: Expert Tips and Tricks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boosting-your-download-velocity-proven-solutions/"><u>Boosting Your Download Velocity: Proven Solutions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/compattelrunnerexe-high-disk-usage-in-windows-11-and-7-solved/"><u>CompatTelRunner.exe High Disk Usage in Windows 11 & 7 [Solved]</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comprehensive-troubleshooting-making-the-logitech-g923-functional-again/"><u>Comprehensive Troubleshooting: Making the Logitech G923 Functional Again</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/continuous-video-streaming-on-youtube-master-the-art-of-automatic-playback-and-repetitions/"><u>Continuous Video Streaming on YouTube: Master the Art of Automatic Playback and Repetitions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/counter-cold-war-pc-lag-and-frame-drops-with-these-proven-techniques-2024-game-optimization-guide/"><u>Counter Cold War PC Lag and Frame Drops with These Proven Techniques - 2024 Game Optimization Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/cut-through-competition-advanced-techniques-for-instagram-ready-videos/"><u>Cut Through Competition  Advanced Techniques for Instagram-Ready Videos</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1723808211669-discover-the-top-10-game-torrents-your-guide-to-free-downloads/"><u>Discover the Top 10 Game Torrents: Your Guide to Free Downloads.</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-installation-tips-for-genesis-streaming-addon-on-your-kodi-device/"><u>Easy Installation Tips for Genesis Streaming Addon on Your Kodi Device</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effective-methods-for-disentangling-software-in-windows-11-systems/"><u>Effective Methods for Disentangling Software in Windows 11 Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-mp3-conversion-transforming-your-soundcloud-tracks-with-simple-steps/"><u>Effortless MP3 Conversion: Transforming Your SoundCloud Tracks with Simple Steps</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortlessly-change-your-homepage-to-google-with-these-swift-steps/"><u>Effortlessly Change Your Homepage to Google with These Swift Steps!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/fix-windows-11-realtek-high-definition-audio-driver-issue/"><u>Fix Windows 11 Realtek High Definition Audio Driver Issue</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/fixed-it-how-to-successfully-uninstall-amd-graphics-drivers-in-windows-operating-systems/"><u>Fixed It! How to Successfully Uninstall AMD Graphics Drivers in Windows Operating Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-error-code-31-for-your-pcs-internet-connection/"><u>Fixing Error Code 31 for Your PC's Internet Connection</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/forgotten-gmail-password-unlock-simple-troubleshooting-steps-now/"><u>Forgotten Gmail Password? Unlock Simple Troubleshooting Steps Now!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/fresh-start-troubleshooting-and-solutions-for-error-500-internal-server-error-in-google-chrome/"><u>Fresh Start: Troubleshooting and Solutions for 'Error 500 (Internal Server Error)' In Google Chrome</u></a></li>
+<li><a href="https://facebook.techidaily.com/harvesting-the-wind-100-renewable-operations-at-fb/"><u>Harvesting the Wind: 100%% Renewable Operations at FB</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-fix-windows-11-installation-has-failed/"><u>How to Fix “Windows 11 Installation Has Failed”</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-lava-storm-5g-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Lava Storm 5G</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/improved-readability-and-clarity-by-increasing-text-size-which-is-particularly-helpful-for-those-who-have-difficulty-reading-small-fonts/"><u>Improved Readability and Clarity by Increasing Text Size, Which Is Particularly Helpful for Those Who Have Difficulty Reading Small Fonts</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-from-iphone-12-mini-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password From iPhone 12 mini</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-basic-understanding-of-e-story-crafting/"><u>In 2024, Basic Understanding of E-Story Crafting</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-guide-to-free-music-for-mindfulness-and-serenity/"><u>In 2024, Guide to Free Music for Mindfulness & Serenity</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/install-asus-aura-ui-customization-packs-on-windows-10-or-11/"><u>Install ASUS Aura UI Customization Packs on Windows 10 or 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/installing-your-epson-printer-made-simple-follow-these-steps/"><u>Installing Your Epson Printer Made Simple: Follow These Steps</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/laptop-as-external-monitor-how-to-easily-project-your-desktop/"><u>Laptop as External Monitor: How to Easily Project Your Desktop</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-boot-settings-a-comprehensive-tutorial-for-windows-107-users/"><u>Mastering Boot Settings: A Comprehensive Tutorial for Windows 10/7 Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-personalization-adopting-chatgpt-for-refined-persons/"><u>Mastering Personalization: Adopting ChatGPT for Refined Persons</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-peer-to-peer-sharing-the-best-torrent-services-ranked-globally/"><u>Navigating Peer-to-Peer Sharing: The Best Torrent Services Ranked Globally</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-cover-art-mastery-transforming-your-podcasts-first-impression-with-tips-and-tricks/"><u>New 2024 Approved Cover Art Mastery Transforming Your Podcasts First Impression (With Tips & Tricks)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/quick-and-easy-guide-to-moving-videos-onto-an-ipad-top-strategies/"><u>Quick and Easy Guide to Moving Videos Onto an iPad – Top Strategies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1723808309818-save-big-claim-your-20-off-deal-using-the-official-driver-easy-coupon-start-now/"><u>Save Big: Claim Your 20%% Off Deal Using the Official Driver Easy Coupon - Start Now</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/simple-techniques-to-reach-your-pcs-control-center-on-windows-v7-instantly/"><u>Simple Techniques to Reach Your PC's Control Center on Windows ([V]7) Instantly</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1723808304828-skype-cant-connect-5-ways-to-fix-on-windows-11-easily/"><u>Skype Can't Connect: 5 Ways to Fix on Windows 11 Easily</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/stylish-profiles-easy-downloads-in-2024/"><u>Stylish Profiles, Easy Downloads, In 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-instagram-photo-tap-guide/"><u>The Instagram Photo-Tap Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/tips-for-unlocking-youtube-video-comments-for-2024/"><u>Tips for Unlocking YouTube Video Comments for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-the-role-of-video-cards-in-computing-an-insightful-guide/"><u>Understanding the Role of Video Cards in Computing: An Insightful Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-windows-11-a-simple-guide-to-removing-your-pcs-password/"><u>Unlocking Windows 11: A Simple Guide to Removing Your PC's Password</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/what-is-vpn-tunnel-common-types-of-vpn-tunneling-protocol/"><u>What Is VPN Tunnel: Common Types of VPN Tunneling Protocol</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Oppo A38? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/windows-11-settings-wont-open-solved/"><u>Windows 11 Settings Won't Open ? [Solved]</u></a></li>
+</ul></div>
