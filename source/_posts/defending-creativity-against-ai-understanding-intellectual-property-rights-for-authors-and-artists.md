@@ -1,7 +1,7 @@
 ---
 title: "Defending Creativity Against AI: Understanding Intellectual Property Rights for Authors and Artists"
-date: 2024-09-02T09:38:53.015Z
-updated: 2024-09-03T09:38:53.015Z
+date: 2024-09-06T21:38:16.184Z
+updated: 2024-09-07T21:38:16.184Z
 tags:
   - chatgpt
   - open-ai
@@ -13,6 +13,12 @@ excerpt: "This Article Describes Defending Creativity Against AI: Understanding 
 thumbnail: https://thmb.techidaily.com/2395f62512e2eb9ed87eb295beb17a1b7424b2aaaf05f0c77e0e3c79be6147f6.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Affordable Cybersecurity Insights on Mobile Devices - Understanding Decryption for Just $50! Listen to Our ChatGPT-Powered Podcast
 
  Our weekly tech podcast for technophobes brings you the latest tech news that will affect you and some tips and tricks to help you get better results from your electronics.
@@ -21,6 +27,12 @@ thumbnail: https://thmb.techidaily.com/2395f62512e2eb9ed87eb295beb17a1b7424b2aaa
 
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Shownotes
 
 This week, we chat about the following tech news that matters:
@@ -111,7 +123,3 @@ We finish the show with the following recommendations:
 <li><a href="https://tech-hub.techidaily.com/understanding-large-language-models-analyzing-the-pros-and-cons-of-local-solutions/"><u>Understanding Large Language Models: Analyzing The Pros and Cons of Local Solutions</u></a></li>
 <li><a href="https://tech-hub.techidaily.com/would-you-pay-for-enhanced-access-to-chatgpt/"><u>Would You Pay for Enhanced Access to ChatGPT?</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->

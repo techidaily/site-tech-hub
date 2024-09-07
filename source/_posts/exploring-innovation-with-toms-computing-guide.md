@@ -1,7 +1,7 @@
 ---
 title: Exploring Innovation with Tom's Computing Guide
-date: 2024-09-02T09:34:44.626Z
-updated: 2024-09-03T09:34:44.626Z
+date: 2024-09-06T21:38:19.453Z
+updated: 2024-09-07T21:38:19.453Z
 tags:
   - desktop
 categories:
@@ -9,6 +9,18 @@ categories:
 thumbnail: https://cdn.mos.cms.futurecdn.net/jMREdMmEXpBKBvCf2GG69Q-320-80.png
 ---
 
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Meet Asus' Latest Innovation: ROG NUC with Up to Intel Core I9 CPUs and RTX 4070 GPUs - Starting at Just $1,629
 
 Asus is launching its first gaming mini-PC with the ROG NUC. This tiny PC weighs just 2.6 kg and comes in a 2.5-liter chassis that measures 270 x 180 x 50mm. Even though it has a diminutive form factor, you won't miss out on performance as it comes with either an Intel Core Ultra 7 155H or a Core Ultra 9 185H. Both models also have a discrete GPU — an RTX 4060 for the Ultra 7 and RTX 4070 for the Ultra 9.
@@ -41,6 +53,12 @@ These are the specifications of the two Asus ROG NUC models:
 
  You can now see both devices on the[Asus website](https://clk.tradedoubler.com/click?p=332082&a=2384895&epi=tomshardware-us-6479410811963061514&url=https%3A%2F%2Frog.asus.com%2Fus%2Fdesktops%2Fmini-pc%2Frog-nuc%2F) , but they're marked as 'Temporarily Out of Stock.' Nevertheless, if you're looking for a tiny gaming PC, you can ask Asus to notify you when they become available. You should also prepare your wallet if you want this device with its high starting price. It does come with a discrete GPU, though, unlike other mini-PC designs, where you need an eGPU dock to enjoy high-quality graphics.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -115,7 +133,3 @@ These are the specifications of the two Asus ROG NUC models:
 <li><a href="https://tech-hub.techidaily.com/unveiling-microsofts-surface-laptop-6-a-digital-only-release/"><u>Unveiling Microsoft's Surface Laptop 6: A Digital-Only Release</u></a></li>
 <li><a href="https://tech-hub.techidaily.com/windows-11-marks-the-end-of-microsofts-support-for-android-applications/"><u>Windows 11 Marks the End of Microsoft's Support for Android Applications</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

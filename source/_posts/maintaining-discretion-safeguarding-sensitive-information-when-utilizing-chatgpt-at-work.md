@@ -1,7 +1,7 @@
 ---
 title: "Maintaining Discretion: Safeguarding Sensitive Information when Utilizing ChatGPT at Work"
-date: 2024-09-02T09:37:18.739Z
-updated: 2024-09-03T09:37:18.739Z
+date: 2024-09-06T21:38:17.458Z
+updated: 2024-09-07T21:38:17.458Z
 tags:
   - chatgpt
   - open-ai
@@ -13,8 +13,20 @@ excerpt: "This Article Describes Maintaining Discretion: Safeguarding Sensitive 
 thumbnail: https://thmb.techidaily.com/39537ef670f74abdd3937163bf686c62a000d8146ce98f4b0e1e21a62378c3d8.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Navigating ChatGPT's Current Suspension: Unveiling the Reasons and Anticipated Return Windows
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * ChatGPT sign-ups are currently closed due to a surge in usage after OpenAI's recent Dev Day event, causing strain on their servers.
@@ -25,6 +37,18 @@ Want to sign up to ChatGPT? Well, you're too late.
 
  OpenAI CEO Sam Altman has officially revealed that sign-ups for the leading generative AI tool are closed—at least, they are for now. However, with no specific time frame set for when ChatGPT sign-ups will resume, it's anyone's guess as to how long potential new users will have to wait.
 
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why Are ChatGPT Sign-Ups Closed?
 
  ChatGPT has experienced an enormous surge in usage since OpenAI's ChatGPT Dev Day on November 6, 2023.
@@ -34,7 +58,10 @@ Want to sign up to ChatGPT? Well, you're too late.
  The sudden uptick in users exploring the new tools and people jumping to use ChatGPT placed considerable strain on OpenAI's servers—leading the company to close its subscriptions until the situation is under control.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## When Will ChatGPT Subscriptions Open Again?
 
@@ -47,7 +74,10 @@ Want to sign up to ChatGPT? Well, you're too late.
  If you want to be first in the queue when ChatGPT subscriptions resume, head to the[ChatGPT Sign-Up page](https://chat.openai.com/auth/login?ref=upstract.com) , enter your details and await an email.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## ChatGPT Is a Victim of Its Own Success
 
