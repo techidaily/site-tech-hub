@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"tech-hub.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -624,7 +681,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">10794</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">11611</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -665,7 +722,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">10794</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">11611</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -693,21 +750,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/1722137049218-impatient-for-a-chatbot-on-your-pc-discover-an-amazing-open-source-substitute-now/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/8774783d28d2d78a2030ac7e0dc1d6230634beecdba672087a8494366974e451.jpg" alt="Impatient for a Chatbot on Your PC? Discover an Amazing Open Source Substitute Now" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/how-does-huggingchat-compare-to-chatgpt-a-low-cost-open-source-option/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/288c4a8a533b0f1094aca3a28c5db0188ea8b5a3c3aca95005c1c84fe62729c2.jpg" alt="How Does HuggingChat Compare to ChatGPT: A Low-Cost, Open Source Option" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/1722137049218-impatient-for-a-chatbot-on-your-pc-discover-an-amazing-open-source-substitute-now/">
-                            Impatient for a Chatbot on Your PC? Discover an Amazing Open Source Substitute Now
+                        <a href="/how-does-huggingchat-compare-to-chatgpt-a-low-cost-open-source-option/">
+                            How Does HuggingChat Compare to ChatGPT: A Low-Cost, Open Source Option
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Impatient for a Chatbot on Your PC? Discover an Amazing Open Source Substitute Now</p>
+                            <p>This Article Describes How Does HuggingChat Compare to ChatGPT: A Low-Cost, Open Source Option</p>
 
                         
                     </div>
@@ -715,7 +772,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 09 2024 19:35:05 GMT+0800">
+            <span class="home-article-date" data-date="Fri Aug 09 2024 19:49:43 GMT+0800">
                 
                     2024-08-09
                 
@@ -768,7 +825,7 @@
         
     </div>
 
-    <a href="/1722137049218-impatient-for-a-chatbot-on-your-pc-discover-an-amazing-open-source-substitute-now/">Read more<span class="seo-reader-text">Impatient for a Chatbot on Your PC? Discover an Amazing Open Source Substitute Now</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/how-does-huggingchat-compare-to-chatgpt-a-low-cost-open-source-option/">Read more<span class="seo-reader-text">How Does HuggingChat Compare to ChatGPT: A Low-Cost, Open Source Option</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -784,21 +841,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/ai-assistants-go-head-to-head-on-code-quality-who-takes-the-crown-chatgpt-or-gemini/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/dbba79d9b364c588cde9451de7a26400a0837a604c19b7b76746e8bcdbfcf86e.jpg" alt="AI Assistants Go Head-to-Head on Code Quality: Who Takes the Crown, ChatGPT or Gemini?" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/rewriting-the-rulebook-on-language-models-meet-palm-2-by-google/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/843c206a00e28cb365bf9ba5dd05332331c8b283e7e323acfc8d381ef1640599.jpg" alt="Rewriting the Rulebook on Language Models – Meet PaLM 2 by Google" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/ai-assistants-go-head-to-head-on-code-quality-who-takes-the-crown-chatgpt-or-gemini/">
-                            AI Assistants Go Head-to-Head on Code Quality: Who Takes the Crown, ChatGPT or Gemini?
+                        <a href="/rewriting-the-rulebook-on-language-models-meet-palm-2-by-google/">
+                            Rewriting the Rulebook on Language Models – Meet PaLM 2 by Google
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes AI Assistants Go Head-to-Head on Code Quality: Who Takes the Crown, ChatGPT or Gemini?</p>
+                            <p>This Article Describes Rewriting the Rulebook on Language Models – Meet PaLM 2 by Google</p>
 
                         
                     </div>
@@ -806,7 +863,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 09 2024 19:35:04 GMT+0800">
+            <span class="home-article-date" data-date="Fri Aug 09 2024 19:49:42 GMT+0800">
                 
                     2024-08-09
                 
@@ -859,7 +916,7 @@
         
     </div>
 
-    <a href="/ai-assistants-go-head-to-head-on-code-quality-who-takes-the-crown-chatgpt-or-gemini/">Read more<span class="seo-reader-text">AI Assistants Go Head-to-Head on Code Quality: Who Takes the Crown, ChatGPT or Gemini?</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/rewriting-the-rulebook-on-language-models-meet-palm-2-by-google/">Read more<span class="seo-reader-text">Rewriting the Rulebook on Language Models – Meet PaLM 2 by Google</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -875,21 +932,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/1721963456651-patience-for-chatgpt-desktop-users-discover-a-powerful-open-source-alternative-while-waiting/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/39eb12846caac832ee1b1d85070e2dd4cb557f02287ca2d451303bdd76b5dd20.jpg" alt="Patience for ChatGPT Desktop Users: Discover a Powerful Open Source Alternative While Waiting" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/building-bridges-in-isolation-through-ai-dialogue/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/545eb30532b146292d910492a3de0882f942d02de7b5ef10d79d0e3f377f7561.jpg" alt="Building Bridges in Isolation Through AI Dialogue" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/1721963456651-patience-for-chatgpt-desktop-users-discover-a-powerful-open-source-alternative-while-waiting/">
-                            Patience for ChatGPT Desktop Users: Discover a Powerful Open Source Alternative While Waiting
+                        <a href="/building-bridges-in-isolation-through-ai-dialogue/">
+                            Building Bridges in Isolation Through AI Dialogue
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Patience for ChatGPT Desktop Users: Discover a Powerful Open Source Alternative While Waiting</p>
+                            <p>This Article Describes Building Bridges in Isolation Through AI Dialogue</p>
 
                         
                     </div>
@@ -897,7 +954,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 09 2024 19:35:03 GMT+0800">
+            <span class="home-article-date" data-date="Fri Aug 09 2024 19:49:41 GMT+0800">
                 
                     2024-08-09
                 
@@ -950,7 +1007,7 @@
         
     </div>
 
-    <a href="/1721963456651-patience-for-chatgpt-desktop-users-discover-a-powerful-open-source-alternative-while-waiting/">Read more<span class="seo-reader-text">Patience for ChatGPT Desktop Users: Discover a Powerful Open Source Alternative While Waiting</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/building-bridges-in-isolation-through-ai-dialogue/">Read more<span class="seo-reader-text">Building Bridges in Isolation Through AI Dialogue</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -966,21 +1023,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/advancements-in-generative-models-unveiling-future-potentials-past-chatgpt/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/ee671cfb7ee587015883db0a3fbeb82905b8663f1657e5b249344fa4f87d839d.jpg" alt="Advancements in Generative Models: Unveiling Future Potentials Past ChatGPT" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/understanding-gptzeros-function-in-ai-detection/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/0a7e98a47c507ce4d17e40879eab668bc44ad83b05fd8fefcba56a2f27460108.jpg" alt="Understanding GPTZero&#39;s Function in AI Detection" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/advancements-in-generative-models-unveiling-future-potentials-past-chatgpt/">
-                            Advancements in Generative Models: Unveiling Future Potentials Past ChatGPT
+                        <a href="/understanding-gptzeros-function-in-ai-detection/">
+                            Understanding GPTZero&#39;s Function in AI Detection
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Advancements in Generative Models: Unveiling Future Potentials Past ChatGPT</p>
+                            <p>This Article Describes Understanding GPTZero’s Function in AI Detection</p>
 
                         
                     </div>
@@ -988,7 +1045,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 09 2024 19:35:02 GMT+0800">
+            <span class="home-article-date" data-date="Fri Aug 09 2024 19:49:40 GMT+0800">
                 
                     2024-08-09
                 
@@ -1041,7 +1098,7 @@
         
     </div>
 
-    <a href="/advancements-in-generative-models-unveiling-future-potentials-past-chatgpt/">Read more<span class="seo-reader-text">Advancements in Generative Models: Unveiling Future Potentials Past ChatGPT</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/understanding-gptzeros-function-in-ai-detection/">Read more<span class="seo-reader-text">Understanding GPTZero&#39;s Function in AI Detection</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1057,21 +1114,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/ai-powered-fixes-reviving-your-rusty-pc/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/3dae50570edf845253cb7d1a2a03642e6fd28847b0566a64ae5bae28165ba633.jpg" alt="AI-Powered Fixes: Reviving Your Rusty PC" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/the-complete-overview-of-artificial-intelligence-advancements-unveiled-in-apples-wwdc-24/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/a340b32764d713af4f960a065c1dc4d886b3bb5db9f5a34232b56c8f050ef2ce.jpg" alt="The Complete Overview of Artificial Intelligence Advancements Unveiled in Apple&#39;s WWDC &#39;24" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/ai-powered-fixes-reviving-your-rusty-pc/">
-                            AI-Powered Fixes: Reviving Your Rusty PC
+                        <a href="/the-complete-overview-of-artificial-intelligence-advancements-unveiled-in-apples-wwdc-24/">
+                            The Complete Overview of Artificial Intelligence Advancements Unveiled in Apple&#39;s WWDC &#39;24
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes AI-Powered Fixes: Reviving Your Rusty PC</p>
+                            <p>This Article Describes The Complete Overview of Artificial Intelligence Advancements Unveiled in Apple’s WWDC ‘24</p>
 
                         
                     </div>
@@ -1079,7 +1136,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 09 2024 19:35:01 GMT+0800">
+            <span class="home-article-date" data-date="Fri Aug 09 2024 19:49:39 GMT+0800">
                 
                     2024-08-09
                 
@@ -1132,7 +1189,7 @@
         
     </div>
 
-    <a href="/ai-powered-fixes-reviving-your-rusty-pc/">Read more<span class="seo-reader-text">AI-Powered Fixes: Reviving Your Rusty PC</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/the-complete-overview-of-artificial-intelligence-advancements-unveiled-in-apples-wwdc-24/">Read more<span class="seo-reader-text">The Complete Overview of Artificial Intelligence Advancements Unveiled in Apple&#39;s WWDC &#39;24</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1148,21 +1205,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/ai-chatbot-fallacies-exposed-unraveling-top-9-common-myths/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/748de385fd78faa0d204024597c45304a88577256e08ed293c3cd91c5718eb11.jpg" alt="AI Chatbot Fallacies Exposed: Unraveling Top 9 Common Myths" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/maximizing-impact-crafting-social-media-posts-with-chatgpt/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f993286beb6923a862b27612bc1e.jpg" alt="Maximizing Impact: Crafting Social Media Posts with ChatGPT" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/ai-chatbot-fallacies-exposed-unraveling-top-9-common-myths/">
-                            AI Chatbot Fallacies Exposed: Unraveling Top 9 Common Myths
+                        <a href="/maximizing-impact-crafting-social-media-posts-with-chatgpt/">
+                            Maximizing Impact: Crafting Social Media Posts with ChatGPT
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes AI Chatbot Fallacies Exposed: Unraveling Top 9 Common Myths</p>
+                            <p>This Article Describes Maximizing Impact: Crafting Social Media Posts with ChatGPT</p>
 
                         
                     </div>
@@ -1170,7 +1227,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 09 2024 19:35:00 GMT+0800">
+            <span class="home-article-date" data-date="Fri Aug 09 2024 19:49:38 GMT+0800">
                 
                     2024-08-09
                 
@@ -1223,7 +1280,7 @@
         
     </div>
 
-    <a href="/ai-chatbot-fallacies-exposed-unraveling-top-9-common-myths/">Read more<span class="seo-reader-text">AI Chatbot Fallacies Exposed: Unraveling Top 9 Common Myths</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/maximizing-impact-crafting-social-media-posts-with-chatgpt/">Read more<span class="seo-reader-text">Maximizing Impact: Crafting Social Media Posts with ChatGPT</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1239,21 +1296,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/ai-romance-coach-how-chatgpt-can-transform-your-quest-for-companionship/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/246d0000b4a8f8f8e29a0c282b538c53c7dcabe9e936ddda4c95b0a712854944.jpg" alt="AI Romance Coach: How ChatGPT Can Transform Your Quest for Companionship" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/the-power-of-chatgpt-in-providing-reliable-health-guidance-unveiling-seven-key-points/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/cd0147204ccaf08069deddb70dcee7e4ad07fbd615beb8c551d393f04156cd7b.jpg" alt="The Power of ChatGPT in Providing Reliable Health Guidance: Unveiling Seven Key Points" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/ai-romance-coach-how-chatgpt-can-transform-your-quest-for-companionship/">
-                            AI Romance Coach: How ChatGPT Can Transform Your Quest for Companionship
+                        <a href="/the-power-of-chatgpt-in-providing-reliable-health-guidance-unveiling-seven-key-points/">
+                            The Power of ChatGPT in Providing Reliable Health Guidance: Unveiling Seven Key Points
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes AI Romance Coach: How ChatGPT Can Transform Your Quest for Companionship</p>
+                            <p>This Article Describes The Power of ChatGPT in Providing Reliable Health Guidance: Unveiling Seven Key Points</p>
 
                         
                     </div>
@@ -1261,7 +1318,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 09 2024 19:34:59 GMT+0800">
+            <span class="home-article-date" data-date="Fri Aug 09 2024 19:49:37 GMT+0800">
                 
                     2024-08-09
                 
@@ -1314,7 +1371,7 @@
         
     </div>
 
-    <a href="/ai-romance-coach-how-chatgpt-can-transform-your-quest-for-companionship/">Read more<span class="seo-reader-text">AI Romance Coach: How ChatGPT Can Transform Your Quest for Companionship</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/the-power-of-chatgpt-in-providing-reliable-health-guidance-unveiling-seven-key-points/">Read more<span class="seo-reader-text">The Power of ChatGPT in Providing Reliable Health Guidance: Unveiling Seven Key Points</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1330,21 +1387,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/ai-powered-solutions-how-to-repair-computer-problems-with-chatgpt-easily/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/06e8346e5608d987194209ad6987c897b2a9a9792c4b565af91b063377adb915.jpg" alt="AI-Powered Solutions: How to Repair Computer Problems with ChatGPT Easily" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/comparing-the-capabilities-how-does-mistral-ais-le-chat-measure-up-to-chatgpt/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196fe907bac96fdd29e9d8162d.png" alt="Comparing the Capabilities: How Does Mistral AI’s Le Chat Measure Up to ChatGPT?" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/ai-powered-solutions-how-to-repair-computer-problems-with-chatgpt-easily/">
-                            AI-Powered Solutions: How to Repair Computer Problems with ChatGPT Easily
+                        <a href="/comparing-the-capabilities-how-does-mistral-ais-le-chat-measure-up-to-chatgpt/">
+                            Comparing the Capabilities: How Does Mistral AI’s Le Chat Measure Up to ChatGPT?
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes AI-Powered Solutions: How to Repair Computer Problems with ChatGPT Easily</p>
+                            <p>This Article Describes Comparing the Capabilities: How Does Mistral AI’s Le Chat Measure Up to ChatGPT?</p>
 
                         
                     </div>
@@ -1352,7 +1409,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 09 2024 19:34:58 GMT+0800">
+            <span class="home-article-date" data-date="Fri Aug 09 2024 19:49:36 GMT+0800">
                 
                     2024-08-09
                 
@@ -1405,7 +1462,7 @@
         
     </div>
 
-    <a href="/ai-powered-solutions-how-to-repair-computer-problems-with-chatgpt-easily/">Read more<span class="seo-reader-text">AI-Powered Solutions: How to Repair Computer Problems with ChatGPT Easily</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/comparing-the-capabilities-how-does-mistral-ais-le-chat-measure-up-to-chatgpt/">Read more<span class="seo-reader-text">Comparing the Capabilities: How Does Mistral AI’s Le Chat Measure Up to ChatGPT?</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1421,21 +1478,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/a-side-by-side-analysis-of-mistral-ais-le-chat-and-chatgpt/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/36f771b0e455ffd27a9b597a4a43e9338a94fa4efcb33fd8811a101c2c676422.png" alt="A Side-by-Side Analysis of Mistral AI&#39;s Le Chat and ChatGPT" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/chatgpt-confidentiality-methods-for-conversation-camouflage-without-deletion/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/29d02750ad0cb057d82cf1dca19da27d5429074e0ee73dae3abc4f97673bc3bc.jpg" alt="ChatGPT Confidentiality: Methods for Conversation Camouflage Without Deletion" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/a-side-by-side-analysis-of-mistral-ais-le-chat-and-chatgpt/">
-                            A Side-by-Side Analysis of Mistral AI&#39;s Le Chat and ChatGPT
+                        <a href="/chatgpt-confidentiality-methods-for-conversation-camouflage-without-deletion/">
+                            ChatGPT Confidentiality: Methods for Conversation Camouflage Without Deletion
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes A Side-by-Side Analysis of Mistral AI’s Le Chat and ChatGPT</p>
+                            <p>This Article Describes ChatGPT Confidentiality: Methods for Conversation Camouflage Without Deletion</p>
 
                         
                     </div>
@@ -1443,7 +1500,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 09 2024 19:34:57 GMT+0800">
+            <span class="home-article-date" data-date="Fri Aug 09 2024 19:49:35 GMT+0800">
                 
                     2024-08-09
                 
@@ -1496,7 +1553,7 @@
         
     </div>
 
-    <a href="/a-side-by-side-analysis-of-mistral-ais-le-chat-and-chatgpt/">Read more<span class="seo-reader-text">A Side-by-Side Analysis of Mistral AI&#39;s Le Chat and ChatGPT</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/chatgpt-confidentiality-methods-for-conversation-camouflage-without-deletion/">Read more<span class="seo-reader-text">ChatGPT Confidentiality: Methods for Conversation Camouflage Without Deletion</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1512,21 +1569,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/advancing-beyond-chatgpt-predictions-for-the-evolution-of-ai-conversational-agents/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/8df3a9bbe5d32c1e5c4eef1f9c5ff4d8504e6e33195196712a21a9cd7ef927c8.jpg" alt="Advancing Beyond ChatGPT: Predictions for the Evolution of AI Conversational Agents" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/has-oversight-over-chatgpt-became-an-issue-for-openai/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/858d049547f59eac162cc6b5d9eb7989714fa411349a02f09dbf44dd53eeb23e.jpg" alt="Has Oversight Over ChatGPT Became an Issue for OpenAI?" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/advancing-beyond-chatgpt-predictions-for-the-evolution-of-ai-conversational-agents/">
-                            Advancing Beyond ChatGPT: Predictions for the Evolution of AI Conversational Agents
+                        <a href="/has-oversight-over-chatgpt-became-an-issue-for-openai/">
+                            Has Oversight Over ChatGPT Became an Issue for OpenAI?
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Advancing Beyond ChatGPT: Predictions for the Evolution of AI Conversational Agents</p>
+                            <p>This Article Describes Has Oversight Over ChatGPT Became an Issue for OpenAI?</p>
 
                         
                     </div>
@@ -1534,7 +1591,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 09 2024 19:34:56 GMT+0800">
+            <span class="home-article-date" data-date="Fri Aug 09 2024 19:49:34 GMT+0800">
                 
                     2024-08-09
                 
@@ -1587,7 +1644,7 @@
         
     </div>
 
-    <a href="/advancing-beyond-chatgpt-predictions-for-the-evolution-of-ai-conversational-agents/">Read more<span class="seo-reader-text">Advancing Beyond ChatGPT: Predictions for the Evolution of AI Conversational Agents</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/has-oversight-over-chatgpt-became-an-issue-for-openai/">Read more<span class="seo-reader-text">Has Oversight Over ChatGPT Became an Issue for OpenAI?</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1597,7 +1654,7 @@
 
     <div class="home-paginator px-7 py-5">
         <div class="paginator">
-    <a class="extend prev" rel="prev" href="/page/1073/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/1072/">1072</a><a class="page-number" href="/page/1073/">1073</a><span class="page-number current">1074</span><a class="page-number" href="/page/1075/">1075</a><a class="page-number" href="/page/1076/">1076</a><span class="space">&hellip;</span><a class="page-number" href="/page/1080/">1080</a><a class="extend next" rel="next" href="/page/1075/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/page/1073/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/1072/">1072</a><a class="page-number" href="/page/1073/">1073</a><span class="page-number current">1074</span><a class="page-number" href="/page/1075/">1075</a><a class="page-number" href="/page/1076/">1076</a><span class="space">&hellip;</span><a class="page-number" href="/page/1162/">1162</a><a class="extend next" rel="next" href="/page/1075/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
     </div>

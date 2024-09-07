@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"tech-hub.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -624,7 +681,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">10794</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">11611</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -665,7 +722,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">10794</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">11611</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -693,32 +750,31 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/complete-guide-uninstalling-print-devices-from-windows-11-and-10-systems/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/3c7adb8361f107e7e2513d0c6a87960b8e0bf54d4d26d72af2668f6ed0487010.jpg" alt="Complete Guide: Uninstalling Print Devices From Windows 11 and 10 Systems" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/choosing-between-browser-enabled-chatgpt-and-chatgpt-extensions-optimal-usage-guide/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/98b85ce6d797323413c6bf7e018c1d8e6594fdbbf15afde0abd2d98dfde1d7e0.jpg" alt="Choosing Between Browser-Enabled ChatGPT and ChatGPT Extensions: Optimal Usage Guide" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/complete-guide-uninstalling-print-devices-from-windows-11-and-10-systems/">
-                            Complete Guide: Uninstalling Print Devices From Windows 11 and 10 Systems
+                        <a href="/choosing-between-browser-enabled-chatgpt-and-chatgpt-extensions-optimal-usage-guide/">
+                            Choosing Between Browser-Enabled ChatGPT and ChatGPT Extensions: Optimal Usage Guide
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            Complete Guide: Uninstalling Print Devices From Windows 11 and 10 SystemsQuick Links
-Three Ways to Uninstall a Printer 
-Unins...
+                            <p>This Article Describes Choosing Between Browser-Enabled ChatGPT and ChatGPT Extensions: Optimal Usage Guide</p>
+
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 29 2024 01:11:29 GMT+0800">
+            <span class="home-article-date" data-date="Mon Sep 02 2024 09:22:32 GMT+0800">
                 
-                    2024-08-29
+                    2024-09-02
                 
             </span>
         </span>
@@ -731,7 +787,17 @@ Unins...
                     
                         
                         <li>
-                            <a href="/categories/tech/">tech</a>&nbsp;
+                            <a href="/categories/openAI/">openAI</a>&nbsp;
+                        </li>
+                    
+                    
+                
+                    
+                        
+                            <li>></li>
+                        
+                        <li>
+                            <a href="/categories/openAI/chatgpt/">chatgpt</a>&nbsp;
                         </li>
                     
                     
@@ -746,7 +812,12 @@ Unins...
                     
                         <li>
                             
-                            <a href="/tags/desktop/">desktop</a>&nbsp;
+                            <a href="/tags/chatgpt/">chatgpt</a>&nbsp;
+                        </li>
+                    
+                        <li>
+                            | 
+                            <a href="/tags/open-ai/">open-ai</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -754,7 +825,7 @@ Unins...
         
     </div>
 
-    <a href="/complete-guide-uninstalling-print-devices-from-windows-11-and-10-systems/">Read more<span class="seo-reader-text">Complete Guide: Uninstalling Print Devices From Windows 11 and 10 Systems</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/choosing-between-browser-enabled-chatgpt-and-chatgpt-extensions-optimal-usage-guide/">Read more<span class="seo-reader-text">Choosing Between Browser-Enabled ChatGPT and ChatGPT Extensions: Optimal Usage Guide</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -770,31 +841,31 @@ Unins...
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/bridging-ecosystems-a-guide-for-combining-your-mac-and-android-experience/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/18e0761348cb4d28e3480c4ed08a893497db31dc39159b03c85adcc25dd9aaa4.jpg" alt="Bridging Ecosystems: A Guide for Combining Your Mac &amp; Android Experience" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/top-8-benefits-of-integrating-artificial-intelligence-in-education-what-educators-need-to-know/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/6ab11e94b8a02777808e732d5f2080be3cb5bc04d41c7f6aa8db8cb93929f141.jpg" alt="Top 8 Benefits of Integrating Artificial Intelligence in Education: What Educators Need to Know" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/bridging-ecosystems-a-guide-for-combining-your-mac-and-android-experience/">
-                            Bridging Ecosystems: A Guide for Combining Your Mac &amp; Android Experience
+                        <a href="/top-8-benefits-of-integrating-artificial-intelligence-in-education-what-educators-need-to-know/">
+                            Top 8 Benefits of Integrating Artificial Intelligence in Education: What Educators Need to Know
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            Bridging Ecosystems: A Guide for Combining Your Mac &amp; Android ExperienceKey Takeaways
-Use OpenMTP and LocalSend for easy ...
+                            <p>This Article Describes Top 8 Benefits of Integrating Artificial Intelligence in Education: What Educators Need to Know</p>
+
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 29 2024 01:11:27 GMT+0800">
+            <span class="home-article-date" data-date="Mon Sep 02 2024 09:22:31 GMT+0800">
                 
-                    2024-08-29
+                    2024-09-02
                 
             </span>
         </span>
@@ -807,7 +878,17 @@ Use OpenMTP and LocalSend for easy ...
                     
                         
                         <li>
-                            <a href="/categories/tech/">tech</a>&nbsp;
+                            <a href="/categories/openAI/">openAI</a>&nbsp;
+                        </li>
+                    
+                    
+                
+                    
+                        
+                            <li>></li>
+                        
+                        <li>
+                            <a href="/categories/openAI/chatgpt/">chatgpt</a>&nbsp;
                         </li>
                     
                     
@@ -822,7 +903,12 @@ Use OpenMTP and LocalSend for easy ...
                     
                         <li>
                             
-                            <a href="/tags/desktop/">desktop</a>&nbsp;
+                            <a href="/tags/chatgpt/">chatgpt</a>&nbsp;
+                        </li>
+                    
+                        <li>
+                            | 
+                            <a href="/tags/open-ai/">open-ai</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -830,7 +916,7 @@ Use OpenMTP and LocalSend for easy ...
         
     </div>
 
-    <a href="/bridging-ecosystems-a-guide-for-combining-your-mac-and-android-experience/">Read more<span class="seo-reader-text">Bridging Ecosystems: A Guide for Combining Your Mac &amp; Android Experience</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/top-8-benefits-of-integrating-artificial-intelligence-in-education-what-educators-need-to-know/">Read more<span class="seo-reader-text">Top 8 Benefits of Integrating Artificial Intelligence in Education: What Educators Need to Know</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -846,30 +932,31 @@ Use OpenMTP and LocalSend for easy ...
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/breaking-new-windows-exploit-targets-devices-with-ipv-addressing-system/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/92d935200679b107d6e949886541d1fff9656f8b1ef1aeadb85afda988825dc9.jpg" alt="Breaking: New Windows Exploit Targets Devices with IPv# Addressing System" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/saving-your-ai-discussions-exporting-data-from-chatgpt/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/a7b063e2c5f1e938dc6e32e2ce85c52239dfc8e7739a5c0ead2c07ab91e735b6.png" alt="Saving Your AI Discussions: Exporting Data From ChatGPT" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/breaking-new-windows-exploit-targets-devices-with-ipv-addressing-system/">
-                            Breaking: New Windows Exploit Targets Devices with IPv# Addressing System
+                        <a href="/saving-your-ai-discussions-exporting-data-from-chatgpt/">
+                            Saving Your AI Discussions: Exporting Data From ChatGPT
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            Breaking: New Windows Exploit Targets Devices with IPv# Addressing SystemSecurity updates are an important way to keep your d...
+                            <p>This Article Describes Saving Your AI Discussions: Exporting Data From ChatGPT</p>
+
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 29 2024 01:11:26 GMT+0800">
+            <span class="home-article-date" data-date="Mon Sep 02 2024 09:22:29 GMT+0800">
                 
-                    2024-08-29
+                    2024-09-02
                 
             </span>
         </span>
@@ -882,7 +969,17 @@ Use OpenMTP and LocalSend for easy ...
                     
                         
                         <li>
-                            <a href="/categories/tech/">tech</a>&nbsp;
+                            <a href="/categories/openAI/">openAI</a>&nbsp;
+                        </li>
+                    
+                    
+                
+                    
+                        
+                            <li>></li>
+                        
+                        <li>
+                            <a href="/categories/openAI/chatgpt/">chatgpt</a>&nbsp;
                         </li>
                     
                     
@@ -897,7 +994,12 @@ Use OpenMTP and LocalSend for easy ...
                     
                         <li>
                             
-                            <a href="/tags/desktop/">desktop</a>&nbsp;
+                            <a href="/tags/chatgpt/">chatgpt</a>&nbsp;
+                        </li>
+                    
+                        <li>
+                            | 
+                            <a href="/tags/open-ai/">open-ai</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -905,7 +1007,7 @@ Use OpenMTP and LocalSend for easy ...
         
     </div>
 
-    <a href="/breaking-new-windows-exploit-targets-devices-with-ipv-addressing-system/">Read more<span class="seo-reader-text">Breaking: New Windows Exploit Targets Devices with IPv# Addressing System</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/saving-your-ai-discussions-exporting-data-from-chatgpt/">Read more<span class="seo-reader-text">Saving Your AI Discussions: Exporting Data From ChatGPT</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -921,31 +1023,31 @@ Use OpenMTP and LocalSend for easy ...
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/boost-your-ubuntu-experience-with-these-15-no-terminal-modifications/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/ubuntu-side-toolbar-showing-the-terminal-1.jpg" alt="Boost Your Ubuntu Experience with These 15 No-Terminal Modifications" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/privacy-advocates-guide-leaving-chatgpt-behind/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/bf4984e0ce61370d66d64dec7394dd5194f1497b8dcd59101ee95e0bac57c052.jpg" alt="Privacy Advocate&#39;s Guide - Leaving ChatGPT Behind" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/boost-your-ubuntu-experience-with-these-15-no-terminal-modifications/">
-                            Boost Your Ubuntu Experience with These 15 No-Terminal Modifications
+                        <a href="/privacy-advocates-guide-leaving-chatgpt-behind/">
+                            Privacy Advocate&#39;s Guide - Leaving ChatGPT Behind
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            Boost Your Ubuntu Experience with These 15 No-Terminal ModificationsKey Takeaways
-Use GNOME extensions through Extension Mana...
+                            <p>This Article Describes Privacy Advocate’s Guide - Leaving ChatGPT Behind</p>
+
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 29 2024 01:11:25 GMT+0800">
+            <span class="home-article-date" data-date="Mon Sep 02 2024 09:22:28 GMT+0800">
                 
-                    2024-08-29
+                    2024-09-02
                 
             </span>
         </span>
@@ -958,7 +1060,17 @@ Use GNOME extensions through Extension Mana...
                     
                         
                         <li>
-                            <a href="/categories/tech/">tech</a>&nbsp;
+                            <a href="/categories/openAI/">openAI</a>&nbsp;
+                        </li>
+                    
+                    
+                
+                    
+                        
+                            <li>></li>
+                        
+                        <li>
+                            <a href="/categories/openAI/chatgpt/">chatgpt</a>&nbsp;
                         </li>
                     
                     
@@ -973,7 +1085,12 @@ Use GNOME extensions through Extension Mana...
                     
                         <li>
                             
-                            <a href="/tags/desktop/">desktop</a>&nbsp;
+                            <a href="/tags/chatgpt/">chatgpt</a>&nbsp;
+                        </li>
+                    
+                        <li>
+                            | 
+                            <a href="/tags/open-ai/">open-ai</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -981,7 +1098,7 @@ Use GNOME extensions through Extension Mana...
         
     </div>
 
-    <a href="/boost-your-ubuntu-experience-with-these-15-no-terminal-modifications/">Read more<span class="seo-reader-text">Boost Your Ubuntu Experience with These 15 No-Terminal Modifications</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/privacy-advocates-guide-leaving-chatgpt-behind/">Read more<span class="seo-reader-text">Privacy Advocate&#39;s Guide - Leaving ChatGPT Behind</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -997,31 +1114,31 @@ Use GNOME extensions through Extension Mana...
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/boost-your-linux-productivity-swap-out-basic-commands-for-high-performance-counterparts/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/00ca8ff6fce624dea66e7545a63f888233e8bb4b7d797baaa5f46d28ff2d3756.jpg" alt="Boost Your Linux Productivity: Swap Out Basic Commands for High-Performance Counterparts" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/is-investing-in-exclusive-ai-craftsmanship-worthwhile/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/8e7f29503e1809da37fe391a31647712629490bb93b62275ef9ee0f83d862d33.jpg" alt="Is Investing in Exclusive AI Craftsmanship Worthwhile?" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/boost-your-linux-productivity-swap-out-basic-commands-for-high-performance-counterparts/">
-                            Boost Your Linux Productivity: Swap Out Basic Commands for High-Performance Counterparts
+                        <a href="/is-investing-in-exclusive-ai-craftsmanship-worthwhile/">
+                            Is Investing in Exclusive AI Craftsmanship Worthwhile?
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            Boost Your Linux Productivity: Swap Out Basic Commands for High-Performance CounterpartsKey Takeaways
-bat command enhances ca...
+                            <p>This Article Describes Is Investing in Exclusive AI Craftsmanship Worthwhile?</p>
+
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 29 2024 01:11:23 GMT+0800">
+            <span class="home-article-date" data-date="Mon Sep 02 2024 09:22:27 GMT+0800">
                 
-                    2024-08-29
+                    2024-09-02
                 
             </span>
         </span>
@@ -1034,7 +1151,17 @@ bat command enhances ca...
                     
                         
                         <li>
-                            <a href="/categories/tech/">tech</a>&nbsp;
+                            <a href="/categories/openAI/">openAI</a>&nbsp;
+                        </li>
+                    
+                    
+                
+                    
+                        
+                            <li>></li>
+                        
+                        <li>
+                            <a href="/categories/openAI/chatgpt/">chatgpt</a>&nbsp;
                         </li>
                     
                     
@@ -1049,7 +1176,12 @@ bat command enhances ca...
                     
                         <li>
                             
-                            <a href="/tags/desktop/">desktop</a>&nbsp;
+                            <a href="/tags/chatgpt/">chatgpt</a>&nbsp;
+                        </li>
+                    
+                        <li>
+                            | 
+                            <a href="/tags/open-ai/">open-ai</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -1057,7 +1189,7 @@ bat command enhances ca...
         
     </div>
 
-    <a href="/boost-your-linux-productivity-swap-out-basic-commands-for-high-performance-counterparts/">Read more<span class="seo-reader-text">Boost Your Linux Productivity: Swap Out Basic Commands for High-Performance Counterparts</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/is-investing-in-exclusive-ai-craftsmanship-worthwhile/">Read more<span class="seo-reader-text">Is Investing in Exclusive AI Craftsmanship Worthwhile?</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1073,31 +1205,31 @@ bat command enhances ca...
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/banish-the-blues-of-manual-updates-in-arch-linux-mastering-auto-sync-for-a-hitchless-pacman-performance/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/hero.png" alt="Banish the Blues of Manual Updates in Arch Linux - Mastering Auto-Sync for a Hitchless Pacman Performance" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/how-to-leverage-chatgpts-custom-instruction-functionality-for-advanced-tasks/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/e85b07a038fb75437a0c598bbd5152a02fef6e44f5c7bdafc8cc7873d01b55c2.jpg" alt="How to Leverage ChatGPT&#39;s Custom Instruction Functionality for Advanced Tasks" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/banish-the-blues-of-manual-updates-in-arch-linux-mastering-auto-sync-for-a-hitchless-pacman-performance/">
-                            Banish the Blues of Manual Updates in Arch Linux - Mastering Auto-Sync for a Hitchless Pacman Performance
+                        <a href="/how-to-leverage-chatgpts-custom-instruction-functionality-for-advanced-tasks/">
+                            How to Leverage ChatGPT&#39;s Custom Instruction Functionality for Advanced Tasks
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            Banish the Blues of Manual Updates in Arch Linux - Mastering Auto-Sync for a Hitchless Pacman PerformanceQuick Links
-Why Mirr...
+                            <p>This Article Describes How to Leverage ChatGPT’s Custom Instruction Functionality for Advanced Tasks</p>
+
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 29 2024 01:11:22 GMT+0800">
+            <span class="home-article-date" data-date="Mon Sep 02 2024 09:22:25 GMT+0800">
                 
-                    2024-08-29
+                    2024-09-02
                 
             </span>
         </span>
@@ -1110,7 +1242,17 @@ Why Mirr...
                     
                         
                         <li>
-                            <a href="/categories/tech/">tech</a>&nbsp;
+                            <a href="/categories/openAI/">openAI</a>&nbsp;
+                        </li>
+                    
+                    
+                
+                    
+                        
+                            <li>></li>
+                        
+                        <li>
+                            <a href="/categories/openAI/chatgpt/">chatgpt</a>&nbsp;
                         </li>
                     
                     
@@ -1125,7 +1267,12 @@ Why Mirr...
                     
                         <li>
                             
-                            <a href="/tags/desktop/">desktop</a>&nbsp;
+                            <a href="/tags/chatgpt/">chatgpt</a>&nbsp;
+                        </li>
+                    
+                        <li>
+                            | 
+                            <a href="/tags/open-ai/">open-ai</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -1133,7 +1280,7 @@ Why Mirr...
         
     </div>
 
-    <a href="/banish-the-blues-of-manual-updates-in-arch-linux-mastering-auto-sync-for-a-hitchless-pacman-performance/">Read more<span class="seo-reader-text">Banish the Blues of Manual Updates in Arch Linux - Mastering Auto-Sync for a Hitchless Pacman Performance</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/how-to-leverage-chatgpts-custom-instruction-functionality-for-advanced-tasks/">Read more<span class="seo-reader-text">How to Leverage ChatGPT&#39;s Custom Instruction Functionality for Advanced Tasks</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1149,32 +1296,31 @@ Why Mirr...
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/a-guide-on-evaluating-macbook-battery-condition-and-longevity/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/a-macbook-pro-seen-from-the-front-above-of-a-wooden-desk-with-the-battery-settings-screen-displayed.jpg" alt="A Guide on Evaluating MacBook Battery Condition and Longevity" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/step-by-step-guide-implementing-ai-agents-in-your-web-browser-with-agentgpt/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/00d8a989d7a324ab139f90cea816e72b6f2451ab8e331cf2285ff4f2ecbceec0.jpg" alt="Step-by-Step Guide: Implementing AI Agents in Your Web Browser with AgentGPT" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/a-guide-on-evaluating-macbook-battery-condition-and-longevity/">
-                            A Guide on Evaluating MacBook Battery Condition and Longevity
+                        <a href="/step-by-step-guide-implementing-ai-agents-in-your-web-browser-with-agentgpt/">
+                            Step-by-Step Guide: Implementing AI Agents in Your Web Browser with AgentGPT
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            A Guide on Evaluating MacBook Battery Condition and LongevityQuick Links
-How to Check a MacBook’s Battery Health 
-How to Chec...
+                            <p>This Article Describes Step-by-Step Guide: Implementing AI Agents in Your Web Browser with AgentGPT</p>
+
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 29 2024 01:11:20 GMT+0800">
+            <span class="home-article-date" data-date="Mon Sep 02 2024 09:22:24 GMT+0800">
                 
-                    2024-08-29
+                    2024-09-02
                 
             </span>
         </span>
@@ -1187,7 +1333,17 @@ How to Chec...
                     
                         
                         <li>
-                            <a href="/categories/tech/">tech</a>&nbsp;
+                            <a href="/categories/openAI/">openAI</a>&nbsp;
+                        </li>
+                    
+                    
+                
+                    
+                        
+                            <li>></li>
+                        
+                        <li>
+                            <a href="/categories/openAI/chatgpt/">chatgpt</a>&nbsp;
                         </li>
                     
                     
@@ -1202,7 +1358,12 @@ How to Chec...
                     
                         <li>
                             
-                            <a href="/tags/desktop/">desktop</a>&nbsp;
+                            <a href="/tags/chatgpt/">chatgpt</a>&nbsp;
+                        </li>
+                    
+                        <li>
+                            | 
+                            <a href="/tags/open-ai/">open-ai</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -1210,7 +1371,7 @@ How to Chec...
         
     </div>
 
-    <a href="/a-guide-on-evaluating-macbook-battery-condition-and-longevity/">Read more<span class="seo-reader-text">A Guide on Evaluating MacBook Battery Condition and Longevity</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/step-by-step-guide-implementing-ai-agents-in-your-web-browser-with-agentgpt/">Read more<span class="seo-reader-text">Step-by-Step Guide: Implementing AI Agents in Your Web Browser with AgentGPT</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1226,32 +1387,31 @@ How to Chec...
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/a-detailed-review-of-macos-sequoias-highlights-from-a-ten-year-perspective/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/imac-and-a-macbook-next-to-it-with-the-apple-logo-surrounding-them.jpg" alt="A Detailed Review of macOS Sequoia’s Highlights From a Ten-Year Perspective" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/expert-strategies-using-gpt-recognition-in-conversational-security/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/4d762caa04f98755e083fa6f19084871af3024b44e5497cff1919865c9f50ec3.jpg" alt="Expert Strategies: Using GPT Recognition in Conversational Security" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/a-detailed-review-of-macos-sequoias-highlights-from-a-ten-year-perspective/">
-                            A Detailed Review of macOS Sequoia’s Highlights From a Ten-Year Perspective
+                        <a href="/expert-strategies-using-gpt-recognition-in-conversational-security/">
+                            Expert Strategies: Using GPT Recognition in Conversational Security
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            A Detailed Review of macOS Sequoia’s Highlights From a Ten-Year PerspectiveQuick Links
-ChatGPT Gives Me a Smarter Siri 
-DALL-...
+                            <p>This Article Describes Expert Strategies: Using GPT Recognition in Conversational Security</p>
+
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 29 2024 01:11:19 GMT+0800">
+            <span class="home-article-date" data-date="Mon Sep 02 2024 09:22:23 GMT+0800">
                 
-                    2024-08-29
+                    2024-09-02
                 
             </span>
         </span>
@@ -1264,7 +1424,17 @@ DALL-...
                     
                         
                         <li>
-                            <a href="/categories/tech/">tech</a>&nbsp;
+                            <a href="/categories/openAI/">openAI</a>&nbsp;
+                        </li>
+                    
+                    
+                
+                    
+                        
+                            <li>></li>
+                        
+                        <li>
+                            <a href="/categories/openAI/chatgpt/">chatgpt</a>&nbsp;
                         </li>
                     
                     
@@ -1279,7 +1449,12 @@ DALL-...
                     
                         <li>
                             
-                            <a href="/tags/desktop/">desktop</a>&nbsp;
+                            <a href="/tags/chatgpt/">chatgpt</a>&nbsp;
+                        </li>
+                    
+                        <li>
+                            | 
+                            <a href="/tags/open-ai/">open-ai</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -1287,7 +1462,7 @@ DALL-...
         
     </div>
 
-    <a href="/a-detailed-review-of-macos-sequoias-highlights-from-a-ten-year-perspective/">Read more<span class="seo-reader-text">A Detailed Review of macOS Sequoia’s Highlights From a Ten-Year Perspective</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/expert-strategies-using-gpt-recognition-in-conversational-security/">Read more<span class="seo-reader-text">Expert Strategies: Using GPT Recognition in Conversational Security</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1303,33 +1478,31 @@ DALL-...
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/tracking-linux-command-execution-with-pv-and-real-time-progress-indicators/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/52848912754_85c417d474_o.jpg" alt="Tracking Linux Command Execution with &#39;Pv&#39; And Real-Time Progress Indicators" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/surprise-chatgpt-games-that-will-keep-you-entertained/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/843a2530bd30cf31b24741cc2e56b474bee5d065dd6fb56cbf786d1e09002e10.jpg" alt="Surprise! ChatGPT Games That Will Keep You Entertained" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/tracking-linux-command-execution-with-pv-and-real-time-progress-indicators/">
-                            Tracking Linux Command Execution with &#39;Pv&#39; And Real-Time Progress Indicators
+                        <a href="/surprise-chatgpt-games-that-will-keep-you-entertained/">
+                            Surprise! ChatGPT Games That Will Keep You Entertained
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            Tracking Linux Command Execution with ‘Pv’ And Real-Time Progress IndicatorsQuick Links
-How to Install pv 
-Using pv 
-Copying ...
+                            <p>This Article Describes Surprise! ChatGPT Games That Will Keep You Entertained</p>
+
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 29 2024 01:11:17 GMT+0800">
+            <span class="home-article-date" data-date="Mon Sep 02 2024 09:22:21 GMT+0800">
                 
-                    2024-08-29
+                    2024-09-02
                 
             </span>
         </span>
@@ -1342,7 +1515,17 @@ Copying ...
                     
                         
                         <li>
-                            <a href="/categories/tech/">tech</a>&nbsp;
+                            <a href="/categories/openAI/">openAI</a>&nbsp;
+                        </li>
+                    
+                    
+                
+                    
+                        
+                            <li>></li>
+                        
+                        <li>
+                            <a href="/categories/openAI/chatgpt/">chatgpt</a>&nbsp;
                         </li>
                     
                     
@@ -1357,7 +1540,12 @@ Copying ...
                     
                         <li>
                             
-                            <a href="/tags/desktop/">desktop</a>&nbsp;
+                            <a href="/tags/chatgpt/">chatgpt</a>&nbsp;
+                        </li>
+                    
+                        <li>
+                            | 
+                            <a href="/tags/open-ai/">open-ai</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -1365,7 +1553,7 @@ Copying ...
         
     </div>
 
-    <a href="/tracking-linux-command-execution-with-pv-and-real-time-progress-indicators/">Read more<span class="seo-reader-text">Tracking Linux Command Execution with &#39;Pv&#39; And Real-Time Progress Indicators</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/surprise-chatgpt-games-that-will-keep-you-entertained/">Read more<span class="seo-reader-text">Surprise! ChatGPT Games That Will Keep You Entertained</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1381,31 +1569,31 @@ Copying ...
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/top-9-methods-to-launch-powershell-on-windows-11-a-comprehensive-guide/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/c540c3268cb02c45602ab66fa4199a7f1fc574c2a3cdb76d27eef05ccb7d85f2.jpg" alt="Top 9 Methods to Launch PowerShell on Windows 11: A Comprehensive Guide" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/how-bert-transforms-natural-language-processing-outshining-gpts-capabilities/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/ebac8749de86200184a77a3fa2bb901785d67bf12335ea2d0dc0b871ccf2113a.jpg" alt="How BERT Transforms Natural Language Processing, Outshining GPT&#39;s Capabilities" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/top-9-methods-to-launch-powershell-on-windows-11-a-comprehensive-guide/">
-                            Top 9 Methods to Launch PowerShell on Windows 11: A Comprehensive Guide
+                        <a href="/how-bert-transforms-natural-language-processing-outshining-gpts-capabilities/">
+                            How BERT Transforms Natural Language Processing, Outshining GPT&#39;s Capabilities
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            Top 9 Methods to Launch PowerShell on Windows 11: A Comprehensive GuideQuick Links
-What Is the Difference Between PowerShell ...
+                            <p>This Article Describes How BERT Transforms Natural Language Processing, Outshining GPT’s Capabilities</p>
+
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 29 2024 01:11:16 GMT+0800">
+            <span class="home-article-date" data-date="Mon Sep 02 2024 09:22:20 GMT+0800">
                 
-                    2024-08-29
+                    2024-09-02
                 
             </span>
         </span>
@@ -1418,7 +1606,17 @@ What Is the Difference Between PowerShell ...
                     
                         
                         <li>
-                            <a href="/categories/tech/">tech</a>&nbsp;
+                            <a href="/categories/openAI/">openAI</a>&nbsp;
+                        </li>
+                    
+                    
+                
+                    
+                        
+                            <li>></li>
+                        
+                        <li>
+                            <a href="/categories/openAI/chatgpt/">chatgpt</a>&nbsp;
                         </li>
                     
                     
@@ -1433,7 +1631,12 @@ What Is the Difference Between PowerShell ...
                     
                         <li>
                             
-                            <a href="/tags/desktop/">desktop</a>&nbsp;
+                            <a href="/tags/chatgpt/">chatgpt</a>&nbsp;
+                        </li>
+                    
+                        <li>
+                            | 
+                            <a href="/tags/open-ai/">open-ai</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -1441,7 +1644,7 @@ What Is the Difference Between PowerShell ...
         
     </div>
 
-    <a href="/top-9-methods-to-launch-powershell-on-windows-11-a-comprehensive-guide/">Read more<span class="seo-reader-text">Top 9 Methods to Launch PowerShell on Windows 11: A Comprehensive Guide</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/how-bert-transforms-natural-language-processing-outshining-gpts-capabilities/">Read more<span class="seo-reader-text">How BERT Transforms Natural Language Processing, Outshining GPT&#39;s Capabilities</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1451,7 +1654,7 @@ What Is the Difference Between PowerShell ...
 
     <div class="home-paginator px-7 py-5">
         <div class="paginator">
-    <a class="extend prev" rel="prev" href="/page/156/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/155/">155</a><a class="page-number" href="/page/156/">156</a><span class="page-number current">157</span><a class="page-number" href="/page/158/">158</a><a class="page-number" href="/page/159/">159</a><span class="space">&hellip;</span><a class="page-number" href="/page/1080/">1080</a><a class="extend next" rel="next" href="/page/158/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/page/156/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/155/">155</a><a class="page-number" href="/page/156/">156</a><span class="page-number current">157</span><a class="page-number" href="/page/158/">158</a><a class="page-number" href="/page/159/">159</a><span class="space">&hellip;</span><a class="page-number" href="/page/1162/">1162</a><a class="extend next" rel="next" href="/page/158/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
     </div>

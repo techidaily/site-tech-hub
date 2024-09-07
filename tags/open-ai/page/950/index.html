@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -248,7 +305,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"tech-hub.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -591,7 +648,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">10794</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">11611</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -629,74 +686,74 @@
               
                 
                     
-                    <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='08-09'>
+                    <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='08-15'>
                 
                     
-                        <a href="/ai-revolutionizes-personal-trainer-routines-crafting-individualized-exercise-plans-with-chatgpt/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">AI Revolutionizes Personal Trainer Routines: Crafting Individualized Exercise Plans with ChatGPT</span>
+                        <a href="/crafting-adventures-playing-text-rpg-with-chatgpt/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Crafting Adventures: Playing Text-RPG with ChatGPT</span>
                         </a>
                     
               
                 
                     
-                        <a href="/ai-and-human-judgment-exploring-6-reasons-to-think-twice-before-trusting-blindly/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">AI and Human Judgment: Exploring 6 Reasons to Think Twice Before Trusting Blindly</span>
+                        <a href="/conquering-communication-which-superior-ai-prevails/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Conquering Communication: Which Superior AI Prevails?</span>
                         </a>
                     
               
                 
                     
-                        <a href="/1722070459200-secure-your-chat-privacy-a-step-by-step-guide-to-opting-out-of-chatgpt/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Secure Your Chat Privacy: A Step-by-Step Guide to Opting Out of ChatGPT</span>
+                        <a href="/chatgpt-driven-side-businesses-and-pc-optimization/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">ChatGPT-Driven Side Businesses &amp; PC Optimization</span>
                         </a>
                     
               
                 
                     
-                        <a href="/ai-rivalry-decoded-exploring-the-ten-fundamental-differences-between-microsofts-bing-and-chatgpt-technologies/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">AI Rivalry Decoded: Exploring the Ten Fundamental Differences Between Microsoft&#39;s Bing and ChatGPT Technologies</span>
+                        <a href="/chatgpt-and-its-ability-to-command-your-smart-house-system/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">ChatGPT and Its Ability to Command Your Smart House System</span>
                         </a>
                     
               
                 
                     
-                        <a href="/accelerate-conversion-rates-now-find-your-ideal-chatgpt-add-ons-here/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Accelerate Conversion Rates Now: Find Your Ideal ChatGPT Add-Ons Here!</span>
+                        <a href="/chatbots-and-their-art-of-conversational-simulation/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Chatbots and Their Art of Conversational Simulation</span>
                         </a>
                     
               
                 
                     
-                        <a href="/1721914004288-ahead-of-their-time-debating-the-top-contender-google-bard-vs-bing-chat/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Ahead of Their Time: Debating the Top Contender, Google Bard Vs. Bing Chat</span>
+                        <a href="/chatbot-companions-are-they-lifesavers-in-natures-realm/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Chatbot Companions: Are They Lifesavers in Nature&#39;s Realm?</span>
                         </a>
                     
               
                 
                     
-                        <a href="/25-alternatives-to-gpt-for-retail-management-on-mobile-devices/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">25 Alternatives to GPT for Retail Management on Mobile Devices</span>
+                        <a href="/challenges-with-chatgpt-7-inquiries-it-cant-handle/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Challenges with ChatGPT: 7 Inquiries It Can&#39;t Handle</span>
                         </a>
                     
               
                 
                     
-                        <a href="/a-beginners-roadmap-to-producing-bespoke-artificial-images-with-the-power-of-microsoft-copilot-image-creator/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">A Beginner’s Roadmap to Producing Bespoke Artificial Images with the Power of Microsoft Copilot Image Creator</span>
+                        <a href="/breakthrough-ai-bard-by-google-to-outshine-chatgpt/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Breakthrough AI &#39;Bard&#39; By Google to Outshine ChatGPT</span>
                         </a>
                     
               
                 
                     
-                        <a href="/5-vital-points-to-ponder-before-leveraging-ai-powered-conversations-for-mental-support/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">5 Vital Points to Ponder Before Leveraging AI-Powered Conversations for Mental Support</span>
+                        <a href="/bot-interactions-and-anonymity-unveiling-3-major-privacy-issues/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Bot Interactions and Anonymity: Unveiling 3 Major Privacy Issues</span>
                         </a>
                     
               
                 
                     
-                        <a href="/accelerate-your-workflow-using-8-customizable-and-immediate-start-gpt-solutions/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Accelerate Your Workflow Using 8 Customizable and Immediate-Start GPT Solutions</span>
+                        <a href="/boosting-your-career-path-with-these-6-smart-uses-of-chatgpt/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Boosting Your Career Path with These 6 Smart Uses of ChatGPT</span>
                         </a>
                     
               
@@ -710,7 +767,7 @@
 
 <div class="tag-paginator">
 	<div class="paginator">
-    <a class="extend prev" rel="prev" href="/tags/open-ai/page/949/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/tags/open-ai/">1</a><span class="space">&hellip;</span><a class="page-number" href="/tags/open-ai/page/948/">948</a><a class="page-number" href="/tags/open-ai/page/949/">949</a><span class="page-number current">950</span><a class="page-number" href="/tags/open-ai/page/951/">951</a><a class="page-number" href="/tags/open-ai/page/952/">952</a><span class="space">&hellip;</span><a class="page-number" href="/tags/open-ai/page/987/">987</a><a class="extend next" rel="next" href="/tags/open-ai/page/951/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/tags/open-ai/page/949/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/tags/open-ai/">1</a><span class="space">&hellip;</span><a class="page-number" href="/tags/open-ai/page/948/">948</a><a class="page-number" href="/tags/open-ai/page/949/">949</a><span class="page-number current">950</span><a class="page-number" href="/tags/open-ai/page/951/">951</a><a class="page-number" href="/tags/open-ai/page/952/">952</a><span class="space">&hellip;</span><a class="page-number" href="/tags/open-ai/page/1067/">1067</a><a class="extend next" rel="next" href="/tags/open-ai/page/951/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
 </div>
