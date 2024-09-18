@@ -1,7 +1,7 @@
 ---
 title: "Integrating CodeGPT Into Your VS Code Workflow: Easy Installation Tips"
-date: 2024-09-11T18:16:25.341Z
-updated: 2024-09-12T18:16:25.341Z
+date: 2024-09-12T23:43:43.161Z
+updated: 2024-09-18T01:57:48.320Z
 tags:
   - chatgpt
   - open-ai
@@ -21,13 +21,6 @@ thumbnail: https://thmb.techidaily.com/61cd3f9de3e328bf4fd572ae53f8d259727451f01
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1\. Write a Compelling Bio
 
@@ -55,13 +48,6 @@ thumbnail: https://thmb.techidaily.com/61cd3f9de3e328bf4fd572ae53f8d259727451f01
 
 ![Writing a Professional Message on ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/writing-a-professional-message-on-chatgpt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Landing a job on LinkedIn involves exchanging a lot of messages. ChatGPT can write them for you. You’d then have personalized message templates for greeting recruiters, requesting job details, arranging interviews, and more.
 
  In each case, specify what the message is for, how the AI should express it, and what you want it to contain. For example, if you know your addressee's name, include it. If you're detailing your availability and have times and dates to share, ask ChatGPT to neatly list them.
@@ -73,10 +59,10 @@ thumbnail: https://thmb.techidaily.com/61cd3f9de3e328bf4fd572ae53f8d259727451f01
 ![Cover Letter Template Made With ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/cover-letter-template-made-with-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If ChatGPT can write smooth, eloquent messages, you can rest assured that it can produce highly effective cover letters as well. You could paste the LinkedIn job ad into the prompt or manually type in its requirements and how you satisfy them. Specify that you need a professional cover letter.
@@ -89,40 +75,13 @@ thumbnail: https://thmb.techidaily.com/61cd3f9de3e328bf4fd572ae53f8d259727451f01
 
 ![ChatGPT Instructions on Writing a Resume](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chatgpt-instructions-on-writing-a-resume.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Similarly, if you give ChatGPT details about your employment and education history, professional qualities, and so on, it can quickly write out each section of your resume. You can paste everything into a single document.
 
  Something else ChatGPT can help you with when job hunting on LinkedIn is understanding what you should include in your resume or cover letter when applying for any job. The AI will break down what you need clearly and concisely. You just need to follow its instructions where applicable.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Prepare Answers for Interview Questions
 
 ![ChatGPT Answering Job Interview Question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chatgpt-answering-job-interview-question.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  With[LinkedIn’s interview prep features](https://www.makeuseof.com/use-linkedin-interview-prep/) , it’s easy to learn about different job roles, their expectations, and how best to prepare for them, starting with the interview process. Even better, ChatGPT can produce great answers to potential interview questions.
 
@@ -145,10 +104,10 @@ thumbnail: https://thmb.techidaily.com/61cd3f9de3e328bf4fd572ae53f8d259727451f01
 ![ChatGPT Responding to Editing Prompts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chatgpt-responding-to-editing-prompts.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  ChatGPT can spot mistakes and inconsistencies in any copy you write for your LinkedIn profile or application. For even better results, upgrade to[ChatGPT Plus and its features](https://www.makeuseof.com/the-pros-and-cons-of-chatgpt-plus/) , such as access to Bing and advanced data analytics for greater accuracy and efficiency.
@@ -157,15 +116,22 @@ thumbnail: https://thmb.techidaily.com/61cd3f9de3e328bf4fd572ae53f8d259727451f01
 
  When it comes to fact-checking, you’re better off relying on OpenAI’s premium package, as the free version’s database only consists of sources up to 2021\. It lacks the knowledge to correct anything involving concepts or events that occurred after that year.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Check Your Suitability for a Role
 
 ![ChatGPT Results to CV and Job Description Comparison Request](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chatgpt-results-to-cv-and-job-description-comparison-request.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To land a suitable job on LinkedIn, it’s best to target opportunities that match some or all of your skills. Even if an employer offers training, they’ll prefer candidates who already cover most of their requirements.
@@ -181,16 +147,10 @@ thumbnail: https://thmb.techidaily.com/61cd3f9de3e328bf4fd572ae53f8d259727451f01
 ![ChatGPT Analyzing Job Application Patterns](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chatgpt-analyzing-job-application-patterns.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  There are many[ways to use ChatGPT for remote work](https://www.makeuseof.com/use-chatgpt-for-remote-freelance-work/) . Besides tasks like planning, writing, and editing content, it can function as a guide, coach, and tracker.
@@ -200,13 +160,6 @@ thumbnail: https://thmb.techidaily.com/61cd3f9de3e328bf4fd572ae53f8d259727451f01
  ChatGPT can not only keep a record of your activities, successes, and misses, but it can also detect patterns for you. For example, after logging several applications and their outcomes in detail, ask the AI to find what roles best suit you and what areas you could improve on.
 
  You’ll get a thorough breakdown of your ideal career path and even development goals that can strengthen your candidacy.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## LinkedIn Job Hunting Made Easier With ChatGPT
 
@@ -229,15 +182,17 @@ thumbnail: https://thmb.techidaily.com/61cd3f9de3e328bf4fd572ae53f8d259727451f01
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-social-media-momentum-linking-igtv-and-fb/"><u>[New] 2024 Approved Social Media Momentum Linking IGTV and FB</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-step-by-step-macootd-tiktok-creation-process/"><u>[Updated] Step by Step MacOOTD TikTok Creation Process</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-step-into-expertise-modifying-numbers-on-tiktok-profiles/"><u>[Updated] Step Into Expertise Modifying Numbers on TikTok Profiles</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-unravel-the-mystery-of-reversed-videos-on-snapchat/"><u>2024 Approved Unravel the Mystery of Reversed Videos on Snapchat</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/designing-your-unique-gpt-model-from-scratch/"><u>Designing Your Unique GPT Model From Scratch</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/final-closure-barnes-and-noble-ends-support-for-aging-nook-devices/"><u>Final Closure: Barnes & Noble Ends Support for Aging Nook Devices</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/prowess-rankings-10-best-free-video-calls-with-screen-sharing/"><u>Prowess Rankings 10 Best Free Video Calls with Screen Sharing</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/trustworthy-application-of-chatgpt-technology-in-emotional-well-bee/"><u>Trustworthy Application of ChatGPT Technology in Emotional Well-Bee</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/truthcoin-unveiling-its-reality-or-a-fraud/"><u>TruthCoin: Unveiling Its Reality or A Fraud?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlock-superior-search-capabilities-with-perplexity-ai-the-ultimate-google-search-enhancer/"><u>Unlock Superior Search Capabilities with Perplexity AI - The Ultimate Google Search Enhancer</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-chill-vibes-top-idle-pc-experiences/"><u>[New] 2024 Approved Chill Vibes Top Idle PC Experiences</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/umpstart-your-career-with-a-killer-youtube-gaming-channel-for-2024/"><u>[New] Jumpstart Your Career with a Killer YouTube Gaming Channel for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-the-ultimate-copyright-strategy-for-online-video-creators/"><u>[Updated] In 2024, The Ultimate Copyright Strategy for Online Video Creators</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-professional-insight-elevating-your-youtube-video-experience/"><u>2024 Approved Professional Insight Elevating Your YouTube Video Experience</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-prompt-injection-paves-way-for-ai-abuse/"><u>How Prompt Injection Paves Way for AI Abuse</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-recording-your-display-essential-tips-for-effective-screen-capture/"><u>In 2024, Recording Your Display Essential Tips for Effective Screen Capture</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/quick-guide-effortlessly-embedding-an-audio-trail-on-your-mp4-video/"><u>Quick Guide: Effortlessly Embedding an Audio Trail on Your MP4 Video</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-5-tools-for-efficiently-compressing-mov-file-formats-across-windows-and-macos-platforms/"><u>Top 5 Tools for Efficiently Compressing Mov File Formats Across Windows & macOS Platforms</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-software-for-seamless-mp4-to-divx-video-conversion/"><u>Top Rated Software for Seamless MP4 to DivX Video Conversion</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tutorial-downloading-and-recording-music-from-spotify-on-your-windows-11-pc/"><u>Tutorial: Downloading and Recording Music From Spotify on Your Windows 11 PC</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-selection-of-premium-streaming-apps-for-your-chromebook/"><u>Ultimate Selection of Premium Streaming Apps for Your Chromebook</u></a></li>
 </ul></div>
 

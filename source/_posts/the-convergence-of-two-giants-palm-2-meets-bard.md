@@ -1,7 +1,7 @@
 ---
 title: "The Convergence of Two Giants: PaLM 2 Meets Bard"
-date: 2024-09-11T18:21:32.163Z
-updated: 2024-09-12T18:21:32.163Z
+date: 2024-09-16T01:04:51.291Z
+updated: 2024-09-17T20:28:38.287Z
 tags:
   - chatgpt
   - open-ai
@@ -27,13 +27,6 @@ thumbnail: https://thmb.techidaily.com/528781abe64eff7e57733460b453c6895f2f9ec89
 * [Larger Context Window](https://www.makeuseof.com/reasons-use-claude-3-instead-of-chatgpt/#larger-context-window)
 * [More Messages Per Hour](https://www.makeuseof.com/reasons-use-claude-3-instead-of-chatgpt/#more-messages-per-hour)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Claude excels at creative writing, producing engaging and natural-sounding content with less clichés.
@@ -41,13 +34,6 @@ thumbnail: https://thmb.techidaily.com/528781abe64eff7e57733460b453c6895f2f9ec89
 * Claude boasts a larger context window and potentially more messages per hour than ChatGPT.
 
  In the AI chatbot space, ChatGPT has been the undisputed leader since its launch in November 2022\. However, with the release of Claude 3, it is increasingly looking like ChatGPT might be losing that title. Here are four reasons you should consider switching from ChatGPT to Claude.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1 Claude Is Better at Creative Writing
 
@@ -65,13 +51,6 @@ thumbnail: https://thmb.techidaily.com/528781abe64eff7e57733460b453c6895f2f9ec89
 ![chatgpt using cliche writing style example-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-flaws-2.jpg)
 3. Sample 3  
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![chatgpt using cliche writing style example-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-flaws-3.jpg)
 
  Claude, on the other hand, produced varying results four times out of five trials, avoiding the cliche on the first trial:
@@ -88,37 +67,30 @@ Here's ChatGPT's take:
 
 ![Coconut to wealth by ChatGPT writing example song lyrics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/coconut-to-wealth-by-chatgpt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 And here's Claude's take:
 
 ![Coconut to wealth by Claude writing example song lyrics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/coconut-to-wealth-by-claude.jpg)
 
  Early adopters of ChatGPT probably have a deep-rooted preference for the AI chatbot, but when it comes to creative writing, ChatGPT has some serious catching up to do in many areas.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2 Claude Offers Multimodality for Free
 
 ![screengrab of the claude ai homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/claude-screengrab.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Besides Google's Gemini AI chatbot, there are hardly any major AI chatbots in the market that offer Claude's multimodal features for free. With the free version of ChatGPT, all you get is text generation abilities, and that's it. No file uploads for analysis, no image processing, nothing else! On the other hand, Claude offers these premium features on its free tier. So, you can use image prompting or upload files for analysis on the chatbot for free if you use the free beta version of the bot.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3 Larger Context Window
@@ -160,18 +132,16 @@ And here's Claude's take:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-pixelcutter-studio/"><u>[New] In 2024, PixelCutter Studio</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-startups-guide-to-earnings-on-youtube-platform/"><u>[Updated] Startups' Guide to Earnings on YouTube Platform</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/bings-smart-ai-search-now-available-for-iphone-and-android-users/"><u>Bing's Smart AI Search Now Available for iPhone & Android Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effortlessly-solving-the-cannot-connect-to-minecraft-server-issue/"><u>Effortlessly Solving the 'Cannot Connect to Minecraft Server' Issue</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-ai-creation-with-dall-e-in-gpt-4-environments/"><u>Exploring AI Creation with DALL-E in GPT-4 Environments</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-crafting-engaging-unboxings-to-skyrocket-like-counts/"><u>In 2024, Crafting Engaging Unboxings to Skyrocket Like Counts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-dungeon-architects-tools-gpt-generative-ai-in-character-design/"><u>Mastering Dungeon Architects' Tools: GPT, Generative AI in Character Design</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/maximizing-proposal-impact-with-gpt-3-assistance/"><u>Maximizing Proposal Impact with GPT-3 Assistance</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-ai-tools-for-independent-work-bing-chat-versus-gpt-3-analysis/"><u>Navigating AI Tools for Independent Work: Bing Chat Versus GPT-3 Analysis</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/reveal-the-supporters-behind-your-insta-memes-with-these-tips/"><u>Reveal the Supporters Behind Your Insta Memes with These Tips</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionary-russias-development-of-a-new-128-core-processor-for-advanced-supercomputing-capabilities/"><u>Revolutionary Russia's Development of a New 128-Core Processor for Advanced Supercomputing Capabilities</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/top-photo-enhancers-blurring-removal-online-edition/"><u>Top Photo Enhancers Blurring Removal Online Edition</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/updated-in-2024-10-popular-cartoon-characters-that-should-top-your-list/"><u>Updated In 2024, 10 Popular Cartoon Characters That Should Top Your List</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-25-groundbreaking-metaverse-initiatives-for-comprehension/"><u>[New] 25 Groundbreaking Metaverse Initiatives for Comprehension</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/free-tips-for-transforming-3gpp-tracks-into-mp3-format-quickly/"><u>Free Tips for Transforming 3GPP Tracks Into MP3 Format Quickly</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/free-wonderfox-download-ultimate-dvd-ripper-and-hd-video-transformation-tool/"><u>Free WonderFox Download - Ultimate DVD Ripper & HD Video Transformation Tool</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/get-the-ultimate-video-editing-tool-for-your-nokia-phones-with-wonderfox-factory-pro/"><u>Get the Ultimate Video Editing Tool for Your Nokia Phones with WonderFox Factory Pro</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/high-definition-dvd-extractor-convert-your-dvds-into-stunning-hd-videos/"><u>High Definition DVD Extractor: Convert Your DVDs Into Stunning HD Videos</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-troubleshoot-and-correct-nvidias-geforce-error-code-0x0003/"><u>How to Troubleshoot and Correct NVIDIA's GeForce Error Code 0X0003</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-tecno-pop-7-pro-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Tecno Pop 7 Pro</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leading-tools-for-ultra-hd-video-editing-reviews-and-comparisons/"><u>Leading Tools for Ultra HD Video Editing – Reviews & Comparisons</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-xiaomi-13t-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Xiaomi 13T Location | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-resume-after-fall-creators-blue-screen/"><u>Win11 Resume After Fall Creators Blue Screen</u></a></li>
 </ul></div>
 

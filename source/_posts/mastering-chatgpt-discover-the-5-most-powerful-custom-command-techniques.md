@@ -1,7 +1,7 @@
 ---
 title: "Mastering ChatGPT: Discover the 5 Most Powerful Custom Command Techniques"
-date: 2024-09-11T18:18:21.329Z
-updated: 2024-09-12T18:18:21.329Z
+date: 2024-09-11T18:44:50.446Z
+updated: 2024-09-17T22:31:59.338Z
 tags:
   - chatgpt
   - open-ai
@@ -34,36 +34,15 @@ thumbnail: https://thmb.techidaily.com/f7c7286cd43e0a0357c0677fcf7ef7e026ec5b0c5
 
  What's better is that you can also ask the chatbot for alternative dishes that are easier to make if you don't have all the ingredients on hand.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Learn New Cooking Techniques
 
 ![Learn new cooking techniques with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/learn-new-cooking-techniques-with-chatgpt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Even your favorite dishes can get a bit boring if you cook them the same way every time. You can use ChatGPT to come up with new cooking, baking, and grilling techniques to change up your dishes sporadically. For example, you can ask for different ways to grill meat or ways to season a salmon for maximum flavor.
 
  Granted, you could just Google this stuff. However, ChatGPT's conversational skills make the experience better. You could probe it for more specific details, get recommendations based on available ingredients, or find vegan alternatives to popular dishes.
 
  The chatbot can also recommend[the best meal prep sites](https://www.makeuseof.com/prompting-techniques-to-improve-chatgpt-responses/) , cookbooks, or cooking classes focusing on the techniques you want to learn.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Make Healthy Meal Plans
 
@@ -73,16 +52,22 @@ thumbnail: https://thmb.techidaily.com/f7c7286cd43e0a0357c0677fcf7ef7e026ec5b0c5
 
  For your fitness goals, ChatGPT can assist you in creating a meal plan that supports your objectives. You can ask for meal recommendations that are rich in protein, carbohydrates, and healthy fats. ChatGPT can also guide you on how to develop healthy eating habits if you have an eating disorder.
 
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Create a Shopping List
 
 ![Create shopping list with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/create-shopping-list-with-chatgpt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you struggle with remembering all the ingredients needed for a recipe, ChatGPT can help you create a detailed shopping list.[You can then use Instacart for same-day grocery shopping](https://www.makeuseof.com/sir-how-is-instacart-for-same-day-grocery-shopping/) , or any other grocery delivery services available in your area.
 
@@ -90,15 +75,22 @@ thumbnail: https://thmb.techidaily.com/f7c7286cd43e0a0357c0677fcf7ef7e026ec5b0c5
 
  Even if you opt for writing the items down on a pad, the AI-powered chatbot can still make writing a shopping list much easier.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Find New Flavor Combinations
 
 ![New flavor combo ideas by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/new-flavor-combo-ideas-by-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Finding new flavor combinations is arguably the most difficult process involved with cooking. Even if a certain combination is good, you won't really know if it works for you or not. ChatGPT can make this process a bit easier.
@@ -113,23 +105,9 @@ thumbnail: https://thmb.techidaily.com/f7c7286cd43e0a0357c0677fcf7ef7e026ec5b0c5
 
  Fortunately, you can use ChatGPT to help you rescale the recipe accurately. Share the recipe with ChatGPT and it will calculate the right quantities of each ingredient needed for your desired serving size. This way you'll retain the delicious flavor while making sure that everyone gets an adequate portion size.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Create a Menu for Special Occasions
 
 ![Special Occasian Recipe](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/special-ocassian-recipe.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Creating menus for planning an intimate dinner party, a festive gathering, or a celebratory event is not easy. You have to consider what type of food the people will like and how much time you have to prepare the dishes. While you're on your own with the cooking process, ChatGPT can help you with the menu.
 
@@ -158,20 +136,20 @@ thumbnail: https://thmb.techidaily.com/f7c7286cd43e0a0357c0677fcf7ef7e026ec5b0c5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-no-fee-guide-converting-skype-to-mp3-for-2024/"><u>[New] No-Fee Guide Converting Skype to Mp3 for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/avoiding-chatgpt-impostors-tips-for-recognizing-authentic-versions-in-the-app-store/"><u>Avoiding ChatGPT Impostors: Tips for Recognizing Authentic Versions in the App Store</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-chatgpts-funniest-and-funnier-games/"><u>Discover ChatGPT's Funniest & Funnier Games</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ensuring-smooth-exchange-correcting-chatgpt-and-service-errors/"><u>Ensuring Smooth Exchange: Correcting ChatGPT and Service Errors</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-infinix-hot-30i-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Infinix Hot 30i To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Motorola G54 5G | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-samsung-galaxy-f04-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Samsung Galaxy F04? Here Is the Answer | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/navigating-french-sounds-a-beginners-resource/"><u>Navigating French Sounds: A Beginner's Resource</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/panoramic-lenses-vs-depth-filled-images/"><u>Panoramic Lenses vs Depth-Filled Images</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionize-prototyping-with-ai-assisted-techniques-and-strategies/"><u>Revolutionize Prototyping with AI-Assisted Techniques & Strategies</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/separating-the-sincere-from-the-synthetic-in-machine-learning-outputs/"><u>Separating the Sincere From the Synthetic in Machine Learning Outputs</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/speedy-cam-and-commentary-recorder-software/"><u>Speedy Cam & Commentary Recorder Software</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-art-of-sentiment-can-computers-understand-love-fear/"><u>The Art of Sentiment: Can Computers Understand Love, Fear?</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/the-perfect-blend-of-sound-and-video-tips-to-capture-high-quality-zoom-recordings-for-2024/"><u>The Perfect Blend of Sound and Video Tips to Capture High-Quality Zoom Recordings for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/truthgpt-coin-explained-myths-facts-and-potential-risks/"><u>TruthGPT Coin Explained - Myths, Facts, and Potential Risks</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-instant-video-post-how-to-turn-mp3s-into-youtube-playables/"><u>[New] 2024 Approved Instant Video Post How to Turn MP3s Into YouTube Playables</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-expert-tips-for-efficient-internet-use-the-7-finest-android-apps-for-2024/"><u>[Updated] Expert Tips for Efficient Internet Use The 7 Finest Android Apps for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-steady-visual-storytelling-techniques/"><u>[Updated] Steady Visual Storytelling Techniques</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-realme-11-proplus-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Realme 11 Pro+?</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-on-iphone-15-plus-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code On iPhone 15 Plus in the Best Ways</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-windows-11s-battery-information-feature-for-optimal-usage/"><u>Mastering Windows 11'S Battery Information Feature for Optimal Usage</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/shotcut/"><u>Shotcutでビデオからスチル写真を抽出する手引き</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/solving-dvd-interlace-problems-a-step-by-step-tutorial-for-removing-line-artifacts/"><u>Solving DVD Interlace Problems: A Step-by-Step Tutorial for Removing Line Artifacts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/solving-the-importer-displayed-a-general-fault-issue-in-adobe-premiere-pro/"><u>Solving the 'Importer Displayed a General Fault' Issue in Adobe Premiere Pro</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/spoonpc/"><u>SPOONのビデオコンテンツをPC上に安全にダウンロードする方法</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-seamless-dvd-conversion-to-compatible-formats-for-apple-tv/"><u>Step-by-Step Guide: Seamless DVD Conversion to Compatible Formats for Apple TV</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-viewing-mov-videos-on-your-windows-11-pc/"><u>Step-by-Step Guide: Viewing MOV Videos on Your Windows 11 PC</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-converting-and-moving-your-21-day-fix-fitness-routine-onto-an-iphone-or-ipad/"><u>Step-by-Step Tutorial: Converting and Moving Your 21 Day Fix Fitness Routine Onto an iPhone or iPad</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unveiling-how-to-regain-access-to-missing-bluetooth-icon-on-windows-11-os/"><u>Unveiling How to Regain Access to Missing Bluetooth Icon on Windows 11 OS</u></a></li>
 </ul></div>
 

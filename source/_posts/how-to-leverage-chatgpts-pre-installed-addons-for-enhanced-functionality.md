@@ -1,7 +1,7 @@
 ---
 title: How to Leverage ChatGPT's Pre-Installed Addons for Enhanced Functionality
-date: 2024-09-11T18:24:03.777Z
-updated: 2024-09-12T18:24:03.777Z
+date: 2024-09-13T00:16:35.208Z
+updated: 2024-09-18T03:21:27.571Z
 tags:
   - chatgpt
   - open-ai
@@ -70,13 +70,6 @@ thumbnail: https://thmb.techidaily.com/900dc848292f751f63b27f646fc76a619bc7384a4
 
 **Download:** ChatGPT Writer for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-writer-write-mail/pdnenlnelpdomajfejgapbdpmjkfpjkp/) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. YouTube Summary With ChatGPT
 
  YouTube creators have the option to add a transcript of their full video or not. As a user, you have no control over this. Many times, all you want is a transcript to quickly browse through what the video is going to say so that you can know if it's worth your time.
@@ -88,10 +81,10 @@ thumbnail: https://thmb.techidaily.com/900dc848292f751f63b27f646fc76a619bc7384a4
 ![using the 'transcript and summary box' from youtube summary extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/youtube-summary-extension.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The extension also has a button to view an AI-generated summary of the video. Clicking this takes you to ChatGPT, with the transcript already typed in the prompt. All you have to do now is prompt ChatGPT to summarize the text, and you'll get an instant summary.
@@ -99,13 +92,6 @@ thumbnail: https://thmb.techidaily.com/900dc848292f751f63b27f646fc76a619bc7384a4
  You can also add further prompts for more details regarding specific parts of the video without having to watch the full thing.
 
 **Download:** YouTube Summary With ChatGPT for[Chrome](https://chrome.google.com/webstore/detail/youtube-summary-with-chat/nmmicjeknamkfloonkhhcjmomieiodli) |[Safari](https://apps.apple.com/us/app/glasp-social-web-highlighter/id1605690124) (Free)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Talk-to-ChatGPT
 
@@ -117,6 +103,13 @@ thumbnail: https://thmb.techidaily.com/900dc848292f751f63b27f646fc76a619bc7384a4
 
 **Download:** Talk-to-ChatGPT for[Chrome](https://chrome.google.com/webstore/detail/talk-to-chatgpt/hodadfhfagpiemkeoliaelelfbboamlk) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. ChatGPT for Search Engines
 
  ChatGPT for Search Engines is one of the[best new web search apps](https://www.makeuseof.com/web-search-apps-make-google-better-or-replace-google/) that presents ChatGPT answers alongside regular search results on Google or DuckDuckGo. It also works with Bing, but you don't need that anymore, given Microsoft has already officially integrated the two.
@@ -125,23 +118,9 @@ thumbnail: https://thmb.techidaily.com/900dc848292f751f63b27f646fc76a619bc7384a4
 
 **Download:** ChatGPT for Search Engines for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-for-search-engine/feeonheemodpkdckaljcjogdncpiiban/) |[Firefox](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-for-search-engines/) |[Edge](https://microsoftedge.microsoft.com/addons/detail/chatgpt-for-search-engine/pnglghgjhaklojnjpkhcdidgalehmkbn) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Perplexity AI
 
 ![query answers by perplexity ai extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/perplexity-ai.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The decentralization of information and knowledge has done much good in recent years. But, like anything in tech, it carries an ugly side to it, too. The rise of fake news and misinformation, for instance, is one of its biggest unwanted by-products.
 
@@ -152,10 +131,10 @@ thumbnail: https://thmb.techidaily.com/900dc848292f751f63b27f646fc76a619bc7384a4
 **Download:** Perplexity AI for[Chrome](https://chrome.google.com/webstore/detail/perplexity-ai-companion/hlgbcneanomplepojfcnclggenpcoldo) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT Is Awesome, But Be Realistic…
@@ -179,19 +158,16 @@ thumbnail: https://thmb.techidaily.com/900dc848292f751f63b27f646fc76a619bc7384a4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-ace-your-videos-essential-editors-for-youtube/"><u>[New] 2024 Approved Ace Your Videos Essential Editors for YouTube</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-camstudio-screen-recorder-complete-review/"><u>[Updated] CamStudio Screen Recorder Complete Review</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-diverse-alternatives-to-winmovie-editor-applications/"><u>[Updated] In 2024, Diverse Alternatives to WinMovie Editor Applications</u></a></li>
-<li><a href="https://extra-information.techidaily.com/5-ultimate-platforms-for-high-quality-text-embellishments-for-2024/"><u>5 Ultimate Platforms for High-Quality Text Embellishments for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhance-productivity-in-ai-communications-organize-chatgpt-sessions-with-smart-folder-techniques/"><u>Enhance Productivity in AI Communications: Organize ChatGPT Sessions with Smart Folder Techniques</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Honor Magic 6 | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-overcome-connection-hiccups-between-chatgpt-and-its-plugins/"><u>How to Overcome Connection Hiccups Between ChatGPT and Its Plugins</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/improve-video-loading-times-in-instagram/"><u>Improve Video Loading Times in Instagram</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/innovative-strategies-for-building-impactful-slides-with-chatgpt/"><u>Innovative Strategies for Building Impactful Slides with ChatGPT</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/mastering-the-art-of-video-editing-join-the-top-6-swift-integration-strategies/"><u>Mastering the Art of Video Editing: Join the Top 6 Swift Integration Strategies</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/openais-chatgpt-understanding-its-8-main-shortcomings-and-flaws/"><u>OpenAI's ChatGPT – Understanding Its 8 Main Shortcomings and Flaws</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-sluggish-startup-problems-in-windows-7/"><u>Resolving Sluggish Startup Problems in Windows 7</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-dall-e-ebs-latest-update-enhanced-editing-capabilities-under-improvement/"><u>Unveiling DALL-E Eb's Latest Update: Enhanced Editing Capabilities Under Improvement</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-beauty-of-digital-creation-with-the-huion-kamvas-gt-191-drawing-pad/"><u>Unveiling the Beauty of Digital Creation with the Huion Kamvas GT-191 Drawing Pad</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-leading-5-digital-videography-devices/"><u>[Updated] 2024 Approved Leading 5 Digital Videography Devices</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-mastering-visual-communication-a-guide-to-using-gifs-on-discord-platform/"><u>[Updated] 2024 Approved Mastering Visual Communication A Guide to Using GIFs on Discord Platform</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-essential-sandbox-titles-everyone-should-own/"><u>[Updated] In 2024, Essential Sandbox Titles Everyone Should Own</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-integrate-twitter-and-snapchat-posting-tweets-as-snaps-for-2024/"><u>[Updated] Integrate Twitter & Snapchat Posting Tweets as Snaps for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastering-hashtags-for-six-figure-youtube-growth/"><u>2024 Approved Mastering Hashtags for Six-Figure YouTube Growth</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-kimcartoons-saving-download-every-episode-with-the-kimcartoon-downloader/"><u>Effortless KIMCartoons Saving: Download Every Episode with the KimCartoon Downloader!</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/enhance-your-livestreams-with-manycam-the-ultimate-ai-virtual-webcam-and-editor-tool/"><u>Enhance Your Livestreams with ManyCam - The Ultimate AI Virtual Webcam and Editor Tool</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-mp4-format-compatible-with-windows-movie-maker-full-details-unveiled/"><u>Is MP4 Format Compatible with Windows Movie Maker? Full Details Unveiled!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mpeg-to-any-format-video-transcoder-the-ultimate-software-tool-for-converting-all-your-mp4-avi-and-more/"><u>MPEG-to-Any Format Video Transcoder: The Ultimate Software Tool for Converting All Your MP4, AVI & More!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionize-your-encoding-experience-with-leading-hardware-accelerated-nvenc-solutions-for-ultimate-speed-efficiency/"><u>Revolutionize Your Encoding Experience with Leading Hardware-Accelerated NVENC Solutions for Ultimate Speed Efficiency</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-gentle-giants-guide-to-social-media-silliness/"><u>The Gentle Giant's Guide to Social Media Silliness</u></a></li>
 </ul></div>
 

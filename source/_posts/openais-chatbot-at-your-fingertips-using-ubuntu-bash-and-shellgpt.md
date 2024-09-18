@@ -1,7 +1,7 @@
 ---
 title: "OpenAI's Chatbot at Your Fingertips: Using Ubuntu Bash and ShellGPT"
-date: 2024-09-11T18:16:49.036Z
-updated: 2024-09-12T18:16:49.036Z
+date: 2024-09-17T03:57:11.247Z
+updated: 2024-09-17T19:21:29.276Z
 tags:
   - chatgpt
   - open-ai
@@ -28,19 +28,6 @@ thumbnail: https://thmb.techidaily.com/375603cf480909bd9b580ef05e67947950bbf1e13
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## AI-Powered Bing Comes to Mobile
 
  Microsoft has been going all-in on AI recently. The [ChatGPT-enabled version of Bing](https://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/) caused a storm online as it threatens to [totally change how we search the internet](https://www.makeuseof.com/is-chatgpt-search-engine-threat/) .
@@ -48,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/375603cf480909bd9b580ef05e67947950bbf1e13
  Now, with around two-thirds of all searches taking place on mobile devices, the company has rolled out new versions of its Bing search app and Edge browser for both Android and iOS with the same technology built in.
 
 ![bing and skype with chatgpt enhanced](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-and-skype-with-chatgpt-enhanced.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image Credit:[Microsoft](https://blogs.microsoft.com/blog/2023/02/22/the-new-bing-preview-experience-arrives-on-bing-and-edge-mobile-apps-introducing-bing-now-in-skype/)
 
@@ -64,19 +44,6 @@ thumbnail: https://thmb.techidaily.com/375603cf480909bd9b580ef05e67947950bbf1e13
 
  The chatbot is also built into the Edge browser, where you can access it via the homepage.
 
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Skype Gets AI Features
 
  In addition to those apps, Microsoft has added AI-enhanced Bing support to Skype, the venerable voice and chat app. The idea here is not to get the AI to have conversations on your behalf, but to add similar search capabilities to group messages.
@@ -84,13 +51,6 @@ thumbnail: https://thmb.techidaily.com/375603cf480909bd9b580ef05e67947950bbf1e13
 > "If your family is chatting about the next family reunion, you can simply ask Bing for suggestions on travel destinations, expected weather forecasts and interesting events around your time of travel, and everyone in the chat will get access to the results."
 
  To access this feature, you simply need to add Bing to your group chats as you would any other contact. It's available worldwide and can respond in over 100 languages.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Use the New ChatGPT Bing Apps
 
@@ -103,16 +63,10 @@ thumbnail: https://thmb.techidaily.com/375603cf480909bd9b580ef05e67947950bbf1e13
 **Download:** Skype for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2022079/https://play.google.com/store/apps/details?id=com.skype.raider) |[iOS](https://apps.apple.com/us/app/skype/id304878510) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Test Out AI Chat on Android and iPhone Today
@@ -138,17 +92,20 @@ thumbnail: https://thmb.techidaily.com/375603cf480909bd9b580ef05e67947950bbf1e13
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-pros-list-top-5-timelapse-software/"><u>[New] 2024 Approved Pro's List Top 5 Timelapse Software</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/new-enhancing-follows-into-genuine-subscriptions/"><u>[New] Enhancing Follows Into Genuine Subscriptions</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-overcoming-low-resolution-output-in-obs/"><u>2024 Approved Overcoming Low-Resolution Output in OBS</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-swift-rescaling-perfect-mac-pixels-with-youtube/"><u>2024 Approved Swift Rescaling Perfect Mac Pixels with YouTube</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>4 solution to get rid of pokemon fail to detect location On Apple iPhone 7 | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/elevate-your-stories-to-greatness-with-strategic-use-of-chatgpt-tools-and-tips/"><u>Elevate Your Stories to Greatness with Strategic Use of ChatGPT Tools and Tips</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/explore-the-best-4-ai-tools-for-dynamic-story-creation/"><u>Explore the Best 4 AI Tools for Dynamic Story Creation</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/has-the-management-of-chatgpt-slipped-from-openais-hands/"><u>Has the Management of ChatGPT Slipped From OpenAI's Hands?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-xiaomi-14-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Xiaomi 14 Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-vector-databases-accelerate-ai-innovation-and-performance/"><u>How Vector Databases Accelerate AI Innovation and Performance</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-itel-p55t-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Itel P55T Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/microsoft-acquires-blizzard-in-depth-discussion-on-ai-in-art-and-translation-podcast-insights/"><u>Microsoft Acquires Blizzard: In-Depth Discussion on AI in Art & Translation - Podcast Insights</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-step-by-step-guide-youtube-downloads-for-ios-devices/"><u>[New] In 2024, Step-by-Step Guide YouTube Downloads for iOS Devices</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-crafting-timeless-videos-with-retro-filmmaking-skills/"><u>2024 Approved Crafting Timeless Videos with Retro Filmmaking Skills</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-dialogues-that-drive-diversity-discussing-with-a-multicultural-audience/"><u>2024 Approved Dialogues That Drive Diversity Discussing with a Multicultural Audience</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/wowow-dvd/"><u>快適な視聴体験を保ちつつ、WOWOWはダビングしてお届け! DVD化ガイド</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-samsung-galaxy-xcover-7-is-unlocked-by-drfone-android/"><u>How To Check if Your Samsung Galaxy XCover 7 Is Unlocked</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726026843308-pc/"><u>PCやスマホで快適に動画通話を録画、録音する方法：カカオトーク用ガイド</u></a></li>
+<li><a href="https://techtrends.techidaily.com/setting-up-smart-functionality-for-internet-connected-home-entertainment-systems/"><u>Setting Up Smart Functionality for Internet-Connected Home Entertainment Systems</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/e-strategies-for-stellar-sports-highlights-for-2024/"><u>Simple Strategies for Stellar Sports Highlights for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-list-of-mp4-combiner-software-discover-the-best-including-gratis-solutions/"><u>The Ultimate List of MP4 Combiner Software: Discover the BEST, Including Gratis Solutions!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-launch-problems-in-rocket-league-game/"><u>Troubleshooting Launch Problems in Rocket League Game</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-guide-seamless-splitting-of-4k-footage-without-sacrificing-video-quality/"><u>Ultimate Guide: Seamless Splitting of 4K Footage without Sacrificing Video Quality</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-secrets-of-divx-files-tips-for-conversion-and-compatibility/"><u>Unveiling the Secrets of DivX Files: Tips for Conversion and Compatibility</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/updated-list-top-15-no-cost-dvd-duplication-programs-compared-and-ranked/"><u>Updated List : Top 15 No-Cost DVD Duplication Programs Compared and Ranked</u></a></li>
+<li><a href="https://program-issues.techidaily.com/warzone-performance-issue-resolved-enabling-gpu-use-on-windows-10-systems/"><u>Warzone Performance Issue Resolved: Enabling GPU Use on Windows 10 Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/windows-11gif3/"><u>Windows 11を使って素早く美しいGIFを生成する上位3手法</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Innovating Interactions: Explore the Quintessential Methods for Personalizing ChatGPT Prompts"
-date: 2024-09-11T18:17:25.986Z
-updated: 2024-09-12T18:17:25.986Z
+date: 2024-09-16T01:26:25.891Z
+updated: 2024-09-18T00:48:04.979Z
 tags:
   - chatgpt
   - open-ai
@@ -23,13 +23,6 @@ thumbnail: https://thmb.techidaily.com/b7ec02702d51d57959e5bd1248adaf8d9c4e1536b
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Tell ChatGPT Its Function and the Presentation Rules
 
@@ -58,13 +51,6 @@ thumbnail: https://thmb.techidaily.com/b7ec02702d51d57959e5bd1248adaf8d9c4e1536b
  Number five is purely for visual presentation reasons. If you don’t add this, your game is going to use the default ChatGPT font and presentation instead of looking like the image below.
 
 ![ChatGPT displaying text adventure game output in code blocks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/chatgpt-displaying-text-adventure-game-output-in-code-blocks.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  As you can see, this is more compact and easier to look at than the default look.
 
@@ -144,20 +130,13 @@ thumbnail: https://thmb.techidaily.com/b7ec02702d51d57959e5bd1248adaf8d9c4e1536b
 
 ![Villager asking on the player's welfare in text game dialogue](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/villager-asking-on-the-player-s-welfare-in-text-game-dialogue.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can embellish this section with as many rules and preferences as you like. You can add an overarching plot, implement rules for governing, or even detail NPC clothes and attitudes in this section. But remember to keep it simple because multilayered rules may confuse the AI.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Add Combat and Magic Rules
@@ -186,19 +165,6 @@ thumbnail: https://thmb.techidaily.com/b7ec02702d51d57959e5bd1248adaf8d9c4e1536b
 
  Combat rules can be especially tricky for the AI, so you might need to experiment with this a bit till you find something that sticks.
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclude Your Prompt
 
  Your prompt conclusion should contain a few vital commands that will hold the game's structure.
@@ -220,6 +186,13 @@ And finally, don’t forget to actually start the game:
  If you have ChatGPT Plus, it grants you access to GPT-4, a more intelligent version of GPT-3.5\. You should try running a few RPG sessions with GPT-4 instead of GPT3.5\. It's way more creative, better at crafting stories, remembering rules, and all-around better at improv. It costs $20/month, and it's a good tool for doing other things apart from text-based gaming.
 
  Should you pay the $20 solely for text-based gaming? Realistically, no. Unless you're a big fan of RPGs, it might not be worth the money. Also, GPT-4 has a limit of 50 messages every three hours, so you won't have endless fun, and you'll be returned to GPT-3 in a short while. Some users have also complained that[GPT-4 is slower than GPT3.5](https://www.makeuseof.com/why-is-chatgpt-4-so-slow-compared-to-chatgpt-35/) .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Complete ChatGPT RPG Prompt
 
@@ -319,19 +292,6 @@ And finally, don’t forget to actually start the game:
 
  Once again, don't forget that AI is still an emerging technology and will change as time goes on. Your experience using our prompts may differ significantly from ours.
 
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Is This the Beginning of Open-Ended Gaming?
 
  ChatGPT has revealed that it is possible to have a game that changes with the player without following a pre-defined path or forcing the player to engage in the same NPC conversations. The future of gaming could mean entering your parameters and allowing AI to generate your ideal game without having a team of developers.
@@ -353,16 +313,17 @@ And finally, don’t forget to actually start the game:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-streamlining-remote-collaboration-master-skypes-screen-share-tools/"><u>[New] In 2024, Streamlining Remote Collaboration Master Skype’s Screen-Share Tools</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-unleashing-screen-content-with-zdsofts-magic/"><u>[New] In 2024, Unleashing Screen Content with ZDSoft's Magic</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-7-star-rated-apps-for-effortless-youtube-live-broadcast-from-iphone-and-android/"><u>[Updated] In 2024, 7 Star-Rated Apps for Effortless YouTube LIVE Broadcast From iPhone and Android</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-step-by-step-powerdirector-app-review-2024/"><u>[Updated] Step-by-Step PowerDirector App Review 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/access-the-best-lenovo-bluetooth-drivers-specially-tailored-for-windows-710-secure-updated-and-easy-installation/"><u>Access the Best Lenovo Bluetooth Drivers Specially Tailored for Windows 7/10 – Secure, Updated & Easy Installation</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/androidios-accessibility-with-chatgpt/"><u>Android/iOS Accessibility with ChatGPT</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/best-free-and-paid-drawing-apps-for-android-os/"><u>Best Free and Paid Drawing Apps for Android OS</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhancing-wearables-with-ai-chatgpts-6-revolutionary-uses-in-watches/"><u>Enhancing Wearables with AI: ChatGPT's 6 Revolutionary Uses in Watches</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/personalizing-prose-how-to-shape-chatgpts-language-skills-to-reflect-yours/"><u>Personalizing Prose: How to Shape ChatGPT's Language Skills to Reflect Yours</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transforming-job-searches-and-careers-the-sixfold-benefits-of-utilizing-chatgpt-skills/"><u>Transforming Job Searches and Careers: The Sixfold Benefits of Utilizing ChatGPT Skills</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-the-new-era-of-ai-with-gpt-4/"><u>Understanding the New Era of AI with GPT-4</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-how-to-edit-photos-on-snapchat/"><u>[New] In 2024, How to Edit Photos on Snapchat</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-ideal-blueprint-top-6-fresh-mojave-homes/"><u>[Updated] Ideal Blueprint Top 6 Fresh Mojave Homes</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-lol-streaming-made-easy-mastering-video-capture-in-3-steps/"><u>[Updated] In 2024, LOL Streaming Made Easy Mastering Video Capture in 3 Steps</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-locked-iphone-xr-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>Forgot Locked iPhone XR Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-intel-core-drivers-instantly-a-step-by-step-guide/"><u>Get the Latest Intel Core Drivers Instantly: A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/inspirational-movies-for-momentum-and-self-belief-for-2024/"><u>Inspirational Movies for Momentum and Self-Belief for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/movavis-betydningsfull-konverter-11-finaste-vob-filspelare-for-windows-and-mac/"><u>Movavi's Betydningsfull Konverter: 11 Finaste VOB-Filspelare För Windows & Mac</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-guide-quick-and-painless-dvd-to-m4v-file-conversion-techniques/"><u>The Ultimate Guide: Quick and Painless DVD-to-M4V File Conversion Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-list-of-8-free-software-options-for-separating-audio-tracks-from-video-files/"><u>The Ultimate List of 8 Free Software Options for Separating Audio Tracks From Video Files</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-video-enhancer-apps-for-youtube-content-creators-elevate-your-videography-today/"><u>Top-Rated Video Enhancer Apps for YouTube Content Creators: Elevate Your Videography Today!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/torrent-security-uncovered-comprehensive-guide-and-safety-tips/"><u>Torrent Security Uncovered: Comprehensive Guide & Safety Tips</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/trimming-down-m4v-file-sizes-efficiently-using-windows-macos-or-web-services/"><u>Trimming Down M4V File Sizes Efficiently Using Windows, MacOS or Web Services</u></a></li>
 </ul></div>
 

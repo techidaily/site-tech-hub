@@ -1,0 +1,109 @@
+---
+title: The Fascinating World of Chatbot Communication - Speak to ChatGPT Now
+date: 2024-09-14T20:12:09.990Z
+updated: 2024-09-17T18:14:10.317Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: This Article Describes The Fascinating World of Chatbot Communication - Speak to ChatGPT Now
+excerpt: This Article Describes The Fascinating World of Chatbot Communication - Speak to ChatGPT Now
+thumbnail: https://thmb.techidaily.com/4db798dc8e85e2daadf391573bc5ef81d7d7a8b53e675ec2733be93146fbbb0f.jpg
+---
+
+## The Fascinating World of Chatbot Communication - Speak to ChatGPT Now
+
+ Have you ever imagined conversing with an AI that understands and can respond to you with your voice? OpenAI's open-source speech recognition system called "Whisper" allows you to speak to ChatGPT and get answers to your questions.
+
+ You can use this feature to generate codes, get answers, or have a quick brainstorming session with just your voice.
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## What You Need to Speak to ChatGPT
+
+ ChatGPT's Whisper integration allows you to use your voice to speak with ChatGPT instead of typing. The beauty of this lies in the fact that you can speed up your prompts instead of typing long and descriptive sentences.
+
+ To access ChatGPT's voice input feature on your phone, you'll need to download and install the official ChatGPT app for mobile devices. Once you sign in with your OpenAI account, you're all set to take advantage of the Whisper feature.
+
+![ChatGPT's App Store page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-s-app-store-page-on-an-iphone.jpg)
+
+![ChatGPT App Login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-login.jpg)
+
+![ChatGPT app welcome screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-welcome-screen.jpg)
+
+Close
+
+ If you're on a Windows PC, you'll need to rely on third-party workarounds like[Whisper Desktop to turn your voice to text in real time](https://www.makeuseof.com/windows-whisper-desktop-guide/) .
+
+**Download:** ChatGPT for[iOS](http://apps.apple.com/app/openai-chatgpt/id6448311069) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029654/https://play.google.com/store/apps/details?id=com.openai.chatgpt&hl=en&gl=US) (Free, subscription available)
+
+## How to Send ChatGPT Prompts With Your Voice
+
+ Both iPhones and Android devices come with native dictation features. And that's what you'll use to take advantage of ChatGPT's Whisper integration on your phone.
+
+ To send prompts in the ChatGPT app with your voice, follow these simple steps in the ChatGPT mobile app.
+
+1. On an iPhone, tap the**sound wave** icon on the right side of the text field at the bottom. On an Android device, tap the**microphone** button next to the text field.
+2. ChatGPT will immediately start recording your voice. So, start speaking.
+3. When you're done, hit**Tap to stop recording** and wait for ChatGPT to transcribe the recording.
+4. Tap the**Send** button next to the text field to send your prompt.
+
+![ChatGPT's welcome page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4309.jpg)
+
+![ChatGPT's mic and speaker on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4311.jpg)
+
+![ChatGPT showing the text generated from the speech on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4313.jpg)
+
+![The ChatGPT's prompt response generated from the speech on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4314.jpg)
+
+Close
+
+ Now, all you need to do is wait a couple of seconds for ChatGPT to type out its response. You can test this feature while trying these[ChatGPT crypto prompts](https://www.makeuseof.com/the-best-chatgpt-crypto-prompts/) .
+
+## Talk to ChatGPT and Save Time
+
+ By speaking to ChatGPT, you can send longer and more descriptive prompts with your voice and have a conversation without manually typing a prompt that could take several minutes. This way, you can be more productive with your task and save time while using ChatGPT.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-is-itop-a-must-have-screencast-tool/"><u>[New] 2024 Approved Is ITop a Must-Have Screencast Tool?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-streamline-your-steam-playback-for-flawless-replays-for-2024/"><u>[New] Streamline Your Steam Playback for Flawless Replays for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-hitting-your-targets-with-these-8-social-media-planners/"><u>[Updated] Hitting Your Targets with These 8 Social Media Planners</u></a></li>
+<li><a href="https://extra-information.techidaily.com/gamers-rejoice-mavic-air-vs-sparks-duel-explored/"><u>Gamers Rejoice! Mavic Air Vs. Spark's Duel Explored</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-timeline-tools-at-no-cost/"><u>In 2024, Ultimate Timeline Tools at No Cost</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/speedy-conversion-techniques-how-to-turn-youtube-footage-into-avi-files-seamlessly/"><u>Speedy Conversion Techniques: How to Turn YouTube Footage Into AVI Files Seamlessly</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/streamlining-your-social-video-logs-on-facebook/"><u>Streamlining Your Social Video Logs on Facebook</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/teenage-mutant-ninja-turtles-dvd-collection-ultimate-backup-solutions/"><u>Teenage Mutant Ninja Turtles DVD Collection: Ultimate Backup Solutions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-guide-efficiently-transforming-mp4-videos-to-lossless-flac-format/"><u>The Ultimate Guide: Efficiently Transforming MP4 Videos to Lossless FLAC Format</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-tutorial-on-converting-dvd-video-files-into-digital-format-for-streaming-with-top-ranked-dvd-ripping-software-solutions/"><u>The Ultimate Tutorial on Converting DVD Video Files Into Digital Format for Streaming with Top-Ranked DVD Ripping Software Solutions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-mp4-decoding-software-for-compatibility-with-windows-from-version-7-to-latest-windows-11-edition/"><u>Top MP4 Decoding Software for Compatibility with Windows From Version 7 to Latest Windows 11 Edition</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-websites-for-hassle-free-video-and-music-downloads-a-comprehensive-guide/"><u>Top Websites for Hassle-Free Video & Music Downloads: A Comprehensive Guide</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-video-invitation-creators-for-iphone-and-android-a-roundup/"><u>Updated Video Invitation Creators for iPhone and Android A Roundup</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/virtual-help-desk-expert-assistance-for-winx-dvd-ripping-and-video-conversion-applications/"><u>Virtual Help Desk: Expert Assistance for WinX DVD Ripping & Video Conversion Applications</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

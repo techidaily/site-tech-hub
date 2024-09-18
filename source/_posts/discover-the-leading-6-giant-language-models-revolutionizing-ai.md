@@ -1,7 +1,7 @@
 ---
 title: Discover the Leading 6 Giant Language Models Revolutionizing AI
-date: 2024-09-11T18:22:28.874Z
-updated: 2024-09-12T18:22:28.874Z
+date: 2024-09-14T01:00:02.374Z
+updated: 2024-09-17T21:20:06.019Z
 tags:
   - chatgpt
   - open-ai
@@ -20,13 +20,6 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [Murder Mystery Mayhem](https://www.makeuseof.com/best-chatgpt-games-to-play/#murder-mystery-mayhem)
@@ -39,13 +32,6 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
  Bored of using ChatGPT for programming, chatting, and learning? It's time to start using it for gaming instead.
 
  ChatGPT has a wealth of games in its custom GPT store, covering everything from, RPGs and Dungeons and Dragons-style adventures, classic retro games, card games, quizzes, mysteries, and so much more.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1.[Murder Mystery Mayhem](https://chat.openai.com/g/g-82dEDeoN3-murder-mystery-mayhem)
 
@@ -71,13 +57,6 @@ Close
 
  It's a basic version of the classic game, but it's engaging enough. The custom GPT's scripting doesn't allow you to go off-piste and, say, rob the local convenience store for supplies (nor did the original), but it's certainly a lot easier without so many setbacks constantly upending and destroying your party. It's a much easier version, that's for sure.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3.[Poker](https://chat.openai.com/g/g-lHyTLJaCX-poker)
 
  From the potential death and horror of the Oregon Trail to something a little more relaxing: Poker. You play against the AI in this Poker custom GPT, starting with 10,000 credits, and play standard five-card Texas hold'em until someone's credits run out.
@@ -87,10 +66,16 @@ Close
  My only major gripe about this poker game is that ChatGPT seems to mimic your choices, such as check, raise, and so on, which can make the game predictable (or at least less random).
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4.[Console GPT](https://chat.openai.com/g/g-3p94K4Djb-console-gpt)
@@ -100,13 +85,6 @@ Close
  When you first boot Console GPT, you meet the message "BOOT UP AND INSERT GAME." But you don't have a game cartridge to boot yet. Instead, you have to head to the[Console GPT Glif page](https://glif.app/@fab1an/glifs/clotu9ul2002vl90fh6cmpjw0) , which is a custom AI art tool that will create your "cartridge."
 
 ![cyber syndicate cartridge ai image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/cyber-syndicate-cartridge-ai-image.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Input the type of game you want in the text box, select**Glif It!** , and watch as your creation comes to life. I went with "retro-futurism crime lord" and was presented with "Cyber Syndicate," a game where you "navigate a neon-soaked, cyberpunk metropolis teeming with high-tech heists and digital espionage," with a goal of becoming the ultimate syndicate leader.
 
@@ -131,10 +109,16 @@ Close
  Still, if you're into idle games and want to try something different, it could be worth a try.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6.[Cute Little Zombies](https://chat.openai.com/g/g-CEON6aFtV-cute-little-zombies-a-text-adventure-game)
@@ -166,18 +150,17 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-instagram-savings-direct-link-and-alternative-extraction/"><u>[New] 2024 Approved Instagram Savings Direct Link & Alternative Extraction</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-boost-your-channels-top-5-youtube-tricks-for-increased-visibility-for-2024/"><u>[New] Boost Your Channels Top 5 YouTube Tricks for Increased Visibility for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-harnessing-the-power-of-azure-transcript-services/"><u>[New] In 2024, Harnessing the Power of Azure Transcript Services</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-premium-psd-aesthetic-optimization/"><u>[New] Premium PSD Aesthetic Optimization</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unlock-photo-editing-potential-with-these-clever-pixlr-techniques/"><u>2024 Approved Unlock Photo Editing Potential with These Clever Pixlr Techniques</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/3-steps-for-perfect-instagram-video-margins-for-2024/"><u>3 Steps for Perfect Instagram Video Margins for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-the-best-free-artificial-intelligence-resources-to-create-elegant-email-messages-with-chatgpt-and-tame-your-inbox-clutter/"><u>Discover the Best Free Artificial Intelligence Resources to Create Elegant Email Messages with ChatGPT & Tame Your Inbox Clutter</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/into-the-world-of-expertise-with-youtubes-top-10-makeup-vloggers-for-2024/"><u>Dive Into the World of Expertise with YouTube's Top 10 Makeup Vloggers for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Xiaomi 13T Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/in-depth-acer-chromebook-r-11-assessment-sleek-design-and-portable-features/"><u>In-Depth Acer Chromebook R 11 Assessment: Sleek Design & Portable Features</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-oneplus-11-5g-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace OnePlus 11 5G Location | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unraveling-the-complexities-behind-ai-goal-alignment-issues/"><u>Unraveling the Complexities Behind AI Goal Alignment Issues</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/what-to-do-when-you-stumble-upon-a-suspicious-chatgpt-phishing-site/"><u>What To Do When You Stumble Upon A Suspicious ChatGPT Phishing Site</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-club-anthems-expertly-curated-dj-vids-downloads-for-2024/"><u>[Updated] Club Anthems Expertly Curated DJ Vids Downloads for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-prime-list-of-affordable-high-definition-cameras/"><u>[Updated] Prime List of Affordable High Definition Cameras</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-from-hd-to-breathtaking-eizos-newest-4k-display/"><u>2024 Approved From HD to Breathtaking EIZO's Newest 4K Display</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-safeguarding-your-listening-pleasure-with-3-steps/"><u>2024 Approved Safeguarding Your Listening Pleasure with 3 Steps</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/control-over-your-ig-content-exposure/"><u>Control Over Your IG Content Exposure</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-honor-100-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Honor 100 Devices</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-free-and-fantastic-top-video-editing-software-for-gamers/"><u>New In 2024, Free and Fantastic Top Video Editing Software for Gamers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-no-audio-on-zoom-quick-solutions-for-pc-users/"><u>Resolve No Audio on Zoom: Quick Solutions for PC Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-5-highly-rated-tools-for-convert-videos-from-mb-to-kb/"><u>Top 5 Highly Rated Tools for Convert Videos From MB to KB</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-free-ipod-video-transformation-tool-the-ultimate-guide-to-the-best-free-ipod-video-converter/"><u>Top Rated Free iPod Video Transformation Tool: The Ultimate Guide to the Best Free iPod Video Converter</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/trouble-adding-mp4-to-imovie-discover-how-to-successfully-integrate-your-video/"><u>Trouble Adding MP4 to iMovie? Discover How to Successfully Integrate Your Video!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/try-our-premium-ipad-film-editor-software-for-free-and-complete-your-purchase-safely-after-testing/"><u>Try Our Premium iPad Film Editor Software for Free and Complete Your Purchase Safely After Testing</u></a></li>
 </ul></div>
 

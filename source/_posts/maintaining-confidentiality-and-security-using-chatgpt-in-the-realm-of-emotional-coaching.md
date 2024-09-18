@@ -1,7 +1,7 @@
 ---
 title: "Maintaining Confidentiality and Security: Using ChatGPT in the Realm of Emotional Coaching"
-date: 2024-09-11T18:23:50.728Z
-updated: 2024-09-12T18:23:50.728Z
+date: 2024-09-10T18:50:03.340Z
+updated: 2024-09-18T00:07:34.861Z
 tags:
   - chatgpt
   - open-ai
@@ -24,23 +24,9 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## ChatGPT Can Help Cybercriminals Hack Your PC
 
 ![Laptop with chatgpt site on screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/laptop-with-chatgpt-site-on-screen.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Hackers, including script kiddies, can[use ChatGPT to create new malware](https://www.makeuseof.com/can-chatgpt-be-used-malware-creation/) or improve existing ones. Some cybercriminals already use the chatbot, especially its earlier versions, to write code they claim can encrypt files.
 
@@ -52,23 +38,9 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
 
  In a separate incident, the researchers prompted ChatGPT to generate malicious VBA code that could be implanted into a Microsoft Excel file that would infect your PC if opened; it successfully did. Plus, there are claims that ChatGPT can code malicious software capable of spying on your keyboard strokes.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Can ChatGPT Hack Your Bank Account?
 
 ![An illustration of a customer service chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customer-service.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Many data breaches start with[a successful phishing attack](http://www.makeuseof.com/what-is-phishing/) . Phishing attacks often involve a malicious actor sending a recipient an email that contains legitimate-looking documents or links, which, when clicked on, can install malware on their device. In this way, code from ChatGPT doesn't need to hack your bank account directly. Someone only needs to use ChatGPT to help them trick you into giving them access.
 
@@ -81,19 +53,6 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
  For phishing, it’s mostly about volume. ChatGPT can help boost phishing campaigns as it can quickly pump out huge amounts of natural-sounding texts that are tailored to specific audiences.
 
  Another kind of phishing attack involving the use of ChatGPT is where a hacker creates a fake account on a popular chat platform like Discord and pretends to be a customer representative. The fake customer rep then contacts customers who have posted concerns and offers help. If a user falls for the trap, the cybercriminal will redirect them to a bogus website that tricks them into sharing personal information, like their bank login details.
-
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Protect Your PC and Bank Account in the AI-Era
 
@@ -118,20 +77,28 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-stand-out-in-a-sea-of-content-our-offer-includes-50-free-banners/"><u>[New] In 2024, Stand Out in a Sea of Content - Our Offer Includes 50 Free Banners!</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-nft-creation-simplified-for-novice-developers/"><u>[Updated] NFT Creation Simplified for Novice Developers</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-a-musical-guide-to-enhancing-slides-with-tunes/"><u>2024 Approved A Musical Guide to Enhancing Slides with Tunes</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/1715859958186-2024-approved-essential-game-picks-ghost-of-tsushima-rival-edition/"><u>2024 Approved Essential Game Picks Ghost of Tsushima Rival Edition!</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/abbyy-upgrades-sdk-to-offer-immediate-capture-capabilities-for-faster-data-processing/"><u>ABBYY Upgrades SDK to Offer Immediate Capture Capabilities for Faster Data Processing</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/best-5-web-based-learning-platforms-to-excel-in-artificial-intelligence-prompt-design/"><u>Best 5 Web-Based Learning Platforms to Excel in Artificial Intelligence Prompt Design</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/can-chatgpts-humor-be-truly-amusing-exploring-the-power-of-ai-in-comedy/"><u>Can ChatGPT's Humor Be Truly Amusing? Exploring the Power of AI in Comedy</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/decoding-the-best-chatgpt-face-off-with-bing-ai-and-bard/"><u>Decoding the Best: ChatGPT Face-Off with Bing AI & Bard</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-se-2022-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone SE (2022)</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/pro-genius-in-ai-prompting-leading-courses-ranked/"><u>Pro Genius in AI Prompting: Leading Courses Ranked</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-nokia-c300-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Nokia C300 Phone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-6-common-pitfalls-in-crafting-chatgpt-queries-and-how-to-dodge-them/"><u>Top 6 Common Pitfalls in Crafting ChatGPT Queries and How to Dodge Them</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/top-webcam-and-cam-tech-on-the-windows-11-market/"><u>Top Webcam & Cam Tech on the Windows 11 Market</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unleashing-your-imagination-a-guide-to-using-chatgpt-for-writing-projects/"><u>Unleashing Your Imagination: A Guide to Using ChatGPT for Writing Projects</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlock-next-level-content-automation-with-hix-ai-and-generative-pre-trained-transformer-4-gpt-4/"><u>Unlock Next-Level Content Automation with HIX AI & Generative Pre-Trained Transformer 4 (GPT-4)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-advanced-techniques-for-ultimate-iphone-hdr/"><u>[New] In 2024, Advanced Techniques for Ultimate iPhone HDR</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/44cm44ow44op44km44k26zplusz5aow44gu5ysq44km44gf44kv44kq44oq44og44kj44o844ks56k65lplusd44gx44cb54sh5paz44k944ov44oi44go44k144kk44oi44gn5yq55p6c55qe44gr6kiy6y31/"><u>「ブラウザ音声の優れたクオリティーを確保し、無料ソフトとサイトで効果的に記録するコツと推奨」</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-creating-soft-music-endings-in-adobe-premiere-video-editing/"><u>2024 Approved Creating Soft Music Endings in Adobe Premiere Video Editing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/3-proven-methods-for-converting-image-files-img-into-iso-format/"><u>3 Proven Methods for Converting Image Files (IMG) Into ISO Format</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/6kej5yop5bqm44ki44od44ox44gu56ey5aplusg77ya5yplusk44kb44gl44gx44ge44o75lin6a6u5pio44gq44ot44oh44kq44gu576o5yyw5rov/"><u>解像度アップの秘密：古めかしい・不鮮明なビデオの美化法</u></a></li>
+<li><a href="https://techtrends.techidaily.com/beat-the-playback-problems-a-list-of-13-remedies-when-spotify-stops-working-with-android-auto/"><u>Beat the Playback Problems: A List of 13 Remedies When Spotify Stops Working with Android Auto</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bypassing-dvd-regional-lockout-enjoy-american-films-down-under-with-no-geographic-boundaries/"><u>Bypassing DVD Regional Lockout: Enjoy American Films Down Under with No Geographic Boundaries</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparing-features-free-vs-premium-swf-converter-factory-and-pro/"><u>Comparing Features: Free vs Premium - SWF Converter Factory & Pro</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-tutorial-how-to-modify-or-reset-your-apple-id-in-the-ios-cloud-service/"><u>Comprehensive Tutorial: How To Modify or Reset Your Apple ID in the iOS Cloud Service</u></a></li>
+<li><a href="https://fox-info.techidaily.com/converge-your-viewing-proficiently-using-netflix-pip-mode/"><u>Converge Your Viewing Proficiently Using Netflix PIP Mode</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-leading-substitutes-the-ultimate-list-of-10-video-editing-tools-to-replace-avidemux-on-windowsmac/"><u>Discover the Leading Substitutes: The Ultimate List of 10 Video Editing Tools to Replace Avidemux on Windows/Mac</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/download-your-favorite-songs-from-pandora-for-free-top-2-reliable-apps/"><u>Download Your Favorite Songs From Pandora for Free: Top 2 Reliable Apps</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-improve-engagement-with-skillful-use-of-jump-cuts/"><u>In 2024, Improve Engagement with Skillful Use of Jump Cuts</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-lock-your-motorola-moto-g84-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Motorola Moto G84 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-instructors-handbook-on-video-assisted-pedagogy/"><u>The Instructor's Handbook on Video-Assisted Pedagogy</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

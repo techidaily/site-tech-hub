@@ -1,7 +1,7 @@
 ---
 title: "Mastering Microsoft Excel: Skills and Functions Beyond AI Tools Like ChatGPT"
-date: 2024-09-11T18:18:18.773Z
-updated: 2024-09-12T18:18:18.774Z
+date: 2024-09-15T16:54:07.939Z
+updated: 2024-09-18T02:31:33.700Z
 tags:
   - chatgpt
   - open-ai
@@ -24,13 +24,6 @@ thumbnail: https://thmb.techidaily.com/42aa8d9afd78cc4e28f215cb4f97cf62596e277c3
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Using Excel for Long-Term Report Storage and Data Entry
 
  There's hope in a few common tasks for those worried that AI may be coming for their job. Gaining extra competence in Excel’s VBA and the wide world of automated analysis tools can give you a leg up in the job market.
@@ -47,35 +40,9 @@ thumbnail: https://thmb.techidaily.com/42aa8d9afd78cc4e28f215cb4f97cf62596e277c3
 
  While building out a single report can be handy, useful trends are more visible over long periods of time. Building dashboards to[visualize data trends](https://www.makeuseof.com/how-to-use-scatter-plot-predict-data-behavior-microsoft-excel/) and raise red flags immediately when things go wrong is still a highly valuable skill.
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Customizable Report Creation in Excel
 
 ![A laptop sitting on a desk showing a data dashboard. There are several graphs showing and some other various data on screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/data-dashboard.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  While a single report is simple to create with ChatGPT, a set of data frozen in time isn’t always beneficial. One of the most potent abilities that Excel gives us the ability to create reports that the reader can instantly customize.
 
@@ -89,29 +56,9 @@ thumbnail: https://thmb.techidaily.com/42aa8d9afd78cc4e28f215cb4f97cf62596e277c3
 
  Make your reports more useful by adding some[simple Excel features](https://www.makeuseof.com/essential-excel-functions/) . Ensure your reports can pull variable timeframes, highlight potential problems automatically, and sanitize data for long-term storage and flexibility.
 
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Easy-to-Use Forms in Excel
 
 ![Man in black suit sitting in front of a computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/pexels-kampus-production-8353777.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Forms are another great Excel option for those looking for value that ChatGPT can’t provide. Entering information manually can be time-consuming and frustrating. Giving end users the option to enter data independently as it arises frees up time and energy better spent analyzing the results.
 
@@ -122,16 +69,10 @@ thumbnail: https://thmb.techidaily.com/42aa8d9afd78cc4e28f215cb4f97cf62596e277c3
  For those looking to blend forms and long-term data storage, looking into different ways to export data from Excel is essential. Learning how to take data from an entry form to a SQL database can help insulate your job and keep your work essential.
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT Isn’t Going to Automate You Out of a Job Yet
@@ -157,19 +98,16 @@ thumbnail: https://thmb.techidaily.com/42aa8d9afd78cc4e28f215cb4f97cf62596e277c3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-a-beginners-tutorial-how-to-insert-on-screen-dialogue-in-video-formats/"><u>[New] 2024 Approved A Beginner's Tutorial How to Insert On-Screen Dialogue in Video Formats</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-prime-5-minute-time-lapse-video-creator-for-2024/"><u>[New] Prime 5-Minute Time-Lapse Video Creator for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-masterclass-navigating-through-the-best-cricket-livestreams/"><u>[Updated] 2024 Approved Masterclass Navigating Through the Best Cricket Livestreams</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-strategic-unveiling-the-box-of-opportunity-for-2024/"><u>[Updated] Strategic Unveiling The Box of Opportunity for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-advanced-techniques-for-tiktok-video-enhancement-via-zoom/"><u>2024 Approved Advanced Techniques for TikTok Video Enhancement via Zoom</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/breaching-chatgpt-barriers-a-guide/"><u>Breaching ChatGPT Barriers: A Guide</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/building-brands-on-instagram-a-playbook-for-sponsorship-success-for-2024/"><u>Building Brands on Instagram A Playbook for Sponsorship Success for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/decoding-the-chatbot-debate-gpt-pluses-versus-perplexities/"><u>Decoding the Chatbot Debate: GPT Pluses versus Perplexities</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-the-6-greatest-ai-powered-notetakers-for-superior-organization-and-recall/"><u>Discover the 6 Greatest AI-Powered Notetakers for Superior Organization and Recall</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-any-realme-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Realme Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-no-cost-c-span-archives-your-comprehensive-download-guide/"><u>In 2024, No Cost C-Span Archives Your Comprehensive Download Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/in-depth-analysis-everything-you-must-know-about-openai/"><u>In-Depth Analysis: Everything You Must Know About OpenAI</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-ai-journey-simplified-edition/"><u>The AI Journey, Simplified Edition</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-advanced-conversations-creating-a-restrict-free-ai-chatbot-on-windows-via-freedomgpt/"><u>Unlocking Advanced Conversations: Creating a Restrict-Free AI Chatbot on Windows via FreedomGPT</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-propel-your-youtube-presence-with-google-analytics-skills/"><u>[New] In 2024, Propel Your YouTube Presence with Google Analytics Skills</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-is-this-a-bug-or-intentional-edit-on-instagram/"><u>[New] Is This a Bug or Intentional Edit on Instagram?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-premier-ios-tools-mimicking-playstation-2-experience/"><u>[New] Premier IOS Tools Mimicking PlayStation 2 Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-advice-to-banish-black-screen-glitches-in-re8-pc-edition/"><u>Expert Advice to Banish Black Screen Glitches in RE8 - PC Edition</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/mastering-azure-transcription-tools-and-techniques-for-2024/"><u>Mastering Azure Transcription Tools and Techniques for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/stylish-and-powerful-asus-combines-next-gen-intelamd-cpus-in-the-zenbook-s-and-tuf-a14/"><u>Stylish & Powerful: Asus Combines Next-Gen Intel/AMD CPUs in the Zenbook S & TUF A14</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-10-high-definition-gaming-laptops-reviewed/"><u>Top 10 High-Definition Gaming Laptops Reviewed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/udemy-pc/"><u>Udemy動画ダウンロード・保存: PCユーザー向け最新方法チュートリアル</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-guide-to-using-dvd-decryption-tools-on-windows-11-for-high-quality-backups-and-viewings-of-your-favorite-movies/"><u>Ultimate Guide to Using DVD Decryption Tools on Windows 11 for High-Quality Backups & Viewings of Your Favorite Movies!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-commercial-video-content-a-how-to-for-windows-users/"><u>Unlocking Commercial Video Content: A How-To for Windows Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/windows-7/"><u>Windows 7スクリーンレコーダー・無料アプリとウェブサイトの推奨 - オススメ</u></a></li>
 </ul></div>
 

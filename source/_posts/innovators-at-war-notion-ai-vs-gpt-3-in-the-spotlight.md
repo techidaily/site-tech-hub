@@ -1,7 +1,7 @@
 ---
 title: "Innovators at War: Notion AI Vs. GPT-3 in the Spotlight"
-date: 2024-09-11T18:23:07.156Z
-updated: 2024-09-12T18:23:07.156Z
+date: 2024-09-10T19:27:11.635Z
+updated: 2024-09-18T02:16:10.900Z
 tags:
   - chatgpt
   - open-ai
@@ -24,19 +24,6 @@ thumbnail: https://thmb.techidaily.com/134f01974d541e3e4f7e678a539e306f85d908190
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## AI-Powered Bing Comes to Mobile
 
  Microsoft has been going all-in on AI recently. The[ChatGPT-enabled version of Bing](https://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/) caused a storm online as it threatens to[totally change how we search the internet](https://www.makeuseof.com/is-chatgpt-search-engine-threat/) .
@@ -44,19 +31,6 @@ thumbnail: https://thmb.techidaily.com/134f01974d541e3e4f7e678a539e306f85d908190
  Now, with around two-thirds of all searches taking place on mobile devices, the company has rolled out new versions of its Bing search app and Edge browser for both Android and iOS with the same technology built in.
 
 ![bing and skype with chatgpt enhanced](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-and-skype-with-chatgpt-enhanced.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image Credit:[Microsoft](https://blogs.microsoft.com/blog/2023/02/22/the-new-bing-preview-experience-arrives-on-bing-and-edge-mobile-apps-introducing-bing-now-in-skype/)
 
@@ -66,13 +40,6 @@ thumbnail: https://thmb.techidaily.com/134f01974d541e3e4f7e678a539e306f85d908190
 
  The chatbot is also built into the Edge browser, where you can access it via the homepage.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Skype Gets AI Features
 
  In addition to those apps, Microsoft has added AI-enhanced Bing support to Skype, the venerable voice and chat app. The idea here is not to get the AI to have conversations on your behalf, but to add similar search capabilities to group messages.
@@ -80,13 +47,6 @@ thumbnail: https://thmb.techidaily.com/134f01974d541e3e4f7e678a539e306f85d908190
 > "If your family is chatting about the next family reunion, you can simply ask Bing for suggestions on travel destinations, expected weather forecasts and interesting events around your time of travel, and everyone in the chat will get access to the results."
 
  To access this feature, you simply need to add Bing to your group chats as you would any other contact. It's available worldwide and can respond in over 100 languages.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Use the New ChatGPT Bing Apps
 
@@ -99,10 +59,10 @@ thumbnail: https://thmb.techidaily.com/134f01974d541e3e4f7e678a539e306f85d908190
 **Download:** Skype for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2022079/https://play.google.com/store/apps/details?id=com.skype.raider) |[iOS](https://apps.apple.com/us/app/skype/id304878510) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Test Out AI Chat on Android and iPhone Today
@@ -128,19 +88,20 @@ thumbnail: https://thmb.techidaily.com/134f01974d541e3e4f7e678a539e306f85d908190
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-optimizing-video-posts-with-flawless-srt-file-integration-tactics/"><u>[New] In 2024, Optimizing Video Posts with Flawless SRT File Integration Tactics</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-stepping-through-the-art-of-subtle-volume-lowering-in-audacity/"><u>[New] Stepping Through the Art of Subtle Volume Lowering in Audacity</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-streamlined-steps-to-record-on-your-ipad-screen/"><u>[Updated] In 2024, Streamlined Steps to Record on Your iPad Screen</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-the-future-of-game-logging-exciting-alternatives-to-fbx-centric-apps/"><u>[Updated] In 2024, The Future of Game Logging Exciting Alternatives to FBX-Centric Apps</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/are-we-trading-authenticity-for-efficiency-with-ai/"><u>Are We Trading Authenticity for Efficiency? - With AI</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-the-art-of-ai-creation-using-free-dall-e-3-on-microsoft-bing/"><u>Discover the Art of AI Creation: Using Free DALL-E 3 on Microsoft Bing</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-the-innovative-inverted-u-shaped-mini-pc-from-china-boasting-an-external-pcie-interface-for-enhanced-performance/"><u>Discover the Innovative Inverted U-Shaped Mini PC From China, Boasting an External PCIe Interface for Enhanced Performance</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/diving-into-ai-innovations-a-comprehensive-analysis-of-googles-palm-2-versus-openais-gpt-4-differences-and-similarities/"><u>Diving Into AI Innovations: A Comprehensive Analysis of Google's PaLM 2 Versus OpenAI's GPT-4 Differences and Similarities</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-does-googles-latest-gemini-technology-compare-with-chatgpt/"><u>How Does Google's Latest Gemini Technology Compare with ChatGPT?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-safe-is-our-money-if-cybercriminals-get-access-to-advanced-ais-like-chatgpt-for-banking-breaches/"><u>How Safe Is Our Money if Cybercriminals Get Access to Advanced AIs Like ChatGPT for Banking Breaches?</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Huawei Nova Y71 | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-oneplus-open-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass OnePlus Open FRP Without Computer</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/stay-chill-with-ek-direct-die-aio-cooler-achieve-up-to-20c-lower-temps-on-your-intel-core-i7-13900ks/"><u>Stay Chill with EK Direct Die AIO Cooler – Achieve Up to 20°C Lower Temps on Your Intel Core I7 13900KS</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/top-9-apple-iphone-8-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-ios/"><u>Top 9 Apple iPhone 8 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-crafting-cinema-magic-with-fcps-top-10-plugin-choices-for-2024/"><u>[New] Crafting Cinema Magic with FCP’s Top 10 Plugin Choices for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-the-not-supported-error-in-miracast-with-a-simple-graphics-driver-update/"><u>Fix the Not Supported Error in Miracast with a Simple Graphics Driver Update</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/headphones-making-unwanted-sounds-discover-easy-ways-to-restore-crystal-clear-audio-quality/"><u>Headphones Making Unwanted Sounds? Discover Easy Ways to Restore Crystal Clear Audio Quality</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-resolve-an-apple-watch-that-fails-to-detect-physical-activity/"><u>How to Resolve an Apple Watch that Fails to Detect Physical Activity</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-poco-f5-5g-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Poco F5 5G Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/lock-your-xiaomi-redmi-13c-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Xiaomi Redmi 13C Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/simple-steps-to-watch-flv-videos-using-the-popular-vlc-player-a-comprehensive-tutorial/"><u>Simple Steps to Watch FLV Videos Using the Popular VLC Player – A Comprehensive Tutorial</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/slash-the-size-of-webm-videos-for-free-with-these-top-5-techniques/"><u>Slash the Size of WebM Videos for Free with These Top 5 Techniques!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-complete-guide-to-switching-from-gsm-to-wav-best-software-for-pcs-and-online-solutions/"><u>The Complete Guide to Switching From GSM to WAV: Best Software for PCs and Online Solutions</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-most-essential-5-earbuds-for-gaming-for-2024/"><u>The Most Essential 5 Earbuds for Gaming for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-ranking-complimentary-avi-to-mp4-video-transcoder-the-ultimate-free-factory/"><u>Top-Ranking Complimentary AVI to MP4 Video Transcoder: The Ultimate Free Factory</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-ranking-software-for-converting-videos-to-high-definition-mp4-hd-full-hd-uhd/"><u>Top-Ranking Software for Converting Videos to High Definition MP4 (HD, Full HD, UHD)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-guide-creating-custom-android-ringtones-step-by-step/"><u>Ultimate Guide: Creating Custom Android Ringtones Step-by-Step</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-tutorial-on-how-to-extract-dvd-content-safely-windows-and-mac-steps-unveiled/"><u>Ultimate Tutorial on How to Extract DVD Content Safely - Windows and Mac Steps Unveiled</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/winx-deluxe-video-editor-hd-transformar-ajustar-tamano-y-personalizar-videos-rapidamente-con-gpu-inteligente/"><u>WinX Deluxe Video Editor HD: Transformar, Ajustar Tamaño Y Personalizar Videos Rápidamente Con GPU Inteligente</u></a></li>
 </ul></div>
 

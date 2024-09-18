@@ -1,7 +1,7 @@
 ---
 title: "Decrypting Artificial Intelligence's Mysteries: Inside Black Boxes"
-date: 2024-09-11T18:20:21.935Z
-updated: 2024-09-12T18:20:21.935Z
+date: 2024-09-13T18:47:00.278Z
+updated: 2024-09-17T17:00:56.747Z
 tags:
   - chatgpt
   - open-ai
@@ -34,25 +34,11 @@ The below image shows ChatGPT suggesting text corrections.
 
 ![Asking ChatGPT to Edit Text and Spot Grammar Errors](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-spotting-spelling-errors.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Bing Chat provides more accurate results by referencing other grammar checkers in real-time.
 
 ![Bing Chat Edits Paragraphs by Quillbot's Standards ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bing-chat-edits-text.jpg)
 
  You’ll find many[reliable grammar checkers online](http://www.makeuseof.com/tag/best-grammar-checker/) , but full-suite plans often come with monthly subscriptions. Free accounts get limited checks. On Grammarly, users can’t even unlock advanced suggestions until they upgrade to a Premium plan.
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Poorly Researched Articles Spread Misinformation
 
@@ -61,13 +47,6 @@ The below image shows ChatGPT suggesting text corrections.
  For instance, the below photo shows that ChatGPT doesn’t know its own launch date.
 
 ![ChatGPT Answering Question About Itself Wrong](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-stating-incorrect-information.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Despite these limitations, some writers wholly depend on ChatGPT for topic research. They want quick, convenient answers. However, you can’t replace proper research with AI chatbot conversations. You’ll end up publishing incorrect information.
 
@@ -83,6 +62,13 @@ The below image shows ChatGPT suggesting text corrections.
 
  The upside is that Google rewards well-researched content. Googlebot eventually replaces ranking AI articles that provide no added value to readers. Even results on page one could quickly drop. Just keep publishing quality pieces. You could also brush up on[Google’s helpful content guide update](https://www.makeuseof.com/tips-to-write-for-google-helpful-content-update/) to write even better.
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Marketers Revamp Their SEO Strategies
 
  SEO tools often come with a steep price tag. Widely used options like[Ahrefs](https://ahrefs.com/) and[Semrush](https://semrush.sjv.io/c/119570/995972/13053?subId1=UUmuoUeUpU2024741&subId2=emuo&u=https%3A%2F%2Fwww.semrush.com%2F) could set you back by hundreds a month. The fees don’t make sense unless you run all their features.
@@ -93,32 +79,11 @@ The below image shows Bing Chat’s keyword research on AI.
 
 ![Bing Chat Suggesting Keywords Based on Your Topic](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bing-chat-doing-seo-keyword-research.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Since Bing Chat wasn’t designed for SEO research, you must phrase your prompts properly. Don’t just say you need SEO analytics. Ask for specific data, like top-ranking LSI keywords, search volume analytics, and market trends.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Content Mills Publish AI-Generated Articles in Masses
 
 ![Asking ChatGPT to Write a 1,000 word Article on AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-writing-1-000-word-article.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Content mills have always prioritized quantity over quality. But with the availability of AI-driven chatbots, they further sped up the writing process at no extra cost. It’s common for them to publish hundreds of AI content daily.
 
@@ -126,25 +91,11 @@ The below image shows Bing Chat’s keyword research on AI.
 
  Avoid content mills like the plague. They pay industry-low rates, set unrealistic output expectations, and place zero value on quality writing. Your writing career won’t progress while working for them.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Plagiarism Has Become More Widespread
 
  Plagiarism has become more widespread recently. Remember: AI repeats answers. So if multiple writers were to discuss one topic, their articles would share the same angle, structure, outline, and theme. Some writers rephrase texts to avoid getting flagged for plagiarism.
 
  But since they also use publicly available paraphrasing tools, Google still detects their template outputs. Their sites quickly lose authority afterwards. You can’t cheat the system. To produce original pieces with unique insights, research various official and non-official sources.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. More Articles Share Similar Angles
 
@@ -152,9 +103,23 @@ The below image shows Bing Chat’s keyword research on AI.
 
 ![ChatGPT Answering a Basic Question General Kowledge Question About AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-answers-general-knowledge-question-about-ai.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  We started a new chat and reused our prompt, but ChatGPT provided identical facts. It only rephrased its output.
 
 ![Trying to Get ChatGPT to Answer the Same Question About AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-answering-a-regenerated-question-about-ai.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Since chatbots generate the same information, writers publishing AI-generated content end up sharing angles. Many even follow similar article structures.
 
@@ -167,6 +132,13 @@ The below image shows Bing Chat’s keyword research on AI.
  To make matters worse, fake gurus encourage unsuspecting newbies to exploit AI-driven platforms. They make the practice seem normal, even if it’s not.[AI content falls outside of copyright protection laws](https://www.makeuseof.com/copyright-rules-ai-art/) . Since you can’t claim ownership, using them commercially could have legal consequences.
 
  Also, AI writing tools are unsustainable.[Google](https://developers.google.com/search/blog/2022/12/google-raters-guidelines-e-e-a-t) prioritizes authoritative websites that publish well-researched articles—it might start cracking down on AI content soon. It already prohibits manipulating SERP rankings with AI, after all.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do AI Chatbots Positively or Negatively Impact the Content Industry?
 
@@ -189,19 +161,18 @@ The below image shows Bing Chat’s keyword research on AI.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-office-design-evolution-trends-and-practices-for-maximum-output-for-2024/"><u>[New] Office Design Evolution Trends and Practices for Maximum Output for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-tailored-editing-for-impeccable-instagram-videos-for-2024/"><u>[New] Tailored Editing for Impeccable Instagram Videos for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-socialvideocutter-download-feature-for-2024/"><u>[Updated] SocialVideoCutter Download Feature for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/charting-new-territories-leading-6-artists-in-nft-landscape-for-2024/"><u>Charting New Territories Leading 6 Artists in NFT Landscape for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/elevate-your-stories-to-greatness-with-strategic-use-of-chatgpt-tools-and-tips/"><u>Elevate Your Stories to Greatness with Strategic Use of ChatGPT Tools and Tips</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhancing-business-strategies-with-chatgpt-insights-and-ideas/"><u>Enhancing Business Strategies with ChatGPT Insights and Ideas</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/has-the-management-of-chatgpt-slipped-from-openais-hands/"><u>Has the Management of ChatGPT Slipped From OpenAI's Hands?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-to-mp4-for-huawei-nova-y71-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD MTS to MP4 for Huawei Nova Y71?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Vivo X Fold 2 | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/mastering-movie-capture-pc-mac-and-mobile-techniques-for-2024/"><u>Mastering Movie Capture PC, Mac & Mobile Techniques for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-realme-gt-neo-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Realme GT Neo 5 | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-gateway-to-textual-ingenuity-with-openai-apis/"><u>The Gateway to Textual Ingenuity with OpenAI APIs</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-new-face-of-ratchet-and-clank-nostalgic-and-novel-in-one-package/"><u>The New Face of Ratchet & Clank: Nostalgic and Novel in One Package</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-edge-based-machine-learning-deployments/"><u>Understanding Edge-Based Machine Learning Deployments</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-constructing-coherent-youtube-video-sequences/"><u>[New] 2024 Approved Constructing Coherent YouTube Video Sequences</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-from-celluloid-to-screen-adapting-your-vids-for-ig/"><u>[Updated] From Celluloid to Screen Adapting Your Vids for IG</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-obs-dominion-vs-streamlabs-kingdom/"><u>[Updated] In 2024, OBS Dominion Vs. Streamlabs Kingdom</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-the-ultimate-blueprint-for-sourcing-top-tier-instagram-ringtones-and-crafting-standout-alarms/"><u>2024 Approved The Ultimate Blueprint for Sourcing Top-Tier Instagram Ringtones and Crafting Standout Alarms</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-thors-fury-legends-of-the-ragnarok/"><u>2024 Approved Thor's Fury Legends of the Ragnarök</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-and-math-puzzles-is-the-ai-up-to-the-challenge/"><u>ChatGPT and Math Puzzles: Is the AI Up to the Challenge?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/four-key-improvements-for-a-better-experience-on-chatgpt-store-platform/"><u>Four Key Improvements for a Better Experience on ChatGPT Store Platform</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ignite-creative-genius-explore-five-exceptional-ai-text-generators/"><u>Ignite Creative Genius: Explore Five Exceptional AI Text Generators</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-firmware-update-for-logitech-extreme-3d-pro-gaming-mouse-drivers/"><u>Latest Firmware Update for Logitech Extreme 3D PRO Gaming Mouse Drivers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/making-ai-text-talk-like-you-training-steps/"><u>Making AI Text Talk Like You: Training Steps</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximize-productivity-the-8-key-chatgpt-prompts-that-combat-digital-interruptions/"><u>Maximize Productivity: The 8 Key ChatGPT Prompts that Combat Digital Interruptions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-latest-in-computer-components-with-toms-expertise/"><u>Navigating the Latest in Computer Components with Tom's Expertise</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-claude-2-features-and-functions/"><u>Unveiling Claude 2: Features & Functions</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Delving Into OpenAI's Leadership Stance: Why a Stricter Hand Is Needed On Artificial Intelligence Development"
-date: 2024-09-11T18:18:38.832Z
-updated: 2024-09-12T18:18:38.832Z
+date: 2024-09-15T20:30:11.324Z
+updated: 2024-09-17T23:18:20.777Z
 tags:
   - chatgpt
   - open-ai
@@ -24,13 +24,6 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## AI-Powered Bing Comes to Mobile
 
  Microsoft has been going all-in on AI recently. The[ChatGPT-enabled version of Bing](https://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/) caused a storm online as it threatens to[totally change how we search the internet](https://www.makeuseof.com/is-chatgpt-search-engine-threat/) .
@@ -38,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
  Now, with around two-thirds of all searches taking place on mobile devices, the company has rolled out new versions of its Bing search app and Edge browser for both Android and iOS with the same technology built in.
 
 ![bing and skype with chatgpt enhanced](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-and-skype-with-chatgpt-enhanced.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image Credit:[Microsoft](https://blogs.microsoft.com/blog/2023/02/22/the-new-bing-preview-experience-arrives-on-bing-and-edge-mobile-apps-introducing-bing-now-in-skype/)
 
@@ -54,13 +40,6 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
 
  The chatbot is also built into the Edge browser, where you can access it via the homepage.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Skype Gets AI Features
 
  In addition to those apps, Microsoft has added AI-enhanced Bing support to Skype, the venerable voice and chat app. The idea here is not to get the AI to have conversations on your behalf, but to add similar search capabilities to group messages.
@@ -68,13 +47,6 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
 > "If your family is chatting about the next family reunion, you can simply ask Bing for suggestions on travel destinations, expected weather forecasts and interesting events around your time of travel, and everyone in the chat will get access to the results."
 
  To access this feature, you simply need to add Bing to your group chats as you would any other contact. It's available worldwide and can respond in over 100 languages.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Use the New ChatGPT Bing Apps
 
@@ -87,10 +59,10 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
 **Download:** Skype for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2022079/https://play.google.com/store/apps/details?id=com.skype.raider) |[iOS](https://apps.apple.com/us/app/skype/id304878510) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Test Out AI Chat on Android and iPhone Today
@@ -116,17 +88,13 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-unveil-top-10plus-platforms-for-virtual-worship-spaces/"><u>[New] 2024 Approved Unveil Top 10+ Platforms for Virtual Worship Spaces</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-premium-tvs-for-ps5-and-xbox-series-x-gamers-dreams/"><u>[Updated] Premium TVs for PS5 & Xbox Series X Gamers' Dreams</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-swiftly-flip-your-movie-with-vlcs-rotation-feature-for-2024/"><u>[Updated] Swiftly Flip Your Movie with VLC's Rotation Feature for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/anticipating-chatgpt-desktop-app-release-explore-top-notch-free-open-source-options-now/"><u>Anticipating ChatGPT Desktop App Release? Explore Top-Notch, Free Open Source Options Now</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-from-apple-iphone-15-pro-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock from Apple iPhone 15 Pro</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Motorola Edge 40 Neo | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/notion-ai-versus-chatgpt-the-ultimate-generative-ai-tool-face-off/"><u>Notion AI Versus ChatGPT: The Ultimate Generative AI Tool Face-Off</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/perplexity-ai-is-the-best-ai-powered-google-search-tool-youre-not-using/"><u>Perplexity AI Is the Best AI-Powered Google Search Tool You're Not Using</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-oppo-k11-5g-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Oppo K11 5G</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-4-strategies-leveraging-chatgpt-for-efficient-web-development/"><u>Top 4 Strategies: Leveraging ChatGPT for Efficient Web Development</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-artificeal-intelligence-a-beginners-guide/"><u>Understanding Artificeal Intelligence: A Beginner's Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722893107382-understanding-the-503-service-unavailable-error-causes-and-solutions/"><u>Understanding the 503 Service Unavailable Error - Causes & Solutions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-capture-selfie-snap-shots-with-vintage-iphone-x/"><u>[Updated] Capture Selfie Snap Shots with Vintage iPhone X</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-maximizing-impact-innovative-fb-strategies-for-handc-marketing/"><u>2024 Approved Maximizing Impact Innovative FB Strategies for H&C Marketing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-leading-free-tools-for-convert-avi-files-to-mp3-best-choices-for-pc-and-web-users/"><u>Discover the Leading FREE Tools for Convert AVI Files to MP3: Best Choices for PC & Web Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/dvdhandbrake/"><u>DVD抽出手順：HandBrakeの使い方ガイド</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-conversion-techniques-from-avi-to-m4v-files-a-comprehensive-tutorial/"><u>Easy Conversion Techniques From AVI to M4V Files - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhance-cpu-power-achieve-optimal-performance-with-vanguard-software/"><u>Enhance CPU Power, Achieve Optimal Performance with Vanguard Software</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-nubia-red-magic-9-proplus-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Nubia Red Magic 9 Pro+ to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-se-drfone-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On Apple iPhone SE | Dr.fone</u></a></li>
 </ul></div>
 

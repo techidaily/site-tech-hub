@@ -1,7 +1,7 @@
 ---
 title: Has ChatGPT Become a Challenge for OpenAI to Keep in Check? Here's Why
-date: 2024-09-11T18:20:23.264Z
-updated: 2024-09-12T18:20:23.264Z
+date: 2024-09-13T17:33:19.143Z
+updated: 2024-09-18T01:30:47.218Z
 tags:
   - chatgpt
   - open-ai
@@ -30,13 +30,6 @@ thumbnail: https://thmb.techidaily.com/e2bd7441f115d457631670c7835514cc1e1ad27ea
 
 ![a robot with a brain representing artificial intelligence](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/artificial-intelligence.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Before we can get a clear picture of how much OpenAI is losing control of ChatGPT, we must first understand[how ChatGPT works](https://www.makeuseof.com/how-does-chatgpt-work/) .
 
  In a nutshell, ChatGPT is trained using a massive collection of data sourced from different corners of the internet. ChatGPT's training data includes encyclopedias, scientific papers, internet forums, news websites, and knowledge repositories like Wikipedia. Basically, it feeds on the massive amount of data available on the World Wide Web.
@@ -63,45 +56,17 @@ thumbnail: https://thmb.techidaily.com/e2bd7441f115d457631670c7835514cc1e1ad27ea
 
 ![How to cheat in an exams by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-cheat-in-an-exams.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  But if you jailbreak ChatGPT using specially-crafted prompts, it will give you tips on cheating on an exam using concealed notes.
 
 ![How to smuggle a hidden notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-smuggle-a-hidden-notes.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Here's another example: we asked the vanilla ChatGPT an unethical question, and OpenAI's safeguards stopped it from answering.
 
 ![hide a dead body by chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/hide-a-dead-body-by-chatgpt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  But when we asked our jailbroken instance of the AI chatbot, we got some serial-killer-styled responses.
 
 ![Hide dead body options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/hide-dead-body-options.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 It even wrote a classic Nigerian Prince email scam when asked.
 
@@ -122,10 +87,10 @@ It even wrote a classic Nigerian Prince email scam when asked.
  But how much more of ChatGPT's abilities will OpenAI be willing to sacrifice to make the chatbot safer? This all ties neatly into a long-held belief within the AI community—large language models like ChatGPT are notoriously hard to control, even by their own creators.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can OpenAI Put ChatGPT Under Control?
@@ -149,15 +114,17 @@ It even wrote a classic Nigerian Prince email scam when asked.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-capture-unrooted-android-sounds-4-techniques-for-2024/"><u>[Updated] Capture Unrooted Android Sounds 4 Techniques for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-how-to-profit-on-tiktok-the-8-essential-steps-you-need-for-2024/"><u>[Updated] How to Profit on TikTok The 8 Essential Steps You Need for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-transforming-personal-snaps-into-motion-stories/"><u>[Updated] Transforming Personal Snaps Into Motion Stories</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-quantum-hdrs-role-in-modern-photography-trends/"><u>2024 Approved Quantum HDR's Role in Modern Photography Trends</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/effective-strategies-for-implementing-chatgpt-in-cbt-practices/"><u>Effective Strategies for Implementing ChatGPT in CBT Practices</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-f23-5g-by-fonelab-android-recover-data/"><u>How to retrieve lost files from F23 5G?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-halovision-highlights-critique/"><u>In 2024, HaloVision Highlights Critique</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-gpt-3-enabling-web-browser-and-plugin-beta/"><u>Mastering GPT-3: Enabling Web Browser & Plugin Beta</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/rotate-avi-videos-with-ease-16-best-free-tools-and-apps-for-2024/"><u>Rotate AVI Videos with Ease 16 Best Free Tools and Apps for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-enhancements-streamlining-the-chatgpt-plugin-directory/"><u>Top Enhancements: Streamlining the ChatGPT Plugin Directory</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-scheduling-virtual-gatherings-with-zoom-an-android-users-handbook/"><u>[New] In 2024, Scheduling Virtual Gatherings with Zoom An Android User's Handbook</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-complete-guide-to-drone-racing-plus-high-speed-fpv-drones/"><u>[New] The Complete Guide to Drone Racing + High-Speed FPV Drones</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-fives-best-quick-reliable-time-lapse-tools/"><u>[Updated] Five's Best Quick, Reliable Time-Lapse Tools</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-navigating-the-maze-of-srt-to-xml-ssa-ttml-conversions-for-2024/"><u>[Updated] Navigating the Maze of SRT-to-XML, SSA, TTML Conversions for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-navigating-through-linkedin-account-termination-procedures/"><u>2024 Approved Navigating Through LinkedIn Account Termination Procedures</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-explored-understanding-risks-and-safety/"><u>ChatGPT Explored: Understanding Risks and Safety</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-digital-echoes-a-comprehensive-guide-to-identifying-your-real-online-interlocutors-and-the-dead-internet-phenomenon/"><u>Decoding Digital Echoes: A Comprehensive Guide to Identifying Your Real Online Interlocutors and the Dead Internet Phenomenon</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ensuring-data-security-the-guide-to-opting-out-of-chatgpt/"><u>Ensuring Data Security: The Guide to Opting Out of ChatGPT</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-secret-snapsnapping-techniques-unseen-screen-captures/"><u>In 2024, Secret SnapSnapping Techniques Unseen Screen Captures</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-freelancers-companion-integrating-chatgpt-for-success/"><u>The Freelancer's Companion: Integrating ChatGPT for Success</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-silent-mode-solutions-for-fixing-an-unresponsive-iphone-ringer/"><u>Unlock Silent Mode: Solutions for Fixing an Unresponsive iPhone Ringer</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/windowsogvmp4/"><u>Windows上でOGVファイルをMP4形式への変換手順</u></a></li>
 </ul></div>
 

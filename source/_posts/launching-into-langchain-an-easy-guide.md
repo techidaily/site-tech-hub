@@ -1,7 +1,7 @@
 ---
 title: "Launching Into LangChain: An Easy Guide"
-date: 2024-09-11T18:17:07.776Z
-updated: 2024-09-12T18:17:07.776Z
+date: 2024-09-13T19:34:44.469Z
+updated: 2024-09-18T01:45:12.128Z
 tags:
   - chatgpt
   - open-ai
@@ -19,13 +19,6 @@ thumbnail: https://thmb.techidaily.com/3681ab3fb1278f9c5e283b2684cc0a6da110630db
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -65,10 +58,10 @@ Close
  It's a basic version of the classic game, but it's engaging enough. The custom GPT's scripting doesn't allow you to go off-piste and, say, rob the local convenience store for supplies (nor did the original), but it's certainly a lot easier without so many setbacks constantly upending and destroying your party. It's a much easier version, that's for sure.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3.[Poker](https://chat.openai.com/g/g-lHyTLJaCX-poker)
@@ -80,10 +73,10 @@ Close
  My only major gripe about this poker game is that ChatGPT seems to mimic your choices, such as check, raise, and so on, which can make the game predictable (or at least less random).
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4.[Console GPT](https://chat.openai.com/g/g-3p94K4Djb-console-gpt)
@@ -94,13 +87,6 @@ Close
 
 ![cyber syndicate cartridge ai image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/cyber-syndicate-cartridge-ai-image.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Input the type of game you want in the text box, select**Glif It!** , and watch as your creation comes to life. I went with "retro-futurism crime lord" and was presented with "Cyber Syndicate," a game where you "navigate a neon-soaked, cyberpunk metropolis teeming with high-tech heists and digital espionage," with a goal of becoming the ultimate syndicate leader.
 
  Now, download the Cyber Syndicate cartridge (as an image; it's not really a cartridge file) by hovering over the image and selecting**Download** .
@@ -110,13 +96,6 @@ Close
 Close
 
  The narrative flow is a bit shaky, and Console GPT could use some extra commands to remember other parts of the story, but it's good fun for a while. For example, one moment, I was a lone operative in a bar, and the next, I was planning a heist in a room with the rest of my assembled team.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5.[Cookie Clicker](http://chat.openai.com/g/g-g0b22bvqB-cookie-clicker)
 
@@ -129,13 +108,6 @@ Close
  The custom GPT Cookie Clicker is decidedly different. You're still building up a cookie empire in a similar style, but because ChatGPT doesn't run automated commands and cannot keep the numbers ticking over like the original game, it requires more input.
 
  Still, if you're into idle games and want to try something different, it could be worth a try.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6.[Cute Little Zombies](https://chat.openai.com/g/g-CEON6aFtV-cute-little-zombies-a-text-adventure-game)
 
@@ -166,18 +138,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-syncing-muted-voices-with-obs-streams-for-2024/"><u>[New] Syncing Muted Voices with OBS Streams for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-bypassing-education-tips-on-skipping-edgenuity-online-video-lessons/"><u>[Updated] Bypassing Education Tips on Skipping Edgenuity Online Video Lessons</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-high-quality-screen-recording-with-tunefab/"><u>[Updated] High-Quality Screen Recording with Tunefab</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/deceptive-copycat-of-chatgpt-plugin-risks-hijacking-your-facebook-credentials/"><u>Deceptive Copycat of ChatGPT Plugin Risks Hijacking Your Facebook Credentials</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-install-outlook-preview-in-windows-oses/"><u>How to Install Outlook Preview in Windows OSes</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-vivo-x-fold-2-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Vivo X Fold 2 to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/is-manners-still-important-when-interacting-with-voice-assistants-like-chatgpt-alexa-and-siri/"><u>Is Manners Still Important When Interacting with Voice Assistants Like ChatGPT, Alexa & Siri?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/overcoming-service-errors-between-chatgpt-and-plugins/"><u>Overcoming Service Errors Between ChatGPT and Plugins</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/rapidly-redefining-tech-unpacking-5-reasons-for-chatgpts-success/"><u>Rapidly Redefining Tech: Unpacking 5 Reasons for ChatGPT's Success</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/troubleshooting-chatgpt-iphone-issues-top-9-solutions-for-a-functioning-app/"><u>Troubleshooting ChatGPT iPhone Issues - Top 9 Solutions for a Functioning App</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-disabled-microsoft-outlook-push-notifications/"><u>Troubleshooting Disabled Microsoft Outlook Push Notifications</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unleash-the-power-of-ai-achieve-professional-results-using-free-gpt-4-turbo-and-copilot-techniques/"><u>Unleash the Power of AI: Achieve Professional Results Using Free GPT-4 Turbo and Copilot Techniques</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/voice-activated-mastery-5-techniques-for-directing-chatgpts-actions/"><u>Voice-Activated Mastery: 5 Techniques for Directing ChatGPT's Actions</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-a-step-by-step-roadmap-for-lasting-tiktok-account-loss/"><u>[New] In 2024, A Step-by-Step Roadmap for Lasting TikTok Account Loss</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-navigating-the-ipadiphone-soundscape-adding-apple-podcasts/"><u>[New] Navigating the iPad/iPhone Soundscape Adding Apple Podcasts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mp3wav4/"><u>最適の無料MP3変換器選び：WAVから簡単に！インストールなしで使えるトップ4</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/content-construction-revolutionized-by-chatbot-innovation/"><u>Content Construction Revolutionized by Chatbot Innovation</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/cookiebot-enabled-user-experience-enhancement/"><u>Cookiebot-Enabled User Experience Enhancement</u></a></li>
+<li><a href="https://driver-install.techidaily.com/elevate-performance-with-updated-s1500-firmware-guide/"><u>Elevate Performance with Updated S1500 Firmware Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/flashflv2/"><u>Flashビデオ(FLV)の分割・切り取りに必要な2つの方法投稿</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/free-or-paid-exploring-the-distinctions-between-apple-video-converter-factory-and-pro-version/"><u>Free or Paid? Exploring the Distinctions Between Apple Video Converter Factory & Pro Version</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/guide-capturing-your-instagram-live-streams-from-desktop-or-mobile-devices/"><u>Guide: Capturing Your Instagram Live Streams From Desktop or Mobile Devices</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Lava Blaze Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-realme-v30-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Realme V30</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-video-extraction-effective-techniques-for-securing-content-from-anon-v/"><u>Mastering Video Extraction: Effective Techniques for Securing Content From Anon-V</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mp4-to-mjpeg-conversion-a-step-by-step-guide/"><u>MP4 to MJPEG Conversion: A Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/quick-guide-converting-mkv-to-avi-format-using-vlc-player-no-hidden-marks/"><u>Quick Guide: Converting MKV to AVI Format Using VLC Player - No Hidden Marks</u></a></li>
 </ul></div>
 

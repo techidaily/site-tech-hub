@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Truth: Understanding ChatGPT Jailbreaks and Their Usage Implications"
-date: 2024-09-11T18:21:17.859Z
-updated: 2024-09-12T18:21:17.859Z
+date: 2024-09-12T23:16:36.422Z
+updated: 2024-09-17T22:41:41.110Z
 tags:
   - chatgpt
   - open-ai
@@ -20,25 +20,11 @@ thumbnail: https://thmb.techidaily.com/e7ff9df7bb6af3b5e4d65d67011a30e37297e02c3
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [What Is Copilot Pro?](https://www.makeuseof.com/copilot-vs-copilot-pro/#what-is-copilot-pro)
 * [How Much Does Copilot Pro Cost?](https://www.makeuseof.com/copilot-vs-copilot-pro/#how-much-does-copilot-pro-cost)
 * [Should You Upgrade to Copilot Pro?](https://www.makeuseof.com/copilot-vs-copilot-pro/#should-you-upgrade-to-copilot-pro)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -49,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/e7ff9df7bb6af3b5e4d65d67011a30e37297e02c3
  Microsoft Copilot has been the haven for those who want to use OpenAI's ChatGPT Plus without forking out every month.
 
  And you'll be very pleased to hear that isn't changing any time soon—but Microsoft is rolling out Copilot Pro, a new subscription model for its free AI companion, featuring new capabilities, custom GPT support, and deeper integration into its Microsoft 365 suite.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What Is Copilot Pro?
 
@@ -70,13 +49,6 @@ thumbnail: https://thmb.techidaily.com/e7ff9df7bb6af3b5e4d65d67011a30e37297e02c3
 
  All in all, Microsoft wants Copilot Pro to be "a single AI experience that runs across your devices," providing a unified AI tool that's familiar with every bit of software you use.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How Much Does Copilot Pro Cost?
 
 [Microsoft Copilot Pro](https://www.microsoft.com/en-us/store/b/copilotpro) will cost $20 per month per user, and officially launched on January 14, 2024.
@@ -86,10 +58,16 @@ thumbnail: https://thmb.techidaily.com/e7ff9df7bb6af3b5e4d65d67011a30e37297e02c3
  Given the deeper integration of Copilot Pro into Microsoft's ecosystem, the $20 subscription could make Pro a valuable tool versus other tools that are useful in terms of AI but lack specific integrations with regularly used software, especially in business and productivity.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Should You Upgrade to Copilot Pro?
@@ -99,10 +77,16 @@ thumbnail: https://thmb.techidaily.com/e7ff9df7bb6af3b5e4d65d67011a30e37297e02c3
 ![microsoft copilot answering question jan 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/microsoft-copilot-answering-question-jan-2024.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  However, given the extensive number of free features Copilot has, I don't expect many folks will be disappointed. Deeper integration with Microsoft 365 is great if you use those tools, but if you're using Copilot as an enhanced internet search engine, these updates won't mean much to you.
@@ -128,20 +112,17 @@ thumbnail: https://thmb.techidaily.com/e7ff9df7bb6af3b5e4d65d67011a30e37297e02c3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-full-review-of-logitechs-ultimate-4k-professional-cam/"><u>[New] In 2024, Full Review of Logitech's Ultimate 4K Professional Cam</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-navigating-vertical-vs-horizontal-on-facebook-videos/"><u>[Updated] In 2024, Navigating Vertical vs Horizontal on Facebook Videos</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-toolwiz-demystified-detailed-app-evaluation-for-photo-experts/"><u>2024 Approved Toolwiz Demystified Detailed App Evaluation for Photo Experts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-transformation-career-threats-by-chatgpt/"><u>AI Transformation: Career Threats by ChatGPT?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/comparing-destiny-readings-does-chatgpt-excel-beyond-magazines-at-prognosticating-your-life-path/"><u>Comparing Destiny Readings: Does ChatGPT Excel Beyond Magazines at Prognosticating Your Life Path?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/from-obscure-to-popular-explore-these-top-5-ai-driven-book-discovery-platforms/"><u>From Obscure to Popular: Explore These Top 5 AI-Driven Book Discovery Platforms</u></a></li>
-<li><a href="https://fox-http.techidaily.com/future-frameworks-exclusive-list-of-top-cameras-for-2024/"><u>Future Frameworks Exclusive List of Top Cameras for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/gpt-4-versus-its-siblings-dissecting-the-differences-between-gpt-4-gpt-4turbo-and-phi/"><u>GPT-4 Versus Its Siblings: Dissecting the Differences Between GPT-4, GPT-4Turbo, and Phi</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-6s-plus-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 6s Plus Data From iOS iTunes Backup? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-chatgpt-a-step-by-step-guide-for-android-and-ios-users/"><u>Mastering ChatGPT: A Step-by-Step Guide for Android & iOS Users</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-videopad-video-editor-review-a-closer-look-at-its-capabilities-and-limitations/"><u>New Videopad Video Editor Review A Closer Look at Its Capabilities and Limitations</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/personalizing-conversations-leveraging-create-a-gpt-techniques/"><u>Personalizing Conversations: Leveraging Create a GPT Techniques</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-risks-of-using-ai-generated-windows-11-keys-why-natural-methods-are-better/"><u>The Risks of Using AI-Generated Windows 11 Keys: Why Natural Methods Are Better</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-7-free-ai-powered-tools-and-chatgpt-applications-for-quick-trip-planning/"><u>Top 7 Free AI-Powered Tools & ChatGPT Applications for Quick Trip Planning</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-create-epic-lip-syncs-top-rated-apps-for-android-and-ios/"><u>Updated 2024 Approved Create Epic Lip Syncs Top-Rated Apps for Android and iOS</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-from-hobbyists-to-pros-how-mavic-air-redefines-with-spark/"><u>[New] From Hobbyists to Pros How Mavic Air Redefines with Spark</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-instaflash-compile-your-pics-fast/"><u>[New] In 2024, InstaFlash Compile Your Pics Fast</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-instagram-live-with-professional-obs/"><u>[New] In 2024, Instagram Live with Professional OBS</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/avigating-to-submillion-territory-on-youtube/"><u>[New] Navigating to Submillion Territory on YouTube</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-ultimate-question-in-cameras-can-a-dslr-surpass-a-hero-4/"><u>[Updated] In 2024, The Ultimate Question in Cameras Can a DSLR Surpass a Hero 4?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/behind-the-scenes-the-top-7-studio-programs-for-animators-for-2024/"><u>Behind the Scenes The Top 7 Studio Programs for Animators for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/fovitec-spk10-037-softbox-lighting-kit-review-bright-and-versatile/"><u>Fovitec SPK10-037 Softbox Lighting Kit Review: Bright and Versatile</u></a></li>
+<li><a href="https://solve-news.techidaily.com/navigare-tra-politica-di-spedizione-e-processo-di-resi-su-movavi-guida-completa/"><u>Navigare Tra Politica Di Spedizione E Processo Di Resi Su Movavi: Guida Completa</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/solving-fraps-display-problems-on-windows-a-comprehensive-solution-for-gamers/"><u>Solving FRAPS Display Problems on Windows #: A Comprehensive Solution for Gamers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/speedy-solutions-for-switching-your-m4v-videos-over-to-mkv-format-efficiently/"><u>Speedy Solutions for Switching Your M4V Videos Over to MKV Format Efficiently</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-solutions-for-resolving-track-extraction-failures-in-windows-media-player/"><u>Step-by-Step Solutions for Resolving Track Extraction Failures in Windows Media Player</u></a></li>
+<li><a href="https://network-issues.techidaily.com/successful-installation-no-complaints-for-nvidia/"><u>Successful Installation, No Complaints for NVIDIA</u></a></li>
 </ul></div>
 

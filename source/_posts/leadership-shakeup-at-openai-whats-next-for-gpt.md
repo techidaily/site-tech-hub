@@ -1,7 +1,7 @@
 ---
 title: Leadership Shakeup at OpenAI - What's Next For GPT?
-date: 2024-09-11T18:23:05.875Z
-updated: 2024-09-12T18:23:05.875Z
+date: 2024-09-13T21:53:54.837Z
+updated: 2024-09-18T02:50:44.719Z
 tags:
   - chatgpt
   - open-ai
@@ -26,13 +26,6 @@ thumbnail: https://thmb.techidaily.com/7d0feaf90637aa15b789896b9b4144f8ee9d0a151
 * [How to Install and Configure ChatGPT Desktop Application](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#how-to-install-and-configure-chatgpt-desktop-application)
 * [When Is the Official ChatGPT Desktop Version Launching?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#when-is-the-official-chatgpt-desktop-version-launching)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * OpenAI is releasing a ChatGPT desktop version, starting with macOS and later for Windows.
@@ -44,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/7d0feaf90637aa15b789896b9b4144f8ee9d0a151
  Starting with macOS, OpenAI is officially bringing ChatGPT to desktops, with Windows support coming later.
 
  But if you can't wait—like me!—you can try a free, open-source version instead.
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What Is the Open-Source ChatGPT Desktop Application?
 
@@ -67,16 +53,10 @@ thumbnail: https://thmb.techidaily.com/7d0feaf90637aa15b789896b9b4144f8ee9d0a151
  The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Install and Configure ChatGPT Desktop Application
@@ -84,10 +64,10 @@ thumbnail: https://thmb.techidaily.com/7d0feaf90637aa15b789896b9b4144f8ee9d0a151
 ![chatgpt open source desktop version home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-home-page.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Head to the open-source[ChatGPT Desktop Application download page](https://github.com/lencx/ChatGPT/releases/tag/v1.1.0) . The latest version at the time of writing is V1.1.0, but you can check for a newer version.
@@ -97,20 +77,6 @@ thumbnail: https://thmb.techidaily.com/7d0feaf90637aa15b789896b9b4144f8ee9d0a151
  Then, just sign in to ChatGPT as you usually would. All of your previous chats will be waiting for you, and you can choose from GPT-4, GPT-4o, DALL-E, and so on.
 
 ![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## When Is the Official ChatGPT Desktop Version Launching?
 
@@ -135,16 +101,16 @@ thumbnail: https://thmb.techidaily.com/7d0feaf90637aa15b789896b9b4144f8ee9d0a151
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-mindful-meandering-leisurely-pc-games/"><u>[New] In 2024, Mindful Meandering Leisurely PC Games</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-capture-natural-motion-blur-for-pics/"><u>2024 Approved Capture Natural Motion Blur for Pics</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/clear-twitters-of-checkmarks-linuss-truths-uncovered-trojan-clarified-and-ai-bots-faults-exposed/"><u>Clear Twitters of Checkmarks, Linus’s Truths Uncovered, Trojan Clarified, & AI Bots' Faults Exposed.</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/engage-in-protected-dialogues-with-the-new-ai-chat-by-duckduckgo-featuring-secure-conversations-with-chatgpt/"><u>Engage in Protected Dialogues with the New AI Chat by DuckDuckGo - Featuring Secure Conversations With ChatGPT</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-iphone-15-plus-from-backup-when-itunes-backup-is-corrupt-or-not-compatible-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore iPhone 15 Plus from Backup when iTunes Backup is Corrupt or not compatible | Stellar</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Realme 10T 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-exclusive-soundstage-shows/"><u>In 2024, Exclusive Soundstage Shows</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/innovating-with-ai-best-practices-for-authors-and-proofreaders/"><u>Innovating with AI: Best Practices for Authors & Proofreaders</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-truth-about-working-in-prompt-engineering-9-critical-factors-for-consideration/"><u>The Truth About Working in Prompt Engineering: 9 Critical Factors for Consideration</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-six-solutions-to-prevent-your-airpods-from-auto-switching-across-iphone-and-mac/"><u>Top Six Solutions to Prevent Your AirPods From Auto-Switching Across iPhone and Mac</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-elon-musks-grok-ai-understanding-its-capabilities-and-pricing/"><u>Unveiling Elon Musk's Grok AI: Understanding Its Capabilities & Pricing</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-live-stream-excellence-which-software-leads-the-pack-vmix-or-wirecast/"><u>[New] Live Stream Excellence Which Software Leads the Pack? VMix or Wirecast?</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/1-top-10-librerias-de-captura-de-escrena-gratuita-para-windows-10/"><u>1. Top 10 Librerías De Captura De Escrena Gratuita Para Windows 10</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-effortless-background-watching-of-youtube-on-mobile/"><u>2024 Approved Effortless Background Watching of YouTube on Mobile</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/a-childs-first-step-into-spanish-culture/"><u>A Child's First Step Into Spanish Culture</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/aiff-op-mp4-verzamelen-veilig-en-vrijetijdsbruikend-online-konverter-movavi/"><u>AIFF Op MP4 Verzamelen: Veilig en Vrijetijdsbruikend Online Konverter - Movavi</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/efficient-printer-management-with-new-epson-artisan-1430-drivers-for-modern-windows-os/"><u>Efficient Printer Management with New Epson Artisan 1430 Drivers for Modern Windows OS</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-10-best-podcast-editing-software-products-free-and-paid/"><u>Updated 10 Best Podcast Editing Software Products Free & Paid</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/widely-used-file-types-accepted/"><u>Widely Used File Types Accepted</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/windows-11dvdiso/"><u>Windows 11のもとで効率的にDVDをISO画像化 - 手順ガイド</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/wonderfox-redirected-successfully-your-new-destination/"><u>WonderFox - Redirected Successfully: Your New Destination</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/youtubeavi/"><u>YouTube動画から自由なダウンロードと無料でのAVIフォーマット変換</u></a></li>
 </ul></div>
 

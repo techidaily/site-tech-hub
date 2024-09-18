@@ -1,7 +1,7 @@
 ---
 title: "Discovering the World of AI: 9 Essential Tools for Starters"
-date: 2024-09-11T18:23:57.231Z
-updated: 2024-09-12T18:23:57.231Z
+date: 2024-09-16T18:56:12.867Z
+updated: 2024-09-18T03:17:40.096Z
 tags:
   - chatgpt
   - open-ai
@@ -23,19 +23,6 @@ thumbnail: https://thmb.techidaily.com/39eb12846caac832ee1b1d85070e2dd4cb557f022
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Tell ChatGPT Its Function and the Presentation Rules
 
@@ -65,13 +52,6 @@ thumbnail: https://thmb.techidaily.com/39eb12846caac832ee1b1d85070e2dd4cb557f022
 
 ![ChatGPT displaying text adventure game output in code blocks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/chatgpt-displaying-text-adventure-game-output-in-code-blocks.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  As you can see, this is more compact and easier to look at than the default look.
 
 > 6\. The ‘Description’ must stay between 3 to 10 sentences.
@@ -85,13 +65,6 @@ thumbnail: https://thmb.techidaily.com/39eb12846caac832ee1b1d85070e2dd4cb557f022
 > 10\. Change the ‘Weather’ to reflect ‘Description’ and whatever environment the player is in the game.
 
  This part of the prompt will tell the AI how to build the environment; otherwise, it will become very messy. You can change things here to whatever you like. For example, if you prefer one-sentence descriptions, this is where you can do that.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Implement Fundamental Game Mechanics
 
@@ -137,19 +110,6 @@ thumbnail: https://thmb.techidaily.com/39eb12846caac832ee1b1d85070e2dd4cb557f022
 
  These ‘gold’ rules help establish the spending mechanic and limit exploitation.
 
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Craft the Story, Setting, and NPCs
 
  How you craft your prompt on ChatGPT will determine what your experience will be like—and the next thing you should consider for your game’s prompt is the setting and story you would like. For instance, we used a world inspired by the Elder Scrolls as the basis of our world in this one.
@@ -170,14 +130,14 @@ thumbnail: https://thmb.techidaily.com/39eb12846caac832ee1b1d85070e2dd4cb557f022
 
 ![Villager asking on the player's welfare in text game dialogue](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/villager-asking-on-the-player-s-welfare-in-text-game-dialogue.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can embellish this section with as many rules and preferences as you like. You can add an overarching plot, implement rules for governing, or even detail NPC clothes and attitudes in this section. But remember to keep it simple because multilayered rules may confuse the AI.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Add Combat and Magic Rules
 
@@ -219,22 +179,16 @@ And finally, don’t forget to actually start the game:
 
  As you play, you might have to remind the AI of the rules you’ve laid out. The AI will respond to the same prompt differently, so every user might have a different experience.
 
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Using GPT-4 vs. GPT-3.5 to Run Your Game
 
 ![GPT-4 generating texts for a turn-based text RPG](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gpt-4-generating-texts-for-a-turn-based-text-rpg.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you have ChatGPT Plus, it grants you access to GPT-4, a more intelligent version of GPT-3.5\. You should try running a few RPG sessions with GPT-4 instead of GPT3.5\. It's way more creative, better at crafting stories, remembering rules, and all-around better at improv. It costs $20/month, and it's a good tool for doing other things apart from text-based gaming.
 
@@ -359,18 +313,20 @@ And finally, don’t forget to actually start the game:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-saving-your-best-on-instagram-a-comprehensive-guide/"><u>[New] 2024 Approved Saving Your Best on Instagram A Comprehensive Guide</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-from-page-to-screen-crafting-jujutsu-kaisen-stories-on-tiktok/"><u>[New] In 2024, From Page to Screen Crafting Jujutsu Kaisen Stories on TikTok</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/2-ways-to-monitor-apple-iphone-14-activity-drfone-by-drfone-virtual-ios/"><u>2 Ways to Monitor Apple iPhone 14 Activity | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-how-to-skyrocket-likes-on-your-tiktok-unpack-sessions/"><u>2024 Approved How to Skyrocket Likes on Your TikTok Unpack Sessions</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Tecno Camon 20 | Dr.fone</u></a></li>
-<li><a href="https://discover-best.techidaily.com/cookiebot-driven-success-elevate-web-analytics-and-marketing-strategies-now/"><u>Cookiebot-Driven Success: Elevate Web Analytics and Marketing Strategies Now!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/elevated-exchanges-the-pros-and-cons-of-chatgpt-upgrade/"><u>Elevated Exchanges: The Pros and Cons of ChatGPT Upgrade</u></a></li>
-<li><a href="https://techidaily.com/enhanced-audio-editing-features-unveiled-in-the-latest-microsoft-clipchamp-update/"><u>Enhanced Audio Editing Features Unveiled in the Latest Microsoft Clipchamp Update</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-chatgpts-current-data-accessibility-impacts-us-all/"><u>How ChatGPT's Current Data Accessibility Impacts Us All</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722890086013-insider-info-on-googles-new-streamer-anticipated-cost-release-timeline-specs-stay-ahead-with-latest-rumors/"><u>Insider Info on Google's New Streamer: Anticipated Cost, Release Timeline, Specs - Stay Ahead with Latest Rumors</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/seeing-gpt-work-the-everyday-usage-breakdown/"><u>Seeing GPT Work: The Everyday Usage Breakdown</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unveiling-ms-edges-picture-in-picture-magic-for-2024/"><u>Unveiling MS Edge's Picture-in-Picture Magic for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/why-ai-cant-critique-own-outputs/"><u>Why AI Can't Critique Own Outputs</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-premier-windows-video-chat-apps-7-1/"><u>[New] In 2024, Premier Windows Video Chat Apps #7-#1</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-social-snapshot-examining-twitters-hottest-videos/"><u>2024 Approved Social Snapshot Examining Twitter's Hottest Videos</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-methods-to-add-new-programs-to-your-samsung-television/"><u>Easy Methods to Add New Programs to Your Samsung Television</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/eliminating-camera-tremors-in-gopro-recordings/"><u>Eliminating Camera Tremors in GoPro Recordings</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-fixes-how-to-recover-forgotten-icloud-password-on-your-iphone-6s-by-drfone-ios/"><u>In 2024, Easy Fixes How To Recover Forgotten iCloud Password On your iPhone 6s</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-epicmosaic-insta-video-fusion-for-iosandroid/"><u>In 2024, EpicMosaic Insta Video Fusion for iOS/Android</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/insta-followers-footprints-trail-blazing-techniques/"><u>Insta Followers Footprints Trail-Blazing Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mp4dav/"><u>MP4に素早く、安心して変換できるDAVファイル用のシンプルな解決策</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mp4google/"><u>MP4ファイルの再生不能：Googleドライブで直す方法</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mpcmpcmp3/"><u>MPCとは？無料でMPC形式をMP3音楽ファイルに変換する簡単レシピ</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/msvmsfmp3/"><u>MSVおよびMSFファイルのMP3への変換と再生方法</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/quick-tutorial-hiding-pre-set-movie-subtitles-with-minimal-effort/"><u>Quick Tutorial: Hiding Pre-Set Movie Subtitles with Minimal Effort</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/resolving-the-problem-troubleshooting-plex-avoidance-of-avi-file-playback/"><u>Resolving the Problem: Troubleshooting Plex Avoidance of AVI File Playback</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/seamlessly-save-and-swap-converting-twitch-broadcasts-to-mp4-with-ease/"><u>Seamlessly Save & Swap: Converting Twitch Broadcasts to MP4 with Ease</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-adding-the-latest-elements-to-your-kodi-195-matrix/"><u>Step-by-Step Guide: Adding the Latest Elements to Your Kodi 19.5 Matrix</u></a></li>
 </ul></div>
 

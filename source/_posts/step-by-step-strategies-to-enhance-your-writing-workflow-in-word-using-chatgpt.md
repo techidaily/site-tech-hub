@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Strategies to Enhance Your Writing Workflow in Word Using ChatGPT
-date: 2024-09-11T18:19:03.715Z
-updated: 2024-09-12T18:19:03.715Z
+date: 2024-09-14T20:40:07.968Z
+updated: 2024-09-17T23:15:07.877Z
 tags:
   - chatgpt
   - open-ai
@@ -20,31 +20,11 @@ thumbnail: https://thmb.techidaily.com/e1ed595629cf0acf64739097580ce2ff94b530231
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [What Is ChatGPT's Chat History and Training Feature?](https://www.makeuseof.com/chatgpt-privacy-opt-out-data-collection/#what-is-chatgpt-39-s-chat-history-and-training-feature)
 * [How to Opt-Out of ChatGPT's Chat History and Training Feature](https://www.makeuseof.com/chatgpt-privacy-opt-out-data-collection/#how-to-opt-out-of-chatgpt-39-s-chat-history-and-training-feature)
 * [ChatGPT Data Collection You Can't Opt Out From](https://www.makeuseof.com/chatgpt-privacy-opt-out-data-collection/#chatgpt-data-collection-you-can-39-t-opt-out-from)
-
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -68,13 +48,6 @@ thumbnail: https://thmb.techidaily.com/e1ed595629cf0acf64739097580ce2ff94b530231
 
  However, in April 2023, OpenAI started offering users the choice to disable or enable chat history and training data collection.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Opt-Out of ChatGPT's Chat History and Training Feature
 
  There's one downside of opting out of ChatGPT's chat data feature, and that's the loss of your chat history. This doesn't just mean OpenAI can't keep a history of your chats; it also means you cannot view your chat history. Therefore, returning to previous chats becomes impossible, rendering all your previous chat data inaccessible. Note that this doesn't[delete your ChatGPT history](https://www.makeuseof.com/how-to-delete-your-chatgpt-history/) but does make it off-limits until you re-enable the chat history and training feature.
@@ -83,21 +56,22 @@ thumbnail: https://thmb.techidaily.com/e1ed595629cf0acf64739097580ce2ff94b530231
 
 ![chatgpt sidebar menu options list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/chatgpt-sidebar-menu-options-list.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  First, click on your profile name at the bottom-left of the main page and head to**Settings & Beta** .
 
 ![screenshot of chatgpt data controls setting on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-data-controls.png)
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In your settings, click on the**Data controls** option. Now, you'll see a setting named**Chat history & training** . This feature will be active by default, but a simple click on the toggle will disable it instantly. Now the feature has been turned off, you'll notice your chat history is no longer accessible on the main page.
@@ -106,23 +80,9 @@ thumbnail: https://thmb.techidaily.com/e1ed595629cf0acf64739097580ce2ff94b530231
 
 ![screenshot of chatgpt enable history option on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-history-off.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  For the highest level of privacy, it's wise to keep this setting disabled wherever possible.
 
  Once you disable this feature, all future chats will not be used for training, but previous chats that took place while the feature was enabled are still usable to OpenAI.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT Data Collection You Can't Opt Out From
 
@@ -149,15 +109,21 @@ thumbnail: https://thmb.techidaily.com/e1ed595629cf0acf64739097580ce2ff94b530231
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-lightweight-realities-googles-cardboard-and-samsung-gear-vr/"><u>[Updated] 2024 Approved Lightweight Realities Google’s Cardboard and Samsung Gear VR</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-bring-life-and-movement-to-stills-with-illustrator-techniques/"><u>2024 Approved Bring Life & Movement to Stills with Illustrator Techniques</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-and-its-impact-are-student-essays-becoming-redundant/"><u>ChatGPT and Its Impact: Are Student Essays Becoming Redundant?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhance-productivity-with-9-useful-chatgpt-hacks/"><u>Enhance Productivity with 9 Useful ChatGPT Hacks</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/evolving-knowledge-from-chatgpt-to-everyone/"><u>Evolving Knowledge From ChatGPT to Everyone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-does-chatgpt-adapt-through-ongoer-user-dialogue-engagement/"><u>How Does ChatGPT Adapt Through Ongoer User Dialogue Engagement?</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-leverage-windows-11-for-reliable-testing-sessions/"><u>How to Leverage Windows 11 for Reliable Testing Sessions</u></a></li>
-<li><a href="https://review-topics.techidaily.com/nubia-video-recovery-recover-deleted-videos-from-nubia-by-fonelab-android-recover-video/"><u>Nubia Video Recovery - Recover Deleted Videos from Nubia</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unveiling-the-top-pixelation-software-for-photo-anonymity/"><u>Unveiling the Top Pixelation Software for Photo Anonymity</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/whats-the-newest-macbook/"><u>What’s the Newest MacBook?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-apples-m1-battle-is-the-air-or-pro-more-efficient/"><u>[Updated] 2024 Approved Apple's M1 Battle Is the Air or Pro More Efficient?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-from-flat-to-360-comparing-googles-cardboard-and-samsungs-gear-for-2024/"><u>[Updated] From Flat to 360 Comparing Google's Cardboard & Samsung's Gear for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-masterclass-review-top-tier-professional-cameras-spin-full-circle-2023/"><u>[Updated] In 2024, Masterclass Review Top-Tier Professional Cameras Spin Full Circle - 2023</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-the-buzz-creation-blueprint-for-marketing-success/"><u>[Updated] In 2024, The Buzz-Creation Blueprint for Marketing Success</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-acclaimed-websites-for-google-pixel-tonal-sounds/"><u>2024 Approved Acclaimed Websites for Google Pixel Tonal Sounds</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/assessing-the-pros-and-cons-why-consider-a-localized-llm-solution/"><u>Assessing the Pros and Cons: Why Consider a Localized LLM Solution</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/dall-e-3s-recent-upgrade-introducing-edit-tools-with-more-development-needed/"><u>DALL-E 3'S Recent Upgrade: Introducing Edit Tools with More Development Needed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-leading-6-giant-language-models-revolutionizing-ai/"><u>Discover the Leading 6 Giant Language Models Revolutionizing AI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/groundbreaking-release-openai-unveils-revolutionary-gpt-4-ai-system/"><u>Groundbreaking Release: OpenAI Unveils Revolutionary GPT-4 AI System</u></a></li>
+<li><a href="https://windows11.techidaily.com/implementing-end-task-action-within-windows-11/"><u>Implementing End Task Action Within Windows 11</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-mini-passcode-screen-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 13 mini Passcode Screen? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-ai-wisely-unveiling-six-key-issues-you-should-be-aware-of/"><u>Navigating AI Wisely: Unveiling Six Key Issues You Should Be Aware Of</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/not-only-patience-find-out-about-a-superb-open-source-chatbot-replacement-today/"><u>Not Only Patience: Find Out About a Superb Open-Source Chatbot Replacement Today!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/quick-and-easy-setting-up-autogpt-automatically-on-an-ubuntu-machine/"><u>Quick and Easy: Setting Up Autogpt Automatically on an Ubuntu Machine</u></a></li>
+<li><a href="https://extra-support.techidaily.com/shape-business-visions-no-money-just-templates-for-2024/"><u>Shape Business Visions - No Money, Just Templates for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/what-lies-beyond-an-aminy-analysis-of-extraterrestrials/"><u>What Lies Beyond? An Aminy Analysis of Extraterrestrials</u></a></li>
 </ul></div>
 

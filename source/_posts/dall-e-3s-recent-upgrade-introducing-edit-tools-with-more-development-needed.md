@@ -1,7 +1,7 @@
 ---
 title: "DALL-E 3'S Recent Upgrade: Introducing Edit Tools with More Development Needed"
-date: 2024-09-11T18:22:26.322Z
-updated: 2024-09-12T18:22:26.322Z
+date: 2024-09-13T20:27:05.824Z
+updated: 2024-09-18T02:48:28.017Z
 tags:
   - chatgpt
   - open-ai
@@ -24,13 +24,6 @@ thumbnail: https://thmb.techidaily.com/cd0147204ccaf08069deddb70dcee7e4ad07fbd61
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Is OpenAI's Bug Bounty Program?
 
 [OpenAI announced](https://openai.com/blog/bug-bounty-program) its Bug Bounty Program to incentivize those using their applications, such as ChatGPT and DALL-E, to create secure, advanced, and globally beneficial AI systems.
@@ -39,25 +32,11 @@ thumbnail: https://thmb.techidaily.com/cd0147204ccaf08069deddb70dcee7e4ad07fbd61
 
 ![Man writing code on a laptop computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/bug-bounty-programs.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  OpenAI promises to protect you from liabilities or penalties if you follow its stated guidelines and will also acknowledge submissions and remedy validated vulnerabilities promptly. Furthermore, OpenAI claims it will publicly recognize your contribution if it is unique and leads to a configuration or code change.
 
  However, you cannot disclose your vulnerability-related findings to the public after submitting them.
 
  This[bug bounty program](https://www.makeuseof.com/bug-bounty-programs/) covers vulnerabilities in all OpenAI systems, including API targets and keys, ChatGPT, and the research organization. However, the initiative does not cover safety issues with OpenAI's model, including safety bypasses and getting the model to create malicious code. In addition, the firm will not be rewarding issues related to model prompt content or responses and[AI hallucinations](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/) . You may report these to[OpenAI's team](https://openai.com/form/model-behavior-feedback) for model behavior feedback.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How Much Can You Earn From OpenAI's Bug Bounty Program?
 
@@ -68,13 +47,6 @@ The maximum reward you can earn is $20,000.
  At first, the priority level of your finding, along with your reward, will be determined using[Bugcrowd's Vulnerability Rating Taxonomy](https://bugcrowd.com/vulnerability-rating-taxonomy) . However, if it deems it necessary, this level and your reward may be modified by OpenAI.
 
  Additionally, the AI research company will not reimburse you for any purchases or upgrades you make when identifying or testing for bugs.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Participate in OpenAI's Bug Bounty Program
 
@@ -100,14 +72,14 @@ Here, you must fill in the following information:
 
 ![Submit OpenAI Bug Bounty Form](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/submit-openai-bug-bounty-form.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Note that you are not to submit API keys to Bugcrowd. You must only submit keys you find online through the[OpenAI API key form](https://forms.gle/h8bQ5YKWzXb8FtrQ8) .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Which Vulnerabilities Are Eligible for Rewards?
 
@@ -118,10 +90,10 @@ Here, you must fill in the following information:
  All the vulnerabilities must be in OpenAI's system, exploitable, and novel.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Earn Money While Improving OpenAI's Systems
@@ -145,16 +117,21 @@ Here, you must fill in the following information:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-app-release-on-hold-explore-these-top-notch-free-alternatives-now/"><u>ChatGPT App Release on Hold? Explore These Top-Notch Free Alternatives Now</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-xiaomi-civi-3-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Xiaomi Civi 3</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/elevate-google-searches-to-new-heights-meet-the-innovative-and-underrated-perplexity-ai-platform/"><u>Elevate Google Searches to New Heights: Meet the Innovative and Underrated Perplexity AI Platform</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-charting-social-media-trends-with-data-graphics/"><u>In 2024, Charting Social Media Trends with Data Graphics</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Xiaomi 13T Pro? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-narrative-craft-leveraging-chatgpt-for-exceptional-storytelling/"><u>Mastering Narrative Craft: Leveraging ChatGPT for Exceptional Storytelling</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-the-integration-utilizing-chatgpt-within-google-sheets-docs-and-more/"><u>Mastering the Integration: Utilizing ChatGPT Within Google Sheets, Docs & More</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/refreshing-tandc-for-improved-clarity/"><u>Refreshing T&C for Improved Clarity</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-persona-4-golden-crashing-issues/"><u>Solved: Persona 4 Golden Crashing Issues</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-7-cost-free-ai-travel-organizers-and-chatgpt-tools-for-immediate-trip-outlines/"><u>Top 7 Cost-Free AI Travel Organizers & ChatGPT Tools For Immediate Trip Outlines</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/top-earners-on-youtube-for-2024/"><u>Top Earners on YouTube for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-optimizing-posts-secrets-to-higher-page-rank/"><u>[New] In 2024, Optimizing Posts Secrets to Higher Page Rank</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-comprehensive-guide-youtube-to-mpeg-transcoding/"><u>[Updated] Comprehensive Guide YouTube to MPEG Transcoding</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1-unlock-the-secrets-of-nyt-connecting-cornerstones-insight-and-explanation-august-8-edition-part-423/"><u>1. Unlock the Secrets of 'NYT Connecting Cornerstones: Insight & Explanation - August 8 Edition, Part #423'</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-from-ordinary-to-extraordinary-tiktok-mastery-on-desktops/"><u>2024 Approved From Ordinary to Extraordinary TikTok Mastery on Desktops</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726027761786-hevc/"><u>高効率ビデオエンジン(HEVC)コーデック変換方法に関する包括的解説</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/oad-and-translate-youtube-videos-for-free-for-2024/"><u>Download and Translate YouTube Videos for Free for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726029736100-dvd/"><u>DVD レンタルから完全解放：圧倒的に簡単な映像コピーガード回避方法</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-delete-all-photos-from-iphone-14-pro-max-beyond-scope-of-recovery-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Delete All Photos from iPhone 14 Pro Max Beyond Scope of Recovery? | Stellar</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726029562056-liveship/"><u>LIVESHIP (ライブシップ) のストリーミング動画記録手引き</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/prime-methods-from-youtube-to-mpeg-encoding/"><u>Prime Methods From YouTube to MPEG Encoding</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-productivity-why-blackberry-dominates-in-enterprise-mobility-solutions/"><u>Unlocking Productivity: Why BlackBerry Dominates in Enterprise Mobility Solutions</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/unmatched-no-fee-mobile-and-web-picture-enhancement/"><u>Unmatched No-Fee Mobile & Web Picture Enhancement</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/vidma-screen-recorder-unveiled-in-depth-review-insights/"><u>Vidma Screen Recorder Unveiled In-Depth Review Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726026870345-windows-10/"><u>Windows 10用動画カット技術詳解</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726029593868-windows-11mp4/"><u>Windows 11上におけるMP4ファイル等の動画分割手順</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726026623828-youtube/"><u>YouTube 年齢制限突破！シークレットの方法</u></a></li>
 </ul></div>
 

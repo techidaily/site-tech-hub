@@ -1,7 +1,7 @@
 ---
 title: "From Twitter Threats to Advanced Conversations: Unraveling New Scam Tactics, The Dawn of Meta Verified Profiles & Deep Dive Into ChatGPT-4's Capabilities Explored"
-date: 2024-09-11T18:23:21.619Z
-updated: 2024-09-12T18:23:21.619Z
+date: 2024-09-15T21:29:55.931Z
+updated: 2024-09-17T18:57:18.986Z
 tags:
   - chatgpt
   - open-ai
@@ -20,13 +20,6 @@ thumbnail: https://thmb.techidaily.com/72ad6224a96d1332d870ccac31eeed89a25da9895
  For this week's show, we asked ChatGPT to help out with outlining and even writing the show. Here's a bit more information on[how we used ChatGPT to script the podcast](https://www.makeuseof.com/i-used-chatgpt-to-script-a-podcast-heres-what-happened/) .
 
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Shownotes
 
@@ -66,16 +59,24 @@ We finish the show with the following recommendations:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-direct-youtube-tunes-to-mp3s-online-and-offline-options/"><u>[New] 2024 Approved Direct YouTube Tunes to MP3s Online & Offline Options!</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-step-by-step-approach-to-saving-instagram-stories/"><u>[New] Step-by-Step Approach to Saving Instagram Stories</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-superior-suggestions-elite-iphone-ringtones-developers/"><u>2024 Approved Superior Suggestions Elite iPhone Ringtones Developers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/cutting-through-the-mullvad-myth/"><u>Cutting Through the Mullvad Myth</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/enhance-your-facebook-experience-with-these-5-effective-techniques/"><u>Enhance Your Facebook Experience with These 5 Effective Techniques</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/gameplay-streaming-tools-revealed-obs-or-fraps-in-2024/"><u>Gameplay Streaming Tools Revealed OBS or Fraps, In 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/inside-the-legal-dispute-why-prominent-figures-including-sarah-silverman-are-suing-tech-giants-for-ai-practices/"><u>Inside the Legal Dispute: Why Prominent Figures Including Sarah Silverman Are Suing Tech Giants for AI Practices</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/leverage-chatgpt-for-streamlined-home-chores/"><u>Leverage ChatGPT for Streamlined Home Chores</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/pioneering-artificial-intelligence-for-superior-online-scouring/"><u>Pioneering Artificial Intelligence for Superior Online Scouring</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-adventurous-spirit-with-panasonics-hx-a1-actioncam-review/"><u>The Adventurous Spirit with Panasonic's HX-A1 ActionCam Review</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/wondrous-revelation-chat-with-the-ai-gpt-master/"><u>Wondrous Revelation: Chat with the AI GPT Master</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-master-your-youtube-identity-with-cool-titles/"><u>[New] In 2024, Master Your YouTube Identity with Cool Titles</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-how-to-build-circles-and-spheres-in-minecraft-for-2024/"><u>[Updated] How to Build Circles and Spheres in Minecraft for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-how-to-recover-hidden-shorts-thumbnails-in-videos/"><u>2024 Approved How to Recover Hidden Shorts' Thumbnails in Videos</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/decoding-freeaudmagic-a-thorough-examination-of-2024-tech/"><u>Decoding FreeAudMagic A Thorough Examination of 2024 Tech</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-and-install-the-best-epson-scanner-software-on-your-pc-today/"><u>Find and Install the Best Epson Scanner Software on Your PC Today</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Infinix Hot 30i? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/leveraging-video-conferencing-a-guide-to-zipping-up-zoom-and-gmail-integration/"><u>Leveraging Video Conferencing A Guide to Zipping Up Zoom and Gmail Integration</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/solving-your-kindle-fire-video-problem-a-simple-step-by-step-guide/"><u>Solving Your Kindle Fire Video Problem: A Simple Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-editing-your-screenshots-on-microsofts-latest-os/"><u>Step-by-Step Guide: Editing Your Screenshots on Microsoft's Latest OS</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-transforming-your-mp3-files-into-high-quality-wav-format-with-audacity/"><u>Step-by-Step Guide: Transforming Your MP3 Files Into High-Quality WAV Format with Audacity</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/user-friendly-guide-to-the-ugreen-qi2-multipurpose-foldable-charger-perfect-for-office-use/"><u>User-Friendly Guide to the Ugreen Qi2 Multipurpose Foldable Charger - Perfect for Office Use</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

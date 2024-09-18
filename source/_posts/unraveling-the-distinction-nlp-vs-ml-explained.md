@@ -1,7 +1,7 @@
 ---
 title: "Unraveling the Distinction: NLP vs ML Explained"
-date: 2024-09-11T18:17:54.002Z
-updated: 2024-09-12T18:17:54.002Z
+date: 2024-09-14T21:45:32.075Z
+updated: 2024-09-18T02:55:14.984Z
 tags:
   - chatgpt
   - open-ai
@@ -24,23 +24,9 @@ thumbnail: https://thmb.techidaily.com/6e23731e5459bef762d6b1bc2a8183e3bf6b31c4a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Will There Be a GPT-5?
 
 ![ChatGPT logo on dark green background ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-risk.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Yes, there will almost certainly be a 5th iteration of OpenAI's GPT large language model called GPT-5\. Unfortunately, much like its predecessors, GPT-3.5 and GPT-4, OpenAI adopts a reserved stance when disclosing details about the next iteration of its GPT models. Instead, the company typically reserves such information until a release date is very close. This tight-lipped policy typically fuels conjectures about the release timeline for every upcoming GPT model.
 
@@ -51,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/6e23731e5459bef762d6b1bc2a8183e3bf6b31c4a
  According to Altman, OpenAI isn't currently training GPT-5 and won't do so for some time. This comment confirms two things. Firstly, GPT-5 is indeed a thing. Lastly, OpenAI is not jumping too fast into developing GPT-5.
 
 Here's a video of Altman's discussion below:
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## When Is GPT-5 Coming?
 
@@ -77,23 +56,9 @@ So, a 2024 release date for GPT-5? Is that possible?
 
  Remember, GPT-4 is both a language model and a vision model. However, consumers have barely used the "vision model" capabilities of GPT-4\. There is still huge potential in GPT-4 we've not explored, and OpenAI might dedicate the next several months to helping consumers make the best of it rather than push for the much hype GPT-5.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Changes Could GPT-5 Bring?
 
 ![chatgpt conversation open on smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/smartphone-chatgpt-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  While it might be too early to say with certainty, we fully expect GPT-5 to be a considerable leap from GPT-4\. GPT-3 was mainly a language model. GPT-4 improved on that by being both a language model and a vision model. We expect GPT-5 might possess the abilities of a sound recognition model in addition to the abilities of GPT-4.
 
@@ -102,10 +67,10 @@ So, a 2024 release date for GPT-5? Is that possible?
  However, considering the current abilities of GPT-4, we expect the law of diminishing marginal returns to set in. Simply increasing the model size, throwing in more computational power, or diversifying training data might not necessarily bring the significant improvements we expect from GPT-5.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## GPT-5: An Exciting Future Awaits
@@ -129,18 +94,17 @@ So, a 2024 release date for GPT-5? Is that possible?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-from-frame-one-15-key-shot-types-for-film-beginners/"><u>[Updated] From Frame One 15 Key Shot Types for Film Beginners</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-rhythms-of-romance-most-beloved-ballads-for-engagement/"><u>2024 Approved Rhythms of Romance Most Beloved Ballads for Engagement</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/delve-into-claude-cutting-edge-ai-for-dynamic-business-growth/"><u>Delve Into Claude: Cutting-Edge AI for Dynamic Business Growth</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/drone-wizardry-and-the-mavic-pro-breakdown/"><u>Drone Wizardry and the Mavic Pro Breakdown</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-ai-creation-with-dall-e-in-gpt-4-environments/"><u>Exploring AI Creation with DALL-E in GPT-4 Environments</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-issue-solving-elite-dangerous-pc-game-crashes/"><u>Fixing the Issue: Solving Elite Dangerous PC Game Crashes</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-europes-ai-legislation-could-transform-chatgpt/"><u>How Europe's AI Legislation Could Transform ChatGPT</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-vivo-x90s-easily-by-drfone-android/"><u>How To Unlock a Vivo X90S Easily?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Samsung Galaxy A54 5G | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-yules-magic-unfolds-access-nine-premium-whole-film-holiday-movies-for-free/"><u>In 2024, Yule's Magic Unfolds Access Nine Premium, Whole-Film Holiday Movies for Free</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/maximizing-proposal-impact-with-gpt-3-assistance/"><u>Maximizing Proposal Impact with GPT-3 Assistance</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-ai-tools-for-independent-work-bing-chat-versus-gpt-3-analysis/"><u>Navigating AI Tools for Independent Work: Bing Chat Versus GPT-3 Analysis</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionary-russias-development-of-a-new-128-core-processor-for-advanced-supercomputing-capabilities/"><u>Revolutionary Russia's Development of a New 128-Core Processor for Advanced Supercomputing Capabilities</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-conquering-facebook-audiences-live-stream-excellence-with-wirecast/"><u>[New] Conquering Facebook Audiences Live Stream Excellence with Wirecast</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-10-free-web-conferencing-software-for-online-meeting-for-2024/"><u>[Updated] 10 Free Web Conferencing Software for Online Meeting for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-advanced-methods-for-fisheye-imaging-excellence-for-2024/"><u>[Updated] Advanced Methods for Fisheye Imaging Excellence for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-nikon-j5-unleashed-embracing-4k-camera-technology/"><u>2024 Approved Nikon J5 Unleashed Embracing 4K Camera Technology</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/cdusb-windows-1011/"><u>CDからUSBへの移行: Windows 10・11で簡単な音楽取り込み手順</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/complementary-web-resources-and-hyperlinks/"><u>Complementary Web Resources and Hyperlinks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/complete-dvd-transfer-issues-with-handbrack-top-solutions-revealed/"><u>Complete DVD Transfer Issues with HandBrack? Top Solutions Revealed!</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminate-hyper-v-bsod-steps-to-restore-windows/"><u>Eliminate Hyper-V BSOD: Steps to Restore Windows</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-honor-x9b-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Honor X9b</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-realme-c55-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Realme C55 FRP</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-wirecast-strategies-for-successful-social-media-livestreams/"><u>In 2024, Wirecast Strategies for Successful Social Media Livestreams</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-your-network-card-with-newly-released-killer-wireless-1535-drivers-heres-where-to-get-them/"><u>Update Your Network Card with Newly Released Killer Wireless 1535 Drivers - Here's Where to Get Them</u></a></li>
 </ul></div>
 

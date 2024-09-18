@@ -1,7 +1,7 @@
 ---
 title: Exploring and Setting Up ChatGPT Plugins Today
-date: 2024-09-11T18:17:46.272Z
-updated: 2024-09-12T18:17:46.272Z
+date: 2024-09-10T17:22:33.066Z
+updated: 2024-09-18T03:31:15.776Z
 tags:
   - chatgpt
   - open-ai
@@ -20,13 +20,6 @@ thumbnail: https://thmb.techidaily.com/730a9c7a00f1a79a6d3634630cd288f1352fb7a32
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [Murder Mystery Mayhem](https://www.makeuseof.com/best-chatgpt-games-to-play/#murder-mystery-mayhem)
@@ -39,13 +32,6 @@ thumbnail: https://thmb.techidaily.com/730a9c7a00f1a79a6d3634630cd288f1352fb7a32
  Bored of using ChatGPT for programming, chatting, and learning? It's time to start using it for gaming instead.
 
  ChatGPT has a wealth of games in its custom GPT store, covering everything from, RPGs and Dungeons and Dragons-style adventures, classic retro games, card games, quizzes, mysteries, and so much more.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1.[Murder Mystery Mayhem](https://chat.openai.com/g/g-82dEDeoN3-murder-mystery-mayhem)
 
@@ -61,13 +47,6 @@ Close
 
  Murder Mystery Mayhem is good fun, with the location and murderer changing round by round, and each suspect has new alibis and evidence to reveal. The changes keep it feeling fresh, and one game played through to the end can keep you engaged and seeking the truth for well over an hour. (Don't forget, you don't have to play it all at once!)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2.[Oregon Trail](https://chat.openai.com/g/g-ijJRJgWHp-oregon-trail)
 
  Dying of dysentery has become a longstanding meme from the original Oregon Trail game, but you can now relive that horrifying experience in ChatGPT. The Oregan Trail custom GPT brings one of the first edu-games (not_the_ first, mind!) to ChatGPT... where you can suffer through the wilderness all over again.
@@ -79,10 +58,10 @@ Close
  It's a basic version of the classic game, but it's engaging enough. The custom GPT's scripting doesn't allow you to go off-piste and, say, rob the local convenience store for supplies (nor did the original), but it's certainly a lot easier without so many setbacks constantly upending and destroying your party. It's a much easier version, that's for sure.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3.[Poker](https://chat.openai.com/g/g-lHyTLJaCX-poker)
@@ -93,6 +72,13 @@ Close
 
  My only major gripe about this poker game is that ChatGPT seems to mimic your choices, such as check, raise, and so on, which can make the game predictable (or at least less random).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4.[Console GPT](https://chat.openai.com/g/g-3p94K4Djb-console-gpt)
 
  Now, this is a cool idea of how a custom GPT can span multiple types of input to create a custom game with a unique storyline.
@@ -100,13 +86,6 @@ Close
  When you first boot Console GPT, you meet the message "BOOT UP AND INSERT GAME." But you don't have a game cartridge to boot yet. Instead, you have to head to the[Console GPT Glif page](https://glif.app/@fab1an/glifs/clotu9ul2002vl90fh6cmpjw0) , which is a custom AI art tool that will create your "cartridge."
 
 ![cyber syndicate cartridge ai image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/cyber-syndicate-cartridge-ai-image.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Input the type of game you want in the text box, select**Glif It!** , and watch as your creation comes to life. I went with "retro-futurism crime lord" and was presented with "Cyber Syndicate," a game where you "navigate a neon-soaked, cyberpunk metropolis teeming with high-tech heists and digital espionage," with a goal of becoming the ultimate syndicate leader.
 
@@ -129,13 +108,6 @@ Close
  The custom GPT Cookie Clicker is decidedly different. You're still building up a cookie empire in a similar style, but because ChatGPT doesn't run automated commands and cannot keep the numbers ticking over like the original game, it requires more input.
 
  Still, if you're into idle games and want to try something different, it could be worth a try.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6.[Cute Little Zombies](https://chat.openai.com/g/g-CEON6aFtV-cute-little-zombies-a-text-adventure-game)
 
@@ -166,20 +138,14 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-premier-uav-choices-for-optimal-gopro-hd-imaging/"><u>[New] Premier UAV Choices for Optimal GoPro HD Imaging</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-todays-vr-experience-insight/"><u>[New] Today’s VR Experience Insight</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-streamline-your-internet-use-with-these-5-chromium-addons-for-vids/"><u>2024 Approved Streamline Your Internet Use With These 5 Chromium Addons for Vids</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/elevate-your-persuasion-skills-a-step-by-step-tutorial-on-creating-winning-proposals-with-chatgpt/"><u>Elevate Your Persuasion Skills: A Step-by-Step Tutorial on Creating Winning Proposals with ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/essential-criteria-preparing-to-utilize-chatgpt-in-mental-health-support/"><u>Essential Criteria: Preparing to Utilize ChatGPT in Mental Health Support</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/expert-guide-to-leveraging-chatgpt-on-mobile-best-practices-for-android-and-apple-devices/"><u>Expert Guide to Leveraging ChatGPT on Mobile - Best Practices for Android & Apple Devices</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/explore-the-top-7-ai-powered-systems-as-effective-successors-to-chatgpt-in-auto-coding/"><u>Explore the Top 7 AI-Powered Systems as Effective Successors to ChatGPT in Auto-Coding</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fixing-dnssddll-not-found-issues-for-smoother-operations/"><u>Fixing Dnssd.dll Not Found Issues for Smoother Operations</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-crafting-an-epic-unboxing-journey/"><u>In 2024, Crafting an Epic Unboxing Journey</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-oppo-reno-10-pro-5g-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Oppo Reno 10 Pro 5G</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-ideal-thumbnails-for-maximum-clicks/"><u>In 2024, Ideal Thumbnails for Maximum Clicks</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/next-level-autosync-discovering-mercedes-benzs-latest-innovation-chatgpt-voice-assistants-for-drivers/"><u>Next-Level Autosync: Discovering Mercedes-Benz's Latest Innovation - ChatGPT Voice Assistants for Drivers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-complete-guide-handling-408-request-timeouts-effectively/"><u>The Complete Guide: Handling 408 Request Timeouts Effectively</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-tutorial-mirror-your-android-screen-to-your-fire-stick-in-seconds/"><u>The Ultimate Tutorial: Mirror Your Android Screen to Your Fire Stick in Seconds</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-motorola-moto-e13-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Motorola Moto E13 for Streaming | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-elevating-your-drone-racing-game-and-discovering-elite-fpv-uavs-for-2024/"><u>[New] Elevating Your Drone Racing Game & Discovering Elite FPV UAVs for 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/11-best-pokemon-go-spoofers-for-gps-spoofing-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>11 Best Pokemon Go Spoofers for GPS Spoofing on Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-you-play-mp4-on-edge-40-pro-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Can you play MP4 on Edge 40 Pro?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/six-proven-tweaks-to-reduce-high-cpu-consumption-by-zoom/"><u>Six Proven Tweaks to Reduce High CPU Consumption by Zoom</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-the-synaptics-pointing-stick-driver-for-windows-10-systems/"><u>Troubleshooting the Synaptics Pointing Stick Driver for Windows 10 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-why-is-my-touchpad-cursor-missing-on-windows-11/"><u>Troubleshooting: Why Is My Touchpad Cursor Missing on Windows 11?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/wonderfox-redirected-successfully-your-new-destination/"><u>WonderFox - Redirected Successfully: Your New Destination</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/youtubeavi/"><u>YouTube動画から自由なダウンロードと無料でのAVIフォーマット変換</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726027210558-youtube/"><u>Youtubeユニークなお笑いコンテンツが豊富なバラエティ動画アーカイブからダウンロードできる | ビデオ保存</u></a></li>
 </ul></div>
 

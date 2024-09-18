@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Claude 2: Features & Functions"
-date: 2024-09-11T18:16:10.240Z
-updated: 2024-09-12T18:16:10.240Z
+date: 2024-09-14T19:12:40.185Z
+updated: 2024-09-18T03:53:39.019Z
 tags:
   - chatgpt
   - open-ai
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/52f669a15e335bb29d06275250544e9470586ee07
 
  A whole new world of prompt engineering is springing into life, all dedicated to crafting and perfecting the art of AI prompting. But you can skip the tricky bits and improve your AI prompting game with these tips and tricks.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1 Be as Specific as Possible
 
  One[ChatGPT prompt mistake](https://www.makeuseof.com/chatgpt-prompt-mistakes-to-avoid/) is not being specific with the information you give, and this is also a problem when using Microsoft Copilot and other AI tools. If you want AI to provide more accurate results, you need to tell it exactly what you're looking for.p
@@ -57,19 +50,6 @@ thumbnail: https://thmb.techidaily.com/52f669a15e335bb29d06275250544e9470586ee07
 
  The more context you provide your AI tool, the better of a response you'll receive.
 
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2 Ask for More Information After Getting an Initial Answer
 
  As you use tools like ChatGPT more frequently, you'll quickly learn that the first answer you get shouldn't always be taken as is. In the same way that you'd ask a person further questions to get more information out of them, you should do the same when prompting with AI.
@@ -82,14 +62,20 @@ thumbnail: https://thmb.techidaily.com/52f669a15e335bb29d06275250544e9470586ee07
 
 ![An expanded answer with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-11-12.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  As a general rule of thumb, ask as many questions as you feel necessary to get all the information you're looking for. You may also want to determine[whether premium AI prompts are worth the money](https://www.makeuseof.com/should-you-buy-ai-prompts/) .
+
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3 Explain What Hasn't Worked When You've Prompted in the Past
 
@@ -100,28 +86,15 @@ thumbnail: https://thmb.techidaily.com/52f669a15e335bb29d06275250544e9470586ee07
  Besides mentioning what hasn't worked for you when prompting in the past, you may also wish to outline anything that has not worked with what you're trying to do. For example, if you're putting together a new workout regimen, you may want to talk about which foods you've noticed you have a negative reaction to before.
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4 Don't Make Your AI Multitask
 
 ![chatgpt logo and message on smartphone feature](https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002a35f04201c966ce7066b460.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Ascannio/[Shutterstock](https://www.shutterstock.com/image-photo/chatgpt-chat-bot-screen-seen-on-2237655785)
 
@@ -130,13 +103,6 @@ thumbnail: https://thmb.techidaily.com/52f669a15e335bb29d06275250544e9470586ee07
  Sometimes, you'll begin a prompt and realize you forgot to add further information. When this happens, stop or edit the current prompt and include those details before re-generating your answer.
 
  Once you've received one prompt's results, you can move on to the next one until you're happy with everything. Doing things this way might seem more time-consuming, but[single-tasking often improves productivity](https://www.makeuseof.com/master-single-tasking-using-technology-improve-productivity/) , and it's the same for your AI, too.
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5 Tell Your AI Tool What You Don't Want in Your Answer
 
@@ -147,13 +113,6 @@ thumbnail: https://thmb.techidaily.com/52f669a15e335bb29d06275250544e9470586ee07
 ![Answer options from ChatGPT, based on what the user did and didn't want ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-38-46.png)
 
  Sometimes, your AI tool will give you multiple options in your answers. You can then choose whichever one works best for you.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6 Upload Images or Files (if Available)
 
@@ -170,6 +129,13 @@ thumbnail: https://thmb.techidaily.com/52f669a15e335bb29d06275250544e9470586ee07
  If you use the information from your AI prompt online, it's worth specifically mentioning where you'll use it. That way, you won't need to edit your results as much.
 
 ![A LinkedIn post generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-54-04.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  AI prompting takes some time to become competent with, and you'll need to adjust how you type depending on the tool you use and the information you wish to extract. The good news, however, is that you normally only need small tweaks to make your prompts deliver better results. Having read this guide, you should now be in a much better place to prompt more efficiently.
 
@@ -188,17 +154,20 @@ thumbnail: https://thmb.techidaily.com/52f669a15e335bb29d06275250544e9470586ee07
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-boosting-your-posts-secrets-for-viral-instagram-videos/"><u>[Updated] In 2024, Boosting Your Posts Secrets for Viral Instagram Videos</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/boost-your-productivity-with-these-3-strategies-using-chatgpt-and-wolfram-alpha-together/"><u>Boost Your Productivity with These 3 Strategies Using ChatGPT and Wolfram Alpha Together</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/deciding-the-prime-coding-companion-how-does-chatgpt-measure-up-against-gemini/"><u>Deciding the Prime Coding Companion: How Does ChatGPT Measure Up Against Gemini?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/expand-your-ai-assistant-skills-how-to-get-started-with-chatgpt-plugins/"><u>Expand Your AI Assistant Skills: How to Get Started with ChatGPT Plugins</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-oneplus-ace-2-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass OnePlus Ace 2 FRP</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-pearlescent-pictures-brighten-with-android/"><u>In 2024, Pearlescent Pictures Brighten with Android</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-oppo-a59-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Oppo A59 5G to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/simple-download-intel-ac-7260-wifi-card-software-instructions/"><u>Simple Download: Intel AC 7260 WiFi Card Software Instructions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-spectrum-of-ai-accessibility-community-to-individual-models/"><u>The Spectrum of AI Accessibility: Community to Individual Models</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-realme-11-proplus-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Realme 11 Pro+ FRP Bypass</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unleash-the-potential-how-chatgpt-elevates-your-smartwatch-experience-in-six-ways/"><u>Unleash the Potential: How ChatGPT Elevates Your Smartwatch Experience in Six Ways</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-generation-gauge-guide/"><u>Windows Generation Gauge Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-the-top-pick-for-new-dronists-a-deep-look-at-syma-x5c/"><u>[New] In 2024, The Top Pick for New Dronists – A Deep Look at Syma X5C</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-secure-mp3-conversion-of-live-skype-talks/"><u>[Updated] In 2024, Secure MP3 Conversion of Live Skype Talks</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-video-cataloging-mastery-perfecting-playlists-on-youtube-platform/"><u>[Updated] Video Cataloging Mastery Perfecting Playlists on YouTube Platform</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-role-of-background-melody-in-a-cinematic-commercial/"><u>2024 Approved The Role of Background Melody in a Cinematic Commercial</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/m4aaac-movavi/"><u>在線無須付費改變M4A音檔成AAC格式 - 依照Movavi的導引方法</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/best-free-platforms-with-access-to-latest-hollywood-cinema-releases-online/"><u>Best Free Platforms with Access to Latest Hollywood Cinema Releases Online</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/best-vob-media-players-top-5-picks-for-flawless-hd-streaming-on-your-computer/"><u>Best VOB Media Players: Top 5 Picks for Flawless HD Streaming on Your Computer</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/complete-walkthrough-easy-kodi-setup-on-windows-10-pc/"><u>Complete Walkthrough: Easy Kodi Setup on Windows 10 PC</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-leading-websites-for-losslessly-streaming-tunes-paid-vs-free-options/"><u>Discover the Leading Websites for Losslessly Streaming Tunes: Paid Vs. Free Options</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-conversion-tips-changing-your-mp4-media-to-clear-and-crisp-wav-format/"><u>Easy Conversion Tips: Changing Your MP4 Media to Clear and Crisp WAV Format</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-guide-restoring-damaged-mp4-videos-using-top-rated-quick-fix-software/"><u>Easy Guide: Restoring Damaged MP4 Videos Using Top-Rated Quick Fix Software</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-xiaomi-civi-3-disney-100th-anniversary-edition-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Xiaomi Civi 3 Disney 100th Anniversary Edition to Another | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-pro-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 14 Pro Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-the-art-of-dialogue-with-chatgpt-your-guide-to-ai-interaction/"><u>Mastering the Art of Dialogue with ChatGPT – Your Guide to AI Interaction</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-tutorial-on-stripping-soundtracks-and-dialogue-from-film-footage/"><u>Step-by-Step Tutorial on Stripping Soundtracks and Dialogue From Film Footage</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Website Building Boosted by AI: Discover How ChatGPT Contributes in 4 Ways"
-date: 2024-09-11T18:18:34.923Z
-updated: 2024-09-12T18:18:34.923Z
+date: 2024-09-13T23:57:08.165Z
+updated: 2024-09-17T17:05:20.491Z
 tags:
   - chatgpt
   - open-ai
@@ -26,13 +26,6 @@ thumbnail: https://thmb.techidaily.com/16e517e86ce5511ef20be02a34a06ee211f62f0d8
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Research the Type of Novel You Want to Write
 
  The first step in writing a book is to do research about your concept. This will include the narrative structure, length, and tropes to avoid (or incorporate).
@@ -48,13 +41,6 @@ thumbnail: https://thmb.techidaily.com/16e517e86ce5511ef20be02a34a06ee211f62f0d8
  Simply ask "what is the best narrative structure for a crime thriller". Or, if there's something in your book that necessitates specialized knowledge, like how an ice skating tournament works, ask exactly that and ChatGPT will generate the relevant information in a summary.
 
  Keep in mind that the chatbot might generate inaccurate answers, which is just one of the[big problems with ChatGPT](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/) , so it's essential to verify the results. You also need to ensure that whatever information you derive from ChatGPT is compatible with your theme; don't just settle for the first answer it spits out.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Has Anyone Else Used the Same Idea Already?
 
@@ -82,13 +68,6 @@ thumbnail: https://thmb.techidaily.com/16e517e86ce5511ef20be02a34a06ee211f62f0d8
 
 ![Asking ChatGPT to Elaborate on the World of Story Idea](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-elaborating-on-world-for-novel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The same goes for world. Don't know how to elaborate on "a dark forest"? Ask ChatGPT.
 
  You can add the results to your outline or in separate notes, but note it down somehow. Always refer back to these notes as you are writing.
@@ -100,10 +79,10 @@ thumbnail: https://thmb.techidaily.com/16e517e86ce5511ef20be02a34a06ee211f62f0d8
  Whether you're struggling to go from scene to scene or need ideas for the overarching progression of your story, ChatGPT can help. You can even ask it for unique plot twist ideas if you want to steer clear of clichés.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Ask for Paraphrases and Synonyms
@@ -115,21 +94,22 @@ thumbnail: https://thmb.techidaily.com/16e517e86ce5511ef20be02a34a06ee211f62f0d8
 ![Asking ChatGPT to Paraphrase My Own Written Work for Novel Draft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-paraphrasing-options-of-novel-scene.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Ask ChatGPT to paraphrase what you wrote. Don't copy-paste the results as it won't be able to capture the undertone of your story, but you might stumble upon better words to convey it.
 
  It might be worth including "show, don't tell" at the beginning of your prompt so you can get into the habit of creating an immersive story for your readers.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Check Your Grammar
 
@@ -145,27 +125,20 @@ thumbnail: https://thmb.techidaily.com/16e517e86ce5511ef20be02a34a06ee211f62f0d8
 
 ![Asking ChatGPT to Generate Novel Title Ideas](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-generate-novel-title-ideas.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you have no idea where to begin, jot down the main themes of your story and ask ChatGPT to generate title ideas based on that. You can also do this for individual chapter names.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Generate Book Cover Art Ideas
 
  In addition to the title, the visuals of your book also play a crucial role in captivating readers. If you're hiring a photographer or graphic designer, it's essential to convey your artistic vision to them.
 
  While ChatGPT can't generate images, you can ask for some inspiration. Of course, you could always[use an AI art generator](https://www.makeuseof.com/ai-text-to-art-generators/) to visually illustrate your concept to your designer. Or, if you feel confident in your artistic skills, you could DIY it and[make your own book cover](https://www.makeuseof.com/how-to-design-make-book-cover/) .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Harness the Power of ChatGPT for Your Novel
 
@@ -188,21 +161,17 @@ thumbnail: https://thmb.techidaily.com/16e517e86ce5511ef20be02a34a06ee211f62f0d8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-essential-5-virtual-film-maker-gadgets/"><u>[New] 2024 Approved Essential 5 Virtual Film Maker Gadgets</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-reel-in-views-mastering-the-art-of-instagrams-loop-videos/"><u>[Updated] 2024 Approved Reel in Views Mastering the Art of Instagram's Loop Videos</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-cutting-edge-6-urban-designs-in-mc/"><u>[Updated] In 2024, Cutting-Edge 6 Urban Designs in MC</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-nubia-red-magic-8s-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/dive-into-technology-unveiling-the-secrets-of-high-performance-systems-by-toms-circuitry/"><u>Dive Into Technology: Unveiling the Secrets of High-Performance Systems by Tom's Circuitry</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/expert-tips-for-deleting-every-interaction-youve-had-with-chatgpt/"><u>Expert Tips for Deleting Every Interaction You've Had with ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/expertly-curated-selection-of-8-must-have-artifice-intelligence-apps-on-mobile-phones/"><u>Expertly Curated Selection of 8 Must-Have Artifice Intelligence Apps on Mobile Phones</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-fun-with-chatgpt-top-6-engaging-games-available/"><u>Exploring Fun with ChatGPT: Top 6 Engaging Games Available</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-zte-blade-a73-5g-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from ZTE Blade A73 5G.</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Xiaomi Redmi A2+ | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mimicking-your-penmanship-adapting-chatgpt-for-authentic-self-expressive-writing/"><u>Mimicking Your Penmanship: Adapting ChatGPT for Authentic Self-Expressive Writing</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionize-meal-prep-using-chatgpt-discover-7-resourceful-methods/"><u>Revolutionize Meal Prep Using ChatGPT: Discover 7 Resourceful Methods</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/secure-your-conversations-with-duckduckgo-ai-chat-meet-the-alternative-to-chatgpt/"><u>Secure Your Conversations with DuckDuckGo AI Chat - Meet the Alternative to ChatGPT</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-xiaomi-redmi-note-12-pro-4g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Xiaomi Redmi Note 12 Pro 4G Reset Code | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transform-your-ride-with-ai-tips-for-consulting-chatgpt-on-car-upgrades/"><u>Transform Your Ride with AI: Tips for Consulting ChatGPT on Car Upgrades</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Honor X50i? | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-electorate-engagement-experience-top-gaming-selections/"><u>[New] In 2024, Electorate Engagement Experience Top Gaming Selections</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-crafting-an-engaging-online-presence-the-complete-guide-to-youtube-submissions/"><u>[Updated] 2024 Approved Crafting an Engaging Online Presence The Complete Guide to YouTube Submissions</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/experience-cutting-edge-radio-frequencies-effortlessly-with-our-in-depth-examination-of-the-clearstream-eclipse-antenna/"><u>Experience Cutting-Edge Radio Frequencies Effortlessly with Our In-Depth Examination of the ClearStream Eclipse Antenna</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-samsung-galaxy-m34-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Samsung Galaxy M34 to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mp4dav/"><u>MP4に素早く、安心して変換できるDAVファイル用のシンプルな解決策</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mp4google/"><u>MP4ファイルの再生不能：Googleドライブで直す方法</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mpcmpcmp3/"><u>MPCとは？無料でMPC形式をMP3音楽ファイルに変換する簡単レシピ</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/msvmsfmp3/"><u>MSVおよびMSFファイルのMP3への変換と再生方法</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/quick-tutorial-hiding-pre-set-movie-subtitles-with-minimal-effort/"><u>Quick Tutorial: Hiding Pre-Set Movie Subtitles with Minimal Effort</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-the-top-6-alternatives-to-twitch-for-your-streaming-needs/"><u>Updated The Top 6 Alternatives to Twitch for Your Streaming Needs</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-honor-play-40c-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Honor Play 40C? Here Is the Answer | Dr.fone</u></a></li>
 </ul></div>
 

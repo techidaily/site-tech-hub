@@ -1,7 +1,7 @@
 ---
 title: "The Development Journey: How GPT-1 Transformed Into the Powerful GPT-4 Explained"
-date: 2024-09-11T18:18:33.619Z
-updated: 2024-09-12T18:18:33.619Z
+date: 2024-09-12T18:13:46.610Z
+updated: 2024-09-17T18:10:34.347Z
 tags:
   - chatgpt
   - open-ai
@@ -28,19 +28,6 @@ thumbnail: https://thmb.techidaily.com/2e8e3dda0fc4dbabc8c416bc34f849f91c6baaf77
 
 ![man questions robot turing test example feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/man-questions-robot-turing-test-example-feature.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Image Credit: Jesus Sanz/[Shutterstock](https://www.shutterstock.com/image-vector/robot-scientist-facing-turing-test-artificial-1651840888)
 
  To determine if the Turing test is outdated, you must first[understand how it works](https://www.makeuseof.com/tag/what-is-turing-test-ever-beaten/) . For an AI to pass the Turing test, it must convince a human interrogator that it's a human. But there is a catch—the AI is evaluated alongside a human, and it must respond using text.
@@ -51,13 +38,6 @@ thumbnail: https://thmb.techidaily.com/2e8e3dda0fc4dbabc8c416bc34f849f91c6baaf77
 
  However, the current AI models like ChatGPT-4 and Google Bard haven't yet advanced to a point they can consistently pass the Turing test. In fact, if you're familiar with AI, you can[spot AI-generated text](https://www.makeuseof.com/dangers-ai-writing-how-spot-ai-generated-text/) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The 5 Best Turing Test Alternatives
 
  It's possible that[future AI models like ChatGPT-5](https://www.makeuseof.com/when-will-gpt5-launch/) could pass the Turing test. If that happens, we would need different tests combined with the Turing test to identify if we're talking to an AI or a human. Here are the best Turing test alternatives:
@@ -66,22 +46,15 @@ thumbnail: https://thmb.techidaily.com/2e8e3dda0fc4dbabc8c416bc34f849f91c6baaf77
 
 ![A couple watching Netflix on TV](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/a-couple-watching-netflix-on-tv.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Gary Marcus, a renowned cognitive scientist and AI researcher, proposed an alternative to the Turing test that was published in the[New Yorker](https://www.newyorker.com/tech/annals-of-technology/what-comes-after-the-turing-test) to identify the cognitive ability of an AI. The test is simple—you judge an AI model based on its ability to watch and understand YouTube videos and TV shows without subtitles or text. For the AI to pass the Marcus test, it should understand sarcasm, humor, irony, and the storyline when watching the videos and explain it like a human.
 
  At the moment,[GPT-4 can describe images](https://www.makeuseof.com/best-new-gpt4-features-explained/) , but so far, there is currently no AI model that can comprehend videos like a human.[Self-driving vehicles](https://www.makeuseof.com/self-driving-cars-explained/) come close, but they're not completely autonomous and require sensors since they can't make sense of everything in their surrounding environment.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. The Visual Turing Test
@@ -97,22 +70,21 @@ thumbnail: https://thmb.techidaily.com/2e8e3dda0fc4dbabc8c416bc34f849f91c6baaf77
 ![robot holding a pencil pointing to a book](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/robot-holding-pencil-pointing-to-book-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The theory that a computer can't create original ideas beyond what it was programmed to do was first conceptualized by Ada Lovelace before the Turing test. However, Alan Turing objected to that theory arguing that AI can still surprise humans. It wasn't until 2001 that the guidelines for the Lovelace test were developed to tell apart an AI from a human—and, as per the[thekurzweillibrary](http://www.thekurzweillibrary.com/georgia-tech-professor-proposes-another-alternative-to-the-turing-test) the rules were later revised in 2014.
 
  For an AI to pass the Lovelace test, it must demonstrate that it can generate original ideas that exceed its training. Current AI models like GPT-4 don't have the capability to come up with new inventions beyond our existing knowledge. However,[artificial general intelligence](https://www.makeuseof.com/what-is-artificial-general-intelligence-how-it-differs-generative-ai/) can achieve that capability and pass the Lovelace test.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Reverse Turing Test
 
@@ -125,10 +97,10 @@ thumbnail: https://thmb.techidaily.com/2e8e3dda0fc4dbabc8c416bc34f849f91c6baaf77
  The downside of the reverse Turing test is that it's unreliable, especially considering that sometimes[AI cannot differentiate AI-generated](https://www.makeuseof.com/ai-content-detectors-dont-work/) and human-written content.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. AI Classification Framework
@@ -160,20 +132,20 @@ thumbnail: https://thmb.techidaily.com/2e8e3dda0fc4dbabc8c416bc34f849f91c6baaf77
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-discover-how-you-can-obtain-fcp-gratis/"><u>[New] Discover How You Can Obtain FCP Gratis</u></a></li>
-<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-xiaomi-redmi-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/comprehensive-review-analyzing-androids-lightroom/"><u>Comprehensive Review Analyzing Android's Lightroom</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/cutting-edge-revelation-openais-gpt-4-unveiling/"><u>Cutting Edge Revelation: OpenAI's GPT-4 Unveiling</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/demystifying-the-openai-api-a-complete-user-guide-to-expand-your-technological-horiz/"><u>Demystifying the OpenAI API: A Complete User Guide to Expand Your Technological Horiz</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/effective-chatgpt-management-a-guide-to-using-folder-features-for-streamlined-interactions/"><u>Effective ChatGPT Management: A Guide to Using Folder Features for Streamlined Interactions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhancing-your-search-experience-on-android-utilizing-the-ai-powered-bing-app/"><u>Enhancing Your Search Experience on Android: Utilizing the AI-Powered Bing App</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/from-premium-to-public-understanding-the-persistent-appeal-of-chatgpt-plus-in-a-post-free-gpt-4-world/"><u>From Premium to Public: Understanding the Persistent Appeal of ChatGPT Plus in a Post-Free GPT-4 World</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-samsung-galaxy-a15-5g-by-drfone-android/"><u>How to Bypass FRP from Samsung Galaxy A15 5G?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-the-mechanics-an-introduction-to-gopro-time-lapse/"><u>In 2024, Mastering the Mechanics An Introduction to GoPro Time-Lapse</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-it-possible-to-utilize-chatgpt-technology-for-crafting-malicious-software/"><u>Is It Possible to Utilize ChatGPT Technology for Crafting Malicious Software?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/italy-plunges-into-chaos-with-immediate-chatgpt-ban/"><u>Italy Plunges Into Chaos with Immediate ChatGPT Ban</u></a></li>
-<li><a href="https://os-tips.techidaily.com/new-apple-policy-enables-ios-apps-to-directly-connect-users-to-third-party-sites-for-buying/"><u>New Apple Policy Enables iOS Apps to Directly Connect Users to Third-Party Sites for Buying</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/smart-speaker-face-off-google-nest-audio-against-the-apple-homepod/"><u>Smart Speaker Face-Off: Google Nest Audio Against the Apple HomePod</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-vivo-v27-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-masterful-examples-of-3d-font-art-available-from-these-9-web-destinations/"><u>[New] Masterful Examples of 3D Font Art Available From These 9 Web Destinations</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-xiaomis-flight-tech-unveiled-in-4k-review-for-2024/"><u>[New] Xiaomi's Flight Tech Unveiled in 4K Review for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/guide-complet-pour-integrer-des-sous-titres-a-vos-fichiers-mp4/"><u>Guide Complet Pour Intégrer Des Sous-Titres À Vos Fichiers MP4</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-on-apple-iphone-12-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID On Apple iPhone 12 without Password?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-on-the-go-tech-support-with-drivereasys-compact-app/"><u>Mastering On-the-Go Tech Support with DriverEasy's Compact App</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/resolving-the-problem-troubleshooting-plex-avoidance-of-avi-file-playback/"><u>Resolving the Problem: Troubleshooting Plex Avoidance of AVI File Playback</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/seamlessly-save-and-swap-converting-twitch-broadcasts-to-mp4-with-ease/"><u>Seamlessly Save & Swap: Converting Twitch Broadcasts to MP4 with Ease</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/setting-up-your-trakttv-profile-with-kodi-a-step-by-step-guide/"><u>Setting Up Your Trakt.tv Profile with Kodi: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/simple-guide-transforming-flac-files-into-aac-format-across-computers-and-online-tools/"><u>Simple Guide: Transforming FLAC Files Into AAC Format Across Computers and Online Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/simple-steps-effortlessly-transforming-audio-files-from-aac-to-ogg-format/"><u>Simple Steps: Effortlessly Transforming Audio Files From AAC to OGG Format</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/simple-steps-transforming-your-trec-files-into-avi-format-the-most-straightforward-way/"><u>Simple Steps: Transforming Your TREC Files Into AVI Format - The Most Straightforward Way</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solution-guide-to-tackle-error-e6-in-modern-combat-warzonemodern-warfare-on-your-computer-system/"><u>Solution Guide to Tackle Error E6 in Modern Combat: Warzone/Modern Warfare on Your Computer System</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-instructions-how-to-delete-built-in-subtitle-text-in-videos/"><u>Step-by-Step Instructions: How to Delete Built-In Subtitle Text in Videos</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tailoring-or-buying-outright-making-the-ideal-decision-on-assembling-vs-purchasing-a-pc/"><u>Tailoring or Buying Outright - Making the Ideal Decision on Assembling vs Purchasing a PC</u></a></li>
 </ul></div>
 

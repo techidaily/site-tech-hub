@@ -1,7 +1,7 @@
 ---
 title: "Assessing Safety: Unveiling the Top 6 Security Threats Posed by OpenAI's ChatGPT"
-date: 2024-09-11T18:19:58.344Z
-updated: 2024-09-12T18:19:58.344Z
+date: 2024-09-12T04:00:01.594Z
+updated: 2024-09-18T01:17:09.447Z
 tags:
   - chatgpt
   - open-ai
@@ -20,13 +20,6 @@ thumbnail: https://thmb.techidaily.com/eca414d17b25e8f8a64d96408c677f9d5871694de
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * ChatGPT sign-ups are currently closed due to a surge in usage after OpenAI's recent Dev Day event, causing strain on their servers.
@@ -37,13 +30,6 @@ Want to sign up to ChatGPT? Well, you're too late.
 
  OpenAI CEO Sam Altman has officially revealed that sign-ups for the leading generative AI tool are closed—at least, they are for now. However, with no specific time frame set for when ChatGPT sign-ups will resume, it's anyone's guess as to how long potential new users will have to wait.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why Are ChatGPT Sign-Ups Closed?
 
  ChatGPT has experienced an enormous surge in usage since OpenAI's ChatGPT Dev Day on November 6, 2023.
@@ -51,13 +37,6 @@ Want to sign up to ChatGPT? Well, you're too late.
  OpenAI used its Dev Day to reveal the latest round of updates to ChatGPT,[including GPT-4 Turbo](https://www.makeuseof.com/chatgpts-latest-update-explained/) , an upgraded LLM, and its[new custom GPTs option](https://www.makeuseof.com/how-use-create-a-gpt-to-create-a-customized-version-of-chatgpt/) . Both have proved instant hits with existing users, and with social media feeds chocked full of exciting ChatGPT content, more people than ever want a piece of the AI pie.
 
  The sudden uptick in users exploring the new tools and people jumping to use ChatGPT placed considerable strain on OpenAI's servers—leading the company to close its subscriptions until the situation is under control.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## When Will ChatGPT Subscriptions Open Again?
 
@@ -70,16 +49,10 @@ Want to sign up to ChatGPT? Well, you're too late.
  If you want to be first in the queue when ChatGPT subscriptions resume, head to the[ChatGPT Sign-Up page](https://chat.openai.com/auth/login?ref=upstract.com) , enter your details and await an email.
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT Is a Victim of Its Own Success
@@ -103,18 +76,13 @@ Still, it certainly won't be long until it changes.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-cultivating-an-audience-naturally-youtubes-way/"><u>[New] 2024 Approved Cultivating an Audience Naturally - YouTube's Way</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-unveiling-the-secret-sauce-for-massive-tiktok-content-grabs/"><u>[New] In 2024, Unveiling the Secret Sauce for Massive TikTok Content Grabs</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-leading-8-affordable-open-source-platforms-for-enterprise-calls/"><u>[Updated] In 2024, Leading 8 Affordable Open-Source Platforms for Enterprise Calls</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-proven-cinematic-strategies-for-video-editors/"><u>2024 Approved Proven Cinematic Strategies for Video Editors</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-the-ultimate-list-of-twitter-video-convertors/"><u>2024 Approved The Ultimate List of Twitter Video Convertors</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/assessing-the-accuracy-of-chatgpt-and-bard-for-budgets/"><u>Assessing the Accuracy of ChatGPT and Bard for Budgets</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/dive-into-hugging-face-understanding-its-purpose-and-why-it-matters/"><u>Dive Into Hugging Face: Understanding Its Purpose & Why It Matters</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhancing-document-data-harvest-with-4-ingenious-chatgpt-methodologies/"><u>Enhancing Document Data Harvest with 4 Ingenious ChatGPT Methodologies</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/get-acquainted-with-the-latest-ampace-andes-1500-the-pinnacle-of-portable-power-technology/"><u>Get Acquainted with the Latest Ampace Andes 1500 - The Pinnacle of Portable Power Technology</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-itel-a05s-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Itel A05s online without jailbreak</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-seamless-channel-transitions-with-customized-end-screens/"><u>In 2024, Seamless Channel Transitions with Customized End Screens</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/seamless-ways-to-preserve-and-exchange-chatgpt-conversations-4-key-extensions/"><u>Seamless Ways to Preserve & Exchange ChatGPT Conversations – 4 Key Extensions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/streamlined-chatgpt-chrome-extension-your-new-partner/"><u>Streamlined ChatGPT: Chrome Extension, Your New Partner</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-daydream-to-reality-a-short-vr-history/"><u>2024 Approved From Daydream to Reality A Short VR History</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-journey-to-aesthetic-excellence-fusing-images-masterfully/"><u>2024 Approved Journey to Aesthetic Excellence Fusing Images Masterfully</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/crafting-custom-sounds-in-a-daw-using-chatgpt-a-comprehensive-guide/"><u>Crafting Custom Sounds in a DAW Using ChatGPT: A Comprehensive Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-samsung-galaxy-s23-fe-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Samsung Galaxy S23 FE without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/microsoft-bluetooth-support-software-free-download-and-updates-for-windows-10-11-8-and-7/"><u>Microsoft Bluetooth Support Software: Free Download and Updates for Windows 10, 11, 8 & 7</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/quick-start-using-ez-grabber-effectively/"><u>Quick Start Using EZ Grabber Effectively</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/simplified-explanations-of-how-ai-works/"><u>Simplified Explanations of How AI Works</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/utilizing-chatgpt-for-professional-youtube-content-creation-tips-and-strategies/"><u>Utilizing ChatGPT for Professional YouTube Content Creation: Tips and Strategies</u></a></li>
 </ul></div>
 

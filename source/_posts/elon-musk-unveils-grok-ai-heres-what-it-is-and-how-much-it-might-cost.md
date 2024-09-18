@@ -1,7 +1,7 @@
 ---
 title: Elon Musk Unveils Grok AI - Here’s What It Is and How Much It Might Cost
-date: 2024-09-11T18:17:31.212Z
-updated: 2024-09-12T18:17:31.212Z
+date: 2024-09-13T02:44:33.716Z
+updated: 2024-09-17T19:19:33.682Z
 tags:
   - chatgpt
   - open-ai
@@ -20,13 +20,6 @@ thumbnail: https://thmb.techidaily.com/1fec27f12efa09e4c48a38543461cae6de40c3455
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [Murder Mystery Mayhem](https://www.makeuseof.com/best-chatgpt-games-to-play/#murder-mystery-mayhem)
@@ -39,13 +32,6 @@ thumbnail: https://thmb.techidaily.com/1fec27f12efa09e4c48a38543461cae6de40c3455
  Bored of using ChatGPT for programming, chatting, and learning? It's time to start using it for gaming instead.
 
  ChatGPT has a wealth of games in its custom GPT store, covering everything from, RPGs and Dungeons and Dragons-style adventures, classic retro games, card games, quizzes, mysteries, and so much more.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1.[Murder Mystery Mayhem](https://chat.openai.com/g/g-82dEDeoN3-murder-mystery-mayhem)
 
@@ -71,13 +57,6 @@ Close
 
  It's a basic version of the classic game, but it's engaging enough. The custom GPT's scripting doesn't allow you to go off-piste and, say, rob the local convenience store for supplies (nor did the original), but it's certainly a lot easier without so many setbacks constantly upending and destroying your party. It's a much easier version, that's for sure.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3.[Poker](https://chat.openai.com/g/g-lHyTLJaCX-poker)
 
  From the potential death and horror of the Oregon Trail to something a little more relaxing: Poker. You play against the AI in this Poker custom GPT, starting with 10,000 credits, and play standard five-card Texas hold'em until someone's credits run out.
@@ -86,6 +65,13 @@ Close
 
  My only major gripe about this poker game is that ChatGPT seems to mimic your choices, such as check, raise, and so on, which can make the game predictable (or at least less random).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4.[Console GPT](https://chat.openai.com/g/g-3p94K4Djb-console-gpt)
 
  Now, this is a cool idea of how a custom GPT can span multiple types of input to create a custom game with a unique storyline.
@@ -93,19 +79,6 @@ Close
  When you first boot Console GPT, you meet the message "BOOT UP AND INSERT GAME." But you don't have a game cartridge to boot yet. Instead, you have to head to the[Console GPT Glif page](https://glif.app/@fab1an/glifs/clotu9ul2002vl90fh6cmpjw0) , which is a custom AI art tool that will create your "cartridge."
 
 ![cyber syndicate cartridge ai image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/cyber-syndicate-cartridge-ai-image.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Input the type of game you want in the text box, select**Glif It!** , and watch as your creation comes to life. I went with "retro-futurism crime lord" and was presented with "Cyber Syndicate," a game where you "navigate a neon-soaked, cyberpunk metropolis teeming with high-tech heists and digital espionage," with a goal of becoming the ultimate syndicate leader.
 
@@ -116,13 +89,6 @@ Close
 Close
 
  The narrative flow is a bit shaky, and Console GPT could use some extra commands to remember other parts of the story, but it's good fun for a while. For example, one moment, I was a lone operative in a bar, and the next, I was planning a heist in a room with the rest of my assembled team.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5.[Cookie Clicker](http://chat.openai.com/g/g-g0b22bvqB-cookie-clicker)
 
@@ -137,10 +103,10 @@ Close
  Still, if you're into idle games and want to try something different, it could be worth a try.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6.[Cute Little Zombies](https://chat.openai.com/g/g-CEON6aFtV-cute-little-zombies-a-text-adventure-game)
@@ -172,18 +138,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-the-smart-way-to-combine-igtv-with-stories/"><u>[New] 2024 Approved The Smart Way to Combine IGTV with Stories</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-updated-samsung-ubd-k8500-analysis-for-2024/"><u>[New] Updated Samsung UBD-K8500 Analysis for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-content-creator-acclaim-through-subscriber-recognition/"><u>[Updated] Content Creator Acclaim Through Subscriber Recognition</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/desktop-vs-website-why-the-chatgpt-app-delivers-a-better-user-experience/"><u>Desktop Vs. Website: Why the ChatGPT App Delivers a Better User Experience</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/experience-next-gen-streaming-with-apples-new-4k-smart-tv-stick-series-6-reviewed-here/"><u>Experience Next-Gen Streaming with Apple's New 4K Smart TV Stick (Series 6) Reviewed Here!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/gpt-versus-fortune-tellers-in-future-projections/"><u>GPT Versus Fortune Tellers in Future Projections</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-resolve-oppo-a58-4g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Oppo A58 4G Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-icloud-unlocker-download-unlock-icloud-lock-for-your-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, iCloud Unlocker Download Unlock iCloud Lock for your iPhone 15 Pro Max</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-quick-solutions-for-the-crashy-windows-11-photos-app/"><u>In 2024, Quick Solutions for the Crashy Windows 11 Photos App</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/maintaining-conversation-confidentiality-with-chatgpt-tips-and-tricks/"><u>Maintaining Conversation Confidentiality with ChatGPT: Tips and Tricks</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/protecting-your-online-experience-google-chromes-version-127-introduces-advanced-anti-malware-tools/"><u>Protecting Your Online Experience: Google Chrome's Version 127 Introduces Advanced Anti-Malware Tools</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/reimagining-psychological-support-through-ai-tech-advancements/"><u>Reimagining Psychological Support Through AI Tech Advancements</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/vivid-imagery-with-nikon-j5s-4k-capability-revealed/"><u>Vivid Imagery with Nikon J5's 4K Capability Revealed</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-startup-steps-for-successful-youtubers-setting-up-channels-securing-sales/"><u>[New] 2024 Approved Startup Steps for Successful Youtubers Setting Up Channels, Securing Sales</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-dominating-instagrams-social-scene-5-proven-tips-and-success-stories/"><u>[Updated] 2024 Approved Dominating Instagram's Social Scene 5 Proven Tips & Success Stories</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-pro-tips-for-capturing-360-degree-fisheye-photos/"><u>[Updated] Pro Tips for Capturing 360-Degree Fisheye Photos</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/complete-guide-setting-up-the-navyseal-big-brother-plugin-in-kodi-with-matrix-support/"><u>Complete Guide: Setting Up the NavySeal Big Brother Plugin in Kodi with Matrix Support</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-tutorial-how-to-transfer-gaana-tracks-to-your-desktop-pc/"><u>Easy Tutorial: How to Transfer Gaana Tracks to Your Desktop PC</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effective-techniques-for-utilizing-camtasia-and-ensuring-proper-playback-of-created-recordings/"><u>Effective Techniques for Utilizing Camtasia & Ensuring Proper Playback of Created Recordings</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-conversion-transform-videos-into-wav-files-with-ease/"><u>Effortless Conversion: Transform Videos Into WAV Files with Ease</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-steps-for-converting-swf-files-into-mov-format/"><u>Effortless Steps for Converting SWF Files Into MOV Format</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effortless-ways-to-correct-winwordexe-application-problems/"><u>Effortless Ways to Correct WINWORD.EXE Application Problems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancing-video-resolution-with-premiere-pro-tips-for-achieving-stunning-1080p-and-4k-outputs/"><u>Enhancing Video Resolution with Premiere Pro: Tips for Achieving Stunning 1080P and 4K Outputs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/fixing-the-problem-of-non-recording-sound-files-in-audacity-software/"><u>Fixing the Problem of Non-Recording Sound Files in Audacity Software</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-here-are-different-ways-to-find-pokemon-go-trainer-codes-to-add-to-your-account-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, Here are Different Ways to Find Pokemon Go Trainer Codes to Add to Your Account On Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/mastering-instagrams-video-opposites-a-tutorial-for-2024/"><u>Mastering Instagram's Video Opposites A Tutorial for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/step-by-step-eliminating-rhythm-units-from-your-songs-digitally/"><u>Step-by-Step Eliminating Rhythm Units From Your Songs Digitally</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unleash-your-inner-comedy-with-gif-mastery-for-2024/"><u>Unleash Your Inner Comedy with GIF Mastery for 2024</u></a></li>
 </ul></div>
 

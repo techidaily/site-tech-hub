@@ -1,7 +1,7 @@
 ---
 title: Elevate Your IDE Game - Top 10 ChatGPT Techniques for VS Code
-date: 2024-09-11T18:23:41.567Z
-updated: 2024-09-12T18:23:41.567Z
+date: 2024-09-12T22:18:07.055Z
+updated: 2024-09-17T20:10:17.021Z
 tags:
   - chatgpt
   - open-ai
@@ -48,19 +48,6 @@ thumbnail: https://thmb.techidaily.com/6471b67acfe8051c9c2c5b701d3d154a93913c9b5
 
 ![A gym routine generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-12-59-46.png)
 
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The more context you provide your AI tool, the better of a response you'll receive.
 
 ## 2 Ask for More Information After Getting an Initial Answer
@@ -75,21 +62,7 @@ thumbnail: https://thmb.techidaily.com/6471b67acfe8051c9c2c5b701d3d154a93913c9b5
 
 ![An expanded answer with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-11-12.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  As a general rule of thumb, ask as many questions as you feel necessary to get all the information you're looking for. You may also want to determine[whether premium AI prompts are worth the money](https://www.makeuseof.com/should-you-buy-ai-prompts/) .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3 Explain What Hasn't Worked When You've Prompted in the Past
 
@@ -100,16 +73,16 @@ thumbnail: https://thmb.techidaily.com/6471b67acfe8051c9c2c5b701d3d154a93913c9b5
  Besides mentioning what hasn't worked for you when prompting in the past, you may also wish to outline anything that has not worked with what you're trying to do. For example, if you're putting together a new workout regimen, you may want to talk about which foods you've noticed you have a negative reaction to before.
 
 <!-- affiliate ads begin -->
-<span id="1374820">
+<span id="1743243">
 					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4 Don't Make Your AI Multitask
@@ -124,13 +97,6 @@ thumbnail: https://thmb.techidaily.com/6471b67acfe8051c9c2c5b701d3d154a93913c9b5
 
  Once you've received one prompt's results, you can move on to the next one until you're happy with everything. Doing things this way might seem more time-consuming, but[single-tasking often improves productivity](https://www.makeuseof.com/master-single-tasking-using-technology-improve-productivity/) , and it's the same for your AI, too.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5 Tell Your AI Tool What You Don't Want in Your Answer
 
  Do you remember in our first point when we told you to be as specific as possible? This also means you should let your AI tool know what you don't want in your answers. While generative AI can produce some pretty cool results, it can't guess everything for you.
@@ -139,20 +105,13 @@ thumbnail: https://thmb.techidaily.com/6471b67acfe8051c9c2c5b701d3d154a93913c9b5
 
 ![Answer options from ChatGPT, based on what the user did and didn't want ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-38-46.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Sometimes, your AI tool will give you multiple options in your answers. You can then choose whichever one works best for you.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6 Upload Images or Files (if Available)
@@ -162,6 +121,13 @@ thumbnail: https://thmb.techidaily.com/6471b67acfe8051c9c2c5b701d3d154a93913c9b5
  If you're using AI to create art, it's also a good idea to upload images that the AI tool can use as examples. Meanwhile, if you want to[use Photo AI](https://www.makeuseof.com/what-is-photo-ai/) or similar tools for pictures of yourself, uploading selfies, headshots, and other images will help you achieve what you want.
 
 [Some AI tools can even answer questions from your PDFs](https://www.makeuseof.com/ai-tools-answer-pdf/) if you want to get more clarity.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7 Mention Where You Want to Use Your Prompt Answers
 
@@ -188,17 +154,20 @@ thumbnail: https://thmb.techidaily.com/6471b67acfe8051c9c2c5b701d3d154a93913c9b5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-essential-steps-for-chromakey-magic/"><u>[New] 2024 Approved Essential Steps for Chromakey Magic</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-cutting-edge-online-resources-for-glittering-3d-typography/"><u>[Updated] 2024 Approved Cutting-Edge Online Resources for Glittering 3D Typography</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-broadcast-perfection-recommended-tech-and-apps-for-youtubers-for-2024/"><u>[Updated] Broadcast Perfection Recommended Tech and Apps for YouTubers for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-elevate-gaming-on-tv-obs-guide-for-2024/"><u>[Updated] Elevate Gaming on TV - OBS Guide for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-on-apple-iphone-12-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons On Apple iPhone 12? Find the Best Solution Here</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chilling-out-cool-down-the-dough-just-right/"><u>Chilling Out: Cool Down the Dough Just Right</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/comparing-gemini-how-does-googles-latest-ai-stack-up-against-chatgpt/"><u>Comparing Gemini: How Does Google's Latest AI Stack Up Against ChatGPT?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dell-wireless-keyboards-failing-discover-quick-fixes-for-common-issues/"><u>Dell Wireless Keyboards Failing? Discover Quick Fixes for Common Issues</u></a></li>
-<li><a href="https://article-files.techidaily.com/dive-into-magix-video-pro-x-features-for-2024/"><u>Dive Into Magix Video Pro X Features for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/maximize-domestic-productivity-with-these-6-chatgpt-hacks/"><u>Maximize Domestic Productivity with These 6 ChatGPT Hacks</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-unlock-live-photos-from-videos-top-converter-apps-and-tips-for-2024/"><u>New Unlock Live Photos From Videos Top Converter Apps and Tips for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/esthetic-ambitions-launching-a-youtube-channel-for-makeup-maven/"><u>[New] Aesthetic Ambitions Launching a YouTube Channel for Makeup Maven</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-engaging-audiences-making-popular-youtube-shorts/"><u>[New] In 2024, Engaging Audiences Making Popular YouTube Shorts</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-vidgrabber-mobilepc-for-fb-streams/"><u>[New] In 2024, VidGrabber Mobile/PC for Fb Streams</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/youtubedvd/"><u>「YouTube動画ダウンロードからDVDバーニングまで」 - ステップバイステップガイド</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1-easy-track-downloads-get-your-favorite-soundcloud-beats-without-cost/"><u>1. Easy Track Downloads: Get Your Favorite SoundCloud Beats Without Cost</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1-step-by-step-tutorial-mastering-the-art-of-downloading-giphys-iconic-gifs/"><u>1. Step-by-Step Tutorial: Mastering the Art of Downloading Giphy's Iconic GIFs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1-ultimate-guide-quick-and-easy-tools-for-converting-asf-files-to-mp4-and-back/"><u>1. Ultimate Guide: Quick & Easy Tools for Converting ASF Files to MP4 (And Back!)</u></a></li>
+<li><a href="https://facebook.techidaily.com/commerce-through-observation-a-deep-dive/"><u>Commerce Through Observation: A Deep Dive</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/getting-started-with-your-bluetooth-driver-free-mpow-download-and-updates-for-windows-users/"><u>Getting Started with Your Bluetooth Driver – Free MPOW Download & Updates for Windows Users!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-vivo-y78plus-t1-edition-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on Vivo Y78+ (T1) Edition</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-realme-narzo-n55-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pinnacle-phones-the-supreme-choices-in-mobile-video-recording-for-2024/"><u>Pinnacle Phones The Supreme Choices in Mobile Video Recording for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/windows-7/"><u>Windows 7スクリーンレコーダー・無料アプリとウェブサイトの推奨 - オススメ</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/winx-dvd-copy-pro-effortless-clone-your-dvd-or-convert-to-iso-with-excellent-support/"><u>WinX DVD Copy Pro: Effortless Clone Your DVD or Convert to ISO with Excellent Support</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726028327139-windows/"><u>ブラックバーン除去 - Windows上で動画ファイルから</u></a></li>
 </ul></div>
 

@@ -1,0 +1,85 @@
+---
+title: Unveiling the Capabilities of CodeGPT in Writing Software
+date: 2024-09-13T22:31:44.793Z
+updated: 2024-09-18T02:20:09.411Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: This Article Describes Unveiling the Capabilities of CodeGPT in Writing Software
+excerpt: This Article Describes Unveiling the Capabilities of CodeGPT in Writing Software
+thumbnail: https://thmb.techidaily.com/2dc71f07a766ca604beda3fe20bd5fd81321c87e0ac1f0a29af15d53f14e15af.jpg
+---
+
+## Ransomware Unveiled: Breaking the Code with Mobile Phones & ChatGPT's Help in Our Latest Podcast
+
+ Our weekly tech podcast for technophobes brings you the latest tech news that will affect you and some tips and tricks to help you get better results from your electronics.
+
+ For this week's show, we asked ChatGPT to help out with outlining and even writing the show. Here's a bit more information on[how we used ChatGPT to script the podcast](https://www.makeuseof.com/i-used-chatgpt-to-script-a-podcast-heres-what-happened/) .
+
+ You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
+
+## Shownotes
+
+This week, we chat about the following tech news that matters:
+
+* [ChatGPT banned in Italy over privacy concerns](https://www.bbc.co.uk/news/technology-65139406)
+* [Twitter's blue ticks disappear as Musk attacks NY Times](https://www.bbc.co.uk/news/technology-65156216)
+* [Mobile phone inventor made first call 50 years ago](https://www.bbc.co.uk/news/technology-65112048)  
+  * [The Mother of All Demos](https://www.youtube.com/watch?v=B6rKUf9DWRI)
+
+We've got these explainers:
+
+* [Can All Ransomware Be Decrypted?](https://www.makeuseof.com/can-all-ransomware-be-decrypted/)
+* [How to Fix Games That Won't Work in Windows](https://www.makeuseof.com/fix-games-not-working-windows/)
+* [Reasons to Use Office Online/Microsoft 365](https://www.makeuseof.com/tag/dont-pay-word-5-reasons-use-office-online/)
+
+We finish the show with the following recommendations:
+
+* [RoomGPT](http://https://www.roomgpt.io/)
+* [Booom AI Quiz](https://booom.ai/)
+* [HelloTalk](https://www.hellotalk.com/?lang=en)
+
+ Christian Cawley hosts this week's podcast, and is joined by Ben Stegner. You can contact them on Twitter:[@thegadgetmonkey](https://twitter.com/thegadgetmonkey) and[@stegnersaurus](https://twitter.com/stegnersaurus) , with your suggestions for future topics.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ptimize-your-music-experience-the-best-apps-for-turning-spotify-into-youtube-for-2024/"><u>[New] Optimize Your Music Experience The Best Apps for Turning Spotify Into YouTube for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-essential-knowledge-for-optimal-valheim-harvest-for-2024/"><u>[Updated] Essential Knowledge for Optimal Valheim Harvest for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comparing-iphone-15-pro-max-and-samsung-galaxy-s24-ultra-key-features-and-performance/"><u>Comparing iPhone 15 Pro Max and Samsung Galaxy S24 Ultra: Key Features & Performance</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-driver-upgrade-tips-for-enhancing-performance-on-logitech-m510/"><u>Easy Driver Upgrade Tips for Enhancing Performance on Logitech M510</u></a></li>
+<li><a href="https://review-topics.techidaily.com/identify-malfunctioning-drivers-with-windows-device-manager-in-windows-11-and-10-by-drivereasy-guide/"><u>Identify malfunctioning drivers with Windows Device Manager in Windows 11 & 10</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-the-art-of-preview-premiere-pro-edition/"><u>In 2024, Mastering the Art of Preview Premiere Pro Edition</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/maximize-your-income-through-strategic-use-of-youtube-shorts/"><u>Maximize Your Income Through Strategic Use of YouTube Shorts</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-online-tools-for-premium-gif-creation/"><u>Top 3 Online Tools for Premium GIF Creation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-mp4-decoding-software-for-compatibility-with-windows-from-version-7-to-latest-windows-11-edition/"><u>Top MP4 Decoding Software for Compatibility with Windows From Version 7 to Latest Windows 11 Edition</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-websites-for-hassle-free-video-and-music-downloads-a-comprehensive-guide/"><u>Top Websites for Hassle-Free Video & Music Downloads: A Comprehensive Guide</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/turbo-charge-your-print-operations/"><u>Turbo-Charge Your Print Operations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-guide-to-silencing-videos-advanced-techniques-for-audio-removal/"><u>Ultimate Guide to Silencing Videos: Advanced Techniques for Audio Removal</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-guide-choosing-the-ideal-player-for-your-anime-viewing-experience/"><u>Ultimate Guide: Choosing the Ideal Player for Your Anime Viewing Experience</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-guide-downloading-stunning-4k-and-8k-360-youtube-videos-with-easy-steps/"><u>Ultimate Guide: Downloading Stunning 4K & 8K 360° YouTube Videos with Easy Steps</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ts/"><u>データ品質を保ちながらの二つのTSファイル分割方法</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

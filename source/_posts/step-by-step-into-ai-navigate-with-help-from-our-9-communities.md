@@ -1,7 +1,7 @@
 ---
 title: "Step by Step Into AI: Navigate with Help From Our 9 Communities"
-date: 2024-09-11T18:20:58.948Z
-updated: 2024-09-12T18:20:58.948Z
+date: 2024-09-14T00:26:23.228Z
+updated: 2024-09-17T17:27:53.197Z
 tags:
   - chatgpt
   - open-ai
@@ -24,13 +24,6 @@ thumbnail: https://thmb.techidaily.com/c169b3dacf2f59341958f21d25bf2991aa2ae1cda
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What You Need to Speak to ChatGPT
 
  ChatGPT's Whisper integration allows you to use your voice to speak with ChatGPT instead of typing. The beauty of this lies in the fact that you can speed up your prompts instead of typing long and descriptive sentences.
@@ -39,36 +32,15 @@ thumbnail: https://thmb.techidaily.com/c169b3dacf2f59341958f21d25bf2991aa2ae1cda
 
 ![ChatGPT's App Store page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-s-app-store-page-on-an-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![ChatGPT App Login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-login.jpg)
 
 ![ChatGPT app welcome screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-welcome-screen.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
  If you're on a Windows PC, you'll need to rely on third-party workarounds like[Whisper Desktop to turn your voice to text in real time](https://www.makeuseof.com/windows-whisper-desktop-guide/) .
 
 **Download:** ChatGPT for[iOS](http://apps.apple.com/app/openai-chatgpt/id6448311069) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029654/https://play.google.com/store/apps/details?id=com.openai.chatgpt&hl=en&gl=US) (Free, subscription available)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Send ChatGPT Prompts With Your Voice
 
@@ -85,23 +57,9 @@ Close
 
 ![ChatGPT's mic and speaker on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4311.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![ChatGPT showing the text generated from the speech on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4313.jpg)
 
 ![The ChatGPT's prompt response generated from the speech on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4314.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -126,15 +84,28 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-professional-tips-for-ios-screen-capture-techniques/"><u>[Updated] In 2024, Professional Tips for iOS Screen Capture Techniques</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-the-essential-guide-to-youtube-edits-with-premiere-pro/"><u>[Updated] In 2024, The Essential Guide to YouTube Edits with Premiere Pro</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-a-guide-to-elevating-your-obs-video-projects/"><u>2024 Approved A Guide to Elevating Your OBS Video Projects</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-efficient-movie-recording-strategies-across-desktops-and-handhents/"><u>2024 Approved Efficient Movie Recording Strategies Across Desktops and Handhents</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/androidios-accessibility-with-chatgpt/"><u>Android/iOS Accessibility with ChatGPT</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/auto-captioned-mastery-enhancing-visual-narratives-for-2024/"><u>Auto-Captioned Mastery Enhancing Visual Narratives for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/did-you-know-chatgpt-has-an-app-for-ios/"><u>Did You Know ChatGPT Has an App for iOS?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhancing-wearables-with-ai-chatgpts-6-revolutionary-uses-in-watches/"><u>Enhancing Wearables with AI: ChatGPT's 6 Revolutionary Uses in Watches</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/personalizing-prose-how-to-shape-chatgpts-language-skills-to-reflect-yours/"><u>Personalizing Prose: How to Shape ChatGPT's Language Skills to Reflect Yours</u></a></li>
-<li><a href="https://win-able.techidaily.com/unlocking-secrets-of-scavengers-winning-techniques-and-hints/"><u>Unlocking Secrets of 'Scavengers' - Winning Techniques and Hints</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/orrected-clandestine-miniature-video-absence/"><u>[New] Corrected Clandestine Miniature Video Absence</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-elevate-your-online-presence-audios-for-your-channel/"><u>[New] In 2024, Elevate Your Online Presence Audios for Your Channel</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-next-gen-recording-nine-leading-webmicrone-recorders-23/"><u>[New] Next-Gen Recording Nine Leading Webmicrone Recorders ('23)</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-leading-the-edge-professional-cameras-that-rotate-full-circle-2023/"><u>[Updated] 2024 Approved Leading the Edge Professional Cameras That Rotate Full Circle - 2023</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gimbal-excellence-markets-top-choices/"><u>[Updated] Gimbal Excellence Market's Top Choices</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/google-chromemozilla-firefoxmicrosoft-edgeweb/"><u>最新ガイド：Google Chrome・Mozilla Firefox・Microsoft Edgeで簡単にWebページのスクリーンショットを撮る方法</u></a></li>
+<li><a href="https://fox-http.techidaily.com/comprehensive-guide-to-masterful-win11-zoom-use/"><u>Comprehensive Guide to Masterful Win11 Zoom Use</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/entertainment-galore-kinemaster-the-android-game-guide-2023-for-2024/"><u>Entertainment Galore KineMaster - The Android Game Guide 2023 for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/essential-instructions-for-crafting-a-custom-kodi-media-center-a-diy-beginners-approach/"><u>Essential Instructions for Crafting a Custom Kodi Media Center: A DIY Beginner's Approach</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/fc2ios-iphoneipad/"><u>FC2動画をiOSデバイスに転送するための最適化手順 - iPhone/iPad用</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/five-expert-tips-cutting-your-sounds-on-windows-10-without-spending-a-penny/"><u>Five Expert Tips: Cutting Your Sounds on Windows 10 Without Spending a Penny</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/highlight-free-and-low-cost-attractions-including-public-parks-museums-with-free-entry-days-and-walking-or-biking-tours/"><u>Highlight Free and Low-Cost Attractions, Including Public Parks, Museums with 'Free Entry Days', And Walking or Biking Tours.</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-popularity-on-youtube-jake-pauls-story-unfolded/"><u>Insta-Popularity on Youtube Jake Paul’s Story Unfolded</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/lack-of-nvidia-shield-av1-format-compatibility-solved-effortless-method-inside/"><u>Lack of Nvidia Shield AV1 Format Compatibility Solved – Effortless Method Inside!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-geometry-dash-capture-top-techniques-to-record-your-gameplay-on-pc/"><u>Mastering Geometry Dash Capture: Top Techniques to Record Your Gameplay on PC</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721470427941-resolve-the-mystery-of-vanishing-icons-on-your-apple-device-today/"><u>Resolve the Mystery of Vanishing Icons on Your Apple Device Today</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

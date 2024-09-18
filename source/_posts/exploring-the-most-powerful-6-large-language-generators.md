@@ -1,7 +1,7 @@
 ---
 title: Exploring the Most Powerful 6 Large Language Generators
-date: 2024-09-11T18:22:43.891Z
-updated: 2024-09-12T18:22:43.891Z
+date: 2024-09-17T01:57:44.887Z
+updated: 2024-09-17T20:38:39.176Z
 tags:
   - chatgpt
   - open-ai
@@ -21,13 +21,6 @@ thumbnail: https://thmb.techidaily.com/d6b13d6022d969432c71e6aff3fa672b2a4e175cf
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What You Need to Know About AI Chatbots
 
@@ -71,13 +64,6 @@ thumbnail: https://thmb.techidaily.com/d6b13d6022d969432c71e6aff3fa672b2a4e175cf
 
 ![man at the base of a flagpole flying the flag of nepal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/man-at-the-base-of-a-flagpole-flying-the-flag-of-nepal.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In order to test which LLM has the best general knowledge, we asked three questions.
 
  The first question, "Which national flag has five sides?" was only correctly answered by Bard, which identified the national flag of Nepal as having five sides.
@@ -90,34 +76,15 @@ thumbnail: https://thmb.techidaily.com/d6b13d6022d969432c71e6aff3fa672b2a4e175cf
 
  All three chatbots correctly identified Franco Malerba as an Italian astronaut and member of the European Parliament, with Bard giving an answer worded identically to a section of Malerba's Wikipedia entry.
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Which LLM Is Good for Technical Instructions?
 
 ![burnt socket for a  BS 1363 type plug](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/burnt-socket-for-a-bs-1363-type-plug.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When you have technical problems, you might be tempted to turn to a chatbot for help. While technology marches on, some things remain the same. The BS 1363 electrical plug has been in use in Britain, Ireland, and many other countries since 1947\. We asked the language models how to correctly wire it up.
@@ -133,10 +100,10 @@ thumbnail: https://thmb.techidaily.com/d6b13d6022d969432c71e6aff3fa672b2a4e175cf
  In our opinion. none of the chatbots gave instructions sufficient to help someone correctly wire a BS 1363 electrical plug. A concise and correct response would be, "Blue on the left, brown on the right."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which LLM Is Good for Writing Code?
@@ -152,10 +119,10 @@ thumbnail: https://thmb.techidaily.com/d6b13d6022d969432c71e6aff3fa672b2a4e175cf
 ![Yellow ball with laughing expression painted on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3d-laughing-emoji-ball-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Humor is one of the fundamentals of being human and surely one of the best ways of telling man and machine apart. To each of our models, we gave the simple prompt: "Create an original and funny joke."
@@ -169,13 +136,6 @@ thumbnail: https://thmb.techidaily.com/d6b13d6022d969432c71e6aff3fa672b2a4e175cf
  A derivative but original joke would be, "How are Large Language Models like atoms? They both make things up!"
 
 You read it here first, folks.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## No Chatbot Is Perfect
 
@@ -200,19 +160,16 @@ You read it here first, folks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-skaldic-battle-asgard-vs-jotunheim/"><u>[New] 2024 Approved Skaldic Battle Asgard vs Jotunheim</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-unveiling-1-ranked-ios-apps-to-download-facebook-videos-and-gigs/"><u>2024 Approved Unveiling #1 Ranked iOS Apps to Download Facebook Videos and Gigs</u></a></li>
-<li><a href="https://program-issues.techidaily.com/battlefield-2042-fixes-implemented-fps-and-stuttering-problems-addressed-for-pc-gamers/"><u>Battlefield 2042 - Fixes Implemented: FPS and Stuttering Problems Addressed for PC Gamers</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/crafting-an-easy-to-use-youtube-subscription-tagline/"><u>Crafting an Easy-to-Use YouTube Subscription Tagline</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oneplus-nord-ce-3-lite-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from OnePlus Nord CE 3 Lite 5G to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-instagram-selfies-learn-the-art-of-stories-zooming/"><u>In 2024, Instagram Selfies Learn the Art of Stories Zooming</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/inside-on-device-intelligence-functionality-and-advantages-for-smartphones/"><u>Inside On-Device Intelligence: Functionality & Advantages for Smartphones</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-it-possible-for-chatgpt-to-create-personalized-secure-fitness-routines/"><u>Is It Possible for ChatGPT to Create Personalized, Secure Fitness Routines?</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-epson-ds-530-printer-drivers-download-and-install-on-your-64-bit-windows-11-pc/"><u>Latest Epson DS-530 Printer Drivers: Download and Install on Your 64-Bit Windows 11 PC</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-social-media-engagement-strategies-with-chatgpt/"><u>Mastering Social Media Engagement: Strategies with ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionize-your-workflow-discover-8-key-benefits-of-implementing-chatgpt-vision/"><u>Revolutionize Your Workflow: Discover 8 Key Benefits of Implementing ChatGPT Vision</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721477470890-stumped-by-hiding-ios-notifications-heres-a-guide-to-fix-it-in-7-steps/"><u>Stumped by Hiding iOS Notifications? Here's a Guide to Fix It in 7 Steps.</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/talk-titans-clash-understanding-distinct-chatbot-traits/"><u>Talk Titans Clash: Understanding Distinct Chatbot Traits</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-digital-success-how-chatgpt-facilitates-your-web-design-journey/"><u>Unlocking Digital Success: How ChatGPT Facilitates Your Web Design Journey</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-exclusive-guide-to-the-best-chrome-extensions-for-fb-videos/"><u>[Updated] Exclusive Guide to the Best Chrome Extensions for FB Videos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-how-to-enable-grid-view-on-google-meet-to-see-every-participant/"><u>[Updated] How to Enable Grid View on Google Meet to See Every Participant?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-how-to-screenshot-on-mac-5-simple-ways/"><u>[Updated] In 2024, How to Screenshot on Mac - 5 Simple Ways</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Samsung Galaxy M14 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-pixel-powerhouse-comparing-leading-8k-tv-innovations/"><u>In 2024, Pixel Powerhouse Comparing Leading 8K TV Innovations</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-review-of-vn-video-editor-apk-features-and-performance/"><u>New 2024 Approved Review of VN Video Editor APK Features and Performance</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/seamless-m4v-file-combination-techniques-preserving-original-quality/"><u>Seamless M4V File Combination Techniques Preserving Original Quality</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/seamless-transformation-of-m4a-tracks-into-high-quality-aac-format/"><u>Seamless Transformation of M4A Tracks Into High-Quality AAC Format</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/simple-fixes-resolving-catchvideo-downloading-issues-quickly-and-effectively/"><u>Simple Fixes: Resolving Catchvideo Downloading Issues Quickly and Effectively</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/simple-steps-to-downloading-movies-and-tv-episodes-enjoy-entertainment-anywhere/"><u>Simple Steps to Downloading Movies & TV Episodes: Enjoy Entertainment Anywhere</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/trasformare-i-file-mp4-online-e-gratis-guida-passo-passo-da-3gp-a-mp4-con-movavi/"><u>Trasformare I File MP4 Online E Gratis: Guida Passo-Passo Da 3GP a MP4 Con Movavi</u></a></li>
 </ul></div>
 

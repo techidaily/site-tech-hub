@@ -1,7 +1,7 @@
 ---
 title: "Artificial Intelligence and Hacking: Unveiling 5 Key Methods for Cybercrime Enhancement"
-date: 2024-09-11T18:21:43.929Z
-updated: 2024-09-12T18:21:43.929Z
+date: 2024-09-10T20:05:13.325Z
+updated: 2024-09-17T19:21:18.345Z
 tags:
   - chatgpt
   - open-ai
@@ -28,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/dd35b2620aef06a2c26e9ff65a2086f109aae48f6
 
 ![Dr Jules White teaching Prompt Engineering for ChatGPT on the Coursera online learning platform](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-37.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Can you use AI to create a Pokemon-inspired game that helps your kids learn math and eat healthy food? Apparently, yes! And there's more you can do with a dose of creativity and the help of ChatGPT, says course developer Dr. Jules White, an Associate Professor of Computer Science at Vanderbilt University.
 
  You've probably heard a lot of bad things about artificial intelligence. Experts expound on[how generative AI will change the job market](https://www.makeuseof.com/ways-ai-change-job-market/) , while skeptics enumerate the[signs that AI development is moving too fast and should be paused](https://www.makeuseof.com/signs-ai-development-is-moving-too-fast/) . Dr. White reshapes the negative conversation surrounding AI, emphasizing how you can use it as a tool to unlock human creativity.
@@ -57,19 +50,6 @@ thumbnail: https://thmb.techidaily.com/dd35b2620aef06a2c26e9ff65a2086f109aae48f6
 
 ![Dave Birss teaching How to Research and Write Using Generative AI Tools on LinkedIn Learning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-39.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In this LinkedIn Learning course, creative expert Dave Birss shows how Generative AI tools present a huge opportunity to advance your career. As Birss points out, humans usually use technology to automate repetitive activities. Thanks to AI, you can now use tech to automate thinking.
 
  Automated thinking is often considered a considerable threat, especially for writers and creatives. If AI can think for you, you're replaceable at your job. But you could argue that AI works to your advantage if you use it responsibly and effectively. AI mastery has become one of the[essential tips for writers to succeed in the age of AI content](https://www.makeuseof.com/tips-writers-to-succeed-ai-content/) , just as internet proficiency has become a must-have skill over the years.
@@ -78,22 +58,15 @@ thumbnail: https://thmb.techidaily.com/dd35b2620aef06a2c26e9ff65a2086f109aae48f6
 
  The lessons emphasize that AI does not replace you as a human. Instead, it augments your work so that you can produce better results. When ChatGPT gives you an output, you must still use your skills and judgment to check and refine the answers and deliver the best results.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4.[Learn Prompting](https://learnprompting.org/)
 
 ![Learn Prompting Website showing Basic Applications lessons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-40.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you prefer reading rather than watching videos, access the Learn Prompting website. The curriculum takes you through basic to advanced prompting techniques using text-based lessons. The courses are free for everyone and were developed by researchers, translators, and hobbyists.
@@ -108,13 +81,6 @@ thumbnail: https://thmb.techidaily.com/dd35b2620aef06a2c26e9ff65a2086f109aae48f6
 
 ![screenshot of ChatGPT Ultimate Guide 10x Your Productivity & Creativity with ChatGPT on Skillshare learning platform](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-41.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This course is best for beginners who want to go through the best use cases of ChatGPT quickly. ChatGPT Ultimate Guide familiarizes you with the ChatGPT interface and the OpenAI playground before explaining the numerous practical uses of the AI tool.
 
  The 59 short videos in this course give you front-row seats to how ChatGPT works. Instructors interact with ChatGPT, typing prompts and commenting on the results. If you haven't tried using ChatGPT, these videos are a great introduction to the app.
@@ -126,10 +92,10 @@ thumbnail: https://thmb.techidaily.com/dd35b2620aef06a2c26e9ff65a2086f109aae48f6
  If you're job hunting, check out these videos for job seekers. You'll learn[how to use ChatGPT to write your resume](https://www.makeuseof.com/use-chatgpt-to-write-resume/) , create a personal bio, search for jobs, and email a potential employer. While the videos only give an overview, they're sure to spark ideas on how the AI tool can be helpful for your job search.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Learn AI Prompt Engineering Today
@@ -153,18 +119,17 @@ thumbnail: https://thmb.techidaily.com/dd35b2620aef06a2c26e9ff65a2086f109aae48f6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-advanced-methods-for-securing-vimeo-recordings/"><u>[Updated] 2024 Approved Advanced Methods for Securing Vimeo Recordings</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-path-to-perfect-visuals-an-advanced-course-in-vce-22/"><u>[Updated] The Path to Perfect Visuals An Advanced Course in VCE 2.2</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-elevating-your-listening-palette-with-youtube-music/"><u>2024 Approved Elevating Your Listening Palette with YouTube Music</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/android-users-setting-up-your-voicegpt/"><u>Android Users: Setting Up Your VoiceGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/boosting-organization-skills-using-chatgpt-a-4-step-guide/"><u>Boosting Organization Skills Using ChatGPT – A 4-Step Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/bust-the-mordhau-crash-glitch-expert-advice-for-smooth-gaming-experience/"><u>Bust the Mordhau Crash Glitch: Expert Advice for Smooth Gaming Experience</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhance-your-privacy-with-duckduckgos-intelligent-chatbot-experience-including-chatgpt/"><u>Enhance Your Privacy with DuckDuckGo's Intelligent Chatbot Experience, Including ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/maximizing-efficiency-leveraging-chatgpt-for-enhanced-workflow-strategies/"><u>Maximizing Efficiency: Leveraging ChatGPT for Enhanced Workflow Strategies</u></a></li>
-<li><a href="https://extra-support.techidaily.com/noshadowedit-advanced-background-shadow-elimination-for-2024/"><u>NoShadowEdit Advanced Background Shadow Elimination for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/quick-start-guide-to-implement-auto-gpt-on-your-ubuntu-machine/"><u>Quick Start Guide to Implement Auto-GPT on Your Ubuntu Machine</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/streamlining-the-process-vimeo-to-mp3-conversion-for-2024/"><u>Streamlining the Process Vimeo to MP3 Conversion for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-changing-landscape-of-online-multiplay-games/"><u>The Changing Landscape of Online Multiplay Games</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-4-ai-detection-applications-essential-resources-for-educators-and-managers/"><u>Top 4 AI Detection Applications: Essential Resources for Educators and Managers</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-top-audio-capturers-in-academic-settings/"><u>[New] 2024 Approved Top Audio Capturers in Academic Settings</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-gleaming-graphics-the-art-of-crafting-insta-highlights-3-ways-for-2024/"><u>[New] Gleaming Graphics The Art of Crafting Insta Highlights (3 Ways) for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-complete-iphone-audio-downloading-manual/"><u>[New] The Complete iPhone Audio Downloading Manual</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-unraveling-the-complexities-of-music-licensing-on-instagram/"><u>2024 Approved Unraveling the Complexities of Music Licensing on Instagram</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comprehensive-instructions-for-integrating-autowidget-into-kodi-builds-v20x-and-v19x/"><u>Comprehensive Instructions for Integrating AutoWidget Into Kodi Builds v20.x and v19.x</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-steps-to-open-and-enjoy-your-wav-soundtracks/"><u>Easy Steps to Open and Enjoy Your WAV Soundtracks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-top-5-tools-for-seamless-combining-of-flac-audio-files/"><u>Easy Top 5 Tools for Seamless Combining of FLAC Audio Files</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-dvd-to-computer-conversion-tips-for-secure-data-moving/"><u>Effortless DVD-to-Computer Conversion Tips for Secure Data Moving</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-12-with-or-without-password-drfone-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone 12 With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-the-ultimate-guide-to-zoom-engagement-unlocking-communication-success/"><u>In 2024, The Ultimate Guide to Zoom Engagement Unlocking Communication Success</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-issue-what-to-do-if-your-zoom-camera-fails/"><u>Solving the Issue: What To Do If Your Zoom Camera Fails</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/dvd-iphone/"><u>ジャニーズ DVD ダウンロード: IPhoneへ導くステップバイステップガイド</u></a></li>
 </ul></div>
 

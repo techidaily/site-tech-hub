@@ -1,7 +1,7 @@
 ---
 title: "Escalating Risks in Generative AI: Unveiling 8 Critical Factors Behind Worsening Safety Issues"
-date: 2024-09-11T18:20:38.241Z
-updated: 2024-09-12T18:20:38.241Z
+date: 2024-09-10T22:29:14.765Z
+updated: 2024-09-18T02:28:37.219Z
 tags:
   - chatgpt
   - open-ai
@@ -23,13 +23,6 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What Is an AI Story Writer?
 
@@ -57,23 +50,9 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 
 **Cost:** Free for 10,000 characters per month. $9 per month for 100,000 characters and $29 per month for unlimited use.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. ShortlyAI
 
 ![ShortlyAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/shortlyai.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [ShortlyAI](https://www.shortlyai.com/) is another tool without too many features. However, this one is focused on either blog posts or story writing, which makes it much more specialized.
 
@@ -89,29 +68,22 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 
 ![DeepStoryAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/deepstoryai.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The next on the list,[DeepStory](https://deepstory.ai/) , is a specialized AI script generator. Not only will it help you get unstuck if you’re experiencing writer's block, but it also generates content in precise script form. This can be extremely useful if you are starting out in this field and still struggling with the structure.
 
  You can start your own script from scratch, where the AI helps you add in dialogs, actions, character notes, and more. But the even better option for beginners is to use one of its samples. They have anything, from Lord of the Rings to Kill Bill and the Exorcist. It is an amazing educational tool.
 
 **Cost:** $12 per month, with a limit of 10,000 words. You can also try it out for free for 10 generations.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. NovelAI
 
 ![NovelAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/novelai.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [NovelAI](https://novelai.net/) is one of the most complex AI story writers on the list. But it’s also one of the most exciting ones. The basic new story AI generator works somewhat similarly to the others. You start writing the first few words or sentences of the story, and let the AI continue.
 
@@ -124,10 +96,10 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 **Cost:** $10/$15/$25 per month. All of these give you unlimited text generations but offer other advanced and experimental features. You can try it for free for 100 text generations.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Leave the Writer’s Block Behind With These AI Story Generators
@@ -151,14 +123,15 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-celebrity-fleeting-frame-revisit/"><u>[New] In 2024, Celebrity Fleeting Frame Revisit</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/alteremailonprotonbrowser-a-step-by-step-guide/"><u>AlterEmailOnProtonBrowser: A Step-By-Step Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/maintain-excellent-clarity-when-transforming-dvd-content-into-h264/"><u>Maintain Excellent Clarity When Transforming DVD Content Into H.264</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/mohu-blade-tv-antenna-overview-exceptional-quality-modern-aesthetics-and-strong-in-home-reception-capabilities/"><u>Mohu Blade TV Antenna Overview: Exceptional Quality, Modern Aesthetics, and Strong In-Home Reception Capabilities</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-graphics-issues-in-red-dead-redemption-2-with-errgfxstate-errors/"><u>Resolving Graphics Issues in Red Dead Redemption 2 with ERR_GFX_STATE Errors</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionizing-personal-gadgets-6-ways-chatgpt-is-shaping-the-future-of-smartwatches/"><u>Revolutionizing Personal Gadgets: 6 Ways ChatGPT Is Shaping the Future of Smartwatches</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-activating-wi-fi-voice-calls-on-your-android-device/"><u>Step-by-Step Guide: Activating Wi-Fi Voice Calls on Your Android Device</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/streamline-your-day-discover-9-ways-chatgpt-enhances-daily-living/"><u>Streamline Your Day: Discover 9 Ways ChatGPT Enhances Daily Living</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-gpts-blindspot-the-reason-behind-its-inability-to-recognize-its-own-output/"><u>Understanding GPT's Blindspot: The Reason Behind Its Inability to Recognize Its Own Output</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-champion-top-titles-best-free-video-caption-grabs/"><u>[New] Champion Top Titles Best Free Video Caption Grabs</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-mastering-telegram-a-step-by-step-walkthrough/"><u>[New] Mastering Telegram A Step-By-Step Walkthrough</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-perfect-your-iphone-writings-and-movies-with-optimal-tools/"><u>[New] Perfect Your iPhone' Writings & Movies With Optimal Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/44cm44kv44oq44od44ox44ki44km44oi5oqa6kgt77ya6auy5zob6loq44gr44ot44oh44kq44ks5yaz55yf44g444go5asj44gi44kl5pa55rov44cn/"><u>「クリップアウト技術：高品質にビデオを写真へと変える方法」</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/202n4windows5/"><u>最新の202n4技術で、Windows上で効果的に音声をキャプチャする方法トップ5</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effortless-site-navigation-enhance-user-experience-with-easy-access-to-top-and-social-media-platforms/"><u>Effortless Site Navigation: Enhance User Experience with Easy Access to Top and Social Media Platforms</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/explore-top-10-free-video-calls-highest-rated-and-easy-to-use/"><u>Explore Top 10 Free Video Calls - Highest Rated & Easy to Use</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-phantom-cursor-on-windows-11-a-step-by-step-solution-for-users/"><u>Fixing the Phantom Cursor on Windows 11: A Step-by-Step Solution for Users</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/sound-capture-module-for-iphone-24-year/"><u>Sound Capture Module for iPhone '24 Year</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/44k544or44kk44oi44op44kk44ov44gu5puy44gl44kj44gk5rcx44gr5ywl44kk44ks5yplusw5b6x44gx44cb5pc65biv6zu76kmx44gu6yca55plusl6zplusz44go44gx44gm6kit5a6a44gz44kl5pa27/"><u>スパイトライフの曲からお気に入りを取得し、携帯電話の通知音として設定する方法</u></a></li>
 </ul></div>
 

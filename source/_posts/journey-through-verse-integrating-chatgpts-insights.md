@@ -1,7 +1,7 @@
 ---
 title: "Journey Through Verse: Integrating ChatGPT's Insights"
-date: 2024-09-11T18:22:04.201Z
-updated: 2024-09-12T18:22:04.201Z
+date: 2024-09-15T01:27:57.484Z
+updated: 2024-09-17T20:29:56.760Z
 tags:
   - chatgpt
   - open-ai
@@ -24,29 +24,9 @@ thumbnail: https://thmb.techidaily.com/c3853b005ad6636456539b898eb59cf75f875d556
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Should You Be Polite to AI like ChatGPT, Alexa, and Siri?
 
 ![OpenAI's Official website to access ChatGPT playground](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  It doesn't make a difference if you're polite to AI. This is because AI like ChatGPT, Alexa, or Siri cannot process emotions like humans, and it won't be offended if you're not polite.
 
@@ -58,36 +38,15 @@ thumbnail: https://thmb.techidaily.com/c3853b005ad6636456539b898eb59cf75f875d556
 
  For instance, if you use derogatory words when addressing[Microsoft's GPT-powered Bing AI](https://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/) , it will respond by saying, "I'm sorry, but I don't appreciate being spoken to that way." Similarly, ChatGPT will tell you to "refrain from using offensive language" because it's against its content policy or that it's "sorry to hear you're upset" but that "as an AI language model, it doesn't have feelings or emotions."
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Should You Teach Children to Be Polite Using AI?
 
 ![child looking at laptop headphones studying](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/sites-teach-children-online-safety-featured.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  A few tech companies have AI products that encourage kids to be polite. A good example is Amazon's[Echo Dot Kids Edition](https://www.makeuseof.com/is-echo-dot-kids-edition-worth-buying/) , which includes a**Magic Word** feature to persuade children to be polite. In 2018, Google also introduced the[Pretty Please feature in Google Assistant](https://www.makeuseof.com/tag/new-google-assistant-features-holidays/) that could return the favor if you say "thank you" or "please."
 
  Of course, by using AI to reward children when they say "please" or "thank you," you could condition your children to be more polite when interacting with humans. Shouting at and being abusive to your AI probably delivers a poor lesson in communication, whether the ChatGPT or Alexa has feelings or not.
 
  However, there is a possibility that children could think that AI has feelings just like humans if you reinforce politeness when they're talking to AI.
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Can AI Be Rude to You?
 
@@ -102,10 +61,10 @@ thumbnail: https://thmb.techidaily.com/c3853b005ad6636456539b898eb59cf75f875d556
  On the other hand, you can[set up Alexa to swear](https://www.makeuseof.com/how-to-make-alexa-swear/) profanities if you want it to be rude.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Interact With AI How You Want
@@ -129,15 +88,21 @@ thumbnail: https://thmb.techidaily.com/c3853b005ad6636456539b898eb59cf75f875d556
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-innovative-ways-to-log-ps3-competitive-sessions/"><u>[New] In 2024, Innovative Ways to Log PS3 Competitive Sessions</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-vrecorder-integration-from-download-to-deployment-for-2024/"><u>[New] VRecorder Integration From Download to Deployment for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/battle-of-ai-giants-choosing-between-googles-bard-and-microsofts-bing-chat/"><u>Battle of AI Giants: Choosing Between Google's Bard and Microsoft's Bing Chat</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-unleashed-the-compelling-benefits-of-its-desktop-edition-over-the-online-platform/"><u>ChatGPT Unleashed: The Compelling Benefits of Its Desktop Edition Over the Online Platform</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-10-awesome-ideas-for-igtv-videos-brands-shouldnt-miss-out-on/"><u>In 2024, 10 Awesome Ideas for IGTV Videos Brands Shouldn't Miss Out On</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-poco-x5-pro-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Poco X5 Pro to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/key-steps-in-manipulating-song-pace-in-spotify-app-for-2024/"><u>Key Steps in Manipulating Song Pace in Spotify App for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/pcs-best-of-breed-ps1-emulation-titles/"><u>PC's Best of Breed PS1 Emulation Titles</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/understanding-virtual-realitys-basic-words/"><u>Understanding Virtual Reality's Basic Words</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-ai-potential-9-must-learn-tools-for-starters/"><u>Unlocking AI Potential: 9 Must-Learn Tools for Starters</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-digital-decor-best-platforms-and-software-for-photo-frameups/"><u>[Updated] In 2024, Digital Decor Best Platforms & Software for Photo Frameups</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-intense-immersion-with-closest-viewing-techniques-in-roblox/"><u>2024 Approved Intense Immersion with Closest Viewing Techniques in Roblox</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-service-is-not-running-error-in-diagnostic-services/"><u>Fixing the 'Service Is Not Running' Error in Diagnostic Services</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-samsung-galaxy-a15-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-samsung-galaxy-a54-5g-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from Samsung Galaxy A54 5G.</u></a></li>
+<li><a href="https://solve-help.techidaily.com/immediate-guide-how-to-remove-drm-from-e-books-today/"><u>Immediate Guide: How to Remove DRM From E-Books Today!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-poco-m6-5g-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Poco M6 5G to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-watching-dvds-on-your-toshiba-notebook/"><u>Step-by-Step Guide: Watching DVDs on Your Toshiba Notebook</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/stylish-and-powerful-asus-combines-next-gen-intelamd-cpus-in-the-zenbook-s-and-tuf-a14/"><u>Stylish & Powerful: Asus Combines Next-Gen Intel/AMD CPUs in the Zenbook S & TUF A14</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/successful-steps-for-watching-japanese-movies-on-dvd-in-the-us-without-owning-a-region-code-player/"><u>Successful Steps for Watching Japanese Movies on DVD in the US Without Owning a Region Code Player</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-list-of-mp4-combiner-software-discover-the-best-including-gratis-solutions/"><u>The Ultimate List of MP4 Combiner Software: Discover the BEST, Including Gratis Solutions!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-guide-seamless-splitting-of-4k-footage-without-sacrificing-video-quality/"><u>Ultimate Guide: Seamless Splitting of 4K Footage without Sacrificing Video Quality</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-secrets-of-divx-files-tips-for-conversion-and-compatibility/"><u>Unveiling the Secrets of DivX Files: Tips for Conversion and Compatibility</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/updated-list-top-15-no-cost-dvd-duplication-programs-compared-and-ranked/"><u>Updated List : Top 15 No-Cost DVD Duplication Programs Compared and Ranked</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/windows-11gif3/"><u>Windows 11を使って素早く美しいGIFを生成する上位3手法</u></a></li>
 </ul></div>
 

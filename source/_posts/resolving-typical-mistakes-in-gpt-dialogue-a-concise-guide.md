@@ -1,7 +1,7 @@
 ---
 title: "Resolving Typical Mistakes in GPT Dialogue: A Concise Guide"
-date: 2024-09-11T18:19:35.527Z
-updated: 2024-09-12T18:19:35.527Z
+date: 2024-09-17T00:04:45.611Z
+updated: 2024-09-17T22:41:48.325Z
 tags:
   - chatgpt
   - open-ai
@@ -20,13 +20,6 @@ thumbnail: https://thmb.techidaily.com/85e59c055b67b955137888fcf7f73876f5aa86545
  For this week's show, we asked ChatGPT to help out with outlining and even writing the show. Here's a bit more information on[how we used ChatGPT to script the podcast](https://www.makeuseof.com/i-used-chatgpt-to-script-a-podcast-heres-what-happened/) .
 
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Shownotes
 
@@ -66,18 +59,25 @@ We finish the show with the following recommendations:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-the-artisans-approach-integrating-typefaces-in-ae/"><u>[Updated] The Artisan's Approach Integrating Typefaces in AE</u></a></li>
-<li><a href="https://extra-information.techidaily.com/10-mp4-players-you-cant-miss-for-2024/"><u>10 MP4 Players You Can't Miss for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/best-practices-to-keep-your-information-safe-while-utilizing-chatgpt-at-work/"><u>Best Practices to Keep Your Information Safe While Utilizing ChatGPT at Work</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/conversational-leap-forward-chatgpts-new-voice-capability-unveiled-by-openai/"><u>Conversational Leap Forward: ChatGPT's New Voice Capability Unveiled by OpenAI</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/dimensional-doors-top-10-sci-fi-films-that-open-new-worlds/"><u>Dimensional Doors Top 10 Sci-Fi Films that Open New Worlds</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/experience-luxury-mobility-with-the-glion-dolly-electric-scooter-review-excellence-meets-expense/"><u>Experience Luxury Mobility with the Glion Dolly Electric Scooter Review – Excellence Meets Expense</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-oneplus-ace-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on OnePlus Ace 2 | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-xiaomi-redmi-a2-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Xiaomi Redmi A2 Phone When You Forget the Password</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Xiaomi Redmi K70E | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/inside-the-legal-dispute-why-prominent-figures-including-sarah-silverman-are-suing-tech-giants-for-ai-practices/"><u>Inside the Legal Dispute: Why Prominent Figures Including Sarah Silverman Are Suing Tech Giants for AI Practices</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-htc-u23-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your HTC U23 Device</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transform-your-teaching-discover-why-educators-should-welcome-ai-the-top-8-advantages-explained/"><u>Transform Your Teaching: Discover Why Educators Should Welcome AI – The Top 8 Advantages Explained</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/wondrous-revelation-chat-with-the-ai-gpt-master/"><u>Wondrous Revelation: Chat with the AI GPT Master</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-cutting-edge-converter-elevate-your-screen-viewing/"><u>[New] 2024 Approved Cutting Edge Converter Elevate Your Screen Viewing</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-instant-upload-tiktok-vids-to-your-fb-page-easily-for-2024/"><u>[New] Instant Upload TikTok Vids to Your FB Page Easily for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-channel-prodigy-skyrocketing-with-content-innovation-for-2024/"><u>[Updated] Channel Prodigy Skyrocketing with Content Innovation for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-virtual-playstation-revival-on-android-try-the-5-best-emulators-here/"><u>[Updated] Virtual PlayStation Revival on Android? Try the 5 Best Emulators Here</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beyond-talk-revolutionizing-generative-tech/"><u>Beyond Talk: Revolutionizing Generative Tech</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/differences-between-copilot-basic-and-premium-versions-to-upgrade-or-not-to-upgrade/"><u>Differences Between Copilot Basic & Premium Versions: To Upgrade or Not to Upgrade?</u></a></li>
+<li><a href="https://driver-download.techidaily.com/downloadable-pci-interface-drivers-compatible-with-windows-111087/"><u>Downloadable PCI Interface Drivers Compatible with Windows 11/10/8/7</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-installation-guide-for-your-csr-bluetooth-peripherals/"><u>Easy Installation Guide for Your CSR Bluetooth Peripherals</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-cost-free-ai-companions-similar-to-sora/"><u>Exploring Cost-Free, AI Companions Similar to Sora</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-visual-potential-of-chatgpt-with-8-unique-and-practical-ideas/"><u>Exploring the Visual Potential of ChatGPT with 8 Unique and Practical Ideas</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-meizu-21-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Meizu 21</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-apple-iphone-12-mini-location-by-mobile-number-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 6 Apps/Services to Trace Any Apple iPhone 12 mini Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

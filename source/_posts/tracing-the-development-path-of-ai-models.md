@@ -1,7 +1,7 @@
 ---
 title: Tracing the Development Path of AI Models
-date: 2024-09-11T18:21:34.794Z
-updated: 2024-09-12T18:21:34.794Z
+date: 2024-09-16T18:15:36.925Z
+updated: 2024-09-17T16:42:29.766Z
 tags:
   - chatgpt
   - open-ai
@@ -24,13 +24,6 @@ thumbnail: https://thmb.techidaily.com/c856d755f3f7d2c0f103fd6d2cd384857bef4cae5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Is OpenAI's Bug Bounty Program?
 
 [OpenAI announced](https://openai.com/blog/bug-bounty-program) its Bug Bounty Program to incentivize those using their applications, such as ChatGPT and DALL-E, to create secure, advanced, and globally beneficial AI systems.
@@ -45,13 +38,6 @@ thumbnail: https://thmb.techidaily.com/c856d755f3f7d2c0f103fd6d2cd384857bef4cae5
 
  This[bug bounty program](https://www.makeuseof.com/bug-bounty-programs/) covers vulnerabilities in all OpenAI systems, including API targets and keys, ChatGPT, and the research organization. However, the initiative does not cover safety issues with OpenAI's model, including safety bypasses and getting the model to create malicious code. In addition, the firm will not be rewarding issues related to model prompt content or responses and[AI hallucinations](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/) . You may report these to[OpenAI's team](https://openai.com/form/model-behavior-feedback) for model behavior feedback.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How Much Can You Earn From OpenAI's Bug Bounty Program?
 
  OpenAI determines the cash rewards to be paid based on how severe and impactful the discovered bug is. Typically, the reward ranges from $200 to $6,500 per vulnerability but can be higher if your findings are exceptional and of great consequence.
@@ -62,36 +48,15 @@ The maximum reward you can earn is $20,000.
 
  Additionally, the AI research company will not reimburse you for any purchases or upgrades you make when identifying or testing for bugs.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Participate in OpenAI's Bug Bounty Program
 
  Since Bugcrowd facilitates this bug bounty program, you must create a Bugcrowd account to participate. OpenAI even suggests you carry out authorized additional testing using an "@bugcrowdninja.com" email address.
 
 ![Bugcrowd log in page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bugcrowd-log-in-page.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  With a Bugcrowd account, you can click the "Submit Report" tab on the[Bugcrowd OpenAI program page](https://bugcrowd.com/openai) to report vulnerabilities. This will lead you to the submissions page.
 
 ![OpenAI Bug Bounty Submissions Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/openai-bug-bounty-submissions-page.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Here, you must fill in the following information:
 
@@ -107,14 +72,14 @@ Here, you must fill in the following information:
 
 ![Submit OpenAI Bug Bounty Form](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/submit-openai-bug-bounty-form.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Note that you are not to submit API keys to Bugcrowd. You must only submit keys you find online through the[OpenAI API key form](https://forms.gle/h8bQ5YKWzXb8FtrQ8) .
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Which Vulnerabilities Are Eligible for Rewards?
 
@@ -123,6 +88,13 @@ Here, you must fill in the following information:
  These include server-side injection, server security misconfiguration,[cross-site scripting](https://www.makeuseof.com/tag/crosssite-scripting-xss-security-threat/) (XSS), insecure OS/firmware, insecure data storage,[cross-site request forgery](https://www.makeuseof.com/what-are-csrf-attacks-and-how-can-you-prevent-them/) (CSRF), and broken authentication and session management.
 
  All the vulnerabilities must be in OpenAI's system, exploitable, and novel.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Earn Money While Improving OpenAI's Systems
 
@@ -145,19 +117,18 @@ Here, you must fill in the following information:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-channel-conclusion-mastery-customized-screens-in-focus/"><u>[New] 2024 Approved Channel Conclusion Mastery Customized Screens in Focus</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-capturing-adrenaline-with-the-latest-yi-technology-for-2024/"><u>[New] Capturing Adrenaline with the Latest Yi Technology for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-saving-the-essence-a-guide-for-virtual-meeting-records/"><u>[New] In 2024, Saving the Essence A Guide for Virtual Meeting Records</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-directing-emotions-choosing-sound-for-film-teasers/"><u>2024 Approved Directing Emotions Choosing Sound for Film Teasers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/behind-the-algorithmic-curtain-how-do-ai-black-boxes-work/"><u>Behind the Algorithmic Curtain: How Do AI Black Boxes Work?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-googles-palm-prise-the-enhanced-large-scale-linguistic-model/"><u>Exploring Google’s PaLM Prise, the Enhanced Large-Scale Linguistic Model</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/fixing-missing-advrcntr2dll-errors-in-nero-program-easily-and-effectively/"><u>Fixing Missing advrcntr2.dll Errors in Nero Program Easily and Effectively</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-optimize-frame-rates-for-maximum-gameplay-immersion/"><u>In 2024, Optimize Frame Rates for Maximum Gameplay Immersion</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-in-2024-what-is-ai-advertising/"><u>New In 2024, What Is AI Advertising?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/protecting-your-digital-fortresses-could-cybercriminals-exploit-chatgpt-for-attacks/"><u>Protecting Your Digital Fortresses: Could Cybercriminals Exploit ChatGPT for Attacks?</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-no-device-drivers-detected-error-during-windows-7-setup/"><u>Resolving 'No Device Drivers Detected' Error During Windows 7 Setup</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/safeguarding-against-chatgpt-scam-domains-detection-and-response-tactics/"><u>Safeguarding Against ChatGPT Scam Domains: Detection and Response Tactics</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-openais-security-challenge-learn-how-to-contribute-and-earn-rewards/"><u>Unveiling OpenAI's Security Challenge - Learn How to Contribute and Earn Rewards</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/will-advanced-language-models-like-chatgpt-disrupt-current-search-engine-giants/"><u>Will Advanced Language Models Like ChatGPT Disrupt Current Search Engine Giants?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-advanced-mp4-encoder-for-social-sharing/"><u>[New] 2024 Approved Advanced MP4 Encoder for Social Sharing</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-elevating-video-popularity-on-youtube/"><u>[New] Elevating Video Popularity on YouTube</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/2023-dvd-css/"><u>2023年度適用: 迅速なDVD CSS解除手法ガイド</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/5yq55p6c55qe44gq5oml44ow44os44o844kr44o844gu44ot44oh44kq5zyn57iu44og44kv44ol44od44kv77ya44k544ob44ol44ov44o844oj44k344kn44ki44cn/"><u>効果的な手ブレーカーのビデオ圧縮テクニック：スチュワードシェア」</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/20243/"><u>新入学生に最適! 2024年専用で人気のある無料ミュージックエディターアプリベスト3選</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bbc-sound-capture-tutorial-transforming-broadcasts-into-mp3-format-with-five-easy-steps/"><u>BBC Sound Capture Tutorial: Transforming Broadcasts Into MP3 Format with Five Easy Steps</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-realme-c51-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Realme C51?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-nubia-red-magic-8s-proplus-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/keeping-your-gopro-fogless-for-perfection-for-2024/"><u>Keeping Your GoPro Fogless for Perfection for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-free-avi-video-rotation-software-top-picks-for-2024/"><u>New Free AVI Video Rotation Software Top Picks for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-chords-long-stories-musical-roles-played-for-2024/"><u>Short Chords, Long Stories Musical Roles Played for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726029346129-pc3/"><u>アクティブライフスタイルとしてのPCゲーム動画撮影：3つの効果的な方法</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/44ov44kh44oz44k244gn44gk6kal44gb44gf5yuv55s744ks5a6j5ywo44gr6kiy6yyy44o75lplusd566h44gz44kl5oml5byv44gn/"><u>ファンザでお見せた動画を安全に記録・保管する手引き</u></a></li>
 </ul></div>
 

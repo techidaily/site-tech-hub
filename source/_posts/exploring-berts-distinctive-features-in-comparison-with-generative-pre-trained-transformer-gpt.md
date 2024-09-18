@@ -1,7 +1,7 @@
 ---
 title: Exploring BERT's Distinctive Features in Comparison with Generative Pre-Trained Transformer (GPT)
-date: 2024-09-11T18:21:02.932Z
-updated: 2024-09-12T18:21:02.932Z
+date: 2024-09-15T19:37:38.545Z
+updated: 2024-09-18T00:59:09.362Z
 tags:
   - chatgpt
   - open-ai
@@ -38,13 +38,6 @@ thumbnail: https://thmb.techidaily.com/5a73949d0daa87913e6d1945410f959f7280334c9
 
 ![Rytr](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/rytr.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you’re a beginner fiction writer or looking for a new story AI generator on a budget, this one is for you.[Rytr](https://rytr.me/) doesn’t come with many bells and whistles, but it gets the job done.
 
  It lets you pick from numerous tones, such as**awestruck** or**critical** , and can provide up to three variants. There are several use cases to help optimize the text, but for the fiction writer, the best one is the**Story Plot** .
@@ -57,29 +50,9 @@ thumbnail: https://thmb.techidaily.com/5a73949d0daa87913e6d1945410f959f7280334c9
 
 **Cost:** Free for 10,000 characters per month. $9 per month for 100,000 characters and $29 per month for unlimited use.
 
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. ShortlyAI
 
 ![ShortlyAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/shortlyai.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [ShortlyAI](https://www.shortlyai.com/) is another tool without too many features. However, this one is focused on either blog posts or story writing, which makes it much more specialized.
 
@@ -91,15 +64,22 @@ thumbnail: https://thmb.techidaily.com/5a73949d0daa87913e6d1945410f959f7280334c9
 
 **Cost:** $79 per month for unlimited use. However, if you want to try it out, you can sign up without a credit card—and you get four clicks a day.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. DeepStory
 
 ![DeepStoryAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/deepstoryai.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The next on the list,[DeepStory](https://deepstory.ai/) , is a specialized AI script generator. Not only will it help you get unstuck if you’re experiencing writer's block, but it also generates content in precise script form. This can be extremely useful if you are starting out in this field and still struggling with the structure.
@@ -107,13 +87,6 @@ thumbnail: https://thmb.techidaily.com/5a73949d0daa87913e6d1945410f959f7280334c9
  You can start your own script from scratch, where the AI helps you add in dialogs, actions, character notes, and more. But the even better option for beginners is to use one of its samples. They have anything, from Lord of the Rings to Kill Bill and the Exorcist. It is an amazing educational tool.
 
 **Cost:** $12 per month, with a limit of 10,000 words. You can also try it out for free for 10 generations.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. NovelAI
 
@@ -128,13 +101,6 @@ thumbnail: https://thmb.techidaily.com/5a73949d0daa87913e6d1945410f959f7280334c9
  But the most fun part of this software is the**Adventure Text Module** . With this feature, writing becomes almost like a game. Instead of just writing a prompt, you can instruct the software that the prompt is either**Do, Say, or Story** . It feels like a “build your own adventure” book, where everything is written in real-time.
 
 **Cost:** $10/$15/$25 per month. All of these give you unlimited text generations but offer other advanced and experimental features. You can try it for free for 100 text generations.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Leave the Writer’s Block Behind With These AI Story Generators
 
@@ -157,18 +123,20 @@ thumbnail: https://thmb.techidaily.com/5a73949d0daa87913e6d1945410f959f7280334c9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-free-form-funny-meme-tools-on-a-shoestring-budget/"><u>[New] Free-Form Funny Meme Tools on a Shoestring Budget</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-praise-in-pixels-the-new-marketing-trend/"><u>[New] Praise in Pixels The New Marketing Trend</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-your-path-to-perfect-captures-the-complete-guide-to-netflix-on-mac/"><u>[New] Your Path to Perfect Captures The Complete Guide to Netflix on Mac</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Oppo A79 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-the-5-key-ai-technologies-for-todays-business-owners/"><u>Discover the 5 Key AI Technologies for Today's Business Owners</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/elevating-experience-why-the-chatgpt-app-triumphs-over-its-web-counterpart/"><u>Elevating Experience: Why the ChatGPT App Triumphs Over Its Web Counterpart</u></a></li>
-<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-from-apple-iphone-13-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email From Apple iPhone 13? Heres the Best Fixes</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/getting-started-with-chatgpt-a-guide-to-registering-and-using-new-plugin-options/"><u>Getting Started with ChatGPT: A Guide to Registering and Using New Plugin Options</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/harnessing-chatgpts-power-to-transform-remote-job-opportunities/"><u>Harnessing ChatGPT's Power to Transform Remote Job Opportunities</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-legitimate-protocols-for-achieving-over-a-million-viewership/"><u>In 2024, Legitimate Protocols for Achieving Over a Million Viewership</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-nutritional-planning-a-step-by-step-guide-with-chatgpt/"><u>Mastering Nutritional Planning: A Step-by-Step Guide with ChatGPT</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-top-pick-for-new-dronists-a-deep-look-at-syma-x5c/"><u>The Top Pick for New Dronists – A Deep Look at Syma X5C</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-9-infinix-note-30-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Infinix Note 30 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-essence-extractor-capturing-and-saving-the-soul-of-twitter-gifs/"><u>[New] 2024 Approved Essence Extractor Capturing & Saving the Soul of Twitter GIFs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726030061487-dvdusb/"><u>「DVDをコピーする自由な方法：USBメモリに簡単移したい？ここでお得なソフトウェア選び術」</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/44cm44kk44oz44k44o844on44od44oi55wq57we6yyy55s744og44kv44ol44od44kv44go6kop44ov44k244cn/"><u>「インターネット番組録画テクニックと裏ワザ」</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-from-virality-to-value-gauge-your-content-against-competing-craftsmen/"><u>2024 Approved From Virality to Value Gauge Your Content Against Competing Craftsmen</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/2024facebook4/"><u>2024年のトップ！Facebook動画を安全に保管する秘訣：ベスト4ピック</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/3mxfavidavi/"><u>3効果的な手順でMXFファイルをAvid環境用AVIへの変換</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726028286638-dvd/"><u>懐かしいディスクのトラブルシューティング: DVDや古いビデオが再生不能になったときの解決策</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adapting-oculus-quest-2-for-windows-vr-software/"><u>Adapting Oculus Quest 2 for Windows VR Software</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/como-convertirte-rapidamente-tu-audio-wav-al-formato-wma-gratis-usando-la-herramienta-en-linea-de-movavi/"><u>Cómo Convertirte Rápidamente Tu Audio WAV Al Formato WMA Gratis Usando La Herramienta en Línea De Movavi</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-tecno-spark-go-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Tecno Spark Go (2023) | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-removing-unseen-frames-from-video-recordings/"><u>In 2024, Removing Unseen Frames From Video Recordings</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726030405738-mp4/"><u>MP4ファイルの再生修正：テレビに適したプレイヤー設定をご紹介</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726028177620-ogg/"><u>Ogg音楽ファイルのプレイバック手順とトラブルシューティング</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/online-workshop-replay/"><u>Online Workshop Replay</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-eu-ai-directive-effects-on-gpt-like-models/"><u>The EU AI Directive: Effects on GPT-Like Models</u></a></li>
 </ul></div>
 

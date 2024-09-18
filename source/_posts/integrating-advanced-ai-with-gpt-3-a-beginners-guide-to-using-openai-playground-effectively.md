@@ -1,7 +1,7 @@
 ---
 title: Integrating Advanced AI with GPT-3 - A Beginner's Guide to Using OpenAI Playground Effectively
-date: 2024-09-11T18:22:40.664Z
-updated: 2024-09-12T18:22:40.664Z
+date: 2024-09-11T23:57:57.874Z
+updated: 2024-09-17T22:18:52.785Z
 tags:
   - chatgpt
   - open-ai
@@ -27,19 +27,6 @@ thumbnail: https://thmb.techidaily.com/15566fd0d6cad9f26c793e08c16498fac2c5b4803
 ## 1\. Create Random Encounters While Players Are Traveling
 
 ![A blue and yellow D20 di](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/blue-dice.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Whether you're strictly following a scripted adventure or mostly just going with the flow, ChatGPT can make it easy to add random encounters to your campaign. This is especially useful for when your players are traveling. It's also a great addition for anyone learning[how to play Dungeons & Dragons online](https://www.makeuseof.com/how-to-play-dungeons-dragons-online/) .
 
@@ -67,13 +54,6 @@ Here's a pretty great prompt for generating NPCs:
 
 ![Prompt for generating an NPC description in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/generate-description.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Here's how you can prompt dialogue from players to interact with characters created in ChatGPT:
 
 * One of the players asks the innkeeper: "Have you heard any interesting news lately?"
@@ -81,13 +61,6 @@ Here's a pretty great prompt for generating NPCs:
 ![Prompt for dialogue with NPC innkeeper in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/dialogue-with-npc.jpg)
 
  Of course, you can swap out multiple variables in each prompt to adjust them to your campaign and situation. For extra flair, you can[use ChatGPT and DALL-E to generate images of characters](https://www.makeuseof.com/how-to-use-chatgpt-and-dall-e-to-create-characters-for-dungeons-and-dragons/) .
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Filler Content in a Pinch: When Players Deviate From the Story
 
@@ -99,13 +72,6 @@ Here's one example of a prompt that can work:
 
 ![Prompt in ChatGPT for D&D when players deviate from story](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/players-deviate-from-campaign.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Here, ChatGPT automatically generated an easy-to-understand environment, an NPC with a name, and a quest to boot. All of this within seconds. The next time your party surprises you by taking a new direction, ChatGPT has you covered.
 
 ## 4\. ChatGPT Can Assist in Map Creation
@@ -115,6 +81,13 @@ Here's one example of a prompt that can work:
  First, you can use it to create art prompts for Midjourney, which would then design your map idea for you. Typically, you'll have to add the grid afterwards.
 
  Alternatively, you can use ChatGPT for map creation by prompting for ideas. You can provide the basics of your idea for a foundation, and ChatGPT will provide you with and elaborate on the details.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Keep Track of the Game State
 
@@ -126,19 +99,6 @@ Here's one example of a prompt that can work:
 
  If you're not too happy with the answers from this prompt, there are a few[ways to write effective ChatGPT prompts](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/) that you might consider implementing. A cheat sheet can really help you tweak prompts to better fit the context of your campaign.
 
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Provide Guidance and Feedback for New DMs
 
  Guidance and feedback from ChatGPT can take place in or outside a session. During a session, you can use ChatGPT to quickly double-check rules and look up information regarding classes, races, abilities, items, and more. It's also a definite lifesaver in complicated battle scenarios.
@@ -146,16 +106,10 @@ Here's one example of a prompt that can work:
  For new DMs, though, it's a great way to get some feedback on ideas and session summaries. For the prompt, you can write out a summary of what happened, and ask if the events that took place made sense, followed the rules, and if there's anything that could have been done better.
 
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Improve Your D&D Experience With ChatGPT
@@ -179,16 +133,21 @@ Here's one example of a prompt that can work:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-unveiling-the-ideal-video-sizes-for-instagram-success/"><u>[New] 2024 Approved Unveiling the Ideal Video Sizes for Instagram Success</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-crafting-stories-essential-tips-for-youtube-video-editors/"><u>[Updated] 2024 Approved Crafting Stories Essential Tips for YouTube Video Editors</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-download-fb-content-windows-and-mac-guide/"><u>[Updated] 2024 Approved Download FB Content Windows & Mac Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatbot-insights-vs-starry-signs-is-ai-outshining-astrology-for-future-predictions/"><u>Chatbot Insights Vs. Starry Signs: Is AI Outshining Astrology for Future Predictions?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-plus-subscription-benefits-is-it-worth-your-money/"><u>ChatGPT Plus Subscription Benefits – Is It Worth Your Money?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/codegpt-uncovered-can-it-truly-compose-code/"><u>CodeGPT Uncovered: Can It Truly Compose Code?</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-lava-yuva-3-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Lava Yuva 3 Pro without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-crafting-the-ideal-voice-over-soundtrack/"><u>In 2024, Crafting the Ideal Voice Over Soundtrack</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-the-art-of-navigating-telegram-web-applications/"><u>In 2024, Mastering the Art of Navigating Telegram Web Applications</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/mastering-massive-igtv-audience-engagement-essential-steps-for-2024/"><u>Mastering Massive IGTV Audience Engagement Essential Steps for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transformative-use-of-chatgpts-my-bots-for-games-visual-arts/"><u>Transformative Use of ChatGPT's My Bots for Games, Visual Arts</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-skype-to-mp3-capturing-calls-at-no-charge/"><u>[New] 2024 Approved Skype to MP3 Capturing Calls at No Charge</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-efficient-methods-for-sharing-powerful-ppt-in-google-meet-sessions-for-2024/"><u>[New] Efficient Methods for Sharing Powerful PPT in Google Meet Sessions for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-instagram-video-lifeline-downloading-made-simple-pcmac-for-2024/"><u>[New] Instagram Video Lifeline Downloading Made Simple (PC/Mac) for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-spotlight-on-stories-crafting-three-effective-highlights/"><u>[Updated] In 2024, Spotlight on Stories Crafting Three Effective Highlights</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-samsung-galaxy-m14-5g-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Samsung Galaxy M14 5G</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fix-windows-10-unrecognized-usb-drives-complete-solution/"><u>Fix: Windows 10 Unrecognized USB Drives - Complete Solution</u></a></li>
+<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-motorola-edge-40-pro-frp-by-drfone-android/"><u>Full Guide to Bypass Motorola Edge 40 Pro FRP</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-stopcapture-screen-freeze-assist/"><u>In 2024, StopCapture Screen Freeze Assist</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-guide-quick-and-painless-dvd-to-m4v-file-conversion-techniques/"><u>The Ultimate Guide: Quick and Painless DVD-to-M4V File Conversion Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-list-of-8-free-software-options-for-separating-audio-tracks-from-video-files/"><u>The Ultimate List of 8 Free Software Options for Separating Audio Tracks From Video Files</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-video-enhancer-apps-for-youtube-content-creators-elevate-your-videography-today/"><u>Top-Rated Video Enhancer Apps for YouTube Content Creators: Elevate Your Videography Today!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/torrent-security-uncovered-comprehensive-guide-and-safety-tips/"><u>Torrent Security Uncovered: Comprehensive Guide & Safety Tips</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/trimming-down-m4v-file-sizes-efficiently-using-windows-macos-or-web-services/"><u>Trimming Down M4V File Sizes Efficiently Using Windows, MacOS or Web Services</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-best-free-avi-video-joiners-top-10-picks-for-seamless-merging/"><u>Updated 2024 Approved Best Free AVI Video Joiners Top 10 Picks for Seamless Merging</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/webamp3/"><u>WEBAからMP3へ:高速変換ガイドと最新ツール</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/windows-11-wav/"><u>Windows 11との互換性: WAV形式で音声録音手順</u></a></li>
 </ul></div>
 

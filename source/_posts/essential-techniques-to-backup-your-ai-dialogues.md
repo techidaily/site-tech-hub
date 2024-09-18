@@ -1,7 +1,7 @@
 ---
 title: Essential Techniques to Backup Your AI Dialogues
-date: 2024-09-11T18:24:05.068Z
-updated: 2024-09-12T18:24:05.068Z
+date: 2024-09-11T16:17:01.924Z
+updated: 2024-09-17T16:15:57.899Z
 tags:
   - chatgpt
   - open-ai
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/087d4c396676b014d9cc5b7a27f2781bb19d17612
 
  The cybercriminals used a Facebook page impersonating OpenAI, complete with official ChatGPT logos, to redirect unsuspecting users to the malicious site.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. openai-pc-pro.online
 
  The experts at CRIL also discovered an unidentified malware strain being distributed through the domain “openai-pc-pro.online,” a malicious domain posing as the official ChatGPT website.
@@ -51,23 +44,9 @@ thumbnail: https://thmb.techidaily.com/087d4c396676b014d9cc5b7a27f2781bb19d17612
 
  The suspicious domain directs users to a fake OpenAI website resembling the official one. The site features a “DOWNLOAD FOR WINDOWS” button, which, when clicked, downloads an executable file containing data-stealing malware.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. chat-gpt-pc.online
 
  ChatGPT AI, the fake ChatGPT Facebook page, also features posts that include links to “chat-gpt-pc.online,” another domain that redirects users to a malicious ChatGPT-themed website.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. chatgpt-go.online
 
@@ -79,6 +58,13 @@ thumbnail: https://thmb.techidaily.com/087d4c396676b014d9cc5b7a27f2781bb19d17612
 
  Cybercriminals also use ChatGPT-themed payment pages for financial fraud. For example, on the domain “pay.chatgptftw.com,” Cyble came across a page designed to steal credit card details. This webpage poses as a genuine payment page for ChatGPT Plus.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. ChatGPT1
 
  The Cyble report highlights another malware app that uses the ChatGPT icon. The malicious app, “ChatGPT1,” is an SMS billing fraud app downloaded as chatGPT1.apk. It operates discreetly, subscribing users to premium services without their consent.
@@ -87,31 +73,17 @@ thumbnail: https://thmb.techidaily.com/087d4c396676b014d9cc5b7a27f2781bb19d17612
 
  “AI Photo” is another app that uses the ChatGPT icon, but is malicious in intent. This app was found to harbor the SpyNote malware, capable of stealing device files, contact lists, call logs, and text messages.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Meterpreter Posing as “SuperGPT” App
 
 ![The official SuperGPT's install page on Google Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/supergpt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  SuperGPT is an AI assistant app built on ChatGPT. However, researchers from Unit 42 uncovered a malicious APK sample posing as the app. This fake “SuperGPT” is a Meterpreter Trojan, [a RAT that enables remote access](https://www.makeuseof.com/android-remote-access-trojan/) of Android devices.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Trojan-PSW.Win64.Fobo
@@ -123,6 +95,13 @@ thumbnail: https://thmb.techidaily.com/087d4c396676b014d9cc5b7a27f2781bb19d17612
  If you click the link, you’ll be redirected to a website that prompts you to download ChatGPT for Windows. Clicking on the button will download an archive containing an executable file.
 
  Upon extracting the archive and running the file, you may or may not receive an installation failure message. In either case, the Trojan is installed.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Protect Yourself From Malicious ChatGPT-Themed Apps
 
@@ -151,15 +130,17 @@ thumbnail: https://thmb.techidaily.com/087d4c396676b014d9cc5b7a27f2781bb19d17612
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-navigating-the-new-era-top-tier-vr-exercise-machines-for-2024/"><u>[New] Navigating the New Era Top-Tier VR Exercise Machines for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-exploring-fb-video-aspect-proportions/"><u>[Updated] 2024 Approved Exploring FB Video Aspect Proportions</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-laugh-track-in-the-air-parody-anthems/"><u>[Updated] 2024 Approved Laugh Track in the Air Parody Anthems</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-screen-capturing-made-easy-best-apps-for-windows-10/"><u>2024 Approved Screen Capturing Made Easy Best Apps for Windows 10</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/buy-subscribers-wisely-watch-your-numbers-soar-in-2024/"><u>Buy Subscribers Wisely, Watch Your Numbers Soar, In 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-desktop-awaiting-explore-these-superb-free-community-driven-apps-now/"><u>ChatGPT Desktop Awaiting? Explore These Superb Free, Community-Driven Apps Now</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/expand-your-ai-horizons-an-essential-guide-on-utilizing-the-openai-platform/"><u>Expand Your AI Horizons: An Essential Guide on Utilizing the OpenAI Platform</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/maximizing-sound-output-for-your-pc-with-windows-11-easy-fixes/"><u>Maximizing Sound Output for Your PC with Windows 11 Easy Fixes</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-demise-of-chatgpt-jailbreaking-analyzing-why-these-methods-are-failing-the-7-reasons-behind-them/"><u>The Demise of ChatGPT Jailbreaking: Analyzing Why These Methods Are Failing - The 7 Reasons Behind Them</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-7-ai-prompt-platforms-for-creators/"><u>Top 7 AI Prompt Platforms for Creators</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-maximizing-accuracy-speech-to-text-via-google-translate-for-2024/"><u>[New] Maximizing Accuracy Speech to Text via Google Translate for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-vigor-in-voice-assessment-version-8/"><u>[Updated] In 2024, Vigor in Voice Assessment Version 8</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/2-how-to-save-your-favorite-tracks-from-deezer-as-high-quality-mp3-files-updated-techniques/"><u>2. How to Save Your Favorite Tracks From Deezer as High-Quality MP3 Files: Updated Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/2024winodwsm4v/"><u>2024年公開の動画をWinodws環境でM4Vフォーマットの再生方法 - 解決ステップガイド</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/5windows/"><u>5人気の無料ビデオ編集ツールでWindowsムービーメーカーの代わりに挑む</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726027394754-youtube/"><u>格安でファイルフォーマット変更 - YouTube動画保存のコツ</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/asus-atk0110-free-updated-acpi-driver-download-available-now/"><u>ASUS ATK0110: Free, Updated ACPI Driver Download Available Now</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/cross-platform-video-playback-made-easy-with-chromes-pip/"><u>Cross-Platform Video Playback Made Easy with Chrome's PIP</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/disaster-fans-rejoice-world-war-z-the-ultimate-cinematic-experience-for-zombie-enthusiasts/"><u>Disaster Fans Rejoice! World War Z – The Ultimate Cinematic Experience for Zombie Enthusiasts</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-behind-the-scenes-how-to-flip-your-snaps/"><u>In 2024, Behind-the-Scenes How to Flip Your Snaps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/photography-tutorial-how-to-shoot-and-create-impressive-hdr-portraits-for-2024/"><u>Photography Tutorial How to Shoot and Create Impressive HDR Portraits for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-rotate-avi-videos-for-free-top-16-software-for-multiple-platforms/"><u>Updated Rotate AVI Videos for Free Top 16 Software for Multiple Platforms</u></a></li>
 </ul></div>
 

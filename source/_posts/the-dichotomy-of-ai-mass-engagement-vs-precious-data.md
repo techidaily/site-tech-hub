@@ -1,7 +1,7 @@
 ---
 title: "The Dichotomy of AI: Mass Engagement Vs. Precious Data"
-date: 2024-09-11T18:24:01.145Z
-updated: 2024-09-12T18:24:01.145Z
+date: 2024-09-16T23:17:41.362Z
+updated: 2024-09-18T00:05:36.175Z
 tags:
   - chatgpt
   - open-ai
@@ -30,13 +30,6 @@ thumbnail: https://thmb.techidaily.com/b276d15100b00816b238513de19cf5dbb90f57840
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. chat-gpt-pc.online
 
  Security researchers at Cyble Research and Intelligence Labs (CRIL) uncovered cybercriminals using the domain "chat-gpt-pc.online" to attract unsuspecting users into downloading a supposed ChatGPT Windows desktop client. This client, however, contained the RedLine [info-stealing malware](https://www.makeuseof.com/what-is-an-infostealer/).
@@ -55,64 +48,50 @@ thumbnail: https://thmb.techidaily.com/b276d15100b00816b238513de19cf5dbb90f57840
 
  ChatGPT AI, the fake ChatGPT Facebook page, also features posts that include links to “chat-gpt-pc.online,” another domain that redirects users to a malicious ChatGPT-themed website.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. chatgpt-go.online
 
  The domain “chatgpt-go.online” leads users to a website that’s a clone of the official ChatGPT website. The copy-pasted site, however, swaps the “TRY CHATGPT” button link with malicious links containing Lumma Stealer. The domain also hosts different kinds of malicious files, including clipper malware and Aurora stealer.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. pay.chatgptftw.com
 
 ![pay.chatgptftw.com's payment page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pay-chatgptftw-com.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Cybercriminals also use ChatGPT-themed payment pages for financial fraud. For example, on the domain “pay.chatgptftw.com,” Cyble came across a page designed to steal credit card details. This webpage poses as a genuine payment page for ChatGPT Plus.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. ChatGPT1
 
  The Cyble report highlights another malware app that uses the ChatGPT icon. The malicious app, “ChatGPT1,” is an SMS billing fraud app downloaded as chatGPT1.apk. It operates discreetly, subscribing users to premium services without their consent.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. AI Photo
 
  “AI Photo” is another app that uses the ChatGPT icon, but is malicious in intent. This app was found to harbor the SpyNote malware, capable of stealing device files, contact lists, call logs, and text messages.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Meterpreter Posing as “SuperGPT” App
 
 ![The official SuperGPT's install page on Google Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/supergpt.jpg)
 
- SuperGPT is an AI assistant app built on ChatGPT. However, researchers from Unit 42 uncovered a malicious APK sample posing as the app. This fake “SuperGPT” is a Meterpreter Trojan, [a RAT that enables remote access](https://www.makeuseof.com/android-remote-access-trojan/) of Android devices.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ SuperGPT is an AI assistant app built on ChatGPT. However, researchers from Unit 42 uncovered a malicious APK sample posing as the app. This fake “SuperGPT” is a Meterpreter Trojan, [a RAT that enables remote access](https://www.makeuseof.com/android-remote-access-trojan/) of Android devices.
 
 ## 9\. Trojan-PSW.Win64.Fobo
 
@@ -151,20 +130,20 @@ thumbnail: https://thmb.techidaily.com/b276d15100b00816b238513de19cf5dbb90f57840
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-effortless-audio-transfer-on-iphone-pick-top-6-tools-to-convert-youtube/"><u>[New] In 2024, Effortless Audio Transfer on iPhone Pick Top 6 Tools to Convert YouTube</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-streamline-your-workflow-macos-screencast-tutorial-for-2024/"><u>[New] Streamline Your Workflow MacOS Screencast Tutorial for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-turbocharge-youtube-videos-efficient-rendering-fast-transfer/"><u>[Updated] 2024 Approved Turbocharge YouTube Videos Efficient Rendering, Fast Transfer</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-web-wonders-weekly-review/"><u>[Updated] 2024 Approved Web Wonders Weekly Review</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-securing-every-moment-tips-for-reliable-capture-of-google-meet-sessions/"><u>[Updated] Securing Every Moment Tips for Reliable Capture of Google Meet Sessions</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-visual-perfection-in-videos-implementing-black-bar-and-box-on-fb/"><u>2024 Approved Visual Perfection in Videos Implementing Black Bar & Box on FB</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/1725285885854-winxvideo-ai/"><u>利用 WinxVideo AI進行預見式屏幕和網路攝影解碼方法</u></a></li>
-<li><a href="https://some-skills.techidaily.com/comparing-performance-honor-magic-6-pro-vs-samsung-galaxy-s24-ultra/"><u>Comparing Performance: Honor Magic 6 Pro Vs. Samsung Galaxy S24 Ultra</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/deciphering-real-health-tips-effective-verification-techniques-with-chatgpt-and-artificial-intelligence/"><u>Deciphering Real Health Tips: Effective Verification Techniques with ChatGPT & Artificial Intelligence</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/experience-effortless-living-with-chatgpts-9-key-uses/"><u>Experience Effortless Living with ChatGPT's 9 Key Uses</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/integrating-chatgpt-api-essential-techniques-and-best-practices/"><u>Integrating ChatGPT API: Essential Techniques and Best Practices</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mac-and-ai-synergy-the-definitive-techniques-for-utilizing-chatgpt-efficiently/"><u>Mac and AI Synergy: The Definitive Techniques for Utilizing ChatGPT Efficiently</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/new-in-2024-how-to-use-emojis-on-windows/"><u>New In 2024, How to Use Emojis on Windows</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/one-on-one-text-versus-plugin-enriched-gpt-exchanges/"><u>One-on-One Text Versus Plugin-Enriched GPT Exchanges</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/what-everyone-should-know-about-gptbot-causes-for-its-recent-blacklist-by-sites/"><u>What Everyone Should Know About GPTBot: Causes for Its Recent Blacklist by Sites</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-how-to-fix-intel-me-driver-issues/"><u>[Solved] How to Fix Intel ME Driver Issues?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-maximize-browser-functionality-chromes-full-screen-video-playback/"><u>[Updated] 2024 Approved Maximize Browser Functionality Chrome's Full-Screen Video Playback</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-ultimate-guide-to-scheduling-zoom-events-for-2024/"><u>[Updated] The Ultimate Guide to Scheduling Zoom Events for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-unveiling-the-process-of-hd-video-extraction-on-fb/"><u>2024 Approved Unveiling the Process of HD Video Extraction on FB</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/best-youtube-thumbnail-artists-a-simple-guide-to-crafting-stunning-video-previews/"><u>Best YouTube Thumbnail Artists: A Simple Guide to Crafting Stunning Video Previews</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/complete-tutorial-converting-vep-files-into-mp4-format-successfully/"><u>Complete Tutorial: Converting VEP Files Into MP4 Format Successfully</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/desktop-and-online-guide-mastering-video-watermarking-techniques-on-your-pc/"><u>Desktop and Online Guide: Mastering Video Watermarking Techniques on Your PC</u></a></li>
+<li><a href="https://driver-install.techidaily.com/direct-upgrade-for-nvidias-gtx-750-ti/"><u>Direct Upgrade for NVIDIA's GTX 750 Ti</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-best-platforms-for-viewing-premium-short-movies/"><u>Discover the Best Platforms for Viewing Premium Short Movies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-ideal-free-software-for-screenshots-and-recording-on-your-computer/"><u>Discover the Ideal Free Software for Screenshots and Recording on Your Computer</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-leading-free-tools-for-convert-avi-files-to-mp3-best-choices-for-pc-and-web-users/"><u>Discover the Leading FREE Tools for Convert AVI Files to MP3: Best Choices for PC & Web Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/dvdhandbrake/"><u>DVD抽出手順：HandBrakeの使い方ガイド</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-iphone-15-in-lost-mode-drfone-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock iPhone 15 in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-the-art-of-tiktok-dance-a-step-by-step-guide-for-mac-users/"><u>In 2024, The Art of TikTok Dance A Step-by-Step Guide for Mac Users</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-oneplus-12-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your OnePlus 12 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 

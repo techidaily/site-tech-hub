@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT's Latest Updates: Global Perks"
-date: 2024-09-11T18:23:36.402Z
-updated: 2024-09-12T18:23:36.402Z
+date: 2024-09-16T02:27:53.758Z
+updated: 2024-09-17T19:38:00.031Z
 tags:
   - chatgpt
   - open-ai
@@ -28,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/6eaf9b365a6361451b5795d958332fe971bf3b2af
 * [Upgraded Code Analysis](https://appsumo.8odi.net/gmezyk)
 * [Temporary Chat](https://copa.sjv.io/6eoowq)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * ChatGPT now converses with image inputs and outputs, providing accurate results and generated images in its responses.
@@ -46,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/6eaf9b365a6361451b5795d958332fe971bf3b2af
  **SCROLL TO CONTINUE WITH CONTENT**
 
  OpenAI's early May 2024 ChatGPT update was enormous, bringing heaps of new features to the world's leading generative AI chatbot. Most of the improvements center around enhancing user interaction, new functionalities, and improving overall performance, and there are heaps of reasons why you should give them a try.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Image Input and Output Capabilities
 
@@ -85,10 +71,10 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 ![Using ChatGPT as an AI assistant using memory and web browsing features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-as-assistant-using-expanded-knowledge-base-1-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  ChatGPT provided sound advice by browsing the web for the weather and reviewing its memory of my schedule. It even gave me a list of activities I could do instead based on my past interactions with ChatGPT.
@@ -96,10 +82,10 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
  The browsing capability feature is now available for both Plus and Free tier users, while ChatGPT Memory is only available to Plus users.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Multi-Modal Voice and Video Interactions
@@ -111,6 +97,19 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
  Pairing this feature with ChatGPT's browsing and memory functionality allows for a highly versatile AI companion. This enhanced version of ChatGPT can now better assist you with shopping, planning, and organizing. GPT-4o's conversation functionality makes it possible to use ChatGPT as a hands-free assistant using voice commands, making it easier to interact with the AI while you're on the go or multitasking.
 
  GPT-4o's voice interaction is available to all users using the ChatGPT Android/iOS app. However, the video interaction feature is unavailable at the time of writing but is expected to roll out in the near future.
+
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Upgraded Code Analysis
 
@@ -124,23 +123,9 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
  OpenAI's demonstrations also showed live code debugging using voice commands, which is another enormous upgrade for ChatGPT. Instead of having to type commands and work bit by bit, live interactions with your code could speed up the process.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Temporary Chat
 
 ![ChatGPT's new temporary chat feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-s-temporary-chat-feature.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The new Temporary Chat feature in ChatGPT-4o is ideal for privacy-conscious users and those seeking quick interactions with ChatGPT. This feature enables users to engage in a temporary chat with ChatGPT without the conversation being saved in history or used by OpenAI to train their models.
 
@@ -163,18 +148,20 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-fun-flicks-online-must-see-comedy-streaming-stations-for-2024/"><u>[New] Fun Flicks Online Must-See Comedy Streaming Stations for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-free-skype-recording-made-easy-mp3-edition/"><u>[New] In 2024, Free Skype Recording Made Easy - MP3 Edition</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-premier-thumbnail-packs-free-pubg-montages/"><u>[Updated] 2024 Approved Premier Thumbnail Packs Free PUBG Montages</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-the-art-of-film-crafting-with-kinemaster-tools-for-2024/"><u>[Updated] The Art of Film Crafting with Kinemaster Tools for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/breaking-down-ai-vulnerability-decoding-the-process-of-prompt-injections/"><u>Breaking Down AI Vulnerability: Decoding the Process of Prompt Injections</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/decoding-online-dialogues-ai-enforced-language-barriers-explained/"><u>Decoding Online Dialogues: AI-Enforced Language Barriers Explained</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-the-best-ai-software-effortless-professional-email-creation-with-chatgpt-integration-and-inbox-summarization/"><u>Discover the Best AI Software: Effortless Professional Email Creation with ChatGPT Integration & Inbox Summarization</u></a></li>
-<li><a href="https://extra-information.techidaily.com/discover-the-ultimate-android-collage-experience/"><u>Discover the Ultimate Android Collage Experience</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-utilize-chatgpt-copilot-extension-a-comprehensive-guide/"><u>How to Utilize ChatGPT Copilot Extension - A Comprehensive Guide</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/hunt-and-beat-top-10-games-inspired-by-ghost-of-tsushima/"><u>Hunt & Beat Top 10 Games Inspired by Ghost of Tsushima</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-the-boundaries-of-nlp-and-ml-research/"><u>Navigating the Boundaries of NLP & ML Research</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-science-behind-large-language-models-working-mechanisms-explained/"><u>The Science Behind Large Language Models: Working Mechanisms Explained</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-9-introductory-ai-toolsets-ideal-for-new-enthusiasts/"><u>Top 9 Introductory AI Toolsets Ideal for New Enthusiasts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-conquer-youtube-photos-an-experts-step-by-step-guide/"><u>[Updated] Conquer YouTube Photos An Expert's Step-by-Step Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-photopea-guide-to-clean-image-canvases-for-2024/"><u>[Updated] Photopea Guide to Clean Image Canvases for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-unlocking-a-world-of-talent-with-the-top-10-low-cost-youtube-creators/"><u>2024 Approved Unlocking a World of Talent with the Top 10 Low-Cost YouTube Creators</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Tecno Pop 8? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-tutorial-to-bypass-your-huawei-nova-y71-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Huawei Nova Y71 Face Lock?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/get-access-to-voot-series-without-cost-tips-for-viewing-on-computer-and-mobile-browser/"><u>Get Access to Voot Series Without Cost - Tips for Viewing on Computer and Mobile Browser</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-convert-your-pvr-videos-free-of-charge-the-ultimate-guide-to-mp4-and-avi-compatibility-across-devices/"><u>How to Convert Your PVR Videos Free of Charge: The Ultimate Guide to MP4 & AVI Compatibility Across Devices</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-embed-or-remove-subtitles-from-an-m2ts-file/"><u>How to Embed or Remove Subtitles From an M2TS File</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-enable-flv-playback-on-lightworks-a-comprehensive-guide/"><u>How to Enable FLV Playback on Lightworks: A Comprehensive Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-12-mini-without-apple-password-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone 12 mini Without Apple Password? | Stellar</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-transform-a-gif-into-a-quicktime-mov-file-in-just-three-simple-steps/"><u>How to Transform a GIF Into a QuickTime MOV File in Just Three Simple Steps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-embedding-source-code-in-word-docs/"><u>Mastering the Art of Embedding Source Code in Word Docs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-youtube-to-facebook-video-conversion-expert-techniques-and-recommended-software/"><u>Mastering YouTube-to-Facebook Video Conversion: Expert Techniques and Recommended Software</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-features-a-deep-dive-into-the-samsung-galaxy-watch-active-for-health-monitoring/"><u>Unveiling the Features: A Deep Dive Into the Samsung Galaxy Watch Active for Health Monitoring</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/pc10/"><u>ベストなPC画面キャプチャアプリ:無料と有料両方選び10点</u></a></li>
 </ul></div>
 
