@@ -1,7 +1,7 @@
 ---
 title: "Mitigating Data Exposure Risks with Custom GPTs on ChatGPT Platforms: Essential Safety Measures"
-date: 2024-09-15T00:04:14.805Z
-updated: 2024-09-18T03:44:07.382Z
+date: 2024-09-18T02:21:01.040Z
+updated: 2024-09-22T19:59:49.269Z
 tags:
   - chatgpt
   - open-ai
@@ -57,13 +57,6 @@ Close
 
  It's a basic version of the classic game, but it's engaging enough. The custom GPT's scripting doesn't allow you to go off-piste and, say, rob the local convenience store for supplies (nor did the original), but it's certainly a lot easier without so many setbacks constantly upending and destroying your party. It's a much easier version, that's for sure.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3.[Poker](https://chat.openai.com/g/g-lHyTLJaCX-poker)
 
  From the potential death and horror of the Oregon Trail to something a little more relaxing: Poker. You play against the AI in this Poker custom GPT, starting with 10,000 credits, and play standard five-card Texas hold'em until someone's credits run out.
@@ -72,13 +65,6 @@ Close
 
  My only major gripe about this poker game is that ChatGPT seems to mimic your choices, such as check, raise, and so on, which can make the game predictable (or at least less random).
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4.[Console GPT](https://chat.openai.com/g/g-3p94K4Djb-console-gpt)
 
  Now, this is a cool idea of how a custom GPT can span multiple types of input to create a custom game with a unique storyline.
@@ -86,6 +72,13 @@ Close
  When you first boot Console GPT, you meet the message "BOOT UP AND INSERT GAME." But you don't have a game cartridge to boot yet. Instead, you have to head to the[Console GPT Glif page](https://glif.app/@fab1an/glifs/clotu9ul2002vl90fh6cmpjw0) , which is a custom AI art tool that will create your "cartridge."
 
 ![cyber syndicate cartridge ai image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/cyber-syndicate-cartridge-ai-image.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Input the type of game you want in the text box, select**Glif It!** , and watch as your creation comes to life. I went with "retro-futurism crime lord" and was presented with "Cyber Syndicate," a game where you "navigate a neon-soaked, cyberpunk metropolis teeming with high-tech heists and digital espionage," with a goal of becoming the ultimate syndicate leader.
 
@@ -108,6 +101,19 @@ Close
  The custom GPT Cookie Clicker is decidedly different. You're still building up a cookie empire in a similar style, but because ChatGPT doesn't run automated commands and cannot keep the numbers ticking over like the original game, it requires more input.
 
  Still, if you're into idle games and want to try something different, it could be worth a try.
+
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6.[Cute Little Zombies](https://chat.openai.com/g/g-CEON6aFtV-cute-little-zombies-a-text-adventure-game)
 
@@ -138,16 +144,21 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-the-dual-platform-dance-posting-vids-with-twitter-and-tumblr/"><u>[New] The Dual-Platform Dance Posting Vids with Twitter & Tumblr</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-the-ultimate-collection-of-favorite-ig-after-effects-plugins/"><u>[Updated] 2024 Approved The Ultimate Collection of Favorite IG After Effects Plugins</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-youtube-mastery-tips-for-producing-cutting-edge-videos/"><u>2024 Approved YouTube Mastery Tips for Producing Cutting-Edge Videos</u></a></li>
-<li><a href="https://driver-install.techidaily.com/effortless-hp-4650dn-printer-drivers-latest-updates-and-downloads/"><u>Effortless HP 4650DN Printer Drivers - Latest Updates and Downloads</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-moto-g23-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Motorola Moto G23 Phone without Google Account?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-notch-animated-text-settings/"><u>In 2024, Top-Notch Animated Text Settings</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/playstation-es5-slim-unveiled-find-out-about-its-price-tag-release-schedule-and-specs-now/"><u>PlayStation eS5 Slim Unveiled – Find Out About Its Price Tag, Release Schedule & Specs Now!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/spoonpc/"><u>SPOONのビデオコンテンツをPC上に安全にダウンロードする方法</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-seamless-dvd-conversion-to-compatible-formats-for-apple-tv/"><u>Step-by-Step Guide: Seamless DVD Conversion to Compatible Formats for Apple TV</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-viewing-mov-videos-on-your-windows-11-pc/"><u>Step-by-Step Guide: Viewing MOV Videos on Your Windows 11 PC</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-on-downloading-and-installing-nexiq-usb-link-driver-v2/"><u>Step-by-Step Tutorial on Downloading & Installing NEXIQ USB Link Driver V2</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-clip-curator-platform/"><u>[New] In 2024, Clip Curator Platform</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-mastering-media-marketing-essential-ig-video-editors/"><u>[New] In 2024, Mastering Media Marketing Essential IG Video Editors</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-elevated-engagement-awards-on-video-realms-for-2024/"><u>[Updated] Elevated Engagement Awards on Video Realms for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-revolutionize-your-social-media-experience-with-premier-tools/"><u>[Updated] Revolutionize Your Social Media Experience with Premier Tools</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2023-how-to-fix-live-video-interrupted-on-facebook-in-2024/"><u>2023 | How to Fix Live Video Interrupted on Facebook, In 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-audio-transformation-software-magic-and-more/"><u>2024 Approved Top Audio Transformation Software Magic and More</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-nubia-z50-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-account-removal-process-explained/"><u>ChatGPT Account Removal Process Explained</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/content-writing-and-ai-chatbots-why-they-dont-always-mix-explained-in-8-points/"><u>Content Writing and AI Chatbots: Why They Don't Always Mix, Explained in 8 Points</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-ideas-to-reality-chatgpts-role-in-sound-synthesis/"><u>From Ideas to Reality: ChatGPT's Role in Sound Synthesis</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/next-showtime-use-chatgpt-for-insights/"><u>Next Showtime? Use ChatGPT for Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/nourishment-made-simple-develop-your-healthy-meal-plan-using-chatgpt/"><u>Nourishment Made Simple: Develop Your Healthy Meal Plan Using ChatGPT</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-paths-initiating-windows-self-repair/"><u>Quick Paths: Initiating Windows' Self-Repair</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-6-strategies-for-using-chatgpt-in-writing-video-game-storylines/"><u>Top 6 Strategies for Using ChatGPT in Writing Video Game Storylines</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-turing-test-can-artificial-intelligence-surpass-human-limits/"><u>Unveiling the Turing Test: Can Artificial Intelligence Surpass Human Limits?</u></a></li>
 </ul></div>
 

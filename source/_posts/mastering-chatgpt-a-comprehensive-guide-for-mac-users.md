@@ -1,7 +1,7 @@
 ---
 title: "Mastering ChatGPT: A Comprehensive Guide for Mac Users"
-date: 2024-09-11T04:07:10.242Z
-updated: 2024-09-18T02:56:45.470Z
+date: 2024-09-15T20:14:18.889Z
+updated: 2024-09-22T17:19:41.979Z
 tags:
   - chatgpt
   - open-ai
@@ -46,13 +46,6 @@ How do you know when you've been granted access?
 
  On the left sidebar of the ChatGPT interface, you should see**Explore GPTs** instead of simply**Explore** . Once you see this, you can start using the GPT Store! Remember, the whole idea of the GPT Store is to help users browse and access a wide range of GPTs built by the community. So, how can you use it to find the right GPT for your tasks?
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Find the Best Custom GPTs in the GPT Store
 
  Using the GPT Store is quite straightforward. Here's how you can browse and search for custom GPTs:
@@ -63,24 +56,26 @@ How do you know when you've been granted access?
 3. You can also use the search bar to find GPTs by keyword or related terms.  
 ![GPT Store search screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-store-search-screen.jpg)
 4. When you find a GPT you want to try, click on it to open the individual GPT page.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. On the GPT page, you will see information about what that model offers.
 6. After testing a GPT that solves your problem well, take one important extra step—click on the GPT name in the top left corner of the page, then click**Keep in sidebar** . This saves that GPT to the sidebar along with your chat history for easy future access.  
 ![Adding a GPT to sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/adding-a-gpt-to-sidebar.jpg)
 
- However, you should note that at the time of writing, the GPT Store isn't reviewed, and there is no rating system or otherwise. We're hoping that OpenAI will introduce some type of rating system in the near future, as currently, without any system in place, you're effectively on your own when it comes to figuring out what works well. By extension, it seems likely that some form of rating or review system will be implemented once GPT Store revenue sharing is launched, but OpenAI hasn't given any fixed timeline for this.
-
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ However, you should note that at the time of writing, the GPT Store isn't reviewed, and there is no rating system or otherwise. We're hoping that OpenAI will introduce some type of rating system in the near future, as currently, without any system in place, you're effectively on your own when it comes to figuring out what works well. By extension, it seems likely that some form of rating or review system will be implemented once GPT Store revenue sharing is launched, but OpenAI hasn't given any fixed timeline for this.
 
 ## Is it Worth Upgrading to ChatGPT Plus to Use Custom GPTs?
 
@@ -105,20 +100,15 @@ How do you know when you've been granted access?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-win11s-premier-selection-of-videography-software/"><u>[New] 2024 Approved Win11's Premier Selection of Videography Software</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-creating-a-visual-statement-with-stellar-podcast-artwork/"><u>[New] Creating a Visual Statement with Stellar Podcast Artwork</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-insider-tips-selecting-the-best-ig-video-editors-for-success/"><u>[New] In 2024, Insider Tips Selecting the Best IG Video Editors for Success</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-nightmares-unleashed-8-must-play-zombie-games-explored-for-2024/"><u>[New] Nightmares Unleashed 8 Must-Play Zombie Games Explored for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-instagram-sequence-steps-to-reach-1k-monthly-followers/"><u>[Updated] The Instagram Sequence Steps to Reach 1K Monthly Followers</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-dive-into-ios-screenshots-a-comprehensive-youtube-guide/"><u>2024 Approved Dive Into iOS Screenshots A Comprehensive YouTube Guide</u></a></li>
-<li><a href="https://article-posts.techidaily.com/best-way-to-stitch-gopro-clips-into-360-videos-for-2024/"><u>Best Way to Stitch GoPro Clips Into 360 Videos for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/boosting-tabletop-rpgs-integrating-chatgpt-into-your-dandd-sessions-for-an-unforgettable-experience/"><u>Boosting Tabletop RPGs: Integrating ChatGPT Into Your D&D Sessions for an Unforgettable Experience</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-the-power-of-ai-10-tactics-to-secure-your-next-role-with-chatgpt-on-linkedin/"><u>Discover the Power of AI: 10 Tactics to Secure Your Next Role with ChatGPT on LinkedIn</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/from-twitter-threats-to-advanced-conversations-unraveling-new-scam-tactics-the-dawn-of-meta-verified-profiles-and-deep-dive-into-chatgpt-4s-capabilities-exp62/"><u>From Twitter Threats to Advanced Conversations: Unraveling New Scam Tactics, The Dawn of Meta Verified Profiles & Deep Dive Into ChatGPT-4's Capabilities Explored</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Vivo V27? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/master-the-art-of-asking-leading-chrome-tool-to-streamline-your-chatgpt-engagement/"><u>Master the Art of Asking: Leading Chrome Tool to Streamline Your ChatGPT Engagement</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/voice-translation-english-to-bangla-online-and-offline-apps-for-2024/"><u>Voice Translation English to Bangla Online and Offline Apps for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/what-sets-auto-gpt-apart-from-chatgpt-insights-into-their-unique-functions/"><u>What Sets Auto-GPT Apart From ChatGPT? Insights Into Their Unique Functions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/why-choose-claude-ai-exploring-its-features-to-enhance-productivity/"><u>Why Choose Claude AI? Exploring Its Features to Enhance Productivity</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-3d-worlds-on-your-android-mastering-vr-and-360-videos/"><u>[New] 3D Worlds on Your Android Mastering VR & 360 Videos</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-mastering-instavid-promotion-crafting-a-successful-marketing-gameplan-for-2024/"><u>[New] Mastering InstaVid Promotion Crafting a Successful Marketing Gameplan for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-expert-tips-for-efficient-screenshotting-with-zd-softwares-advanced-features/"><u>[Updated] 2024 Approved Expert Tips for Efficient Screenshotting with ZD Software's Advanced Features</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-channel-branding-made-simple-and-free/"><u>2024 Approved Channel Branding Made Simple & Free</u></a></li>
+<li><a href="https://article-posts.techidaily.com/a-beginners-guide-to-use-snapseed-photo-editing-features/"><u>A Beginner's Guide to Use Snapseed Photo Editing Features</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Honor Play 7T? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/expertise-in-electronics-with-toms-hardware-unveiled/"><u>Expertise in Electronics with Tom's Hardware Unveiled</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-distinctions-gpt-vs-bert-a-comparative-analysis-of-top-linguistic-algorithms/"><u>Exploring Distinctions: GPT vs BERT - A Comparative Analysis of Top Linguistic Algorithms</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/plotting-paths-with-the-help-of-chatgpt-for-storytellers/"><u>Plotting Paths with the Help of ChatGPT for Storytellers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-the-potential-of-tailored-ai-interactions-with-chatgpt/"><u>Unlocking the Potential of Tailored AI Interactions with ChatGPT</u></a></li>
 </ul></div>
 

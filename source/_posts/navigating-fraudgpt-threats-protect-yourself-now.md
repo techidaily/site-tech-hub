@@ -1,7 +1,7 @@
 ---
 title: Navigating FraudGPT Threats - Protect Yourself Now
-date: 2024-09-16T17:20:44.947Z
-updated: 2024-09-18T02:23:29.738Z
+date: 2024-09-20T01:58:34.254Z
+updated: 2024-09-23T02:14:41.535Z
 tags:
   - chatgpt
   - open-ai
@@ -94,19 +94,6 @@ ChatGPT also cracked the problem as well.
 
  After trying out a few more creative tasks, Claude AI seemed to excel in writing-related tasks and was able to write more natural-sounding content like a human writer would do. Although[ChatGPT was better at overcoming more complex creative tasks](https://www.makeuseof.com/creative-ways-to-use-chatgpt-openai/) , it sometimes couldn't shake off that AI chatbot feeling in the text it generated. Our verdict? Both ChatGPT and Claude AI are creative in their own right.
 
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## ChatGPT vs. Claude AI: Coding Skills
 
  Just like math skills, coding skills are another very important metric for judging the abilities of an AI chatbot. While the majority of users will probably never[use a chatbot for coding](https://www.makeuseof.com/chatgpt-programming-practical-uses/) , there are significant underlying implications for a chatbot's abilities to write and understand code proficiently.
@@ -117,30 +104,31 @@ ChatGPT also cracked the problem as well.
 
 ![to-do list app by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/to-do-list-app-by-chatgpt.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Moving on to Claude AI, the chatbot wrote clearly intelligible code. The structure and logic all seemed fine. Unfortunately, despite repeated attempts, Claude AI kept missing some critical logic to make the code actually run on a browser. It's a fail on this one.
 
  After Claude AI failed the last test, we tried a different kind of coding task, one that was more about analyzing code and less about writing new code. We uploaded five PHP files that represent the complete backend for a website and asked both Claude AI and ChatGPT where we would need to edit in all the uploaded files to ensure we get a mail once a new user registers on the site.
 
 ![Claude AI analyzing multiple PHP files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-analyzing-multiple-php-files.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Surprisingly, ChatGPT, despite seemingly having superior coding skills, failed at this despite repeated attempts. Claude AI, on the other hand, was able to analyze the code proficiently while identifying the right places that needed to be edited to achieve the desired results.
 
  Of course, this was not an isolated case, we repeated it with several other code files, but ChatGPT stumbled and stalled on the majority of cases while Claude AI kept delivering impressive results. In terms of coding skills, the winner is not entirely straightforward.
 
  ChatGPT is clearly significantly better at writing new code and can manage complex code with impressive proficiency. However, Claude AI is significantly better at analyzing large code bases. So, if you're looking to write code for some new idea you have, ChatGPT is the tool to turn to. If you want to analyze or make sense of a code base with thousands of lines across several files, then we would definitely recommend Claude AI.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Claude AI Is a Potent Competitor on the Block
 
@@ -161,18 +149,20 @@ ChatGPT also cracked the problem as well.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-how-to-ensure-continuous-playback-of-youtube-videos-on-fb/"><u>[Updated] In 2024, How to Ensure Continuous Playback of YouTube Videos on FB</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-maximizing-engagement-with-strategic-editing-on-instagram-videos/"><u>2024 Approved Maximizing Engagement with Strategic Editing on Instagram Videos</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-xiaomi-13t-pro-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Xiaomi 13T Pro Phone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-become-a-pro-with-2023s-free-templates/"><u>In 2024, Become a Pro with 2023'S FREE Templates</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-enhancing-video-performance-in-instagram-reels-mobile/"><u>In 2024, Enhancing Video Performance in Instagram Reels (Mobile)</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-memory-management-for-edges-webview2/"><u>Mastering Memory Management for Edge's WebView2</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/protect-your-device-why-you-shouldnt-trust-or-install-the-google-bard-app/"><u>Protect Your Device: Why You Shouldn't Trust or Install the Google Bard App</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/rapid-growth-tactics-hit-and-maintain-a-stellar-10000-views-mark-for-2024/"><u>Rapid Growth Tactics Hit and Maintain a Stellar 10,000 Views Mark for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-creative-writing-how-chatgpt-enhances-novel-composition-in-9-ways/"><u>Unlocking Creative Writing: How ChatGPT Enhances Novel Composition in 9 Ways</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-opportunities-with-chatgpt-six-compelling-reasons-for-job-seekers-and-employees/"><u>Unlocking Opportunities with ChatGPT: Six Compelling Reasons for Job Seekers and Employees</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/video-editing-smackdown-adobe-premiere-pro-takes-on-after-effects/"><u>Video Editing Smackdown Adobe Premiere Pro Takes on After Effects</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/what-sets-claude-pro-apart-from-microsofts-advanced-language-model-chatgpt-plus/"><u>What Sets Claude Pro Apart From Microsoft's Advanced Language Model, ChatGPT +?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/winning-strategies-for-successfully-navigating-through-royal-match/"><u>Winning Strategies for Successfully Navigating Through Royal Match</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-conducting-the-crescendo-infusing-instagram-reels-with-sounds/"><u>[New] 2024 Approved Conducting the Crescendo Infusing Instagram Reels with Sounds</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtubes-creator-hub-explained-simply/"><u>2024 Approved YouTube's Creator Hub Explained Simply</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/aif-to-mp4-online-aif/"><u>AIF to MP4 : 원탁한 컴퓨터 없이 Online AIF 변환 서비스</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/cambia-mpeg-a-formato-wma-sin-costo-con-el-convertidor-de-archivos-multimedia-on-line-gratuito-de-movavi/"><u>Cambia MPEG a Formato WMA Sin Costo Con El Convertidor De Archivos Multimedia On-Line Gratuito De Movavi</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/convert-swf-files-easily-for-free-avi-format-on-the-web-using-movavis-tool/"><u>Convert SWF Files Easily for Free: Avi Format on the Web Using Movavi's Tool</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/converting-dts-files-to-wav-format-free-online-tool-by-movavi/"><u>Converting DTS Files to WAV Format Free - Online Tool by Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/dealing-with-the-razer-synapse-not-opening-quick-solutions-and-fixes/"><u>Dealing with the 'Razer Synapse Not Opening': Quick Solutions & Fixes</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/explore-the-top-10-premier-iphone-data-retrieval-solutions-compatible-with-ios-17/"><u>Explore the Top 10 Premier iPhone Data Retrieval Solutions Compatible with iOS 17</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/explore-unlimited-access-to-fcp-for-2024/"><u>Explore Unlimited Access to FCP for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/filtragem-de-videos-em-linha-gratuita-convertendo-flv-e-mov-com-movavi/"><u>Filtragem De Vídeos Em Linha Gratuita - Convertendo FLV E MOV Com MOVAVI</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-pro-max-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 Pro Max to other iPhone 11 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/secrets-to-selecting-the-best-online-game-coverage/"><u>Secrets to Selecting the Best Online Game Coverage</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-10-premium-video-editing-tools-for-windows-users/"><u>Top 10 Premium Video Editing Tools for Windows Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-movavi-video-transcoder-and-editor-for-macos-supports-multiple-file-types/"><u>Top Rated Movavi Video Transcoder & Editor for macOS - Supports Multiple File Types</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-cinemac/"><u>Updated CineMac</u></a></li>
 </ul></div>
 

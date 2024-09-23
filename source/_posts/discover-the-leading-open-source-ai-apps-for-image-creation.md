@@ -1,7 +1,7 @@
 ---
 title: Discover the Leading Open-Source AI Apps for Image Creation
-date: 2024-09-13T00:53:31.762Z
-updated: 2024-09-17T20:52:43.021Z
+date: 2024-09-15T18:20:10.964Z
+updated: 2024-09-22T16:50:48.990Z
 tags:
   - chatgpt
   - open-ai
@@ -52,9 +52,23 @@ thumbnail: https://thmb.techidaily.com/185bd2e3ee5add750b89a3f134c1fcf3132bd9314
 
  The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Install and Configure ChatGPT Desktop Application
 
 ![chatgpt open source desktop version home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-home-page.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Head to the open-source[ChatGPT Desktop Application download page](https://github.com/lencx/ChatGPT/releases/tag/v1.1.0) . The latest version at the time of writing is V1.1.0, but you can check for a newer version.
 2. Download the applicable version for your operating system, then install it as per your operating system.
@@ -63,20 +77,6 @@ thumbnail: https://thmb.techidaily.com/185bd2e3ee5add750b89a3f134c1fcf3132bd9314
  Then, just sign in to ChatGPT as you usually would. All of your previous chats will be waiting for you, and you can choose from GPT-4, GPT-4o, DALL-E, and so on.
 
 ![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## When Is the Official ChatGPT Desktop Version Launching?
 
@@ -101,13 +101,18 @@ thumbnail: https://thmb.techidaily.com/185bd2e3ee5add750b89a3f134c1fcf3132bd9314
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-screensnipers-digest-the-ultimate-2023-software-roundup/"><u>[New] In 2024, ScreenSniper's Digest The Ultimate 2023 Software Roundup</u></a></li>
-<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-samsung-galaxy-xcover-6-pro-tactical-edition-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Samsung Galaxy XCover 6 Pro Tactical Edition to iPhone | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-itel-p55t-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Itel P55T Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-samsung-galaxy-a05s-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Samsung Galaxy A05s to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/simple-guide-to-downloading-setting-up-and-keeping-your-vlc-media-players-codecs-current/"><u>Simple Guide to Downloading, Setting Up & Keeping Your VLC Media Player's Codecs Current</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/simplify-the-process-of-transforming-youtube-content-into-lossless-flac-audio/"><u>Simplify the Process of Transforming YouTube Content Into Lossless FLAC Audio</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/solving-dvd-crc-errors-a-step-by-step-guide/"><u>Solving DVD CRC Errors: A Step-by-Step Guide</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-cutting-edge-free-divx-video-editors-top-6-for-2024/"><u>Updated Cutting-Edge Free Divx Video Editors Top 6 for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-premium-planet-friendly-recording-software/"><u>[Updated] Premium, Planet-Friendly Recording Software</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-vs-zodiac-whos-right-about-tomorrow/"><u>ChatGPT Vs. Zodiac: Who's Right About Tomorrow?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-realme-12-proplus-5g-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Realme 12 Pro+ 5G</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-opportunities-joining-openais-bug-bounty-initiative-a-comprehensive-guide/"><u>Exploring the Opportunities: Joining OpenAI's Bug Bounty Initiative - A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-the-value-of-tp-links-re200-ac750-extender-quality-meets-affordability/"><u>Exploring the Value of TP-Link's RE200 Ac750 Extender: Quality Meets Affordability</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-top-android-video-editing-apps-for-free-and-paid-users/"><u>In 2024, Best Top Android Video Editing Apps for Free and Paid Users</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-iphone-15-plus-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>In 2024, How To Fix iPhone 15 Plus Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leveraging-ai-enhancing-group-conferences-with-chatgpt/"><u>Leveraging AI: Enhancing Group Conferences with ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-storytelling-skills-with-chatgpt-a-comprehensive-guide/"><u>Mastering Storytelling Skills with ChatGPT: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-corporate-policies-the-implications-of-using-chatgpt-on-your-career/"><u>Navigating Corporate Policies: The Implications of Using ChatGPT on Your Career</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-cybersecurity-in-ai-conversations-the-6-risks-you-need-to-know-about-with-chatgpt/"><u>Navigating Cybersecurity in AI Conversations: The 6 Risks You Need to Know About with ChatGPT</u></a></li>
+<li><a href="https://win-answers.techidaily.com/no-fuss-fixes-stabilizing-your-outriders-gaming-experience/"><u>No-Fuss Fixes: Stabilizing Your Outriders Gaming Experience</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-why-downloading-a-chatgpt-mobile-application-may-not-be-ideal/"><u>Understanding Why Downloading a ChatGPT Mobile Application May Not Be Ideal</u></a></li>
 </ul></div>
 

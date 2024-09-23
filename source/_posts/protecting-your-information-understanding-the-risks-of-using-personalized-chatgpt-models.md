@@ -1,7 +1,7 @@
 ---
 title: "Protecting Your Information: Understanding the Risks of Using Personalized ChatGPT Models"
-date: 2024-09-10T16:59:51.663Z
-updated: 2024-09-17T20:34:50.704Z
+date: 2024-09-16T00:25:39.195Z
+updated: 2024-09-23T00:30:29.417Z
 tags:
   - chatgpt
   - open-ai
@@ -54,6 +54,13 @@ Here's the fictitious article that ChatGPT came up with:
 
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Using Chatbots to Influence People's Opinions
 
  Chatbots that rely on generative AI models can employ various tactics to influence people's opinions, including:
@@ -73,6 +80,13 @@ Here's the fictitious article that ChatGPT came up with:
 
  It's crucial, then, to be able to[identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4\. Cloning Human Voices
 
  Generative AI, along with deepfake technology, enables the manipulation of someone's speech. Deepfake technology is advancing rapidly and offers a variety of tools that can replicate anyone's voice. This allows malicious individuals to impersonate others and deceive unsuspecting individuals. One such example is[the use of deepfake music](https://www.makeuseof.com/what-is-deepfake-ai-music/) .
@@ -80,13 +94,6 @@ Here's the fictitious article that ChatGPT came up with:
  You might have come across tools like[Resemble AI](https://www.resemble.ai/) ,[Speechify](https://speechify.com/) ,[FakeYou](https://fakeyou.com/) , and others that can mimic the voices of celebrities. While these AI audio tools can be entertaining, they pose significant risks. Scammers can utilize voice cloning techniques for various fraudulent schemes, resulting in financial losses.
 
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by[The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Spot AI-Spread Disinformation
 
@@ -98,13 +105,6 @@ Here's the fictitious article that ChatGPT came up with:
 4. Use fact-checking websites to verify the accuracy of information.
 
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Beware of Disinformation Spread by AI
 
@@ -127,17 +127,15 @@ Here's the fictitious article that ChatGPT came up with:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-harnessing-instagrams-power-for-financial-gain-for-2024/"><u>[New] Harnessing Instagram's Power for Financial Gain for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-boosting-your-short-form-video-content-on-youtube/"><u>[Updated] In 2024, Boosting Your Short-Form Video Content on Youtube</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/2024top5-youtube/"><u>【2024年】最新動画保存ツールTOP5 - YouTubeの人気投稿に匹敵する製品選び</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/5yuv55s7lplusmfsplusalveodleocoeocpoodqplusobruocsplusodvoodhplusodgplusocrpluswkieapmplusawueazleockuipsplusoblplusobjplusinoplusiqra/"><u>動画/音楽ファイルのコーデック変換方法を詳しく解説</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/576o44gx44gp5yuv44gp44k544ox44o844oz44ks5pku5b2x44o744kq44o844oh44kj44kq44kz44os44kv44k344on44oz44gz44kl57ch5y2y44gq5pa55rov/"><u>美しく動くスプーンを撮影・オーディオコレクションする簡単な方法</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/best-6-easy-to-use-swf-editors-for-seamless-file-manipulation/"><u>Best 6 Easy-to-Use SWF Editors for Seamless File Manipulation</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-to-fix-windows-system-error-code-31-quickly-and-efficiently/"><u>Expert Tips to Fix Windows System Error Code 31 Quickly & Efficiently</u></a></li>
-<li><a href="https://win-blog.techidaily.com/say-goodbye-to-your-webcam-enhance-video-call-appearance-with-an-android-smartphone-camera/"><u>Say Goodbye to Your Webcam - Enhance Video Call Appearance with an Android Smartphone Camera</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/time-lapse-software-how-to-create-time-lapse-video-2-methods/"><u>Time Lapse Software How to Create Time Lapse Video 2 Methods</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-multimedia-educational-show-key-insights-demystified/"><u>Updated In 2024, Multimedia Educational Show Key Insights Demystified</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/windows-81-dvd-shrink-jpdvdand/"><u>Windows 8.1用 DVD Shrink (JP版)で楽しむDVDコピー&圧縮ガイド</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/44ot44oh44kq5yaf5a6544ks44kr44k544k44oe44kk44k644gz44kl44gf44kb44gu5bcc6zaa55qe44gq5oml5rov/"><u>ビデオ内容をカスタマイズするための専門的な手法</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-navigating-through-paid-product-evaluations-online/"><u>[New] Navigating Through Paid Product Evaluations Online</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solved-win32kbasesys-blue-screen-error-on-windows-1110/"><u>[Solved] Win32kbase.sys Blue Screen Error on Windows 11/10</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/budget-friendly-alternatives-to-premium-vr-headsets/"><u>Budget-Friendly Alternatives to Premium VR Headsets</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-live-tips-to-check-availability/"><u>ChatGPT Live! Tips to Check Availability</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-xiaomi-mix-fold-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-xiaomi-14-pro-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Xiaomi 14 Pro FRP In 3 Different Ways</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/introducing-bard-googles-newest-ai-contender-against-chatgpt/"><u>Introducing Bard: Google's Newest AI Contender Against ChatGPT</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/selective-selection-best-bands-for-ringtones/"><u>Selective Selection Best Bands for Ringtones</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-4-desired-upgrades-for-the-next-generation-gpt-5-model/"><u>Top 4 Desired Upgrades for the Next Generation GPT-5 Model</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/virtual-wellness-at-your-fingertips-with-top-5-bot-apps/"><u>Virtual Wellness at Your Fingertips with Top 5 Bot Apps</u></a></li>
 </ul></div>
 

@@ -1,0 +1,117 @@
+---
+title: The Silent Threat to Personal Information From ChatGPT
+date: 2024-09-22T02:19:03.381Z
+updated: 2024-09-22T18:57:45.863Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: This Article Describes The Silent Threat to Personal Information From ChatGPT
+excerpt: This Article Describes The Silent Threat to Personal Information From ChatGPT
+thumbnail: https://thmb.techidaily.com/8f41caf7d9b5e4f9d2e8bb7de69d52df6f6bccbd4e17b1b94150ffa9569118d6.jpg
+---
+
+## Impatient for ChatGPT's Desktop Version? Here's an Exceptional Free Open Source Substitute to Check Out
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+### Quick Links
+
+* [What Is the Open-Source ChatGPT Desktop Application?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#what-is-the-open-source-chatgpt-desktop-application)
+* [How to Install and Configure ChatGPT Desktop Application](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#how-to-install-and-configure-chatgpt-desktop-application)
+* [When Is the Official ChatGPT Desktop Version Launching?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#when-is-the-official-chatgpt-desktop-version-launching)
+
+### Key Takeaways
+
+* OpenAI is releasing a ChatGPT desktop version, starting with macOS and later for Windows.
+* However, an open-source ChatGPT desktop version is available as an alternative.
+* The official version is slowly rolling out to users, but it's a slow process.
+
+ As part of its massive 2024 Spring Update, OpenAI revealed that a long-awaited ChatGPT desktop version was incoming.
+
+ Starting with macOS, OpenAI is officially bringing ChatGPT to desktops, with Windows support coming later.
+
+ But if you can't wait—like me!—you can try a free, open-source version instead.
+
+## What Is the Open-Source ChatGPT Desktop Application?
+
+ ChatGPT users have long wanted a desktop version. The world's leading generative AI chatbot works great in a browser, but sometimes, a desktop app is more convenient.
+
+[OpenAI's Spring Update launched GPT-4o](https://www.makeuseof.com/how-gpt-4o-works-is-it-free/) among a host of[other shiny new ChatGPT features](https://www.makeuseof.com/chatgpt-new-features-spring-update/) , wowing the world with its new capabilities.
+
+ The long-awaited desktop version was one of them—but intrepid ChatGPT users need to wait a little longer.
+
+ Developer[Lencx's open source ChatGPT](https://github.com/lencx/ChatGPT) gives you the option to try a desktop version right now, without waiting. It's a website wrapper that runs on Windows, macOS, and Linux, so it's a little basic, but it replicates the functionality of the website, and does a really good job, too.
+
+![chatgpt open source desktop version login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-login.jpg)
+
+ The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## How to Install and Configure ChatGPT Desktop Application
+
+![chatgpt open source desktop version home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-home-page.jpg)
+
+1. Head to the open-source[ChatGPT Desktop Application download page](https://github.com/lencx/ChatGPT/releases/tag/v1.1.0) . The latest version at the time of writing is V1.1.0, but you can check for a newer version.
+2. Download the applicable version for your operating system, then install it as per your operating system.
+3. Launch the ChatGPT Desktop Application.
+
+ Then, just sign in to ChatGPT as you usually would. All of your previous chats will be waiting for you, and you can choose from GPT-4, GPT-4o, DALL-E, and so on.
+
+![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## When Is the Official ChatGPT Desktop Version Launching?
+
+ The official ChatGPT Desktop app is already slowly rolling out to macOS users.
+
+ As with many of OpenAI's major updates, it takes time to filter through to the majority, and a Windows version will take longer still.
+
+ Still, if you can't wait, you can give this open-source ChatGPT desktop version a try instead.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/n-2024-how-to-make-a-cool-youtube-video-intro-in-imovie/"><u>[New] In 2024, How to Make a Cool YouTube Video Intro in iMovie?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-unleash-vrecorder-download-steps/"><u>[Updated] 2024 Approved Unleash VRecorder Download Steps</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/affordable-pc-screen-recorder-comparisons-for-2024/"><u>Affordable PC Screen Recorder Comparisons for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/efficient-techniques-for-converting-dvd-iso-files-into-wav-format/"><u>Efficient Techniques for Converting DVD ISO Files Into WAV Format</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-poco-x6-pro-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Poco X6 Pro to Protect Your Individual Information</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/obs-full-screen-no-more-problem-in-2024/"><u>Obs Full-Screen No More Problem, In 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/strategies-to-remove-youtube-trailers-and-clips/"><u>Strategies to Remove YouTube Trailers and Clips</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-complete-guide-to-switching-from-gsm-to-wav-best-software-for-pcs-and-online-solutions/"><u>The Complete Guide to Switching From GSM to WAV: Best Software for PCs and Online Solutions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-ranking-software-for-converting-videos-to-high-definition-mp4-hd-full-hd-uhd/"><u>Top-Ranking Software for Converting Videos to High Definition MP4 (HD, Full HD, UHD)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-guide-creating-custom-android-ringtones-step-by-step/"><u>Ultimate Guide: Creating Custom Android Ringtones Step-by-Step</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-tutorial-on-how-to-extract-dvd-content-safely-windows-and-mac-steps-unveiled/"><u>Ultimate Tutorial on How to Extract DVD Content Safely - Windows and Mac Steps Unveiled</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/widely-used-file-types-accepted/"><u>Widely Used File Types Accepted</u></a></li>
+</ul></div>
+

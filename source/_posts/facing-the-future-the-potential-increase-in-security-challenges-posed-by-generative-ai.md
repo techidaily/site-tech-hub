@@ -1,7 +1,7 @@
 ---
 title: "Facing the Future: The Potential Increase in Security Challenges Posed by Generative AI"
-date: 2024-09-13T16:46:34.054Z
-updated: 2024-09-17T18:01:31.033Z
+date: 2024-09-19T00:17:24.168Z
+updated: 2024-09-22T23:14:16.979Z
 tags:
   - chatgpt
   - open-ai
@@ -50,23 +50,9 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
 
  At the moment,[GPT-4 can describe images](https://www.makeuseof.com/best-new-gpt4-features-explained/) , but so far, there is currently no AI model that can comprehend videos like a human.[Self-driving vehicles](https://www.makeuseof.com/self-driving-cars-explained/) come close, but they're not completely autonomous and require sensors since they can't make sense of everything in their surrounding environment.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. The Visual Turing Test
 
 ![Various different AI-generated images made with DALL-E](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dall-e-ai-generated-image-gallery.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  According to a research paper published on[PNAS](https://www.pnas.org/doi/10.1073/pnas.1422953112) , the visual Turing test can be used to identify if you're talking to a human or an AI using image questionaries. It works like the Turing test, but instead of answering questions using texts, participants are shown images and expected to answer simple questions while thinking like a human. However, the[visual Turing test is different from CAPTCHAs](https://www.makeuseof.com/tag/how-do-captchas-work/) since all the answers are correct—but to pass the test, the AI must process the images similarly to a human.
 
@@ -80,6 +66,13 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
 
  For an AI to pass the Lovelace test, it must demonstrate that it can generate original ideas that exceed its training. Current AI models like GPT-4 don't have the capability to come up with new inventions beyond our existing knowledge. However,[artificial general intelligence](https://www.makeuseof.com/what-is-artificial-general-intelligence-how-it-differs-generative-ai/) can achieve that capability and pass the Lovelace test.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Reverse Turing Test
 
 ![person using chatgpt on their laptop](https://thmb.techidaily.com/3681ab3fb1278f9c5e283b2684cc0a6da110630db6256e6386dbd78a8fb134b9.jpg)
@@ -91,10 +84,10 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
  The downside of the reverse Turing test is that it's unreliable, especially considering that sometimes[AI cannot differentiate AI-generated](https://www.makeuseof.com/ai-content-detectors-dont-work/) and human-written content.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. AI Classification Framework
@@ -104,6 +97,13 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
  According to the AI classification framework developed by[Chris Saad](https://docsend.com/view/et7755yasfpj3iy6) , the Turing test is just one evaluation method to know if you're talking to an AI. More succinctly, the AI classification framework is based on the theory of multiple intelligence, which requires human intelligence to satisfy at least eight different criteria, which include: musical-rhythm, logical-mathematical intelligence, visual identification, emotional intelligence, self-reflective intelligence, existential thinking ability, and body movement.
 
  Since the AI is evaluated on eight different parameters, it's unlikely to pass for a human even if it performs better than average in certain benchmarks. For instance,[ChatGPT can solve math problems](https://www.makeuseof.com/can-chatgpt-solve-math-problems/) , describe images, and converse in a natural language like a human, but it would fail other categories defined in the AI classification framework.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Turing Test Is Not Conclusive
 
@@ -126,21 +126,20 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-free-web-meeting-applications-your-ultimate-guide-to-cloud-collaboration-for-2024/"><u>[New] Free Web Meeting Applications Your Ultimate Guide to Cloud Collaboration for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-overcome-artificial-watches-for-natural-views/"><u>[Updated] 2024 Approved Overcome Artificial Watches for Natural Views</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-create-captivating-yt-thumbnails-fast/"><u>[Updated] Create Captivating YT Thumbnails Fast!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/dont-mix-them-up-exploring-what-sets-siri-aside-from-chatgpt/"><u>Don't Mix Them Up! Exploring What Sets Siri Aside From ChatGPT.</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/free-entry-to-ai-mastery-with-these-5-gpt-4-strategies/"><u>Free Entry to AI Mastery with These 5 GPT-4 Strategies</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/from-zero-to-twitter-an-instagram-guide-for-2024/"><u>From Zero to Twitter An Instagram Guide for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-any-sony-xperia-5-v-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Sony Xperia 5 V Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-asmr-for-restful-slumber/"><u>In 2024, Mastering ASMR for Restful Slumber</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/in-the-arena-of-ideas-notion-vs-chatgpts-content-crusade/"><u>In the Arena of Ideas: Notion Vs. ChatGPT's Content Crusade</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/inside-truthgpt-revelations-and-insights-police-investigation-at-mullvad-vpn-topno-logo-free-gaming-on-pcs-demystifying-mechanical-keyboard-tech/"><u>Inside TruthGPT: Revelations & Insights | Police Investigation at Mullvad VPN | Topno Logo-Free Gaming on PCs | Demystifying Mechanical Keyboard Tech</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-chatgpt-without-an-openai-account-essential-tips-and-tricks/"><u>Mastering ChatGPT Without an OpenAI Account: Essential Tips and Tricks</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ring-youtube-views-secrets-for-a-million-followers/"><u>Mastering Youtube Views Secrets for a Million Followers</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/mirrorless-evolution-overshadowing-traditional-dslr-videography-for-2024/"><u>Mirrorless Evolution Overshadowing Traditional DSLR Videography for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/reach-new-heights-of-conversational-ai-in-chrome-with-these-extensions/"><u>Reach New Heights of Conversational AI in Chrome with These Extensions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722885689549-resolving-python24dll-absence-a-step-by-step-guide-fix-missing-dll-errors-now/"><u>Resolving 'Python24.dll' Absence: A Step-by-Step Guide | Fix Missing DLL Errors Now</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/saving-chatbot-dialogues-a-step-by-step-tutorial-on-storing-chatgpt-interactions/"><u>Saving Chatbot Dialogues: A Step-by-Step Tutorial on Storing ChatGPT Interactions</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-guide-to-top-8-linux-screenshot-solutions/"><u>[New] 2024 Approved Guide to Top 8 Linux Screenshot Solutions</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-constructing-a-dynamic-tiktok-end-slide-for-2024/"><u>[New] Constructing a Dynamic TikTok End Slide for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-direct-android-image-copy-to-iphone/"><u>[New] Direct Android Image Copy to iPhone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-essential-6-apps-elevating-your-instagram-reels/"><u>[New] Essential 6 Apps Elevating Your Instagram Reels</u></a></li>
+<li><a href="https://win-answers.techidaily.com/lets-note/"><u>「瞬時にLet's Noteでスクリーン記録の迅速ガイド」</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-itel-s23-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Itel S23</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-your-python-projects-by-incorporating-microsofts-gpt-3-technology/"><u>Elevate Your Python Projects by Incorporating Microsoft's GPT-3 Technology</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gpu-ghosting-track-down-the-missing-nvidia-in-device-manager/"><u>GPU Ghosting? Track Down the Missing NVIDIA in Device Manager</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-the-chatgpt-desktop-app-outshines-its-web-version-key-advantages-revealed/"><u>How the ChatGPT Desktop App Outshines Its Web Version: Key Advantages Revealed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maintaining-confidentiality-and-security-using-chatgpt-in-the-realm-of-emotional-coaching/"><u>Maintaining Confidentiality and Security: Using ChatGPT in the Realm of Emotional Coaching</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/mastering-facebook-broadcasts-android-and-ios-tips-for-2024/"><u>Mastering Facebook Broadcasts Android & iOS Tips for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-your-pc-with-tips-from-toms-hardware-experts/"><u>Mastering Your PC with Tips From Tom's Hardware Experts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/protecting-personal-information-on-chat-platforms-like-chatgpt/"><u>Protecting Personal Information on Chat Platforms Like ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-list-of-web-toolkits-to-elevate-your-skills-in-prompt-engineering/"><u>Ultimate List of Web Toolkits to Elevate Your Skills in Prompt Engineering</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-the-secrets-a-guide-to-enable-chatgpt-with-pdf-files/"><u>Unlocking the Secrets: A Guide to Enable ChatGPT with PDF Files</u></a></li>
 </ul></div>
 

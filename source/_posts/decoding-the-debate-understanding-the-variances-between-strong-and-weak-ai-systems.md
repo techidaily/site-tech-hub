@@ -1,7 +1,7 @@
 ---
 title: "Decoding the Debate: Understanding the Variances Between Strong and Weak AI Systems"
-date: 2024-09-15T04:06:12.606Z
-updated: 2024-09-17T16:02:52.299Z
+date: 2024-09-21T17:50:06.908Z
+updated: 2024-09-22T20:29:39.510Z
 tags:
   - chatgpt
   - open-ai
@@ -94,6 +94,13 @@ ChatGPT also cracked the problem as well.
 
  After trying out a few more creative tasks, Claude AI seemed to excel in writing-related tasks and was able to write more natural-sounding content like a human writer would do. Although[ChatGPT was better at overcoming more complex creative tasks](https://www.makeuseof.com/creative-ways-to-use-chatgpt-openai/) , it sometimes couldn't shake off that AI chatbot feeling in the text it generated. Our verdict? Both ChatGPT and Claude AI are creative in their own right.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ChatGPT vs. Claude AI: Coding Skills
 
  Just like math skills, coding skills are another very important metric for judging the abilities of an AI chatbot. While the majority of users will probably never[use a chatbot for coding](https://www.makeuseof.com/chatgpt-programming-practical-uses/) , there are significant underlying implications for a chatbot's abilities to write and understand code proficiently.
@@ -104,31 +111,24 @@ ChatGPT also cracked the problem as well.
 
 ![to-do list app by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/to-do-list-app-by-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Moving on to Claude AI, the chatbot wrote clearly intelligible code. The structure and logic all seemed fine. Unfortunately, despite repeated attempts, Claude AI kept missing some critical logic to make the code actually run on a browser. It's a fail on this one.
 
  After Claude AI failed the last test, we tried a different kind of coding task, one that was more about analyzing code and less about writing new code. We uploaded five PHP files that represent the complete backend for a website and asked both Claude AI and ChatGPT where we would need to edit in all the uploaded files to ensure we get a mail once a new user registers on the site.
 
 ![Claude AI analyzing multiple PHP files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-analyzing-multiple-php-files.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Surprisingly, ChatGPT, despite seemingly having superior coding skills, failed at this despite repeated attempts. Claude AI, on the other hand, was able to analyze the code proficiently while identifying the right places that needed to be edited to achieve the desired results.
 
  Of course, this was not an isolated case, we repeated it with several other code files, but ChatGPT stumbled and stalled on the majority of cases while Claude AI kept delivering impressive results. In terms of coding skills, the winner is not entirely straightforward.
 
  ChatGPT is clearly significantly better at writing new code and can manage complex code with impressive proficiency. However, Claude AI is significantly better at analyzing large code bases. So, if you're looking to write code for some new idea you have, ChatGPT is the tool to turn to. If you want to analyze or make sense of a code base with thousands of lines across several files, then we would definitely recommend Claude AI.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Claude AI Is a Potent Competitor on the Block
 
@@ -149,14 +149,20 @@ ChatGPT also cracked the problem as well.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-defining-key-indicators-for-high-impact-igtv-videos/"><u>2024 Approved Defining Key Indicators for High-Impact IGTV Videos</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtubes-non-indexable-content-decoding-the-unlisted-phenomenon/"><u>2024 Approved YouTube's Non-Indexable Content Decoding the Unlisted Phenomenon</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/a-compreenas-step-by-step-guide-for-bordered-instagram-images/"><u>A Compreenas Step-by-Step Guide for Bordered Instagram Images</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/highlight-free-and-low-cost-attractions-including-public-parks-museums-with-free-entry-days-and-walking-or-biking-tours/"><u>Highlight Free and Low-Cost Attractions, Including Public Parks, Museums with 'Free Entry Days', And Walking or Biking Tours.</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-x-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone X To Other iPhone 14 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-breaking-down-virtual-reality-jargon/"><u>In 2024, Breaking Down Virtual Reality Jargon</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-infinix-smart-8-plus-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Infinix Smart 8 Plus Phone Screen?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/lack-of-nvidia-shield-av1-format-compatibility-solved-effortless-method-inside/"><u>Lack of Nvidia Shield AV1 Format Compatibility Solved – Effortless Method Inside!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-geometry-dash-capture-top-techniques-to-record-your-gameplay-on-pc/"><u>Mastering Geometry Dash Capture: Top Techniques to Record Your Gameplay on PC</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/iral-video-victory-lap-youtubes-1-10-in-one-day-for-2024/"><u>[New] Viral Video Victory Lap YouTube's #1-#10 in One Day for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boosting-earnings-through-side-job-options-like-chatgpt-diy-pc-construction-guide-and-nostalgic-handheld-game-systems/"><u>Boosting Earnings Through Side Job Options Like ChatGPT, DIY PC Construction Guide, and Nostalgic Handheld Game Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatbots-and-content-the-next-frontier-in-media-design/"><u>Chatbots and Content: The Next Frontier in Media Design</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-tactics-to-optimize-your-daily-routine-and-save-time/"><u>ChatGPT Tactics to Optimize Your Daily Routine and Save Time</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/demystifying-claude-3-insights-into-its-functions-and-benefits/"><u>Demystifying Claude 3: Insights Into Its Functions and Benefits</u></a></li>
+<li><a href="https://win-dash.techidaily.com/expert-advice-how-to-keep-your-dell-xps-15-compatible-with-windows-through-regular-driver-maintenance/"><u>Expert Advice: How to Keep Your Dell XPS 15 Compatible with Windows Through Regular Driver Maintenance</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-latest-in-pc-gear-with-toms-hardware-guides/"><u>Exploring the Latest in PC Gear with Tom's Hardware Guides</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-concept-to-creation-building-apps-with-chatgpts-insight/"><u>From Concept to Creation: Building Apps with ChatGPT's Insight</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-solve-lg-hardware-compatibility-errors-on-microsoft-operating-systems/"><u>How to Solve LG Hardware Compatibility Errors on Microsoft Operating Systems</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-depth-tutorial-effective-screenshot-practices-on-lenovo-for-2024/"><u>In-Depth Tutorial Effective Screenshot Practices on Lenovo for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-mindfulness-a-guide-to-creating-consistent-meditation-practice-with-chatgpt/"><u>Mastering Mindfulness: A Guide to Creating Consistent Meditation Practice with ChatGPT</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-xml-demystified-unlocking-fcpxs-full-potential/"><u>New In 2024, XML Demystified Unlocking FCPXs Full Potential</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-oneplus-nord-3-5g-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for OnePlus Nord 3 5G Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/syncing-colors-across-clips-the-ultimate-powerdirector-tutorial/"><u>Syncing Colors Across Clips The Ultimate PowerDirector Tutorial</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/universal-access-connecting-with-chatgpt-on-the-go-through-chatgpt-everywhere/"><u>Universal Access: Connecting with ChatGPT on the Go Through ChatGPT Everywhere</u></a></li>
 </ul></div>
 

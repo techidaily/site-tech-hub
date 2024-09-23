@@ -1,7 +1,7 @@
 ---
 title: Safeguarding Personal Info From Customized GPT Uses
-date: 2024-09-16T20:31:23.149Z
-updated: 2024-09-18T03:41:50.632Z
+date: 2024-09-21T16:08:49.039Z
+updated: 2024-09-22T20:36:51.555Z
 tags:
   - chatgpt
   - open-ai
@@ -53,17 +53,31 @@ thumbnail: https://thmb.techidaily.com/92b81c6b9239c64bac098632d00d719afd5ea5939
  The domain “chatgpt-go.online” leads users to a website that’s a clone of the official ChatGPT website. The copy-pasted site, however, swaps the “TRY CHATGPT” button link with malicious links containing Lumma Stealer. The domain also hosts different kinds of malicious files, including clipper malware and Aurora stealer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. pay.chatgptftw.com
 
 ![pay.chatgptftw.com's payment page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pay-chatgptftw-com.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Cybercriminals also use ChatGPT-themed payment pages for financial fraud. For example, on the domain “pay.chatgptftw.com,” Cyble came across a page designed to steal credit card details. This webpage poses as a genuine payment page for ChatGPT Plus.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. ChatGPT1
 
@@ -73,31 +87,11 @@ thumbnail: https://thmb.techidaily.com/92b81c6b9239c64bac098632d00d719afd5ea5939
 
  “AI Photo” is another app that uses the ChatGPT icon, but is malicious in intent. This app was found to harbor the SpyNote malware, capable of stealing device files, contact lists, call logs, and text messages.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Meterpreter Posing as “SuperGPT” App
 
 ![The official SuperGPT's install page on Google Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/supergpt.jpg)
 
  SuperGPT is an AI assistant app built on ChatGPT. However, researchers from Unit 42 uncovered a malicious APK sample posing as the app. This fake “SuperGPT” is a Meterpreter Trojan, [a RAT that enables remote access](https://www.makeuseof.com/android-remote-access-trojan/) of Android devices.
-
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Trojan-PSW.Win64.Fobo
 
@@ -136,15 +130,19 @@ thumbnail: https://thmb.techidaily.com/92b81c6b9239c64bac098632d00d719afd5ea5939
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-optimizing-video-creation-in-obs-studio-for-2024/"><u>[New] Optimizing Video Creation in OBS Studio for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-melodic-matchmaking-music-that-resonates-with-scenes/"><u>2024 Approved Melodic Matchmaking Music That Resonates with Scenes</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/6auy57kplus57sw5bqm5yuv55s75asj5oplusb44k944ov44oi44km44kn44ki44cm44ov44kh44kv44oi44oq44o844ox44ot44cn44oa44km44oz44ot44o844oj44ks44kk44oj/"><u>高精細度動画変換ソフトウェア「ファクトリープロ」ダウンロードガイド</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/5a655pit44gq44ks44kk44oj77ya44ot44oh44kq44gu6kej5yop5bqm44ks44ob44kn44od44kv44gz44kl5oml6acg/"><u>容易なガイド：ビデオの解像度をチェックする手順</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/best-dvd-shrink-substitutes-for-optimal-performance-on-windows-11/"><u>Best DVD Shrink Substitutes for Optimal Performance on Windows 11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chrome/"><u>Chromeブラウザで簡単にダウンロード可能な動画の方法一覧</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/effective-ways-to-prevent-unexpected-shutdowns-on-your-android-device/"><u>Effective Ways to Prevent Unexpected Shutdowns on Your Android Device</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-collage-crafting-hacks-for-real-time-facebook-updates/"><u>In 2024, Collage Crafting Hacks for Real-Time Facebook Updates</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-harmonizing-your-camera-and-drone-with-a-pro-gimbal/"><u>In 2024, Harmonizing Your Camera and Drone with a Pro Gimbal</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/why-samsungs-galaxy-tab-s7-tablet-deserves-your-attention-an-in-depth-review/"><u>Why Samsung's Galaxy Tab S7 Tablet Deserves Your Attention: An In-Depth Review</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-boost-video-engagement-top-8-youtube-ranks-unveiled/"><u>[New] 2024 Approved Boost Video Engagement Top 8 YouTube Ranks Unveiled</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-different-fb-video-proportions/"><u>[New] 2024 Approved Different FB Video Proportions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-the-artificial-intelligence-driven-paperclip-enigma/"><u>Decoding the Artificial Intelligence-Driven Paperclip Enigma</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/fine-tuning-ai-accuracy-employing-6-expertly-crafted-prompts/"><u>Fine-Tuning AI Accuracy: Employing 6 Expertly Crafted Prompts</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Itel P55+? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/imposter-chatgpt-browser-add-on-exposes-instagram-credentials/"><u>Imposter ChatGPT Browser Add-On Exposes Instagram Credentials</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-lava-blaze-curve-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Lava Blaze Curve 5G by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unearthed-30-window-11-insider-strategies-to-boost-performance/"><u>In 2024, Unearthed 30 Window 11 Insider Strategies to Boost Performance</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-new-horizons-in-health-with-chatgpts-insights/"><u>Navigating New Horizons in Health with ChatGPT's Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-integrating-with-the-chatgpt-api/"><u>Step-by-Step Guide: Integrating with the ChatGPT API</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-address-microsoft-store-error-0x80073cf3/"><u>Strategies to Address Microsoft Store Error 0X80073cf3</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-digital-doctors-prescription-trustworthy-techniques-for-scrutinizing-ai-powered-health-facts/"><u>The Digital Doctor's Prescription: Trustworthy Techniques for Scrutinizing AI-Powered Health Facts</u></a></li>
 </ul></div>
 

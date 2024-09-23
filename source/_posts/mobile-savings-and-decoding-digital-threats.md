@@ -1,0 +1,85 @@
+---
+title: Mobile Savings & Decoding Digital Threats
+date: 2024-09-15T19:37:32.341Z
+updated: 2024-09-22T23:42:33.872Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: This Article Describes Mobile Savings & Decoding Digital Threats
+excerpt: This Article Describes Mobile Savings & Decoding Digital Threats
+thumbnail: https://thmb.techidaily.com/d9580a0fe0d295d2fe4ac5bc754f7348af6d4884ba16ea4dee8b131acea9d9aa.jpg
+---
+
+## Unlocking the Secrets: Mobile Devices at $50 & Free Ransomware Removal Tips + The Power of ChatGPT in Our Podcast
+
+ Our weekly tech podcast for technophobes brings you the latest tech news that will affect you and some tips and tricks to help you get better results from your electronics.
+
+ For this week's show, we asked ChatGPT to help out with outlining and even writing the show. Here's a bit more information on[how we used ChatGPT to script the podcast](https://www.makeuseof.com/i-used-chatgpt-to-script-a-podcast-heres-what-happened/) .
+
+ You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
+
+## Shownotes
+
+This week, we chat about the following tech news that matters:
+
+* [ChatGPT banned in Italy over privacy concerns](https://www.bbc.co.uk/news/technology-65139406)
+* [Twitter's blue ticks disappear as Musk attacks NY Times](https://www.bbc.co.uk/news/technology-65156216)
+* [Mobile phone inventor made first call 50 years ago](https://www.bbc.co.uk/news/technology-65112048)  
+  * [The Mother of All Demos](https://www.youtube.com/watch?v=B6rKUf9DWRI)
+
+We've got these explainers:
+
+* [Can All Ransomware Be Decrypted?](https://www.makeuseof.com/can-all-ransomware-be-decrypted/)
+* [How to Fix Games That Won't Work in Windows](https://www.makeuseof.com/fix-games-not-working-windows/)
+* [Reasons to Use Office Online/Microsoft 365](https://www.makeuseof.com/tag/dont-pay-word-5-reasons-use-office-online/)
+
+We finish the show with the following recommendations:
+
+* [RoomGPT](http://https://www.roomgpt.io/)
+* [Booom AI Quiz](https://booom.ai/)
+* [HelloTalk](https://www.hellotalk.com/?lang=en)
+
+ Christian Cawley hosts this week's podcast, and is joined by Ben Stegner. You can contact them on Twitter:[@thegadgetmonkey](https://twitter.com/thegadgetmonkey) and[@stegnersaurus](https://twitter.com/stegnersaurus) , with your suggestions for future topics.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/updated-comprehensible-guide-to-azure-voice-to-text-for-2024/"><u>[Updated] Comprehensible Guide to Azure Voice to Text for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-stealthy-sound-softening-with-garageband/"><u>[Updated] Stealthy Sound Softening with Garageband</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/breaking-down-the-eu-artificial-intelligence-act-and-its-influence-on-gpt-based-dialogue-systems/"><u>Breaking Down the EU Artificial Intelligence Act and Its Influence on GPT-Based Dialogue Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-the-debate-understanding-the-variances-between-strong-and-weak-ai-systems/"><u>Decoding the Debate: Understanding the Variances Between Strong and Weak AI Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-significance-a-game-changer-geminis-leap-with-one-million-tokens-context/"><u>Exploring the Significance: A Game Changer - Gemini's Leap with One Million Tokens Context</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/has-control-slipped-from-openais-hands-with-chatgpt/"><u>Has Control Slipped From OpenAI's Hands with ChatGPT?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-vivo-s18-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Vivo S18 to iPod | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/identifying-false-chatgpt-sites-guidelines-for-safety/"><u>Identifying False ChatGPT Sites: Guidelines for Safety</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-nokia-c12-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Nokia C12 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/leading-video-cameras-of-the-year-2024-edition/"><u>Leading Video Cameras of the Year, 2024 Edition</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionize-your-job-search-game-with-these-6-innovative-uses-for-chatgpt/"><u>Revolutionize Your Job Search Game with These 6 Innovative Uses for ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/seamlessly-connect-with-ai-your-comprehensive-guide-on-leveraging-quora-chatbot-platforms-and-large-language-models/"><u>Seamlessly Connect with AI: Your Comprehensive Guide on Leveraging Quora, Chatbot Platforms & Large Language Models</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/speedy-printer-solutions-unveiled/"><u>Speedy Printer Solutions Unveiled</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-repair-guide-when-your-btws-mic-fails-to-function/"><u>Ultimate Repair Guide: When Your BTWS Mic Fails to Function</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Xiaomi Redmi 13C? | Dr.fone</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

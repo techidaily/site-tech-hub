@@ -1,7 +1,7 @@
 ---
 title: Navigating the Field of AI Prompt Creation and Its Long-Term Career Potential
-date: 2024-09-10T23:02:32.016Z
-updated: 2024-09-17T17:57:29.967Z
+date: 2024-09-20T23:34:59.634Z
+updated: 2024-09-22T17:41:59.083Z
 tags:
   - chatgpt
   - open-ai
@@ -54,6 +54,13 @@ Here's the fictitious article that ChatGPT came up with:
 
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Using Chatbots to Influence People's Opinions
 
  Chatbots that rely on generative AI models can employ various tactics to influence people's opinions, including:
@@ -64,13 +71,6 @@ Here's the fictitious article that ChatGPT came up with:
 * **Targeted personalization** : Chatbots have access to vast amounts of data that they can gather to create personalized profiles. This enables them to customize content based on your preferences. Through targeted personalization, AI can persuade individuals or further strengthen their opinions.
 
  These examples all illustrate how chatbots can be utilized to mislead people.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Creating AI DeepFakes
 
@@ -88,6 +88,13 @@ Here's the fictitious article that ChatGPT came up with:
 
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by[The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Spot AI-Spread Disinformation
 
  Combating the spread of disinformation facilitated by AI is a pressing issue in today's world. So how can you spot false information that's been made by AI?
@@ -98,13 +105,6 @@ Here's the fictitious article that ChatGPT came up with:
 4. Use fact-checking websites to verify the accuracy of information.
 
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Beware of Disinformation Spread by AI
 
@@ -127,21 +127,20 @@ Here's the fictitious article that ChatGPT came up with:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-windows-snapshot-mastery-3-easy-approaches/"><u>[Updated] 2024 Approved Windows Snapshot Mastery (3 Easy Approaches)</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-videosnapper-quickly-download-twitter-content-on-iphone/"><u>[Updated] In 2024, VideoSnapper Quickly Download Twitter Content on iPhone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-top-windows-phone-video-players-essential-app-selections/"><u>[Updated] Top Windows Phone Video Players Essential App Selections</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1726027761786-hevc/"><u>高効率ビデオエンジン(HEVC)コーデック変換方法に関する包括的解説</u></a></li>
-<li><a href="https://extra-information.techidaily.com/chill-peaks-2022-winter-games-moments-for-2024/"><u>Chill Peaks 2022 Winter Games Moments for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1726029736100-dvd/"><u>DVD レンタルから完全解放：圧倒的に簡単な映像コピーガード回避方法</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-iphone-wont-sync-with-itunes-on-windows-11-solved/"><u>Fix: IPhone Won't Sync with iTunes on Windows 11 - Solved!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1726029869096-gif/"><u>GIF動画の向きを変える究極ガイド</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Asus ROG Phone 7? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-iphone-8-plus-drfone-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock iPhone 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-asus-rog-phone-8-pro-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Asus ROG Phone 8 Pro Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1726029562056-liveship/"><u>LIVESHIP (ライブシップ) のストリーミング動画記録手引き</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-guide-to-extracting-silent-version-of-an-avi-file/"><u>Updated In 2024, Guide to Extracting Silent Version of an AVI File</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1726026870345-windows-10/"><u>Windows 10用動画カット技術詳解</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1726029593868-windows-11mp4/"><u>Windows 11上におけるMP4ファイル等の動画分割手順</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1726026623828-youtube/"><u>YouTube 年齢制限突破！シークレットの方法</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-the-art-of-video-storytelling-how-to-craft-impactful-and-informative-edu-vids-on-youtube/"><u>[New] 2024 Approved The Art of Video Storytelling How to Craft Impactful and Informative Edu-Vids on YouTube</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-conquer-pc-audio-with-these-windows-10-strategies/"><u>[Updated] 2024 Approved Conquer PC Audio with These Windows 10 Strategies</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/audio-amplification-for-online-photo-archiving-for-2024/"><u>Audio Amplification for Online Photo Archiving for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beyond-cool-features-the-top-6-advantages-of-integrating-my-ai-into-your-snapchat-habits/"><u>Beyond Cool Features: The Top 지6 Advantages of Integrating My AI Into Your Snapchat Habits</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boost-your-browsers-brainpower-leading-artificial-intelligence-extensions-to-elevate-productivity-on-chrome/"><u>Boost Your Browser's Brainpower: Leading Artificial Intelligence Extensions to Elevate Productivity on Chrome</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/developers-query-github-copilot-against-gpt-3/"><u>Developer's Query: GitHub Copilot Against GPT-3</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-writing-made-easy-with-chatgpt-integration-in-ms-word-your-step-by-step-manual/"><u>Effortless Writing Made Easy with ChatGPT Integration in MS Word - Your Step by Step Manual</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancing-emotional-care-with-technology-explore-5-cutting-edge-chatgpt-therapists-and-applications/"><u>Enhancing Emotional Care with Technology: Explore 5 Cutting-Edge ChatGPT Therapists and Applications</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/essential-english-100-words-that-often-go-awry/"><u>Essential English: 100 Words That Often Go Awry</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-oppo-a18-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Oppo A18? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leading-ai-creative-hubs-ranking-of-prime-prompt-marketplaces/"><u>Leading AI Creative Hubs: Ranking of Prime Prompt Marketplaces</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/stay-alert-on-twitter-unveiling-new-scams-exploring-the-launch-of-metas-verification-system-and-delving-into-how-chatgpt-4-works/"><u>Stay Alert on Twitter: Unveiling New Scams, Exploring the Launch of Meta's Verification System & Delving Into How ChatGPT-4 Works</u></a></li>
+<li><a href="https://article-files.techidaily.com/streamline-your-view-adding-captions-on-windows-media-player-for-2024/"><u>Streamline Your View Adding Captions on Windows Media Player for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-ai-debate-llama-3-against-gpt-4-which-reigns-supreme/"><u>The Ultimate AI Debate: LLaMA 3 Against GPT-4 Which Reigns Supreme?</u></a></li>
 </ul></div>
 

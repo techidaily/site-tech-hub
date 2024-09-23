@@ -1,7 +1,7 @@
 ---
 title: "Avoid the Trap: Steering Clear of 6 Major Mistakes with ChatGPT Prompt Creation"
-date: 2024-09-12T01:14:33.015Z
-updated: 2024-09-17T19:41:59.958Z
+date: 2024-09-17T21:43:40.696Z
+updated: 2024-09-22T20:28:05.747Z
 tags:
   - chatgpt
   - open-ai
@@ -57,6 +57,13 @@ Close
 
  It's a basic version of the classic game, but it's engaging enough. The custom GPT's scripting doesn't allow you to go off-piste and, say, rob the local convenience store for supplies (nor did the original), but it's certainly a lot easier without so many setbacks constantly upending and destroying your party. It's a much easier version, that's for sure.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3.[Poker](https://chat.openai.com/g/g-lHyTLJaCX-poker)
 
  From the potential death and horror of the Oregon Trail to something a little more relaxing: Poker. You play against the AI in this Poker custom GPT, starting with 10,000 credits, and play standard five-card Texas hold'em until someone's credits run out.
@@ -66,10 +73,10 @@ Close
  My only major gripe about this poker game is that ChatGPT seems to mimic your choices, such as check, raise, and so on, which can make the game predictable (or at least less random).
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4.[Console GPT](https://chat.openai.com/g/g-3p94K4Djb-console-gpt)
@@ -89,13 +96,6 @@ Close
 Close
 
  The narrative flow is a bit shaky, and Console GPT could use some extra commands to remember other parts of the story, but it's good fun for a while. For example, one moment, I was a lone operative in a bar, and the next, I was planning a heist in a room with the rest of my assembled team.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5.[Cookie Clicker](http://chat.openai.com/g/g-g0b22bvqB-cookie-clicker)
 
@@ -138,16 +138,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-the-visionaries-of-video-workshop/"><u>[Updated] 2024 Approved The Visionaries of Video Workshop</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-beyond-the-numbers-narrative-the-impact-of-fake-likes/"><u>[Updated] Beyond the Numbers Narrative The Impact of Fake Likes</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-finding-and-exploring-your-own-music-selection-zone-on-youtube/"><u>[Updated] In 2024, Finding and Exploring Your Own Music Selection Zone on Youtube</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-the-ultimate-list-of-no-cost-streaming-sites-top-7-picks-for-web-series-lovers/"><u>Discover the Ultimate List of No-Cost Streaming Sites - Top 7 Picks for Web Series Lovers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/diy-dvd/"><u>DIY DVDフェイクリーヴン：破損したディスクの傷を完全に取り除くコツ</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/download-top-notch-youtube-thumbnails-with-these-3-strategies/"><u>Download Top-Notch YouTube Thumbnails with These 3 Strategies</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/easy-conversion-guide-transforming-fla-animations-into-high-def-mp4-formats/"><u>Easy Conversion Guide: Transforming .FLA Animations Into High-Def MP4 Formats</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/effortless-methods-to-transform-videos-into-mobile-friendly-formats-instantly/"><u>Effortless Methods to Transform Videos Into Mobile-Friendly Formats Instantly!</u></a></li>
-<li><a href="https://fox-info.techidaily.com/exploring-the-world-of-book-trailers-with-top-5-picks/"><u>Exploring the World of Book Trailers with Top 5 Picks</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Itel A60s | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/xsplit-vs-obs-which-one-simplifies-live-broadcast/"><u>XSplit Vs. OBS – Which One Simplifies Live Broadcast?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-unmasking-phony-fans-in-social-media/"><u>[New] 2024 Approved Unmasking Phony Fans in Social Media</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-cutting-edge-filmmaking-the-essential-cinematic-tips-of-24/"><u>[New] Cutting Edge Filmmaking The Essential Cinematic Tips of '24</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-cutting-edge-video-meeting-techniques-on-slack-plus-filmora-for-2024/"><u>[New] Cutting-Edge Video Meeting Techniques on Slack + Filmora for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-from-start-up-to-success-how-to-register-a-professional-account-on-instagram-for-2024/"><u>[Updated] From Start-Up to Success How to Register a Professional Account on Instagram for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-lava-blaze-2-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Lava Blaze 2 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-user-data-safety-assessed/"><u>ChatGPT: User Data Safety Assessed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-microsofts-latest-ai-upgrade-to-bing-is-transforming-the-way-we-find-information-online/"><u>How Microsoft's Latest AI Upgrade to Bing Is Transforming the Way We Find Information Online</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ipogo-will-be-the-new-ispoofer-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Honor 80 Pro Straight Screen Edition? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/launching-into-langchain-an-easy-guide/"><u>Launching Into LangChain: An Easy Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/medical-misinformation-risks-with-tech-assistance/"><u>Medical Misinformation Risks with Tech Assistance</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/streamline-document-management-with-onlyoffice-docspace-enhanced-by-chatgpt-capabilities/"><u>Streamline Document Management with ONLYOFFICE DocSpace Enhanced by ChatGPT Capabilities</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/the-ultimate-instagram-ringtone-making-manual/"><u>The Ultimate Instagram Ringtone Making Manual</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-corporate-concerns-the-top-5-causes-for-banning-chatgpt-in-the-workplace/"><u>Unveiling Corporate Concerns: The Top 5 Causes for Banning ChatGPT in the Workplace</u></a></li>
 </ul></div>
 

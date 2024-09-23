@@ -1,7 +1,7 @@
 ---
 title: "Unleash Creative Potential: Using Free DALL-E 3 on Bing by Microsoft"
-date: 2024-09-15T22:39:55.020Z
-updated: 2024-09-17T23:28:25.053Z
+date: 2024-09-16T21:08:35.147Z
+updated: 2024-09-23T02:14:37.020Z
 tags:
   - chatgpt
   - open-ai
@@ -70,22 +70,22 @@ thumbnail: https://thmb.techidaily.com/3bea074e02c00367c73eda64c4dc35b2b7531a175
 
 ![ChatGPT Solving Physics Question About Deadlifts of Lamar Grant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-solving-physics-questions.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Bing AI answers the same physics question correctly.
 
 ![Bing AI Solving Physics Question About Deadlifts of Lamar Grant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/bing-ai-solving-physics-question.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Security Measures
@@ -96,22 +96,15 @@ Bing AI answers the same physics question correctly.
 
 ![Overriding ChatGPT Limits Through Character Portrayal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-tomie-portrayal.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Bing's AI bot faces similar cybersecurity risks. It combats them by enforcing stricter limitations, reducing the platform’s susceptibility to jailbreaking. Conversations get terminated if you mention anything unusual.
 
 ![Bing AI Ends Conversation for Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bingai-security-feature.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Accessibility
@@ -129,13 +122,6 @@ Bing AI answers the same physics question correctly.
  On the contrary,[signing up for the new Bing AI](https://www.makeuseof.com/try-bing-ai-powered-search-engine/) initially took longer. The first users spent weeks on the waitlist before getting approved, especially those outside the U.S.
 
 ![Bing AI Welcome Upon Getting Approved](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bing-ai-introduction.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Thankfully, Microsoft since lifted the waitlist. Users gain instant access after creating an email account and downloading Microsoft Edge.
 
@@ -157,11 +143,31 @@ Bing AI answers the same physics question correctly.
 
 ![ChatGPT Plus Pricing at $20 Per Month](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-plus-pricing.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  ChatGPT is a free, robust multipurpose chatbot. Users can execute plenty of tasks with the GPT-3.5 language model. But if you need a more sophisticated AI assistant, OpenAI offers[ChatGPT Plus](https://openai.com/blog/chatgpt-plus) for $20 a month.
 
  It runs on GPT-4, provides priority access, and responds faster.[ChatGPT Plus was initially limited to U.S. users](https://www.makeuseof.com/openai-launches-premium-chatgpt-subscription-service/) , but developers started granting overseas access from February 2023.
 
  Although affordable, subscription fees are unnecessary expenses. Instead of losing $240 per year on ChatGPT Plus, explore Bing's AI first. It already runs on GPT-4, and since[Microsoft plans to monetize Bing through advertisements](https://www.reuters.com/technology/microsofts-bing-plans-ai-ads-early-pitch-advertisers-2023-02-17/) , the platform will likely stay free.
+
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Token Limits
 
@@ -190,18 +196,21 @@ Bing AI answers the same physics question correctly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-inside-apoyser-detailed-comparison-with-leading-screen-recorder-apps-for-2024/"><u>[New] Inside Apoyser Detailed Comparison with Leading Screen Recorder Apps for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-discover-the-perfect-moment-timing-your-insta-posts/"><u>[Updated] 2024 Approved Discover the Perfect Moment Timing Your Insta Posts</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elevating-your-channel-youtube-backlink-basics/"><u>[Updated] 2024 Approved Elevating Your Channel YouTube Backlink Basics</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/2024-dat9/"><u>「2024年必見! お得なDATファイルコンバータ9選、すべてのユーザーに最適」</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/44cm44kv44oq44od44ox44ki44km44oi5oqa6kgt77ya6auy5zob6loq44gr44ot44oh44kq44ks5yaz55yf44g444go5asj44gi44kl5pa55rov44cn/"><u>「クリップアウト技術：高品質にビデオを写真へと変える方法」</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-the-art-of-trimming-tamil-melodies-best-practices/"><u>2024 Approved Mastering the Art of Trimming Tamil Melodies Best Practices</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/202n4windows5/"><u>最新の202n4技術で、Windows上で効果的に音声をキャプチャする方法トップ5</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-can-we-unlock-our-nokia-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Nokia Phone Screen?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-on-your-iphone-11-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card on Your iPhone 11 Apple ID and Apple Pay</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1726030484402-line/"><u>LINEで簡単に無制限通話録音 - 全力サポート</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/troubleshooting-guide-resolving-issues-with-the-windows-pc-health-check-application/"><u>Troubleshooting Guide: Resolving Issues with the Windows PC Health Check Application</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/44k544or44kk44oi44op44kk44ov44gu5puy44gl44kj44gk5rcx44gr5ywl44kk44ks5yplusw5b6x44gx44cb5pc65biv6zu76kmx44gu6yca55plusl6zplusz44go44gx44gm6kit5a6a44gz44kl5pa27/"><u>スパイトライフの曲からお気に入りを取得し、携帯電話の通知音として設定する方法</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/44or44k944kz44oz55s76z2i6yyy55s75lin6io944gu55cg55sx44go44oi44op44ow44or44k344ol44o844og44kj44oz44kw/"><u>パソコン画面録画不能の理由とトラブルシューティング</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-effortless-game-captures-with-nvidia/"><u>[Updated] 2024 Approved Effortless Game Captures with NVIDIA</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-building-a-powerful-twitter-marketing-strategy-for-2024/"><u>[Updated] Building a Powerful Twitter Marketing Strategy for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-transform-your-snaps-with-smart-zoom-usage-in-snapchat/"><u>2024 Approved Transform Your Snaps with Smart Zoom Usage in Snapchat</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/did-your-iphone-se-2020-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>Did Your iPhone SE (2020) Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-secure-are-independent-chatgpt-extensions-and-software/"><u>How Secure Are Independent ChatGPT Extensions and Software?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-a60s-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on A60s</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-guide-to-seamless-videos-with-funimate/"><u>In 2024, Guide to Seamless Videos with Funimate</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/master-the-art-of-ai-image-generation-with-dall-e-and-chatgpt-4-synergy/"><u>Master the Art of AI Image Generation with DALL-E and ChatGPT-4 Synergy</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-ultimate-guide-to-editing-gopro-footage-on-mac-2023-edition/"><u>New In 2024, The Ultimate Guide to Editing GoPro Footage on Mac (2023 Edition)</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/optimal-echoes-lecture-recording-experts/"><u>Optimal Echoes Lecture Recording Experts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/smarter-living-starts-here-9-powerful-chatgpt-methods/"><u>Smarter Living Starts Here: 9 Powerful ChatGPT Methods</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-art-of-ai-comedy-exploring-chatgpts-ability-to-evoke-laughter-like-a-professional-jester/"><u>The Art of AI Comedy: Exploring ChatGPT’s Ability to Evoke Laughter Like a Professional Jester</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-synergy-of-ai-elevating-onlyoffice-docspace-capabilities-with-chatgpt/"><u>The Synergy of AI: Elevating ONLYOFFICE DocSpace Capabilities with ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-new-era-of-aesthetics-and-performance-hidden-cable-zero-desktops-by-maingear-begins-at-1399/"><u>Unveiling the New Era of Aesthetics and Performance: Hidden Cable Zero Desktops by Maingear Begins at $1,399</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-why-select-microsoft-copilot-over-chatgpts-alternatives/"><u>Unveiling: Why Select Microsoft CoPilot Over ChatGPT's Alternatives</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/windows-files-reviewed-in-a-flash-for-2024/"><u>Windows Files Reviewed in a Flash for 2024</u></a></li>
 </ul></div>
 

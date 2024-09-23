@@ -1,7 +1,7 @@
 ---
 title: "Pioneering Intelligent Communication: 5 Best Ways for Tailored ChatGPT Interactions"
-date: 2024-09-11T21:52:54.289Z
-updated: 2024-09-17T16:43:18.593Z
+date: 2024-09-20T23:59:46.929Z
+updated: 2024-09-22T22:22:34.184Z
 tags:
   - chatgpt
   - open-ai
@@ -80,6 +80,13 @@ thumbnail: https://thmb.techidaily.com/1ccd49c85e9212303a8d46ffca4e2f894288070bb
 
 ![using the 'transcript and summary box' from youtube summary extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/youtube-summary-extension.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The extension also has a button to view an AI-generated summary of the video. Clicking this takes you to ChatGPT, with the transcript already typed in the prompt. All you have to do now is prompt ChatGPT to summarize the text, and you'll get an instant summary.
 
  You can also add further prompts for more details regarding specific parts of the video without having to watch the full thing.
@@ -87,10 +94,16 @@ thumbnail: https://thmb.techidaily.com/1ccd49c85e9212303a8d46ffca4e2f894288070bb
 **Download:** YouTube Summary With ChatGPT for[Chrome](https://chrome.google.com/webstore/detail/youtube-summary-with-chat/nmmicjeknamkfloonkhhcjmomieiodli) |[Safari](https://apps.apple.com/us/app/glasp-social-web-highlighter/id1605690124) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Talk-to-ChatGPT
@@ -104,16 +117,10 @@ thumbnail: https://thmb.techidaily.com/1ccd49c85e9212303a8d46ffca4e2f894288070bb
 **Download:** Talk-to-ChatGPT for[Chrome](https://chrome.google.com/webstore/detail/talk-to-chatgpt/hodadfhfagpiemkeoliaelelfbboamlk) (Free)
 
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. ChatGPT for Search Engines
@@ -127,13 +134,6 @@ thumbnail: https://thmb.techidaily.com/1ccd49c85e9212303a8d46ffca4e2f894288070bb
 ## 7\. Perplexity AI
 
 ![query answers by perplexity ai extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/perplexity-ai.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The decentralization of information and knowledge has done much good in recent years. But, like anything in tech, it carries an ugly side to it, too. The rise of fake news and misinformation, for instance, is one of its biggest unwanted by-products.
 
@@ -164,20 +164,13 @@ thumbnail: https://thmb.techidaily.com/1ccd49c85e9212303a8d46ffca4e2f894288070bb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-optimal-tripod-setup-for-smooth-professional-videography/"><u>[New] 2024 Approved Optimal Tripod Setup for Smooth, Professional Videography</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-revealing-the-best-of-both-worlds-1-tiktoks-on-twitter/"><u>[New] In 2024, Revealing the Best of Both Worlds #1 TikToks on Twitter</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-rush-and-reaction-sochis-speed-showdown/"><u>[New] In 2024, Rush & Reaction Sochi's Speed Showdown</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/aking-the-most-of-your-youtube-thumbnail-space/"><u>[New] Making the Most of Your YouTube Thumbnail Space</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/best-ever-film-dialogues-showcase/"><u>Best-Ever Film Dialogues Showcase</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-avi-video-rotators-a-roundup-of-the-best-tools-for-all-platforms-for-2024/"><u>Free AVI Video Rotators A Roundup of the Best Tools for All Platforms for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-guide-to-producing-effective-youtube-promo-videos/"><u>In 2024, Guide to Producing Effective YouTube Promo Videos</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mkvdivx2/"><u>MKVをDivXに素早く優れた品質で変換する方法の2つ</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/most-effective-methods-for-converting-asf-files-into-wav-format/"><u>Most Effective Methods for Converting ASF Files Into WAV Format</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/newbies-tutorial-on-adjusting-fps-settings-in-adobe-premiere-pro/"><u>Newbie's Tutorial on Adjusting Fps Settings in Adobe Premiere Pro</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/on-screen-capture-aid/"><u>On-Screen Capture Aid</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/page-not-found-discover-the-new-location-with-wonderfox-search/"><u>Page Not Found? Discover the New Location with WonderFox Search</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/quality-no-cost-top-ultimate-list-free-and-easy/"><u>Quality, No-Cost, Top, Ultimate List, Free, and Easy.</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/quick-and-easy-methods-for-transforming-videos-into-mp3-files-without-hassle/"><u>Quick and Easy Methods for Transforming Videos Into MP3 Files Without Hassle</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/quick-and-easy-strategies-to-turn-your-slideshows-into-engaging-videos/"><u>Quick and Easy Strategies to Turn Your Slideshows Into Engaging Videos</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/inge-on-christmas-classics-enjoy-9-whole-film-flicks-no-charge/"><u>[New] Binge on Christmas Classics Enjoy 9 Whole-Film Flicks No Charge!</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-inexpensive-pcs-revealed-by-best-obs-setup/"><u>[Updated] Inexpensive PCs Revealed by Best OBS Setup</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-crafting-the-perfect-soundtrack-for-your-vimeo-content/"><u>2024 Approved Crafting the Perfect Soundtrack for Your Vimeo Content</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-vimeo-streaming-to-mp3-a-compreenas-guide/"><u>2024 Approved Vimeo Streaming to MP3 - A Compreenas Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-tricks-to-acquire-dry-stock-photography/"><u>In 2024, Tricks to Acquire Dry Stock Photography</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-development-journey-how-gpt-1-transformed-into-the-powerful-gpt-4-explained/"><u>The Development Journey: How GPT-1 Transformed Into the Powerful GPT-4 Explained</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-claude-3s-functionality/"><u>Understanding Claude 3'S Functionality</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/website-building-boosted-by-ai-discover-how-chatgpt-contributes-in-4-ways/"><u>Website Building Boosted by AI: Discover How ChatGPT Contributes in 4 Ways</u></a></li>
 </ul></div>
 

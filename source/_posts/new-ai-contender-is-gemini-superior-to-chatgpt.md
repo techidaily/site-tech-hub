@@ -1,7 +1,7 @@
 ---
 title: "New AI Contender: Is Gemini Superior to ChatGPT?"
-date: 2024-09-16T19:34:41.085Z
-updated: 2024-09-17T23:13:33.159Z
+date: 2024-09-17T16:53:57.478Z
+updated: 2024-09-22T20:59:49.107Z
 tags:
   - chatgpt
   - open-ai
@@ -52,16 +52,16 @@ thumbnail: https://thmb.techidaily.com/22dc377b14c8750c75c360ab6d9b7d702e69a18c8
 
  The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Install and Configure ChatGPT Desktop Application
 
 ![chatgpt open source desktop version home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-home-page.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Head to the open-source[ChatGPT Desktop Application download page](https://github.com/lencx/ChatGPT/releases/tag/v1.1.0) . The latest version at the time of writing is V1.1.0, but you can check for a newer version.
 2. Download the applicable version for your operating system, then install it as per your operating system.
@@ -72,10 +72,10 @@ thumbnail: https://thmb.techidaily.com/22dc377b14c8750c75c360ab6d9b7d702e69a18c8
 ![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When Is the Official ChatGPT Desktop Version Launching?
@@ -101,19 +101,20 @@ thumbnail: https://thmb.techidaily.com/22dc377b14c8750c75c360ab6d9b7d702e69a18c8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-comprehensible-guide-to-updating-usernames-in-google-meet/"><u>[New] 2024 Approved Comprehensible Guide to Updating Usernames in Google Meet</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Nokia C12 | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1726028764244-wmv/"><u>高性能WMVコンバーター:結合ソフトとして最適なフリープログラムのトップ４選び - 専門家推薦</u></a></li>
-<li><a href="https://article-helps.techidaily.com/action-cam-reimagined-an-extensive-review-of-the-sj-cam-s6/"><u>Action Cam Reimagined An Extensive Review of the SJ-CAM S6</u></a></li>
-<li><a href="https://article-helps.techidaily.com/architectural-marvels-for-vr-display/"><u>Architectural Marvels for VR Display</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ing-on-the-side-balancing-employment-with-youtube/"><u>Creating on the Side Balancing Employment with YouTube</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-top-methods-for-android-video-capture/"><u>In 2024, Top Methods for Android Video Capture</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1726026406103-mp4/"><u>MP4ビデオの品質を低下させるテクニック</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/-mastery-top-6-free-video-closers-for-2024/"><u>Outro Mastery Top 6 Free Video Closers for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1726027881094-powerpointmp4/"><u>PowerPointからMP4にするための方法と、変換ができない時のバックアップ戦略</u></a></li>
-<li><a href="https://techidaily.com/streamlining-logistics-the-future-of-digital-and-automated-freight-with-abbyys-insights/"><u>Streamlining Logistics: The Future of Digital & Automated Freight with ABBYY's Insights</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-samsung-galaxy-z-fold-5-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Samsung Galaxy Z Fold 5 FRP Bypass</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/windows-10-dvd-cprm/"><u>Windows 10対応 DVD CPRM解除自由プログラム - 最適推薦</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/youtubepcdvd/"><u>YouTubeビデオのPCからDVDへの記録手順</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-directed-focus-youtubes-easy-ways-for-smoother-borders-for-2024/"><u>[New] Directed Focus YouTube's Easy Ways for Smoother Borders for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-leveraging-spotifys-features-a-marketing-gamechanger-guide/"><u>[New] Leveraging Spotify’s Features A Marketing Gamechanger Guide</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-mastering-instagram-video-edits-ultimate-tutorial-guide-for-2024/"><u>[New] Mastering Instagram Video Edits Ultimate Tutorial Guide for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-streamlined-process-for-hassle-free-hdr-shots/"><u>[Updated] 2024 Approved Streamlined Process for Hassle-Free HDR Shots</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/artificial-intelligence-help-deciding-between-snapchats-my-ai-and-chatgpt/"><u>Artificial Intelligence Help: Deciding Between Snapchat's My AI and ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-ai-enhance-or-detriment-personal-psychological-health-and-offer-help/"><u>Can AI Enhance or Detriment Personal Psychological Health & Offer Help?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/get-ahead-an-amazing-open-source-chatbot-option-if-youre-not-holding-out-for-chatgpt-app/"><u>Get Ahead: An Amazing Open-Source Chatbot Option If You're Not Holding Out for ChatGPT App!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/hugging-face-clarity-on-its-role-in-ai/"><u>Hugging Face: Clarity on Its Role in AI</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/imovie-windows-pc-imovie/"><u>IMovie ใน Windows: เซ็ก컬 ไส้กระแท่ก ข้อสง่�ใน PC iMovie - ทักษะลึกซาก</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-vehicle-personalization-through-interactive-sessions-with-chatgpt/"><u>Mastering the Art of Vehicle Personalization Through Interactive Sessions with ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-digital-defense-key-forecasts-for-cybersecurity-developments/"><u>Navigating Digital Defense: Key Forecasts for Cybersecurity Developments</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/quantum-quadrants-cinematic-frontiers-for-2024/"><u>Quantum Quadrants Cinematic Frontiers for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Tecno Spark 10 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-access-navigating-quoras-pathway-to-interact-with-ai-chatbots-and-large-language-models/"><u>Unlocking Access: Navigating Quora's Pathway to Interact with AI Chatbots and Large Language Models</u></a></li>
 </ul></div>
 

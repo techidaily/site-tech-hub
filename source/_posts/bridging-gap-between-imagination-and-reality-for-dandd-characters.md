@@ -1,7 +1,7 @@
 ---
 title: Bridging Gap Between Imagination and Reality for D&D Characters
-date: 2024-09-16T20:53:24.733Z
-updated: 2024-09-18T01:21:56.100Z
+date: 2024-09-18T19:30:04.606Z
+updated: 2024-09-22T17:23:58.500Z
 tags:
   - chatgpt
   - open-ai
@@ -73,13 +73,6 @@ Here's the fictitious article that ChatGPT came up with:
 
  It's crucial, then, to be able to[identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. Cloning Human Voices
 
  Generative AI, along with deepfake technology, enables the manipulation of someone's speech. Deepfake technology is advancing rapidly and offers a variety of tools that can replicate anyone's voice. This allows malicious individuals to impersonate others and deceive unsuspecting individuals. One such example is[the use of deepfake music](https://www.makeuseof.com/what-is-deepfake-ai-music/) .
@@ -87,6 +80,13 @@ Here's the fictitious article that ChatGPT came up with:
  You might have come across tools like[Resemble AI](https://www.resemble.ai/) ,[Speechify](https://speechify.com/) ,[FakeYou](https://fakeyou.com/) , and others that can mimic the voices of celebrities. While these AI audio tools can be entertaining, they pose significant risks. Scammers can utilize voice cloning techniques for various fraudulent schemes, resulting in financial losses.
 
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by[The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Spot AI-Spread Disinformation
 
@@ -100,16 +100,10 @@ Here's the fictitious article that ChatGPT came up with:
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Beware of Disinformation Spread by AI
@@ -133,12 +127,14 @@ Here's the fictitious article that ChatGPT came up with:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-leading-game-reviews-top-business-sims-for-24/"><u>[New] Leading Game Reviews Top Business Sims for '24</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-7-advanced-mobile-applications-transforming-voice-clarity/"><u>[Updated] 7 Advanced Mobile Applications Transforming Voice Clarity</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-assessing-hdr-standards-luminances-role/"><u>[Updated] Assessing HDR Standards Luminance's Role</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/best-source-to-obtain-logitech-unifying-receiver-driver-for-windows-users/"><u>Best Source to Obtain Logitech Unifying Receiver Driver for Windows Users</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-converting-quicktime-mov-files-to-prores-format-on-windows/"><u>Step-by-Step Guide: Converting QuickTime .mov Files to ProRes Format on Windows</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-exciting-action-packed-movie-brick-mansions-ripped-from-the-original-dvd-watch-free/"><u>The Exciting Action-Packed Movie 'Brick Mansions' Ripped From the Original DVD - Watch Free</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-ultimate-guide-quick-and-painless-dvd-to-m4v-file-conversion-techniques/"><u>The Ultimate Guide: Quick and Painless DVD-to-M4V File Conversion Techniques</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-sharpen-your-snaps-the-elite-eight-of-grids-and-frames/"><u>[Updated] 2024 Approved Sharpen Your Snaps The Elite Eight of Grids and Frames</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-the-wizardry-of-images-elevate-your-snapchat-with-edits/"><u>[Updated] 2024 Approved The Wizardry of Images Elevate Your Snapchat with Edits</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/44cm44od44or44oo44op44ow5yuv55s744gu5a6j5ywo44gq5lil6jc944go5lplusd566h5oml5q6144cn/"><u>「ポルノハブ動画の安全な下落と保管手段」</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/4youtube/"><u>4つの最も効果的な方法でYouTubeから静止画を撮るガイド</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/aviutlmp4/"><u>AviUtlでMP4対策：うまく動画が見れない時のトラブルシューティングと解決方法</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/best-top-10-free-photography-libraries-offering-premium-quality-images/"><u>Best Top 10 Free Photography Libraries Offering Premium-Quality Images</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/nize-your-hours-synchronized-video-playback-across-platforms/"><u>Harmonize Your Hours Synchronized Video Playback Across Platforms</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-soloists-guide-to-captivating-audiences/"><u>In 2024, The Soloist's Guide to Captivating Audiences</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
 </ul></div>
 

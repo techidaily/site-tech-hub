@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT and You: Crafting Personalized Health Targets for Success"
-date: 2024-09-15T00:43:03.233Z
-updated: 2024-09-17T22:09:33.882Z
+date: 2024-09-16T20:19:06.108Z
+updated: 2024-09-22T23:54:42.327Z
 tags:
   - chatgpt
   - open-ai
@@ -57,10 +57,10 @@ Close
  Perplexity is free to use. However, you can upgrade to its Pro plan ($20/month) for access to additional features, such as unlimited access to its more powerful AI models like OpenAI's GPT-4, Anthropic's Claude 3 Opus and Sonnet, and Mistral's Large, plus support for images and files, and better support.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can Perplexity AI Replace Google?
@@ -72,10 +72,10 @@ Close
 ![screenshot showing search result on perplexity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-showing-search-result-on-perplexity.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  It's worth noting that[Google has been testing Search Generative Experience (SGE)](https://www.makeuseof.com/how-to-access-google-ai-powered-search/) , an AI-assisted search feature. SGE provides AI overviews of search queries similar to Perplexity AI. Perplexity AI currently does a better job of answering queries thoroughly and also provides in-text citations for cross-referencing. However, this is something Google can replicate, if it becomes where the battle line is drawn.
@@ -99,19 +99,16 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-the-pathway-to-visual-storytelling-through-gifs/"><u>[Updated] 2024 Approved The Pathway to Visual Storytelling Through GIFs</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-beyond-capture-understanding-mycams-advanced-features/"><u>[Updated] Beyond Capture – Understanding MyCam's Advanced Features</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-safe-surveillance-practices-keeping-info-undercover/"><u>[Updated] Safe Surveillance Practices Keeping Info Undercover</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/dall-e-3s-recent-upgrade-introducing-edit-tools-with-more-development-needed/"><u>DALL-E 3'S Recent Upgrade: Introducing Edit Tools with More Development Needed</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-the-leading-6-giant-language-models-revolutionizing-ai/"><u>Discover the Leading 6 Giant Language Models Revolutionizing AI</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/groundbreaking-release-openai-unveils-revolutionary-gpt-4-ai-system/"><u>Groundbreaking Release: OpenAI Unveils Revolutionary GPT-4 AI System</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-insight-into-t-series-profit-from-youtube-platforms/"><u>In 2024, Insight Into T-Series Profit From YouTube Platforms</u></a></li>
-<li><a href="https://win-dash.techidaily.com/install-or-upgrade-mpow-bluetooth-drivers-for-seamless-experience-with-windows-10-8-and-7-systems/"><u>Install or Upgrade MPOW Bluetooth Drivers for Seamless Experience with Windows 10, 8 & 7 Systems</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-stability-a-step-by-step-solution-to-prevent-ntdlldll-errors-in-windows-11-and-10-environments/"><u>Mastering Stability: A Step-by-Step Solution to Prevent ntdll.dll Errors in Windows 11 and 10 Environments</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-ai-wisely-unveiling-six-key-issues-you-should-be-aware-of/"><u>Navigating AI Wisely: Unveiling Six Key Issues You Should Be Aware Of</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/not-only-patience-find-out-about-a-superb-open-source-chatbot-replacement-today/"><u>Not Only Patience: Find Out About a Superb Open-Source Chatbot Replacement Today!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcome-lenovos-black-monitor-myth/"><u>Overcome Lenovo's Black Monitor Myth</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/overwatch-simplified-recording-strategies-for-2024/"><u>Overwatch Simplified Recording Strategies for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/quick-and-easy-setting-up-autogpt-automatically-on-an-ubuntu-machine/"><u>Quick and Easy: Setting Up Autogpt Automatically on an Ubuntu Machine</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-simplified-steps-for-saving-gotomeeting-sessions-for-2024/"><u>[Updated] Simplified Steps for Saving GoToMeeting Sessions for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-top-5-ways-to-record-audio-in-windows-11/"><u>[Updated] The Ultimate Guide Top 5 Ways to Record Audio in Windows 11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-canvas-potential-10-secrets-for-professionals/"><u>2024 Approved Unlocking Canvas Potential - 10 Secrets for Professionals</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/essential-techniques-to-backup-your-ai-dialogues/"><u>Essential Techniques to Backup Your AI Dialogues</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fast-and-reliable-driver-install-a6200-netgear-usb/"><u>Fast & Reliable Driver Install: A6200 Netgear USB</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-leverage-chatgpts-pre-installed-addons-for-enhanced-functionality/"><u>How to Leverage ChatGPT's Pre-Installed Addons for Enhanced Functionality</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-unlock-6-figure-videos-top-hashtag-trends/"><u>In 2024, Unlock 6-Figure Videos Top Hashtag Trends</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/os-melhores-software-gratuito-de-desenho-e-animacao-tridimensional-para-criativos-selecao-do-topo-para-2024/"><u>Os Melhores Software Gratuito De Desenho E Animação Tridimensional Para Criativos: Seleção Do Topo Para 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722899700844-top-5-essential-factors-to-evaluate-when-shopping-for-new-stereo-speakers/"><u>Top 5 Essential Factors To Evaluate When Shopping For New Stereo Speakers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-combining-your-fortnite-profiles-seamlessly/"><u>Ultimate Guide: Combining Your Fortnite Profiles Seamlessly</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-create-fake-identities-best-free-face-generator-websites/"><u>Updated 2024 Approved Create Fake Identities Best Free Face Generator Websites</u></a></li>
 </ul></div>
 

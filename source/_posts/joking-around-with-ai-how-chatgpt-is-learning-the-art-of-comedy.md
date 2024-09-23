@@ -1,7 +1,7 @@
 ---
 title: "Joking Around with AI: How ChatGPT Is Learning the Art of Comedy"
-date: 2024-09-15T19:02:45.054Z
-updated: 2024-09-18T01:10:22.175Z
+date: 2024-09-21T18:32:13.509Z
+updated: 2024-09-23T02:03:29.685Z
 tags:
   - chatgpt
   - open-ai
@@ -60,13 +60,6 @@ thumbnail: https://thmb.techidaily.com/b2d930dc9f54bd4e0c530d86c2a348d9ac40f0a9c
 
  It’s also worth noting that Bing's AI cites sources. Neither platform guarantees 100% accuracy, but knowing which resources to double-check streamlines fact-checking.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Mathematical Precision
 
  ChatGPT and Bing AI understand math. The bots can analyze equations, perform computations based on their datasets, and generate output through their language models.
@@ -78,10 +71,10 @@ thumbnail: https://thmb.techidaily.com/b2d930dc9f54bd4e0c530d86c2a348d9ac40f0a9c
 ![ChatGPT Solving Physics Question About Deadlifts of Lamar Grant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-solving-physics-questions.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Bing AI answers the same physics question correctly.
@@ -89,10 +82,10 @@ Bing AI answers the same physics question correctly.
 ![Bing AI Solving Physics Question About Deadlifts of Lamar Grant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/bing-ai-solving-physics-question.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Security Measures
@@ -108,10 +101,10 @@ Bing AI answers the same physics question correctly.
 ![Bing AI Ends Conversation for Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bingai-security-feature.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Accessibility
@@ -121,6 +114,13 @@ Bing AI answers the same physics question correctly.
  Alternatively, Bing AI offered cross-platform accessibility right from the get-go. Its chat feature is available on the[Bing](https://www.bing.com) website, a Microsoft Edge browser extension, and Bing’s mobile app. You could even[use Bing Chat on Skype](https://www.makeuseof.com/use-bing-chat-on-skype/) by adding it to your contacts.
 
  Perhaps the only limitation of Bing AI is that it doesn’t run on third-party browsers, like Mozilla Firefox, Safari, and Google Chrome. You’ll have to download Microsoft Edge. Although seemingly trivial, you might find it inconvenient if Edge isn’t your default browser.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Sign-Up Process
 
@@ -136,6 +136,13 @@ Bing AI answers the same physics question correctly.
 
 ![Setting Custom Instructions for Prompts on ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/custom-instructions-on-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Bing's AI bot has a more advanced language model and broader dataset, boosting its functionality over ChatGPT. It even uses its search engine before responding. You can expect to get more accurate, reliable responses and up-to-date information.
 
  Unfortunately, Bing’s tight security measures impede versatility. The conversations automatically end once you violate the guidelines, plus you have to start a new topic every 15 messages.
@@ -149,13 +156,6 @@ Bing AI answers the same physics question correctly.
 ## 9\. Fees
 
 ![ChatGPT Plus Pricing at $20 Per Month](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-plus-pricing.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  ChatGPT is a free, robust multipurpose chatbot. Users can execute plenty of tasks with the GPT-3.5 language model. But if you need a more sophisticated AI assistant, OpenAI offers[ChatGPT Plus](https://openai.com/blog/chatgpt-plus) for $20 a month.
 
@@ -190,18 +190,21 @@ Bing AI answers the same physics question correctly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-from-beginner-to-expert-navigating-instagrams-virtual-conversations/"><u>[New] In 2024, From Beginner to Expert Navigating Instagram’s Virtual Conversations</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-precision-craftsmanship-building-exquisite-circle-sphere-objects/"><u>[New] Precision Craftsmanship Building Exquisite Circle, Sphere Objects</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlocking-the-full-potential-of-morphvox-alchemy/"><u>[New] Unlocking the Full Potential of MorphVOX Alchemy</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-commanding-attention-crafting-podcast-starters/"><u>[Updated] Commanding Attention Crafting Podcast Starters</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-superior-mkv-player-pcandroid-experience/"><u>[Updated] Superior MKV Player PC/Android Experience</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/captivate-audiences-quickly-shortcuts-for-youtube-trailers-with-filmora/"><u>Captivate Audiences Quickly Shortcuts for YouTube Trailers with Filmora</u></a></li>
-<li><a href="https://article-helps.techidaily.com/comparing-standard-and-hdr-screens-the-case-for-aurora-for-2024/"><u>Comparing Standard and HDR Screens The Case for Aurora for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/easy-guide-to-transforming-videos-and-audios-into-different-formats/"><u>Easy Guide to Transforming Videos and Audios Into Different Formats</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/easy-methods-for-transforming-screen-recordings-into-optimized-mp4-videos/"><u>Easy Methods for Transforming Screen Recordings Into Optimized MP4 Videos</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/efficiently-transforming-webm-files-into-mp4-format-using-windows-elevens-tools-and-software/"><u>Efficiently Transforming WebM Files Into MP4 Format Using Windows ˈelevens Tools and Software</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/effortless-solutions-resolving-mkv-format-issues-on-windows-11-systems/"><u>Effortless Solutions: Resolving MKV Format Issues on Windows 11 Systems</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exporting-your-lmms-creations-a-comprehensive-guide-on-converting-mmpz-files-to-mp3-wav-and-ogg-formats/"><u>Exporting Your LMMS Creations: A Comprehensive Guide on Converting MMPZ Files to MP3, WAV, and OGG Formats</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/infinix-hot-40-pro-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Hot 40 Pro Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-extract-your-fb-videos-effortlessly-anywhere/"><u>[New] 2024 Approved Extract Your FB Videos Effortlessly, Anywhere</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-elite-10-royal-warfare-games/"><u>[New] In 2024, Elite 10 Royal Warfare Games</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-unlocking-your-fb-watchlist-access-liked-movies-and-shows/"><u>[Updated] In 2024, Unlocking Your FB Watchlist Access Liked Movies & Shows</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-transform-your-photos-mastering-time-lapse-with-samsung-mobile-for-2024/"><u>[Updated] Transform Your Photos Mastering Time Lapse with Samsung Mobile for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/blueprint-to-blockbuster-scriptwriting-for-films/"><u>Blueprint to Blockbuster Scriptwriting for Films</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boost-your-business-top-8-strategies-with-chatgpt/"><u>Boost Your Business: Top 8 Strategies with ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boost-your-sites-performance-with-cookiebot-technology/"><u>Boost Your Site's Performance with Cookiebot Technology</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/delving-into-the-world-of-artificial-intelligence-with-claude-2/"><u>Delving Into the World of Artificial Intelligence with Claude 2</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/expert-roundup-videonix-editors-capabilities/"><u>Expert Roundup Videonix Editor's Capabilities</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/lenovo-docking-station-revamp-a-comprehensive-guide-to-driver-updates/"><u>Lenovo Docking Station Revamp: A Comprehensive Guide to Driver Updates</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximize-your-linkedin-prospects-with-these-10-chatgpt-techniques-for-job-hunting-success/"><u>Maximize Your LinkedIn Prospects with These 10 ChatGPT Techniques for Job Hunting Success</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-the-digital-age-why-teachers-should-become-ai-allies-8-reasons/"><u>Navigating the Digital Age: Why Teachers Should Become AI Allies (8 Reasons)</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/precision-tools-for-gif-to-video-conversion-best-5/"><u>Precision Tools for GIF to Video Conversion (Best 5)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/scaling-up-your-visual-content-game-with-canva-assisted-chatgpt-techniques/"><u>Scaling Up Your Visual Content Game with Canva-Assisted ChatGPT Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-true-essence-of-truthgpt-cryptocurrency/"><u>The True Essence of TruthGPT Cryptocurrency</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-9-chatgpt-integration-tools-enhance-your-site-today/"><u>Top 9 ChatGPT Integration Tools: Enhance Your Site Today</u></a></li>
 </ul></div>
 

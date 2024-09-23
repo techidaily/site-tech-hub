@@ -1,7 +1,7 @@
 ---
 title: "Bridging Reality and Fantasy: AI-Driven Worldbuilding"
-date: 2024-09-17T01:00:44.605Z
-updated: 2024-09-17T21:18:45.088Z
+date: 2024-09-16T23:48:24.889Z
+updated: 2024-09-22T16:22:20.529Z
 tags:
   - chatgpt
   - open-ai
@@ -52,6 +52,13 @@ Unlike GPT-3, GPT-4 is both a language and a visual model.
 
  With GPT-4, most safety measures are already baked into the system at the model level. To understand the difference, it's like building a house with robust materials from the get-go versus using anything that goes and then trying to patch things as faults emerge. According to[OpenAI's GPT-4 technical report](https://cdn.openai.com/papers/gpt-4.pdf) \[PDF\], GPT-4 produces toxic responses only 0.73% of the time compared to GPT-3.5's 6.48% of toxic replies.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. GPT-4 vs. GPT-3.5: Factuality of Response
 
 ![An inscription of the word fact on four cubes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fact-6577794_1920.jpg)
@@ -66,13 +73,6 @@ Unlike GPT-3, GPT-4 is both a language and a visual model.
 
 ![A pair of programmers sitting in an office reviewing some code.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/two-programmers-reviewing-code-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  A less talked about difference between GPT-4 and GPT-3.5 is the context window and context size. A context window is how much data a model can retain in its "memory" during a chat session and for how long. GPT-4 has a significantly better context size and window than its predecessor model.
 
  In practical terms, this means that GPT-4 can better remember the context of a conversation for longer, as well as the instructions given during the conversation.
@@ -82,10 +82,10 @@ Unlike GPT-3, GPT-4 is both a language and a visual model.
  Another issue is the limitation on the volume of text you can use in a prompt at once. Summarizing long text using GPT-3 typically means splitting the text into multiple chunks and summarizing them bit by bit. The improvement in context length in the GPT-4 model means you can paste entire PDFs at a go and get the model to summarize without splitting it into chunks.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## GPT-4: A Step Up from GPT-3.5
@@ -107,18 +107,19 @@ Unlike GPT-3, GPT-4 is both a language and a visual model.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-dissecting-youtubes-activities-post-uploading-videos/"><u>[New] In 2024, Dissecting YouTube's Activities Post-Uploading Videos</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Realme GT 3 | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/enhance-your-gaming-experience-with-nvidias-geforce-210-updated-drivers-on-windows-eon/"><u>Enhance Your Gaming Experience with NVIDIA's GeForce 210 Updated Drivers on Windows Eon</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-correctly-address-a-missing-cygwin1dll-error-in-windows/"><u>How to Correctly Address a Missing Cygwin1.dll Error in Windows</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-ultimate-soundscapes-for-visual-storytelling/"><u>In 2024, Ultimate Soundscapes for Visual Storytelling</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-the-secrets-of-using-multiple-screens-on-netflix/"><u>In 2024, Unveiling the Secrets of Using Multiple Screens on Netflix</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/leading-asx-to-multiple-video-file-converter-effortlessly-convert-asx-into-mp3-mp4-wmv-and-more/"><u>Leading ASX to Multiple Video File Converter - Effortlessly Convert ASX Into MP3, MP4, WMV & More</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-amorous-filmmaking-top-3-strategies-for-enchanting-love-scenes/"><u>Mastering the Art of Amorous Filmmaking: Top 3 Strategies for Enchanting Love Scenes</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mpeg-4mp4m2ts/"><u>MPEG-4(MP4)形式からM2TSに正確に変換するための専門ガイド</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/pcobsmp4/"><u>PC画面の動画撮影：OBSスタジオとMP4について学ぶ</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/perfect-methods-for-dvd-ripping-mastering-were-the-millers/"><u>Perfect Methods for DVD Ripping: Mastering 'We're The Millers'</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/seamless-viewing-of-flv-videos-on-iphone-and-ipad-a-comprehensive-guide/"><u>Seamless Viewing of FLV Videos on iPhone and iPad - A Comprehensive Guide</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-a-closer-look-at-avs-video-editor-features-pricing-and-more/"><u>Updated In 2024, A Closer Look at AVS Video Editor Features, Pricing, and More</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-motorola-edge-40-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Motorola Edge 40 System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/claude-ai-vs-chatgpt-showdown-which-might-come-out-on-top-as-the-superior-conversationalist/"><u>Claude AI Vs. ChatGPT Showdown: Which Might Come Out on Top as the Superior Conversationalist?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comprehensive-guide-everything-essential-on-understanding-openai/"><u>Comprehensive Guide: Everything Essential on Understanding OpenAI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/expert-advice-on-building-your-dream-pc-by-toms-hardware-mastery/"><u>Expert Advice on Building Your Dream PC by Tom's Hardware Mastery</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-advanced-mastery-over-iphone-hdr-issues-with-4-best-practices-for-editors/"><u>In 2024, [Advanced] Mastery Over iPhone HDR Issues with 4 Best Practices for Editors</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovative-sound-crafting-techniques-using-chatgpt-within-your-daw-environment/"><u>Innovative Sound Crafting Techniques Using ChatGPT Within Your DAW Environment</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/it-commonly-occurs-in-smaw-and-gtaw-processes-but-can-affect-other-types-of-welding-as-well/"><u>It Commonly Occurs in SMAW and GTAW Processes but Can Affect Other Types of Welding as Well</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/openais-chatbot-at-your-fingertips-using-ubuntu-bash-and-shellgpt/"><u>OpenAI's Chatbot at Your Fingertips: Using Ubuntu Bash and ShellGPT</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/sculpting-memorable-moments-in-your-shows-start-for-2024/"><u>Sculpting Memorable Moments in Your Show's Start for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/syncing-your-screen-a-step-by-step-guide-to-streaming-apple-tvplus-on-chromecast/"><u>Syncing Your Screen: A Step-by-Step Guide to Streaming Apple TV+ on Chromecast</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-strategic-decision-behind-prohibiting-chatgpt-unpacking-5-reasons-companies-are-saying-no/"><u>The Strategic Decision Behind Prohibiting ChatGPT: Unpacking 5 Reasons Companies Are Saying No</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-poco-c55s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Poco C55s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/visual-solutions-at-hand-reviving-display-drivers-in-windows-across-the-generations/"><u>Visual Solutions at Hand: Reviving Display Drivers in Windows Across the Generations</u></a></li>
 </ul></div>
 

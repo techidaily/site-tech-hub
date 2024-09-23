@@ -1,7 +1,7 @@
 ---
 title: "Exploring Distinctions: A Deep Dive Into GPT-4 Versus GPT-4 Turbo Vs. Phi"
-date: 2024-09-11T18:32:00.000Z
-updated: 2024-09-17T19:57:33.723Z
+date: 2024-09-19T21:02:54.215Z
+updated: 2024-09-22T23:36:15.242Z
 tags:
   - chatgpt
   - open-ai
@@ -75,16 +75,10 @@ Simply prompt ChatGPT to scan the poem, then paste in your verses.
 ![ChatGPT sci fi story ideas](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-sci-fi-story-ideas.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 You'll get a huge list of ideas to spark your creativity.
@@ -94,17 +88,37 @@ You'll get a huge list of ideas to spark your creativity.
 ![ChatGPT mystery story ideas](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-mystery-story-ideas.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also get the app to use specific authors for inspiration, too. For instance, prompt it to “provide 15 story ideas in the style of Hemingway about choosing a new pet” or “provide 12 ideas for love stories in the style of Philip K. Dick.”
 
 ![ChatGPT story ideas similar to Hemingway](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-story-ideas-similar-to-hemingway.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The app keys in on each author's familiar themes and styles to construct these inspiring (and sometimes a bit bizarre) story ideas.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Play With Audience and Tone
 
@@ -118,13 +132,6 @@ You'll get a huge list of ideas to spark your creativity.
 
 ![ChatGPT literary bear story](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-literary-bear-story.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In addition, you can insert your own work into the app and tailor it for different audiences. Use prompts like “adjust this story for an audience of primarily female readers in their 20s” or “tailor this story to fans of mystery fiction.”
 
  It’s fun to see what changes appear, and it’s an instructive practice in customizing your work for different audiences.
@@ -135,13 +142,6 @@ You'll get a huge list of ideas to spark your creativity.
 
 ![ChatGPT rephrase sentence](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-rephrase-sentence.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Choose your favorite rendition of the sentence and get back to your piece.
 
 ![ChatGPt overcoming writer's block prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-overcoming-writer-s-block-prompt.jpg)
@@ -149,6 +149,13 @@ You'll get a huge list of ideas to spark your creativity.
  In addition, you can ask the bot to help with whatever is keeping you from writing, whether that's getting started or taking your story to the next chapter.
 
 ![ChatGPT mystery story plot twist ideas](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-mystery-story-plot-twist-ideas.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In this instance, the chatbot offers some ideas for mystery story plot twists. You can also get more specific and ask it for "unexpected plot twists" or similar prompts.
 
@@ -165,13 +172,6 @@ You'll get a huge list of ideas to spark your creativity.
  Also, ChatGPT isn’t infallible, so remember that it may provide incorrect information. Double-check with reputable sources for nonfiction content in particular.
 
  Lastly, remember that your own memories and experiences can’t be generated by AI, so tap into them for your creative writing. ChatGPT is an excellent tool, but it can’t tell your stories for you.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Boost Your Creative Writing Skills With ChatGPT
 
@@ -192,16 +192,16 @@ You'll get a huge list of ideas to spark your creativity.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Infinix Hot 40i | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/honesty-required-secure-your-exclusive-50-discount-on-microsoft-365-today/"><u>Honesty Required: Secure Your Exclusive 50% Discount on Microsoft 365 Today!</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Infinix Smart 7? | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/innovative-strategies-for-keeping-a-log-of-whatsapp-calls/"><u>Innovative Strategies for Keeping a Log of WhatsApp Calls</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/msvmsfmp3/"><u>MSVおよびMSFファイルのMP3への変換と再生方法</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/quick-tutorial-hiding-pre-set-movie-subtitles-with-minimal-effort/"><u>Quick Tutorial: Hiding Pre-Set Movie Subtitles with Minimal Effort</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/resolving-the-problem-troubleshooting-plex-avoidance-of-avi-file-playback/"><u>Resolving the Problem: Troubleshooting Plex Avoidance of AVI File Playback</u></a></li>
-<li><a href="https://extra-support.techidaily.com/samsungs-new-edge-the-2023-bd-j5900-reviewed-for-2024/"><u>Samsung's New Edge The 2023 BD-J5900 Reviewed for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/seamlessly-save-and-swap-converting-twitch-broadcasts-to-mp4-with-ease/"><u>Seamlessly Save & Swap: Converting Twitch Broadcasts to MP4 with Ease</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/splendid-screenplay-strategies-for-spectaculous-lights-for-2024/"><u>Splendid Screenplay Strategies for Spectaculous Lights for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/starting-from-scratch-video-gear-insights-for-2024/"><u>Starting From Scratch Video Gear Insights for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-retrospective-on-the-goofy-movie-a-comprehensive-review-for-2024/"><u>[New] Retrospective on 'The Goofy Movie' A Comprehensive Review for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-storage-enhancement-for-sony-alpha-7s-ii/"><u>[New] Ultimate Storage Enhancement for Sony Alpha 7S II</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-capture-and-share-adventures-with-gopro-tips-for-livestreams-and-social-media/"><u>2024 Approved Capture and Share Adventures with GoPro Tips for Livestreams & Social Media</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/artificial-intelligence-and-hacking-unveiling-5-key-methods-for-cybercrime-enhancement/"><u>Artificial Intelligence and Hacking: Unveiling 5 Key Methods for Cybercrime Enhancement</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-world-of-edge-ai-working-principles-explained/"><u>Exploring the World of Edge AI: Working Principles Explained</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-honor-magic-6-lite-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Honor Magic 6 Lite Android SIM Unlock APK</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leveraging-auto-gpt-top-8-actionable-methods-for-success/"><u>Leveraging Auto-GPT: Top 8 Actionable Methods for Success</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/protecting-tomorrow-a-guide-to-upcoming-cybersecurity-trends-and-predictions/"><u>Protecting Tomorrow: A Guide to Upcoming Cybersecurity Trends & Predictions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successfully-resolved-fixing-the-critical-setup-failure-error-1603/"><u>Successfully Resolved: Fixing the Critical Setup Failure - Error 1603</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/supreme-quality-transfers-why-winx-mediatrans-is-the-1-solution-for-moving-media-on-your-ios-devices-tofrom-computers/"><u>Supreme Quality Transfers: Why WinX MediaTrans Is the #1 Solution for Moving Media on Your iOS Devices To/From Computers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleash-your-imagination-with-these-4-innovative-ai-narrative-generators/"><u>Unleash Your Imagination with These 4 Innovative AI Narrative Generators</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Revolutionize Your AI Experience with ChatGPT’s Update, Allowing Complete GPT Model Personalization
-date: 2024-09-14T02:56:59.031Z
-updated: 2024-09-18T00:18:13.837Z
+date: 2024-09-19T19:43:50.918Z
+updated: 2024-09-22T23:59:49.828Z
 tags:
   - chatgpt
   - open-ai
@@ -52,10 +52,10 @@ thumbnail: https://thmb.techidaily.com/d4eab409da91970ce7997d6d71b3df31e4667cec8
 ![Accessing ChatGPT settings on the web](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/accessing-chatgpt-settings-on-the-web.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Click on your OpenAI account name in the bottom-left corner of the ChatGPT page.
@@ -66,10 +66,10 @@ thumbnail: https://thmb.techidaily.com/d4eab409da91970ce7997d6d71b3df31e4667cec8
 ![Unarchiving conversation in ChatGPT web](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/unarchiving-conversation-in-chatgpt-web.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Do remember that anyone can access your hidden ChatGPT conversations by heading to the same menu, as they're not locked behind a password.
@@ -88,20 +88,13 @@ thumbnail: https://thmb.techidaily.com/d4eab409da91970ce7997d6d71b3df31e4667cec8
 ![Long-pressing a conversation from the ChatGPT sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/long-pressing-a-conversation-from-the-chatgpt-sidebar.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Archive confirmation in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/archive-confirmation-in-the-chatgpt-app.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -121,6 +114,13 @@ Close
 ![ChatGPT app settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-app-settings-menu.png)
 
 ![Archived chats in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/archived-chats-in-the-chatgpt-app.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -145,14 +145,21 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-humor-hub-adobe-meme-manipulation/"><u>[New] Humor Hub Adobe Meme Manipulation</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-instant-on-maximizing-your-video-playback-time-for-2024/"><u>[New] Instant-On Maximizing Your Video Playback Time for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/formulate-light-hearted-images-for-social-media-giphy/"><u>Formulate Light-Hearted Images for Social Media Giphy</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-samsung-galaxy-f14-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Samsung Galaxy F14 5G Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-shoot-cool-vids-from-scratch-with-your-mac-newcomers-guide/"><u>In 2024, Shoot Cool Vids From Scratch with Your Mac, Newcomers Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/udemy-pc/"><u>Udemy動画ダウンロード・保存: PCユーザー向け最新方法チュートリアル</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ultimate-guide-to-using-dvd-decryption-tools-on-windows-11-for-high-quality-backups-and-viewings-of-your-favorite-movies/"><u>Ultimate Guide to Using DVD Decryption Tools on Windows 11 for High-Quality Backups & Viewings of Your Favorite Movies!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-commercial-video-content-a-how-to-for-windows-users/"><u>Unlocking Commercial Video Content: A How-To for Windows Users</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/windows-7/"><u>Windows 7スクリーンレコーダー・無料アプリとウェブサイトの推奨 - オススメ</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-audio-anomalies-top-disruptive-apps-on-the-go/"><u>[New] 2024 Approved Audio Anomalies Top Disruptive Apps on the Go</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-maximizing-impact-with-instagrams-top-marketing-tactics/"><u>[New] 2024 Approved Maximizing Impact with Instagram's Top Marketing Tactics</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-exploring-the-nuances-of-audio-overlap-crossfade/"><u>[New] Exploring the Nuances of Audio Overlap (Crossfade)</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-master-the-art-of-live-streaming-snapchat-videos/"><u>[New] Master the Art of Live Streaming Snapchat Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-how-to-take-photos-while-recording-videos-on-iphone/"><u>[Updated] How to Take Photos While Recording Videos on iPhone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/brilliant-cvs-embracing-ai-for-resume-excellence/"><u>Brilliant CVs: Embracing AI for Resume Excellence</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancing-your-craft-optimal-uses-of-chatgpt-by-independent-authors/"><u>Enhancing Your Craft: Optimal Uses of ChatGPT by Independent Authors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-0x80071ac3-volume-is-dirty/"><u>Error 0X80071AC3: Volume Is Dirty</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-copyright-law-in-artificial-intelligence-who-is-the-author/"><u>Exploring Copyright Law in Artificial Intelligence: Who Is The Author?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-realme-narzo-60x-5g-by-drfone-android/"><u>How to Bypass FRP on Realme Narzo 60x 5G?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-gionee-f3-pro-by-drfone-android/"><u>In 2024, How to Bypass FRP on Gionee F3 Pro?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/incorporating-ai-into-fitness-coaching-the-ultimate-guide-to-chatgpt-for-personalized-workouts/"><u>Incorporating AI Into Fitness Coaching: The Ultimate Guide to ChatGPT for Personalized Workouts</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-unresponsive-windows-11-cortana-commands/"><u>Overcoming Unresponsive Windows 11 Cortana Commands</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/resolving-pc-issues-efficiently-with-the-help-of-chatgpt/"><u>Resolving PC Issues Efficiently with the Help of ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-connecting-chatgpt-with-your-whatsapp-business-account/"><u>Step-by-Step Guide: Connecting ChatGPT with Your WhatsApp Business Account</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/study-hacks-gone-wrong-steering-clear-of-misusing-chatgpt-as-a-student/"><u>Study Hacks Gone Wrong: Steering Clear of Misusing ChatGPT as a Student</u></a></li>
 </ul></div>
 

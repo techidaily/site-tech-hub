@@ -1,7 +1,7 @@
 ---
 title: OpenAI's Head Honcho Demands Tighter Control Over Artificnial Intelligence - Why?
-date: 2024-09-11T02:17:47.748Z
-updated: 2024-09-18T02:06:56.283Z
+date: 2024-09-21T20:11:53.801Z
+updated: 2024-09-22T23:16:56.113Z
 tags:
   - chatgpt
   - open-ai
@@ -59,10 +59,10 @@ thumbnail: https://thmb.techidaily.com/e788f79a8684ff135a50b06576e0943a8c2779cab
 **Download:** Skype for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2022079/https://play.google.com/store/apps/details?id=com.skype.raider) |[iOS](https://apps.apple.com/us/app/skype/id304878510) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Test Out AI Chat on Android and iPhone Today
@@ -88,17 +88,20 @@ thumbnail: https://thmb.techidaily.com/e788f79a8684ff135a50b06576e0943a8c2779cab
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-unveiling-the-perfect-process-iphones-podcast-downloading-technique/"><u>[New] Unveiling the Perfect Process IPhone's Podcast Downloading Technique</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-experts-selection-of-iphone-recording-aids/"><u>[Updated] Expert's Selection of iPhone Recording Aids</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-leading-green-filmmaking-software/"><u>[Updated] Leading Green Filmmaking Software</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-why-youtubes-viewer-numbers-matter-more-than-you-think/"><u>[Updated] Why YouTube's Viewer Numbers Matter More Than You Think</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/2024mp3-5/"><u>「2024年MP3再生音量設定ツール集 - 上位5つ紹介！」</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1726029158351-dvdpc/"><u>DVD挿入・転送手順：PC上でのシンプルな操作と人気アプリ紹介</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1726029923616-dvdusb/"><u>DVD映写機におけるUSBメモリ動画の障害解消テクニック</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/dvdmac-mac-mac/"><u>DVDコピーツール・Mac用: 変換してMacに転送が簡単な無料ソフト - Macユーザー必見!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-life-with-premium-windows-software/"><u>Enhance Life with Premium Windows Software</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-oneplus-ace-2-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on OnePlus Ace 2</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/optimal-cloud-vaults-recommended-solutions-for-2024/"><u>Optimal Cloud Vaults Recommended Solutions for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-insiders-handbook-to-understanding-snapchat-emojis/"><u>The Insider's Handbook to Understanding Snapchat Emojis</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-unleash-creativity-with-these-4-simple-steps-to-loops-on-instagram/"><u>[New] 2024 Approved Unleash Creativity with These 4 Simple Steps to Loops on Instagram</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-premier-guidelines-for-broadcasting-sports-online-for-2024/"><u>[New] Premier Guidelines for Broadcasting Sports Online for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-simple-steps-to-master-no-cost-time-tracking/"><u>[New] Simple Steps to Master No-Cost Time Tracking</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-streamlining-your-social-video-logs-on-facebook/"><u>[Updated] 2024 Approved Streamlining Your Social Video Logs on Facebook</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-crafting-high-quality-game-stream-videos-with-artificial-intelligence/"><u>[Updated] In 2024, Crafting High-Quality Game Stream Videos with Artificial Intelligence</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-phone-as-webcam-a-step-by-step-guide-for-mobile-video-capture/"><u>[Updated] In 2024, Phone as Webcam A Step-by-Step Guide for Mobile Video Capture</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-ultimate-funny-photo-editor/"><u>[Updated] Ultimate Funny Photo Editor</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/battle-of-the-bots-which-ai-claude-or-chatgpt-excels-in-everyday-task-management/"><u>Battle of the Bots: Which AI, Claude or ChatGPT, Excels in Everyday Task Management?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boost-efficiency-with-these-3-tips-for-utilizing-chatgpt-and-excel-together/"><u>Boost Efficiency with These 3 Tips for Utilizing ChatGPT and Excel Together</u></a></li>
+<li><a href="https://extra-information.techidaily.com/engaging-with-srt-soundfiles-on-pc-and-mac/"><u>Engaging with SRT Soundfiles on PC & Mac</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-distinctions-how-chatgpt-stacks-up-against-bings-artificial-intelligence/"><u>Exploring the Distinctions: How ChatGPT Stacks Up Against Bing's Artificial Intelligence</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/faux-chatbot-schemes-how-to-spot-them/"><u>Faux ChatBot Schemes: How to Spot Them</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/rise-above-the-tech-wave-six-essential-skills-for-flourishing-in-an-age-dominated-by-ai/"><u>Rise Above the Tech Wave: Six Essential Skills for Flourishing in an Age Dominated by AI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-new-possibilities-with-chatgpt-vision-eight-innovative-strategies/"><u>Unlocking New Possibilities with ChatGPT Vision – Eight Innovative Strategies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-truth-understanding-chatgpt-jailbreaks-and-their-usage-implications/"><u>Unveiling the Truth: Understanding ChatGPT Jailbreaks and Their Usage Implications</u></a></li>
 </ul></div>
 

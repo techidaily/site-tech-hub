@@ -1,0 +1,124 @@
+---
+title: "Snapchat's Own Brainchild, My AI versus the Renowned ChatGPT: Making the Best Choice"
+date: 2024-09-17T19:37:45.114Z
+updated: 2024-09-22T16:27:43.164Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: "This Article Describes Snapchat's Own Brainchild, My AI versus the Renowned ChatGPT: Making the Best Choice"
+excerpt: "This Article Describes Snapchat's Own Brainchild, My AI versus the Renowned ChatGPT: Making the Best Choice"
+thumbnail: https://thmb.techidaily.com/c36628b8a77d9c8656bc14c8b8281e34c21620e4322ca2c6d47a165e3e9293b6.png
+---
+
+## Tired of the Wait? Here’s an Outstanding Open Source Option that Rivals the Anticipated ChatGPT Desktop App
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+### Quick Links
+
+* [What Is the Open-Source ChatGPT Desktop Application?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#what-is-the-open-source-chatgpt-desktop-application)
+* [How to Install and Configure ChatGPT Desktop Application](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#how-to-install-and-configure-chatgpt-desktop-application)
+* [When Is the Official ChatGPT Desktop Version Launching?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#when-is-the-official-chatgpt-desktop-version-launching)
+
+### Key Takeaways
+
+* OpenAI is releasing a ChatGPT desktop version, starting with macOS and later for Windows.
+* However, an open-source ChatGPT desktop version is available as an alternative.
+* The official version is slowly rolling out to users, but it's a slow process.
+
+ As part of its massive 2024 Spring Update, OpenAI revealed that a long-awaited ChatGPT desktop version was incoming.
+
+ Starting with macOS, OpenAI is officially bringing ChatGPT to desktops, with Windows support coming later.
+
+ But if you can't wait—like me!—you can try a free, open-source version instead.
+
+## What Is the Open-Source ChatGPT Desktop Application?
+
+ ChatGPT users have long wanted a desktop version. The world's leading generative AI chatbot works great in a browser, but sometimes, a desktop app is more convenient.
+
+[OpenAI's Spring Update launched GPT-4o](https://www.makeuseof.com/how-gpt-4o-works-is-it-free/) among a host of[other shiny new ChatGPT features](https://www.makeuseof.com/chatgpt-new-features-spring-update/) , wowing the world with its new capabilities.
+
+ The long-awaited desktop version was one of them—but intrepid ChatGPT users need to wait a little longer.
+
+ Developer[Lencx's open source ChatGPT](https://github.com/lencx/ChatGPT) gives you the option to try a desktop version right now, without waiting. It's a website wrapper that runs on Windows, macOS, and Linux, so it's a little basic, but it replicates the functionality of the website, and does a really good job, too.
+
+![chatgpt open source desktop version login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-login.jpg)
+
+ The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
+
+## How to Install and Configure ChatGPT Desktop Application
+
+![chatgpt open source desktop version home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-home-page.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+1. Head to the open-source[ChatGPT Desktop Application download page](https://github.com/lencx/ChatGPT/releases/tag/v1.1.0) . The latest version at the time of writing is V1.1.0, but you can check for a newer version.
+2. Download the applicable version for your operating system, then install it as per your operating system.
+3. Launch the ChatGPT Desktop Application.
+
+ Then, just sign in to ChatGPT as you usually would. All of your previous chats will be waiting for you, and you can choose from GPT-4, GPT-4o, DALL-E, and so on.
+
+![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## When Is the Official ChatGPT Desktop Version Launching?
+
+ The official ChatGPT Desktop app is already slowly rolling out to macOS users.
+
+ As with many of OpenAI's major updates, it takes time to filter through to the majority, and a Windows version will take longer still.
+
+ Still, if you can't wait, you can give this open-source ChatGPT desktop version a try instead.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/approved-resizing-youtube-images-step-by-step-guide/"><u>2024 Approved Resizing YouTube Images Step-by-Step Guide</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/7-ways-to-lock-apps-on-apple-iphone-14-plus-and-ipad-securely-drfone-by-drfone-ios/"><u>7 Ways to Lock Apps on Apple iPhone 14 Plus and iPad Securely | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/deciphering-the-asus-rog-gt-ac5300-the-ultimate-gadget-for-avid-gamers-and-tech-geeks/"><u>Deciphering the Asus ROG GT-AC5300: The Ultimate Gadget for Avid Gamers & Tech Geeks</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-from-iphone-12-mini-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled From iPhone 12 mini? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-premium-portals-best-websites-to-secure-snapalert-beats/"><u>In 2024, Premium Portals Best Websites to Secure SnapAlert Beats</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-comprehensible-guide-downloading-safe-free-vlc-on-macos/"><u>In 2024, The Comprehensible Guide Downloading Safe, Free VLC on macOS</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mpeg-4mp4m2ts/"><u>MPEG-4(MP4)形式からM2TSに正確に変換するための専門ガイド</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-generative-ais-textual-landscape-for-business-use/"><u>Navigating Generative AI's Textual Landscape for Business Use</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/pcobsmp4/"><u>PC画面の動画撮影：OBSスタジオとMP4について学ぶ</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/perfect-methods-for-dvd-ripping-mastering-were-the-millers/"><u>Perfect Methods for DVD Ripping: Mastering 'We're The Millers'</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/seamless-viewing-of-flv-videos-on-iphone-and-ipad-a-comprehensive-guide/"><u>Seamless Viewing of FLV Videos on iPhone and iPad - A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/simple-guide-to-downloading-setting-up-and-keeping-your-vlc-media-players-codecs-current/"><u>Simple Guide to Downloading, Setting Up & Keeping Your VLC Media Player's Codecs Current</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/simplify-the-process-of-transforming-youtube-content-into-lossless-flac-audio/"><u>Simplify the Process of Transforming YouTube Content Into Lossless FLAC Audio</u></a></li>
+</ul></div>
+

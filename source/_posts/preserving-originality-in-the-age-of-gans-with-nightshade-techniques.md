@@ -1,7 +1,7 @@
 ---
 title: Preserving Originality in the Age of GANs with Nightshade Techniques
-date: 2024-09-14T19:03:14.231Z
-updated: 2024-09-18T03:44:01.888Z
+date: 2024-09-18T20:41:52.672Z
+updated: 2024-09-23T01:35:46.277Z
 tags:
   - chatgpt
   - open-ai
@@ -95,16 +95,10 @@ ChatGPT also cracked the problem as well.
  After trying out a few more creative tasks, Claude AI seemed to excel in writing-related tasks and was able to write more natural-sounding content like a human writer would do. Although[ChatGPT was better at overcoming more complex creative tasks](https://www.makeuseof.com/creative-ways-to-use-chatgpt-openai/) , it sometimes couldn't shake off that AI chatbot feeling in the text it generated. Our verdict? Both ChatGPT and Claude AI are creative in their own right.
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT vs. Claude AI: Coding Skills
@@ -123,18 +117,18 @@ ChatGPT also cracked the problem as well.
 
 ![Claude AI analyzing multiple PHP files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-analyzing-multiple-php-files.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Surprisingly, ChatGPT, despite seemingly having superior coding skills, failed at this despite repeated attempts. Claude AI, on the other hand, was able to analyze the code proficiently while identifying the right places that needed to be edited to achieve the desired results.
 
  Of course, this was not an isolated case, we repeated it with several other code files, but ChatGPT stumbled and stalled on the majority of cases while Claude AI kept delivering impressive results. In terms of coding skills, the winner is not entirely straightforward.
 
  ChatGPT is clearly significantly better at writing new code and can manage complex code with impressive proficiency. However, Claude AI is significantly better at analyzing large code bases. So, if you're looking to write code for some new idea you have, ChatGPT is the tool to turn to. If you want to analyze or make sense of a code base with thousands of lines across several files, then we would definitely recommend Claude AI.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Claude AI Is a Potent Competitor on the Block
 
@@ -155,20 +149,20 @@ ChatGPT also cracked the problem as well.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-hub.techidaily.com/spotifyapple-musicand/"><u>「SpotifyやApple Musicなどのサブスクリプションで聞ける曲をダウンロード&保管するコツ」</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-streamlining-virtual-meetings-best-practices-for-teams/"><u>2024 Approved Streamlining Virtual Meetings Best Practices for Teams</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-latest-sony-vaio-drivers-installed-on-your-pc-with-windows-os/"><u>Get the Latest Sony Vaio Drivers Installed on Your PC with Windows OS</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Tecno Spark 20? | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/intel-me-driver-anomaly-solutions/"><u>Intel Me Driver Anomaly Solutions</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/os-melhores-softwares-de-video-para-xvid-uma-lista-com-dicas-e-tendencias-do-mundo-digital/"><u>Os Melhores Softwares De Vídeo Para xVid: Uma Lista Com Dicas E Tendências Do Mundo Digital</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/simple-methods-for-reducing-the-size-of-mp4-videos/"><u>Simple Methods for Reducing the Size of MP4 Videos</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-to-capturing-4k-60hz-clips-from-youtube/"><u>Step-by-Step Guide to Capturing 4K @ 60Hz Clips From YouTube</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-to-elevate-your-screen-captures-visual-fidelity/"><u>Step-by-Step Guide to Elevate Your Screen Capture's Visual Fidelity</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-converting-ac3-audio-files-into-wav-format-both-online-and-offline/"><u>Step-by-Step Guide: Converting AC3 Audio Files Into WAV Format Both Online & Offline</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-how-can-you-save-your-favorite-trovo-content/"><u>Step-by-Step Guide: How Can You Save Your Favorite Trovo Content?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-instructions-on-separating-audio-tracks-in-wmv-format-both-web-and-desktop-solutions/"><u>Step-by-Step Instructions on Separating Audio Tracks in .WMV Format, Both Web and Desktop Solutions.</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/the-best-5-complimentary-video-recording-apps-you-shouldnt-miss/"><u>The Best 5 Complimentary Video Recording Apps You Shouldn't Miss</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-for-players-struggling-with-origin-on-windows-11/"><u>Troubleshooting Tips for Players Struggling with Origin on Windows 11</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-no-budget-no-problem-16-free-and-easy-to-use-video-editing-tools/"><u>Updated In 2024, No Budget, No Problem 16 Free and Easy-to-Use Video Editing Tools</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-uniting-live-stream-tech-a-step-by-step-obs-and-zoom/"><u>[New] In 2024, Uniting Live Stream Tech A Step-by-Step OBS & Zoom</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-vlc-media-player-review-and-alternatives/"><u>[New] VLC Media Player Review and Alternatives</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-experience-professional-facebook-profile-picture-design-with-these-tools/"><u>[Updated] 2024 Approved Experience Professional Facebook Profile Picture Design with These Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-you-safely-connect-to-chatgpt-through-a-virtual-private-network/"><u>Can You Safely Connect to ChatGPT Through a Virtual Private Network?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/celebrating-digiartys-special-collection-for-the-18th-anniversary/"><u>Celebrating Digiarty's Special Collection for the 18Th Anniversary</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-and-originality-concerns-a-deep-dive-into-its-content-creation/"><u>ChatGPT and Originality Concerns: A Deep Dive Into Its Content Creation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/emojis-as-a-tool-for-financial-insight-navigating-risks-post-activision-hack-and-chatgpts-job-disruption-potential/"><u>Emojis as a Tool for Financial Insight: Navigating Risks Post-Activision Hack and ChatGPT’s Job Disruption Potential</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-boundaries-of-ai-deciphering-elon-musks-revolutionary-truthgpt-endeavor/"><u>Exploring the Boundaries of AI: Deciphering Elon Musk's Revolutionary TruthGPT Endeavor</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-does-localized-ai-process-information-exploring-on-device-cognition/"><u>How Does Localized AI Process Information? Exploring On-Device Cognition</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-courtesy-essential-when-interacting-with-voice-assistants-like-chatgpt-alexa-and-siri/"><u>Is Courtesy Essential When Interacting with Voice Assistants Like ChatGPT, Alexa, and Siri?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-it-beneficial-to-use-auto-gpt-on-its-own-or-do-you-need-gpt-evolved/"><u>Is It Beneficial to Use Auto-GPT on Its Own, or Do You Need GPT-Evolved?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-through-nvidias-revolutionary-rtx-ai-bot-install-and-utilize-on-desktop-computers/"><u>Navigating Through NVIDIA’s Revolutionary RTX AI Bot - Install and Utilize on Desktop Computers</u></a></li>
+<li><a href="https://media-tips.techidaily.com/unlock-steady-savings-on-plex-entertainment-secure-your-lifetime-access-for-just-75-of-the-price/"><u>Unlock Steady Savings on Plex Entertainment – Secure Your Lifetime Access for Just 75% of the Price!</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unlocking-creative-potential-using-google-trends-insights-for-2024/"><u>Unlocking Creative Potential Using Google Trends Insights for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Lenovo ThinkPhone | Dr.fone</u></a></li>
 </ul></div>
 

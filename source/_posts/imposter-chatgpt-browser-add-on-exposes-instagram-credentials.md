@@ -1,7 +1,7 @@
 ---
 title: Imposter ChatGPT Browser Add-On Exposes Instagram Credentials
-date: 2024-09-13T23:49:06.009Z
-updated: 2024-09-18T03:10:39.911Z
+date: 2024-09-15T19:38:00.602Z
+updated: 2024-09-22T19:24:48.239Z
 tags:
   - chatgpt
   - open-ai
@@ -50,13 +50,6 @@ thumbnail: https://thmb.techidaily.com/9828bf793f93780e9596bdf90064698c2faf8ab44
 
  Moreover, ChatGPT can only customize its output to an extent. Carelessly trusting the generic contracts it drafts might cause legal complications down the road. Run all your paperwork through the appropriate professionals.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Using ChatGPT to Generate Reports and Insights
 
  Only use ChatGPT for research when analyzing reports. AI can help test formulas and answer general knowledge questions, but you should never feed it company insights. Again, OpenAI records all conversations. Your employer might sue you and terminate your employment contract for breaching the NDA.
@@ -68,28 +61,15 @@ thumbnail: https://thmb.techidaily.com/9828bf793f93780e9596bdf90064698c2faf8ab44
 ![Copy-Pasting Message from ChatGPT to Slack](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-replying-to-message.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  A study by[McKinsey & Company](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-social-economy) shows that employees spend 28 percent of the workweek answering and reading messages. To save time, you might consider automating some responses. ChatGPT can compose customized output based on the messages and instructions you input.
 
  Although you won’t get fired, you should still avoid sending ChatGPT-generated responses. They come across as rude and distant. You’ll elicit more favorable responses if you compose unique, personalized messages.
-
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Composing Emails on ChatGPT
 
@@ -106,6 +86,19 @@ thumbnail: https://thmb.techidaily.com/9828bf793f93780e9596bdf90064698c2faf8ab44
 ## 8\. Using Code Snippets Written by ChatGPT
 
 ![Asking ChatGPT to Write a Sample Code Snippet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/sample-code-snippet-from-chatgpt.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  ChatGPT’s ability to code in various languages caught the attention of programmers worldwide. It can write an entire site’s code in seconds. Many programmers reduce their workload by offloading much of the coding process to ChatGPT.
 
@@ -125,6 +118,13 @@ thumbnail: https://thmb.techidaily.com/9828bf793f93780e9596bdf90064698c2faf8ab44
 
 ![Red and Green Prices on a Financial Chart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/financial-charts-and-scores-on-screen.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  One of[OpenAI’s worst issues with ChatGPT](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/) is that it gets confused with word and number problems. You can only ask intermediate-level questions. Making ChatGPT analyze complex financial reports would likely produce errors and inaccuracies.
 
  That said, using AI for data analysis won’t automatically lead to termination. Most employers only fire workers who carelessly rely on AI tools and submit figures without verifying them.
@@ -132,10 +132,10 @@ thumbnail: https://thmb.techidaily.com/9828bf793f93780e9596bdf90064698c2faf8ab44
  You can still offload some tasks to ChatGPT, like drawing charts or writing summaries. Just note that it lacks contextual understanding and takes input at face value—you must perform fact-checking yourself.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Use ChatGPT Ethically and Responsibly
@@ -159,18 +159,19 @@ thumbnail: https://thmb.techidaily.com/9828bf793f93780e9596bdf90064698c2faf8ab44
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-the-path-to-popularity-making-videos-go-viral/"><u>[New] 2024 Approved The Path to Popularity Making Videos Go Viral</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-fixing-inertia-and-jello-distortions-in-uav-clips/"><u>[New] Fixing Inertia and Jello Distortions in UAV Clips</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-the-no-tripod-path-to-flawless-images/"><u>[New] In 2024, The No-Tripod Path to Flawless Images</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-punchline-studio-sign-up-and-share-your-humor/"><u>[Updated] PunchLine Studio Sign Up & Share Your Humor</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-transforming-unboxing-into-art/"><u>2024 Approved Transforming Unboxing Into Art</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/easy-tutorial-on-transforming-your-videos-for-playback-on-apples-mobile-gadgets-ipadiphoneipod/"><u>Easy Tutorial on Transforming Your Videos for Playback on Apple's Mobile Gadgets (iPad/iPhone/iPod)</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/effortless-bulk-conversion-techniques-for-changing-3gp-videos-into-wmv-on-a-windows-pc/"><u>Effortless Bulk Conversion Techniques for Changing 3GP Videos Into WMV on a Windows PC</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/effortless-guide-transforming-movies-from-mov-to-avi-format-seamlessly/"><u>Effortless Guide: Transforming Movies From MOV to AVI Format Seamlessly</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/effortless-mp4-to-m4a-conversion-discover-three-easy-techniques/"><u>Effortless MP4 to M4A Conversion: Discover Three Easy Techniques</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/effortless-transformation-of-mov-videos-into-mp4-on-any-platform-pcmacweb/"><u>Effortless Transformation of MOV Videos Into MP4 on Any Platform (PC/Mac/Web)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/free-conversion-of-ogg-to-mp4-streaming-files-with-movavis-online-tool/"><u>Free Conversion of OGG to MP4 Streaming Files with Movavi's Online Tool</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-oppo-a1-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Oppo A1 5G to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-in-2024-the-power-of-ai-thumbnail-generators/"><u>New In 2024, The Power of AI Thumbnail Generators</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-compliance-with-standards/"><u>[New] 2024 Approved Compliance with Standards</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-vivo-v30-lite-5g-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Vivo V30 Lite 5G without App | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/from-low-to-high-a-beginners-guide-to-video-frame-rates-and-resolutions-for-2024/"><u>From Low to High A Beginner's Guide to Video Frame Rates & Resolutions for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-mastering-hulu-recording-across-windows-mac-and-mobile-devices/"><u>In 2024, Mastering Hulu Recording Across Windows, Mac, and Mobile Devices</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/making-the-choice-between-chatgpt-and-snapchats-my-ai-which-fits-your-needs/"><u>Making the Choice Between ChatGPT & Snapchat’s My AI: Which Fits Your Needs?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-the-field-of-ai-prompt-creation-and-its-long-term-career-potential/"><u>Navigating the Field of AI Prompt Creation and Its Long-Term Career Potential</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-top-10-free-video-editing-software-for-rotating-and-flipping-clips/"><u>New Top 10 Free Video Editing Software for Rotating and Flipping Clips</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/seamless-automated-troubleshooting-in-windows-11/"><u>Seamless Automated Troubleshooting in Windows 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/sports-nutritionists-guide-to-ai-interactions/"><u>Sports Nutritionists' Guide to AI Interactions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/time-mastery-discovering-chatgpts-4-functionalities/"><u>Time Mastery: Discovering ChatGPT's 4 Functionalities</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/toms-tech-hub-comprehensive-reviews-and-news/"><u>Tom's Tech Hub: Comprehensive Reviews and News</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unlock-smooth-gameplay-permanent-solution-for-tf2s-endless-crashes/"><u>Unlock Smooth Gameplay: Permanent Solution for TF2's Endless Crashes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/worth-your-money-unpacking-benefits-of-chatgpt-plus/"><u>Worth Your Money? Unpacking Benefits of ChatGPT Plus</u></a></li>
 </ul></div>
 

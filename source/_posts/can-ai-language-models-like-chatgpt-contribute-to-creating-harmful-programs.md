@@ -1,7 +1,7 @@
 ---
 title: Can AI Language Models Like ChatGPT Contribute to Creating Harmful Programs?
-date: 2024-09-14T22:53:04.326Z
-updated: 2024-09-17T22:21:21.233Z
+date: 2024-09-17T17:53:49.857Z
+updated: 2024-09-22T23:04:50.937Z
 tags:
   - chatgpt
   - open-ai
@@ -64,6 +64,13 @@ thumbnail: https://thmb.techidaily.com/4b1d432d185a9307d4c64d844f91526f6a3048c24
 
 ![man at the base of a flagpole flying the flag of nepal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/man-at-the-base-of-a-flagpole-flying-the-flag-of-nepal.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In order to test which LLM has the best general knowledge, we asked three questions.
 
  The first question, "Which national flag has five sides?" was only correctly answered by Bard, which identified the national flag of Nepal as having five sides.
@@ -76,16 +83,16 @@ thumbnail: https://thmb.techidaily.com/4b1d432d185a9307d4c64d844f91526f6a3048c24
 
  All three chatbots correctly identified Franco Malerba as an Italian astronaut and member of the European Parliament, with Bard giving an answer worded identically to a section of Malerba's Wikipedia entry.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Which LLM Is Good for Technical Instructions?
 
 ![burnt socket for a  BS 1363 type plug](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/burnt-socket-for-a-bs-1363-type-plug.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When you have technical problems, you might be tempted to turn to a chatbot for help. While technology marches on, some things remain the same. The BS 1363 electrical plug has been in use in Britain, Ireland, and many other countries since 1947\. We asked the language models how to correctly wire it up.
 
@@ -107,13 +114,6 @@ thumbnail: https://thmb.techidaily.com/4b1d432d185a9307d4c64d844f91526f6a3048c24
 
  While both Bard and ChatGPT instantly returned usable and thoroughly commented code, which we were able to test and verify, none of the code from our local model would run.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Which LLM Tells the Best Jokes?
 
 ![Yellow ball with laughing expression painted on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3d-laughing-emoji-ball-1.jpg)
@@ -131,10 +131,10 @@ thumbnail: https://thmb.techidaily.com/4b1d432d185a9307d4c64d844f91526f6a3048c24
 You read it here first, folks.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## No Chatbot Is Perfect
@@ -160,15 +160,19 @@ You read it here first, folks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-the-independent-creators-playbook-earning-big-without-ads-on-youtube/"><u>[Updated] In 2024, The Independent Creator’s Playbook Earning Big Without Ads on YouTube</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/10-webcam-covers-that-keep-you-safe-online-for-2024/"><u>10 Webcam Covers That Keep You Safe Online for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-for-wellness-unveiling-the-top-9-methodologies/"><u>ChatGPT for Wellness: Unveiling the Top 9 Methodologies</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/future-proofing-your-career-against-ai-advancements-the-role-of-generative-technologies/"><u>Future-Proofing Your Career Against AI Advancements: The Role of Generative Technologies</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/long-haul-sound-systems-on-a-shoestring-budget-for-trucks/"><u>Long Haul Sound Systems on a Shoestring Budget for Trucks</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/mastering-live-streams-logitech-webcam-tips-for-2024/"><u>Mastering Live Streams Logitech Webcam Tips for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/shockingly-simple-steps-for-suddenly-massive-video-views-for-2024/"><u>Shockingly Simple Steps for Suddenly Massive Video Views for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/tips-on-archiving-chatgpt-discussions-for-future-reference/"><u>Tips on Archiving ChatGPT Discussions for Future Reference</u></a></li>
-<li><a href="https://fox-that.techidaily.com/track-and-secure-your-stolen-or-lost-iphone-using-find-my-technology/"><u>Track and Secure Your Stolen or Lost iPhone Using Find My Technology</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/your-path-to-chatgpt-conversation-control-on-android/"><u>Your Path to ChatGPT Conversation Control on Android</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-budget-friendly-cloud-pricing-showdown/"><u>[New] In 2024, Budget-Friendly Cloud Pricing Showdown</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-youtube-masterclass-choose-your-development-stage/"><u>[Updated] YouTube Masterclass Choose Your Development Stage</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ais-role-in-merging-myths-and-measures/"><u>AI's Role in Merging Myths & Measures</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/can-you-change-your-voice-magically-explore-alternative-tools/"><u>Can You Change Your Voice Magically? Explore Alternative Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/do-interactions-impact-chatgpts-knowledge-growth/"><u>Do Interactions Impact ChatGPT's Knowledge Growth?</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-setup-canon-mp560-driver-downloads-and-latest-updates-available-now/"><u>Easy Setup: Canon MP560 Driver Downloads & Latest Updates Available Now</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-your-ide-game-top-10-chatgpt-techniques-for-vs-code/"><u>Elevate Your IDE Game - Top 10 ChatGPT Techniques for VS Code</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-samsung-galaxy-z-flip-5-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Samsung Galaxy Z Flip 5 Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-xiaomi-redmi-note-12t-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Xiaomi Redmi Note 12T Pro to iPhone | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/monster-hunters-triumph-error-cleared-game-unlocked/"><u>Monster Hunters Triumph: Error Cleared, Game Unlocked</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-editors-pathway-weaving-clips-with-flawless-transitions/"><u>New The Editors Pathway Weaving Clips with Flawless Transitions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/stop-side-by-side-siri-and-chatgpt-what-separates-them/"><u>Stop Side-by-Side Siri & ChatGPT: What Separates Them?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transforming-document-production-leveraging-the-power-of-chatgpt-in-microsoft-word-environments/"><u>Transforming Document Production: Leveraging the Power of ChatGPT in Microsoft Word Environments</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unlocking-views-with-optimal-thumbnail-design-for-2024/"><u>Unlocking Views with Optimal Thumbnail Design for 2024</u></a></li>
 </ul></div>
 

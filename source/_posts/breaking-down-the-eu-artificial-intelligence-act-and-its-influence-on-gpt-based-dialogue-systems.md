@@ -1,7 +1,7 @@
 ---
 title: Breaking Down the EU Artificial Intelligence Act and Its Influence on GPT-Based Dialogue Systems
-date: 2024-09-13T16:48:19.679Z
-updated: 2024-09-17T18:08:00.096Z
+date: 2024-09-18T23:14:57.209Z
+updated: 2024-09-22T18:09:13.360Z
 tags:
   - chatgpt
   - open-ai
@@ -59,28 +59,15 @@ thumbnail: https://thmb.techidaily.com/826e213581d156558e6f234936866c0f136b90179
  The lessons emphasize that AI does not replace you as a human. Instead, it augments your work so that you can produce better results. When ChatGPT gives you an output, you must still use your skills and judgment to check and refine the answers and deliver the best results.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4.[Learn Prompting](https://learnprompting.org/)
 
 ![Learn Prompting Website showing Basic Applications lessons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-40.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you prefer reading rather than watching videos, access the Learn Prompting website. The curriculum takes you through basic to advanced prompting techniques using text-based lessons. The courses are free for everyone and were developed by researchers, translators, and hobbyists.
 
@@ -89,6 +76,13 @@ thumbnail: https://thmb.techidaily.com/826e213581d156558e6f234936866c0f136b90179
  You don't need to go through all the materials on the website. If you already have a basic understanding of prompting, you can start with prompting techniques you're not familiar with first. We also recommend exploring the topics you won't usually find in other courses, such as Understanding AI Minds (under Basics) and What's in a Prompt (Intermediate).
 
  The Learn Prompting site offers bite-sized and practical lessons you can easily bookmark. Use the readings to recall and review AI prompt engineering concepts quickly. This site is for you if you want substantial facts that cover the essentials.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5.[ChatGPT Ultimate Guide (Skillshare)](https://skillshare-ambassador.pxf.io/c/119570/828598/11648?subId1=UUmuoUeUpU2025238&subId2=emuo&u=https%3A%2F%2Fwww.skillshare.com%2Fen%2Fclasses%2FChatGPT-Ultimate-Guide-10x-Your-Productivity-Creativity-with-ChatGPT%2F2113872437)
 
@@ -125,16 +119,18 @@ thumbnail: https://thmb.techidaily.com/826e213581d156558e6f234936866c0f136b90179
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-crafting-captivating-tiktoks-mastering-the-use-of-pre-designed-templates/"><u>[Updated] 2024 Approved Crafting Captivating TikToks Mastering the Use of Pre-Designed Templates</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-amplify-iphone-film-and-photo-experience-with-extra-gear-for-2024/"><u>[Updated] Amplify iPhone Film & Photo Experience with Extra Gear for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/chucklechamber-endless-options-to-spread-smiles-for-2024/"><u>ChuckleChamber Endless Options to Spread Smiles for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dont-get-duped-discover-the-9-sham-chatgpt-malware-programs-likely-to-hijack-your-data/"><u>Don't Get Duped! Discover The 9 Sham ChatGPT Malware Programs Likely to Hijack Your Data</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/explore-the-world-of-digital-care-discover-5-innovative-ai-mental-health-bots/"><u>Explore the World of Digital Care: Discover 5 Innovative AI Mental Health Bots</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/h264mov/"><u>H264形式へのMOVファイル変換手順</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-resolve-problems-with-the-realtek-rtl8723be-network-adapter-drivers/"><u>How to Resolve Problems with the Realtek RTL8723BE Network Adapter Drivers</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-nubia-red-magic-9-pro-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Nubia Red Magic 9 Pro</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/solving-the-mov-wont-play-top-7-rapid-solutions/"><u>Solving the 'MOV Won't Play': Top 7 Rapid Solutions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/speedy-conversion-techniques-how-to-turn-youtube-footage-into-avi-files-seamlessly/"><u>Speedy Conversion Techniques: How to Turn YouTube Footage Into AVI Files Seamlessly</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/teenage-mutant-ninja-turtles-dvd-collection-ultimate-backup-solutions/"><u>Teenage Mutant Ninja Turtles DVD Collection: Ultimate Backup Solutions</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-crafting-your-youtube-content-for-specific-crowds/"><u>[New] In 2024, Crafting Your YouTube Content for Specific Crowds</u></a></li>
+<li><a href="https://win-able.techidaily.com/1-converting-videos-for-your-iphone-a-step-by-step-guide/"><u>1. Converting Videos for Your iPhone: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/embrace-the-role-of-investigator-with-these-n-ai-murder-mystery-puzzles/"><u>Embrace the Role of Investigator with These N AI Murder Mystery Puzzles</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/fabricate-jocular-images-share-via-giphy-for-2024/"><u>Fabricate Jocular Images, Share via Giphy for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-how-to-innovatively-deploy-music-stickers-on-instafeatures/"><u>In 2024, How to Innovatively Deploy Music Stickers on InstaFeatures</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-the-activation-lock-on-your-ipad-and-iphone-15-pro-max-without-apple-account-by-drfone-ios/"><u>In 2024, How to Remove the Activation Lock On your iPad and iPhone 15 Pro Max without Apple Account</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-vivo-t2-pro-5g-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Vivo T2 Pro 5G Phone Hassle-Free</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leading-6-ai-powered-apps-to-transform-how-you-take-notes-effectively/"><u>Leading 6 AI Powered Apps to Transform How You Take Notes Effectively</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-tech-choices-professional-tips-and-reviews-by-toms-gear-experts/"><u>Navigating Tech Choices: Professional Tips and Reviews by Tom's Gear Experts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-the-maze-of-chatgpt-access-glitches/"><u>Navigating the Maze of ChatGPT Access Glitches</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-through-the-world-of-ai-hallucinations-strategies-for-identification-and-insight/"><u>Navigating Through the World of AI Hallucinations – Strategies for Identification and Insight</u></a></li>
+<li><a href="https://tools.techidaily.com/quickheal/products/"><u>Quickheal's Products</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtube-shorts-success-top-10-steps-to-stand-out-for-2024/"><u>Youtube Shorts Success - Top 10 Steps to Stand Out for 2024</u></a></li>
 </ul></div>
 

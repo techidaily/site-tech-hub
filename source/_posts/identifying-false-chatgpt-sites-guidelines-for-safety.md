@@ -1,7 +1,7 @@
 ---
 title: "Identifying False ChatGPT Sites: Guidelines for Safety"
-date: 2024-09-10T18:11:02.964Z
-updated: 2024-09-17T23:52:23.075Z
+date: 2024-09-20T02:21:15.052Z
+updated: 2024-09-22T19:58:30.109Z
 tags:
   - chatgpt
   - open-ai
@@ -80,17 +80,10 @@ You could use:
 ![Translating with context using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/translating-with-context-using-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Not Using Examples
@@ -101,9 +94,23 @@ You could use:
 
 ![ChatGPT Prompt without example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/prompt-without-example.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Without examples, the jokes ChatGPT came up with weren't particularly rib-cracking. The overall response wasn't quite enticing as well.
 
 ![Lady Gaga and Ed Sheeran Jokes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/lady-gaga-and-ed-sheeran-jokes.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Next, we gave ChatGPT some examples of how we want our jokes to look. Here's the prompt in the screenshot below:
 
@@ -117,20 +124,14 @@ And here's another one ChatGPT made when we prompted it with Jay-Z.
 
 ![Jay-z joke made by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/jay-z-joke.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Loved the second set of jokes? Well, the moral of the story is to use examples more often.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Not Being Clear and Specific With Your Instructions
 
@@ -139,13 +140,6 @@ And here's another one ChatGPT made when we prompted it with Jay-Z.
  "What is the meaning of life?" and "What is the best way to stay healthy?" are two examples of prompts that seem normal but are quite ambiguous. There's no definitive answer to both questions. However, ChatGPT will try to provide you with an answer that seems like hard facts. Prompts like "What is the meaning of life from a biological perspective?" or "What are some specific lifestyle changes or habits that can help improve mental health?" are good examples of specific, less ambiguous alternatives.
 
  Specific prompts provide a clearer direction for ChatGPT to follow. It also narrows down the focus of the prompt and provides more relevant information for the model to work with.
-
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT Is Garbage In, Garbage Out
 
@@ -166,15 +160,17 @@ And here's another one ChatGPT made when we prompted it with Jay-Z.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-hub.techidaily.com/57ch5y2y44gq44ks44kk44oj77ya44ot44oh44kq44g444gu5rc05y2w5oy5ywl5oml6acg/"><u>簡単なガイド：ビデオへの水印挿入手順</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/adobe-media-encoder-troubleshooting-overcoming-webm-file-integration-problems/"><u>Adobe Media Encoder Troubleshooting: Overcoming WebM File Integration Problems</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/asgard-integration-guide-for-kodi-builds-20x-and-19x/"><u>Asgard Integration Guide for Kodi Builds 20.x and 19.x</u></a></li>
-<li><a href="https://common-error.techidaily.com/ce-34878-0-bugs-found-solutions-for-a-smooth-ps4-gaming-experience/"><u>CE-34878-0 Bugs Found: Solutions for a Smooth PS4 Gaming Experience</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effective-techniques-to-repair-realteks-rtl8811au-network-interface-drivers/"><u>Effective Techniques to Repair Realtek's RTL8811AU Network Interface Drivers</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-nokia-g22-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Nokia G22 to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/on-youtube-initiating-your-chanel-and-earning-pathway-for-2024/"><u>Rise on YouTube Initiating Your Chanel & Earning Pathway for 2024</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/top-6-video-to-mp4-converters-for-dvd-chapters-your-ultimate-guide-by-movavi/"><u>Top 6 Video-to-MP4 Converters for DVD Chapters - Your Ultimate Guide by Movavi</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/ultra-hd-graphics-selection-top-picks-for-2024/"><u>Ultra HD Graphics Selection Top Picks for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/44oh44oh44kj44ki44ox44os44o844ok44o844gr44gk44ge44gm5pig55s744ke5yuv55s744gm5lia5a6a566h5oma44gn5yan55sf44gm44k544oi44od44ox44gz44kl5y6f5zug44go6kej5rg65pa543/"><u>メディアプレーヤーにおいて映画や動画が一定箇所で再生がストップする原因と解決方法</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-pros-verdict-4-superior-fullscreen-capture-applications/"><u>[New] In 2024, Pro's Verdict 4 Superior Fullscreen Capture Applications</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-transforming-ordinary-footage-to-ig-masterpieces-for-2024/"><u>[Updated] Transforming Ordinary Footage to IG Masterpieces for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-mastering-the-art-of-uploading-and-sharing-videos-on-instagram/"><u>2024 Approved Mastering the Art of Uploading and Sharing Videos on Instagram</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-melodious-feed-infusing-ig-stories-with-music/"><u>2024 Approved Melodious Feed Infusing IG Stories With Music</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-chatgpt-master-the-art-of-mixology-and-create-delicious-cocktails/"><u>Can ChatGPT Master the Art of Mixology and Create Delicious Cocktails?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-chief-to-subordinate-repercussions-for-gpt/"><u>From Chief to Subordinate: Repercussions for GPT</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-14-pro-max-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 14 Pro Max</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-the-impact-of-europes-proposed-ai-legislation-on-next-generation-language-systems-like-chatgpt/"><u>Navigating the Impact of Europe's Proposed AI Legislation on Next-Generation Language Systems Like ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/plot-cohesion-achieving-continuity-with-9-chatgpt-aids/"><u>Plot Cohesion: Achieving Continuity With 9 ChatGPT Aids</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-dilemmas-of-ai-conversation-chatgpts-8-issues/"><u>The Dilemmas of AI Conversation: ChatGPT’s 8 Issues</u></a></li>
+<li><a href="https://win-dash.techidaily.com/top-7-starter-yoga-videotapes-enhance-physical-and-mental-wellbeing-with-these-ideal-choices/"><u>Top 7 Starter Yoga Videotapes: Enhance Physical & Mental Wellbeing with These Ideal Choices</u></a></li>
+<li><a href="https://article-helps.techidaily.com/transforming-live-photos-into-time-lapse-videos/"><u>Transforming Live Photos Into Time-Lapse Videos</u></a></li>
 </ul></div>
 

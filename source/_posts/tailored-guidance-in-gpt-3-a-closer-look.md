@@ -1,7 +1,7 @@
 ---
 title: "Tailored Guidance in GPT-3: A Closer Look"
-date: 2024-09-13T21:12:38.635Z
-updated: 2024-09-17T16:08:12.298Z
+date: 2024-09-17T22:49:42.114Z
+updated: 2024-09-22T22:41:48.277Z
 tags:
   - chatgpt
   - open-ai
@@ -64,24 +64,24 @@ thumbnail: https://thmb.techidaily.com/e0be33554f7e808cbb9defb5e44d8742371f9f0a4
 
  When we inquired about the book, it replied that it was a "hypothetical" book that it created. ChatGPT won't tell you if a journal article or book is false if you don't inquire further.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. ChatGPT Is Just an AI Language Model
 
 ![ChatGPT Medical](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-medical.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Language models function by memorizing and generalizing text rather than examining or studying a patient's condition. Despite generating responses that match human standards in terms of language and grammar, [ChatGPT still contains a number of problems](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/), much like other AI bots.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT Is Not a Replacement for Your Doctor
@@ -111,17 +111,19 @@ thumbnail: https://thmb.techidaily.com/e0be33554f7e808cbb9defb5e44d8742371f9f0a4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-leading-minds-in-online-creation/"><u>[New] 2024 Approved Leading Minds in Online Creation</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-the-ultimate-insider-guide-to-youtube-live-video-thumbnails/"><u>[New] 2024 Approved The Ultimate Insider Guide to YouTube Live Video Thumbnails</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-classic-1980s-visual-elements-in-editing-workflow/"><u>[Updated] In 2024, Classic 1980S Visual Elements in Editing Workflow</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-poco-f5-5g-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Poco F5 5G FRP Bypass Instantly</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1726027500129-dvd/"><u>DVDからデータ移行：パソコンに保存する具体的方法</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Realme 12+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/incorporate-live-captions-seamlessly-into-stories-for-2024/"><u>Incorporate Live Captions Seamlessly Into Stories for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1726028618632-itunes/"><u>ITunesで高解像度音楽をダウンロードするための普遍的なガイド: 異なるファイルタイプへの変換方法</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/revive-your-lost-icloud-or-local-notes-top-iphone-note-recovery-tools/"><u>Revive Your Lost iCloud or Local Notes: Top iPhone Note Recovery Tools</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-swagtron-swagger-electric-scooter-the-chic-way-to-commute-in-style/"><u>The Swagtron Swagger Electric Scooter - The Chic Way to Commute in Style</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1726027854675-dvd/"><u>ジャニーズDVD パソコンに移行するための専用無料アプリとその使い方 - 初心者向け詳細マニュアル</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1726028698929-bluetooth/"><u>ワイヤレスBluetoothイヤホン録音方法：最新の操作手順</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-8-free-online-video-editors-for-youtube-for-2024/"><u>[Updated] 8 Free Online Video Editors for YouTube for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-enhancing-listener-engagement-through-excellent-intros/"><u>[Updated] Enhancing Listener Engagement Through Excellent Intros</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-profit-making-on-youtube-breakdown-of-critical-view-criteria/"><u>[Updated] Profit-Making on YouTube Breakdown of Critical View Criteria</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-zte-blade-a73-5g-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from ZTE Blade A73 5G.</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/imovie-rhythms-a-sound-experts-handbook-for-2024/"><u>IMovie Rhythms A Sound Expert's Handbook for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Oppo A56s 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/inside-the-videography-realm-xstudio-study/"><u>Inside the Videography Realm XStudio Study</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-network-snags-seven-strategies-to-connect-in-obs-windows/"><u>Navigating Network Snags: Seven Strategies to Connect in OBS Windows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/polyglot-power-expert-techniques-for-operating-chatgpt-in-non-english-languages/"><u>Polyglot Power: Expert Techniques for Operating ChatGPT in Non-English Languages</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionizing-presentations-7-leading-ai-innovators/"><u>Revolutionizing Presentations: 7 Leading AI Innovators</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/soluciones-expertas-guia-paso-a-paso-para-empezar-a-ver-videos-mp4-en-windows-10-8-y-7/"><u>Soluciones Expertas: Guía Paso a Paso Para Empezar a Ver Videos .MP4 en Windows 10, 8 Y 7</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-7-leading-platforms-for-buying-and-selling-ai-generated-content/"><u>Top 7 Leading Platforms for Buying and Selling AI-Generated Content</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-the-power-of-numbers-the-ultimate-7-ai-assistants-for-tackling-math-challenges/"><u>Unlock the Power of Numbers: The Ultimate 7 AI Assistants for Tackling Math Challenges</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-creative-potential-harness-the-art-of-storytelling-using-chatgpt-tools/"><u>Unlocking Creative Potential: Harness the Art of Storytelling Using ChatGPT Tools</u></a></li>
 </ul></div>
 

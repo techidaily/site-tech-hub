@@ -1,0 +1,119 @@
+---
+title: "Exploring the Influence of AI on Mental Healthcare: Progressive Help or Potential Peril?"
+date: 2024-09-17T21:56:21.590Z
+updated: 2024-09-22T22:06:33.021Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: "This Article Describes Exploring the Influence of AI on Mental Healthcare: Progressive Help or Potential Peril?"
+excerpt: "This Article Describes Exploring the Influence of AI on Mental Healthcare: Progressive Help or Potential Peril?"
+thumbnail: https://thmb.techidaily.com/a59cf765d06f5418cdef7d00a3b67e1ee9116697553e1d530781cf64808b0b00.png
+---
+
+## Waiting on the Official Release of ChatGPT for Desktops? Explore Our Recommended Open-Source Solution Now
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+### Quick Links
+
+* [What Is the Open-Source ChatGPT Desktop Application?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#what-is-the-open-source-chatgpt-desktop-application)
+* [How to Install and Configure ChatGPT Desktop Application](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#how-to-install-and-configure-chatgpt-desktop-application)
+* [When Is the Official ChatGPT Desktop Version Launching?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#when-is-the-official-chatgpt-desktop-version-launching)
+
+### Key Takeaways
+
+* OpenAI is releasing a ChatGPT desktop version, starting with macOS and later for Windows.
+* However, an open-source ChatGPT desktop version is available as an alternative.
+* The official version is slowly rolling out to users, but it's a slow process.
+
+ As part of its massive 2024 Spring Update, OpenAI revealed that a long-awaited ChatGPT desktop version was incoming.
+
+ Starting with macOS, OpenAI is officially bringing ChatGPT to desktops, with Windows support coming later.
+
+ But if you can't wait—like me!—you can try a free, open-source version instead.
+
+## What Is the Open-Source ChatGPT Desktop Application?
+
+ ChatGPT users have long wanted a desktop version. The world's leading generative AI chatbot works great in a browser, but sometimes, a desktop app is more convenient.
+
+[OpenAI's Spring Update launched GPT-4o](https://www.makeuseof.com/how-gpt-4o-works-is-it-free/) among a host of[other shiny new ChatGPT features](https://www.makeuseof.com/chatgpt-new-features-spring-update/) , wowing the world with its new capabilities.
+
+ The long-awaited desktop version was one of them—but intrepid ChatGPT users need to wait a little longer.
+
+ Developer[Lencx's open source ChatGPT](https://github.com/lencx/ChatGPT) gives you the option to try a desktop version right now, without waiting. It's a website wrapper that runs on Windows, macOS, and Linux, so it's a little basic, but it replicates the functionality of the website, and does a really good job, too.
+
+![chatgpt open source desktop version login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-login.jpg)
+
+ The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
+
+## How to Install and Configure ChatGPT Desktop Application
+
+![chatgpt open source desktop version home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-home-page.jpg)
+
+1. Head to the open-source[ChatGPT Desktop Application download page](https://github.com/lencx/ChatGPT/releases/tag/v1.1.0) . The latest version at the time of writing is V1.1.0, but you can check for a newer version.
+2. Download the applicable version for your operating system, then install it as per your operating system.
+3. Launch the ChatGPT Desktop Application.
+
+ Then, just sign in to ChatGPT as you usually would. All of your previous chats will be waiting for you, and you can choose from GPT-4, GPT-4o, DALL-E, and so on.
+
+![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## When Is the Official ChatGPT Desktop Version Launching?
+
+ The official ChatGPT Desktop app is already slowly rolling out to macOS users.
+
+ As with many of OpenAI's major updates, it takes time to filter through to the majority, and a Windows version will take longer still.
+
+ Still, if you can't wait, you can give this open-source ChatGPT desktop version a try instead.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-color-consistency-comparing-srgb-and-rgb-formats/"><u>[New] Color Consistency Comparing Srgb and Rgb Formats</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-story-stream-sequencer-app-for-2024/"><u>[New] Story Stream Sequencer App for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-compreenas-record-your-life-in-hd-via-vlc-media-player/"><u>[Updated] Compreenas Record Your Life in HD via VLC Media Player</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-mastering-the-art-of-phantoms-time-recapture-for-2024/"><u>[Updated] Mastering the Art of Phantom's Time Recapture for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726029080682-webm-mp4/"><u>画質に影響を与えずに WebM ファイルを MP4 形式に変換する手順とツール</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-realme-c55-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Realme C55 to Protect Your Individual Information</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726026985625-itunes/"><u>ITunesへの画像記録保存手順</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726026842359-mp4-3/"><u>MP4ファイルからクリアな音楽のみ再生 - 3シンプルテクニック</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-your-next-move-should-you-embrace-ios-17/"><u>Navigating Your Next Move: Should You Embrace iOS 17?</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/quick-guide-converting-pdfs-into-beautifully-animated-flip-books-using-flipbuilder/"><u>Quick Guide: Converting PDFs Into Beautifully Animated Flip Books Using FlipBuilder</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-top-10-list-of-free-media-servers-stream-and-control-your-content/"><u>The Ultimate Top 10 List of Free Media Servers - Stream & Control Your Content!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726027981252-windows-11/"><u>Windows 11 におけるゲーム映像の高精細な記録技術</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/word-mp3/"><u>Word から MP3 へ - テキストを音声に変換して保存方法</u></a></li>
+</ul></div>
+

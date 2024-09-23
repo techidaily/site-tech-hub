@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide to AI: Identifying Its Dangers and Safeguards"
-date: 2024-09-13T19:14:44.639Z
-updated: 2024-09-18T00:09:06.140Z
+date: 2024-09-19T16:12:25.559Z
+updated: 2024-09-22T21:14:33.118Z
 tags:
   - chatgpt
   - open-ai
@@ -114,6 +114,13 @@ thumbnail: https://thmb.techidaily.com/c0dd113ef640e63463952867f5a2b0cf9994895a1
 
 **Winner:** ChatGPT performs better in basic math.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ChatGPT vs. Bing AI vs. Bard: Creativity
 
  While chatbots are stereotyped for their bland, soulless responses, today's generative AI chatbots have made significant progress in creativity. To test the creativity of all three chatbots, we prompted each chatbot to simulate a conversation between two people arguing about going to space.
@@ -122,31 +129,31 @@ thumbnail: https://thmb.techidaily.com/c0dd113ef640e63463952867f5a2b0cf9994895a1
 
 ![Creativity test-1 - Bing AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/creativity-test-1-bing-ai.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  We then fed the same prompt to Google Bard. Let's just say there's a lot of room for improvement.
 
 ![Creativity test-1 - Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/creativity-test-1-bard-ai.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Up next is ChatGPT. Using the same prompt, ChatGPT's response was both creative and complete enough to be engaging. Here's the first part:
 
 ![Creativity test - ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/creativity-test-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 And here's the second part:
 
 ![Creativity test-2 - ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/creativity-test-2-chatgpt.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Bard AI's response appears to be the poorest of the three. ChatGPT outperforms Bing AI, but the creativity levels of both chatbots are impressive.
 
@@ -156,16 +163,16 @@ And here's the second part:
 
 ![Bard AI self-description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bard-ai-self-description.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Up next, we tried Bing AI. For some reason, the chatbot bluntly refused to describe itself. It even said it might be a good time to change the topic of the conversation. Strange.
 
 ![Bing AI self-description-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bing-ai-self-description-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  We used the same prompt with ChatGPT, and ChatGPT had an interesting description to provide. However, ChatGPT's response seems to be more suitable for an artist.
 
@@ -195,13 +202,6 @@ And here's the second part:
 
  Although you can trick these generative AI chatbots into producing content that goes against their terms and conditions, it could see your account suspended without warning. You could also produce or create something dangerous without realizing, so please be extremely cautious when jailbreaking these tools.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## ChatGPT vs. Bing AI vs. Bard: Which AI Chatbot Is the Best?
 
  While all three AI chatbots are powerful, ChatGPT, despite failing the safety test, seems to be the best of the trio. In addition, ChatGPT seems to be generally better in terms of accuracy and creativity. Furthermore, with the addition of web browsing and web-connected plugins, ChatGPT extends its capabilities and lead over its competitors.
@@ -223,13 +223,19 @@ And here's the second part:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/hriving-online-a-strategy-guide-for-building-youtube-links/"><u>[New] Thriving Online A Strategy Guide for Building YouTube Links</u></a></li>
-<li><a href="https://win-dash.techidaily.com/effective-and-fast-solutions-for-presonus-audiobox-usb-driver-problems/"><u>Effective and Fast Solutions for Presonus AudioBox USB Driver Problems</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Infinix Zero 5G 2023 Turbo? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-update-your-hardware-drivers-in-windows-11-by-drivereasy-guide/"><u>How to use Device Manager to update your hardware drivers in Windows 11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/page-not-found-alert-discover-the-new-location-with-wonderfox/"><u>Page Not Found Alert: Discover the New Location with WonderFox</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/quickly-rip-thor-the-dark-world-movie-from-dvd-without-compromising-on-quality/"><u>Quickly Rip Thor: The Dark World Movie From DVD without Compromising on Quality</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/save-and-enjoy-your-favorite-coub-videos-with-ease/"><u>Save and Enjoy Your Favorite Coub Videos with Ease</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/visual-vortex-30-new-frontiers-in-art-with-dall-e-iii/"><u>Visual Vortex: 30 New Frontiers in Art with DALL-E III</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-simplified-guide-designing-your-podcasts-rss-feed/"><u>[New] 2024 Approved Simplified Guide Designing Your Podcast's RSS Feed</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-love-for-filmora-top-10-editing-highlights-revealed/"><u>[New] Love for Filmora Top 10 Editing Highlights Revealed</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-composing-engaging-podcast-thumbnails/"><u>[Updated] Composing Engaging Podcast Thumbnails</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-break-through-the-crowd-your-guide-to-choosing-free-intro-masters/"><u>2024 Approved Break Through the Crowd - Your Guide to Choosing Free Intro Masters</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/cutting-edge-hubs-for-ai-prompt-sharing/"><u>Cutting-Edge Hubs for AI Prompt Sharing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/evolving-skills-for-tomorrows-job-market-six-key-approaches-with-ai-advancements/"><u>Evolving Skills for Tomorrow's Job Market: Six Key Approaches With AI Advancements</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gpt-4-vs-gpt-35-unveiled-analyzing-their-five-main-differences/"><u>GPT-4 Vs. GPT-3.5 Unveiled: Analyzing Their Five Main Differences</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-y78t-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo Y78t Location by Number | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovative-uses-of-chatgpt-wolframalpha-fusion-tools/"><u>Innovative Uses of ChatGPT-WolframAlpha Fusion Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/local-vs-global-the-benefits-and-drawbacks-of-using-an-llms/"><u>Local vs Global: The Benefits & Drawbacks of Using an LLMS</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-call-issues-on-your-samsung-galaxy-watch-a-step-by-step-guide/"><u>Resolving Call Issues on Your Samsung Galaxy Watch - A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/strategizing-your-online-security-with-facebooks-improved-privacy-center/"><u>Strategizing Your Online Security with Facebook's Improved Privacy Center</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-the-limitations-of-ai-why-cant-chatgpt-detect-self-generated-text/"><u>Understanding the Limitations of AI: Why Can't ChatGPT Detect Self-Generated Text?</u></a></li>
 </ul></div>
 

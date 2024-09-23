@@ -1,7 +1,7 @@
 ---
 title: Google Unveils Bard - The Advanced AI System Competing with Microsoft's ChatGPT
-date: 2024-09-10T18:29:08.933Z
-updated: 2024-09-18T01:48:33.470Z
+date: 2024-09-16T01:43:02.925Z
+updated: 2024-09-23T01:48:05.608Z
 tags:
   - chatgpt
   - open-ai
@@ -52,15 +52,28 @@ thumbnail: https://thmb.techidaily.com/9f1310fb04eb76846ce94c2831da468762b7226e2
 
  The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
 
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Install and Configure ChatGPT Desktop Application
 
 ![chatgpt open source desktop version home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-home-page.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Head to the open-source[ChatGPT Desktop Application download page](https://github.com/lencx/ChatGPT/releases/tag/v1.1.0) . The latest version at the time of writing is V1.1.0, but you can check for a newer version.
@@ -70,13 +83,6 @@ thumbnail: https://thmb.techidaily.com/9f1310fb04eb76846ce94c2831da468762b7226e2
  Then, just sign in to ChatGPT as you usually would. All of your previous chats will be waiting for you, and you can choose from GPT-4, GPT-4o, DALL-E, and so on.
 
 ![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## When Is the Official ChatGPT Desktop Version Launching?
 
@@ -101,17 +107,16 @@ thumbnail: https://thmb.techidaily.com/9f1310fb04eb76846ce94c2831da468762b7226e2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-striking-the-balance-visual-strategies-for-podcast-identity/"><u>[New] Striking the Balance Visual Strategies for Podcast Identity</u></a></li>
-<li><a href="https://games-able.techidaily.com/from-alone-to-together-reestablishing-winmc-network-connections/"><u>From Alone to Together: Reestablishing WinMC Network Connections</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-11-best-color-correction-and-color-grading-tutorial/"><u>In 2024, 11 Best Color Correction and Color Grading Tutorial</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Lava Blaze 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-samsung-galaxy-a24-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Samsung Galaxy A24 For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/setting-up-your-trakttv-profile-with-kodi-a-step-by-step-guide/"><u>Setting Up Your Trakt.tv Profile with Kodi: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/simple-guide-transforming-flac-files-into-aac-format-across-computers-and-online-tools/"><u>Simple Guide: Transforming FLAC Files Into AAC Format Across Computers and Online Tools</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/simple-steps-effortlessly-transforming-audio-files-from-aac-to-ogg-format/"><u>Simple Steps: Effortlessly Transforming Audio Files From AAC to OGG Format</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/simple-steps-transforming-your-trec-files-into-avi-format-the-most-straightforward-way/"><u>Simple Steps: Transforming Your TREC Files Into AVI Format - The Most Straightforward Way</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-instructions-how-to-delete-built-in-subtitle-text-in-videos/"><u>Step-by-Step Instructions: How to Delete Built-In Subtitle Text in Videos</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-vivo-v30-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Vivo V30 Device</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-lenovo-p11-pro-assessment-outstanding-tablet-with-minor-flaws-explored/"><u>The Lenovo P11 Pro Assessment: Outstanding Tablet with Minor Flaws Explored</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-fine-tuning-release-timings-for-podcasts/"><u>[New] Fine-Tuning Release Timings for Podcasts</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-flashfreeze-video-interruption-tip-for-2024/"><u>[New] FlashFreeze Video Interruption Tip for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-surprise-refresh-on-tiktok-can-i-see-old-videos-for-2024/"><u>[Updated] Surprise Refresh on TikTok – Can I See Old Videos for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/breaking-barriers-generating-originality-via-microsofts-copilot/"><u>Breaking Barriers: Generating Originality via Microsoft's Copilot</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-your-cryptocurrency-projects-with-these-top-8-chatbot-enhancements/"><u>Elevate Your Cryptocurrency Projects with These Top 8 Chatbot Enhancements</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/exploring-the-boundaries-of-unlimited-dvr-what-are-you-actually-getting/"><u>Exploring the Boundaries of Unlimited DVR – What Are You Actually Getting?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/fools-errand-of-intelligent-machines-recognizing-ai-hallucination/"><u>Fool's Errand of Intelligent Machines: Recognizing AI Hallucination</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/guide-to-correcting-and-confirming-your-age-information-on-tiktok/"><u>Guide to Correcting & Confirming Your Age Information on TikTok</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-efficiently-downsize-your-avi-videos-leading-software-solutions-for-quality-and-fit/"><u>How to Efficiently Downsize Your AVI Videos: Leading Software Solutions for Quality & Fit</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-streamline-screen-capture-on-google-chat/"><u>In 2024, Streamline Screen Capture on Google Chat</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/web-browser-vs-add-on-deciding-on-your-preferred-chatgpt-experience/"><u>Web Browser Vs. Add-On: Deciding on Your Preferred ChatGPT Experience</u></a></li>
 </ul></div>
 

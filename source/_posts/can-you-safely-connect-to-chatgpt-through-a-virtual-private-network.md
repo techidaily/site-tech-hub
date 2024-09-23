@@ -1,7 +1,7 @@
 ---
 title: Can You Safely Connect to ChatGPT Through a Virtual Private Network?
-date: 2024-09-14T02:00:31.790Z
-updated: 2024-09-18T02:22:24.266Z
+date: 2024-09-17T17:10:21.571Z
+updated: 2024-09-22T22:58:58.444Z
 tags:
   - chatgpt
   - open-ai
@@ -58,13 +58,6 @@ thumbnail: https://thmb.techidaily.com/8ff514e7ae8e73f00c632257f00b6aefbc08dc01d
 
  To be fair, I was aiming for this result. I kept the text generic and used “salesy” language. But the point that a human wrote this remains just as valid. This is not an inconvenience or something that can just be shrugged off. Errors like this can have serious ramifications for writers, students, and other professionals who create written works.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Test Three: Testing ZeroGPT on Fiction
 
  For the third test, we are going to use ChatGPT and ask it to write some fiction. To do this, we created a scenario and prompted ChatGPT to write a brief introduction to a fictional story.
@@ -74,16 +67,10 @@ thumbnail: https://thmb.techidaily.com/8ff514e7ae8e73f00c632257f00b6aefbc08dc01d
 ![Screenshot of ChatGPT fiction](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-chatgpt-fiction.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 And here was the response from ZeroGPT:
@@ -92,13 +79,6 @@ And here was the response from ZeroGPT:
 
  As is apparent from the result, ZeroGPT is unable to tell fact from fiction when dealing with fiction!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Test Four: News Articles
 
  There is something unsettling about AI being able to inform us of what’s happening in the world around us. This is not always necessarily “fake news,” as it can be relevant and informative, but there are[definite ethical concerns about AI](https://www.makeuseof.com/ethical-dilemmas-in-artificial-intelligence/) .
@@ -106,6 +86,13 @@ And here was the response from ZeroGPT:
  To be fair to ZeroGPT, it performed well in this test. We asked ChatGPT and Bing Chat to write news articles about several subjects, and ZeroGPT nailed it every time. The example below shows it correctly declaring a Bing Chat-generated article as being 100% AI-generated.
 
 ![Screenshot of ZeroGPT correctly identifying AI news article](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-zerogpt-correctly-identifying-ai-news-article.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The tool so consistently flagged each news article as AI-generated that we decided to test it on a dummy news article that we wrote for the purpose.
 
@@ -130,10 +117,10 @@ And here was the response from ZeroGPT:
  Another factor that must be considered is what constitutes AI-generated content. If AI-generated content is simply reworded, is it human or AI-generated content? This represents another major challenge—the blurring of the lines between the two makes defining machine-created content almost impossible.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Looking to the Future of AI Detection
@@ -145,6 +132,13 @@ And here was the response from ZeroGPT:
  These tools can’t be expected to face the challenges posed by chatbots on their own. But they can play a valuable part in a concerted and multifaceted effort to address the challenges of AI. They represent one piece of a larger puzzle that includes ethical AI practices, human oversight, and ongoing research and development.
 
  The challenges that these tools face are mirror images of the challenges that society faces as we grapple with the dilemmas associated with a new technological age.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## AI or Not AI? That Is the Question
 
@@ -169,19 +163,20 @@ And here was the response from ZeroGPT:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-distortion-dialogue-expert-tips-for-text-alteration/"><u>[New] In 2024, Distortion Dialogue Expert Tips for Text Alteration</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlocking-pip-techniques-for-professional-apple-users/"><u>[New] Unlocking PIP Techniques for Professional Apple Users</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1726026529719-bilibili/"><u>「一挙にBilibili動画を保存する効率的な方法」</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-humorhub-design-your-own-jokes-and-gifs/"><u>2024 Approved HumorHub Design Your Own Jokes and Gifs</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>4 solution to get rid of pokemon fail to detect location On Apple iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/android-screen-stuck-general-honor-70-lite-5g-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Honor 70 Lite 5G Partly Screen Unresponsive | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Oppo Find N3 Flip? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-apple-iphone-se-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock Apple iPhone SE to Use USB Accessories Without Passcode</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-mp4-format-compatible-with-windows-movie-maker-full-details-unveiled/"><u>Is MP4 Format Compatible with Windows Movie Maker? Full Details Unveiled!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mpeg-to-any-format-video-transcoder-the-ultimate-software-tool-for-converting-all-your-mp4-avi-and-more/"><u>MPEG-to-Any Format Video Transcoder: The Ultimate Software Tool for Converting All Your MP4, AVI & More!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionize-your-encoding-experience-with-leading-hardware-accelerated-nvenc-solutions-for-ultimate-speed-efficiency/"><u>Revolutionize Your Encoding Experience with Leading Hardware-Accelerated NVENC Solutions for Ultimate Speed Efficiency</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-to-setting-up-a-lumiakode-custom-interface-in-kodi-version-190/"><u>Step-by-Step Guide to Setting Up a LumiaKode Custom Interface in Kodi Version 19.0</u></a></li>
-<li><a href="https://win-blog.techidaily.com/top-16-kostenlose-logo-design-programme-fur-windows-movavi/"><u>Top 16 Kostenlose Logo-Design-Programme Für Windows - Movavi</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1726028705810-mp4/"><u>ビデオプロジェクトを改良：MP4動画を上手に分割・カットする方法</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-easy-listening-top-hits-from-facebook/"><u>[New] 2024 Approved Easy Listening Top Hits From Facebook</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-instaidentity-100-innovative-caption-examples-for-global-sharing/"><u>[Updated] InstaIdentity 100 Innovative Caption Examples for Global Sharing</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-precision-guide-for-subtitles-insertion-in-mp4-files/"><u>[Updated] Precision Guide for Subtitles Insertion in MP4 Files</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-top-5-reviews-of-zooms-powerful-affordable-transcription-software/"><u>2024 Approved Top 5 Reviews of Zoom's Powerful, Affordable Transcription Software</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/dall-e-3s-recent-upgrade-introducing-edit-tools-with-more-development-needed/"><u>DALL-E 3'S Recent Upgrade: Introducing Edit Tools with More Development Needed</u></a></li>
+<li><a href="https://windows11.techidaily.com/decorating-windows-11-with-a-christmas-twist/"><u>Decorating Windows 11 with a Christmas Twist</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/enhanced-user-experience-with-the-integration-of-cookiebot-technology/"><u>Enhanced User Experience with the Integration of Cookiebot Technology</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-lava-yuva-3-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Lava Yuva 3 in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximizing-productivity-a-guide-to-gpt-3-at-your-service/"><u>Maximizing Productivity: A Guide to GPT-3 at Your Service</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/protect-your-device-why-you-shouldnt-trust-or-install-the-google-bard-app/"><u>Protect Your Device: Why You Shouldn't Trust or Install the Google Bard App</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/quick-and-easy-setting-up-autogpt-automatically-on-an-ubuntu-machine/"><u>Quick and Easy: Setting Up Autogpt Automatically on an Ubuntu Machine</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/transforming-your-music-how-to-switch-from-mp3-to-aiff-across-devices-and-websites/"><u>Transforming Your Music: How to Switch From MP3 to AIFF Across Devices and Websites</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-creative-writing-how-chatgpt-enhances-novel-composition-in-9-ways/"><u>Unlocking Creative Writing: How ChatGPT Enhances Novel Composition in 9 Ways</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-opportunities-with-chatgpt-six-compelling-reasons-for-job-seekers-and-employees/"><u>Unlocking Opportunities with ChatGPT: Six Compelling Reasons for Job Seekers and Employees</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/what-sets-claude-pro-apart-from-microsofts-advanced-language-model-chatgpt-plus/"><u>What Sets Claude Pro Apart From Microsoft's Advanced Language Model, ChatGPT +?</u></a></li>
 </ul></div>
 

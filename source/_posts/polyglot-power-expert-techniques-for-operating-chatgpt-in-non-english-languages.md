@@ -1,7 +1,7 @@
 ---
 title: "Polyglot Power: Expert Techniques for Operating ChatGPT in Non-English Languages"
-date: 2024-09-14T00:56:05.678Z
-updated: 2024-09-17T23:26:07.691Z
+date: 2024-09-18T00:38:18.779Z
+updated: 2024-09-23T00:59:55.009Z
 tags:
   - chatgpt
   - open-ai
@@ -76,6 +76,19 @@ thumbnail: https://thmb.techidaily.com/f1e60caa3e6b666a54baaa6c3e17dd97a81f74bfc
 
 ![chatgpt logo and message on smartphone feature](https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002a35f04201c966ce7066b460.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Ascannio/[Shutterstock](https://www.shutterstock.com/image-photo/chatgpt-chat-bot-screen-seen-on-2237655785)
 
 [Avoiding common mistakes when using AI prompting tools](https://www.makeuseof.com/mistakes-generative-ai-tools/) isn't always easy, but one of the main issues you'll encounter is trying to make the tool multitask. AI programs will often generate your results within a few minutes, but they can only do one thing at a time. If you try to ask too many things in one go, you won't get the results you want.
@@ -83,13 +96,6 @@ thumbnail: https://thmb.techidaily.com/f1e60caa3e6b666a54baaa6c3e17dd97a81f74bfc
  Sometimes, you'll begin a prompt and realize you forgot to add further information. When this happens, stop or edit the current prompt and include those details before re-generating your answer.
 
  Once you've received one prompt's results, you can move on to the next one until you're happy with everything. Doing things this way might seem more time-consuming, but[single-tasking often improves productivity](https://www.makeuseof.com/master-single-tasking-using-technology-improve-productivity/) , and it's the same for your AI, too.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5 Tell Your AI Tool What You Don't Want in Your Answer
 
@@ -100,10 +106,10 @@ thumbnail: https://thmb.techidaily.com/f1e60caa3e6b666a54baaa6c3e17dd97a81f74bfc
 ![Answer options from ChatGPT, based on what the user did and didn't want ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-38-46.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Sometimes, your AI tool will give you multiple options in your answers. You can then choose whichever one works best for you.
@@ -125,10 +131,16 @@ thumbnail: https://thmb.techidaily.com/f1e60caa3e6b666a54baaa6c3e17dd97a81f74bfc
 ![A LinkedIn post generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-54-04.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  AI prompting takes some time to become competent with, and you'll need to adjust how you type depending on the tool you use and the information you wish to extract. The good news, however, is that you normally only need small tweaks to make your prompts deliver better results. Having read this guide, you should now be in a much better place to prompt more efficiently.
@@ -148,18 +160,20 @@ thumbnail: https://thmb.techidaily.com/f1e60caa3e6b666a54baaa6c3e17dd97a81f74bfc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-spin-into-popularity-the-art-of-video-reversal-on-instagram/"><u>[New] 2024 Approved Spin Into Popularity The Art of Video Reversal on Instagram</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-behind-the-scenes-mastering-screen-recordings-in-games/"><u>[Updated] 2024 Approved Behind the Scenes Mastering Screen Recordings in Games</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-ethical-practices-for-accumulating-over-a-million-video-engagements/"><u>[Updated] Ethical Practices for Accumulating Over A Million Video Engagements</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-mastering-instagrams-video-opposites-a-tutorial/"><u>[Updated] In 2024, Mastering Instagram's Video Opposites A Tutorial</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-ultimate-buyers-guide-top-gpus-for-youtube-streamers/"><u>[Updated] Ultimate Buyer's Guide Top GPUs for YouTube Streamers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/holiday-special-gift-enter-our-winx-dvd-ripper-platinum-raffle/"><u>Holiday Special Gift: Enter Our WinX DVD Ripper Platinum Raffle!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Honor Magic 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-streamline-your-content-with-essential-ratio-knowledge-for-youtube/"><u>In 2024, Streamline Your Content with Essential Ratio Knowledge for YouTube</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/simple-guide-transforming-mpeg4-files-into-avi-format-with-easy-windows-tutorial/"><u>Simple Guide: Transforming MPEG4 Files Into AVI Format with Easy Windows Tutorial</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/simple-steps-to-watch-flv-videos-using-the-popular-vlc-player-a-comprehensive-tutorial/"><u>Simple Steps to Watch FLV Videos Using the Popular VLC Player – A Comprehensive Tutorial</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/slash-the-size-of-webm-videos-for-free-with-these-top-5-techniques/"><u>Slash the Size of WebM Videos for Free with These Top 5 Techniques!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-complete-guide-to-switching-from-gsm-to-wav-best-software-for-pcs-and-online-solutions/"><u>The Complete Guide to Switching From GSM to WAV: Best Software for PCs and Online Solutions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-ranking-software-for-converting-videos-to-high-definition-mp4-hd-full-hd-uhd/"><u>Top-Ranking Software for Converting Videos to High Definition MP4 (HD, Full HD, UHD)</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/imple-path-your-guide-to-convert-youtube-audio-on-mac/"><u>[New] Simple Path Your Guide to Convert YouTube Audio on Mac</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-enhancing-stardew-experience-discovering-the-top-7-modifications/"><u>[Updated] 2024 Approved Enhancing Stardew Experience Discovering the Top 7 Modifications</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-subtitle-extraction-from-zip-archives-the-srt-solution-for-2024/"><u>[Updated] Subtitle Extraction From ZIP Archives – The Srt Solution for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/conquer-mass-designs-with-canva-and-gpts-collective-force/"><u>Conquer Mass Designs with Canva & GPT's Collective Force</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elon-musk-unveils-grok-ai-heres-what-it-is-and-how-much-it-might-cost/"><u>Elon Musk Unveils Grok AI - Here’s What It Is and How Much It Might Cost</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-version-download-the-hp-officejet-pro-9015-printing-software/"><u>Get the Latest Version: Download the HP OfficeJet Pro 9015 Printing Software</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-itel-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Detect and Remove Spyware on Apple iPhone 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-no-more-ads-convert-fb-videos-to-1080p720p-mp4-online-for-free/"><u>In 2024, No More Ads? Convert FB Videos to 1080P/720p MP4 Online for Free</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-infinix-smart-8-hd-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Infinix Smart 8 HD Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-effective-chatgpt-prompt-crafting/"><u>Mastering the Art of Effective ChatGPT Prompt Crafting</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximizing-your-scholarly-work-a-guide-to-integrating-chatgpt-into-essays/"><u>Maximizing Your Scholarly Work: A Guide to Integrating ChatGPT Into Essays</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/seamless-text-input-the-complete-guide-to-using-bing-ai-in-android-keyboards/"><u>Seamless Text Input: The Complete Guide to Using Bing AI in Android Keyboards</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-installing-and-updating-ch340g-driver-software-for-windows-10-operating-system/"><u>Step-by-Step Guide: Installing & Updating CH340G Driver Software for Windows 10 Operating System</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-essential-guide-to-the-tp-link-re200-ac750-wireless-extender-a-readers-price-smart-insight/"><u>The Essential Guide to the TP-Link RE200 (AC750) Wireless Extender: A Reader's Price-Smart Insight</u></a></li>
 </ul></div>
 

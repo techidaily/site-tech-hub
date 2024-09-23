@@ -1,0 +1,83 @@
+---
+title: "Unleashing Creativity: How ChatGPT's New Feature Enables Fully Tailored AI Model Design"
+date: 2024-09-21T01:34:46.528Z
+updated: 2024-09-23T00:37:08.997Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: "This Article Describes Unleashing Creativity: How ChatGPT's New Feature Enables Fully Tailored AI Model Design"
+excerpt: "This Article Describes Unleashing Creativity: How ChatGPT's New Feature Enables Fully Tailored AI Model Design"
+thumbnail: https://thmb.techidaily.com/79c7e594da2bcc4e0b5a712ad425c9a3c9c769d4308cac3ac9d4efb24f911715.jpg
+---
+
+## Affordable Cybersecurity Insights on Mobile Devices - Understanding Decryption for Just $50! Listen to Our ChatGPT-Powered Podcast
+
+ Our weekly tech podcast for technophobes brings you the latest tech news that will affect you and some tips and tricks to help you get better results from your electronics.
+
+ For this week's show, we asked ChatGPT to help out with outlining and even writing the show. Here's a bit more information on[how we used ChatGPT to script the podcast](https://www.makeuseof.com/i-used-chatgpt-to-script-a-podcast-heres-what-happened/) .
+
+ You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
+
+## Shownotes
+
+This week, we chat about the following tech news that matters:
+
+* [ChatGPT banned in Italy over privacy concerns](https://www.bbc.co.uk/news/technology-65139406)
+* [Twitter's blue ticks disappear as Musk attacks NY Times](https://www.bbc.co.uk/news/technology-65156216)
+* [Mobile phone inventor made first call 50 years ago](https://www.bbc.co.uk/news/technology-65112048)  
+  * [The Mother of All Demos](https://www.youtube.com/watch?v=B6rKUf9DWRI)
+
+We've got these explainers:
+
+* [Can All Ransomware Be Decrypted?](https://www.makeuseof.com/can-all-ransomware-be-decrypted/)
+* [How to Fix Games That Won't Work in Windows](https://www.makeuseof.com/fix-games-not-working-windows/)
+* [Reasons to Use Office Online/Microsoft 365](https://www.makeuseof.com/tag/dont-pay-word-5-reasons-use-office-online/)
+
+We finish the show with the following recommendations:
+
+* [RoomGPT](http://https://www.roomgpt.io/)
+* [Booom AI Quiz](https://booom.ai/)
+* [HelloTalk](https://www.hellotalk.com/?lang=en)
+
+ Christian Cawley hosts this week's podcast, and is joined by Ben Stegner. You can contact them on Twitter:[@thegadgetmonkey](https://twitter.com/thegadgetmonkey) and[@stegnersaurus](https://twitter.com/stegnersaurus) , with your suggestions for future topics.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-the-key-to-spreading-online-jokes-fast/"><u>[New] The Key to Spreading Online Jokes Fast</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-the-maze-to-find-your-ideal-4k-screen/"><u>2024 Approved Navigating the Maze to Find Your Ideal 4K Screen</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mp3wav4/"><u>最適の無料MP3変換器選び：WAVから簡単に！インストールなしで使えるトップ4</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approach-for-managing-cc-rights-and-usage-for-2024/"><u>Best Approach for Managing CC Rights & Usage for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/high-quality-sfpr-settings-for-deliberate-moments/"><u>High-Quality SFPR Settings for Deliberate Moments</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-motorola-moto-g23-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Motorola Moto G23 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mp4-to-mjpeg-conversion-a-step-by-step-guide/"><u>MP4 to MJPEG Conversion: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/play-and-convert-dav-format-effortlessly-discover-the-best-software-for-dav-video-management/"><u>Play and Convert DAV Format Effortlessly! Discover the Best Software for DAV Video Management</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/quick-and-easy-guide-upgrade-your-videos-to-ultra-hd-using-our-top-video-enhancement-tool/"><u>Quick & Easy Guide: Upgrade Your Videos to Ultra-HD Using Our Top Video Enhancement Tool</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/quick-and-simple-techniques-for-applying-a-watermark-on-your-youtube-videos/"><u>Quick & Simple Techniques for Applying a Watermark on Your YouTube Videos</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/rapid-conversion-techniques-turning-dvds-into-itunes-ready-files-with-ease/"><u>Rapid Conversion Techniques: Turning DVDs Into iTunes-Ready Files with Ease</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/revitalize-your-heritage-pictures-using-ai-say-goodbye-to-photoshop-for-image-enlargement-restoration-and-colorization/"><u>Revitalize Your Heritage Pictures Using AI: Say Goodbye to Photoshop for Image Enlargement, Restoration, and Colorization</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

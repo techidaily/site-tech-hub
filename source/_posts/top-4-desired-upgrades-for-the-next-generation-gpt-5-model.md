@@ -1,7 +1,7 @@
 ---
 title: Top 4 Desired Upgrades for the Next Generation GPT-5 Model
-date: 2024-09-13T16:36:21.098Z
-updated: 2024-09-18T02:48:45.436Z
+date: 2024-09-19T17:05:58.740Z
+updated: 2024-09-22T19:07:42.459Z
 tags:
   - chatgpt
   - open-ai
@@ -55,22 +55,15 @@ thumbnail: https://thmb.techidaily.com/962100c4bb1cf841eba9a73f110c7891af5a14d4c
 ![Various different AI-generated images made with DALL-E](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dall-e-ai-generated-image-gallery.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  According to a research paper published on[PNAS](https://www.pnas.org/doi/10.1073/pnas.1422953112) , the visual Turing test can be used to identify if you're talking to a human or an AI using image questionaries. It works like the Turing test, but instead of answering questions using texts, participants are shown images and expected to answer simple questions while thinking like a human. However, the[visual Turing test is different from CAPTCHAs](https://www.makeuseof.com/tag/how-do-captchas-work/) since all the answers are correct—but to pass the test, the AI must process the images similarly to a human.
 
  Beyond that, if an AI and a human are shown multiple images side by side and asked to identify realistic images, the human would have the cognitive ability to pass the test. This is because AI models find it difficult to distinguish images that don't look like they were taken in the real world. In fact, that's the reason why you can[identify AI-generated images](https://www.makeuseof.com/how-to-identify-ai-generated-image/) using anomalies that don't make sense.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. The Lovelace 2.0 Test
 
@@ -79,13 +72,6 @@ thumbnail: https://thmb.techidaily.com/962100c4bb1cf841eba9a73f110c7891af5a14d4c
  The theory that a computer can't create original ideas beyond what it was programmed to do was first conceptualized by Ada Lovelace before the Turing test. However, Alan Turing objected to that theory arguing that AI can still surprise humans. It wasn't until 2001 that the guidelines for the Lovelace test were developed to tell apart an AI from a human—and, as per the[thekurzweillibrary](http://www.thekurzweillibrary.com/georgia-tech-professor-proposes-another-alternative-to-the-turing-test) the rules were later revised in 2014.
 
  For an AI to pass the Lovelace test, it must demonstrate that it can generate original ideas that exceed its training. Current AI models like GPT-4 don't have the capability to come up with new inventions beyond our existing knowledge. However,[artificial general intelligence](https://www.makeuseof.com/what-is-artificial-general-intelligence-how-it-differs-generative-ai/) can achieve that capability and pass the Lovelace test.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Reverse Turing Test
 
@@ -101,9 +87,23 @@ thumbnail: https://thmb.techidaily.com/962100c4bb1cf841eba9a73f110c7891af5a14d4c
 
 ![A man playing chess with an AI robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ai-chess.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  According to the AI classification framework developed by[Chris Saad](https://docsend.com/view/et7755yasfpj3iy6) , the Turing test is just one evaluation method to know if you're talking to an AI. More succinctly, the AI classification framework is based on the theory of multiple intelligence, which requires human intelligence to satisfy at least eight different criteria, which include: musical-rhythm, logical-mathematical intelligence, visual identification, emotional intelligence, self-reflective intelligence, existential thinking ability, and body movement.
 
  Since the AI is evaluated on eight different parameters, it's unlikely to pass for a human even if it performs better than average in certain benchmarks. For instance,[ChatGPT can solve math problems](https://www.makeuseof.com/can-chatgpt-solve-math-problems/) , describe images, and converse in a natural language like a human, but it would fail other categories defined in the AI classification framework.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Turing Test Is Not Conclusive
 
@@ -126,12 +126,20 @@ thumbnail: https://thmb.techidaily.com/962100c4bb1cf841eba9a73f110c7891af5a14d4c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-quick-steps-to-document-your-youtube-creations/"><u>[Updated] Quick Steps to Document Your YouTube Creations</u></a></li>
-<li><a href="https://windows11.techidaily.com/activation-indicators-for-windows-11-systems/"><u>Activation Indicators for Windows 11 Systems</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/elevate-your-cryptocurrency-projects-with-these-top-8-chatbot-enhancements/"><u>Elevate Your Cryptocurrency Projects with These Top 8 Chatbot Enhancements</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/fools-errand-of-intelligent-machines-recognizing-ai-hallucination/"><u>Fool's Errand of Intelligent Machines: Recognizing AI Hallucination</u></a></li>
-<li><a href="https://review-topics.techidaily.com/reinstall-your-drivers-with-device-manager-in-windows-11-by-drivereasy-guide/"><u>Reinstall your drivers with Device Manager in Windows 11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-the-future-projections-on-apple-watch-model-x-teasers-of-price-release-dates-and-specs/"><u>Unveiling the Future: Projections on Apple Watch Model X - Teasers of Price, Release Dates & Specs</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/web-browser-vs-add-on-deciding-on-your-preferred-chatgpt-experience/"><u>Web Browser Vs. Add-On: Deciding on Your Preferred ChatGPT Experience</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unlocking-your-audience-youtube-subscriber-insights/"><u>[Updated] Unlocking Your Audience YouTube Subscriber Insights</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-discovering-the-stars-of-youtubes-best-music-videos-2023/"><u>2024 Approved Discovering the Stars of YouTube's Best Music Videos, 2023</u></a></li>
+<li><a href="https://video-capture.techidaily.com/accelerate-your-editing-process-with-these-5-tips-for-obs/"><u>Accelerate Your Editing Process with These 5 Tips for OBS</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/artistic-alliance-how-sarah-silverman-joins-forces-with-peers-in-legal-battle-against-openai-and-meta/"><u>Artistic Alliance: How Sarah Silverman Joins Forces with Peers in Legal Battle Against OpenAI & Meta</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-zebra-gkseriesdriver-instantly-and-easy-peasy/"><u>Get Your Zebra GK_Series_Driver Instantly and Easy-Peasy</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-places-to-enjoy-vr-films/"><u>In 2024, Ideal Places to Enjoy VR Films</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-top-5-free-wmv-video-merging-solutions/"><u>New 2024 Approved Top 5 Free WMV Video Merging Solutions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ri-codifica-gratuitamente-trasforma-i-file-ogg-in-wmv-con-laiuto-di-convertitore-online-di-movavi/"><u>Ri-Codifica Gratuitamente: Trasforma I File OGG in WMV Con L'aiuto Di Convertitore OnLine Di Movavi</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/seamless-sound-on-the-road-expert-review-of-the-lihan-lhfm103n-fm-transmitter-for-vehicle-speakers/"><u>Seamless Sound on the Road: Expert Review of the LIHAN LHFM103n FM Transmitter for Vehicle Speakers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/trasforma-file-mpe-in-un-gif-veloce-online-con-movavi/"><u>Trasforma File MPE in Un GIF Veloce Online Con Movavi</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/uniting-users-with-distinctive-chatbot-experiences/"><u>Uniting Users with Distinctive Chatbot Experiences</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-watermark-free-video-joining-7-top-rated-solutions/"><u>Updated Watermark-Free Video Joining 7 Top-Rated Solutions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/yuksekselam-radyonun-videoeditorplus-projesinde-guvenilir-aktivasyon-anahtari-getiriyor-elveris-olarak-sunulur-turkulerinizi-gozlemlenebileceginize-daha-etk60/"><u>Yüksekselâm Radyo'nun VideoEditorPlus Projesinde Güvenilir Aktivasyon Anahtarı Getiriyor - Elveriş Olarak Sunulur, Türkülerinizi Gözlemlenebileceğinize Daha Etkin Çalışmasına Yönelik</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ts-webm-online/"><u>오늘날 무료 TS를 WebM으로 바꾸는 방법 - Online 가이드</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ram-wma-movavi/"><u>원금이라면서도 원홍스토리의 RAM WMA에 대한 인사 무료 변환 기술 – Movavi</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Installing Frank's Media Center Addon for Enhanced Viewing on Kodi v19 Matrix Build – A Comprehensive Tutorial
-date: 2024-09-10 13:25:33
-updated: 2024-09-11 12:37:21
+date: 2024-09-20T22:05:39.009Z
+updated: 2024-09-23T01:40:51.477Z
 categories:
   - WonderFox
 thumbnail: https://thmb.techidaily.com/3e64ab7fbedf01adf094c0f7a07b62ec8466f937073c7188969d1624a01e5f53.jpg
@@ -77,6 +77,20 @@ Tips: You can also click on the “**Parameter settings**” button to [change t
 
 ![Windows Media Audio to MP3](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-2-mobi.webp) 
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 3: Convert WMA Files to MP3 Now
 
 Go back to the main interface, and click the triangle button to specify an output path. Finally, click “**Run**” to start the conversion.
@@ -99,12 +113,32 @@ Step 3: Click on “**Import Settings**” from the “**Files (General)**” ta
 
 ![Convert WMA to MP3 Mac](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-4.webp) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Convert WMA to MP3 Mac](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-4-mobi.webp) 
 
 Step 3: Find the files you want to convert in the library. Or you can add the local files to the library by selecting “**File**” > “**Add File**”.  
 Step 4: Select the WMA file, click the “**File**” menu and select “**Convert**” > “**Create MP3 Version**”. Then your WMA files can be converted to MP3.
 
 ![Convert WMA Files to MP3](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-5.webp) 
+
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Convert WMA Files to MP3](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-5-mobi.webp) 
 
@@ -126,6 +160,13 @@ Step 4: Click on “**Browse**” to specify an output file and hit the “**Sta
 Don’t want to download any software and want an [online converter](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) to help with the conversion more conveniently? ZamZar is such an online WMA to MP3 converter. Not only audio files, but also documents, images, videos, and other formats can be converted. It allows you to import WMA files from the computer, URL, Box, Dropbox, etc., and convert them to MP3 and other popular audio formats. The only drawback of ZamZar is that its free version only allows you to convert files of less than 50 MB.
 
 ![ZamZar WMA to MP3](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-7.webp) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![ZamZar WMA to MP3](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-7-mobi.webp) 
 
@@ -199,11 +240,26 @@ WonderFox HD Video Converter Factory Pro
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-elevate-your-brand-with-these-10-keywords-on-facebook-for-2024/"><u>[New] Elevate Your Brand with These 10 Keywords on Facebook for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-enhance-igtv-engagement-with-diverse-subtitle-options/"><u>[New] Enhance IGTV Engagement with Diverse Subtitle Options</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-building-stellar-instagram-photo-covers-for-your-highlights/"><u>2024 Approved Building Stellar Instagram Photo Covers for Your Highlights</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/guia-paso-a-paso-para-convertir-imagenes-pcx-a-jpg-sin-costo-utilizando-movavi/"><u>Guía Paso a Paso Para Convertir Imágenes PCX a JPG Sin Costo Utilizando Movavi</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-nokia-c12-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Nokia C12 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-honor-magic-vs-2-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Honor Magic Vs 2 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-gear-room-a-deep-dive-into-cutting-edge-pc-components/"><u>Inside Tom's Gear Room: A Deep Dive Into Cutting-Edge PC Components</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/integrating-gpt-into-therapeutic-communication-practices/"><u>Integrating GPT Into Therapeutic Communication Practices</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/openai-vs-microsoft-exploring-the-top-ten-distinctive-features-of-chatgpt-and-bing-ai-chatbot-compared/"><u>OpenAI Vs. Microsoft: Exploring the Top Ten Distinctive Features of ChatGPT & Bing AI Chatbot Compared</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-fascinating-world-of-chatbot-communication-speak-to-chatgpt-now/"><u>The Fascinating World of Chatbot Communication - Speak to ChatGPT Now</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-creativity-how-to-utilize-chatgpt-for-crafting-youtube-video-scripts/"><u>Unlocking Creativity: How to Utilize ChatGPT for Crafting YouTube Video Scripts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/which-ai-chatbot-leads-the-pack-an-in-depth-comparison-of-microsofts-bing-ai-google-bard-and-chatgpt/"><u>Which AI Chatbot Leads The Pack? An In-Depth Comparison of Microsoft's Bing AI, Google Bard And ChatGPT</u></a></li>
+</ul></div>
+

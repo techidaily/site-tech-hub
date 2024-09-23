@@ -1,0 +1,112 @@
+---
+title: Excel Automation Unlocked with Three Key ChatGPT Tools
+date: 2024-09-15T22:57:41.964Z
+updated: 2024-09-22T18:27:26.462Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: This Article Describes Excel Automation Unlocked with Three Key ChatGPT Tools
+excerpt: This Article Describes Excel Automation Unlocked with Three Key ChatGPT Tools
+thumbnail: https://thmb.techidaily.com/d0ad1a80b811183ca46ae79924e7000317315a162e7cdec3aea5493a006f5c51.jpg
+---
+
+## What to Look Forward to with GPT-5 – Estimated Launch Timeline Available Now
+
+ OpenAI's Generative Pre-trained Transformer (GPT) is one of the most talked about technologies ever. It is the lifeblood of ChatGPT, the AI chatbot that has taken the internet by storm. Consequently, all fans of ChatGPT typically look out with excitement toward the release of the next iteration of GPT.
+
+ GPT-3 left its mark, GPT-3.5 is a phenomenon, and GPT-4 wowed with what AI models are capable of. Now, the question on the mind of every keen observer is: Will there be a GPT-5? If so, when?
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## Will There Be a GPT-5?
+
+![ChatGPT logo on dark green background ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-risk.jpg)
+
+ Yes, there will almost certainly be a 5th iteration of OpenAI's GPT large language model called GPT-5\. Unfortunately, much like its predecessors, GPT-3.5 and GPT-4, OpenAI adopts a reserved stance when disclosing details about the next iteration of its GPT models. Instead, the company typically reserves such information until a release date is very close. This tight-lipped policy typically fuels conjectures about the release timeline for every upcoming GPT model.
+
+ Already, various sources have predicted that GPT-5 is currently undergoing training, with an anticipated release window set for early 2024.
+
+ However, while speaking at an MIT event, OpenAI CEO Sam Altman appeared to have squashed these predictions. When asked to comment on an[open letter calling for a moratorium on AI development](https://www.makeuseof.com/why-elon-musk-want-to-pause-ai-development/) (specifically AI more powerful than GPT-4), Altman contested a part of an earlier version of the letter that said that GPT-5 was already in development.
+
+ According to Altman, OpenAI isn't currently training GPT-5 and won't do so for some time. This comment confirms two things. Firstly, GPT-5 is indeed a thing. Lastly, OpenAI is not jumping too fast into developing GPT-5.
+
+Here's a video of Altman's discussion below:
+
+## When Is GPT-5 Coming?
+
+![When is GPT-5 coming. Question mark illustration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/pexels-pixabay-356079-1.jpg)
+
+ While Altman's comments about GPT-5's development make it seem like a 2024 release of GPT-5 is off the cards, it's important to pay extra attention to the details of his comment.
+
+ Although the CEO clarified that GPT-5 wasn't already in training, based on OpenAI's history of developing a new GPT model, GPT-5 could very much be in its training data collection phase, where additional datasets are collected for training the model. Or, the company could still be deciding on the underlying architecture of the GPT-5 model.
+
+ Whichever is the case, Altman could be right about not currently training GPT-5, but this could be because the groundwork for the actual training has not been completed. In other words, while actual training hasn't started, work on the model could be underway. These two truths can coexist.
+
+ Remember, OpenAI's ChatGPT has the likes of Google's Bard chasing it down. Deliberately slowing down the pace of development of its AI model would be equivalent to giving its competition a helping hand. Even amidst global[concerns about the pace of growth of powerful AI models](https://www.makeuseof.com/signs-ai-development-is-moving-too-fast/) , OpenAI is unlikely to slow down on developing its GPT models if it wants to retain the competitive edge it currently enjoys over its competition.
+
+So, a 2024 release date for GPT-5? Is that possible?
+
+ Considering the time it took to train previous models and the time required to fine-tune them, the last quarter of 2024 is still a possibility. However, considering we've barely explored the depths of GPT-4, OpenAI might choose to make incremental improvements to the current model well into 2024 before pushing for a GPT-5 release in the following year.
+
+ Remember, GPT-4 is both a language model and a vision model. However, consumers have barely used the "vision model" capabilities of GPT-4\. There is still huge potential in GPT-4 we've not explored, and OpenAI might dedicate the next several months to helping consumers make the best of it rather than push for the much hype GPT-5.
+
+## What Changes Could GPT-5 Bring?
+
+![chatgpt conversation open on smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/smartphone-chatgpt-1.jpg)
+
+ While it might be too early to say with certainty, we fully expect GPT-5 to be a considerable leap from GPT-4\. GPT-3 was mainly a language model. GPT-4 improved on that by being both a language model and a vision model. We expect GPT-5 might possess the abilities of a sound recognition model in addition to the abilities of GPT-4.
+
+ Also, there's been underground talk about GPT models being able to process videos, much like GPT-4 models can take images as inputs. So, we could possibly have a model that can process text, images, sound, and videos.
+
+ However, considering the current abilities of GPT-4, we expect the law of diminishing marginal returns to set in. Simply increasing the model size, throwing in more computational power, or diversifying training data might not necessarily bring the significant improvements we expect from GPT-5.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## GPT-5: An Exciting Future Awaits
+
+ While much of the details about GPT-5 are speculative, it is undeniably going to be another important step towards an awe-inspiring paradigm shift in artificial intelligence.
+
+ We might not achieve the much talked about "artificial general intelligence," but if it's ever possible to achieve, then GPT-5 will take us one step closer.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-unlocking-potential-secrets-to-successful-fb-video-ads/"><u>[New] In 2024, Unlocking Potential Secrets to Successful FB Video Ads</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-the-seamless-shift-your-path-to-kinemaster-expertise/"><u>2024 Approved The Seamless Shift Your Path to Kinemaster Expertise</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-unlock-iphone-11-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>3 Ways to Unlock iPhone 11 without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boss-and-educator-ai-diagnostics-four-top-chatgpt-tools/"><u>Boss & Educator AI Diagnostics: Four Top ChatGPT Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-vs-claude-the-ultimate-showdown-of-advanced-chatbots/"><u>ChatGPT Vs. Claude: The Ultimate Showdown of Advanced Chatbots</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-the-ambitions-and-progress-of-googles-pioneering-ai-experiment-gemini/"><u>Decoding the Ambitions and Progress of Google's Pioneering AI Experiment, Gemini</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/enhance-printing-quick-fixes-for-canon-windows-10-compatibility/"><u>Enhance Printing: Quick Fixes for Canon, Windows 10 Compatibility</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/increasing-social-understanding-via-chatgpt-tips/"><u>Increasing Social Understanding via ChatGPT Tips</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/infusing-dandd-realms-with-ai-powered-character-blueprints/"><u>Infusing D&D Realms with AI-Powered Character Blueprints</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/jabra-evolve2-85-review/"><u>Jabra Evolve2 85 Review</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-the-fix-overcoming-relink-not-launching-glitch-in-granblue-fantasy/"><u>Mastering the Fix: Overcoming 'Relink Not Launching' Glitch in Granblue Fantasy</u></a></li>
+<li><a href="https://driver-install.techidaily.com/mastering-windows-support-for-samsung-solid-state-drives/"><u>Mastering Windows Support for Samsung Solid State Drives</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-digital-landscape-with-leading-sites-socialnet-facebook-microblog-twitter-photospace-instagram-and-videohub-youtube/"><u>Navigating the Digital Landscape with Leading Sites: SocialNet Facebook, MicroBlog Twitter, PhotoSpace Instagram & VideoHub YouTube</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/plan-trips-effortlessly-7-complimentary-chatgpt-apps-for-on-the-spot-trip-planning/"><u>Plan Trips Effortlessly: 7 Complimentary ChatGPT Apps for On-the-Spot Trip Planning</u></a></li>
+</ul></div>
+

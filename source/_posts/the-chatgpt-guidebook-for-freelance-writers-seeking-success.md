@@ -1,7 +1,7 @@
 ---
 title: The ChatGPT Guidebook for Freelance Writers Seeking Success
-date: 2024-09-10T22:28:16.349Z
-updated: 2024-09-17T23:39:22.931Z
+date: 2024-09-19T01:50:03.769Z
+updated: 2024-09-23T00:36:40.549Z
 tags:
   - chatgpt
   - open-ai
@@ -57,6 +57,13 @@ I asked DALL-E 3:
 
 ![DALL-E 3 Calendar Cover](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-calendar.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3 A Birthday Card Cover
 
  Will a loved one be celebrating their special day soon? Consider using AI to generate the image for a birthday card cover. I entered the following prompt:
@@ -77,16 +84,16 @@ Okay, so that didn’t go to plan…
 
 ![DALL-E 3 Birthday Card Error in Text and Design](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-birthday-card-error.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You have to be very specific with your prompts. I was relatively happy with the final result (below), but my prior prompts were perhaps too vague. I did, however, explicitly tell DALL-E 3 to correct the spelling.
 
 ![DALL-E 3 Birthday Card Cover](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-birthday-card.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4 Desktop Wallpapers
 
@@ -97,6 +104,19 @@ Okay, so that didn’t go to plan…
  Below is the result, which I’m happy with. You may need to get more specific, such as asking DALL-E 3 to remove the white background.
 
 ![A Desktop Background Created in DALL-E 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-desktop-background.jpeg)
+
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5 Smartphone Wallpapers
 
@@ -109,6 +129,13 @@ So, I tried a different prompt:
  This prompt gave me what I needed, as you can see from the third picture in the gallery below.
 
 Close
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6 Music Album Covers
 
@@ -123,17 +150,10 @@ Close
 ![DALL-E 3 AI Art Cover in Square Format](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-ai-art-cover.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7 Social Media Cover Banners
@@ -148,13 +168,6 @@ I used the following prompt:
 
 ![A social media banner image generated with DALL-E 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-social-media-banner.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8 Photo Album Covers
 
  Do you want to print photos you took on a recent trip? If so, why not also customize the photo album cover? You can also create physical photo album covers for other things, like images of your dogs and family.
@@ -166,13 +179,6 @@ Below is a prompt I tried for a photo album cover:
  After a few more prompts to change the orientation and adjust the French flag, I received the below result—which I was quite happy with.
 
 ![DALL-E 3 Photo Album Cover Image of a Street Scene](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-photo-album-cover-image.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can ask DALL-E 3 to remove text, alter colors, and various other things if you want these. If you want to design a picture book, consider checking out this guide on[how to make your own photo book](https://www.makeuseof.com/how-to-make-photo-book-guide/) .
 
@@ -193,16 +199,17 @@ Below is a prompt I tried for a photo album cover:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-audiovisual-archive-system-and-voice-recordings/"><u>[New] 2024 Approved Audiovisual Archive System & Voice Recordings</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-how-to-record-gameplay-on-windows-10/"><u>[Updated] In 2024, How to Record Gameplay on Windows 10</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-how-to-record-videos-in-complete-silence/"><u>2024 Approved How to Record Videos in Complete Silence</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/budget-friendly-youtube-to-movies-tool-streamline-your-viewing-experience-everywhere/"><u>Budget-Friendly YouTube to Movies Tool – Streamline Your Viewing Experience Everywhere!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/download-avid-dnxhd-video-encoder-compatible-with-windows-1011-and-macos/"><u>Download Avid DNxHD Video Encoder: Compatible with Windows 10/11 & macOS</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-gameplay-problems-and-crashes-in-hearts-of-iron-4/"><u>Overcoming Gameplay Problems and Crashes in Hearts of Iron 4</u></a></li>
-<li><a href="https://os-tips.techidaily.com/rediscover-your-digital-footprints-expert-techniques-for-retrieving-erased-ipad-records/"><u>Rediscover Your Digital Footprints: Expert Techniques for Retrieving Erased iPad Records</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-sound-trailblazers-guide-kicking-off-with-fade-in-techniques-for-2024/"><u>The Sound Trailblazer’s Guide Kicking Off with Fade-In Techniques for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/unleashing-potential-the-best-anime-ideas-in-videos-for-2024/"><u>Unleashing Potential The Best Anime Ideas in Videos for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/what-to-do-when-your-vehicles-radio-stops-functioning-suddenly/"><u>What To Do When Your Vehicle's Radio Stops Functioning Suddenly</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/amv/"><u>スマートフォンAMV動画無制限再生方法</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-the-shorter-path-cutting-video-duration-on-youtube/"><u>[New] In 2024, The Shorter Path Cutting Video Duration on YouTube</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-enhancing-your-playtime-non-gamebar-video-recording-options/"><u>[Updated] 2024 Approved Enhancing Your Playtime Non-GameBar Video Recording Options</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-discover-and-download-christian-music-for-ringtone-use/"><u>[Updated] In 2024, Discover & Download Christian Music for Ringtone Use</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boost-your-efficiency-essential-strategies-for-using-chatgpts-wolfram-feature/"><u>Boost Your Efficiency: Essential Strategies for Using ChatGPT's Wolfram Feature</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/direct-vs-supplemental-which-gpt-suits-you/"><u>Direct Vs. Supplemental: Which GPT Suits You?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elons-next-move-unraveling-gpt-secrets/"><u>Elon's Next Move: Unraveling GPT Secrets</u></a></li>
+<li><a href="https://techtrends.techidaily.com/highly-rated-sturdy-and-luxe-photography-gear-spotlight-on-fugeteks-ft-568-selfie-stand/"><u>Highly Rated Sturdy & Luxe Photography Gear - Spotlight on Fugetek's FT-568 Selfie Stand</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-3-ways-of-how-to-get-someones-apple-id-off-apple-iphone-8-plus-without-password-by-drfone-ios/"><u>In 2024, 3 Ways of How to Get Someones Apple ID Off Apple iPhone 8 Plus without Password</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-mobile-mastery-in-thumbnail-creation-for-engaging-youtube-videos/"><u>In 2024, Mobile Mastery in Thumbnail Creation for Engaging YouTube Videos</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-vivo-s18-pro-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Vivo S18 Pro Phone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-chatgpts-temporary-suspension-of-new-sign-ups-and-its-impact-on-access-dates/"><u>Understanding ChatGPT's Temporary Suspension of New Sign-Ups and Its Impact on Access Dates</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-claude-2s-core-functionality/"><u>Understanding Claude 2'S Core Functionality</u></a></li>
 </ul></div>
 

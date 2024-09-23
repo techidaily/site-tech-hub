@@ -1,7 +1,7 @@
 ---
 title: "Ubuntu System Configuration: A Step-by-Step Guide to Implementing Auto-GPT"
-date: 2024-09-15T20:12:08.661Z
-updated: 2024-09-17T21:26:55.439Z
+date: 2024-09-19T00:31:09.138Z
+updated: 2024-09-22T16:35:50.788Z
 tags:
   - chatgpt
   - open-ai
@@ -50,35 +50,9 @@ thumbnail: https://thmb.techidaily.com/42db527a5e8afa7e682e92b7b056d02f1f5ec85f1
 
  At the moment,[GPT-4 can describe images](https://www.makeuseof.com/best-new-gpt4-features-explained/) , but so far, there is currently no AI model that can comprehend videos like a human.[Self-driving vehicles](https://www.makeuseof.com/self-driving-cars-explained/) come close, but they're not completely autonomous and require sensors since they can't make sense of everything in their surrounding environment.
 
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. The Visual Turing Test
 
 ![Various different AI-generated images made with DALL-E](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dall-e-ai-generated-image-gallery.jpg)
-
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  According to a research paper published on[PNAS](https://www.pnas.org/doi/10.1073/pnas.1422953112) , the visual Turing test can be used to identify if you're talking to a human or an AI using image questionaries. It works like the Turing test, but instead of answering questions using texts, participants are shown images and expected to answer simple questions while thinking like a human. However, the[visual Turing test is different from CAPTCHAs](https://www.makeuseof.com/tag/how-do-captchas-work/) since all the answers are correct—but to pass the test, the AI must process the images similarly to a human.
 
@@ -96,6 +70,13 @@ thumbnail: https://thmb.techidaily.com/42db527a5e8afa7e682e92b7b056d02f1f5ec85f1
 
 ![person using chatgpt on their laptop](https://thmb.techidaily.com/3681ab3fb1278f9c5e283b2684cc0a6da110630db6256e6386dbd78a8fb134b9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  How about the Turing test, but done in reverse? Instead of trying to find out if you're talking to a human, the objective of the[reverse Turing test](https://gist.github.com/rain-1/3bf56122b0ebeac929dff0f881ee8e4c) is to trick the AI into believing you're an AI. However, you also need another AI model to answer the same questions using text.
 
  For instance, if ChatGPT-4 is the interrogator, you could enroll Google Bard and another human as participants. If the AI model can correctly identify the human participant based on the answers, it has passed the test.
@@ -106,15 +87,22 @@ thumbnail: https://thmb.techidaily.com/42db527a5e8afa7e682e92b7b056d02f1f5ec85f1
 
 ![A man playing chess with an AI robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ai-chess.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  According to the AI classification framework developed by[Chris Saad](https://docsend.com/view/et7755yasfpj3iy6) , the Turing test is just one evaluation method to know if you're talking to an AI. More succinctly, the AI classification framework is based on the theory of multiple intelligence, which requires human intelligence to satisfy at least eight different criteria, which include: musical-rhythm, logical-mathematical intelligence, visual identification, emotional intelligence, self-reflective intelligence, existential thinking ability, and body movement.
 
  Since the AI is evaluated on eight different parameters, it's unlikely to pass for a human even if it performs better than average in certain benchmarks. For instance,[ChatGPT can solve math problems](https://www.makeuseof.com/can-chatgpt-solve-math-problems/) , describe images, and converse in a natural language like a human, but it would fail other categories defined in the AI classification framework.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Turing Test Is Not Conclusive
@@ -138,20 +126,16 @@ thumbnail: https://thmb.techidaily.com/42db527a5e8afa7e682e92b7b056d02f1f5ec85f1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-from-novice-to-pro-how-to-evade-the-most-critical-8-mistakes-on-youtube/"><u>[New] 2024 Approved From Novice to Pro How to Evade the Most Critical 8 Mistakes on YouTube</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-hit-the-mark-video-that-skyrockets-in-popularity/"><u>[New] In 2024, Hit the Mark Video that Skyrockets in Popularity</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/breakthrough-in-high-fps-tcl-introduces-a-revolutionary-4k-gaming-screen-1000-hz/"><u>Breakthrough in High FPS: TCL Introduces a Revolutionary 4K Gaming Screen (1,000 Hz)</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhance-pc-sounds-with-windows-11s-mixer-feature/"><u>Enhance PC Sounds with Windows 11'S Mixer Feature</u></a></li>
-<li><a href="https://win-able.techidaily.com/guide-solving-stability-problems-with-psychonauts-2-on-windows-computers/"><u>Guide: Solving Stability Problems with Psychonauts 2 on Windows Computers</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-realme-narzo-60-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Realme Narzo 60 5G Devices</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-youtube-to-facebook-video-conversion-expert-techniques-and-recommended-software/"><u>Mastering YouTube-to-Facebook Video Conversion: Expert Techniques and Recommended Software</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/quick-guide-to-extracting-dvds-with-various-languages-and-captions-effortlessly/"><u>Quick Guide to Extracting DVDs With Various Languages & Captions Effortlessly</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/removing-logos-from-your-videos-tips-and-tricks-for-a-clearer-image/"><u>Removing Logos From Your Videos: Tips and Tricks for a Clearer Image</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-converting-your-dvd-into-an-mkv-file/"><u>Step-by-Step Guide: Converting Your DVD Into an MKV File</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-transforming-several-ts-files-into-mp4-quickly-and-easily/"><u>Step-by-Step Guide: Transforming Several TS Files Into MP4 Quickly and Easily</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-on-converting-youtube-content-into-portable-mp3-audio-format/"><u>Step-by-Step Tutorial on Converting YouTube Content Into Portable MP3 Audio Format</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/steps-to-prevent-thumbnail-absence-on-shorts-videos/"><u>Steps to Prevent Thumbnail Absence on Shorts Videos</u></a></li>
-<li><a href="https://fox-info.techidaily.com/streamlined-signal-synchronizer-for-podcasters/"><u>Streamlined Signal Synchronizer For Podcasters</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/pc10/"><u>ベストなPC画面キャプチャアプリ:無料と有料両方選び10点</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-precise-posting-schedules-a-guide-to-youtube-excellence/"><u>[New] In 2024, Precise Posting Schedules A Guide to YouTube Excellence</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harness-high-quality-banners-free-for-content-developers/"><u>[Updated] In 2024, Harness High-Quality Banners – Free for Content Developers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpts-preloaded-extensions-exploring-uses-and-benefits/"><u>ChatGPT’s Preloaded Extensions: Exploring Uses and Benefits</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-tech-tangles-chatgpt-for-pc-recovery/"><u>Decoding Tech Tangles - ChatGPT for PC Recovery</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gym-enhancements-with-top-7-intelligent-plugins/"><u>Gym Enhancements with Top 7 Intelligent Plugins</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-proven-iphone-markers-our-reviewed-top-9-water-marking-apps/"><u>In 2024, Proven iPhone Markers Our Reviewed Top 9 Water-Marking Apps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/le-guide-ultime-pour-utiliser-winxdvd-logiciel-dextraction-et-conversion-dvd-pour-le-transfert-iphone/"><u>Le Guide Ultime Pour Utiliser WinXDVD : Logiciel D'Extraction Et Conversion DVD Pour Le Transfert iPhone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-for-leveraging-artificamocial-intelligence-in-bing-mobile-app-android/"><u>Step-by-Step Tutorial for Leveraging Artificamocial Intelligence in Bing Mobile App (Android)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/which-is-better-for-you-detailed-review-of-snapchats-my-ai-versus-microsofts-chatgpt/"><u>Which Is Better for You? Detailed Review of Snapchat’s My AI versus Microsoft's ChatGPT</u></a></li>
+<li><a href="https://win-forum.techidaily.com/3g2-movavi/"><u>대화제 속에서 3G2 비디오를 원형으로 자유성 받아쓰기 - Movavi</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Smart Learning with AI: Preventing Missteps in Using ChatGPT as a Student"
-date: 2024-09-12T03:03:58.924Z
-updated: 2024-09-17T22:46:42.493Z
+date: 2024-09-18T18:43:15.661Z
+updated: 2024-09-23T02:22:28.825Z
 tags:
   - chatgpt
   - open-ai
@@ -65,10 +65,16 @@ thumbnail: https://thmb.techidaily.com/7f58c54be3fb446b417c67b3b88e71900b79dad1a
 **Cost:** $79 per month for unlimited use. However, if you want to try it out, you can sign up without a credit card—and you get four clicks a day.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. DeepStory
@@ -81,16 +87,22 @@ thumbnail: https://thmb.techidaily.com/7f58c54be3fb446b417c67b3b88e71900b79dad1a
 
 **Cost:** $12 per month, with a limit of 10,000 words. You can also try it out for free for 10 generations.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. NovelAI
 
 ![NovelAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/novelai.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [NovelAI](https://novelai.net/) is one of the most complex AI story writers on the list. But it’s also one of the most exciting ones. The basic new story AI generator works somewhat similarly to the others. You start writing the first few words or sentences of the story, and let the AI continue.
 
@@ -123,16 +135,16 @@ thumbnail: https://thmb.techidaily.com/7f58c54be3fb446b417c67b3b88e71900b79dad1a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-navigating-video-editor-landscape-choose-filmora-or-democracy-creator/"><u>[New] In 2024, Navigating Video Editor Landscape Choose Filmora or Democracy Creator?</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-30-powerful-freegame-hashtags-for-dominating-youtube/"><u>[Updated] 2024 Approved 30 Powerful FreeGame Hashtags for Dominating YouTube</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-essential-knowledge-for-instagram-success-a-guide-to-behind-the-scenes-metrics/"><u>[Updated] Essential Knowledge for Instagram Success A Guide to Behind-the-Scenes Metrics</u></a></li>
-<li><a href="https://article-tips.techidaily.com/are-thoughtful-analyses-monetarily-rewarded-for-2024/"><u>Are Thoughtful Analyses Monetarily Rewarded for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/creating-low-volume-effects-a-guide-for-fading-out-audio-in-logic-pro-for-2024/"><u>Creating Low Volume Effects A Guide for Fading Out Audio in Logic Pro for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-samsung-galaxy-s23plus-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Samsung Galaxy S23+ Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-synchronized-squawks-and-soarings-the-bebop-parrot-review/"><u>In 2024, Synchronized Squawks & Soarings The Bebop Parrot Review</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-it-wise-to-rely-on-artificial-intelligence-such-as-chatgpt-or-bard-when-seeking-financial-guidance/"><u>Is It Wise to Rely on Artificial Intelligence, Such as ChatGPT or Bard, When Seeking Financial Guidance?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/masterful-ai-dialogue-5-techniques-to-perfectly-craft-chatgpt-prompts/"><u>Masterful AI Dialogue: 5 Techniques to Perfectly Craft ChatGPT Prompts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-around-chatgpts-character-constraint-a-comprehveiw-with-solutions/"><u>Navigating Around ChatGPT's Character Constraint - A Comprehveiw with Solutions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-future-of-ai-in-europe-unpacking-how-the-ai-act-could-shape-services-similar-to-chatgpt/"><u>The Future of AI in Europe: Unpacking How the AI Act Could Shape Services Similar to ChatGPT</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unmatched-upticks-celebrating-top-10-reddit-discussions/"><u>[New] Unmatched Upticks Celebrating Top 10 Reddit Discussions</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/1725286292111-dvdmp4/"><u>将DVD文件转化为MP4格式——专家推荐的顶级转换工具</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-poco-f5-pro-5g-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Poco F5 Pro 5G</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-chatgpt-2024-complete-analysis-of-functionality-characteristics-and-server-hiccups/"><u>Exploring ChatGPT 2024: Complete Analysis of Functionality, Characteristics & Server Hiccups</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-top-cybernetic-video-capture-tools/"><u>In 2024, Top Cybernetic Video Capture Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/integrating-gpt-into-therapeutic-communication-practices/"><u>Integrating GPT Into Therapeutic Communication Practices</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/openai-vs-microsoft-exploring-the-top-ten-distinctive-features-of-chatgpt-and-bing-ai-chatbot-compared/"><u>OpenAI Vs. Microsoft: Exploring the Top Ten Distinctive Features of ChatGPT & Bing AI Chatbot Compared</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-blueprints-for-db-reset/"><u>Stellar Blueprints for DB Reset</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Motorola Razr 40? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-creativity-how-to-utilize-chatgpt-for-crafting-youtube-video-scripts/"><u>Unlocking Creativity: How to Utilize ChatGPT for Crafting YouTube Video Scripts</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/voice-of-vogue-establishing-your-channel-in-the-cosmetic-world-for-2024/"><u>Voice of Vogue Establishing Your Channel in the Cosmetic World for 2024</u></a></li>
 </ul></div>
 

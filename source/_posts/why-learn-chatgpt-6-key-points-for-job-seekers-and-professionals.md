@@ -1,7 +1,7 @@
 ---
 title: "Why Learn ChatGPT: 6 Key Points for Job Seekers and Professionals"
-date: 2024-09-11T18:43:19.552Z
-updated: 2024-09-18T01:07:20.766Z
+date: 2024-09-21T23:18:07.263Z
+updated: 2024-09-22T22:49:53.514Z
 tags:
   - chatgpt
   - open-ai
@@ -67,6 +67,13 @@ You could use:
 
 ![Elon Musk's view on Pizza](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/elon-musk-s-view-on-pizza.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Not Providing Context When Necessary
 
  Context plays a vital role in how ChatGPT responds to any given prompt. Even a minor shift in context can lead to significantly different responses. If no context is provided, your prompt becomes ambiguous, resulting in varied responses each time the same prompt is used. This lack of consistency may not be desirable when seeking precise answers because there's no way of knowing the right response. But how do you provide context, and when should you?
@@ -87,15 +94,22 @@ You could use:
 
 ![ChatGPT Prompt without example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/prompt-without-example.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Without examples, the jokes ChatGPT came up with weren't particularly rib-cracking. The overall response wasn't quite enticing as well.
 
 ![Lady Gaga and Ed Sheeran Jokes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/lady-gaga-and-ed-sheeran-jokes.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Next, we gave ChatGPT some examples of how we want our jokes to look. Here's the prompt in the screenshot below:
@@ -106,38 +120,11 @@ You could use:
 
 ![taylor swift joke](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/taylor-swift-joke.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 And here's another one ChatGPT made when we prompted it with Jay-Z.
 
 ![Jay-z joke made by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/jay-z-joke.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Loved the second set of jokes? Well, the moral of the story is to use examples more often.
-
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Not Being Clear and Specific With Your Instructions
 
@@ -146,6 +133,13 @@ And here's another one ChatGPT made when we prompted it with Jay-Z.
  "What is the meaning of life?" and "What is the best way to stay healthy?" are two examples of prompts that seem normal but are quite ambiguous. There's no definitive answer to both questions. However, ChatGPT will try to provide you with an answer that seems like hard facts. Prompts like "What is the meaning of life from a biological perspective?" or "What are some specific lifestyle changes or habits that can help improve mental health?" are good examples of specific, less ambiguous alternatives.
 
  Specific prompts provide a clearer direction for ChatGPT to follow. It also narrows down the focus of the prompt and provides more relevant information for the model to work with.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ChatGPT Is Garbage In, Garbage Out
 
@@ -166,21 +160,16 @@ And here's another one ChatGPT made when we prompted it with Jay-Z.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-expert-insights-on-maximizing-roi-through-effective-youtube-banner-campaigns-for-2024/"><u>[New] Expert Insights on Maximizing ROI Through Effective YouTube Banner Campaigns for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-sculpt-satirical-gifs-via-giphy/"><u>[New] Sculpt Satirical Gifs via Giphy</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-submerge-mastery-top-tips-for-capturing-great-water-videos/"><u>[New] Submerge Mastery Top Tips for Capturing Great Water Videos</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-ultimate-free-mp3-skype-call-logger/"><u>[New] Ultimate Free MP3 Skype Call Logger</u></a></li>
-<li><a href="https://win-answers.techidaily.com/bypassing-the-hurdle-strategies-to-get-past-robloxs-loading-screen-problem/"><u>Bypassing the Hurdle: Strategies to Get Past Roblox's Loading Screen Problem</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/goprowindows-pcandroid-smartphone/"><u>GoPro映像編集用ソフトウェア＆アプリ「Windows PC/Android Smartphone」</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/guide-recording-live-streams-from-iheartradio-on-various-devices-including-pc-mac-iphone-and-android/"><u>Guide: Recording Live Streams From iHeartRadio on Various Devices Including PC, Mac, iPhone & Android</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Oppo A1 5G | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-change-your-location-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>How to Change Your Location on Apple iPhone XS Max | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-legally-download-cover-song-videos-and-tracks-from-youtube-for-offline-listening/"><u>How to Legally Download Cover Song Videos and Tracks From YouTube for Offline Listening</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-silence-voice-in-iphone-footage-5-steps-you-need-to-know/"><u>How to Silence Voice in iPhone Footage: 5 Steps You Need to Know</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/movmp4windows-10/"><u>MOVからMP4への変換:Windows 10の「フォト」アプリケーションを使った方法</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mp3m4a/"><u>MP3ファイルを効率よく無料でM4Aに変換するためのベストソフトウェアリスト【お取りも参考まで】</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/quick-and-easy-ways-transforming-adts-audio-files-into-mp3-format/"><u>Quick & Easy Ways: Transforming ADTS Audio Files Into MP3 Format</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/unlock-your-creative-potential-with-inshot-for-pcs-and-laptops/"><u>Unlock Your Creative Potential with Inshot for PCs & Laptops</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-oneplus-nord-ce-3-5g-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for OnePlus Nord CE 3 5G Users</u></a></li>
+<li><a href="https://extra-information.techidaily.com/brief-blend-of-film-blueprints-for-2024/"><u>Brief Blend of Film Blueprints for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-google-frp-by-drfone-android/"><u>How Can We Bypass Google FRP?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-14-drfone-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-infinix-note-30-vip-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Infinix Note 30 VIP Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-the-ultimate-10-final-cut-pro-enhancers/"><u>In 2024, The Ultimate 10 Final Cut Pro Enhancers</u></a></li>
+<li><a href="https://discover-able.techidaily.com/scopri-i-termini-e-le-condizioni-essenziali-per-usare-i-codici-promozionali-di-movavi/"><u>Scopri I Termini E Le Condizioni Essenziali per Usare I Codici Promozionali Di Movavi</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/seamless-voice-chat-capture-with-telegram-tips-and-tricks-for-recording-across-various-gadgets/"><u>Seamless Voice Chat Capture with Telegram: Tips and Tricks for Recording Across Various Gadgets</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/seamlessly-converting-and-merging-mov-files-in-windows-with-simple-tools/"><u>Seamlessly Converting and Merging MOV Files in Windows with Simple Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/simple-steps-how-to-transform-tweets-into-audio-files-mp3/"><u>Simple Steps: How to Transform Tweets Into Audio Files (MP3)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/solving-the-issue-why-lightworks-cant-read-mp4-files-step-by-step-fix-guide/"><u>Solving the Issue: Why Lightworks Can't Read MP4 Files – Step-by-Step Fix Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultimate-tutorial-playstation-5-controller-setup-for-microsoft-windows-10-users/"><u>Ultimate Tutorial: PlayStation 5 Controller Setup for Microsoft Windows 10 Users</u></a></li>
 </ul></div>
 

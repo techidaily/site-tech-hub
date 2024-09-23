@@ -1,7 +1,7 @@
 ---
 title: "Smart Technology Dialogue: The Case for Respectful Interaction"
-date: 2024-09-14T21:06:10.204Z
-updated: 2024-09-18T00:10:31.221Z
+date: 2024-09-21T00:40:16.951Z
+updated: 2024-09-23T00:11:09.957Z
 tags:
   - chatgpt
   - open-ai
@@ -77,10 +77,10 @@ thumbnail: https://thmb.techidaily.com/a5f798f7cf1ad15667826396aa244ceb4353a103f
  Wolfram was able to run the generated information against its database to check for accuracy.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. ChatWithPDF
@@ -95,13 +95,6 @@ Does GPT-4 have visual input abilities? Use the PDF at the URL "<https://cdn.ope
 
 ![GPT-4 visual input abilities](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/gpt-4-visual-input-abilities.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Turns out another important use case is making sense of technical documents like this.
 
 ## 6\. Video Insights
@@ -115,20 +108,13 @@ What's the YouTube video at this URL (<https://www.youtube.com/watch?v=OFvXuyITw
 ![VideoInsights Plugin in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/videoinsights-plugin-in-action.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Yes, it was a spot-on description of the video if you're wondering.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. SceneXplain
 
@@ -138,9 +124,23 @@ Yes, it was a spot-on description of the video if you're wondering.
 
 ![SceneXplain plugin in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/scenexplain-plugin-in-action.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 To use the plugin, use a prompt like:
 
 Explain this image: <https://images.pexels.com/photos/7876708/pexels-photo-7876708.jpeg> or list all the objects you see in this image: <https://images.pexels.com/photos/7876708/pexels-photo-7876708.jpeg>
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. There's An AI For That
 
@@ -150,18 +150,18 @@ Explain this image: <https://images.pexels.com/photos/7876708/pexels-photo-78767
 
 ![There is an AI for that ChatGPT plugin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/there-is-an-ai-for-that-chatgpt-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. What to Watch
 
  If you are a fan of movies and TV shows, then the "What to Watch" plugin is one worth installing. Describe the kind of movies or TV shows you want, and it will bring up plausible suggestions. Unfortunately, one major setback is that it isn't hooked up to an updated movie database. When we prompted it for new movies, it failed to turn up any movie released after 2021.
 
  If your prompting skills aren't particularly strong, you'll find it useful. However, if you know your way around ChatGPT prompts, you might be better off using your own ChatGPT prompts, in which case we recommend checking out our comprehensive[guide on using ChatGPT to decide what to watch next](https://www.makeuseof.com/chatgpt-movie-shows-recommendations/) .
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Embrace ChatGPT Plugins
 
@@ -182,21 +182,21 @@ Explain this image: <https://images.pexels.com/photos/7876708/pexels-photo-78767
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-ouroboros-creator-suite/"><u>[New] Ouroboros Creator Suite</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/decoding-truthgpt-coin-a-comprehensive-guide/"><u>Decoding TruthGPT Coin: A Comprehensive Guide</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exciting-exploration-of-overwatch-engaging-team-dynamics-in-a-fast-paced-fps-game/"><u>Exciting Exploration of Overwatch: Engaging Team Dynamics in a Fast-Paced FPS Game</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/google-plays-top-kid-friendly-app-mondly-family-edition/"><u>Google Play's Top Kid-Friendly App: Mondly Family Edition</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-lightning-fast-photo-tweaks-in-windows-11/"><u>In 2024, Lightning-Fast Photo Tweaks in Windows 11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-text-exceedance-in-chatgpt/"><u>Mastering Text Exceedance in ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-the-landscape-of-nvidias-creativity-service/"><u>Navigating the Landscape of NVIDIA’s Creativity Service</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rtx-3080-takedown-fixing-game-failures/"><u>RTX 3080 Takedown: Fixing Game Failures</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/secrets-to-keeping-your-chatgpt-messages-private-no-delete-required/"><u>Secrets to Keeping Your ChatGPT Messages Private: No Delete Required</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-into-ai-navigate-with-help-from-our-9-communities/"><u>Step by Step Into AI: Navigate with Help From Our 9 Communities</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-risks-of-using-artificial-intelligence-chatbots-for-creating-authentic-windows-11-keycodes/"><u>The Risks of Using Artificial Intelligence Chatbots for Creating Authentic Windows 11 Keycodes</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-apps-and-online-tools-to-track-oppo-reno-9a-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Oppo Reno 9A Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/undo-youtubes-timeline-with-our-4-key-methods/"><u>Undo YouTube's Timeline with Our 4 Key Methods</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unleash-vigor-the-ultimate-playlist-of-fitness-anthems/"><u>Unleash Vigor The Ultimate Playlist of Fitness Anthems</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-gpt-4-potential-in-7-cutting-edge-mobile-apps-inside-look/"><u>Unlocking GPT-4 Potential in 7 Cutting-Edge Mobile Apps: Inside Look</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-free-video-hosting-for-everyone-top-10-sites-ranked/"><u>Updated Free Video Hosting for Everyone Top 10 Sites Ranked</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-crafting-captivating-stories-embedding-melodies-into-visual-narratives/"><u>[Updated] Crafting Captivating Stories Embedding Melodies Into Visual Narratives</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-desktop-release-on-hold-no-problem-here-are-5-must-try-open-source-alternatives-for-immediate-use/"><u>ChatGPT Desktop Release On Hold? No Problem! Here Are 5 Must-Try Open Source Alternatives for Immediate Use</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/crafting-the-ultimate-auto-experience-through-ai-assistance/"><u>Crafting the Ultimate Auto Experience Through AI Assistance</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elevating-your-ride-the-sj4000-must-haves-list/"><u>Elevating Your Ride - The SJ4000 Must-Haves List</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-novice-to-gourmet-discover-7-innovative-ways-chatgpt-elevates-home-cooking/"><u>From Novice to Gourmet: Discover 7 Innovative Ways ChatGPT Elevates Home Cooking</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-on-apple-iphone-11-pro-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even On Apple iPhone 11 Pro If Youve Tried Everything</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-the-problem-of-non-recognition-between-computers-and-headphones/"><u>How to Resolve the Problem of Non-Recognition Between Computers and Headphones</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-future-proof-files-and-folders-at-zero-price-point-top-20-cloud-service-picks-1tbplus/"><u>In 2024, Future-Proof Files & Folders at Zero Price Point Top 20 Cloud Service Picks (1TB+)</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/masterful-fb-watching-essential-top-10-players-for-2024/"><u>Masterful FB Watching Essential Top 10 Players for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/next-level-ai-assistants-7-robust-options-replacing-chatgpt-on-ios-and-android/"><u>Next-Level AI Assistants: 7 Robust Options Replacing ChatGPT on iOS and Android</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/secure-your-spot-in-digital-communication-hubs-without-phone-numbers-joining-chatgpt-telegram-and-whatsapp-easily/"><u>Secure Your Spot in Digital Communication Hubs without Phone Numbers: Joining ChatGPT, Telegram, and WhatsApp Easily!</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-best-glitch-video-editors/"><u>The Best Glitch Video Editors</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-intricacies-of-bypassing-chatgpt-constraints/"><u>The Intricacies of Bypassing ChatGPT Constraints</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-10-password-cracking-tools-for-nubia-z50-ultra-by-drfone-android/"><u>Top 10 Password Cracking Tools For Nubia Z50 Ultra</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-ram-choices-optimize-your-pcs-performance-for-work-and-play-latest-reviews-by-zdnet/"><u>Top Ram Choices : Optimize Your PC's Performance for Work & Play - Latest Reviews by ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-cant-i-join-now-unveiling-the-reasons-behind-chatgpts-closed-registrations-and-their-resumption-timeline/"><u>Why Can't I Join Now? Unveiling the Reasons Behind ChatGPT's Closed Registrations and Their Resumption Timeline</u></a></li>
 </ul></div>
 

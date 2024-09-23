@@ -1,7 +1,7 @@
 ---
 title: Discover Free, Comparable AIs Beyond Sora
-date: 2024-09-12T19:41:14.260Z
-updated: 2024-09-18T02:58:55.996Z
+date: 2024-09-17T21:25:42.614Z
+updated: 2024-09-22T18:58:46.186Z
 tags:
   - chatgpt
   - open-ai
@@ -57,13 +57,6 @@ Close
 
  It's a basic version of the classic game, but it's engaging enough. The custom GPT's scripting doesn't allow you to go off-piste and, say, rob the local convenience store for supplies (nor did the original), but it's certainly a lot easier without so many setbacks constantly upending and destroying your party. It's a much easier version, that's for sure.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3.[Poker](https://chat.openai.com/g/g-lHyTLJaCX-poker)
 
  From the potential death and horror of the Oregon Trail to something a little more relaxing: Poker. You play against the AI in this Poker custom GPT, starting with 10,000 credits, and play standard five-card Texas hold'em until someone's credits run out.
@@ -71,6 +64,13 @@ Close
 Close
 
  My only major gripe about this poker game is that ChatGPT seems to mimic your choices, such as check, raise, and so on, which can make the game predictable (or at least less random).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4.[Console GPT](https://chat.openai.com/g/g-3p94K4Djb-console-gpt)
 
@@ -103,10 +103,10 @@ Close
  Still, if you're into idle games and want to try something different, it could be worth a try.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6.[Cute Little Zombies](https://chat.openai.com/g/g-CEON6aFtV-cute-little-zombies-a-text-adventure-game)
@@ -138,16 +138,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-craftsmanship-hub-top-after-effects-template-deals/"><u>[New] 2024 Approved Craftsmanship Hub Top After Effects Template Deals</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-precision-flight-the-new-era-with-yuneec-drone-review/"><u>[New] In 2024, Precision Flight The New Era with Yuneec Drone Review</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-the-ultimate-guide-to-10-leading-pc-vr-headsets/"><u>[Updated] The Ultimate Guide to 10 Leading PC VR Headsets</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1726027642306-mov/"><u>「MOV」ビデオ再生不良：音声無しでスクロールする？ - トラブルシューティングのコツ</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1-unveiling-essential-insights-a-comprehensive-guide-to-understanding-convertio/"><u>1. Unveiling Essential Insights: A Comprehensive Guide to Understanding Convertio</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1-unveiling-four-effective-techniques-to-extract-images-from-youtube-videos/"><u>1. Unveiling Four Effective Techniques to Extract Images From YouTube Videos</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1726026651748-youtube/"><u>理解しやすいYouTubeビデオエンコード手順: スムーズな動画変換・圧縮のためのテクニック</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1726027760116-aviutl/"><u>AviUTLで音声ファイルが正常にロードしない問題とその修正方法</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/des-astuces-faciles-et-sans-cout-convertissez-vos-fichiers-mts-en-mp4/"><u>Des Astuces Faciles Et Sans Coût: Convertissez Vos Fichiers MTS en MP4</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-newest-rtx-3080-ti-graphics-card-drivers-on-windows-1187/"><u>Get the Newest RTX 3080 Ti Graphics Card Drivers on Windows 11/8/7</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-up-to-advanced-chatting-with-chatgpts-new-ios-app-now-available/"><u>Step Up to Advanced Chatting with ChatGPT's New iOS App – Now Available!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-getting-fcp-on-the-house-simple-steps/"><u>[New] Getting FCP on the House - Simple Steps</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/4-ways-to-unlock-apple-iphone-12-pro-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>4 Ways to Unlock Apple iPhone 12 Pro to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-and-cupids-arrow-ai-insights-to-enhance-your-love-life-strategies/"><u>ChatGPT and Cupid's Arrow: AI Insights to Enhance Your Love Life Strategies</u></a></li>
+<li><a href="https://common-error.techidaily.com/diy-repair-steps-for-unresponsive-usb-hdmi-interface-cable/"><u>DIY Repair Steps for Unresponsive USB HDMI Interface Cable</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-your-online-presence-writing-top-notch-social-media-with-chatgpts-help/"><u>Elevate Your Online Presence: Writing Top-Notch Social Media with ChatGPT's Help</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exclusive-discussion-on-microsoft-purchasing-blizzard-plus-a-dive-into-innovative-ai-for-creating-art-and-translating-languages-podcast/"><u>Exclusive Discussion on Microsoft Purchasing Blizzard, Plus a Dive Into Innovative AI for Creating Art and Translating Languages [Podcast]</u></a></li>
+<li><a href="https://driver-error.techidaily.com/expert-tips-handling-failed-to-install-the-hcmon-driver-error-on-windows-systems/"><u>Expert Tips: Handling 'Failed To Install The Hcmon Driver' Error on Windows Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-nostalgia-unleashed-play-old-games-with-emudeck-on-steam-deck/"><u>Gaming Nostalgia Unleashed: Play Old Games with EmuDeck on Steam Deck</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-13t-pro-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of 13T Pro using Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-tell-if-chatgpt-is-down-5-essential-steps-for-users/"><u>How To Tell If ChatGPT Is Down: 5 Essential Steps For Users</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/start-streaming-the-simple-method-for-mac-book-air-recording/"><u>Start Streaming The Simple Method for Mac Book Air Recording</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-strategies-to-enhance-your-writing-workflow-in-word-using-chatgpt/"><u>Step-by-Step Strategies to Enhance Your Writing Workflow in Word Using ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-innovators-guide-from-text-generation-to-books/"><u>The Innovator's Guide: From Text Generation to Books</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Wondering if ChatGPT Is Active? Learn How to Confirm Its Online Presence with Simple Steps
-date: 2024-09-13T21:03:12.548Z
-updated: 2024-09-18T01:12:14.765Z
+date: 2024-09-20T00:52:14.060Z
+updated: 2024-09-22T17:04:15.540Z
 tags:
   - chatgpt
   - open-ai
@@ -54,6 +54,19 @@ Here's the fictitious article that ChatGPT came up with:
 
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Using Chatbots to Influence People's Opinions
 
  Chatbots that rely on generative AI models can employ various tactics to influence people's opinions, including:
@@ -66,10 +79,16 @@ Here's the fictitious article that ChatGPT came up with:
  These examples all illustrate how chatbots can be utilized to mislead people.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Creating AI DeepFakes
@@ -79,13 +98,6 @@ Here's the fictitious article that ChatGPT came up with:
  Additionally, political adversaries may use deepfake audio and videos to tarnish the reputation of their opponents, manipulating public sentiment with the help of AI. So[AI-generated deepfakes pose numerous threats in the future](https://www.makeuseof.com/future-and-dangers-of-ai-deepfakes/) . According to a 2023[Reuters report](https://www.reuters.com/world/us/deepfaking-it-americas-2024-election-collides-with-ai-boom-2023-05-30/) , the rise of AI technology could impact America's 2024 elections. The report highlights the accessibility of tools like Midjourney and DALL-E that can easily create fabricated content and influence people's collective opinions.
 
  It's crucial, then, to be able to[identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Cloning Human Voices
 
@@ -127,15 +139,18 @@ Here's the fictitious article that ChatGPT came up with:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-effective-streaming-across-platforms-including-facebook-and-twitch-for-2024/"><u>[New] Effective Streaming Across Platforms, Including Facebook and Twitch for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-independent-analysis-unveiling-the-mysteries-of-3dr/"><u>[New] Independent Analysis Unveiling the Mysteries of '3DR'</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-add-captions-to-your-mkv-files-with-these-3-easy-methods/"><u>How to Add Captions to Your MKV Files with These 3 Easy Methods</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-use-songs-from-apple-music-in-your-video-projects-a-step-by-step-guide/"><u>How to Use Songs From Apple Music in Your Video Projects: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-best-android-videography-6-must-try-music-videos-apps/"><u>In 2024, Best Android Videography 6 Must-Try Music Videos Apps</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/installing-franks-media-center-addon-for-enhanced-viewing-on-kodi-v19-matrix-build-a-comprehensive-tutorial/"><u>Installing Frank's Media Center Addon for Enhanced Viewing on Kodi v19 Matrix Build – A Comprehensive Tutorial</u></a></li>
-<li><a href="https://fox-that.techidaily.com/nullable-reference-types-c-80/"><u>Nullable Reference Types (C# 8.0):</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/professional-photoshop-guide-to-crafting-hdr-images-for-2024/"><u>Professional Photoshop Guide to Crafting HDR Images for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-tutorial-on-splitting-your-excel-window-for-enhanced-productivity/"><u>The Ultimate Tutorial on Splitting Your Excel Window for Enhanced Productivity</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-fcp-top-5-editing-tricks-to-stay-ahead-of-the-curve-for-2024/"><u>Updated FCP Top 5 Editing Tricks to Stay Ahead of the Curve for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-jest-joys-ranking-the-most-hilarious-text-tools/"><u>[New] 2024 Approved Jest Joys Ranking the Most Hilarious Text Tools</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-twitter-connect-optimizing-your-tiktok-content/"><u>[New] In 2024, Twitter Connect Optimizing Your TikTok Content</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/eaders-in-education-top-15-sci-yt-innovators/"><u>[New] Leaders in Education Top 15 Sci-YT Innovators</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-leading-titles-in-editing-webcam-videos-effectively-for-2024/"><u>[New] Leading Titles in Editing Webcam Videos Effectively for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/connecting-with-ghosts-in-the-machine-exploring-who-youre-sharing-data-with-online/"><u>Connecting with Ghosts in the Machine? Exploring Who You're Sharing Data With Online</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/dive-deep-into-the-details-of-the-upcoming-nothing-phone-forecasted-pricing-strategy-expected-launch-date-and-speculative-tech-overview/"><u>Dive Deep Into the Details of the Upcoming Nothing Phone Ⓦ: Forecasted Pricing Strategy, Expected Launch Date & Speculative Tech Overview</u></a></li>
+<li><a href="https://facebook.techidaily.com/doppelganger-detection-spotting-digital-dupes/"><u>Doppelgänger Detection: Spotting Digital Dupes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-idea-to-output-the-journey-of-ai-powered-content-generation/"><u>From Idea to Output: The Journey of AI-Powered Content Generation</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-vivo-x100-by-drfone-android/"><u>How to Bypass FRP from Vivo X100?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/mastering-androids-screen-recorder-functions-for-2024/"><u>Mastering Android's Screen Recorder Functions for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-vivo-s17-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Vivo S17? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transform-chatgpt-engagements-advanced-strategies-unveiled/"><u>Transform ChatGPT Engagements: Advanced Strategies Unveiled</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-serenity-a-guide-to-reducing-anxiety-via-chatgpt/"><u>Unlocking Serenity: A Guide to Reducing Anxiety via ChatGPT</u></a></li>
 </ul></div>
 
