@@ -1,7 +1,7 @@
 ---
 title: "Comparing Experiences: Testing We Try Mistral AI's Le Chat Against ChatGPT"
-date: 2024-09-21T18:15:38.619Z
-updated: 2024-09-22T17:16:10.713Z
+date: 2024-09-28T03:25:09.744Z
+updated: 2024-09-28T17:29:13.706Z
 tags:
   - chatgpt
   - open-ai
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/3fdaca488d74735acc0a94b8e5d7a94444c107a2d
  However, one area in which ChatGPT could be particularly impactful is machine translation. Currently, Google Translate is the top dog, and almost everyone else is playing catch-up.
 
  But with the rise of ChatGPT, could Google Translate's dominance be challenged? We'll pit ChatGPT against Google Translate to see which tool can provide better translations.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Does a Good Translation Look Like?
 
@@ -70,9 +77,23 @@ ChatGPT had a go at it:
 
 ![ChatGPT tries to translate a Filipino idiomatic expression](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/chatgpt-translate-filipino2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 And so did Google:
 
 ![Google translates a Filipino idiomatic expression](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/google-translates-filipino2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This clearly gave both tools a hard time, but Google Translate seemed to have an edge.
 
@@ -108,25 +129,25 @@ Up next is a translation task in Filipino.
 
 ![Google translates filipino text](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/google-translates-filipino.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  ChatGPT, on the other hand, turned up: "The cure for a heartbroken woman is the affection of an understanding man."
 
 ![ChatGPT translate filipino](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/chatgpt-translate-filipino.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  None of the translations are particularly perfect, but ChatGPT got as close as possible.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Google Translate vs. ChatGPT: Translating Creoles
 
@@ -142,6 +163,19 @@ Below is the source text:
 
 ![Google Translate Pidgin Translation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/google-translate-pidgin-translation.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Although not flawlessly, ChatGPT's interpretation was able to clearly convey the meaning and intent of the speaker. Considering the highly contextual nature of Pidgin English, the results are very impressive.
 
 ![ChatGPT Pidgin Translation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-pidgin-translation.jpg)
@@ -155,13 +189,6 @@ Below is the source text:
 ## Google Translate vs. ChatGPT: Which Translation Tool Is Better?
 
  It's hard to say with certainty. Both translation tools have their strong points. Google has been making massive investments in[Natural Language Processing (NLP)](https://www.makeuseof.com/what-is-natural-language-processing-and-how-does-it-work/) . As a result, it outperforms ChatGPT in languages to which it has paid special attention. However, considering[how ChatGPT works and its training](https://www.makeuseof.com/how-does-chatgpt-work/) , it represents a unique and exciting approach to translation. Which of them should you use? Both tools are free, so feel free to experiment and settle for which one works for you.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT: An Emerging Translation Tool
 
@@ -182,5 +209,24 @@ Below is the source text:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-effective-engagement-incorporating-youtube-videos-into-slides/"><u>[New] 2024 Approved Effective Engagement Incorporating YouTube Videos Into Slides</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-masterclass-the-different-faces-of-hand-tracker/"><u>[New] 2024 Approved Masterclass The Different Faces of Hand Tracker</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-maximizing-impact-with-google-based-podcast-uploads/"><u>[Updated] In 2024, Maximizing Impact with Google-Based Podcast Uploads</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-your-go-to-fb-video-tool-for-desktops-and-phones/"><u>2024 Approved Your Go-To FB Video Tool for Desktops and Phones</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beyond-binary-bonds-are-machines-learning-to-feel-with-us/"><u>Beyond Binary Bonds: Are Machines Learning to Feel with Us?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-as-your-coach-developing-empathy-and-intuition-skills/"><u>ChatGPT as Your Coach: Developing Empathy and Intuition Skills</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-as-your-storyteller-designing-captivating-interactive-rpgs-in-text-format/"><u>ChatGPT as Your Storyteller: Designing Captivating Interactive RPGs in Text Format</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-unveiled-a-guide-to-generative-ai-for-concerned-caretakers/"><u>ChatGPT Unveiled: A Guide to Generative AI for Concerned Caretakers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparative-analysis-natural-language-tech-and-ml/"><u>Comparative Analysis: Natural Language Tech and ML</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comprehensive-guide-to-codegpt-evaluating-its-effectiveness-in-developing-software/"><u>Comprehensive Guide to CodeGPT: Evaluating Its Effectiveness in Developing Software</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/deciphering-the-future-of-artificial-intelligence-through-apples-reveals-at-wwdc-2024/"><u>Deciphering the Future of Artificial Intelligence Through Apple's Reveals at WWDC 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/deep-dive-into-artificial-intelligence-evolution-distinguishing-between-google-palm-2-and-gpt-4-by-openai/"><u>Deep Dive Into Artificial Intelligence Evolution: Distinguishing Between Google PaLM 2 and GPT-4 by OpenAI</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-guide-how-to-check-icloud-activation-lock-status-from-your-apple-iphone-7-by-drfone-ios/"><u>In 2024, New Guide How To Check iCloud Activation Lock Status From Your Apple iPhone 7</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-game-capture-kings/"><u>In-Game Capture Kings</u></a></li>
+<li><a href="https://extra-information.techidaily.com/taking-control-mastery-guide-to-google-photos/"><u>Taking Control Mastery Guide to Google Photos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/trending-tweet-treasures-1-10-showdown-for-2024/"><u>Trending Tweet Treasures #1-#10 Showdown for 2024</u></a></li>
+</ul></div>
 

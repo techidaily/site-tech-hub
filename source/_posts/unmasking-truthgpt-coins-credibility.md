@@ -1,7 +1,7 @@
 ---
 title: Unmasking TruthGPT Coin's Credibility
-date: 2024-09-17T17:55:11.637Z
-updated: 2024-09-23T00:25:47.968Z
+date: 2024-09-21T18:28:34.791Z
+updated: 2024-09-29T04:47:18.199Z
 tags:
   - chatgpt
   - open-ai
@@ -36,21 +36,35 @@ Guardio took to Twitter to warn readers of the malicious campaign.
 
  It was also speculated in the blog post that, once the attacker has accessed your data, they will "probably[sell it to the highest bidder](https://www.makeuseof.com/how-can-data-be-sold-dark-web/) as usual."
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Thousands of Facebook Accounts May Have Been Compromised
 
  In this malicious campaign, thousands of Facebook accounts may have been successfully hijacked. In the aforementioned blog post, it was stated that there are "more than 2000 users installing this extension on a daily basis since its first appearance on 03/03/2023."
 
  On top of this, Tal wrote that each one of the individuals installing the add-on "gets his Facebook account stolen and probably this is not the only damage," suggesting that other consequences may arise from the extension's presence.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The Malicious App Has Been Removed from Chrome
 
  Though thousands have downloaded this phony browser extension, it has now been taken down from the Google Chrome Store, preventing further attacks via Chrome-based downloads. It is not yet known exactly how many people have been affected by this campaign, but the number of installations is a definite concern.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT's Name Is Consistently Used by Scammers
@@ -70,5 +84,17 @@ Guardio took to Twitter to warn readers of the malicious campaign.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-enhance-your-meetings-top-5-live-stream-recording-tools/"><u>[Updated] In 2024, Enhance Your Meetings Top 5 Live Stream Recording Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-filmmakers-edge-mastering-kinemasters-zoom-functionality/"><u>[Updated] The Filmmaker's Edge Mastering Kinemaster's Zoom Functionality</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-tecno-spark-10-5g-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Tecno Spark 10 5G? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/beware-of-imposters-how-to-recognize-false-friendships-on-the-internet/"><u>Beware of Imposters: How to Recognize False Friendships on the Internet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/demystifying-the-differences-deep-dive-into-strong-and-weak-artificular-intelligence/"><u>Demystifying the Differences: Deep Dive Into Strong and Weak Artificular Intelligence</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/dialogue-engine-differences-10-highlights-of-ai-discrepanrances/"><u>Dialogue Engine Differences: 10 Highlights of AI Discrepanrances</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discovering-chatgpt-copilot-unveiling-its-functions-and-capabilities/"><u>Discovering ChatGPT Copilot: Unveiling Its Functions & Capabilities</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/do-user-dialogues-influence-chatgpts-knowledge-growth/"><u>Do User Dialogues Influence ChatGPT's Knowledge Growth?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-troubleshoot-and-repair-ralink-rt3290-wireless-card-issues-in-windows-operating-systems-windows-1187/"><u>How to Troubleshoot and Repair Ralink RT3290 Wireless Card Issues in Windows Operating Systems (Windows 11/8/7)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-camera-app-glitch-a00f425d/"><u>Overcoming Windows Camera App Glitch: A00F425D</u></a></li>
+</ul></div>
 

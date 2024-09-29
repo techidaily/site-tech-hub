@@ -1,7 +1,7 @@
 ---
 title: The Game-Changing Effect of Integrating ChatGPT and Whisper APIs Into Your Business Model
-date: 2024-09-20T17:56:01.619Z
-updated: 2024-09-23T00:42:42.959Z
+date: 2024-09-21T19:07:33.116Z
+updated: 2024-09-28T22:55:09.798Z
 tags:
   - chatgpt
   - open-ai
@@ -38,9 +38,23 @@ thumbnail: https://thmb.techidaily.com/ef542613ecfd778273a563914315ea95552a0c901
 
  In a separate incident, the researchers prompted ChatGPT to generate malicious VBA code that could be implanted into a Microsoft Excel file that would infect your PC if opened; it successfully did. Plus, there are claims that ChatGPT can code malicious software capable of spying on your keyboard strokes.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Can ChatGPT Hack Your Bank Account?
 
 ![An illustration of a customer service chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customer-service.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Many data breaches start with[a successful phishing attack](http://www.makeuseof.com/what-is-phishing/) . Phishing attacks often involve a malicious actor sending a recipient an email that contains legitimate-looking documents or links, which, when clicked on, can install malware on their device. In this way, code from ChatGPT doesn't need to hack your bank account directly. Someone only needs to use ChatGPT to help them trick you into giving them access.
 
@@ -53,6 +67,13 @@ thumbnail: https://thmb.techidaily.com/ef542613ecfd778273a563914315ea95552a0c901
  For phishing, it’s mostly about volume. ChatGPT can help boost phishing campaigns as it can quickly pump out huge amounts of natural-sounding texts that are tailored to specific audiences.
 
  Another kind of phishing attack involving the use of ChatGPT is where a hacker creates a fake account on a popular chat platform like Discord and pretends to be a customer representative. The fake customer rep then contacts customers who have posted concerns and offers help. If a user falls for the trap, the cybercriminal will redirect them to a bogus website that tricks them into sharing personal information, like their bank login details.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Protect Your PC and Bank Account in the AI-Era
 
@@ -75,12 +96,24 @@ thumbnail: https://thmb.techidaily.com/ef542613ecfd778273a563914315ea95552a0c901
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-joining-the-social-tv-revolution-fb-live-and-roku-interactions-for-2024/"><u>[Updated] Joining the Social TV Revolution FB Live & Roku Interactions for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/driver-update-halt-blackout/"><u>Driver Update Halt: Blackout</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gptplus-new-horizon-key-enhancements-to-watch/"><u>GPT+ New Horizon: Key Enhancements to Watch</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/harmonize-your-thoughts-with-chatgpt-building-a-daily-meditation-habit-step-by-step/"><u>Harmonize Your Thoughts with ChatGPT: Building a Daily Meditation Habit Step-by-Step</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-does-localized-machine-learning-enhance-your-devices-performance/"><u>How Does Localized Machine Learning Enhance Your Device's Performance?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-implement-codegpt-within-your-vs-code-workflow/"><u>How To Implement CodeGPT Within Your VS Code Workflow</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-successfully-install-llama-2-on-your-machine/"><u>How to Successfully Install Llama 2 on Your Machine</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-use-chatgpt-safely-as-a-mental-health-coach/"><u>How to Use ChatGPT Safely as a Mental Health Coach</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-utilize-chatgpts-assistance-in-diagnosing-and-resolving-pc-issues/"><u>How to Utilize ChatGPT's Assistance in Diagnosing and Resolving PC Issues</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-best-dramatic-writing-site/"><u>In 2024, Best Dramatic Writing Site</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-the-step-by-step-approach-to-twitter-archive-usage/"><u>In 2024, The Step-by-Step Approach to Twitter Archive Usage</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/liberating-gpt-4-for-all-plus-membership-consider-these-6-persisting-benefits/"><u>Liberating GPT-4 for All; Plus Membership? Consider These 6 Persisting Benefits</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-realme-narzo-60-5g-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Realme Narzo 60 5G Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/scaling-photography-with-no-detail-degradation-for-2024/"><u>Scaling Photography with No Detail Degradation for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/sky-high-results-the-creme-de-la-liste-of-drone-editors-for-2024/"><u>Sky-High Results The Crème De La Liste of Drone Editors for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Infinix Smart 7 HD? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-your-potential-with-effective-coding-strategies-and-tips/"><u>Unlock Your Potential with Effective Coding Strategies & Tips</u></a></li>
+</ul></div>
 

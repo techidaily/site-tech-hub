@@ -1,7 +1,7 @@
 ---
 title: "Rethinking AI: Seven Potential Pitfalls of Using Generative Models in Communication Tools"
-date: 2024-09-18T16:15:34.839Z
-updated: 2024-09-22T20:49:46.190Z
+date: 2024-09-22T05:17:52.768Z
+updated: 2024-09-29T01:27:47.083Z
 tags:
   - chatgpt
   - open-ai
@@ -65,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/143b26f11671d3fcd62f1801d95a276dc9ebb60e2
 > 10\. Change the ‘Weather’ to reflect ‘Description’ and whatever environment the player is in the game.
 
  This part of the prompt will tell the AI how to build the environment; otherwise, it will become very messy. You can change things here to whatever you like. For example, if you prefer one-sentence descriptions, this is where you can do that.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Implement Fundamental Game Mechanics
 
@@ -132,6 +139,13 @@ thumbnail: https://thmb.techidaily.com/143b26f11671d3fcd62f1801d95a276dc9ebb60e2
 
  You can embellish this section with as many rules and preferences as you like. You can add an overarching plot, implement rules for governing, or even detail NPC clothes and attitudes in this section. But remember to keep it simple because multilayered rules may confuse the AI.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Add Combat and Magic Rules
 
  As with any adventure[RPG](https://www.makeuseof.com/what-are-rpgs-role-playing-games/) , combat and magic are big parts of the experience. If you don’t add rules to guide this part of your game, you’ll end up with a game you can easily cheese through. It doesn’t help that ChatGPT likes to favor the user in its narratives, and it will generally make things go your way. Here’s what our rules look like:
@@ -172,22 +186,15 @@ And finally, don’t forget to actually start the game:
 
  As you play, you might have to remind the AI of the rules you’ve laid out. The AI will respond to the same prompt differently, so every user might have a different experience.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Using GPT-4 vs. GPT-3.5 to Run Your Game
 
 ![GPT-4 generating texts for a turn-based text RPG](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gpt-4-generating-texts-for-a-turn-based-text-rpg.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you have ChatGPT Plus, it grants you access to GPT-4, a more intelligent version of GPT-3.5\. You should try running a few RPG sessions with GPT-4 instead of GPT3.5\. It's way more creative, better at crafting stories, remembering rules, and all-around better at improv. It costs $20/month, and it's a good tool for doing other things apart from text-based gaming.
@@ -292,6 +299,13 @@ And finally, don’t forget to actually start the game:
 
  Once again, don't forget that AI is still an emerging technology and will change as time goes on. Your experience using our prompts may differ significantly from ours.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is This the Beginning of Open-Ended Gaming?
 
  ChatGPT has revealed that it is possible to have a game that changes with the player without following a pre-defined path or forcing the player to engage in the same NPC conversations. The future of gaming could mean entering your parameters and allowing AI to generate your ideal game without having a team of developers.
@@ -311,5 +325,26 @@ And finally, don’t forget to actually start the game:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-the-foundations-of-facebook-video-marketing/"><u>[New] 2024 Approved The Foundations of Facebook Video Marketing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-lifetime-visual-vaults-blend-cost-free-sky-spaces-and-paid-premium-alternatives/"><u>[New] Lifetime Visual Vaults Blend Cost-Free Sky Spaces & Paid Premium Alternatives</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-flamboyant-snaps-techniques-for-lasting-snapstreaks/"><u>[Updated] In 2024, Flamboyant Snaps Techniques for Lasting Snapstreaks</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitter-backlog-utilizing-past-tweets-for-2024/"><u>[Updated] Twitter Backlog Utilizing Past Tweets for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-samsung-galaxy-s24plus-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-frame-rate-issues-in-dragons-dogma-ii-solutions-for-smooth-gameplay/"><u>Fixing Frame Rate Issues in Dragon's Dogma II: Solutions for Smooth Gameplay</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-solve-the-dilemma-of-frequent-game-shutdowns-on-desktops/"><u>How to Solve the Dilemma of Frequent Game Shutdowns on Desktops</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/liberate-your-video-files-free-online-tools-for-facebook-videos-in-1080phd/"><u>Liberate Your Video Files - Free Online Tools for Facebook Videos in 1080P/HD</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/luminosity-techniques-to-brighten-iphone-vids-for-2024/"><u>Luminosity Techniques to Brighten iPhone Vids for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maintain-privacy-how-to-block-chatgpt-from-saving-interactions/"><u>Maintain Privacy: How to Block ChatGPT From Saving Interactions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionize-your-youtube-videos-by-writing-scripts-using-chatgpt/"><u>Revolutionize Your YouTube Videos by Writing Scripts Using ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/seamless-chat-experience-how-to-activate-and-use-chatgpt-widget-on-your-android-device/"><u>Seamless Chat Experience: How to Activate and Use ChatGPT Widget on Your Android Device</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/speak-up-and-take-charge-controlling-chatgpt-using-just-your-voice/"><u>Speak Up and Take Charge: Controlling ChatGPT Using Just Your Voice</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-erasing-your-entire-chatgpt-conversation-record/"><u>Step-by-Step Guide: Erasing Your Entire ChatGPT Conversation Record</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-sign-up-for-chatgpt-telegram-and-whatsapp-without-needing-your-mobile-number/"><u>Step-by-Step Guide: Sign Up for ChatGPT, Telegram & WhatsApp without Needing Your Mobile Number</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/synergistic-communication-integrating-chatgpt-with-siri-for-iphones/"><u>Synergistic Communication: Integrating ChatGPT with Siri for iPhones</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-battle-of-word-wizards-exploring-the-unique-features-of-gpt-vs-googles-bert/"><u>The Battle of Word Wizards: Exploring the Unique Features of GPT Vs. Google's BERT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-challenge-of-metacognition-in-ai-understanding-chatgpts-inability-to-recognize-its-outputs/"><u>The Challenge of Metacognition in AI: Understanding ChatGPT's Inability to Recognize Its Outputs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ins-and-outs-of-ai-based-prompt-injection-exploits-an-elucidation/"><u>The Ins and Outs of AI-Based Prompt Injection Exploits: An Elucidation</u></a></li>
+</ul></div>
 

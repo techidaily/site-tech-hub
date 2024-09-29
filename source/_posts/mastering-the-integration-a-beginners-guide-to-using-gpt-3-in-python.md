@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Integration: A Beginner's Guide to Using GPT-3 in Python"
-date: 2024-09-22T00:55:06.179Z
-updated: 2024-09-22T21:17:03.512Z
+date: 2024-09-24T02:32:04.081Z
+updated: 2024-09-28T19:52:14.559Z
 tags:
   - chatgpt
   - open-ai
@@ -34,13 +34,34 @@ thumbnail: https://thmb.techidaily.com/a05ae5ee6982c15ff3eed9139528bca4d5df10563
 
  Right now, the best way to use GPT-4 Turbo for free is via Microsoft Copilot. It may seem weird that you have to go through Microsoft instead of OpenAI, but the two companies have a really close relationship. As such, it's not unusual to see OpenAI's features appear within Microsoft's AI assistants.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Use GPT-4 Turbo for Free With Microsoft Copilot
 
  To get started with GPT-4 Turbo, just boot up Copilot and start talking with it. At the time of writing, Copilot will use GPT-4 Turbo by default when talking to a user on the free tier. Paid users can go back to previous models if they wish, but you don't need to worry about that if you just want to use the latest and greatest model.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Use GPT-4 Turbo for Free on Windows 10 and 11
 
 ![Copilot prompt on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/copilot-prompt-on-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you're a Windows 10 or 11 user, there's a very good chance you have a Copilot button on your taskbar. To get started with GPT-4 Turbo, just click this button and begin chatting with the chatbot when it appears.
 
@@ -51,22 +72,15 @@ thumbnail: https://thmb.techidaily.com/a05ae5ee6982c15ff3eed9139528bca4d5df10563
 ![microsoft copilot answering question jan 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/microsoft-copilot-answering-question-jan-2024.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you don't have a Copilot button yet or use a different operating system, you can still use the[Copilot website](https://copilot.microsoft.com/) . Open it up, start talking, and it will automatically use GPT-4 Turbo to parse your prompts.
 
  If you're on mobile, you can download the[Copilot app for Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2032122/https://play.google.com/store/apps/details?id=com.microsoft.copilot&hl=en&gl=US) or[iOS](https://apps.apple.com/us/app/microsoft-copilot/id6472538445) . The app has a toggle when you open it that enables or disables GPT-4\. It may not be the Turbo version, but it should still be powerful enough to handle your queries.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Get the Most Out of GPT-4 Turbo
 
@@ -93,5 +107,24 @@ thumbnail: https://thmb.techidaily.com/a05ae5ee6982c15ff3eed9139528bca4d5df10563
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-women-in-warfare-youtubes-elite-ten/"><u>[New] In 2024, Women in Warfare YouTube’s Elite Ten</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-premier-green-screen-tech-how-to-optimize-usage/"><u>[Updated] 2024 Approved Premier Green Screen Tech How to Optimize Usage</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-the-step-by-step-guide-to-youtube-gamers-broadcasting/"><u>[Updated] 2024 Approved The Step-by-Step Guide to YouTube Gamers' Broadcasting</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/ease-into-calmness-say-goodbye-to-flickering-screens/"><u>Ease Into Calmness, Say Goodbye to Flickering Screens</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/harnessing-chatgpt-to-innovate-and-enhance-soundscapes-within-your-daw-studio/"><u>Harnessing ChatGPT to Innovate and Enhance Soundscapes Within Your DAW Studio</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-is-ai-revolutionizing-the-medical-field-with-chatgpts-potential/"><u>How Is AI Revolutionizing the Medical Field with ChatGPT's Potential?</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/how-to-change-voice-on-tiktok/"><u>How to Change Voice on TikTok?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-run-a-censorship-free-gpt-alternative-on-windows-using-the-freedomgpt-platform/"><u>How To Run A Censorship-Free GPT Alternative On Windows Using the FreedomGPT Platform</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-capturing-win10-games-a-comprehensive-breakdown/"><u>In 2024, Capturing Win10 Games A Comprehensive Breakdown</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovative-techniques-for-developing-a-tailored-chatgpt-experience-using-ai-models/"><u>Innovative Techniques for Developing a Tailored ChatGPT Experience Using AI Models</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/inside-claude-ai-revolutionizing-the-workflow-across-sectors/"><u>Inside Claude AI: Revolutionizing the Workflow Across Sectors</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-it-better-to-use-gemini-advanced-over-chatgpt-plus-lets-find-out/"><u>Is It Better to Use Gemini Advanced Over ChatGPT Plus? Let's Find Out</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mac-users-manual-how-to-implement-microsoft-copilot-seamlessly/"><u>Mac Users' Manual: How to Implement Microsoft Copilot Seamlessly</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximize-your-productivity-with-these-top-10-chatgpt-and-pdf-merge-tools/"><u>Maximize Your Productivity with These Top 10 ChatGPT & PDF Merge Tools</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/length-filmmaker-for-2024/"><u>Nano-Length Filmmaker for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/top-rated-desktop-video-recorders-for-pcmac-for-2024/"><u>Top-Rated Desktop Video Recorders for PC/Mac for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/upgrading-windows-11-the-top-10-best-replacements/"><u>Upgrading Windows 11: The Top 10 Best Replacements</u></a></li>
+</ul></div>
 

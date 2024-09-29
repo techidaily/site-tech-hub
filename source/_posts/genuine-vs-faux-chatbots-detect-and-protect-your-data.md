@@ -1,7 +1,7 @@
 ---
 title: "Genuine Vs. Faux ChatBots: Detect and Protect Your Data!"
-date: 2024-09-16T19:19:41.121Z
-updated: 2024-09-22T23:31:55.597Z
+date: 2024-09-24T17:57:19.530Z
+updated: 2024-09-28T16:30:17.035Z
 tags:
   - chatgpt
   - open-ai
@@ -44,16 +44,16 @@ thumbnail: https://thmb.techidaily.com/3fcb347d205cfe9b7a3f6b4b1ca723a231574eb0d
 
  The suspicious domain directs users to a fake OpenAI website resembling the official one. The site features a “DOWNLOAD FOR WINDOWS” button, which, when clicked, downloads an executable file containing data-stealing malware.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. chat-gpt-pc.online
 
  ChatGPT AI, the fake ChatGPT Facebook page, also features posts that include links to “chat-gpt-pc.online,” another domain that redirects users to a malicious ChatGPT-themed website.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. chatgpt-go.online
 
@@ -63,20 +63,13 @@ thumbnail: https://thmb.techidaily.com/3fcb347d205cfe9b7a3f6b4b1ca723a231574eb0d
 
 ![pay.chatgptftw.com's payment page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pay-chatgptftw-com.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Cybercriminals also use ChatGPT-themed payment pages for financial fraud. For example, on the domain “pay.chatgptftw.com,” Cyble came across a page designed to steal credit card details. This webpage poses as a genuine payment page for ChatGPT Plus.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. ChatGPT1
@@ -93,6 +86,13 @@ thumbnail: https://thmb.techidaily.com/3fcb347d205cfe9b7a3f6b4b1ca723a231574eb0d
 
  SuperGPT is an AI assistant app built on ChatGPT. However, researchers from Unit 42 uncovered a malicious APK sample posing as the app. This fake “SuperGPT” is a Meterpreter Trojan, [a RAT that enables remote access](https://www.makeuseof.com/android-remote-access-trojan/) of Android devices.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Trojan-PSW.Win64.Fobo
 
  Kaspersky researchers discovered that cybercriminals were using a fake ChatGPT desktop client for Windows to distribute a stealer Trojan. The Trojan, dubbed Trojan-PSW.Win64.Fobo, if installed on the user’s computer, can steal account details stored in various browsers, including Chrome, Edge, Firefox, and Brave.
@@ -102,6 +102,13 @@ thumbnail: https://thmb.techidaily.com/3fcb347d205cfe9b7a3f6b4b1ca723a231574eb0d
  If you click the link, you’ll be redirected to a website that prompts you to download ChatGPT for Windows. Clicking on the button will download an archive containing an executable file.
 
  Upon extracting the archive and running the file, you may or may not receive an installation failure message. In either case, the Trojan is installed.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Protect Yourself From Malicious ChatGPT-Themed Apps
 
@@ -128,5 +135,23 @@ thumbnail: https://thmb.techidaily.com/3fcb347d205cfe9b7a3f6b4b1ca723a231574eb0d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-must-collect-blog-for-business-8-trending-videos-on-facebook/"><u>[New] 2024 Approved Must-Collect Blog for Business! 8 Trending Videos on Facebook</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-precision-problem-solving-for-social-media-stories-issues-for-2024/"><u>[New] Precision Problem-Solving for Social Media Stories Issues for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-elite-upgrades-for-enhanced-gopro-images/"><u>[Updated] Elite Upgrades for Enhanced GoPro Images</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/affordable-entertainment-comprehensive-review-of-the-75-inch-caixun-4k-smart-tv/"><u>Affordable Entertainment: Comprehensive Review of the 75-Inch Caixun 4K Smart TV</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-privacy-first-conversations-engage-with-chatgpt-and-others-on-duckduckgos-secure-ai-platform/"><u>Discover Privacy-First Conversations: Engage with ChatGPT & Others on DuckDuckGo’s Secure AI Platform</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/dissecting-the-role-and-value-of-snapchats-ai-with-6-reasons/"><u>Dissecting the Role and Value of Snapchat's AI with 6 Reasons</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-your-health-discussions-the-top-7-justifications-to-trust-chatgpt/"><u>Elevate Your Health Discussions: The Top 7 Justifications to Trust ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ensuring-a-protected-experience-how-to-guide-your-childs-safe-engagement-with-chatgpt/"><u>Ensuring a Protected Experience: How to Guide Your Child's Safe Engagement with ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/essential-insights-navigating-through-potential-security-issues-with-chatbot-technology/"><u>Essential Insights: Navigating Through Potential Security Issues with Chatbot Technology</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-ai-chatbots-how-they-work-and-why-theyre-gaining-attention/"><u>Exploring AI Chatbots - How They Work & Why They're Gaining Attention</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-one-to-many-making-the-leap-in-content-design/"><u>From One to Many: Making the Leap in Content Design</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-a-found-iphone-11-pro-max-drfone-by-drfone-ios/"><u>In 2024, How To Unlock A Found iPhone 11 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/latest-release-discover-apples-new-macbook-model/"><u>Latest Release: Discover Apple's New MacBook Model</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/h-cinematography-best-stabilizers-listed/"><u>Smooth Cinematography Best Stabilizers Listed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sustainable-editing-incorporating-ai-without-compromising-integrity/"><u>Sustainable Editing: Incorporating AI without Compromising Integrity</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-quiet-pc-audio-fixing-low-sounds-in-windows-11/"><u>Troubleshooting Quiet PC Audio: Fixing Low Sounds in Windows 11</u></a></li>
+</ul></div>
 

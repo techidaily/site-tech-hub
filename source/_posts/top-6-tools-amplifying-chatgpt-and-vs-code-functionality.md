@@ -1,7 +1,7 @@
 ---
 title: "Top 6 Tools: Amplifying ChatGPT and VS Code Functionality"
-date: 2024-09-20T18:19:21.526Z
-updated: 2024-09-22T16:29:37.255Z
+date: 2024-09-25T22:45:40.528Z
+updated: 2024-09-28T21:08:33.554Z
 tags:
   - chatgpt
   - open-ai
@@ -56,6 +56,13 @@ Close
 
  Given this precedent, works that aren't strictly made by a human are ineligible for copyright; unless the creator can sufficiently prove that they set up the situation in which the non-human entity created the piece.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## An Example of AI Copyright Rejection
 
  The US Copyright Office says that any work must be human-made to be copyrightable, which means you cannot copyright AI-generated work. This was proven in late 2022 when the comic book Zarya of the Dawn's copyright protection was revoked.
@@ -75,15 +82,22 @@ Close
  However, if the user simply uses AI as a tool—i.e., its output is used as a base for the final product—then the work could be considered for copyright. While this somewhat solves the issue of using AI tools to create art, it also opens another can of worms.
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Issues With AI-Generated Work
 
 ![A Recent Entrance to Paradise](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/a_recent_entrance_to_paradise.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Image Credit: Steven Thaler and the Creativity Machine AI/[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:A%5FRecent%5FEntrance%5Fto%5FParadise.jpg#:~:text=Licensing,in%20whom%20copyright%20is%20vested.)
 
@@ -100,10 +114,10 @@ Close
  Because AI is so powerful and is such a game-changing technology, AI will face many more issues in the immediate future.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Ethics of AI
@@ -125,5 +139,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-a-comprehensive-list-of-8-authentic-propagation-tools/"><u>[New] 2024 Approved A Comprehensive List of 8 Authentic Propagation Tools</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-masterclass-splitting-your-screen-for-maximum-impact-on-facebook-live/"><u>[New] Masterclass Splitting Your Screen for Maximum Impact on Facebook Live</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/fusion-of-reality-and-fantasy-through-ai-unveiling-the-concept-in-8-key-aspects/"><u>Fusion of Reality & Fantasy Through AI: Unveiling the Concept in 8 Key Aspects</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-infinix-hot-40i-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Infinix Hot 40i Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-calls-recorded-and-saved-iphone-24-sound-guide/"><u>In 2024, Calls Recorded & Saved IPhone '24 Sound Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-gopros-improved-action-session-series/"><u>In 2024, GoPro's Improved Action Session Series</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722176019025-no-emoji-tweets-linuss-disclosures-trojans-explained-and-chatgpt-faults-displayed/"><u>No Emoji Tweets, Linus's Disclosures, Trojans Explained, & ChatGPT Faults Displayed.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-and-easy-download-guide-for-sound-blaster-z-audio-driver-on-windows-10/"><u>Quick & Easy Download Guide for Sound Blaster Z Audio Driver on Windows 10</u></a></li>
+<li><a href="https://fox-that.techidaily.com/transform-your-iphones-browser-performance-top-4-tricks-for-a-swift-safari/"><u>Transform Your iPhone's Browser Performance: Top 4 Tricks for a Swift Safari</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transforming-the-future-of-websites-the-impact-of-ai-powered-search/"><u>Transforming the Future of Websites: The Impact of AI-Powered Search</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-the-key-factors-why-businesses-disallow-access-to-chatgpt/"><u>Understanding the Key Factors: Why Businesses Disallow Access to ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/universal-chatgpt-portal-how-to-use-it-from-everywhere/"><u>Universal ChatGPT Portal: How to Use It From Everywhere</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-8-methods-the-impact-of-intelligent-chatbot-tools-on-producing-digital-text/"><u>Unveiling 8 Methods: The Impact of Intelligent Chatbot Tools on Producing Digital Text</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-codegpt-the-future-of-automated-coding-can-it-truly-generate-software/"><u>Unveiling CodeGPT: The Future of Automated Coding - Can It Truly Generate Software?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-gap-between-nlp-and-ml/"><u>Unveiling the Gap Between NLP and ML</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-authenticity-over-automation-textual-ai-pitfalls/"><u>Why Authenticity Over Automation: Textual AI Pitfalls</u></a></li>
+<li><a href="https://win-news.techidaily.com/windows-11-upgrade-now-at-a-cost-the-final-word-from-microsoft-according-to-zdnet/"><u>Windows 11 Upgrade Now at a Cost – The Final Word From Microsoft, According to ZDNet</u></a></li>
+</ul></div>
 

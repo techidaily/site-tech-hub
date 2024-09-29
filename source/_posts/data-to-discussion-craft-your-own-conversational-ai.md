@@ -1,7 +1,7 @@
 ---
 title: "Data to Discussion: Craft Your Own Conversational AI"
-date: 2024-09-17T20:25:07.891Z
-updated: 2024-09-22T17:25:16.822Z
+date: 2024-09-22T00:32:11.010Z
+updated: 2024-09-28T18:41:36.896Z
 tags:
   - chatgpt
   - open-ai
@@ -42,6 +42,13 @@ Close
 
 **Download:** ChatGPT for[iOS](http://apps.apple.com/app/openai-chatgpt/id6448311069) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029654/https://play.google.com/store/apps/details?id=com.openai.chatgpt&hl=en&gl=US) (Free, subscription available)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Send ChatGPT Prompts With Your Voice
 
  Both iPhones and Android devices come with native dictation features. And that's what you'll use to take advantage of ChatGPT's Whisper integration on your phone.
@@ -55,9 +62,30 @@ Close
 
 ![ChatGPT's welcome page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4309.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![ChatGPT's mic and speaker on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4311.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![ChatGPT showing the text generated from the speech on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4313.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![The ChatGPT's prompt response generated from the speech on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4314.jpg)
 
@@ -82,12 +110,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-audiophiles-windows-companion-for-2024/"><u>[Updated] Audiophile’s Windows Companion for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-accelerating-your-tiktok-content-made-simple/"><u>[Updated] In 2024, Accelerating Your TikTok Content Made Simple</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-subscriber-supremacy-leading-youtube-figures/"><u>2024 Approved Subscriber Supremacy Leading YouTube Figures</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/are-these-8-chatgpt-ventures-real-cash-magnets-or-just-hype/"><u>Are These 8 ChatGPT Ventures Real Cash Magnets or Just Hype?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bard-vs-chatgpt-vs-offline-alpaca-the-ultimate-language-model-showdown/"><u>Bard Vs. ChatGPT Vs. Offline Alpaca: The Ultimate Language Model Showdown</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/battle-of-the-bots-evaluating-chatgpt-and-geminis-programming-skills/"><u>Battle of the Bots: Evaluating ChatGPT and Gemini's Programming Skills</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-and-content-creation-avoiding-4-major-blunders-for-successful-results/"><u>ChatGPT and Content Creation: Avoiding 4 Major Blunders for Successful Results</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-desktop-coming-soon-get-started-with-the-best-open-source-solutions-today/"><u>ChatGPT Desktop Coming Soon? Get Started with the Best Open Source Solutions Today!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-sign-up-intermission-explained-when-are-new-slots-expected-to-resume/"><u>ChatGPT Sign-Up Intermission Explained – When Are New Slots Expected to Resume?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/curated-collection-the-ultimate-picks-for-discovery-plus-viewers-in-july-2024/"><u>Curated Collection: The Ultimate Picks for Discovery Plus Viewers in July 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/debunking-gpt-as-a-malware-creation-tool/"><u>Debunking GPT as a Malware Creation Tool</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-nokia-g42-5g-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Nokia G42 5G Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/mastering-video-conferencing-a-complete-guide-to-zoom-on-android-for-2024/"><u>Mastering Video Conferencing A Complete Guide to Zoom on Android for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Motorola Edge 40? | Dr.fone</u></a></li>
+</ul></div>
 

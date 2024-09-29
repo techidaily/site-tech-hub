@@ -1,7 +1,7 @@
 ---
 title: "Critical Cautions: Limitations of Using ChatGPT for Personal Health Advice"
-date: 2024-09-16T21:52:31.275Z
-updated: 2024-09-22T17:25:13.689Z
+date: 2024-09-28T00:11:46.152Z
+updated: 2024-09-29T07:22:01.610Z
 tags:
   - chatgpt
   - open-ai
@@ -38,9 +38,23 @@ thumbnail: https://thmb.techidaily.com/f86055b0c210c48b3bc87c8b80af070af1138eb8b
 
  In a separate incident, the researchers prompted ChatGPT to generate malicious VBA code that could be implanted into a Microsoft Excel file that would infect your PC if opened; it successfully did. Plus, there are claims that ChatGPT can code malicious software capable of spying on your keyboard strokes.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Can ChatGPT Hack Your Bank Account?
 
 ![An illustration of a customer service chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customer-service.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Many data breaches start with[a successful phishing attack](http://www.makeuseof.com/what-is-phishing/) . Phishing attacks often involve a malicious actor sending a recipient an email that contains legitimate-looking documents or links, which, when clicked on, can install malware on their device. In this way, code from ChatGPT doesn't need to hack your bank account directly. Someone only needs to use ChatGPT to help them trick you into giving them access.
 
@@ -53,6 +67,13 @@ thumbnail: https://thmb.techidaily.com/f86055b0c210c48b3bc87c8b80af070af1138eb8b
  For phishing, it’s mostly about volume. ChatGPT can help boost phishing campaigns as it can quickly pump out huge amounts of natural-sounding texts that are tailored to specific audiences.
 
  Another kind of phishing attack involving the use of ChatGPT is where a hacker creates a fake account on a popular chat platform like Discord and pretends to be a customer representative. The fake customer rep then contacts customers who have posted concerns and offers help. If a user falls for the trap, the cybercriminal will redirect them to a bogus website that tricks them into sharing personal information, like their bank login details.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Protect Your PC and Bank Account in the AI-Era
 
@@ -75,18 +96,20 @@ thumbnail: https://thmb.techidaily.com/f86055b0c210c48b3bc87c8b80af070af1138eb8b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-voice-alteration-apps-magic-edition-amongst-the-best/"><u>[New] Voice Alteration Apps Magic Edition Amongst the Best</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-mastering-the-art-of-sniping-on-mac-with-these-tools-for-2024/"><u>[Updated] Mastering the Art of Sniping on Mac with These Tools for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-utilizing-in-device-recording-on-huawei-mate-series-phones-mate-10-mate-20-and-p-series-p20-p10-for-2024/"><u>[Updated] Utilizing In-Device Recording on Huawei Mate Series Phones (Mate 10, Mate 20) & P Series (P20, P10) for 2024</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/guide-facile-combien-diminuer-la-taille-de-vos-fichiers-video-pour-un-meilleur-affichage-sur-facebook/"><u>Guide Facile : Combien Diminuer La Taille De Vos Fichiers Vidéo Pour Un Meilleur Affichage Sur Facebook</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-realme-c51-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Realme C51? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-printer-connection-issues-epson-scanner-failure/"><u>Resolving Printer Connection Issues: Epson Scanner Failure</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-mystery-whos-on-the-other-side-of-your-screen-in-the-digital-realm-understanding-the-deceased-internet-hypothesis/"><u>Unveiling the Mystery: Who's on the Other Side of Your Screen in the Digital Realm – Understanding the Deceased Internet Hypothesis</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-2024-approved-what-is-an-ai-presentation-maker/"><u>Updated 2024 Approved What Is an AI Presentation Maker?</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-windows-movie-maker-tutorial-from-beginner-to-pro/"><u>Updated In 2024, Windows Movie Maker Tutorial From Beginner to Pro</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/voicing-ai-the-revolutionary-feature-of-chatgpt-by-openai-enhancing-user-commands-handling/"><u>Voicing AI: The Revolutionary Feature of ChatGPT by OpenAI Enhancing User Commands Handling</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-cant-i-register-for-a-new-chatgpt-account-now-exploring-shutdowns-and-comebacks/"><u>Why Can't I Register for a New ChatGPT Account Now? Exploring Shutdowns and Comebacks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/will-chatgpt-and-its-kin-phase-out-certain-jobs-find-out/"><u>Will ChatGPT and Its Kin Phase Out Certain Jobs? Find Out</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/will-chatgpt-disrupt-the-way-we-use-and-rely-on-conventional-search-engines/"><u>Will ChatGPT Disrupt the Way We Use and Rely on Conventional Search Engines?</u></a></li>
+</ul></div>
 

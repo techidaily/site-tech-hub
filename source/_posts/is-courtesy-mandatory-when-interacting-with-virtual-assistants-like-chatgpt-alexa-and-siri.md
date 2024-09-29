@@ -1,7 +1,7 @@
 ---
 title: Is Courtesy Mandatory When Interacting With Virtual Assistants Like ChatGPT, Alexa, and Siri?
-date: 2024-09-19T17:33:28.333Z
-updated: 2024-09-22T16:46:31.711Z
+date: 2024-09-27T03:26:25.929Z
+updated: 2024-09-28T23:29:19.994Z
 tags:
   - chatgpt
   - open-ai
@@ -38,9 +38,23 @@ thumbnail: https://thmb.techidaily.com/8eb0a52f331cadec1455be55279efe68c9588c114
 
  In a separate incident, the researchers prompted ChatGPT to generate malicious VBA code that could be implanted into a Microsoft Excel file that would infect your PC if opened; it successfully did. Plus, there are claims that ChatGPT can code malicious software capable of spying on your keyboard strokes.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Can ChatGPT Hack Your Bank Account?
 
 ![An illustration of a customer service chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customer-service.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Many data breaches start with[a successful phishing attack](http://www.makeuseof.com/what-is-phishing/) . Phishing attacks often involve a malicious actor sending a recipient an email that contains legitimate-looking documents or links, which, when clicked on, can install malware on their device. In this way, code from ChatGPT doesn't need to hack your bank account directly. Someone only needs to use ChatGPT to help them trick you into giving them access.
 
@@ -53,6 +67,13 @@ thumbnail: https://thmb.techidaily.com/8eb0a52f331cadec1455be55279efe68c9588c114
  For phishing, it’s mostly about volume. ChatGPT can help boost phishing campaigns as it can quickly pump out huge amounts of natural-sounding texts that are tailored to specific audiences.
 
  Another kind of phishing attack involving the use of ChatGPT is where a hacker creates a fake account on a popular chat platform like Discord and pretends to be a customer representative. The fake customer rep then contacts customers who have posted concerns and offers help. If a user falls for the trap, the cybercriminal will redirect them to a bogus website that tricks them into sharing personal information, like their bank login details.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Protect Your PC and Bank Account in the AI-Era
 
@@ -75,12 +96,20 @@ thumbnail: https://thmb.techidaily.com/8eb0a52f331cadec1455be55279efe68c9588c114
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-video-venture-validation-benchmarking-against-business-rivals/"><u>[New] 2024 Approved Video Venture Validation Benchmarking Against Business Rivals</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-flawless-visual-cuts-mastering-in-and-out-techniques-for-2024/"><u>[New] Flawless Visual Cuts Mastering 'In and Out' Techniques for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-essential-instagram-video-and-photo-downloads-guide/"><u>[Updated] Essential Instagram Video & Photo Downloads Guide</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-how-to-elevate-your-virtual-look-with-stunning-discord-photos/"><u>[Updated] How to Elevate Your Virtual Look with Stunning Discord Photos</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-select-your-perfect-outro-soundtrack-online-for-free/"><u>[Updated] Select Your Perfect Outro Soundtrack Online For Free</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beware-these-6-faux-chatgpt-plugins-that-might-waste-your-efforts/"><u>Beware These 6 Faux ChatGPT Plugins That Might Waste Your Efforts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/building-better-empathy-with-ai-the-role-of-chatgpt-in-emotional-development/"><u>Building Better Empathy with AI: The Role of ChatGPT in Emotional Development</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpts-culinary-classroom-for-healthy-eating/"><u>ChatGPT's Culinary Classroom for Healthy Eating</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/craft-compelling-fictional-personalities-using-top-chatgpt-prompts/"><u>Craft Compelling Fictional Personalities Using Top ChatGPT Prompts</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/enhancing-outreach-with-strategic-partner-selection-on-youtube-for-2024/"><u>Enhancing Outreach with Strategic Partner Selection on YouTube for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-3-ways-of-how-to-get-someones-apple-id-off-iphone-11-pro-max-without-password-by-drfone-ios/"><u>In 2024, 3 Ways of How to Get Someones Apple ID Off iPhone 11 Pro Max without Password</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On OnePlus Nord CE 3 5G? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-flawless-skin-in-fcpx-a-beginners-guide-to-plugin-free-retouching/"><u>Updated 2024 Approved Flawless Skin in FCPX A Beginners Guide to Plugin-Free Retouching</u></a></li>
+</ul></div>
 

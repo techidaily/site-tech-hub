@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Top 6 Ways MyAI by Snapchat Transcends Beyond Merely Being a Novelty
-date: 2024-09-15T19:32:10.444Z
-updated: 2024-09-22T18:29:01.453Z
+date: 2024-09-26T21:04:52.665Z
+updated: 2024-09-29T03:43:00.770Z
 tags:
   - chatgpt
   - open-ai
@@ -48,26 +48,40 @@ Unlike GPT-3, GPT-4 is both a language and a visual model.
 
 ![Image of Shield Representing Cybersecurity ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/behavior-based-safety-tips-featured-image.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  While GPT-4 is not perfect, the measures it adopts to ensure safer responses are a welcomed upgrade from that of the GPT-3.5 model. With GPT-3.5, OpenAI took a more moderation-based approach to safety. In other words, some of the safety measures were more of an afterthought. OpenAI monitored what users did and the questions they asked, identified flaws, and tried to fix them on the go.
 
  With GPT-4, most safety measures are already baked into the system at the model level. To understand the difference, it's like building a house with robust materials from the get-go versus using anything that goes and then trying to patch things as faults emerge. According to[OpenAI's GPT-4 technical report](https://cdn.openai.com/papers/gpt-4.pdf) \[PDF\], GPT-4 produces toxic responses only 0.73% of the time compared to GPT-3.5's 6.48% of toxic replies.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. GPT-4 vs. GPT-3.5: Factuality of Response
 
 ![An inscription of the word fact on four cubes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fact-6577794_1920.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  One of GPT-3.5's flaws is its tendency to produce nonsensical and untruthful information confidently. In AI lingo, this is called "AI hallucination" and can cause distrust of AI-generated information.
 
 ​​​​​​
 
  In GPT-4, hallucination is still a problem. However, according to the GPT-4 technical report, the new model is 19% to 29% less likely to hallucinate when compared to the GPT-3.5 model. But this isn't just about the technical report. Responses from the GPT-4 model on ChatGPT are noticeably more factual.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. GPT-4 vs. GPT-3.5: Context Window
 
@@ -82,10 +96,10 @@ Unlike GPT-3, GPT-4 is both a language and a visual model.
  Another issue is the limitation on the volume of text you can use in a prompt at once. Summarizing long text using GPT-3 typically means splitting the text into multiple chunks and summarizing them bit by bit. The improvement in context length in the GPT-4 model means you can paste entire PDFs at a go and get the model to summarize without splitting it into chunks.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## GPT-4: A Step Up from GPT-3.5
@@ -105,5 +119,26 @@ Unlike GPT-3, GPT-4 is both a language and a visual model.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-10-strategies-for-boosting-your-youtube-visibility-for-2024/"><u>[New] 10 Strategies for Boosting Your YouTube Visibility for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/arn-more-maximizing-income-through-youtube-mobile-advertising-for-2024/"><u>[New] Earn More Maximizing Income Through YouTube Mobile Advertising for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-audio-alchemy-made-accessible-discover-free-transformation-techniques-for-sound/"><u>[Updated] Audio Alchemy Made Accessible Discover Free Transformation Techniques for Sound</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-ultimate-guide-yi-hero-cam-and-its-dynamic-features/"><u>[Updated] In 2024, Ultimate Guide Yi Hero Cam & Its Dynamic Features</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/getting-starter-with-microsofts-chatgpt-on-your-windows-computer-a-detailed-guide/"><u>Getting Starter with Microsoft's ChatGPT on Your Windows Computer: A Detailed Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-does-bert-revolutionize-nlp-and-stand-out-against-the-gpt-framework/"><u>How Does BERT Revolutionize NLP and Stand Out Against the GPT Framework?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/identifying-fraudgpt-threats-protecting-yourself-in-the-age-of-deceptive-chatbots/"><u>Identifying FraudGPT Threats: Protecting Yourself in the Age of Deceptive Chatbots</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/in-depth-review-choosing-the-best-between-chatgpt-and-bing-chat-ai/"><u>In-Depth Review: Choosing the Best Between ChatGPT and Bing Chat AI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovative-techniques-to-construct-fictional-universes-with-chatgpt/"><u>Innovative Techniques to Construct Fictional Universes with ChatGPT</u></a></li>
+<li><a href="https://blog-min.techidaily.com/is-vlc-media-player-compatible-with-the-av1-format-and-can-it-successfully-stream-videos-in-this-codec/"><u>Is VLC Media Player Compatible with the AV1 Format & Can It Successfully Stream Videos in This Codec?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/laughter-in-code-portable-computing-past-secure-browsing-present/"><u>Laughter in Code: Portable Computing Past, Secure Browsing Present</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/letting-chatgpt-curate-your-tv-and-movie-selections-effortlessly/"><u>Letting ChatGPT Curate Your TV and Movie Selections Effortlessly</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/making-ai-history-with-gpt-4-the-ultimate-guide-for-broad-accessibility-and-deployment/"><u>Making AI History with GPT-4: The Ultimate Guide for Broad Accessibility and Deployment</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-interactive-storytelling-a-comprehensive-guide-to-creating-an-engaging-txt-rpg-with-chatgpt/"><u>Mastering Interactive Storytelling: A Comprehensive Guide to Creating an Engaging TXT RPG with ChatGPT</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mlb-the-show-21-server-troubles-no-more-enjoy-uninterrupted-gaming-after-latest-patch/"><u>MLB The Show 21 Server Troubles No More: Enjoy Uninterrupted Gaming After Latest Patch</u></a></li>
+<li><a href="https://techtrends.techidaily.com/order-matters-how-to-watch-the-entire-conjuring-universe-successfully/"><u>Order Matters: How to Watch the Entire 'Conjuring' Universe Successfully</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/thriving-in-the-youtube-landscape-with-data-driven-approach-for-2024/"><u>Thriving in the YouTube Landscape with Data-Driven Approach for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/wevideo-the-fast-and-easy-way-to-create-online-videos-for-2024/"><u>WeVideo The Fast and Easy Way to Create Online Videos for 2024</u></a></li>
+</ul></div>
 

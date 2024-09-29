@@ -1,7 +1,7 @@
 ---
 title: First Look at LangChain's Large Language Models
-date: 2024-09-20T16:28:27.308Z
-updated: 2024-09-22T18:01:54.270Z
+date: 2024-09-27T20:24:00.031Z
+updated: 2024-09-28T21:58:55.146Z
 tags:
   - chatgpt
   - open-ai
@@ -44,6 +44,13 @@ thumbnail: https://thmb.techidaily.com/4a802928534c1f510679f7db39aa8757031a3947f
 
  The chatbot is also built into the Edge browser, where you can access it via the homepage.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Skype Gets AI Features
 
  In addition to those apps, Microsoft has added AI-enhanced Bing support to Skype, the venerable voice and chat app. The idea here is not to get the AI to have conversations on your behalf, but to add similar search capabilities to group messages.
@@ -51,6 +58,13 @@ thumbnail: https://thmb.techidaily.com/4a802928534c1f510679f7db39aa8757031a3947f
 > "If your family is chatting about the next family reunion, you can simply ask Bing for suggestions on travel destinations, expected weather forecasts and interesting events around your time of travel, and everyone in the chat will get access to the results."
 
  To access this feature, you simply need to add Bing to your group chats as you would any other contact. It's available worldwide and can respond in over 100 languages.
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Use the New ChatGPT Bing Apps
 
@@ -63,10 +77,10 @@ thumbnail: https://thmb.techidaily.com/4a802928534c1f510679f7db39aa8757031a3947f
 **Download:** Skype for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2022079/https://play.google.com/store/apps/details?id=com.skype.raider) |[iOS](https://apps.apple.com/us/app/skype/id304878510) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Test Out AI Chat on Android and iPhone Today
@@ -90,5 +104,20 @@ thumbnail: https://thmb.techidaily.com/4a802928534c1f510679f7db39aa8757031a3947f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-revolutionary-videography-toolset-for-vimeo-users/"><u>[Updated] 2024 Approved Revolutionary Videography Toolset for Vimeo Users</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-unleash-your-vision-the-best-360-livestimation-devices/"><u>[Updated] 2024 Approved Unleash Your Vision The Best 360° Livestimation Devices</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-acoustic-amplification-of-social-media-content-on-facebook/"><u>[Updated] Acoustic Amplification of Social Media Content on Facebook</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-detailed-review-a-day-to-day-insight-into-gear-360/"><u>[Updated] In 2024, Detailed Review A Day-to-Day Insight Into Gear 360</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-tips-to-prevent-frame-skipping-in-obs-studio/"><u>[Updated] In 2024, Tips to Prevent Frame Skipping in OBS Studio</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/2023s-leading-under-desk-walking-machines-a-comprehensive-guide/"><u>2023'S Leading Under-Desk Walking Machines: A Comprehensive Guide</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-decoding-instagrams-legal-framework-for-musicians/"><u>2024 Approved Decoding Instagram's Legal Framework for Musicians</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/child-safe-usage-5-methods-to-securely-engage-with-chatgpt/"><u>Child-Safe Usage: 5 Methods to Securely Engage with ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/complete-deletion-of-chatgpt-profile-a-comprehensive-walkthrough/"><u>Complete Deletion of ChatGPT Profile: A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/crafting-compelling-content-while-relying-on-chatgpt/"><u>Crafting Compelling Content While Relying on ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/creating-nutritionally-sound-menus-with-chatgpt/"><u>Creating Nutritionally Sound Menus with ChatGPT</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-techniques-for-smooth-playback-and-no-frame-dropping-in-obs/"><u>In 2024, Techniques for Smooth Playback and No Frame Dropping in OBS</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/the-ultimate-guide-to-free-video-playback-vlc-or-mpc-for-2024/"><u>The Ultimate Guide to Free Video Playback VLC or MPC for 2024</u></a></li>
+</ul></div>
 
