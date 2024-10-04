@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Distinctions: GPT-4, GPT-4 Turbo, and GPT-"
-date: 2024-09-28T00:25:30.908Z
-updated: 2024-09-29T01:22:18.138Z
+date: 2024-09-27T23:25:19.449Z
+updated: 2024-10-04T04:55:37.529Z
 tags:
   - chatgpt
   - open-ai
@@ -35,10 +35,10 @@ thumbnail: https://thmb.techidaily.com/800871781dded7ace3211c5534653c24a5267e768
  For example, if you ask both models to complete a creative task like writing a poem using both English and French on each line of the poem,[ChatGPT powered by the latest GPT-4 model](https://www.makeuseof.com/how-to-use-gpt4/) will deliver better results. While GPT-4's response would use both languages on every line, GPT-3.5 would alternate between both languages instead, with each line using one language and the next using the other.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. GPT-4 vs. GPT-3.5: Image or Visual Inputs
@@ -55,27 +55,20 @@ Unlike GPT-3, GPT-4 is both a language and a visual model.
 
 ![Image of Shield Representing Cybersecurity ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/behavior-based-safety-tips-featured-image.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  While GPT-4 is not perfect, the measures it adopts to ensure safer responses are a welcomed upgrade from that of the GPT-3.5 model. With GPT-3.5, OpenAI took a more moderation-based approach to safety. In other words, some of the safety measures were more of an afterthought. OpenAI monitored what users did and the questions they asked, identified flaws, and tried to fix them on the go.
 
  With GPT-4, most safety measures are already baked into the system at the model level. To understand the difference, it's like building a house with robust materials from the get-go versus using anything that goes and then trying to patch things as faults emerge. According to[OpenAI's GPT-4 technical report](https://cdn.openai.com/papers/gpt-4.pdf) \[PDF\], GPT-4 produces toxic responses only 0.73% of the time compared to GPT-3.5's 6.48% of toxic replies.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. GPT-4 vs. GPT-3.5: Factuality of Response
 
 ![An inscription of the word fact on four cubes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fact-6577794_1920.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  One of GPT-3.5's flaws is its tendency to produce nonsensical and untruthful information confidently. In AI lingo, this is called "AI hallucination" and can cause distrust of AI-generated information.
 
@@ -88,10 +81,10 @@ Unlike GPT-3, GPT-4 is both a language and a visual model.
 ![A pair of programmers sitting in an office reviewing some code.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/two-programmers-reviewing-code-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  A less talked about difference between GPT-4 and GPT-3.5 is the context window and context size. A context window is how much data a model can retain in its "memory" during a chat session and for how long. GPT-4 has a significantly better context size and window than its predecessor model.
@@ -101,6 +94,19 @@ Unlike GPT-3, GPT-4 is both a language and a visual model.
  An issue with GPT-3.5 is the propensity of the model to go off-topic or fail to follow instructions as you progress during the course of a conversation. You could, for instance, tell the model to address you by your name, and it would do so for a while but then fail to follow the instructions along the way. Although this problem still exists with the GPT-4 model, it is less of an issue because of a better context window.
 
  Another issue is the limitation on the volume of text you can use in a prompt at once. Summarizing long text using GPT-3 typically means splitting the text into multiple chunks and summarizing them bit by bit. The improvement in context length in the GPT-4 model means you can paste entire PDFs at a go and get the model to summarize without splitting it into chunks.
+
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## GPT-4: A Step Up from GPT-3.5
 
@@ -121,20 +127,20 @@ Unlike GPT-3, GPT-4 is both a language and a visual model.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-creating-compelling-call-to-actions-utilizing-three-critical-copy-techniques-for-2024/"><u>[New] Creating Compelling Call-To-Actions Utilizing Three Critical Copy Techniques for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-how-to-give-a-makeover-to-existing-images-and-videos-with-ig-filters-for-2024/"><u>[New] How to Give a Makeover to Existing Images and Videos with IG Filters for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-supreme-select-iphone-customized-sound-crafting/"><u>[New] Supreme Select IPhone Customized Sound Crafting</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/best-free-and-premium-4k-video-editors-of-2022-ultimate-guide-for-mac-and-pc-users/"><u>Best Free and Premium 4K Video Editors of 2022 - Ultimate Guide for Mac & PC Users</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-xiaomi-redmi-note-12-5gwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Xiaomi Redmi Note 12 5Gwith/without a PC</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-can-filmora-create-an-audio-visualizer-project-for-a-song-all-steps-from-launching-the-app-to-editing-the-text-are-detailed-here-for-2024/"><u>How Can Filmora Create an Audio Visualizer Project for a Song? All Steps, From Launching the App to Editing the Text, Are Detailed Here for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-nokia-c210-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Nokia C210 Phone? | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-enhance-productivity-convert-verbal-input-to-written-text-in-word/"><u>In 2024, Enhance Productivity Convert Verbal Input to Written Text in Word</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/inside-the-speed-gap-investigating-the-reasons-behind-chatgpt-4s-slower-response-time-compared-to-35/"><u>Inside The Speed Gap: Investigating The Reasons Behind ChatGPT-4's Slower Response Time Compared to 3.5</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/italys-decisive-action-a-closer-look-at-the-immediate-ban-on-chatgpt/"><u>Italy's Decisive Action: A Closer Look at the Immediate Ban on ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/leveraging-chatgpts-expertise-for-advanced-techniques-in-3d-printing/"><u>Leveraging ChatGPT's Expertise for Advanced Techniques in 3D Printing</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/microsoft-acquires-blizzard-entertainment-insights-on-ai-generated-art-and-machine-translation-in-latest-podcast/"><u>Microsoft Acquires Blizzard Entertainment: Insights on AI-Generated Art & Machine Translation in Latest Podcast</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/myths-vs-machines-exposing-9-common-misconceptions-on-ai-bots/"><u>Myths Vs. Machines: Exposing 9 Common Misconceptions on AI Bots</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/nine-widely-held-false-beliefs-about-smart-conversational-agents-disproved/"><u>Nine Widely-Held False Beliefs About Smart Conversational Agents Disproved</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-watching-dragon-ball-z-chronologically-explained/"><u>Step by Step: Watching Dragon Ball Z Chronologically Explained</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-top-7-pro-dslrs-enhancing-live-stream-quality/"><u>[New] In 2024, Top 7 Pro-DSLRs Enhancing Live Stream Quality</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-efficient-digital-voice-alteration-for-vtubers/"><u>[Updated] 2024 Approved Efficient Digital Voice Alteration for VTubers</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-mastering-iphone-xs-identity-verification-face-id-repair/"><u>[Updated] Mastering iPhone X's Identity Verification Face ID Repair</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/cybercrime-evolution-with-ai-5-strategies-used-by-modern-thieves/"><u>Cybercrime Evolution with AI: 5 Strategies Used by Modern Thieves</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-7-playful-internet-games-designed-for-kids-enjoyment/"><u>Discover 7 Playful Internet Games Designed for Kids’ Enjoyment</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancing-scholarly-pursuits-4-ai-techniques-for-advanced-research/"><u>Enhancing Scholarly Pursuits: 4 AI Techniques for Advanced Research</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/explore-the-full-range-of-movavi-tools-the-definitive-business-solution/"><u>Explore the Full Range of Movavi Tools - The Definitive Business Solution</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-four-primary-techniques-of-ai-oversight-by-authorities/"><u>Exploring the Four Primary Techniques of AI Oversight by Authorities</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-windows-11s-enhanced-data-protection-strategy/"><u>Exploring Windows 11'S Enhanced Data Protection Strategy</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-zero-to-hero-in-presentation-creation-harnessing-the-magic-of-chatgpt/"><u>From Zero to Hero in Presentation Creation: Harnessing the Magic of ChatGPT</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-realme-c53-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Realme C53 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/project-perfection-with-ai-the-role-of-chatgpt-in-innovation/"><u>Project Perfection with AI: The Role of ChatGPT in Innovation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-finest-ai-app-selection-for-android-and-iphone-users/"><u>The Finest AI App Selection for Android & iPhone Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-checklist-apple-chatgpt-verification/"><u>The Ultimate Checklist: Apple ChatGPT Verification</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/transform-your-media-quickly-macs-simple-guide-to-resized-insta-content-for-2024/"><u>Transform Your Media Quickly Mac's Simple Guide to Resized Insta Content for 2024</u></a></li>
 </ul></div>
 

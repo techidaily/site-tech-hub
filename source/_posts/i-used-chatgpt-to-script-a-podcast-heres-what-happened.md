@@ -1,7 +1,7 @@
 ---
 title: "I Used ChatGPT to Script a Podcast: Here's What Happened"
-date: 2024-09-23T00:45:14.129Z
-updated: 2024-09-28T19:17:20.110Z
+date: 2024-10-02T18:21:59.388Z
+updated: 2024-10-04T10:34:25.839Z
 tags:
   - chatgpt
   - open-ai
@@ -59,29 +59,26 @@ We finish the show with the following recommendations:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-saving-tweets-with-smiles-gif-master-2024-edition/"><u>[New] Saving Tweets with Smiles GIF Master 2024 Edition</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-top-6-unique-sources-for-premium-youtube-imagery/"><u>[Updated] Top 6 Unique Sources for Premium YouTube Imagery</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/5-ways-to-control-chatgpt-with-your-voice/"><u>5 Ways to Control ChatGPT With Your Voice</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/6-reasons-why-job-seekers-and-workers-should-learn-to-use-chatgpt/"><u>6 Reasons Why Job Seekers and Workers Should Learn to Use ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-humor-showdown-how-effective-are-chatgpts-jokes-compared-to-other-intelligent-systems/"><u>AI Humor Showdown: How Effective Are ChatGPT's Jokes Compared to Other Intelligent Systems?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-verification-solutions-best-chatgpt-scanners-for-academia-professionals/"><u>AI Verification Solutions: Best ChatGPT Scanners for Academia Professionals</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-visionaries-speak-out-top-10-global-technologists-share-their-thoughts/"><u>AI Visionaries Speak Out: Top 10 Global Technologists Share Their Thoughts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ais-role-in-advancing-cybercrime-5-key-methods/"><u>AI's Role in Advancing Cybercrime: 5 Key Methods</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1722056614329-best-artificnial-intelligence-assistants-deciding-between-microsofts-bing-chat-or-googles-chatgpt/"><u>Best Artificnial Intelligence Assistants? Deciding Between Microsoft's Bing Chat or Google's ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1721908914198-deciding-on-your-preferred-llm-a-comparison-of-googles-bard-microsofts-chatgpt-and-offline-alpaca/"><u>Deciding on Your Preferred LLM: A Comparison of Google's Bard, Microsoft's ChatGPT and Offline Alpaca</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On OnePlus Nord N30 SE | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-a-comprehensive-look-at-ffpm-your-pip-guide/"><u>In 2024, A Comprehensive Look at FFPM Your PIP Guide</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-vivo-y100t-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Vivo Y100t</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-is-magic-call-voice-changer-app-working-get-alternatives-here/"><u>In 2024, Is Magic Call – Voice Changer App Working? Get Alternatives Here</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-toon-up-your-photos-top-mobile-apps-for-cartoon-style-editing/"><u>New 2024 Approved Toon Up Your Photos Top Mobile Apps for Cartoon-Style Editing</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-fixes-for-unsuccessful-windows-resource-protection-actions/"><u>Step-by-Step Fixes for Unsuccessful Windows Resource Protection Actions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-7-innovative-chrome-extensions-enhancing-ai-interaction-with-chatgpt/"><u>Top 7 Innovative Chrome Extensions Enhancing AI Interaction with ChatGPT</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-stylish-shots-top-trending-instagram-filters/"><u>[New] 2024 Approved Stylish Shots Top Trending Instagram Filters</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-transform-photo-editing-with-top-lunapic-hacks/"><u>[New] Transform Photo Editing with Top LunaPic Hacks</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-twitch-and-prime-whos-watching-the-show-2023-edition/"><u>[Updated] 2024 Approved Twitch and Prime Who’s Watching the Show? 2023 Edition</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-xiaomi-redmi-note-12r-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/audio-clarity-commandments-choosing-from-the-best-6-livestreaming-mics-for-2024/"><u>Audio Clarity Commandments Choosing From the Best 6 Livestreaming Mics for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpts-secret-tools-5-features-that-will-skyrocket-your-productivity/"><u>ChatGPT's Secret Tools: 5 Features That Will Skyrocket Your Productivity</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discovering-openais-bug-bounty-initiative-a-comprehensive-guide-to-joining/"><u>Discovering OpenAI's Bug Bounty Initiative: A Comprehensive Guide to Joining</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-vivo-s18e-screen-sharing-drfone-by-drfone-android/"><u>How To Do Vivo S18e Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-erase-apple-iphone-14-pro-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Erase Apple iPhone 14 Pro When Its Locked Within Seconds | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/masterclass-on-motherboards-dissecting-the-asus-rog-maximus-z790-with-hybrid-cooling-innovations-and-high-performance-components/"><u>Masterclass on Motherboards: Dissecting the Asus ROG Maximus Z790 with Hybrid Cooling Innovations & High Performance Components</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-razer-synapse-start-up-errors-easily/"><u>Overcoming Razer Synapse Start-Up Errors Easily!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionize-content-workflows-with-8-cutting-edge-ai-tools/"><u>Revolutionize Content Workflows with 8 Cutting-Edge AI Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-chat-comparison-coin-how-gpt-stacks-up-against-bingbot/"><u>The Chat Comparison Coin: How GPT Stacks Up Against BingBot</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-copilot-vs-copilot-pro-key-features-and-benefits-of-upgrading/"><u>Understanding Copilot Vs. Copilot Pro: Key Features & Benefits of Upgrading</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

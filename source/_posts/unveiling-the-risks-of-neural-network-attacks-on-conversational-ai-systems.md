@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Risks of Neural Network Attacks on Conversational AI Systems
-date: 2024-09-27T04:47:04.071Z
-updated: 2024-09-29T04:55:17.863Z
+date: 2024-10-02T19:00:32.111Z
+updated: 2024-10-04T00:03:53.942Z
 tags:
   - chatgpt
   - open-ai
@@ -41,10 +41,10 @@ thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd
 ![Screenshot of ChatGPT home screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-home-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Comparing the Language Models of Bing Chat and ChatGPT
@@ -61,26 +61,27 @@ For example, below is Bing Chat's effort at a simple limerick.
 
 ![Screenshot of Bing Limerick-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-bing-limerick-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  As you see from the ChatGPT effort below, both models can construct creative prose remarkably well.
 
 ![Screenshot of ChatGPT Limerick-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-limerick-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Safety
 
  Moderating responses that were factually incorrect or otherwise unsuitable was performed "on the fly" with GPT-3.5\. In other words, it was a reactive strategy that acted after the horse had bolted. GPT-4 has safety measures designed into the model, meaning safety is more proactive. Where safety is a concern, Bing Chat technically has the upper hand.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Image Processing and Accuracy
 
@@ -91,6 +92,13 @@ For example, below is Bing Chat's effort at a simple limerick.
  Both platforms go to pains to make users aware that the models may generate responses that contain incorrect information. This is clearly displayed on both interfaces.
 
 ![Screenshot of GPT limitations for bin and chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-gpt-limitations-for-bin-and-chatgpt.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Bing Chat has a distinct advantage here. The GPT-4 model has the twin advantages of access to more recent data and multiple sources of information. By contrast, the GPT-3.5/GPT-4 dataset was cut off at the end of 2021, and though it has received some topical updates, it is limited.
 
@@ -105,10 +113,10 @@ By contrast, the ChatGPT response was to admit its limitations.
 ![Screenshot of ChatGPT response to recycling question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-response-to-recycling-question.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The answer tries to provide estimates and other sources that could be referenced, but there are no hard and fast facts.
@@ -129,13 +137,6 @@ By contrast, the ChatGPT response was to admit its limitations.
 
 ![Screenshot of ChatGPT list of educational websites](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-list-of-educational-websites.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Which Is Best: Bing Chat or Chat GPT?
 
  There is no straightforward answer, as both tools are incredibly impressive.
@@ -153,13 +154,6 @@ By contrast, the ChatGPT response was to admit its limitations.
  Additionally, the ability to run on browsers other than Edge may make it more appealing to some.
 
  Ultimately, this is a case of choosing the right tool for the job. The beauty of this is that both platforms are free, so trying them both is quick and easy.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Chatbots Are Here to Stay
 
@@ -180,15 +174,24 @@ By contrast, the ChatGPT response was to admit its limitations.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/enhance-visual-impact-with-photoshops-dynamic-motion-blur-methodology/"><u>Enhance Visual Impact with Photoshop's Dynamic Motion Blur Methodology</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/from-swipes-to-conversations-gpt-in-love-seeking/"><u>From Swipes to Conversations: GPT in Love Seeking</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/guide-leveraging-chatgpts-recommendations-for-your-next-movie-or-show/"><u>Guide: Leveraging ChatGPT's Recommendations for Your Next Movie or Show</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/harnessing-vocal-power-top-strategies-to-manage-chatgpt-by-speaking/"><u>Harnessing Vocal Power: Top Strategies to Manage ChatGPT by Speaking</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-does-ai-driven-chatbot-screening-influence-user-experience/"><u>How Does AI-Driven Chatbot Screening Influence User Experience?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/prime-top-10-drones-filmmakings-visual-frontiers-for-2024/"><u>Prime Top 10 Drones Filmmaking's Visual Frontiers for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamline-network-setup-driver-for-tp-link-adapter-on-os-xwindows/"><u>Streamline Network Setup: Driver for TP Link Adapter on OS X/Windows</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-what-to-do-when-xinput13dll-is-unavailable/"><u>Troubleshooting: What To Do When 'xinput1_3.dll' Is Unavailable?</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-guide-retrieving-your-erased-safari-bookmarks-and-history-from-ios-devices/"><u>Ultimate Guide: Retrieving Your Erased Safari Bookmarks & History From iOS Devices</u></a></li>
-<li><a href="https://facebook.techidaily.com/web-wanderers-guide-tracking-pages-profiles-in-fb/"><u>Web Wanderer's Guide: Tracking Pages, Profiles in FB</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-navigating-virtual-realms-iphone-vr-video-playback/"><u>[New] In 2024, Navigating Virtual Realms IPhone VR Video Playback</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-reinstate-fb-watch-video-tile/"><u>[New] In 2024, Reinstate FB Watch Video Tile</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-capture-and-share-saving-your-ppt-sessions/"><u>[Updated] In 2024, Capture and Share Saving Your PPT Sessions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transforming-drones-into-cinematic-experiences-with-editing/"><u>2024 Approved Transforming Drones Into Cinematic Experiences with Editing</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/dive-into-a-stream-of-9-full-length-festive-flicks-no-charge/"><u>Dive Into a Stream of 9 Full-Length Festive Flicks - No Charge</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/fitness-pros-secret-to-more-accurate-chatgpt-prompt-responses/"><u>Fitness Pros' Secret to More Accurate ChatGPT Prompt Responses</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-crafting-compelling-narratives-with-b-cut-footage/"><u>In 2024, Crafting Compelling Narratives with B-Cut Footage</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-vivo-y100-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Vivo Y100 Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/keep-content-safe-stop-bot-harvesters/"><u>Keep Content Safe: Stop Bot Harvesters</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leveraging-chatgpt-for-persuasive-business-proposals/"><u>Leveraging ChatGPT for Persuasive Business Proposals</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/openais-innovative-leap-navigating-and-harnessing-the-power-of-the-new-gpt-store/"><u>OpenAI's Innovative Leap - Navigating & Harnessing the Power of the New GPT Store</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/quick-and-easy-your-guide-to-agentdeployment-on-agentgpt/"><u>Quick and Easy: Your Guide to AgentDeployment on AgentGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/shielding-yourself-from-bogus-chatgpt-clones-lurking-in-the-ios-ecosystem/"><u>Shielding Yourself From Bogus ChatGPT Clones Lurking in the iOS Ecosystem</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-future-of-ai-will-the-turing-test-ever-be-overcome-by-machines/"><u>The Future of AI: Will the Turing Test Ever Be Overcome by Machines?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-illustrator-way-how-to-create-stunning-motion-effects/"><u>The Illustrator Way How to Create Stunning Motion Effects</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-intersection-of-truth-and-tale-in-ai/"><u>The Intersection of Truth & Tale in AI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-next-generation-of-ai-seven-key-upgrades-in-googles-bard-with-palm-2-integration/"><u>The Next Generation of AI: Seven Key Upgrades in Google's Bard with PaLM 2 Integration</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/winxvideo-aimp3/"><u>WinXvideo AIを活用したMP3変換：ステップバイステップの方法説明</u></a></li>
 </ul></div>
 

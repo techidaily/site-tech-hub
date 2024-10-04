@@ -1,7 +1,7 @@
 ---
 title: "Fighting Off-the-Record: Artists' Lawsuits on OpenAI & Meta"
-date: 2024-09-23T04:47:39.266Z
-updated: 2024-09-28T19:34:57.734Z
+date: 2024-09-26T16:41:04.872Z
+updated: 2024-10-04T03:12:09.652Z
 tags:
   - chatgpt
   - open-ai
@@ -45,10 +45,16 @@ thumbnail: https://thmb.techidaily.com/e7b26cce85084898820694a03b988f46853880c83
  The chatbot is also built into the Edge browser, where you can access it via the homepage.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Skype Gets AI Features
@@ -60,10 +66,10 @@ thumbnail: https://thmb.techidaily.com/e7b26cce85084898820694a03b988f46853880c83
  To access this feature, you simply need to add Bing to your group chats as you would any other contact. It's available worldwide and can respond in over 100 languages.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Use the New ChatGPT Bing Apps
@@ -77,10 +83,10 @@ thumbnail: https://thmb.techidaily.com/e7b26cce85084898820694a03b988f46853880c83
 **Download:** Skype for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2022079/https://play.google.com/store/apps/details?id=com.skype.raider) |[iOS](https://apps.apple.com/us/app/skype/id304878510) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Test Out AI Chat on Android and iPhone Today
@@ -106,22 +112,21 @@ thumbnail: https://thmb.techidaily.com/e7b26cce85084898820694a03b988f46853880c83
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-speeding-up-vimeo-streams-efficiently/"><u>[Updated] Speeding Up Vimeo Streams Efficiently</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-toggle-picture-in-picture-feature-for-youtube-app/"><u>[Updated] Toggle Picture-in-Picture Feature for Youtube App</u></a></li>
-<li><a href="https://article-helps.techidaily.com/capturing-moments-in-motion-a-review-on-panasonic-hx-a1-actioncam/"><u>Capturing Moments in Motion - A Review on Panasonic HX-A1 ActionCam</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhance-your-channels-appeal-crafting-captivating-youtube-scripts-with-chatgpt/"><u>Enhance Your Channel's Appeal: Crafting Captivating YouTube Scripts with ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/essential-knowledge-on-openais-ethos/"><u>Essential Knowledge on OpenAI's Ethos</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/examining-the-phenomenon-of-ai-hallucinations-techniques-to-discern-and-detect-faulty-output/"><u>Examining the Phenomenon of AI Hallucinations: Techniques to Discern and Detect Faulty Output</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-capabilities-of-chatgpt-enterprise-offers-distinctions-and-value-added/"><u>Exploring the Capabilities of ChatGPT Enterprise - Offers, Distinctions, and Value Added</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/expose-hidden-dangers-navigating-through-key-chatbot-security-and-privacy-issues/"><u>Expose Hidden Dangers: Navigating Through Key Chatbot Security & Privacy Issues</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/freeing-gpt-use-without-openai-accounts/"><u>Freeing GPT Use without OpenAI Accounts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/guide-how-to-erase-your-presence-from-chatgpt/"><u>Guide: How to Erase Your Presence From ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-chatgpt-can-support-cognitive-behavioral-therapy-sessions/"><u>How ChatGPT Can Support Cognitive-Behavioral Therapy Sessions</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-oppo-a59-5g-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Oppo A59 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-perfect-video-gear-starting-with-beginner-cameras/"><u>In 2024, Perfect Video Gear Starting with Beginner Cameras</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/persistent-unmanaged-descent-of-spacecraft-continues-despite-advancements/"><u>Persistent Unmanaged Descent of Spacecraft Continues Despite Advancements</u></a></li>
-<li><a href="https://howto.techidaily.com/play-store-not-working-on-xiaomi-redmi-note-12-pro-5g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Xiaomi Redmi Note 12 Pro 5G? 8 Solutions Inside | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/solving-the-problem-unsuccessful-booting-in-windows-systems/"><u>Solving the Problem: Unsuccessful Booting in Windows Systems</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-the-ultimate-list-top-websites-for-downloading-pc-games/"><u>Updated In 2024, The Ultimate List Top Websites for Downloading PC Games</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-designing-distinctive-denouements/"><u>[New] 2024 Approved Designing Distinctive Denouements</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-growth-galore-strategies-for-surpassing-yield-with-youtube-mobile-audiences/"><u>[New] Growth Galore Strategies for Surpassing Yield with YouTube Mobile Audiences</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-igtv-to-facebook-distribution-masterclass-approach/"><u>[New] In 2024, IGTV to Facebook Distribution Masterclass Approach</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-be-a-reddit-pro-the-13-best-ways-to-make-cash-fast-and-easy/"><u>2024 Approved Be a Reddit Pro The 13 Best Ways to Make Cash Fast & Easy</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-ishowu-audio-capture-download-and-review/"><u>2024 Approved IShowU Audio Capture Download and Review</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-expensive-advanced-ai-cue-sheets-justify-their-cost-through-performance/"><u>Can Expensive Advanced AI Cue Sheets Justify Their Cost Through Performance?</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-infinix-hot-30i-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Infinix Hot 30i Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-llama-2-comprehensive-guide-for-effective-utilization/"><u>Exploring Llama 2: Comprehensive Guide for Effective Utilization</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-superior-replacements-a-guide-beyond-chatgpt-on-your-phone/"><u>Exploring Superior Replacements: A Guide Beyond ChatGPT on Your Phone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/exploring-the-field-gear-vs-lgcam-comparison/"><u>Exploring the Field Gear vs LGCam Comparison</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-nvidia-ai-foundation-flexible-gan-powered-creation-tools/"><u>Exploring the NVIDIA AI Foundation: Flexible GAN-Powered Creation Tools</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Huawei Nova Y71? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/language-powerhouses-contrasted-google-palm-2-and-gpt-4/"><u>Language Powerhouses Contrasted: Google PaLM 2 & GPT-4</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastery-in-erasing-chatgpt-logs/"><u>Mastery in Erasing ChatGPT Logs</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-omegle-explored-understanding-the-platform-its-community-dynamics-and-safety-protocols/"><u>New In 2024, Omegle Explored Understanding the Platform, Its Community Dynamics & Safety Protocols</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/subscribersilence-eager-for-gpt-access-restoration/"><u>SubscriberSilence: Eager for GPT Access Restoration</u></a></li>
 </ul></div>
 

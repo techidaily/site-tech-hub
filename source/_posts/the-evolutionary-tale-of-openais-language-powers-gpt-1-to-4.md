@@ -1,7 +1,7 @@
 ---
 title: The Evolutionary Tale of OpenAI's Language Powers (GPT-1 to 4)
-date: 2024-09-23T23:06:42.871Z
-updated: 2024-09-28T16:43:11.232Z
+date: 2024-09-28T18:12:27.511Z
+updated: 2024-10-03T21:56:27.102Z
 tags:
   - chatgpt
   - open-ai
@@ -41,10 +41,10 @@ thumbnail: https://thmb.techidaily.com/ab0e7af2ea47dc9a130667c482825dec2796c60b3
  The chatbot is also built into the Edge browser, where you can access it via the homepage.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Skype Gets AI Features
@@ -56,10 +56,10 @@ thumbnail: https://thmb.techidaily.com/ab0e7af2ea47dc9a130667c482825dec2796c60b3
  To access this feature, you simply need to add Bing to your group chats as you would any other contact. It's available worldwide and can respond in over 100 languages.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Use the New ChatGPT Bing Apps
@@ -73,10 +73,16 @@ thumbnail: https://thmb.techidaily.com/ab0e7af2ea47dc9a130667c482825dec2796c60b3
 **Download:** Skype for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2022079/https://play.google.com/store/apps/details?id=com.skype.raider) |[iOS](https://apps.apple.com/us/app/skype/id304878510) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Test Out AI Chat on Android and iPhone Today
@@ -102,18 +108,22 @@ thumbnail: https://thmb.techidaily.com/ab0e7af2ea47dc9a130667c482825dec2796c60b3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-keeping-the-memories-efficiently-taking-screenshots-on-xbox-one/"><u>[New] 2024 Approved Keeping the Memories Efficiently Taking Screenshots on Xbox One</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-videos-to-vault-ajays-revenue-journey-on-youtube/"><u>[Updated] 2024 Approved From Videos to Vault AJay’s Revenue Journey on YouTube</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovating-image-presentations-how-to-add-text-and-captions-to-videos-within-windows-10-photos/"><u>2024 Approved Innovating Image Presentations How to Add Text and Captions to Videos Within Windows 10 Photos</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/apply-spiral-depth-enhancement-to-images-psx/"><u>Apply Spiral Depth Enhancement to Images PSX</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/best-mac-video-trims-top-6-picks-post-snow-leopard/"><u>Best Mac Video Trims Top 6 Picks Post-Snow Leopard</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1722120536866-can-ai-be-a-friend-or-foe-to-psychological-care-exploring-the-effects-on-treatment-and-support-services/"><u>Can AI Be a Friend or Foe to Psychological Care? Exploring the Effects on Treatment and Support Services.</u></a></li>
-<li><a href="https://extra-information.techidaily.com/discovering-yis-high-res-filming-experience/"><u>Discovering Yi's High-Res Filming Experience</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/expert-insights-optimized-video-downloading-software-for-2024/"><u>Expert Insights Optimized Video Downloading Software for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1722161293595-how-chatgpt-streamlines-your-site-creation-process-discover-the-four-key-advantages/"><u>How ChatGPT Streamlines Your Site Creation Process – Discover the Four Key Advantages!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-fixes-for-common-problems-with-utorrent-peer-connections-and-downloads/"><u>Quick Fixes for Common Problems with uTorrent Peer Connections & Downloads</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/what-drives-openai-ceo-to-advocate-greater-control-over-ai-development/"><u>What Drives OpenAI CEO to Advocate Greater Control Over AI Development?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/whynosubscriptions-awaiting-gpts-return/"><u>WhyNoSubscriptions: Awaiting GPT's Return</u></a></li>
-<li><a href="https://discover-community.techidaily.com/1726225409339-raw/"><u>모달아바이의 위탤로 공개 가용성 내 RAW 스케일링 도구 목록</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-from-unverified-to-verified-amplifying-your-instagram-profile-with-proven-strategies-for-2024/"><u>[New] From Unverified to Verified Amplifying Your Instagram Profile with Proven Strategies for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-newcomers-elite-entryway-list-for-zooids/"><u>[New] In 2024, Newcomers’ Elite Entryway List for Zooids</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-list-for-sound-alteration-applications-in-vtubing/"><u>[New] The Ultimate List for Sound Alteration Applications in VTubing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/4-ways-government-may-regulate-ai-tools/"><u>4 Ways Government May Regulate AI Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-creative-leap-with-chatgpt-for-podcasts-insights-from-an-unconventional-approach/"><u>A Creative Leap with ChatGPT for Podcasts - Insights From an Unconventional Approach</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-game-plan-with-my-bots-strategy-for-board-games-and-creative-visuals/"><u>A Game Plan with My Bots: Strategy for Board Games & Creative Visuals</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-advancements-predicting-job-replacements/"><u>AI Advancements: Predicting Job Replacements?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-dialogues-battlefront-choosing-between-gpt-and-bing/"><u>AI Dialogues Battlefront: Choosing Between GPT & Bing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1721994307953-discover-the-wonders-of-gpt-4-universal-access-unveiled/"><u>Discover the Wonders of GPT-4: Universal Access Unveiled!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1721773651402-enhance-your-private-talks-using-duckduckgos-intelligent-chat-features-and-more/"><u>Enhance Your Private Talks Using DuckDuckGo's Intelligent Chat Features and More</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-a-broken-airplay-link-between-apple-devices-quick-guide/"><u>Fixing a Broken AirPlay Link Between Apple Devices Quick Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-beginning-a-blogging-journey-profit-from-your-passion/"><u>In 2024, Beginning a Blogging Journey Profit From Your Passion</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-how-to-go-live-on-instagram/"><u>In 2024, How to Go Live on Instagram</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ify-your-internet-experience-step-by-step-guide-to-disabling-youtube-on-devices/"><u>Simplify Your Internet Experience Step-by-Step Guide to Disabling Youtube on Devices</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722169062478-step-by-step-guide-to-utilizing-openais-cutting-edge-custom-gpt-shop-access-today/"><u>Step-by-Step Guide to Utilizing OpenAI's Cutting-Edge Custom GPT Shop – Access Today!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-nokia-105-classic-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Nokia 105 Classic Android SIM Unlock APK</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/witty-wordsmiths-war-chatgpt-vs-the-wise-bard/"><u>Witty Wordsmiths' War: ChatGPT Vs. The Wise Bard</u></a></li>
 </ul></div>
 

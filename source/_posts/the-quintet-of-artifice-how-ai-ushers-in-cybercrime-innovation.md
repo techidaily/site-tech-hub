@@ -1,7 +1,7 @@
 ---
 title: "The Quintet of Artifice: How AI Ushers in Cybercrime Innovation"
-date: 2024-09-19T02:24:24.333Z
-updated: 2024-09-22T22:30:24.901Z
+date: 2024-09-30T01:10:47.185Z
+updated: 2024-10-04T09:26:28.648Z
 tags:
   - chatgpt
   - open-ai
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/9b1d54d7ae73d83b91bdfdadbf959717f77a8b021
 
 ![A Screenshot of the SlidesAI io Google Slides Add-on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/slides-ai-presentation-generator-screenshot.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you’re looking for an AI presentation generator that works directly within Google Slides, then you can’t go wrong with SlidesAI.io. That's because SlidesAI.io is a Google Workspace add-on.
 
  There are already Workspace add-ons that let you[use ChatGPT on Google Sheets and Google Docs](https://www.makeuseof.com/how-use-chatgpt-google-sheets/) , and SlidesAI.io aims to do the same by letting you use AI to generate entire presentations in Google Slides.
@@ -49,6 +56,13 @@ thumbnail: https://thmb.techidaily.com/9b1d54d7ae73d83b91bdfdadbf959717f77a8b021
  With SlidesAI.io, all you have to do is enter some text for the add-on to work with. There's a character limit here for free users, though you can upgrade for a higher limit. The more words you use, the more consistent the results will be.
 
  Alternatively, you can ask SlidesAI.io to create a presentation using just a simple title. The process here is much the same. There are also options to customize the look of SlidesAI.io within the add-on, though you can always adjust the look using Google Slides' in-built tools as well if you so wish.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3.[Tome](https://tome.app/)
 
@@ -60,31 +74,37 @@ thumbnail: https://thmb.techidaily.com/9b1d54d7ae73d83b91bdfdadbf959717f77a8b021
 
  This includes creating AI images to match your content, creating a new slide with your content, converting a document into a presentation, or simply making one from scratch. Tome works quickly and efficiently with these AI tools, and you can easily make impressive presentations in mere moments.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4.[GPT_PPT](https://gpt-ppt.neftup.app/)
 
 ![A Screenshot of GPT PPT s Generative Presentation Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/gpt_ppt-presentation-generator-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you’re looking for something that can quickly generate a functioning presentation or slide show, then GPT\_PPT is a great little tool for doing just that. To use GPT\_PPT, all you have to do is sign up and type out what you want your presentation to be. From there, GPT\_PPT will automatically create a brief PowerPoint covering the points that you laid out.
 
  As you might imagine, GPT\_PPT generates PowerPoint files. The results aren’t always the cleanest, and there’s no way to edit them from within the web page. Fortunately, you can always open them in PowerPoint to edit them yourself and tidy them up. If you already know some of[these advanced Microsoft PowerPoint features that everyone must know](https://www.makeuseof.com/advanced-microsoft-powerpoint-features/) , then making a stunning presentation out of them shouldn’t be hard.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5.[Presentations.AI](https://www.presentations.ai/)
 
 ![A Screenshot of Presentations AI s Generative Presentation Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/presentations-ai-presentation-generator-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Presentations.AI is an online presentation generation service that uses AI to create presentations for business. To get started, all you have to do is select an AI template, and Presentations.AI will handle the rest.
 
@@ -97,10 +117,10 @@ thumbnail: https://thmb.techidaily.com/9b1d54d7ae73d83b91bdfdadbf959717f77a8b021
 ![A Screenshot of ChatBA s AI Presentation Generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatba-ai-presentation-generator-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  ChatBA is an online AI presentation generation tool that allows you to quickly and easily create a complete presentation on just about any topic. With ChatBA, all you have to do is input the topic that you want a presentation on and leave the rest to the AI.
@@ -136,5 +156,24 @@ thumbnail: https://thmb.techidaily.com/9b1d54d7ae73d83b91bdfdadbf959717f77a8b021
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-best-10-gratuitous-online-transformers-for-srt-files/"><u>[New] Best 10 Gratuitous Online Transformers for Srt Files</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-harnessing-the-full-potential-of-video-enhancer-22-for-your-work-for-2024/"><u>[New] Harnessing the Full Potential of Video Enhancer 2.2 for Your Work for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-horizon-hopping-reviewing-the-gopro-karma-drone-for-2024/"><u>[New] Horizon Hopping Reviewing the GoPro Karma Drone for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-best-5-web-video-recorders/"><u>[New] In 2024, Best 5 Web Video Recorders</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-pinnacle-zooctorial-template-repositories/"><u>[New] Pinnacle Zooctorial Template Repositories</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-breaking-the-mold-unique-post-vidcon-events/"><u>[Updated] 2024 Approved Breaking the Mold Unique Post-VidCon Events</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-advanced-computers-at-your-fingertips/"><u>[Updated] Advanced Computers at Your Fingertips</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-beginning-a-blogging-journey-profit-from-your-passion/"><u>2024 Approved Beginning a Blogging Journey Profit From Your Passion</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-look-into-dall-e-3s-integrated-editing-tools-and-areas-needing-enhancement/"><u>A Look Into DALL-E 3'S Integrated Editing Tools & Areas Needing Enhancement</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-through-gpt-3s-custom-instruction-mechanism/"><u>Navigating Through GPT-3’s Custom Instruction Mechanism</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/paving-the-path-for-auto-gpt-installation/"><u>Paving the Path for Auto-GPT Installation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/peak-performance-structuring-effective-ai-dialogue/"><u>Peak Performance: Structuring Effective AI Dialogue</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/recognizing-the-phenomenon-of-ai-dreaming-a-guide-to-detecting-ai-hallucinations/"><u>Recognizing the Phenomenon of AI Dreaming: A Guide to Detecting AI Hallucinations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/sculpting-stanzas-with-the-help-of-chatgpt-ai/"><u>Sculpting Stanzas with the Help of ChatGPT AI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/should-computers-be-counted-on-for-consolidating-cash/"><u>Should Computers Be Counted on for Consolidating Cash?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/spotlight-on-9-fraudulent-ai-apps-masquerading-as-chatgpt-endangering-user-data/"><u>Spotlight on 9 Fraudulent AI Apps Masquerading as ChatGPT, Endangering User Data</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-erasing-your-conversations-with-chatgpt/"><u>Step-by-Step Guide: Erasing Your Conversations with ChatGPT</u></a></li>
+</ul></div>
 

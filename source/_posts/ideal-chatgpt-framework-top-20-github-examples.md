@@ -1,7 +1,7 @@
 ---
 title: "Ideal ChatGPT Framework: Top 20 GitHub Examples"
-date: 2024-09-17T02:35:22.598Z
-updated: 2024-09-22T20:03:52.818Z
+date: 2024-10-03T05:11:54.550Z
+updated: 2024-10-03T20:41:47.252Z
 tags:
   - chatgpt
   - open-ai
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/71005eecdd2fec9bde2d87e54e71962fc2dc07f26
 
  ChatGPT has a wealth of games in its custom GPT store, covering everything from, RPGs and Dungeons and Dragons-style adventures, classic retro games, card games, quizzes, mysteries, and so much more.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1.[Murder Mystery Mayhem](https://chat.openai.com/g/g-82dEDeoN3-murder-mystery-mayhem)
 
  Let's start with one of the top-rated games on ChatGPT's custom GPT store. Murder Mystery Mayhem is a procedurally generated game where you play the role of a detective in the year 1925.
@@ -47,6 +54,13 @@ Close
 
  Murder Mystery Mayhem is good fun, with the location and murderer changing round by round, and each suspect has new alibis and evidence to reveal. The changes keep it feeling fresh, and one game played through to the end can keep you engaged and seeking the truth for well over an hour. (Don't forget, you don't have to play it all at once!)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2.[Oregon Trail](https://chat.openai.com/g/g-ijJRJgWHp-oregon-trail)
 
  Dying of dysentery has become a longstanding meme from the original Oregon Trail game, but you can now relive that horrifying experience in ChatGPT. The Oregan Trail custom GPT brings one of the first edu-games (not_the_ first, mind!) to ChatGPT... where you can suffer through the wilderness all over again.
@@ -58,10 +72,10 @@ Close
  It's a basic version of the classic game, but it's engaging enough. The custom GPT's scripting doesn't allow you to go off-piste and, say, rob the local convenience store for supplies (nor did the original), but it's certainly a lot easier without so many setbacks constantly upending and destroying your party. It's a much easier version, that's for sure.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3.[Poker](https://chat.openai.com/g/g-lHyTLJaCX-poker)
@@ -81,16 +95,10 @@ Close
 ![cyber syndicate cartridge ai image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/cyber-syndicate-cartridge-ai-image.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Input the type of game you want in the text box, select**Glif It!** , and watch as your creation comes to life. I went with "retro-futurism crime lord" and was presented with "Cyber Syndicate," a game where you "navigate a neon-soaked, cyberpunk metropolis teeming with high-tech heists and digital espionage," with a goal of becoming the ultimate syndicate leader.
@@ -142,5 +150,23 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-amplify-impact-through-effective-video-marketing-on-youtubes-top-5-moves/"><u>[Updated] In 2024, Amplify Impact Through Effective Video Marketing on YouTube's Top 5 Moves</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-quality-overload-top-10-hd-video-apps-for-your-android/"><u>[Updated] In 2024, Quality Overload Top 10 HD Video Apps for Your Android</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-the-art-of-real-time-video-collaboration-on-fb/"><u>2024 Approved The Art of Real-Time Video Collaboration on FB</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-conversationalists-face-off-is-it-chatgpt-microsoft-bing-or-google-bard-that-leads-the-pack/"><u>AI Conversationalists Face-Off: Is It ChatGPT, Microsoft Bing, or Google Bard That Leads the Pack?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-artificial-intelligence-platforms-such-as-chatgpt-and-bard-be-trusted-with-personal-finance-guidance/"><u>Can Artificial Intelligence Platforms Such as ChatGPT and Bard Be Trusted with Personal Finance Guidance?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-we-still-trust-openai-with-chatgpt-management/"><u>Can We Still Trust OpenAI with ChatGPT Management?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatbot-face-off-deciding-between-googles-bing-chat-and-microsofts-chatgpt/"><u>Chatbot Face-Off: Deciding Between Google's Bing Chat and Microsoft's ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/command-line-mastery-deploying-chatgpt-on-ubuntu-servers-through-shell-integration-techniques/"><u>Command Line Mastery: Deploying ChatGPT on Ubuntu Servers Through Shell Integration Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/creative-world-strikes-back-why-artists-including-sarah-silverman-sue-openai-and-meta-over-advanced-algorithms/"><u>Creative World Strikes Back: Why Artists Including Sarah Silverman Sue OpenAI and Meta Over Advanced Algorithms</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-forefront-ai-and-its-edge-over-chatgpt-explained/"><u>Decoding Forefront AI and Its Edge Over ChatGPT Explained</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-honor-90-gt-by-fonelab-android-recover-data/"><u>Easy steps to recover deleted data from Honor 90 GT</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-samsung-galaxy-a23-5g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Samsung Galaxy A23 5G FRP</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-step-by-step-guide-to-applying-luts-for-vivid-imagery-in-obs-videos/"><u>In 2024, Step-by-Step Guide to Applying LUTs for Vivid Imagery in OBS Videos</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unpacking-the-lg-gram-17-notebook-top-performance-in-an-ultra-thin-frame/"><u>Unpacking the LG Gram 17 Notebook: Top Performance in an Ultra-Thin Frame</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-how-to-perform-mask-tracking-discovering-the-best-methods/"><u>Updated In 2024, How to Perform Mask Tracking Discovering the Best Methods</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-top-10-free-emoji-websites-to-download-emojis-online/"><u>Updated Top 10 Free Emoji Websites to Download Emojis Online</u></a></li>
+</ul></div>
 

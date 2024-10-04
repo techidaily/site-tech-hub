@@ -1,7 +1,7 @@
 ---
 title: Does ChatGPT Have Privacy Issues?
-date: 2024-09-20T20:30:12.577Z
-updated: 2024-09-22T21:16:54.994Z
+date: 2024-09-30T09:29:00.809Z
+updated: 2024-10-03T20:22:20.633Z
 tags:
   - chatgpt
   - open-ai
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/053654aac9195ea45d1f77852c408a3b2770cc6c8
 
  However, in April 2023, OpenAI started offering users the choice to disable or enable chat history and training data collection.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Opt-Out of ChatGPT's Chat History and Training Feature
 
  There's one downside of opting out of ChatGPT's chat data feature, and that's the loss of your chat history. This doesn't just mean OpenAI can't keep a history of your chats; it also means you cannot view your chat history. Therefore, returning to previous chats becomes impossible, rendering all your previous chat data inaccessible. Note that this doesn't[delete your ChatGPT history](https://www.makeuseof.com/how-to-delete-your-chatgpt-history/) but does make it off-limits until you re-enable the chat history and training feature.
@@ -61,10 +68,10 @@ thumbnail: https://thmb.techidaily.com/053654aac9195ea45d1f77852c408a3b2770cc6c8
 ![screenshot of chatgpt data controls setting on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-data-controls.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In your settings, click on the**Data controls** option. Now, you'll see a setting named**Chat history & training** . This feature will be active by default, but a simple click on the toggle will disable it instantly. Now the feature has been turned off, you'll notice your chat history is no longer accessible on the main page.
@@ -74,15 +81,28 @@ thumbnail: https://thmb.techidaily.com/053654aac9195ea45d1f77852c408a3b2770cc6c8
 ![screenshot of chatgpt enable history option on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-history-off.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  For the highest level of privacy, it's wise to keep this setting disabled wherever possible.
 
  Once you disable this feature, all future chats will not be used for training, but previous chats that took place while the feature was enabled are still usable to OpenAI.
+
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ChatGPT Data Collection You Can't Opt Out From
 
@@ -107,5 +127,22 @@ thumbnail: https://thmb.techidaily.com/053654aac9195ea45d1f77852c408a3b2770cc6c8
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-prime-steps-to-modify-playback-rate-of-songs-in-spotify/"><u>[New] Prime Steps to Modify Playback Rate of Songs in Spotify</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-perfecting-crossfades-and-sweeps-in-premiere-for-2024/"><u>[Updated] Perfecting Crossfades & Sweeps in Premiere for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-capture-engaging-shots-using-strategic-leading-lines-iphone/"><u>2024 Approved Capture Engaging Shots Using Strategic Leading Lines (iPhone)</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-itel-p40-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722977371576-effortless-driver-update-process-for-your-hp-devices-start-here/"><u>Effortless Driver Update Process for Your HP Devices - Start Here</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-your-business-practices-using-chatgpt-8-insider-secrets-revealed/"><u>Elevate Your Business Practices Using ChatGPT – 8 Insider Secrets Revealed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-your-career-game-why-you-should-acquire-chatgpt-skills-6-persuasive-points/"><u>Elevate Your Career Game: Why You Should Acquire ChatGPT Skills (6 Persuasive Points)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elon-spills-on-grok-ai-its-significance-and-cost-uncovered/"><u>Elon Spills on Grok AI - Its Significance & Cost Uncovered</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exit-strategy-securing-your-data-against-chatgpt/"><u>Exit Strategy: Securing Your Data Against ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/explore-the-world-of-ai-using-chatgpts-latest-ios-application/"><u>Explore the World of AI: Using ChatGPT's Latest iOS Application</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-curiosity-to-creation-your-guide-to-openai-innovations/"><u>From Curiosity to Creation: Your Guide to OpenAI Innovations</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-xiaomi-redmi-a2plus-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Xiaomi Redmi A2+ Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-itel-a60s-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Itel A60s Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-oppo-reno-8t-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Oppo Reno 8T 5G? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/insta-hack-top-underrated-tips-and-tricks/"><u>Insta-Hack Top Underrated Tips and Tricks</u></a></li>
+</ul></div>
 

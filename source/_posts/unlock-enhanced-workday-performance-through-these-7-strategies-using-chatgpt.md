@@ -1,7 +1,7 @@
 ---
 title: Unlock Enhanced Workday Performance Through These 7 Strategies Using ChatGPT
-date: 2024-09-19T17:55:57.611Z
-updated: 2024-09-22T19:54:02.482Z
+date: 2024-10-02T19:52:59.137Z
+updated: 2024-10-04T03:06:45.836Z
 tags:
   - chatgpt
   - open-ai
@@ -34,11 +34,31 @@ thumbnail: https://thmb.techidaily.com/fba9d1b021c91a0b6059d158b3fda53b17a7a738b
 
 ![screenshot showing perplexity ai on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-16-123353-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Perplexity AI is a conversational search engine that uses natural language text to answer questions. It was founded in 2022 by a quartet of former AI researchers from OpenAI and Meta: Aravind Srinivas, Andy Konwiski, Denis Yarats, and Johnny Ho.
 
  Unlike traditional search engines that rely on keyword matching and link analysis, Perplexity AI understands the context and intent behind your queries. It provides not just a list of links but a comprehensive answer with links to cited sources.
 
  The Perplexity app is a mix of the[best features from ChatGPT](https://www.makeuseof.com/chatgpt-features-you-arent-using-but-should/) and Google. It features a chat interface similar to ChatGPT’s and a Related section similar to Google’s People also ask.
+
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Use Perplexity AI Instead of Google Search
 
@@ -57,10 +77,10 @@ Close
  Perplexity is free to use. However, you can upgrade to its Pro plan ($20/month) for access to additional features, such as unlimited access to its more powerful AI models like OpenAI's GPT-4, Anthropic's Claude 3 Opus and Sonnet, and Mistral's Large, plus support for images and files, and better support.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can Perplexity AI Replace Google?
@@ -72,10 +92,10 @@ Close
 ![screenshot showing search result on perplexity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-showing-search-result-on-perplexity.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  It's worth noting that[Google has been testing Search Generative Experience (SGE)](https://www.makeuseof.com/how-to-access-google-ai-powered-search/) , an AI-assisted search feature. SGE provides AI overviews of search queries similar to Perplexity AI. Perplexity AI currently does a better job of answering queries thoroughly and also provides in-text citations for cross-referencing. However, this is something Google can replicate, if it becomes where the battle line is drawn.
@@ -97,5 +117,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-edgy-escapes-tips-on-avoiding-edgenuity-videos-quickly-for-2024/"><u>[New] Edgy Escapes Tips on Avoiding Edgenuity Videos Quickly for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gopro-studio-tips-the-pathway-to-impressive-time-lapse-video/"><u>[Updated] GoPro Studio Tips The Pathway to Impressive Time Lapse Video</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-sonic-artistry-and-video-prowess-in-sonys-xperia-xz-for-2024/"><u>[Updated] Sonic Artistry and Video Prowess in Sony's Xperia XZ for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-go-incognito-with-instagram-live-a-comprehensive-guide-to-anonymity/"><u>2024 Approved Go Incognito with Instagram Live A Comprehensive Guide to Anonymity</u></a></li>
+<li><a href="https://discover-best.techidaily.com/makemkv/"><u>使用法と有効化けの最後にあるアクション - MakeMKVガイド</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/discover-these-must-try-iphone-vr-titles/"><u>Discover These Must-Try iPhone VR Titles</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/discovering-the-most-engaging-facebook-vids/"><u>Discovering the Most Engaging Facebook Vids</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-remove-default-podcast-listings-from-spotify-playlists/"><u>In 2024, Remove Default Podcast Listings From Spotify Playlists</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-unlock-global-availability-of-chatgpt-with-chatgpt-everywhere/"><u>Step-by-Step Guide: Unlock Global Availability of ChatGPT with ChatGPT Everywhere</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/sustainable-value-can-auto-gpt-work-alone/"><u>Sustainable Value: Can Auto-GPT Work Alone?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-digital-shaker-challenge-how-well-does-chatgpt-concoct-cocktails/"><u>The Digital Shaker Challenge: How Well Does ChatGPT Concoct Cocktails?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-limits-of-chatgpt-responses-strategies-beyond-token-restrictions/"><u>The Limits of ChatGPT Responses: Strategies Beyond Token Restrictions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-operations-and-applications-of-claude-2/"><u>The Operations and Applications of Claude 2</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-power-of-tailored-directives-with-chatgpt-insights-into-its-versatile-features/"><u>The Power of Tailored Directives with ChatGPT: Insights Into Its Versatile Features</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-professionals-edge-tailoring-challenging-corporate-emails-with-chatgpt-expertise/"><u>The Professional's Edge: Tailoring Challenging Corporate Emails with ChatGPT Expertise</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-guide-to-leveraging-chatgpts-potential-for-your-health-journey-top-9-uses/"><u>The Ultimate Guide to Leveraging ChatGPT's Potential for Your Health Journey (Top 9 Uses)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-6-solutions-why-wont-my-airpods-auto-switch-across-iphones-and-macs/"><u>Top 6 Solutions: Why Won't My AirPods Auto-Switch Across iPhones & Macs?</u></a></li>
+</ul></div>
 

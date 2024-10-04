@@ -1,7 +1,7 @@
 ---
 title: "Uncovering Grok AI with Elon: What It Means & How Much It Costs"
-date: 2024-09-18T16:32:28.351Z
-updated: 2024-09-22T16:48:55.726Z
+date: 2024-09-27T21:33:37.724Z
+updated: 2024-10-03T16:13:09.181Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/45bc41dfd22bb4252a227dcc20488f6faf42f4a30
 * [Upgraded Code Analysis](https://www.makeuseof.com/chatgpt-new-features-spring-update/#upgraded-code-analysis)
 * [Temporary Chat](https://www.makeuseof.com/chatgpt-new-features-spring-update/#temporary-chat)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * ChatGPT now converses with image inputs and outputs, providing accurate results and generated images in its responses.
@@ -35,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/45bc41dfd22bb4252a227dcc20488f6faf42f4a30
 * ChatGPT-4o enables users to engage in multi-modal voice and video interactions, fostering real-time conversations and versatile AI assistance.
 
  OpenAI's early May 2024 ChatGPT update was enormous, bringing heaps of new features to the world's leading generative AI chatbot. Most of the improvements center around enhancing user interaction, new functionalities, and improving overall performance, and there are heaps of reasons why you should give them a try.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Image Input and Output Capabilities
 
@@ -57,10 +71,10 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
  ChatGPT Plus users were immediately given access to the new features using OpenAI's new ChatGPT-4o (Omnimodal) model. Free-tier users will also have access to these features but with limited usage.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Expanded Knowledge Base and Cross-Chat Memory
@@ -72,13 +86,6 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
  I asked ChatGPT to check the Saturday weather forecast and advise whether I should reschedule my activities based on the weather update.
 
 ![Using ChatGPT as an AI assistant using memory and web browsing features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-as-assistant-using-expanded-knowledge-base-1-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  ChatGPT provided sound advice by browsing the web for the weather and reviewing its memory of my schedule. It even gave me a list of activities I could do instead based on my past interactions with ChatGPT.
 
@@ -93,19 +100,6 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
  Pairing this feature with ChatGPT's browsing and memory functionality allows for a highly versatile AI companion. This enhanced version of ChatGPT can now better assist you with shopping, planning, and organizing. GPT-4o's conversation functionality makes it possible to use ChatGPT as a hands-free assistant using voice commands, making it easier to interact with the AI while you're on the go or multitasking.
 
  GPT-4o's voice interaction is available to all users using the ChatGPT Android/iOS app. However, the video interaction feature is unavailable at the time of writing but is expected to roll out in the near future.
-
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Upgraded Code Analysis
 
@@ -122,6 +116,13 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 ## Temporary Chat
 
 ![ChatGPT's new temporary chat feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-s-temporary-chat-feature.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The new Temporary Chat feature in ChatGPT-4o is ideal for privacy-conscious users and those seeking quick interactions with ChatGPT. This feature enables users to engage in a temporary chat with ChatGPT without the conversation being saved in history or used by OpenAI to train their models.
 
@@ -142,5 +143,26 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-accelerate-tiktok-video-playback/"><u>[Updated] 2024 Approved Accelerate TikTok Video Playback</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/9-effective-strategies-leveraging-chatgpt-for-improved-wellness/"><u>9 Effective Strategies: Leveraging ChatGPT for Improved Wellness</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/accelerate-your-language-learning-journey-with-chatgpt-plus/"><u>Accelerate Your Language Learning Journey with ChatGPT Plus</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ace-social-platforms-leveraging-chatgpt-for-improved-post-creation-and-engagement/"><u>Ace Social Platforms: Leveraging ChatGPT for Improved Post Creation and Engagement</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/best-ways-to-bypass-icloud-activation-lock-from-iphone-6ipadipod-by-drfone-ios/"><u>Best Ways to Bypass iCloud Activation Lock from iPhone 6/iPad/iPod</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customizing-time-before-next-login-after-failure-in-win-1011/"><u>Customizing Time Before Next Login After Failure in Win 10/11</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722965785037-download-the-ultimate-msi-z37-370-a-driver-bundle-compatible-versions-available/"><u>Download the Ultimate MSI Z37 370-A Driver Bundle - Compatible Versions Available!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhanced-graphics-on-windows-11-geforce-rtx210/"><u>Enhanced Graphics on Windows 11 - GeForce RTX210</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-xiaomi-redmi-note-12-5g-by-drfone-android/"><u>Full Guide to Unlock Your Xiaomi Redmi Note 12 5G</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-your-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On your Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-futures-in-your-hands-with-powerdirector-24-unleashed/"><u>In 2024, The Future's in Your Hands with PowerDirector '24 Unleashed</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-exploring-the-latest-in-computer-gear/"><u>Tom's Tech Review - Exploring the Latest in Computer Gear</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722185064415-top-9-benefits-of-switching-to-chatgpt-plus-unlock-your-potential/"><u>Top 9 Benefits of Switching to ChatGPT Plus - Unlock Your Potential!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transforming-job-interviews-how-to-employ-chatgpt-for-optimal-performance/"><u>Transforming Job Interviews: How to Employ ChatGPT for Optimal Performance</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-job-success-with-chatgpt-6-compelling-reasons-to-learn-it-now/"><u>Unlock Job Success with ChatGPT: 6 Compelling Reasons to Learn It Now</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-the-potential-chatgpts-fresh-features-you-shouldnt-miss/"><u>Unlocking the Potential: ChatGPT's Fresh Features You Shouldn't Miss</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-impact-of-ai-driven-games-on-industry-dynamics/"><u>Unveiling the Impact of AI-Driven Games on Industry Dynamics</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-top-4-advantages-of-claude-ai-over-chatgpt/"><u>Unveiling the Top 4 Advantages of Claude AI Over ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/who-qualifies-to-utilize-nvidias-adaptable-ai-services-in-the-realm-of-machine-learning/"><u>Who Qualifies to Utilize NVIDIA's Adaptable AI Services in the Realm of Machine Learning?</u></a></li>
+</ul></div>
 

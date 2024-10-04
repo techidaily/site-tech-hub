@@ -1,7 +1,7 @@
 ---
 title: "The Freelance Guide to AI Assistants: Bing Chat Vs. ChatGPT"
-date: 2024-09-19T20:28:19.108Z
-updated: 2024-09-22T22:33:42.581Z
+date: 2024-10-01T01:21:29.182Z
+updated: 2024-10-04T11:06:00.825Z
 tags:
   - chatgpt
   - open-ai
@@ -42,11 +42,25 @@ thumbnail: https://thmb.techidaily.com/14598feaeb4d0e61d08a761998cd6976c067dba5c
 
 ![Screenshot of Custom GPT called Pidgin Hero](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/pidgin-hero-description-card.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the weeks following ChatGPT's release, we tested[ChatGPT's ability to translate text compared to Google Translate](https://www.makeuseof.com/chatgpt-vs-google-translate-which-is-better-at-translation/) . While Google's translation tool performed admirably against the massive power that is ChatGPT, it struggled with certain languages like Pidgin English, a widely spoken Creole in parts of West Africa. Although ChatGPT was better in this aspect, it also struggled as well.
 
  To improve translation capabilities for Pidgin, I created a custom GPT for Pidgin translation. How? I fed it dozens of expert Pidgin dictionaries and linguistic resources. After re-testing ChatGPT against Google Translate on Pidgin text, the results were striking—ChatGPT significantly outperformed Google Translate by nearly all metrics. This example highlights the power of building custom GPTs for specific translation tasks, irrespective of language. With the right training data, these customized chatbots can surpass even the best general translation tools. Fancy playing around with Pidgin?
 
 **Try this GPT:** [Pidgin Hero](https://chat.openai.com/g/g-CcgN0HIuC-pidgin-hero) .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Programming Project Assistant
 
@@ -71,10 +85,10 @@ thumbnail: https://thmb.techidaily.com/14598feaeb4d0e61d08a761998cd6976c067dba5c
 ![Custom ChatGPT game called Dungeon weaver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-chatgpt-game-called-dungeon-weaver.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Another very exciting use case for GPTs is creating games. You can bring almost any text and image-based games you can think of into reality. You can program, modify the rules, and play games like Tic-Tac-Toe, Hangman, Word Ladder, and more. We've previously created a list of simple but[interesting games you can play with ChatGPT](https://www.makeuseof.com/simple-games-you-can-play-chatgpt/) . You can spice those games up by invoking the DALL-E image creator to create scenery and characters on the go.
@@ -87,23 +101,9 @@ thumbnail: https://thmb.techidaily.com/14598feaeb4d0e61d08a761998cd6976c067dba5c
 
 **Try this GPT** :[Dungeon Weaver](https://chat.openai.com/g/g-BRT1bAbjI-dungeon-weaver) .
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Personal Tutor
 
 ![Custom GPT for Abstract math tutoring](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-gpt-for-abstract-math-tutoring.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Custom GPT models offer exciting new ways to accelerate learning and preparation, whether you're a student prepping for exams, a professional gearing up for interviews, or anyone looking to upskill rapidly. Leveraging GPT-4's vast context window, you can create specialized GPTs that serve as expert tutors on specific subjects. Feed them textbooks, course materials, flashcards, and other learning resources from the field you want to master.
 
@@ -113,9 +113,23 @@ thumbnail: https://thmb.techidaily.com/14598feaeb4d0e61d08a761998cd6976c067dba5c
 
 **Try this GPT** :[Abstract Math Genius](https://chat.openai.com/g/g-wFmBbvdm0-abstract-math-genius) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Niche Tools for Work
 
 ![Custom GPT for Work](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-gpt-for-work.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Could custom GPTs improve your workflow or automate tasks in your job? For many roles, the answer is yes. Consider your typical work responsibilities and identify repetitive or time-consuming areas that could benefit from AI assistance.
 
@@ -144,5 +158,23 @@ thumbnail: https://thmb.techidaily.com/14598feaeb4d0e61d08a761998cd6976c067dba5c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-dive-into-youtube-tv-tips-and-tricks-for-optimal-viewing/"><u>[Updated] 2024 Approved Dive Into YouTube TV Tips & Tricks for Optimal Viewing</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-free-fx-library-to-enhance-youtube-productions/"><u>[Updated] Free FX Library to Enhance YouTube Productions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-top-8-child-protection-apps-of-2024/"><u>Discover the Top 8 Child Protection Apps of 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-installation-download-drivers-for-lenovo-x220-today/"><u>Effortless Installation: Download Drivers for Lenovo X220 Today!</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/filmmakers-finesse-for-fabulous-tiktok-reactions-with-filmora-pro-tools-for-2024/"><u>Filmmaker’s Finesse for Fabulous TikTok Reactions with Filmora Pro Tools for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-i-fixed-the-persistent-steam-cant-log-in-error-share-your-success/"><u>How I Fixed the Persistent 'Steam Can't Log In' Error – Share Your Success!</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-apple-iphone-se-2022-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tailored-cv-writing-personalized-cover-letters-with-gpt/"><u>Tailored CV: Writing Personalized Cover Letters with GPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tapping-into-conversational-ai-5-approaches-to-engage-with-chatgpt-anonymously/"><u>Tapping Into Conversational AI: 5 Approaches to Engage with ChatGPT Anonymously</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-quick-and-dirty-path-to-deploying-chatgpt-on-linux-platforms/"><u>The Quick and Dirty Path to Deploying ChatGPT on Linux Platforms</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-guide-to-confirming-the-validity-of-medical-insights-from-chatgpt-and-similar-tech/"><u>The Ultimate Guide to Confirming the Validity of Medical Insights From ChatGPT and Similar Tech</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-default-plugins-in-chatgpt-and-how-to-leverage-them-effectively/"><u>Understanding Default Plugins in ChatGPT and How to Leverage Them Effectively</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-the-potential-8-ways-to-monetize-chatgpt-for-additional-revenue/"><u>Unlocking the Potential: 8 Ways to Monetize ChatGPT for Additional Revenue</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-huggingchat-a-free-open-source-rival-to-chatgpts-capabilities/"><u>Unveiling HuggingChat: A Free, Open-Source Rival to ChatGPT's Capabilities</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/your-first-steps-in-high-quality-youtubing-for-2024/"><u>Your First Steps in High-Quality YouTubing for 2024</u></a></li>
+</ul></div>
 

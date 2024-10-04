@@ -1,7 +1,7 @@
 ---
 title: "Boosting Dungeons & Dragons Adventures with ChatGPT: Expert Strategies"
-date: 2024-09-26T01:41:40.312Z
-updated: 2024-09-28T20:27:20.966Z
+date: 2024-10-02T12:51:26.341Z
+updated: 2024-10-03T20:11:58.611Z
 tags:
   - chatgpt
   - open-ai
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/a26060fad92020f54b317e5747fec75ccfe05e7c2
  You can customize the default revised prompt that WebChatGPT uses, but as a new user, we wouldn't suggest that. Once you're more accustomed to using this extension, feel free to look into options that improve your queries
 
 **Download:** WebChatGPT for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-advanced/lpfemeioodjbpieminkklglpmhlngfcn) |[Firefox](https://addons.mozilla.org/en-US/firefox/addon/web-chatgpt/) (Free)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. ChatGPT Prompt Genius
 
@@ -80,18 +87,18 @@ thumbnail: https://thmb.techidaily.com/a26060fad92020f54b317e5747fec75ccfe05e7c2
 
 ![using the 'transcript and summary box' from youtube summary extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/youtube-summary-extension.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The extension also has a button to view an AI-generated summary of the video. Clicking this takes you to ChatGPT, with the transcript already typed in the prompt. All you have to do now is prompt ChatGPT to summarize the text, and you'll get an instant summary.
 
  You can also add further prompts for more details regarding specific parts of the video without having to watch the full thing.
 
 **Download:** YouTube Summary With ChatGPT for[Chrome](https://chrome.google.com/webstore/detail/youtube-summary-with-chat/nmmicjeknamkfloonkhhcjmomieiodli) |[Safari](https://apps.apple.com/us/app/glasp-social-web-highlighter/id1605690124) (Free)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Talk-to-ChatGPT
 
@@ -103,19 +110,6 @@ thumbnail: https://thmb.techidaily.com/a26060fad92020f54b317e5747fec75ccfe05e7c2
 
 **Download:** Talk-to-ChatGPT for[Chrome](https://chrome.google.com/webstore/detail/talk-to-chatgpt/hodadfhfagpiemkeoliaelelfbboamlk) (Free)
 
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. ChatGPT for Search Engines
 
  ChatGPT for Search Engines is one of the[best new web search apps](https://www.makeuseof.com/web-search-apps-make-google-better-or-replace-google/) that presents ChatGPT answers alongside regular search results on Google or DuckDuckGo. It also works with Bing, but you don't need that anymore, given Microsoft has already officially integrated the two.
@@ -125,10 +119,10 @@ thumbnail: https://thmb.techidaily.com/a26060fad92020f54b317e5747fec75ccfe05e7c2
 **Download:** ChatGPT for Search Engines for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-for-search-engine/feeonheemodpkdckaljcjogdncpiiban/) |[Firefox](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-for-search-engines/) |[Edge](https://microsoftedge.microsoft.com/addons/detail/chatgpt-for-search-engine/pnglghgjhaklojnjpkhcdidgalehmkbn) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Perplexity AI
@@ -136,10 +130,16 @@ thumbnail: https://thmb.techidaily.com/a26060fad92020f54b317e5747fec75ccfe05e7c2
 ![query answers by perplexity ai extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/perplexity-ai.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The decentralization of information and knowledge has done much good in recent years. But, like anything in tech, it carries an ugly side to it, too. The rise of fake news and misinformation, for instance, is one of its biggest unwanted by-products.
@@ -171,20 +171,18 @@ thumbnail: https://thmb.techidaily.com/a26060fad92020f54b317e5747fec75ccfe05e7c2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-best-sandbox-games-titles-you-shouldnt-be-missing/"><u>[New] Best Sandbox Games Titles You Shouldn’t Be Missing</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-navigating-phones-and-samsung-gear-vr-interaction/"><u>[New] In 2024, Navigating Phones & Samsung Gear VR Interaction</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-maintaining-image-integrity-effective-instagram-photowatermarking-for-2024/"><u>[New] Maintaining Image Integrity Effective Instagram Photowatermarking for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-rhythmic-resonance-select-sites-for-downloading-tones/"><u>[New] Rhythmic Resonance Select Sites for Downloading Tones</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-faulty-windows-keys-in-a-minute/"><u>Fixing Faulty Windows Keys in a Minute!</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Lava Blaze 2 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-shutterbugs-essential-guide-for-insta-posting/"><u>In 2024, Shutterbugs' Essential Guide for Insta-Posting</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-continuous-learning-part-of-chatgpts-functionality-from-conversing-with-people/"><u>Is Continuous Learning Part of ChatGPT's Functionality From Conversing With People?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/langchain-llm-explained-the-ultimate-starter-kit/"><u>LangChain LLM Explained: The Ultimate Starter Kit</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/leveraging-chatgpt-for-fluent-foreign-language-interaction/"><u>Leveraging ChatGPT for Fluent Foreign Language Interaction</u></a></li>
-<li><a href="https://win-dash.techidaily.com/master-home-recording-with-focusrite-scarlett-solo-driver-for-windows-free-download-available/"><u>Master Home Recording with Focusrite Scarlett Solo Driver for Windows - Free Download Available</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigate-through-ai-jargon-discover-29-crucial-terminologies-for-tech-enthusiasts/"><u>Navigate Through AI Jargon: Discover 29 Crucial Terminologies for Tech Enthusiasts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-ai-pitfalls-8-reasons-why-content-creators-cant-solely-depend-on-chatbots/"><u>Navigating AI Pitfalls: 8 Reasons Why Content Creators Can't Solely Depend on Chatbots</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-the-ai-act-of-europe-what-it-means-for-future-chatbots-including-chatgpt/"><u>Navigating the AI Act of Europe: What It Means for Future Chatbots Including ChatGPT</u></a></li>
-<li><a href="https://extra-information.techidaily.com/time-saving-tips-making-rapid-google-collage-photo-artwork/"><u>Time-Saving Tips Making Rapid Google Collage Photo Artwork</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-top-3-affordable-switch-game-counterparts/"><u>[New] 2024 Approved Top 3 Affordable Switch Game Counterparts</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-the-realm-of-ar-stickers-googles-edge/"><u>2024 Approved Exploring the Realm of AR Stickers - Google's Edge</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/claude-ai-vs-chatgpt-discovering-the-superior-conversationalist-in-4-ways/"><u>Claude AI Vs. ChatGPT: Discovering the Superior Conversationalist in 4 Ways</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ensuring-confidentiality-delete-your-chat-sessions-in-chatgpt-easily/"><u>Ensuring Confidentiality: Delete Your Chat Sessions in ChatGPT Easily</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-capabilities-of-chatgpt-in-formulating-personalized-low-risk-exercise-plans-for-optimal-results/"><u>Exploring the Capabilities of ChatGPT in Formulating Personalized, Low-Risk Exercise Plans for Optimal Results</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-iphone-13-pro-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve iPhone 13 Pro Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-samsung-galaxy-f15-5g-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Samsung Galaxy F15 5G FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://extra-support.techidaily.com/luminous-techniques-crafting-captivating-cinematic-pieces-for-2024/"><u>Luminous Techniques Crafting Captivating Cinematic Pieces for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionize-your-resume-the-ultimate-guide-to-utilizing-chatgpt-for-finding-employment/"><u>Revolutionize Your Resume: The Ultimate Guide to Utilizing ChatGPT for Finding Employment</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-battle-of-linguists-evaluating-chatgpt-against-google-translate-for-accurate-translation/"><u>The Battle of Linguists: Evaluating ChatGPT Against Google Translate for Accurate Translation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-beginners-guide-to-changing-dall-e-3-visuals-into-common-jpeg-and-png-files/"><u>The Beginner's Guide to Changing DALL-E 3 Visuals Into Common JPEG and PNG Files</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-lenovo-mouse-pad-issues-on-windows-11-8-and-7-effective-solutions/"><u>Troubleshooting Lenovo Mouse Pad Issues on Windows 11, 8 & 7: Effective Solutions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-the-safety-concerns-around-alternative-chatgpt-applications/"><u>Understanding the Safety Concerns Around Alternative ChatGPT Applications</u></a></li>
 </ul></div>
 

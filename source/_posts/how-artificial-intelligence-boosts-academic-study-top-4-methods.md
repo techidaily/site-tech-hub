@@ -1,7 +1,7 @@
 ---
 title: "How Artificial Intelligence Boosts Academic Study: Top 4 Methods"
-date: 2024-09-17T17:19:39.591Z
-updated: 2024-09-22T21:19:01.489Z
+date: 2024-09-28T22:32:02.532Z
+updated: 2024-10-03T19:14:36.657Z
 tags:
   - chatgpt
   - open-ai
@@ -54,19 +54,33 @@ For example, below is Bing Chat's effort at a simple limerick.
 
 ![Screenshot of Bing Limerick-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-bing-limerick-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  As you see from the ChatGPT effort below, both models can construct creative prose remarkably well.
 
 ![Screenshot of ChatGPT Limerick-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-limerick-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Safety
 
  Moderating responses that were factually incorrect or otherwise unsuitable was performed "on the fly" with GPT-3.5\. In other words, it was a reactive strategy that acted after the horse had bolted. GPT-4 has safety measures designed into the model, meaning safety is more proactive. Where safety is a concern, Bing Chat technically has the upper hand.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Image Processing and Accuracy
@@ -79,25 +93,11 @@ For example, below is Bing Chat's effort at a simple limerick.
 
 ![Screenshot of GPT limitations for bin and chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-gpt-limitations-for-bin-and-chatgpt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Bing Chat has a distinct advantage here. The GPT-4 model has the twin advantages of access to more recent data and multiple sources of information. By contrast, the GPT-3.5/GPT-4 dataset was cut off at the end of 2021, and though it has received some topical updates, it is limited.
 
  Unlike testing the difference in creativity, testing this was easy. The results were comprehensive, with Bing Chat returning the most impressive answer to a straightforward question, "How many tons of plastic were recycled in 2020?"
 
 ![Screenshot of Plastic Recycling Stats from Bing Chat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-plastic-recycling-stats-from-bing-chat.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The response supplied figures as well as links to the sources from which the data was retrieved. However, the inclusion of US plastic exports was slightly out of context with the question. We would hesitate to call this a glitch, but it does show AI's tendency to wander off-topic at times.
 
@@ -119,15 +119,22 @@ By contrast, the ChatGPT response was to admit its limitations.
 
 ![Screenshot of Bing Chat response to education query](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-bing-chat-response-to-education-query.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  As you can see, the response included links to the listed websites. Compare this to the ChatGPT response:
 
 ![Screenshot of ChatGPT list of educational websites](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-list-of-educational-websites.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which Is Best: Bing Chat or Chat GPT?
@@ -165,5 +172,23 @@ By contrast, the ChatGPT response was to admit its limitations.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-can-instant-subscription-lead-to-higher-watch-time/"><u>[New] Can Instant Subscription Lead to Higher Watch Time?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-captivate-viewers-social-media-strategies-for-youtube-for-2024/"><u>[Updated] Captivate Viewers Social Media Strategies for YouTube for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-import-photos-and-videos-in-windows-10-deepest-secret/"><u>[Updated] How to Import Photos and Videos in Windows 10 (Deepest Secret)</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-one-click-humor-your-guide-to-the-ifunny-meme-app-for-2024/"><u>[Updated] One Click Humor Your Guide to the iFunny Meme App for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/complete-guide-to-downloading-and-installing-logitech-k400-plus-keyboard-drivers-latest-version/"><u>Complete Guide to Downloading & Installing Logitech K400 Plus Keyboard Drivers - Latest Version</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/cookiebots-influence-in-boosting-digital-performance-and-engagement-metrics/"><u>Cookiebot's Influence in Boosting Digital Performance and Engagement Metrics</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-openais-tools-a-user-friendly-exploration/"><u>Navigating OpenAI's Tools: A User-Friendly Exploration</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/pilot-pairings-basic-vs-professional-flight-systems/"><u>Pilot Pairings: Basic Vs. Professional Flight Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/pioneers-in-tech-their-take-on-the-rise-of-ai/"><u>Pioneers in Tech: Their Take on the Rise of AI</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/secrets-to-high-quality-sims-4-gameplay-recordings-for-2024/"><u>Secrets to High-Quality Sims 4 Gameplay Recordings for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/skillful-shortcuts-quick-background-elimination-tactics-for-2024/"><u>Skillful Shortcuts Quick Background Elimination Tactics for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/slowdown-analysis-how-chatgpt-4-trails-behind-gpt-35-speed/"><u>Slowdown Analysis: How ChatGPT-4 Trails Behind GPT-3.5 Speed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/smart-deals-in-tech-ransomware-explained-to-all/"><u>Smart Deals in Tech; Ransomware Explained to All</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/streamline-trip-planning-with-these-eby7-free-ai-apps-and-chatgpt-solutions-for-rapid-itinerary-setup/"><u>Streamline Trip Planning with These Eby7 Free AI Apps & ChatGPT Solutions for Rapid Itinerary Setup</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/systems-graphics-adapter-fixed/"><u>System's Graphics Adapter Fixed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-automobile-enthusiasts-guide-to-gpt-fueled-alterations/"><u>The Automobile Enthusiast's Guide to GPT-Fueled Alterations</u></a></li>
+</ul></div>
 

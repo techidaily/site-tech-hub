@@ -1,7 +1,7 @@
 ---
 title: "Unraveling the Distinction: NLP Vs. Machine Learning Explained"
-date: 2024-09-21T22:51:19.509Z
-updated: 2024-09-22T17:42:01.818Z
+date: 2024-10-03T10:48:59.701Z
+updated: 2024-10-04T12:41:18.637Z
 tags:
   - chatgpt
   - open-ai
@@ -32,6 +32,13 @@ Maximum truth-seeking AI? Understand the nature of the universe?
 
  You'll be forgiven if Musk's description doesn't give you a clear picture of what exactly he's trying to build. However, you'll get a better idea of what he's talking about by looking at why he's trying to build it in the first place.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why Is Elon Musk Building TruthGPT?
 
  In an interview with[Fox News](https://www.foxnews.com/media/elon-musk-develop-truthgpt-warns-civilizational-destruction-ai) , Elon Musk expressed his concerns about how big AI firms can perpetuate bias and disinformation through AI chatbots—an emerging tool people increasingly depend on for information. Elon Musk also commented on the threat AI poses to humanity, emphasizing the possibility of an AI apocalypse, a scenario where AI systems could take control of our daily lives.
@@ -40,9 +47,23 @@ Maximum truth-seeking AI? Understand the nature of the universe?
 
  Elon Musk, who recently authored an open letter calling for a[moratorium on the development of powerful AI](http://www.makeuseof.com/why-elon-musk-want-to-pause-ai-development/) models (specifically those more powerful than GPT-4), believes AI is moving too fast. He believes we need to slow down and reevaluate our approach to AI safety before AI "takes control." TruthGPT is a large language model (LLM) that promises to address these two core concerns with today's AI systems.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Would TruthGPT Look Like?
 
 ![artificial brain doing data analytics ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/mou-article-banner.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The first hint into how TruthGPT would look is in the name. Considering the "GPT" appendage, TruthGPT will likely have a similar architecture to ChatGPT. Remember, Elon Musk helped assemble OpenAI and the team that built ChatGPT's GPT model.
 
@@ -56,19 +77,6 @@ So, is this idea of a maximum truth-seeking AI even practical?
 
 ![Cogs on a machine](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/pexels-pixabay-159298.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you[understand how large language models like GPT work](http://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) , it becomes clear that it is impractical to be correct at all times. Typically trained on a large dataset of internet data, a lot of it is, predictably, going to be false information, and LLM's have no inert way of telling fact from fiction.
 
  The best intervention is typically from human trainers who try to teach the language model what's good behavior and what's bad. But human trainers are biased.[Bias is passed to the AI models](https://www.makeuseof.com/what-is-ai-bias/) , defeating the whole purpose of a "maximum truth-seeking AI." Note, we're not talking about outright bias or prejudice against a people or otherwise. It's the more subtle bias about how you interpret language, situations, challenges, and so on that leach into the process. Humans are human, after all.
@@ -78,10 +86,10 @@ So, is this idea of a maximum truth-seeking AI even practical?
  For Musk, TruthGPT appears to be a chance for him to carve an AI model that he sees fit to deliver the truth. How that would come about without introducing his own biases is another question entirely and effectively leads us back to the start of the conversation. How are Musk's opinions on what is biased or not any different from those who trained and directed ChatGPT?
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is TruthGPT an Exciting Possibility?
@@ -103,5 +111,24 @@ So, is this idea of a maximum truth-seeking AI even practical?
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-harmonizing-vision-and-voice-the-ultimate-guide/"><u>[New] In 2024, Harmonizing Vision and Voice The Ultimate Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-virtual-play-spaces-you-cant-miss/"><u>[New] Virtual Play Spaces You Can't Miss</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-best-chosen-templates-for-viral-ae-content/"><u>[Updated] 2024 Approved Best Chosen Templates for Viral AE Content</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-web-based-fb-music-extractor/"><u>[Updated] 2024 Approved Web-Based FB Music Extractor</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/a-value-below-the-minimum-required-insulation-resistance-indicates-potential-insulation-failure-which-could-lead-to-dangerous-conditions-like-electric-shock125/"><u>A Value Below the Minimum Required Insulation Resistance Indicates Potential Insulation Failure, Which Could Lead to Dangerous Conditions Like Electric Shock or Fire</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/generative-ai-innovation-exploring-7-revolutionary-effects-on-job-opportunities-and-skills-demand/"><u>Generative AI Innovation: Exploring 7 Revolutionary Effects on Job Opportunities and Skills Demand</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/generative-bots-battle-gpt-or-bing-chat-leads/"><u>Generative Bots Battle - GPT or Bing Chat Leads?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/get-started-with-chatgpt-now-avoid-openai-signup-with-these-5-tips/"><u>Get Started with ChatGPT Now - Avoid OpenAI Signup With These 5 Tips</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gpts-role-in-generating-secure-and-productive-routines/"><u>GPT's Role in Generating Secure and Productive Routines</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/harness-the-power-of-ai-for-seamless-web-app-creation-with-chatgpt/"><u>Harness the Power of AI for Seamless Web App Creation with ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-identify-and-reject-suspicious-chatgpt-portals/"><u>How to Identify and Reject Suspicious ChatGPT Portals</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-asus-rog-phone-8-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Asus ROG Phone 8 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/identifying-bingchatgpt-cryptocurrency-frauds-a-guide-on-recognizing-sham-coins/"><u>Identifying BingChatGPT Cryptocurrency Frauds: A Guide on Recognizing Sham Coins</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-oppo-find-n3-flip-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Oppo Find N3 Flip Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-motorola-moto-g73-5g-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Motorola Moto G73 5G Device</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/invisible-inbox-concealing-your-chatgpt-dialogues-without-erasing-them/"><u>Invisible Inbox: Concealing Your ChatGPT Dialogues Without Erasing Them</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/table-video-popularity-tracker-in-youtube-arena/"><u>Unbeatable Video Popularity Tracker in YouTube Arena</u></a></li>
+</ul></div>
 

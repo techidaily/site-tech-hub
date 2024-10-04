@@ -1,7 +1,7 @@
 ---
 title: "Empowering Learning: The 5 Best Uses of ChatGPT in Educational Settings"
-date: 2024-09-16T00:58:35.140Z
-updated: 2024-09-22T23:15:29.689Z
+date: 2024-09-29T22:48:41.953Z
+updated: 2024-10-04T07:13:24.000Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/9fb33bd6bba9695ce8ba1da0e2a2f8b35a76e62cf
 
 [ChatGPT is a chatbot](http://www.makeuseof.com/how-does-chatgpt-work/) that uses the GPT-3 (Generative Pretrained Transformer 3) framework, a highly advanced artificial intelligence (AI) model used for language processing developed by OpenAI. ChatGPT has more than 175 billion parameters, making it among the largest and most powerful language models available, and the model was trained using a massive amount of data from the internet and other sources.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How Do People Use ChatGPT?
 
  ChatGPT launched in November 2022, and it didn’t take long for people to experiment with how they might use it. For example, you can[use ChatGPT to do everything](http://www.makeuseof.com/things-you-can-do-with-chatgpt/) from telling pumpkin jokes to advising how to improve team collaboration or even writing marketing emails!
@@ -40,9 +47,23 @@ thumbnail: https://thmb.techidaily.com/9fb33bd6bba9695ce8ba1da0e2a2f8b35a76e62cf
 
  These examples might make you think there’s[no limit to what ChatGPT can do](https://www.makeuseof.com/openai-lost-control-chatgpt/) . However, that’s not an accurate assumption.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Will ChatGPT Replace Programmers?
 
 ![artificial intelligence coming out of computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/artificial-intelligence-7215709_1280.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Whenever a new AI tool emerges on the tech scene, many people understandably wonder whether that innovation might get so advanced that it makes their jobs obsolete. Even people such as programmers, who have highly specialized skills, might face that worry.
 
@@ -59,16 +80,10 @@ thumbnail: https://thmb.techidaily.com/9fb33bd6bba9695ce8ba1da0e2a2f8b35a76e62cf
  Some malicious actors have tried to use ChatGPT to their advantage. For example, some[criminals are using ChatGPT to make malware](https://www.makeuseof.com/chatgpt-used-by-cybercriminals-to-write-malware/) , ransomware, and other malicious encryption tools, despite having limited programming knowledge. This ChatGPT application will likely increase the challenges cybersecurity teams face.
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Will ChatGPT Replace Other Jobs?
@@ -80,13 +95,6 @@ thumbnail: https://thmb.techidaily.com/9fb33bd6bba9695ce8ba1da0e2a2f8b35a76e62cf
  There’s also an interesting Twitter thread where ChatGPT impressed by helping to diagnose a type of heart disease. However, others replied that the chatbot is good at faking expertise and provided several possible diagnoses. Someone with genuine medical expertise must review the responses and use their knowledge to gauge the chatbot’s accuracy.
 
  Elsewhere, people are explicitly[formatting questions to make ChatGPT ignore](https://www.makeuseof.com/how-to-get-best-results-from-chatgpt/) its programming. That practice could spread misinformation. The question-and-answer site Stack Overflow also initiated a temporary ban on ChatGPT. Staff members explained the influx of ChatGPT-generated responses swamped content moderators who need some level of subject matter expertise to verify the accuracy, and[spotting generative AI written text](http://www.makeuseof.com/dangers-ai-writing-how-spot-ai-generated-text/) is next to impossible.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT Deserves Caution
 
@@ -105,5 +113,20 @@ thumbnail: https://thmb.techidaily.com/9fb33bd6bba9695ce8ba1da0e2a2f8b35a76e62cf
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-esteemed-endorsements-elite-online-destinations-for-snapping-alert-music-for-2024/"><u>[New] Esteemed Endorsements Elite Online Destinations for Snapping Alert Music for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-perfecting-soundtracks-with-imovie-tools/"><u>2024 Approved Perfecting Soundtracks with iMovie Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-stealthy-image-revisions-blur-without-notice/"><u>2024 Approved Stealthy Image Revisions Blur Without Notice</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/audiophile-tools-best-audio-interfaces-for-podcasters/"><u>Audiophile Tools Best Audio Interfaces for Podcasters</u></a></li>
+<li><a href="https://games-able.techidaily.com/diminishing-xbox-game-bar-introspection-on-pcs-running-win-11/"><u>Diminishing Xbox Game Bar Introspection on PCs Running Win 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exiting-the-chatgpt-realm-top-alternatives/"><u>Exiting the ChatGPT Realm: Top Alternatives</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/explore-the-latest-chatgpt-for-android-users/"><u>Explore the Latest: ChatGPT for Android Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-cybersecurity-risks-linus-tech-tips-targeted-by-trojans-chatgpt-limitations-and-the-latest-tweets-with-checkmarks-feature/"><u>Exploring Cybersecurity Risks: Linus Tech Tips Targeted by Trojans, ChatGPT Limitations, and the Latest Tweets with Checkmarks Feature</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-itel-p40-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Itel P40</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovation-catalyst-integrating-mindmaps-and-gpt-3/"><u>Innovation Catalyst: Integrating Mindmaps & GPT-3</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovation-horizon-eclipsing-the-classic-test/"><u>Innovation Horizon: Eclipsing the Classic Test</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovative-strategies-for-building-a-conversational-web-app-with-gpt-powered-tools/"><u>Innovative Strategies for Building a Conversational Web App with GPT-Powered Tools</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshooting-steps-when-you-encounter-audio-device-unsupported-for-dts/"><u>Troubleshooting Steps When You Encounter 'Audio Device Unsupported for DTS'</u></a></li>
+</ul></div>
 

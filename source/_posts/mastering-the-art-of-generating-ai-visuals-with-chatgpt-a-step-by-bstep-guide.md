@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Generating AI Visuals with ChatGPT: A Step-by-BStep Guide"
-date: 2024-09-21T19:12:00.651Z
-updated: 2024-09-22T22:18:48.161Z
+date: 2024-10-02T13:27:52.939Z
+updated: 2024-10-04T09:45:23.392Z
 tags:
   - chatgpt
   - open-ai
@@ -54,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/0091dc61c65475448e6b20380c1ba19b6aec743f4
 
 ![ShortlyAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/shortlyai.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [ShortlyAI](https://www.shortlyai.com/) is another tool without too many features. However, this one is focused on either blog posts or story writing, which makes it much more specialized.
 
  To begin a story, you’ll need to pick**I’m writing a story** . Then, you can input your title and the first few words. The magic happens thanks to the**Story background** . That’s where you tell your AI about your characters, plot, genre, and tone in not more than 500 characters.
@@ -63,13 +70,6 @@ thumbnail: https://thmb.techidaily.com/0091dc61c65475448e6b20380c1ba19b6aec743f4
  As this software looks like a regular Word document, it’s quite intuitive and easy to use. You can also go back to previous drafts and edit them.
 
 **Cost:** $79 per month for unlimited use. However, if you want to try it out, you can sign up without a credit card—and you get four clicks a day.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. DeepStory
 
@@ -82,15 +82,28 @@ thumbnail: https://thmb.techidaily.com/0091dc61c65475448e6b20380c1ba19b6aec743f4
 **Cost:** $12 per month, with a limit of 10,000 words. You can also try it out for free for 10 generations.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. NovelAI
 
 ![NovelAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/novelai.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [NovelAI](https://novelai.net/) is one of the most complex AI story writers on the list. But it’s also one of the most exciting ones. The basic new story AI generator works somewhat similarly to the others. You start writing the first few words or sentences of the story, and let the AI continue.
 
@@ -101,6 +114,13 @@ thumbnail: https://thmb.techidaily.com/0091dc61c65475448e6b20380c1ba19b6aec743f4
  But the most fun part of this software is the**Adventure Text Module** . With this feature, writing becomes almost like a game. Instead of just writing a prompt, you can instruct the software that the prompt is either**Do, Say, or Story** . It feels like a “build your own adventure” book, where everything is written in real-time.
 
 **Cost:** $10/$15/$25 per month. All of these give you unlimited text generations but offer other advanced and experimental features. You can try it for free for 100 text generations.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Leave the Writer’s Block Behind With These AI Story Generators
 
@@ -121,5 +141,23 @@ thumbnail: https://thmb.techidaily.com/0091dc61c65475448e6b20380c1ba19b6aec743f4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-master-the-craft-refining-title-and-description-in-igtv-videos/"><u>[New] In 2024, Master the Craft Refining Title & Description in IGTV Videos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-seamlessly-combining-iphone-videos-and-images/"><u>[Updated] In 2024, Seamlessly Combining IPhone Videos and Images</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/uding-coverage-craftsmanship-for-2024/"><u>Concluding Coverage Craftsmanship for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-honor-100-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Honor 100 Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-samsung-galaxy-a54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-samsung-galaxy-a14-4g-drfone-by-drfone-android/"><u>How to Screen Mirroring Samsung Galaxy A14 4G? | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/nvidia-shadowplay-issues-fixing-guide-troubleshoot-non-recording-problems/"><u>Nvidia Shadowplay Issues Fixing Guide - Troubleshoot Non-Recording Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211612497-pdf-wont-print-discover-fast-solutions-now/"><u>PDF Won't Print? Discover Fast Solutions Now!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/recognizing-chatgpt-scams-tips-for-internet-safety/"><u>Recognizing ChatGPT Scams: Tips for Internet Safety</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/retro-gaming-insights-and-personal-computing-fixes/"><u>Retro Gaming Insights & Personal Computing Fixes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/snapchats-ai-6-insights-into-its-role-in-modern-tech/"><u>Snapchat's AI: 6 Insights Into Its Role in Modern Tech</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/statecraft-in-silicon-four-modalities-for-ai-oversight/"><u>Statecraft in Silicon: Four Modalities for AI Oversight</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/swift-techniques-for-eliminating-old-gpt-dialogues/"><u>Swift Techniques for Eliminating Old GPT Dialogues</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tech-showdown-how-does-googles-palm-2-stack-up-against-gpt-4-by-openai/"><u>Tech Showdown: How Does Google's PaLM 2 Stack Up Against GPT-4 by OpenAI?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-future-of-ai-interactions-is-now-embrace-chromes-gpt-extension/"><u>The Future of AI Interactions Is Now – Embrace Chrome's GPT Extension</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/your-essential-guide-to-watch-movies-legally-and-for-free-select-12-premier-sites/"><u>Your Essential Guide to Watch Movies Legally & For Free – Select 12 Premier Sites!</u></a></li>
+</ul></div>
 

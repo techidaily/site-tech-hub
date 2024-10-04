@@ -1,7 +1,7 @@
 ---
 title: "Changing Your Proton VPN Account Email: A Step-by-Step Guide + Spotting the Real ChatGPT App for Windows Users"
-date: 2024-09-21T02:11:34.488Z
-updated: 2024-09-22T16:47:14.320Z
+date: 2024-10-02T07:29:50.728Z
+updated: 2024-10-04T06:58:31.429Z
 tags:
   - chatgpt
   - open-ai
@@ -36,27 +36,35 @@ Guardio took to Twitter to warn readers of the malicious campaign.
 
  It was also speculated in the blog post that, once the attacker has accessed your data, they will "probably[sell it to the highest bidder](https://www.makeuseof.com/how-can-data-be-sold-dark-web/) as usual."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Thousands of Facebook Accounts May Have Been Compromised
 
  In this malicious campaign, thousands of Facebook accounts may have been successfully hijacked. In the aforementioned blog post, it was stated that there are "more than 2000 users installing this extension on a daily basis since its first appearance on 03/03/2023."
 
  On top of this, Tal wrote that each one of the individuals installing the add-on "gets his Facebook account stolen and probably this is not the only damage," suggesting that other consequences may arise from the extension's presence.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The Malicious App Has Been Removed from Chrome
 
  Though thousands have downloaded this phony browser extension, it has now been taken down from the Google Chrome Store, preventing further attacks via Chrome-based downloads. It is not yet known exactly how many people have been affected by this campaign, but the number of installations is a definite concern.
 
 <!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT's Name Is Consistently Used by Scammers
@@ -76,5 +84,18 @@ Guardio took to Twitter to warn readers of the malicious campaign.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-streamitsimple-your-first-guide-to-live-podcasting/"><u>[New] 2024 Approved StreamItSimple Your First Guide to Live Podcasting</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-true-tints-and-shades-in-photos/"><u>[New] Unlocking True Tints and Shades in Photos</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-ultimate-budget-friendly-viewer-contests/"><u>[Updated] In 2024, Ultimate Budget-Friendly Viewer Contests</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-virtual-venues-redefining-entertainment-landscapes/"><u>[Updated] Virtual Venues Redefining Entertainment Landscapes</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-your-pcs-media-malfunction-find-and-apply-the-missing-vital-driver/"><u>Fix Your PC's Media Malfunction - Find and Apply the Missing Vital Driver</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-jailbreak-icloud-locked-apple-iphone-14-pro-by-drfone-ios/"><u>How to jailbreak iCloud locked Apple iPhone 14 Pro</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-enduring-impact-and-future-role-of-the-turing-test/"><u>The Enduring Impact and Future Role of the Turing Test</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-perspectives-of-10-global-tech-visionaries-on-the-evolution-of-ai/"><u>The Perspectives of 10 Global Tech Visionaries on the Evolution of AI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-list-of-7-ai-programs-enhancing-your-ability-to-solve-math-puzzles/"><u>The Ultimate List of 7 AI Programs Enhancing Your Ability to Solve Math Puzzles</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-5-risks-of-relying-on-chatgpt-for-health-consultations/"><u>Top 5 Risks of Relying on ChatGPT for Health Consultations</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/upgrade-your-iphones-productivity-quickscanandocr-for-seamless-pdf-and-jpg-transformation-into-editable-text/"><u>Upgrade Your iPhone's Productivity: QuickScan&OCR for Seamless PDF and JPG Transformation Into Editable Text.</u></a></li>
+</ul></div>
 

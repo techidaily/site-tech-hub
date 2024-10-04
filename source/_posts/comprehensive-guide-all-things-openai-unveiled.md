@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: All Things OpenAI Unveiled"
-date: 2024-09-15T16:09:38.573Z
-updated: 2024-09-22T18:56:04.074Z
+date: 2024-10-02T16:32:45.269Z
+updated: 2024-10-04T14:30:52.769Z
 tags:
   - chatgpt
   - open-ai
@@ -65,10 +65,16 @@ thumbnail: https://thmb.techidaily.com/56330953ffdc4465c49b828b7088926c62fd587a1
 ![man at the base of a flagpole flying the flag of nepal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/man-at-the-base-of-a-flagpole-flying-the-flag-of-nepal.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In order to test which LLM has the best general knowledge, we asked three questions.
@@ -87,6 +93,13 @@ thumbnail: https://thmb.techidaily.com/56330953ffdc4465c49b828b7088926c62fd587a1
 
 ![burnt socket for a  BS 1363 type plug](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/burnt-socket-for-a-bs-1363-type-plug.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When you have technical problems, you might be tempted to turn to a chatbot for help. While technology marches on, some things remain the same. The BS 1363 electrical plug has been in use in Britain, Ireland, and many other countries since 1947\. We asked the language models how to correctly wire it up.
 
  Cables attaching to the plug have a live wire (brown), an earth wire (yellow/green), and a neutral wire (blue). These must be attached to the correct terminals within the plug housing.
@@ -103,22 +116,15 @@ thumbnail: https://thmb.techidaily.com/56330953ffdc4465c49b828b7088926c62fd587a1
 
 ![MicroPython logo with snake sitting on a microchip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/asdfasdf.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Python is a useful programming language](https://www.makeuseof.com/what-is-python-used-for/) that runs on most modern platforms. We instructed our models to use Python and "Build a basic calculator program that can perform arithmetic operations like addition, subtraction, multiplication, and division. It should take user input and display the result." This is one of the[best programming projects for beginners](https://www.makeuseof.com/tag/beginner-programming-projects/) .
 
  While both Bard and ChatGPT instantly returned usable and thoroughly commented code, which we were able to test and verify, none of the code from our local model would run.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which LLM Tells the Best Jokes?
@@ -136,6 +142,13 @@ thumbnail: https://thmb.techidaily.com/56330953ffdc4465c49b828b7088926c62fd587a1
  A derivative but original joke would be, "How are Large Language Models like atoms? They both make things up!"
 
 You read it here first, folks.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## No Chatbot Is Perfect
 
@@ -158,5 +171,21 @@ You read it here first, folks.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-expert-video-edits-how-to-masterly-modify-and-shorten-videos-on-vimeo-online/"><u>[New] Expert Video Edits How to Masterly Modify and Shorten Videos on Vimeo Online</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-design-principles-for-eye-catching-yt-previews/"><u>2024 Approved Design Principles for Eye-Catching YT Previews</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-compreenasive-look-at-the-progression-of-openais-models/"><u>A Compreenasive Look at the Progression of OpenAI's Models</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/amd-radeon-hd-6450-drivers-update-in-windows-10/"><u>AMD Radeon HD 6450 Drivers Update in Windows 10</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-on-your-iphone-se-2022-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code On your iPhone SE (2022)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-new-realms-todays-vr-tomorrows-trials-for-2024/"><u>Navigating New Realms Today's VR, Tomorrow's Trials for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pc-game-crash-during-endgame-heres-how-you-can-stop-it/"><u>PC Game Crash During Endgame? Here's How You Can Stop It!</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/1726026558525-pc/"><u>PCまたはスマホから自由なオーディオクリップを効果的にレコーディングする方法</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-checklist-what-makes-dji-phantom-4-special-in-2024/"><u>The Ultimate Checklist What Makes DJI Phantom 4 Special, In 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-your-well-being-potential-crafting-smart-health-goals-with-chatgpt/"><u>Unlocking Your Well-Being Potential: Crafting Smart Health Goals with ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unraveling-openai-your-definitive-compilation-of-knowledge/"><u>Unraveling OpenAI: Your Definitive Compilation of Knowledge</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-finest-ai-software-to-enhance-your-phones-capabilities-ios-and-android/"><u>Unveiling the Finest AI Software to Enhance Your Phone's Capabilities (iOS & Android)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-secrets-of-chatgpts-code-interpreter-a-key-to-innovation/"><u>Unveiling the Secrets of ChatGPT's Code Interpreter - A Key to Innovation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/utilizing-chatgpt-for-seamless-smart-home-device-management-feasible-or-not/"><u>Utilizing ChatGPT for Seamless Smart Home Device Management - Feasible or Not?</u></a></li>
+</ul></div>
 

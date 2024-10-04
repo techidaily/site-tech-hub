@@ -1,7 +1,7 @@
 ---
 title: Top 5 Strategies to Craft Winning Prompts for Optimal ChatGPT Responses
-date: 2024-09-15T22:37:00.090Z
-updated: 2024-09-22T23:36:19.845Z
+date: 2024-09-27T14:43:34.112Z
+updated: 2024-10-04T13:00:15.865Z
 tags:
   - chatgpt
   - open-ai
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc
 
  Once you've generated the presentation, all that is left is to make some final changes and export the presentation to any format you like. If you want to create a PowerPoint slideshow with AI, you can follow these same steps and then export the slideshow to PowerPoint.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Generate the Presentation Text With ChatGPT
 
  The first step in creating a presentation is to generate the text with ChatGPT. To get a proper output, you must provide ChatGPT with some basic information about the presentation, such as the topic, the audience, and the main points you want to cover.
@@ -48,11 +55,25 @@ thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc
 
 ![A sample conversation with ChatGPT to generate text for a presentation.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-presentation-text.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you have provided the information, ChatGPT will generate the presentation text for you. You can edit and refine the text to meet your needs and preferences. It's best to remove the structural phrases, such as the slide numbers and the image descriptions. Keep only the main text.
 
  If you'll be using the free version of SlidesAI, it's important to note that there are limits on the number of characters and slides. Specifically, the free version has a limit of 2500 characters and can generate no more than ten slides. You can adjust your prompt or edit the ChatGPT output if you need to work within these limits.
 
  If you want to make the whole process even easier and don't feel like editing the AI-generated text yourself, you can use yet another[AI writing tool](https://www.makeuseof.com/ai-writing-tools/) to edit ChatGPT's output.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Install SlidesAI for Google Slides
 
@@ -69,13 +90,6 @@ thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc
 
  SlidesAI will then ask you to sign in with your Google Account. Follow the instructions and then wait for SlidesAI to finish installing.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Compile the Presentation With SlidesAI
 
  With SlidesAI installed, you can now begin creating your presentation. You can do this in the same blank presentation you made in the previous step. SlidesAI will automatically add new slides and fill them with appropriate content.
@@ -86,31 +100,32 @@ thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc
 3. In the new window, paste your text under**Enter text** .  
 ![SlidesAI extension in Google Slides](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-slides-slidesai.jpg)
 4. Select the presentation type and the number of slides from the right.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Check whether you want SlidesAI to add images or a title and thank you slides.
 6. Check**Replace Existing Slides** .
 7. Go to the**Themes** tab and select a style.  
 ![Choosing a theme in SlidesAI ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/slides-slidesai-theme.jpg)
 8. When all is set, go back to the**Text** tab and click**Create Slides** .
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  SlidesAI will now take the text you generated with ChatGPT and use it to automatically create the slides for your presentation. This can take a while, depending on your input.
 
 ![An AI generated presentation in Google Slides](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-slides-presentation.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once the AI is done, you'll get a message saying your slides have been created. Close the SlidesAI window and check them out!
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Add the Finishing Touches and Export the Presentation
 
@@ -152,5 +167,24 @@ thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-leveraging-visual-storytelling-in-podcast-trailer-production/"><u>[New] 2024 Approved Leveraging Visual Storytelling in Podcast Trailer Production</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-creating-a-captivating-experience-with-your-first-facebook-live/"><u>[New] Creating a Captivating Experience with Your First Facebook Live</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-pure-entertainment-kids-fun-games-roundup/"><u>[Updated] Pure Entertainment Kids' Fun Games Roundup</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-transitioning-from-rgb-to-srgb/"><u>2024 Approved Transitioning From Rgb to Srgb</u></a></li>
+<li><a href="https://techtrends.techidaily.com/breaking-down-the-features-of-the-upcoming-sony-afelea-automobile-expected-costs-included/"><u>Breaking Down the Features of the Upcoming Sony Afelea Automobile - Expected Costs Included!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhanced-user-experience-with-customized-advertising-through-cookiebot-technology/"><u>Enhanced User Experience with Customized Advertising Through Cookiebot Technology</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-samsung-galaxy-a34-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Samsung Galaxy A34 5G Phones with/without a PC</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-the-pitfalls-of-overreliance-on-artificial-intelligence-learn-6-reasons-to-proceed-with-care/"><u>Navigating the Pitfalls of Overreliance on Artificial Intelligence - Learn 6 Reasons to Proceed with Care</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/optimizing-your-chatgpt-experience-on-macos/"><u>Optimizing Your ChatGPT Experience on macOS</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/personalized-ai-authorship-strategies-to-train-chatgpt-as-an-extension-of-you/"><u>Personalized AI Authorship: Strategies to Train ChatGPT as an Extension of You</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/puzzling-the-digital-sphere-join-4-ai-enhanced-crime-games/"><u>Puzzling the Digital Sphere: Join 4 AI-Enhanced Crime Games</u></a></li>
+<li><a href="https://techidaily.com/redefine-your-customer-journey-with-advanced-interaction-automation/"><u>Redefine Your Customer Journey with Advanced Interaction Automation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/replaced-leader-openai-and-gpt-implications/"><u>Replaced Leader: OpenAI and GPT Implications</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionize-your-development-process-with-these-angs-to-leverage-chatgpts-syntax-translation-capabilities/"><u>Revolutionize Your Development Process with These Angs to Leverage ChatGPT's Syntax Translation Capabilities</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/safe-mode-mastery-for-windows-10-four-proven-approaches-illustrated-with-images/"><u>Safe Mode Mastery for Windows 10 - Four Proven Approaches Illustrated with Images</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/seamlessly-edit-pdfs-find-the-ultimate-ai-plugin-set/"><u>Seamlessly Edit PDFs: Find the Ultimate AI Plugin Set</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/select-the-best-ai-conversational-agent-7-crucial-characteristics-to-look-for/"><u>Select the Best AI Conversational Agent: 7 Crucial Characteristics to Look For</u></a></li>
+</ul></div>
 

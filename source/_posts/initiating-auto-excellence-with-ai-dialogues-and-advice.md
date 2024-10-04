@@ -1,7 +1,7 @@
 ---
 title: Initiating Auto Excellence with AI Dialogues and Advice
-date: 2024-09-28T00:57:26.134Z
-updated: 2024-09-29T01:44:56.437Z
+date: 2024-10-02T02:05:27.522Z
+updated: 2024-10-03T22:37:11.155Z
 tags:
   - chatgpt
   - open-ai
@@ -37,10 +37,10 @@ thumbnail: https://thmb.techidaily.com/cc5e0ccb2974725fe4ffe86c209fbe5c027a26cc8
  The cybercriminals used a Facebook page impersonating OpenAI, complete with official ChatGPT logos, to redirect unsuspecting users to the malicious site.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. openai-pc-pro.online
@@ -55,16 +55,16 @@ thumbnail: https://thmb.techidaily.com/cc5e0ccb2974725fe4ffe86c209fbe5c027a26cc8
 
  ChatGPT AI, the fake ChatGPT Facebook page, also features posts that include links to “chat-gpt-pc.online,” another domain that redirects users to a malicious ChatGPT-themed website.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. chatgpt-go.online
 
  The domain “chatgpt-go.online” leads users to a website that’s a clone of the official ChatGPT website. The copy-pasted site, however, swaps the “TRY CHATGPT” button link with malicious links containing Lumma Stealer. The domain also hosts different kinds of malicious files, including clipper malware and Aurora stealer.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. pay.chatgptftw.com
 
@@ -72,15 +72,22 @@ thumbnail: https://thmb.techidaily.com/cc5e0ccb2974725fe4ffe86c209fbe5c027a26cc8
 
  Cybercriminals also use ChatGPT-themed payment pages for financial fraud. For example, on the domain “pay.chatgptftw.com,” Cyble came across a page designed to steal credit card details. This webpage poses as a genuine payment page for ChatGPT Plus.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. ChatGPT1
 
  The Cyble report highlights another malware app that uses the ChatGPT icon. The malicious app, “ChatGPT1,” is an SMS billing fraud app downloaded as chatGPT1.apk. It operates discreetly, subscribing users to premium services without their consent.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. AI Photo
@@ -90,13 +97,6 @@ thumbnail: https://thmb.techidaily.com/cc5e0ccb2974725fe4ffe86c209fbe5c027a26cc8
 ## 8\. Meterpreter Posing as “SuperGPT” App
 
 ![The official SuperGPT's install page on Google Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/supergpt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  SuperGPT is an AI assistant app built on ChatGPT. However, researchers from Unit 42 uncovered a malicious APK sample posing as the app. This fake “SuperGPT” is a Meterpreter Trojan, [a RAT that enables remote access](https://www.makeuseof.com/android-remote-access-trojan/) of Android devices.
 
@@ -137,20 +137,15 @@ thumbnail: https://thmb.techidaily.com/cc5e0ccb2974725fe4ffe86c209fbe5c027a26cc8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-sky-high-results-the-creme-de-la-liste-of-drone-editors/"><u>[New] Sky-High Results The Crème De La Liste of Drone Editors</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-composing-captivating-podcast-narratives/"><u>[Updated] Composing Captivating Podcast Narratives</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-voice-logging-access-and-evaluation/"><u>[Updated] Voice Logging Access & Evaluation</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/a-fusion-of-analog-charm-and-digital-sophistication-unveiling-our-comprehensive-review-of-withings-move-smartwatches/"><u>A Fusion of Analog Charm & Digital Sophistication - Unveiling Our Comprehensive Review of Withings Move Smartwatches</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/account-takeover-restoring-access-in-the-new-year-for-2024/"><u>Account Takeover? Restoring Access in the New Year for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-realme-gt-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Realme GT 3 | Dr.fone</u></a></li>
-<li><a href="https://win-tips.techidaily.com/how-to-safely-stream-and-download-all-spongebob-squarepants-tv-show-seasons/"><u>How to Safely Stream and Download All SpongeBob SquarePants TV Show Seasons</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-unmatched-excel-mastery-gap-across-ai-dialogue-systems/"><u>The Unmatched Excel Mastery Gap Across AI Dialogue Systems</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transform-your-health-routine-using-the-top-8-chatbot-tools-tailored-to-fitness-enthusiasts/"><u>Transform Your Health Routine Using the Top 8 Chatbot Tools Tailored to Fitness Enthusiasts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transform-your-workflow-explore-8-effective-ways-to-utilize-auto-gpt/"><u>Transform Your Workflow: Explore 8 Effective Ways to Utilize Auto-GPT</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-samsung-galaxy-s23-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Samsung Galaxy S23 FRP Bypass</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-llama-2-usage-features-and-benefits/"><u>Understanding Llama 2: Usage, Features, and Benefits</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-the-distinctions-siri-vs-chatgpt-unveiled/"><u>Understanding the Distinctions: Siri Vs. ChatGPT Unveiled</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unheard-truth-talk-to-chatgpt-now/"><u>Unheard Truth: Talk to ChatGPT Now!</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/vimeo-chaptering-organizing-video-sections/"><u>Vimeo Chaptering Organizing Video Sections</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-delving-into-the-world-of-mixed-reality-technology/"><u>[New] In 2024, Delving Into the World of Mixed Reality Technology</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-effortless-techniques-for-lenovo-capture-tasks/"><u>[Updated] Effortless Techniques for Lenovo Capture Tasks</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-integrating-mixer-with-macos-for-smooth-streaming/"><u>2024 Approved Integrating Mixer with macOS for Smooth Streaming</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/developing-your-own-chatbot-app-a-comprehensive-walkthrough/"><u>Developing Your Own Chatbot App: A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-huggingchat-your-free-community-driven-answer-to-chatgpt/"><u>Discover HuggingChat: Your Free, Community-Driven Answer to ChatGPT</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-infinix-zero-30-5g-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from Infinix Zero 30 5G</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-user-engagement-the-ultimate-list-of-9-must-try-chatgpt-plugins-now/"><u>Elevate User Engagement: The Ultimate List of 9 Must-Try ChatGPT Plugins Now</u></a></li>
+<li><a href="https://discover-help.techidaily.com/evolucion-completa-como-utilizar-eficientemente-el-software-winxdvd-guia-paso-a-paso/"><u>Evolución Completa: Cómo Utilizar Eficientemente El Software WinXDVD - Guía Paso a Paso</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/expert-instructions-activating-and-utilizing-microsoft-copilot-on-macos-systems/"><u>Expert Instructions: Activating and Utilizing Microsoft Copilot on macOS Systems</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/take-screenshots-with-precision-on-a-mac-for-2024/"><u>Take Screenshots with Precision on a Mac for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Essential Steps to Uplift GPT's Integrated Plugin Platform
-date: 2024-09-16T23:22:48.331Z
-updated: 2024-09-22T21:51:27.280Z
+date: 2024-09-29T08:48:34.082Z
+updated: 2024-10-03T23:55:53.113Z
 tags:
   - chatgpt
   - open-ai
@@ -56,6 +56,13 @@ Start by installing:
 
 ![Installing Microsoft C++ through Build Tools](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/2-install-c.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now that you have installed the latest versions of Python3, Git, and Microsoft C++, you can download the Python script to easily query custom local data.
 
 **Download:** [ChatGPT-retrieval script](https://github.com/techleadhd/chatgpt-retrieval) (Free)
@@ -67,10 +74,16 @@ Start by installing:
 Once downloaded, we can now set up a local environment.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Step 2: Set Up the Local Environment
@@ -97,20 +110,27 @@ pip install langchain openai chromadb tiktoken unstructured
 
  Now that you have successfully set up your virtual environment and added your OpenAI API key as an environment variable. You can now provide your custom data to ChatGPT.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Step 3: Adding Custom Data
 
  To add custom data, place all your custom text data in the**data** folder within chatgpt-retrieval-main. The format of the text data may be in the form of a PDF, TXT, or DOC.
 
 ![Adding custom data for ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/adding-data.jpg)
 
- As you can see from the screenshot above, I've added a text file containing a made-up personal schedule, an article I wrote on[AMD's Instinct Accelerators](https://www.makeuseof.com/what-are-amd-instinct-ai-accelerators/) , and a PDF document.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ As you can see from the screenshot above, I've added a text file containing a made-up personal schedule, an article I wrote on[AMD's Instinct Accelerators](https://www.makeuseof.com/what-are-amd-instinct-ai-accelerators/) , and a PDF document.
 
 ## Step 4: Querying ChatGPT Through Terminal
 
@@ -126,16 +146,16 @@ Make sure to put your questions in quotation marks.
 
 ![Testing ChatGPT with custom data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/visit.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  It worked! This means ChatGPT was able to read the Personal Sched.txt provided earlier. Now let's see if we have successfully fed ChatGPT with information it does not know due to its knowledge cutoff date.
 
 ![Asking custom ChatGPT about topic outside knowledge cut off data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/m250x.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  As you can see, it correctly described the AMD Instinct MI250x, which was released after ChatGPT -3's knowledge cutoff date.
 
@@ -150,10 +170,10 @@ Make sure to put your questions in quotation marks.
  Lastly, the only model currently available is GPT-3.5 Turbo. So even if you have access to GPT-4, you won't be able to use it to power your custom ChatGPT instance.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Custom ChatGPT Is Awesome But Limited
@@ -173,5 +193,22 @@ Make sure to put your questions in quotation marks.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/new-best-hashtags-for-youtube-to-get-your-views-to-6-figures/"><u>[New] Best Hashtags for YouTube To Get Your Views to 6 Figures</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-find-your-digital-companion-the-top-6-youtube-personality-puzzles-for-2024/"><u>[New] Find Your Digital Companion The Top 6 YouTube Personality Puzzles for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-celebrated-20-independent-pubg-photo-sequences/"><u>[Updated] Celebrated 20 Independent PUBG Photo Sequences</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-on-apple-iphone-12-pro-max-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code On Apple iPhone 12 Pro Max</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-switching-on-windows-11s-adaptive-hdr-option/"><u>In 2024, Switching On Windows 11'S Adaptive HDR Option</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/instagram-stories-incorporating-natural-bokeh-effects/"><u>Instagram Stories Incorporating Natural Bokeh Effects</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-it-worth-exploring-auto-gpt-while-anticipating-the-release-of-gpt-4/"><u>Is It Worth Exploring Auto-GPT While Anticipating the Release of GPT-4?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-truthgpt-coin-genuine-or-fraudulent-uncovering-the-facts/"><u>Is TruthGPT Coin Genuine or Fraudulent? Uncovering the Facts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/life-made-effortless-unlocking-the-power-of-chatgpt-in-9-ways/"><u>Life Made Effortless: Unlocking the Power of ChatGPT in 9 Ways</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maintaining-confidentiality-with-chatgpt-at-the-office-a-comprehensive-guide/"><u>Maintaining Confidentiality with ChatGPT at the Office: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-chatgpt-the-ultimate-guide-to-writing-winning-prompts-for-excellent-outcomes/"><u>Mastering ChatGPT: The Ultimate Guide to Writing Winning Prompts for Excellent Outcomes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-relaxation-managing-anxiety-using-chatgpt/"><u>Mastering Relaxation: Managing Anxiety Using ChatGPT</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-persistent-problems-ensuring-stability-in-your-microsoft-outlook-experience/"><u>Resolving Persistent Problems: Ensuring Stability in Your Microsoft Outlook Experience</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722878305339-what-does-a-502-bad-gateway-issue-mean-a-simple-fixing-manual/"><u>What Does a 502 Bad Gateway Issue Mean? A Simple Fixing Manual.</u></a></li>
+</ul></div>
 

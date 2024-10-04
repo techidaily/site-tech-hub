@@ -1,7 +1,7 @@
 ---
 title: Avoiding AI Miscommunications with 6 Key Points
-date: 2024-09-19T01:16:06.418Z
-updated: 2024-09-23T00:49:35.658Z
+date: 2024-10-02T14:41:14.371Z
+updated: 2024-10-04T01:14:05.099Z
 tags:
   - chatgpt
   - open-ai
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/6cb4391f5b78a0bded981255e816f25b4a4f4175f
 
  This [bug bounty program](https://www.makeuseof.com/bug-bounty-programs/) covers vulnerabilities in all OpenAI systems, including API targets and keys, ChatGPT, and the research organization. However, the initiative does not cover safety issues with OpenAI's model, including safety bypasses and getting the model to create malicious code. In addition, the firm will not be rewarding issues related to model prompt content or responses and [AI hallucinations](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/). You may report these to [OpenAI's team](https://openai.com/form/model-behavior-feedback) for model behavior feedback.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How Much Can You Earn From OpenAI's Bug Bounty Program?
 
  OpenAI determines the cash rewards to be paid based on how severe and impactful the discovered bug is. Typically, the reward ranges from $200 to $6,500 per vulnerability but can be higher if your findings are exceptional and of great consequence.
@@ -52,11 +59,25 @@ thumbnail: https://thmb.techidaily.com/6cb4391f5b78a0bded981255e816f25b4a4f4175f
 
  Additionally, the AI research company will not reimburse you for any purchases or upgrades you make when identifying or testing for bugs.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Participate in OpenAI's Bug Bounty Program
 
  Since Bugcrowd facilitates this bug bounty program, you must create a Bugcrowd account to participate. OpenAI even suggests you carry out authorized additional testing using an "@bugcrowdninja.com" email address.
 
 ![Bugcrowd log in page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bugcrowd-log-in-page.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  With a Bugcrowd account, you can click the "Submit Report" tab on the [Bugcrowd OpenAI program page](https://bugcrowd.com/openai) to report vulnerabilities. This will lead you to the submissions page.
 
@@ -78,13 +99,6 @@ thumbnail: https://thmb.techidaily.com/6cb4391f5b78a0bded981255e816f25b4a4f4175f
 
  Note that you are not to submit API keys to Bugcrowd. You must only submit keys you find online through the [OpenAI API key form](https://forms.gle/h8bQ5YKWzXb8FtrQ8).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Which Vulnerabilities Are Eligible for Rewards?
 
  You will be rewarded for any security, functionality, performance, and documentation vulnerability you find in api.openai.com, third-party targets, ChatGPT, ChatGPT plugins, <https://openai.org>, \*/openai.org, OpenAI API keys, openai.com, \*/openai.com, and developer platform playground.
@@ -94,10 +108,10 @@ thumbnail: https://thmb.techidaily.com/6cb4391f5b78a0bded981255e816f25b4a4f4175f
  All the vulnerabilities must be in OpenAI's system, exploitable, and novel.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Earn Money While Improving OpenAI's Systems
@@ -123,5 +137,24 @@ thumbnail: https://thmb.techidaily.com/6cb4391f5b78a0bded981255e816f25b4a4f4175f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/new-delving-into-youtubes-digital-video-workshop/"><u>[New] Delving Into YouTube's Digital Video Workshop</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-strategies-to-optimize-multiscreen-experience-on-social-networking-platforms-like-facebook/"><u>[New] Strategies to Optimize Multiscreen Experience on Social Networking Platforms Like Facebook</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-photoshop-to-phun-best-software-conversion-tools-pc-mac/"><u>[Updated] From Photoshop to Phun Best Software Conversion Tools, PC Mac</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-insignia-crossover-usb-ethernet-driver-here/"><u>Get Your Insignia CrossOver USB Ethernet Driver Here!</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-elevating-your-teaching-toolkit-how-to-craft-exceptional-videos-for-learning/"><u>In 2024, Elevating Your Teaching Toolkit How to Craft Exceptional Videos for Learning</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-iphone-12-when-phone-is-broken-drfone-by-drfone-ios/"><u>In 2024, How to Turn Off Find My iPhone 12 when Phone is Broken? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/seamless-strategies-connecting-chatgpt-with-whatsapp-for-enhanced-customer-service/"><u>Seamless Strategies: Connecting ChatGPT with WhatsApp for Enhanced Customer Service</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/securing-your-data-avoiding-privacy-breaches-with-tailored-gpt-systems/"><u>Securing Your Data: Avoiding Privacy Breaches with Tailored GPT Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/solve-mysteries-online-your-guide-to-4-ai-detective-adventures-and-enigmas/"><u>Solve Mysteries Online: Your Guide to 4 AI Detective Adventures and Enigmas</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/streamline-remote-work-communications-using-chatgpt/"><u>Streamline Remote Work Communications Using ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ai-behind-your-next-favorite-cocktail-is-chatgpt-up-to-the-task/"><u>The AI Behind Your Next Favorite Cocktail: Is ChatGPT up to the Task?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-essence-of-claude-2-and-how-it-serves-you/"><u>The Essence of Claude 2 and How It Serves You</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-essentials-what-is-hugging-face-and-how-do-you-utilize-it/"><u>The Essentials: What Is Hugging Face and How Do You Utilize It?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-freelancers-secret-weapon-utilize-these-cuarto-proven-methods-with-chatgpt-to-excel-remotely/"><u>The Freelancer's Secret Weapon: Utilize These Cuarto Proven Methods with ChatGPT to Excel Remotely</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-verdict-on-microsoft-surface-duo-an-expensive-and-troublesome-multitasking-experience/"><u>The Verdict on Microsoft Surface Duo: An Expensive and Troublesome Multitasking Experience</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/unraveling-the-mystery-of-selecting-a-virtual-reality-device-tethered-connections-vs-mobility-freedom-in-2024/"><u>Unraveling the Mystery of Selecting a Virtual Reality Device Tethered Connections vs Mobility Freedom, In 2024</u></a></li>
+</ul></div>
 

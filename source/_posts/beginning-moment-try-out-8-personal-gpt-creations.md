@@ -1,7 +1,7 @@
 ---
 title: "Beginning Moment: Try Out 8 Personal GPT Creations"
-date: 2024-09-16T01:25:04.661Z
-updated: 2024-09-22T21:47:55.545Z
+date: 2024-09-27T14:21:08.098Z
+updated: 2024-10-04T00:30:21.936Z
 tags:
   - chatgpt
   - open-ai
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/82206d914fca4236ea98cfd9aa8de4878e7651f5b
 
 ![Screenshot Bard Responding to CO2 Levels](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-bard-responding-to-co2-levels.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  As you can see, the answer seems comprehensive and details current and historic CO2 levels in parts per million (PPM). By contrast, Bing Chat took a different approach.
 
 ![Screenshot Bing responding to CO2 Levels](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-bing-responding-to-co2-levels.jpg)
@@ -58,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/82206d914fca4236ea98cfd9aa8de4878e7651f5b
 
 ![Screenshot Bard  CO2 Levels with other drafts showing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-bard-co2-levels-with-other-drafts-showing.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The main takeaway from this section is the importance of checking the accuracy of the information received from any chatbot.
 
 ## Bing Chat vs. Google Bard: Ease of Use
@@ -70,22 +84,15 @@ thumbnail: https://thmb.techidaily.com/82206d914fca4236ea98cfd9aa8de4878e7651f5b
 
 ![Bard responding to requests for bullet points](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bard-responding-to-requests-for-bullet-points.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Whereas Bing Chat handled the request perfectly and responded with some bullet points.
 
 ![Bing Chat Screenshot Global Warming Blog Points](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bing-chat-screenshot-global-warming-blog-points.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 We did manage to get a response from Bard by rewording the prompt.
@@ -109,10 +116,10 @@ We did manage to get a response from Bard by rewording the prompt.
 ![confused-880735_1920](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/confused-880735_1920.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This is a case of choosing the right tool for the right job. When we compare the performance of both platforms, Bing Chat seems to edge it. However, there are some provisos to consider. The first is that the Microsoft offering is a more complete product, while Bard is still rough around the edges.
@@ -126,6 +133,13 @@ We did manage to get a response from Bard by rewording the prompt.
  Both tools are incredibly powerful and can generate intelligent answers to any prompt. But both have pros and cons, and the ultimate choice is likely to be decided by factors like user preferences and the desired output type.
 
  They're free to use, so we advise trying them both. These are impressive tools that are changing the way we use the internet.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Era of the Chatbot Is Upon Us
 
@@ -146,5 +160,21 @@ We did manage to get a response from Bard by rewording the prompt.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-which-is-the-ultimate-ios-video-editor-cameo-vs-filmorago/"><u>[New] In 2024, Which Is the Ultimate iOS Video Editor? Cameo Vs. FilmoraGo</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-twitter-titans-the-most-shared-tweets-for-2024/"><u>[New] Twitter Titans The Most Shared Tweets for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-the-essentials-of-screen-capture-with-fraps/"><u>[Updated] 2024 Approved The Essentials of Screen Capture with Fraps</u></a></li>
+<li><a href="https://extra-information.techidaily.com/comprehensive-step-by-step-for-youtube-chapters-the-complete-guide/"><u>Comprehensive Step-by-Step for YouTube Chapters The Complete Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/excel-vs-chatgpt-three-excel-capabilities-beyond-ais-reach/"><u>Excel Vs. ChatGPT: Three Excel Capabilities Beyond AI's Reach</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/experience-advanced-chatbot-intelligence-on-your-android-device-now/"><u>Experience Advanced Chatbot Intelligence on Your Android Device Now</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-6-advantages-more-than-just-a-toy-for-snapchat-ai/"><u>Exploring 6 Advantages: More Than Just a Toy for Snapchat AI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-regulatory-frameworks-for-artificial-intelligence-development/"><u>Exploring Regulatory Frameworks for Artificial Intelligence Development</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-capabilities-of-chatgpt-does-it-excel-at-mathematical-problem-solving/"><u>Exploring the Capabilities of ChatGPT: Does It Excel at Mathematical Problem-Solving?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-latest-ai-tech-revealed-by-apple-at-their-worldwide-developers-conference/"><u>Exploring the Latest AI Tech Revealed by Apple at Their Worldwide Developers Conference</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-xiaomi-redmi-note-12-4g-drfone-by-drfone-android/"><u>How to Screen Mirroring Xiaomi Redmi Note 12 4G? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-funimate-android-adventure-the-apk-breakdown/"><u>In 2024, Funimate Android Adventure The APK Breakdown</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-on-your-iphone-13-pro-max-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID On your iPhone 13 Pro Max without Security Questions?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-most-crucial-info-for-new-youtube-tv-users-for-2024/"><u>The Most Crucial Info for New YouTube TV Users for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: GPT-4o Brings GPT-4 to Everyone, and This Is How It Works
-date: 2024-09-27T01:56:37.105Z
-updated: 2024-09-29T01:18:15.028Z
+date: 2024-10-01T14:25:28.432Z
+updated: 2024-10-03T16:37:46.757Z
 tags:
   - chatgpt
   - open-ai
@@ -57,10 +57,16 @@ Close
  Given this precedent, works that aren't strictly made by a human are ineligible for copyright; unless the creator can sufficiently prove that they set up the situation in which the non-human entity created the piece.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## An Example of AI Copyright Rejection
@@ -70,6 +76,13 @@ Close
  Although the USCO issued a copyright in September 2022, it said it did it in error. When it came to light that the comic book was produced using MidJourney AI, its copyright protection was revoked.
 
  This aligns with its decision to deny copyright to Steven Thaler, who created the AI-generated painting A Recent Entrance to Paradise, which was denied copyright in 2019.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is AI Work Non-Copyrightable?
 
@@ -82,10 +95,10 @@ Close
  However, if the user simply uses AI as a tool—i.e., its output is used as a base for the final product—then the work could be considered for copyright. While this somewhat solves the issue of using AI tools to create art, it also opens another can of worms.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Issues With AI-Generated Work
@@ -93,10 +106,10 @@ Close
 ![A Recent Entrance to Paradise](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/a_recent_entrance_to_paradise.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Image Credit: Steven Thaler and the Creativity Machine AI/[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:A%5FRecent%5FEntrance%5Fto%5FParadise.jpg#:~:text=Licensing,in%20whom%20copyright%20is%20vested.)
@@ -112,13 +125,6 @@ Close
  While one may argue that it's no different from a person looking at the images and using them as an inspiration, AI isn't a person—instead, it's a machine that, at least for now, has no life. Furthermore, AI consumes and spits data at inhumanly insane speeds—so much so that humans cannot compete against it.
 
  Because AI is so powerful and is such a game-changing technology, AI will face many more issues in the immediate future.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Ethics of AI
 
@@ -141,24 +147,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-comprehensive-guide-to-android-screenshotting/"><u>[New] 2024 Approved Comprehensive Guide to Android Screenshotting</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-reigniting-creativity-exclusive-free-drawing-tools-for-mac-users/"><u>[New] In 2024, Reigniting Creativity Exclusive FREE Drawing Tools for Mac Users</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-reignite-drive-the-ultimate-inspiration-list/"><u>2024 Approved Reignite Drive The Ultimate Inspiration List</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/best-no-cost-voice-altering-app-for-valorant-enthusiasts-for-2024/"><u>Best No-Cost Voice Altering App for Valorant Enthusiasts for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-the-future-architect-of-your-smart-home-experience/"><u>ChatGPT: The Future Architect of Your Smart Home Experience</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/clarifying-no-official-chatgpt-app-for-windows-beware-of-fake-versions/"><u>Clarifying: No Official ChatGPT App for Windows - Beware of Fake Versions!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/elevate-your-youtube-videos-the-chatgpt-scriptwriting-technique/"><u>Elevate Your YouTube Videos: The ChatGPT Scriptwriting Technique</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhancing-content-and-creativity-with-chatgpt-a-compreh/"><u>Enhancing Content & Creativity with ChatGPT: A Compreh</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ensuring-child-privacy-with-chatgpt-top-5-measures/"><u>Ensuring Child Privacy with ChatGPT: Top 5 Measures</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-effective-substitutes-to-chatgpt-for-autonomous-code-generation/"><u>Exploring Effective Substitutes to ChatGPT for Autonomous Code Generation</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-world-of-emotion-recognition-how-artifice-intelligence-deciphers-human-sentiments/"><u>Exploring the World of Emotion Recognition: How Artifice Intelligence Deciphers Human Sentiments</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/fraudulent-chatgpt-adapter-captures-fb-passwords/"><u>Fraudulent ChatGPT Adapter: Captures FB Passwords</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-tips-to-seamlessly-retrieve-youtube-srt-subtitles/"><u>In 2024, Expert Tips to Seamlessly Retrieve YouTube SRT Subtitles</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-grandest-directors-reveals/"><u>In 2024, Grandest Directors' Reveals</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-nubia-red-magic-9-pro-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Nubia Red Magic 9 Pro to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-jollyjingles-top-sites-to-stream-laugh-rich-rhythms/"><u>In 2024, JollyJingles Top Sites to Stream Laugh-Rich Rhythms</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/innovative-ai-applications-redefining-online-research/"><u>Innovative AI Applications Redefining Online Research</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/the-power-of-tags-boost-traffic-with-top-genres-and-keywords/"><u>The Power of Tags Boost Traffic with Top Genres & Keywords</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-owc-mercury-pro-a-superior-ssd-with-industry-leading-velocity/"><u>The Ultimate Guide to OWC Mercury Pro: A Superior SSD with Industry-Leading Velocity</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-unveiling-the-secrets-to-dynamic-video-cover-design-in-facebook-space/"><u>[New] Unveiling the Secrets to Dynamic Video Cover Design in Facebook Space</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-the-magic-maker-bridging-real-life-with-imagination/"><u>AI: The Magic Maker Bridging Real-Life with Imagination</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-most-fun-and-engaging-imessage-games-to-play-this-year-2024-edition/"><u>Discover the Most Fun and Engaging iMessage Games to Play This Year, 2024 Edition</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/elevate-your-experience-windows-11-home-to-pro/"><u>Elevate Your Experience: Windows 11 Home to Pro</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-driver-for-your-hp-deskjet-eb3755-all-in-one-printer-on-windows-operating-systems-windows-10-8-and-7/"><u>Get the Latest Driver for Your HP DeskJet Eb3755 All-in-One Printer on Windows Operating Systems (Windows 10, 8 & 7)</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/hp-stream-11-laptop-ultimate-essential-computing-on-the-go/"><u>HP Stream 11 Laptop - Ultimate Essential Computing on the Go</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-strategy-revealed-a-box-opening-narrative/"><u>In 2024, Strategy Revealed A Box-Opening Narrative</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leveraging-the-power-of-gpt-3-within-your-python-workflows-expert-techniques-uncovered/"><u>Leveraging the Power of GPT-3 Within Your Python Workflows: Expert Techniques Uncovered</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/peering-into-the-intelligent-machine/"><u>Peering Into the Intelligent Machine</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/scrutinizing-nw-ws623s-unique-design-traits/"><u>Scrutinizing NW-WS623's Unique Design Traits</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-humor-of-hardware-laptop-lore-and-network-safety-chronicles/"><u>The Humor of Hardware: Laptop Lore & Network Safety Chronicles</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-list-of-free-ai-solutions-for-advanced-email-creation-and-quick-inbox-recaps-with-chatgpt/"><u>The Ultimate List of Free AI Solutions for Advanced Email Creation and Quick Inbox Recaps with ChatGPT</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/top-6-minecraft-oriental-house-ideas-you-should-try/"><u>Top 6 Minecraft Oriental House Ideas You Should Try</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transform-your-ideas-into-visuals-leveraging-chatgpt-for-ai-image-synthesis/"><u>Transform Your Ideas Into Visuals: Leveraging ChatGPT for AI Image Synthesis</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-dall-e-3s-integration-of-editing-tools-work-still-to-be-done/"><u>Understanding DALL-E 3'S Integration of Editing Tools – Work Still to Be Done</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-the-turing-test-how-close-are-we-to-outsmarting-ai/"><u>Understanding the Turing Test - How Close Are We to Outsmarting AI?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/virtual-cam-solutions-elevate-online-presentations-using-manycam-like-features/"><u>Virtual Cam Solutions - Elevate Online Presentations Using ManyCam-Like Features</u></a></li>
 </ul></div>
 

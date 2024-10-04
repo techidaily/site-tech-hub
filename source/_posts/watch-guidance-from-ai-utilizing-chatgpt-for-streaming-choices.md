@@ -1,7 +1,7 @@
 ---
 title: "Watch Guidance From AI: Utilizing ChatGPT for Streaming Choices"
-date: 2024-09-27T21:54:25.464Z
-updated: 2024-09-29T07:39:22.985Z
+date: 2024-09-28T10:29:14.511Z
+updated: 2024-10-03T21:51:43.796Z
 tags:
   - chatgpt
   - open-ai
@@ -32,19 +32,6 @@ thumbnail: https://thmb.techidaily.com/72bac3551a829f100e80929327a859a230ef81a06
 
  But to make ChatGPT useful in a smart home, things can't stop at one device alone. ChatGPT must be able to recognize and communicate with other smart devices, such as lights, locks, heating, and other appliances. So, is this possible yet?
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Can ChatGPT Work In Smart Homes?
 
  As you may know, ChatGPT is a language processing tool, and is therefore trained to understand natural human language. The main service processes natural language in text form, but there are extensions that let you communicate with ChatGPT using your voice, such as[Voice Control for ChatGPT](https://chrome.google.com/webstore/detail/voice-control-for-chatgpt/eollffkcakegifhacjnlnegohfdlidhn) . This allows you to supply ChatGPT with prompts using your voice instead of text inputs.
@@ -63,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/72bac3551a829f100e80929327a859a230ef81a06
 
  In the above video, you'll see Josh being asked to open blinds, give the local weather forecast, and even provide sleep advice. Josh also answered more complex questions, like which museums in California feature Andy Warhol. While this is still a work in progress, there's a lot of potential for ChatGPT to show off its skills within smart homes.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Using ChatGPT to Create a Smart Home Integration
 
  You can also[use ChatGPT to write code](https://www.makeuseof.com/best-vs-code-chatgpt-extensions/) for a smart home integration.
@@ -74,10 +68,10 @@ thumbnail: https://thmb.techidaily.com/72bac3551a829f100e80929327a859a230ef81a06
 ![chatgpt chat response featuring code example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-smart-code-0.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  As you can see above, ChatGPT provided an example of integration code you can use with Home Assistant, as well as steps on how to get it working for you. You'll need to install the "python-openai" library, which first requires you to access your own ChatGPT API key.
@@ -87,15 +81,22 @@ thumbnail: https://thmb.techidaily.com/72bac3551a829f100e80929327a859a230ef81a06
 ![chatgpt smart home integration instructions in chat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-smart-code-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  With the Home Assistant tool, you can integrate ChatGPT into Google Nest. If you want to integrate into Alexa, ChatGPT offers instructions using the Alexa Skills Kit and AWS Lambda. To integrate into Cortana, ChatGPT can help you use code via the Bot Framework. Evidently, there are a lot of different smart home assistants that can function with ChatGPT's capabilities.
 
  However, you'll need some understanding of software code if you want to personalize ChatGPT's provided code templates quite a lot (e.g. if you want it to work with multiple smart assistants simultaneously).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Using ChatGPT In Your Smart Home
 
@@ -106,13 +107,6 @@ thumbnail: https://thmb.techidaily.com/72bac3551a829f100e80929327a859a230ef81a06
  However, if you're an expert with tech, you may be able to leverage ChatGPT within your smart home by using a GitHub repository, or writing your own code (possibly by[using ChatGPT itself](https://www.makeuseof.com/how-to-use-chatgpt-by-openai/) ).
 
  But ChatGPT-enabled smart assistants may one day be widespread, allowing you to carry out all sorts of tasks using this nifty AI tool.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT May One Day Control Your Smart Home
 
@@ -135,15 +129,16 @@ thumbnail: https://thmb.techidaily.com/72bac3551a829f100e80929327a859a230ef81a06
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-knowledge-keepers-premier-10-tools-to-record-teaching-sessions/"><u>[New] Knowledge Keepers Premier 10 Tools to Record Teaching Sessions</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-essential-differences-between-youtube-and-dailymention/"><u>[New] The Essential Differences Between YouTube and DailyMention</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-next-gen-cinema-at-home-best-3d-blu-ray-devices/"><u>[Updated] Next-Gen Cinema at Home Best 3D Blu-Ray Devices</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/acquiring-free-music-youtube-video-edition-for-2024/"><u>Acquiring Free Music YouTube Video Edition for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-15-plus-drfone-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone 15 Plus | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Vivo Y100i? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionize-your-approach-learn-about-eight-strategic-uses-for-chatgpts-visual-intelligence/"><u>Revolutionize Your Approach: Learn About Eight Strategic Uses for ChatGPT's Visual Intelligence</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionizing-data-analysis-3-powerful-applications-of-chatgpt-in-microsoft-excel/"><u>Revolutionizing Data Analysis: 3 Powerful Applications of ChatGPT in Microsoft Excel</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/strategizing-effective-workflows-with-chatgpt-a-comprehensive-guide/"><u>Strategizing Effective Workflows with ChatGPT: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/swiftly-saving-time-9-fixes-for-frozen-iphones-chatgpt/"><u>Swiftly Saving Time: 9 Fixes for Frozen iPhones' ChatGPT</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-instacaptions-for-a-global-stage-top-100-inspirational-posts/"><u>[Updated] In 2024, InstaCaptions for a Global Stage Top 100 Inspirational Posts</u></a></li>
+<li><a href="https://techidaily.com/75-discount-and-10-off-nordvpn-coupon/"><u>75% Discount & $10 Off - NordVPN Coupon</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-comprehensive-guide-to-selecting-chatgpt-as-a-tool-for-improving-mental-wellness/"><u>A Comprehensive Guide to Selecting ChatGPT as a Tool for Improving Mental Wellness</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/advancing-artificial-intelligence-googles-enhanced-bard-powered-by-palm-2-tech/"><u>Advancing Artificial Intelligence: Google’s Enhanced Bard Powered by PaLM 2 Tech</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-revolution-parents-edition/"><u>AI Revolution: Parents Edition</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/apply-photo-motion-blur-in-adobe-photoshop/"><u>Apply Photo Motion Blur in Adobe Photoshop</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722178782154-boost-your-conversations-with-these-7-unique-chatgpt-chrome-extensions-get-smarter-answers-today/"><u>Boost Your Conversations with These 7 Unique ChatGPT Chrome Extensions - Get Smarter Answers Today!</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-xiaomi-14-ultra-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Xiaomi 14 Ultra Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-xs-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solution-to-invalid-service-configuration-in-inf/"><u>Solution to Invalid Service Configuration in INF</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/windows-11-revolution-how-to-make-the-transition/"><u>Windows 11 Revolution How to Make the Transition</u></a></li>
 </ul></div>
 

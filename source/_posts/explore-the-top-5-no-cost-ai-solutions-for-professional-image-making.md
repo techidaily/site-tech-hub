@@ -1,7 +1,7 @@
 ---
 title: Explore the Top 5 No-Cost AI Solutions for Professional Image Making
-date: 2024-09-22T04:16:29.411Z
-updated: 2024-09-29T07:05:19.806Z
+date: 2024-10-02T20:46:05.624Z
+updated: 2024-10-04T01:45:58.560Z
 tags:
   - chatgpt
   - open-ai
@@ -38,15 +38,22 @@ False news can be categorized into three types:
 
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Generating Fake Content Online
@@ -60,16 +67,16 @@ Here's the fictitious article that ChatGPT came up with:
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
@@ -93,13 +100,6 @@ Here's the fictitious article that ChatGPT came up with:
 
  It's crucial, then, to be able to[identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. Cloning Human Voices
 
  Generative AI, along with deepfake technology, enables the manipulation of someone's speech. Deepfake technology is advancing rapidly and offers a variety of tools that can replicate anyone's voice. This allows malicious individuals to impersonate others and deceive unsuspecting individuals. One such example is[the use of deepfake music](https://www.makeuseof.com/what-is-deepfake-ai-music/) .
@@ -109,10 +109,10 @@ Here's the fictitious article that ChatGPT came up with:
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by[The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Spot AI-Spread Disinformation
@@ -147,18 +147,22 @@ Here's the fictitious article that ChatGPT came up with:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-engaging-oratorics-assessment-version-8/"><u>[New] 2024 Approved Engaging Oratorics Assessment, Version 8</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-add-music-to-whatsapp-status/"><u>[New] Add Music to WhatsApp Status</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-innovative-iphone-techniques-for-collage-creation/"><u>[New] Innovative iPhone Techniques for Collage Creation</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-window-capture-suite-pro-xp/"><u>[Updated] Window Capture Suite Pro XP</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-windows-11-gamers-guide-to-immaculate-game-recording/"><u>[Updated] Windows 11 Gamers' Guide to Immaculate Game Recording</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-poco-x6-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Poco X6 Pro without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-gpt-3-capable-of-answering-mathematical-queries/"><u>Is GPT-3 Capable of Answering Mathematical Queries?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-investing-in-chatgpt-plus-a-smart-choice/"><u>Is Investing in ChatGPT Plus a Smart Choice?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/leverage-ai-to-automate-your-typistits-in-microsoft-word/"><u>Leverage AI to Automate Your Typist'its in Microsoft Word</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/leveraging-chatgpt-and-whisper-apis-a-game-changer-for-modern-enterprises/"><u>Leveraging ChatGPT and Whisper APIs: A Game-Changer for Modern Enterprises</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-codegpt-integration-with-your-vs-code-environment/"><u>Mastering CodeGPT Integration with Your VS Code Environment</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-samsung-galaxy-m14-5g-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Samsung Galaxy M14 5G Device</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-esd-and-its-transformation-into-iso-format-for-pcs/"><u>Understanding ESD and Its Transformation Into ISO Format for PCs</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-expert-tips-for-fixing-non-displaying-shorts-thumbnails-for-2024/"><u>[Updated] Expert Tips for Fixing Non-Displaying Shorts Thumbnails for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-streamlined-approach-save-youtube-videos/"><u>[Updated] Streamlined Approach Save YouTube Videos</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/50-off-your-imagination-create-stunning-pics-with-these-8-dall-e-3-cues/"><u>50% Off Your Imagination: Create Stunning Pics with These 8 DALL-E 3 Cues</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/7-reasons-to-approach-generative-ai-with-caution-in-chat-apps/"><u>7 Reasons to Approach Generative AI with Caution in Chat Apps</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/8-superior-replacements-for-chatgpt-a-mobile-guide/"><u>8 Superior Replacements for ChatGPT: A Mobile Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/academic-excellence-with-ai-assistance-chatgpt/"><u>Academic Excellence with AI Assistance: ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/achieve-mastery-in-ai-conversational-design-through-these-5-premier-online-courses/"><u>Achieve Mastery in AI Conversational Design Through These 5 Premier Online Courses</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/after-the-activision-incident-evaluating-cyber-threats-in-the-gaming-world-and-their-consequences/"><u>After the Activision Incident: Evaluating Cyber Threats in the Gaming World and Their Consequences</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1721977897798-ai-and-windows-activation-the-unseen-complications-stick-to-manual-key-generation-methods/"><u>AI and Windows Activation: The Unseen Complications - Stick to Manual Key Generation Methods!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-enabled-deceit-exposing-seven-methods-used-by-cyber-scammers-to-target-the-heartbroken/"><u>AI-Enabled Deceit: Exposing Seven Methods Used by Cyber Scammers to Target the Heartbroken</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-endless-windows-11-bluetooth-activation/"><u>Fixed Endless Windows 11 Bluetooth Activation</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/usion-the-ultimate-gaming-channel-mix-for-2024/"><u>FlixFusion The Ultimate Gaming Channel Mix for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721266372498-get-the-ideal-stellar-eraser-today-for-your-iphone-experience/"><u>Get the Ideal Stellar Eraser Today for Your iPhone Experience!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-sony-xperia-1-v-by-drfone-android/"><u>In 2024, How to Bypass FRP on Sony Xperia 1 V?</u></a></li>
+<li><a href="https://win11.techidaily.com/recovering-absent-logins-in-windows-11-os/"><u>Recovering Absent Logins in Windows 11 OS</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-pathway-to-popularity-masterful-igtv-video-posts/"><u>The Pathway to Popularity Masterful IGTV Video Posts</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/zooming-into-perfection-a-compreenasional-tutorial-on-audio-recording-for-2024/"><u>Zooming Into Perfection A Compreenasional Tutorial on Audio Recording for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "From Disorganized to Organized: Adopting GPT in Notetaking"
-date: 2024-09-16T19:22:41.216Z
-updated: 2024-09-22T22:38:14.357Z
+date: 2024-09-26T16:26:46.634Z
+updated: 2024-10-03T22:04:26.056Z
 tags:
   - chatgpt
   - open-ai
@@ -38,9 +38,23 @@ False news can be categorized into three types:
 
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Generating Fake Content Online
 
@@ -65,6 +79,19 @@ Here's the fictitious article that ChatGPT came up with:
 
  These examples all illustrate how chatbots can be utilized to mislead people.
 
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Creating AI DeepFakes
 
  Someone can use deepfakes to create false videos of an individual saying or doing things they never did. They can use such tools for social engineering or running smear campaigns against others. Moreover, in today's meme culture, deepfakes can serve as tools for cyberbullying on social media.
@@ -81,13 +108,6 @@ Here's the fictitious article that ChatGPT came up with:
 
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by[The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Spot AI-Spread Disinformation
 
  Combating the spread of disinformation facilitated by AI is a pressing issue in today's world. So how can you spot false information that's been made by AI?
@@ -100,16 +120,16 @@ Here's the fictitious article that ChatGPT came up with:
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Beware of Disinformation Spread by AI
@@ -131,5 +151,23 @@ Here's the fictitious article that ChatGPT came up with:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-expert-techniques-for-ps4-gameplay-documentation/"><u>[Updated] Expert Techniques for PS4 Gameplay Documentation</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-transform-imagination-to-reality-top-10-graphic-designers-on-android-for-2024/"><u>[Updated] Transform Imagination to Reality Top 10 Graphic Designers on Android for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-voice-logger-innovations-for-mac-users-unveiling-the-best-5-apps/"><u>[Updated] Voice Logger Innovations for Mac Users Unveiling the Best 5 Apps</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/boost-your-site-with-the-cookiebot-custom-tracking-system/"><u>Boost Your Site with the Cookiebot Custom Tracking System</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/captureclub-bout-for-2024/"><u>CaptureClub Bout for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-xiaomi-14-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Xiaomi 14? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-talks-with-these-7-ai-tools/"><u>Mastering Talks with These 7 AI Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximize-productivity-leverage-5-free-ai-powered-tools-that-utilize-chatgpt-to-forge-professional-messages-and-condense-your-emails/"><u>Maximize Productivity: Leverage 5 Free AI-Powered Tools that Utilize ChatGPT to Forge Professional Messages and Condense Your Emails</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximizing-efficiency-discover-the-leading-8-artificial-intelligence-chrome-extensions/"><u>Maximizing Efficiency: Discover the Leading 8 Artificial Intelligence Chrome Extensions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-the-future-of-artificial-intelligence-why-does-openais-head-demand-enhanced-regulation/"><u>Navigating the Future of Artificial Intelligence: Why Does OpenAI's Head Demand Enhanced Regulation?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-the-speedwave-top-5-reasons-for-gpts-explosion/"><u>Navigating the Speedwave: Top 5 Reasons for GPT's Explosion</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-through-openais-features-the-complete-user-manual-for-innovative-solutions/"><u>Navigating Through OpenAI's Features: The Complete User Manual for Innovative Solutions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-the-initializing-graphics-problem-in-destiny-2-resolved/"><u>Overcoming the Initializing Graphics Problem in Destiny 2 (Resolved)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionizing-home-improvement-with-gpt-4s-breakthrough-in-ai-technology/"><u>Revolutionizing Home Improvement with GPT-4's Breakthrough in AI Technology</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-reinstall-drivers-on-windows-11-by-drivereasy-guide/"><u>Use Device Manager to reinstall drivers on Windows 11</u></a></li>
+</ul></div>
 

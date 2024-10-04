@@ -1,7 +1,7 @@
 ---
 title: "Discover Confidential Chatting on DuckDuckGo's Platform: Beyond Just ChatGPT"
-date: 2024-09-21T00:52:46.617Z
-updated: 2024-09-22T18:19:04.953Z
+date: 2024-10-01T05:40:18.782Z
+updated: 2024-10-03T22:22:16.790Z
 tags:
   - chatgpt
   - open-ai
@@ -38,9 +38,29 @@ False news can be categorized into three types:
 
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
+
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Generating Fake Content Online
 
@@ -54,6 +74,13 @@ Here's the fictitious article that ChatGPT came up with:
 
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Using Chatbots to Influence People's Opinions
 
  Chatbots that rely on generative AI models can employ various tactics to influence people's opinions, including:
@@ -65,6 +92,13 @@ Here's the fictitious article that ChatGPT came up with:
 
  These examples all illustrate how chatbots can be utilized to mislead people.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Creating AI DeepFakes
 
  Someone can use deepfakes to create false videos of an individual saying or doing things they never did. They can use such tools for social engineering or running smear campaigns against others. Moreover, in today's meme culture, deepfakes can serve as tools for cyberbullying on social media.
@@ -72,13 +106,6 @@ Here's the fictitious article that ChatGPT came up with:
  Additionally, political adversaries may use deepfake audio and videos to tarnish the reputation of their opponents, manipulating public sentiment with the help of AI. So[AI-generated deepfakes pose numerous threats in the future](https://www.makeuseof.com/future-and-dangers-of-ai-deepfakes/) . According to a 2023[Reuters report](https://www.reuters.com/world/us/deepfaking-it-americas-2024-election-collides-with-ai-boom-2023-05-30/) , the rise of AI technology could impact America's 2024 elections. The report highlights the accessibility of tools like Midjourney and DALL-E that can easily create fabricated content and influence people's collective opinions.
 
  It's crucial, then, to be able to[identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Cloning Human Voices
 
@@ -99,13 +126,6 @@ Here's the fictitious article that ChatGPT came up with:
 
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Beware of Disinformation Spread by AI
 
  Generative software has played a crucial role in advancing AI. Still, they can also be a significant source of disinformation in society. These affordable tools have enabled anyone to create different types of content using sophisticated AI models; their ability to generate content in large quantities and incorporate deepfakes makes them even more dangerous.
@@ -125,5 +145,18 @@ Here's the fictitious article that ChatGPT came up with:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-radio-dramaturgys-finest-works-for-2024/"><u>[New] Radio Dramaturgy's Finest Works for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/tructuring-videos-for-maximum-impact-on-youtube/"><u>[New] Structuring Videos for Maximum Impact on YouTube</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-a-scriptwriters-playbook/"><u>[Updated] A Scriptwriter's Playbook</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-enhanced-productivity-top-tier-lg-34-curved-display-awaits-for-an-unbeatable-price-of-499/"><u>Experience Enhanced Productivity: Top-Tier LG 34 Curved Display Awaits for an Unbeatable Price of $499</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-step-by-step-facebook-live-on-roku-platform/"><u>In 2024, Step-by-Step Facebook Live on Roku Platform</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-ultimate-guide-to-setting-your-youtube-video-width-and-height-for-2024/"><u>The Ultimate Guide to Setting Your YouTube Video Width and Height for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tips-and-tricks-enhancing-your-rpg-campaigns-using-ai-powered-assistant-chatgpt/"><u>Tips & Tricks: Enhancing Your RPG Campaigns Using AI-Powered Assistant, ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-4-ai-detection-software-solutions-for-educators-and-managers-checking-gpt-authenticity/"><u>Top 4 AI Detection Software Solutions for Educators & Managers Checking GPT Authenticity</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-7-creative-uses-of-chatgpt-in-the-kitchen/"><u>Top 7 Creative Uses of ChatGPT in the Kitchen</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/traversing-codegpt-an-ai-that-could-change-software-development/"><u>Traversing CodeGPT: An AI That Could Change Software Development</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-new-potentials-in-google-bard-with-palm-2-enhancements/"><u>Unlocking New Potentials in Google Bard with PaLM 2 Enhancements</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Legal Landscape of AI in the EU: Consequences for Platforms Like ChatGPT"
-date: 2024-09-25T20:09:11.199Z
-updated: 2024-09-29T00:36:12.244Z
+date: 2024-09-29T19:30:12.007Z
+updated: 2024-10-04T13:24:46.652Z
 tags:
   - chatgpt
   - open-ai
@@ -31,22 +31,15 @@ thumbnail: https://thmb.techidaily.com/605743c45d46920946cf620896ea214cdef6126e4
  But what is Perplexity AI really about, and can you use it instead of Google?
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Is Perplexity AI, and What Can You Do With It?
 
 ![screenshot showing perplexity ai on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-16-123353-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Perplexity AI is a conversational search engine that uses natural language text to answer questions. It was founded in 2022 by a quartet of former AI researchers from OpenAI and Meta: Aravind Srinivas, Andy Konwiski, Denis Yarats, and Johnny Ho.
 
@@ -54,20 +47,40 @@ thumbnail: https://thmb.techidaily.com/605743c45d46920946cf620896ea214cdef6126e4
 
  The Perplexity app is a mix of the[best features from ChatGPT](https://www.makeuseof.com/chatgpt-features-you-arent-using-but-should/) and Google. It features a chat interface similar to ChatGPT’s and a Related section similar to Google’s People also ask.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Use Perplexity AI Instead of Google Search
 
 ![perplexity app home screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/perplexity-app-home-screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![perplexity app discover page screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/perplexity-app-discover-page-screenshot.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![perplexity app library page screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/perplexity-app-library-page-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -84,13 +97,6 @@ Close
  For example, a search for "bakery near me" returned a "summary" of a list of bakeries. The interesting part? Not one from its list was within a 100-mile radius. The same query on Google returned options within a five-mile radius, which is absolutely what I wanted.
 
 ![screenshot showing search result on perplexity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-showing-search-result-on-perplexity.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  It's worth noting that[Google has been testing Search Generative Experience (SGE)](https://www.makeuseof.com/how-to-access-google-ai-powered-search/) , an AI-assisted search feature. SGE provides AI overviews of search queries similar to Perplexity AI. Perplexity AI currently does a better job of answering queries thoroughly and also provides in-text citations for cross-referencing. However, this is something Google can replicate, if it becomes where the battle line is drawn.
 
@@ -113,21 +119,21 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-from-console-to-screen-efficient-recording-strategies/"><u>[New] 2024 Approved From Console to Screen Efficient Recording Strategies</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-dynamic-voice-training-in-free-fire-games/"><u>[New] Dynamic Voice Training in Free Fire Games</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-phones-to-cameras-diy-setup-guide-for-mobile-video-recording/"><u>[New] In 2024, Phones to Cameras DIY Setup Guide for Mobile Video Recording</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-immediate-solution-for-podcast-livestreaming/"><u>[Updated] Immediate Solution for Podcast Livestreaming</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-awesome-atmosphere-discotheme-essentials-by-betterdiscord/"><u>[Updated] In 2024, Awesome Atmosphere DiscoTheme Essentials by BetterDiscord</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/complete-immersive-camera-review/"><u>Complete Immersive Camera Review</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-ais-role-in-making-money-chagpts-guideposts/"><u>Exploring AI's Role in Making Money: ChaGPT’s Guideposts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-tech-synergy-microsofts-acquisition-of-blizzard-navigating-the-intersection-of-artificial-intelligence-in-creative-arts-and-translation-discussion58/"><u>Exploring Tech Synergy: Microsoft's Acquisition of Blizzard, Navigating the Intersection of Artificial Intelligence in Creative Arts and Translation [Discussion]</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-upgraded-version-of-dall-e-3-integrated-edit-tools-with-room-to-grow/"><u>Exploring the Upgraded Version of DALL-E 3 - Integrated Edit Tools with Room to Grow</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/future-of-work-in-the-age-of-ai-can-generative-tech-replace-human-roles/"><u>Future of Work in the Age of AI: Can Generative Tech Replace Human Roles?</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Nokia C32 | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-infinix-note-30-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Infinix Note 30 5G? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/in-depth-look-all-about-apples-ai-showcase-during-wwdc-24/"><u>In-Depth Look: All About Apple’s AI Showcase During WWDC '24</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/increase-output-with-top-8-chrome-plug-ins-powered-by-ai/"><u>Increase Output with Top 8 Chrome Plug-Ins Powered by AI</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/innovating-ai-customization-harness-the-potential-of-chatgpts-newest-update-for-personalized-gpt-models/"><u>Innovating AI Customization: Harness the Potential of ChatGPT's Newest Update for Personalized GPT Models</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/tips-and-tricks-mastering-voiceover-on-tiktok/"><u>Tips and Tricks Mastering Voiceover on TikTok</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/21-vegas-pro-roundup-from-beginner-to-expert-tips-for-2024/"><u>'21 Vegas Pro Roundup – From Beginner to Expert Tips for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-encyclopedia-of-hand-centered-interaction-systems/"><u>[New] The Encyclopedia of Hand-Centered Interaction Systems</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-monetizing-videos-on-youtube-strategies-success-for-2024/"><u>[Updated] Monetizing Videos on YouTube Strategies Success for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-secrets-unveiled-complete-guide-to-live-tv-recording-via-windows-pcs/"><u>2024 Approved Secrets Unveiled Complete Guide to Live TV Recording via Windows PCs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-techniques-and-tools-for-effective-hand-tracking/"><u>2024 Approved Techniques & Tools for Effective Hand Tracking</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/generative-ai-mastery-avoid-these-7-frequent-mistakes/"><u>Generative AI Mastery: Avoid These 7 Frequent Mistakes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/getting-started-with-langchain-llm-a-comprehensive-introduction/"><u>Getting Started with LangChain LLM: A Comprehensive Introduction</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/googles-gemini-navigating-through-its-artificial-intelligence-landscape/"><u>Google’s Gemini: Navigating Through Its Artificial Intelligence Landscape</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/guide-to-notable-platforms-offering-text-modifications/"><u>Guide to Notable Platforms Offering Text Modifications</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/harnessing-smart-technology-the-6-greatest-ai-assisted-notetakers-reviewed/"><u>Harnessing Smart Technology: The 6 Greatest AI Assisted Notetakers Reviewed</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-lock-apps-on-oneplus-12-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on OnePlus 12 to Protect Your Individual Information</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-use-gpt-mentions-to-call-out-custom-gpts-in-any-chatgpt-conversation/"><u>How to Use GPT Mentions to Call Out Custom GPTs in Any ChatGPT Conversation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-use-the-ai-powered-bing-app-on-android/"><u>How to Use the AI-Powered Bing App on Android</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-ps4-broadcasting-basics-with-a-focus-on-obs-integration/"><u>In 2024, PS4 Broadcasting Basics with a Focus on OBS Integration</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-it-possible-to-employ-chatgpt-for-developing-malicious-software/"><u>Is It Possible to Employ ChatGPT for Developing Malicious Software?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/subtitled-quickly-converting-from-compressed-files/"><u>Subtitled Quickly! Converting From Compressed Files</u></a></li>
 </ul></div>
 

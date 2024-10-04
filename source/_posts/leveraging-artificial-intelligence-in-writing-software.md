@@ -1,7 +1,7 @@
 ---
 title: Leveraging Artificial Intelligence in Writing Software
-date: 2024-09-21T19:01:37.207Z
-updated: 2024-09-23T01:47:58.420Z
+date: 2024-09-28T18:44:20.129Z
+updated: 2024-10-03T22:48:59.163Z
 tags:
   - chatgpt
   - open-ai
@@ -46,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/65fba9a952c6564fd879ce858daef732be8f2531c
 
  Bing Chat uses the latest version of the language model, GPT-4\. However, there are some[key differences between GPT-4 and GPT-3.5](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained/) :
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Creativity
 
  Both have levels of creativity that are testimony to the heights that AI has reached. However, creativity is a difficult metric to measure, and the tests we tried showed GPT-3.5 is close to GPT-4 in simple creative tasks.
@@ -58,16 +65,16 @@ For example, below is Bing Chat's effort at a simple limerick.
 
 ![Screenshot of ChatGPT Limerick-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-limerick-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Safety
 
  Moderating responses that were factually incorrect or otherwise unsuitable was performed "on the fly" with GPT-3.5\. In other words, it was a reactive strategy that acted after the horse had bolted. GPT-4 has safety measures designed into the model, meaning safety is more proactive. Where safety is a concern, Bing Chat technically has the upper hand.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Image Processing and Accuracy
 
@@ -85,32 +92,32 @@ For example, below is Bing Chat's effort at a simple limerick.
 
 ![Screenshot of Plastic Recycling Stats from Bing Chat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-plastic-recycling-stats-from-bing-chat.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The response supplied figures as well as links to the sources from which the data was retrieved. However, the inclusion of US plastic exports was slightly out of context with the question. We would hesitate to call this a glitch, but it does show AI's tendency to wander off-topic at times.
 
 By contrast, the ChatGPT response was to admit its limitations.
 
 ![Screenshot of ChatGPT response to recycling question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-response-to-recycling-question.jpg)
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The answer tries to provide estimates and other sources that could be referenced, but there are no hard and fast facts.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Comparing the Interfaces of ChatGPT and Bing Chat
@@ -125,16 +132,16 @@ By contrast, the ChatGPT response was to admit its limitations.
 
 ![Screenshot of Bing Chat response to education query](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-bing-chat-response-to-education-query.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  As you can see, the response included links to the listed websites. Compare this to the ChatGPT response:
 
 ![Screenshot of ChatGPT list of educational websites](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-list-of-educational-websites.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Which Is Best: Bing Chat or Chat GPT?
 
@@ -171,5 +178,24 @@ By contrast, the ChatGPT response was to admit its limitations.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-cutting-out-clutter-the-picsart-bg-eraser-method/"><u>[New] Cutting Out Clutter The Picsart Bg Eraser Method</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-hot-dishes-from-hot-tiktokers-for-2024/"><u>[New] Hot Dishes From Hot TikTokers for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-obs-tutorial-for-instagram-live-streams-your-ultimate-reference/"><u>[Updated] In 2024, OBS Tutorial for Instagram Live Streams Your Ultimate Reference</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-spectral-showcase-curating-the-best-4k-displays-on-screen/"><u>[Updated] Spectral Showcase Curating the Best 4K Displays on Screen</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-premier-promises-the-art-of-the-podcast-prelude/"><u>2024 Approved Premier Promises The Art of the Podcast Prelude</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparing-the-best-a-detailed-analysis-of-chatgpt-and-google-translate/"><u>Comparing the Best: A Detailed Analysis of ChatGPT and Google Translate</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/crafting-audio-with-chatgpt-tips-for-daw-integration/"><u>Crafting Audio with ChatGPT - Tips for DAW Integration</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/deciphering-emotions-the-quest-for-empathetic-ai/"><u>Deciphering Emotions: The Quest for Empathetic AI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/deciphering-the-turing-test-is-artifical-intelligence-on-track-to-outperform-humans/"><u>Deciphering the Turing Test - Is Artifical Intelligence on Track to Outperform Humans?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discovering-the-power-of-grok-ai-what-elon-musk-has-revealed-about-costs-and-capabilities/"><u>Discovering the Power of Grok AI - What Elon Musk Has Revealed About Costs and Capabilities</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/dissecting-googles-gemini-a-comprehensive-study-of-its-ai-endeavors/"><u>Dissecting Google’s Gemini: A Comprehensive Study of Its AI Endeavors</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elons-explanations-of-grok-ai-reveal-its-role-and-investment-details/"><u>Elon's Explanations of Grok AI Reveal Its Role and Investment Details</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exceptional-artificial-intelligence-tools-transforming-the-way-you-search-the-world-wide-web/"><u>Exceptional Artificial Intelligence Tools Transforming the Way You Search the World Wide Web</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-iphone-6s-plus-by-drfone-ios/"><u>How Many Attempts To Unlock iPhone 6s Plus</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/navigating-the-decision-to-adopt-itop-recording-for-2024/"><u>Navigating the Decision to Adopt ITop Recording for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-discover-the-power-of-vr-how-to-convert-regular-videos/"><u>New In 2024, Discover the Power of VR How to Convert Regular Videos</u></a></li>
+</ul></div>
 

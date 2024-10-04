@@ -1,7 +1,7 @@
 ---
 title: "The Do's and Don'ts of AI at Work: Is ChatGPT a Fireable Offense in These 10 Scenarios?"
-date: 2024-09-26T16:11:38.436Z
-updated: 2024-09-28T23:07:25.445Z
+date: 2024-10-03T02:43:11.107Z
+updated: 2024-10-03T21:27:25.534Z
 tags:
   - chatgpt
   - open-ai
@@ -40,13 +40,6 @@ thumbnail: https://thmb.techidaily.com/d222a947a358a9a5da5a72c775e634907e671d005
 
  Of course, some may see[using AI to provide mental health advice as risky](https://www.makeuseof.com/dangers-using-ai-free-therapist-psychiatrist/) . We'll discuss the possible downsides of this a little later.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Monitoring Patient Progress With AI
 
 ![person typing on laptop next to stethoscope on desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/stetho-laptop-1.jpg)
@@ -68,10 +61,10 @@ thumbnail: https://thmb.techidaily.com/d222a947a358a9a5da5a72c775e634907e671d005
  Though this all seems very promising, there are also[dangers associated with using AI](https://www.makeuseof.com/is-ai-dangerous-5-immediate-risks-of-artificial-intelligence/) in the mental health field and other ways that AI can worsen mental health in general.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Can AI Worsen Mental Health?
@@ -92,13 +85,20 @@ thumbnail: https://thmb.techidaily.com/d222a947a358a9a5da5a72c775e634907e671d005
 
 ![hands reaching out to each other](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/hands-reaching-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  At the moment, humans are seen as much more effective at conducting therapy than machines, and this may always be the case. This is why the application of AI in the mental health field should be regulated and monitored very carefully so that patients are still receiving the best care possible.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### AI Giving Faulty Advice or Solutions
@@ -108,10 +108,10 @@ thumbnail: https://thmb.techidaily.com/d222a947a358a9a5da5a72c775e634907e671d005
  There are plenty of things that can go wrong while using AI, particularly as it is in its early stages. System malfunctions, software bugs, and improper training can all lead to issues, with malicious attacks also posing a possible risk.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AI's Future in Mental Health Must Be Watched Carefully
@@ -133,18 +133,14 @@ thumbnail: https://thmb.techidaily.com/d222a947a358a9a5da5a72c775e634907e671d005
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-rise-to-youtube-prominence-top-strategies-at-a-glance/"><u>[New] 2024 Approved Rise to YouTube Prominence Top Strategies at a Glance</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-how-many-seconds-is-a-20mb-video/"><u>2024 Approved How Many Seconds Is a 20Mb Video</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/efficient-ios-data-retrieval-application-protect-important-information-on-your-smartphone/"><u>Efficient iOS Data Retrieval Application: Protect Important Information on Your Smartphone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-apple-iphone-6-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your Apple iPhone 6? Learn All 4 Methods</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-pro-max-official-method-to-unlock-your-apple-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 14 Pro Max Official Method to Unlock Your Apple iPhone 14 Pro Max</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/replicating-human-like-dialogue-with-ai/"><u>Replicating Human-Like Dialogue with AI</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/securely-navigating-the-deletion-of-your-chatgpt-records/"><u>Securely Navigating the Deletion of Your ChatGPT Records</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-integrating-and-utilizing-chatgpt-add-ons/"><u>Step-by-Step Guide: Integrating & Utilizing ChatGPT Add-Ons</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-setting-up-local-llama-2-installs/"><u>Step-by-Step Guide: Setting Up Local Llama 2 Installs</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/survival-guide-for-ai-dominated-professions-six-essentials/"><u>Survival Guide for AI-Dominated Professions: Six Essentials</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-honor-play-7t-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Honor Play 7T Phone Hassle-Free</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-infinix-smart-7-hd-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Infinix Smart 7 HD Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/top-10-video-editing-and-restoration-tools-for-windows-and-macos/"><u>Top 10 Video Editing & Restoration Tools for Windows & macOS</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-free-and-easy-best-mac-screen-recorder-software-of-2023-for-2024/"><u>[New] Free and Easy Best Mac Screen Recorder Software of 2023 for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-capture-and-replay-top-four-strategies-for-gameplay-recording-for-2024/"><u>[Updated] Capture & Replay Top Four Strategies for Gameplay Recording for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpts-constraints-the-impermissible-questions-list/"><u>ChatGPT's Constraints: The Impermissible Questions List</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/cipher-games-with-ai-twists-engage-in-4-intriguing-puzzles/"><u>Cipher Games with AI Twists: Engage in 4 Intriguing Puzzles</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/communicating-with-ai-the-importance-of-courteous-language/"><u>Communicating With AI: The Importance of Courteous Language</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparing-ai-giants-chatgpt-versus-googles-bard-who-wins-the-battle/"><u>Comparing AI Giants: ChatGPT versus Google's Bard - Who Wins the Battle?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/enhancing-profiles-first-impression-for-2024/"><u>Enhancing Profile's First Impression for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-apple-iphone-xs-max-location-on-twitter-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change your Apple iPhone XS Max Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-top-15-solutions-when-facetime-fails/"><u>Troubleshooting Guide: Top 15 Solutions When FaceTime Fails</u></a></li>
 </ul></div>
 

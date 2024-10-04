@@ -1,7 +1,7 @@
 ---
 title: Gear Up for a Digital Shift in DIY Projects with the Arrival of GPT-4 Technology
-date: 2024-09-25T23:56:54.124Z
-updated: 2024-09-29T03:16:16.153Z
+date: 2024-09-27T13:49:51.377Z
+updated: 2024-10-04T02:28:49.745Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/6aa0ea7bbcaddf2e39d658fccf6a692e44a4ec4a5
 
  If you want to try DALL-E 3 but don't want to pay for a ChatGPT Plus subscription, there's an easy way around it. Microsoft Bing has a powerful DALL-E 3 integration, and right now, you can use it for free.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Access DALL-E 3 With Microsoft Bing
 
 ![A half human half robot character generated with DALL-E 3 on Bing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/a-half-human-half-robot-character-generated-with-dall-e-3-on-bing.jpg)
@@ -49,6 +56,13 @@ thumbnail: https://thmb.techidaily.com/6aa0ea7bbcaddf2e39d658fccf6a692e44a4ec4a5
 
  But the most notable change about DALL-E 3 is that it has been integrated into ChatGPT, OpenAI's powerful AI chatbot. It opens up a whole new way of interacting with the image generator and gives you a fresh way of creating prompts.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Craft a Good DALLE-3 Prompt Using Bing
 
  DALL-E 3 is much easier to use thanks to its integration with GPT-4, the large language model that powers ChatGPT and Microsoft Bing.
@@ -60,10 +74,16 @@ thumbnail: https://thmb.techidaily.com/6aa0ea7bbcaddf2e39d658fccf6a692e44a4ec4a5
 ![DALL-E 2 image of NYC and plants](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-2-image-of-nyc-and-plants.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When we asked if it could add animals to that image it just generated, it couldn't. Instead, it generated new images of just animals.
@@ -78,19 +98,6 @@ thumbnail: https://thmb.techidaily.com/6aa0ea7bbcaddf2e39d658fccf6a692e44a4ec4a5
 
 ![DALL-E 3 iamge of New York City overgrown with plants and animals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-3-iamge-of-new-york-city-overgrown-with-plants-and-animals.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can even ask Bing to redo one of the images. We told it that we liked the second image and would like to see if it could make the animals more detailed.
 
 ![DALL-E 3 image of a city overun with animals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-3-image-of-a-city-overun-with-animals.jpg)
@@ -100,17 +107,10 @@ thumbnail: https://thmb.techidaily.com/6aa0ea7bbcaddf2e39d658fccf6a692e44a4ec4a5
 ![DALL-E 3 image of a city with animals on top of buildings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-3-image-of-a-city-with-animals-on-top-of-buildings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Limitations of DALL-E 3 and Bing
@@ -126,10 +126,10 @@ thumbnail: https://thmb.techidaily.com/6aa0ea7bbcaddf2e39d658fccf6a692e44a4ec4a5
  But this will be a welcome addition for artists who don't want their images to train DALL-E in the first place. Adding to this, you can now fill in the[OpenAI opt-out form](https://share.hsforms.com/1%5FOuT5tfFSpic89PqN6r1CQ4sk30) to make sure your image doesn't go into the training pool.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Don't Wait to Try DALL-E 3; Access It Now With Bing
@@ -151,16 +151,22 @@ thumbnail: https://thmb.techidaily.com/6aa0ea7bbcaddf2e39d658fccf6a692e44a4ec4a5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-lift-the-tab-listen-up-fb-music-secrets/"><u>[New] 2024 Approved Lift the Tab, Listen Up FB Music Secrets</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-melody-mix-up-how-to-tune-your-facebook-videos-with-songs/"><u>[New] 2024 Approved Melody Mix-Up How to Tune Your Facebook Videos with Songs</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-reliving-fun-the-vhs-era-of-goof-troop-comedy/"><u>[New] Reliving Fun The VHS Era of 'Goof Troop' Comedy</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-resolve-chromebooks-video-issue-for-2024/"><u>[New] Resolve Chromebook's Video Issue for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-secrets-to-immediate-access-of-erased-reddit-threads/"><u>[New] Secrets to Immediate Access of Erased Reddit Threads</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-unleash-your-auditory-adventures-installing-apple-podcasts-app/"><u>[New] Unleash Your Auditory Adventures Installing Apple Podcasts App</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/experience-cutting-edge-ai-search-on-the-go-with-bings-new-app-support-for-android-and-ios/"><u>Experience Cutting-Edge AI Search on the Go with Bing's New App Support for Android and iOS!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-new-horizons-with-chatgpt-enabling-beta-browsing-and-plugin-functions-for-an-upgraded-online-journey/"><u>Exploring New Horizons with ChatGPT: Enabling Beta Browsing and Plugin Functions for an Upgraded Online Journey</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/flavor-and-fitness-ai-powered-meal-prepping-tips/"><u>Flavor & Fitness: AI-Powered Meal Prepping Tips</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/hack-alert-activision-breach-exposed-are-chatgpt-infused-ai-taking-our-jobs/"><u>Hack Alert: Activision Breach Exposed, Are ChatGPT-Infused AI Taking Our Jobs?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Vivo X100? | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-top-lenses-for-animation-photography/"><u>[New] In 2024, Top Lenses for Animation Photography</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-techniques-to-increase-instagram-content-playback-speed-for-2024/"><u>[New] Techniques to Increase Instagram Content Playback Speed for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-exclude-automatic-recommended-podcasts-in-spotify-feed/"><u>[Updated] Exclude Automatic Recommended Podcasts in Spotify Feed</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-vimeo-unpacked-dedicated-to-video-showcase-and-sharing-for-2024/"><u>[Updated] Vimeo Unpacked Dedicated to Video Showcase and Sharing for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/50-mobile-phone-deal-unlocking-the-secrets-of-ransomware-decryption-join-us-for-an-exciting-chatgpt-powered-podcast/"><u>$50 Mobile Phone Deal: Unlocking the Secrets of Ransomware Decryption - Join Us for an Exciting ChatGPT-Powered Podcast!</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-simple-path-your-guide-to-convert-youtube-audio-on-mac/"><u>2024 Approved Simple Path Your Guide to Convert YouTube Audio on Mac</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/8-innovative-neural-network-alternatives-eclipsing-chatgpts-mobile-version/"><u>8 Innovative Neural Network Alternatives Eclipsing ChatGPT's Mobile Version</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/accelerate-administrative-hr-tasks-5-smart-gpt-powered-techniques/"><u>Accelerate Administrative HR Tasks: 5 Smart GPT-Powered Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ace-your-job-hunt-writing-an-impressive-resume-using-chatgpt/"><u>Ace Your Job Hunt: Writing an Impressive Resume Using ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/achieve-peak-performance-working-from-home-by-harnessing-chatgpt-six-key-techniques-for-successful-telecommuting-and-freelancing/"><u>Achieve Peak Performance Working From Home by Harnessing ChatGPT - Six Key Techniques for Successful Telecommuting and Freelancing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-assistants-face-off-is-google-bard-beating-out-microsofts-bing-chat-in-popularity/"><u>AI Assistants Face-Off: Is Google Bard Beating Out Microsoft’s Bing Chat in Popularity?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-driven-recruitment-tips-navigating-linkedin-with-10-helpful-insights/"><u>AI-Driven Recruitment Tips: Navigating LinkedIn with 10 Helpful Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722103373320-discover-the-top-6-engaging-games-available-on-chatgpt/"><u>Discover the Top 6 Engaging Games Available on ChatGPT!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-google-pixel-fold-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Google Pixel Fold Devices</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/premium-timepieces-for-your-dream-wedding-on-smartphones/"><u>Premium Timepieces for Your Dream Wedding on Smartphones</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/probing-the-use-of-language-models-in-hacking/"><u>Probing the Use of Language Models in Hacking</u></a></li>
 </ul></div>
 

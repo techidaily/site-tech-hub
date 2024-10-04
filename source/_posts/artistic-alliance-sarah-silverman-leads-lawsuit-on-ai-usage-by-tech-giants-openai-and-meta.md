@@ -1,7 +1,7 @@
 ---
 title: "Artistic Alliance: Sarah Silverman Leads Lawsuit on AI Usage by Tech Giants OpenAI and Meta"
-date: 2024-09-20T17:22:30.558Z
-updated: 2024-09-22T21:41:42.610Z
+date: 2024-10-01T08:24:13.744Z
+updated: 2024-10-04T14:18:56.116Z
 tags:
   - chatgpt
   - open-ai
@@ -38,9 +38,23 @@ thumbnail: https://thmb.techidaily.com/e475d95ff83684e67af3ed3b0fb046f03e477b4f8
 
  For instance, if you use derogatory words when addressing[Microsoft's GPT-powered Bing AI](https://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/) , it will respond by saying, "I'm sorry, but I don't appreciate being spoken to that way." Similarly, ChatGPT will tell you to "refrain from using offensive language" because it's against its content policy or that it's "sorry to hear you're upset" but that "as an AI language model, it doesn't have feelings or emotions."
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Should You Teach Children to Be Polite Using AI?
 
 ![child looking at laptop headphones studying](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/sites-teach-children-online-safety-featured.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  A few tech companies have AI products that encourage kids to be polite. A good example is Amazon's[Echo Dot Kids Edition](https://www.makeuseof.com/is-echo-dot-kids-edition-worth-buying/) , which includes a**Magic Word** feature to persuade children to be polite. In 2018, Google also introduced the[Pretty Please feature in Google Assistant](https://www.makeuseof.com/tag/new-google-assistant-features-holidays/) that could return the favor if you say "thank you" or "please."
 
@@ -52,6 +66,13 @@ thumbnail: https://thmb.techidaily.com/e475d95ff83684e67af3ed3b0fb046f03e477b4f8
 
 ![bing app and open ai app on smartphone screen feature](https://thmb.techidaily.com/9ff4b5531529224a97af11fd7b31d3496bf7818fcfc9f8eeee6fcb2c56355c7c.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Image Credit: Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/vancouver-canada-feb-15-2023-microsoft-2262942895)
 
  AI chatbots can be rude to you, just like humans. For instance, a[Reddit user](https://www.reddit.com/r/bing/comments/110eagl/the%5Fcustomer%5Fservice%5Fof%5Fthe%5Fnew%5Fbing%5Fchat%5Fis/) shared a screenshot of Microsoft's Bing AI in beta mode, responding rudely and arguing during an interaction. An AI chatbot can also be rude if you jailbreak it to disobey its content policy, which is one reason[you shouldn't trust every generative AI screenshot](https://www.makeuseof.com/why-you-shouldnt-trust-ai-chatbot-conversation-screenshots/) you see. Someone may have specifically asked the AI to be rude, screen-capped it for the drama, and posted it online.
@@ -61,10 +82,10 @@ thumbnail: https://thmb.techidaily.com/e475d95ff83684e67af3ed3b0fb046f03e477b4f8
  On the other hand, you can[set up Alexa to swear](https://www.makeuseof.com/how-to-make-alexa-swear/) profanities if you want it to be rude.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Interact With AI How You Want
@@ -86,5 +107,16 @@ thumbnail: https://thmb.techidaily.com/e475d95ff83684e67af3ed3b0fb046f03e477b4f8
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-buzzing-beats-essential-background-scores-for-viral-video-shorts-for-2024/"><u>[Updated] Buzzing Beats Essential Background Scores for Viral Video Shorts for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/advance-your-interactions-the-four-main-advantages-of-using-claude-3-instead-of-chatgpt/"><u>Advance Your Interactions: The Four Main Advantages of Using Claude 3 Instead of ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-and-the-art-of-disguise-exploring-why-chatgpt-cannot-detect-its-literary-footprints/"><u>AI and the Art of Disguise: Exploring Why ChatGPT Cannot Detect Its Literary Footprints</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boosting-your-daily-efficiency-top-6-strategies-with-chatgpt/"><u>Boosting Your Daily Efficiency: Top 6 Strategies with ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bring-your-dungeons-and-dragons-game-to-life-using-chatgpt-and-dall-e-for-character-creation/"><u>Bring Your Dungeons & Dragons Game to Life Using ChatGPT and DALL-E for Character Creation</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/vating-cold-ideal-snowy-scenes-to-brighten-videos/"><u>Captivating Cold Ideal Snowy Scenes to Brighten Videos</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-6-plus-with-a-broken-screen-drfone-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone 6 Plus with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-xiaomi-redmi-note-12-pro-4g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Xiaomi Redmi Note 12 Pro 4G Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/text-on-a-budget-mastering-free-and-low-cost-communication/"><u>Text on a Budget: Mastering Free and Low-Cost Communication</u></a></li>
+</ul></div>
 

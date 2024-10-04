@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Client Results with AI: Crafting Custom Workouts Through ChatGPT"
-date: 2024-09-21T17:49:12.059Z
-updated: 2024-09-29T06:21:11.690Z
+date: 2024-09-29T05:18:35.752Z
+updated: 2024-10-04T08:17:51.759Z
 tags:
   - chatgpt
   - open-ai
@@ -34,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/6afde60cdf2c4ed08818a0c3bb279e1893a9ceb46
 * ChatGPT is easy to use. If you can think and type, you can use ChatGPT. Eventually, as tech companies integrate these systems into voice assistants, you might not even need to do the typing! This makes ChatGPT accessible to people of varying ages and technical abilities.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Examples of How ChatGPT Can Be Used for Health and Fitness Advice
@@ -47,10 +47,10 @@ thumbnail: https://thmb.techidaily.com/6afde60cdf2c4ed08818a0c3bb279e1893a9ceb46
 ![Screenshot of ChatGPT giving health advice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/screenshot-2023-02-09-at-1-48-14-pm.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  It can also be used to generate advice on weekly meal plans based on your body type, sex, activity level, age, food preferences, and health goals (whether you want to lose weight, gain muscle, or something else).
@@ -62,10 +62,10 @@ thumbnail: https://thmb.techidaily.com/6afde60cdf2c4ed08818a0c3bb279e1893a9ceb46
  You could also use ChatGPT to provide information on how to maintain a healthy lifestyle, including how to protect yourself from illness. Or you can ask it to make recommendations for cancer screenings based on your factors (e.g. age, sex, and family history).
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Limitations of Relying on ChatGPT for Health and Fitness Advice
@@ -79,10 +79,10 @@ thumbnail: https://thmb.techidaily.com/6afde60cdf2c4ed08818a0c3bb279e1893a9ceb46
  If you're going to use ChatGPT as one source of health and fitness advice, there are some tips and tricks you can follow to improve the quality of information you receive.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Tips and Tricks for Improving Relevance of Health and Fitness Recommendations
@@ -117,18 +117,18 @@ thumbnail: https://thmb.techidaily.com/6afde60cdf2c4ed08818a0c3bb279e1893a9ceb46
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-how-to-detect-if-someone-has-muted-or-blocked-you-on-snapchat/"><u>[Updated] In 2024, How to Detect If Someone Has Muted or Blocked You on Snapchat</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-syncing-scores-youtube-musics-role-in-multimedia-content/"><u>[Updated] In 2024, Syncing Scores YouTube Music's Role in Multimedia Content</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-transformative-techniques-podcast-covers-reimagined/"><u>[Updated] Transformative Techniques Podcast Covers Reimagined</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/a-complete-guide-to-use-instagram-video-chat-for-2024/"><u>A Complete Guide to Use Instagram Video Chat for 2024</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-oppo-a78-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Oppo A78 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/junior-jams-and-junction-gaming/"><u>Junior Jams & Junction Gaming</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-new-leadership-the-implications-of-sam-altman-leaving-openai-on-chatgpts-evolution/"><u>Navigating New Leadership: The Implications of Sam Altman Leaving OpenAI on ChatGPT's Evolution</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-the-chatgpt-api-landscape/"><u>Navigating the ChatGPT API Landscape</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/overcome-iphone-chatgpt-problems-with-these-9-proven-fixes/"><u>Overcome iPhone ChatGPT Problems With These 9 Proven Fixes</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/resurrecting-drowned-digital-discussions/"><u>Resurrecting Drowned Digital Discussions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-your-discord-audio-issues-once-and-for-all-with-our-2024-comprehensive-fix-guide/"><u>Solve Your Discord Audio Issues Once and For All with Our 2024 Comprehensive Fix Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-integrating-codegpt-with-visual-studio-code/"><u>Step-by-Step Guide: Integrating CodeGPT with Visual Studio Code</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-nokia-c110-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Nokia C110 Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-dungeon-dominance-top-ten-rogue-classics/"><u>[Updated] 2024 Approved Dungeon Dominance Top Ten Rogue Classics</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-flair-in-your-makeup-routine-top-tutorial-insights/"><u>[Updated] In 2024, Flair in Your Makeup Routine Top Tutorial Insights</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-updated-discussion-treasures-for-listener-retention/"><u>[Updated] In 2024, Updated Discussion Treasures for Listener Retention</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/50-ransomware-fix-with-smartphone-hacks-plus-how-chatgpt-is-shaping-our-podcast-conversations-today/"><u>$50 Ransomware Fix with Smartphone Hacks - Plus, How ChatGPT Is Shaping Our Podcast Conversations Today!</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-youtube-video-creation-secrets-of-the-professionals-unveiled/"><u>2024 Approved YouTube Video Creation Secrets of the Professionals Unveiled</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/6-ways-content-writers-can-outperform-ai-writing-tools/"><u>6 Ways Content Writers Can Outperform AI Writing Tools</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/7-ways-to-lock-apps-on-apple-iphone-13-mini-and-ipad-securely-drfone-by-drfone-ios/"><u>7 Ways to Lock Apps on Apple iPhone 13 mini and iPad Securely | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-and-math-are-they-compatible/"><u>AI & Math: Are They Compatible?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-communication-contest-assessing-the-superior-capabilities-of-perplexity-and-chatgpt-plus/"><u>AI Communication Contest: Assessing the Superior Capabilities of Perplexity and ChatGPT Plus</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-enhanced-browsing-with-bing-easy-sign-up-instructions/"><u>AI Enhanced Browsing with Bing: Easy Sign-Up Instructions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-our-favorite-book-app-selections-top-picks-for-202/"><u>Explore Our Favorite Book App Selections: Top Picks for 202</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722153552959-transitioning-to-ai-freedom-discover-the-continued-benefits-of-choosing-chatgpt-plus-over-free-gpt/"><u>Transitioning to AI Freedom: Discover the Continued Benefits of Choosing ChatGPT Plus Over Free GPT- #</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-iphone-6s-plus-without-passcode-easily-drfone-by-drfone-ios/"><u>Unlock iPhone 6s Plus Without Passcode Easily | Dr.fone</u></a></li>
 </ul></div>
 

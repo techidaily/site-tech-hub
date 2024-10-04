@@ -1,7 +1,7 @@
 ---
 title: Directing Car Alterations with GPT Involvement
-date: 2024-09-24T18:37:16.734Z
-updated: 2024-09-29T07:16:05.074Z
+date: 2024-10-02T11:21:05.958Z
+updated: 2024-10-04T12:49:33.669Z
 tags:
   - chatgpt
   - open-ai
@@ -27,16 +27,10 @@ thumbnail: https://thmb.techidaily.com/33139754522d3393b0a998cc016bffa1b55254150
 * [DALL-E's Editing Tools Are Useful, But Need Work (and a Little Persistence)](https://www.makeuseof.com/how-dalle-3-editing-tools-work/#dall-e-39-s-editing-tools-are-useful-but-need-work-and-a-little-persistence)
 
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -59,6 +53,19 @@ thumbnail: https://thmb.techidaily.com/33139754522d3393b0a998cc016bffa1b55254150
 
 ![dalle 3 editing tools example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-example.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 However, it's a mixed bag.
 
 [OpenAI's official blog](https://help.openai.com/en/articles/9055440-editing-your-images-with-dall-e) example shows DALL-E adding cherry blossoms to a Ukiyo-e-style image of cat, and it working perfectly. In my experience, DALL-E's editing tools struggle to add such detailed imagery to an existing image and, for the most part, can't process requests of this nature.
@@ -68,13 +75,6 @@ However, it's a mixed bag.
 ## How to Use DALL-E 3's Editing Tool
 
  The best way to show you what DALL-E 3's editing tool can do is with some proper examples.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Removing and Erasing
 
@@ -88,6 +88,13 @@ Close
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Adding and Changing
 
  DALL-E 3 can make some changes to images, but again, it depends on the scale of what you're asking. Small additions and changes are possible, but most of the time, DALL-E's editing tool can't process what is asked.
@@ -97,10 +104,10 @@ Close
 ![dalle 3 editing tools close up human eye](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-close-up-human-eye.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Pretty decent, if a little odd (eyelash reflections?!), but I wanted to switch the iris color to blue-green instead, resulting in this image:
@@ -129,13 +136,6 @@ Close
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## DALL-E's Editing Tools Are Useful, But Need Work (and a Little Persistence)
 
  I've found that DALL-E's editing tools are useful for certain tasks, but it takes some time to get the editing right. At other times, it just won't work, and you're probably better off taking your original prompt and tweaking that to create a new image.
@@ -157,24 +157,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-apex-thrill-racers-our-favorites-5/"><u>[New] Apex Thrill Racers Our Favorites (5)</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-unlocking-secrets-for-superior-asmr-viewing/"><u>[New] In 2024, Unlocking Secrets for Superior ASMR Viewing</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/tepwise-guide-to-youtube-video-enhancement-in-imovie-for-2024/"><u>[New] Stepwise Guide to YouTube Video Enhancement in iMovie for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-vlcs-advanced-webcam-functionality-for-video-archiving-for-2024/"><u>[New] VLC's Advanced Webcam Functionality for Video Archiving for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-oppo-find-n3-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Oppo Find N3 to Roku | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-windows-11-connectivity-issues-with-apple-wireless-earbuds-microphone/"><u>Diagnosing and Repairing Windows 11 Connectivity Issues with Apple Wireless Earbuds Microphone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/dive-deep-into-google-meet-a-free-host-and-participants-guide-for-2024/"><u>Dive Deep Into Google Meet A Free Host & Participant's Guide for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-tecno-phantom-v-flip-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Tecno Phantom V Flip to Another | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1722009919361-ready-for-chatgpt-on-your-computer-but-cant-find-it-yet-check-out-our-picked-open-source-substitutes/"><u>Ready for ChatGPT on Your Computer but Can't Find It Yet? Check Out Our Picked Open Source Substitutes!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-benefits-you-gain-by-opting-for-microsoft-copilot-rather-than-chatgpt/"><u>The Benefits You Gain by Opting for Microsoft Copilot Rather than ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-gap-in-self-review-systems/"><u>The Gap in Self-Review Systems</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transform-your-youtube-channel-with-chatgpt-powered-video-scripting-techniques/"><u>Transform Your YouTube Channel with ChatGPT-Powered Video Scripting Techniques</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-getting-speakers-working-with-zoom-again/"><u>Troubleshooting Guide: Getting Speakers Working with Zoom Again</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-ai-illusions-identifying-the-phenomenon-of-artificial-intelligence-hallucinations/"><u>Understanding AI Illusions: Identifying the Phenomenon of Artificial Intelligence Hallucinations</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1721893987489-unlock-the-power-of-ai-in-search-how-to-sign-up-for-bing/"><u>Unlock the Power of AI in Search - How to Sign Up for Bing!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unpacking-the-reasons-behind-italys-swift-ban-on-chatgpt/"><u>Unpacking the Reasons Behind Italy's Swift Ban on ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/webmmp4-google5/"><u>WebMとMP4への変換ができる簡単インターフェース! - Googleに最適化された5つの人気ツール</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/what-security-risks-exist-when-interacting-with-chatgpt/"><u>What Security Risks Exist When Interacting With ChatGPT?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/worth-the-cost-evaluating-premium-artificial-intelligence-prompts/"><u>Worth the Cost: Evaluating Premium Artificial Intelligence Prompts</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-10-highly-trusted-free-video-communication-tools-with-security-features/"><u>[New] In 2024, 10 Highly-Trusted Free Video Communication Tools with Security Features</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-discreet-peek-into-fb-narratives/"><u>2024 Approved Discreet Peek Into FB Narratives</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-erase-apple-iphone-13-pro-max-when-its-locked-within-seconds-by-drfone-ios/"><u>3 Ways to Erase Apple iPhone 13 Pro Max When Its Locked Within Seconds</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/assessing-the-viability-top-6-considerations-before-implementing-chatgpt-in-therapy-settings/"><u>Assessing the Viability: Top 6 Considerations Before Implementing ChatGPT in Therapy Settings</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/edit-and-enhance-videos-with-capcut-on-windows-the-ultimate-tutorial-for-newbies/"><u>Edit and Enhance Videos with CapCut on Windows: The Ultimate Tutorial for Newbies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-ai-tools-are-being-used-by-cyberthieves-top-five-examples/"><u>How AI Tools Are Being Used by Cyberthieves: Top Five Examples</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-vivo-y100i-power-5g-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Vivo Y100i Power 5G FRP Locks</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-oppo-reno-8t-5g-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Oppo Reno 8T 5G Phones</u></a></li>
+<li><a href="https://driver-error.techidaily.com/intel-hd-graphics-4600-driver-download-and-install-easily/"><u>Intel HD Graphics 4600 Driver Download and Install. Easily</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-chatbot-communication-fixing-commonly-encountered-errors/"><u>Mastering Chatbot Communication: Fixing Commonly Encountered Errors</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/navigating-video-editing-with-apples-latest-m1-macbook-air/"><u>Navigating Video Editing with Apple’s Latest M1 MacBook Air</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/securing-web-thwart-ai-bots-from-data-scavenging/"><u>Securing Web: Thwart AI Bots From Data Scavenging</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-in-use-status-on-network-resources-in-windows-11/"><u>Tackling 'In-Use' Status on Network Resources in Windows 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-mystery-behind-grok-ai-elon-musk-sheds-light-on-his-new-creation/"><u>The Mystery Behind Grok AI: Elon Musk Sheds Light on His New Creation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-battle-of-linguistic-minds-chatgpt-plus-vs-perplexity-reviewed/"><u>Ultimate Battle of Linguistic Minds: ChatGPT Plus Vs. Perplexity Reviewed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-chatgpt-jailbreaks-risks-and-benefits/"><u>Understanding ChatGPT Jailbreaks: Risks and Benefits</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-the-significance-of-real-time-information-for-chatgpt-users-worldwide/"><u>Unlocking the Significance of Real-Time Information for ChatGPT Users Worldwide</u></a></li>
 </ul></div>
 

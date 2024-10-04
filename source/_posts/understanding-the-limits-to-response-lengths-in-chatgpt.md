@@ -1,7 +1,7 @@
 ---
 title: Understanding the Limits to Response Lengths in ChatGPT
-date: 2024-09-21T16:25:06.543Z
-updated: 2024-09-28T22:14:22.725Z
+date: 2024-09-27T16:57:48.715Z
+updated: 2024-10-03T19:10:29.499Z
 tags:
   - chatgpt
   - open-ai
@@ -45,13 +45,6 @@ Here is the standard interpretation of the Turing Test:
 
 ![turing-test-drawbacks-and-weaknesses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-drawbacks-and-weaknesses.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Drawbacks of the Turing Test
 
  Although the Turing Test aims to find if machines can think, there are some drawbacks.
@@ -66,7 +59,21 @@ Here is the standard interpretation of the Turing Test:
 
 ![turing-test-artificial-intelligence](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-artificial-intelligence.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the last ten years, there have been two main claims that the Turing Test has been passed.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Eugene Goostman
 
@@ -75,13 +82,6 @@ Here is the standard interpretation of the Turing Test:
  Since 2014 there have been many speculations and controversies surrounding the claim. One of the main criticisms against Eugene Goostman was the deceptive lowering of Turing Test criteria. The developers claimed the computer to be a 13-year-old boy who does not natively speak English and lives far enough away from modern society to be ignorant of topics such as geography, pop culture, etc.
 
  By framing Eugene Goostman in this context, interrogators did not have to hold the machine's responses to a normal standard. After all, many modern chatbots can hold similar conversations. The difference with Eugene Goostman is that the narrative context surrounding the machine allowed the hiccups in conversation to be more believable.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Google's LaMBDA
 
@@ -102,10 +102,10 @@ Here is the standard interpretation of the Turing Test:
  Artificial intelligence is currently used by the public globally. Millions of queries are occurring daily, so AI is certainly exposed to a vast amount of data. This will no doubt allow AI models to imitate human language and behavior. However, intelligence or sentience may require significantly further advancements to the core technologies of the AI model. There are some wondering if[AI advancement will pose any dangers](https://www.makeuseof.com/what-is-ai-what-dangers-does-artificial-intelligence-pose/) .
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### ChatGPT
@@ -115,10 +115,16 @@ Here is the standard interpretation of the Turing Test:
  Many industry-leading experts state that we may see the Turing Test beaten with ChatGPT-5, but there is no timeframe for the release of the next ChatGPT version as yet.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Turing Test Has Not Been Definitively Passed
@@ -144,24 +150,19 @@ Here is the standard interpretation of the Turing Test:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-comprehensive-degree-of-view-analysis/"><u>[New] Comprehensive Degree of View Analysis</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-photographic-fusion-at-full-speeds-google-collage-techniques/"><u>[Updated] In 2024, Photographic Fusion at Full Speeds Google Collage Techniques</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-distribute-your-videos-a-vimeo-guide/"><u>2024 Approved Distribute Your Videos A Vimeo Guide</u></a></li>
-<li><a href="https://article-tips.techidaily.com/efficient-techniques-to-improve-windows-10-photos-app-functionality/"><u>Efficient Techniques to Improve Windows 10 Photos App Functionality</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722955305014-elgato-hd60-driver-glitches-fast-and-straightforward-repair-methods-inside/"><u>Elgato HD60 Driver Glitches? Fast and Straightforward Repair Methods Inside!</u></a></li>
-<li><a href="https://some-skills.techidaily.com/expert-tips-for-launching-your-pc-with-windows-nto-default-settings-a-clean-start-process/"><u>Expert Tips for Launching Your PC with Windows Nto Default Settings – A Clean Start Process</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/free-but-worth-it-exploring-the-top-reasons-to-stick-with-chatgpt-plus-despite-available-gpt-4/"><u>Free but Worth It: Exploring the Top Reasons to Stick With ChatGPT Plus Despite Available GPT-4</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/from-foundations-to-frontiers-gpt-versions-explained/"><u>From Foundations to Frontiers: GPT Versions Explained</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/from-novice-to-expert-integrating-chatgpt-with-excel-for-hassle-free-data-management/"><u>From Novice to Expert: Integrating ChatGPT with Excel for Hassle-Free Data Management</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/future-high-heat-intels-upcoming-desktop-processors-predicted-to-surpass-thermal-limits/"><u>Future High Heat: Intel's Upcoming Desktop Processors Predicted to Surpass Thermal Limits</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/generate-impressive-corporate-emails-instantly-for-free-discover-how-chatgpt-and-ai-innovation-can-streamline-your-inbox/"><u>Generate Impressive Corporate Emails Instantly for Free - Discover How ChatGPT & AI Innovation Can Streamline Your Inbox</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/harnessing-the-power-of-ai-for-influential-proposals/"><u>Harnessing the Power of AI for Influential Proposals</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-capable-is-chatgpt-at-resolving-complex-math-equations/"><u>How Capable Is ChatGPT at Resolving Complex Math Equations?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-do-these-apps-leverage-gpt-4-technology/"><u>How Do These Apps Leverage GPT-4 Technology?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-12-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On Apple iPhone 12</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-vivo-s18e-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Vivo S18e</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/instantly-unplug-from-gpt-powered-dialogue/"><u>Instantly Unplug From GPT-Powered Dialogue</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/investigating-the-utility-and-implications-of-metaphorical-representations-in-digital-knowledge-systems/"><u>Investigating the Utility and Implications of Metaphorical Representations in Digital Knowledge Systems</u></a></li>
-<li><a href="https://blog-min.techidaily.com/the-leading-10-mac-apps-for-creating-engaging-picture-slideshows-and-videos/"><u>The Leading 10 Mac Apps for Creating Engaging Picture Slideshows and Videos</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-no-money-down-best-web-converters-from-tiktok-to-mp3-ranked/"><u>[New] In 2024, No Money Down Best Web Converters From TikTok To MP3 Ranked</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-ultimate-web-compendium-alarm-rhythms-guidebook-for-2024/"><u>[New] Ultimate Web Compendium Alarm Rhythms Guidebook for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/7-astonishing-breakthrough-features-of-bard-ai-unveiled-at-googles-annual-io-event/"><u>7 Astonishing Breakthrough Features of BARD AI Unveiled at Google's Annual I/O Event</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ace-interviews-how-chatgpt-can-help-you-create-an-impressive-cover-letter/"><u>Ace Interviews: How ChatGPT Can Help You Create an Impressive Cover Letter</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-misconceptions-debunked-6-reasons-to-think-twice-before-blind-belief-in-machine-learning/"><u>AI Misconceptions Debunked: 6 Reasons to Think Twice Before Blind Belief in Machine Learning</u></a></li>
+<li><a href="https://facebook.techidaily.com/does-meta-keep-my-vr-life-more-private-than-fb/"><u>Does Meta Keep My VR Life More Private than FB?</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/1725287621177-dvdfab-hd-decrypter/"><u>DVDFab HD Decrypter 利用法の完全ガイド - 有料版更新満了後でも安心</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/headphone-troubles-on-windows-11-heres-how-you-can-solve-it/"><u>Headphone Troubles on Windows 11? Here's How You Can Solve It!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-poco-c65-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Poco C65 Pictures An Easy Method Explained.</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-xcover-7-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Samsung Galaxy XCover 7 Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722096037571-impatient-for-chatgpt-on-your-device-heres-where-you-can-find-robust-open-source-solutions-instead/"><u>Impatient for ChatGPT on Your Device? Here's Where You Can Find Robust Open Source Solutions Instead</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-4-things-you-must-know-about-iphone-14-pro-max-activation-lock-by-drfone-ios/"><u>In 2024, 4 Things You Must Know About iPhone 14 Pro Max Activation Lock</u></a></li>
+<li><a href="https://techidaily.com/is-your-realme-narzo-60-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Realme Narzo 60 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722123230450-revolutionize-how-you-find-answers-bings-cutting-edge-ai-integration-ready-for-smartphones/"><u>Revolutionize How You Find Answers: Bing's Cutting-Edge AI Integration Ready for Smartphones</u></a></li>
 </ul></div>
 

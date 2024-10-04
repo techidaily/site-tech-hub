@@ -1,7 +1,7 @@
 ---
 title: Pioneering Prompt Engineering in AI Classes
-date: 2024-09-19T16:50:39.006Z
-updated: 2024-09-22T20:01:21.295Z
+date: 2024-09-29T19:40:44.669Z
+updated: 2024-10-04T05:18:16.086Z
 tags:
   - chatgpt
   - open-ai
@@ -55,9 +55,23 @@ Here is the standard interpretation of the Turing Test:
 
  Furthermore, the arbitrary nature of the testing criteria is an issue. Why is there a five-minute limit, and why is the fooling rate of interrogators set at 30%? Why not ten minutes and 50%? The truth is those numbers were derived from Turing's prediction about the future state of artificial intelligence. He never meant for them to be explicit thresholds. However, for now, those numbers are good enough as a target to reach.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Did Eugene Goostman or LaMBDA Pass the Turing Test?
 
 ![turing-test-artificial-intelligence](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-artificial-intelligence.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In the last ten years, there have been two main claims that the Turing Test has been passed.
 
@@ -70,10 +84,10 @@ Here is the standard interpretation of the Turing Test:
  By framing Eugene Goostman in this context, interrogators did not have to hold the machine's responses to a normal standard. After all, many modern chatbots can hold similar conversations. The difference with Eugene Goostman is that the narrative context surrounding the machine allowed the hiccups in conversation to be more believable.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Google's LaMBDA
@@ -87,10 +101,10 @@ Here is the standard interpretation of the Turing Test:
  Lemoine claimed that this was LaMDA fearing its mortality. Unfortunately, this was quickly proven false, and LaMDA did not pass the Turing Test. Critics point out that in this instance, LaMDA managed to fool one participant, and the participant knew they were talking to a machine. LaMDA's sense of its own mortality was simply a result of code designed to operate similarly to auto-correct.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Advancement of Computer Intelligence
@@ -128,5 +142,24 @@ Here is the standard interpretation of the Turing Test:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-authenticity-through-customer-produced-videos/"><u>[Updated] In 2024, Authenticity Through Customer-Produced Videos</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-choreographing-the-finale-for-your-tiktok-story/"><u>[Updated] In 2024, Choreographing the Finale for Your TikTok Story</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-how-to-make-youtube-video/"><u>[Updated] In 2024, How to Make YouTube Video</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-mastering-zoom-segregation-techniques-quickstart/"><u>[Updated] In 2024, Mastering Zoom Segregation Techniques Quickstart</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-best-practice-video-placement-on-facebook-vh/"><u>2024 Approved Best Practice Video Placement on Facebook (V/H)</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/boost-your-tiktoks-speed-a-step-by-step-guide/"><u>Boost Your TikTok's Speed A Step-by-Step Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-itel-p55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016019804-fixes-revealed-enabling-game-audio-streams-in-discord-now/"><u>Fixes Revealed: Enabling Game Audio Streams in Discord Now</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/high-def-streaming-cameras-for-social-media-giants-for-2024/"><u>High-Def Streaming Cameras for Social Media Giants for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-using-chatgpt-for-your-youtube-video-drafts/"><u>Step by Step: Using ChatGPT for Your YouTube Video Drafts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-to-streamlining-your-chatgpt-conversations-via-folders/"><u>Step-by-Step Guide to Streamlining Your ChatGPT Conversations via Folders</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-transforming-dall-e-3s-webp-outputs-into-jpg-and-png-images/"><u>Step-by-Step Tutorial: Transforming DALL-E 3'S WebP Outputs Into JPG and PNG Images</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/streamlined-linux-installation-of-bavarder-chatgpt/"><u>Streamlined Linux Installation of Bavarder ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-classroom-evolution-embracing-artificinas-in-education-top-8-ways/"><u>The Classroom Evolution: Embracing Artificinas in Education (Top 8 Ways)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-importance-of-being-civil-communicating-respectfully-with-ai-voices-including-chatgpt-alexa-and-siri/"><u>The Importance of Being Civil: Communicating Respectfully with AI Voices Including ChatGPT, Alexa, & Siri</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-guide-to-top-5-expertly-curated-ai-course-rankings/"><u>The Ultimate Guide to Top 5 Expertly Curated AI Course Rankings</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tips-for-top-notetakers-using-chatgpt/"><u>Tips for Top Notetakers Using ChatGPT</u></a></li>
+</ul></div>
 

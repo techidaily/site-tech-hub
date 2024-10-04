@@ -1,7 +1,7 @@
 ---
 title: "The Great AI Debate: Who's Best? GPT Vs. Microsoft/Google's Innovations"
-date: 2024-09-21T00:55:29.883Z
-updated: 2024-09-22T22:25:35.194Z
+date: 2024-10-03T00:23:26.503Z
+updated: 2024-10-04T10:41:59.398Z
 tags:
   - chatgpt
   - open-ai
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/acfc08d56b4206022979b3dc0ecd7952203549957
 
 ![AI powered chat feature in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-chat-new.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ` Image Credit:[ Microsoft](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) `
 
  Microsoft is ensuring that its next-gen search engine is your copilot as you surf the web. You can plan romantic getaways with your partner, write your assignments, and get the best vegan lasagna recipe from Bing’s new interactive AI chat experience. It’s built to handle complex queries that you can refine until you find the answers you’re looking for.
@@ -47,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/acfc08d56b4206022979b3dc0ecd7952203549957
  In response to a typical search query, Bing will now show relevant search results on the left and a comprehensive overview of your search query on the right.
 
  This means if you search for**“Best flights from London to New York,”** Bing will show you a list of relevant ticketing services in the left pane but a summarized result of the best airline fare according to its AI search algorithm in the right pane.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What's New in Microsoft Edge?
 
@@ -56,6 +70,13 @@ thumbnail: https://thmb.techidaily.com/acfc08d56b4206022979b3dc0ecd7952203549957
 
 ![compose text with Bing AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-ai-compose-new.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ` Image Credit:[ Microsoft](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) `
 
  Building on the content-generation capabilities of ChatGPT,**Compose** within Microsoft Edge will let you generate content that customizes to the required tone, format, and length. You can compose emails to your coworkers, write about your new job in a post on LinkedIn, and even convert financial information into tables; the possibilities are limitless.
@@ -63,10 +84,10 @@ thumbnail: https://thmb.techidaily.com/acfc08d56b4206022979b3dc0ecd7952203549957
  You can use the**Chat** feature to answer complex queries, get detailed financial information on a company, figure out the best way to grill a steak, decide the best framework for your web application, and more.**Chat** relies on your prompts to comprehensively provide you with the best possible answers.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Microsoft Bing Reinvents Web Searching
@@ -86,5 +107,24 @@ thumbnail: https://thmb.techidaily.com/acfc08d56b4206022979b3dc0ecd7952203549957
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/aximize-engagement-with-proper-youtube-video-dimensions/"><u>[New] Maximize Engagement with Proper YouTube Video Dimensions</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-hidden-shotshaper-advanced-stealthy-methods-for-capturing-images-for-2024/"><u>[Updated] Hidden ShotShaper Advanced Stealthy Methods for Capturing Images for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-deleting-facebook-stories-laptop-and-mobile-guide/"><u>[Updated] In 2024, Deleting Facebook Stories Laptop & Mobile Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-ranked-slideshow-creation-software-on-latest-iphones/"><u>[Updated] In 2024, Ranked Slideshow Creation Software on Latest iPhones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tech-jest-crafter/"><u>[Updated] Tech Jest Crafter</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/10-visionaries-on-the-evolution-of-ai-technology/"><u>10 Visionaries on the Evolution of AI Technology</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-high-quality-8-cam-transformations-for-streaming/"><u>2024 Approved High-Quality 8 Cam Transformations for Streaming</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-sd-to-4k-superiority-a-look-inside-the-d500-for-2024/"><u>From SD to 4K Superiority A Look Inside the D500 for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/itunes-alert-resolving-detection-of-audio-configuration-issues-quickly/"><u>ITunes Alert: Resolving Detection of Audio Configuration Issues Quickly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-critical-list-anticipating-changes-after-os-reinstall/"><u>The Critical List: Anticipating Changes After OS Reinstall</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-strategies-to-enhance-your-notes-using-chatgpt/"><u>Ultimate Strategies to Enhance Your Notes Using ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-more-potential-why-chatgpts-desktop-app-is-superior-to-the-web-platform/"><u>Unlocking More Potential: Why ChatGPT's Desktop App Is Superior to the Web Platform</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/upgrading-chatgpts-add-on-ecosystem-with-these-crucial-enhancements/"><u>Upgrading ChatGPT's Add-On Ecosystem with These Crucial Enhancements</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/what-sets-chatgpt-enterprise-apart-understanding-its-unique-offerings-and-differences/"><u>What Sets ChatGPT Enterprise Apart? Understanding Its Unique Offerings and Differences</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/what-to-expect-from-gpt-5-insights-on-its-upcoming-launch-date/"><u>What to Expect From GPT-5? Insights on Its Upcoming Launch Date</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-chatgpt-plus-is-a-game-changer-explore-the-nine-most-impactful-reasons-to-upgrade-now/"><u>Why ChatGPT Plus Is a Game-Changer: Explore the Nine Most Impactful Reasons to Upgrade Now</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/will-artificial-intelligence-outshine-horoscopes/"><u>Will Artificial Intelligence Outshine Horoscopes?</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Importance of Regulatory Measures in AI: Perspectives From the Head of OpenAI"
-date: 2024-09-21T18:56:08.251Z
-updated: 2024-09-28T20:12:55.711Z
+date: 2024-09-28T22:44:31.401Z
+updated: 2024-10-04T06:27:57.547Z
 tags:
   - chatgpt
   - open-ai
@@ -47,13 +47,6 @@ thumbnail: https://thmb.techidaily.com/13a1f9ec7eefb2f2d2c19f961783b576aae349686
 
 ![Text summary in Notes on an iPad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/apple-wwdc24-apple-intelligence-notes-summarize-240610.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Apple](https://www.apple.com/ml/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/)
 
  Apple's Writing Tools is designed to help you generate content across your Apple devices using AI. As long as you're using the latest version of macOS or iOS on compatible hardware, Apple Intelligence can help you rewrite, proofread, and summarize text across all the apps and features that offer text input.
@@ -65,10 +58,10 @@ thumbnail: https://thmb.techidaily.com/13a1f9ec7eefb2f2d2c19f961783b576aae349686
 ![Priority notifications on an iPhone through AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/priority-notifications-on-an-iphone-through-ai.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Apple](https://www.apple.com/ml/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/)
@@ -83,27 +76,26 @@ thumbnail: https://thmb.techidaily.com/13a1f9ec7eefb2f2d2c19f961783b576aae349686
 
  While replying to emails in Mail, an AI feature called Smart Reply will provide suggestions to answer questions posed in the email. This way, you can be sure you didn't miss anything vital when crafting a response.
 
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## AI Image Generation Features
 
  Many folks use AI to generate unique images with tools like DALL-E or Copilot. So, as you might expect, Apple is integrating generative AI image creation into Apple Intelligence with some unique takes and tools.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Image Playground and Image Wand
 
 ![Image Playground on an iPad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/apple-wwdc24-apple-intelligence-image-playground-240610.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Apple](https://www.apple.com/ml/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/)
 
@@ -123,50 +115,43 @@ thumbnail: https://thmb.techidaily.com/13a1f9ec7eefb2f2d2c19f961783b576aae349686
 
 ![Ai-powered Memories in the Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/apple-wwdc24-apple-intelligence-memory-movie-240610.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Apple](https://www.apple.com/ml/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/)
 
  The next category of AI features is those that can be found when interacting with your image library in the Photos app:
 
  The AI integrations don't stop there: Apple is also bringing AI integrations to your image library in the Photos app.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Specific Photo Searches
 
  Now that AI can separate objects and elements in a photo or video, you can be very specific about what you wish to find in the Photos app. You could type "Mom in a floral-patterned gown," and all the content you have related to that will appear in the results.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Memory Movie
 
  You can also take these specific searches to Memories in Photos, and your device will create a memory with the theme you've described. Apple says it will suggest music that matches this theme and make a movie with a narrative arc.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Enhanced AI-Powered Siri
 
 ![AI-enhanced Siri suggesting requests](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/ai-enhanced-siri-suggesting-requests.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Apple](https://www.apple.com/ml/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/)
@@ -177,9 +162,23 @@ thumbnail: https://thmb.techidaily.com/13a1f9ec7eefb2f2d2c19f961783b576aae349686
 
  Apple gave an example of requesting Siri to save a friend's new address after they sent it via text by saying, "Add this address to his contact card" with the chat still open.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apple's ChatGPT Integration
 
 ![Prompt to use ChatGPT on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/prompt-to-use-chatgpt-on-an-iphone.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Apple](https://www.apple.com/ml/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/)
 
@@ -188,6 +187,13 @@ thumbnail: https://thmb.techidaily.com/13a1f9ec7eefb2f2d2c19f961783b576aae349686
 ### Compose
 
 ![ChatGPT Compose on macOS Sequoia](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/apple-wwdc24-apple-intelligence-chatgpt-writing-tools-compose-suggestions-240610.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Apple](https://www.apple.com/ml/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/)
 
@@ -220,24 +226,20 @@ thumbnail: https://thmb.techidaily.com/13a1f9ec7eefb2f2d2c19f961783b576aae349686
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-the-secret-sauce-for-successful-youtubers-channel-featuring-techniques/"><u>[New] In 2024, The Secret Sauce for Successful YouTubers Channel Featuring Techniques</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-step-by-step-process-for-free-youtube-video-texting/"><u>[New] Step-by-Step Process for FREE YouTube Video Texting</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-vibe-of-the-town-top-20-viral-tiktok-rap-songs-to-follow/"><u>[Updated] 2024 Approved Vibe of the Town Top 20 Viral TikTok Rap Songs to Follow</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-mobile-magic-transform-your-snaps-at-zero-cost-for-2024/"><u>[Updated] Mobile Magic Transform Your Snaps at Zero Cost for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/6-effective-strategies-to-minimize-ai-misinterpretations-using-smart-prompt-engineering/"><u>6 Effective Strategies to Minimize AI Misinterpretations Using Smart Prompt Engineering</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/advanced-note-taking-mastery-explore-the-best-ai-apps-to-revolutionize-your-notetaking/"><u>Advanced Note-Taking Mastery: Explore the Best AI Apps to Revolutionize Your Notetaking</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-dependence-six-critical-points-on-why-caution-is-key/"><u>AI Dependence: Six Critical Points on Why Caution Is Key</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-assisted-survival-skills-for-wild-expeditions/"><u>AI-Assisted Survival Skills for Wild Expeditions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-powered-engagement-real-time-command-and-response/"><u>AI-Powered Engagement: Real-Time Command and Response</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/enhance-animal-eye-appearance-a-guide-to-editing-pet-photos/"><u>Enhance Animal Eye Appearance: A Guide to Editing Pet Photos</u></a></li>
-<li><a href="https://apple-account.techidaily.com/everything-to-know-about-apple-id-password-requirements-for-iphone-15-pro-by-drfone-ios/"><u>Everything To Know About Apple ID Password Requirements For iPhone 15 Pro</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1721825924480-gpt-4-gpt-4-turbo-and-gpt-phi-the-key-differences-unveiled/"><u>GPT-4, GPT-4 Turbo & GPT-Phi – The Key Differences Unveiled!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-honor-x7b-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Honor X7b.</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-navigating-youtubes-monetization-frequency/"><u>In 2024, Navigating YouTube's Monetization Frequency</u></a></li>
-<li><a href="https://games-able.techidaily.com/leadership-in-gaming-secure-early-spiderman-2-edition/"><u>Leadership in Gaming: Secure Early SPIDERMAN 2 Edition</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/top-tips-for-obtaining-pristine-photos-without-payment-for-2024/"><u>Top Tips for Obtaining Pristine Photos Without Payment for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-best-ai-phone-apps-on-both-os-platforms/"><u>Unveiling the Best AI Phone Apps on Both OS Platforms</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/what-are-ai-chatbots-and-why-are-they-popular/"><u>What Are AI Chatbots and Why Are They Popular?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/whats-the-risk-level-of-integrating-third-party-chatgpt-tools/"><u>What's the Risk Level of Integrating Third-Party ChatGPT Tools?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-professional-approaches-for-logging-youtube-streams-for-2024/"><u>[New] Professional Approaches for Logging YouTube Streams for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-broadcasts-made-simple-an-easy-to-follow-obs-guide/"><u>[New] Youtube Broadcasts Made Simple An Easy-to-Follow OBS Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-strategic-use-of-twitters-wayback-machine-features/"><u>[Updated] Strategic Use of Twitter's Wayback Machine Features</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-the-ultimate-screen-recorder-list-for-mac-devices-for-2024/"><u>[Updated] The Ultimate Screen Recorder List for Mac Devices for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transform-your-mac-display-utilizing-picture-in-picture-multimedia-features/"><u>[Updated] Transform Your Mac Display Utilizing Picture in Picture Multimedia Features</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ais-role-in-content-creation-where-it-falls-short/"><u>AI's Role in Content Creation - Where It Falls Short</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effective-methods-for-saving-conversations-with-chatgpt-for-future-reference/"><u>Effective Methods for Saving Conversations with ChatGPT for Future Reference</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhance-your-defi-apps-with-these-8-premier-chatbot-extensions-for-cryptocurrency-platforms/"><u>Enhance Your DeFi Apps with These 8 Premier Chatbot Extensions for Cryptocurrency Platforms</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/future-proof-your-enterprise-5-vital-ai-applications-every-savvy-entrepreneur-should-master/"><u>Future-Proof Your Enterprise: 5 Vital AI Applications Every Savvy Entrepreneur Should Master</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-google-pixel-fold-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Google Pixel Fold?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/insight-into-ai-types-differentiating-between-the-capabilities-of-strong-vs-weak-ai/"><u>Insight Into AI Types: Differentiating Between the Capabilities of Strong Vs. Weak AI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-the-pitfalls-a-look-at-chatgpts-main-concerns/"><u>Navigating the Pitfalls: A Look at ChatGPT's Main Concerns</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-xiaomi-redmi-13c-5g-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Xiaomi Redmi 13C 5G</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/story-lore-who-are-the-premier-channels-in-2024/"><u>Story Lore Who Are the Premier Channels, In 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-the-limitations-of-chatgpt-in-handling-personal-data/"><u>Understanding the Limitations of ChatGPT in Handling Personal Data</u></a></li>
 </ul></div>
 

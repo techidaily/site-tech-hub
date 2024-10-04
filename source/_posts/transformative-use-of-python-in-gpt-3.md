@@ -1,7 +1,7 @@
 ---
 title: Transformative Use of Python in GPT-3
-date: 2024-09-28T04:05:27.866Z
-updated: 2024-09-28T17:40:25.359Z
+date: 2024-09-29T12:20:30.672Z
+updated: 2024-10-03T17:29:17.241Z
 tags:
   - chatgpt
   - open-ai
@@ -38,22 +38,15 @@ False news can be categorized into three types:
 
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Generating Fake Content Online
@@ -66,7 +59,21 @@ Here's the fictitious article that ChatGPT came up with:
 
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Using Chatbots to Influence People's Opinions
 
@@ -79,6 +86,13 @@ Here's the fictitious article that ChatGPT came up with:
 
  These examples all illustrate how chatbots can be utilized to mislead people.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Creating AI DeepFakes
 
  Someone can use deepfakes to create false videos of an individual saying or doing things they never did. They can use such tools for social engineering or running smear campaigns against others. Moreover, in today's meme culture, deepfakes can serve as tools for cyberbullying on social media.
@@ -86,13 +100,6 @@ Here's the fictitious article that ChatGPT came up with:
  Additionally, political adversaries may use deepfake audio and videos to tarnish the reputation of their opponents, manipulating public sentiment with the help of AI. So[AI-generated deepfakes pose numerous threats in the future](https://www.makeuseof.com/future-and-dangers-of-ai-deepfakes/) . According to a 2023[Reuters report](https://www.reuters.com/world/us/deepfaking-it-americas-2024-election-collides-with-ai-boom-2023-05-30/) , the rise of AI technology could impact America's 2024 elections. The report highlights the accessibility of tools like Midjourney and DALL-E that can easily create fabricated content and influence people's collective opinions.
 
  It's crucial, then, to be able to[identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Cloning Human Voices
 
@@ -112,13 +119,6 @@ Here's the fictitious article that ChatGPT came up with:
 4. Use fact-checking websites to verify the accuracy of information.
 
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Beware of Disinformation Spread by AI
 
@@ -141,19 +141,19 @@ Here's the fictitious article that ChatGPT came up with:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-real-time-broadcast-logging-made-simple/"><u>[New] Real-Time Broadcast Logging Made Simple</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-how-to-download-gif-images-from-twitter/"><u>[Updated] 2024 Approved How to Download GIF Images From Twitter</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-sites-like-famebit-where-you-can-find-youtube-sponsorships-for-2024/"><u>[Updated] Sites Like FameBit Where You Can Find YouTube Sponsorships for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/audacity-version-35-introduces-new-features-cloud-storage-backup-and-seamless-device-synchronization/"><u>Audacity Version 3.5 Introduces New Features: Cloud Storage Backup & Seamless Device Synchronization</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/breaking-down-how-nvidia-is-revolutionizing-synthetic-media-with-its-flexible-and-customizable-ai-foundations/"><u>Breaking Down How NVIDIA Is Revolutionizing Synthetic Media with Its Flexible and Customizable AI Foundations</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/full-scale-funds-assessment-kickstarting-your-podcast-dream-for-2024/"><u>Full-Scale Funds Assessment Kickstarting Your Podcast Dream for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-does-predictive-ai-anticipate-future-trends-exploring-core-concepts/"><u>How Does Predictive AI Anticipate Future Trends? Exploring Core Concepts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-safely-switch-protonvpns-login-credentials-and-identify-authentic-chatgpt-windows-software/"><u>How to Safely Switch ProtonVPN's Login Credentials & Identify Authentic ChatGPT Windows Software</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-stop-chatgpt-from-saving-your-conversations/"><u>How to Stop ChatGPT From Saving Your Conversations</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-pro-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 Pro to other iPhone 13 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/inside-look-the-complete-breakdown-of-apples-ai-advancements-unveiled-at-wwdc-2024/"><u>Inside Look: The Complete Breakdown of Apple's AI Advancements Unveiled at WWDC 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-microsofts-chatgpt-down-find-out-with-these-5-quick-checks/"><u>Is Microsoft's ChatGPT Down? Find Out With These 5 Quick Checks</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-ultimate-guide-to-effective-crowdflower-tools/"><u>The Ultimate Guide to Effective CrowdFlower Tools</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-personal-5-strikers-failed-launches-on-desktop-systems/"><u>Troubleshooting Steps for Personal 5 Strikers Failed Launches on Desktop Systems</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-a-step-by-step-approach-for-creating-and-merging-stunning-hdr-photos/"><u>[New] 2024 Approved A Step-by-Step Approach for Creating & Merging Stunning HDR Photos</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-hitting-your-targets-with-these-8-social-media-planners-for-2024/"><u>[Updated] Hitting Your Targets with These 8 Social Media Planners for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-elevate-stories-vibrancy-via-thoughtful-interactive-qandas/"><u>[Updated] In 2024, Elevate Stories' Vibrancy via Thoughtful Interactive Q&As</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-unveiling-obs-screen-recorder-functionality-deeply-for-2024/"><u>[Updated] Unveiling OBS Screen Recorder Functionality Deeply for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/analyzing-career-prospects-for-prompt-engineers/"><u>Analyzing Career Prospects for Prompt Engineers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/debating-the-ethical-use-of-ai-for-security-risks/"><u>Debating the Ethical Use of AI for Security Risks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhance-your-content-writing-on-social-platforms-using-chatgpt-techniques/"><u>Enhance Your Content Writing on Social Platforms Using ChatGPT Techniques</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/gaining-momentum-how-igtv-hashtags-drive-fan-base-expansion-for-2024/"><u>Gaining Momentum How IGTV Hashtags Drive Fan Base Expansion for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-vivo-y200-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Vivo Y200 Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-xiaomi-redmi-note-13-5g-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Xiaomi Redmi Note 13 5G PC | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-gpt-3-a-beginners-guide-to-navigating-the-openai-playground/"><u>Mastering GPT-3: A Beginner's Guide to Navigating the OpenAI Playground</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-words-best-windows-apps-for-writers/"><u>Mastering Words: Best Windows Apps for Writers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-using-agentgpt-for-in-browser-ai-agent-deployment/"><u>Step-by-Step Tutorial: Using AgentGPT for In-Browser AI Agent Deployment</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ten-visionary-global-tech-innovators-share-their-thoughts-on-ai/"><u>Ten Visionary Global Tech Innovators Share Their Thoughts on AI</u></a></li>
 </ul></div>
 

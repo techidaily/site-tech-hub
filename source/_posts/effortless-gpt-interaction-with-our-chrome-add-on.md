@@ -1,7 +1,7 @@
 ---
 title: Effortless GPT Interaction with Our Chrome Add-On
-date: 2024-09-17T19:36:59.204Z
-updated: 2024-09-23T00:20:04.446Z
+date: 2024-10-01T07:41:32.473Z
+updated: 2024-10-04T08:43:21.233Z
 tags:
   - chatgpt
   - open-ai
@@ -44,9 +44,23 @@ thumbnail: https://thmb.techidaily.com/d1114cdd62049ffd7653e7094748e36a17e96d607
 
  These all point to one exciting reality: GPT-5 is coming! That said, quite a lot of things are speculations at this point. But there are a few things we hope to see and are fairly confident of seeing in the model. Here are some of them:
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. More Multimodality
 
 ![OpenAI Sora text-to-video generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/openai-sora-text-to-video-generator.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  One of the most exciting improvements to the GPT family of AI models has been multimodality. For clarity, multimodality is the ability of an AI model to process more than just text but also other types of inputs like images, audio, and video. Multimodality will be an important advancement benchmark for the GPT family of models going forward.
 
@@ -54,16 +68,22 @@ thumbnail: https://thmb.techidaily.com/d1114cdd62049ffd7653e7094748e36a17e96d607
 
  So, for GPT-5, we expect to be able to play around with videos—upload videos as prompts, create videos on the go, edit videos with text prompts, extract segments from videos, and find specific scenes from large video files. We expect to be able to do similar things to audio files. It's a big ask, yes. But given how fast AI development is, it's a very reasonable expectation.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Larger and More Efficient Context Window
 
 ![Monitor on a desk with OpenAI logo](https://thmb.techidaily.com/0d605cbff29d9fac95ea636e3f1dc6722b73dcac2e7b43e02dacf71b94afcc8e.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Ralf Jhetner Borja/[flickr](https://www.flickr.com/photos/198726053@N04/53043766807/)
 
@@ -74,10 +94,10 @@ thumbnail: https://thmb.techidaily.com/d1114cdd62049ffd7653e7094748e36a17e96d607
  You see, a model might have a one million token context window (around 700,000 words capacity) but fail to produce a comprehensive summary when asked to summarize a 500,000-word book because it can't adequately process the entirety of the context despite having the capacity to do so in theory. That you can read a 500k-word book does not mean you can recall everything in it or process it sensibly.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. GPT Agents
@@ -123,5 +143,24 @@ thumbnail: https://thmb.techidaily.com/d1114cdd62049ffd7653e7094748e36a17e96d607
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-creative-loss-unexpectedly-banished-vid/"><u>[New] 2024 Approved Creative Loss Unexpectedly Banished Vid</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-leveraging-seo-for-youtube-popularity-a-budget-guide/"><u>[New] 2024 Approved Leveraging SEO for YouTube Popularity A Budget Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-pioneering-image-editing-with-toolwiz-a-compre-written-review/"><u>[Updated] In 2024, Pioneering Image Editing with Toolwiz – A Compre Written Review</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-unraveling-twitchs-mysteries-the-recording-connoisseurs-guide/"><u>[Updated] In 2024, Unraveling Twitch's Mysteries The Recording Connoisseur's Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pioneering-basics-in-dynamic-design-techniques/"><u>[Updated] Pioneering Basics in Dynamic Design Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bulk-crafting-stunning-visuals-integrate-canva-with-chatgpt-for-quick-creation/"><u>Bulk Crafting Stunning Visuals: Integrate Canva with ChatGPT for Quick Creation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-i-expect-different-sized-replies-from-chatgpt/"><u>Can I Expect Different Sized Replies From ChatGPT?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-and-cocktails-can-ai-really-create-a-stirring-drink-experience/"><u>ChatGPT and Cocktails: Can AI Really Create a Stirring Drink Experience?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-as-a-trustworthy-ai-companer-for-emotional-health-coaching/"><u>ChatGPT as a Trustworthy AI Companer for Emotional Health Coaching</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/claim-mastery-with-claude-leveraging-artificial-intelligence-in-business/"><u>Claim Mastery with Claude: Leveraging Artificial Intelligence in Business</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparing-claude-and-chatgpt-determining-the-superior-ai-assistant-for-daily-use/"><u>Comparing Claude and ChatGPT: Determining the Superior AI Assistant for Daily Use</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparing-gpt-and-bert-a-comprehvew-of-the-foremost-nlp-models/"><u>Comparing GPT and BERT: A Comprehvew of the Foremost NLP Models</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/crafting-aplenty-combining-canva-gpt-for-infinite-ideas/"><u>Crafting Aplenty: Combining Canva, GPT for Infinite Ideas</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-pro-list-best-free-video-subtitles-and-downloader/"><u>In 2024, Pro List Best Free Video Subtitles & Downloader</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-seamless-audio-transfer-youtube-videos-)-mp3-macos-2023/"><u>In 2024, Seamless Audio Transfer YouTube Videos > MP3, MacOS 2023</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/july-must-see-list-unmissable-documentaries-with-max-leading-the-way-july-2024/"><u>July Must-See List: Unmissable Documentaries with Max Leading the Way (July 2024)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/strategies-to-mitigate-software-problems-in-windows-drivers/"><u>Strategies to Mitigate Software Problems in Windows Drivers</u></a></li>
+</ul></div>
 

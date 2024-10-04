@@ -1,7 +1,7 @@
 ---
 title: Visionary Approaches in AI - Discovering the Six Pillars of GPT's Engineer
-date: 2024-09-25T06:52:21.643Z
-updated: 2024-09-29T05:16:48.072Z
+date: 2024-09-28T18:44:52.949Z
+updated: 2024-10-04T02:39:13.914Z
 tags:
   - chatgpt
   - open-ai
@@ -45,10 +45,10 @@ thumbnail: https://thmb.techidaily.com/7e37922976a0cd02bd45d34c10fef6f069d63ae07
  The chatbot is also built into the Edge browser, where you can access it via the homepage.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Skype Gets AI Features
@@ -60,10 +60,16 @@ thumbnail: https://thmb.techidaily.com/7e37922976a0cd02bd45d34c10fef6f069d63ae07
  To access this feature, you simply need to add Bing to your group chats as you would any other contact. It's available worldwide and can respond in over 100 languages.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Use the New ChatGPT Bing Apps
@@ -77,10 +83,10 @@ thumbnail: https://thmb.techidaily.com/7e37922976a0cd02bd45d34c10fef6f069d63ae07
 **Download:** Skype for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2022079/https://play.google.com/store/apps/details?id=com.skype.raider) |[iOS](https://apps.apple.com/us/app/skype/id304878510) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Test Out AI Chat on Android and iPhone Today
@@ -106,20 +112,22 @@ thumbnail: https://thmb.techidaily.com/7e37922976a0cd02bd45d34c10fef6f069d63ae07
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-essential-tips-for-storing-itunes-videos/"><u>[New] Essential Tips for Storing iTunes Videos</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-navigating-the-world-of-lut-filters-for-obs-mastery-for-2024/"><u>[New] Navigating the World of LUT Filters for OBS Mastery for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-top-10-professional-pc-camera-options-on-windows-10/"><u>[New] Top 10 Professional PC Camera Options on Windows 10</u></a></li>
-<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-15-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone 15</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/are-browser-plug-ins-based-on-the-chatgpt-framework-reliable-and-safe-to-use/"><u>Are Browser Plug-Ins Based on the ChatGPT Framework Reliable & Safe to Use?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/avoid-these-pitfalls-5-reasons-why-chatgpt-isnt-ideal-for-cryptocurrency-investment-strategies/"><u>Avoid These Pitfalls: 5 Reasons Why ChatGPT Isn't Ideal for Cryptocurrency Investment Strategies</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/avoid-these-pitfalls-why-chatgpt-isnt-a-substitute-for-professional-medical-guidance/"><u>Avoid These Pitfalls: Why ChatGPT Isn't a Substitute for Professional Medical Guidance</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/beyond-capabilities-gpts-excluded-commands/"><u>Beyond Capabilities: GPT's Excluded Commands</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/boost-your-writing-workflow-with-these-8-powerful-ai-resources/"><u>Boost Your Writing Workflow with These 8 Powerful AI Resources</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/can-you-depend-on-chatgpt-for-accurate-health-insights-and-tips/"><u>Can You Depend on ChatGPT for Accurate Health Insights and Tips?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatbots-and-coins-elevating-your-crypto-game-with-gpt/"><u>Chatbots and Coins: Elevating Your Crypto Game with GPT</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-realme-narzo-n53-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Realme Narzo N53 Devices</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-poco-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Poco Phone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-the-update-process-a-comprehensive-guide-to-motherboard-driver-maintenance-on-windows-systems/"><u>Mastering the Update Process: A Comprehensive Guide to Motherboard Driver Maintenance on Windows Systems</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Realme Narzo 60 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-360-degree-rigging-solutions-vr-production/"><u>[New] 360 Degree Rigging Solutions VR Production</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-an-android-enthusiasts-dream-customizing-your-phone-alerts-with-style-and-personality-for-2024/"><u>[Updated] An Android Enthusiast’s Dream Customizing Your Phone Alerts with Style and Personality for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-navigate-the-looping-world-with-our-yt-video-playback-hacks/"><u>[Updated] In 2024, Navigate the Looping World with Our YT Video Playback Hacks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/conquer-daily-hurdles-easily-using-chatgpt-for-a-peak-performance-life/"><u>Conquer Daily Hurdles Easily: Using ChatGPT for a Peak Performance Life</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/convertissez-rapidement-et-sans-frais-vos-videos-ts-en-wmv-sur-movavi-une-solution-de-conversion-completement-gratuite/"><u>Convertissez Rapidement Et Sans Frais Vos Vidéos Ts en Wmv Sur Movavi, Une Solution De Conversion Complètement Gratuite</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-four-motivations-for-adopting-claude-3/"><u>Discover Four Motivations for Adopting Claude 3</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-solutions-to-restore-bluetooth-functionality-on-windows-11-devices/"><u>Easy Solutions to Restore Bluetooth Functionality on Windows 11 Devices</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-not-to-use-chatgpt-5-common-content-creation-errors/"><u>How Not to Use ChatGPT: 5 Common Content Creation Errors</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-bypass-common-setbacks-when-leveraging-chatgpt-in-writing/"><u>How to Bypass Common Setbacks When Leveraging ChatGPT in Writing</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-jailbreak-icloud-locked-apple-iphone-12-by-drfone-ios/"><u>How to jailbreak iCloud locked Apple iPhone 12</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/international-favorite-apples-day-app/"><u>International Favorite: Apple's Day App</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-it-secure-to-use-independent-chatgpt-add-ons-and-plugins/"><u>Is It Secure to Use Independent ChatGPT Add-Ons & Plugins?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximize-efficiency-with-copilot-the-ideal-choice-for-complimentary-gpt-4-turbo-use/"><u>Maximize Efficiency with Copilot - The Ideal Choice for Complimentary GPT-4 Turbo Use</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/quick-tunes-on-your-phone-top-speed-up-apps/"><u>Quick Tunes on Your Phone Top Speed-Up Apps</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/spotting-the-fakes-how-to-find-legitimate-chatgpt-apps-among-knock-offs-in-the-apple-ecosystem/"><u>Spotting the Fakes: How to Find Legitimate ChatGPT Apps Among Knock-Offs in the Apple Ecosystem</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/strategies-to-secure-your-artwork-against-generative-ai-infringement/"><u>Strategies to Secure Your Artwork Against Generative AI Infringement</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-xiaomi-civi-3-disney-100th-anniversary-edition-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Xiaomi Civi 3 Disney 100th Anniversary Edition Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 

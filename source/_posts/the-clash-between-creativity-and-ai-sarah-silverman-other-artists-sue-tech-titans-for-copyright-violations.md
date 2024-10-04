@@ -1,7 +1,7 @@
 ---
 title: "The Clash Between Creativity and AI: Sarah Silverman, Other Artists Sue Tech Titans for Copyright Violations"
-date: 2024-09-17T21:24:07.048Z
-updated: 2024-09-22T23:09:56.879Z
+date: 2024-09-30T16:54:31.931Z
+updated: 2024-10-04T05:31:59.157Z
 tags:
   - chatgpt
   - open-ai
@@ -52,6 +52,13 @@ Here's the fictitious article that ChatGPT came up with:
 
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
 ### 2\. Using Chatbots to Influence People's Opinions
@@ -66,10 +73,10 @@ Here's the fictitious article that ChatGPT came up with:
  These examples all illustrate how chatbots can be utilized to mislead people.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Creating AI DeepFakes
@@ -88,6 +95,19 @@ Here's the fictitious article that ChatGPT came up with:
 
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by[The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
 
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Spot AI-Spread Disinformation
 
  Combating the spread of disinformation facilitated by AI is a pressing issue in today's world. So how can you spot false information that's been made by AI?
@@ -100,10 +120,10 @@ Here's the fictitious article that ChatGPT came up with:
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Beware of Disinformation Spread by AI
@@ -125,5 +145,21 @@ Here's the fictitious article that ChatGPT came up with:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-demystifying-video-recordingediting-a-comprehensive-guide-on-adobe-connect-for-2024/"><u>[New] Demystifying Video Recording/Editing A Comprehensive Guide on Adobe Connect for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/beat-the-competition-designing-unforgettable-tiktok-dancing-on-a-mac-for-2024/"><u>Beat the Competition Designing Unforgettable TikTok Dancing on a Mac for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enjoy-a-world-of-gaming-with-chatgpts-top-6-innovative-titles/"><u>Enjoy a World of Gaming with ChatGPT's Top 6 Innovative Titles</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ensuring-continuity-of-gpt-powered-dialogues/"><u>Ensuring Continuity of GPT-Powered Dialogues</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/explore-alternative-intelligences-to-openais-sora/"><u>Explore Alternative Intelligences to OpenAI's Sora</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/free-and-powerful-discover-how-copilot-harnesses-gpt-4-turbo-like-never-before/"><u>Free and Powerful: Discover How Copilot Harnesses GPT-4 Turbo Like Never Before!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-accurate-are-chatgpts-responses-regarding-health-questions/"><u>How Accurate Are ChatGPT's Responses Regarding Health Questions?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-combine-siris-intelligence-with-chatgpt-on-your-iphone-easily/"><u>How to Combine Siri's Intelligence With ChatGPT on Your iPhone Easily</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-comparative-analysis-the-leading-edge-with-active/"><u>In 2024, Comparative Analysis The Leading Edge with Active</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-compatible-drivers-for-your-canon-mx490-printer-download-and-update-instructions-for-windows-users/"><u>Latest Compatible Drivers for Your Canon MX490 Printer: Download and Update Instructions for Windows Users</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-the-world-of-srts-a-complete-tutorial-and-advice/"><u>Navigating the World of SRTs A Complete Tutorial and Advice</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-out-in-a-sea-of-content-our-offer-includes-50-free-banners/"><u>Stand Out in a Sea of Content - Our Offer Includes 50 Free Banners</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/syncing-tiktok-videos-with-your-facebook-profile/"><u>Syncing TikTok Videos with Your Facebook Profile</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-fixing-failed-to-start-issues-with-windows-media-player-servers/"><u>Troubleshooting Steps for Fixing 'Failed to Start' Issues with Windows Media Player Servers</u></a></li>
+</ul></div>
 

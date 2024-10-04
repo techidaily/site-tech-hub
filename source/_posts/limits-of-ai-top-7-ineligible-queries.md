@@ -1,7 +1,7 @@
 ---
 title: "Limits of AI: Top 7 Ineligible Queries"
-date: 2024-09-23T23:19:06.621Z
-updated: 2024-09-29T02:09:20.115Z
+date: 2024-10-02T23:12:57.222Z
+updated: 2024-10-04T06:07:33.988Z
 tags:
   - chatgpt
   - open-ai
@@ -43,13 +43,6 @@ thumbnail: https://thmb.techidaily.com/fc45e4935b2783be1c5dc416a8cddc7dff02a0dd6
 
 ![GPT modes for for ChatGPT Plus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-21-at-1-13-53-pm.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [GPT-4o](https://www.makeuseof.com/how-gpt-4o-works-is-it-free/) [is OpenAI's latest flagship GPT model](http://www.makeuseof.com/how-gpt-4o-works-is-it-free/) , which it states is twice as fast as GPT-4 Turbo and 50% cheaper (when using APIs). However, Free users are not granted unlimited access to GPT-4o. OpenAI provides Free users with "limited access to GPT-4o."
 
  GPT-4o is now ChatGPT's default model, but Free users will be reverted to GPT-3.5 when it's unavailable. As a Free user, your access to GPT-4o is not guaranteed and is subject to availability. The term "limited access" implies usage restrictions or reduced availability during peak times.
@@ -58,13 +51,6 @@ thumbnail: https://thmb.techidaily.com/fc45e4935b2783be1c5dc416a8cddc7dff02a0dd6
 
  However, all of these message rates are the best you will get. As ChatGPT becomes the crutch for more businesses and individuals, usage and availability will likely decline (temporarily) in the near future. Based on this, you'd likely want a Plus subscription to insure against crowded conditions.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2 Retain Access to GPT-4 Turbo
 
  Benchmarks and tests revealed that GPT-4o may be faster, but GPT-4 Turbo seems more accurate in some categories. It's difficult to confirm the criteria for this and how some of these tests have been executed, but some users have reported better results from GPT-4—especially in mathematical and programming problems. Even OpenAI admits this, and according to its text evaluation results, GPT-4T does better at DROP (​​Discrete Reasoning Over Paragraphs) tests.
@@ -72,10 +58,10 @@ thumbnail: https://thmb.techidaily.com/fc45e4935b2783be1c5dc416a8cddc7dff02a0dd6
 ![gpt-40-02_light](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/gpt-40-02_light.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [OpenAI](https://openai.com/index/hello-gpt-4o/)
@@ -88,20 +74,27 @@ thumbnail: https://thmb.techidaily.com/fc45e4935b2783be1c5dc416a8cddc7dff02a0dd6
 
  You must have a Plus subscription to create custom GPTs. Paying will let you[build a custom GPT with your own data](https://www.makeuseof.com/how-use-chatgpt-my-gpt-bots/) and documents, which can then be shared with friends and colleagues or published freely on the marketplace.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4 Generate Images With DALL-E
 
 ![chatgpt dalle 3 prompt example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-dalle-3-prompt-example.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  When OpenAI announced the slew of features coming to ChatGPT's Free tier, they didn't mention direct access to its image generation AI, DALL-E. With DALL-E, you can enter any prompt, and the AI will attempt to create an image from your text. It's pretty useful, and it's easily half the reason why I keep my Plus subscription. Even with access to GPT-4o, Free users cannot generate images from text—all DALL-E capabilities are locked behind the subscription paywall.
 
  We are uncertain how this will translate to Free users' access to the GPT store, seeing as many custom GPTs rely on DALL-E. But it's very likely going to be completely unavailable until you pay.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5  Get Early Access to ChatGPT Voice Mode and the ChatGPT Desktop App
 
@@ -112,6 +105,13 @@ thumbnail: https://thmb.techidaily.com/fc45e4935b2783be1c5dc416a8cddc7dff02a0dd6
  While OpenAI's recent demo showed us that the feature will come with the Mac app, Voice Mode is only available now through the ChatGPT smartphone app. Features like this are why many consider the[ChatGPT iOS app better than the website](https://www.makeuseof.com/why-chatgpt-ios-app-is-better-than-website/) .
 
  OpenAI also introduced us to a ChatGPT desktop in its demo. That is undoubtedly one of the early access features paid users will enjoy, and is first coming to macOS users. There may be more cool features down the line that offer very good value propositions, and paying for Plus is the only way to be among those who use it.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6  Full Access to Advanced Data Analysis, File Uploads, Vision, and Web Browsing
 
@@ -140,19 +140,22 @@ thumbnail: https://thmb.techidaily.com/fc45e4935b2783be1c5dc416a8cddc7dff02a0dd6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-fixing-half-muted-content-on-twitter-live-streams/"><u>[New] 2024 Approved Fixing Half-Muted Content on Twitter Live Streams</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-supreme-cyber-seminar-sorter/"><u>[New] Supreme Cyber Seminar Sorter</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-aerial-innovations-explained-drone-technology-simplified/"><u>2024 Approved Aerial Innovations Explained Drone Technology Simplified</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-your-iphones-non-functional-torch-12-essential-tricks/"><u>Fixing Your iPhone's Non-Functional Torch: 12 Essential Tricks</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-samsung-galaxy-a34-5g-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Samsung Galaxy A34 5G? Try These Fixes</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-network-locked-poco-c65-phone-by-drfone-android/"><u>How to Unlock a Network Locked Poco C65 Phone?</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-from-square-to-wide-how-to-adjust-video-shape/"><u>In 2024, From Square to Wide How to Adjust Video Shape</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/keep-your-chatgpt-discussions-handy-strategies-for-later-use/"><u>Keep Your ChatGPT Discussions Handy – Strategies for Later Use</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/leading-5-ai-platforms-to-produce-stunning-visuals-without-spending-a-penny/"><u>Leading 5 AI Platforms to Produce Stunning Visuals Without Spending a Penny</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/maximizing-excel-potential-via-three-chatgpt-techniques/"><u>Maximizing Excel Potential via Three ChatGPT Techniques</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/myth-busters-guide-to-the-worlds-leading-ai-chatbot-misconceptions/"><u>Myth-Buster's Guide to the World's Leading AI Chatbot Misconceptions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-generative-ai-with-kids-the-essential-handbook-for-parents-on-chatgpt/"><u>Navigating Generative AI with Kids: The Essential Handbook for Parents on ChatGPT</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/next-gen-social-media-tactics-youtube-content-on-facebook-for-2024/"><u>Next-Gen Social Media Tactics YouTube Content on Facebook for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/safeguard-files-with-windows-controlled-access-feature/"><u>Safeguard Files with Window's Controlled Access Feature</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-cutting-edge-method-quick-erasure-of-youtube-comments/"><u>[New] 2024 Approved Cutting-Edge Method Quick Erasure of Youtube Comments</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-culinary-champions-must-subscribe-food-bloggers/"><u>[New] Culinary Champions Must-Subscribe Food Bloggers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-pro-tips-for-productive-dialogues-on-google-meet/"><u>[Updated] In 2024, Pro Tips for Productive Dialogues on Google Meet</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-social-media-trends-visualized/"><u>[Updated] Social Media Trends Visualized</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-high-definition-dominance-premier-players-in-24/"><u>2024 Approved High Definition Dominance Premier Players in '24</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/choosing-an-ideal-surge-protector-a-guide-for-your-electronic-devices/"><u>Choosing an Ideal Surge Protector: A Guide for Your Electronic Devices</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/closed-systems-persist-the-seven-key-factors-preventing-successful-breaches-in-contemporary-chatbot-platforms/"><u>Closed Systems Persist: The Seven Key Factors Preventing Successful Breaches in Contemporary Chatbot Platforms</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/crafting-the-future-with-ai-what-is-prompt-engineering-and-does-it-offer-job-security/"><u>Crafting the Future with AI: What Is Prompt Engineering and Does It Offer Job Security?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-ai-management-insights-into-who-should-be-regulating-this-advanced-technology/"><u>Decoding AI Management: Insights Into Who Should Be Regulating This Advanced Technology</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-chatbot-intelligence-methods-for-simulating-conversations-with-users/"><u>Decoding Chatbot Intelligence: Methods for Simulating Conversations with Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/engage-in-confidential-chats-using-duckduckgos-innovative-ai-platform-alongside-chatgpt/"><u>Engage in Confidential Chats Using DuckDuckGo's Innovative AI Platform Alongside ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/examining-advantages-and-disadvantages-of-chatgpt-in-creative-composition/"><u>Examining Advantages & Disadvantages of ChatGPT in Creative Composition</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-ai-weak-points-demystifying-the-mechanism-behind-prompt-injection-attacks/"><u>Exploring AI Weak Points: Demystifying the Mechanism Behind Prompt Injection Attacks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/future-yous-earlier-past-storing-gpt-chats/"><u>Future You's Earlier Past: Storing GPT Chats</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Motorola Moto G84 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/izing-content-visibility-premier-tracking-applications-for-youtubers-for-2024/"><u>Optimizing Content Visibility - Premier Tracking Applications for YouTubers for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-hardware-explained-a-detailed-look-at-computer-tech/"><u>Tom's Hardware Explained: A Detailed Look at Computer Tech</u></a></li>
 </ul></div>
 

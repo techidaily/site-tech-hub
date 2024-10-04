@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Potential: Mastering Board Games & Image Creation with ChatGPT My GPT Bots"
-date: 2024-09-27T20:22:05.476Z
-updated: 2024-09-28T23:27:13.039Z
+date: 2024-10-03T06:50:45.826Z
+updated: 2024-10-03T19:22:32.219Z
 tags:
   - chatgpt
   - open-ai
@@ -42,6 +42,13 @@ Close
 
 **Download:** ChatGPT for[iOS](http://apps.apple.com/app/openai-chatgpt/id6448311069) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029654/https://play.google.com/store/apps/details?id=com.openai.chatgpt&hl=en&gl=US) (Free, subscription available)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Send ChatGPT Prompts With Your Voice
 
  Both iPhones and Android devices come with native dictation features. And that's what you'll use to take advantage of ChatGPT's Whisper integration on your phone.
@@ -55,49 +62,36 @@ Close
 
 ![ChatGPT's welcome page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4309.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![ChatGPT's mic and speaker on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4311.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![ChatGPT showing the text generated from the speech on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4313.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The ChatGPT's prompt response generated from the speech on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4314.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close
 
  Now, all you need to do is wait a couple of seconds for ChatGPT to type out its response. You can test this feature while trying these[ChatGPT crypto prompts](https://www.makeuseof.com/the-best-chatgpt-crypto-prompts/) .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Talk to ChatGPT and Save Time
 
@@ -118,21 +112,17 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-a-sea-of-silence-the-perils-of-pretense-in-profiles/"><u>[New] In a Sea of Silence The Perils of Pretense in Profiles</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-streamline-your-content-google-podcast-upload/"><u>[New] Streamline Your Content Google Podcast Upload</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/a-comprehvew-of-chatgpt-plus-strengths-and-weaknesses-for-users/"><u>A Comprehvew of ChatGPT Plus' Strengths and Weaknesses for Users</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-prompt-crafting-its-role-and-job-market-viability/"><u>AI Prompt Crafting: Its Role & Job Market Viability</u></a></li>
-<li><a href="https://driver-download.techidaily.com/amd-ryzen-user-friendly-tutorial-fresh-drivers-enhanced-stability-and-speed/"><u>AMD Ryzen User-Friendly Tutorial: Fresh Drivers, Enhanced Stability & Speed</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/assessing-career-threats-the-impacts-of-incorporating-chatgpt-in-workplace-practices-case-studies/"><u>Assessing Career Threats: The Impacts of Incorporating ChatGPT in Workplace Practices (Case Studies)</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/beyond-simplification-the-dangers-of-trusting-chatgpt-with-your-documents/"><u>Beyond Simplification: The Dangers of Trusting ChatGPT with Your Documents</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/beyond-words-evaluating-the-performance-of-chatgpt-and-google-translate-for-accurate-translations/"><u>Beyond Words: Evaluating the Performance of ChatGPT and Google Translate for Accurate Translations</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-as-your-personal-chef-tutor-can-it-teach-you-how-to-prepare-wholesome-dishes/"><u>ChatGPT as Your Personal Chef Tutor: Can It Teach You How to Prepare Wholesome Dishes?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-unleashed-on-desktop-explore-how-it-outshines-its-online-alternative/"><u>ChatGPT Unleashed on Desktop - Explore How It Outshines Its Online Alternative</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/comparing-apple-itunes-with-microsofts-zune-which-media-player-wins-out/"><u>Comparing Apple iTunes with Microsoft's Zune: Which Media Player Wins Out?</u></a></li>
-<li><a href="https://change-location.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Vivo X Flip | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Samsung Galaxy A05s | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-resurrecting-windows-photo-viewer-a-compreehr-guide-for-win10-users/"><u>In 2024, Resurrecting Windows Photo Viewer - A Compreehr Guide for Win10 Users</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Vivo Y100t? | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/snapchat-spotlight-unveiled-usage-explained/"><u>Snapchat Spotlight Unveiled Usage Explained</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-ps5xbox-series-x-gaming-sets-the-top-5-list/"><u>[New] 2024 Approved PS5/Xbox Series X Gaming Sets The Top 5 List</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-top-tips-for-silent-screen-capture-for-2024/"><u>[New] Top Tips for Silent Screen Capture for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-poco-x5-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Poco X5 Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-top-benefits-why-choose-chatgpt-for-your-medical-queries/"><u>Discover Top Benefits: Why Choose ChatGPT for Your Medical Queries</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fifa-21-startup-problems-now-fixed-how-to-launch-the-game-smoothly/"><u>FIFA 21 Startup Problems Now Fixed - How to Launch the Game Smoothly</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-crashed-epic-games-launcher-on-windows-systems/"><u>Fixing Crashed Epic Games Launcher on Windows Systems</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/gif-revolution-free-transformation-of-tweets-to-gifs/"><u>Gif Revolution Free Transformation of Tweets to GIFs</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-stability-overcoming-the-challenge-of-persistent-ark-system-crashes/"><u>Mastering Stability: Overcoming the Challenge of Persistent ARK System Crashes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ai-evolution-at-work-6-insightful-strategies-for-survival-and-success/"><u>The AI Evolution at Work: 6 Insightful Strategies for Survival and Success</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-quintet-of-ai-advantages-in-cyber-fraudulence/"><u>The Quintet of AI Advantages in Cyber Fraudulence</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/using-gpt-right-away-unlocking-real-time-power-of-chatgpts-advanced-model/"><u>Using GPT-Right Away: Unlocking Real-Time Power of ChatGPT's Advanced Model</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-choose-the-chatgpt-desktop-version-over-the-web-interface-top-advantages/"><u>Why Choose the ChatGPT Desktop Version Over the Web Interface: Top Advantages</u></a></li>
 </ul></div>
 

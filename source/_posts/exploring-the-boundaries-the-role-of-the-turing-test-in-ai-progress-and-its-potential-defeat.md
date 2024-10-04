@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Boundaries: The Role of the Turing Test in AI Progress and Its Potential Defeat"
-date: 2024-09-27T01:48:44.777Z
-updated: 2024-09-28T20:21:49.832Z
+date: 2024-09-30T16:09:44.415Z
+updated: 2024-10-04T03:09:29.003Z
 tags:
   - chatgpt
   - open-ai
@@ -41,10 +41,10 @@ thumbnail: https://thmb.techidaily.com/1f2923f64e4d04f1252f20b82bfb98586fbf55cfa
  These examples might make you think there’s[no limit to what ChatGPT can do](https://www.makeuseof.com/openai-lost-control-chatgpt/) . However, that’s not an accurate assumption.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will ChatGPT Replace Programmers?
@@ -52,16 +52,16 @@ thumbnail: https://thmb.techidaily.com/1f2923f64e4d04f1252f20b82bfb98586fbf55cfa
 ![artificial intelligence coming out of computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/artificial-intelligence-7215709_1280.png)
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Whenever a new AI tool emerges on the tech scene, many people understandably wonder whether that innovation might get so advanced that it makes their jobs obsolete. Even people such as programmers, who have highly specialized skills, might face that worry.
@@ -79,10 +79,10 @@ thumbnail: https://thmb.techidaily.com/1f2923f64e4d04f1252f20b82bfb98586fbf55cfa
  Some malicious actors have tried to use ChatGPT to their advantage. For example, some[criminals are using ChatGPT to make malware](https://www.makeuseof.com/chatgpt-used-by-cybercriminals-to-write-malware/) , ransomware, and other malicious encryption tools, despite having limited programming knowledge. This ChatGPT application will likely increase the challenges cybersecurity teams face.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Will ChatGPT Replace Other Jobs?
@@ -96,16 +96,16 @@ thumbnail: https://thmb.techidaily.com/1f2923f64e4d04f1252f20b82bfb98586fbf55cfa
  Elsewhere, people are explicitly[formatting questions to make ChatGPT ignore](https://www.makeuseof.com/how-to-get-best-results-from-chatgpt/) its programming. That practice could spread misinformation. The question-and-answer site Stack Overflow also initiated a temporary ban on ChatGPT. Staff members explained the influx of ChatGPT-generated responses swamped content moderators who need some level of subject matter expertise to verify the accuracy, and[spotting generative AI written text](http://www.makeuseof.com/dangers-ai-writing-how-spot-ai-generated-text/) is next to impossible.
 
 <!-- affiliate ads begin -->
-<span id="1983552">
+<span id="1983473">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT Deserves Caution
@@ -127,22 +127,15 @@ thumbnail: https://thmb.techidaily.com/1f2923f64e4d04f1252f20b82bfb98586fbf55cfa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-deciphering-the-language-of-youtube-commenters/"><u>[New] In 2024, Deciphering the Language of YouTube Commenters</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-eye-of-excellence-a-comprehensive-list-of-8k-cameras/"><u>2024 Approved Eye of Excellence A Comprehensive List of 8K Cameras</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/ascending-the-rankings-iphones-top-selfie-accessories-for-2024/"><u>Ascending the Rankings IPhone's Top Selfie Accessories for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-xiaomi-13t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Xiaomi 13T Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/gmail-organization-secrets-how-to-create-and-apply-labels-for-message-categorization/"><u>Gmail Organization Secrets: How to Create and Apply Labels for Message Categorization</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-accessing-hidden-social-engagement-in-video-streams/"><u>In 2024, Accessing Hidden Social Engagement in Video Streams</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-turning-viewers-into-vendors-mastery-of-youtube-income-streams/"><u>In 2024, Turning Viewers Into Vendors Mastery of YouTube Income Streams</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/overcoming-data-management-hurdles-excel-plus-chatgpt/"><u>Overcoming Data Management Hurdles: Excel + ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/propel-your-company-forward-with-top-chatgpt-applications/"><u>Propel Your Company Forward with Top ChatGPT Applications</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/safe-and-sound-a-strategic-roadmap-for-parents-dealing-with-advanced-ai-tools/"><u>Safe & Sound: A Strategic Roadmap for Parents Dealing with Advanced AI Tools</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/skyrocket-your-output-with-these-nexceptional-strategies-using-chatgpt-in-the-office/"><u>Skyrocket Your Output with These nExceptional Strategies Using ChatGPT in the Office</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-downloading-logitech-g29-control-wheel-software-compatible-with-latest-windows-versions/"><u>Step-by-Step Guide: Downloading Logitech G29 Control Wheel Software Compatible with Latest Windows Versions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-accessing-chatgpt-plugin-functionality/"><u>Step-by-Step Tutorial: Accessing ChatGPT Plugin Functionality</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/streamline-your-communication-5-ai-software-options-for-premium-email-creation-and-inbox-synopsis-with-chatgpt/"><u>Streamline Your Communication: 5 AI Software Options for Premium Email Creation and Inbox Synopsis with ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/tailored-techniques-using-chatgpt-on-a-mac/"><u>Tailored Techniques: Using ChatGPT on a Mac</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/tech-driven-survival-strategies-from-chatgpt/"><u>Tech-Driven Survival Strategies From ChatGPT</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722973943070-update-your-epson-wf-3620-printer-software-for-windows-11-8-and-7-users-get-it-here/"><u>Update Your Epson WF-3620 Printer Software for Windows 11, 8 & 7 Users - Get It Here</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-essential-cost-effective-screen-recording-tools-for-2024/"><u>[Updated] Essential Cost-Effective Screen Recording Tools for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-realme-c33-2023-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Realme C33 2023 to Roku | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/cease-and-desist-stop-fb-notifications/"><u>Cease and Desist: Stop FB Notifications</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/deciding-between-e-reading-and-tablet-tech-ipad-amazon-kinder-bandn-nook-compared/"><u>Deciding Between E-Reading and Tablet Tech: IPAD, Amazon KINDER, B&N NOOK Compared</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/designing-secure-efficient-workout-schedules-by-chatgpt/"><u>Designing Secure, Efficient Workout Schedules by ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/guide-sharing-your-conversations-with-chatgpt-online/"><u>Guide: Sharing Your Conversations with ChatGPT Online</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-iphone-se-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud From your iPhone SE</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/seamless-integration-of-chatgpt-in-your-daily-routine-a-guide-for-android-and-iphone-devices/"><u>Seamless Integration of ChatGPT in Your Daily Routine – A Guide for Android and iPhone Devices</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/strategic-ignorance-eliminating-superfluous-chatgpt-plugins/"><u>Strategic Ignorance: Eliminating Superfluous ChatGPT Plugins</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-tecno-camon-20-pro-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Tecno Camon 20 Pro 5G to Gmail | Dr.fone</u></a></li>
 </ul></div>
 

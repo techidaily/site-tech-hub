@@ -1,7 +1,7 @@
 ---
 title: Significant Upgrades for a Smarter, More Intuitive Plugin Store
-date: 2024-09-26T04:25:25.674Z
-updated: 2024-09-29T01:11:17.980Z
+date: 2024-09-30T03:25:51.537Z
+updated: 2024-10-03T22:01:41.064Z
 tags:
   - chatgpt
   - open-ai
@@ -39,10 +39,10 @@ thumbnail: https://thmb.techidaily.com/304e2f357860569a12cd2d51db7951faca7194234
  Then, ChatGPT could use these plugins to fetch relevant information and insert them into the email draft. It could also use the plugins to send emails, schedule a meeting, or update a task's status.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Do You Sign Up for ChatGPT Plugins?
@@ -50,10 +50,10 @@ thumbnail: https://thmb.techidaily.com/304e2f357860569a12cd2d51db7951faca7194234
 ![chatgpt plugin page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-plugin-page.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Currently, the ChatGPT plugins feature is only available to ChatGPT Plus subscribers, and you have to join a waitlist to get access. You can[sign up for ChatGPT Plus](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/) by clicking on**Upgrade** **to** **Plus** on the left tab on the ChatGPT interface.
@@ -66,10 +66,10 @@ thumbnail: https://thmb.techidaily.com/304e2f357860569a12cd2d51db7951faca7194234
 4. Click**Join Waitlist** to submit the form.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Joining ChatGPT's Plugins Waitlist
@@ -91,22 +91,20 @@ thumbnail: https://thmb.techidaily.com/304e2f357860569a12cd2d51db7951faca7194234
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-cutting-edge-editors-elevating-online-videos/"><u>[New] 2024 Approved Cutting-Edge Editors Elevating Online Videos</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-innovating-with-numbers-tips-for-tiktok-video-enhancements/"><u>[New] 2024 Approved Innovating with Numbers Tips for TikTok Video Enhancements</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-top-8-economical-video-call-applications-cross-system-compatibility/"><u>[New] In 2024, Top 8 Economical Video Call Applications Cross-System Compatibility</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-post-mortem-punchlines-pro/"><u>[New] Post-Mortem Punchlines Pro</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-top-8-best-selfie-sticks-for-iphone-2024-review/"><u>[Updated] Top 8 Best Selfie Sticks for iPhone 2024 Review</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/a-comprehensive-guide-to-chatgpt-jailbreaking-insights-for-responsible-use/"><u>A Comprehensive Guide to ChatGPT Jailbreaking: Insights for Responsible Use</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1722008075872-openais-revolutionary-shop-is-here-master-your-tailored-gpt-solutions-instantly/"><u>OpenAI's Revolutionary Shop Is Here – Master Your Tailored GPT Solutions Instantly</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Realme 11X 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/solution-found-successfully-installing-age-of-empires-iv-via-microsoft-store/"><u>Solution Found: Successfully Installing Age of Empires IV via Microsoft Store</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-essentials-of-writing-attractive-vlog-narratives-for-2024/"><u>The Essentials of Writing Attractive Vlog Narratives for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-comprehensive-guide-by-toms-hardware/"><u>Tom's Tech Review: Comprehensive Guide by Tom's Hardware</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-the-bert-nlp-framework-a-comparison-with-gpt-models/"><u>Understanding the BERT NLP Framework: A Comparison with GPT Models</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-the-mystery-of-ai-black-boxes-functions-and-mechanisms/"><u>Understanding the Mystery of AI Black Boxes: Functions & Mechanisms</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unleash-productivity-explore-the-top-6-chatgpt-modules-integrated-in-visual-studio-code/"><u>Unleash Productivity: Explore the Top 6 ChatGPT Modules Integrated in Visual Studio Code</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlock-the-potential-of-auto-gpt-with-these-8-strategic-applications/"><u>Unlock the Potential of Auto-GPT with These 8 Strategic Applications</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unpacking-emotional-intelligence-in-machine-learning/"><u>Unpacking Emotional Intelligence in Machine Learning</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/what-to-look-forward-to-as-microsoft-enhances-bing-with-artificnial-intelligence-technology/"><u>What to Look Forward to as Microsoft Enhances Bing with Artificnial Intelligence Technology</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-simple-routines-for-documenting-digital-dialogues-on-os-xpc/"><u>[Updated] In 2024, Simple Routines for Documenting Digital Dialogues on OS X/PC</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-mastering-instagrams-latest-features-reels-and-stories/"><u>2024 Approved Mastering Instagram’s Latest Features Reels & Stories</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-delete-facebook-notifications/"><u>How to Delete Facebook Notifications</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-can-i-unlock-my-apple-iphone-13-pro-max-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>In 2024, How Can I Unlock My Apple iPhone 13 Pro Max After Forgetting my PIN Code? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigational-mastery-over-your-folder-of-windows-11-applications/"><u>Navigational Mastery Over Your Folder of Windows 11 Applications</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-animated-excellence-the-best-stop-motion-software-for-mac-and-pc-for-2024/"><u>New Animated Excellence The Best Stop Motion Software for Mac and PC for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-connectivity-issues-for-a-smooth-amazon-prime-video-streaming-experience/"><u>Resolving Connectivity Issues for a Smooth Amazon Prime Video Streaming Experience</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/rising-costs-alert-spectrum-announces-another-price-surge/"><u>Rising Costs Alert: Spectrum Announces Another Price Surge</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-chatgpt-and-unleashing-the-power-of-generative-artific/"><u>Understanding ChatGPT & Unleashing the Power of Generative Artific</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unleash-creative-potential-with-top-tips-for-gopro-timelapses-for-2024/"><u>Unleash Creative Potential with Top Tips for GoPro Timelapses for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleashing-video-potential-mastering-script-craft-with-chatgpt/"><u>Unleashing Video Potential: Mastering Script Craft with ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-the-secrets-of-detective-games-play-four-advanced-ai-powered-mysteries-online/"><u>Unlock the Secrets of Detective Games: Play Four Advanced AI-Powered Mysteries Online</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-the-power-of-artificial-intelligence-in-imagery-with-chatgpt/"><u>Unlocking the Power of Artificial Intelligence in Imagery with ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-ais-roots-tracing-the-inception-moment-in-its-timeline/"><u>Unveiling AI's Roots - Tracing the Inception Moment in Its Timeline</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-claude-3-capabilities-functions-and-uses-explained/"><u>Unveiling Claude 3 Capabilities: Functions & Uses Explained</u></a></li>
 </ul></div>
 

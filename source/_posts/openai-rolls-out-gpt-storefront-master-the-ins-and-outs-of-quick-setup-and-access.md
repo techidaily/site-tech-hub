@@ -1,7 +1,7 @@
 ---
 title: "OpenAI Rolls Out GPT Storefront: Master the Ins and Outs of Quick Setup & Access"
-date: 2024-09-21T18:57:20.356Z
-updated: 2024-09-28T21:01:37.876Z
+date: 2024-09-29T23:11:09.455Z
+updated: 2024-10-04T11:00:27.832Z
 tags:
   - chatgpt
   - open-ai
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/cb9e2ddf28e5428496f53b353379d173f81be07c3
 * [How to Find the Best Custom GPTs in the GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/#how-to-find-the-best-custom-gpts-in-the-gpt-store)
 * [Is it Worth Upgrading to ChatGPT Plus to Use Custom GPTs?](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/#is-it-worth-upgrading-to-chatgpt-plus-to-use-custom-gpts)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * OpenAI has launched the GPT Store, where users can find custom GPTs created by the ChatGPT community.
@@ -37,10 +44,10 @@ thumbnail: https://thmb.techidaily.com/cb9e2ddf28e5428496f53b353379d173f81be07c3
  ChatGPT's custom GPT Store is open right now, and this is how you can use it to find the pre-programmed AI tools you need.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Access the GPT Store
@@ -53,13 +60,6 @@ How do you know when you've been granted access?
 
  On the left sidebar of the ChatGPT interface, you should see**Explore GPTs** instead of simply**Explore** . Once you see this, you can start using the GPT Store! Remember, the whole idea of the GPT Store is to help users browse and access a wide range of GPTs built by the community. So, how can you use it to find the right GPT for your tasks?
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Find the Best Custom GPTs in the GPT Store
 
  Using the GPT Store is quite straightforward. Here's how you can browse and search for custom GPTs:
@@ -68,26 +68,33 @@ How do you know when you've been granted access?
 2. At the top of the store page, you will see featured categories like Writing, Productivity, Programming, Research and Analysis, and DALL-E for image generation. Click on a category to view a list of the top-performing custom GPT models in that specific category.  
 ![Screenshot of the GPT store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-store.jpg)
 3. You can also use the search bar to find GPTs by keyword or related terms.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![GPT Store search screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-store-search-screen.jpg)
 4. When you find a GPT you want to try, click on it to open the individual GPT page.
 5. On the GPT page, you will see information about what that model offers.
 6. After testing a GPT that solves your problem well, take one important extra step—click on the GPT name in the top left corner of the page, then click**Keep in sidebar** . This saves that GPT to the sidebar along with your chat history for easy future access.  
 ![Adding a GPT to sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/adding-a-gpt-to-sidebar.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  However, you should note that at the time of writing, the GPT Store isn't reviewed, and there is no rating system or otherwise. We're hoping that OpenAI will introduce some type of rating system in the near future, as currently, without any system in place, you're effectively on your own when it comes to figuring out what works well. By extension, it seems likely that some form of rating or review system will be implemented once GPT Store revenue sharing is launched, but OpenAI hasn't given any fixed timeline for this.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is it Worth Upgrading to ChatGPT Plus to Use Custom GPTs?
@@ -113,19 +120,18 @@ How do you know when you've been granted access?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-precision-in-screen-recording-a-comprehensively-reviewed-list/"><u>[Updated] Precision in Screen Recording A Comprehensively Reviewed List</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/automate-your-cleanup-mac-compatible-stellar-file-eraser-standard-edition/"><u>Automate Your Cleanup: Mac-Compatible Stellar File Eraser Standard Edition</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-gains-a-tongue-unveiling-openais-breakthrough-in-speaking-prompt-interaction/"><u>ChatGPT Gains a Tongue: Unveiling OpenAI's Breakthrough in Speaking Prompt Interaction</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/critical-review-of-microsoft-surface-duo-high-price-tag-meets-a-multitude-of-problems/"><u>Critical Review of Microsoft Surface Duo: High Price Tag Meets a Multitude of Problems</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/debunking-digital-health-misinformation-check-for-accuracy/"><u>Debunking Digital Health Misinformation: Check for Accuracy</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/deceptive-gpt-extension-rips-off-fb-credentials/"><u>Deceptive GPT Extension: Rips Off FB Credentials</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/deciphering-codegpt-the-future-of-programming-with-ai/"><u>Deciphering CodeGPT: The Future of Programming with AI?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/deciphering-forefront-ai-versus-chatgpt-which-leads-the-way-in-ai-innovation/"><u>Deciphering Forefront AI Versus ChatGPT - Which Leads the Way in AI Innovation?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/does-the-traditional-turing-test-still-hold-up-exploring-current-alternatives/"><u>Does The Traditional Turing Test Still Hold Up? Exploring Current Alternatives</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-download-and-set-up-the-epson-xp-400-driver-easy-steps-for-beginners/"><u>How To Download & Set Up The Epson XP 400 Driver - Easy Steps For Beginners</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-retrieve-your-hidden-wi-fi-passwords-using-windows-11-tools/"><u>How to Retrieve Your Hidden Wi-Fi Passwords Using Windows 11 Tools</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-oculus-gaming-guide-best-selling-choices/"><u>In 2024, Ultimate Oculus Gaming Guide Best-Selling Choices</u></a></li>
-<li><a href="https://apple-account.techidaily.com/removing-device-from-apple-id-for-your-apple-iphone-15-pro-by-drfone-ios/"><u>Removing Device From Apple ID For your Apple iPhone 15 Pro</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/troubleshooting-windows-7-network-connection-problems-solutions-and-fixes/"><u>Troubleshooting Windows 7 Network Connection Problems - Solutions and Fixes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-comprehensive-acid-pro-evaluation-and-alternative-software/"><u>[New] Comprehensive ACID Pro Evaluation & Alternative Software</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-brief-video-explanations-all-inclusive/"><u>[Updated] 2024 Approved Brief Video Explanations, All-Inclusive</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-oneplus-11r-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/5-premier-racer-simulators-that-captivate-you-for-2024/"><u>5 Premier Racer Simulators That Captivate You for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-showdown-evaluating-the-superiority-of-chatgpt-microsoft-bings-ai-and-google-bard/"><u>AI Showdown: Evaluating the Superiority of ChatGPT, Microsoft Bing's AI, & Google Bard</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparing-generations-an-in-depth-look-at-openais-progress-from-gpt-1-through-gpt-n/"><u>Comparing Generations: An In-Depth Look at OpenAI’s Progress From GPT-1 Through GPT-N</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/crafting-your-version-of-chatgpt-for-enhanced-personal-use/"><u>Crafting Your Version of ChatGPT for Enhanced Personal Use</u></a></li>
+<li><a href="https://win11.techidaily.com/h264/"><u>H264形式適用方法：他の形式への変換手順と、それをもとに戻す簡単ガイド</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-the-shadows-of-cyberspace-an-explanation-of-the-dead-internet-phenomenon/"><u>Navigating the Shadows of Cyberspace: An Explanation of 'The Dead Internet' Phenomenon</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/on-device-ai-demystified-an-in-depth-look-at-how-it-operates/"><u>On-Device AI Demystified: An In-Depth Look at How It Operates</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-on-restricting-silent-operation-of-android-applications/"><u>Step-by-Step Tutorial on Restricting Silent Operation of Android Applications</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-generative-artificial-intelligence-the-future-of-machine-based-innovation/"><u>Unveiling Generative Artificial Intelligence: The Future of Machine-Based Innovation</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726029778946-seo/"><u>オンライン音声掲示板からクリップを保護するための戦略 - SEO向上指南</u></a></li>
 </ul></div>
 

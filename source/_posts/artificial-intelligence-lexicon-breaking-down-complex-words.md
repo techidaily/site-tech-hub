@@ -1,7 +1,7 @@
 ---
 title: "Artificial Intelligence Lexicon: Breaking Down Complex Words"
-date: 2024-09-26T18:46:05.290Z
-updated: 2024-09-28T23:05:24.971Z
+date: 2024-10-02T18:21:30.535Z
+updated: 2024-10-03T19:56:21.810Z
 tags:
   - chatgpt
   - open-ai
@@ -39,16 +39,10 @@ thumbnail: https://thmb.techidaily.com/c8cdb9a666b994c5df18bf9fb906f435b3e886e46
  For instance, if you use derogatory words when addressing[Microsoft's GPT-powered Bing AI](https://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/) , it will respond by saying, "I'm sorry, but I don't appreciate being spoken to that way." Similarly, ChatGPT will tell you to "refrain from using offensive language" because it's against its content policy or that it's "sorry to hear you're upset" but that "as an AI language model, it doesn't have feelings or emotions."
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Should You Teach Children to Be Polite Using AI?
@@ -56,10 +50,10 @@ thumbnail: https://thmb.techidaily.com/c8cdb9a666b994c5df18bf9fb906f435b3e886e46
 ![child looking at laptop headphones studying](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/sites-teach-children-online-safety-featured.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  A few tech companies have AI products that encourage kids to be polite. A good example is Amazon's[Echo Dot Kids Edition](https://www.makeuseof.com/is-echo-dot-kids-edition-worth-buying/) , which includes a**Magic Word** feature to persuade children to be polite. In 2018, Google also introduced the[Pretty Please feature in Google Assistant](https://www.makeuseof.com/tag/new-google-assistant-features-holidays/) that could return the favor if you say "thank you" or "please."
@@ -69,10 +63,10 @@ thumbnail: https://thmb.techidaily.com/c8cdb9a666b994c5df18bf9fb906f435b3e886e46
  However, there is a possibility that children could think that AI has feelings just like humans if you reinforce politeness when they're talking to AI.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can AI Be Rude to You?
@@ -88,16 +82,10 @@ thumbnail: https://thmb.techidaily.com/c8cdb9a666b994c5df18bf9fb906f435b3e886e46
  On the other hand, you can[set up Alexa to swear](https://www.makeuseof.com/how-to-make-alexa-swear/) profanities if you want it to be rude.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Interact With AI How You Want
@@ -121,20 +109,22 @@ thumbnail: https://thmb.techidaily.com/c8cdb9a666b994c5df18bf9fb906f435b3e886e46
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-spotting-the-top-10-discreet-instagram-story-followers/"><u>[New] In 2024, Spotting the Top 10 Discreet Instagram Story Followers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-smoothly-integrate-linktree-into-your-tiktok-bio-space/"><u>[Updated] How to Smoothly Integrate Linktree Into Your TikTok Bio Space</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-uncovering-budget-friendly-video-conferencing-tools-for-multiple-systems/"><u>[Updated] In 2024, Uncovering Budget-Friendly Video Conferencing Tools for Multiple Systems</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/beware-of-these-6-chatgpt-plugins-they-might-not-deliver-what-you-need/"><u>Beware of These 6 ChatGPT Plugins - They Might Not Deliver What You Need</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/beware-these-5-dangers-navigating-chatgpt-safely-and-smartly/"><u>Beware These 5 Dangers: Navigating ChatGPT Safely and Smartly</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/boost-your-excel-skills-using-chatgpt-for-a-hassle-free-experience/"><u>Boost Your Excel Skills Using ChatGPT for a Hassle-Free Experience</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/breaking-barriers-connect-with-chatgpt-from-anywhere/"><u>Breaking Barriers: Connect with ChatGPT From Anywhere</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/can-ai-enable-real-time-smart-home-adjustments/"><u>Can AI Enable Real-Time Smart Home Adjustments?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/can-artificial-intelligence-be-funny-exploring-chatgpts-ability-to-create-humor/"><u>Can Artificial Intelligence Be Funny? Exploring ChatGPT's Ability to Create Humor</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-and-generative-ai-demystified-the-ultimate-guidebook-for-parents/"><u>ChatGPT and Generative AI Demystified: The Ultimate Guidebook for Parents</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/exploring-the-potential-of-movie-maker-for-anime-for-2024/"><u>Exploring the Potential of Movie Maker for Anime for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fix-skype-messages-that-wont-send-step-by-step-fixes-for-a-smooth-chat-experience/"><u>Fix Skype Messages That Won't Send: Step-by-Step Fixes for a Smooth Chat Experience</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-affordable-full-rotational-camera-systems-enhancing-media/"><u>In 2024, Affordable, Full Rotational Camera Systems Enhancing Media</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-apple-iphone-11-pro-to-enjoy-more-fun-drfone-by-drfone-virtual-ios/"><u>In 2024, Change Location on Yik Yak For your Apple iPhone 11 Pro to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/top-3-techniques-for-downloading-videos-from-vidme-a-comprehensive-guide/"><u>Top 3 Techniques for Downloading Videos From Vidme: A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-mastering-youtube-video-illumination-techniques/"><u>[New] 2024 Approved Mastering YouTube Video Illumination Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/9-essential-strategies-leveraging-chatgpt-for-enhanced-well-being/"><u>9 Essential Strategies: Leveraging ChatGPT for Enhanced Well-Being</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-closer-look-at-dall-es-version-3-editing-capabilities-introduced-still-under-development/"><u>A Closer Look at DALL-E's Version 3: Editing Capabilities Introduced, Still Under Development</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-guide-to-child-centric-chatbot-use-top-5-security-tips/"><u>A Guide to Child-Centric Chatbot Use: Top 5 Security Tips</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-peek-into-hugging-faces-workings-and-uses/"><u>A Peek Into Hugging Face’s Workings and Uses</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-battle-royale-comparing-notion-ai-and-chatgpt-for-optimal-performance/"><u>AI Battle Royale: Comparing Notion AI and ChatGPT for Optimal Performance</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/incorporating-captions-in-photography-a-user-friendly-guide-on-pc-and-mac-for-2024/"><u>Incorporating Captions in Photography A User-Friendly Guide on PC & Mac for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/instagram-tips-sharing-your-podcast-content/"><u>Instagram Tips Sharing Your Podcast Content</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/journey-into-hangul-easy-steps-to-language-mastery/"><u>Journey Into Hangul: Easy Steps to Language Mastery</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722164761518-maximize-your-productivity-with-these-ai-driven-chrome-addons-top-picks/"><u>Maximize Your Productivity with These AI-Driven Chrome Addons - Top Picks</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mpeg-ts-to-mp4windows-1011/"><u>MPEG-TS to MP4変換：Windows 10/11でおすすめのベスト方法集</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1721857619637-navigate-the-digital-world-easier-bings-new-ai-search-feature-for-phones/"><u>Navigate the Digital World Easier: Bing’s New AI Search Feature for Phones.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reopening-hidden-nvidia-control-panel-on-w11/"><u>Reopening Hidden Nvidia Control Panel on W11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722108145001-strategic-planning-using-chatgpt-boost-your-workflow-efficiency-now/"><u>Strategic Planning Using ChatGPT: Boost Your Workflow Efficiency Now</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-guide-the-top-5-most-efficient-ipod-to-mac-conversion-programs/"><u>Ultimate Guide: The Top 5 Most Efficient iPod to Mac Conversion Programs</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Excel Enthusiast's Secret Weapon: Unveiling How to Pair It With ChatGPT for Better Results"
-date: 2024-09-23T23:07:03.647Z
-updated: 2024-09-28T19:05:23.398Z
+date: 2024-09-30T14:14:08.965Z
+updated: 2024-10-04T05:48:30.048Z
 tags:
   - chatgpt
   - open-ai
@@ -43,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/b39a417d51f84d42969e276c8326049152a3ecf4c
 
  Well, here are some reasons you might want to keep your ChatGPT Plus sub.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1 More Access to GPT-4o
 
 ![GPT modes for for ChatGPT Plus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-21-at-1-13-53-pm.png)
@@ -66,10 +73,10 @@ thumbnail: https://thmb.techidaily.com/b39a417d51f84d42969e276c8326049152a3ecf4c
  If some arbitrary tests don't convince you, consider the number of extra GPT-4 prompts you'll get from a sub. OpenAI allows 40 messages every three hours on GPT-4T and 80 messages every three hours on GPT-4o, giving you a grand total of 120 messages you can send to the GPT-4s in three hours.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3 Create Your Own Custom GPT
@@ -78,27 +85,39 @@ thumbnail: https://thmb.techidaily.com/b39a417d51f84d42969e276c8326049152a3ecf4c
 
  You must have a Plus subscription to create custom GPTs. Paying will let you [build a custom GPT with your own data](https://www.makeuseof.com/how-use-chatgpt-my-gpt-bots/) and documents, which can then be shared with friends and colleagues or published freely on the marketplace.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4 Generate Images With DALL-E
 
 ![chatgpt dalle 3 prompt example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-dalle-3-prompt-example.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When OpenAI announced the slew of features coming to ChatGPT's Free tier, they didn't mention direct access to its image generation AI, DALL-E. With DALL-E, you can enter any prompt, and the AI will attempt to create an image from your text. It's pretty useful, and it's easily half the reason why I keep my Plus subscription. Even with access to GPT-4o, Free users cannot generate images from text—all DALL-E capabilities are locked behind the subscription paywall.
 
  We are uncertain how this will translate to Free users' access to the GPT store, seeing as many custom GPTs rely on DALL-E. But it's very likely going to be completely unavailable until you pay.
+
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5  Get Early Access to ChatGPT Voice Mode and the ChatGPT Desktop App
 
@@ -113,13 +132,6 @@ thumbnail: https://thmb.techidaily.com/b39a417d51f84d42969e276c8326049152a3ecf4c
 ## 6  Full Access to Advanced Data Analysis, File Uploads, Vision, and Web Browsing
 
 ![ChatGPT plans on its website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-21-at-1-17-24-pm.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Advanced data analysis, file uploads, vision, and web browsing were once features exclusive to OpenAI's paying customers. That has now changed, and all of these are available to Free users but with more limits. The limits include fewer prompts, fewer file uploads, and lower priority access to these services during peak hours.
 
@@ -144,19 +156,22 @@ thumbnail: https://thmb.techidaily.com/b39a417d51f84d42969e276c8326049152a3ecf4c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-prime-ways-from-video-links-to-audio-downloads/"><u>[New] Prime Ways From Video Links to Audio Downloads</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-boosting-video-quality-in-zoom-with-advanced-effects/"><u>[Updated] Boosting Video Quality in Zoom With Advanced Effects</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-on-iphone-se-2020-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code On iPhone SE (2020)</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-honor-100-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Honor 100 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-shift-key-issues-proven-solutions-and-fixes/"><u>Mastering Shift Key Issues: Proven Solutions and Fixes</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-productivity-using-chatgpt-as-a-professional-aide/"><u>Mastering the Art of Productivity: Using ChatGPT as a Professional Aide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/maximizing-efficiency-with-llama-2-a-comprehensive-guide/"><u>Maximizing Efficiency with Llama 2 - A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/maximizing-your-earnings-with-chatgpt-hustles-and-essential-guides-for-constructing-powerful-pcs/"><u>Maximizing Your Earnings with ChatGPT Hustles & Essential Guides for Constructing Powerful PCs</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mercedes-innovation-blending-gpt-tech-with-car-voices/"><u>Mercedes' Innovation: Blending GPT Tech with Car Voices</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/microsoft-acquires-blizzard-insights-on-ai-generated-art-and-language-translation-features-in-todays-episode/"><u>Microsoft Acquires Blizzard: Insights on AI-Generated Art & Language Translation Features in Today's Episode</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-the-tech-terrain-iphone-vs-android-who-wins-for-you/"><u>Navigating the Tech Terrain: IPhone Vs Android, Who Wins for You?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-google-pixel-8-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Google Pixel 8 Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/the-ultimate-how-to-secure-your-huion-device-with-the-latest-windows-drivers/"><u>The Ultimate How-To: Secure Your Huion Device with the Latest Windows Drivers</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-steady-shots-the-best-free-online-video-stabilizers-reviewed/"><u>Updated 2024 Approved Steady Shots The Best Free Online Video Stabilizers Reviewed</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-expert-insights-selecting-from-these-top-12-video-optimized-cameras/"><u>[Updated] Expert Insights Selecting From These Top 12 Video-Optimized Cameras</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-5-essential-strategies-for-successful-twitch-livestreaming/"><u>[Updated] In 2024, 5 Essential Strategies for Successful Twitch Livestreaming</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovations-in-vr-a-deep-dive-into-the-best-engine-updates/"><u>[Updated] Innovations in VR A Deep Dive Into the Best Engine Updates</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-beyond-betting-in-depth-vegas-pro-21-analysis/"><u>2024 Approved Beyond Betting In-Depth Vegas Pro '21 Analysis</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/building-bridges-in-isolation-through-ai-dialogue/"><u>Building Bridges in Isolation Through AI Dialogue</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-confidentiality-methods-for-conversation-camouflage-without-deletion/"><u>ChatGPT Confidentiality: Methods for Conversation Camouflage Without Deletion</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparing-the-capabilities-how-does-mistral-ais-le-chat-measure-up-to-chatgpt/"><u>Comparing the Capabilities: How Does Mistral AI’s Le Chat Measure Up to ChatGPT?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/has-oversight-over-chatgpt-became-an-issue-for-openai/"><u>Has Oversight Over ChatGPT Became an Issue for OpenAI?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>How Can I Use a Fake GPS Without Mock Location On Apple iPhone 15 Pro? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-on-iphone-se-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data on iPhone SE? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-11-pro-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 11 Pro System? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-binkw32dll-troubleshooting-process-for-flawless-operations/"><u>Mastering the binkw32.dll Troubleshooting Process for Flawless Operations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximizing-impact-crafting-social-media-posts-with-chatgpt/"><u>Maximizing Impact: Crafting Social Media Posts with ChatGPT</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-video-storytelling-made-easy-best-iphone-and-ipad-collage-apps-2023-for-2024/"><u>New Video Storytelling Made Easy Best iPhone and iPad Collage Apps 2023 for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-complete-overview-of-artificial-intelligence-advancements-unveiled-in-apples-wwdc-24/"><u>The Complete Overview of Artificial Intelligence Advancements Unveiled in Apple's WWDC '24</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-power-of-chatgpt-in-providing-reliable-health-guidance-unveiling-seven-key-points/"><u>The Power of ChatGPT in Providing Reliable Health Guidance: Unveiling Seven Key Points</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-gptzeros-function-in-ai-detection/"><u>Understanding GPTZero's Function in AI Detection</u></a></li>
 </ul></div>
 

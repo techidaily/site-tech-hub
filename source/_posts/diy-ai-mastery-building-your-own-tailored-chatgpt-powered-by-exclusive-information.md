@@ -1,7 +1,7 @@
 ---
 title: "DIY AI Mastery: Building Your Own Tailored ChatGPT Powered by Exclusive Information"
-date: 2024-09-18T21:38:30.573Z
-updated: 2024-09-23T01:48:21.279Z
+date: 2024-09-27T22:51:27.511Z
+updated: 2024-10-03T18:25:24.909Z
 tags:
   - chatgpt
   - open-ai
@@ -25,6 +25,13 @@ thumbnail: https://thmb.techidaily.com/3c089195526935c85a4cb3e6dde5d5ebf9d1e09e8
 * [What Is the Open-Source ChatGPT Desktop Application?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#what-is-the-open-source-chatgpt-desktop-application)
 * [How to Install and Configure ChatGPT Desktop Application](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#how-to-install-and-configure-chatgpt-desktop-application)
 * [When Is the Official ChatGPT Desktop Version Launching?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#when-is-the-official-chatgpt-desktop-version-launching)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -53,15 +60,22 @@ thumbnail: https://thmb.techidaily.com/3c089195526935c85a4cb3e6dde5d5ebf9d1e09e8
  The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Install and Configure ChatGPT Desktop Application
 
 ![chatgpt open source desktop version home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-home-page.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Head to the open-source[ChatGPT Desktop Application download page](https://github.com/lencx/ChatGPT/releases/tag/v1.1.0) . The latest version at the time of writing is V1.1.0, but you can check for a newer version.
 2. Download the applicable version for your operating system, then install it as per your operating system.
@@ -72,10 +86,10 @@ thumbnail: https://thmb.techidaily.com/3c089195526935c85a4cb3e6dde5d5ebf9d1e09e8
 ![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When Is the Official ChatGPT Desktop Version Launching?
@@ -99,5 +113,21 @@ thumbnail: https://thmb.techidaily.com/3c089195526935c85a4cb3e6dde5d5ebf9d1e09e8
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-mastering-the-art-of-embedding-youtube-playlist-content/"><u>[New] 2024 Approved Mastering the Art of Embedding YouTube Playlist Content</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-snaptweet-transporter-swift-transfer-of-tweets-content/"><u>[New] 2024 Approved SnapTweet Transporter Swift Transfer of Tweets' Content</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-quick-recording-tips-for-your-next-google-meet-video-call/"><u>[Updated] 2024 Approved Quick Recording Tips for Your Next Google Meet Video Call</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-covert-story-consumption-5-must-try-apps-for-2024/"><u>[Updated] Covert Story Consumption 5 Must-Try Apps for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-honor-90-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Honor 90? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/essential-factors-to-evaluate-when-selecting-your-next-printer/"><u>Essential Factors to Evaluate When Selecting Your Next Printer</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-sony-xperia-10-v-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Sony Xperia 10 V</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-network-locked-lava-blaze-2-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Lava Blaze 2 Phone?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transform-your-storytelling-with-chatgpt-building-rich-dialogue-driven-rpgs-for-solo-players/"><u>Transform Your Storytelling with ChatGPT: Building Rich, Dialogue-Driven RPGs for Solo Players</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/trustworthy-virtual-health-guidelines-for-gpt-use/"><u>Trustworthy Virtual Health: Guidelines for GPT Use</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-chatgpts-legal-troubles-insights-from-updated-google-news-feeds-and-strategies-for-superior-mobile-signal-while-abroad/"><u>Understanding ChatGPT's Legal Troubles: Insights From Updated Google News Feeds & Strategies for Superior Mobile Signal While Abroad</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/uniting-chatgpt-with-whatsapp-for-top-tier-support/"><u>Uniting ChatGPT with WhatsApp for Top-Tier Support</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-powerful-ai-driven-searches-on-bing-the-user-registration-process-explained/"><u>Unlock Powerful AI-Driven Searches on Bing: The User Registration Process Explained</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-the-power-of-ai-5-key-techniques-for-writing-superior-chatgpt-queries/"><u>Unlock the Power of AI: 5 Key Techniques for Writing Superior ChatGPT Queries</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Programming Showdown: GitHub Copilot Vs. ChatGPT - Determining the Superior Tool"
-date: 2024-09-19T20:40:43.652Z
-updated: 2024-09-23T02:13:30.413Z
+date: 2024-10-03T13:13:10.398Z
+updated: 2024-10-04T05:43:52.646Z
 tags:
   - chatgpt
   - open-ai
@@ -43,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/fed92e9eb9a0a5e6e21c5bc280db28f15e68b1978
 
 ![GPT modes for for ChatGPT Plus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-21-at-1-13-53-pm.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [GPT-4o](https://www.makeuseof.com/how-gpt-4o-works-is-it-free/) [is OpenAI's latest flagship GPT model](http://www.makeuseof.com/how-gpt-4o-works-is-it-free/) , which it states is twice as fast as GPT-4 Turbo and 50% cheaper (when using APIs). However, Free users are not granted unlimited access to GPT-4o. OpenAI provides Free users with "limited access to GPT-4o."
 
  GPT-4o is now ChatGPT's default model, but Free users will be reverted to GPT-3.5 when it's unavailable. As a Free user, your access to GPT-4o is not guaranteed and is subject to availability. The term "limited access" implies usage restrictions or reduced availability during peak times.
@@ -56,13 +63,6 @@ thumbnail: https://thmb.techidaily.com/fed92e9eb9a0a5e6e21c5bc280db28f15e68b1978
  Benchmarks and tests revealed that GPT-4o may be faster, but GPT-4 Turbo seems more accurate in some categories. It's difficult to confirm the criteria for this and how some of these tests have been executed, but some users have reported better results from GPT-4—especially in mathematical and programming problems. Even OpenAI admits this, and according to its text evaluation results, GPT-4T does better at DROP (​​Discrete Reasoning Over Paragraphs) tests.
 
 ![gpt-40-02_light](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/gpt-40-02_light.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [OpenAI](https://openai.com/index/hello-gpt-4o/)
 
@@ -78,16 +78,16 @@ thumbnail: https://thmb.techidaily.com/fed92e9eb9a0a5e6e21c5bc280db28f15e68b1978
 
 ![chatgpt dalle 3 prompt example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-dalle-3-prompt-example.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  When OpenAI announced the slew of features coming to ChatGPT's Free tier, they didn't mention direct access to its image generation AI, DALL-E. With DALL-E, you can enter any prompt, and the AI will attempt to create an image from your text. It's pretty useful, and it's easily half the reason why I keep my Plus subscription. Even with access to GPT-4o, Free users cannot generate images from text—all DALL-E capabilities are locked behind the subscription paywall.
 
  We are uncertain how this will translate to Free users' access to the GPT store, seeing as many custom GPTs rely on DALL-E. But it's very likely going to be completely unavailable until you pay.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5  Get Early Access to ChatGPT Voice Mode and the ChatGPT Desktop App
 
@@ -100,15 +100,28 @@ thumbnail: https://thmb.techidaily.com/fed92e9eb9a0a5e6e21c5bc280db28f15e68b1978
  OpenAI also introduced us to a ChatGPT desktop in its demo. That is undoubtedly one of the early access features paid users will enjoy, and is first coming to macOS users. There may be more cool features down the line that offer very good value propositions, and paying for Plus is the only way to be among those who use it.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6  Full Access to Advanced Data Analysis, File Uploads, Vision, and Web Browsing
 
 ![ChatGPT plans on its website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-21-at-1-17-24-pm.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Advanced data analysis, file uploads, vision, and web browsing were once features exclusive to OpenAI's paying customers. That has now changed, and all of these are available to Free users but with more limits. The limits include fewer prompts, fewer file uploads, and lower priority access to these services during peak hours.
 
@@ -131,5 +144,24 @@ thumbnail: https://thmb.techidaily.com/fed92e9eb9a0a5e6e21c5bc280db28f15e68b1978
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-hub.techidaily.com/18-next-level-sales-management-applications-beyond-gpts-realm/"><u>18 Next-Level Sales Management Applications Beyond GPT's Realm</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-exploring-skypes-best-recording-options-of-2023/"><u>2024 Approved Exploring Skype's Best Recording Options of 2023</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-comprehensive-guide-to-claude-pro-and-its-relationship-with-microsofts-chatgpt-plus/"><u>A Comprehensive Guide to Claude Pro and Its Relationship with Microsoft’s ChatGPT Plus</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-step-by-step-approach-to-chatgpt-with-iphones-siri/"><u>A Step-by-Step Approach to ChatGPT with iPhone's Siri</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-oppo-find-x6-pro-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Oppo Find X6 Pro</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-and-the-quest-for-textual-awareness-investigating-why-chatgpt-fails-to-detect-its-own-prose/"><u>AI and the Quest for Textual Awareness: Investigating Why ChatGPT Fails to Detect Its Own Prose</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-date-coach-chatgpt-for-romance/"><u>AI Date Coach: ChatGPT for Romance</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-driven-paperclip-maximization-exploring-new-possibilities/"><u>AI-Driven Paperclip Maximization: Exploring New Possibilities</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comprehensive-guide-keeping-your-pcs-drivers-current-on-windows-1011-platforms/"><u>Comprehensive Guide: Keeping Your PC's Drivers Current on Windows 10/11 Platforms</u></a></li>
+<li><a href="https://network-issues.techidaily.com/crisp-image-window-purity/"><u>Crisp Image: Window Purity</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-realme-narzo-n55-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Realme Narzo N55 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/nip-video-lag-in-the-bud-with-vlc/"><u>Nip Video Lag in the Bud with VLC</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/recorded-tones-the-iphone-voicemail-keeper/"><u>Recorded Tones The iPhone Voicemail Keeper</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-the-wininetdll-file-not-found-effective-solutions/"><u>Resolving the wininet.dll File Not Found – Effective Solutions</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-best-tools-for-video-recording-focus-on-apeaksofts-advantages/"><u>The Best Tools for Video Recording – Focus on Apeaksoft's Advantages</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/what-exactly-is-codegpt-can-this-ai-reliably-write-software-code/"><u>What Exactly Is CodeGPT? Can This AI Reliably Write Software Code?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/which-is-superior-for-software-development-github-copilot-or-chatgpt-face-off/"><u>Which Is Superior for Software Development? GitHub Copilot or ChatGPT Face-Off</u></a></li>
+</ul></div>
 

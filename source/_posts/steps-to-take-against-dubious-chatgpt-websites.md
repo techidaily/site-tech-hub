@@ -1,7 +1,7 @@
 ---
 title: Steps to Take Against Dubious ChatGPT Websites
-date: 2024-09-26T17:00:50.683Z
-updated: 2024-09-28T17:49:06.640Z
+date: 2024-09-30T08:03:31.412Z
+updated: 2024-10-03T23:10:17.691Z
 tags:
   - chatgpt
   - open-ai
@@ -41,10 +41,10 @@ thumbnail: https://thmb.techidaily.com/a88de5655376206e2ee17661cb9dd03b46b68bf81
 **Download:** WebChatGPT for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-advanced/lpfemeioodjbpieminkklglpmhlngfcn) |[Firefox](https://addons.mozilla.org/en-US/firefox/addon/web-chatgpt/) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. ChatGPT Prompt Genius
@@ -60,13 +60,6 @@ thumbnail: https://thmb.techidaily.com/a88de5655376206e2ee17661cb9dd03b46b68bf81
  You can curate and save your recently used prompts if you want to reuse them later. The extension lets you save entire chats with the ChatGPT AI as a PDF, PNG, or Markdown HTML file directly from the browser. You can also use custom themes for the chat interface, but that's more about looks than function.
 
 **Download:** ChatGPT Prompt Genius for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-history/jjdnakkfjnnbbckhifcfchagnpofjffo/) |[Firefox](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-history/) (Free)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. ChatGPT Writer
 
@@ -85,10 +78,10 @@ thumbnail: https://thmb.techidaily.com/a88de5655376206e2ee17661cb9dd03b46b68bf81
 **Download:** ChatGPT Writer for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-writer-write-mail/pdnenlnelpdomajfejgapbdpmjkfpjkp/) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. YouTube Summary With ChatGPT
@@ -102,10 +95,10 @@ thumbnail: https://thmb.techidaily.com/a88de5655376206e2ee17661cb9dd03b46b68bf81
 ![using the 'transcript and summary box' from youtube summary extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/youtube-summary-extension.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The extension also has a button to view an AI-generated summary of the video. Clicking this takes you to ChatGPT, with the transcript already typed in the prompt. All you have to do now is prompt ChatGPT to summarize the text, and you'll get an instant summary.
@@ -136,6 +129,13 @@ thumbnail: https://thmb.techidaily.com/a88de5655376206e2ee17661cb9dd03b46b68bf81
 
 ![query answers by perplexity ai extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/perplexity-ai.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The decentralization of information and knowledge has done much good in recent years. But, like anything in tech, it carries an ugly side to it, too. The rise of fake news and misinformation, for instance, is one of its biggest unwanted by-products.
 
  Perplexity AI can help you cut the misinformation out. Indeed, as the developers put it, the tool works as a combination of Google and ChatGPT. Simply type in your query in the extension and the tool will summarize you the best possible result—along with the legitimate cited sources. The last part here is very important.
@@ -165,20 +165,17 @@ thumbnail: https://thmb.techidaily.com/a88de5655376206e2ee17661cb9dd03b46b68bf81
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-exploring-the-differences-between-srgb-and-rgb/"><u>[New] Exploring the Differences Between Srgb & Rgb</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-search-for-auditory-perfection-try-these-top-rated-discord-bots/"><u>[Updated] In Search for Auditory Perfection? Try These Top-Rated Discord Bots</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-vivo-y78t-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Vivo Y78t Activity | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-breakthrough-technology-for-screens-showmores-revolutionary-recorder/"><u>2024 Approved Breakthrough Technology for Screens ShowMore's Revolutionary Recorder</u></a></li>
-<li><a href="https://app-tips.techidaily.com/bridging-the-knowledge-chasm-in-artifice-intelligence-through-robust-data-management-tips-and-techniques/"><u>Bridging the Knowledge Chasm in Artifice Intelligence Through Robust Data Management - Tips and Techniques</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/introducing-the-next-era-of-ai-openais-new-gpt-4-breakthrough/"><u>Introducing the Next Era of AI: OpenAI's New GPT-^4 Breakthrough</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-ai-ethics-conduct/"><u>Mastering the Art of AI Ethics Conduct</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-linking-and-sharing-chatgpt-dialogues/"><u>Mastering the Art of Linking and Sharing ChatGPT Dialogues</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-saving-conversations-a-step-by-step-guide-to-preserving-your-chatgpt-interactions/"><u>Mastering the Art of Saving Conversations: A Step-by-Step Guide to Preserving Your ChatGPT Interactions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-the-job-hunt-on-linkedin-with-chatgpt-uncover-these-10-useful-tips/"><u>Mastering the Job Hunt on LinkedIn with ChatGPT: Uncover These 10 Useful Tips</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/maximize-content-creation-ai-software-at-your-fingertips/"><u>Maximize Content Creation: AI Software at Your Fingertips</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/maximizing-efficiency-with-these-10-pdf-generators-for-chatgpt-users-cut-down-on-hours-spent-creating-reports/"><u>Maximizing Efficiency with These 10 PDF Generators for ChatGPT Users: Cut Down on Hours Spent Creating Reports</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-fixing-a-red-cross-appearing-over-your-network-symbol/"><u>Troubleshooting Steps for Fixing a Red Cross Appearing Over Your Network Symbol</u></a></li>
-<li><a href="https://solve-help.techidaily.com/troubleshooting-unplayable-files-error-0xc10100be-in-windows-11-effective-fixes-and-solutions/"><u>Troubleshooting Unplayable Files Error (0Xc10100be) in Windows 11 - Effective Fixes and Solutions</u></a></li>
-<li><a href="https://windows11.techidaily.com/winning-with-virtualbox-deps-before-the-big-setup/"><u>Winning with VirtualBox: Deps Before the Big Setup</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-prime-win11-videography-software-for-editors/"><u>[New] In 2024, Prime Win11 Videography Software for Editors</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-save-webcam-videos-using-vlc-software-for-2024/"><u>[New] Save Webcam Videos Using VLC Software for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/7-real-money-making-chatbot-opportunities-beyond-just-a-side-hustle-with-ai/"><u>7 Real Money-Making Chatbot Opportunities: Beyond Just a Side Hustle with AI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/8-unconventional-chatgpt-ventures-and-their-returns/"><u>8 Unconventional ChatGPT Ventures and Their Returns</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/advanced-tools-combinations-leveraging-chatgpt-for-optimized-use-of-sheets-docs-and-co/"><u>Advanced Tools Combinations: Leveraging ChatGPT for Optimized Use of Sheets, Docs & Co.</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722073999880-assessing-chatgpts-ability-in-formulating-effective-workout-routines-with-safety-measures/"><u>Assessing ChatGPT's Ability in Formulating Effective Workout Routines With Safety Measures.</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/celestial-cinema-outstanding-videos-plus-testimonies/"><u>Celestial Cinema: Outstanding Videos + Testimonies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722190419108-google-io-2023-showcases-bard-ais-new-edge-check-out-these-top-7-features/"><u>Google I/O 2023 Showcases Bard AI's New Edge - Check Out These Top 7 Features</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-14-pro-passcode-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 14 Pro Passcode without Computer? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/leading-8-web-destinations-for-free-access-to-3d-text-psds-for-2024/"><u>Leading 8 Web Destinations for FREE Access to 3D Text PSDs for 2024</u></a></li>
+<li><a href="https://solve-info.techidaily.com/1726027361613-windows-10/"><u>Windows 10ビデオ明るさ設定 - シンプルガイド</u></a></li>
 </ul></div>
 

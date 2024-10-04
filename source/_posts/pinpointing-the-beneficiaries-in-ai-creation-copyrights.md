@@ -1,7 +1,7 @@
 ---
 title: Pinpointing the Beneficiaries in AI Creation Copyrights
-date: 2024-09-21T19:29:15.855Z
-updated: 2024-09-22T21:56:50.885Z
+date: 2024-10-03T03:17:13.058Z
+updated: 2024-10-03T22:34:21.650Z
 tags:
   - chatgpt
   - open-ai
@@ -42,6 +42,13 @@ False news can be categorized into three types:
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Generating Fake Content Online
 
  Creating fake content using generative AI is a common strategy employed by those who spread false news. They use popular generative AI tools like ChatGPT, DALL-E, Bard, Midjourney, and others to produce various types of content. For example,[ChatGPT can help content creators in many ways](https://www.makeuseof.com/how-chatgpt-can-help-content-creators/) . But it can also generate social media posts or news articles that may deceive people.
@@ -51,6 +58,13 @@ False news can be categorized into three types:
 Here's the fictitious article that ChatGPT came up with:
 
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
@@ -65,13 +79,6 @@ Here's the fictitious article that ChatGPT came up with:
 
  These examples all illustrate how chatbots can be utilized to mislead people.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Creating AI DeepFakes
 
  Someone can use deepfakes to create false videos of an individual saying or doing things they never did. They can use such tools for social engineering or running smear campaigns against others. Moreover, in today's meme culture, deepfakes can serve as tools for cyberbullying on social media.
@@ -80,6 +87,13 @@ Here's the fictitious article that ChatGPT came up with:
 
  It's crucial, then, to be able to[identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4\. Cloning Human Voices
 
  Generative AI, along with deepfake technology, enables the manipulation of someone's speech. Deepfake technology is advancing rapidly and offers a variety of tools that can replicate anyone's voice. This allows malicious individuals to impersonate others and deceive unsuspecting individuals. One such example is[the use of deepfake music](https://www.makeuseof.com/what-is-deepfake-ai-music/) .
@@ -87,6 +101,13 @@ Here's the fictitious article that ChatGPT came up with:
  You might have come across tools like[Resemble AI](https://www.resemble.ai/) ,[Speechify](https://speechify.com/) ,[FakeYou](https://fakeyou.com/) , and others that can mimic the voices of celebrities. While these AI audio tools can be entertaining, they pose significant risks. Scammers can utilize voice cloning techniques for various fraudulent schemes, resulting in financial losses.
 
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by[The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Spot AI-Spread Disinformation
 
@@ -98,13 +119,6 @@ Here's the fictitious article that ChatGPT came up with:
 4. Use fact-checking websites to verify the accuracy of information.
 
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Beware of Disinformation Spread by AI
 
@@ -125,5 +139,24 @@ Here's the fictitious article that ChatGPT came up with:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-speed-edit-photos-in-windows-11/"><u>[New] Unlocking Speed Edit Photos in Windows 11</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-comprehensive-evaluation-gecata-pro-monitoring-for-2024/"><u>[Updated] Comprehensive Evaluation Gecata Pro Monitoring for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/asus-dvd-software-download-update-your-drivers-today/"><u>ASUS DVD Software Download: Update Your Drivers Today</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-versus-google-bard-an-in-depth-analysis-of-which-is-more-effective/"><u>ChatGPT Versus Google Bard - An In-Depth Analysis of Which Is More Effective</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/copilot-or-copilot-pro-understanding-the-divergence-and-choosing-wisely/"><u>Copilot or Copilot Pro? Understanding the Divergence and Choosing Wisely</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/deciphering-ais-milestones-an-in-depth-comparison-of-each-generation-of-openais-language-models-from-gpt-1-to-gpt-4/"><u>Deciphering AI's Milestones: An In-Depth Comparison of Each Generation of OpenAI's Language Models - From GPT-1 to GPT-4</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-the-showdown-in-depth-analysis-of-chatgpt-and-microsofts-bing-bot-side-by-side/"><u>Decoding the Showdown: In-Depth Analysis of ChatGPT and Microsoft's Bing Bot, Side by Side</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/digital-minds-may-displace-traditional-jobs/"><u>Digital Minds May Displace Traditional Jobs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/do-interactive-exchanges-with-users-evolve-chatgpts-functionality/"><u>Do Interactive Exchanges with Users Evolve ChatGPT’s Functionality?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/drive-smart-and-smarter-mercedes-benz-vehicles-now-equipped-with-voice-controlled-ai-assistant-chatgpt/"><u>Drive Smart and Smarter: Mercedes-Benz Vehicles Now Equipped with Voice-Controlled AI Assistant, ChatGPT</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1726028201074-dvdwindows-10/"><u>DVD再生に失敗するWindows 10コンピュータを修正する方法</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-installation-and-operation-of-microsoft-copilot-on-macos/"><u>Effortless Installation and Operation of Microsoft Copilot on macOS</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/expert-strategies-for-fbx-gameplay-capture-for-2024/"><u>Expert Strategies for FBX Gameplay Capture for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/groups-mobilize-push-1-star-rating-on-social-media-platforms/"><u>Groups Mobilize: Push 1-Star Rating on Social Media Platforms</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-eyecapture-screen-logger-x/"><u>In 2024, EyeCapture Screen Logger X</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Realme C67 4G? | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/maximize-device-lifespans-with-the-poweradd-pilot-pro2-review-a-gadget-charging-game-changer/"><u>Maximize Device Lifespans with the POWERADD Pilot Pro2 Review: A Gadget Charging Game-Changer?</u></a></li>
+</ul></div>
 

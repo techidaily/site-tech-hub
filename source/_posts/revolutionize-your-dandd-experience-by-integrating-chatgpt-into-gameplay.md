@@ -1,7 +1,7 @@
 ---
 title: Revolutionize Your D&D Experience by Integrating ChatGPT Into Gameplay
-date: 2024-09-16T23:02:19.579Z
-updated: 2024-09-23T02:24:45.742Z
+date: 2024-09-29T13:07:53.239Z
+updated: 2024-10-03T16:47:45.527Z
 tags:
   - chatgpt
   - open-ai
@@ -64,6 +64,13 @@ thumbnail: https://thmb.techidaily.com/681aed17cbdddeac0350ff3fe9a9a1770d531416a
 
 ![an email reply using chatgpt writer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-writer-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  ChatGPT Writer will take a few seconds and then compose a long, professional message along those lines. You can change or edit any words within the box, or redo your prompt if it's not satisfactory. When you're happy with the result, insert it directly into the**Reply** box, and you're ready to send it.
 
  The first time you use ChatpGPT Writer, you'll need to log in to your OpenAI account with it. The extension works with any Chromium browser such as Chrome, Brave, or Edge. While it's currently best for replying to professional emails, you can also give it non-work prompts to write casual and personal email messages.
@@ -80,13 +87,6 @@ thumbnail: https://thmb.techidaily.com/681aed17cbdddeac0350ff3fe9a9a1770d531416a
 
 ![using the 'transcript and summary box' from youtube summary extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/youtube-summary-extension.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The extension also has a button to view an AI-generated summary of the video. Clicking this takes you to ChatGPT, with the transcript already typed in the prompt. All you have to do now is prompt ChatGPT to summarize the text, and you'll get an instant summary.
 
  You can also add further prompts for more details regarding specific parts of the video without having to watch the full thing.
@@ -94,10 +94,10 @@ thumbnail: https://thmb.techidaily.com/681aed17cbdddeac0350ff3fe9a9a1770d531416a
 **Download:** YouTube Summary With ChatGPT for[Chrome](https://chrome.google.com/webstore/detail/youtube-summary-with-chat/nmmicjeknamkfloonkhhcjmomieiodli) |[Safari](https://apps.apple.com/us/app/glasp-social-web-highlighter/id1605690124) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Talk-to-ChatGPT
@@ -109,6 +109,13 @@ thumbnail: https://thmb.techidaily.com/681aed17cbdddeac0350ff3fe9a9a1770d531416a
  Talk-to-ChatGPT is an open-source extension that lets you fiddle around with the settings. You can choose from different AI voices, the voice pitch, and the speed at which text is read. It also supports voice command shortcuts of "Stop" and "Pause" to control playback.
 
 **Download:** Talk-to-ChatGPT for[Chrome](https://chrome.google.com/webstore/detail/talk-to-chatgpt/hodadfhfagpiemkeoliaelelfbboamlk) (Free)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. ChatGPT for Search Engines
 
@@ -131,10 +138,10 @@ thumbnail: https://thmb.techidaily.com/681aed17cbdddeac0350ff3fe9a9a1770d531416a
 **Download:** Perplexity AI for[Chrome](https://chrome.google.com/webstore/detail/perplexity-ai-companion/hlgbcneanomplepojfcnclggenpcoldo) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT Is Awesome, But Be Realistic…
@@ -156,5 +163,24 @@ thumbnail: https://thmb.techidaily.com/681aed17cbdddeac0350ff3fe9a9a1770d531416a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-chart-topping-stock-photos-and-their-narratives/"><u>[New] 2024 Approved Chart-Topping Stock Photos and Their Narratives</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-conveniently-remove-downloaded-youtube-media-for-lightweight-devices/"><u>[New] 2024 Approved Conveniently Remove Downloaded YouTube Media for Lightweight Devices</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-mastering-ppt-recording-essential-tips/"><u>[New] In 2024, Mastering PPT Recording Essential Tips</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-troubleshooting-messengers-failure-send-videos-without-issues-androidiphone-for-2024/"><u>[Updated] Troubleshooting Messenger's Failure Send Videos without Issues (Android/iPhone) for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebooks-community-boosters-building-page-polls/"><u>Facebook's Community Boosters: Building Page Polls</u></a></li>
+<li><a href="https://video-capture.techidaily.com/quick-setup-instructions-for-sporting-content-addons-on-kodi-matrix-v19/"><u>Quick Setup Instructions for Sporting Content Addons on Kodi Matrix V19</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/retro-gpu-fixes/"><u>Retro GPU Fixes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/side-hustles-with-chatai-and-upgrading-your-system/"><u>Side Hustles with ChatAI & Upgrading Your System</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/spotting-deceptive-chatgpt-sites-immediate-actions-needed/"><u>Spotting Deceptive ChatGPT Sites: Immediate Actions Needed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-battle-for-better-bots-gpt-vs-huggingchat/"><u>The Battle for Better Bots: GPT vs HuggingChat</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-birth-of-bard-googles-revolutionary-ai-venture-to-outshine-chatgpt/"><u>The Birth of Bard – Google's Revolutionary AI Venture to Outshine ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-chatgpt-approach-to-exceptional-resumes/"><u>The ChatGPT Approach to Exceptional Resumes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-four-pillars-of-state-driven-artificial-intelligence-oversight-mechanisms/"><u>The Four Pillars of State-Driven Artificial Intelligence Oversight Mechanisms</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-power-play-microsoft-acquires-blizzard-discovering-the-potential-of-ai-in-art-and-translation-on-our-newest-podcast-release/"><u>The Power Play: Microsoft Acquires Blizzard; Discovering the Potential of AI in Art & Translation on Our Newest Podcast Release</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-top-6-gpt-3-addons-you-should-skip-save-your-sanity/"><u>The Top 6 GPT-3 Addons You Should Skip - Save Your Sanity!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-7-free-dvd-players-for-windows-11-no-cost-downloads-available/"><u>Top 7 FREE DVD Players for Windows 11 – No Cost Downloads Available</u></a></li>
+</ul></div>
 

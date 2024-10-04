@@ -1,7 +1,7 @@
 ---
 title: The Comprehensive Overview of LLAMA 2 - How It Works & Why Use It?
-date: 2024-09-26T17:01:21.512Z
-updated: 2024-09-28T20:18:33.341Z
+date: 2024-09-26T22:57:03.115Z
+updated: 2024-10-04T02:51:27.546Z
 tags:
   - chatgpt
   - open-ai
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/6669b51a644a6e6a471c5e95129c578aa098ea11f
 
  Llama 3 and GPT-4 are two of the most advanced large language models (LLMs) available to the public. Let’s see which LLM is better by comparing both models in terms of multimodality, context length, performance, and cost.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Is GPT-4?
 
 ![Asking GPT-4o using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/886c4fbb-dd01-42da-b2de-ff25a87fa046.jpg)
@@ -54,16 +47,16 @@ There are currently three variations of the model:
 
  You can now access all three GPT-4 models by subscribing to OpenAI’s API services, interacting with ChatGPT, or through services such as Descript, Perplexity AI, and the[various copilots from Microsoft](https://www.makeuseof.com/microsoft-ai-copilot-which-you-should-use/) .
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Is Llama 3?
 
 ![Asking Llama 3 using chat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/28948759-e06d-4eca-9dc6-df6a41cf888a.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Llama 3 is an open-source LLM developed by Meta AI (parent company of Facebook, Instagram, and WhatsApp), trained using a combination of supervised fine-tuning, rejection sampling, and policy optimization with a diverse dataset including millions of human-annotated examples. Its training focused on high-quality prompts and preference rankings, aiming to create a versatile and capable AI model.
 
@@ -76,6 +69,13 @@ There are currently three variations of the model:
  The release of GPT-4o has finally delivered on the initial marketing of GPT-4 having multimodal capabilities. These multimodal features can now be accessed by interacting with ChatGPT using the GPT-4o model. As of June 2024, GPT-4o doesn’t have any integrated way of generating video and audio. However, it does have capabilities to generate text and images based on video and audio inputs.
 
  Llama 3 is also planning to provide a multimodal model for the upcoming Llama 3 400B. It will most likely integrate similar technologies to CLIP (Contrast Language-Imager Pre-Training) to generate images using[zero-shot learning](https://www.makeuseof.com/what-is-zero-shot-learning-can-it-improve-ai/) techniques. But since Llama 400B is still in training, the only way for the 8B and 70B models to generate images is to use extensions such as the LLaVa, Visual-LLaMA, and LLaMA-VID. As of now, Llama 3 is purely a language-based model that can take text, image, and audio as inputs for generating text.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Context Length
 
@@ -97,10 +97,10 @@ There are currently three variations of the model:
  In contrast, GPT-4 now supports a significantly larger context length of 32,000 tokens (around 25,600 words) for ChatGPT users and 128,000 tokens (around 102,400 words) for those using API endpoints. This gives GPT-4 models an edge in managing extensive conversations and the ability to read long documents or even through an entire book.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Performance
@@ -131,18 +131,18 @@ Here’s what each criterion evaluates:
 
  On the other hand, both Llama 3 8B and 70B models are free and open-source, which can be a significant advantage for developers and researchers looking for a cost-effective solution without compromising on performance.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Accessibility
 
  GPT-4 models are widely accessible through OpenAI's ChatGPT generative AI chatbot and through its API. You can also use GPT-4 on Microsoft Copilot, which is[one way you can use GPT-4 for free](https://www.makeuseof.com/ways-access-gpt-4-free/) . This widespread availability ensures that users can easily leverage its capabilities across different use cases. In contrast, Llama 3 is an open-source project that provides model flexibility and encourages broader experimentation and collaboration within the AI community. This open-access approach can democratize AI technology, making it available to a much wider audience.
 
  Although both models are readily available, GPT-4 is much easier to use because it is integrated into popular productivity tools and services. On the other hand, Llama 3 is mainly integrated into research and business platforms like Amazon Bedrock, Ollama, and DataBricks (except for Meta AI chat assist), which doesn't appeal to the larger market of non-technical users.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## GPT-4 vs. Llama 3: Which Is Better?
 
@@ -167,17 +167,24 @@ Here’s what each criterion evaluates:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-top-15-best-screenshot-software-windows-and-mac-for-2024/"><u>[Updated] Top 15 Best Screenshot Software [Windows & Mac] for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-asus-chromebook-c2easyacademic-ready-device-perfect-for-young-learners/"><u>Comprehensive Asus Chromebook C2easyAcademic-Ready Device Perfect for Young Learners</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-dividing-drama-how-to-split-vimeo-videos/"><u>In 2024, Dividing Drama How to Split Vimeo Videos</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-darter-pro-an-outstanding-choice-for-the-linux-user-experience/"><u>Latest Darter Pro: An Outstanding Choice for the Linux User Experience</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/leveraging-chatgpt-for-content-mastery-explore-9-effective-techniques/"><u>Leveraging ChatGPT for Content Mastery: Explore 9 Effective Techniques</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-chatgpt-add-ons-installation-and-usage-tips/"><u>Mastering ChatGPT Add-Ons: Installation & Usage Tips</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigate-smarter-in-style-discover-the-power-of-chatgpt-voice-command-in-your-mercedes-benz/"><u>Navigate Smarter in Style – Discover the Power of ChatGPT Voice Command in Your Mercedes Benz!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigate-the-future-of-web-engagement-7-must-have-chatgpt-tools-for-google-chrome-users/"><u>Navigate the Future of Web Engagement: 7 Must-Have ChatGPT Tools for Google Chrome Users</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/stop-chrome-from-skipping-playback-of-facebook-videos/"><u>Stop Chrome From Skipping Playback of Facebook Videos</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-essential-guide-to-computer-gear-by-tech-authority-toms-hardware/"><u>The Essential Guide to Computer Gear by Tech Authority, Tom's Hardware</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-12-prominent-motorola-moto-g13-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Motorola Moto G13 Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/videoprojecten-in-dvds-konvertieren-einfache-losung-mit-movavi/"><u>Videoprojecten in DVDs Konvertieren: Einfache Lösung Mit Movavi</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-discover-the-5-best-android-software-for-ps2-games/"><u>[New] In 2024, Discover the 5 Best Android Software for PS2 Games</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-leveraging-visual-storytelling-in-podcast-trailer-production/"><u>[New] Leveraging Visual Storytelling in Podcast Trailer Production</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-master-iphone-selfies-naturally-10-best-no-cost-enhancing-apps/"><u>[New] Master iPhone Selfies Naturally 10 Best No-Cost Enhancing Apps</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-advanced-techniques-to-save-snapchat-stories-on-devices/"><u>[Updated] 2024 Approved Advanced Techniques to Save Snapchat Stories on Devices</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-shooter-synergy-crafting-a-list-of-top-7-game-battles/"><u>2024 Approved Shooter Synergy Crafting a List of Top 7 Game Battles</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/asmr-video-knowledge-for-beginners-for-2024/"><u>ASMR Video Knowledge for Beginners for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpts-ethical-standards-for-sourcing-data/"><u>ChatGPT's Ethical Standards for Sourcing Data</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/conversational-innovations-snapchat-vs-gpt-powered-chatter/"><u>Conversational Innovations: Snapchat vs GPT-Powered Chatter</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/data-driven-dialogue-building-personalized-ai-engagement/"><u>Data-Driven Dialogue: Building Personalized AI Engagement</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-top-8-ai-powered-apps-for-your-smartphone/"><u>Discover the Top 8 AI-Powered Apps for Your Smartphone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/future-of-computing-best-5-ai-hardware-advances/"><u>Future of Computing: Best 5 AI Hardware Advances</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-does-the-windows-registry-work-an-explanation-using-revouninstaller-techniques/"><u>How Does the Windows Registry Work? An Explanation Using RevoUninstaller Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-safe-are-non-official-chatgpt-plugins-and-addons/"><u>How Safe Are Non-Official ChatGPT Plugins & Addons?</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-nokia-xr21-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leveraging-chatgpt-to-excel-in-your-next-interview/"><u>Leveraging ChatGPT to Excel in Your Next Interview</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-project-excellence-with-chatgpt-a-guide-to-enhanced-content-and-ideas/"><u>Mastering Project Excellence with ChatGPT: A Guide to Enhanced Content & Ideas</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-best-live-streaming-platforms-to-engage-audiences-and-increase-viewership-for-2024/"><u>New Best Live Streaming Platforms To Engage Audiences and Increase Viewership for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/register-now-navigate-through-microsofts-ai-integrated-bing-search-platform-easily/"><u>Register Now: Navigate Through Microsoft's AI Integrated Bing Search Platform Easily</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-methods-for-converting-wmv-files-to-premium-quality-mp3-on-your-mac/"><u>Top Methods for Converting WMV Files to Premium-Quality MP3 on Your Mac</u></a></li>
 </ul></div>
 

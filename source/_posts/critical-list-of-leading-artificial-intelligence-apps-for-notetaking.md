@@ -1,7 +1,7 @@
 ---
 title: Critical List of Leading Artificial Intelligence Apps for Notetaking
-date: 2024-09-21T21:26:51.350Z
-updated: 2024-09-22T19:19:31.808Z
+date: 2024-09-30T08:36:07.089Z
+updated: 2024-10-03T21:41:31.691Z
 tags:
   - chatgpt
   - open-ai
@@ -36,15 +36,42 @@ thumbnail: https://thmb.techidaily.com/1b264feb60401b06f1b5b9d369aaa689e44f7f392
 
  The lectures are content-rich and easy to follow. You'll be inspired to use, instead of fearing, large language models like ChatGPT. You'll understand how AI can be helpful in writing, programming, art, thought experiments, and other creative projects. And at the end of the course, you'll be proud to have written your first prompt and developed your own prompt-based application.
 
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2.[Introduction to Prompt Engineering for Generative AI (LinkedIn Learning)](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai/joining-the-nlp-revolution)
 
 ![Screenshot of Ronnie Sheer teaching Introduction to Prompt Engineering for Generative AI on LinkedIn Learning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-38.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Enroll in this online course if you want to learn only the bare-bones concepts in AI prompt engineering. You'll know the difference between tokens and words and how to use AI to generate text and images. At the end of the course, you'll learn some advanced practical concepts, like prompt fine-tuning and interacting with AI models using an API.
 
  If you haven't followed the latest in AI consumer tech, the course introduces you to today's most popular AI tools. First, you have GPT-related technologies like ChatGPT and its contender Bard from Google. You'll also learn how to create AI-generated images using DALL-E and Midjourney.
 
  Each topic is concisely explained, providing all you need to begin your AI prompt engineering journey. You'll gain a solid foundation in AI that should lead to more in-depth learning. When you feel like you need more information, you can refer to the other online courses on this list. As Software Developer and Instructor Ronnie Sheer says, AI is a fast-evolving field, so there's always space for continuous learning.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3.[How to Research and Write Using Generative AI Tools (LinkedIn Learning)](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools/how-to-work-with-ai)
 
@@ -58,13 +85,6 @@ thumbnail: https://thmb.techidaily.com/1b264feb60401b06f1b5b9d369aaa689e44f7f392
 
  The lessons emphasize that AI does not replace you as a human. Instead, it augments your work so that you can produce better results. When ChatGPT gives you an output, you must still use your skills and judgment to check and refine the answers and deliver the best results.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4.[Learn Prompting](https://learnprompting.org/)
 
 ![Learn Prompting Website showing Basic Applications lessons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-40.jpg)
@@ -77,16 +97,16 @@ thumbnail: https://thmb.techidaily.com/1b264feb60401b06f1b5b9d369aaa689e44f7f392
 
  The Learn Prompting site offers bite-sized and practical lessons you can easily bookmark. Use the readings to recall and review AI prompt engineering concepts quickly. This site is for you if you want substantial facts that cover the essentials.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5.[ChatGPT Ultimate Guide (Skillshare)](https://skillshare-ambassador.pxf.io/c/119570/828598/11648?subId1=UUmuoUeUpU2025238&subId2=emuo&u=https%3A%2F%2Fwww.skillshare.com%2Fen%2Fclasses%2FChatGPT-Ultimate-Guide-10x-Your-Productivity-Creativity-with-ChatGPT%2F2113872437)
 
 ![screenshot of ChatGPT Ultimate Guide 10x Your Productivity & Creativity with ChatGPT on Skillshare learning platform](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-41.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This course is best for beginners who want to go through the best use cases of ChatGPT quickly. ChatGPT Ultimate Guide familiarizes you with the ChatGPT interface and the OpenAI playground before explaining the numerous practical uses of the AI tool.
 
@@ -117,5 +137,26 @@ thumbnail: https://thmb.techidaily.com/1b264feb60401b06f1b5b9d369aaa689e44f7f392
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-mastering-youtube-notes-and-alerts-implementation/"><u>[New] 2024 Approved Mastering YouTube Notes & Alerts Implementation</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-advanced-color-grading-with-luts-in-premiere-pro/"><u>[New] Advanced Color Grading with LUTs in Premiere Pro</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-visual-upgrades-top-apps-to-transform-your-photos/"><u>[Updated] In 2024, Visual Upgrades Top Apps to Transform Your Photos</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-should-you-pay-for-unlimited-youtube-in-2024/"><u>[Updated] Should You Pay for Unlimited YouTube, In 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-advanced-techniques-for-crafting-dynamic-video-edits/"><u>2024 Approved Advanced Techniques for Crafting Dynamic Video Edits</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-chatgpts-use-of-current-data-impacts-people-worldwide/"><u>How ChatGPT's Use of Current Data Impacts People Worldwide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-streamline-social-sharing-integrate-your-fb-story/"><u>In 2024, Streamline Social Sharing Integrate Your FB Story</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovative-solutions-for-loneliness-embracing-chatgpt/"><u>Innovative Solutions for Loneliness: Embracing ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/intelligent-aid-6-ways-to-improve-home-task-execution/"><u>Intelligent Aid: 6 Ways to Improve Home Task Execution</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-the-health-advice-from-chatgpt-trustworthy-and-accurate/"><u>Is the Health Advice From ChatGPT Trustworthy and Accurate?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leading-8-chrome-addons-with-ai-for-increased-productivity/"><u>Leading 8 Chrome Addons with AI for Increased Productivity</u></a></li>
+<li><a href="https://win-blog.techidaily.com/master-the-trick-to-eliminate-rage-ncrime-a-comprehensive-guide-to-fix-game-crashes-quickly-and-easily/"><u>Master the Trick to Eliminate RAGE nCrime: A Comprehensive Guide to Fix Game Crashes Quickly & Easily</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/pause-the-siri-vs-chatgpt-comparison-why-theyre-notalike/"><u>Pause the Siri Vs. ChatGPT Comparison: Why They're Notalike</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/prompt-design-for-ai-examining-career-stability-implications/"><u>Prompt Design for AI: Examining Career Stability Implications</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/prompt-engineering-careers-is-it-genuine-and-what-should-you-ponder-about/"><u>Prompt Engineering Careers – Is It Genuine, and What Should You Ponder About?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/protecting-privacy-in-chatgpt-interactions-without-erasing-history/"><u>Protecting Privacy in ChatGPT Interactions Without Erasing History</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722971610386-quick-guide-updating-msi-gpu-drivers-on-windows-10-and-7-made-easy/"><u>Quick Guide: Updating MSI GPU Drivers on Windows 10 & 7 Made Easy!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/revolutionizing-work-with-windows-10-innovations/"><u>Revolutionizing Work with Windows 10 Innovations</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/uncovering-top-tier-cloud-services-to-sustain-data/"><u>Uncovering Top-Tier Cloud Services to Sustain Data</u></a></li>
+</ul></div>
 

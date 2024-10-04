@@ -1,7 +1,7 @@
 ---
 title: Revolutionary Auto-GPT Applications Today
-date: 2024-09-19T23:08:37.261Z
-updated: 2024-09-22T19:41:29.337Z
+date: 2024-10-03T05:09:00.938Z
+updated: 2024-10-04T06:40:38.202Z
 tags:
   - chatgpt
   - open-ai
@@ -51,10 +51,16 @@ thumbnail: https://thmb.techidaily.com/9d142af41b1de506fdf32554a7ece9543f1d4a28a
  On the left sidebar of the ChatGPT interface, you should see **Explore GPTs** instead of simply **Explore**. Once you see this, you can start using the GPT Store! Remember, the whole idea of the GPT Store is to help users browse and access a wide range of GPTs built by the community. So, how can you use it to find the right GPT for your tasks?
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Find the Best Custom GPTs in the GPT Store
@@ -65,17 +71,33 @@ thumbnail: https://thmb.techidaily.com/9d142af41b1de506fdf32554a7ece9543f1d4a28a
 2. At the top of the store page, you will see featured categories like Writing, Productivity, Programming, Research and Analysis, and DALL-E for image generation. Click on a category to view a list of the top-performing custom GPT models in that specific category.  
 ![Screenshot of the GPT store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-store.jpg)
 3. You can also use the search bar to find GPTs by keyword or related terms.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![GPT Store search screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-store-search-screen.jpg)
 4. When you find a GPT you want to try, click on it to open the individual GPT page.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. On the GPT page, you will see information about what that model offers.
 6. After testing a GPT that solves your problem well, take one important extra step—click on the GPT name in the top left corner of the page, then click **Keep in sidebar**. This saves that GPT to the sidebar along with your chat history for easy future access.  
 ![Adding a GPT to sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/adding-a-gpt-to-sidebar.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  However, you should note that at the time of writing, the GPT Store isn't reviewed, and there is no rating system or otherwise. We're hoping that OpenAI will introduce some type of rating system in the near future, as currently, without any system in place, you're effectively on your own when it comes to figuring out what works well. By extension, it seems likely that some form of rating or review system will be implemented once GPT Store revenue sharing is launched, but OpenAI hasn't given any fixed timeline for this.
@@ -103,5 +125,17 @@ thumbnail: https://thmb.techidaily.com/9d142af41b1de506fdf32554a7ece9543f1d4a28a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-snatching-twitter-laughter-3-pc-techniques-for-2024/"><u>[New] Snatching Twitter Laughter 3 PC Techniques for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-effortlessly-capture-and-archive-your-favorite-fb-story-moments/"><u>[Updated] 2024 Approved Effortlessly Capture and Archive Your Favorite FB Story Moments</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-seamlessly-stitch-words-onto-pictures-photo-editor-pros/"><u>[Updated] 2024 Approved Seamlessly Stitch Words Onto Pictures Photo Editor Pros</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-latest-nvidia-geforce-rtx-3060-ti-drivers-compatible-with-windows-10-and-11/"><u>Free Download: Latest NVIDIA GeForce RTX 3060 Ti Drivers Compatible with Windows 10 and 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigate-the-world-of-dating-smarter-with-ai-assisted-tips-from-chatgpt/"><u>Navigate the World of Dating Smarter with AI-Assisted Tips From ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/need-to-know-if-chatgpt-works-today-try-out-these-n-five-proven-techniques/"><u>Need to Know If ChatGPT Works Today? Try Out These N Five Proven Techniques</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-free-online-video-smoothers-our-top-picks-for-2024/"><u>New Free Online Video Smoothers Our Top Picks for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/next-viewing-destination-mastering-the-art-of-using-chatgpt-for-film-and-show-recommendations/"><u>Next Viewing Destination: Mastering the Art of Using ChatGPT for Film and Show Recommendations</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-your-pc-performance-while-playing-god-of-war/"><u>Optimizing Your PC Performance While Playing God of War</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/power-players-the-5-most-exciting-developments-in-artificial-intelligence-hardware/"><u>Power Players: The 5 Most Exciting Developments in Artificial Intelligence Hardware</u></a></li>
+</ul></div>
 

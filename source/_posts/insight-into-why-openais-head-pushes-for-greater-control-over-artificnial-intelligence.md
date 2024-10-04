@@ -1,7 +1,7 @@
 ---
 title: Insight Into Why OpenAI's Head Pushes for Greater Control Over Artificnial Intelligence
-date: 2024-09-22T02:32:25.694Z
-updated: 2024-09-29T06:26:20.728Z
+date: 2024-10-03T10:43:55.622Z
+updated: 2024-10-04T09:07:04.449Z
 tags:
   - chatgpt
   - open-ai
@@ -35,10 +35,10 @@ thumbnail: https://thmb.techidaily.com/fecebca780102eb248a879666a3e4fe860316aff4
  According to[Microsoft](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) , Bing will be powered by the latest next-gen natural language AI model specifically trained for web searching. The AI model behind Microsoft Bing relies on improvements made on ChatGPT and GPT-3.5, making it much faster and more reliable.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What's New in Bing?
@@ -48,10 +48,10 @@ thumbnail: https://thmb.techidaily.com/fecebca780102eb248a879666a3e4fe860316aff4
 ![AI powered chat feature in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-chat-new.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ` Image Credit:[ Microsoft](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) `
@@ -62,13 +62,6 @@ thumbnail: https://thmb.techidaily.com/fecebca780102eb248a879666a3e4fe860316aff4
 
  This means if you search for**“Best flights from London to New York,”** Bing will show you a list of relevant ticketing services in the left pane but a summarized result of the best airline fare according to its AI search algorithm in the right pane.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What's New in Microsoft Edge?
 
  Over the past few years, Microsoft has significantly improved Edge with incredible features that have allowed it to compete directly against Google Chrome. With the latest capabilities of Bing + AI, Microsoft has made Edge even more potent with new AI features and an updated look.
@@ -77,6 +70,13 @@ thumbnail: https://thmb.techidaily.com/fecebca780102eb248a879666a3e4fe860316aff4
 
 ![compose text with Bing AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-ai-compose-new.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ` Image Credit:[ Microsoft](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) `
 
  Building on the content-generation capabilities of ChatGPT,**Compose** within Microsoft Edge will let you generate content that customizes to the required tone, format, and length. You can compose emails to your coworkers, write about your new job in a post on LinkedIn, and even convert financial information into tables; the possibilities are limitless.
@@ -84,10 +84,10 @@ thumbnail: https://thmb.techidaily.com/fecebca780102eb248a879666a3e4fe860316aff4
  You can use the**Chat** feature to answer complex queries, get detailed financial information on a company, figure out the best way to grill a steak, decide the best framework for your web application, and more.**Chat** relies on your prompts to comprehensively provide you with the best possible answers.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Microsoft Bing Reinvents Web Searching
@@ -109,16 +109,21 @@ thumbnail: https://thmb.techidaily.com/fecebca780102eb248a879666a3e4fe860316aff4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-advanced-archiving-preserving-full-fbm-call-history/"><u>[New] 2024 Approved Advanced Archiving Preserving Full FBM Call History</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-sketch-humorous-images-with-adobe/"><u>[Updated] In 2024, Sketch Humorous Images with Adobe</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/audio-interface-mastery-your-podcast-setup-savior/"><u>Audio Interface Mastery Your Podcast Setup Savior</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/best-chrome-os-tts-tools-top-5-online-speech-converters/"><u>Best Chrome OS TTS Tools Top 5 Online Speech Converters</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/clash-of-tech-titans-exploring-8-key-differences-between-snapchats-my-ai-and-microsofts-bing-chat-on-skype/"><u>Clash of Tech Titans: Exploring 8 Key Differences Between Snapchat's My AI & Microsoft's Bing Chat on Skype</u></a></li>
-<li><a href="https://win-blog.techidaily.com/crash-free-gaming-your-guide-to-a-smoother-diablo-3-experience/"><u>Crash-Free Gaming: Your Guide to a Smoother Diablo 3 Experience</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/critical-considerations-when-leveraging-chatgpt-for-emotional-well-being/"><u>Critical Considerations When Leveraging ChatGPT for Emotional Well-Being</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/driving-decisions-perfecting-persuasive-business-proposals-with-ai/"><u>Driving Decisions: Perfecting Persuasive Business Proposals with AI</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/elevating-teaching-and-learning-with-5-innovative-chatgpt-strategies/"><u>Elevating Teaching and Learning with 5 Innovative ChatGPT Strategies</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/explore-books-with-ai-the-ultimate-list-of-smart-recommendation-tools/"><u>Explore Books with AI: The Ultimate List of Smart Recommendation Tools</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-vivo-y100i-power-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y100i Power 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-elevate-your-presence-the-best-5-practices-for-max-viewers/"><u>[New] 2024 Approved Elevate Your Presence The Best 5 Practices for Max Viewers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-ideal-pairings-prime-mac-software-for-video-snatching/"><u>[New] In 2024, Ideal Pairings Prime Mac Software for Video Snatching</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-aerial-choreography-the-fresh-take-on-bebops-parrot/"><u>[Updated] Aerial Choreography – The Fresh Take on Bebop's Parrot</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-gamings-finest-shooters-a-top-7-list-for-2024/"><u>[Updated] Gaming's Finest Shooters - A Top 7 List for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/conscious-communication-chatgpt-as-a-therapeutic-aid/"><u>Conscious Communication: ChatGPT as a Therapeutic Aid</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exclusive-auditory-selections-for-filmmaking-for-2024/"><u>Exclusive Auditory Selections for Filmmaking for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-correctly-install-or-fix-hp-monitor-graphics-drivers-for-windows-10-8-and-7-operating-systems/"><u>How to Correctly Install or Fix HP Monitor Graphics Drivers for Windows 10, 8 & 7 Operating Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-unlock-new-features-by-merging-chatgpt-with-siri-on-an-iphone/"><u>How to Unlock New Features by Merging ChatGPT with Siri on an iPhone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-zoom-audio-excellence-balance-and-clarity-tactics/"><u>In 2024, Zoom Audio Excellence Balance and Clarity Tactics</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-the-usage-of-nvidias-personalized-ai/"><u>Navigating the Usage of NVIDIA’s Personalized AI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-easy-integration-of-chatgpt-plugins/"><u>Step-by-Step Guide: Easy Integration of ChatGPT Plugins</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/streamline-your-home-network-a-deep-dive-into-the-features-and-performance-of-the-re305-by-tp-link/"><u>Streamline Your Home Network: A Deep Dive Into the Features and Performance of the RE305 by TP-Link</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-developers-edge-unlock-new-features-by-linking-chatgpt-to-visual-studio-code/"><u>The Developer's Edge: Unlock New Features by Linking ChatGPT to Visual Studio Code</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/the-ultimate-guide-to-photo-perfection-on-snapchat/"><u>The Ultimate Guide to Photo Perfection on Snapchat</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transformative-tech-ais-revolution-in-website-searches/"><u>Transformative Tech: AI's Revolution in Website Searches</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-you-shouldnt-delegate-privacy-to-gpt/"><u>Why You Shouldn't Delegate Privacy to GPT</u></a></li>
 </ul></div>
 

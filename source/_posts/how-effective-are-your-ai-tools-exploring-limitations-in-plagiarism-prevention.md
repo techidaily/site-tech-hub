@@ -1,7 +1,7 @@
 ---
 title: How Effective Are Your AI Tools? Exploring Limitations in Plagiarism Prevention
-date: 2024-09-26T21:00:39.476Z
-updated: 2024-09-29T02:04:28.409Z
+date: 2024-10-03T14:44:27.747Z
+updated: 2024-10-04T07:55:35.931Z
 tags:
   - chatgpt
   - open-ai
@@ -35,28 +35,15 @@ thumbnail: https://thmb.techidaily.com/412d065764cb0ba50733f600b7a0dabb6c2d4fd11
  For example, if you ask both models to complete a creative task like writing a poem using both English and French on each line of the poem,[ChatGPT powered by the latest GPT-4 model](https://www.makeuseof.com/how-to-use-gpt4/) will deliver better results. While GPT-4's response would use both languages on every line, GPT-3.5 would alternate between both languages instead, with each line using one language and the next using the other.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. GPT-4 vs. GPT-3.5: Image or Visual Inputs
 
 ![Picture of circuitry and a human head](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/picture-of-circuitry-and-a-human-head.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  While GPT-3.5 can only accept text prompts, GPT-4 is multi-modal and can accept both text and visual inputs. To be clear, when we say visual inputs, the image doesn't have to be an image of a typed prompt—it can be an image of anything. So from an image of a handwritten math problem to Reddit memes, GPT-4 can understand and describe almost any image.
 
@@ -64,16 +51,16 @@ Unlike GPT-3, GPT-4 is both a language and a visual model.
 
  During the GPT-4 announcement live stream, an OpenAI engineer fed the model with a screenshot of a Discord server. GPT-4 could describe every detail on it, including the names of users online at the time. An image of a hand-drawn mockup of a joke website was also fed to the model with instructions to turn it into a website, and amazingly, GPT-4 provided a working code for a website that matched the image.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. GPT-4 vs. GPT-3.5: Safer Responses
 
 ![Image of Shield Representing Cybersecurity ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/behavior-based-safety-tips-featured-image.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  While GPT-4 is not perfect, the measures it adopts to ensure safer responses are a welcomed upgrade from that of the GPT-3.5 model. With GPT-3.5, OpenAI took a more moderation-based approach to safety. In other words, some of the safety measures were more of an afterthought. OpenAI monitored what users did and the questions they asked, identified flaws, and tried to fix them on the go.
 
@@ -82,6 +69,13 @@ Unlike GPT-3, GPT-4 is both a language and a visual model.
 ## 4\. GPT-4 vs. GPT-3.5: Factuality of Response
 
 ![An inscription of the word fact on four cubes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fact-6577794_1920.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  One of GPT-3.5's flaws is its tendency to produce nonsensical and untruthful information confidently. In AI lingo, this is called "AI hallucination" and can cause distrust of AI-generated information.
 
@@ -102,16 +96,10 @@ Unlike GPT-3, GPT-4 is both a language and a visual model.
  Another issue is the limitation on the volume of text you can use in a prompt at once. Summarizing long text using GPT-3 typically means splitting the text into multiple chunks and summarizing them bit by bit. The improvement in context length in the GPT-4 model means you can paste entire PDFs at a go and get the model to summarize without splitting it into chunks.
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## GPT-4: A Step Up from GPT-3.5
@@ -133,24 +121,18 @@ Unlike GPT-3, GPT-4 is both a language and a visual model.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-streamlining-instagram-story-captioning-techniques-for-2024/"><u>[New] Streamlining Instagram Story Captioning Techniques for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-pc-strategies-for-acquiring-twitter-jokes-gifs/"><u>[Updated] 2024 Approved PC Strategies for Acquiring Twitter Jokes (GIFs)</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-mastery-in-making-your-instagrams-seamless-for-2024/"><u>[Updated] Mastery in Making Your Instagrams Seamless for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-premier-advice-superior-iphone-audio-artists/"><u>[Updated] Premier Advice Superior iPhone Audio Artists</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-unveiling-the-magic-of-seamless-sound-integration-in-videos/"><u>2024 Approved Unveiling the Magic of Seamless Sound Integration in Videos</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/freelance-mastery-through-ai-chatgpts-top-6-strategies/"><u>Freelance Mastery Through AI: ChatGPT's Top 6 Strategies</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/go-mobile-bings-intelligent-search-for-your-devices-now/"><u>Go Mobile: Bing’s Intelligent Search for Your Devices Now</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-samsung-galaxy-m34-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Samsung Galaxy M34 Phone that is Locked?</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-12-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 12 Without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-it-worth-downloading-a-chatgpt-app-consider-these-factors-first/"><u>Is It Worth Downloading a ChatGPT App? Consider These Factors First</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-the-new-editing-toolset-for-dall-e-3-fully-functional-an-in-depth-review/"><u>Is the New Editing Toolset for DALL-E 3 Fully Functional? An In-Depth Review</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/italys-sudden-ban-on-chatgpt-understanding-the-immediate-effect/"><u>Italy's Sudden Ban on ChatGPT: Understanding the Immediate Effect</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/key-aspects-to-evaluate-before-signing-up-with-an-artificial-intelligence-chatbot-provider/"><u>Key Aspects to Evaluate Before Signing Up with an Artificial Intelligence Chatbot Provider</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/key-mistakes-to-avoid-for-optimizing-your-use-of-generative-ai-solutions/"><u>Key Mistakes to Avoid for Optimizing Your Use of Generative AI Solutions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-graphics-card-software-upgrade-for-hp-prodesk-z440-workstation/"><u>Latest Graphics Card Software Upgrade for HP ProDesk Z440 Workstation</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/leveraging-machine-learning-for-personalized-content/"><u>Leveraging Machine Learning for Personalized Content</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-chatgpt-a-deep-dive-into-its-unique-instruction-based-interaction-mechanism/"><u>Mastering ChatGPT: A Deep Dive Into Its Unique Instruction-Based Interaction Mechanism</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-setup-professional-pioneer-dj-ddj-sx2-controller-driver-download-now/"><u>Quick Setup: Professional Pioneer DJ DDJ-SX2 Controller Driver Download Now</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/supernova-software-data-rescue/"><u>Supernova Software Data Rescue</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-open-source-video-template-ideas-for-youtube/"><u>2024 Approved Open Source Video Template Ideas for YouTube</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-beginners-guide-to-crafting-images-using-chatgpts-ai-capabilities/"><u>A Beginner's Guide to Crafting Images Using ChatGPT's AI Capabilities</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/accelerating-language-acquisition-the-power-of-chatgpt-plus-for-learners/"><u>Accelerating Language Acquisition: The Power of ChatGPT Plus for Learners</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/achieve-prompt-authority-with-top-online-classes/"><u>Achieve Prompt Authority with Top Online Classes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-regulation-the-responsible-route/"><u>AI Regulation: The Responsible Route</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1721864543972-exploring-artificial-intelligences-role-in-transforming-medical-practices-the-potential-of-chatgpt/"><u>Exploring Artificial Intelligence's Role in Transforming Medical Practices: The Potential of ChatGPT</u></a></li>
+<li><a href="https://windows11.techidaily.com/financial-support-for-individuals-and-businesses/"><u>Financial Support for Individuals and Businesses</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-address-unhandled-exceptions-fixing-kmode-errors-on-win10win11-systems/"><u>How to Address Unhandled Exceptions: Fixing kMODE Errors on Win10/Win11 Systems</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-on-apple-iphone-x-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out On Apple iPhone X How to Bypass?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-nubia-z50-ultra-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Nubia Z50 Ultra to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-smart-exposure-the-ultimate-guide-to-hdr-tech-in-cameras-for-2024/"><u>Mastering Smart Exposure The Ultimate Guide to HDR Tech in Cameras for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigate-the-world-of-professional-art-tools-the-creme-de-la-creme-drawing-tablets-dominating-2024/"><u>Navigate the World of Professional Art Tools: The Crème De La Crème Drawing Tablets Dominating 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1721890310329-revolutionize-your-mobile-search-experience-on-android-and-ios-using-bings-smart-ai-feature/"><u>Revolutionize Your Mobile Search Experience on Android and iOS Using Bing's Smart AI Feature</u></a></li>
 </ul></div>
 

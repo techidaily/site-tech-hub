@@ -1,7 +1,7 @@
 ---
 title: "Boost Your AI Skills: Discover the 7 Key Tips for Flawlessly Crafted Prompts"
-date: 2024-09-27T21:35:28.639Z
-updated: 2024-09-28T18:08:55.380Z
+date: 2024-09-26T17:06:47.319Z
+updated: 2024-10-03T18:40:50.999Z
 tags:
   - chatgpt
   - open-ai
@@ -38,13 +38,6 @@ thumbnail: https://thmb.techidaily.com/01781fffdf7ecc74eaf5b3cf4180716493ded8344
 
  On March 19, 2024,[OpenAI disabled ChatGPT Plugin](https://help.openai.com/en/articles/8988022-winding-down-the-chatgpt-plugins-beta) conversations and completely removed them on April 9, 2024\. ChatGPT Plugins were removed because much of their functionality can be found in[custom GPTs and the GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/) .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Planfit
 
 [Planfit](https://www.planfit.ai/) is an established online platform that helps people to design personalized workout routines tailored to individual needs and circumstances. The plugin, therefore, is an extension of the company that leverages AI to enhance the accuracy of workout prescriptions. It's like a virtual personal trainer supporting your fitness journey.
@@ -66,10 +59,10 @@ thumbnail: https://thmb.techidaily.com/01781fffdf7ecc74eaf5b3cf4180716493ded8344
  We asked it to list the nutritional composition of 2 servings of noodles and three sausages, and it gave us the answer above.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Workout Generator
@@ -82,13 +75,6 @@ thumbnail: https://thmb.techidaily.com/01781fffdf7ecc74eaf5b3cf4180716493ded8344
 
 Above is a screenshot of a workout routine provided by the plugin.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Instacart
 
 [Instacart](https://www.instacart.com/) is an established online grocery delivery and pickup website. Customers can order groceries and other essential items from local supermarkets and have them delivered to their doorsteps or prepared for pickup. The Instacart ChatGPT plugin simply automates the process. It creates a meal plan, lists all the necessary ingredients, and places orders for each item.
@@ -97,7 +83,21 @@ Above is a screenshot of a workout routine provided by the plugin.
 
 ![Screenshot of Instacart at work](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/instacart.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  We instructed ChatGPT to create a meal plan for a vegetarian family of four. Instacart plugin added the ingredients to the cart and shared a link for instant checkout.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Horoscopes
 
@@ -107,21 +107,7 @@ Above is a screenshot of a workout routine provided by the plugin.
 
 ![Screenshot of Horoscopes at work](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/horoscopes.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  As illustrated above, we prompted the plugin to give us a daily horoscope. If interested, you can include the plugin with your[astrology apps](https://www.makeuseof.com/best-astrology-apps/) collection to keep up with your horoscopes.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Testosterone Meals
 
@@ -131,7 +117,21 @@ Above is a screenshot of a workout routine provided by the plugin.
 
 ![Screenshot of Testosterone Meals at work](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/testosterone-meals.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  As shown above, we created a testosterone-boosting diet plan using the plugin.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Water Tracker
 
@@ -143,6 +143,13 @@ Above is a screenshot of a workout routine provided by the plugin.
 
  As shown above, we gave the plugin sample data and asked it to recommend the amount of water we need to reach the daily goal.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Bubble Goods
 
 [Bubble Goods](https://bubblegoods.com/) is a platform dedicated to transforming the food industry from one that depends on mass-produced products laden with sugars and preservatives to one built upon a community of people creating genuine, whole foods. The plugin, therefore, helps you discover these highly vetted, health-focused foods.
@@ -150,13 +157,6 @@ Above is a screenshot of a workout routine provided by the plugin.
  It works similar to Instacart. You first identify what you're looking for. Is it vegan or sugar-free meals? Then you can instruct the tool to identify the foods on the main website. The tool will crawl through its database, create a list of foods that meet your preference, and provide links, so you can instantly shop.
 
 ![Screenshot of Bubble Goods working](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/bubble-goods.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  As shown above, We asked the tool to give us some tasty vegan snack recommendations.
 
@@ -179,21 +179,19 @@ Above is a screenshot of a workout routine provided by the plugin.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-rpg-origins-vs-hybrid-designs-evolution/"><u>[New] In 2024, RPG Origins Vs. Hybrid Designs Evolution</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-landmarks-of-virtual-reality-showcases/"><u>[Updated] 2024 Approved Landmarks of Virtual Reality Showcases</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-master-strategies-for-reaching-a-million-view-goal/"><u>2024 Approved Master Strategies for Reaching a Million-View Goal</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/dont-take-it-from-me-5-critical-issues-with-chatgpt-health-advice/"><u>Don't Take It From Me: 5 Critical Issues with ChatGPT Health Advice</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/efficient-living-with-ai-which-is-better-claude-or-chatgpt/"><u>Efficient Living with AI: Which Is Better, Claude or ChatGPT?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/effortless-conversion-of-dall-e-3s-webp-images-to-desired-jpeg-or-png-files/"><u>Effortless Conversion of DALL-E 3'S WebP Images to Desired JPEG or PNG Files</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/elevate-your-creative-flow-large-scale-designs-unleashed-by-canva-plus-gpt/"><u>Elevate Your Creative Flow: Large-Scale Designs Unleashed by Canva + GPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/embark-on-a-venture-into-dialogue-system-crafting/"><u>Embark on a Venture Into Dialogue System Crafting</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhance-ai-conversations-with-these-7-effective-prompt-strategies-for-chatgpt/"><u>Enhance AI Conversations with These 7 Effective Prompt Strategies for ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhancing-task-management-a-guide-to-3-effective-ways-of-utilizing-chatgpt-and-wolfram-plugin/"><u>Enhancing Task Management: A Guide to 3 Effective Ways of Utilizing ChatGPT and Wolfram Plugin</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-for-repairing-there-was-a-problem-boot-failures-on-your-windows-eighteen-machine/"><u>Expert Tips for Repairing ‘There Was a Problem’ Boot Failures on Your Windows Eighteen Machine</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Vivo Y100 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-pip-a-complete-overview-on-edge-browser-for-2024/"><u>Mastering PIP A Complete Overview on Edge Browser for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/online-and-vrijgebeurd-efficient-webm-in-wmv-omzetten-met-gratis-oplage-over-de-kracht-van-movavi/"><u>Online & Vrijgebeurd: Efficiënt WEBM-In WMV Omzetten Met Gratis Oplage - Over De Kracht Van Movavi</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-deleted-iphone-14-plus-whatsapp-attachments-on-mac-and-windows-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Recover Deleted iPhone 14 Plus WhatsApp Attachments on Mac and Windows | Stellar</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-nokia-g42-5g-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Nokia G42 5G without backup.</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/olishing-your-youtube-production-post-publishment-for-2024/"><u>[New] Polishing Your YouTube Production Post-Publishment for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-android-cloud-saving-tools/"><u>[New] Top Android Cloud Saving Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bavarder-simplifies-chatgpt-setup-for-linux-users-a-step-by-step-guide/"><u>Bavarder Simplifies ChatGPT Setup for Linux Users - A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-as-a-co-pilot-transform-your-car-with-expert-ai-guidance/"><u>ChatGPT as a Co-Pilot: Transform Your Car with Expert AI Guidance</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gopros-battle-royale-hero5-b-stacked-against-session-for-2024/"><u>GoPro's Battle Royale Hero5 B Stacked Against Session for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-chatgpt-could-help-improve-your-dating-life/"><u>How ChatGPT Could Help Improve Your Dating Life</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-access-and-apply-chatgpt-features-without-an-openai-membership-a-guide/"><u>How to Access and Apply ChatGPT Features without An OpenAI Membership: A Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-reboot-your-ipad-a-comprehensive-tutorial-for-every-generation/"><u>How to Reboot Your iPad - A Comprehensive Tutorial for Every Generation</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-note-12-4g-phone-without-password-by-drfone-android/"><u>How To Unlock Xiaomi Redmi Note 12 4G Phone Without Password?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movogv-movavi/"><u>MOV到OGV無料線上轉換 - 利用Movavi轉換工具</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-neros-advrcntr2dll-error-a-comprehensive-fix-guide/"><u>Resolving Nero's Advrcntr2.dll Error: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionize-your-productivity-discover-how-chatgpt-can-help-manage-time-wisely-in-four-ways/"><u>Revolutionize Your Productivity: Discover How ChatGPT Can Help Manage Time Wisely in Four Ways</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-emerging-threat-using-generative-ai-for-deceptive-purposes/"><u>The Emerging Threat: Using Generative AI for Deceptive Purposes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-snapchats-my-ai-excels-beyond-entertainment/"><u>Why Snapchat’s My AI Excels Beyond Entertainment</u></a></li>
 </ul></div>
 

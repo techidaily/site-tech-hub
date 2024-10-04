@@ -1,7 +1,7 @@
 ---
 title: "Ubuntu Bash: Integrating ShellGPT with OpenAI's ChatGPT"
-date: 2024-09-28T01:30:27.800Z
-updated: 2024-09-28T17:06:55.441Z
+date: 2024-10-03T14:05:18.392Z
+updated: 2024-10-04T01:20:32.096Z
 tags:
   - chatgpt
   - open-ai
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/14598feaeb4d0e61d08a761998cd6976c067dba5c
 
 ![chatgpt openai logos smartphone feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-openai-logos-smartphone-feature.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Image Credit: T. Schneider/[Shutterstock](https://www.shutterstock.com/image-photo/stuttgart-germany-12292022-mobile-phone-website-2245793859)
 
  So GPT-4 is here, but how do you join the action? How do you try out all its touted capabilities?
@@ -50,13 +43,6 @@ thumbnail: https://thmb.techidaily.com/14598feaeb4d0e61d08a761998cd6976c067dba5c
  OpenAI put its newest, sleekest GPT-4 model behind a $20 monthly subscription plan. While this is not good news for free ChatGPT users,[it is another reason to upgrade to ChatGPT Plus](https://www.makeuseof.com/reasons-you-should-upgrade-chatgpt-plus/) . If you're already on the paid plan, you can switch your account's GPT model from the GPT-3.5 default to GPT-4 on demand, allowing you to switch between both models. This should help you appreciate the power of the GPT-4 iteration.
 
  For the free tier users, to get started with GPT-4, you'll need a ChatGPT Plus subscription. So, how do you upgrade to ChatGPT Plus?
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Upgrade to ChatGPT Plus
 
@@ -68,30 +54,38 @@ To upgrade your ChatGPT account to the premium ChatGPT Plus plan:
 3. You'll get a pop-up comparing the free plan and the ChatGPT Plus plan. Tap on the green**Upgrade Plan** button.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![ChatGPT plus comparison](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-plus-comparison.jpg)
 4. Up next, you'll be redirected to a page to provide your credit card details and other billing information. Provide all the required information and make payment.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Once your payment has been confirmed, you should now have access to the OpenAI GPT-4 model alongside the older GPT-3.5 default and GPT-3.5 legacy models.
 6. Choose the GPT-4 model from the drop-down on your ChatGPT chat interface, select the mode you want, and start using GPT-4 with ChatGPT.  
 ![screenshot of ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-chatgpt-code-interpreter.jpg)
 
  One way to be sure you're using the GPT-4 model instead of the older models is to check the color of the OpenAI logo that precedes ChatGPT's responses. GPT-3.5 model responses are preceded with a green-white logo, while GPT-4 responses are preceded with a black-white logo.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Is the Difference Between GPT-3.5 and GPT-4?
 
  GPT-4 stands out from previous versions in two major ways: it demonstrates considerably enhanced capabilities, yet it imposes an unpopular, restrictive message quota.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Performance Improvement
 
@@ -106,6 +100,19 @@ To upgrade your ChatGPT account to the premium ChatGPT Plus plan:
  Despite the improvements that come with GPT-4, access to the model comes with an inconvenient limitation—a usage cap. Unlike GPT-3.5, with which you can prompt all day long, GPT-4 users are restricted to anywhere from 25 to 200 messages every three hours. We are not sure how OpenAI decides who gets a higher cap, but it seems, at least for now, to be arbitrarily or by the luck of the draw. Once again, a limited supply of GPUs and the need to adequately balance server loads might be behind the mandatory usage cap.
 
  Notwithstanding, GPT-4 is an exciting and powerful model worth the $20 you'll need to pay for a ChatGPT Plus plan. But what if you don't want to upgrade to ChatGPT Plus? Is this the end of the road for free-tier users? Not really. Here's how to use GPT-4 for free.
+
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Use GPT-4 for Free
 
@@ -136,18 +143,18 @@ To upgrade your ChatGPT account to the premium ChatGPT Plus plan:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-comprehensive-reference-for-efficient-screenshotting-with-zd-softwares-tools/"><u>[New] Comprehensive Reference for Efficient Screenshotting with ZD Software's Tools</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ow-to-change-youtube-playback-speed-to-speed-up-or-slow-down-video-for-2024/"><u>[New] How to Change YouTube Playback Speed to Speed Up or Slow Down Video for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/amds-leap-forward-in-graphics-the-significance-of-rdna-35-and-its-launch-window/"><u>AMD's Leap Forward in Graphics - The Significance of RDNA 3.5 & Its Launch Window</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>How to Change Spotify Location After Moving to Another Country On Apple iPhone SE (2022) | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-asus-rog-phone-8-pro-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Asus ROG Phone 8 Pro Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-a-full-review-for-itools-virtual-location-and-top-5-alternatives-for-apple-iphone-se-2022ipad-drfone-by-drfone-virtual-ios/"><u>In 2024, A Full Review for iTools Virtual Location and Top 5 Alternatives For Apple iPhone SE (2022)/iPad | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-ultimate-strategy-for-archiving-your-chatgpt-dialogues-for-future-reference/"><u>The Ultimate Strategy for Archiving Your ChatGPT Dialogues for Future Reference</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/top-picks-8-superior-5k-computer-monitors/"><u>Top Picks 8 Superior 5K Computer Monitors</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-ai-a-beginners-guide-to-artificnicial-intelligence/"><u>Understanding AI: A Beginner's Guide to Artificnicial Intelligence</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-chatgpts-standard-add-ons-for-maximum-efficiency/"><u>Understanding ChatGPT's Standard Add-Ons for Maximum Efficiency</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlock-tabletop-greatness-6-strategies-to-elevate-your-gameplay-with-chatgpt/"><u>Unlock Tabletop Greatness: 6 Strategies to Elevate Your Gameplay with ChatGPT</u></a></li>
-<li><a href="https://blog-min.techidaily.com/windows-11-lock-screen-timeout-change-and-adjust/"><u>Windows 11 Lock Screen Timeout: Change and Adjust</u></a></li>
-<li><a href="https://win-special.techidaily.com/dts-m4v-to-mp4-online-conversion-tool-by-movavi/"><u>무료 DTS M4V to MP4 변환: Online Conversion Tool by Movavi</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-how-to-share-videos-on-twitter-on-your-phone-without-retweeting-in-2024/"><u>[New] How to Share Videos on Twitter on Your Phone Without Retweeting, In 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-premium-android-vr3d-player-selection/"><u>[Updated] 2024 Approved Premium Android VR/3D Player Selection</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/best-online-hubs-for-ai-innovation-spark/"><u>Best Online Hubs for AI Innovation Spark</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-dilemma-should-you-go-with-browser-integration-or-utilize-a-plugin/"><u>ChatGPT Dilemma: Should You Go with Browser Integration or Utilize a Plugin?</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/combine-videos-without-branding-7-top-choices/"><u>Combine Videos Without Branding 7 Top Choices</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/develop-your-bespoke-version-of-chatgpt-strategies-and-tips/"><u>Develop Your Bespoke Version of ChatGPT: Strategies and Tips</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discovering-claude-ai-your-gateway-to-enhanced-productivity/"><u>Discovering Claude AI: Your Gateway to Enhanced Productivity</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/exclusive-access-save-75-on-digiarty-programs-with-official-discount-code/"><u>Exclusive Access: Save 75% on Digiarty Programs with Official Discount Code</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/generating-stunning-visuals-using-chatgpts-ai-capabilities-tips-and-techniques/"><u>Generating Stunning Visuals Using ChatGPT's AI Capabilities: Tips & Techniques</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-poco-c65-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Poco C65 to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/mac-compatible-iphone-data-rescue-tool-restore-lost-images-movies-and-phonebook-entries/"><u>Mac-Compatible iPhone Data Rescue Tool: Restore Lost Images, Movies, and Phonebook Entries</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-vn-video-editor-pro-the-ultimate-mobile-video-editing-solution-for-2024/"><u>New VN Video Editor Pro The Ultimate Mobile Video Editing Solution for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-poco-x6-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Poco X6? | Dr.fone</u></a></li>
 </ul></div>
 

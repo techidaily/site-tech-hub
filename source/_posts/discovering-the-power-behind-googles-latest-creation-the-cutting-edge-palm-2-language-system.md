@@ -1,7 +1,7 @@
 ---
 title: "Discovering the Power Behind Google’s Latest Creation: The Cutting-Edge PaLM 2 Language System"
-date: 2024-09-28T00:04:22.663Z
-updated: 2024-09-29T00:36:03.196Z
+date: 2024-10-01T21:05:24.116Z
+updated: 2024-10-03T23:52:26.604Z
 tags:
   - chatgpt
   - open-ai
@@ -32,14 +32,14 @@ thumbnail: https://thmb.techidaily.com/227bd0353ed763348ef514468bae7b22e2b22e010
 
 ![Bard on Dark theme](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bard-on-dark-theme.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Dark mode is the new cool, and Google has finally listened to the request of Bard AI users by adding the dark mode feature to the Bard website. To toggle on dark mode, toggle**Use dark theme** in the bottom left corner of the Bard web interface. If you are accessing Bard from your mobile browser, you'll need to tap the menu icon in the top right corner of the Bard website to reveal the**Use dark theme** button in the bottom left corner.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Integration With Google Products and Third-Party Plugins
 
@@ -58,34 +58,28 @@ thumbnail: https://thmb.techidaily.com/227bd0353ed763348ef514468bae7b22e2b22e010
  In other words, instead of just text prompts, you'll be able to upload images as prompts alongside text. For example, you could upload a picture of a dog and ask Bard which dog breed it is. The specifics of the feature are still a mystery, but if it is well crafted, some compelling use cases could pop up.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Image Generation With Adobe Firefly
 
 ![Red and orange text that reads Adobe Firefly, surrounded by AI generated images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/adobe-firefly.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Image Credit:[Adobe](https://www.adobe.com/sensei/generative-ai/firefly.html)
 
  If you can't[generate images with Midjourney's](https://www.makeuseof.com/how-to-use-midjourney-create-ai-art/) free tier anymore (or more like being force-fed the paid tier), there's hope yet. Bard AI will soon be able to generate images from the Bard AI interface courtesy of Adobe Firefly. If you're unfamiliar with Adobe Firefly, here's a quick[explainer on Adobe Firefly and what you can do with it](https://www.makeuseof.com/what-is-adobe-firefly-generative-ai/) .
 
  Although we aren't exactly sure how deeply integrated Bard AI will be with Abode Firefly, the demo at Google I/O gave a sneak peek at something exciting.
-
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Tools for Exporting Generated Content
 
@@ -100,10 +94,10 @@ thumbnail: https://thmb.techidaily.com/227bd0353ed763348ef514468bae7b22e2b22e010
 ![Generating code with Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/generating-code-with-bard-ai.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  At launch, Bard AI couldn't write code—an embarrassing pitfall considering coding was one of the big hype surrounding the emergence of AI chatbots. However, Bard AI competitors like[ChatGPT have been helping people code](https://www.makeuseof.com/chatgpt-programming-practical-uses/) since its debut. Google has now significantly ramped up Bard's coding abilities—so much so that a lot of precious presentation time was dedicated to discussing it at its Google I/O 2023 event.
@@ -131,16 +125,21 @@ thumbnail: https://thmb.techidaily.com/227bd0353ed763348ef514468bae7b22e2b22e010
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-the-ultimate-guide-to-peak-post-times-on-instagram-for-2024/"><u>[New] The Ultimate Guide to Peak Post Times on Instagram for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-mastering-webcam-recording-for-slideshows/"><u>2024 Approved Mastering Webcam Recording for Slideshows</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-you-cast-your-apple-iphone-13-mini-to-windows-pc-with-ease-drfone-by-drfone-ios/"><u>How Can You Cast Your Apple iPhone 13 mini to Windows PC With Ease? | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/mlining-sonic-selection-a-guide-to-curating-youtube-content-for-2024/"><u>Streamlining Sonic Selection A Guide to Curating YouTube Content for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/top-8-drawing-apps-for-ipados-for-2024/"><u>Top 8 Drawing Apps for iPadOS for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlock-your-culinary-potential-with-these-7-chatgpt-hacks-for-chefs/"><u>Unlock Your Culinary Potential with These 7 ChatGPT Hacks for Chefs</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-gpt4all-a-comprehensive-guide-to-its-functionality/"><u>Unlocking GPT4All: A Comprehensive Guide to Its Functionality</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-the-power-of-chatgpt-in-overcoming-language-barriers/"><u>Unlocking the Power of ChatGPT in Overcoming Language Barriers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-secrets-of-the-turing-test-will-ai-ever-triumph-over-it/"><u>Unveiling the Secrets of the Turing Test – Will AI Ever Triumph Over It?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-top-7-ai-assistants-that-make-math-homework-a-breeze/"><u>Unveiling the Top 7 AI Assistants That Make Math Homework a Breeze</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-unlock-ig-potential-the-best-tools-for-post-management/"><u>[New] In 2024, Unlock IG Potential The Best Tools for Post Management</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-dual-task-perfection-iphones-single-action-capture-for-2024/"><u>[Updated] Dual-Task Perfection IPhone's Single Action Capture for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-mac-subtitling-workshop/"><u>[Updated] The Ultimate Mac Subtitling Workshop</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-prime-interactive-room-for-free-play/"><u>2024 Approved Prime Interactive Room for Free Play</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/are-conversations-with-users-essential-for-chatgpts-adaptation/"><u>Are Conversations with Users Essential for ChatGPT's Adaptation?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/content-creators-guide-to-optimizing-workflow-using-8-innovative-ai-technologies/"><u>Content Creators' Guide to Optimizing Workflow Using 8 Innovative AI Technologies</u></a></li>
+<li><a href="https://win-dash.techidaily.com/essential-guide-to-installing-qualcomm-wi-fibluetooth-drivers-on-windows-systems/"><u>Essential Guide to Installing Qualcomm Wi-Fi/Bluetooth Drivers on Windows Systems</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-xiaomi-civi-3-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Xiaomi Civi 3 Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-step-by-step-guide-adding-films-to-your-windows-11-portfolio/"><u>In 2024, Step-by-Step Guide Adding Films to Your Windows 11 Portfolio</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-video-basics-made-simple-a-list-of-10-accessible-youtube-projects/"><u>In 2024, Video Basics Made Simple A List of 10 Accessible YouTube Projects</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/no-chatgpt-is-not-losing-smarts-openai-confirms/"><u>No, ChatGPT Is Not Losing Smarts - OpenAI Confirms</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/overcoming-chatgpt-character-limits-a-guide-to-extending-your-input/"><u>Overcoming ChatGPT Character Limits - A Guide to Extending Your Input</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premier-podplay-writing-treasures-for-2024/"><u>Premier Podplay Writing Treasures for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionizing-spreadsheet-tasks-with-chatgpt-tech/"><u>Revolutionizing Spreadsheet Tasks with ChatGPT Tech</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-six-biggest-blunders-with-chatgpt-prompts-and-how-to-fix-them/"><u>The Six Biggest Blunders with ChatGPT Prompts & How to Fix Them</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-tutorial-on-developing-web-apps-with-chatgpt-integration/"><u>Ultimate Tutorial on Developing Web Apps with ChatGPT Integration</u></a></li>
 </ul></div>
 

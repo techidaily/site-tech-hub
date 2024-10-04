@@ -1,7 +1,7 @@
 ---
 title: "Tracing the Origins: When Was Artificial Intelligence Initially Invented?"
-date: 2024-09-20T17:24:02.008Z
-updated: 2024-09-22T22:48:08.265Z
+date: 2024-09-28T18:25:07.921Z
+updated: 2024-10-04T12:31:06.756Z
 tags:
   - chatgpt
   - open-ai
@@ -55,15 +55,43 @@ Close
 
 ![ChatGPT's welcome page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4309.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![ChatGPT's mic and speaker on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4311.jpg)
 
 ![ChatGPT showing the text generated from the speech on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4313.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The ChatGPT's prompt response generated from the speech on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4314.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
  Now, all you need to do is wait a couple of seconds for ChatGPT to type out its response. You can test this feature while trying these[ChatGPT crypto prompts](https://www.makeuseof.com/the-best-chatgpt-crypto-prompts/) .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Talk to ChatGPT and Save Time
 
@@ -82,12 +110,19 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-wallet-friendly-360-degree-video-technology/"><u>[New] Wallet-Friendly 360-Degree Video Technology</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-vlc-playback-mastery-secret-tips-and-tricks-revealed/"><u>[Updated] In 2024, VLC Playback Mastery Secret Tips and Tricks Revealed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/ban-the-white-screen-in-sims/"><u>Ban the White Screen in Sims</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-infinix-note-30-by-drfone-android/"><u>Full Guide to Unlock Your Infinix Note 30</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-voyage-for-valuables-5-prime-map-expeditions/"><u>In 2024, Voyage for Valuables 5 Prime Map Expeditions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-cs-go-crashes-a-comprehensive-guide/"><u>Resolving CS: GO Crashes - A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-7-virtual-gadgets-for-excelling-at-instruction-design/"><u>Top 7 Virtual Gadgets for Excelling at Instruction Design</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-three-ais-in-comparison-gpt-and-the-bing-and-bard-face-off/"><u>Top Three AIs in Comparison: GPT and the Bing & Bard Face-Off</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-impact-of-ai-technology-on-the-evolution-of-interactive-entertainment/"><u>Unveiling the Impact of AI Technology on the Evolution of Interactive Entertainment</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-secrets-of-the-turing-test-understanding-its-purpose-and-future-challenges-for-artificial-intelligence/"><u>Unveiling the Secrets of the Turing Test: Understanding Its Purpose and Future Challenges for Artificial Intelligence</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-chatgpt-is-a-valuable-resource-for-your-health-concerns-7-key-points/"><u>Why ChatGPT Is a Valuable Resource for Your Health Concerns: 7 Key Points</u></a></li>
+</ul></div>
 
