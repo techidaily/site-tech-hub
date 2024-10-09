@@ -1,7 +1,7 @@
 ---
 title: Swapped My Expensive Tech for Affordable XR Alternatives - Find Out Why! | ZDNet
-date: 2024-10-01T23:54:30.358Z
-updated: 2024-10-04T05:00:16.554Z
+date: 2024-10-07T22:44:27.359Z
+updated: 2024-10-09T17:01:14.871Z
 tags:
   - apple
 categories:
@@ -29,10 +29,10 @@ Whether you need a new tablet for school or work, or are looking to upgrade with
 **Also:** [**The best large tablets**](https://www.zdnet.com/article/best-large-tablet/)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The best cheap tablets of 2024
@@ -80,13 +80,20 @@ Cons
 * Performance isn't its best feature
 * No access to Google apps or services
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Amazon Fire HD 8 Plus
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Best small screen cheap tablet
@@ -150,6 +157,13 @@ Cons
 
 ## Lenovo Tab P11 Plus
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Best big screen cheap tablet
 
 Another best cheap tablet is the Lenovo Tab P11 Plus, which looks a lot like the Chromebook Duet, only bigger and more powerful. It doesn't come with a keyboard attachment like the Duet, but you can pick one up to expand its capabilities into more of a laptop replacement for $72\. 
@@ -181,19 +195,6 @@ Cons
 
 ## Oukitel RT3
 
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Best rugged cheap tablet
 
 You'd have to try incredibly hard to wreck this tablet. That's because you can submerge it in water in depths above 1.5m for 30 minutes, expose it to high-pressure water jets and steam cleaning, and drop it from 1.2m -- and it won't break. When contributing writer Adrian Kingsley Hughes got his hands on the Oukitel RT3, he called it "an upscaled version of a ruggedized smartphone." 
@@ -221,13 +222,6 @@ Pros
 
 Cons 
 * Slower processor and fewer higher-end features than iPad
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Amazon Fire HD 10 Kids Pro
 
@@ -279,13 +273,6 @@ Amazon's Fire tablets are the slowest out of the group, but they're also very af
 | Oukitel RT3                                 | The most rugged tablet on this list. Submerge it in water, drop it, heck, even steam clean it, and it will still work. Great for outdoor adventures or clumsy tech owners. |
 | Amazon Fire HD 10 Kids Pro                  | The best kids tablet with learning apps and games, fast performance, and a not-too-shabby battery life.                                                                    |
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Factors to consider when choosing the best cheap tablets:
 
 There are a few factors we consider before adding these cheap tablets to this list. Those include: 
@@ -296,10 +283,10 @@ There are a few factors we consider before adding these cheap tablets to this li
 * **Performance:** The downside of a cheaper piece of tech is, unfortunately, slower performance. We sought out tablets with high-performing CPUs and above-average performance, so even if you do end up opting for an inexpensive device, you aren't sacrificing high performance for a low cost.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How we test tablets
@@ -320,13 +307,6 @@ The best cheap tablets come from brands like Apple, Samsung, Microsoft, Amazon, 
 
 You can find more cheap Android tablets than cheap Apple tablets, but Apple usually has tablets deals during big sales events or holidays.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Are cheap tablets good for students?
 
 That really depends on the kind of classwork someone will be doing. Younger children may benefit from using a tablet over a traditional laptop--with intuitive touch controls, it will be easier for them to navigate through menus and apps required to attend virtual classes or to turn in assignments. Older students will be doing more intensive coursework, and tablets aren't best suited for things like word processing or making spreadsheets. 
@@ -335,6 +315,13 @@ That really depends on the kind of classwork someone will be doing. Younger chil
 
 Art students are the ones who will benefit most from using a tablet for classes since they can draw, sketch, and digitally paint similar to how they would with a physical pen and paper. Plus, there are some amazing art apps out there (ProCreate, Adobe Creative Cloud) to take full advantage of a tablet's processing power and screen resolution.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How much storage do I need in my tablet?
 
 You'll want at least 8GB of storage, but thankfully, many new tablet models come with much more than that. A basic 9th generation iPad starts at 64GB while the Amazon Fire 10 Plus starts with 32GB. This gives you more than enough storage for apps, photos, and music without making your new tablet sluggish.
@@ -342,10 +329,10 @@ You'll want at least 8GB of storage, but thankfully, many new tablet models come
 The best cheap tablet options on this list all have great storage capacities. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Are tablets cheaper than laptops?
@@ -359,6 +346,13 @@ Generally speaking, a tablet is going to be much more affordable than a traditio
 The cheapest iPad you can get is the standard 9th-generation iPad. On Apple's website, it retails for $329\. That's almost $200 less than the iPad Mini and over $450 less than the iPad Pro. 
 
 **Also:** [**The best iPad models**](https://www.zdnet.com/article/best-ipad/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Are there alternative cheap tablets to consider?
 
@@ -406,18 +400,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-lut-lovers-delight-complimentary-sets-for-djis-miniair2/"><u>[New] LUT Lovers Delight Complimentary Sets for DJI's Mini/Air2</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-tips-for-quickly-locating-the-epicenter-of-youtubes-video-creation/"><u>[New] Tips for Quickly Locating the Epicenter of YouTube's Video Creation</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-xbox-live-success-top-four-steps-to-perfect-your-recording-for-2024/"><u>[New] Xbox Live Success Top Four Steps to Perfect Your Recording for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-capturing-every-moment-unveiling-5-exceptional-streamer-webcams/"><u>[Updated] Capturing Every Moment Unveiling 5 Exceptional Streamer Webcams</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-simplifying-age-verification-on-tiktok-accounts-for-2024/"><u>[Updated] Simplifying Age Verification on TikTok Accounts for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-samsung-galaxy-a54-5g-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Samsung Galaxy A54 5G without App | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discreet-preservation-of-dialogues-with-gpt-assistant/"><u>Discreet Preservation of Dialogues with GPT Assistant</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/explore-anthropics-new-ai-prompt-emporium/"><u>Explore Anthropic's New AI Prompt Emporium</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/memelores-premier-10-templates/"><u>Memelore's Premier 10 Templates</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-best-of-the-best-top-16-free-avi-video-rotation-software-for-any-platform/"><u>New Best of the Best Top 16 Free AVI Video Rotation Software for Any Platform</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-9-uses-of-chatgpt-simplifying-everyday-tasks/"><u>Top 9 Uses of ChatGPT: Simplifying Everyday Tasks</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/utilizing-codegpt-within-vs-code-ecosystem/"><u>Utilizing CodeGPT Within VS Code Ecosystem</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/what-hugs-chat-the-open-source-twin-to-chatgpts-world/"><u>What Hugs Chat? - The Open Source Twin to ChatGPT's World</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-the-art-of-freezing-the-action-in-win-os-for-2024/"><u>[New] The Art of Freezing the Action in Win OS for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-itel-a60s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/capturing-the-whole-picture-not-just-slices-of-it-for-2024/"><u>Capturing the Whole Picture, Not Just Slices of It for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/favorite-phones-amongst-tech-experts-discover-the-choice-of-zdnets-staff/"><u>Favorite Phones Amongst Tech Experts - Discover the Choice of ZDNet's Staff</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-troubleshooting-casting-issues-from-windows-10-to-your-chosen-device/"><u>Fix: Troubleshooting Casting Issues From Windows 10 to Your Chosen Device</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/future-proof-communication-transitioning-from-chatgpt-to-claude-3-with-ease/"><u>Future-Proof Communication: Transitioning From ChatGPT to Claude 3 with Ease</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-activate-and-use-new-addons-with-chatgpt-a-comprehensive-guide/"><u>How to Activate and Use New Addons with ChatGPT: A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-remove-microsoft-account-from-windows-10-easily-solved/"><u>How to Remove Microsoft Account From Windows 10 Easily [Solved]</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-google-pixel-evaluation-testing-features-and-performance-assessment/"><u>In-Depth Google Pixel Ⅵ Evaluation: Testing, Features, and Performance Assessment</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/inside-chatgpts-woes-discovering-the-8-crucial-limitations/"><u>Inside ChatGPT’s Woes: Discovering the 8 Crucial Limitations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-auto-gpt-discover-its-8-most-beneficial-functions-today/"><u>Mastering Auto-GPT: Discover Its 8 Most Beneficial Functions Today</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-amd-gpu-detection-issues-in-windows-10-solutions-and-tips/"><u>Troubleshooting AMD GPU Detection Issues in Windows 10: Solutions & Tips</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/your-youtube-url-your-way-easy-personalization-steps/"><u>Your YouTube URL, Your Way Easy Personalization Steps</u></a></li>
 </ul></div>
 

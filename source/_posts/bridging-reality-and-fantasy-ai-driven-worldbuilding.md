@@ -1,7 +1,7 @@
 ---
 title: "Bridging Reality and Fantasy: AI-Driven Worldbuilding"
-date: 2024-09-16T23:48:24.889Z
-updated: 2024-09-22T16:22:20.529Z
+date: 2024-10-08T17:00:28.952Z
+updated: 2024-10-09T21:52:35.994Z
 tags:
   - chatgpt
   - open-ai
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/74732f3286f05f088e049d5a5051d94a307e70b48
 
  For example, if you ask both models to complete a creative task like writing a poem using both English and French on each line of the poem,[ChatGPT powered by the latest GPT-4 model](https://www.makeuseof.com/how-to-use-gpt4/) will deliver better results. While GPT-4's response would use both languages on every line, GPT-3.5 would alternate between both languages instead, with each line using one language and the next using the other.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. GPT-4 vs. GPT-3.5: Image or Visual Inputs
 
 ![Picture of circuitry and a human head](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/picture-of-circuitry-and-a-human-head.jpg)
@@ -53,10 +60,10 @@ Unlike GPT-3, GPT-4 is both a language and a visual model.
  With GPT-4, most safety measures are already baked into the system at the model level. To understand the difference, it's like building a house with robust materials from the get-go versus using anything that goes and then trying to patch things as faults emerge. According to[OpenAI's GPT-4 technical report](https://cdn.openai.com/papers/gpt-4.pdf) \[PDF\], GPT-4 produces toxic responses only 0.73% of the time compared to GPT-3.5's 6.48% of toxic replies.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. GPT-4 vs. GPT-3.5: Factuality of Response
@@ -68,6 +75,13 @@ Unlike GPT-3, GPT-4 is both a language and a visual model.
 ​​​​​​
 
  In GPT-4, hallucination is still a problem. However, according to the GPT-4 technical report, the new model is 19% to 29% less likely to hallucinate when compared to the GPT-3.5 model. But this isn't just about the technical report. Responses from the GPT-4 model on ChatGPT are noticeably more factual.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. GPT-4 vs. GPT-3.5: Context Window
 
@@ -82,10 +96,10 @@ Unlike GPT-3, GPT-4 is both a language and a visual model.
  Another issue is the limitation on the volume of text you can use in a prompt at once. Summarizing long text using GPT-3 typically means splitting the text into multiple chunks and summarizing them bit by bit. The improvement in context length in the GPT-4 model means you can paste entire PDFs at a go and get the model to summarize without splitting it into chunks.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## GPT-4: A Step Up from GPT-3.5
@@ -105,5 +119,22 @@ Unlike GPT-3, GPT-4 is both a language and a visual model.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-apex-assemblies-best-laptop-trio-for-4k-visionaries/"><u>[New] In 2024, Apex Assemblies Best Laptop Trio for 4K Visionaries</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-enhancing-video-success-top-8-yt-thumbnail-strategies/"><u>[New] In 2024, Enhancing Video Success Top 8 YT Thumbnail Strategies</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-stay-snappin-strategies-for-unbroken-streaks/"><u>[Updated] 2024 Approved Stay Snappin' Strategies for Unbroken Streaks</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-the-artisans-guide-to-professional-level-vr-captures/"><u>[Updated] The Artisan's Guide to Professional-Level VR Captures</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-the-complete-blueprint-integrating-real-time-video-on-sites-for-2024/"><u>[Updated] The Complete Blueprint Integrating Real-Time Video on Sites for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-images-scenery-for-engaging-online-audiences/"><u>2024 Approved Ideal Images Scenery for Engaging Online Audiences</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-iphone-14-plus-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From iPhone 14 Plus</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/choosing-the-right-ai-assistant-how-to-determine-if-claude-or-chatgpt-fits-your-needs/"><u>Choosing the Right AI Assistant: How to Determine if Claude or ChatGPT Fits Your Needs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/could-ai-enable-new-ways-to-hack-your-financial-systems/"><u>Could AI Enable New Ways to Hack Your Financial Systems?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/iphone-app-struggles-9-reliable-ways-to-get-your-chatgpt-up-and-running-again/"><u>IPhone App Struggles? 9 Reliable Ways to Get Your ChatGPT Up and Running Again</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/master-the-art-of-line-insertion-in-word-with-this-simple-tutorial/"><u>Master the Art of Line Insertion in Word with This Simple Tutorial</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/prompt-engineering-profession-real-opportunities-and-essential-factors-to-evaluate/"><u>Prompt Engineering Profession: Real Opportunities and Essential Factors to Evaluate</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-plain-truth-about-virtual-conversations-dispelling-ai-bot-fables/"><u>The Plain Truth About Virtual Conversations - Dispelling AI Bot Fables</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-10-ai-powered-tools-streamline-your-workflow-with-chatgpt-pdf-features/"><u>Top 10 AI-Powered Tools: Streamline Your Workflow with ChatGPT PDF Features</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-content-authors-should-think-twice-before-outsourcing-to-ai-chatbots-8-key-points/"><u>Why Content Authors Should Think Twice Before Outsourcing to AI Chatbots: 8 Key Points</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Activating the Bing AI Chatbot Feature on Android Keyboards"
-date: 2024-09-20T22:43:13.615Z
-updated: 2024-09-23T01:00:47.410Z
+date: 2024-10-06T18:32:41.370Z
+updated: 2024-10-09T20:44:55.751Z
 tags:
   - chatgpt
   - open-ai
@@ -25,6 +25,13 @@ thumbnail: https://thmb.techidaily.com/f0eb15dbd4d3bc9550ae7ac5d466cfd7136ebba59
 * [What Is ChatGPT's Chat History and Training Feature?](https://www.makeuseof.com/chatgpt-privacy-opt-out-data-collection/#what-is-chatgpt-39-s-chat-history-and-training-feature)
 * [How to Opt-Out of ChatGPT's Chat History and Training Feature](https://www.makeuseof.com/chatgpt-privacy-opt-out-data-collection/#how-to-opt-out-of-chatgpt-39-s-chat-history-and-training-feature)
 * [ChatGPT Data Collection You Can't Opt Out From](https://www.makeuseof.com/chatgpt-privacy-opt-out-data-collection/#chatgpt-data-collection-you-can-39-t-opt-out-from)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -57,15 +64,22 @@ thumbnail: https://thmb.techidaily.com/f0eb15dbd4d3bc9550ae7ac5d466cfd7136ebba59
 ![chatgpt sidebar menu options list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/chatgpt-sidebar-menu-options-list.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  First, click on your profile name at the bottom-left of the main page and head to**Settings & Beta** .
 
 ![screenshot of chatgpt data controls setting on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-data-controls.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In your settings, click on the**Data controls** option. Now, you'll see a setting named**Chat history & training** . This feature will be active by default, but a simple click on the toggle will disable it instantly. Now the feature has been turned off, you'll notice your chat history is no longer accessible on the main page.
 
@@ -74,10 +88,10 @@ thumbnail: https://thmb.techidaily.com/f0eb15dbd4d3bc9550ae7ac5d466cfd7136ebba59
 ![screenshot of chatgpt enable history option on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-history-off.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  For the highest level of privacy, it's wise to keep this setting disabled wherever possible.
@@ -107,5 +121,18 @@ thumbnail: https://thmb.techidaily.com/f0eb15dbd4d3bc9550ae7ac5d466cfd7136ebba59
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-premier-microphone-picks-for-blogging-pros/"><u>[New] 2024 Approved Premier Microphone Picks for Blogging Pros</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-unboxing-the-future-benq-sw320-4k-display/"><u>[New] 2024 Approved Unboxing the Future BenQ SW320 4K Display</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/before-making-your-purchase-here-are-the-5-most-important-things-to-consider-about-fitness-trackers/"><u>Before Making Your Purchase, Here Are the 5 Most Important Things to Consider About Fitness Trackers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-conversion-guide-transforming-fla-animations-into-high-def-mp4-formats/"><u>Easy Conversion Guide: Transforming .FLA Animations Into High-Def MP4 Formats</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-methods-to-transform-videos-into-mobile-friendly-formats-instantly/"><u>Effortless Methods to Transform Videos Into Mobile-Friendly Formats Instantly!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/guide-how-can-i-put-my-dvd-on-youtube/"><u>Guide: How Can I Put My DVD on YouTube?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-oppo-reno-9awithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Oppo Reno 9Awith/without a PC</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-8-plus-without-passcode-or-face-id-by-drfone-ios/"><u>How to Unlock iPhone 8 Plus without Passcode or Face ID</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-oppo-find-n3-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Oppo Find N3 to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-step-by-step-guide-to-applying-new-colors-and-textures-on-past-media/"><u>In 2024, Step-by-Step Guide to Applying New Colors & Textures on Past Media</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/flvwav/"><u>すぐにFLVビデオをWAV形式に変更する簡単なガイド</u></a></li>
+</ul></div>
 

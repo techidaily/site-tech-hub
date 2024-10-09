@@ -1,7 +1,7 @@
 ---
 title: Apple Loyalists Rejoice! Newly Upgraded Audio Experience Available with No Cost on Latest LG TV Models | ZDNET Insights
-date: 2024-10-02T22:51:03.125Z
-updated: 2024-10-04T13:00:20.166Z
+date: 2024-10-03T17:12:22.950Z
+updated: 2024-10-09T20:48:41.038Z
 tags:
   - apple
 categories:
@@ -45,10 +45,16 @@ Advanced AI features require substantial computational power, typically provided
 Even [major AI service providers](https://www.zdnet.com/article/best-ai-chatbot/) such as OpenAI, Microsoft, and Google encounter challenges in offering dependable and quick access to LLM and Generative AI models to the general public without downtime and overcommitting resources. The shortage and cost of GPU-enabled servers make these issues worse. To maintain the rapid response times expected by its customers, Apple will need to invest substantially in servers, data centers, and edge infrastructure -- an infrastructure level it likely does not currently possess.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apple's approach to Private Cloud Compute (PCC)
@@ -60,16 +66,10 @@ For the initial rollout of Apple Intelligence, the company has chosen a hybrid a
 Apple is currently focused on rolling out its [Generative AI services](https://www.zdnet.com/article/apple-unveils-on-device-ai-image-generator-for-iphone-ipad-and-mac/) to high-end devices as part of the initial phase of Apple Intelligence deployment. This allows Apple to enhance its AI capabilities and infrastructure before expanding to a wider range of devices. To bring Apple Intelligence to the rest of its ecosystem, the company will likely deploy AI-accelerated server appliances at the edge, enabling less capable devices to benefit from advanced AI features. However, this infrastructure is not yet ready for large-scale deployment, as Apple's shift towards AI development is still recent.
 
 <!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The challenges of edge computing
@@ -83,10 +83,10 @@ While NVIDIA is a major player in the GPU server space, others include tradition
 As reported by _The Register_, Apple is [developing its own AI servers](https://www.theregister.com/2024/06/11/apple%5Fbuilt%5Fai%5Fcloud%5Fservers%5Fos/), which are expected to be more cost-effective and better integrated with its ecosystem. These servers are currently being tested in data centers for foundation model use, and a broader rollout is anticipated in 2025\. This phased approach ensures Apple can maintain high privacy, security, and user experience standards while gradually expanding its AI capabilities across its device lineup.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Broader implications for IoT and other devices
@@ -131,22 +131,22 @@ As Apple continues developing its AI infrastructure, including potential edge co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-best-youtube-video-converters-for-high-quality-webm-for-2024/"><u>[Updated] Best YouTube Video Converters for High-Quality WebM for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-prime-platforms-3d-models-in-animation/"><u>[Updated] Prime Platforms 3D Models in Animation</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-jumpstart-to-joyous-animation-a-guide-in-movie-maker-world/"><u>2024 Approved Jumpstart to Joyous Animation A Guide in Movie Maker World</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/heimdalls-vigil-gods-clash-in-ragnarok-for-2024/"><u>Heimdall's Vigil Gods Clash in Ragnarok for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-apple-iphone-6s-plus-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your Apple iPhone 6s Plus Without a Home Button | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-full-review-of-the-latest-powerdirector-app-24/"><u>In 2024, Full Review of the Latest PowerDirector App - '24</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/mastery-over-your-memories-fetching-facebook-status-videos-for-2024/"><u>Mastery Over Your Memories Fetching Facebook Status Videos for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revitalize-your-tech-how-software-updates-resolve-most-issues/"><u>Revitalize Your Tech: How Software Updates Resolve Most Issues</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/rivian-enhances-electric-vehicle-experience-with-innovative-infotainment-system-upgrade/"><u>Rivian Enhances Electric Vehicle Experience with Innovative Infotainment System Upgrade</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/spotlight-on-deception-unveiling-the-truth-behind-misleading-advertisements/"><u>Spotlight on Deception: Unveiling the Truth Behind Misleading Advertisements</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-crafting-an-ai-chatbot-with-generative-pre-trained-transformer-technology-and-azure-bot-service-tools/"><u>Step-by-Step Guide: Crafting an AI Chatbot with Generative Pre-Trained Transformer Technology and Azure Bot Service Tools</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-setting-up-and-running-stable-diffusion-for-ai-image-creation-on-your-computer/"><u>Step-by-Step Guide: Setting Up and Running Stable Diffusion for AI Image Creation on Your Computer</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/stream-like-a-pro-fb-live-tips-2023-for-2024/"><u>Stream Like a Pro FB Live Tips 2023 for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-grand-8-oversights-of-apples-software-legacy/"><u>The Grand 8 Oversights of Apple's Software Legacy</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-real-duration-electric-car-batteries-keep-going-what-you-need-to-know/"><u>The Real Duration Electric Car Batteries Keep Going: What You Need to Know</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-ranked-robotic-cleaners-the-ultimate-guide-to-the-premier-automated-sweepers-of-2/"><u>Top-Ranked Robotic Cleaners: The Ultimate Guide to the Premier Automated Sweepers of 2</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/trouble-free-guide-repairing-stuck-or-unresponsive-keys-on-your-hp-laptop/"><u>Trouble-Free Guide: Repairing Stuck or Unresponsive Keys on Your HP Laptop</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-science-behind-catching-fire-on-instagram/"><u>[New] In 2024, The Science Behind Catching Fire on Instagram</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-infinix-smart-8-pro-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/5-creative-uses-of-auto-gpt-technology/"><u>5 Creative Uses of Auto-GPT Technology</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/7-key-factors-that-make-artificial-intelligence-chatbots-unsuitable-alternatives-for-content-creators/"><u>7 Key Factors That Make Artificial Intelligence Chatbots Unsuitable Alternatives for Content Creators</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-new-era-of-job-seeking-exploring-these-6-benefits-of-chatgpt-use/"><u>A New Era of Job Seeking: Exploring These 6 Benefits of ChatGPT Use</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-showdown-evaluating-the-benefits-of-chatgpt-vs-hugbingchat/"><u>AI Showdown: Evaluating the Benefits of ChatGPT Vs. HugbingChat</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/essential-tips-capturing-clear-voice-overs-on-camera-for-2024/"><u>Essential Tips Capturing Clear Voice Overs on Camera for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixes-and-tips-resolving-mic-issues-in-windows-10/"><u>Fixes & Tips: Resolving Mic Issues in Windows 10</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-narrative-nuance-in-voiceovers-mastering-the-art-of-storytelling-on-ppts/"><u>In 2024, Narrative Nuance in Voiceovers Mastering the Art of Storytelling on PPTs</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-the-newest-nvidia-quadro-rtx-8000-graphics-driver-on-win-10-8-and-7/"><u>Install the Newest Nvidia Quadro RTX 8000 Graphics Driver on Win 10, 8 & 7</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/kindle-purchase-benefits-and-value/"><u>Kindle Purchase: Benefits and Value</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/no-splurge-audio-devices-for-yt-beginners-for-2024/"><u>No-Splurge Audio Devices for YT Beginners for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unraveling-the-distinctions-nlp-vs-ml-a-comparative-guide/"><u>Unraveling the Distinctions: NLP vs ML - A Comparative Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-8-critical-shortcomings-in-openais-ai-language-model-chatgpt/"><u>Unveiling 8 Critical Shortcomings in OpenAI's AI Language Model, ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/utilizing-chatgpt-to-support-cognitive-behavioral-therapy-techniques/"><u>Utilizing ChatGPT to Support Cognitive Behavioral Therapy Techniques</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/video-editing-on-chromebook-top-recommendations/"><u>Video Editing on Chromebook Top Recommendations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-distrust-in-artificial-intelligence-isnt-extreme/"><u>Why Distrust in Artificial Intelligence Isn't Extreme</u></a></li>
 </ul></div>
 

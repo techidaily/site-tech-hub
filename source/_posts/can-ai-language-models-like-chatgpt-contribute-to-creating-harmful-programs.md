@@ -1,7 +1,7 @@
 ---
 title: Can AI Language Models Like ChatGPT Contribute to Creating Harmful Programs?
-date: 2024-09-17T17:53:49.857Z
-updated: 2024-09-22T23:04:50.937Z
+date: 2024-10-08T19:30:25.155Z
+updated: 2024-10-09T19:51:01.840Z
 tags:
   - chatgpt
   - open-ai
@@ -60,16 +60,16 @@ thumbnail: https://thmb.techidaily.com/4b1d432d185a9307d4c64d844f91526f6a3048c24
 
  In contrast, a local model on your own machine doesn't require an account or share user data with anyone.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Which LLM Has the Best General Knowledge?
 
 ![man at the base of a flagpole flying the flag of nepal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/man-at-the-base-of-a-flagpole-flying-the-flag-of-nepal.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In order to test which LLM has the best general knowledge, we asked three questions.
 
@@ -88,10 +88,10 @@ thumbnail: https://thmb.techidaily.com/4b1d432d185a9307d4c64d844f91526f6a3048c24
 ![burnt socket for a  BS 1363 type plug](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/burnt-socket-for-a-bs-1363-type-plug.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When you have technical problems, you might be tempted to turn to a chatbot for help. While technology marches on, some things remain the same. The BS 1363 electrical plug has been in use in Britain, Ireland, and many other countries since 1947\. We asked the language models how to correctly wire it up.
@@ -109,6 +109,13 @@ thumbnail: https://thmb.techidaily.com/4b1d432d185a9307d4c64d844f91526f6a3048c24
 ## Which LLM Is Good for Writing Code?
 
 ![MicroPython logo with snake sitting on a microchip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/asdfasdf.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Python is a useful programming language](https://www.makeuseof.com/what-is-python-used-for/) that runs on most modern platforms. We instructed our models to use Python and "Build a basic calculator program that can perform arithmetic operations like addition, subtraction, multiplication, and division. It should take user input and display the result." This is one of the[best programming projects for beginners](https://www.makeuseof.com/tag/beginner-programming-projects/) .
 
@@ -131,10 +138,10 @@ thumbnail: https://thmb.techidaily.com/4b1d432d185a9307d4c64d844f91526f6a3048c24
 You read it here first, folks.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## No Chatbot Is Perfect
@@ -158,5 +165,18 @@ You read it here first, folks.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-three-legal-and-safe-methods-of-downloading-youtube-tunes/"><u>[New] 2024 Approved Three Legal & Safe Methods of Downloading YouTube Tunes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-the-complete-beginners-guide-to-creating-impressive-macro-videos/"><u>[New] In 2024, The Complete Beginner's Guide to Creating Impressive Macro Videos</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-instagram-video-restrictions-what-you-must-know-for-2024/"><u>[New] Instagram Video Restrictions What You Must Know for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024s-a-list-top-rated-business-simulators-reviewed/"><u>[Updated] 2024’S A-List Top Rated Business Simulators Reviewed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/fine-tuning-ai-accuracy-employing-6-expertly-crafted-prompts/"><u>Fine-Tuning AI Accuracy: Employing 6 Expertly Crafted Prompts</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-conclude-your-journey-with-online-communities-graciously/"><u>How to Conclude Your Journey with Online Communities Graciously</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/imposter-chatgpt-browser-add-on-exposes-instagram-credentials/"><u>Imposter ChatGPT Browser Add-On Exposes Instagram Credentials</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/peak-potential-identifying-the-top-pc-boosters-for-windows/"><u>Peak Potential: Identifying the Top PC Boosters for Windows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/safeguarding-personal-info-from-customized-gpt-uses/"><u>Safeguarding Personal Info From Customized GPT Uses</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/stepwise-approach-for-professional-screen-recordings-in-adobe-captive-for-2024/"><u>Stepwise Approach for Professional Screen Recordings in Adobe Captive for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-digital-doctors-prescription-trustworthy-techniques-for-scrutinizing-ai-powered-health-facts/"><u>The Digital Doctor's Prescription: Trustworthy Techniques for Scrutinizing AI-Powered Health Facts</u></a></li>
+</ul></div>
 

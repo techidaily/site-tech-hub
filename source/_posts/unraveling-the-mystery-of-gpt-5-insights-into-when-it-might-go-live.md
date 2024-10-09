@@ -1,7 +1,7 @@
 ---
 title: "Unraveling the Mystery of GPT-5: Insights Into When It Might Go Live"
-date: 2024-09-21T22:55:42.023Z
-updated: 2024-09-22T21:20:10.468Z
+date: 2024-10-04T17:33:40.190Z
+updated: 2024-10-09T16:16:04.795Z
 tags:
   - chatgpt
   - open-ai
@@ -42,15 +42,36 @@ thumbnail: https://thmb.techidaily.com/363cfd8ccc7387dbea9a9af2228add755c6db4677
 
 ![child looking at laptop headphones studying](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/sites-teach-children-online-safety-featured.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  A few tech companies have AI products that encourage kids to be polite. A good example is Amazon's[Echo Dot Kids Edition](https://www.makeuseof.com/is-echo-dot-kids-edition-worth-buying/) , which includes a**Magic Word** feature to persuade children to be polite. In 2018, Google also introduced the[Pretty Please feature in Google Assistant](https://www.makeuseof.com/tag/new-google-assistant-features-holidays/) that could return the favor if you say "thank you" or "please."
 
  Of course, by using AI to reward children when they say "please" or "thank you," you could condition your children to be more polite when interacting with humans. Shouting at and being abusive to your AI probably delivers a poor lesson in communication, whether the ChatGPT or Alexa has feelings or not.
 
  However, there is a possibility that children could think that AI has feelings just like humans if you reinforce politeness when they're talking to AI.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Can AI Be Rude to You?
 
 ![bing app and open ai app on smartphone screen feature](https://thmb.techidaily.com/9ff4b5531529224a97af11fd7b31d3496bf7818fcfc9f8eeee6fcb2c56355c7c.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Image Credit: Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/vancouver-canada-feb-15-2023-microsoft-2262942895)
 
@@ -61,10 +82,10 @@ thumbnail: https://thmb.techidaily.com/363cfd8ccc7387dbea9a9af2228add755c6db4677
  On the other hand, you can[set up Alexa to swear](https://www.makeuseof.com/how-to-make-alexa-swear/) profanities if you want it to be rude.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Interact With AI How You Want
@@ -86,5 +107,21 @@ thumbnail: https://thmb.techidaily.com/363cfd8ccc7387dbea9a9af2228add755c6db4677
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-cultivate-community-interest-with-collaborative-lists/"><u>[New] Cultivate Community Interest With Collaborative Lists</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-ntdlldll-crash-issue-on-windows-1110/"><u>[SOLVED] | “ntdll.dll” Crash Issue on Windows 11/10</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-streamlining-mov-files-on-windows-11-os-for-2024/"><u>[Updated] Streamlining MOV Files on Windows 11 OS for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-nvidia-method-to-perfect-gaming-replays-for-2024/"><u>[Updated] The NVIDIA Method to Perfect Gaming Replays for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-itel-p55plus-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Itel P55+ Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-power-of-ai-10-tactics-to-secure-your-next-role-with-chatgpt-on-linkedin/"><u>Discover the Power of AI: 10 Tactics to Secure Your Next Role with ChatGPT on LinkedIn</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-distinctions-gpt-vs-bert-a-comparative-analysis-of-top-linguistic-algorithms/"><u>Exploring Distinctions: GPT vs BERT - A Comparative Analysis of Top Linguistic Algorithms</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/facebook-cinematic-capture-tool/"><u>Facebook Cinematic Capture Tool</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-twitter-threats-to-advanced-conversations-unraveling-new-scam-tactics-the-dawn-of-meta-verified-profiles-and-deep-dive-into-chatgpt-4s-capabilities-exp62/"><u>From Twitter Threats to Advanced Conversations: Unraveling New Scam Tactics, The Dawn of Meta Verified Profiles & Deep Dive Into ChatGPT-4's Capabilities Explored</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/plotting-paths-with-the-help-of-chatgpt-for-storytellers/"><u>Plotting Paths with the Help of ChatGPT for Storytellers</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-tier-performance-a-comprehensive-guide-to-the-netgear-nighthawk-c7000-router/"><u>Top-Tier Performance: A Comprehensive Guide to the Netgear Nighthawk C7000 Router</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-the-potential-of-tailored-ai-interactions-with-chatgpt/"><u>Unlocking the Potential of Tailored AI Interactions with ChatGPT</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/visual-perfection-discover-the-best-of-9-live-stream-filters/"><u>Visual Perfection Discover the Best of 9 Live-Stream Filters</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/what-sets-auto-gpt-apart-from-chatgpt-insights-into-their-unique-functions/"><u>What Sets Auto-GPT Apart From ChatGPT? Insights Into Their Unique Functions</u></a></li>
+</ul></div>
 

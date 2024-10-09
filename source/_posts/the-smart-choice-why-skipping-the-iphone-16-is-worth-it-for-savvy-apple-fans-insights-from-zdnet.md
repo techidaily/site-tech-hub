@@ -1,7 +1,7 @@
 ---
 title: "The Smart Choice: Why Skipping the iPhone 16 Is Worth It for Savvy Apple Fans - Insights From ZDNet"
-date: 2024-09-30T05:27:44.106Z
-updated: 2024-10-04T10:07:40.425Z
+date: 2024-10-04T18:40:05.199Z
+updated: 2024-10-09T19:31:11.308Z
 tags:
   - apple
 categories:
@@ -34,13 +34,6 @@ Every year, my wife and I eagerly await the release of the new iPhones. Being pa
 
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Apple Intelligence: A significant, yet incomplete, leap forward
 
 Apple Intelligence represents a significant leap in on-device AI capabilities, directly bringing advanced machine learning and natural language processing to our phones. Unlike typical iOS or MacOS feature upgrades, Apple Intelligence loads a downsized version of Apple's Foundation Models, [a home-grown large language model (LLM)](https://www.zdnet.com/article/apple-claims-its-on-device-ai-system-realm-substantially-outperforms-gpt-4/) with approximately 3 billion parameters. While impressive, this is tiny compared to models like [GPT-3.5 and GPT-4](https://www.zdnet.com/article/what-does-gpt-stand-for-understanding-gpt-3-5-gpt-4-and-more/), which boast hundreds of billions of parameters. Even Meta's open source Llama 3, which you can run on a desktop computer, has 8 billion parameters. 
@@ -66,10 +59,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## New hardware leaks: what to expect from the iPhone 16
@@ -88,6 +87,19 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
 
 Besides memory concerns, AI processing demands a lot of power and additional computing resources. Without significant advancements in battery and power management technology, users might have to charge their phones more often. This can lead to increased battery drain, reduced battery lifespan, and potential performance issues. The extra processing power needed to run on-device LLMs could strain the CPU, causing the device to heat up and affecting its overall performance and reliability.
@@ -97,10 +109,10 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
@@ -120,10 +132,10 @@ Enterprises may also employ a mobile device management solution to facilitate ac
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## I'm still optimistic
@@ -166,18 +178,17 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/est-youtube-banner-size-and-channel-art-dimension-the-ultimate-guide/"><u>[New] Best YouTube Banner Size and Channel Art Dimension (The Ultimate Guide)</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-in-depth-analysis-of-altering-facial-gender-on-social-platforms/"><u>[New] In 2024, In-Depth Analysis of Altering Facial Gender on Social Platforms</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-navigating-the-digital-maze-to-save-snaps-from-social-media/"><u>[Updated] 2024 Approved Navigating the Digital Maze to Save Snaps From Social Media</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-gt-10-pro-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on GT 10 Pro</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-is-generative-ai-emerging-as-a-latest-instrument-in-spreading-fake-news/"><u>How Is Generative AI Emerging as a Latest Instrument in Spreading Fake News?</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-pioneering-digital-storytelling-youtubes-filmmaking-pathway/"><u>In 2024, Pioneering Digital Storytelling YouTube's Filmmaking Pathway</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Vivo X100 | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-tecno-camon-30-pro-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Tecno Camon 30 Pro 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/strategies-for-effective-chatgpt-extensions-use/"><u>Strategies for Effective ChatGPT Extensions Use</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-5-strategies-how-chatgpt-enhances-your-cryptocurrency-investments/"><u>Top 5 Strategies: How ChatGPT Enhances Your Cryptocurrency Investments</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-6-largest-advanced-ai-language-models/"><u>Top 6 Largest Advanced AI Language Models</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-to-prevent-forza-horizon-5-from-crashing-on-windows/"><u>Troubleshooting Steps to Prevent Forza Horizon 5 From Crashing on Windows</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ultimate-8-gpt-tips-for-enhancing-concentration-in-a-digital-world/"><u>Ultimate 8 GPT Tips for Enhancing Concentration in a Digital World</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-restore-lost-watch-icon-on-facebook/"><u>[New] 2024 Approved Restore Lost Watch Icon on Facebook</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-dynamic-volume-control-tips-for-producers-for-2024/"><u>[Updated] Dynamic Volume Control Tips for Producers for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-mastering-instagram-utilizing-search-to-expand-your-filters/"><u>[Updated] Mastering Instagram Utilizing Search to Expand Your Filters</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-samsung-galaxy-s23-ultra-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Samsung Galaxy S23 Ultra FRP Bypass Instantly</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-radeon-hd-graphics-driver-download-for-windows-operating-systems/"><u>AMD Radeon HD Graphics Driver Download for Windows Operating Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-the-enigma-understanding-the-turing-test-and-its-defeat-possibilities/"><u>Decoding the Enigma: Understanding the Turing Test and Its Defeat Possibilities</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-truthgpt-elon-musks-new-frontier-in-artificial-intelligence/"><u>Decoding TruthGPT: Elon Musk's New Frontier in Artificial Intelligence</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-top-6-chatgpt-utilities-interact-with-your-files-doc-or-pdf/"><u>Discover the Top 6 ChatGPT Utilities: Interact with Your Files, Doc or PDF</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-ultimate-selection-of-crypto-chatgpt-addons-a-buyers-guide/"><u>Discover the Ultimate Selection of Crypto ChatGPT Addons: A Buyer's Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/navigating-and-repairing-microsofts-error-code-0x8024402c-on-your-pc/"><u>Navigating and Repairing Microsoft's Error Code 0X8024402c on Your PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-resolving-ntdlldll-issues-on-your-pc-windows-1087/"><u>Ultimate Guide: Resolving ntdll.dll Issues on Your PC (Windows 10/8/7)</u></a></li>
 </ul></div>
 

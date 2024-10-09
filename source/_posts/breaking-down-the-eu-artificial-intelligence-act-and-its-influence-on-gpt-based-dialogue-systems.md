@@ -1,7 +1,7 @@
 ---
 title: Breaking Down the EU Artificial Intelligence Act and Its Influence on GPT-Based Dialogue Systems
-date: 2024-09-18T23:14:57.209Z
-updated: 2024-09-22T18:09:13.360Z
+date: 2024-10-02T22:05:49.562Z
+updated: 2024-10-09T19:07:59.857Z
 tags:
   - chatgpt
   - open-ai
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/826e213581d156558e6f234936866c0f136b90179
 
 ![Screenshot of Ronnie Sheer teaching Introduction to Prompt Engineering for Generative AI on LinkedIn Learning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-38.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Enroll in this online course if you want to learn only the bare-bones concepts in AI prompt engineering. You'll know the difference between tokens and words and how to use AI to generate text and images. At the end of the course, you'll learn some advanced practical concepts, like prompt fine-tuning and interacting with AI models using an API.
 
  If you haven't followed the latest in AI consumer tech, the course introduces you to today's most popular AI tools. First, you have GPT-related technologies like ChatGPT and its contender Bard from Google. You'll also learn how to create AI-generated images using DALL-E and Midjourney.
@@ -58,16 +65,16 @@ thumbnail: https://thmb.techidaily.com/826e213581d156558e6f234936866c0f136b90179
 
  The lessons emphasize that AI does not replace you as a human. Instead, it augments your work so that you can produce better results. When ChatGPT gives you an output, you must still use your skills and judgment to check and refine the answers and deliver the best results.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4.[Learn Prompting](https://learnprompting.org/)
 
 ![Learn Prompting Website showing Basic Applications lessons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-40.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you prefer reading rather than watching videos, access the Learn Prompting website. The curriculum takes you through basic to advanced prompting techniques using text-based lessons. The courses are free for everyone and were developed by researchers, translators, and hobbyists.
 
@@ -78,10 +85,10 @@ thumbnail: https://thmb.techidaily.com/826e213581d156558e6f234936866c0f136b90179
  The Learn Prompting site offers bite-sized and practical lessons you can easily bookmark. Use the readings to recall and review AI prompt engineering concepts quickly. This site is for you if you want substantial facts that cover the essentials.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5.[ChatGPT Ultimate Guide (Skillshare)](https://skillshare-ambassador.pxf.io/c/119570/828598/11648?subId1=UUmuoUeUpU2025238&subId2=emuo&u=https%3A%2F%2Fwww.skillshare.com%2Fen%2Fclasses%2FChatGPT-Ultimate-Guide-10x-Your-Productivity-Creativity-with-ChatGPT%2F2113872437)
@@ -97,6 +104,13 @@ thumbnail: https://thmb.techidaily.com/826e213581d156558e6f234936866c0f136b90179
  The lessons also explain how AI helps you perform better in specific jobs. For instance, teachers who want to save time should review the videos on Creating Essay, Multiple Choice, Fill in the Blanks, and True or False Questions. Meanwhile, digital marketing professionals will find the videos on Copywriting, SEO and Keywords, and Scripts for Social Media beneficial.
 
  If you're job hunting, check out these videos for job seekers. You'll learn[how to use ChatGPT to write your resume](https://www.makeuseof.com/use-chatgpt-to-write-resume/) , create a personal bio, search for jobs, and email a potential employer. While the videos only give an overview, they're sure to spark ideas on how the AI tool can be helpful for your job search.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Learn AI Prompt Engineering Today
 
@@ -117,5 +131,20 @@ thumbnail: https://thmb.techidaily.com/826e213581d156558e6f234936866c0f136b90179
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-10-essential-movie-snippets-for-editing/"><u>[New] 10 Essential Movie Snippets for Editing</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/reating-momentum-in-life-coaching-video-series-for-2024/"><u>[New] Creating Momentum in Life Coaching Video Series for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-audfreetech-a-deep-dive-into-audio-file-liberation-techniques/"><u>[Updated] AudFreeTech A Deep Dive Into Audio File Liberation Techniques</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-investigating-the-sudden-angle-shift-in-instagrams-videos/"><u>[Updated] In 2024, Investigating the Sudden Angle Shift in Instagrams Videos</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-ranked-your-must-have-5-iphones-for-excellent-podcasting/"><u>[Updated] Ranked Your Must-Have 5 iPhones for Excellent Podcasting</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/3mpgmp3/"><u>「3つの優れた無料音楽コンバーター：MPGファイルからMP3へ」</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726029285852-ps3/"><u>「PS3」ビデオコンバート：ゲーム機向け動画変換方法とヒント</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726029915715-dvd/"><u>DVDコンテンツを携帯電話に移動するために必要な合法的手段と完全ガイド</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-poco-x5-pro-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Poco X5 Pro 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-srt-subtitle-translation-tools-and-techniques/"><u>New 2024 Approved SRT Subtitle Translation Tools and Techniques</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-fixes-for-a-non-functional-steamvr-effective-solutions/"><u>Quick Fixes for a Non-Functional SteamVR: Effective Solutions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726028936401-webm-wav/"><u>WebM から WAV への音質保持オプション付き変換ガイド</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/44kq44ov44op44kk44oz44gn6ig044gp5ymn44gr44cb44oa44km44oz44ot44o844oj6zplusz5qw944ks44kr44k544k44oe44kk44k644gz44kl44og44kv44ol44od44kv/"><u>オフラインで聴く前に、ダウンロード音楽をカスタマイズするテクニック</u></a></li>
+</ul></div>
 

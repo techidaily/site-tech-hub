@@ -1,7 +1,7 @@
 ---
 title: "Unveiling at the Let Loose Event: The New M4 iPad Pro and 13-Inch iPad Air Revealed with Upgraded Apple Pencil - Full Recap"
-date: 2024-09-27T04:34:34.334Z
-updated: 2024-10-04T07:43:26.027Z
+date: 2024-10-04T22:17:04.413Z
+updated: 2024-10-09T17:47:17.196Z
 tags:
   - apple
 categories:
@@ -32,13 +32,6 @@ Apple's "Let Loose" was a virtual product launch event that took place on May 7,
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. iPad Pro, now with OLED displays and M4
 
 Apple
@@ -59,6 +52,13 @@ Like previous generations, Apple is making the latest iPad Pro available in 11-i
 
 The iPad Pro starts at $999 for the 11-inch model and $1,299 for the 13-inch model. It's available in Silver and Space Black, with storage sizes ranging from 256GB to 2TB. You can [available to preorder now](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), with orders shipping next week.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. iPad Air gets a new, larger size
 
 Apple
@@ -74,6 +74,13 @@ Apple
 Unlike the M4-equipped iPad Pro, the iPad Air comes with an M2 chip, making it almost 50% faster than the previous model with M1 and three times faster than the A13 Bionic model. The faster processor supports AI editing in photos with a single tap on the screen, as well as Apple Pencil hover, whether you use the lower-cost USB-C version or the new Apple Pencil Pro.
 
 The new iPad Air is available in Blue, Purple, Starlight, and Space Gray, with [prices starting at $599](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-air&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for the 11-inch iPad Air, and $799 for the 13-inch model.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Apple Pencil Pro
 
@@ -97,22 +104,15 @@ Apple
 
 The iPad event also included a new, more durable Magic Keyboard, featuring a larger trackpad and a function row along the top. The Magic Keyboard's new look and upgraded aluminum construction is meant to make the iPad Pro look and feel more like a laptop, rather than a tablet with an optional keyboard case.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why would Apple host an event before WWDC?
 
 Although Apple is hosting its [Worldwide Developers Conference (WWDC)](https://www.zdnet.com/article/apple-confirms-wwdc-2024-for-june-10-will-ai-steal-the-show/) on June 10, that event is reserved for new iOS, iPadOS, visionOS, and macOS announcements, plus Apple's new AI strategy. The Let Loose event was focused on the latest hardware offerings, with the [OLED iPad Pro](https://www.zdnet.com/article/7-ipad-pro-features-that-would-make-me-instantly-upgrade-to-apples-next-model/) being the main star.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Did the Let Loose event cover iPadOS 17.5 or iPadOS 18?
@@ -128,10 +128,16 @@ Logic Pro 2 introduces Session Players, an AI-created Bass and Keyboard player a
 iOS 17.5 doesn't have many exciting new features outside of the European Union, where iPhone users can now [download apps directly from websites](https://www.zdnet.com/article/apple-to-let-eu-users-download-apps-from-the-web-with-ios-17-5-beta-2-how-it-works/). The new devices are expected to ship with iPadOS 17.5, but these features are available for iPadOS 17.4.
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How do I watch Apple's Let Loose event?
@@ -168,22 +174,17 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-navigating-back-time-iphones-video-reversal-trick/"><u>[New] Navigating Back Time IPhone's Video Reversal Trick</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-top-tech-advancements-for-mac-users-our-best-4k-recommendations-for-2024/"><u>[Updated] Top Tech Advancements for Mac Users - Our Best 4K Recommendations for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/anytime-anywhere-chatbot-experience-how-to-use-chatgpt-throughout-the-world-via-chatgpt-everywhere/"><u>Anytime, Anywhere Chatbot Experience: How to Use ChatGPT Throughout the World via ChatGPT Everywhere</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/bridging-ai-and-mobile-how-to-utilize-bings-android-app/"><u>Bridging AI and Mobile: How to Utilize Bing's Android App</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/choosing-your-code-companion-github-copilot-versus-chatgpt/"><u>Choosing Your Code Companion: GitHub Copilot Versus ChatGPT</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/cookiebot-enabled-user-tracking-and-conversion-optimization/"><u>Cookiebot-Enabled User Tracking and Conversion Optimization</u></a></li>
-<li><a href="https://android-frp.techidaily.com/easy-guide-to-samsung-galaxy-m34-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Samsung Galaxy M34 FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/effortless-writing-made-simple-automate-your-document-crafting-in-ms-word-with-chatgpt/"><u>Effortless Writing Made Simple: Automate Your Document Crafting in MS Word with ChatGPT</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/explore-the-best-9-online-platforms-featuring-advanced-3d-typography/"><u>Explore the Best 9 Online Platforms Featuring Advanced 3D Typography</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-gpt-as-a-writing-checker/"><u>Exploring GPT as a Writing Checker</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exposing-fps-fantasies-mechanical-marvels/"><u>Exposing FPS Fantasies, Mechanical Marvels</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-delete-your-chatgpt-account/"><u>How to Delete Your ChatGPT Account</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-realme-c67-4g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Realme C67 4G to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/leading-ai-therapy-solutions-explore-top-5-chatgpt-applications-tackling-psychological-issues/"><u>Leading AI Therapy Solutions: Explore Top 5 ChatGPT Applications Tackling Psychological Issues</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/master-your-rig-with-toms-hardware-essentials/"><u>Master Your Rig with Tom's Hardware Essentials</u></a></li>
-<li><a href="https://os-tips.techidaily.com/solve-your-iphones-bluetooth-problem-a-step-by-step-guide-with-10-proven-fixes/"><u>Solve Your iPhone's Bluetooth Problem: A Step-by-Step Guide with 10 Proven Fixes</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-vivo-y27s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-the-ultimate-guide-to-zoom-engagement-unlocking-communication-success/"><u>[New] 2024 Approved The Ultimate Guide to Zoom Engagement Unlocking Communication Success</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-master-the-craft-streamlining-your-online-television-recordings-for-2024/"><u>[Updated] Master the Craft Streamlining Your Online Television Recordings for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-install-compatible-drivers-for-your-brother-hl-l2360dw-printer-today/"><u>Download & Install: Compatible Drivers for Your Brother HL-L2360DW Printer Today</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/expert-assistance-for-winx-dvd-ripping-and-video-conversion-comprehensive-online-customer-care/"><u>Expert Assistance for WinX DVD Ripping & Video Conversion – Comprehensive Online Customer Care</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-ultimate-selection-of-ai-prompt-services/"><u>Exploring The Ultimate Selection of AI Prompt Services</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gateway-to-advanced-ai-without-expenditure-4-methods/"><u>Gateway to Advanced AI Without Expenditure: 4 Methods</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/getting-starter-with-microsofts-chatgpt-on-your-windows-computer-a-detailed-guide/"><u>Getting Starter with Microsoft's ChatGPT on Your Windows Computer: A Detailed Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/glowing-android-video-guide-simplified-methods-for-2024/"><u>Glowing Android Video Guide - Simplified Methods for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-does-bert-revolutionize-nlp-and-stand-out-against-the-gpt-framework/"><u>How Does BERT Revolutionize NLP and Stand Out Against the GPT Framework?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-troubleshoot-when-your-computer-gets-caught-during-windows-installation/"><u>How to Troubleshoot When Your Computer Gets Caught During Windows Installation</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-catching-facebooks-favorite-visual-stories/"><u>In 2024, Catching Facebook's Favorite Visual Stories</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-quick-fixes-for-photoshop-not-launching/"><u>Win11: Quick Fixes for Photoshop Not Launching</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Innovative Worldbuilding with ChatGPT: Unleash Your Creative Potential"
-date: 2024-09-16T20:34:00.443Z
-updated: 2024-09-22T21:59:01.138Z
+date: 2024-10-04T18:18:46.906Z
+updated: 2024-10-09T16:13:52.981Z
 tags:
   - chatgpt
   - open-ai
@@ -42,6 +42,13 @@ Close
 
 **Download:** ChatGPT for[iOS](http://apps.apple.com/app/openai-chatgpt/id6448311069) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029654/https://play.google.com/store/apps/details?id=com.openai.chatgpt&hl=en&gl=US) (Free, subscription available)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Send ChatGPT Prompts With Your Voice
 
  Both iPhones and Android devices come with native dictation features. And that's what you'll use to take advantage of ChatGPT's Whisper integration on your phone.
@@ -55,7 +62,21 @@ Close
 
 ![ChatGPT's welcome page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4309.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![ChatGPT's mic and speaker on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4311.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![ChatGPT showing the text generated from the speech on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4313.jpg)
 
@@ -64,6 +85,13 @@ Close
 Close
 
  Now, all you need to do is wait a couple of seconds for ChatGPT to type out its response. You can test this feature while trying these[ChatGPT crypto prompts](https://www.makeuseof.com/the-best-chatgpt-crypto-prompts/) .
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Talk to ChatGPT and Save Time
 
@@ -82,12 +110,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-glimmering-glides-of-2022s-speed-skaters/"><u>[New] 2024 Approved Glimmering Glides of 2022'S Speed Skaters</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-selecting-the-perfect-fps-a-deep-dive-into-30fps-vs-60fps/"><u>[New] In 2024, Selecting the Perfect FPS A Deep Dive Into 30Fps Vs. 60Fps</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-perfect-iphone-photos-quick-editing-hacks/"><u>2024 Approved Perfect iPhone Photos Quick Editing Hacks</u></a></li>
+<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-oppo-a56s-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Oppo A56s 5G to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/amd-radeon-graphics-drivers-version-2410-update-and-features/"><u>AMD Radeon Graphics Drivers Version 24.10: Update and Features</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/celebrity-inspired-glamour-videos/"><u>Celebrity-Inspired Glamour Videos</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-fcpx-title-tutorial-from-basics-to-advanced-techniques/"><u>New In 2024, FCPX Title Tutorial From Basics to Advanced Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplifying-complexity-access-to-windows-printer-administration-console/"><u>Simplifying Complexity: Access to Windows Printer Administration Console</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-rated-server-rack-systems-and-cabinets-the-ultimate-guide-to-2024s-picks/"><u>Top-Rated Server Rack Systems & Cabinets - The Ultimate Guide to 2024'S Picks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/troubleshooting-steps-to-address-the-fraps-display-problem-on-windows-11-systems/"><u>Troubleshooting Steps to Address the Fraps Display Problem on Windows 11 Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-guide-to-bulk-transforming-webm-tracks-into-crisp-flac-soundbites/"><u>Ultimate Guide to Bulk Transforming WebM Tracks Into Crisp FLAC Soundbites</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-guide-to-converting-mp4-files-for-flawless-ipad-viewing-experience/"><u>Ultimate Guide to Converting MP4 Files for Flawless iPad Viewing Experience</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-tutorial-how-to-successfully-add-and-configure-hardnox-ultra-build-for-enhanced-kodi-streaming/"><u>Ultimate Tutorial: How to Successfully Add and Configure Hardnox Ultra Build for Enhanced Kodi Streaming</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-tutorial-installing-the-aeon-flux-plugin-on-your-kodi-matrix-v19-device/"><u>Ultimate Tutorial: Installing the Aeon Flux Plugin on Your Kodi Matrix (v19) Device!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/windows-10mp442024-recommended-free-mp4-editors-for-windows/"><u>Windows 10で利用可能なMP4編集のための4つの優れた無料ソフトウェアを探している2024年 - Recommended Free MP4 Editors for Windows 지정</u></a></li>
+</ul></div>
 

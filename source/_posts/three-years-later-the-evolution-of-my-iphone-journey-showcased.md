@@ -1,7 +1,7 @@
 ---
 title: "Three Years Later: The Evolution of My iPhone Journey Showcased"
-date: 2024-09-27T16:01:29.208Z
-updated: 2024-10-03T23:12:57.228Z
+date: 2024-10-07T21:02:10.493Z
+updated: 2024-10-09T17:47:02.996Z
 tags:
   - apple
 categories:
@@ -73,10 +73,10 @@ The paint has scraped off.
 Chris Matyszczyk/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Taking sides?
@@ -96,16 +96,10 @@ Strangely smooth.
 Chris Matyszczyk/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The bottom line? Not much of one
@@ -121,10 +115,10 @@ Not much of a scratch there.
 Chris Matyszczyk/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## You can do it. Yes, you can.
@@ -177,24 +171,16 @@ Sometimes it's worth exposing your blemishes and letting people see you -- and y
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-filmfusion-studio-win8/"><u>[New] FilmFusion Studio Win8</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-logging-live-video-conversations/"><u>[Updated] Logging Live Video Conversations</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-unleashing-creativity-in-instagram-photography-through-border-use/"><u>[Updated] Unleashing Creativity in Instagram Photography Through Border Use</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-breakthrough-social-media-moves-sharing-youtube-videos-to-fb/"><u>2024 Approved Breakthrough Social Media Moves Sharing YouTube Videos to FB</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/assessing-artifice-intelligence-in-comedy-can-chatgpts-jokes-spark-joyful-reactions/"><u>Assessing Artifice Intelligence in Comedy: Can ChatGPT's Jokes Spark Joyful Reactions?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-pro-industry-impact-and-distinct-advantages/"><u>ChatGPT Pro: Industry Impact & Distinct Advantages</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/crafting-believable-characters-in-ux-with-chatgpt-assistance/"><u>Crafting Believable Characters in UX with ChatGPT Assistance</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/decoding-chatgpt-understanding-its-interpreter-functionality/"><u>Decoding ChatGPT: Understanding Its Interpreter Functionality</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhancing-user-experience-the-future-of-chatgpt-add-ons-shop/"><u>Enhancing User Experience: The Future of ChatGPT Add-Ons Shop</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/fifty-bucks-for-freedom-breaking-through-mobile-phone-ransomware-with-ais-help-in-our-podcast-evolution/"><u>Fifty Bucks for Freedom: Breaking Through Mobile Phone Ransomware with AI's Help in Our Podcast Evolution!</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-oppo-reno-8t-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Oppo Reno 8T to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Poco X5 | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-xiaomi-14-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Xiaomi 14 Device</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-the-tp-link-re505x-wireless-signal-booster/"><u>In-Depth Analysis of the TP-Link RE505X Wireless Signal Booster</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-it-possible-for-intelligent-machines-to-entertain-us-an-overview-of-ai-jokes-the-chronology-of-laptops-and-vpns-for-better-internet-protection/"><u>Is It Possible for Intelligent Machines to Entertain Us? An Overview of AI Jokes, the Chronology of Laptops, and VPNs for Better Internet Protection</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/learn-how-to-lock-stolen-your-apple-iphone-13-properly-drfone-by-drfone-ios/"><u>Learn How To Lock Stolen Your Apple iPhone 13 Properly | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/maximum-performance-meets-affordability-comprehensive-review-of-the-acer-predator-orion-5000-gaming-system/"><u>Maximum Performance Meets Affordability: Comprehensive Review of the Acer Predator Orion 5000 Gaming System</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/securing-confidentiality-techniques-to-keep-chatgpt-conversations-private/"><u>Securing Confidentiality: Techniques to Keep ChatGPT Conversations Private</u></a></li>
-<li><a href="https://driver-error.techidaily.com/successfully-repair-iphone-and-android-mtp-connectivity-issues-with-ease/"><u>Successfully Repair iPhone and Android MTP Connectivity Issues with Ease!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-capture-the-chuckles-a-guide-to-using-snapchats-laughing-lenses/"><u>[Updated] Capture the Chuckles A Guide to Using Snapchat’s Laughing Lenses</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-the-ultimate-seo-playbook-increase-channels-with-effortless-techniques/"><u>[Updated] In 2024, The Ultimate SEO Playbook Increase Channels with Effortless Techniques</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-the-best-ranked-cost-free-video-playing-software-for-pc-users-worldwide/"><u>2024 Approved The Best-Ranked, Cost-Free Video Playing Software for PC Users Worldwide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bert-gpt-and-beyond-nlps-pioneering-models-explored/"><u>BERT, GPT, and Beyond: NLP's Pioneering Models Explored</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/changing-your-proton-vpn-account-email-a-step-by-step-guide-plus-spotting-the-real-chatgpt-app-for-windows-users/"><u>Changing Your Proton VPN Account Email: A Step-by-Step Guide + Spotting the Real ChatGPT App for Windows Users</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-poco-m6-pro-5g-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Poco M6 Pro 5G to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-creativity-anthropics-new-ai-tools/"><u>Mastering Creativity: Anthropic's New AI Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mitigating-risks-of-data-exposure-from-personalized-models/"><u>Mitigating Risks of Data Exposure From Personalized Models</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/programming-showdown-github-copilot-vs-chatgpt-determining-the-superior-tool/"><u>Programming Showdown: GitHub Copilot Vs. ChatGPT - Determining the Superior Tool</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-windows-11-taskbar-towards-invisibility/"><u>Unveiling the Windows 11 Taskbar: Towards Invisibility</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
 </ul></div>
 

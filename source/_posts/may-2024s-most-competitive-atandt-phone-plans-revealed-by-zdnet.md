@@ -1,7 +1,7 @@
 ---
 title: May 2024'S Most Competitive AT&T Phone Plans Revealed by ZDNet
-date: 2024-09-30T16:29:02.366Z
-updated: 2024-10-04T07:20:06.796Z
+date: 2024-10-04T18:19:13.100Z
+updated: 2024-10-09T22:46:10.442Z
 tags:
   - apple
 categories:
@@ -116,13 +116,6 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 
 [View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/motorola-razrplus.html) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## More AT&T deals
 
 [Apple iPhone 15 Pro Max, $5.56/month with trade-in View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/apple-iphone-15-pro-max.html)
@@ -136,13 +129,6 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 [Google Pixel 8 Pro, free with trade-in, free Pixel Watch 2 View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/google-pixel-8-pro.html)
 
 [Motorola moto g stylus, $2.99/month, no trade-in required View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/motorola-moto-g-stylus-5g-2023.html)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Accessory and service deals
 
@@ -164,36 +150,50 @@ When we made our selection for the best AT&T deals, we wanted to include options
 * **Free products**: Devices drop in value over time, and to offload excess stock, some carriers will launch time-sensitive deals, giving subscribers free products in exchange for signing up for a new contract.
 * **Events**: It's always worth checking retailers after a major event, such as Samsung Unpacked. You will often find that deals will be launched just after, luring customers to agree to preorder their new handset in return for discounts and free storage upgrades.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Does AT&T offer deals for existing customers?
 
 It's true that carriers are the most aggressive with their offers when it's year-end and new customers are shopping around for services to switch to. Still, AT&T has done a fairly balanced job of pushing promotions for new and existing customers, including all the deals we have listed above. If you've been a loyal customer, we'd even recommend reaching out to your local AT&T provider to see if there are any exclusive deals just for you.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Is it cheaper to buy a phone online or in-store?
 
 In general, there is no difference in how much money you save whether you shop online or in stores. Instead, deciding between the two really boils down to your preference for transactions. With how complicated carrier phone deals can be, you may be better off heading down to the local AT&T store and consulting with a product expert to help you navigate the fine print. Otherwise, shopping online can be faster and more convenient.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What are the best deals right now?
 
 ZDNET experts split out the latest and greatest deals for you below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Best deals by retailer**
 
 * [The best AT&T deals](https://www.zdnet.com/article/att-deals/)
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Best deals by category**
 
@@ -244,22 +244,17 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-from-camera-to-chrome-youtube-shorts-video-upload-guide/"><u>[New] 2024 Approved From Camera to Chrome YouTube Shorts Video Upload Guide</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-10-chucklesome-tiktok-riddles/"><u>[Updated] 10 Chucklesome TikTok Riddles</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-enhance-engagement-with-these-4-looping-video-techniques/"><u>[Updated] Enhance Engagement with These 4 Looping Video Techniques</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-comprehensive-guide-record-webcam-in-hd-via-vlc/"><u>2024 Approved Comprehensive Guide Record Webcam in HD via VLC</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/5-breakthrough-bots-providing-virtual-therapy-assistance/"><u>5 Breakthrough Bots Providing Virtual Therapy Assistance</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-xiaomi-14-ultra-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Xiaomi 14 Ultra Without Power Button | Dr.fone</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/abbyys-advanced-language-translator-powered-by-ntt-docomo-features-ocr-for-multilingual-support/"><u>ABBYY's Advanced Language Translator - Powered by NTT DOCOMO, Features OCR for Multilingual Support</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/decoding-googles-next-big-thing-in-ai-dive-into-project-gemini/"><u>Decoding Google's Next Big Thing in AI - Dive Into Project Gemini</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/elevate-your-skills-with-the-best-online-courses-on-artifice-intelligence-ai-prompt-techniques/"><u>Elevate Your Skills with the Best Online Courses on Artifice Intelligence (AI) Prompt Techniques</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/embrace-gpt-4s-free-version-while-discovering-6-compelling-benefits-of-continuing-with-chatgpt-plus/"><u>Embrace GPT-4's Free Version While Discovering 6 Compelling Benefits of Continuing with ChatGPT Plus</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ensure-chatgpt-remembers-a-guide-to-retrieving-disappeared-discussions/"><u>Ensure ChatGPT Remembers: A Guide to Retrieving Disappeared Discussions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-dialogue-dominance-chatbot-showdown/"><u>Exploring Dialogue Dominance: ChatBot Showdown</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-functionality-understanding-the-top-7-gpt-4-integrated-applications/"><u>Exploring the Functionality: Understanding the Top 7 GPT-4 Integrated Applications</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-xiaomi-redmi-note-12-pro-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Xiaomi Redmi Note 12 Pro 5G Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-samsung-galaxy-f04-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Samsung Galaxy F04</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-to-codegpt-in-vs-code/"><u>Step-by-Step Guide to CodeGPT in VS Code</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-fraudgpt-a-comprehensive-guide-on-navigating-its-risks/"><u>Understanding FraudGPT: A Comprehensive Guide on Navigating Its Risks</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-keeping-your-creative-content-on-ios-with-ease/"><u>[New] Keeping Your Creative Content on iOS with Ease</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/5-ai-powered-book-recommendation-sites-and-apps-to-find-your-next-read/"><u>5 AI-Powered Book Recommendation Sites and Apps to Find Your Next Read</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/5-critical-methods-artificial-intelligence-enables-for-hackers/"><u>5 Critical Methods Artificial Intelligence Enables for Hackers</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-nubia-z50-ultra-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Nubia Z50 Ultra Data? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-bikers-ultimate-camera-companion-list-update/"><u>In 2024, Biker's Ultimate Camera Companion List Update</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-enhancing-follows-into-genuine-subscriptions/"><u>In 2024, Enhancing Follows Into Genuine Subscriptions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/key-steps-for-resolving-device-failures-in-dm/"><u>Key Steps for Resolving Device Failures in DM</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-voice-transformation-wizardry-on-a-budget-comprehensive-filmora-edition-for-audio-customization/"><u>New 2024 Approved Voice Transformation Wizardry on a Budget Comprehensive Filmora Edition for Audio Customization</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/tightening-the-focus-fine-tuning-your-roblox-experience-for-2024/"><u>Tightening the Focus Fine-Tuning Your Roblox Experience for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-truthgpt-coin-a-comprehensive-guide-to-assess-its-authenticity/"><u>Unveiling TruthGPT Coin: A Comprehensive Guide to Assess Its Authenticity</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/what-is-grok-ai-from-elon-musk-inside-look-at-its-potential-and-price-points/"><u>What Is Grok AI From Elon Musk? Inside Look at Its Potential and Price Points</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-realme-v30-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Realme V30 | Dr.fone</u></a></li>
 </ul></div>
 

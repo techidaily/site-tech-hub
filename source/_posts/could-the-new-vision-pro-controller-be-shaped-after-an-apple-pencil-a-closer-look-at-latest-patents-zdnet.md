@@ -1,7 +1,7 @@
 ---
 title: Could the New Vision Pro Controller Be Shaped After an Apple Pencil? A Closer Look at Latest Patents - ZDNet
-date: 2024-09-28T19:52:53.595Z
-updated: 2024-10-03T18:48:32.081Z
+date: 2024-10-02T16:15:23.380Z
+updated: 2024-10-09T18:45:43.363Z
 tags:
   - apple
 categories:
@@ -75,26 +75,25 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-essential-tips-for-iphone-voice-note-making/"><u>[New] Essential Tips for iPhone Voice Note Making</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/comprehensive-tutorial-on-transferring-your-chatbot-interactions-for-future-use/"><u>Comprehensive Tutorial on Transferring Your Chatbot Interactions for Future Use</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-how-to-switch-on-your-ai-companers-latest-upgrade-beta-version-with-web-browsing-and-add-on-capabilities/"><u>Discover How to Switch On Your AI Companer’s Latest Upgrade – Beta Version with Web Browsing and Add-On Capabilities</u></a></li>
-<li><a href="https://facebook.techidaily.com/how-to-disentangle-your-social-networks-instagram-and-facebook/"><u>How to Disentangle Your Social Networks (Instagram & Facebook)</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-best-shots-from-the-2022-snowboard-x-games/"><u>In 2024, Best Shots From the 2022 Snowboard X Games</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/managing-stress-effectively-using-chatgpt-a-comprehensive-guide/"><u>Managing Stress Effectively Using ChatGPT: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/preserve-anonymity-how-to-withdraw-from-gpt/"><u>Preserve Anonymity: How to Withdraw From GPT</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/quick-and-easy-steps-convert-mkv-files-to-avi-format-using-vlc-player-no-marks-attached/"><u>Quick and Easy Steps: Convert MKV Files to AVI Format Using VLC Player - No Marks Attached</u></a></li>
-<li><a href="https://driver-error.techidaily.com/sailing-past-hurdle-52-in-automotive-landscape/"><u>Sailing Past Hurdle #52 in Automotive Landscape</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/simple-guide-mastering-picture-editing-on-pc-and-mac-with-top-tier-software/"><u>Simple Guide: Mastering Picture Editing on PC & Mac with Top-Tier Software</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-role-of-vector-databases-in-advancing-ai-technology/"><u>The Role of Vector Databases in Advancing AI Technology</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/top-10-secrets-for-successful-youtube-music-reaction-videos-for-2024/"><u>Top 10 Secrets for Successful YouTube Music Reaction Videos for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-6-alternatives-to-chatgpt-which-ones-should-you-avoid/"><u>Top 6 Alternatives to ChatGPT: Which Ones Should You Avoid?</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/be-skills-essential-insights-unveiled-for-2024/"><u>YouTube Skills Essential Insights Unveiled for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-dissecting-youtubes-user-commentary/"><u>[New] 2024 Approved Dissecting YouTubes' User Commentary</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-from-live-streams-to-recorded-content-navigating-aiseesofts-features/"><u>[Updated] 2024 Approved From Live Streams to Recorded Content Navigating Aiseesoft's Features</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-change-or-reset-the-password-protecting-screen-time-on-apple-devices/"><u>How to Change or Reset the Password Protecting Screen Time on Apple Devices</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-from-iphone-6s-plus-by-drfone-ios/"><u>How to Fix when Apple Account Locked From iPhone 6s Plus?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-apple-iphone-12-mirror-to-pc-top-apps-you-must-know-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 12 Mirror to PC? Top Apps You Must Know | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-10-great-substitutes-for-chatgpt-enhanced-ai-options/"><u>Top 10 Great Substitutes for ChatGPT: Enhanced AI Options</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-10-high-quality-streaming-audio-devices-reviewed-by-movavi/"><u>Top 10 High-Quality Streaming Audio Devices - Reviewed by Movavi</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-6-artificial-intelligence-note-taking-solutions-for-enhanced-note-organization/"><u>Top 6 Artificial Intelligence Note-Taking Solutions for Enhanced Note Organization</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/troubleshooting-tips-to-fix-high-demand-error-with-chatgpt-on-windows/"><u>Troubleshooting Tips to Fix High Demand Error with ChatGPT on Windows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleash-creativity-start-with-8-designed-gpts/"><u>Unleash Creativity: Start with 8 Designed GPTs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleashing-chatgpts-potential-for-revolutionizing-video-game-script-creation/"><u>Unleashing ChatGPT's Potential for Revolutionizing Video Game Script Creation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-claude-pros-edge-over-microsofts-upgraded-chatbot-chatgpt-plus/"><u>Unveiling Claude Pro's Edge Over Microsoft’s Upgraded Chatbot, ChatGPT Plus</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

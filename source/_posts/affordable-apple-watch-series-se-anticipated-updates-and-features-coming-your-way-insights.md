@@ -1,7 +1,7 @@
 ---
 title: "Affordable Apple Watch Series SE: Anticipated Updates and Features Coming Your Way – Insights"
-date: 2024-09-28T02:44:47.853Z
-updated: 2024-10-04T02:29:13.486Z
+date: 2024-10-07T21:07:25.237Z
+updated: 2024-10-09T16:14:33.478Z
 tags:
   - apple
 categories:
@@ -40,13 +40,6 @@ Jason Hiner/ZDNET
 
 Using Apple Intelligence, you'll be able to fine-tune your writing in Mail, Notes, Pages, and any supported third-party app. Like other AI-powered editing tools, Apple Intelligence will be able to rewrite, proofread, and summarize your text.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Photo features
 
 Apple Intelligence will tap into your photos for a few different tricks. You'll be able to create movies out of photos in your library just by typing a description of what you want to see, much like you would for a [chatbot prompt](https://www.zdnet.com/article/6-ways-to-write-better-chatgpt-prompts-and-get-the-results-you-want-faster/). Using natural language, you'll be able to search for specific photos and even find certain moments in a video. 
@@ -67,6 +60,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Notification assistance
 
 Instead of having to read all the notifications that appear on your screen, you'll be able to browse through AI-generated summaries of them. Plus, a new Focus mode will display only the notifications that need your immediate attention.
@@ -78,6 +78,19 @@ To help you get through your emails, Apple Intelligence will [try to understand 
 **Also: [The iPhone 16 is undeniably great hardware - but you should still probably skip it](https://www.zdnet.com/article/the-iphone-16-is-undeniably-great-hardware-but-you-should-still-probably-skip-it/)**
 
 Plus, a new Smart Reply feature will offer suggestions for quick replies and ensure that all the questions in a response have been addressed.
+
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Siri improvements
 
@@ -93,42 +106,29 @@ Beyond using your voice to chat with Siri, you'll also be able to type your requ
 
 Those are a fair number of AI-powered features and upgrades, but Apple Intelligence has more in store for the months and years ahead. 
 
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What will come later
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Image playground
 
 Using the AI-powered [Image Playground](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/), you'll be able to generate images based on a description, suggestions, or even a person from one of your photos. You can then tweak the style and make other changes based on how you plan to use or share the image.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Image wand
 
 The [image wand](https://www.zdnet.com/article/forget-dall-e-apples-new-ai-image-generator-runs-on-device-and-works-like-magic/) will attempt to turn rough sketches into full images. When you circle an empty area on a virtual canvas or other screen, the image wand will generate an image based on the surrounding area.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Genmoji
 
@@ -172,20 +172,15 @@ The big question, though, is not so much when the new AI features will arrive bu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-non-gta-narratives-exploring-alternative-stories/"><u>[Updated] 2024 Approved Non-GTA Narratives Exploring Alternative Stories</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-nextupcameras-venturing-past-mycam/"><u>[Updated] NextUpCameras Venturing Past MyCam</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/24-hour-film-size-gb-measurement-guide/"><u>24-Hour Film Size GB Measurement Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-xiaomi-redmi-note-12-4g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Xiaomi Redmi Note 12 4G to iPhone | Dr.fone</u></a></li>
-<li><a href="https://win-webster.techidaily.com/boost-creativity-explore-more-than-5-dynamic-js-theme-options-for-web-design-using-tailwind-and-creative-tim-templates/"><u>Boost Creativity: Explore More than 5 Dynamic Js Theme Options for Web Design Using Tailwind & Creative Tim Templates</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/examining-the-world-of-chatgpt-jailbreaks-and-their-implications-for-users/"><u>Examining the World of ChatGPT Jailbreaks and Their Implications for Users</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-ai-prompt-engineering-is-this-an-emerging-profession-worth-pursuing/"><u>Exploring AI Prompt Engineering: Is This an Emerging Profession Worth Pursuing?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-motorola-edge-40-pro-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Motorola Edge 40 Pro Pattern Lock Screen</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/from-scripted-to-smart-exploring-how-chatbots-are-programmed-to-simulate-human-like-discussions/"><u>From Scripted to Smart: Exploring How Chatbots Are Programmed to Simulate Human-Like Discussions</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-nokia-c12-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Nokia C12 Devices | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-unique-concepts-for-enhancing-fb-video-marketing-impact/"><u>In 2024, Unique Concepts for Enhancing Fb Video Marketing Impact</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/look-at-the-performance-trend-over-time-to-see-if-its-improving-or-declining-also-analyze-how-different-pages-rank-for-this-query-on-your-site/"><u>Look at the Performance Trend over Time to See if It's Improving or Declining. Also, Analyze How Different Pages Rank for This Query on Your Site</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/slow-response-analyzing-chatgpt-4-against-gpt-35s-agility/"><u>Slow Response: Analyzing ChatGPT-4 Against GPT-3.5's Agility</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/streamlining-document-generation-mastering-chatgpt-integration-with-microsoft-word/"><u>Streamlining Document Generation: Mastering ChatGPT Integration with Microsoft Word</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-5-common-fraudulent-schemes-using-chatgpt/"><u>Top 5 Common Fraudulent Schemes Using ChatGPT</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-top-15-free-audio-resources-for-youtube-clips-makers/"><u>[New] Top 15 FREE Audio Resources for YouTube Clips Makers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/repaired-device-recognition-error-corrected/"><u>[REPAIRED] Device Recognition Error Corrected</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/extended-communication-with-the-advanced-jabra-talk-v25-microphone/"><u>Extended Communication with the Advanced Jabra Talk V25 Microphone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/guide-connecting-and-using-a-usb-flash-drive-on-android-devices/"><u>Guide: Connecting and Using a USB Flash Drive on Android Devices</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-social-media-marketing-get-more-viewers-with-youtube/"><u>In 2024, Social Media Marketing Get More Viewers with YouTube</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tailoring-chatgpt-prompts-for-fitness-enthusiasts/"><u>Tailoring ChatGPT Prompts for Fitness Enthusiasts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-dual-forces-behind-a-successful-product-launch-insights-revealed/"><u>The Dual Forces Behind a Successful Product Launch: Insights Revealed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-great-debate-is-it-chatgpt-or-microsofts-bing-chat-that-dominates-in-artificial-conversational-intelligence/"><u>The Great Debate: Is It ChatGPT or Microsoft’s Bing Chat That Dominates in Artificial Conversational Intelligence?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-guide-to-effective-ai-prompting-essential-tactics-you-cant-ignore/"><u>The Ultimate Guide to Effective AI Prompting: Essential Tactics You Can't Ignore</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-7-emerging-cybersecurity-developments-and-forecasts/"><u>Top 7 Emerging Cybersecurity Developments & Forecasts</u></a></li>
 </ul></div>
 

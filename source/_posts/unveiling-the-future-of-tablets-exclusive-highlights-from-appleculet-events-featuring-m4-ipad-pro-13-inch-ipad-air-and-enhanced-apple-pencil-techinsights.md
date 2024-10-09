@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Future of Tablets: Exclusive Highlights From Apple'culet Events Featuring M4 iPad Pro, 13-Inch iPad Air & Enhanced Apple Pencil | TechInsights"
-date: 2024-09-30T18:26:58.034Z
-updated: 2024-10-04T09:41:53.993Z
+date: 2024-10-02T22:29:33.281Z
+updated: 2024-10-09T20:33:11.544Z
 tags:
   - apple
 categories:
@@ -49,10 +49,10 @@ The event provides developers with access to experts, along with highlights of n
 "We're so excited to connect with developers from around the world for an extraordinary week of technology and community at WWDC24," Susan Prescott, Apple's VP of Worldwide Developer Relations, said in a news release. "WWDC is all about sharing new ideas and providing our amazing developers with innovative tools and resources to help them make something even more wonderful." 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. You'll be hearing AI (or Apple Intelligence) a lot
@@ -72,10 +72,16 @@ Apple has also allegedly been seeking a partner for outside help, possibly teami
 More recently, rumors have suggested that some new AI features will include more intelligent and helpful searches in Safari, AI-generated emojis based on conversations in Messages, and an AI-powered [photo editing app](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/) similar to Google's Magic Eraser. It's worth noting that such features are believed to only function on the more recent Apple products, including the iPhone 15 Pro with its A17 Pro chip and M-series iPads and MacBooks.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Don't forget the other acronym: RCS
@@ -89,10 +95,10 @@ To the surprise of many, except for the European Commission, Apple [announced la
 The decision to bring RCS to the iPhone came after mounting pressure from the European Union's Digital Markets Act (DMA), which stressed cross-platform compatibility. While a more [recent statement from Google](https://www.zdnet.com/article/google-seems-to-have-leaked-apples-timeframe-for-bringing-rcs-to-the-iphone/) suggested that Apple would integrate RCS later this fall, highlighting the transition at WWDC could potentially help Apple's defense against the [DOJ's antitrust lawsuit](https://x.com/getpeid/status/1798369533889302576), filed in March. Regardless of when and how Apple chooses to announce the new feature, it'll be big news for both iOS and Android users.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. MacOS 15, iPadOS 18, WatchOS 11, VisionOS 2, tvOS 18
@@ -133,22 +139,22 @@ As for [VisionOS](https://www.zdnet.com/article/10-things-id-like-to-see-in-visi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-gonetflixgo-master-screenrecording-on-mac-with-ease-and-excellence/"><u>[Updated] GoNetflixGo Master ScreenRecording on Mac, With Ease & Excellence</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/boost-your-online-presence-with-innovative-cookiebot-solutions/"><u>Boost Your Online Presence with Innovative Cookiebot Solutions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpts-legal-hurdles-explored-impact-on-users-and-developers/"><u>ChatGPT's Legal Hurdles Explored – Impact on Users and Developers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/comparing-giants-the-distinctive-features-of-google-palm-2-and-openais-gpt-4/"><u>Comparing Giants: The Distinctive Features of Google PALM 2 and OpenAI's GPT-4</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dive-into-advanced-computing-with-toms-hardware-analysis/"><u>Dive Into Advanced Computing with Tom's Hardware Analysis</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/expedite-engagement-with-llm-and-chatbots-using-quoras-poe/"><u>Expedite Engagement with LLM & Chatbots Using Quora's PoE</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for OnePlus 11 5G | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-apple-iphone-6s-without-apple-id-by-drfone-ios/"><u>In 2024, How to Erase an Apple iPhone 6s without Apple ID?</u></a></li>
-<li><a href="https://facebook.techidaily.com/in-depth-tutorial-your-facebook-journey-maped-and-analyzed/"><u>In-Depth Tutorial: Your Facebook Journey Maped and Analyzed</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/leading-with-ai-skills-for-thriving-in-technology-driven-jobs/"><u>Leading with AI: Skills for Thriving in Technology-Driven Jobs</u></a></li>
-<li><a href="https://facebook.techidaily.com/locked-out-of-your-account-lets-fix-it/"><u>Locked Out of Your Account? Let's Fix It</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-the-future-emojis-as-investment-guidance-activision-security-breach-and-ais-impact-on-employment/"><u>Navigating the Future: Emojis as Investment Guidance, Activision Security Breach, and AI's Impact on Employment</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/protect-your-files-easy-way-to-lock-down-your-usb-with-windows-11-encryption/"><u>Protect Your Files: Easy Way to Lock Down Your USB with Windows 11 Encryption</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-insiders-guide-to-gpt-4-functionality-within-todays-top-7-app-innovators/"><u>The Insider's Guide to GPT-4 Functionality Within Today's Top 7 App Innovators</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-7-premium-platforms-for-purchasing-ai-generated-content/"><u>Top 7 Premium Platforms for Purchasing AI-Generated Content</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/top-pick-of-the-year-navigating-with-the-garmin-gpsmap-64st-the-complete-handhunded-system-evaluation/"><u>Top Pick of the Year: Navigating with the Garmin GPSMAP 64St – The Complete Handhunded System Evaluation</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/why-human-authors-outperform-ai-driven-writing-assistants/"><u>Why Human Authors Outperform AI-Driven Writing Assistants</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-6-best-video-grabbers-for-mac-for-2024/"><u>[Updated] 6 Best Video Grabbers for Mac for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-capturing-every-detail-tactics-for-streamlined-meet-recordings/"><u>[Updated] Capturing Every Detail Tactics for Streamlined Meet Recordings</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expanding-photography-quality/"><u>[Updated] Expanding Photography Quality</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/can-you-unlock-apple-iphone-14-pro-after-forgetting-the-passcode-by-drfone-ios/"><u>Can You Unlock Apple iPhone 14 Pro After Forgetting the Passcode?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elon-musk-unveils-the-power-of-grok-ai-understanding-its-capabilities-and-pricing/"><u>Elon Musk Unveils the Power of Grok AI: Understanding Its Capabilities & Pricing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-impact-of-ai-chatbot-content-filtering-what-do-you-need-to-know/"><u>Exploring the Impact of AI Chatbot Content Filtering: What Do You Need to Know?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-limits-commands-and-queries-that-puzzle-chatgpt/"><u>Exploring the Limits: Commands and Queries That Puzzle ChatGPT</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-new-bird-bebops-parrot-as-a-flight-marvel-review/"><u>In 2024, The New Bird Bebop’s Parrot as a Flight Marvel Review</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leveraging-chatgpt-for-superior-workflow-strategies-and-enhanced-productivity/"><u>Leveraging ChatGPT for Superior Workflow Strategies and Enhanced Productivity</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-past-chatgpts-word-limit-barrier/"><u>Navigating Past ChatGPT’s Word Limit Barrier</u></a></li>
+<li><a href="https://extra-information.techidaily.com/synthesizing-best-canon-sequential-videos/"><u>Synthesizing Best Canon Sequential Videos</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719578312799-the-16-best-ways-to-say-thank-you-in-german/"><u>The 16 Best Ways To Say Thank You In German</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-evolution-of-social-media-scams-navigating-the-risks-on-twitter-and-exploring-metas-authentication-leap-with-chatgpt-4-revealed/"><u>The Evolution of Social Media Scams: Navigating the Risks on Twitter and Exploring Meta's Authentication Leap with ChatGPT-4 Revealed</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-vivo-y56-5g-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Vivo Y56 5G Phones</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-7-incredible-chrome-extensions-enhancing-your-chatgpt-experience-for-smarter-browsing/"><u>Top 7 Incredible Chrome Extensions Enhancing Your ChatGPT Experience for Smarter Browsing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleash-your-online-potential-with-perplexity-ai-the-ultimate-yet-untapped-google-search-enhancer/"><u>Unleash Your Online Potential with Perplexity AI - The Ultimate, Yet Untapped Google Search Enhancer</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/workplace-shift-will-ai-overtake-jobs/"><u>Workplace Shift: Will AI Overtake Jobs?</u></a></li>
 </ul></div>
 

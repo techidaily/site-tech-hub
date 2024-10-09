@@ -1,7 +1,7 @@
 ---
 title: OpenAI's Head Honcho Demands Tighter Control Over Artificnial Intelligence - Why?
-date: 2024-09-21T20:11:53.801Z
-updated: 2024-09-22T23:16:56.113Z
+date: 2024-10-06T16:02:06.619Z
+updated: 2024-10-09T21:54:02.467Z
 tags:
   - chatgpt
   - open-ai
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/e788f79a8684ff135a50b06576e0943a8c2779cab
 
  The chatbot is also built into the Edge browser, where you can access it via the homepage.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Skype Gets AI Features
 
  In addition to those apps, Microsoft has added AI-enhanced Bing support to Skype, the venerable voice and chat app. The idea here is not to get the AI to have conversations on your behalf, but to add similar search capabilities to group messages.
@@ -47,6 +54,19 @@ thumbnail: https://thmb.techidaily.com/e788f79a8684ff135a50b06576e0943a8c2779cab
 > "If your family is chatting about the next family reunion, you can simply ask Bing for suggestions on travel destinations, expected weather forecasts and interesting events around your time of travel, and everyone in the chat will get access to the results."
 
  To access this feature, you simply need to add Bing to your group chats as you would any other contact. It's available worldwide and can respond in over 100 languages.
+
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Use the New ChatGPT Bing Apps
 
@@ -59,10 +79,10 @@ thumbnail: https://thmb.techidaily.com/e788f79a8684ff135a50b06576e0943a8c2779cab
 **Download:** Skype for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2022079/https://play.google.com/store/apps/details?id=com.skype.raider) |[iOS](https://apps.apple.com/us/app/skype/id304878510) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Test Out AI Chat on Android and iPhone Today
@@ -86,5 +106,19 @@ thumbnail: https://thmb.techidaily.com/e788f79a8684ff135a50b06576e0943a8c2779cab
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-critical-alternatives-to-twitter-the-best-5/"><u>[New] 2024 Approved Critical Alternatives to Twitter The Best 5</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-elevate-your-cinematography-essential-gear-for-yi-4k/"><u>[New] 2024 Approved Elevate Your Cinematography - Essential Gear for YI 4K</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-anglers-guide-to-premium-fishing-cameras/"><u>2024 Approved Angler’s Guide to Premium Fishing Cameras</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/analysis-of-virtual-conversations-gpt-and-bing-compared/"><u>Analysis of Virtual Conversations: GPT & Bing Compared</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beyond-human-intelligence-surpassing-the-turing-scale/"><u>Beyond Human Intelligence: Surpassing the Turing Scale</u></a></li>
+<li><a href="https://fox-search.techidaily.com/cbs-news-video-downloads-available-in-multiple-file-types-for-easy-viewing-and-sharing/"><u>CBS News Video Downloads Available in Multiple File Types for Easy Viewing and Sharing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-enhanced-strategies-for-effective-extension-use/"><u>ChatGPT Enhanced: Strategies for Effective Extension Use</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-10-cheeky-tunes-turned-parodies/"><u>In 2024, 10 Cheeky Tunes Turned Parodies</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-honor-magic-5-pro-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Honor Magic 5 Pro to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-on-your-iphone-12-mini-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID on Your iPhone 12 mini?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-chatgpt-capable-of-accurately-answering-mathematical-queries/"><u>Is ChatGPT Capable of Accurately Answering Mathematical Queries?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/streamline-document-creation-in-word-via-chatgpt/"><u>Streamline Document Creation in Word via ChatGPT</u></a></li>
+</ul></div>
 

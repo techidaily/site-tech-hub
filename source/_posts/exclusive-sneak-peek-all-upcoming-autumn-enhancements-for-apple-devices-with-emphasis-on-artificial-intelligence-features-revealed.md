@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Sneak Peek: All Upcoming Autumn Enhancements for Apple Devices with Emphasis on Artificial Intelligence - Features Revealed"
-date: 2024-10-02T20:18:18.955Z
-updated: 2024-10-04T00:22:15.141Z
+date: 2024-10-03T22:11:18.837Z
+updated: 2024-10-09T17:22:45.501Z
 tags:
   - apple
 categories:
@@ -61,10 +61,10 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -94,10 +94,10 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -113,6 +113,13 @@ Adam Breeden/ZDNET
 * With watchOS, users will get suggestions on the best photo options for their **watch face** from their photo library based on criteria such as aesthetics, composition, facial expressions, and more. The face can also be customized with different sizes, layouts, and fonts.
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## iPadOS 18
 
@@ -152,13 +159,6 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -168,10 +168,10 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -218,18 +218,20 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-master-the-momentum-sending-viral-videos-soaring/"><u>[Updated] 2024 Approved Master the Momentum Sending Viral Videos Soaring</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-deciphering-the-divergent-aspects-of-youtubes-and-dailymentions-for-2024/"><u>[Updated] Deciphering the Divergent Aspects of YouTubes & DailyMentions for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/enhance-windows-experience-with-latest-bluetooth-dongle-driver-download-and-update-guide/"><u>Enhance Windows Experience with Latest Bluetooth Dongle Driver – Download and Update Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-dependable-are-ais-like-chatgpt-and-bard-when-it-comes-to-your-personal-finances/"><u>How Dependable Are AIs Like ChatGPT and Bard When It Comes to Your Personal Finances?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-find-my-iphone-without-apple-id-on-your-apple-iphone-14-pro-by-drfone-ios/"><u>In 2024, How to Remove Find My iPhone without Apple ID On your Apple iPhone 14 Pro?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Vivo Y27 4G | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/introducing-the-elite-gigabyte-intel-z790-aorus-xtreme-x-gold-cpu-socket-and-impressive-misty-theme-with-a-massive-m2-heatsink/"><u>Introducing the Elite Gigabyte Intel Z790 Aorus XTreme X: Gold CPU Socket & Impressive Misty Theme with a Massive M.2 Heatsink</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-adventure-crafting-an-immersive-ttrpg-experience-with-chatgpt/"><u>Mastering the Art of Adventure: Crafting an Immersive TTRPG Experience with ChatGPT</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-honor-magic-5-pro-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Honor Magic 5 Pro – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/simple-and-easy-modo-slide-show-tutorials-for-professionals-movavi/"><u>Simple and Easy Modo Slide Show Tutorials for Professionals | Movavi</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-quintessential-list-why-organizations-are-implementing-bans-on-chatgpt/"><u>The Quintessential List: Why Organizations Are Implementing Bans on ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-6-common-errors-in-crafting-chatgpt-prompts-tips-to-steer-clear/"><u>Top 6 Common Errors in Crafting ChatGPT Prompts: Tips to Steer Clear</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/wilderness-survival-will-ai-conversations-help-you-out/"><u>Wilderness Survival: Will AI Conversations Help You Out?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-discovering-why-filmora-captivates-your-heart/"><u>[New] In 2024, Discovering Why Filmora Captivates Your Heart</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-capture-heights-with-dji-spark-the-small-drone-selfie-powerhouse/"><u>[Updated] Capture Heights with DJI Spark The Small Drone Selfie Powerhouse</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-navigating-networks-generating-social-media-sensations-for-2024/"><u>[Updated] Navigating Networks Generating Social Media Sensations for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/10-groundbreaking-final-cut-pro-extensions/"><u>10 Groundbreaking Final Cut Pro Extensions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/archiving-conversations-with-ai-how-to-retain-your-chatgpt-sessions/"><u>Archiving Conversations with AI: How to Retain Your ChatGPT Sessions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bing-ai-for-android-users-mastering-text-input-through-smart-assistance/"><u>Bing AI for Android Users: Mastering Text Input Through Smart Assistance</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-conversation-resurrection-tips-for-retrieving-erased-dialogue-records/"><u>ChatGPT Conversation Resurrection: Tips for Retrieving Erased Dialogue Records</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/cost-free-creative-conversion-twitter-to-tweeple-gifs-for-2024/"><u>Cost-Free Creative Conversion Twitter to Tweeple GIFs for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/cut-down-on-machine-misunderstandings-six-essential-prompting-strategies-for-ai-clarity/"><u>Cut Down on Machine Misunderstandings: Six Essential Prompting Strategies for AI Clarity</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/dissecting-why-hackers-target-gpt-accounts/"><u>Dissecting Why Hackers Target GPT Accounts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/from-novice-to-expert-comprehensive-guide-on-programming-interchangeable-remote-controllers/"><u>From Novice to Expert: Comprehensive Guide on Programming Interchangeable Remote Controllers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-best-of-the-best-windows-11-webcams-for-recording/"><u>In 2024, Best of the Best Windows 11 Webcams for Recording</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/paving-the-way-for-accurate-ai-replies-implementing-6-proactive-techniques/"><u>Paving the Way for Accurate AI Replies: Implementing 6 Proactive Techniques</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-definitive-guide-to-fixing-rust-microphone-problems/"><u>The Definitive Guide to Fixing Rust Microphone Problems</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/transformation-mp4-a-wmv-en-ligne-sans-frais-convertisseur-rapide-avec-movavi/"><u>Transformation MP4 À WMV en Ligne Sans Frais - Convertisseur Rapide Avec Movavi</u></a></li>
 </ul></div>
 

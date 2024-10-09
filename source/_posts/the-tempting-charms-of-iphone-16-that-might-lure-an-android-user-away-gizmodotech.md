@@ -1,7 +1,7 @@
 ---
 title: The Tempting Charms of iPhone 16 That Might Lure an Android User Away | GizmodoTech
-date: 2024-10-02T00:45:21.162Z
-updated: 2024-10-04T07:30:16.626Z
+date: 2024-10-03T18:49:57.066Z
+updated: 2024-10-09T19:18:03.948Z
 tags:
   - apple
 categories:
@@ -45,10 +45,10 @@ When capturing images with the iPhone -- Pro model or not -- bright light source
 As reported by [MacRumors](https://www.macrumors.com/2024/04/15/iphone-16-pro-camera-reduced-lens-flare/), sources close to Apple's supply chain have hinted that the company is testing a new anti-reflective optical coating, made of atomic layer deposition, intended to reduce the camera artifacts previously mentioned. Should Apple introduce the feature with the iPhone 16, it would fix one of the longest-standing complaints about the iPhone camera system.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Higher refresh rate displays on non-Pro models
@@ -60,10 +60,10 @@ Apple did something very courageous last year: It brought the Pro line's Dynamic
 Compared to the Pro model's 120Hz display, which portrays animations in a much flowy, smoother manner, the non-Pro iPhones' 60Hz panels just didn't look as polished, with a noticeable stutter when scrolling through bodies of text. Dialing up the refresh rate, even up to 90Hz, would make the baseline iPhone 16 models more satisfying to look at and interact with.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. A voice assistant I can take Siri-ously
@@ -106,14 +106,19 @@ Apple has already hinted at an AI-focused [Worldwide Developer Conference](https
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/updated-blending-apple-music-with-cinematic-content/"><u>[Updated] Blending Apple Music with Cinematic Content</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-be-the-game-changer-xbox-one-screen-recording-mastery/"><u>2024 Approved Be the Game Changer Xbox One Screen Recording Mastery</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/guide-correcting-issues-between-chatgpt-and-plugin-services-communication-errors/"><u>Guide: Correcting Issues Between ChatGPT and Plugin Services Communication Errors</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-pursuit-of-perfection-is-black-gopro-better-than-sony-action-cam-in-2024/"><u>In Pursuit of Perfection Is Black GoPro Better than Sony Action Cam, In 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/multicast-addresses-are-identified-by-the-prefix-ff008/"><u>Multicast Addresses Are Identified by the Prefix FF00::/8</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-and-reviving-winget-a-guide-for-windows-11-users/"><u>Navigating and Reviving Winget: A Guide for Windows 11 Users</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/supercharge-your-experience-try-the-top-9-chatgpt-tools-now/"><u>Supercharge Your Experience – Try the Top 9 ChatGPT Tools Now</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-magic-of-machine-learning-discover-how-ai-merges-dreams-with-the-real-world-in-these-8-instances/"><u>The Magic of Machine Learning: Discover How AI Merges Dreams with the Real World in These 8 Instances</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-vulnerabilities-preventing-data-leakage-from-your-ai-chatbot-systems/"><u>Unveiling the Vulnerabilities: Preventing Data Leakage From Your AI Chatbot Systems</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-leaders-of-the-digital-age-videoaudio-innovators-index/"><u>[Updated] In 2024, Leaders of the Digital Age Video/Audio Innovators Index</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-concealment-techniques-securing-image-integrity/"><u>2024 Approved Concealment Techniques Securing Image Integrity</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-learn-to-navigate-two-screens-for-superior-streaming-on-netflix/"><u>2024 Approved Learn to Navigate Two Screens for Superior Streaming on Netflix</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/advanced-dvd-conversion-tool-with-winx-dvd-ripper-gold-for-effortless-dvds-to-flvmp4-transfers-on-windows-10/"><u>Advanced DVD Conversion Tool with WinX DVD Ripper Gold for Effortless DVDs to FLV/MP4 Transfers on Windows 10</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/assessing-the-value-of-budget-ssls-certs/"><u>Assessing the Value of Budget SSLS Certs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/creative-catalysts-da-vinci-ai-inspires-30-visual-wonders/"><u>Creative Catalysts: Da Vinci AI Inspires 30 Visual Wonders</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/cyber-conundrum-explore-4-cutting-edge-online-puzzle-adventures/"><u>Cyber Conundrum: Explore 4 Cutting-Edge Online Puzzle Adventures</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-6-common-pitfalls-in-chatgpt-expert-fix-strategies-revealed/"><u>Decoding 6 Common Pitfalls in ChatGPT: Expert Fix Strategies Revealed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effective-strategies-for-integrating-chatgpt-into-scholarly-investigations-and-academic-paper-creation/"><u>Effective Strategies for Integrating ChatGPT Into Scholarly Investigations and Academic Paper Creation</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/elevating-video-popularity-on-youtube/"><u>Elevating Video Popularity on YouTube</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhance-pdf-and-doc-interaction-top-chatgpt-applications/"><u>Enhance PDF & Doc Interaction: Top ChatGPT Applications</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exclusive-10-advanced-variants-of-chatgpt-for-superior-performance/"><u>Exclusive: 10 Advanced Variants of ChatGPT for Superior Performance</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-honor-90-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Honor 90 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-tecno-spark-20c-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Tecno Spark 20C Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Identifying Real Vs. Counterfeit ChatGPT Windows Application
-date: 2024-09-15T20:53:56.776Z
-updated: 2024-09-22T22:11:31.486Z
+date: 2024-10-04T18:14:55.958Z
+updated: 2024-10-09T20:43:00.921Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/f7008ec86977e694421ef724a35a33c6fec32d457
 
  To compare Google Bard and Bing AI Chat, we derived a simple test. We used them to conduct research for an imaginary article on atmospheric CO2 levels and climate change. This enabled us to draw comparisons on several metrics, including the quality and size of the response, the accuracy of the data, and ease of use.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bing Chat vs. Google Bard: Response Quality
 
  We began by asking both platforms an identical question: "How do modern-day CO2 levels compare to the last ice age?"
@@ -35,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/f7008ec86977e694421ef724a35a33c6fec32d457
  There were differences between how both models approached the question. First up, we will look at Google Bard's answer.
 
 ![Screenshot Bard Responding to CO2 Levels](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-bard-responding-to-co2-levels.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  As you can see, the answer seems comprehensive and details current and historic CO2 levels in parts per million (PPM). By contrast, Bing Chat took a different approach.
 
@@ -70,6 +84,19 @@ thumbnail: https://thmb.techidaily.com/f7008ec86977e694421ef724a35a33c6fec32d457
 
 ![Bard responding to requests for bullet points](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bard-responding-to-requests-for-bullet-points.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Whereas Bing Chat handled the request perfectly and responded with some bullet points.
 
 ![Bing Chat Screenshot Global Warming Blog Points](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bing-chat-screenshot-global-warming-blog-points.jpg)
@@ -77,6 +104,13 @@ thumbnail: https://thmb.techidaily.com/f7008ec86977e694421ef724a35a33c6fec32d457
 We did manage to get a response from Bard by rewording the prompt.
 
 ![Screenshot of bard response to reworded essay prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-bard-response-to-reworded-essay-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  As both platforms are going through rapid development, the user experience will continue to improve.
 
@@ -90,22 +124,21 @@ We did manage to get a response from Bard by rewording the prompt.
 
  In essence, this should mean that GPT-4 is better at generating creative content, while LaMDA is better at answering questions about facts.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Which Is Best for You: Bing Chat or Google Bard?
 
 ![confused-880735_1920](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/confused-880735_1920.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This is a case of choosing the right tool for the right job. When we compare the performance of both platforms, Bing Chat seems to edge it. However, there are some provisos to consider. The first is that the Microsoft offering is a more complete product, while Bard is still rough around the edges.
@@ -119,13 +152,6 @@ We did manage to get a response from Bard by rewording the prompt.
  Both tools are incredibly powerful and can generate intelligent answers to any prompt. But both have pros and cons, and the ultimate choice is likely to be decided by factors like user preferences and the desired output type.
 
  They're free to use, so we advise trying them both. These are impressive tools that are changing the way we use the internet.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Era of the Chatbot Is Upon Us
 
@@ -146,5 +172,23 @@ We did manage to get a response from Bard by rewording the prompt.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-ultimate-guide-to-best-video-chatting-solutions-pcphone/"><u>[New] 2024 Approved Ultimate Guide to Best Video Chatting Solutions (PC/Phone)</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-advanced-techniques-for-professional-mac-burned-discs/"><u>[New] Advanced Techniques for Professional Mac-Burned Discs</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-video-editing-revolutionized-intense-examination-of-vivacut-24/"><u>[Updated] 2024 Approved Video Editing Revolutionized Intense Examination of VivaCut '24</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-capturing-motion-in-4k-with-nikon-d500-for-2024/"><u>[Updated] Capturing Motion in 4K with Nikon D500 for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-more-than-just-likes-and-watch-time-the-complexity-of-youtubes-view-tally/"><u>[Updated] More than Just Likes and Watch Time The Complexity of YouTube's View Tally</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-navigating-the-future-of-video-editing-with-powerdirector-app-2024/"><u>[Updated] Navigating the Future of Video Editing with PowerDirector App 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/a-comprehensive-guide-to-maximizing-channels-earnings-through-trailers-for-2024/"><u>A Comprehensive Guide to Maximizing Channels' Earnings Through Trailers for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-and-cupids-arrow-ai-insights-to-enhance-your-love-life-strategies/"><u>ChatGPT and Cupid's Arrow: AI Insights to Enhance Your Love Life Strategies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-your-online-presence-writing-top-notch-social-media-with-chatgpts-help/"><u>Elevate Your Online Presence: Writing Top-Notch Social Media with ChatGPT's Help</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exclusive-discussion-on-microsoft-purchasing-blizzard-plus-a-dive-into-innovative-ai-for-creating-art-and-translating-languages-podcast/"><u>Exclusive Discussion on Microsoft Purchasing Blizzard, Plus a Dive Into Innovative AI for Creating Art and Translating Languages [Podcast]</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-tell-if-chatgpt-is-down-5-essential-steps-for-users/"><u>How To Tell If ChatGPT Is Down: 5 Essential Steps For Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-strategies-to-enhance-your-writing-workflow-in-word-using-chatgpt/"><u>Step-by-Step Strategies to Enhance Your Writing Workflow in Word Using ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-innovators-guide-from-text-generation-to-books/"><u>The Innovator's Guide: From Text Generation to Books</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-ultimate-list-of-premium-androidpc-video-editors-for-2024/"><u>The Ultimate List of Premium Android/PC Video Editors for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unmasking-genuine-vs-fraudulent-bincrypt-tokens/"><u>Unmasking Genuine vs Fraudulent BinCrypt Tokens</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-the-beat-goes-on-finding-song-titles-using-your-ios-devices-audio-cues/"><u>Updated The Beat Goes On Finding Song Titles Using Your iOS Devices Audio Cues</u></a></li>
+</ul></div>
 

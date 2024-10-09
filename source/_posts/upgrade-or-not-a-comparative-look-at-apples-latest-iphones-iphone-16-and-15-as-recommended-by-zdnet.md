@@ -1,7 +1,7 @@
 ---
 title: Upgrade or Not? A Comparative Look at Apple's Latest iPhones (iPhone 16 & 15) as Recommended by ZDNET
-date: 2024-09-26T23:06:20.143Z
-updated: 2024-10-04T02:03:40.210Z
+date: 2024-10-05T16:50:52.480Z
+updated: 2024-10-09T21:55:52.744Z
 tags:
   - apple
 categories:
@@ -46,22 +46,15 @@ To help you make this decision, we've broken down all of the most important deta
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  You should buy the iPhone 16 if...
 
 Kerry Wan/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  1\. You'd benefit from Apple Intelligence features
 
@@ -70,6 +63,13 @@ Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.c
 **Also: [Your AIrPods Pro 2 can soon double as over-the-counter hearing aids. Here's how](https://www.zdnet.com/article/your-airpods-pro-2-can-soon-double-as-over-the-counter-hearing-aids-heres-how/)**
 
 There is more to the AI features beyond Siri. Apple Intelligence will be able to summarize notifications and Priority Messages in the Mail app. Like Siri, the feature will be able to understand context. [Apple Intelligence](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/) will gain additional features later in the year like the ability to create custom emojis and perform multiple actions across apps.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  2\. You want a better photography experience
 
@@ -97,15 +97,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  You should buy the iPhone 15 if...
 
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  1\. You don't require the generative AI capabilities
@@ -115,19 +122,6 @@ All of the bells and whistles on the iPhone 16 are certainly nice, but are they 
 **Also: [iPhone 15 review: Why I recommend this model even to 'Pro' users in 2024](https://www.zdnet.com/article/iphone-15-plus-review/)**
 
 Sometimes, it's best to wait until all the bugs have been ironed out. Plus, there's a lot of uncertainty surrounding the chipset. Early impressions indicate the A18 can handle all the AI features, but can it? Or will we see a performance drop once it launches? 
-
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  2\. You're on a budget
 
@@ -171,19 +165,20 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-best-budget-friendly-hd-cameras-for-adrenaline-junkies/"><u>[Updated] 2024 Approved Best Budget-Friendly HD Cameras for Adrenaline Junkies</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-directing-content-flow-uploading-imovie-films-to-youtube/"><u>[Updated] 2024 Approved Directing Content Flow Uploading IMovie Films to YouTube</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-unseen-sonic-scribes-best-kept-mobile-voice-loggers-list/"><u>[Updated] Unseen Sonic Scribes Best-Kept Mobile Voice Loggers List</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/5-best-methods-for-converting-blu-ray-discs-into-high-definition-mp4-files/"><u>5 Best Methods for Converting Blu-Ray Discs Into High-Definition MP4 Files</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/analyzing-positives-and-negatives-how-chatgpt-influences-creativity-in-writing/"><u>Analyzing Positives and Negatives: How ChatGPT Influences Creativity in Writing</u></a></li>
-<li><a href="https://fox-access.techidaily.com/boosting-your-game-mastering-kinemaster-and-its-top-alternative-games/"><u>Boosting Your Game Mastering KineMaster and Its Top Alternative Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/combat-commanders-unite-discovering-best-11-war-sims/"><u>Combat Commanders Unite: Discovering Best 11 War Sims</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/crafting-unique-auditory-experiences-with-chatgpt-in-your-digital-audio-workstation-studio/"><u>Crafting Unique Auditory Experiences with ChatGPT in Your Digital Audio Workstation Studio</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-the-leading-7-artificial-intelligence-applications-for-mastering-math-puzzles/"><u>Discover the Leading 7 Artificial Intelligence Applications for Mastering Math Puzzles</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/inside-openai-the-foundation-behind-it-all/"><u>Inside OpenAI: The Foundation Behind It All</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/protecting-your-privacy-understanding-risks-of-custom-gpt-models-like-chatgpt/"><u>Protecting Your Privacy: Understanding Risks of Custom GPT Models Like ChatGPT</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-fixes-for-the-graphics-driver-crashing-problem-in-valorant/"><u>Quick Fixes for the 'Graphics Driver Crashing' Problem in Valorant</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/scambia-file-video-ogm-con-formato-mpeg-senza-costi-piuvivi/"><u>Scambia File Video OGM Con Formato MPEG Senza Costi - PiùVivi</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/what-is-an-artificers-conversation-bot-and-its-growing-demand/"><u>What Is an Artificer's Conversation Bot & Its Growing Demand</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/pening-doors-creating-an-account-on-youtube-for-2024/"><u>[New] Opening Doors Creating an Account on YouTube for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-step-by-step-guide-to-aplus-tiktok-videos-with-designed-templates/"><u>[Updated] 2024 Approved Step-by-Step Guide to A+ TikTok Videos with Designed Templates</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-15-best-stop-motion-films-of-all-time/"><u>2024 Approved 15 Best Stop Motion Films of All Time</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/experience-universal-availability-a-comprehensive-guide-to-using-chatgpt-globally/"><u>Experience Universal Availability: A Comprehensive Guide to Using ChatGPT Globally</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/expertly-conquer-calculations-7-superior-ai-resources-to-decipher-math-problems/"><u>Expertly Conquer Calculations: 7 Superior AI Resources to Decipher Math Problems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gain-gpt-4-insights-at-no-cost-four-strategies/"><u>Gain GPT-4 Insights at No Cost: Four Strategies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/go-beyond-browsers-discover-6-reasons-why-chatgpt-thrives-better-as-an-ios-application/"><u>Go Beyond Browsers - Discover 6 Reasons Why ChatGPT Thrives Better as an iOS Application</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gpt-4-versus-gpt-nturbo-vs-gpt-4o-a-comprehensive-differentiation-guide/"><u>GPT-4 Versus GPT-nTurbo Vs. GPT-4o: A Comprehensive Differentiation Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gpt-4-without-cost-nevertheless-plus-membership-holds-6-crucial-amenities/"><u>GPT-4, Without Cost; Nevertheless, Plus Membership Holds 6 Crucial Amenities.</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-chatgpts-real-time-data-retrieval-transforms-the-information-landscape/"><u>How ChatGPT's Real-Time Data Retrieval Transforms the Information Landscape</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-poco-x5-to-mac-drfone-by-drfone-android/"><u>How to Mirror Poco X5 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-elevate-your-video-editing-top-10-free-green-screen-apps-for-androidios/"><u>In 2024, Elevate Your Video Editing Top 10 Free Green Screen Apps for Android/iOS</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-on-iphone-8-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password On iPhone 8</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/innovating-tiktok-posts-for-twitters-platform/"><u>Innovating TikTok Posts for Twitter's Platform</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/the-simple-way-to-obtain-the-latest-amd-ryzen-driver-updates-and-ensure-reliability/"><u>The Simple Way to Obtain the Latest AMD Ryzen Driver Updates & Ensure Reliability</u></a></li>
 </ul></div>
 

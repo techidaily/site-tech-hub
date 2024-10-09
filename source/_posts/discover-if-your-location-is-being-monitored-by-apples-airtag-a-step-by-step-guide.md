@@ -1,7 +1,7 @@
 ---
 title: "Discover If Your Location Is Being Monitored by Apple's AirTag: A Step-by-Step Guide"
-date: 2024-10-01T12:22:34.638Z
-updated: 2024-10-03T19:39:55.717Z
+date: 2024-10-07T18:54:45.999Z
+updated: 2024-10-09T18:22:57.494Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -52,16 +52,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -77,10 +71,10 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -91,18 +85,18 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -140,22 +134,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-upgrade-your-content-creation-process-via-youtube-studio/"><u>[New] 2024 Approved Upgrade Your Content Creation Process via YouTube Studio</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-creating-time-lapse-from-single-photographs/"><u>[New] Creating Time-Lapse From Single Photographs</u></a></li>
-<li><a href="https://fox-that.techidaily.com/decode-and-defend-against-common-iphone/"><u>Decode and Defend Against Common iPhone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/elevate-your-productivity-the-foremost-8-smart-chrome-plugins-leveraging-ai-technology/"><u>Elevate Your Productivity: The Foremost 8 Smart Chrome Plugins Leveraging AI Technology</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-inherent-modules-of-chatgpt-functionality-and-applications/"><u>Exploring the Inherent Modules of ChatGPT: Functionality and Applications</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-get-llama-2-running-locally-a-comprehensive-tutorial/"><u>How to Get Llama 2 Running Locally – A Comprehensive Tutorial</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-install-canon-mx340-drivers-on-your-pc-windows-1187-supported/"><u>How to Install Canon MX340 Drivers on Your PC (Windows 11/8/7 Supported)</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-apple-iphone-12-mirror-to-pc-top-apps-you-must-know-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 12 Mirror to PC? Top Apps You Must Know | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-superior-psd-text-direction/"><u>In 2024, Superior PSD Text Direction</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/making-cash-from-chatbots-system-optimization/"><u>Making Cash From ChatBots, System Optimization</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/personal-touch-in-automated-texts-training-strategies-for-making-your-chatbot-write-like-you/"><u>Personal Touch in Automated Texts: Training Strategies for Making Your Chatbot Write Like You</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/protecting-originality-openais-gpt-output-detector/"><u>Protecting Originality: OpenAI's GPT Output Detector</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-ai-evolution-assessing-if-chatgpt-signals-trouble-for-established-search-platforms/"><u>The AI Evolution: Assessing If ChatGPT Signals Trouble for Established Search Platforms</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-professionals-secret-utilizing-windows-movie-maker-expertly-in-windows-8-systems/"><u>The Professional's Secret Utilizing Windows Movie Maker Expertly in Windows 8 Systems</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transform-your-approach-to-math-the-best-7-ai-programs-at-your-fingertnails/"><u>Transform Your Approach to Math: The Best 7 AI Programs at Your Fingertnails</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-oppo-reno-10-pro-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Oppo Reno 10 Pro 5G without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/upgrade-your-editing-software-transition-from-imovie-to-windows-video-editor/"><u>Upgrade Your Editing Software : Transition From iMovie to Windows Video Editor</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-breaking-top-tiktok-videos-making-twitter-shout-for-2024/"><u>[Updated] Breaking Top TikTok Videos Making Twitter Shout for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-perfecting-your-mobile-video-recordings-on-snapchat/"><u>[Updated] Perfecting Your Mobile Video Recordings on Snapchat</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-beginners-blueprint-for-mobile-youtube-videos/"><u>2024 Approved The Beginner's Blueprint for Mobile YouTube Videos</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-oppo-a38-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-corsair-h80i-v2-ssdhdd-dual-m2-card-drivers-now/"><u>Get Your Corsair H80I V2 SSD/HDD Dual M.2 Card Drivers Now!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-samsung-galaxy-a54-5g-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Samsung Galaxy A54 5G online without jailbreak</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/improving-emotional-intelligence-through-conversations-with-chatgpt/"><u>Improving Emotional Intelligence Through Conversations with ChatGPT</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-a-thorough-review-of-lgs-upgraded-360-camera-lineup-2023-edition/"><u>In 2024, A Thorough Review of LG's Upgraded 360 Camera Lineup, 2023 Edition</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-oppo-a78-5g-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Oppo A78 5G to Protect Your Individual Information</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovative-gpt-techniques-for-android-and-ios-enthusiasts/"><u>Innovative GPT Techniques for Android & iOS Enthusiasts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/investigate-truthgpt-coin-is-this-the-next-big-scam-or-a-hidden-gem/"><u>Investigate TruthGPT Coin - Is This the Next Big Scam or a Hidden Gem?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/learning-healthy-recipes-can-ai-assistants-like-chatgpt-help/"><u>Learning Healthy Recipes: Can AI Assistants Like ChatGPT Help?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-youtube-content-a-guide-on-crafting-scripts-with-chatgpt/"><u>Mastering the Art of YouTube Content: A Guide on Crafting Scripts with ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigate-interviews-effortlessly-with-chatgpt-assistance/"><u>Navigate Interviews Effortlessly with ChatGPT Assistance</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-the-future-enhancing-website-reach-through-advanced-ai-search-technologies/"><u>Navigating the Future: Enhancing Website Reach Through Advanced AI Search Technologies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/optimizing-siri-for-enhanced-chatgpt-experience/"><u>Optimizing Siri for Enhanced ChatGPT Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207263150-solving-the-problem-of-a-non-charging-laptop-in-no-time/"><u>Solving the Problem of a Non-Charging Laptop in No Time!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/spot-the-tricks-deceptive-chatgpt-methods/"><u>Spot the Tricks: Deceptive ChatGPT Methods</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-the-best-of-the-best-top-8-video-metadata-editors-for-mac/"><u>Updated 2024 Approved The Best of the Best Top 8 Video Metadata Editors for Mac</u></a></li>
 </ul></div>
 

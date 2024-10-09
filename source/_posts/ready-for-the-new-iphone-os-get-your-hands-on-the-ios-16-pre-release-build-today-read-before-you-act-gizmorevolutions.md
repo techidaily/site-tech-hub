@@ -1,7 +1,7 @@
 ---
 title: Ready for the New iPhone OS? Get Your Hands on the iOS 16 Pre-Release Build Today! (Read Before You Act) | GizmoRevolutions
-date: 2024-09-27T20:47:29.993Z
-updated: 2024-10-03T22:02:55.765Z
+date: 2024-10-02T22:45:46.514Z
+updated: 2024-10-09T21:16:18.314Z
 tags:
   - apple
 categories:
@@ -39,10 +39,10 @@ The updates don't stop there. Apple Intelligence enables so much more. They incl
 Apple Intelligence will not be available at launch. It'll roll out in October as a software upgrade in the United States and in English only. It'll be available in more countries like the United Kingdom later this December. And in 2025, it'll expand to other languages like Spanish.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Camera Upgrades
@@ -66,10 +66,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Eye-catching colors
@@ -81,16 +81,10 @@ Every generation of iPhones brings with it new colors. For this release, Apple d
 The Pro models go for a more striking design. Desert Titanium adorns their brushed metal, making the iPhones look like they've been forged from bronze. If you prefer something a little more low-key, the Pro models are available in the equally impressive Black, White, and Natural Titanium too.
 
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Design changes bring other benefits
@@ -133,21 +127,22 @@ Apple even updated the iPhone 16's internal design, allowing the device to dissi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-expert-tips-for-streamlining-youtube-audio-into-imovie/"><u>[New] 2024 Approved Expert Tips for Streamlining YouTube Audio Into iMovie</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-essential-pixlr-upgrades-for-enhanced-results/"><u>[Updated] Essential Pixlr Upgrades for Enhanced Results</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-immediate-recovery-of-lost-snapshots/"><u>[Updated] In 2024, Immediate Recovery of Lost Snapshots</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-the-quick-convert-guide-transforming-gifs-into-telegram-and-whatsapp-emojis-for-2024/"><u>[Updated] The Quick-Convert Guide Transforming Gifs Into Telegram and WhatsApp Emojis for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/bard-vs-chatgpt-vs-offline-alpaca-evaluating-the-best-large-language-models-for-your-needs/"><u>Bard Vs. ChatGPT Vs. Offline Alpaca: Evaluating the Best Large Language Models for Your Needs</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/best-ai-companion-debate-assessing-notion-ai-against-chatgpt-in-the-genai-race/"><u>Best AI Companion Debate: Assessing Notion AI Against ChatGPT in the GenAI Race</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/code-creation-contenders-github-copilot-vs-chatgpts-skills/"><u>Code Creation Contenders: GitHub Copilot Vs. ChatGPT's Skills</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/combating-loneliness-leveraging-chatgpts-power/"><u>Combating Loneliness: Leveraging ChatGPT's Power</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/decoding-ai-competition-the-in-depth-comparison-of-chatgpt-vs-bing-chat/"><u>Decoding AI Competition: The In-Depth Comparison of ChatGPT Vs. Bing Chat</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-your-storytelling-with-chatgpt-a-guide-to-6-key-approaches/"><u>Elevate Your Storytelling with ChatGPT - A Guide to 6 Key Approaches</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-meizu-21-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Meizu 21 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/microsoft-enhances-bing-with-advanced-ai-capabilities-insights-into-the-future/"><u>Microsoft Enhances Bing with Advanced AI Capabilities – Insights Into the Future</u></a></li>
-<li><a href="https://extra-information.techidaily.com/non-profit-gaming-audio-archive-downloadable/"><u>Non-Profit Gaming Audio Archive Downloadable</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/overcoming-chatgpt-busy-at-moment-error-on-your-windows-device/"><u>Overcoming ChatGPT 'Busy at Moment' Error on Your Windows Device</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/soundwave-selections-the-ultimate-guide-to-melodies-for-intros/"><u>Soundwave Selections The Ultimate Guide to Melodies for Intros</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-generative-ais-full-potential-with-chatgpt-innovations-and-possibilities-in-modern-tech/"><u>Unlocking Generative AI's Full Potential with ChatGPT: Innovations and Possibilities in Modern Tech</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-brainless-beats-celebrating-best-zombie-gaming/"><u>2024 Approved Brainless Beats Celebrating Best Zombie Gaming</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discovering-artificial-intelligence-how-2024-could-revolutionize-personal-learning-experiences-with-ai/"><u>Discovering Artificial Intelligence: How 2024 Could Revolutionize Personal Learning Experiences with AI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/dojs-legal-battle-against-apple-unpacking-the-consequences-for-ios-users-and-developers-expert-analysis/"><u>DOJ's Legal Battle Against Apple: Unpacking the Consequences for iOS Users and Developers | Expert Analysis</u></a></li>
+<li><a href="https://solve-help.techidaily.com/effortless-guide-to-bypassing-drm-on-itunes-m4a-files/"><u>Effortless Guide to Bypassing DRM on iTunes M4A Files</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/expert-insight-iphone-15-evaluation-top-choice-for-seasoned-tech-enthusiasts/"><u>Expert Insight: IPhone 15 Evaluation - Top Choice for Seasoned Tech Enthusiasts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/explore-top-5-innovative-features-of-ios-18-developer-preview-a-must-read-by-zdnet/"><u>Explore Top 5 Innovative Features of iOS 18 Developer Preview: A Must-Read by ZDNet</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/guiding-principles-for-using-chatgpt-effectively-as-a-writer/"><u>Guiding Principles for Using ChatGPT Effectively as a Writer</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-realme-v30t-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Realme V30T</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/maximizing-visual-variety-with-b-roll-elements-for-2024/"><u>Maximizing Visual Variety with B Roll Elements for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigate-the-latest-in-computing-with-toms-hardware-analysis/"><u>Navigate the Latest in Computing with Tom's Hardware Analysis</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/scouting-talent-top-5-video-artists-who-create-with-rhythm-and-beat/"><u>Scouting Talent Top 5 Video Artists Who Create With Rhythm & Beat</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-list-of-watertight-smartwatches-for-2eom-expertly-assessed-and-evaluated-zdnet/"><u>The Ultimate List of Watertight Smartwatches for 2Eom - Expertly Assessed and Evaluated | ZDNET</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-productive-ipad-applications-enhancing-efficiency-and-streamlining-tasks-insights-from-zdnet/"><u>Top Productive iPad Applications: Enhancing Efficiency and Streamlining Tasks - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-mac-enhancement-tools-of-2022-expert-picks/"><u>Top-Rated Mac Enhancement Tools of 2022: Expert Picks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/what-to-expect-from-your-upgraded-apple-watch-unlocking-watchos-11-secrets-with-insights-from-zdnet/"><u>What to Expect From Your Upgraded Apple Watch? Unlocking WatchOS 11 Secrets with Insights From ZDNET</u></a></li>
 </ul></div>
 

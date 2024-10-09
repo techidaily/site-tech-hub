@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Exclusive Savings: Preorder Tips for the Latest Tech Marvels, iPhone 15 and Apple Watch S9 Ultra, Perfected by ZDNET Experts"
-date: 2024-10-03T14:13:54.765Z
-updated: 2024-10-04T05:17:36.581Z
+date: 2024-10-04T21:07:05.241Z
+updated: 2024-10-09T22:25:29.755Z
 tags:
   - apple
 categories:
@@ -41,10 +41,16 @@ Apple's entry-level iPhone models received new upgrades like a Dynamic Island di
 [PREORDER NOW Apple Store The iPhone 15 and iPhone 15 Plus are available for preorder now, starting at $799 and $899, respectively. On the Apple Store, you can also get up to $800 off on a new iPhone 15 or iPhone 15 Plus when you trade in an iPhone 11 or newer model. View at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)[PREORDER NOW Best Buy Preorder for the iPhone 15 and iPhone 15 Plus starts Friday, September 15, at Best Buy. View at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-iphone-15-128gb-blue-verizon%2F6418073.p%3FskuId%3D6418073&publisher_slug=itechdaily19598&exclusive=1)[PREORDER NOW Verizon New or existing Verizon customers adding a new line on the Unlimited Ultimate plan can get up to $1,000 off the new iPhone 15 line-up when you trade in any old iPhone in any condition. If you are already a Verizon customer and are looking to upgrade, you can get up to $830 off the iPhone 15 line-up with select trade-in and select Unlimited plans. View at Verizon](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.verizon.com/wireless-devices/smartphones/apple-iphone-15-announcement)[PREORDER NOW AT&T At AT&T, both new and existing customers can get the new iPhone 15 through the carrier, as long as they have an eligible trade-in. View at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/browse/apple/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iPhone 15 Pro and iPhone 15 Pro Max
@@ -58,10 +64,10 @@ Meanwhile, Apple's more premium iPhone models have a new Titanium design that's 
 [PREORDER NOW Apple Store The iPhone 15 Pro and iPhone 15 Pro Max are available to preorder on Friday, September 15, starting at $999 and $1,199, respectively. On the Apple Store, you can also get up to $1,000 off on a new iPhone 15 Pro or iPhone 15 Pro Max when you trade in an iPhone 11 or newer model. View at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)[PREORDER NOW Best Buy Preorder for the iPhone 15 Pro and iPhone 15 Pro Max starts Friday, September 15, at Best Buy. View at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-iphone-15-pro-max-256gb-black-titanium-at-t%2F6525421.p%3FskuId%3D6525421&publisher_slug=itechdaily19598&exclusive=1)[PREORDER NOW Verizon New or existing Verizon customers adding a new line on the Unlimited Ultimate plan can get up to $1,000 off the new iPhone 15 line-up when you trade in any old iPhone in any condition. If you are already a Verizon customer and are looking to upgrade, you can get up to $830 off the iPhone 15 line-up with select trade-in and select Unlimited plans. View at Verizon](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.verizon.com/wireless-devices/smartphones/apple-iphone-15-announcement)[PREORDER NOW T-Mobile New and existing T-Mobile customers can get the iPhone 15 Pro for free (via 24 monthly bill credits when you trade in an eligible device on a Go5G Plus or Go5G Next plan). View at T-mobile](https://tmobile.prf.hn/click/camref:1100l3XZFI/pubref:zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/destination:https%3A%2F%2Fwww.t-mobile.com%2Fdevices%2Fnew-apple-iphone-15-pro-release)[PREORDER NOW AT&T New and existing customers at AT&T can get the iPhone 15 Pro for $1,000 off when they bring in an eligible trade-in. View at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/browse/apple/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apple Watch Series 9
@@ -74,13 +80,6 @@ The new [Apple Watch Series 9](https://www.zdnet.com/article/apple-watch-series-
 
 [PREORDER NOW Apple Store The Apple Watch Series 9 is available to preorder now and will be available officially on Friday, September 22\. Pricing starts at $399. View at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)[PREORDER NOW Best Buy Preorder for the Apple Watch Series 9 starts Friday, September 15, at Best Buy. View at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-watch-series9-gps-45mm-pink-aluminum-case-with-light-pink-sport-band-s-m-pink%2F6340289.p%3FskuId%3D6340289&publisher_slug=itechdaily19598&exclusive=1)[PREORDER NOW Verizon At Verizon, you can get the new Apple Watch Series 9 for less than $6 a month when you purchase select iPhones (with qualified watch trade-in). View at Verizon](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.verizon.com/wireless-devices/smart-watches/apple-watch-series-9-announcement/)[PREORDER NOW AT&T AT&T is offering a sort of "Buy one, get one free" deal for all Apple Watches. When you buy an Apple Watch Series 9, you can get the second one for $300 off. View at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/wearables/browse/apple/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Apple Watch Ultra 2
 
 Jason Hiner/ZDNET
@@ -91,13 +90,20 @@ Apple announced the [Apple Watch Ultra](https://www.zdnet.com/article/apple-watc
 
 [PREORDER NOW Apple Store The Apple Watch Ultra 2 is available to preorder now, and will be officially available on Friday, September 22\. It starts at $799. View at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch-ultra&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)[PREORDER NOW Best Buy Preorder for the Apple Watch Ultra 2 starts Friday, September 15, at Best Buy. View at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-watch-ultra-2-gps-cellular-49mm-titanium-case-with-orange-beige-trail-loop-m-l-titanium%2F6560077.p%3FskuId%3D6560077&publisher_slug=itechdaily19598&exclusive=1)[PREORDER NOW Verizon At Verizon, you can get the new Apple Watch Ultra 2 for $14 a month when you purchase select iPhones (with qualified watch trade-in). View at Verizon](https://www.tkqlhce.com/click-9041660-15498661-1682437093000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### PREORDER NOW
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AT&T
@@ -146,19 +152,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-behind-the-curtain-how-youtube-tallys-its-views-for-2024/"><u>[New] Behind the Curtain How YouTube Tally's Its Views for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-impact-of-photoshops-stabilization-on-quality-control/"><u>[New] The Impact of Photoshop's Stabilization on Quality Control</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-hobby-to-hustle-making-money-with-videos-for-2024/"><u>[Updated] From Hobby to Hustle Making Money with Videos for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/building-bridges-of-interaction-using-chatgpt-to-overcome-loneliness/"><u>Building Bridges of Interaction: Using ChatGPT to Overcome Loneliness</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/fixed-microsoft-excel-2010-cannot-access-the-file-error-by-stellar-guide/"><u>Fixed Microsoft Excel 2010 Cannot Access the File Error</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/from-typewriters-to-ticklers-unveiling-the-past-of-laptops-and-vpns-plus-ais-funny-side/"><u>From Typewriters to Ticklers: Unveiling the Past of Laptops and VPNs, Plus AI's Funny Side</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/go-mobile-with-ai-assistance-chatgpt-arrives-on-android-devices/"><u>Go Mobile with AI Assistance - ChatGPT Arrives on Android Devices</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/gpt-n-comprehensive-guide-bringing-ai-to-the-masses/"><u>GPT-N Comprehensive Guide: Bringing AI to the Masses</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-common-windows-1110-gpu-challenges/"><u>Navigating Through Common Windows 11/10 GPU Challenges</u></a></li>
-<li><a href="https://windows11.techidaily.com/newbies-in-the-windows-world-steer-clear-of-these-top-8-faux-pas/"><u>Newbies in the Windows World: Steer Clear of These Top 8 Faux Pas</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/taking-control-of-quality-edit-your-published-videos-on-youtube-for-2024/"><u>Taking Control of Quality Edit Your Published Videos on YouTube for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ultimate-guide-engaging-crypto-prompts-for-chatgpt-experts/"><u>Ultimate Guide: Engaging Crypto Prompts for ChatGPT Experts</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-mastering-splitting-your-macbook-airs-display-like-a-pro/"><u>Ultimate Guide: Mastering Splitting Your MacBook Air's Display Like A Pro</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unraveling-generative-ais-functionality-and-its-corporate-applications/"><u>Unraveling Generative AI's Functionality and Its Corporate Applications</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-elite-tripods-the-best-8-for-4k-video-capture/"><u>[New] In 2024, Elite Tripods The Best 8 for 4K Video Capture</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-chuckle-crafting-tool/"><u>2024 Approved Chuckle Crafting Tool</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/chatgpt-unveiled-an-in-depth-guide-to-microsofts-ai-breakthrough/"><u>ChatGPT Unveiled: An In-Depth Guide to Microsoft's AI Breakthrough</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpts-source-material-how-it-formulates-answers-without-stealing-ideas/"><u>ChatGPT's Source Material: How It Formulates Answers Without Stealing Ideas</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/choosing-your-ideal-tablet-amazon-fire-vs-samsung-a-comparison-guide/"><u>Choosing Your Ideal Tablet: Amazon Fire Vs. Samsung - A Comparison Guide</u></a></li>
+<li><a href="https://discover-best.techidaily.com/cookiebot-enhanced-power-your-websites-analytics-and-optimization/"><u>Cookiebot-Enhanced: Power Your Website's Analytics and Optimization</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-the-european-commissions-ai-legislation-and-its-impact-on-conversational-ais-like-chatgpt/"><u>Decoding the European Commission's AI Legislation and Its Impact on Conversational AIs Like ChatGPT</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/descargar-conversor-de-video-gratuito-para-cambiar-el-formato-de-archivo-desde-3gp-a-mp4/"><u>Descargar Conversor De Vídeo Gratuito Para Cambiar El Formato De Archivo Desde .3Gp a MP4</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/europes-ai-directive-unveiled-implications-for-chatgpt-systems/"><u>Europe's AI Directive Unveiled: Implications for ChatGPT Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-proficient-is-chatgpt-in-the-art-of-cocktail-recipes/"><u>How Proficient Is ChatGPT in the Art of Cocktail Recipes?</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oppo-find-x7-ultra-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo Find X7 Ultra If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-webm-to-mp4-converter-roundup-top-10-picks/"><u>In 2024, WebM to MP4 Converter Roundup Top 10 Picks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-it-possible-for-cybercriminals-to-leverage-chatgpt-for-banking-and-computer-intrusions/"><u>Is It Possible for Cybercriminals to Leverage ChatGPT for Banking and Computer Intrusions?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixes-for-call-of-duty-black-ops-4-initialization-issues/"><u>Resolved! Fixes for Call of Duty Black Ops 4 Initialization Issues</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-getting-started-with-chatgpt-on-your-linux-system/"><u>Step-by-Step Guide: Getting Started with ChatGPT on Your Linux System</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-7-incredible-chatgpt-browser-plugins-for-enhanced-ai-interaction-on-your-chrome/"><u>Top 7 Incredible ChatGPT Browser Plugins for Enhanced AI Interaction on Your Chrome</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unboxing-the-netgear-c370er-an-insightful-study-on-its-modem-router-integration-capabilities/"><u>Unboxing the Netgear C370er - An Insightful Study on Its Modem-Router Integration Capabilities</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleash-conversational-ai-anywhere-with-chatgpts-latest-ios-application/"><u>Unleash Conversational AI Anywhere with ChatGPT's Latest iOS Application</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-claude-3-trumps-chatgpt-a-breakdown-into-four-points/"><u>Why Claude 3 Trumps ChatGPT: A Breakdown Into Four Points</u></a></li>
 </ul></div>
 

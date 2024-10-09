@@ -1,7 +1,7 @@
 ---
 title: "Apple's Strategic Leap in Artificial Intelligence: Exploring the Functionality of Its New Models, as Featured by ZDNet"
-date: 2024-09-30T13:08:36.463Z
-updated: 2024-10-03T18:27:43.048Z
+date: 2024-10-02T18:46:42.947Z
+updated: 2024-10-09T16:17:58.655Z
 tags:
   - apple
 categories:
@@ -86,6 +86,13 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -100,6 +107,13 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -109,13 +123,6 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -129,10 +136,10 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -152,13 +159,6 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -168,10 +168,10 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -218,22 +218,16 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-navigating-file-transfer-how-to-save-igtv-videos-on-windowsmac-os/"><u>[New] In 2024, Navigating File Transfer How to Save IGTV Videos on Windows/Mac OS</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-unveiling-10-cost-effective-virtual-communication-tools-for-2024/"><u>[New] Unveiling 10 Cost-Effective Virtual Communication Tools for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/defeating-feelings-of-desolation-a-step-by-step-guide-to-utilizing-chatgpt/"><u>Defeating Feelings of Desolation: A Step-by-Step Guide to Utilizing ChatGPT</u></a></li>
-<li><a href="https://tools.techidaily.com/ablebits/google-docs-add-ons-easy-mail-merge/"><u>Easy Mail Merge for Google Docs</u></a></li>
-<li><a href="https://games-able.techidaily.com/expertly-designed-charging-hubs-compatible-with-sony-console/"><u>Expertly Designed Charging Hubs: Compatible with Sony Console</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fix-stuck-pointer-in-dark-window-w10/"><u>Fix Stuck Pointer in Dark Window, W10</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/identifying-and-resolving-common-errors-in-chatgpt-systems/"><u>Identifying and Resolving Common Errors in ChatGPT Systems</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-it-effective-to-employ-chatgpt-for-proofreading-texts/"><u>Is It Effective to Employ ChatGPT for Proofreading Texts?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/making-cash-from-conversations-boosted-systems/"><u>Making Cash From Conversations, Boosted Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/redirecting-and-reinstating-windows-1011s-ms-store/"><u>Redirecting and Reinstating Windows 10/11'S MS Store</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-non-operational-keys-on-your-windows-machine/"><u>Solving Non-Operational Keys on Your Windows Machine</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-successfully-installing-your-sandisk-ssd-drives-all-solutions-included/"><u>Step-by-Step Guide: Successfully Installing Your Sandisk SSD Drives - All Solutions Included</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-5-ai-powered-tools-to-spark-creative-writing-ideas/"><u>Top 5 AI-Powered Tools to Spark Creative Writing Ideas</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/transforma-tus-archivos-mp4-en-linea-sin-costo-alguno-mediante-la-solucion-avanzada-de-movavi/"><u>Transforma Tus Archivos MP4 en Línea Sin Costo Alguno Mediante La Solución Avanzada De Movavi</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/trendsetters-on-twitternet-top-10-threads-ranking/"><u>Trendsetters on Twitternet Top 10 Threads Ranking</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-the-dark-side-could-chatgpt-facilitate-malware-creation/"><u>Understanding the Dark Side: Could ChatGPT Facilitate Malware Creation?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-new-capabilities-how-to-integrate-chatgpt-and-the-wolfram-extension-effectively/"><u>Unlocking New Capabilities: How to Integrate ChatGPT and the Wolfram Extension Effectively</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-channel-dominance-plan-studio-protocol-vs-beta-update-for-2024/"><u>[New] Channel Dominance Plan Studio Protocol Vs. Beta Update for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-foreground-emphasis-tips-for-logitech-video-recordings/"><u>[Updated] Foreground Emphasis Tips for Logitech Video Recordings</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-obs-streamers-toolkit-for-captivating-sessions/"><u>[Updated] In 2024, OBS Streamer’s Toolkit for Captivating Sessions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/apple-unveils-revolutionary-on-device-ai-artist-outshining-dall-e-with-seamless-creations-discover-how-it-transforms-imagination-into-reality/"><u>Apple Unveils Revolutionary On-Device AI Artist, Outshining DALL-E with Seamless Creations - Discover How It Transforms Imagination Into Reality</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-stuck-or-failing-delivery-of-imessages-on-your-iphone/"><u>Fixing Stuck or Failing Delivery of iMessages on Your iPhone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-embed-webcam-footage-seamlessly-via-vlc-capture-feature/"><u>In 2024, Embed Webcam Footage Seamlessly via VLC Capture Feature</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-mac-efficiency-a-step-by-step-guide-to-configuring-and-utilizing-hot-corners-in-macos-unveiled-by-zdnet/"><u>Mastering Mac Efficiency: A Step-by-Step Guide to Configuring & Utilizing Hot Corners in macOS - Unveiled by ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/snag-your-new-airpods-pro-2-with-integrated-hearing-aid-feature-at-an-unbeatable-24-discount-today-exclusive-offer-on-zdnet/"><u>Snag Your New AirPods Pro 2 with Integrated Hearing Aid Feature at an Unbeatable 24% Discount Today - Exclusive Offer on ZDNet!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-4-iphone-16-innovations-that-elevate-the-baseline-apple-experience-techradar/"><u>Top 4 iPhone 16 Innovations That Elevate the Baseline Apple Experience | TechRadar</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-and-overcoming-framerate-issues-in-dying-light/"><u>Troubleshooting & Overcoming Framerate Issues in Dying Light</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-top-4-new-ipados-16-releases-from-apples-worldwide-developers-conference-eligible-devices-explored-a-comprehensive-guide-by-techsavvy/"><u>Unveiling the Top 4 New iPadOS 16 Releases From Apple's Worldwide Developers Conference: Eligible Devices Explored – A Comprehensive Guide by TechSavvy</u></a></li>
 </ul></div>
 

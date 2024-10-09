@@ -1,7 +1,7 @@
 ---
 title: Top Current Savings on Amazon - August 2024 Exclusive Offers
-date: 2024-09-27T18:28:10.856Z
-updated: 2024-10-03T18:33:18.552Z
+date: 2024-10-02T21:04:37.407Z
+updated: 2024-10-09T16:31:56.044Z
 tags:
   - apple
 categories:
@@ -37,13 +37,6 @@ Jason Hiner/ZDNET
 * [Bose SoundLink Flex Speaker](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBose-SoundLink-Bluetooth-Portable-Waterproof%2Fdp%2FB099TJGJ91%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB099TJGJ91%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C80da82b6-8768-4099-8fa7-3331c5c11350%7Cdtp&dtb=1) for $109 (save $40)
 * [Asus Tuf Gaming A16 2024 Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-TUF-Gaming-Laptop-165Hz%2Fdp%2FB0CRCWY9VT%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB0CRCWY9VT%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C80da82b6-8768-4099-8fa7-3331c5c11350%7Cdtp&dtb=1) for $1,300 (save $500)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The best Amazon tech deals
 
 Jason Hiner/ZDNET
@@ -68,13 +61,6 @@ Jason Hiner/ZDNET
 * [Sony 65-inch OLED 4K Ultra Bravia 8 TV](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSony-Exclusive-Features-PlayStation-K-65XR80%2Fdp%2FB0CVQ6YLH7%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C80da82b6-8768-4099-8fa7-3331c5c11350%7Cdtp&dtb=1) for $1,1998 (save $502)
 * [LG 75-inch QNED80T LED Smart TV](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLG-75-Inch-Processor-AI-Powered-75QNED80TUC%2Fdp%2FB0CVSK2F85%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB0CVSK2F85%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C80da82b6-8768-4099-8fa7-3331c5c11350%7Cdtp&dtb=1) for $1,197 (save $203)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The best Amazon robot vacuum deals
 
 Maria Diaz/ZDNET
@@ -88,10 +74,10 @@ Maria Diaz/ZDNET
 * [Roborock Q8 Max Robot Vacuum and Mop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Froborock-Q8-Max-Navigation-Multi-Level%2Fdp%2FB0C7VFD9Q4%2Fref%3Dsxin%5F15%5Fpa%5Fsp%5Fsearch%5Fthematic%5Fsspa%3Fcontent-id%3Damzn1.sym.60b0c4ef-0fd2-46d0-8724-84b6f746d062%3Aamzn1.sym.60b0c4ef-0fd2-46d0-8724-84b6f746d062%26crid%3D37DMVM6CIU4Y0%26cv%5Fct%5Fcx%3Drobot%2Bvacuum%26dib%3DeyJ2IjoiMSJ9.A4bejnO1HqJM%5FozbrGpsoYI205q99h9DoNEZVmg9dNI-ILQl1J-mSnznl4IKQtzDgOTGYo%5Fa7rpT3PH-A2Mpiw.a4a0hgwCDw4CmRSsqS2wHRhfJu%5FuKKwf5z-r8S-VJok%26dib%5Ftag%3Dse%26keywords%3Drobot%2Bvacuum%26pd%5Frd%5Fi%3DB0C7VFD9Q4%26pd%5Frd%5Fr%3Dc5436de8-abf5-4537-95f0-9cc48163f596%26pd%5Frd%5Fw%3DOlqAp%26pd%5Frd%5Fwg%3DQ2Iuk%26pf%5Frd%5Fp%3D60b0c4ef-0fd2-46d0-8724-84b6f746d062%26pf%5Frd%5Fr%3DAKHVV8K35XC7VV3MS5S3%26qid%3D1723557736%26sbo%3DRZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D%26sprefix%3Drobot%2Bvacuum%2B%2Caps%2C104%26sr%3D1-20-f853d353-bf33-45e7-b5c2-2cb2b31abc9b-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C80da82b6-8768-4099-8fa7-3331c5c11350%7Cdtp&dtb=1) for $320 (save $280)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The best Amazon home deals
@@ -108,16 +94,10 @@ Maria Diaz/ZDNET
 * [Bluetti EB3A Portable Power Station](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBLUETTI-Portable-EB3A-Recharge-Generator%2Fdp%2FB09WW3CTF4%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB09WW3CTF4%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C80da82b6-8768-4099-8fa7-3331c5c11350%7Cdtp&dtb=1) for $198 (save $102)
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##   
@@ -128,9 +108,23 @@ ZDNET only writes about deals we want to buy -- devices and products we desire, 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## When will these deals expire?
 
 Deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on a deal, but don't fret -- we're constantly finding new chances to save and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How much is an Amazon Prime membership?
 
@@ -180,20 +174,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-beginners-pathway-to-livestreaming-on-facebook-and-mobile-devices/"><u>[New] Beginner's Pathway to Livestreaming on Facebook and Mobile Devices</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-ensuring-flawless-sending-of-large-videos-from-iphone-to-mac-pc-for-2024/"><u>[New] Ensuring Flawless Sending of Large Videos From iPhone to Mac PC for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-novice-level-nft-production-with-precision/"><u>2024 Approved Navigating Novice-Level NFT Production with Precision</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/auditory-accents-integrating-tracks-into-video-on-modern-windows/"><u>Auditory Accents Integrating Tracks Into Video on Modern Windows</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/rting-imovie-edits-for-online-exhibition-youtube-edition/"><u>Converting iMovie Edits for Online Exhibition - YouTube Edition</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/critical-insights-on-chatgpt-by-openai-spotlighting-the-primary-concerns/"><u>Critical Insights on ChatGPT by OpenAI - Spotlighting the Primary Concerns</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/deciphering-complexity-beyond-chatgpts-simplified-synopses/"><u>Deciphering Complexity Beyond ChatGPT's Simplified Synopses</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/gratis-dvd-region-lock-bypass-fur-windows-1087-wie-man-die-dvd-region-andert-kostenlos/"><u>Gratis DVD Region Lock Bypass Für Windows 10/8/7 - Wie Man Die DVD-Region Ändert Kostenlos</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-does-the-chatgpt-copilot-extension-enhance-productivity/"><u>How Does the ChatGPT Copilot Extension Enhance Productivity?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/immediate-fixes-for-hitching-windows-tasks/"><u>Immediate Fixes for Hitching Windows Tasks</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-redmi-note-13-pro-5g-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi Redmi Note 13 Pro 5G Phone FRP Lock</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-significance-of-vector-databases-for-ai-innovation/"><u>The Significance of Vector Databases for AI Innovation</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-the-lock-top-4-causes-of-chatgpt-access-denial-and-solutions/"><u>Unlocking the Lock: Top 4 Causes of ChatGPT Access Denial and Solutions</u></a></li>
-<li><a href="https://driver-download.techidaily.com/up-to-date-geforce-rtx-3080-ti-graphics-card-drivers-for-windows-users-on-win-10-8-and-7/"><u>Up-to-Date GeForce RTX 3080 Ti Graphics Card Drivers for Windows Users on Win 10, 8, and 7</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/will-gpt-challenge-se-dominance/"><u>Will GPT Challenge SE Dominance?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-basic-routines-preserving-google-voice-conversations-for-2024/"><u>[New] Basic Routines Preserving Google Voice Conversations for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-commanders-conclave-celebrating-the-best-of-7-total-wars/"><u>[Updated] In 2024, Commanders' Conclave Celebrating the Best of 7 Total Wars</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-strategizing-for-success-the-essential-guide-to-online-individuality-for-2024/"><u>[Updated] Strategizing for Success The Essential Guide to Online Individuality for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-tricks-for-instant-lenovo-t450-driver-enhancement-the-latest-guide/"><u>Easy Tricks for Instant Lenovo T450 Driver Enhancement: The Latest Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exceptional-value-premium-asmr-microphones-at-low-costs-for-2024/"><u>Exceptional Value Premium ASMR Microphones at Low Costs for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exclusive-review-the-ultimate-protection-of-apples-toughest-iphone-case-and-its-innovative-safety-edge-zdnet/"><u>Exclusive Review: The Ultimate Protection of Apple's Toughest iPhone Case & Its Innovative Safety Edge - ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-diminutive-dynamo-the-latest-mac-minis-power-vs-size-as-featured-on-zdnet/"><u>Exploring the Diminutive Dynamo: The Latest Mac Mini's Power Vs. Size, As Featured on ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/get-ready-for-the-apple-vision-pro-release-pre-orders-begin-january-19-stores-open-february-2-insights-by-zdnet/"><u>Get Ready for the Apple Vision Pro Release: Pre-Orders Begin January 19, Stores Open February 2 | Insights by ZDNet</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oppo-k11-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Oppo K11 5G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-google-pixel-8-pro-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Google Pixel 8 Pro Device</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/iphone-data-protection-mastering-cloud-and-mac-sync-and-backup-techniques/"><u>IPhone Data Protection: Mastering Cloud and Mac Sync & Backup Techniques</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/is-inshot-outshining-others-in-editing-features-for-2024/"><u>Is InShot Outshining Others in Editing Features for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/lgs-free-audio-boost-attracts-apple-aficionados-according-to-zdnet-insights/"><u>LG's Free Audio Boost Attracts Apple Aficionados, According to ZDNet Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/new-feature-alert-pause-your-fitness-trackers-activity-rings-with-apple-watch/"><u>New Feature Alert: Pause Your Fitness Tracker's Activity Rings with Apple Watch</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/next-weeks-iphone-upgrade-discover-the-latest-anker-charger-and-accessory-line-expert-tips/"><u>Next Week's iPhone Upgrade? Discover the Latest Anker Charger & Accessory Line - Expert Tips</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-ranking-mac-models-a-comprehensive-review-by-zdnet/"><u>Top-Ranking Mac Models - A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-kids-tablets-as-chosen-by-parents-expert-picks-from-zdnet/"><u>Top-Rated Kid's Tablets as Chosen by Parents | Expert Picks From ZDNet</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-honor-90-pro-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Honor 90 Pro.</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/watchos-11-update-guide-determining-eligible-and-ineligible-apple-watch-models-for-the-latest-os/"><u>WatchOS 11 Update Guide: Determining Eligible and Ineligible Apple Watch Models for the Latest OS</u></a></li>
 </ul></div>
 

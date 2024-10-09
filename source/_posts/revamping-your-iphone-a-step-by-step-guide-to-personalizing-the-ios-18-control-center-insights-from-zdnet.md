@@ -1,7 +1,7 @@
 ---
 title: "Revamping Your iPhone: A Step-by-Step Guide to Personalizing the iOS 18 Control Center - Insights From ZDNet"
-date: 2024-09-30T14:47:12.678Z
-updated: 2024-10-04T02:05:53.433Z
+date: 2024-10-02T19:23:35.407Z
+updated: 2024-10-09T22:30:05.540Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -42,13 +42,6 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -58,11 +51,25 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Delete a control
 
@@ -71,10 +78,10 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -90,13 +97,6 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -134,14 +134,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-essential-guide-to-writing-click-worthy-youtube-titles-for-2024/"><u>[New] Essential Guide to Writing Click-Worthy Youtube Titles for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Xiaomi 14 | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-tips-for-resolving-android-devices-wi-fi-authentication-woes/"><u>Expert Tips for Resolving Android Devices' Wi-Fi Authentication Woes</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-frontiers-of-text-generation-via-openais-api/"><u>Exploring the Frontiers of Text Generation via OpenAI's API</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/google-bard-vs-bing-chat-showdown-determining-the-leading-ai-conversationalist/"><u>Google Bard Vs. Bing Chat Showdown: Determining the Leading AI Conversationalist</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-core-elements-of-stories/"><u>In 2024, Core Elements of Stories</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/openai-disputes-claims-of-chatgpt-losing-smarts-fact-check/"><u>OpenAI Disputes Claims of ChatGPT Losing Smarts – Fact Check</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-5-most-impactful-ai-solutions-for-modern-enterprise-owners/"><u>The 5 Most Impactful AI Solutions for Modern Enterprise Owners</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transforming-tech-industry-openai-debuts-advanced-gpt-4-artificial-intelligence-platform/"><u>Transforming Tech Industry, OpenAI Debuts Advanced GPT-4 Artificial Intelligence Platform</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-reverse-revelations-instagrams-guide-to-rotating-images-for-engagement-for-2024/"><u>[New] Reverse Revelations Instagram's Guide to Rotating Images for Engagement for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-leveraging-fb-platforms-for-public-health-initiatives/"><u>2024 Approved Leveraging FB Platforms for Public Health Initiatives</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/affordable-and-powerful-discover-the-best-value-in-smartphones-with-iphone-14-plus-and-its-long-lasting-battery-why-you-cant-resist-this-deal/"><u>Affordable & Powerful: Discover the Best Value in Smartphones with iPhone 14 Plus and Its Long-Lasting Battery – Why You Can't Resist This Deal!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/apples-future-vision-introducing-camera-equipped-airpods-set-to-release-in-2026-according-to-insider-sources/"><u>Apple's Future Vision: Introducing Camera-Equipped AirPods Set to Release in 2026, According to Insider Sources</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-oppo-a58-4g-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Oppo A58 4G is off? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exclusive-how-selected-hotels-introduce-apple-airplay-technology-for-spotless-entertainment-control-a-complete-guide-techadvocate/"><u>Exclusive: How Selected Hotels Introduce Apple AirPlay Technology for Spotless Entertainment Control – A Complete Guide | TechAdvocate</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-s18e-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo S18e To Phone | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/iphone-zoom-videography-for-2024/"><u>IPhone Zoom Videography for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcome-game-interruptions-fix-nba-2k2n-pc-crashes-with-these-7-proven-tips-and-tricks/"><u>Overcome Game Interruptions: Fix NBA 2K2n PC Crashes with These 7 Proven Tips & Tricks</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pushing-boundaries-with-enhanced-exposure-controls/"><u>Pushing Boundaries with Enhanced Exposure Controls</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/samsung-reclaims-lead-in-global-smartphone-shipments-surpassing-apple-rival-manufacturer-closes-gap/"><u>Samsung Reclaims Lead in Global Smartphone Shipments, Surpassing Apple; Rival Manufacturer Closes Gap</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/stay-cozy-during-video-conferencing-the-new-apple-tv-program-enables-effortless-zoom-calls-on-your-lounge-chair/"><u>Stay Cozy During Video Conferencing: The New Apple TV Program Enables Effortless Zoom Calls on Your Lounge Chair</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-compact-tablets-comprehensive-testing-and-reviews-by-tech-experts-insight/"><u>Top-Rated Compact Tablets : Comprehensive Testing & Reviews by Tech Experts Insight</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-resolving-the-issue-when-humankind-app-wont-start/"><u>Troubleshooting Steps: Resolving the Issue When 'Humankind' App Won't Start</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/upgrade-to-cutting-edge-ai-chat-companions/"><u>Upgrade to Cutting-Edge AI Chat Companions</u></a></li>
 </ul></div>
 

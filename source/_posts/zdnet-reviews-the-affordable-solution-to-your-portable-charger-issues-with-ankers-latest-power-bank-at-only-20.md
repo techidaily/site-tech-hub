@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Reviews: The Affordable Solution to Your Portable Charger Issues with Anker's Latest Power Bank at Only $20!"
-date: 2024-09-26T17:56:55.024Z
-updated: 2024-10-04T04:55:53.177Z
+date: 2024-10-04T21:17:22.840Z
+updated: 2024-10-09T18:02:10.981Z
 tags:
   - apple
 categories:
@@ -39,10 +39,10 @@ To Android users and new (or incoming) iPhone users who are looking to add a USB
 See, I have quibbles with many portable chargers. Those include forgetting a wire, not knowing where to hold the charger while it's charging my phone, and feeling like it takes forever to increase the battery percentage at all. This charger addresses all of the issues and more. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 
@@ -71,10 +71,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Impressive charging power for its size
@@ -86,10 +92,10 @@ The 22.5W Power Bank packs 5,000mAh capacity, which is enough to charge an [iPho
 Although it might not seem like a tremendous boost, remember that this portable charger is meant to get you out of a pinch. If your phone died on you while you were out, getting a quarter of your battery back in under 30 minutes would be a lifesaver. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Charging the power bank is hassle-free
@@ -109,16 +115,10 @@ The charger comes in five colors: blue, black, white, green, and pink, matching 
 If you are searching for a new portable charger for your new iPhone or just because you are due for an upgrade, the [Anker Nano 22.5W Power Bank](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C6XK77HJ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4d0a93a2-4ab6-4f12-9c9e-9e10206407cc%7Cdtp&dtb=1) is a good choice because it won't break the bank and will get the job done. The fun color options, effectiveness, size, and low price point even make it a good choice for gifting.
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -155,16 +155,22 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-crafting-attention-grabbing-facebook-giveaways/"><u>[New] Crafting Attention-Grabbing Facebook Giveaways</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-ultimate-2023-timeline-turning-srt-into-txt-swiftly/"><u>[New] In 2024, Ultimate 2023 Timeline Turning SRT Into TXT Swiftly</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-best-shot-matchmaking-optimal-gimbals-for-dslr-quality-vids/"><u>[Updated] Best Shot Matchmaking Optimal Gimbals for DSLR-Quality Vids</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-in-education-best-practices-to-optimize-academic-performance/"><u>ChatGPT in Education: Best Practices to Optimize Academic Performance</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/comparing-top-tech-giants-the-battle-of-apple-homepod-and-google-nest-audio/"><u>Comparing Top Tech Giants: The Battle of Apple HomePod and Google Nest Audio</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-fusion-of-sci-fi-with-modern-technology-the-wonders-of-ais-role/"><u>Exploring the Fusion of Sci-Fi with Modern Technology: The Wonders of AI's Role</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-limitations-how-chatgpt-fails-to-recognize-its-own-words/"><u>Exploring the Limitations: How ChatGPT Fails to Recognize Its Own Words</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-samsung-galaxy-a14-4g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Samsung Galaxy A14 4G For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-windows-defenders-protection-to-use-other-avs/"><u>Overcoming Windows Defender's Protection to Use Other AVs</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-pivotal-role-of-eus-artificial-intelligence-law-on-ai-applications-like-chatgpt/"><u>The Pivotal Role of EU's Artificial Intelligence Law on AI Applications Like ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unearth-the-ultimate-collection-of-gpt-powered-query-starters-on-github-20-selections/"><u>Unearth the Ultimate Collection of GPT-Powered Query Starters on GitHub - 20 Selections</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-your-first-steps-for-youtube-earning-8-methods/"><u>[New] 2024 Approved Your First Steps for YouTube Earning - 8 Methods</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-reclaim-your-loss-with-these-top-10-iphone-x-hacks/"><u>2024 Approved Reclaim Your Loss with These Top 10 iPhone X Hacks</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/boost-your-nes-classic-collection-with-these-easy-tips/"><u>Boost Your NES Classic Collection with These Easy Tips</u></a></li>
+<li><a href="https://discover-help.techidaily.com/1725287561184-dvddvd/"><u>DVD視聴地域制限無し！多言語DVDを自由に観ることができる最新ソフトウェア</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-expert-tips-to-cut-through-false-social-endorsements/"><u>In 2024, Expert Tips to Cut Through False Social Endorsements</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-samsung-galaxy-m14-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Samsung Galaxy M14 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-nubia-z50-ultra-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Nubia Z50 Ultra online without jailbreak</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/rethinking-ai-dependence-discover-the-6-cases-where-human-judgment-still-prevails/"><u>Rethinking AI Dependence – Discover the 6 Cases Where Human Judgment Still Prevails</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/should-you-treat-artificial-intelligence-such-as-chatgpt-alexa-and-siri-with-respectful-politeness/"><u>Should You Treat Artificial Intelligence Such as ChatGPT, Alexa, and Siri With Respectful Politeness?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/tailored-brand-symbols-turn-basic-templates-into-logos/"><u>Tailored Brand Symbols Turn Basic Templates Into Logos</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-comprehensive-list-of-point-of-sale-solutions-excluding-gpt/"><u>The Comprehensive List of Point-of-Sale Solutions Excluding GPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-premier-selection-of-chatbot-initiation-prompts-curated-from-githubs-best-contributions/"><u>The Premier Selection of Chatbot Initiation Prompts Curated From GitHub's Best Contributions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-ai-companion-chatgpt-for-a-healthier-happier-you/"><u>The Ultimate AI Companion: ChatGPT for a Healthier, Happier You</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-7-revolutionary-ai-mathematical-assistants-tackling-numbers-with-ease/"><u>Top 7 Revolutionary AI Mathematical Assistants: Tackling Numbers with Ease</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-8-ways-embracing-ai-empowers-teachers-and-enhances-learning-experiences/"><u>Top 8 Ways Embracing AI Empowers Teachers and Enhances Learning Experiences</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transform-your-fantasy-stories-the-innovative-approach-of-using-ch/"><u>Transform Your Fantasy Stories: The Innovative Approach of Using Ch</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unleash-portable-power-save-up-to-300-on-an-hp-omen-equipped-with-rtx-and-dazzling-oled-panel/"><u>Unleash Portable Power: Save Up to $300 on an HP Omen, Equipped with RTX and Dazzling OLED Panel</u></a></li>
 </ul></div>
 

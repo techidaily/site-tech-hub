@@ -1,7 +1,7 @@
 ---
 title: "Optimized AI Dialogues: ChatGPT for Mac Enthusiasts"
-date: 2024-09-15T20:28:19.921Z
-updated: 2024-09-22T16:06:52.891Z
+date: 2024-10-08T18:26:39.627Z
+updated: 2024-10-09T20:59:05.434Z
 tags:
   - chatgpt
   - open-ai
@@ -80,6 +80,13 @@ thumbnail: https://thmb.techidaily.com/6b81d20b1d6e26d0457009bbfe739603019d02e6b
 
 ![ChatGPT text-based RPG output showing ability scores and possible commands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/chatgpt-text-based-rpg-output-showing-ability-scores-and-possible-commands.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 > 3\. Start the game with 20/20 for ‘Health’, with 20 being the maximum health. Eating food, drinking water, or sleeping will restore health.
 >
 > 4\. Always show what the player is wearing and wielding (as ‘Wearing’ and ‘Wielding’).
@@ -133,10 +140,10 @@ thumbnail: https://thmb.techidaily.com/6b81d20b1d6e26d0457009bbfe739603019d02e6b
  You can embellish this section with as many rules and preferences as you like. You can add an overarching plot, implement rules for governing, or even detail NPC clothes and attitudes in this section. But remember to keep it simple because multilayered rules may confuse the AI.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Add Combat and Magic Rules
@@ -166,10 +173,16 @@ thumbnail: https://thmb.techidaily.com/6b81d20b1d6e26d0457009bbfe739603019d02e6b
  Combat rules can be especially tricky for the AI, so you might need to experiment with this a bit till you find something that sticks.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclude Your Prompt
@@ -193,6 +206,13 @@ And finally, don’t forget to actually start the game:
  If you have ChatGPT Plus, it grants you access to GPT-4, a more intelligent version of GPT-3.5\. You should try running a few RPG sessions with GPT-4 instead of GPT3.5\. It's way more creative, better at crafting stories, remembering rules, and all-around better at improv. It costs $20/month, and it's a good tool for doing other things apart from text-based gaming.
 
  Should you pay the $20 solely for text-based gaming? Realistically, no. Unless you're a big fan of RPGs, it might not be worth the money. Also, GPT-4 has a limit of 50 messages every three hours, so you won't have endless fun, and you'll be returned to GPT-3 in a short while. Some users have also complained that[GPT-4 is slower than GPT3.5](https://www.makeuseof.com/why-is-chatgpt-4-so-slow-compared-to-chatgpt-35/) .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Complete ChatGPT RPG Prompt
 
@@ -311,5 +331,19 @@ And finally, don’t forget to actually start the game:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-amass-a-million-in-moments-join-instagrams-elite/"><u>[New] In 2024, Amass a Million in Moments Join Instagram's Elite</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-must-try-tiktok-video-ideas-drawing-from-anime-worlds/"><u>[New] Must-Try TikTok Video Ideas Drawing From Anime Worlds</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-mastering-the-social-media-lands-point-10-secrets-for-fb-optimization/"><u>[Updated] Mastering the Social Media Lands Point 10 Secrets for FB Optimization</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/avoiding-common-mistakes-how-to-go-live-on-tiktok-from-pc-for-2024/"><u>Avoiding Common Mistakes – How to Go Live On TikTok From PC for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-nokia-c02-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Nokia C02 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-oneplus-ace-3-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to OnePlus Ace 3 FRP Bypass Instantly</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-elevate-your-channels-youtubes-partner-program/"><u>In 2024, Elevate Your Channels - YouTube's Partner Program</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-navigating-the-online-marketplace-for-profitable-yt-content/"><u>In 2024, Navigating the Online Marketplace for Profitable YT Content</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/seamless-techniques-for-extracting-videos-from-your-dvds/"><u>Seamless Techniques for Extracting Videos From Your DVDs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/simple-guide-to-converting-mts-video-format-to-mov-on-your-windows-computer/"><u>Simple Guide to Converting MTS Video Format to MOV on Your Windows Computer</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/slashing-your-webm-file-size-the-ultimate-guide-to-faster-loading-and-free-optimization-tools/"><u>Slashing Your WebM File Size: The Ultimate Guide to Faster Loading and Free Optimization Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-transforming-f4v-video-format-into-mp4/"><u>Step-by-Step Guide: Transforming F4V Video Format Into MP4</u></a></li>
+</ul></div>
 

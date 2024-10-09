@@ -1,7 +1,7 @@
 ---
 title: Boost Your Productivity with Swift MacOS Finder Shortcuts - Insights
-date: 2024-09-26T20:10:35.228Z
-updated: 2024-10-03T21:42:49.245Z
+date: 2024-10-05T17:32:10.340Z
+updated: 2024-10-09T17:41:35.236Z
 tags:
   - apple
 categories:
@@ -34,10 +34,10 @@ Of course, not every file type has an associated Quick Action but you can add ne
 First, know that out-of-the-box Quick Actions are pretty limited. The real power comes from when you create your own Quick Actions, but you have to learn to walk before you can run (and the tool to create Quick Actions can be rather overwhelming at first). Ergo, let's take a walk with MacOS Finder Quick Actions.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What files offer Quick Actions?
@@ -51,19 +51,19 @@ By default, the following file types offer Quick Actions from within the Finder 
 So, clearly, Quick Actions is limited without a bit of extra work. However, if you deal with a lot of images, videos, and PDFs, Quick Actions are there to help you. Also, you'll find the image conversion Quick Action is also limited to converting images only to JPG, PNG, and HEIF files. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to use Quick Actions
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Open Finder and locate a file
@@ -71,10 +71,10 @@ So, clearly, Quick Actions is limited without a bit of extra work. However, if y
 The first thing we're going to do is open Finder and locate a file to be acted upon. Let's use a JPG file as an example. With Finder open, navigate to a directory housing the JPG image you want to transform.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Right-click the file to access the Quick Actions menu
@@ -153,21 +153,22 @@ And that's all there is to MacOS Finder's Quick Actions feature. As I mentioned 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/he-journey-to-exceptional-educational-content-creating-impactful-vids-on-youtube-for-2024/"><u>[New] The Journey to Exceptional Educational Content Creating Impactful Vids on YouTube for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-videographers-packing-essentials-kit/"><u>[New] The Videographer's Packing Essentials Kit</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-decrypting-youtubes-view-count-calculation-system/"><u>[Updated] 2024 Approved Decrypting YouTube’s View-Count Calculation System</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-dynamic-virtual-spaces-google-meets-backdrop-customization/"><u>[Updated] Dynamic Virtual Spaces Google Meet's Backdrop Customization</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-frost-your-view-freezing-desktop-on-pcs/"><u>[Updated] Frost Your View Freezing Desktop on PCs</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/assessing-censorship-strategies-within-ai-chatbot-ecosystems/"><u>Assessing Censorship Strategies Within AI Chatbot Ecosystems</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-the-top-4-reasons-for-opting-for-microsoft-copilot-instead-of-chatgpt/"><u>Discover the Top 4 Reasons for Opting for Microsoft Copilot Instead of ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/excel-mastery-top-3-unique-functions-beyond-chatgpts-reach/"><u>Excel Mastery: Top 3 Unique Functions Beyond ChatGPT's Reach</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/google-bard-vs-bing-chat-which-one-will-you-choose/"><u>Google Bard Vs. Bing Chat – Which One Will You Choose?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigate-the-install-process-of-microsoft-copilot-on-macs/"><u>Navigate the Install Process of Microsoft Copilot on Macs</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/propel-your-digital-dialogue-to-new-heights-with-these-5-strategies/"><u>Propel Your Digital Dialogue to New Heights with These 5 Strategies</u></a></li>
-<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-samsung-galaxy-xcover-6-pro-tactical-edition-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Samsung Galaxy XCover 6 Pro Tactical Edition</u></a></li>
-<li><a href="https://techtrends.techidaily.com/stream-without-spending-10-alternatives-to-netflix-at-zero-cost/"><u>Stream Without Spending: 10 Alternatives to Netflix at Zero Cost</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/top-7-costless-tools-enjoy-your-dvds-on-laptops/"><u>Top 7 Costless Tools Enjoy Your DVDs on Laptops</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/top-picks-ultimate-gifs-and-images-as-zoomgoogle-meet-backdrops/"><u>Top Picks Ultimate GIFs & Images as Zoom/Google Meet Backdrops</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ultimate-list-of-expertly-curated-gpt-powered-addons-for-visual-studio-developers/"><u>Ultimate List of eXpertly Curated GPT-Powered Addons for Visual Studio Developers</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-best-alternative-editors-for-youtube-creators-seeking-new-horizons/"><u>[New] 2024 Approved Best Alternative Editors for YouTube Creators Seeking New Horizons</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-next-gen-broadcast-tools-outperforming-streamlabs-obs/"><u>[New] In 2024, Next-Gen Broadcast Tools Outperforming StreamLabs OBS</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-elevate-your-tiktok-videos-with-compelling-captions/"><u>[Updated] Elevate Your TikTok Videos with Compelling Captions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-artisans-guide-to-creating-sound-alterations-without-cost/"><u>[Updated] The Artisan's Guide to Creating Sound Alterations Without Cost</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-the-art-of-media-imports-within-windows-10s-realm/"><u>2024 Approved Mastering the Art of Media Imports Within Windows 10'S Realm</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/critical-list-of-leading-artificial-intelligence-apps-for-notetaking/"><u>Critical List of Leading Artificial Intelligence Apps for Notetaking</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploiting-b-roll-for-visual-impact-on-projects-for-2024/"><u>Exploiting B Roll for Visual Impact on Projects for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/fade-in-fade-out-two-essential-audio-techniques-in-fcp/"><u>Fade In, Fade Out Two Essential Audio Techniques in FCP</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/go-premium-or-go-free-discover-why-you-should-still-consider-chatgpt-plus-with-gpt-4s-release/"><u>Go Premium or Go Free? Discover Why You Should Still Consider ChatGPT Plus with GPT- 4'S Release</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-engage-audiences-with-free-video-teasers/"><u>In 2024, Engage Audiences with Free Video Teasers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-list-of-premium-3d-blu-ray-players-reviewed/"><u>In 2024, Exclusive List of Premium 3D Blu-Ray Players Reviewed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-chatgpt-response-size-restricted-by-characterswords/"><u>Is ChatGPT Response Size Restricted by Characters/Words?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-it-possible-to-learn-healthy-cooking-skills-from-chatgpt/"><u>Is It Possible to Learn Healthy Cooking Skills From ChatGPT?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-mathematics-with-these-7-ai-tools-solve-complex-equations-easily/"><u>Mastering Mathematics with These 7 AI Tools - Solve Complex Equations Easily</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-generating-ai-visuals-with-chatgpt-a-step-by-bstep-guide/"><u>Mastering the Art of Generating AI Visuals with ChatGPT: A Step-by-BStep Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/uncovering-grok-ai-with-elon-what-it-means-and-how-much-it-costs/"><u>Uncovering Grok AI with Elon: What It Means & How Much It Costs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-ai-cant-replace-experts-in-coin-analysis/"><u>Why AI Can't Replace Experts in Coin Analysis</u></a></li>
 </ul></div>
 

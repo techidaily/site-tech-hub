@@ -1,7 +1,7 @@
 ---
 title: "Apple Enhances Self-Repair Services with New Remote Diagnostics for iPhone 15 & M2 Mac: A Deep Dive Into the Latest Features - ZDNet"
-date: 2024-10-01T14:14:20.632Z
-updated: 2024-10-04T02:26:41.226Z
+date: 2024-10-08T18:47:46.101Z
+updated: 2024-10-09T19:41:05.898Z
 tags:
   - apple
 categories:
@@ -52,6 +52,13 @@ Apple's approach to AI is markedly different from that of its competitors, howev
 
 This lets Apple disengage from the chaotic rat race to a degree, positioning itself as the careful, more ethical actor when it comes to AI, particularly in light of [recent debilitating security concerns](https://www.zdnet.com/article/after-brutal-critiques-microsoft-recall-will-get-these-major-privacy-and-security-changes/) from Microsoft's Recall feature, which is delaying the release of a host of its new [Copilot+ PCs](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Continuity
 
 Screenshot by Nina Raemont
@@ -77,10 +84,10 @@ During the WWDC keynote, Apple showed off Siri's new look as an ever-present AI 
 The new Siri also comes with on-screen awareness, allowing the AI to respond to what you're looking at on the screen without requiring the user to provide specific context with each prompt. This also allows Siri to take in-app actions in a way that wasn't possible before. In MacOS Sequoia, Siri's integration with OpenAI's LLM propels the virtual assistant to the top players in the field alongside [ChatGPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt-plus-from-gpt-4o-to-interactive-tables/) and [Google's Gemini](https://www.zdnet.com/article/what-is-google-gemini/). 
 
 <!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. AI-fueled productivity apps
@@ -96,10 +103,10 @@ Apple Intelligence has been integrated across all of the big productivity apps i
 * **Notes:** Voice functionality is coming to the Notes app, with the ability to add voice memos directly embedded into your notes. AI will also support audio transcription and transcripts of audio recordings. You can record and transcribe audio, and when your recording is finished, the AI will create a summary on its own.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. New and improved Safari
@@ -112,13 +119,6 @@ Safari will see a host of improvements powered by AI functionality, including an
 
 Apple demoed Safari's machine learning capability to automatically detect relevant information on a webpage, including things like quick links, directions, and quick summaries with logistical information like phone numbers and addresses. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Standalone Passwords app
 
 Screenshot by Nina Raemont
@@ -130,10 +130,10 @@ Aligning with Apple's positioning of its AI features as secure and trustworthy, 
 This standalone app is an extension of the existing iCloud Keychain, and seeks to simplify password storage by employing Face ID and Touch ID alongside character-string passwords. Much of it is designed to work automatically and seamlessly in an effort to solve what is a huge UX headache that everyone has experienced at one point or another. 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Gaming
@@ -170,20 +170,22 @@ Apple wants to create a "unified gaming platform" across the iPhone, iPad, and M
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-historical-knowledge-at-your-fingertips-best-yt-history-channels/"><u>[New] 2024 Approved Historical Knowledge at Your Fingertips Best YT History Channels</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-beam-into-collaborative-spaces-within-tiktok/"><u>2024 Approved Beam Into Collaborative Spaces Within TikTok</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-free-fix-swiftly-eradicate-unwanted-eyeshine-from-your-iphone-pics/"><u>2024 Approved Free Fix Swiftly Eradicate Unwanted Eyeshine From Your iPhone Pics</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/boost-your-coding-skills-merging-chatgpt-functionality-in-vs-code/"><u>Boost Your Coding Skills: Merging ChatGPT Functionality in VS Code</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/can-user-input-influence-the-evolution-of-chatgpts-ai-responses/"><u>Can User Input Influence the Evolution of ChatGPT's AI Responses?</u></a></li>
-<li><a href="https://driver-error.techidaily.com/car-unloadable-due-to-device-limitation/"><u>Car Unloadable Due to Device Limitation</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-powered-podcast-narrative-crafting/"><u>ChatGPT-Powered Podcast Narrative Crafting</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-xiaomi-redmi-note-12-pro-4g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Xiaomi Redmi Note 12 Pro 4G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-collection-top-rated-gratuitous-gags/"><u>In 2024, Ultimate Collection Top-Rated Gratuitous Gags</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-paperwork-with-chatgpts-4-essential-methods/"><u>Navigating Paperwork with ChatGPT's 4 Essential Methods</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/pop-sync-streamlining-song-placement-on-instagram-stories-for-2024/"><u>Pop Sync Streamlining Song Placement on Instagram Stories for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-20-innovative-github-dialogues-with-chatgpt/"><u>Top 20 Innovative Github Dialogues with ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-6-essential-factors-to-examine-when-considering-chatgpt-as-a-source-of-psychological-help/"><u>Top 6 Essential Factors To Examine When Considering ChatGPT as a Source of Psychological Help</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-transparency-in-machine-learning-via-shap-e/"><u>Understanding Transparency in Machine Learning via SHAP E</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/unveiling-the-power-of-effective-screencasts-in-digital-content-for-2024/"><u>Unveiling the Power of Effective Screencasts in Digital Content for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-ffpm-a-guide-to-firefoxs-pip-feature/"><u>[New] Mastering FFPM A Guide to Firefox's PIP Feature</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-introduction-to-basic-storytelling-constructs/"><u>[Updated] Introduction to Basic Storytelling Constructs</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-a-new-era-of-photo-display-best-frame-makers/"><u>2024 Approved A New Era of Photo Display Best Frame Makers</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/differences-between-apples-ipad-pro-and-microsofts-surface-pro-examined/"><u>Differences Between Apple's iPad Pro and Microsoft's Surface Pro Examined</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Itel P55+? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-passfab-iphone-15-pro-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>In 2024, PassFab iPhone 15 Pro Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-new-frontier-the-rise-of-specialized-ai-oversight-positions-for-next-gen-software-teams-zdnet/"><u>Navigating the New Frontier: The Rise of Specialized AI Oversight Positions for Next-Gen Software Teams | ZDNET</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/overcoming-youtube-disqualification-for-2024/"><u>Overcoming YouTube Disqualification for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/simple-steps-to-resolve-directx-issues-in-fifa-19/"><u>Simple Steps to Resolve DirectX Issues in FIFA 19</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-7-emerging-cybersecurity-threats-and-future-outlook/"><u>Top 7 Emerging Cybersecurity Threats & Future Outlook</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-7-essential-factors-for-choosing-the-right-ai-chatbot-platform/"><u>Top 7 Essential Factors for Choosing the Right AI Chatbot Platform</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/translation-showdown-assessing-the-superiority-of-chatgpt-and-google-translate/"><u>Translation Showdown: Assessing the Superiority of ChatGPT and Google Translate</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-nvidias-ai-foundation-insights-into-its-generative-ai-offering-and-eligible-users/"><u>Understanding NVIDIA's AI Foundation: Insights Into Its Generative AI Offering & Eligible Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-truthgpt-coin-a-detailed-analysis-beyond-the-hype/"><u>Understanding TruthGPT Coin - A Detailed Analysis Beyond the Hype</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-gpts-inner-workings-the-code-decipherer-explained/"><u>Unveiling GPT's Inner Workings: The Code Decipherer Explained</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-power-of-quoras-poe-to-ai/"><u>Unveiling the Power of Quora's PoE to AI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-reasons-behind-openais-head-pushing-for-enhanced-control-over-ai-development/"><u>Unveiling the Reasons Behind OpenAI's Head Pushing for Enhanced Control Over AI Development</u></a></li>
 </ul></div>
 

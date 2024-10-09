@@ -1,7 +1,7 @@
 ---
 title: "IPad Air 4 vs iPad Air 5 Showdown: Is It Time to Upgrade? | TechRadar"
-date: 2024-09-28T01:41:13.002Z
-updated: 2024-10-04T04:20:57.543Z
+date: 2024-10-06T21:26:47.113Z
+updated: 2024-10-09T18:54:22.359Z
 tags:
   - apple
 categories:
@@ -54,13 +54,6 @@ But if pricing impacts your buying decision, then the similarly-designed iPad Ai
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## You should buy the iPad Air 5 (2022) if...
 
 Image: Apple
@@ -87,16 +80,22 @@ You will, of course, need to be under a 5G data plan, have the appropriate nano-
 
 [Apple iPad Air (2022) $477 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DD2F93LD%2Fref%3Dasc%5Fdf%5FB0DD2F93LD1727348400000%3Fcreative%3D395261%26creativeASIN%3DB0DD2F93LD%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0fd05516-7afe-47e7-81c2-ef0b479cd1b1%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## You should buy the iPad Air 4 (2020) if...
 
 Image: Apple
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Price comes before anything else
 
@@ -104,24 +103,24 @@ With the release of the new iPad Air, most third-party retailers have since mark
 
 [Apple iPad Air (2020) $375.39 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB08J61FCVN%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0fd05516-7afe-47e7-81c2-ef0b479cd1b1%7Cdtp&dtb=1)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## FAQ
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Should I get the iPad Air 4 (2020) or the iPad Air 5 (2022)?
 
 You should buy the iPad Air 5 (2022) if you're looking to upgrade to the Apple M1 chip, you want a better front camera and FaceTime experience, or you want to upgrade to a 5G iPad. You should get the iPad Air 4 (2020) if the price comes before anything else. Many retailers are lowering their prices of the older iPad 4 model to clear inventory, making the 2020 model the more cost-effective iPad of the two.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Does the Apple Pencil (1st Gen) work with the iPad Air?
@@ -129,6 +128,13 @@ You should buy the iPad Air 5 (2022) if you're looking to upgrade to the Apple M
 The 1st-gen Apple Pencil is not compatible with either of the two iPad Air models mentioned in this article. Instead, you'll have to buy Apple's 2nd-gen stylus, which uses USB-C for charging and pairing, for the newer tablets.
 
 Our [guide to finding the right Apple Pencil and how to pair it](https://www.zdnet.com/article/how-to-pair-and-charge-your-apple-pencil/) breaks down the full list of compatible devices.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What's the best alternative to the iPad Air?
 
@@ -170,20 +176,18 @@ If you're still on the fence, below are the best alternatives to the iPad Air.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-turbo-speed-for-snapchat-newcomers-video-edition-for-2024/"><u>[New] Turbo Speed for Snapchat Newcomers Video Edition for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-giggle-grove-a-top-20-list-of-hilarious-tiktok-content-for-2024/"><u>[Updated] Giggle Grove A Top 20 List of Hilarious TikTok Content for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-ace-your-gift-shopping-the-ultimate-guide-to-selecting-specialty-stores/"><u>2024 Approved Ace Your Gift Shopping The Ultimate Guide to Selecting Specialty Stores</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/avoiding-camera-induced-image-disruption-for-2024/"><u>Avoiding Camera-Induced Image Disruption for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/download-the-ultimate-list-of-free-video-and-audio-players-for-pc-and-macos-users/"><u>Download the Ultimate List of Free Video & Audio Players for PC and macOS Users</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/essential-tips-for-overcoming-chatgpt-logout-issues/"><u>Essential Tips for Overcoming ChatGPT Logout Issues</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Vivo X Flip | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-chatgpt-the-power-of-custom-commands/"><u>Mastering ChatGPT: The Power of Custom Commands</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/quick-fix-guide-solving-non-responsive-chatgpt-problems-on-your-iphone/"><u>Quick Fix Guide: Solving Non-Responsive ChatGPT Problems on Your iPhone</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723201338798-spacebar-key-stuck-or-unresponsive-in-windows-11-heres-what-to-do/"><u>Spacebar Key Stuck or Unresponsive in Windows 11? Here's What to Do</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/tech-talk-microsoft-purchases-blizzard-unraveling-ais-impact-on-translation-and-visual-arts-podcast-episodes/"><u>Tech Talk: Microsoft Purchases Blizzard, Unraveling AI's Impact on Translation and Visual Arts - Podcast Episodes</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transform-your-career-application-process-using-chatgpt-to-write-resumes/"><u>Transform Your Career Application Process Using ChatGPT to Write Resumes</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transforming-life-with-chatgpt-a-comprehensive-guide/"><u>Transforming Life with ChatGPT: A Comprehensive Guide</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-contacts-from-vivo-y27-5g-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Vivo Y27 5G.</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-s-best-mobile-video-editors-with-audio-tracks/"><u>Updated S Best Mobile Video Editors with Audio Tracks</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-best-of-the-best-15-4k-video-capture-units/"><u>[New] 2024 Approved Best of the Best #15 4K Video Capture Units</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-top-10-relaxing-hobbies-outside-the-athletic-domain/"><u>[New] In 2024, Top 10 Relaxing Hobbies Outside the Athletic Domain</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-investigating-financial-gains-from-product-reviews/"><u>2024 Approved Investigating Financial Gains From Product Reviews</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boost-your-research-techniques-using-chatgpt-tips-and-tricks/"><u>Boost Your Research Techniques Using ChatGPT - Tips and Tricks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chagpt-mastery-a-guide-for-mobile-users/"><u>ChaGPT Mastery: A Guide for Mobile Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-and-fitness-master-the-art-of-creating-impactful-prompts/"><u>ChatGPT and Fitness: Master the Art of Creating Impactful Prompts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-and-originality-understanding-its-research-methodology/"><u>ChatGPT and Originality: Understanding Its Research Methodology</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/creating-masterpieces-discover-8-creative-prompts-for-dall-e-3/"><u>Creating Masterpieces: Discover 8 Creative Prompts for DALL-E 3</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-a-broken-qr-scanner-on-your-iphone-a-step-by-step-guide-to-6-remedies/"><u>Fixing a Broken QR Scanner on Your iPhone: A Step-by-Step Guide to 6 Remedies</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-oppo-a2-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Oppo A2 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-how-to-stream-to-youtube-facebook-twitch-and-over-30-platforms/"><u>In 2024, How to Stream to YouTube, Facebook, Twitch and Over 30 Platforms</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-realme-narzo-60-5g-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Realme Narzo 60 5G</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-14-pro-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from 14 Pro.</u></a></li>
 </ul></div>
 

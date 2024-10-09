@@ -1,7 +1,7 @@
 ---
 title: The Split Path of Natural Language and ML Tech
-date: 2024-09-21T17:29:03.095Z
-updated: 2024-09-23T01:35:06.376Z
+date: 2024-10-08T18:18:35.802Z
+updated: 2024-10-09T21:05:23.758Z
 tags:
   - chatgpt
   - open-ai
@@ -52,11 +52,25 @@ thumbnail: https://thmb.techidaily.com/7e2e77f0d86cd559dbfa986d906ed8c2ea5221019
 
  Additionally, the AI research company will not reimburse you for any purchases or upgrades you make when identifying or testing for bugs.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Participate in OpenAI's Bug Bounty Program
 
  Since Bugcrowd facilitates this bug bounty program, you must create a Bugcrowd account to participate. OpenAI even suggests you carry out authorized additional testing using an "@bugcrowdninja.com" email address.
 
 ![Bugcrowd log in page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bugcrowd-log-in-page.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  With a Bugcrowd account, you can click the "Submit Report" tab on the [Bugcrowd OpenAI program page](https://bugcrowd.com/openai) to report vulnerabilities. This will lead you to the submissions page.
 
@@ -79,10 +93,10 @@ thumbnail: https://thmb.techidaily.com/7e2e77f0d86cd559dbfa986d906ed8c2ea5221019
  Note that you are not to submit API keys to Bugcrowd. You must only submit keys you find online through the [OpenAI API key form](https://forms.gle/h8bQ5YKWzXb8FtrQ8).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which Vulnerabilities Are Eligible for Rewards?
@@ -94,10 +108,10 @@ thumbnail: https://thmb.techidaily.com/7e2e77f0d86cd559dbfa986d906ed8c2ea5221019
  All the vulnerabilities must be in OpenAI's system, exploitable, and novel.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Earn Money While Improving OpenAI's Systems
@@ -123,5 +137,20 @@ thumbnail: https://thmb.techidaily.com/7e2e77f0d86cd559dbfa986d906ed8c2ea5221019
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-seamless-sound-recording-experience-with-audacity-mac-edition/"><u>[Updated] In 2024, Seamless Sound Recording Experience with Audacity, Mac Edition</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-quick-start-guide-making-your-gifs-count-as-emoji-stickers-in-telegram-for-2024/"><u>[Updated] Quick-Start Guide Making Your GIFS Count as Emoji Stickers in Telegram for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726027500129-dvd/"><u>DVDからデータ移行：パソコンに保存する具体的方法</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-innovative-youtube-monikers-for-vloggers-and-filmmakers-up-to-156-characters/"><u>In 2024, Innovative Youtube Monikers for Vloggers & Filmmakers (Up to 156 Characters)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-pinnacle-7-action-shooter-games/"><u>In 2024, Pinnacle 7 Action Shooter Games</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unlock-the-power-of-youtube-frames-without-financial-cost/"><u>In 2024, Unlock the Power of YouTube Frames Without Financial Cost</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726028618632-itunes/"><u>ITunesで高解像度音楽をダウンロードするための普遍的なガイド: 異なるファイルタイプへの変換方法</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726026843308-pc/"><u>PCやスマホで快適に動画通話を録画、録音する方法：カカオトーク用ガイド</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/podcast-recorder-quality-check/"><u>Podcast Recorder Quality Check</u></a></li>
+<li><a href="https://windows11.techidaily.com/recover-access-to-windows-router-configuration/"><u>Recover Access to Windows Router Configuration</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726027854675-dvd/"><u>ジャニーズDVD パソコンに移行するための専用無料アプリとその使い方 - 初心者向け詳細マニュアル</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726028698929-bluetooth/"><u>ワイヤレスBluetoothイヤホン録音方法：最新の操作手順</u></a></li>
+</ul></div>
 

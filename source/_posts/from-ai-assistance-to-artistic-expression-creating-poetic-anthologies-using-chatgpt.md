@@ -1,7 +1,7 @@
 ---
 title: "From AI Assistance to Artistic Expression: Creating Poetic Anthologies Using ChatGPT"
-date: 2024-09-17T18:37:05.508Z
-updated: 2024-09-22T21:09:22.881Z
+date: 2024-10-04T21:51:43.212Z
+updated: 2024-10-09T16:52:56.407Z
 tags:
   - chatgpt
   - open-ai
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/37869e8fa5678b06fcfcd68ab91a0c5d831e481d4
 
  ChatGPT has a wealth of games in its custom GPT store, covering everything from, RPGs and Dungeons and Dragons-style adventures, classic retro games, card games, quizzes, mysteries, and so much more.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1.[Murder Mystery Mayhem](https://chat.openai.com/g/g-82dEDeoN3-murder-mystery-mayhem)
 
  Let's start with one of the top-rated games on ChatGPT's custom GPT store. Murder Mystery Mayhem is a procedurally generated game where you play the role of a detective in the year 1925.
@@ -57,6 +64,13 @@ Close
 
  It's a basic version of the classic game, but it's engaging enough. The custom GPT's scripting doesn't allow you to go off-piste and, say, rob the local convenience store for supplies (nor did the original), but it's certainly a lot easier without so many setbacks constantly upending and destroying your party. It's a much easier version, that's for sure.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3.[Poker](https://chat.openai.com/g/g-lHyTLJaCX-poker)
 
  From the potential death and horror of the Oregon Trail to something a little more relaxing: Poker. You play against the AI in this Poker custom GPT, starting with 10,000 credits, and play standard five-card Texas hold'em until someone's credits run out.
@@ -64,13 +78,6 @@ Close
 Close
 
  My only major gripe about this poker game is that ChatGPT seems to mimic your choices, such as check, raise, and so on, which can make the game predictable (or at least less random).
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4.[Console GPT](https://chat.openai.com/g/g-3p94K4Djb-console-gpt)
 
@@ -90,6 +97,13 @@ Close
 
  The narrative flow is a bit shaky, and Console GPT could use some extra commands to remember other parts of the story, but it's good fun for a while. For example, one moment, I was a lone operative in a bar, and the next, I was planning a heist in a room with the rest of my assembled team.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5.[Cookie Clicker](http://chat.openai.com/g/g-g0b22bvqB-cookie-clicker)
 
  Not content with card games, custom cartridge adventures, or adventuring? Why not give a custom GPT idle game a try instead?
@@ -103,10 +117,10 @@ Close
  Still, if you're into idle games and want to try something different, it could be worth a try.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6.[Cute Little Zombies](https://chat.openai.com/g/g-CEON6aFtV-cute-little-zombies-a-text-adventure-game)
@@ -136,5 +150,26 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-advanced-tips-for-maximum-digital-storage/"><u>[New] 2024 Approved Advanced Tips for Maximum Digital Storage</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-seamless-obs-zoom-connection-step-by-step/"><u>[New] In 2024, Seamless OBS-Zoom Connection Step-by-Step</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-commercial-cloud-repository-standouts/"><u>[Updated] Commercial Cloud Repository Standouts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ideal-narratives-distributed-among-8-movie-segments/"><u>[Updated] Ideal Narratives Distributed Among 8 Movie Segments</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-proven-strategies-for-enhancing-quality-in-obs-edits-for-2024/"><u>[Updated] Proven Strategies for Enhancing Quality in OBS Edits for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726026857424-3/"><u>「リージョンコード3映像ディスク再生方法・対策：視聴不可解決のためのガイダンス」</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1-step-by-step-guide-converting-avi-files-to-mp4-format-quickly-and-effectively/"><u>1. Step-by-Step Guide: Converting AVI Files to MP4 Format Quickly and Effectively</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1080p-dvd-dvd/"><u>1080P DVD リッピング用トップ機能が豊富な最高のDVDリッパー</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/a-comprehensive-review-of-stellaris-charting-the-cosmos-for-ultimate-control/"><u>A Comprehensive Review of Stellaris - Charting the Cosmos for Ultimate Control</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/digiarty-macx-dvd/"><u>Digiarty MacX DVD使い始めに必要知識 - お得で簡単な利用ガイド、支払方法はコンビニ決済可能 | 安心してご利用</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-unveiling-secrets-to-effective-snapchat-pins/"><u>In 2024, Unveiling Secrets to Effective Snapchat Pins</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-critical-issues-in-call-of-duty-black-ops-4/"><u>Resolving Critical Issues in Call of Duty: Black Ops 4</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-guide-converting-mmf-audio-files-into-mp3-format-with-easy-steps/"><u>Ultimate Guide: Converting MMF Audio Files Into MP3 Format with Easy Steps</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-lightning-mode-a-comprehensive-guide-on-its-functionality-and-operations/"><u>Understanding Lightning Mode: A Comprehensive Guide on Its Functionality and Operations</u></a></li>
+<li><a href="https://techidaily.com/vivo-bypass-tools-to-bypass-lock-screen-vivo-by-drfone-android-unlock-android-unlock/"><u>Vivo Bypass Tools to Bypass Lock Screen(Vivo )</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/where-to-find-your-favorite-songs-legally-the-5-best-mp3boo-clones-for-free-music-downloads/"><u>Where to Find Your Favorite Songs Legally: The 5 Best MP3BOO Clones for Free Music Downloads</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/zip-windows/"><u>ZIP形式で動画をコンパクトに: Windows向け圧縮手順ガイド</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726026663157-dvdusb/"><u>ストレージ形式自由化：簡単にDVDをUSBフラッシュドライブで使えるようにする方法</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/windowsmac/"><u>バッチ対応: WindowsまたはMacでノートパソコンからの高品質音声録音ガイド</u></a></li>
+</ul></div>
 

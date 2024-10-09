@@ -1,7 +1,7 @@
 ---
 title: "Apple Challenges GPT-4 with ReaLM: The On-Device AI That Outperforms Rivals, Featured"
-date: 2024-09-30T20:44:21.224Z
-updated: 2024-10-04T10:52:38.190Z
+date: 2024-10-04T17:19:23.054Z
+updated: 2024-10-09T16:50:15.723Z
 tags:
   - apple
 categories:
@@ -47,10 +47,10 @@ The iPhone 16 receives a substantial update to its camera system. The device pos
 The button acts as a camera shortcut of sorts. Pushing it takes a photo, but the button also supports gesture controls. Swiping on the button with your thumb or finger lets you zoom in or out, while a double light-press presents you with various shooting modes, zoom lengths, photographic styles, and more. It's a fun and intuitive way to take photos. The best part about the button is that it's a great way to introduce more people to photography.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Siri 2.0 is arriving very soon
@@ -66,10 +66,10 @@ The new Siri can engage in more natural conversations. Users no longer need to c
 Everything mentioned so far is just the tip of the iceberg. It's been reported that next year Siri will be able to find and act on items on-device based on your context. For example, you could ask the AI what time your mom's flight is landing and Siri will pull together information from texts and emails, and then present this insight to you in a brief response.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. A new AI-powered chipset
@@ -116,22 +116,20 @@ Besides Apple Intelilgence, the A18 chipset should enable faster processing spee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-harness-the-full-potential-of-your-youtube-content-using-wmm/"><u>[New] 2024 Approved Harness the Full Potential of Your YouTube Content Using WMM</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-navigating-the-world-of-apex-legends-on-a-personal-platform-quest/"><u>[New] 2024 Approved Navigating the World of Apex Legends on a Personal Platform Quest</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-caption-crusaders-top-10-writing-tools-for-image-capture-iosandroid/"><u>[New] In 2024, Caption Crusaders Top 10 Writing Tools for Image Capture (iOS/Android)</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-compre-web-resources-for-effortless-youtube-template-access/"><u>[New] In 2024, Compre-Web Resources for Effortless YouTube Template Access</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-prime-tactics-ensuring-quality-in-live-sport-broadcasts/"><u>[New] In 2024, Prime Tactics Ensuring Quality in Live Sport Broadcasts</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-reducing-shakiness-on-your-gopro-movie/"><u>[New] The Ultimate Guide to Reducing Shakiness on Your GoPro Movie</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/artificial-intelligence-in-mental-wellness-unveiling-the-9-potential-pitfalls/"><u>Artificial Intelligence in Mental Wellness: Unveiling the 9 Potential Pitfalls</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpts-role-in-modern-career-exploration/"><u>ChatGPT's Role in Modern Career Exploration</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-honor-x50iplus-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Honor X50i+ FRP In 3 Different Ways</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-tecno-spark-20-pro-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Tecno Spark 20 Pro</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/innovate-instantly-using-openais-sandbox-feature-and-the-mighty-gpt-3/"><u>Innovate Instantly Using OpenAI's Sandbox Feature and the Mighty GPT-3</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-your-chatbot-revealing-too-much-neural-network-model-inversion-attacks-explained/"><u>Is Your Chatbot Revealing Too Much? Neural Network Model Inversion Attacks Explained</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-the-risks-generative-ai-as-a-new-medium-for-spreading-falsehoods/"><u>Navigating the Risks: Generative AI as a New Medium for Spreading Falsehoods</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/past-perspectives-unencumbered-visual-splendors-for-2024/"><u>Past Perspectives Unencumbered Visual Splendors for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/seamless-data-interaction-chatgpt-meets-google-apps/"><u>Seamless Data Interaction: ChatGPT Meets Google Apps</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unmasking-winchatgpt-falsehoods-in-the-digital-world/"><u>Unmasking WinChatGPT Falsehoods in the Digital World</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unraveling-twitters-new-security-features-the-impact-of-ax-and-checkmark-integration/"><u>Unraveling Twitter's New Security Features: The Impact of Ax & Checkmark Integration</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-socialsnatcher-hd-extractor/"><u>[New] SocialSnatcher HD Extractor</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-the-art-of-interaction-in-online-google-meet-spaces-for-2024/"><u>[New] The Art of Interaction in Online Google Meet Spaces for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-youtube-creator-studio-vs-youtube-studio-beta-which-one-is-better/"><u>[New] YouTube Creator Studio Vs. YouTube Studio (Beta) Which One Is Better?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-affordable-and-accessible-the-definitive-guide-to-9-budget-friendly-editors/"><u>[Updated] Affordable & Accessible The Definitive Guide to 9 Budget-Friendly Editors</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-streamitsimple-your-first-guide-to-live-podcasting-for-2024/"><u>[Updated] StreamItSimple Your First Guide to Live Podcasting for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/busting-the-myths-about-portable-power-why-the-20-anker-charger-is-a-game-changer-as-spotlighted/"><u>Busting the Myths About Portable Power - Why the $20 Anker Charger Is a Game-Changer, as Spotlighted</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/esrs-latest-innovation-in-fast-charging-technology-with-cryoboost-for-iphone-n-series-learn-how-it-beats-heat-and-speed-limitations/"><u>ESR's Latest Innovation in Fast Charging Technology with CryoBoost for iPhone N-Series | Learn How It Beats Heat and Speed Limitations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exclusive-look-how-ios-18s-latest-messaging-feature-is-set-to-transform-your-iphone-experience-without-relying-on-artificial-intelligence/"><u>Exclusive Look: How iOS 18'S Latest Messaging Feature Is Set to Transform Your iPhone Experience, Without Relying on Artificial Intelligence</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-13-mini-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 13 mini without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-effective-ways-to-fix-checkra1n-error-31-on-apple-iphone-12-pro-by-drfone-ios/"><u>In 2024, Effective Ways To Fix Checkra1n Error 31 On Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-nubia-red-magic-9-pro-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Nubia Red Magic 9 Pro Phone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/julys-exclusive-apple-product-deals-iphones-watches-and-tablets-at-unbeatable-prices-discover-the-best-offers-with-zdnet/"><u>July's Exclusive Apple Product Deals: IPhones, Watches, and Tablets at Unbeatable Prices | Discover the Best Offers with ZDNET</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-10-ways-apple-can-elevate-its-ai-capabilities-to-match-rivals-google-and-openai-insights/"><u>Top 10 Ways Apple Can Elevate Its AI Capabilities to Match Rivals Google & OpenAI: Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-magsafe-wallets-comprehensive-testing-and-reviews-by-tech-experts/"><u>Top-Rated MagSafe Wallets - Comprehensive Testing & Reviews by Tech Experts</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/troubled-by-faulty-advanced-video-fix/"><u>Troubled by Faulty Advanced Video Fix?</u></a></li>
 </ul></div>
 

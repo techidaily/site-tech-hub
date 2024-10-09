@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to the Finest Compact Tablet PCs of 2024 - Expert Assessments and Analyses | ZDNet
-date: 2024-09-29T23:17:59.880Z
-updated: 2024-10-03T19:09:10.003Z
+date: 2024-10-08T21:59:47.052Z
+updated: 2024-10-09T19:54:00.747Z
 tags:
   - apple
 categories:
@@ -25,13 +25,6 @@ The display sizes of small tablets can range from six to 10 inches, with eight i
 ## What is the best small tablet right now?
 
 Based on our extensive hands-on testing with various tablets of all sizes, our pick for the best small tablet is the [iPad Mini](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2021-Apple-iPad-Mini-Wi-Fi%2Fdp%2FB09G9FW785%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca83e76fe-5326-43d2-8e81-d64a10a9df63%7Cdtp&dtb=1), thanks to its 8.3-inch Liquid Retina display and weight of just under 1 pound. We also included compact-sized tablets from Amazon, Samsung, and other brands for those looking for something more compact and easy to carry. 
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The best small tablets of 2024
 
@@ -83,13 +76,6 @@ Cons
 
 ## Amazon Fire 7 Tablet
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Best budget small tablet
 
 If you're looking for something even smaller and cheaper than the iPad Mini, the Amazon Fire 7 tablet is a great budget tablet pick. The Fire tablet's 7-inch screen has a 1024 x 600 display, so you can stream movies or play video games without hauling around a bulky tablet. 
@@ -120,13 +106,20 @@ Cons
 * Expensive
 * Some complaints of lag
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Boox Tab Mini C
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Best small tablet for note-taking
@@ -156,14 +149,14 @@ Cons
 * Web browser functionality could be better
 * No warm light option
 
-## Amazon Kindle 11th generation
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Amazon Kindle 11th generation
 
 ### Best small tablet for reading
 
@@ -207,13 +200,6 @@ In addition, you can expand your storage beyond the 32GB or 64GB allotted. The t
 
 Show Expert Take Show less 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What is the best small tablet?
 
 The best small tablet is the iPad Mini because of its sharp display and impressive cameras. Plus, the A15 Bionic chip is packed with power in a small package. 
@@ -227,10 +213,16 @@ The best small tablet is the iPad Mini because of its sharp display and impressi
 | Samsung Galaxy A7 Lite | $100      | 8.7 inches          | 1340x800 pixels   |
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which small tablet is right for you?
@@ -244,6 +236,13 @@ It really depends on what size tablet you're looking for, which operating system
 | Boox Tab Mini C                             | The best close-to-high-end tablet that functions as an e-reader, note-taker, illustrator, and web-surfer. With a vivid display, long-lasting battery life, and customizable settings for the ultimate user experience, this tablet is the stylish and sleek deskside companion you need. |
 | Amazon Kindle                               | A small and portable tablet designed for reading with dark mode and six weeks of battery life. Its 300ppi is the same display as the Kindle Paperwhite and the Kindle Oasis.                                                                                                             |
 | Samsung Galaxy A7 Lite                      | A small Samsung tablet with expandable storage and an exceptional battery life. The tablet allows for up to 1TB of expandable storage.                                                                                                                                                   |
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Factors to consider when choosing the best small tablets:
 
@@ -267,10 +266,10 @@ We also compare the display's performance with what the manufacturer promised, t
 For a deeper look into our testing process, check out our comprehensive [tablet testing methodology](https://www.zdnet.com/article/how-we-test-tablets-at-zdnet-in-2024/). 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is the smallest tablet screen size?
@@ -286,6 +285,13 @@ Tablets made by Apple, Samsung, and Microsoft are the best-made tablets in terms
 Keep in mind in certain cases (Apple, Samsung), you can pair your other devices with the tablet. In the case of Apple tablets, you can log in using your Apple ID to access the same apps, pictures, and more from your phone on your iPad. 
 
 Meanwhile, with Samsung devices, you can implement Samsung Flow. Download the app on your phone and tablet. You can connect your tablet to your phone via Bluetooth or Wi-Fi. 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Are mini Android tablets worth it?
 
@@ -343,18 +349,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/outube-playlist-rearrangement-made-simple/"><u>[New] YouTube Playlist Rearrangement Made Simple</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-windows-11-screen-flickering/"><u>[SOLVED] Windows 11 Screen Flickering</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gastronomy-gurus-the-elite-of-food-vlogs/"><u>[Updated] 2024 Approved Gastronomy Gurus The Elite of Food Vlogs</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-mastering-the-craft-top-7-techniques-for-captivating-meme-creation-for-2024/"><u>[Updated] Mastering the Craft Top 7 Techniques for Captivating Meme Creation for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-frosty-yet-warm-choosing-the-best-winter-backdrops/"><u>2024 Approved Frosty Yet Warm Choosing the Best Winter Backdrops</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-and-vpn-can-they-work-together-seamlessly/"><u>ChatGPT and VPN: Can They Work Together Seamlessly?</u></a></li>
-<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-tecno-spark-20-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-tecno-spark-go-2024-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Tecno Spark Go (2024) FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fundamental-techniques-converting-visual-media-on-pinterest-to-mp3s/"><u>In 2024, Fundamental Techniques Converting Visual Media on Pinterest To MP3s</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-vivo-y77t-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Vivo Y77t to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/maximize-productivity-integrating-chatgpt-into-your-online-team-gatherings/"><u>Maximize Productivity: Integrating ChatGPT Into Your Online Team Gatherings</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/sculpting-the-future-originality-in-ai-visuals-with-copilot-mastery/"><u>Sculpting the Future: Originality in AI Visuals with Copilot Mastery</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-implementing-and-operating-chatgpt-add-ons/"><u>Step-by-Step Guide: Implementing & Operating ChatGPT Add-Ons</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-edit-youtube-channel-description/"><u>[Updated] How to Edit YouTube Channel Description</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-nexus-of-delight-kid-focused-gaming-guide/"><u>[Updated] Nexus of Delight Kid-Focused Gaming Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-top-techniques-to-captivate-viewers-with-facebook-covers/"><u>2024 Approved Top Techniques to Captivate Viewers with Facebook Covers</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-vivo-x-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-realme-c51-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/is-aurora-hdr-a-step-forward-in-quality-viewing-for-2024/"><u>Is Aurora HDR a Step Forward in Quality Viewing for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-it-better-to-use-gemini-advanced-over-chatgpt-plus-lets-find-out/"><u>Is It Better to Use Gemini Advanced Over ChatGPT Plus? Let's Find Out</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mac-users-manual-how-to-implement-microsoft-copilot-seamlessly/"><u>Mac Users' Manual: How to Implement Microsoft Copilot Seamlessly</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximize-your-productivity-with-these-top-10-chatgpt-and-pdf-merge-tools/"><u>Maximize Your Productivity with These Top 10 ChatGPT & PDF Merge Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/misleading-claims-no-win-client-of-gpt-as-virus/"><u>Misleading Claims: No Win Client of GPT as Virus</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/no-more-delays-get-your-hands-on-this-open-source-tool-instead-of-the-pending-chatgpt-app/"><u>No More Delays: Get Your Hands on This Open Source Tool Instead of the Pending ChatGPT App</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-creme-de-la-creme-expertly-selected-best-scanners-for-your-paperwork-and-photographs-2024-edition/"><u>The Crème De La Crème: Expertly Selected Best Scanners for Your Paperwork and Photographs, 2024 Edition</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-samsung-galaxy-m14-4g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Samsung Galaxy M14 4G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
 </ul></div>
 

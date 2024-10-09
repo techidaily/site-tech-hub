@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Look: How iOS 18'S Latest Messaging Feature Is Set to Transform Your iPhone Experience, Without Relying on Artificial Intelligence"
-date: 2024-09-28T16:23:43.623Z
-updated: 2024-10-04T04:19:26.846Z
+date: 2024-10-08T19:08:43.451Z
+updated: 2024-10-09T22:28:25.199Z
 tags:
   - apple
 categories:
@@ -84,10 +84,10 @@ Apple is adding natural language photo and video search to its Photos app. This 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How does systemwide AI text generation work?
@@ -103,10 +103,10 @@ The same feature can help users make major edits to text, such as changing the t
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is Image Playground?
@@ -121,13 +121,6 @@ In the Notes app, for example, a new tool called Image Wand will let you circle 
 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
 
 Apple
@@ -139,6 +132,13 @@ When users make a Siri request that the voice assistant determines would be bett
 **Also: [Apple finally gave us the iPad app we've waited 14 years for at WWDC 2024](https://www.zdnet.com/article/apple-finally-gave-us-the-ipad-app-weve-waited-14-years-for-at-wwdc-2024/)**
 
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Apple Intelligence be processed on-device or in the cloud?
 
@@ -156,13 +156,6 @@ Apple is leveraging what it calls Private Cloud Compute for complex tasks that r
 
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Is Apple Intelligence actually private and secure?
 
 Apple
@@ -177,6 +170,19 @@ The company is striving to keep the AI features secure through several mechanism
 * **Independent code review:** With Private Cloud Compute, Apple explained that the code is available for independent experts to inspect and verify it meets privacy standards.
 * **Data encryption:** Apple encrypts all data sent to and from its servers as another layer of security.
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
+
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
 
@@ -218,24 +224,21 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-mobile-creativity-boost-identifying-the-best-video-editing-tools/"><u>[New] 2024 Approved Mobile Creativity Boost Identifying the Best Video Editing Tools</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-swiftly-address-iphone-photography-blur/"><u>[New] 2024 Approved Swiftly Address iPhone Photography Blur</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-metaverse-contrasted-with-multimetaverse-a-detailed-breakdown-in-depth-guide/"><u>[New] Metaverse Contrasted with MultiMetaverse A Detailed Breakdown (In-Depth Guide)</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-blending-realms-a-guide-to-photomosaic-creation-for-2024/"><u>[Updated] Blending Realms A Guide to PhotoMosaic Creation for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-effortlessly-manage-iphone-photos-aligning-albums-and-streamlining-icloud-storage/"><u>[Updated] Effortlessly Manage iPhone Photos Aligning Albums and Streamlining iCloud Storage</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-progopro-tips-for-cinematic-results/"><u>[Updated] ProGoPro Tips for Cinematic Results</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-tackling-challenges-head-on-essentials-for-onestream-livestreamers/"><u>[Updated] Tackling Challenges Head-On Essentials for OneStream Livestreamers</u></a></li>
-<li><a href="https://fox-info.techidaily.com/capture-your-rides-top-7-camcorders-for-skiingsnowboarding-for-2024/"><u>Capture Your Rides Top 7 Camcorders for Skiing/Snowboarding for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/diy-chatgpt-customization-how-to-develop-a-unique-gpt-model/"><u>DIY ChatGPT Customization: How to Develop a Unique GPT Model</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/guide-ensuring-the-accuracy-of-medical-data-retrieved-via-chatgpt-and-other-ais/"><u>Guide: Ensuring the Accuracy of Medical Data Retrieved via ChatGPT and Other AIs</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-will-artificial-intelligence-impact-the-future-of-mental-well-being-and-therapeutic-assistance/"><u>How Will Artificial Intelligence Impact the Future of Mental Well-Being and Therapeutic Assistance?</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-11-best-pokemon-go-spoofers-for-gps-spoofing-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, 11 Best Pokemon Go Spoofers for GPS Spoofing on Apple iPhone XR | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/intelligent-reading-assistants-5-cutting-edge-tools-powered-by-ai-for-personalized-book-suggestions/"><u>Intelligent Reading Assistants: 5 Cutting-Edge Tools Powered by AI for Personalized Book Suggestions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/introducing-bard-googles-new-ai-system-in-response-to-chatgpt/"><u>Introducing Bard: Google's New AI System in Response to ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/managing-tension-through-chatgpt-strategies-for-relief-and-resilience/"><u>Managing Tension Through ChatGPT: Strategies for Relief and Resilience</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/mastering-distance-a-deep-dive-review-into-the-dominating-presence-of-the-galaxy-ford-f-150-rc-truck/"><u>Mastering Distance: A Deep Dive Review Into the Dominating Presence of the Galaxy Ford F-150 RC Truck</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-instructions-for-activating-bing-ai-in-your-android-keyboard/"><u>Step-by-Step Instructions for Activating Bing AI in Your Android Keyboard</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-8-effective-uses-of-auto-gpt-for-enhanced-productivity/"><u>Top 8 Effective Uses of Auto-GPT for Enhanced Productivity</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-creativity-with-chatgpt-a-guide-for-content-producers-9-tips/"><u>Unlocking Creativity with ChatGPT: A Guide for Content Producers (9 Tips)</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-combatting-iphones-difficulty-in-autofocusing/"><u>[New] In 2024, Combatting iPhone's Difficulty in Autofocusing</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-live-streaming-and-screen-capture-a-comprehensive-obs-analysis/"><u>[Updated] 2024 Approved Live Streaming & Screen Capture A Comprehensive OBS Analysis</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-ideation-at-its-peak-crafting-impressive-youtube-titles/"><u>[Updated] Ideation at Its Peak Crafting Impressive YouTube Titles</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-craft-captivating-content-with-30-video-ideas/"><u>2024 Approved Craft Captivating Content with 30 Video Ideas</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-spearheading-immersive-worlds-top-vr-minds/"><u>2024 Approved Spearheading Immersive Worlds Top VR Minds</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-vivo-y78plus-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Vivo Y78+ FRP Bypass Instantly</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-astonishing-critique-and-substitutes-guide/"><u>In 2024, Astonishing Critique & Substitutes Guide</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-virtualdub-review-does-it-still-hold-up-plus-top-alternatives-to-consider/"><u>New 2024 Approved Virtualdub Review Does It Still Hold Up? Plus, Top Alternatives to Consider</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/straightforward-video-recorders-for-win10-for-2024/"><u>Straightforward Video Recorders for Win10 for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-dead-internet-theory-who-is-your-true-digital-audience/"><u>Unveiling the 'Dead Internet' Theory: Who Is Your True Digital Audience?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-risks-when-ai-chatbots-attempt-to-forge-windows-11-activation-key-generation/"><u>Unveiling the Risks: When AI Chatbots Attempt to Forge Windows 11 Activation Key Generation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-secrets-of-chatgpts-token-threshold-and-beyond-possibilities/"><u>Unveiling the Secrets of ChatGPT's Token Threshold and Beyond Possibilities</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-bots-are-winning-the-rise-of-conversational-ai/"><u>Why Bots Are Winning: The Rise of Conversational AI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/will-ai-outdo-magazine-horoscopes-in-prophetic-accuracy/"><u>Will AI Outdo Magazine Horoscopes in Prophetic Accuracy?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/winning-job-applications-with-advanced-ai-for-resumes/"><u>Winning Job Applications with Advanced AI for Resumes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/your-ultimate-ai-glossary-guide-navigating-through-29-significant-concepts-in-tech-speak/"><u>Your Ultimate AI Glossary Guide: Navigating Through 29 Significant Concepts in Tech Speak</u></a></li>
 </ul></div>
 

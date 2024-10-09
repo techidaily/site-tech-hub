@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Apple Innovations Revealed: Exciting Updates Coming to iPhone, iPad, and Mac Devices This Autumn, with a Focus on Artificial Intelligence – Stay Informed !"
-date: 2024-10-01T23:59:44.805Z
-updated: 2024-10-03T20:59:55.927Z
+date: 2024-10-05T21:26:33.278Z
+updated: 2024-10-09T18:39:34.029Z
 tags:
   - apple
 categories:
@@ -60,13 +60,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -76,10 +69,10 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -115,10 +108,16 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -142,6 +141,13 @@ Adam Breeden/ZDNET
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## VisionOS 2
 
 Jason Hiner/ZDNET
@@ -159,13 +165,6 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -173,6 +172,13 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -218,20 +224,22 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-how-to-reverse-a-video-on-snapchat/"><u>[New] 2024 Approved How to Reverse a Video on Snapchat?</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-converting-ephemeral-content-fb-messenger-video-secrets-revealed/"><u>[New] Converting Ephemeral Content FB Messenger Video Secrets Revealed</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/asterclass-in-15-high-impact-youtube-startups-for-2024/"><u>[New] Masterclass in 15 High-Impact YouTube Startups for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-chromatic-ingenuity-from-concept-to-creation/"><u>[Updated] Chromatic Ingenuity From Concept to Creation</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/astromon-a-la-ligne-sans-frais-utilisez-le-convertisseur-gratuit-de-movavi-pour-une-transition-parfaite/"><u>Astromon À La Ligne Sans Frais : Utilisez Le Convertisseur Gratuit De Movavi Pour Une Transition Parfaite!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/effective-strategies-avoiding-common-pitfalls-of-chatgpt-for-students/"><u>Effective Strategies: Avoiding Common Pitfalls of ChatGPT for Students</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/elevate-your-note-taking-game-using-chatgpt-insider-secrets-uncovered/"><u>Elevate Your Note-Taking Game Using ChatGPT - Insider Secrets Uncovered</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/examining-the-quintessential-reasons-behind-chatgpts-swift-ascent-to-global-popularity/"><u>Examining the Quintessential Reasons Behind ChatGPT’s Swift Ascent to Global Popularity</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/get-your-next-adventure-ready-with-these-7-ai-based-free-itinerary-tools/"><u>Get Your Next Adventure Ready with These 7 AI-Based, Free Itinerary Tools</u></a></li>
-<li><a href="https://change-location.techidaily.com/honor-100-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor 100 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-ai-search-engines-could-change-websites/"><u>How AI Search Engines Could Change Websites</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-x-to-android-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone X to Android? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-vivo-y78-5g-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Vivo Y78 5G Device</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/streamline-your-teams-productivity-using-chatgpt-strategies-and-tips/"><u>Streamline Your Team's Productivity Using ChatGPT Strategies and Tips</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/windows-troubleshooting-guide-addressing-issues-with-intel-hd-graphics-630-driver/"><u>Windows Troubleshooting Guide: Addressing Issues with Intel HD Graphics 630 Driver</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-tablet-artistry-top-8-drawing-software-for-ipados/"><u>[New] 2024 Approved Tablet Artistry Top 8 Drawing Software for iPadOS</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-laugh-ledger-unveiling-the-best-text-generation-apps/"><u>[New] Laugh Ledger Unveiling the Best Text Generation Apps</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/he-ultimate-pathway-to-successful-uploads-on-youtube-for-2024/"><u>[New] The Ultimate Pathway to Successful Uploads on YouTube for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-poco-c51-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Poco C51 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-team-performance-with-the-synergy-of-onlyoffice-docspace-and-chatgpt-capabilities/"><u>Elevate Team Performance with the Synergy of ONLYOFFICE DocSpace and ChatGPT Capabilities</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancing-iphone-productivity-a-guide-to-using-chatgpt-and-siri-together/"><u>Enhancing iPhone Productivity: A Guide to Using ChatGPT and Siri Together</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-7-alternative-ai-programming-helpers-like-chatgpt/"><u>Exploring 7 Alternative AI Programming Helpers Like ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-potential-risks-in-chatgpt-a-security-perspective/"><u>Exploring Potential Risks in ChatGPT: A Security Perspective</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-twitters-new-feature-ax-drops-and-checkmarks/"><u>Exploring Twitter's New Feature: Ax Drops & Checkmarks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/five-student-driven-uses-for-ai-tutor-chatgpt/"><u>Five Student-Driven Uses for AI Tutor: ChatGPT</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fixed-instagram-reel-glitch/"><u>FIXED- Instagram Reel Glitch</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/four-key-methods-governments-use-to-oversee-artificnial-intelligence-technologies/"><u>Four Key Methods Governments Use to Oversee Artificnial Intelligence Technologies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-words-to-artwork-unleashing-the-creative-potential-of-ai-with-dall-e-and-chatgpt-4/"><u>From Words to Artwork: Unleashing the Creative Potential of AI with DALL-E & ChatGPT-4</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/hunt-for-the-best-deals-prime-day-specs-and-headphones-from-tribit/"><u>Hunt for the Best Deals: Prime Day Specs and Headphones From Tribit</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-realme-gt-5-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Realme GT 5 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/revive-damaged-pictures-effortlessly-using-stellar-repair-the-definitive-guide-to-photo-recovery-on-windows/"><u>Revive Damaged Pictures Effortlessly Using Stellar Repair: The Definitive Guide to Photo Recovery on Windows</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-bring-your-ideas-to-life-top-5-online-stop-motion-tools/"><u>Updated 2024 Approved Bring Your Ideas to Life Top 5 Online Stop Motion Tools</u></a></li>
 </ul></div>
 

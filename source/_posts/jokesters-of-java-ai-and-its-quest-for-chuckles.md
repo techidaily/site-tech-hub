@@ -1,7 +1,7 @@
 ---
 title: "Jokesters of Java: AI and Its Quest for Chuckles"
-date: 2024-09-20T00:18:13.818Z
-updated: 2024-09-23T02:27:16.599Z
+date: 2024-10-02T19:52:06.663Z
+updated: 2024-10-09T18:29:28.354Z
 tags:
   - chatgpt
   - open-ai
@@ -48,6 +48,20 @@ thumbnail: https://thmb.techidaily.com/8ff604b1994b08eb94688e168989c0566c68ac557
 
 ![ChatGPT Generated a 200-Word Article on Dogs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-article-about-dogs.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Overdependence on AI Makes You a Lazy Researcher
 
  AI has further simplified “research.” Instead of combing through Google search results, you can just ask chatbots and writing tools. They’ll provide brief, concise answers.
@@ -56,9 +70,23 @@ thumbnail: https://thmb.techidaily.com/8ff604b1994b08eb94688e168989c0566c68ac557
 
  Before writing, make sure you study your subject. Extensive research is the core of every well-written piece—spend at least 30 to 60 minutes reading online sources. You can provide value by comparing resources, laying down verified facts, and asserting well-founded conclusions. Simply paraphrasing what chatbots say is senseless.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. AI Scrapes Commonly Published Information
 
 ![Copy.ai Generates an Article on Taking Care of Dogs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/copy-ai-article-on-dogs.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  AI avoids inaccuracies by generating generic responses. Take the above piece as an example. When we asked an AI writing tool to talk about dog care, it focused on super-common tips, which readers have likely seen multiple times. The below photo also shows that its insights came from an unreliable source.
 
@@ -67,13 +95,6 @@ thumbnail: https://thmb.techidaily.com/8ff604b1994b08eb94688e168989c0566c68ac557
  Generic pieces rarely gain traffic. To attract readers and score higher SERP rankings, write original articles that are exclusive to your site. Stop rewriting stuff that everyone already knows.
 
  Of course, you can still discuss general subjects. Just make sure you cover a unique angle or stand that aligns with your branding and image.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. AI Generates the Same Results for Similar Questions
 
@@ -91,13 +112,6 @@ thumbnail: https://thmb.techidaily.com/8ff604b1994b08eb94688e168989c0566c68ac557
 
  It’s best to curate articles yourself. Remember that consistent branding plays a crucial role in retaining site visitors. The content you publish, your layout, and the conclusions you assert should resonate with your target audience. Give them reasons to come back to your site.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Writing Tools Don’t Incorporate SEO Tactics Into Its Pieces
 
  Writers typically use AI platforms to hasten the writing process. Most tools produce thousands of words within seconds, so theoretically, you could edit and publish a new blog in under 10 minutes.
@@ -105,13 +119,6 @@ thumbnail: https://thmb.techidaily.com/8ff604b1994b08eb94688e168989c0566c68ac557
  Although fast, AI sacrifices quality. AI-generated pieces rarely meet the criteria to rank on SERPs—only[high-quality content improves site visibility](https://www.makeuseof.com/increase-visibility-website-seo-course/) . Publishing hundreds of articles won’t matter if no one reads them.
 
  If you want top-ranking pages, focus on providing value. Haphazardly instructing writing tools and chatbots to stuff keywords into lengthy, generic blogs yields negligible results. Search engines might even qualify your site as spam.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Many Premium Plagiarism Checkers Flag AI-Generated Pieces
 
@@ -124,16 +131,10 @@ thumbnail: https://thmb.techidaily.com/8ff604b1994b08eb94688e168989c0566c68ac557
  Writers have differing opinions about the morality of publishing AI content and plagiarism, but as a respectable professional, you should do your own research. Never risk plagiarizing content. Study the topics for yourself, draw logical conclusions, then convey them in your own words.
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Use AI Chatbots Responsibly
@@ -155,5 +156,22 @@ thumbnail: https://thmb.techidaily.com/8ff604b1994b08eb94688e168989c0566c68ac557
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-make-the-most-of-youtube-tv-offerings/"><u>[Updated] 2024 Approved How to Make the Most of YouTube TV Offerings</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-plotting-the-perfect-tiktok-outro-journey/"><u>[Updated] 2024 Approved Plotting the Perfect TikTok Outro Journey</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-does-instant-subscription-strategy-improve-user-engagement-in-2024/"><u>[Updated] Does Instant Subscription Strategy Improve User Engagement, In 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-navigating-the-complexities-of-macos-srt-changes/"><u>[Updated] Navigating the Complexities of macOS SRT Changes</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-ranked-best-ipad-speech-to-text-programs-3/"><u>[Updated] Ranked Best iPad Speech-to-Text Programs #3</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/artistic-alliance-how-sarah-silverman-joins-forces-with-peers-in-legal-battle-against-openai-and-meta/"><u>Artistic Alliance: How Sarah Silverman Joins Forces with Peers in Legal Battle Against OpenAI & Meta</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancing-ai-and-bitcoin-discussions-top-8-gpt-plugins-selection/"><u>Enhancing AI & Bitcoin Discussions: Top 8 GPT Plugins Selection</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/essential-techniques-to-backup-your-ai-dialogues/"><u>Essential Techniques to Backup Your AI Dialogues</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fabios-it-success-video-on-exchanging-effective-testimonials/"><u>Fabio's IT Success: Video on Exchanging Effective Testimonials</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gpt-4-open-to-all-yet-premium-users-reap-6-exclusive-advantages/"><u>GPT-4: Open to All; Yet, Premium Users Reap 6 Exclusive Advantages.</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-leverage-chatgpts-pre-installed-addons-for-enhanced-functionality/"><u>How to Leverage ChatGPT's Pre-Installed Addons for Enhanced Functionality</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ustream-live-and-comparable-platforms/"><u>In 2024, Ustream Live & Comparable Platforms</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/master-the-art-of-moving-shots-a-handbook-for-hero5-time-lapse-photography-for-2024/"><u>Master the Art of Moving Shots A Handbook for Hero5 Time-Lapse Photography for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/uniting-users-with-distinctive-chatbot-experiences/"><u>Uniting Users with Distinctive Chatbot Experiences</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-educational-potential-5-uses-of-chatgpt-for-students/"><u>Unlocking Educational Potential: 5 Uses of ChatGPT for Students</u></a></li>
+</ul></div>
 

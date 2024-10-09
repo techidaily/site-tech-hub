@@ -1,7 +1,7 @@
 ---
 title: How Does Localized AI Process Information? Exploring On-Device Cognition
-date: 2024-09-15T20:53:11.141Z
-updated: 2024-09-22T20:40:46.889Z
+date: 2024-10-05T17:47:57.983Z
+updated: 2024-10-09T19:41:29.931Z
 tags:
   - chatgpt
   - open-ai
@@ -38,9 +38,29 @@ thumbnail: https://thmb.techidaily.com/6095600b720da220ffffead1a4fc142237909794e
 
  In a separate incident, the researchers prompted ChatGPT to generate malicious VBA code that could be implanted into a Microsoft Excel file that would infect your PC if opened; it successfully did. Plus, there are claims that ChatGPT can code malicious software capable of spying on your keyboard strokes.
 
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Can ChatGPT Hack Your Bank Account?
 
 ![An illustration of a customer service chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customer-service.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Many data breaches start with[a successful phishing attack](http://www.makeuseof.com/what-is-phishing/) . Phishing attacks often involve a malicious actor sending a recipient an email that contains legitimate-looking documents or links, which, when clicked on, can install malware on their device. In this way, code from ChatGPT doesn't need to hack your bank account directly. Someone only needs to use ChatGPT to help them trick you into giving them access.
 
@@ -53,6 +73,13 @@ thumbnail: https://thmb.techidaily.com/6095600b720da220ffffead1a4fc142237909794e
  For phishing, it’s mostly about volume. ChatGPT can help boost phishing campaigns as it can quickly pump out huge amounts of natural-sounding texts that are tailored to specific audiences.
 
  Another kind of phishing attack involving the use of ChatGPT is where a hacker creates a fake account on a popular chat platform like Discord and pretends to be a customer representative. The fake customer rep then contacts customers who have posted concerns and offers help. If a user falls for the trap, the cybercriminal will redirect them to a bogus website that tricks them into sharing personal information, like their bank login details.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Protect Your PC and Bank Account in the AI-Era
 
@@ -75,12 +102,17 @@ thumbnail: https://thmb.techidaily.com/6095600b720da220ffffead1a4fc142237909794e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-internal-recording-feature-screen-capture-for-huaweis-mate-and-p-series-phones/"><u>[Updated] 2024 Approved Internal Recording Feature Screen Capture for Huawei's Mate & P Series Phones</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-decoding-instagrams-maximum-video-duration-length-limit-for-2024/"><u>[Updated] Decoding Instagram’s Maximum Video Duration Length Limit for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-analysis-sea-tech-external-usb-blu-ray-recorder-fluctuating-write-speeds-reviewed/"><u>Comprehensive Analysis: Sea Tech External USB Blu-Ray Recorder - Fluctuating Write Speeds Reviewed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-your-content-game-the-impact-of-chatgpt-on-modern-authoring-practices/"><u>Elevate Your Content Game: The Impact of ChatGPT on Modern Authoring Practices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/from-idea-to-implementation-crafting-a-powerful-documntary-narrative-for-2024/"><u>From Idea to Implementation Crafting a Powerful Documntary Narrative for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-chatgpt-a-comprehensive-guide-for-mac-users/"><u>Mastering ChatGPT: A Comprehensive Guide for Mac Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-integrity-4-premier-tools-that-educators-and-leaders-need-to-detect-ai-generated-texts/"><u>Mastering Integrity: 4 Premier Tools That Educators & Leaders Need to Detect AI-Generated Texts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionize-daily-tasks-at-home-a-6-step-guide-with-chatgpt/"><u>Revolutionize Daily Tasks at Home: A 6-Step Guide with ChatGPT</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-fixes-to-optimize-disk-space-in-windows-10/"><u>Step-by-Step Fixes to Optimize Disk Space in Windows 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-pc-how-to-secure-the-newest-sound-blaster-z-driver-for-windows-11/"><u>Update Your PC: How To Secure The Newest Sound Blaster Z Driver for Windows 11</u></a></li>
+</ul></div>
 

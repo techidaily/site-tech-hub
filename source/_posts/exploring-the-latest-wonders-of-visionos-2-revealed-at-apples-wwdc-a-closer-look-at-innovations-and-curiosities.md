@@ -1,7 +1,7 @@
 ---
 title: Exploring the Latest Wonders of VisionOS 2 Revealed at Apple's WWDC - A Closer Look at Innovations and Curiosities
-date: 2024-09-30T22:19:21.398Z
-updated: 2024-10-04T00:08:11.130Z
+date: 2024-10-06T21:57:45.317Z
+updated: 2024-10-09T17:59:07.381Z
 tags:
   - apple
 categories:
@@ -70,6 +70,13 @@ You don't have to use a physical SIM card thanks to the Pro 8's support for an e
 
 **Also:** [**eSIM vs. SIM: What's the difference?**](https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best tablets (aren't all iPads) Choosing the best tablet can be tricky. Yes, the top picks include the Apple iPad and iPad Pro, but we also love the Samsung Galaxy Tab S8 Ultra, Microsoft Surface Go 3, and others.  Read now](https://www.zdnet.com/article/best-tablet/)
@@ -85,13 +92,6 @@ I already had the combo kit, so that's what I've been using during my testing.
 Regardless of which keyboard you pick up, all of them have a slot for a Surface Slim Pen 2 above the keyboard. When it's folded up, the pen rests against the Pro 8's bottom bezel. It wirelessly charges the pen, so it's constantly ready for use. 
 
 Overall, I love the design of the Pro 8\. I've actually found myself using it as a tablet more than I do the iPad Pro simply because the kickstand is built into the housing. There isn't another cover or case I have to manage. It's fantastic. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## But can it replace an iPad Pro?
 
@@ -124,13 +124,6 @@ The ability to connect a tablet to an external display and have it actually work
 
 When working on my iPad Pro connected to a monitor, whatever's on the iPad's screen is mirrored on the larger display. There are some apps that use Apple's rudimentary API for external displays, but it's not great. 
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [The best iPads: Which model should you buy? Apple's tablet lineup has a wide range of prices and capabilities.  Read now](https://www.zdnet.com/article/best-ipad/)
@@ -140,13 +133,6 @@ Also, I have a lot of workarounds for completing certain tasks on the iPad. For 
 I realize that the Pro 8 is running a full-fledged operating system in Windows 11, whereas the iPad Pro is running a mobile-first operating system in iPadOS, but the devices are relatively the same size and target the same type of user. Even the prices are close enough that the comparison is warranted. 
 
 The total cost of the Surface Pro 8 with LTE, along with the Signature Keyboard Cover with Slim Pen is $2,128\. The iPad Pro with 5G, 16GB of memory, 1TB of storage, Apple's Magic Keyboard with trackpad and an Apple Pencil is $2,449\. 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## There are still many things the iPad Pro does better
 
@@ -159,6 +145,13 @@ I prefer to use Apple's Mail app along with my iCloud+ personal domain as oppose
 **Also:** [**Want a touchscreen MacBook? This portable monitor makes it possible**](https://www.zdnet.com/home-and-office/smart-office/want-a-touchscreen-macbook-this-portable-monitor-makes-it-possible/)
 
 Another thing I love about my iPad Pro is that its performance is reliable and consistent. When using the Pro 8 with multiple apps open, there would be a slight delay or pause before an app would appear after being minimized at times. It wasn't specific to any one app; I frequently experienced it with Thunderbird, Discord, and Slack. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bottom line
 
@@ -173,13 +166,20 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## FAQ
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Should I get a Surface Pro 8 or an iPad Pro?
 
@@ -218,17 +218,16 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-navigating-zoom-recordings-for-business-success/"><u>[Updated] Navigating Zoom Recordings for Business Success</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-visualsnap-win11-instant-desktop-capture-and-save-for-2024/"><u>[Updated] VisualSnap Win11 Instant Desktop Capture & Save for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-the-secret-technique-for-instantaneous-deletion-of-youtube-discussions/"><u>2024 Approved The Secret Technique for Instantaneous Deletion of Youtube Discussions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/explore-the-enhanced-features-of-windows-11s-revamped-sticky-notes-application/"><u>Explore the Enhanced Features of Windows 11'S Revamped Sticky Notes Application</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-microsofts-innovative-use-of-qr-codes-on-windows-desktop-startup-screens/"><u>Exploring Microsoft's Innovative Use of QR Codes on Windows Desktop Startup Screens</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/fast-track-to-finding-your-applications-exe-on-windows-10/"><u>Fast Track to Finding Your Application's EXE on Windows 10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixed-large-screen-problems-on-windows-os/"><u>Fixed Large Screen Problems on Windows OS</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/from-battery-drain-to-lasting-energy-the-strategies-that-revolutionized-my-windows-laptops-charge-efficiency/"><u>From Battery Drain to Lasting Energy: The Strategies That Revolutionized My Windows Laptop’s Charge Efficiency</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/guide-to-acquiring-windows-11-iso-images-by-bypassing-the-media-creation-toolbox/"><u>Guide to Acquiring Windows 11 ISO Images by Bypassing the Media Creation Toolbox</u></a></li>
-<li><a href="https://extra-information.techidaily.com/resolving-iphone-xs-facial-recognition-hurdles/"><u>Resolving iPhone X's Facial Recognition Hurdles</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/simplify-your-writing-workflow-by-automating-documents-with-chatgpt-in-ms-word/"><u>Simplify Your Writing Workflow by Automating Documents with ChatGPT in MS Word</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-vivo-v30-lite-5g-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Vivo V30 Lite 5G without backup.</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-guide-to-seamless-videos-with-funimate/"><u>[New] 2024 Approved Guide to Seamless Videos with Funimate</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-leading-20-anime-theme-anthems/"><u>[Updated] 2024 Approved Leading 20 Anime Theme Anthems</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-top-tips-for-webinar-preservation-without-hurdles-windows-macos/"><u>[Updated] In 2024, Top Tips for Webinar Preservation without Hurdles (Windows, macOS)</u></a></li>
+<li><a href="https://media-tips.techidaily.com/essential-tips-and-tricks-for-newbies-to-broadcast-their-podcasts-on-different-social-platforms-a-comprehensive-manual/"><u>Essential Tips and Tricks for Newbies to Broadcast Their Podcasts on Different Social Platforms - A Comprehensive Manual</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/teletraitement-assistance-et-services-de-formation-pour-lutilisation-du-winx-dvd-ripper-et-des-logiciels-convertisseurs-videos/"><u>Télétraitement Assistance Et Services De Formation Pour L'utilisation Du WinX DVD Ripper Et Des Logiciels Convertisseurs Vidéos</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transforming-tech-ai-for-programmers/"><u>Transforming Tech: AI for Programmers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/troubleshooting-tips-solving-the-top-6-chatgpt-issues/"><u>Troubleshooting Tips: Solving the Top 6 ChatGPT Issues</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleashing-creativity-in-gaming-top-6-uses-of-chatgpt-by-aspiring-scriptwriters/"><u>Unleashing Creativity in Gaming: Top 6 Uses of ChatGPT by Aspiring Scriptwriters</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-seven-practical-ways-chatgpt-enhances-our-lives/"><u>Unveiling Seven Practical Ways ChatGPT Enhances Our Lives</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/your-simple-route-to-youtubes-srt-extraction/"><u>Your Simple Route to YouTube's SRT Extraction</u></a></li>
 </ul></div>
 

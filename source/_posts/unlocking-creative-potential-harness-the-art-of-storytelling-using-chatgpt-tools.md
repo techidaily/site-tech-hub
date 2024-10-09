@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Creative Potential: Harness the Art of Storytelling Using ChatGPT Tools"
-date: 2024-09-15T23:45:44.264Z
-updated: 2024-09-22T18:39:33.643Z
+date: 2024-10-03T16:42:59.647Z
+updated: 2024-10-09T16:35:38.300Z
 tags:
   - chatgpt
   - open-ai
@@ -36,9 +36,23 @@ thumbnail: https://thmb.techidaily.com/9a1d2889cbe4ad14880fa77a388cff944d010380f
 
  Head over to the Jobs channel to[start a career in prompt engineering](https://www.makeuseof.com/career-in-prompt-engineering/) . Dozens of members need help writing prompts for generative AI tools, chatbots, and text-to-image systems.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2.[GitHub](https://github.com/)
 
 ![ChatGPT Prompts Repositories on GitHub](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/github-repositories-for-chatgpt.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Anyone interested in AI should sign up for GitHub. It’s a paid source code-hosting site that lets users collaborate on coding and programming projects. You and your partners can take codes straight from repositories.
 
@@ -60,6 +74,13 @@ thumbnail: https://thmb.techidaily.com/9a1d2889cbe4ad14880fa77a388cff944d010380f
 
 ![ChatGPT Accepts Roleplay Request and Starts Acting Like Tomie](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-accepts-roleplay-request-as-tomie.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can apply this trick to other prompts. On r/ChatGPTJailbreak, you’ll learn the proper phrasing, language, word choice, and sentence structure when jailbreaking ChatGPT. Only specific formulas can bypass AI restrictions.
 
 ## 4.[ChatGPT Prompt Engineers](https://www.facebook.com/groups/706382050894862/)
@@ -67,10 +88,10 @@ thumbnail: https://thmb.techidaily.com/9a1d2889cbe4ad14880fa77a388cff944d010380f
 ![A Facebook Group for Sharing and Posting ChatGPT Prompts ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/facebook-group-chatgpt-prompt-engineers.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  ChatGPT Prompt Engineers is a decent community for beginners. Members just typically ask general knowledge questions about writing prompts and getting optimal outputs. You won’t have trouble keeping up with discussions.
@@ -81,6 +102,13 @@ thumbnail: https://thmb.techidaily.com/9a1d2889cbe4ad14880fa77a388cff944d010380f
 
 ![A Facebook Group for Sharing Midjourney Prompts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/midjourney-prompts-facebook-group.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Midjourney ranks among the[most popular text-to-art generators online](https://www.makeuseof.com/ai-text-to-art-generators/) . Its sophisticated AI architecture was trained on much broader datasets, allowing it to generate more realistic elements.
 
  With that said, utilizing Midjourney is also challenging. It requires more technical and precise prompts than other AI art generators. Many newbies can only write basic prompts.
@@ -88,13 +116,6 @@ thumbnail: https://thmb.techidaily.com/9a1d2889cbe4ad14880fa77a388cff944d010380f
  To craft better text-to-image prompts, join the Midjourney Prompt Tricks Facebook group. Users trade prompts here. Take inspiration from workflows that match your art style; you don’t have to waste time writing prompts from scratch.
 
  Try some[AI art prompt tricks](https://www.makeuseof.com/ai-art-prompt-ideas/) to get your creative juices flowing. See how phrasing affects the way your output. You’ll notice specific phrases and keywords that trigger different image elements.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6.[r/PromptDesign](https://www.reddit.com/r/PromptDesign/)
 
@@ -119,10 +140,10 @@ thumbnail: https://thmb.techidaily.com/9a1d2889cbe4ad14880fa77a388cff944d010380f
 ![Reddit Community for Stable Diffusion Prompts and Output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/stablediffusion-prompts-on-reddit.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  r/StableDiffusion is the largest subreddit dedicated to Stable Diffusion. The community allows sharing workflows. However, it primarily encourages users to post outputs and discuss relevant AI news—prompt engineering is merely a part of generating AI art.
@@ -130,13 +151,6 @@ thumbnail: https://thmb.techidaily.com/9a1d2889cbe4ad14880fa77a388cff944d010380f
  The group might be helpful if you prefer Stable Diffusion over Midjourney and Dall-E models. Study the system’s limits and capabilities. Users post various media forms, including 3D images, 2D portraits, and animations.
 
  Meanwhile, artists who prefer other text-to-image models could use the group for comparisons. See which system provides the best outputs. You might even find Stable Diffusion users testing your preferred art styles frequently.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9.[Sales, Marketing, Social Media, Artificial Intelligence (AI), ChatGPT Technology Innovation Network](https://www.linkedin.com/groups/54066/)
 
@@ -151,10 +165,10 @@ thumbnail: https://thmb.techidaily.com/9a1d2889cbe4ad14880fa77a388cff944d010380f
  Perhaps the only downside is the group gets plenty of spam. You might have to scroll through aggressive ads and campaigns before finding valuable content.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Connect With Fellow Professionals in the AI Industry
@@ -176,5 +190,24 @@ thumbnail: https://thmb.techidaily.com/9a1d2889cbe4ad14880fa77a388cff944d010380f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-software-less-method-to-save-youtube-videos-for-2024/"><u>[New] Free Software-Less Method to Save YouTube Videos for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-in-the-realm-of-favorites-top-10-reddit-discussions-revisited/"><u>[Updated] In 2024, In the Realm of Favorites Top 10 Reddit Discussions Revisited</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-time-saving-strategies-mastering-video-playback-speed/"><u>[Updated] In 2024, Time-Saving Strategies Mastering Video Playback Speed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ais-role-in-enhancing-scholarly-work-top-five-methods-for-improved-study-outcomes/"><u>AI's Role in Enhancing Scholarly Work: Top Five Methods for Improved Study Outcomes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/embrace-the-role-of-investigator-with-these-n-ai-murder-mystery-puzzles/"><u>Embrace the Role of Investigator with These N AI Murder Mystery Puzzles</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gpt-powered-content-is-it-ses-kryptonite/"><u>GPT-Powered Content: Is It SE's Kryptonite?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-discreetly-watch-instas-hidden-gems-here/"><u>In 2024, Discreetly Watch Insta's Hidden Gems, Here</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-maximize-views-with-these-14-premier-youtube-gaming-videos/"><u>In 2024, Maximize Views with These 14 Premier YouTube Gaming Videos</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/inside-scoop-a-thorough-review-and-analysis-of-kobo-clara-colour/"><u>Inside Scoop: A Thorough Review and Analysis of Kobo Clara Colour</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leading-6-ai-powered-apps-to-transform-how-you-take-notes-effectively/"><u>Leading 6 AI Powered Apps to Transform How You Take Notes Effectively</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-the-maze-of-chatgpt-access-glitches/"><u>Navigating the Maze of ChatGPT Access Glitches</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-through-the-world-of-ai-hallucinations-strategies-for-identification-and-insight/"><u>Navigating Through the World of AI Hallucinations – Strategies for Identification and Insight</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-art-of-captivating-6-powerful-video-genres-for-2024/"><u>The Art of Captivating 6 Powerful Video Genres for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-lg-k51-phone-reviewed-aesthetic-appeal-hindered-by-underwhelming-processor-speed/"><u>The LG K51 Phone Reviewed: Aesthetic Appeal Hindered by Underwhelming Processor Speed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-safety-quandary-of-openais-chatgpt-insight-into-six-major-vulnerabilities/"><u>The Safety Quandary of OpenAI's ChatGPT: Insight Into Six Major Vulnerabilities</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-7-innovative-bard-ai-capabilities-unveiled-at-googles-io-conference-2-groop/"><u>Top 7 Innovative BARD AI Capabilities Unveiled at Google's I/O Conference 2 Groop</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/unveiling-the-secrets-to-creating-an-enterprise-instagram-profile-for-2024/"><u>Unveiling the Secrets to Creating an Enterprise Instagram Profile for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Steering AI Ethics: Why OpenAI's CEO Calls for Oversight"
-date: 2024-09-16T16:15:37.865Z
-updated: 2024-09-22T18:00:47.815Z
+date: 2024-10-03T17:57:16.649Z
+updated: 2024-10-09T21:40:49.912Z
 tags:
   - chatgpt
   - open-ai
@@ -25,6 +25,13 @@ thumbnail: https://thmb.techidaily.com/70cafb81e97d380bf1f55403cf595cebfeb242757
 * [What Is the Open-Source ChatGPT Desktop Application?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#what-is-the-open-source-chatgpt-desktop-application)
 * [How to Install and Configure ChatGPT Desktop Application](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#how-to-install-and-configure-chatgpt-desktop-application)
 * [When Is the Official ChatGPT Desktop Version Launching?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#when-is-the-official-chatgpt-desktop-version-launching)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -53,10 +60,10 @@ thumbnail: https://thmb.techidaily.com/70cafb81e97d380bf1f55403cf595cebfeb242757
  The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Install and Configure ChatGPT Desktop Application
@@ -72,10 +79,17 @@ thumbnail: https://thmb.techidaily.com/70cafb81e97d380bf1f55403cf595cebfeb242757
 ![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When Is the Official ChatGPT Desktop Version Launching?
@@ -99,5 +113,23 @@ thumbnail: https://thmb.techidaily.com/70cafb81e97d380bf1f55403cf595cebfeb242757
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-charting-a-course-essential-equipment-for-youtube-enthusiasts/"><u>[New] In 2024, Charting a Course Essential Equipment for YouTube Enthusiasts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-leading-choices-elite-android-call-alerts/"><u>[Updated] In 2024, Leading Choices Elite Android Call Alerts</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-converting-your-clips-upload-to-youtube-via-premiere/"><u>2024 Approved Converting Your Clips Upload to YouTube Via Premiere</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-revolutionizing-podcast-titles-leading-10-ai-generators/"><u>2024 Approved Revolutionizing Podcast Titles Leading 10 AI Generators</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/crafting-compelling-proposals-with-chatgpt-a-step-by-step-guide/"><u>Crafting Compelling Proposals with ChatGPT: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exclusive-excel-power-moves-unmatched-by-ai-like-chatgpt/"><u>Exclusive Excel Power Moves Unmatched by AI Like ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-truthgpt-tokens-authenticity/"><u>Exploring TruthGPT Token's Authenticity</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-zte-nubia-flip-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from ZTE Nubia Flip 5G Phones with/without a PC</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-does-googles-gemini-compare-to-chatgpt-an-in-depth-analysis/"><u>How Does Google's Gemini Compare to ChatGPT: An In-Depth Analysis</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-infinix-hot-40i-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-lava-blaze-curve-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Lava Blaze Curve 5G Location by Number | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-openai-api-your-complete-step-by-step-guide/"><u>Mastering the Art of OpenAI API – Your Complete Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-digital-evolution-the-role-of-ai-in-redesigning-web-pages/"><u>Navigating Digital Evolution: The Role of AI in Redesigning Web Pages</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transforming-technology-unveiling-enhanced-ai-model/"><u>Transforming Technology: Unveiling Enhanced AI Model</u></a></li>
+<li><a href="https://win-help.techidaily.com/understanding-ip-changes-reasons-and-timing-tips-from-zdnet/"><u>Understanding IP Changes: Reasons & Timing – Tips From ZDNet</u></a></li>
+</ul></div>
 

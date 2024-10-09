@@ -1,7 +1,7 @@
 ---
 title: "Apple's Major Launch Event Highlights: The New Era of Tablets Begins with M4 iPad Pro, Upgraded 13-Inch iPad Air & Enhanced Apple Pencil - Insights From CNET"
-date: 2024-10-01T22:44:20.360Z
-updated: 2024-10-04T15:04:12.508Z
+date: 2024-10-07T17:29:37.729Z
+updated: 2024-10-09T18:04:27.574Z
 tags:
   - apple
 categories:
@@ -32,13 +32,6 @@ Apple's "Let Loose" was a virtual product launch event that took place on May 7,
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. iPad Pro, now with OLED displays and M4
 
 Apple
@@ -59,6 +52,13 @@ Like previous generations, Apple is making the latest iPad Pro available in 11-i
 
 The iPad Pro starts at $999 for the 11-inch model and $1,299 for the 13-inch model. It's available in Silver and Space Black, with storage sizes ranging from 256GB to 2TB. You can [available to preorder now](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), with orders shipping next week.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. iPad Air gets a new, larger size
 
 Apple
@@ -74,6 +74,13 @@ Apple
 Unlike the M4-equipped iPad Pro, the iPad Air comes with an M2 chip, making it almost 50% faster than the previous model with M1 and three times faster than the A13 Bionic model. The faster processor supports AI editing in photos with a single tap on the screen, as well as Apple Pencil hover, whether you use the lower-cost USB-C version or the new Apple Pencil Pro.
 
 The new iPad Air is available in Blue, Purple, Starlight, and Space Gray, with [prices starting at $599](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-air&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for the 11-inch iPad Air, and $799 for the 13-inch model.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Apple Pencil Pro
 
@@ -92,10 +99,10 @@ Apple
 The Apple Pencil Pro costs $129 and supports Apple's Find My service, letting you track the location of the accessory should you drop or misplace it. You can purchase the [Apple Pencil Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMX2D3AM%2FA%2Fapple-pencil-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) today, and it will start shipping next week.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Magic Keyboard
@@ -107,13 +114,6 @@ The iPad event also included a new, more durable Magic Keyboard, featuring a lar
 ## Why would Apple host an event before WWDC?
 
 Although Apple is hosting its [Worldwide Developers Conference (WWDC)](https://www.zdnet.com/article/apple-confirms-wwdc-2024-for-june-10-will-ai-steal-the-show/) on June 10, that event is reserved for new iOS, iPadOS, visionOS, and macOS announcements, plus Apple's new AI strategy. The Let Loose event was focused on the latest hardware offerings, with the [OLED iPad Pro](https://www.zdnet.com/article/7-ipad-pro-features-that-would-make-me-instantly-upgrade-to-apples-next-model/) being the main star.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Did the Let Loose event cover iPadOS 17.5 or iPadOS 18?
 
@@ -128,10 +128,16 @@ Logic Pro 2 introduces Session Players, an AI-created Bass and Keyboard player a
 iOS 17.5 doesn't have many exciting new features outside of the European Union, where iPhone users can now [download apps directly from websites](https://www.zdnet.com/article/apple-to-let-eu-users-download-apps-from-the-web-with-ios-17-5-beta-2-how-it-works/). The new devices are expected to ship with iPadOS 17.5, but these features are available for iPadOS 17.4.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How do I watch Apple's Let Loose event?
@@ -168,22 +174,18 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-learn-to-initiate-harmonious-group-conversations-on-skype-for-both-pc-and-mac-users/"><u>[New] In 2024, Learn to Initiate Harmonious Group Conversations on Skype for Both PC & Mac Users</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-optimizing-remote-team-meetings-with-skype-screen-sharing/"><u>[New] In 2024, Optimizing Remote Team Meetings with Skype Screen Sharing</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-next-gen-portable-play-top-gba-on-android/"><u>[Updated] In 2024, Next-Gen Portable Play Top GBA on Android</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/artificial-whisperers-is-claude-outmatching-gpt/"><u>Artificial Whisperers: Is Claude Outmatching GPT?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/avoiding-fraudulent-ai-chatbots-on-iphone-and-ipad-stores/"><u>Avoiding Fraudulent AI Chatbots on iPhone and iPad Stores</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/dynamic-training-blueprints-gpt-collaboration/"><u>Dynamic Training Blueprints: GPT Collaboration</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhancing-user-experience-via-ai-search-tech/"><u>Enhancing User Experience via AI Search Tech</u></a></li>
-<li><a href="https://win-net.techidaily.com/explore-over-20-innovative-vuejs-projects-featuring-api-integration-by-creative-tim/"><u>Explore Over 20 Innovative Vue.js Projects Featuring API Integration by Creative Tim</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-vivo-y55s-5g-2023-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Vivo Y55s 5G (2023) Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-oppo-find-n3-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Oppo Find N3 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-free-hd-video-capture-tools-the-complete-review/"><u>In 2024, Free HD Video Capture Tools The Complete Review</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-premier-computing-choices-the-finest-selection/"><u>In 2024, Premier Computing Choices The Finest Selection</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/master-your-typing-speed-with-bing-ai-chat-on-android-mobile-phones/"><u>Master Your Typing Speed with Bing AI Chat on Android Mobile Phones</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/mastering-video-editing-for-sony-camcorder-footage-2023-guide/"><u>Mastering Video Editing for Sony Camcorder Footage (2023 Guide)</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/protect-your-world-real-vs-faux-gpt-applications-unveiled/"><u>Protect Your World: Real Vs. Faux GPT Applications Unveiled</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-7-ai-powered-software-solutions-for-creating-stunning-presentations/"><u>Top 7 AI-Powered Software Solutions for Creating Stunning Presentations</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transcending-chatgpts-processing-limits/"><u>Transcending ChatGPT's Processing Limits</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-from-youtube-to-avi-perfect-conversion-tools-revealed/"><u>[Updated] From YouTube to AVI Perfect Conversion Tools Revealed</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-infusing-life-into-collage-a-photogenic-approach/"><u>[Updated] Infusing Life Into Collage A Photogenic Approach</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-instant-guide-photos-to-powerful-youtube-channel-thumbnails-in-a-flash-for-2024/"><u>[Updated] Instant Guide Photos to Powerful YouTube Channel Thumbnails in a Flash for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/fast-track-facebook-profiling-techniques-unveiled-for-2024/"><u>Fast-Track Facebook Profiling Techniques Unveiled for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-text-to-visualization-the-ultimate-guide-to-using-dall-e-with-chatgpt-4-for-ai-artwork/"><u>From Text to Visualization: The Ultimate Guide to Using DALL-E with ChatGPT-4 for AI Artwork</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/funny-robots-unveiling-pc-history-and-virtual-network-protection/"><u>Funny Robots: Unveiling PC History and Virtual Network Protection</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-good-is-an-algorithm-at-bartending/"><u>How Good Is an Algorithm at Bartending?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-safely-remove-your-presence-from-chatgpt/"><u>How To Safely Remove Your Presence From ChatGPT</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/new-guide-plug-in-your-surface-dock-instant-setup/"><u>New Guide: Plug-In Your Surface Dock - Instant Setup!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/nvidia-streamlines-pc-application-suite-for-enhanced-user-experience/"><u>NVIDIA Streamlines PC Application Suite for Enhanced User Experience</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-video-compression-made-easy-5-free-apps-for-iphone-and-ipad/"><u>Updated Video Compression Made Easy 5 Free Apps for iPhone and iPad</u></a></li>
 </ul></div>
 

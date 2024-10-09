@@ -1,7 +1,7 @@
 ---
 title: "Explore DALL-E 'S Newly Added Editing Features: Progress and Potential"
-date: 2024-09-15T20:59:17.158Z
-updated: 2024-09-22T20:24:02.114Z
+date: 2024-10-08T16:56:54.029Z
+updated: 2024-10-09T17:54:55.374Z
 tags:
   - chatgpt
   - open-ai
@@ -54,7 +54,21 @@ That's not all, though.
 
 ![chatgpt web browsing search may 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![chatgpt web browsing search may 2023 looking for examples](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023-looking-for-examples.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![chatgpt web browsing search may 2023 results with source](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023-results-with-source.jpg)
 
@@ -66,29 +80,22 @@ Close
 
 ![chatgpt web browsing search may 2023 f1 world champs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023-f1-world-champs.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  On both occasions, ChatGPT provided a source for its information, and on both occasions, it was accurate.
 
  Now, these aren't the most challenging data searches, but it shows that ChatGPT's Web Browsing tool is up and running proper.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Enable ChatGPT Plugins and Web Browsing
 
  You can enable ChatGPT Plugins and Web Browsing using the new Beta Features Settings options.
 
 ![chatgpt beta tools may 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-beta-tools-may-2023.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Head to your**Settings** in the bottom left-hand corner of the ChatGPT screen
 2. Select**Settings**
@@ -98,6 +105,13 @@ Close
  After enabling both settings, you'll find new options from the ChatGPT model switcher (where you'd normally switch between GPT-3.5 and GPT-4). You'll now find an option for Web Browsing and one for Plugins.
 
  From here, you can select either Web Browsing to enable web-connected search or select**Plugin Store** to begin installing and enabling Plugins.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ChatGPT Is Finally Connected to the Internet
 
@@ -120,5 +134,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-tiktok-video-aspect-ratios/"><u>[New] 2024 Approved TikTok Video Aspect Ratios</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-preserving-the-pixels-how-to-download-animated-tweets-from-twitter/"><u>[New] Preserving the Pixels How To Download Animated Tweets From Twitter</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-sketch-humorous-images-with-adobe/"><u>[Updated] 2024 Approved Sketch Humorous Images with Adobe</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/comprehensive-guide-to-showmores-efficient-recording-tools/"><u>Comprehensive Guide to ShowMore's Efficient Recording Tools</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-8-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 8 without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-oppo-find-x7-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Oppo Find X7 without App | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/master-the-art-of-selfies-with-6-key-insights-for-choosing-your-dream-selfie-stick/"><u>Master the Art of Selfies with 6 Key Insights for Choosing Your Dream Selfie Stick</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/solving-audio-video-desynchronization-tips-and-tricks/"><u>Solving Audio-Video Desynchronization: Tips & Tricks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-to-adding-a-basic-sports-extension-in-kodi-version-19/"><u>Step-by-Step Guide to Adding a Basic Sports Extension in Kodi Version 19</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-playing-dvd-movies-on-your-android-device/"><u>Step-by-Step Guide: Playing DVD Movies on Your Android Device</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-reducing-audio-intensity-in-videos/"><u>Step-by-Step Guide: Reducing Audio Intensity in Videos</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-syncing-audio-playback-during-pcphone-recording/"><u>Step-by-Step Guide: Syncing Audio Playback During PC/Phone Recording</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-watching-dvds-on-your-toshiba-notebook/"><u>Step-by-Step Guide: Watching DVDs on Your Toshiba Notebook</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/successful-steps-for-watching-japanese-movies-on-dvd-in-the-us-without-owning-a-region-code-player/"><u>Successful Steps for Watching Japanese Movies on DVD in the US Without Owning a Region Code Player</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-tutorial-on-clearing-out-your-visual-memories-photosimages-from-icloud-storage/"><u>Ultimate Tutorial on Clearing Out Your Visual Memories (Photos/Images) From iCloud Storage</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/radiko/"><u>ラジオ配信のスクリーン録画 - Radikoでの操作ガイド</u></a></li>
+</ul></div>
 

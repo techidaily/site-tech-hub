@@ -1,7 +1,7 @@
 ---
 title: Is GPT Effective for Text Polishing?
-date: 2024-09-18T21:46:32.484Z
-updated: 2024-09-23T00:20:22.695Z
+date: 2024-10-03T20:48:36.179Z
+updated: 2024-10-09T17:35:19.569Z
 tags:
   - chatgpt
   - open-ai
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/189b4e3cd84ef7f9829fec0ad61c8f163a696d8c8
 
 ![A gym routine generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-12-59-46.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The more context you provide your AI tool, the better of a response you'll receive.
 
 ## 2 Ask for More Information After Getting an Initial Answer
@@ -62,13 +69,20 @@ thumbnail: https://thmb.techidaily.com/189b4e3cd84ef7f9829fec0ad61c8f163a696d8c8
 
 ![An expanded answer with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-11-12.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  As a general rule of thumb, ask as many questions as you feel necessary to get all the information you're looking for. You may also want to determine[whether premium AI prompts are worth the money](https://www.makeuseof.com/should-you-buy-ai-prompts/) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3 Explain What Hasn't Worked When You've Prompted in the Past
@@ -78,6 +92,13 @@ thumbnail: https://thmb.techidaily.com/189b4e3cd84ef7f9829fec0ad61c8f163a696d8c8
  This tip is especially important if you want to use AI tools like DALL-E 3 to generate images. I've often noticed that first drafts sometimes don't yield what I'm looking for, and there could also be problems like defects for items like flags.
 
  Besides mentioning what hasn't worked for you when prompting in the past, you may also wish to outline anything that has not worked with what you're trying to do. For example, if you're putting together a new workout regimen, you may want to talk about which foods you've noticed you have a negative reaction to before.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4 Don't Make Your AI Multitask
 
@@ -91,19 +112,6 @@ thumbnail: https://thmb.techidaily.com/189b4e3cd84ef7f9829fec0ad61c8f163a696d8c8
 
  Once you've received one prompt's results, you can move on to the next one until you're happy with everything. Doing things this way might seem more time-consuming, but[single-tasking often improves productivity](https://www.makeuseof.com/master-single-tasking-using-technology-improve-productivity/) , and it's the same for your AI, too.
 
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5 Tell Your AI Tool What You Don't Want in Your Answer
 
  Do you remember in our first point when we told you to be as specific as possible? This also means you should let your AI tool know what you don't want in your answers. While generative AI can produce some pretty cool results, it can't guess everything for you.
@@ -113,10 +121,16 @@ thumbnail: https://thmb.techidaily.com/189b4e3cd84ef7f9829fec0ad61c8f163a696d8c8
 ![Answer options from ChatGPT, based on what the user did and didn't want ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-38-46.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Sometimes, your AI tool will give you multiple options in your answers. You can then choose whichever one works best for you.
@@ -152,5 +166,24 @@ thumbnail: https://thmb.techidaily.com/189b4e3cd84ef7f9829fec0ad61c8f163a696d8c8
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-digital-content-arena-competing-titans-vimeo-youtube-dailymotion-for-2024/"><u>[New] Digital Content Arena Competing Titans - Vimeo, YouTube, DailyMotion for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-innovative-mount-tech-for-smooth-sensor-motion/"><u>[New] Innovative Mount Tech for Smooth Sensor Motion</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-android-sound-logging-without-need-for-rooting-for-2024/"><u>[Updated] Android Sound Logging Without Need for Rooting for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-years-must-see-makeup-vloggers-on-the-web-for-2024/"><u>[Updated] Year's Must-See Makeup Vloggers on the Web for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-strategies-for-effortless-insertion-of-videos-into-youtube-compilations/"><u>2024 Approved Strategies for Effortless Insertion of Videos Into YouTube Compilations</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/best-practices-for-imovie-videos-entering-the-vimeo-realm-for-2024/"><u>Best Practices for iMovie Videos Entering the Vimeo Realm for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-revolutionizing-fitness-coaching-techniques/"><u>ChatGPT: Revolutionizing Fitness Coaching Techniques</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/enhance-visual-engagement-mastering-instagram-image-posts/"><u>Enhance Visual Engagement Mastering Instagram Image Posts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-genre-to-plot-gpts-top-9-writing-guidance-for-books/"><u>From Genre to Plot: GPT's Top 9 Writing Guidance for Books</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-how-to-deal-with-youtube-trolls-and-negative-comments/"><u>In 2024, How To Deal with YouTube Trolls and Negative Comments</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/premium-zones-for-collaborative-ai-ideation/"><u>Premium Zones for Collaborative AI Ideation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-ai-debate-llama-3-against-gpt-4-which-reigns-supreme/"><u>The Ultimate AI Debate: LLaMA 3 Against GPT-4 Which Reigns Supreme?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-5-ultimate-ai-prompt-creation-tools-compatible-with-various-ai-platforms/"><u>Top 5 Ultimate AI Prompt Creation Tools Compatible with Various AI Platforms</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/transform-speech-into-text-the-accurate-google-method-for-2024/"><u>Transform Speech Into Text The Accurate Google Method for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unanswerable-enquiries-and-boundaries-for-gpt-3/"><u>Unanswerable Enquiries & Boundaries for GPT-3</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-distinct-types-of-ai-public-private-and-personal-explained/"><u>Understanding Distinct Types of AI: Public, Private & Personal Explained</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/your-ai-education-begins-here-engage-with-our-top-9-groups/"><u>Your AI Education Begins Here: Engage With Our Top 9 Groups</u></a></li>
+</ul></div>
 

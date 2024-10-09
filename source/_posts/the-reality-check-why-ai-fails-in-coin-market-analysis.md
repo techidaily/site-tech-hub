@@ -1,7 +1,7 @@
 ---
 title: "The Reality Check: Why AI Fails in Coin Market Analysis"
-date: 2024-09-16T00:46:27.338Z
-updated: 2024-09-22T16:48:36.026Z
+date: 2024-10-03T17:46:36.981Z
+updated: 2024-10-09T21:37:56.028Z
 tags:
   - chatgpt
   - open-ai
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/4f252061500e08e9c2f2521977c5b0253a5006254
 
  This [bug bounty program](https://www.makeuseof.com/bug-bounty-programs/) covers vulnerabilities in all OpenAI systems, including API targets and keys, ChatGPT, and the research organization. However, the initiative does not cover safety issues with OpenAI's model, including safety bypasses and getting the model to create malicious code. In addition, the firm will not be rewarding issues related to model prompt content or responses and [AI hallucinations](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/). You may report these to [OpenAI's team](https://openai.com/form/model-behavior-feedback) for model behavior feedback.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How Much Can You Earn From OpenAI's Bug Bounty Program?
 
  OpenAI determines the cash rewards to be paid based on how severe and impactful the discovered bug is. Typically, the reward ranges from $200 to $6,500 per vulnerability but can be higher if your findings are exceptional and of great consequence.
@@ -52,11 +59,31 @@ thumbnail: https://thmb.techidaily.com/4f252061500e08e9c2f2521977c5b0253a5006254
 
  Additionally, the AI research company will not reimburse you for any purchases or upgrades you make when identifying or testing for bugs.
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Participate in OpenAI's Bug Bounty Program
 
  Since Bugcrowd facilitates this bug bounty program, you must create a Bugcrowd account to participate. OpenAI even suggests you carry out authorized additional testing using an "@bugcrowdninja.com" email address.
 
 ![Bugcrowd log in page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bugcrowd-log-in-page.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  With a Bugcrowd account, you can click the "Submit Report" tab on the [Bugcrowd OpenAI program page](https://bugcrowd.com/openai) to report vulnerabilities. This will lead you to the submissions page.
 
@@ -79,16 +106,10 @@ thumbnail: https://thmb.techidaily.com/4f252061500e08e9c2f2521977c5b0253a5006254
  Note that you are not to submit API keys to Bugcrowd. You must only submit keys you find online through the [OpenAI API key form](https://forms.gle/h8bQ5YKWzXb8FtrQ8).
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which Vulnerabilities Are Eligible for Rewards?
@@ -98,13 +119,6 @@ thumbnail: https://thmb.techidaily.com/4f252061500e08e9c2f2521977c5b0253a5006254
  These include server-side injection, server security misconfiguration, [cross-site scripting](https://www.makeuseof.com/tag/crosssite-scripting-xss-security-threat/) (XSS), insecure OS/firmware, insecure data storage, [cross-site request forgery](https://www.makeuseof.com/what-are-csrf-attacks-and-how-can-you-prevent-them/) (CSRF), and broken authentication and session management.
 
  All the vulnerabilities must be in OpenAI's system, exploitable, and novel.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Earn Money While Improving OpenAI's Systems
 
@@ -129,5 +143,21 @@ thumbnail: https://thmb.techidaily.com/4f252061500e08e9c2f2521977c5b0253a5006254
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-save-fb-pages-with-a-click-top-8-tools-available-online-and-free/"><u>[New] 2024 Approved Save FB Pages with a Click Top 8 Tools Available Online & FREE</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-leading-the-charge-in-modern-presentation-recordings/"><u>[New] Leading the Charge in Modern Presentation Recordings</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-going-from-frame-to-note-on-instagrams-mp3-route/"><u>[Updated] In 2024, Going From Frame-to-Note on Instagram's Mp3 Route</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mememorph-machine/"><u>2024 Approved MemeMorph Machine</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/breakdown-of-core-artificial-intelligence-concepts-and-keywords/"><u>Breakdown of Core Artificial Intelligence Concepts and Keywords</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-ai-the-possible-dangers-lurking-within/"><u>Decoding AI: The Possible Dangers Lurking Within</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/effortlessly-upgrading-codecs-a-comprehensive-guide-to-converting-h264-to-h265-while-preserving-quality/"><u>Effortlessly Upgrading Codecs: A Comprehensive Guide to Converting H.264 To H.265 While Preserving Quality</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-win7-audio-experience-via-upgraded-idt-drivers/"><u>Enhance Win7 Audio Experience via Upgraded IDT Drivers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancing-efficiency-4-chatgpt-based-tactics-for-time-management/"><u>Enhancing Efficiency: 4 ChatGPT-Based Tactics for Time Management</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gpt-pluss-challenge-to-ai-supremacy-with-perplexity/"><u>GPT Plus's Challenge to AI Supremacy with Perplexity</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/halo-infinite-delayed-directx12-error-identified/"><u>Halo Infinite Delayed - DirectX12 Error Identified</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-tecno-spark-20-phone-by-drfone-android/"><u>How to Reset a Locked Tecno Spark 20 Phone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/outmaneuvering-gpt-avoidance-of-conversational-recordings/"><u>Outmaneuvering GPT: Avoidance of Conversational Recordings</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/will-chatgpt-pioneer-the-next-wave-of-healthtech/"><u>Will ChatGPT Pioneer the Next Wave of Healthtech?</u></a></li>
+</ul></div>
 

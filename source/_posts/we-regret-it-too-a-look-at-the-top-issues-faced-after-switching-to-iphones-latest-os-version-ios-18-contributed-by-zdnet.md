@@ -1,7 +1,7 @@
 ---
 title: "We Regret It Too: A Look at the Top Issues Faced After Switching to iPhone's Latest OS Version, iOS 18 | Contributed By ZDNet"
-date: 2024-10-01T02:50:42.212Z
-updated: 2024-10-03T18:38:25.747Z
+date: 2024-10-02T21:36:35.486Z
+updated: 2024-10-09T21:06:00.483Z
 tags:
   - apple
 categories:
@@ -48,6 +48,13 @@ And here's another feature that I can't imagine any users clamoring for. Now, if
 
 So, yeah, if Grandma Sadie in Seattle has a Vision Pro, Cousin Marty in Miami has a Vision Pro, and you have a Vision Pro in Yuma, you can all stand around the virtual photo screen and ooh and ah over pictures of baby Alice. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Gestures for opening Home View and Control Center
 
 While it's easy enough to open Vision Pro's home view (the field of app icons) by pressing the Digital Crown on the top of the unit, getting to Control Center is a pain. VisionOS puts a tiny little arrow waaay up at the top of the viewing space, and you have to glance at it and tap your fingers together to get it to open. 
@@ -55,13 +62,6 @@ While it's easy enough to open Vision Pro's home view (the field of app icons) b
 In VisionOS 2, there are gestures. Holding your hand palm up and tapping fingers opens the app view. Flipping your hand over will give you time and battery level. A finger tap in this position will open up Control Center. 
 
 Unlike the previous two features, this _is_ a quality of life improvement. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Mac virtual display improvements
 
@@ -72,16 +72,10 @@ Screenshot by David Gewirtz/ZDNET
 On the other hand, Apple "later this year" will enable you to create displays with more resolutions. The most interesting is the full wrap-around display, which will be the equivalent of two 4K monitors. 
 
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Choo-choo train mode
@@ -91,10 +85,10 @@ To be fair, Apple didn't call it that. We've [talked about the Vision Pro's trav
 In VisionOS 2, Apple is announcing that there is dedicated support in travel mode for train travel. We know [people have already been successful using the Vision Pro on the train and even subway](https://www.youtube.com/shorts/8ckKAjAWLw8), but in this case, Apple presumably tweaked performance somewhat. 
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. New developer APIs
@@ -125,6 +119,13 @@ Apple is opening up the format for third-party creators to create immersive vide
 
 Even so, I think this is great. Those immersive videos are fantastic. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Other new features
 
 Apple didn't cover all the new features during its announcement. At the end of the Vision Pro segment, the company put up one of its feature grid graphics (shown at the beginning of this article). Here are a few that weren't mentioned: 
@@ -133,13 +134,6 @@ Apple didn't cover all the new features during its announcement. At the end of t
 * **Keyboard breakthrough:** This was another feature I felt it was important for Apple to introduce, and apparently it will be available. No mention was made of it, so we have no idea if it's limited solely to Apple's own keyboards (but that's probably the case).
 * **Bora Bora environment:** I wanted to see more environments and we get…one. Personally, I think all the work on spatial photos and spatial videos could have been replaced with the ability for third parties to create 3D environments, but Apple didn't go there. But hey, Bora Bora, right?
 * **Rearrangeable Home View:** This was also not described but I'm guessing this means you can move around the Home icons.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  What do you think?
 
@@ -185,22 +179,20 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-classic-1980s-visual-elements-in-editing-workflow/"><u>[New] 2024 Approved Classic 1980S Visual Elements in Editing Workflow</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-best-video-snatchers-for-optimal-use-in-win11-for-2024/"><u>[New] Best Video Snatchers for Optimal Use in Win11 for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-cutting-edge-tiktok-image-transformations-guide-for-2024/"><u>[New] Cutting Edge TikTok Image Transformations Guide for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-grasping-video-clarity-the-first-lessons-on-hd/"><u>[New] Grasping Video Clarity The First Lessons on HD</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-uncovering-superior-free-viewers-for-your-webm-media-files/"><u>[New] Uncovering Superior, Free Viewers for Your WebM Media Files</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-extract-translate-and-save-youtube-subtitles-for-free-for-2024/"><u>[Updated] Extract, Translate & Save YouTube Subtitles for FREE for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/character-crafting-mastery-gpt-and-pixel-perfect-artistry-in-rpgs/"><u>Character Crafting Mastery: GPT and Pixel-Perfect Artistry in RPGs</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/cutting-edge-resume-writing-via-chatgpt-techniques/"><u>Cutting-Edge Resume Writing via ChatGPT Techniques</u></a></li>
-<li><a href="https://facebook.techidaily.com/expected-changes-on-facebook-new-reels-and-rooms-for-stories-panel/"><u>Expected Changes on Facebook: New Reels and Rooms for Stories Panel</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722959384644-get-the-best-fix-free-wireless-driver-downloads-available-now/"><u>Get the Best Fix: Free Wireless Driver Downloads Available Now!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/maxs-must-watch-movies-best-documentaries-curated-for-july-2024/"><u>Max's Must-Watch Movies: Best Documentaries Curated for July 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/next-watching-choice-made-easy-a-step-by-step-guide-using-chatgpt/"><u>Next Watching Choice Made Easy: A Step-by-Step Guide Using ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/notion-ai-vs-chatgpt-which-is-the-best-generative-ai-tool/"><u>Notion AI Vs. ChatGPT: Which Is the Best Generative AI Tool?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/speak-up-with-tech-how-to-activate-voice-assistant-features-in-chatgpt-for-android-devices/"><u>Speak Up with Tech: How to Activate Voice Assistant Features in ChatGPT for Android Devices</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-and-shielding-your-data-privacy-from-potential-threats-posed-by-adaptive-language-models-like-chatgpt/"><u>Understanding and Shielding Your Data Privacy From Potential Threats Posed by Adaptive Language Models Like ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-rights-holder-of-ai-productions/"><u>Unveiling the Rights Holder of AI Productions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/why-skip-the-auto-messaging-solution-heres-why/"><u>Why Skip the Auto-Messaging Solution? Here's Why</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-quick-reliable-pc-image-capture-best-tools-ranked-1-5/"><u>[New] 2024 Approved Quick, Reliable Pc Image Capture Best Tools Ranked #1-#5</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-auditory-anatomy-understanding-video-audio-for-ig-feeds-for-2024/"><u>[New] Auditory Anatomy Understanding Video Audio for IG Feeds for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-critical-assessment-the-dji-phantom-4-eyewear-probe-for-2024/"><u>[New] Critical Assessment The DJi Phantom 4 Eyewear Probe for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-game-changing-ps4-screen-recordings-using-obs/"><u>[New] Game-Changing PS4 Screen Recordings Using OBS</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-blog-thumbnail-proportions-tips/"><u>[Updated] In 2024, Blog Thumbnail Proportions Tips</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-as-a-research-companer-enhancing-your-studies/"><u>ChatGPT as a Research Companer: Enhancing Your Studies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/cooking-made-easy-leverage-chatgpts-expertise-using-7-unique-strategies/"><u>Cooking Made Easy: Leverage ChatGPT's Expertise Using 7 Unique Strategies</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/elite-console-emulation-top-5-ps3-options-for-2024/"><u>Elite Console Emulation Top 5 PS3 Options for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-comprehensive-guide-to-icloud-unlock-from-apple-iphone-xs-max-online-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iCloud Unlock From Apple iPhone XS Max Online</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-shape-shifting-photos-creating-effective-warps-and-curves-in-ps/"><u>In 2024, Shape-Shifting Photos Creating Effective Warps & Curves in PS</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-it-too-early-to-use-auto-gpt-when-gpt-4-is-still-on-hold-an-in-depth-analysis/"><u>Is It Too Early to Use Auto-GPT When GPT-4 Is Still on Hold? – An In-Depth Analysis</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revamping-tabletop-rpgs-how-chatgpt-can-improve-dandd-sessions/"><u>Revamping Tabletop RPGs: How ChatGPT Can Improve D&D Sessions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/streamlining-communication-the-ultimate-techniques-for-handling-chatgpt-conversations-using-folders/"><u>Streamlining Communication: The Ultimate Techniques for Handling ChatGPT Conversations Using Folders</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-power-of-claude-3-for-enhanced-ai-performance/"><u>Unveiling the Power of Claude 3 for Enhanced AI Performance</u></a></li>
 </ul></div>
 

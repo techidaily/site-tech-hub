@@ -1,7 +1,7 @@
 ---
 title: Top 5 Ultimate AI Prompt Creation Tools Compatible with Various AI Platforms
-date: 2024-09-18T19:25:03.821Z
-updated: 2024-09-23T00:24:13.271Z
+date: 2024-10-06T21:51:13.765Z
+updated: 2024-10-09T18:37:41.383Z
 tags:
   - chatgpt
   - open-ai
@@ -38,9 +38,29 @@ thumbnail: https://thmb.techidaily.com/9778d11b1aebf28352d7990f8df2285fbb44be756
 
 Here's a video of Altman's discussion below:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## When Is GPT-5 Coming?
 
 ![When is GPT-5 coming. Question mark illustration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/pexels-pixabay-356079-1.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  While Altman's comments about GPT-5's development make it seem like a 2024 release of GPT-5 is off the cards, it's important to pay extra attention to the details of his comment.
 
@@ -60,6 +80,13 @@ So, a 2024 release date for GPT-5? Is that possible?
 
 ![chatgpt conversation open on smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/smartphone-chatgpt-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  While it might be too early to say with certainty, we fully expect GPT-5 to be a considerable leap from GPT-4\. GPT-3 was mainly a language model. GPT-4 improved on that by being both a language model and a vision model. We expect GPT-5 might possess the abilities of a sound recognition model in addition to the abilities of GPT-4.
 
  Also, there's been underground talk about GPT models being able to process videos, much like GPT-4 models can take images as inputs. So, we could possibly have a model that can process text, images, sound, and videos.
@@ -67,10 +94,10 @@ So, a 2024 release date for GPT-5? Is that possible?
  However, considering the current abilities of GPT-4, we expect the law of diminishing marginal returns to set in. Simply increasing the model size, throwing in more computational power, or diversifying training data might not necessarily bring the significant improvements we expect from GPT-5.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## GPT-5: An Exciting Future Awaits
@@ -92,5 +119,19 @@ So, a 2024 release date for GPT-5? Is that possible?
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-insights-into-instagram-video-constraint/"><u>[New] Insights Into Instagram Video Constraint</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-mastering-jujutsu-kaisen-challenges-for-tiktok/"><u>[Updated] 2024 Approved Mastering Jujutsu Kaisen Challenges for TikTok</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-mastering-the-mechanics-of-voice-over-production-in-videos/"><u>[Updated] 2024 Approved Mastering the Mechanics of Voice Over Production in Videos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-restore-lost-sounds-to-twitter-vids/"><u>[Updated] 2024 Approved Restore Lost Sounds to Twitter Vids</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-smart-choices-top-5-web-videography-tools/"><u>2024 Approved Smart Choices Top 5 Web Videography Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exclusive-deals-on-wonderfox-dvd-video-converter-and-rewards-program-a-special-treat-for-toremouroueve-fans/"><u>Exclusive Deals on WonderFox DVD Video Converter & Rewards Program: A Special Treat for Toremouroueve Fans!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/free-converter-transform-avi-into-jpeg-format-quick-and-easy/"><u>Free Converter: Transform AVI Into JPEG Format - Quick & Easy</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/hevc-h265windows/"><u>HEVC H.265ビデオを迅速に変換するWindows向けガイド</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-fix-vlc-player-issues-with-playing-youtube-urls/"><u>How to Fix VLC Player Issues with Playing YouTube URLs</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-video-cropping-essential-tips-and-tricks/"><u>Mastering the Art of Video Cropping: Essential Tips and Tricks</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Infinix Hot 40i | Dr.fone</u></a></li>
+</ul></div>
 

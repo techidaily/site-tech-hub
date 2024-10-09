@@ -1,7 +1,7 @@
 ---
 title: "Avoid the Trap: Steering Clear of 6 Major Mistakes with ChatGPT Prompt Creation"
-date: 2024-09-17T21:43:40.696Z
-updated: 2024-09-22T20:28:05.747Z
+date: 2024-10-08T17:33:51.310Z
+updated: 2024-10-09T19:40:10.621Z
 tags:
   - chatgpt
   - open-ai
@@ -47,6 +47,13 @@ Close
 
  Murder Mystery Mayhem is good fun, with the location and murderer changing round by round, and each suspect has new alibis and evidence to reveal. The changes keep it feeling fresh, and one game played through to the end can keep you engaged and seeking the truth for well over an hour. (Don't forget, you don't have to play it all at once!)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2.[Oregon Trail](https://chat.openai.com/g/g-ijJRJgWHp-oregon-trail)
 
  Dying of dysentery has become a longstanding meme from the original Oregon Trail game, but you can now relive that horrifying experience in ChatGPT. The Oregan Trail custom GPT brings one of the first edu-games (not_the_ first, mind!) to ChatGPT... where you can suffer through the wilderness all over again.
@@ -58,10 +65,10 @@ Close
  It's a basic version of the classic game, but it's engaging enough. The custom GPT's scripting doesn't allow you to go off-piste and, say, rob the local convenience store for supplies (nor did the original), but it's certainly a lot easier without so many setbacks constantly upending and destroying your party. It's a much easier version, that's for sure.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3.[Poker](https://chat.openai.com/g/g-lHyTLJaCX-poker)
@@ -72,13 +79,6 @@ Close
 
  My only major gripe about this poker game is that ChatGPT seems to mimic your choices, such as check, raise, and so on, which can make the game predictable (or at least less random).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4.[Console GPT](https://chat.openai.com/g/g-3p94K4Djb-console-gpt)
 
  Now, this is a cool idea of how a custom GPT can span multiple types of input to create a custom game with a unique storyline.
@@ -86,6 +86,13 @@ Close
  When you first boot Console GPT, you meet the message "BOOT UP AND INSERT GAME." But you don't have a game cartridge to boot yet. Instead, you have to head to the[Console GPT Glif page](https://glif.app/@fab1an/glifs/clotu9ul2002vl90fh6cmpjw0) , which is a custom AI art tool that will create your "cartridge."
 
 ![cyber syndicate cartridge ai image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/cyber-syndicate-cartridge-ai-image.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Input the type of game you want in the text box, select**Glif It!** , and watch as your creation comes to life. I went with "retro-futurism crime lord" and was presented with "Cyber Syndicate," a game where you "navigate a neon-soaked, cyberpunk metropolis teeming with high-tech heists and digital espionage," with a goal of becoming the ultimate syndicate leader.
 
@@ -96,6 +103,13 @@ Close
 Close
 
  The narrative flow is a bit shaky, and Console GPT could use some extra commands to remember other parts of the story, but it's good fun for a while. For example, one moment, I was a lone operative in a bar, and the next, I was planning a heist in a room with the rest of my assembled team.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5.[Cookie Clicker](http://chat.openai.com/g/g-g0b22bvqB-cookie-clicker)
 
@@ -136,5 +150,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-a-comprehensive-walkthrough-of-adding-text-to-instagram-clips/"><u>[New] A Comprehensive Walkthrough of Adding Text to Instagram Clips</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-mastering-minecraft-screen-capture-a-mac-guide/"><u>[New] In 2024, Mastering Minecraft Screen Capture A Mac Guide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-the-ultimate-viewer-writers-guide-for-2024/"><u>[New] The Ultimate Viewer' Writers Guide for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-a-step-by-step-guide-to-perfecting-the-art-of-podcast-naming/"><u>[Updated] A Step-by-Step Guide to Perfecting the Art of Podcast Naming</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-spy-on-fb-chronicles-unseen/"><u>[Updated] In 2024, Spy on FB Chronicles, Unseen</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-unlocking-visual-storytelling-with-your-canon-timelapse-toolkit/"><u>2024 Approved Unlocking Visual Storytelling with Your Canon Timelapse Toolkit</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-intels-official-usb-30-drivers-for-optimal-performance-in-windows-11/"><u>Download and Install Intel's Official USB 3.0 Drivers for Optimal Performance in Windows 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/explore-new-wonders-7-groundbreaking-updates-in-googles-bard-launched-this-year/"><u>Explore New Wonders: 7 Groundbreaking Updates in Google's BARD Launched This Year</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-chatgpt-a-beacon-of-sincerity/"><u>Is ChatGPT a Beacon of Sincerity?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-resume-artistry-through-chatgpt-techniques/"><u>Mastering Résumé Artistry Through ChatGPT Techniques</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/premier-hash-trackers-fb-tweet-instagram-edition-for-2024/"><u>Premier Hash Trackers FB, Tweet, Instagram Edition for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-instructions-how-to-access-new-beta-features-of-web-browsing-and-plugins-in-chatgpt/"><u>Step-by-Step Instructions: How to Access New Beta Features of Web Browsing and Plugins in ChatGPT</u></a></li>
+</ul></div>
 

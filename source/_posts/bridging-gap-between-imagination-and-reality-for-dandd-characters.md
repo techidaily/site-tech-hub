@@ -1,7 +1,7 @@
 ---
 title: Bridging Gap Between Imagination and Reality for D&D Characters
-date: 2024-09-18T19:30:04.606Z
-updated: 2024-09-22T17:23:58.500Z
+date: 2024-10-05T19:29:50.326Z
+updated: 2024-10-09T16:58:08.731Z
 tags:
   - chatgpt
   - open-ai
@@ -38,9 +38,23 @@ False news can be categorized into three types:
 
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Generating Fake Content Online
 
@@ -65,6 +79,13 @@ Here's the fictitious article that ChatGPT came up with:
 
  These examples all illustrate how chatbots can be utilized to mislead people.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Creating AI DeepFakes
 
  Someone can use deepfakes to create false videos of an individual saying or doing things they never did. They can use such tools for social engineering or running smear campaigns against others. Moreover, in today's meme culture, deepfakes can serve as tools for cyberbullying on social media.
@@ -73,6 +94,13 @@ Here's the fictitious article that ChatGPT came up with:
 
  It's crucial, then, to be able to[identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4\. Cloning Human Voices
 
  Generative AI, along with deepfake technology, enables the manipulation of someone's speech. Deepfake technology is advancing rapidly and offers a variety of tools that can replicate anyone's voice. This allows malicious individuals to impersonate others and deceive unsuspecting individuals. One such example is[the use of deepfake music](https://www.makeuseof.com/what-is-deepfake-ai-music/) .
@@ -80,13 +108,6 @@ Here's the fictitious article that ChatGPT came up with:
  You might have come across tools like[Resemble AI](https://www.resemble.ai/) ,[Speechify](https://speechify.com/) ,[FakeYou](https://fakeyou.com/) , and others that can mimic the voices of celebrities. While these AI audio tools can be entertaining, they pose significant risks. Scammers can utilize voice cloning techniques for various fraudulent schemes, resulting in financial losses.
 
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by[The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Spot AI-Spread Disinformation
 
@@ -98,13 +119,6 @@ Here's the fictitious article that ChatGPT came up with:
 4. Use fact-checking websites to verify the accuracy of information.
 
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Beware of Disinformation Spread by AI
 
@@ -125,5 +139,18 @@ Here's the fictitious article that ChatGPT came up with:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/implify-creating-youtube-thumbnails-now/"><u>[New] Simplify Creating YouTube Thumbnails Now</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/he-basics-of-youtube-compliance-guidelines/"><u>[New] The Basics of YouTube Compliance Guidelines</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-producing-channel-trailer-synopses-a-guide/"><u>2024 Approved Producing Channel Trailer Synopses A Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-unlock-instagram-broadcast-potential-through-obs-tutorials/"><u>2024 Approved Unlock Instagram Broadcast Potential Through OBS Tutorials</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/advantages-and-disadvantages-leveraging-chatgpt-in-the-creative-writing-process/"><u>Advantages & Disadvantages: Leveraging ChatGPT in the Creative Writing Process</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/cant-use-chatgpt-on-iphone-discover-these-essential-9-fixes/"><u>Can't Use ChatGPT on iPhone? Discover These Essential 9 Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/google-chrome-troubleshooting-guide-opening-problems-solved/"><u>Google Chrome Troubleshooting Guide: Opening Problems Solved</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/identifying-bingchatgpt-cryptocurrency-fraud-schemes-a-comprehensive-guide/"><u>Identifying BingChatGPT Cryptocurrency Fraud Schemes: A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-rise-to-the-top-mastering-youtube-descriptions-with-customizable-templates/"><u>In 2024, Rise to the Top Mastering YouTube Descriptions with Customizable Templates</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/safeguarding-information-the-risks-of-model-inversion-attacks-on-neural-networks-in-chatbots/"><u>Safeguarding Information: The Risks of Model Inversion Attacks on Neural Networks in Chatbots</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-creativity-with-nvidias-modular-artificial-intelligence-understanding-its-user-base/"><u>Unlocking Creativity with NVIDIA's Modular Artificial Intelligence - Understanding Its User Base</u></a></li>
+</ul></div>
 

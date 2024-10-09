@@ -1,7 +1,7 @@
 ---
 title: "Unexpected Liquid Found in iPhone Charger Port: Quick Solutions"
-date: 2024-10-03T07:20:53.068Z
-updated: 2024-10-04T06:54:59.723Z
+date: 2024-10-08T16:27:22.128Z
+updated: 2024-10-09T21:56:59.488Z
 tags:
   - apple
 categories:
@@ -60,6 +60,13 @@ Show less
 
 ## Microsoft Office
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Word, Excel, PowerPoint, and more, in one app
 
 Once upon a time, not all that long ago, Word, Excel, and PowerPoint were separate apps. Now the tools for creating, editing, and sharing files for all three document formats have been consolidated in a single Office app, along with a set of new PDF functions. (The app is free, of course, but unlocking most of its functionality requires a personal, business, or school account linked to a Microsoft 365 subscription.)
@@ -74,14 +81,14 @@ Show less
 
 [View now at App Store](https://apps.apple.com/us/app/microsoft-onenote/id410395246)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Microsoft OneNote
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### The hidden gem of the Office family
 
@@ -97,21 +104,7 @@ Show less
 
 [View now at App Store](https://apps.apple.com/us/app/microsoft-onedrive/id477537958)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Microsoft OneDrive
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Unlock a terabyte of cloud storage with a Microsoft 365 subscription
 
@@ -143,14 +136,14 @@ Show less
 
 [View now at App Store](https://apps.apple.com/us/app/microsoft-teams/id1113153706)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Microsoft Teams
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### One stop for video chats, meetings, files, tasks, and calendars
 
@@ -167,10 +160,10 @@ Show less
 [View now at App Store](https://apps.apple.com/us/app/microsoft-to-do/id1212616790)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Microsoft To Do
@@ -191,13 +184,6 @@ Show less
 
 ## Remote Desktop Mobile
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Connect to a desktop PC or server from your mobile device
 
 The idea of running a Remote Desktop session on a small screen like an iPhone or iPad might seem odd. Until the first time you need to accomplish some task that requires a direct connection to a PC or server and you find that these Remote Desktop Protocol (RDP) sessions cam help you solve a problem from wherever you happen to be, without having to find a PC to connect with. (Granted, the task is much easier on an iPad, with a display that's almost PC-sized.)
@@ -212,19 +198,32 @@ Show less
 
 [View now at App Store](https://apps.apple.com/us/app/microsoft-lists/id1530637363)
 
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Microsoft Lists
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Keep track of assets, inventory, issues, and more
@@ -234,6 +233,19 @@ When you're firmly entrenched in Microsoft's world as a developer or IT pro and 
 Think of Microsoft Lists as OneNote without all the annoying paragraphs. You can use lists to track issues like customer support requests, or assets in your business, or customers or inventory or ... well, you get the idea. The real secret of Microsoft Lists is not creating personal lists but rather in sharing lists with a team, complete with enterprise-grade security and customizable views that can keep everyone on the same extremely orderly page.
 
 Show Expert Take Show less 
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##   
 
@@ -267,16 +279,20 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-solution-for-twitter-videos-not-playing-in-chrome/"><u>[New] Solution for Twitter Videos Not Playing in Chrome</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-what-makes-youtube-tv-stand-out-in-a-crowded-marketplace/"><u>[Updated] In 2024, What Makes YouTube TV Stand Out in a Crowded Marketplace</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-intuitivestepsforyoucamuseandrecording/"><u>2024 Approved IntuitiveStepsForYouCamUseAndRecording</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/beyond-predecessors-how-gpt-4-surpasses-gpt-35/"><u>Beyond Predecessors: How GPT-4 Surpasses GPT-3.5</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/decoding-the-views-of-top-10-technology-innovators-on-ai/"><u>Decoding the Views of Top 10 Technology Innovators on AI</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/gpts-potential-in-revolutionizing-medical-services/"><u>GPT's Potential in Revolutionizing Medical Services</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-oppo-reno-10-proplus-5g-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Oppo Reno 10 Pro+ 5G FRP In 3 Different Ways</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-pick-the-best-gaming-pc-important-criteria-every-player-should-check/"><u>How to Pick the Best Gaming PC: Important Criteria Every Player Should Check</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-tecno-pova-6-pro-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Tecno Pova 6 Pro 5G? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/making-magic-interactive-rpg-creation-with-chatgpt/"><u>Making Magic: Interactive RPG Creation with ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unleash-the-power-of-ai-start-using-our-8-ready-made-gpt-solutions-instantly/"><u>Unleash the Power of AI: Start Using Our 8 Ready-Made GPT Solutions Instantly</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-first-steps-in-filmmaking-mastering-key-camera-techniques/"><u>[New] First Steps in Filmmaking Mastering Key Camera Techniques</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-quick-guide-to-optimized-and-streamlined-mac-screenshots-via-keyboard-shortcuts/"><u>[New] In 2024, Quick Guide to Optimized and Streamlined Mac Screenshots via Keyboard Shortcuts</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-social-sharing-simplified-uploading-immersive-mobile-photography/"><u>[New] In 2024, Social Sharing Simplified Uploading Immersive Mobile Photography</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-unleashing-vrecorders-capabilities-download-and-setup-guide/"><u>[Updated] 2024 Approved Unleashing VRecorder's Capabilities – Download & Setup Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-reviving-rare-memories-turning-photos-into-engaging-videos/"><u>[Updated] In 2024, Reviving Rare Memories Turning Photos Into Engaging Videos</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-full-guide-to-unlock-iphone-se-with-itunes-by-drfone-ios/"><u>In 2024, Full Guide to Unlock iPhone SE with iTunes</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-gaming-tips-how-to-address-persistent-crashes-while-playing-manor-lords/"><u>PC Gaming Tips: How to Address Persistent Crashes While Playing Manor Lords</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/personalized-ai-how-it-diverges-from-general-and-restricted-applications/"><u>Personalized AI: How It Diverges From General and Restricted Applications</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/prolific-fiction-top-gpt-fueled-techniques-for-dynamic-characters/"><u>Prolific Fiction: Top GPT-Fueled Techniques for Dynamic Characters</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/routine-steps-to-engage-windows-11s-calculator/"><u>Routine Steps to Engage Windows 11'S Calculator</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/techs-elite-showdown-googles-gemini-versus-openais-chatgpt/"><u>Tech's Elite Showdown: Google's Gemini Versus OpenAI’s ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-scribe-of-the-digital-age-harnessing-ai-in-gaming-narratives/"><u>The Scribe of the Digital Age: Harnessing AI in Gaming Narratives</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-checklist-for-cross-verifying-health-recommendations-from-ai-entities-such-as-chatgpt/"><u>The Ultimate Checklist for Cross-Verifying Health Recommendations From AI Entities Such as ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-4-advantages-of-choosing-the-claude-ai-over-chatgpt/"><u>Top 4 Advantages of Choosing the Claude AI Over ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-5-concerns-leading-firms-against-gpt-usage/"><u>Top 5 Concerns Leading Firms Against GPT Usage</u></a></li>
 </ul></div>
 

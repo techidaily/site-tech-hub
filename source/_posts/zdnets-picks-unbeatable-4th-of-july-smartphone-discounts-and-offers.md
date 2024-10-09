@@ -1,7 +1,7 @@
 ---
 title: "ZDNET's Picks: Unbeatable 4Th of July Smartphone Discounts & Offers"
-date: 2024-09-28T00:04:18.901Z
-updated: 2024-10-03T23:35:17.731Z
+date: 2024-10-07T21:54:15.729Z
+updated: 2024-10-09T20:22:57.515Z
 tags:
   - apple
 categories:
@@ -79,19 +79,6 @@ If you're in the market for a powerful, portable laptop, you can save $200 on a 
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-Laptop-8%E2%80%91core-10%E2%80%91core%2Fdp%2FB0CM5JLWJK%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C921d3c2f-1159-4e9e-a700-c612133c4148%7Cdtp&dtb=1) 
 
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Prime Day AirPods deals still available
 
 * [Apple AirPods Pro (2nd Generation) for $169 (save $80)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Generation-Cancelling-Transparency-Personalized%2Fdp%2FB0D1XD1ZV3%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C921d3c2f-1159-4e9e-a700-c612133c4148%7Cdtp&dtb=1): For a step-up in audio, you can save $80 on a pair of Apple AirPods Pro earbuds -- our pick for the [best AirPods overall](https://www.zdnet.com/article/best-airpods/).
@@ -103,19 +90,6 @@ If you're in the market for a powerful, portable laptop, you can save $200 on a 
 * [Apple 2023 MacBook Pro for $1,399 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-Laptop-8%E2%80%91core-10%E2%80%91core%2Fdp%2FB0CM5JLWJK%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C921d3c2f-1159-4e9e-a700-c612133c4148%7Cdtp&dtb=1): If you're in the market for a powerful, portable laptop, you can save $200 on a 2023 MacBook Pro equipped with an M3 chip, 8GB of RAM, and 512GB of storage. (This is also our pick for [the best laptop you can buy](https://www.zdnet.com/article/best-laptop/).)
 * [Apple MacBook Air for $799 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2022-Apple-MacBook-Laptop-chip%2Fdp%2FB0B3BVWJ6Y%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C921d3c2f-1159-4e9e-a700-c612133c4148%7Cdtp&dtb=1): If you need a budget-friendly laptop suitable for work and travel, you can save on a 2022 model with an M2 chip, 8GB of RAM, and 256GB of storage.
 * [Apple 2023 MacBook Pro for $2,050 (save $650)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-Laptop-12%E2%80%91core-19%E2%80%91core%2Fdp%2FB0BSHDPX7Z%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C921d3c2f-1159-4e9e-a700-c612133c4148%7Cdtp&dtb=1): If you need a premium laptop that will last you for years, consider this $650 discount on a MacBook Pro with top specs.
-
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Prime Day AirTags deals still available
 
@@ -132,6 +106,13 @@ If you're in the market for a powerful, portable laptop, you can save $200 on a 
 * [Apple iPad Pro 13-inch (M4) for $1,749 (save $150)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-iPad-Pro-13-Inch-Landscape%2Fdp%2FB0D3J82K45%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C921d3c2f-1159-4e9e-a700-c612133c4148%7Cdtp&dtb=1): For a top-quality iPad, consider this Pro model with a 13-inch Ultra Retina XDR display and 1TB of storage, powered by Apple's M4 chip.
 * [Apple iPad Pro 13-inch (M4) for $2,304 (save $196)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-iPad-Pro-13-Inch-Landscape%2Fdp%2FB0D3J9H49F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C921d3c2f-1159-4e9e-a700-c612133c4148%7Cdtp&dtb=1): This iPad Pro, available with a discount of over $100, offers a 13-inch Ultra Retina XDR display, 2TB of storage space, and an M4 processor.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Prime Day Apple Watch deals still available
 
 * [Apple Watch Series 9 for $280 (save $119)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Smartwatch-Midnight-Aluminum-Fitness%2Fdp%2FB0CSTJML9X%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C921d3c2f-1159-4e9e-a700-c612133c4148%7Cdtp&dtb=1): We often see sales on Apple Watches during shopping events, and this year is no exception. You can still save over $100 on an Apple Watch Series 9 -- our pick for the [best Apple Watch for most people](https://www.zdnet.com/article/best-apple-watch/).
@@ -139,10 +120,16 @@ If you're in the market for a powerful, portable laptop, you can save $200 on a 
 * [Apple Watch Series 8, GPS + Cellular, 45mm for $579 (save $170)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Cellular-Silver-Stainless-Always%2Fdp%2FB0BDJ3FXJV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C921d3c2f-1159-4e9e-a700-c612133c4148%7Cdtp&dtb=1): Alternatively, you can save $170 on an Apple Watch Series 8 with both GPS and cellular connectivity.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## More Prime Day Apple deals still available
@@ -155,20 +142,14 @@ Adam Breeden/ZDNET
 * [Apple Magic Mouse for $88 (save $11)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Magic-Mouse-Wireless-Rechargable%2Fdp%2FB09V4LZS9S%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C921d3c2f-1159-4e9e-a700-c612133c4148%7Cdtp&dtb=1): To go with your new trackpad, Apple's branded mouse, a sleek, modern device, is available for a small discount.
 * [Apple TV 4K for $145 (save $5 at B&H Photo)](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1731227-REG%2Fapple%5Fmn893ll%5Fa%5Fapple%5Ftv%5F4k%5F3rd.html): We haven't seen many Apple TV deals during Prime Day, but if you're in the market, you can find a small discount here.
 
-## FAQs
-
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## FAQs
 
 ### When is Amazon Prime Day 2024?
 
@@ -181,6 +162,13 @@ Apple rarely offers sales and discounts on its products, and considering the gen
 ### Will iPads be on sale on Prime Day?
 
 Yes. Even after Prime Day, there are many iPad deals still live. These tablets are popular and considering how many options are now on the market -- including iPad minis, the standard iPad, and iPad Pro models -- we can reliably expect discounts to appear each year.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How did we choose these Prime Day deals?
 
@@ -252,17 +240,22 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-softening-volume-windowsmac-audio-tips/"><u>[New] Softening Volume Windows/Mac Audio Tips</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-navigating-backward-image-hunt-on-the-worlds-largest-social-site/"><u>2024 Approved Navigating Backward Image Hunt on the World's Largest Social Site</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-tecno-pova-5-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Tecno Pova 5 | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/ogg-to-wav-4/"><u>無料のOGG to WAVフォーマット変換ソフト ベスト選出4品紹介</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/a-detailed-review-of-macos-sequoias-highlights-from-a-ten-year-perspective/"><u>A Detailed Review of macOS Sequoia’s Highlights From a Ten-Year Perspective</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/a-guide-on-evaluating-macbook-battery-condition-and-longevity/"><u>A Guide on Evaluating MacBook Battery Condition and Longevity</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-fix-an-iphone-not-picking-up-callers/"><u>How to Fix an iPhone Not Picking Up Callers</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-samsung-galaxy-m14-5g-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Samsung Galaxy M14 5G is off? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-impressive-array-of-mobile-text-options/"><u>In 2024, Impressive Array of Mobile Text Options</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-tecno-phantom-v-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Tecno Phantom V Flip | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-microsofts-surface-laptop-6-a-digital-only-release/"><u>Unveiling Microsoft's Surface Laptop 6: A Digital-Only Release</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/windows-11-marks-the-end-of-microsofts-support-for-android-applications/"><u>Windows 11 Marks the End of Microsoft's Support for Android Applications</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-size-matters-crafting-engaging-video-titles/"><u>[New] Size Matters Crafting Engaging Video Titles</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-guide-to-professional-gameplay-broadcasts/"><u>[Updated] 2024 Approved Guide to Professional Gameplay Broadcasts</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-5-amazing-free-youtube-intro-makers-ranked-for-2024/"><u>[Updated] 5 Amazing Free YouTube Intro Makers Ranked for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/claude-ai-vs-chatgpt-unveiling-the-4-key-advantages-of-choosing-claude/"><u>Claude AI Vs. ChatGPT: Unveiling the 4 Key Advantages of Choosing Claude</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/coding-your-own-story-interactive-rpg-with-chatgpt/"><u>Coding Your Own Story: Interactive RPG with ChatGPT</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-hardware-reviews-by-tom-find-your-perfect-setup/"><u>Comprehensive Hardware Reviews by Tom: Find Your Perfect Setup</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/crafting-digital-masterpieces-with-ease-the-ultimate-guide-to-using-chatgpt-for-ai-generated-imagery/"><u>Crafting Digital Masterpieces with Ease: The Ultimate Guide to Using ChatGPT for AI-Generated Imagery</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/crafting-stellar-cvs-integrating-chatgpt-insights/"><u>Crafting Stellar CVs - Integrating ChatGPT Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/crafting-the-perfect-drink-ai-or-human/"><u>Crafting the Perfect Drink: AI or Human?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/creative-writers-dream-5-cutting-edge-ai-tools-to-enhance-prose/"><u>Creative Writer's Dream: 5 Cutting-Edge AI Tools to Enhance Prose</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/creative-writing-revolutionized-harnessing-chatgpts-power-in-six-ways/"><u>Creative Writing Revolutionized: Harnessing ChatGPT's Power in Six Ways</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/digital-dilemmas-squared-chatgpt-to-the-rescue/"><u>Digital Dilemmas Squared: ChatGPT to the Rescue</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-analysis-oneplus-nord-n100-the-ultimate-value-smartphone/"><u>Expert Analysis: OnePlus Nord N100 - The Ultimate Value Smartphone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-honor-90-pro-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Honor 90 Pro to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/instagram-growth-hacks-how-to-gain-a-massive-follower-base/"><u>Instagram Growth Hacks: How to Gain a Massive Follower Base</u></a></li>
+<li><a href="https://windows11.techidaily.com/securing-smooth-os-operation-via-pct-steps/"><u>Securing Smooth OS Operation via PCT Steps</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/why-blue-freestyle2-is-a-must-have-for-your-mac-expert-reviews-and-insights/"><u>Why Blue Freestyle2 Is a Must-Have for Your Mac: Expert Reviews & Insights</u></a></li>
 </ul></div>
 

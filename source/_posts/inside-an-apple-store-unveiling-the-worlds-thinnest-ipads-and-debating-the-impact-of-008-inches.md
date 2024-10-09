@@ -1,7 +1,7 @@
 ---
 title: "Inside an Apple Store: Unveiling The World's Thinnest iPads & Debating the Impact of 0.08 Inches"
-date: 2024-09-30T01:18:51.981Z
-updated: 2024-10-03T18:38:12.564Z
+date: 2024-10-06T20:42:12.529Z
+updated: 2024-10-09T18:22:03.073Z
 tags:
   - apple
 categories:
@@ -65,10 +65,10 @@ Please remember, though, that Apple had [inserted thinness in my mind](https://w
 So as I picked them up, I was primed to believe in the thin new world.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Thinly-veiled confusion?
@@ -96,10 +96,10 @@ I couldn't resist, however, checking how much heavier it was than the 11-inch 10
 It's a fulsome 0.23 pounds heavier, yet curiously it's 0.08 pounds lighter than the new 13-inch iPad Air.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## I was sold
@@ -152,20 +152,24 @@ They're great at laying it on thick, you know.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/eachers-channel-blueprint-10-essential-tips-for-youtube-educators/"><u>[New] Teachers’ Channel Blueprint 10 Essential Tips for YouTube Educators</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-unlock-your-potential-with-outstanding-instagram-visuals/"><u>[Updated] 2024 Approved Unlock Your Potential with Outstanding Instagram Visuals</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-mechanized-sky-dwellers-classes/"><u>[Updated] Mechanized Sky-Dwellers' Classes</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-as-a-troubleshooting-tool-for-restoring-broken-computers-a-comprehensive-guide/"><u>ChatGPT as a Troubleshooting Tool for Restoring Broken Computers: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/choosing-the-right-ai-sidekick-claude-vs-chatgpt-for-daily-use/"><u>Choosing the Right AI Sidekick: Claude Vs. ChatGPT for Daily Use</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/decoding-the-intent-the-appeal-of-chatgpt-to-cybercriminals/"><u>Decoding the Intent: The Appeal of ChatGPT to Cybercriminals</u></a></li>
-<li><a href="https://extra-information.techidaily.com/generate-humor-picmagic-creation/"><u>Generate Humor PicMagic Creation</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/getting-rid-of-ai-support-the-process-to-uninstall-copilot-from-windows-11-systems/"><u>Getting Rid of AI Support: The Process to Uninstall Copilot From Windows 11 Systems</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-how-to-facetime-with-your-android-phone/"><u>In 2024, How To Facetime with Your Android Phone ?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-samsung-galaxy-f54-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Samsung Galaxy F54 5G to Another | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/industry-shift-is-gpt-the-new-workforce-engine/"><u>Industry Shift: Is GPT the New Workforce Engine?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-it-possible-to-use-chatgpt-for-managing-a-smart-home-ecosystem/"><u>Is It Possible to Use ChatGPT for Managing a Smart Home Ecosystem?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mobile-innovation-showdown-7-ai-apps-that-challenge-chatgpts-dominance/"><u>Mobile Innovation Showdown: 7 AI Apps That Challenge ChatGPT's Dominance</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/tech-tip-thwarting-ai-based-bots-for-securing-your-site-openai-edition/"><u>Tech Tip: Thwarting AI-Based Bots for Securing Your Site – OpenAI Edition</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-9-risks-why-relying-on-ai-for-mental-health-support-can-be-hazardous/"><u>Top 9 Risks: Why Relying on AI for Mental Health Support Can Be Hazardous</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-finding-the-perfect-pair-matching-mics-with-every-type-of-youtubers-style/"><u>[New] Finding the Perfect Pair Matching Mics with Every Type of YouTuber's Style</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-humor-hub-essential-apps-for-meme-makers/"><u>[New] In 2024, Humor Hub Essential Apps for Meme Makers</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-a-compreranstive-approach-to-high-fidelity-recording-no-mic-necessary/"><u>[Updated] 2024 Approved A Compreranstive Approach to High-Fidelity Recording, No Mic Necessary</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-chortlechamps-excellent-platforms-for-hilarious-tones/"><u>[Updated] ChortleChamps Excellent Platforms for Hilarious Tones</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-how-to-create-a-negative-like-image-look/"><u>[Updated] In 2024, How to Create a Negative-Like Image Look</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-master-your-mac-with-ease-an-ultimate-guide-to-utilizing-preview-app/"><u>[Updated] Master Your Mac with Ease An Ultimate Guide to Utilizing Preview App</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-guide-to-updating-your-hp-asters-drivers-with-the-latest-version-for-model-840-g3/"><u>Complete Guide to Updating Your HP Asters' Drivers with the Latest Version for Model 840 G3.</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decide-once-and-for-all-which-apple-laptop-reigns-supreme-in-the-battle-of-portability-versus-performance-our-insightful-comparison-between-the-macbook-air-112/"><u>Decide Once and for All Which Apple Laptop Reigns Supreme in the Battle of Portability versus Performance! Our Insightful Comparison Between the MacBook Air and MacBook Pro Reveals Which Model Aligns with Your Tech Requirements.</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exclusive-reveal-the-most-exceptional-magsafe-wallet-not-by-appleanker-at-a-steep-discount/"><u>Exclusive Reveal: The Most Exceptional MagSafe Wallet (Not by Apple/Anker) at a Steep Discount</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-discover-hidden-airtags-a-guide-to-protect-your-privacy-based-on-zdnets-research/"><u>How to Discover Hidden AirTags: A Guide to Protect Your Privacy Based on ZDNet's Research</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-move-playlist-library-from-apple-music-to-youtube-music-for-a-unified-listening-experience/"><u>How to Move Playlist Library From Apple Music to YouTube Music for a Unified Listening Experience</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-apple-id-from-apple-iphone-7-plus-by-drfone-ios/"><u>How To Unlink Apple ID From Apple iPhone 7 Plus</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-capturing-change-time-lapse-on-samsung-smartphones/"><u>In 2024, Capturing Change Time-Lapse on Samsung Smartphones</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ess-screen-stretch-cycle-youtube-on-television-display-for-2024/"><u>Seamless Screen Stretch Cycle YouTube on Television Display for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/secrets-unveiled-mastering-early-bird-access-and-exclusive-offers-for-iphone-15-and-latest-apple-watch-models/"><u>Secrets Unveiled: Mastering Early Bird Access & Exclusive Offers for iPhone 15 & Latest Apple Watch Models</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-buyers-guide-to-the-finest-apple-airtag-wallets-in-2ebytes-of-2024-professional-ratings-and-insights/"><u>Ultimate Buyer's Guide to the Finest Apple AirTag Wallets in 2Ebytes of 2024: Professional Ratings & Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-massive-savings-on-macbook-pro-m1-max-up-to-1100-off-during-black-friday-events-at-bandh-photo-inside-scoop-from-zdnet/"><u>Unlock Massive Savings on MacBook Pro M1 Max – Up to $1,100 Off During Black Friday Events at B&H Photo (Inside Scoop From ZDNET)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-latest-mac-mini-with-m4-chipset-can-this-tiny-beast-outshine-an-apple-tv-in-performance-tech-insight/"><u>Unveiling the Latest Mac Mini with M4 Chipset - Can This Tiny Beast Outshine an Apple TV in Performance? | Tech Insight</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/zdnets-top-picks-unbeatable-iphone-deals-to-grab-in-june-and-july-2e/"><u>ZDNET's Top Picks: Unbeatable iPhone Deals to Grab in June & July 2E!</u></a></li>
 </ul></div>
 

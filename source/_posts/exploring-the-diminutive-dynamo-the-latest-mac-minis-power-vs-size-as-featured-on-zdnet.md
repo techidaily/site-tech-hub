@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Diminutive Dynamo: The Latest Mac Mini's Power Vs. Size, As Featured on ZDNet"
-date: 2024-10-01T19:56:43.782Z
-updated: 2024-10-04T12:07:39.386Z
+date: 2024-10-07T21:07:34.356Z
+updated: 2024-10-09T17:46:15.248Z
 tags:
   - apple
 categories:
@@ -75,6 +75,13 @@ Equipped with an Nvidia GeForce RTX 4080 GPU and a dual mode mini LED display, t
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C3P346B4%2Fref%3Dasc%5Fdf%5FB0C3P346B41727002800000%3Fcreative%3D395261%26creativeASIN%3DB0C3P346B4%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0f19a87c-1a6c-4b96-84f2-19ed2c8ccd11%7Cdtp&dtb=1) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Prime Day Chromebook deals
 
 Asus/ZDNET
@@ -82,13 +89,6 @@ Asus/ZDNET
 * [Acer Chromebook Plus 514 for $319 (Save $80)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Facer-Chromebook-Plus-Laptop-Google%2Fdp%2FB0CX28KX1N%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0f19a87c-1a6c-4b96-84f2-19ed2c8ccd11%7Cdtp&dtb=1): This Chromebook Plus from Acer is a step up from other Chromebooks, with a Full-HD touchscreen and Google's Gemini. It also comes with 2TB of cloud storage free for 12 months.
 * [Asus Chromebook Plus CX34 for $432](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Chromebook-1920x1080-Processor-CX3402CBA-DH386-WH%2Fdp%2FB0CGJGZZ1L%2Fref%3Dsxin%5F15%5Fpa%5Fsp%5Fsearch%5Fthematic%5Fsspa%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0f19a87c-1a6c-4b96-84f2-19ed2c8ccd11%7Cdtp&dtb=1): Asus' stylish CX34 Chromebook Plus comes with a bit more local storage than most Chromebooks (256GB) as well as an ultra-thin form factor and over 10 hours of battery life.
 * [HP Chromebook 14 for $189 (Save $100)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Chromebook-Graphics-Keyboard-14a-na0226nr%2Fdp%2FB09SVSBVP1%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0f19a87c-1a6c-4b96-84f2-19ed2c8ccd11%7Cdtp&dtb=1): It doesn't get much more budget than this. HP's 14-inch Chromebook comes with just 4GB of RAM, so it's perfect as a backup machine or secondary travel device.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Prime Day MacBook deals
 
@@ -107,10 +107,10 @@ HPZDNET
 * [HP 14 inch Laptop for $349 (Save $120)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Generation-i3-1215U-Graphics-14-dq5009nr%2Fdp%2FB0CS3XPZNH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0f19a87c-1a6c-4b96-84f2-19ed2c8ccd11%7Cdtp&dtb=1): This budget laptop features a modest suite of hardware but covers all the basics for an inexpensive but capable and portable machine.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Prime Day Lenovo deals
@@ -138,30 +138,24 @@ Kyle Kucharski/ZDNET
 * [Asus VivoBook 16 for $479 (save $120)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-VivoBook-Laptop-WUXGA-1920%2Fdp%2FB0BT6NKLQR%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0f19a87c-1a6c-4b96-84f2-19ed2c8ccd11%7Cdtp&dtb=1): One of the most versatile and well-rounded laptops on the market is also one of the most affordable. The Vivobook 16 is designed to handle a variety of use cases with ease, and for just $479 you can't go wrong with its 1TB of storage, Windows 11, and solid selection of ports.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## FAQs
 
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### When is Amazon Prime Day 2024?
 
 Amazon Prime Day officially ran from July 16 to July 17, but sometimes deals continue afterward.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What's the best gaming laptop deal on Prime Day?
 
@@ -178,10 +172,10 @@ At ZDNET, we only write about deals our team members would want to buy -- device
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we recommend. These recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### When will these deals expire?
@@ -251,24 +245,21 @@ And the best deals still available from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/op-7-android-ad-blockers-your-choice-comparison/"><u>[New] Top 7 Android Ad Blockers Your Choice Comparison</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-ultimate-guide-to-the-top-8-discreet-content-collectors/"><u>[New] Ultimate Guide to the Top 8 Discreet Content Collectors</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-unlock-the-power-of-discord-broadcasts/"><u>[Updated] 2024 Approved Unlock the Power of Discord Broadcasts</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-choosing-from-manycams-finding-optimal-options/"><u>[Updated] Choosing From ManyCams Finding Optimal Options</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-step-by-step-approach-fine-tuning-your-youtube-videos-dimensions-and-sizes/"><u>[Updated] In 2024, Step-by-Step Approach Fine-Tuning Your YouTube Videos' Dimensions & Sizes</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-audiophiles-guide-download-and-review-sound-files/"><u>2024 Approved Audiophile's Guide Download & Review Sound Files</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-registration-paused-insights-on-the-halt-and-future-availability-dates/"><u>ChatGPT Registration Paused – Insights on the Halt & Future Availability Dates</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/creating-a-consistent-meditation-practice-with-chatgpt-a-step-by-step-guide/"><u>Creating a Consistent Meditation Practice with ChatGPT: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-the-newest-exciting-functionalities-of-googles-bard-ai-from-this-years-io-event/"><u>Discover the Newest Exciting Functionalities of Google's BARD AI From This Year's I/O Event</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/explore-the-best-of-chatgpts-innovative-game-lineup/"><u>Explore: The Best of ChatGPT's Innovative Game Lineup</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-mastering-durecorder-complete-breakdown/"><u>In 2024, Mastering DuRecorder Complete Breakdown</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/leverage-chatgpts-power-the-five-superior-methods-of-personalized-directives/"><u>Leverage ChatGPT's Power: The Five Superior Methods of Personalized Directives</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overcoming-access-is-denied-when-attempting-to-set-up-a-new-usb-device-on-pc/"><u>Overcoming 'Access Is Denied' When Attempting to Set Up a New USB Device on PC</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/quick-start-codegpt-with-visual-studio-code/"><u>Quick Start: CodeGPT with Visual Studio Code</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/rethinking-access-to-knowledge-through-an-academic-lens-the-role-of-the-internet-as-a-universal-resource-hub/"><u>Rethinking Access to Knowledge Through an Academic Lens: The Role of the Internet as a Universal Resource Hub</u></a></li>
-<li><a href="https://techidaily.com/samsung-galaxy-f34-5g-messages-recovery-recover-deleted-messages-from-samsung-galaxy-f34-5g-by-fonelab-android-recover-messages/"><u>Samsung Galaxy F34 5G Messages Recovery - Recover Deleted Messages from Samsung Galaxy F34 5G</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-to-constructing-a-richly-detailed-ai-rpg-using-chatgpt-technology/"><u>Step-by-Step Guide to Constructing a Richly Detailed AI RPG Using ChatGPT Technology</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-ge/"><u>Updated In 2024, Ge</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/whats-next-after-gpt-4-anticipating-the-launch-of-advanced-gpt-5/"><u>What's Next After GPT-4? Anticipating the Launch of Advanced GPT-5</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-costlesscapture-revolutionizing-how-you-record-play/"><u>[New] In 2024, CostlessCapture Revolutionizing How You Record Play</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-elevate-presentations-harnessing-aiseesoft-screen-recordings/"><u>[Updated] 2024 Approved Elevate Presentations Harnessing Aiseesoft Screen Recordings</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-mastering-zoom-video-quality-a-step-by-step-guide/"><u>[Updated] In 2024, Mastering Zoom Video Quality A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-gentle-request-for-a-greater-genuine-community/"><u>2024 Approved Gentle Request for a Greater, Genuine Community</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beyond-bots-5-innovative-ai-tools-for-crypto-success/"><u>Beyond Bots: 5 Innovative AI Tools for Crypto Success</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boosting-your-projects-quality-using-chatgpt-tips-and-strategies/"><u>Boosting Your Project's Quality Using ChatGPT: Tips & Strategies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/claude-pro-analysis-how-it-stacks-against-premium-chatgptplus/"><u>Claude Pro Analysis: How It Stacks Against Premium ChatGPT+</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/explore-the-top-5-no-cost-ai-solutions-for-professional-image-making/"><u>Explore the Top 5 No-Cost AI Solutions for Professional Image Making</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-in-depth-giroptic-360-angle-reviews/"><u>In 2024, In-Depth Giroptic 360-Angle Reviews</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-art-of-zooming-in-a-videoleap-approach/"><u>In 2024, The Art of Zooming In A Videoleap Approach</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/nine-new-dimensions-ai-altering-creative-processes/"><u>Nine New Dimensions: AI Altering Creative Processes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reviving-safari-on-your-iphone-discover-these-10-helpful-fixes/"><u>Reviving Safari on Your iPhone: Discover These 10 Helpful Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speedy-cross-language-switching-hotkeys-in-windows-1011/"><u>Speedy Cross-Language Switching: Hotkeys in Windows 10/11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-9-benefits-of-switching-to-chatgpt-plus-a-worthwhile-enhancement/"><u>Top 9 Benefits of Switching to ChatGPT Plus - A Worthwhile Enhancement</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unraveling-the-mystery-of-truthgpt-the-ai-endeavor-spearheaded-by-elon-musk/"><u>Unraveling the Mystery of TruthGPT - The AI Endeavor Spearheaded by Elon Musk</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/wi-fi-pcx-movavi/"><u>무료 Wi-Fi 안내 PCX 형식을 바로 Movavi로 구성하는 효율적인 방법</u></a></li>
 </ul></div>
 

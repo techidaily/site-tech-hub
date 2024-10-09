@@ -1,7 +1,7 @@
 ---
 title: Worth Your Money? Unpacking Benefits of ChatGPT Plus
-date: 2024-09-19T02:10:29.481Z
-updated: 2024-09-22T19:57:56.531Z
+date: 2024-10-03T19:30:06.678Z
+updated: 2024-10-09T21:56:02.652Z
 tags:
   - chatgpt
   - open-ai
@@ -50,15 +50,28 @@ thumbnail: https://thmb.techidaily.com/255a2b0d86b70a9b8b182a32b7f077670444b2206
 
  At the moment,[GPT-4 can describe images](https://www.makeuseof.com/best-new-gpt4-features-explained/) , but so far, there is currently no AI model that can comprehend videos like a human.[Self-driving vehicles](https://www.makeuseof.com/self-driving-cars-explained/) come close, but they're not completely autonomous and require sensors since they can't make sense of everything in their surrounding environment.
 
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. The Visual Turing Test
 
 ![Various different AI-generated images made with DALL-E](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dall-e-ai-generated-image-gallery.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  According to a research paper published on[PNAS](https://www.pnas.org/doi/10.1073/pnas.1422953112) , the visual Turing test can be used to identify if you're talking to a human or an AI using image questionaries. It works like the Turing test, but instead of answering questions using texts, participants are shown images and expected to answer simple questions while thinking like a human. However, the[visual Turing test is different from CAPTCHAs](https://www.makeuseof.com/tag/how-do-captchas-work/) since all the answers are correct—but to pass the test, the AI must process the images similarly to a human.
@@ -77,33 +90,33 @@ thumbnail: https://thmb.techidaily.com/255a2b0d86b70a9b8b182a32b7f077670444b2206
 
 ![person using chatgpt on their laptop](https://thmb.techidaily.com/3681ab3fb1278f9c5e283b2684cc0a6da110630db6256e6386dbd78a8fb134b9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  How about the Turing test, but done in reverse? Instead of trying to find out if you're talking to a human, the objective of the[reverse Turing test](https://gist.github.com/rain-1/3bf56122b0ebeac929dff0f881ee8e4c) is to trick the AI into believing you're an AI. However, you also need another AI model to answer the same questions using text.
 
  For instance, if ChatGPT-4 is the interrogator, you could enroll Google Bard and another human as participants. If the AI model can correctly identify the human participant based on the answers, it has passed the test.
 
  The downside of the reverse Turing test is that it's unreliable, especially considering that sometimes[AI cannot differentiate AI-generated](https://www.makeuseof.com/ai-content-detectors-dont-work/) and human-written content.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. AI Classification Framework
 
 ![A man playing chess with an AI robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ai-chess.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  According to the AI classification framework developed by[Chris Saad](https://docsend.com/view/et7755yasfpj3iy6) , the Turing test is just one evaluation method to know if you're talking to an AI. More succinctly, the AI classification framework is based on the theory of multiple intelligence, which requires human intelligence to satisfy at least eight different criteria, which include: musical-rhythm, logical-mathematical intelligence, visual identification, emotional intelligence, self-reflective intelligence, existential thinking ability, and body movement.
 
  Since the AI is evaluated on eight different parameters, it's unlikely to pass for a human even if it performs better than average in certain benchmarks. For instance,[ChatGPT can solve math problems](https://www.makeuseof.com/can-chatgpt-solve-math-problems/) , describe images, and converse in a natural language like a human, but it would fail other categories defined in the AI classification framework.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Turing Test Is Not Conclusive
 
@@ -124,5 +137,17 @@ thumbnail: https://thmb.techidaily.com/255a2b0d86b70a9b8b182a32b7f077670444b2206
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-unlocking-the-secrets-to-collecting-fb-gifs-a-comprehensive-manual/"><u>[New] In 2024, Unlocking the Secrets to Collecting FB GIFs A Comprehensive Manual</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/assessing-the-proficiency-of-chatgpt-in-mathematical-problem-resolution/"><u>Assessing the Proficiency of ChatGPT in Mathematical Problem Resolution</u></a></li>
+<li><a href="https://windows11.techidaily.com/dealing-with-non-selectable-items-in-win11-setup/"><u>Dealing with Non-Selectable Items in Win11 Setup</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/github-copilot-vs-chatgpt-in-programming-which-tool-triumphs/"><u>GitHub Copilot Vs. ChatGPT in Programming: Which Tool Triumphs?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-quiet-cinematic-dialogue-draft/"><u>In 2024, Quiet Cinematic Dialogue Draft</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-steps-to-restore-your-skype-video-connection-on-windows-10/"><u>Simple Steps to Restore Your Skype Video Connection on Windows 10</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tracing-back-time-key-milestones-in-the-birth-of-ai/"><u>Tracing Back Time: Key Milestones in the Birth of AI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleashing-the-potential-8-versatile-strategies-with-chatgpt-vision/"><u>Unleashing the Potential: 8 Versatile Strategies with ChatGPT Vision</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unpacking-the-pioneer-bdr-xd05b-key-drawbacks-in-its-blue-ray-burning-system-revealed/"><u>Unpacking the Pioneer BDR-XD05B - Key Drawbacks in Its Blue-Ray Burning System Revealed</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-free-and-functional-video-editing-software-for-32-bit-windows-for-2024/"><u>Updated Free and Functional Video Editing Software for 32-Bit Windows for 2024</u></a></li>
+</ul></div>
 

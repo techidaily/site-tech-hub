@@ -1,7 +1,7 @@
 ---
 title: "The Insider's Guide to Accessing Cutting-Edge AI Bots on Quora: Leveraging the Platform’s Potential"
-date: 2024-09-17T02:00:06.297Z
-updated: 2024-09-23T01:14:28.722Z
+date: 2024-10-07T20:07:06.720Z
+updated: 2024-10-09T20:29:29.732Z
 tags:
   - chatgpt
   - open-ai
@@ -38,9 +38,23 @@ thumbnail: https://thmb.techidaily.com/8728071c55cb4a9d737d3c276cbce71523d45848b
 
  In a separate incident, the researchers prompted ChatGPT to generate malicious VBA code that could be implanted into a Microsoft Excel file that would infect your PC if opened; it successfully did. Plus, there are claims that ChatGPT can code malicious software capable of spying on your keyboard strokes.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Can ChatGPT Hack Your Bank Account?
 
 ![An illustration of a customer service chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customer-service.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Many data breaches start with[a successful phishing attack](http://www.makeuseof.com/what-is-phishing/) . Phishing attacks often involve a malicious actor sending a recipient an email that contains legitimate-looking documents or links, which, when clicked on, can install malware on their device. In this way, code from ChatGPT doesn't need to hack your bank account directly. Someone only needs to use ChatGPT to help them trick you into giving them access.
 
@@ -53,6 +67,13 @@ thumbnail: https://thmb.techidaily.com/8728071c55cb4a9d737d3c276cbce71523d45848b
  For phishing, it’s mostly about volume. ChatGPT can help boost phishing campaigns as it can quickly pump out huge amounts of natural-sounding texts that are tailored to specific audiences.
 
  Another kind of phishing attack involving the use of ChatGPT is where a hacker creates a fake account on a popular chat platform like Discord and pretends to be a customer representative. The fake customer rep then contacts customers who have posted concerns and offers help. If a user falls for the trap, the cybercriminal will redirect them to a bogus website that tricks them into sharing personal information, like their bank login details.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Protect Your PC and Bank Account in the AI-Era
 
@@ -75,12 +96,21 @@ thumbnail: https://thmb.techidaily.com/8728071c55cb4a9d737d3c276cbce71523d45848b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-navigating-authentic-growth-proven-youtube-view-strategies/"><u>[New] 2024 Approved Navigating Authentic Growth Proven YouTube View Strategies</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-master-the-art-of-fast-instagram-videos/"><u>[New] In 2024, Master the Art of Fast Instagram Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-richest-ringtone-repositories-online/"><u>2024 Approved Richest Ringtone Repositories Online</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/differences-between-copilot-basic-and-premium-versions-to-upgrade-or-not-to-upgrade/"><u>Differences Between Copilot Basic & Premium Versions: To Upgrade or Not to Upgrade?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/evaluating-the-benefits-and-drawbacks-of-chatgpt-plus-a-comprehensive-guide/"><u>Evaluating the Benefits & Drawbacks of ChatGPT Plus: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-cost-free-ai-companions-similar-to-sora/"><u>Exploring Cost-Free, AI Companions Similar to Sora</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-visual-potential-of-chatgpt-with-8-unique-and-practical-ideas/"><u>Exploring the Visual Potential of ChatGPT with 8 Unique and Practical Ideas</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gaming-revolutionized-learn-and-create-via-chatgpts-my-bot-features/"><u>Gaming Revolutionized: Learn & Create via ChatGPT's My Bot Features</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-lava-yuva-3-pro-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Lava Yuva 3 Pro</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-tecno-camon-20-premier-5g-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Tecno Camon 20 Premier 5G to PC? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/leveraging-law-filters-in-windows-an-experts-perspective/"><u>Leveraging LAW Filters in Windows – An Expert's Perspective</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-issues-with-your-unresponsive-usb-network-adapter/"><u>Overcoming Issues with Your Unresponsive USB Network Adapter</u></a></li>
+<li><a href="https://fox-search.techidaily.com/streamline-your-code-with-the-advanced-features-of-ifile-component-technology/"><u>Streamline Your Code with the Advanced Features of iFile Component Technology</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtube-video-magic-best-tools-for-effortless-webm-conversion-for-2024/"><u>YouTube Video Magic Best Tools for Effortless WebM Conversion for 2024</u></a></li>
+</ul></div>
 

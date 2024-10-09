@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Activating Slack Alerts on the Apple Watch - Tips From ZDNet"
-date: 2024-09-29T21:07:05.946Z
-updated: 2024-10-04T11:01:41.874Z
+date: 2024-10-08T18:20:33.799Z
+updated: 2024-10-09T20:44:55.948Z
 tags:
   - apple
 categories:
@@ -48,13 +48,6 @@ Here's how.
 
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Install the Slack app on your iPhone
 
 There is no dedicated Slack app for the Apple Watch, but there is an iPhone app. This app controls everything about how Slack works with notifications on your phone. So, if you don't already have Slack on your iPhone, go to [the App Store and install it](https://apps.apple.com/us/app/slack/id618783545).
@@ -62,15 +55,22 @@ There is no dedicated Slack app for the Apple Watch, but there is an iPhone app.
 Once it's installed, go ahead and log into your various Slack channels. Get those setup and working as you like before configuring the app for notifications.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Set up Slack notifications in the system settings
 
 Let's make sure iOS is set up to allow Slack notifications. Go to the main Settings app and on the main settings screen, scroll all the way down to Slack. It's a long scroll past many other apps. Tap into Slack.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##   
 
@@ -81,6 +81,13 @@ Once you're in the Slack settings pane, make sure Background App Refresh and Cel
 Now, back out to the top of the Settings app and tap the red Notifications icon. Make sure you Allow Notifications and turn on Time Sensitive Notifications. I also recommend you make sure Sounds is set to on. 
 
 Screenshot by David Gewirtz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Set up Slack notifications in the Slack app
 
@@ -103,6 +110,13 @@ Next, tap Notify Me on Mobile. This will give you a few options.
 Screenshot by David Gewirtz/ZDNET
 
 Set it to "Always, even when I'm active". That way, you'll always get notifications, no matter what you're doing (unless you have Do Not Disturb turned on).
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Set your notification schedule
 
@@ -128,25 +142,11 @@ Recommendation to Slack: Where you put the "Every day" option in that setting, a
 
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##   
 
 Screenshot by David Gewirtz/ZDNET
 
 There. You've set up notifications. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
 
@@ -187,16 +187,24 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/updated-rippleringers-finding-the-happiest-online-rhythms/"><u>[Updated] RippleRingers Finding the Happiest Online Rhythms</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/apples-marketplace-risks-with-chatgpt-apps-alerted/"><u>Apple's Marketplace Risks with ChatGPT Apps Alerted</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-api-demystified-for-developers/"><u>ChatGPT API Demystified for Developers</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-tutorials-on-how-to-transfer-photos-from-apple-iphone-13-mini-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Tutorials on How to Transfer Photos From Apple iPhone 13 mini to New iPhone | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/innovative-immersion-a-guide-to-the-leaders-for-2024/"><u>Innovative Immersion A Guide to the Leaders for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/leveraging-ai-personalized-nutrition-planning-with-the-help-of-chatgpt/"><u>Leveraging AI: Personalized Nutrition Planning with the Help of ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-gpt-3-a-guide-for-openais-playground/"><u>Mastering GPT-3: A Guide for OpenAI's Playground</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723011454122-ultimate-guide-solving-days-gone-game-crashes/"><u>Ultimate Guide: Solving Days Gone Game Crashes</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-chatgpt-custom-instructions-features-and-practical-applications/"><u>Understanding ChatGPT Custom Instructions: Features and Practical Applications</u></a></li>
-<li><a href="https://article-files.techidaily.com/unparalleled-top-10-free-image-archiving-hubs-pics-safe-and-sound-for-2024/"><u>Unparalleled Top 10 Free Image Archiving Hubs, Pics Safe and Sound for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-the-battle-for-video-editing-supremacy-sony-vegas-vs-adobe-premiere/"><u>Updated 2024 Approved The Battle for Video Editing Supremacy Sony Vegas vs Adobe Premiere</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-easy-lenovo-techniques-for-capturing-your-display-for-2024/"><u>[New] Easy Lenovo Techniques for Capturing Your Display for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-reactivate-and-enhance-photo-viewing-with-ease-win-11/"><u>[Updated] In 2024, Reactivate and Enhance Photo Viewing with Ease (Win 11)</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-mixing-music-into-your-instagram-visuals/"><u>[Updated] Mixing Music Into Your Instagram Visuals</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/banishing-static-like-motion-in-aerial-videos/"><u>Banishing Static-Like Motion in Aerial Videos</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparing-leading-ai-chatbots-who-takes-the-crown-between-microsofts-googles-and-openais-offerings/"><u>Comparing Leading AI Chatbots: Who Takes the Crown Between Microsoft's, Google’s & OpenAI’s Offerings?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparing-varieties-of-artificial-intelligence-public-private-and-personal-explained/"><u>Comparing Varieties of Artificial Intelligence: Public, Private & Personal Explained</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/explore-the-fun-side-top-6-games-to-enjoy-on-chatgpt/"><u>Explore The Fun Side: Top 6 Games To Enjoy on ChatGPT</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-vivo-t2-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Vivo T2 5G Devices</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-plus-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14 Plus Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud From your Apple iPhone XS Max</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/innovations-in-sound-personalization-examining-voice-transformation-gadgets-for-2024/"><u>Innovations in Sound Personalization Examining Voice Transformation Gadgets for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-courtesy-mandatory-when-interacting-with-virtual-assistants-like-chatgpt-alexa-and-siri/"><u>Is Courtesy Mandatory When Interacting With Virtual Assistants Like ChatGPT, Alexa, and Siri?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-the-complexities-of-artificer-intelligence-controls-and-supervision-roles/"><u>Navigating the Complexities of Artificer Intelligence Controls and Supervision Roles</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/phony-chatgpt-plugin-illegally-accesses-snapchat-accounts/"><u>Phony ChatGPT Plugin Illegally Accesses Snapchat Accounts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/prompt-engineering-employment-assessing-authenticity-through-9-vital-points/"><u>Prompt Engineering Employment: Assessing Authenticity Through 9 Vital Points</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/thriving-on-the-grid-maximizing-your-telegram-impact/"><u>Thriving on the Grid Maximizing Your Telegram Impact</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tips-and-tricks-identifying-your-tailored-gpts-in-the-middle-of-chatgpt-exchanges-using-specific-references/"><u>Tips and Tricks: Identifying Your Tailored GPTs in the Middle of ChatGPT Exchanges Using Specific References</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-where-to-position-your-ps4s-webcam-for-best-results/"><u>Ultimate Guide: Where to Position Your PS4's Webcam for Best Results</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/voice-your-thoughts-on-android-with-chatgpt/"><u>Voice Your Thoughts on Android, With ChatGPT</u></a></li>
 </ul></div>
 

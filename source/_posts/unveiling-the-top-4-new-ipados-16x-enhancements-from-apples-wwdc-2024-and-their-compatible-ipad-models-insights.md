@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Top 4 New iPadOS 16.x Enhancements From Apple's WWDC 2024 and Their Compatible iPad Models - Insights
-date: 2024-10-03T13:03:21.325Z
-updated: 2024-10-03T16:28:42.075Z
+date: 2024-10-08T16:56:45.228Z
+updated: 2024-10-09T17:44:00.048Z
 tags:
   - apple
 categories:
@@ -48,13 +48,6 @@ iPad users can also leverage [generative AI](https://www.zdnet.com/article/what-
 
 Other new Apple Intelligence features on the iPad include redesigning the Photos app, enhanced Siri with gesture control via AirPods Pro, and more. These features will give iPad users a more intuitive tablet with better hands-free control and multitasking capabilities. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. A built-in Calculator for iPad
 
 During WWDC, Apple announced that the Calculator app finally will be included as a native app with iPadOS 18\. It will also get a redesign, as the Mac Calculator will now resemble the iPhone app, with round buttons instead of square ones, and will feature new capabilities with Apple Pencil integrations.
@@ -70,10 +63,10 @@ Until now, iPad users looking for a calculator had to download third-party apps 
 A built-in Calculator app eliminates the need to download a third-party app and allows Apple to leverage the iPad's larger screen to offer complex calculations and advanced visualizations. This feature enables everyday users, like students, to use the iPad more effectively for math and science queries. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. An intuitive Notes app
@@ -85,10 +78,10 @@ The Notes app for iPad also has been redesigned, with Smart Script in Notes for 
 Smart Script in Notes also lets users erase portions of notes by scratching them out. This feature also draws from the Calculator on iPad, letting users make calculations and graphs like they would in the Calculator. 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. A Passwords app
@@ -100,6 +93,13 @@ Apple has used the iCloud Keychain for years now, a way to store passwords and l
 Apple is making the new Passwords app available for iOS and iPadOS, giving users a more user-friendly way to access, edit, share, and autofill their passwords. Instead of digging through the iPad's Settings to find the iCloud Keychain, users will have a separate app called Passwords, which works much like LastPass and 1Password. 
 
 As a longtime LastPass user and Keychain disdainer, I look forward to testing this app and enjoying centralized password management with an enhanced user interface. I expect the Passwords app for iPad will greatly improve security for many users, making the access and management of passwords more convenient. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What we didn't get: An 'always on' display
 
@@ -124,16 +124,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which iPads will support iPadOS 18?
@@ -177,20 +171,22 @@ Here are the iPad models that will be updated to iPadOS 18 when available:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-structured-writing-tactics-for-boosting-facebook-ad-performance/"><u>[New] Structured Writing Tactics for Boosting Facebook Ad Performance</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024dvd-windows-11/"><u>【自由下載】2024年度頂級DVD播放器軟件 - Windows 11專用選項</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/boosting-productivity-with-ai-assistance-how-to-make-the-most-of-chatgpt-during-virtual-team-sessions/"><u>Boosting Productivity with AI Assistance: How to Make the Most of ChatGPT During Virtual Team Sessions</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-samsung-galaxy-a05-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Samsung Galaxy A05 is off? | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/downloading-and-editing-tweets-as-mp3s/"><u>Downloading & Editing Tweets as MP3s</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-vivo-y200e-5g-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Vivo Y200e 5G Phones? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/move-past-the-comparison-discover-how-siri-differs-from-chatgpt/"><u>Move Past the Comparison: Discover How Siri Differs From ChatGPT</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/no-cost-screen-recording-tricks-for-pc-users/"><u>No-Cost Screen Recording Tricks for PC Users</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/pioneering-ideas-top-20-github-curated-chatgpt-dialogues/"><u>Pioneering Ideas: Top 20 Github-Curated ChatGPT Dialogues</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/skyrocket-chatgpt-use-with-these-powerful-9-tools/"><u>Skyrocket ChatGPT Use with These Powerful 9 Tools</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/stepwise-approach-installed-plugins-in-chatgpt/"><u>Stepwise Approach: Installed Plugins in ChatGPT</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/top-7-phone-number-locators-to-track-apple-iphone-8-location-drfone-by-drfone-virtual-ios/"><u>Top 7 Phone Number Locators To Track Apple iPhone 8 Location | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-picks-for-economical-virtual-reality-experiences/"><u>Top Picks for Economical Virtual Reality Experiences</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-ai-prompts-career-stability-analysis/"><u>Understanding AI Prompts: Career Stability Analysis</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-potential-crypto-trading-aided-by-chatgpt/"><u>Unlocking Potential: Crypto Trading Aided by ChatGPT</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-discover-9-easy-no-cost-editing-software-options/"><u>[Updated] 2024 Approved Discover 9 Easy, No-Cost Editing Software Options</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-elite-7-camcorders-for-winter-sports-enthusiasts/"><u>[Updated] 2024 Approved Elite 7 Camcorders for Winter Sports Enthusiasts</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-elite-mac-graphic-preserver-for-2024/"><u>[Updated] Elite Mac Graphic Preserver for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-quicknetflix-screenshots-a-mac-users-guide-for-2024/"><u>[Updated] QuickNetflix Screenshots A Mac User's Guide for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-infinix-note-30-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Infinix Note 30 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-grok-ai-by-elon-musk-insights-into-functionality-and-price-points/"><u>Exploring Grok AI by Elon Musk: Insights Into Functionality and Price Points</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-nokia-c32-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Nokia C32 FRP In 3 Different Ways</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-extend-a-volume-on-windows-without-erasing-personal-data/"><u>How to Extend a Volume on Windows Without Erasing Personal Data</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-apple-iphone-14-pro-max-fix-now-drfone-by-drfone-virtual-ios/"><u>In 2024, 3uTools Virtual Location Not Working On Apple iPhone 14 Pro Max? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/integrating-chatgpt-into-your-whatsapp-business-account-a-comprehensive-guide/"><u>Integrating ChatGPT Into Your WhatsApp Business Account: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/scripting-stories-chatgpt-as-your-text-rpg-guide/"><u>Scripting Stories: ChatGPT as Your Text-RPG Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-future-unfolds-the-significance-of-transfer-learning-in-ai/"><u>The Future Unfolds: The Significance of Transfer Learning in AI</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/thermaltake-massive-tm-laptop-cooling-pad-review/"><u>Thermaltake Massive TM Laptop Cooling Pad Review</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-11-effective-gpt4-prompts-for-crafting-book-characters/"><u>Top 11 Effective GPT4 Prompts for Crafting Book Characters</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transforming-thoughts-into-verse-writing-a-poetry-collection-using-chatgpt/"><u>Transforming Thoughts Into Verse: Writing a Poetry Collection Using ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleash-your-creativity-integrating-chatgpt-into-worldbuilding-adventures/"><u>Unleash Your Creativity: Integrating ChatGPT Into Worldbuilding Adventures</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-pdf-insights-with-chatgpt-four-methods/"><u>Unlocking PDF Insights with ChatGPT: Four Methods</u></a></li>
 </ul></div>
 

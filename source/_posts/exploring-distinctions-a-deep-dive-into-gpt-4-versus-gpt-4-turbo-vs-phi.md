@@ -1,7 +1,7 @@
 ---
 title: "Exploring Distinctions: A Deep Dive Into GPT-4 Versus GPT-4 Turbo Vs. Phi"
-date: 2024-09-19T21:02:54.215Z
-updated: 2024-09-22T23:36:15.242Z
+date: 2024-10-02T22:16:48.089Z
+updated: 2024-10-09T16:59:08.359Z
 tags:
   - chatgpt
   - open-ai
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/8da4f128772304ca7169e7ed666f281e2ef57e50c
 
 ![ChatGPT unrhymed poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-unrhymed-poem.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Find Rhymes
 
  You can also use the app to find perfect, imperfect, and more varieties of rhymes for different words. It's a playful way to expand your rhyming options for verses.
@@ -60,6 +67,13 @@ Simply prompt ChatGPT to scan the poem, then paste in your verses.
 
 ![ChatGPT scans a Robert Frost poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-scans-a-robert-frost-poem.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can ask the bot follow-up questions about the scansion, as well as poetic form.
 
 ![ChatGPT poetic scansion explanation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-poetic-scansion-explanation.jpg)
@@ -75,10 +89,10 @@ Simply prompt ChatGPT to scan the poem, then paste in your verses.
 ![ChatGPT sci fi story ideas](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-sci-fi-story-ideas.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 You'll get a huge list of ideas to spark your creativity.
@@ -88,10 +102,10 @@ You'll get a huge list of ideas to spark your creativity.
 ![ChatGPT mystery story ideas](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-mystery-story-ideas.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also get the app to use specific authors for inspiration, too. For instance, prompt it to “provide 15 story ideas in the style of Hemingway about choosing a new pet” or “provide 12 ideas for love stories in the style of Philip K. Dick.”
@@ -99,26 +113,13 @@ You'll get a huge list of ideas to spark your creativity.
 ![ChatGPT story ideas similar to Hemingway](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-story-ideas-similar-to-hemingway.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The app keys in on each author's familiar themes and styles to construct these inspiring (and sometimes a bit bizarre) story ideas.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Play With Audience and Tone
 
@@ -127,6 +128,13 @@ You'll get a huge list of ideas to spark your creativity.
  For instance, a prompt to “tell a story about bears as though you are a kindergarten teacher addressing a classroom” produces a cute, kid-friendly tale about friendship.
 
 ![ChatGPT kid friendly bear story](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-kid-friendly-bear-story.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Meanwhile, a prompt to “tell a literary story about bears for a sophisticated adult audience” produces a much more rugged story.
 
@@ -150,16 +158,16 @@ You'll get a huge list of ideas to spark your creativity.
 
 ![ChatGPT mystery story plot twist ideas](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-mystery-story-plot-twist-ideas.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In this instance, the chatbot offers some ideas for mystery story plot twists. You can also get more specific and ask it for "unexpected plot twists" or similar prompts.
 
  In many ways, ChatGPT can help you overcome the biggest hurdle for plenty of writers: the blank page (or screen).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Caveats About Using ChatGPT for Creative Writing
 
@@ -190,5 +198,18 @@ You'll get a huge list of ideas to spark your creativity.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-making-the-invisible-audible-fixes-for-tweeted-videos/"><u>[New] In 2024, Making the Invisible Audible Fixes for Tweeted Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-max-360-vs-hero-11-the-decisive-battle-for-superior-gopro-action-footage/"><u>[New] Max 360 vs Hero 11 - The Decisive Battle for Superior GoPro Action Footage</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-navigating-soundscape-dilution-via-audacity-tools-for-2024/"><u>[Updated] Navigating Soundscape Dilution via Audacity Tools for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-magix-photography-control-an-in-depth-review/"><u>2024 Approved MAGIX Photography Control An In-Depth Review</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/changing-the-game-how-chatgpt-is-shaping-future-watch-tech/"><u>Changing the Game: How ChatGPT Is Shaping Future Watch Tech</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-way-to-enjoy-indiana-jones-movies-back-to-back/"><u>Easy Way to Enjoy Indiana Jones Movies Back to Back</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Vivo Y100i Power 5G? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-xiaomi-13t-pro-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Xiaomi 13T Pro</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/smart-learning-with-ai-preventing-missteps-in-using-chatgpt-as-a-student/"><u>Smart Learning with AI: Preventing Missteps in Using ChatGPT as a Student</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/smart-technology-dialogue-the-case-for-respectful-interaction/"><u>Smart Technology Dialogue: The Case for Respectful Interaction</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/troubleshooting-tips-identifying-and-rectifying-the-4-main-reasons-for-chatgpt-account-restrictions/"><u>Troubleshooting Tips: Identifying & Rectifying the 4 Main Reasons for ChatGPT Account Restrictions</u></a></li>
+</ul></div>
 

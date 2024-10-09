@@ -1,7 +1,7 @@
 ---
 title: Discover Free, Comparable AIs Beyond Sora
-date: 2024-09-17T21:25:42.614Z
-updated: 2024-09-22T18:58:46.186Z
+date: 2024-10-03T19:17:39.771Z
+updated: 2024-10-09T20:11:59.969Z
 tags:
   - chatgpt
   - open-ai
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/a7021ad624ff445cc29baa46a54eaf2cd9c23802b
 
  ChatGPT has a wealth of games in its custom GPT store, covering everything from, RPGs and Dungeons and Dragons-style adventures, classic retro games, card games, quizzes, mysteries, and so much more.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1.[Murder Mystery Mayhem](https://chat.openai.com/g/g-82dEDeoN3-murder-mystery-mayhem)
 
  Let's start with one of the top-rated games on ChatGPT's custom GPT store. Murder Mystery Mayhem is a procedurally generated game where you play the role of a detective in the year 1925.
@@ -46,6 +53,13 @@ Close
  Once you finger your suspect, you call in the Officer to make the arrest. Collar the wrong perp, and the game is over, and you begin with a new mystery.
 
  Murder Mystery Mayhem is good fun, with the location and murderer changing round by round, and each suspect has new alibis and evidence to reveal. The changes keep it feeling fresh, and one game played through to the end can keep you engaged and seeking the truth for well over an hour. (Don't forget, you don't have to play it all at once!)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2.[Oregon Trail](https://chat.openai.com/g/g-ijJRJgWHp-oregon-trail)
 
@@ -66,10 +80,10 @@ Close
  My only major gripe about this poker game is that ChatGPT seems to mimic your choices, such as check, raise, and so on, which can make the game predictable (or at least less random).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4.[Console GPT](https://chat.openai.com/g/g-3p94K4Djb-console-gpt)
@@ -79,6 +93,13 @@ Close
  When you first boot Console GPT, you meet the message "BOOT UP AND INSERT GAME." But you don't have a game cartridge to boot yet. Instead, you have to head to the[Console GPT Glif page](https://glif.app/@fab1an/glifs/clotu9ul2002vl90fh6cmpjw0) , which is a custom AI art tool that will create your "cartridge."
 
 ![cyber syndicate cartridge ai image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/cyber-syndicate-cartridge-ai-image.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Input the type of game you want in the text box, select**Glif It!** , and watch as your creation comes to life. I went with "retro-futurism crime lord" and was presented with "Cyber Syndicate," a game where you "navigate a neon-soaked, cyberpunk metropolis teeming with high-tech heists and digital espionage," with a goal of becoming the ultimate syndicate leader.
 
@@ -101,13 +122,6 @@ Close
  The custom GPT Cookie Clicker is decidedly different. You're still building up a cookie empire in a similar style, but because ChatGPT doesn't run automated commands and cannot keep the numbers ticking over like the original game, it requires more input.
 
  Still, if you're into idle games and want to try something different, it could be worth a try.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6.[Cute Little Zombies](https://chat.openai.com/g/g-CEON6aFtV-cute-little-zombies-a-text-adventure-game)
 
@@ -136,5 +150,21 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-innovative-approaches-to-podcast-summary-creation-for-2024/"><u>[New] Innovative Approaches to Podcast Summary Creation for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-optimizing-video-creation-in-obs-studio/"><u>[New] Optimizing Video Creation in OBS Studio</u></a></li>
+<li><a href="https://win-dash.techidaily.com/amd-radeon-hd-6350-fresh-driver-download-and-updates-for-windows-users/"><u>AMD Radeon HD 6350 - Fresh Driver Download & Updates for Windows Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/cracking-the-code-an-inside-look-at-twitter-scams-metas-verification-efforts-and-chatgpt-4-unpacked/"><u>Cracking the Code: An Inside Look at Twitter Scams, Meta's Verification Efforts, and ChatGPT-4 Unpacked</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/easy-guide-to-mastering-copy-paste-techniques-in-windows-10-and-11/"><u>Easy Guide to Mastering Copy-Paste Techniques in Windows 10 & 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-your-smartphone-experience-with-the-best-8-ai-powered-apps-for-all-users/"><u>Elevate Your Smartphone Experience with The Best 8 AI-Powered Apps for All Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/essential-list-of-leading-artificial-intelligence-note-taking-apps/"><u>Essential List of Leading Artificial Intelligence Note-Taking Apps</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-the-d-link-powerline-2000-network-solution-user-friendly-setup-and-accelerated-internet-performance/"><u>Evaluating the D-Link Powerline 2000 Network Solution: User-Friendly Setup & Accelerated Internet Performance</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-jestmastery-create-share-and-sign-up-with-ease/"><u>In 2024, JestMastery Create, Share & Sign Up with Ease</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leading-open-source-graphics-transformation-programs/"><u>Leading Open Source Graphics Transformation Programs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/nutritious-food-prep-via-digital-culinary-mentors/"><u>Nutritious Food Prep via Digital Culinary Mentors</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-benefits-and-limitations-a-closer-look-at-chatgpt-plus/"><u>Unveiling Benefits and Limitations: A Closer Look at ChatGPT Plus</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/utilizing-shellgpt-for-efficient-chatgpt-experiences/"><u>Utilizing ShellGPT for Efficient ChatGPT Experiences</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/virtual-vulnerability-cybercriminals-romance-strategies/"><u>Virtual Vulnerability: Cybercriminals' Romance Strategies</u></a></li>
+</ul></div>
 

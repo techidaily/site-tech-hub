@@ -1,7 +1,7 @@
 ---
 title: "Facing the Future: The Potential Increase in Security Challenges Posed by Generative AI"
-date: 2024-09-19T00:17:24.168Z
-updated: 2024-09-22T23:14:16.979Z
+date: 2024-10-08T18:25:10.550Z
+updated: 2024-10-09T21:29:19.717Z
 tags:
   - chatgpt
   - open-ai
@@ -50,9 +50,29 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
 
  At the moment,[GPT-4 can describe images](https://www.makeuseof.com/best-new-gpt4-features-explained/) , but so far, there is currently no AI model that can comprehend videos like a human.[Self-driving vehicles](https://www.makeuseof.com/self-driving-cars-explained/) come close, but they're not completely autonomous and require sensors since they can't make sense of everything in their surrounding environment.
 
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. The Visual Turing Test
 
 ![Various different AI-generated images made with DALL-E](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dall-e-ai-generated-image-gallery.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  According to a research paper published on[PNAS](https://www.pnas.org/doi/10.1073/pnas.1422953112) , the visual Turing test can be used to identify if you're talking to a human or an AI using image questionaries. It works like the Turing test, but instead of answering questions using texts, participants are shown images and expected to answer simple questions while thinking like a human. However, the[visual Turing test is different from CAPTCHAs](https://www.makeuseof.com/tag/how-do-captchas-work/) since all the answers are correct—but to pass the test, the AI must process the images similarly to a human.
 
@@ -67,10 +87,10 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
  For an AI to pass the Lovelace test, it must demonstrate that it can generate original ideas that exceed its training. Current AI models like GPT-4 don't have the capability to come up with new inventions beyond our existing knowledge. However,[artificial general intelligence](https://www.makeuseof.com/what-is-artificial-general-intelligence-how-it-differs-generative-ai/) can achieve that capability and pass the Lovelace test.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Reverse Turing Test
@@ -83,27 +103,20 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
 
  The downside of the reverse Turing test is that it's unreliable, especially considering that sometimes[AI cannot differentiate AI-generated](https://www.makeuseof.com/ai-content-detectors-dont-work/) and human-written content.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. AI Classification Framework
 
 ![A man playing chess with an AI robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ai-chess.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  According to the AI classification framework developed by[Chris Saad](https://docsend.com/view/et7755yasfpj3iy6) , the Turing test is just one evaluation method to know if you're talking to an AI. More succinctly, the AI classification framework is based on the theory of multiple intelligence, which requires human intelligence to satisfy at least eight different criteria, which include: musical-rhythm, logical-mathematical intelligence, visual identification, emotional intelligence, self-reflective intelligence, existential thinking ability, and body movement.
 
  Since the AI is evaluated on eight different parameters, it's unlikely to pass for a human even if it performs better than average in certain benchmarks. For instance,[ChatGPT can solve math problems](https://www.makeuseof.com/can-chatgpt-solve-math-problems/) , describe images, and converse in a natural language like a human, but it would fail other categories defined in the AI classification framework.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Turing Test Is Not Conclusive
 
@@ -124,5 +137,21 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-spotlight-on-snapchat-utilization-strategies/"><u>[New] In 2024, Spotlight on Snapchat Utilization Strategies</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elevate-your-youtube-creation-by-merging-media-and-music/"><u>[Updated] 2024 Approved Elevate Your YouTube Creation by Merging Media and Music</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-capturing-win10-games-a-comprehensive-breakdown/"><u>[Updated] Capturing Win10 Games A Comprehensive Breakdown</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-maximize-visual-impact-the-perfect-blend-of-windows-11-photos-and-storyremix/"><u>[Updated] Maximize Visual Impact The Perfect Blend of Windows 11, Photos and StoryRemix</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-twitch-broadcasting-made-easy-on-social-media-for-2024/"><u>[Updated] Twitch Broadcasting Made Easy on Social Media for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-easily-erase-identity-blurring-techniques-in-videos/"><u>2024 Approved Easily Erase Identity Blurring Techniques in Videos</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-the-artificial-intelligence-driven-paperclip-enigma/"><u>Decoding the Artificial Intelligence-Driven Paperclip Enigma</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/dont-miss-out-upgrade-to-a-superior-gaming-experience-with-the-nvidia-rtx-4080-powered-lenovo-legion-desktop-for-just-over-2000/"><u>Don't Miss Out: Upgrade to a Superior Gaming Experience with the NVIDIA RTX 4080-Powered Lenovo Legion Desktop for Just Over $2,000</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/download-and-configure-voicegpt-for-mobile-interaction-on-your-android-phone/"><u>Download and Configure VoiceGPT for Mobile Interaction on Your Android Phone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/key-practices-to-amplify-your-social-media-impact-on-fb/"><u>Key Practices to Amplify Your Social Media Impact on FB</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/quickest-and-easiest-intel-accelerated-video-conversion/"><u>Quickest & Easiest Intel Accelerated Video Conversion</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-integrating-with-the-chatgpt-api/"><u>Step-by-Step Guide: Integrating with the ChatGPT API</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-insiders-guide-to-accessing-cutting-edge-ai-bots-on-quora-leveraging-the-platforms-potential/"><u>The Insider's Guide to Accessing Cutting-Edge AI Bots on Quora: Leveraging the Platform’s Potential</u></a></li>
+<li><a href="https://driver-download.techidaily.com/usb-audio-device-drivers-updating-steps-for-windows-11107/"><u>USB Audio Device Drivers: Updating Steps for Windows 11/10/7</u></a></li>
+</ul></div>
 

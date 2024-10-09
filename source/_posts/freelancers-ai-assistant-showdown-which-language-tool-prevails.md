@@ -1,7 +1,7 @@
 ---
 title: "Freelancer's AI Assistant Showdown: Which Language Tool Prevails?"
-date: 2024-09-20T02:39:22.008Z
-updated: 2024-09-22T16:34:58.277Z
+date: 2024-10-04T18:00:51.657Z
+updated: 2024-10-09T21:58:44.851Z
 tags:
   - chatgpt
   - open-ai
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/e7ff9df7bb6af3b5e4d65d67011a30e37297e02c3
 
  The following comparisons and tests are not meant to be exhaustive but rather give you an indication of key points and capabilities.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Which Is the Easiest Large Language Model to Use?
 
  Both Bard and ChatGPT require an account to use the service. Both Google and OpenAI accounts are easy and free to create, and you can immediately start asking questions.
@@ -60,29 +67,9 @@ thumbnail: https://thmb.techidaily.com/e7ff9df7bb6af3b5e4d65d67011a30e37297e02c3
 
  In contrast, a local model on your own machine doesn't require an account or share user data with anyone.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Which LLM Has the Best General Knowledge?
 
 ![man at the base of a flagpole flying the flag of nepal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/man-at-the-base-of-a-flagpole-flying-the-flag-of-nepal.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In order to test which LLM has the best general knowledge, we asked three questions.
 
@@ -96,9 +83,23 @@ thumbnail: https://thmb.techidaily.com/e7ff9df7bb6af3b5e4d65d67011a30e37297e02c3
 
  All three chatbots correctly identified Franco Malerba as an Italian astronaut and member of the European Parliament, with Bard giving an answer worded identically to a section of Malerba's Wikipedia entry.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Which LLM Is Good for Technical Instructions?
 
 ![burnt socket for a  BS 1363 type plug](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/burnt-socket-for-a-bs-1363-type-plug.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When you have technical problems, you might be tempted to turn to a chatbot for help. While technology marches on, some things remain the same. The BS 1363 electrical plug has been in use in Britain, Ireland, and many other countries since 1947\. We asked the language models how to correctly wire it up.
 
@@ -111,6 +112,13 @@ thumbnail: https://thmb.techidaily.com/e7ff9df7bb6af3b5e4d65d67011a30e37297e02c3
  Bard identified the correct colors for the wires and instructed us to connect them to Live, Neutral, and Earth terminals. It gave no instructions on how to identify these.
 
  In our opinion. none of the chatbots gave instructions sufficient to help someone correctly wire a BS 1363 electrical plug. A concise and correct response would be, "Blue on the left, brown on the right."
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Which LLM Is Good for Writing Code?
 
@@ -136,13 +144,6 @@ thumbnail: https://thmb.techidaily.com/e7ff9df7bb6af3b5e4d65d67011a30e37297e02c3
 
 You read it here first, folks.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## No Chatbot Is Perfect
 
  We found that while all three large language models have their advantages and disadvantages, none of them can replace the real expertise of a human being with specialized knowledge.
@@ -164,5 +165,20 @@ You read it here first, folks.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-the-ultimate-cheat-sheet-inserting-vimeo-videos-into-slides/"><u>[Updated] 2024 Approved The Ultimate Cheat Sheet Inserting Vimeo Videos Into Slides</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-the-pioneers-guide-to-documenting-private-whatsapp-discussions/"><u>[Updated] The Pioneer's Guide to Documenting Private WhatsApp Discussions</u></a></li>
+<li><a href="https://win-forum.techidaily.com/10-essential-solutions-for-restoring-internet-connectivity-on-wi-fi-in-windows-11/"><u>10 Essential Solutions for Restoring Internet Connectivity on Wi-Fi in Windows 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/best-practices-when-integrating-chatgpt-into-your-freelance-workflow/"><u>Best Practices When Integrating ChatGPT Into Your Freelance Workflow</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-elite-does-it-pay-off/"><u>ChatGPT Elite: Does It Pay Off?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/cracking-cases-digitally-explore-4-innovative-ai-powered-homicide-challenges/"><u>Cracking Cases Digitally: Explore 4 Innovative AI-Powered Homicide Challenges</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/easily-access-igtv-content-download-guide-for-pcmac-users-for-2024/"><u>Easily Access IGTV Content Download Guide for PC/Mac Users for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hp-printer-compatibility-checker-ensure-your-deskjet-2630-has-the-latest-driver-version/"><u>HP Printer Compatibility Checker - Ensure Your Deskjet 2630 Has the Latest Driver Version</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigate-efficiently-mastering-rtx-ai-for-chatting/"><u>Navigate Efficiently: Mastering RTX AI for Chatting</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/secure-removal-of-drivers-for-printer-devices/"><u>Secure Removal of Drivers for Printer Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723202705525-solving-the-quick-jump-feature-in-windows-11-explore-stop-scroll-bar-rushing-to-top/"><u>Solving the Quick Jump Feature in Windows 11 Explore - Stop Scroll Bar Rushing to Top!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-finest-10-options-beyond-chatgpt-a-comprehensive-guide/"><u>The Finest 10 Options Beyond ChatGPT: A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/tp-link-archer-ax6000-review-better-than-the-nighthawk-ax12/"><u>TP-Link Archer AX6000 Review: Better Than The Nighthawk AX12?</u></a></li>
+</ul></div>
 

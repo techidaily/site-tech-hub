@@ -1,7 +1,7 @@
 ---
 title: Content Intruders Eluding State-of-the-Art AIs
-date: 2024-09-19T22:00:56.743Z
-updated: 2024-09-22T23:29:39.727Z
+date: 2024-10-08T21:34:51.775Z
+updated: 2024-10-09T22:00:05.091Z
 tags:
   - chatgpt
   - open-ai
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/6063dc83bc10f2ac67f5a169d3251f5108aeff047
 
  In reality, the differences can be a bit subtle as they're not immediately noticeable. However, the more you use it, the sooner you realize that GPT-4 has a better chance of providing the correct response on its first attempt. It's also more accurate and doesn't fall victim to AI hallucinations as often.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Image Input
 
 ![ChatGPT Plus image input feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chatgpt-plus-image-input-feature.jpg)
@@ -48,27 +55,20 @@ thumbnail: https://thmb.techidaily.com/6063dc83bc10f2ac67f5a169d3251f5108aeff047
 
  You can also use this picture to understand handwritten documents you've scanned or have a picture of. You can even insert a picture of a spreadsheet and ask ChatGPT to make calculations based on the data it has acquired or suggest improvements to the spreadsheet's layout.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Internet Access
 
 ![Browse with Bing option on ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/browse-with-bing-option-on-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The standard, free version of ChatGPT has a knowledge cutoff from September 2021\. That means it does not have access to any information on events that occurred after that date. However, you can overcome this limitation using the new**Browse with Bing** mode with the GPT-4 model. This means you can access the internet within ChatGPT.
 
  Internet access lets you summarize articles, conduct up-to-date market research, and find recent news stories and papers. ChatGPT can also access a wider dataset and deliver more accurate responses. So, with the $20/month subscription, the knowledge cutoff is no longer a problem.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. DALL·E 3 Art Creation
 
@@ -82,18 +82,25 @@ thumbnail: https://thmb.techidaily.com/6063dc83bc10f2ac67f5a169d3251f5108aeff047
 
 ![​​​​​​​DALL·E 3 book illustrations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/dall-e-3-book-illustrations.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This is how easy it has become to write a story and have beautiful illustrations! Again, if something makes the $20/month ChatGPT Plus subscription seem cheap and extremely valuable, it's definitely the combo of DALL·E 3 and GPT-4.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Plugin Access
 
 ![chatgpt plugins option selection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/chatgpt-plugins-option-selection.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Plugin access gives ChatGPT Plus a level of customization that you won't find with its competitors. These plugins serve as third-party software components that integrate with ChatGPT. While the feature is currently in beta, you can[install plugins from the plugin store](https://www.makeuseof.com/how-install-and-use-chatgpt-plugins/) and pick from over 100 different options.
 
@@ -106,6 +113,13 @@ thumbnail: https://thmb.techidaily.com/6063dc83bc10f2ac67f5a169d3251f5108aeff047
  To enable this feature, click the**Account Settings** button in the bottom-left corner of the screen. Then, go to**Settings & Beta > Beta Features** and toggle the**Advanced data analysis** option. Once the feature is toggled, you can upload the spreadsheet using the**plus sign** button in the left corner of the ChatGPT text field.
 
 ![Advanced data analysis ChatGPT prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/advanced-data-analysis-chatgpt-prompt-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After it's uploaded, you can ask ChatGPT what you'd like it to do with the data, and it will oblige. I uploaded a random CSV and asked it to create visuals.
 
@@ -132,16 +146,10 @@ ChatGPT Plus features two language models—GPT-4 and GPT-3.5.
  A problem with the free version is that it often stops responding, forcing you to regenerate the answers. This happens multiple times throughout a session. You won't have to worry about this with the Plus version. If you rely on ChatGPT for work, upgrading to ChatGPT Plus is a great way to save time waiting for the free version to respond.
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Better Translation Capabilities
@@ -151,16 +159,10 @@ ChatGPT Plus features two language models—GPT-4 and GPT-3.5.
  You also get access to multiple plugins that can help with your language-learning journey. The new Speak plugin is an excellent example of this. It helps you pronounce certain phrases, gives you alternate ways to express the same sentiment, and shows you examples that replicate real-life conversations in any language.
 
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT Plus Is Worth the Upgrade
@@ -182,5 +184,26 @@ ChatGPT Plus features two language models—GPT-4 and GPT-3.5.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-live-streaming-showdown-obs-vs-wirecast-faceoff/"><u>[New] Live Streaming Showdown OBS vs Wirecast Faceoff</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-in-depth-exploration-of-razers-kiyo-cam/"><u>[Updated] 2024 Approved In-Depth Exploration of Razer's Kiyo Cam</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-edit-like-a-pro-with-any-of-these-top-7-free-options-for-2024/"><u>[Updated] Edit Like a Pro with Any of These Top 7 Free Options for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-precise-portrayal-of-pixels-master-netflix-recordings-with-these-6-mac-tactics/"><u>[Updated] In 2024, Precise Portrayal of Pixels Master Netflix Recordings with These 6 Mac Tactics</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-indulge-in-9-holiday-blockbusters-free-online-christmas-viewing/"><u>2024 Approved Indulge in 9 Holiday Blockbusters Free Online Christmas Viewing</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-camera-app-malfunction-in-windows-11/"><u>Addressing Camera App Malfunction in Windows 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bings-smart-ai-search-now-available-for-iphone-and-android-users/"><u>Bing's Smart AI Search Now Available for iPhone & Android Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/delve-into-claude-cutting-edge-ai-for-dynamic-business-growth/"><u>Delve Into Claude: Cutting-Edge AI for Dynamic Business Growth</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-installation-guide-updating-your-surface-docks-driver/"><u>Easy Installation Guide: Updating Your Surface Dock's Driver</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-ai-creation-with-dall-e-in-gpt-4-environments/"><u>Exploring AI Creation with DALL-E in GPT-4 Environments</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-converter-how-to-convert-and-download-4k-video-in-mp4-format/"><u>In 2024, Best Converter How to Convert and Download 4K Video in MP4 Format</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-removing-device-from-apple-id-for-your-iphone-6s-by-drfone-ios/"><u>In 2024, Removing Device From Apple ID For your iPhone 6s</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-dungeon-architects-tools-gpt-generative-ai-in-character-design/"><u>Mastering Dungeon Architects' Tools: GPT, Generative AI in Character Design</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-deploying-browser-based-ai-agents-with-agentgpt-technology/"><u>Mastering the Art of Deploying Browser-Based AI Agents with AgentGPT Technology</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximizing-proposal-impact-with-gpt-3-assistance/"><u>Maximizing Proposal Impact with GPT-3 Assistance</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-ai-tools-for-independent-work-bing-chat-versus-gpt-3-analysis/"><u>Navigating AI Tools for Independent Work: Bing Chat Versus GPT-3 Analysis</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premium-android-photography-alterations-for-2024/"><u>Premium Android Photography Alterations for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionary-russias-development-of-a-new-128-core-processor-for-advanced-supercomputing-capabilities/"><u>Revolutionary Russia's Development of a New 128-Core Processor for Advanced Supercomputing Capabilities</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-power-of-googles-latest-ai-the-palm-2-large-language-breakthrough/"><u>Unveiling the Power of Google’s Latest AI: The PaLM 2 Large Language Breakthrough</u></a></li>
+</ul></div>
 

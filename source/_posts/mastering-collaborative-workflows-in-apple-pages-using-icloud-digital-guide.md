@@ -1,7 +1,7 @@
 ---
 title: Mastering Collaborative Workflows in Apple Pages Using iCloud | Digital Guide
-date: 2024-10-02T19:54:34.806Z
-updated: 2024-10-03T20:15:01.168Z
+date: 2024-10-07T21:23:32.858Z
+updated: 2024-10-09T18:17:55.772Z
 tags:
   - apple
 categories:
@@ -27,13 +27,6 @@ I use Apple Pages when collaborating on fiction with my editor and publisher. No
 
 Let me show you how easy it is to use the Collaboration feature found in Apple Pages. Not only is the app free, but the feature is also built in (so you don't have to install any extra software). 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Requirements
 
 The only things you'll need to make this work are a running instance of MacOS (which includes the iWork office suite), and an [iCloud](https://www.icloud.com/) account. Without an iCloud account, you cannot use the collaboration feature. So, before you continue, make sure you have an iCloud account and can log in to it.
@@ -44,6 +37,13 @@ I'll be demonstrating on a [MacBook Pro](https://apple.sjv.io/c/159047/435031/76
 
 Before you can collaborate on a Pages document, you must first enable iCloud Collaboration. To do that, follow these steps.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Open System Preferences
 
 Open System Preferences by clicking the Apple button in the top left corner of your desktop, and click System Preferences. In the resulting window, click Apple ID > iCloud Drive > Options (**Figure 1**).
@@ -51,13 +51,6 @@ Open System Preferences by clicking the Apple button in the top left corner of y
 **Figure 1**: Access to iCloud Drive options is found here.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Enable Pages for iCloud Drive
 
@@ -67,13 +60,20 @@ In the next window (**Figure 2**), click the check box for Pages and then click 
 
 Image: Jack Wallen
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Enable the Collaboration feature
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Open an Apple Pages document
@@ -85,10 +85,16 @@ The first thing you must do is open the Pages document that will be shared with 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Enable the Collaborate feature
@@ -157,21 +163,18 @@ And that's all there is to collaborating with Apple Pages. This is a great featu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-freezing-your-gameplay-xbox-one-screenshot-essentials/"><u>[New] 2024 Approved Freezing Your Gameplay Xbox One Screenshot Essentials</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-cutting-edge-techniques-for-youtube-thumbnails-made-for-macos/"><u>[New] In 2024, Cutting-Edge Techniques for YouTube Thumbnails, Made for macOS</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-classroom-vids-essential-editing-strategies/"><u>[Updated] In 2024, Classroom Vids Essential Editing Strategies</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-creative-commons-chill-vibes/"><u>[Updated] In 2024, Creative Commons Chill Vibes</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-perfecting-your-presence-skills-to-master-with-logitech-cam/"><u>2024 Approved Perfecting Your Presence Skills to Master with Logitech Cam</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-the-leading-artificial-intelligence-markets-for-prompts/"><u>Discover the Leading Artificial Intelligence Markets for Prompts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/eliminate-your-distractions-with-the-power-of-these-8-essential-chatgpt-phrases/"><u>Eliminate Your Distractions with the Power of These 8 Essential ChatGPT Phrases</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Realme Narzo N53 | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-lava-yuva-2-pro-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Lava Yuva 2 Pro Device</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/intelligent-results-await-how-microsofts-ai-integration-will-redefine-bing-searches/"><u>Intelligent Results Await: How Microsoft's AI Integration Will Redefine Bing Searches</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-through-gpts-input-restrictions/"><u>Navigating Through GPT's Input Restrictions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/one-click-amd-driver-installation-with-automatic-device-identification/"><u>One-Click AMD Driver Installation with Automatic Device Identification</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionizing-dialogue-with-ai-comparing-claude-vs-chatgpt-in-4-key-ways/"><u>Revolutionizing Dialogue with AI: Comparing Claude vs ChatGPT in 4 Key Ways</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/srt-fundamentals-explored-in-detail-and-clarity/"><u>SRT Fundamentals Explored in Detail and Clarity</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-10-strategies-how-chatgpt-can-boost-your-linkedin-job-search/"><u>Top 10 Strategies: How ChatGPT Can Boost Your LinkedIn Job Search</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-secrets-of-predictive-artific/"><u>Unveiling the Secrets of Predictive Artific</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-cutting-edge-techniques-recording-in-adobe-presenter/"><u>[Updated] 2024 Approved Cutting Edge Techniques Recording in Adobe Presenter</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-video-editing-mastery-leveraging-youtube-then-expanding-beyond/"><u>[Updated] In 2024, Video Editing Mastery Leveraging YouTube, Then Expanding Beyond</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-transforming-your-android-into-a-broadcast-hub/"><u>[Updated] Transforming Your Android Into a Broadcast Hub</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-your-iphone-security-game-how-the-latest-ios-8-feature-revamps-messaging-for-life-saving-alerts-zdnet-insights/"><u>Elevate Your iPhone Security Game - How the Latest iOS ^8 Feature Revamps Messaging for Life-Saving Alerts | ZDNET Insights</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-print-to-pdf-feature-for-windows-users-of-both-windows-10-and-11-solutions-uncovered/"><u>Fixing the 'Print to PDF' Feature for Windows Users of Both Windows 10 & 11 - Solutions Uncovered!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/get-your-iphone-15-pro-max-for-only-one-cent-on-amazon-the-surprising-deal-inside/"><u>Get Your iPhone 15 Pro Max for Only One Cent on Amazon – The Surprising Deal Inside</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-adding-4-innovative-ai-features-to-ios-18-could-level-the-playing-field-between-iphone-and-android-users-tech-insights/"><u>How Adding 4 Innovative AI Features to iOS 18 Could Level the Playing Field Between iPhone and Android Users | Tech Insights</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/how-to-activate-and-customize-zooms-virtual-screen-mode/"><u>How to Activate and Customize Zoom's Virtual Screen Mode</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ios-18-release-ultimate-guide-to-downloading-and-compatible-iphone-models-revealed-tech-insights/"><u>IOS 18 Release: Ultimate Guide to Downloading & Compatible iPhone Models Revealed | Tech Insights</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/perfect-your-gaming-capture-console-gameplay-on-a-computer/"><u>Perfect Your Gaming Capture Console Gameplay on a Computer</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/planning-a-trip-with-visionpros-travel-mode-uncover-essential-pre-trip-information-zdnet/"><u>Planning a Trip with VisionPro's Travel Mode? Uncover Essential Pre-Trip Information | ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/story-for-answer-a-incorrect-minimum-clearance-of-12-feet/"><u>Story for Answer A (Incorrect - Minimum Clearance of 12 Feet)</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-free-and-fabulous-the-best-fcpx-plugins-you-need/"><u>Updated 2024 Approved Free and Fabulous The Best FCPX Plugins You Need</u></a></li>
 </ul></div>
 

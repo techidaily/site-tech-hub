@@ -1,7 +1,7 @@
 ---
 title: Unanswerable Enquiries & Boundaries for GPT-3
-date: 2024-09-18T01:34:25.655Z
-updated: 2024-09-22T17:22:54.213Z
+date: 2024-10-04T22:38:21.785Z
+updated: 2024-10-09T19:01:26.114Z
 tags:
   - chatgpt
   - open-ai
@@ -50,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/bb7a936483f9ef78d27c435fd60e8eb11646b876b
 
  The more context you provide your AI tool, the better of a response you'll receive.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2 Ask for More Information After Getting an Initial Answer
 
  As you use tools like ChatGPT more frequently, you'll quickly learn that the first answer you get shouldn't always be taken as is. In the same way that you'd ask a person further questions to get more information out of them, you should do the same when prompting with AI.
@@ -58,17 +65,31 @@ thumbnail: https://thmb.techidaily.com/bb7a936483f9ef78d27c435fd60e8eb11646b876b
 
 ![An itinerary generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-06-24.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  However, I wanted to get further information that wasn't included. So, I asked for hotel recommendations within a customized budget:
 
 ![An expanded answer with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-11-12.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  As a general rule of thumb, ask as many questions as you feel necessary to get all the information you're looking for. You may also want to determine[whether premium AI prompts are worth the money](https://www.makeuseof.com/should-you-buy-ai-prompts/) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3 Explain What Hasn't Worked When You've Prompted in the Past
@@ -91,13 +112,6 @@ thumbnail: https://thmb.techidaily.com/bb7a936483f9ef78d27c435fd60e8eb11646b876b
 
  Once you've received one prompt's results, you can move on to the next one until you're happy with everything. Doing things this way might seem more time-consuming, but[single-tasking often improves productivity](https://www.makeuseof.com/master-single-tasking-using-technology-improve-productivity/) , and it's the same for your AI, too.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5 Tell Your AI Tool What You Don't Want in Your Answer
 
  Do you remember in our first point when we told you to be as specific as possible? This also means you should let your AI tool know what you don't want in your answers. While generative AI can produce some pretty cool results, it can't guess everything for you.
@@ -107,6 +121,13 @@ thumbnail: https://thmb.techidaily.com/bb7a936483f9ef78d27c435fd60e8eb11646b876b
 ![Answer options from ChatGPT, based on what the user did and didn't want ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-38-46.png)
 
  Sometimes, your AI tool will give you multiple options in your answers. You can then choose whichever one works best for you.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6 Upload Images or Files (if Available)
 
@@ -124,13 +145,6 @@ thumbnail: https://thmb.techidaily.com/bb7a936483f9ef78d27c435fd60e8eb11646b876b
 
 ![A LinkedIn post generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-54-04.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  AI prompting takes some time to become competent with, and you'll need to adjust how you type depending on the tool you use and the information you wish to extract. The good news, however, is that you normally only need small tweaks to make your prompts deliver better results. Having read this guide, you should now be in a much better place to prompt more efficiently.
 
 <ins class="adsbygoogle"
@@ -146,5 +160,26 @@ thumbnail: https://thmb.techidaily.com/bb7a936483f9ef78d27c435fd60e8eb11646b876b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-unlocking-the-potential-of-youtube-partnerships-tips-for-successful-collabs/"><u>[New] Unlocking the Potential of YouTube Partnerships Tips for Successful Collabs</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-mastering-screencasts-a-step-by-step-manual-for-2024/"><u>[Updated] Mastering Screencasts A Step-by-Step Manual for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-optimal-quick-image-reader-for-pcs-for-2024/"><u>[Updated] Optimal Quick Image Reader for PCs for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-synapse-your-thoughts-on-mematics-platform/"><u>[Updated] Synapse Your Thoughts on Mematic's Platform</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/achieve-flawless-4k-quality-in-plex-streams-a-step-by-step-tutorial-for-optimal-playback/"><u>Achieve Flawless 4K Quality in Plex Streams: A Step-by-Step Tutorial for Optimal Playback</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/cutting-edge-title-design-in-after-effects-for-2024/"><u>Cutting-Edge Title Design in After Effects for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/dvd-pc/"><u>DVDデジタル化用フリーウェア８案 - PCへの移行方法がわかる</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-conversion-tutorial-how-to-change-m4a-audio-to-mp3-via-google-search-engine-ffmpeg-cmd-line-instructions-included/"><u>Easy Conversion Tutorial: How to Change M4A Audio to MP3 via Google Search Engine - FFmpeg Cmd Line Instructions Included!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-guide-removing-embedded-closed-captions-from-video-files/"><u>Easy Guide: Removing Embedded Closed Captions From Video Files</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-steps-finding-and-downloading-your-favorite-k-pop-tracks/"><u>Easy Steps: Finding & Downloading Your Favorite K-Pop Tracks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-guide-to-changing-dvd-content-into-mov-format-a-step-by-step-tutorial/"><u>Effortless Guide to Changing DVD Content Into MOV Format – A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-installation-of-updated-drivers-for-your-hid-keyboard-device/"><u>Effortless Installation of Updated Drivers for Your HID Keyboard Device</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-strategies-for-flawlessly-reflecting-youtube-vids-a-step-by-step-guide/"><u>Effortless Strategies for Flawlessly Reflecting YouTube Vids – A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortlessly-transform-hevc-footage-a-user-friendly-guide-to-editing-in-adobe-premiere-pro/"><u>Effortlessly Transform HEVC Footage: A User-Friendly Guide to Editing in Adobe Premiere Pro</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/elevate-your-aspects-of-sound-and-sight-in-asmr-recording/"><u>Elevate Your Aspects of Sound and Sight in ASMR Recording</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-infinix-smart-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/maximizing-your-designs-with-free-clip-art/"><u>Maximizing Your Designs with FREE Clip Art</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-the-world-of-gptzero-insights-and-techniques-for-detection-of-artificially-produced-content/"><u>Navigating the World of GPTZero: Insights and Techniques for Detection of Artificially Produced Content</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/44or44k944kz44oz55s76z2i6yyy55s75lin6io944gu55cg55sx44go44oi44op44ow44or44k344ol44o844og44kj44oz44kw/"><u>パソコン画面録画不能の理由とトラブルシューティング</u></a></li>
+</ul></div>
 

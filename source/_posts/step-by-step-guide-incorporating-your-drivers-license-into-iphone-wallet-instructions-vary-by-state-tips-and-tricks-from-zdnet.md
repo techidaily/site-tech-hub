@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Incorporating Your Driver's License Into iPhone Wallet (Instructions Vary by State) - Tips & Tricks From ZDNet"
-date: 2024-09-26T16:05:18.305Z
-updated: 2024-10-03T21:52:21.901Z
+date: 2024-10-07T19:53:07.445Z
+updated: 2024-10-09T19:02:52.103Z
 tags:
   - apple
 categories:
@@ -32,6 +32,13 @@ Jason Hiner/ZDNET
 
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Go to General in your iPhone Settings
 
 Go to your iPhone's Settings and select General. 
@@ -39,13 +46,6 @@ Go to your iPhone's Settings and select General.
 ## 2\. Go to Software Update in Settings
 
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Download and install
 
@@ -58,10 +58,10 @@ Enter your passcode, if necessary, to authorize the installation of the new iOS 
 After installing the latest iOS update, your iPhone will restart.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## FAQs
@@ -75,13 +75,6 @@ Apple Intelligence, featuring the company's AI tools, will begin to roll out for
 Apple released the iOS 18 developer beta during WWDC 2024 in June, and the public beta version was released on July 15\. The general release of iOS 18 is September 16.
 
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Can you still download the iOS 18 public beta?
 
@@ -102,6 +95,13 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 
 Screenshot: Maria Diaz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to download the iOS 18 developer beta?
 
 To download the iOS 18 developer beta version, navigate to your settings to install the iOS 18 developer beta if your device runs iOS 16.4 and is used with an Apple ID enrolled in the Apple Developer Program:
@@ -119,10 +119,16 @@ If you can't see this option, go to your **Settings,** select **Privacy & Securi
 If you aren't already a member of the Apple Developer Program, you can sign up to become one in the app. An annual membership costs $99.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### What is in iOS 18 beta 3?
@@ -169,22 +175,20 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/updated-the-art-of-magnification-in-roblox-worlds/"><u>[Updated] The Art of Magnification in Roblox Worlds</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-quick-start-guide-to-setup-and-use-obs-on-apple-systems/"><u>2024 Approved Quick Start Guide to Setup and Use OBS on Apple Systems</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-time-taken-to-watch-an-example-of-a-20mb-video/"><u>2024 Approved Time Taken to Watch An Example of a 20MB Video</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/boosting-dungeons-and-dragons-adventures-mastering-the-art-of-integrating-chatgpt/"><u>Boosting Dungeons & Dragons Adventures: Mastering the Art of Integrating ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhance-your-hr-routine-with-these-5-innovative-chatgpt-solutions/"><u>Enhance Your HR Routine with These 5 Innovative ChatGPT Solutions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/experience-simplified-communication-the-chrome-enhanced-gpt-tool/"><u>Experience Simplified Communication - The Chrome-Enhanced GPT Tool</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/explore-advanced-techniques-making-a-difference-with-your-captivating-slow-motion-videos-and-photos-for-instagram/"><u>Explore Advanced Techniques Making a Difference with Your Captivating Slow-Motion Videos & Photos for Instagram</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/explore-these-exceptional-alternatives-to-chatgpt-for-seamless-interactions/"><u>Explore These Exceptional Alternatives to ChatGPT for Seamless Interactions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-world-of-chatgpt-unveiling-the-possibilities-with-generative-ai/"><u>Exploring the World of ChatGPT: Unveiling the Possibilities with Generative AI</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Realme GT Neo 5 SE | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-best-no-entry-price-voice-transformation-for-valorant-gamers/"><u>In 2024, Best No-Entry Price Voice Transformation for Valorant Gamers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-increasing-clarity-with-enhanced-youtube-videos/"><u>In 2024, Increasing Clarity with Enhanced YouTube Videos</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-quick-route-to-riches-top-10-youtube-channels-for-startup-success/"><u>In 2024, Quick Route to Riches Top 10 YouTube Channels for Startup Success</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/leveraging-ai-for-routine-mindfulness-engagement/"><u>Leveraging AI for Routine Mindfulness Engagement</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastery-of-hugging-face-comprehending-its-role-in-advancing-natural-language-processing/"><u>Mastery of Hugging Face: Comprehending Its Role in Advancing Natural Language Processing</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-ultimate-fix-guide-for-6-typical-sticker-setup-issues/"><u>The Ultimate Fix Guide for 6 Typical Sticker Setup Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-your-erratic-wireless-mouse-problem-in-windows-11-and-10-a-comprehensive-guide/"><u>Troubleshooting Your Erratic Wireless Mouse Problem in Windows 11 and 10: A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-elegant-architecture-top-6-sleek-mc-houses/"><u>[New] In 2024, Elegant Architecture Top 6 Sleek MC Houses</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-speedy-instagram-media-consumption-strategies-for-2024/"><u>[New] Speedy Instagram Media Consumption Strategies for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-select-selections-ideal-pages-for-acquiring-snapalert-tunes/"><u>2024 Approved Select Selections Ideal Pages for Acquiring SnapAlert Tunes</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/boosting-views-a-guide-for-tiktok-unboxing-gurus/"><u>Boosting Views A Guide for TikTok Unboxing Gurus</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancing-lg-television-experience-with-exclusive-sound-improvements-a-match-made-in-heaven-for-apple-lovers-insights-from-zdnet/"><u>Enhancing LG Television Experience with Exclusive Sound Improvements: A Match Made in Heaven for Apple Lovers! - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/expert-picks-for-the-ultimate-selection-of-stylus-tablets-zdnets-thorough-analysis-and-ratings/"><u>Expert Picks for the Ultimate Selection of Stylus Tablets | ZDNET's Thorough Analysis and Ratings</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-honor-magic-5-lite-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Honor Magic 5 Lite FRP</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-iphones-audio-advantages-for-podcast-lovers/"><u>In 2024, IPhone's Audio Advantages for Podcast Lovers</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-protecting-your-privacy-how-to-remove-apple-id-from-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, Protecting Your Privacy How To Remove Apple ID From Apple iPhone XS Max</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-chromatic-chameleons-playbook-for-masters/"><u>In 2024, The Chromatic Chameleon's Playbook for Masters</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/spatial-realities-compared-the-meta-and-omni-experience/"><u>Spatial Realities Compared The Meta and Omni Experience</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/titan-face-off-in-depth-comparison-of-the-samsung-galaxy-watch-ultra-and-apple-watch-ultra-find-out-which-suits-you-best/"><u>Titan Face-Off: In-Depth Comparison of the Samsung Galaxy Watch Ultra and Apple Watch Ultra – Find Out Which Suits You Best!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-18-unbeatable-prime-day-blowout-specials-on-laptops-from-popular-brands-like-hp-apple-and-razer-shop-now/"><u>Top 18 Unbeatable Prime Day Blowout Specials on Laptops From Popular Brands Like HP, Apple & Razer - Shop Now!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-notetakers-comprehensive-reviews-and-comparisons-techradar/"><u>Top Rated Notetakers - Comprehensive Reviews & Comparisons | TechRadar</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-guide-to-choosing-the-finest-small-tablets-of-2024-as-tested-by-tech-gurus-insights-from-zdnet/"><u>Ultimate Guide to Choosing the Finest Small Tablets of 2024, as Tested by Tech Gurus | Insights From ZDNET</u></a></li>
 </ul></div>
 

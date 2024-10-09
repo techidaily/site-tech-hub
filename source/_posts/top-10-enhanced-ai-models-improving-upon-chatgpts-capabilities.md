@@ -1,7 +1,7 @@
 ---
 title: Top 10 Enhanced AI Models Improving Upon ChatGPT's Capabilities
-date: 2024-09-15T22:31:08.592Z
-updated: 2024-09-23T01:52:05.516Z
+date: 2024-10-04T19:40:08.275Z
+updated: 2024-10-09T18:04:32.436Z
 tags:
   - chatgpt
   - open-ai
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/ad5f66753b5e5db396a2d95dd125beb1ea4eecb0f
 
  OpenAI's early May 2024 ChatGPT update was enormous, bringing heaps of new features to the world's leading generative AI chatbot. Most of the improvements center around enhancing user interaction, new functionalities, and improving overall performance, and there are heaps of reasons why you should give them a try.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Image Input and Output Capabilities
 
  ChatGPT is now capable of taking images as input and generating images as output! The new image input capability allows users to upload images directly into their chat interactions with ChatGPT. This feature expands the ways users can seek help and share information, making it possible to discuss visual content seamlessly.
@@ -43,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/ad5f66753b5e5db396a2d95dd125beb1ea4eecb0f
  In this example, I asked ChatGPT for recipes for the items visible in the fridge.
 
 ![Asking ChatGPT to identify and make recipes for ingredients based on an image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/asking-chatgpt-for-recipes.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  It gave me some pretty accurate results in identifying items in the fridge and giving recipes I could make using the ingredients identified.
 
@@ -52,16 +66,16 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 ![Asking ChatGPT to generate an image using text description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-16-161949.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  As you can see, ChatGPT provides some promising results, providing an image plus a description of the image. However, it still seems like you'll need to use[third-party solutions to save the image in JPG or PNG](https://www.makeuseof.com/how-convert-dalle-3-webp-images-jpg-or-png/) , since there isn't a way to save the image beside WebP.
 
  ChatGPT Plus users were immediately given access to the new features using OpenAI's new ChatGPT-4o (Omnimodal) model. Free-tier users will also have access to these features but with limited usage.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Expanded Knowledge Base and Cross-Chat Memory
 
@@ -76,13 +90,6 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
  ChatGPT provided sound advice by browsing the web for the weather and reviewing its memory of my schedule. It even gave me a list of activities I could do instead based on my past interactions with ChatGPT.
 
  The browsing capability feature is now available for both Plus and Free tier users, while ChatGPT Memory is only available to Plus users.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Multi-Modal Voice and Video Interactions
 
@@ -106,16 +113,16 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
  OpenAI's demonstrations also showed live code debugging using voice commands, which is another enormous upgrade for ChatGPT. Instead of having to type commands and work bit by bit, live interactions with your code could speed up the process.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Temporary Chat
 
 ![ChatGPT's new temporary chat feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-s-temporary-chat-feature.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The new Temporary Chat feature in ChatGPT-4o is ideal for privacy-conscious users and those seeking quick interactions with ChatGPT. This feature enables users to engage in a temporary chat with ChatGPT without the conversation being saved in history or used by OpenAI to train their models.
 
@@ -136,5 +143,20 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-distinctive-shadowing-via-outer-radial-fuzz-on-pics-cs/"><u>[New] 2024 Approved Distinctive Shadowing via Outer Radial Fuzz on Pics CS</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-innovative-video-strategies-navigating-the-top-20-fb-marketing-tactics/"><u>[New] Innovative Video Strategies Navigating the Top 20 FB Marketing Tactics</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/dvdusb/"><u>動画を取り出せるフリーソフトウェアベスト３: DVDからUSB移行手順</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/best-top-10-free-photography-libraries-offering-premium-quality-images/"><u>Best Top 10 Free Photography Libraries Offering Premium-Quality Images</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/converting-between-ogg-and-mp3-formats-with-audacity-a-comprehensive-guide/"><u>Converting Between Ogg & MP3 Formats with Audacity: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/covertly-capturing-screenshots-on-snapchat-top-strategies-and-techniques/"><u>Covertly Capturing Screenshots on Snapchat: Top Strategies and Techniques</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/discover-the-leading-microsoft-office-substitutes-of-2er-2024-expert-reviews-inside/"><u>Discover the Leading Microsoft Office Substitutes of 2Er 2024 – Expert Reviews Inside!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-and-speedy-mass-transformation-of-mkv-videos-into-mp4/"><u>Easy & Speedy Mass Transformation of MKV Videos Into MP4</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/harmonizing-messages-whatsapps-audio-update/"><u>Harmonizing Messages WhatsApp's Audio Update</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-from-apple-iphone-12-pro-max-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account From Apple iPhone 12 Pro Max?</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-seeking-solutions-why-no-facebook-videos-pop-up/"><u>In 2024, Seeking Solutions Why No Facebook Videos Pop Up?</u></a></li>
+<li><a href="https://win11.techidaily.com/record-netflix-tv-episodes-easily-a-comprehensive-tutorial-for-pc-users/"><u>Record Netflix TV Episodes Easily: A Comprehensive Tutorial for PC Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/skatterbenchers-innovative-project-crafting-next-gen-telemetry-tools-for-raspberry-pi-systems/"><u>SkatterBencher's Innovative Project: Crafting Next-Gen Telemetry Tools for Raspberry Pi Systems</u></a></li>
+</ul></div>
 

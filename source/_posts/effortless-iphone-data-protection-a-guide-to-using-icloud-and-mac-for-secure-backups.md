@@ -1,7 +1,7 @@
 ---
 title: "Effortless iPhone Data Protection: A Guide to Using iCloud and Mac for Secure Backups"
-date: 2024-10-01T11:34:41.723Z
-updated: 2024-10-03T19:02:00.290Z
+date: 2024-10-06T17:59:29.798Z
+updated: 2024-10-09T22:17:25.444Z
 tags:
   - apple
 categories:
@@ -31,10 +31,16 @@ Image: Maria Diaz / ZDNet
 This option gives you access to your Apple ID, iCloud, and Purchases settings. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 2: Tap on iCloud
@@ -45,13 +51,6 @@ Image: Maria Diaz / ZDNet
 
 Image: Maria Diaz / ZDNet
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 4: Enable iCloud Backup and select Back up Now
 
 Image: Maria Diaz / ZDNet
@@ -61,6 +60,13 @@ Tap on the toggle to enable iCloud backups, and **Back Up Now** will appear, sel
 5GB is not enough for a lot of us, especially if you've never backed up your iPhone. But you can choose what gets backed up to reduce the amount of data to upload to iCloud or buy more storage. If you're still over the limit and don't want to pay for a membership, then you can back up to a computer.
 
 ## Here's how to back up your iPhone on a Mac
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 1: Connect your iPhone to the computer
 
@@ -73,16 +79,10 @@ Image: Maria Diaz / ZDNet
 Gone are the days when iTunes was the go-to to get data out of your iPhone. Open **Finder** to view your iPhone in **Locations,** and there will be a snapshot of the current storage information, current iOS and any updates, and backup options.
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 3: Select Back up to this Mac and click on Back Up Now
@@ -104,22 +104,16 @@ Here are the [different plans iCloud offers](https://apple.sjv.io/c/159047/43503
 * iCloud+: 200GB of storage $2.99
 * iCloud+: 2TB of storage $9.99
 
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Is it better to back up iPhone on a computer or iCloud?
 
 Both options have their pros and cons, but I personally prefer a cloud service backup. I like having my photos and videos easily accessible through an app on my phone without occupying storage space. This beats having to get into a computer to find an old photo every time I want one. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I need to back up iPhone apps?
 
@@ -161,18 +155,17 @@ There are a lot of cloud options, but it's important to make sure you're giving 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-mastering-the-steps-to-shut-down-your-linkdnug-account/"><u>[New] Mastering the Steps to Shut Down Your LinkDnug Account</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-perfecting-obs-output-common-fixes-explored-for-2024/"><u>[New] Perfecting OBS Output Common Fixes Explored for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-next-gen-vr-accessories-your-must-have-guide/"><u>[Updated] 2024 Approved Next-Gen VR Accessories Your Must-Have Guide</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-top-10-action-cameras-for-surfing-2023-update/"><u>[Updated] Top 10 Action Cameras for Surfing -2023 Update</u></a></li>
-<li><a href="https://howto.techidaily.com/app-wont-open-on-your-google-pixel-8-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Google Pixel 8? Here Are All Fixes | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-and-privacy-concerns-what-you-need-to-know/"><u>ChatGPT and Privacy Concerns – What You Need to Know</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-peak-of-intelligence-between-gemini-elite-and-gptplusplus/"><u>Exploring the Peak of Intelligence: Between Gemini Elite & GPT++</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-zte-nubia-z60-ultra-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your ZTE Nubia Z60 Ultra</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-ai-prompt-crafting-careers-what-prospects-lie-ahead/"><u>Navigating AI Prompt Crafting Careers - What Prospects Lie Ahead?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/seamless-file-interaction-discover-these-6-gpt-apps/"><u>Seamless File Interaction: Discover These 6 GPT Apps</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-5-ai-powered-techniques-with-chatgpt-for-streamlining-routine-human-resources-operations/"><u>Top 5 AI-Powered Techniques with ChatGPT for Streamlining Routine Human Resources Operations</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unleash-the-potential-of-automated-writing-discover-how-hixai-and-gpt-4-can-elevate-your-workflow/"><u>Unleash the Potential of Automated Writing: Discover How HixAI and GPT-4 Can Elevate Your Workflow</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unmatched-fast-picture-viewer-experience/"><u>Unmatched Fast Picture Viewer Experience</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-streamlined-methods-for-iphone-screen-recordings/"><u>[New] In 2024, Streamlined Methods for iPhone Screen Recordings</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-targeted-approach-carving-out-your-space-on-youtube/"><u>[Updated] Targeted Approach Carving Out Your Space on YouTube</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/boost-your-productivity-a-complete-guide-to-using-flash-fill-and-autofill-features-in-excel/"><u>Boost Your Productivity: A Complete Guide to Using Flash Fill & Autofill Features in Excel</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-nubia-red-magic-8s-pro-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Nubia Red Magic 8S Pro without App | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Vivo Y78t? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-on-your-apple-iphone-13-mini-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card on Your Apple iPhone 13 mini Apple ID and Apple Pay</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-70-lite-5g-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Honor 70 Lite 5G Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-chatgpt-a-guide-to-the-five-most-effective-user-commands/"><u>Mastering ChatGPT: A Guide to the Five Most Effective User Commands</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/seeking-access-to-all-mutually-shared-media-in-chats/"><u>Seeking Access to All Mutually-Shared Media in Chats</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-power-of-language-ai-palm-2-and-gpt-4-faceoff/"><u>The Power of Language AI: PaLM 2 and GPT-4 Faceoff</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transform-your-windows-computer-with-an-easy-to-install-free-clone-of-the-latest-ai-conversationalist-gpt4all/"><u>Transform Your Windows Computer with an Easy-to-Install Free Clone of the Latest AI Conversationalist, GPT4All!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-the-potential-of-8-alternative-chatgpt-jobs-do-they-really-boost-your-income/"><u>Unlocking the Potential of 8 Alternative ChatGPT Jobs: Do They Really Boost Your Income?</u></a></li>
 </ul></div>
 

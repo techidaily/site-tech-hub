@@ -1,7 +1,7 @@
 ---
 title: "Initially Hesitant, Now Impressed: The Top 3 Apple Watch Series 10 Innovations That Secured My Approval | ZDNet"
-date: 2024-10-02T03:24:21.181Z
-updated: 2024-10-04T01:52:48.216Z
+date: 2024-10-05T16:58:16.575Z
+updated: 2024-10-09T22:00:33.747Z
 tags:
   - apple
 categories:
@@ -41,10 +41,10 @@ Apple's entry-level iPhone models received new upgrades like a Dynamic Island di
 [PREORDER NOW Apple Store The iPhone 15 and iPhone 15 Plus are available for preorder now, starting at $799 and $899, respectively. On the Apple Store, you can also get up to $800 off on a new iPhone 15 or iPhone 15 Plus when you trade in an iPhone 11 or newer model. View at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)[PREORDER NOW Best Buy Preorder for the iPhone 15 and iPhone 15 Plus starts Friday, September 15, at Best Buy. View at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-iphone-15-128gb-blue-verizon%2F6418073.p%3FskuId%3D6418073&publisher_slug=itechdaily19598&exclusive=1)[PREORDER NOW Verizon New or existing Verizon customers adding a new line on the Unlimited Ultimate plan can get up to $1,000 off the new iPhone 15 line-up when you trade in any old iPhone in any condition. If you are already a Verizon customer and are looking to upgrade, you can get up to $830 off the iPhone 15 line-up with select trade-in and select Unlimited plans. View at Verizon](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.verizon.com/wireless-devices/smartphones/apple-iphone-15-announcement)[PREORDER NOW AT&T At AT&T, both new and existing customers can get the new iPhone 15 through the carrier, as long as they have an eligible trade-in. View at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/browse/apple/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iPhone 15 Pro and iPhone 15 Pro Max
@@ -68,10 +68,16 @@ The new [Apple Watch Series 9](https://www.zdnet.com/article/apple-watch-series-
 [PREORDER NOW Apple Store The Apple Watch Series 9 is available to preorder now and will be available officially on Friday, September 22\. Pricing starts at $399. View at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)[PREORDER NOW Best Buy Preorder for the Apple Watch Series 9 starts Friday, September 15, at Best Buy. View at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-watch-series9-gps-45mm-pink-aluminum-case-with-light-pink-sport-band-s-m-pink%2F6340289.p%3FskuId%3D6340289&publisher_slug=itechdaily19598&exclusive=1)[PREORDER NOW Verizon At Verizon, you can get the new Apple Watch Series 9 for less than $6 a month when you purchase select iPhones (with qualified watch trade-in). View at Verizon](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.verizon.com/wireless-devices/smart-watches/apple-watch-series-9-announcement/)[PREORDER NOW AT&T AT&T is offering a sort of "Buy one, get one free" deal for all Apple Watches. When you buy an Apple Watch Series 9, you can get the second one for $300 off. View at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/wearables/browse/apple/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apple Watch Ultra 2
@@ -85,19 +91,19 @@ Apple announced the [Apple Watch Ultra](https://www.zdnet.com/article/apple-watc
 [PREORDER NOW Apple Store The Apple Watch Ultra 2 is available to preorder now, and will be officially available on Friday, September 22\. It starts at $799. View at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch-ultra&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)[PREORDER NOW Best Buy Preorder for the Apple Watch Ultra 2 starts Friday, September 15, at Best Buy. View at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-watch-ultra-2-gps-cellular-49mm-titanium-case-with-orange-beige-trail-loop-m-l-titanium%2F6560077.p%3FskuId%3D6560077&publisher_slug=itechdaily19598&exclusive=1)[PREORDER NOW Verizon At Verizon, you can get the new Apple Watch Ultra 2 for $14 a month when you purchase select iPhones (with qualified watch trade-in). View at Verizon](https://www.tkqlhce.com/click-9041660-15498661-1682437093000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### PREORDER NOW
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AT&T
@@ -146,16 +152,21 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-a-user-friendly-guide-to-leveraging-windows-10-and-zoom/"><u>[New] A User-Friendly Guide to Leveraging Windows 10 and Zoom</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-revolutionize-your-social-media-game-personalizing-twitter-video-images/"><u>[New] Revolutionize Your Social Media Game Personalizing Twitter Video Images</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-sky-high-tech-talk-the-mavic-pro-showcase/"><u>[New] Sky High Tech Talk The Mavic Pro Showcase</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/apples-m4-mac-mini-countdown-projected-price-points-launch-date-speculations-and-hardware-specs-breakdown/"><u>Apple's M4 Mac Mini Countdown: Projected Price Points, Launch Date Speculations & Hardware Specs Breakdown</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-the-top-6-benefits-how-snapchats-my-ai-transforms-beyond-a-trendy-gadget/"><u>Discover the Top 6 Benefits: How Snapchat’s My AI Transforms Beyond a Trendy Gadget</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/evaluating-the-trustworthiness-of-ai-assistants-in-providing-sound-financial-advice-the-case-of-chatgpt-and-bard/"><u>Evaluating the Trustworthiness of AI Assistants in Providing Sound Financial Advice: The Case of ChatGPT & Bard</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/from-chat-to-automation-discovering-how-auto-gpt-stands-out/"><u>From Chat to Automation: Discovering How Auto-GPT Stands Out</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/in-2024-country-soundscapes-to-soothe-your-soul-tiktok-edition/"><u>In 2024, Country Soundscapes to Soothe Your Soul (TikTok Edition)</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-google-pixel-8-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Google Pixel 8 Phone Now with These Tips</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-search-of-perfect-sound-top-10-podcast-microphones-for-2024/"><u>In Search of Perfect Sound Top 10 Podcast Microphones for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-the-potential-of-claude-everything-you-need-to-know-about-its-applications/"><u>Mastering the Potential of Claude: Everything You Need to Know About Its Applications</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-old-memories-new-snaps-utilizing-snapchats-camera-roll/"><u>[New] 2024 Approved Old Memories, New Snaps Utilizing Snapchat’s Camera Roll</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-synergy-of-social-media-embedding-linktree-in-your-tiktok-bio/"><u>[Updated] Synergy of Social Media Embedding Linktree in Your TikTok Bio</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/4-ways-to-unlock-apple-iphone-7-plus-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>4 Ways to Unlock Apple iPhone 7 Plus to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-deep-dive-into-the-prevailing-challenges-of-openais-chatgpt-technology/"><u>A Deep Dive Into the Prevailing Challenges of OpenAI's ChatGPT Technology</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/are-these-8-chatgpt-ventures-real-cash-magnets-or-just-hype/"><u>Are These 8 ChatGPT Ventures Real Cash Magnets or Just Hype?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bard-vs-chatgpt-vs-offline-alpaca-the-ultimate-language-model-showdown/"><u>Bard Vs. ChatGPT Vs. Offline Alpaca: The Ultimate Language Model Showdown</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722156253483-discover-7-outstanding-chrome-plugins-to-elevate-your-chatgpt-experience-online/"><u>Discover 7 Outstanding Chrome Plugins to Elevate Your ChatGPT Experience Online</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/driven-by-cookiebot-optimizing-your-sites-visibility/"><u>Driven by Cookiebot: Optimizing Your Site's Visibility</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725288779762-flacmp3/"><u>FLACからMP3へ自由に変換!【ベストツールとその特性、使用法を解説】</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-vivo-y100-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Vivo Y100 5G Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-creating-share-worthy-memes-on-9gag/"><u>In 2024, The Ultimate Guide to Creating Share-Worthy Memes on 9GAG</u></a></li>
+<li><a href="https://driver-install.techidaily.com/tackle-drivers-causing-print-queue-build-up-in-win10/"><u>Tackle Drivers Causing Print Queue Build-Up in Win10</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-rated-ipad-offers-just-in-time-grab-yours-today/"><u>Top-Rated iPad Offers Just in Time: Grab Yours Today</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/voicing-the-future-of-conversational-ai-openai-empowers-chatgpt-to-reply-audibly/"><u>Voicing the Future of Conversational AI: OpenAI Empowers ChatGPT to Reply Audibly</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/what-is-gptbot-and-how-did-websites-react-by-blocking-it/"><u>What Is GPTBot and How Did Websites React by Blocking It?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-teachers-can-benefit-from-ai-integration-unveiling-the-8-reasons-for-optimism-not-fear/"><u>Why Teachers Can Benefit From AI Integration - Unveiling the 8 Reasons for Optimism, Not Fear</u></a></li>
 </ul></div>
 

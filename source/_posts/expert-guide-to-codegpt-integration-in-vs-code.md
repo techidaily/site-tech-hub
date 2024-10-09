@@ -1,7 +1,7 @@
 ---
 title: Expert Guide to CodeGPT Integration in VS Code
-date: 2024-09-22T00:08:37.411Z
-updated: 2024-09-22T23:47:55.439Z
+date: 2024-10-06T17:52:06.468Z
+updated: 2024-10-09T18:33:33.626Z
 tags:
   - chatgpt
   - open-ai
@@ -42,6 +42,13 @@ False news can be categorized into three types:
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Generating Fake Content Online
 
  Creating fake content using generative AI is a common strategy employed by those who spread false news. They use popular generative AI tools like ChatGPT, DALL-E, Bard, Midjourney, and others to produce various types of content. For example,[ChatGPT can help content creators in many ways](https://www.makeuseof.com/how-chatgpt-can-help-content-creators/) . But it can also generate social media posts or news articles that may deceive people.
@@ -55,10 +62,10 @@ Here's the fictitious article that ChatGPT came up with:
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Using Chatbots to Influence People's Opinions
@@ -89,10 +96,10 @@ Here's the fictitious article that ChatGPT came up with:
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by[The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Spot AI-Spread Disinformation
@@ -105,6 +112,13 @@ Here's the fictitious article that ChatGPT came up with:
 4. Use fact-checking websites to verify the accuracy of information.
 
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Beware of Disinformation Spread by AI
 
@@ -125,5 +139,22 @@ Here's the fictitious article that ChatGPT came up with:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-zero-dollar-mp3-recorders-skype-call-edition/"><u>[New] In 2024, Zero Dollar MP3 Recorders Skype Call Edition</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-perfecting-music-in-instagram-videos-and-stories-for-2024/"><u>[New] Perfecting Music in Instagram Videos & Stories for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-nokia-105-classic-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Nokia 105 Classic FRP</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-the-contrast-how-does-nlp-differ-from-machine-learning/"><u>Decoding the Contrast: How Does NLP Differ From Machine Learning?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effective-strategies-for-implementing-chatgpt-in-cbt-practices/"><u>Effective Strategies for Implementing ChatGPT in CBT Practices</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancing-business-strategies-with-chatgpt-insights-and-ideas/"><u>Enhancing Business Strategies with ChatGPT Insights and Ideas</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-motorola-razr-40-ultra-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Motorola Razr 40 Ultra Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-honor-play-7t-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Honor Play 7T to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-gionee-f3-pro-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Gionee F3 Pro to Another | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-gpt-3-enabling-web-browser-and-plugin-beta/"><u>Mastering GPT-3: Enabling Web Browser & Plugin Beta</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-gateway-to-textual-ingenuity-with-openai-apis/"><u>The Gateway to Textual Ingenuity with OpenAI APIs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-enhancements-streamlining-the-chatgpt-plugin-directory/"><u>Top Enhancements: Streamlining the ChatGPT Plugin Directory</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/turn-your-mobile-into-a-professional-webcam-for-video-for-2024/"><u>Turn Your Mobile Into a Professional Webcam for Video for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-how-to-add-effects-in-3-steps-do-with-fcp-x-for-2024/"><u>Updated How To Add Effects in 3 Steps? Do with FCP X for 2024</u></a></li>
+</ul></div>
 

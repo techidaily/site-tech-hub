@@ -1,7 +1,7 @@
 ---
 title: The ChatGPT Guidebook for Freelance Writers Seeking Success
-date: 2024-09-19T01:50:03.769Z
-updated: 2024-09-23T00:36:40.549Z
+date: 2024-10-02T21:42:41.195Z
+updated: 2024-10-09T18:30:55.133Z
 tags:
   - chatgpt
   - open-ai
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/d26b018bfd09d9f7c63fd1187a4536965f1d2b0de
 
  Learn how to create better AI-generated images in DALL-E 3 with this tried-and-tested list of prompts. You can use these prompts in numerous scenarios and play around with your own ideas and variations for optimal results. Let’s walk through the examples I’ve created.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1 A Poster of Your Favorite Place
 
  There are many[websites to find unique art for your home](https://www.makeuseof.com/best-sites-find-unique-art/) , but creating one in DALL-E3 is easier and more personal. One prompt you can try is asking the platform to generate a poster of your favorite place.
@@ -57,13 +64,6 @@ I asked DALL-E 3:
 
 ![DALL-E 3 Calendar Cover](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-calendar.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3 A Birthday Card Cover
 
  Will a loved one be celebrating their special day soon? Consider using AI to generate the image for a birthday card cover. I entered the following prompt:
@@ -84,16 +84,16 @@ Okay, so that didn’t go to plan…
 
 ![DALL-E 3 Birthday Card Error in Text and Design](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-birthday-card-error.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You have to be very specific with your prompts. I was relatively happy with the final result (below), but my prior prompts were perhaps too vague. I did, however, explicitly tell DALL-E 3 to correct the spelling.
 
 ![DALL-E 3 Birthday Card Cover](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-birthday-card.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4 Desktop Wallpapers
 
@@ -106,16 +106,16 @@ Okay, so that didn’t go to plan…
 ![A Desktop Background Created in DALL-E 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-desktop-background.jpeg)
 
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5 Smartphone Wallpapers
@@ -130,13 +130,6 @@ So, I tried a different prompt:
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6 Music Album Covers
 
  You can find several[websites to sell your own music](https://www.makeuseof.com/tag/great-sites-to-sell-your-own-music-on/) , and a visually appealing album cover is paramount to standing out and getting recognized.
@@ -150,10 +143,10 @@ Close
 ![DALL-E 3 AI Art Cover in Square Format](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-ai-art-cover.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7 Social Media Cover Banners
@@ -167,6 +160,20 @@ I used the following prompt:
  You can customize the above prompt for any landmark or genre that interests you. Below is the result I got with just one prompt. I was happy with this, and it was a much smoother process than some of the other attempts in this article.
 
 ![A social media banner image generated with DALL-E 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-social-media-banner.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8 Photo Album Covers
 
@@ -197,5 +204,22 @@ Below is a prompt I tried for a photo album cover:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/updated-direct-stream-from-fb-to-whatsapp-group-chat-for-2024/"><u>[Updated] Direct Stream From FB to WhatsApp Group Chat for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-brilliant-question-bank-to-entice-audio-enthusiasts/"><u>2024 Approved Brilliant Question Bank to Entice Audio Enthusiasts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-and-google-bard-head-to-head-determining-the-superior-conversational-ai/"><u>ChatGPT and Google Bard Head-to-Head: Determining the Superior Conversational AI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-professional-efficiency-discover-7-ways-to-use-chatgpt-for-enhanced-productivity-at-work/"><u>Elevate Professional Efficiency: Discover 7 Ways to Use ChatGPT for Enhanced Productivity at Work</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/emotion-artificeintelligence-explored-can-it-authentically-comprehend-our-emotions/"><u>Emotion ArtificeIntelligence Explored – Can It Authentically Comprehend Our Emotions?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-word-chatgpt-powered-doc-automation/"><u>Mastering Word: ChatGPT-Powered Doc Automation</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-git-branches-using-github-desktop-in-win-11/"><u>Navigating Git Branches Using GitHub Desktop in Win 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/protecting-conversations-a-deep-dive-into-neural-network-model-inversion-vulnerabilities-in-chatbots/"><u>Protecting Conversations: A Deep Dive Into Neural Network Model Inversion Vulnerabilities in Chatbots</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-solution-resolve-your-presonus-audiobox-usb-drivers-with-simple-steps/"><u>Quick Solution: Resolve Your Presonus AudioBox USB Drivers with Simple Steps!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/start-today-engage-with-8-individualized-gpt-services/"><u>Start Today: Engage with 8 Individualized GPT Services</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/step-by-step-guide-capturing-your-world-of-warcraft-adventures-on-windows/"><u>Step-by-Step Guide: Capturing Your World of Warcraft Adventures on Windows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/streamlining-document-production-using-chatgpt-with-microsoft-word/"><u>Streamlining Document Production: Using ChatGPT with Microsoft Word</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-rise-of-accessible-sound-uncover-the-potential-of-beats-new-earbuds-as-the-ultimate-sub-1easy-to-use-alternative-to-airpods-zdnet/"><u>The Rise of Accessible Sound: Uncover the Potential of Beats' New Earbuds as the Ultimate Sub-$1easy-to-Use Alternative to AirPods | ZDNET</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-itel-s23plus-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Itel S23+? | Dr.fone</u></a></li>
+</ul></div>
 

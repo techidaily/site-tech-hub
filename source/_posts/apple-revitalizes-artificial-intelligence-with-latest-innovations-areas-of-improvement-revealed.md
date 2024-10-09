@@ -1,7 +1,7 @@
 ---
 title: Apple Revitalizes Artificial Intelligence with Latest Innovations – Areas of Improvement Revealed
-date: 2024-09-26T20:45:49.319Z
-updated: 2024-10-03T22:15:11.096Z
+date: 2024-10-04T16:31:36.911Z
+updated: 2024-10-09T19:18:39.441Z
 tags:
   - apple
 categories:
@@ -29,6 +29,13 @@ In a [previous article](https://www.zdnet.com/article/6-ways-apple-can-leapfrog-
 >
 
 ## What Apple Intelligence will bring to the company's operating system platforms
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### AI on the device and in the cloud
 
@@ -61,10 +68,16 @@ Apple has dipped its toes into [ChatGPT](https://www.zdnet.com/article/what-is-c
 **Room for improvement:** While Apple's intention to be LLM-agnostic is a positive sign for the company's AI strategy, I had hoped for a broader embrace of third-party platforms, particularly health, finance, and education, with AI integration. However, this shift will have to come with developers embracing the new [SiriKit, App Intents, Core ML, Create ML, and other APIs](https://www.zdnet.com/article/apple-coders-rejoice-your-programming-tools-just-got-a-big-free-ai-boost/). Deeper integration with specialized AI providers could significantly enhance Apple Intelligence's functionality and versatility.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Smart notifications and writing tools
@@ -82,10 +95,10 @@ Apple has opened up a world of creative possibilities by integrating the [Image 
 **Room for improvement:** Providing more granular controls and customization options for the generated images and Genmojis, such as fine-tuning styles and attributes, could cater to more specific user preferences. Additionally, implementing features that suggest image enhancements or emoji creations based on user activity and context could further streamline the creative process.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Enhanced Siri and task automation
@@ -101,13 +114,6 @@ The new Reduce Interruptions feature ensures that only the most important notifi
 Apple Intelligence also performs actions within apps on behalf of the user. It can open Photos and show images of specific groups based on a request. In Mail, priority messages are highlighted with summaries for quick insight. Notes users can record, transcribe, and summarize audio, creating summary transcripts of calls with automatic notifications to participants.
 
 **Room for improvement:** While Apple has made significant progress, future updates could further enhance Siri's capabilities, automate more complex tasks, and provide deeper personalization across the Apple ecosystem.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### AI capabilities across Apple products
 
@@ -142,10 +148,10 @@ Finally, the new Translation API will be unveiled. It will help developers build
 By equipping developers with these resources, Apple is ensuring that the potential of Apple Intelligence can be fully realized across its ecosystem, driving innovation and enhancing user experiences.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Did Apple go far enough with AI improvements?
@@ -188,17 +194,24 @@ Addressing the remaining gaps could enhance Apple's competitive position in the 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-step-by-step-setup-preparing-your-home-vr-space/"><u>[New] 2024 Approved Step-by-Step Setup Preparing Your Home VR Space</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/choosing-between-claude-and-chatgpt-identifying-the-most-effective-ai-for-routine-activities/"><u>Choosing Between Claude and ChatGPT: Identifying the Most Effective AI for Routine Activities</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/cracking-linguistic-codes-comparing-gpt-with-bert-models/"><u>Cracking Linguistic Codes: Comparing GPT with BERT Models</u></a></li>
-<li><a href="https://win-blog.techidaily.com/deep-dive-into-the-features-of-asus-rog-gt-ac5300-a-game-changer-in-high-speed-networking/"><u>Deep Dive Into the Features of Asus ROG GT-AC5300: A Game Changer in High-Speed Networking</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/excel-vs-chatgpt-top-3-excel-functions-unmatched-by-ai/"><u>Excel Vs. ChatGPT: Top 3 Excel Functions Unmatched by AI</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expert-review-the-finest-big-screen-laptops-of-2024-17-inches/"><u>Expert Review: The Finest Big-Screen Laptops of 2024 (17 Inches)</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-iphone-x-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iPhone X Blacklist Removal Tips and Tools</u></a></li>
-<li><a href="https://blog-min.techidaily.com/ios-17-mastery-unveiling-the-secrets-of-the-latest-file-management-features-on-your-iphoneipad/"><u>IOS 17 Mastery: Unveiling the Secrets of the Latest File Management Features on Your iPhone/iPad</u></a></li>
-<li><a href="https://network-issues.techidaily.com/screen-flicker-no-more/"><u>Screen Flicker, No More</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-5-myths-bypassing-gpt-in-digital-coin-studies/"><u>Top 5 Myths: Bypassing GPT in Digital Coin Studies</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-nokia-c12-pro-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Nokia C12 Pro Auto Does Not Work | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/zombie-revamping-success-the-7-days-to-die-game-overview/"><u>Zombie Revamping Success: The 7 Days To Die Game Overview</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-perfecting-your-vids-a-comprehensive-youtube-studio-tutorial/"><u>[New] 2024 Approved Perfecting Your Vids A Comprehensive YouTube Studio Tutorial</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-11-free-youtube-playlist-downloaders-onlinepcandroidios/"><u>[New] In 2024, 11 FREE YouTube Playlist Downloaders [Online/PC/Android/iOS]</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-collaboration-for-effective-content-delivery/"><u>[New] YouTube Collaboration for Effective Content Delivery</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-top-11-innovative-sites-for-crafting-impactful-fb-cover-photos/"><u>2024 Approved Top 11 Innovative Sites for Crafting Impactful FB Cover Photos</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-oppo-k11x-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/detailed-exploration-adobe-cloud-essentials-plus-other-paths/"><u>Detailed Exploration Adobe Cloud Essentials + Other Paths</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ensuring-persistent-chatgpt-logs-retention/"><u>Ensuring Persistent ChatGPT Logs Retention</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/establish-an-affordable-windows-gpt-imitation-with-gpt4all/"><u>Establish an Affordable Windows GPT Imitation with GPT4All</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-auto-gpt-vs-chatgpt-understanding-key-distinctions/"><u>Exploring Auto-GPT Vs. ChatGPT: Understanding Key Distinctions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-boundaries-of-chatgpt-input-size-what-you-need-to-know-and-how-to-adapt/"><u>Exploring the Boundaries of ChatGPT Input Size - What You Need to Know and How to Adapt</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/fascinating-fact-directly-connect-with-chatgpt/"><u>Fascinating Fact: Directly Connect with ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-conversation-to-content-my-experience-using-chatgpt-for-a-podcast-script/"><u>From Conversation to Content: My Experience Using ChatGPT for a Podcast Script</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gaming-evolution-unpacked-the-synergy-of-bz-microsoft-and-cutting-edge-ai-tech-analysis/"><u>Gaming Evolution Unpacked: The Synergy of BZ, Microsoft & Cutting-Edge AI [Tech Analysis]</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gpt-series-breakdown-what-sets-apart-gpt-4-from-its-turbocharged-cousins-gpt-4turbo-and-gpt-4o/"><u>GPT Series Breakdown: What Sets Apart GPT-4 From Its Turbocharged Cousins GPT-4Turbo & GPT-4o</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gpt-all-demystified-how-it-functions-and-performs/"><u>GPT-^ All Demystified: How It Functions and Performs?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-11-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 11 Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-oppo-a78-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Oppo A78? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/language-leaders-face-off-palm-2-vs-gpt-4-explored/"><u>Language Leaders Face Off: PaLM 2 Vs. GPT-4 Explored</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/optimal-assortment-premier-webcam-stabilizers-for-2024/"><u>Optimal Assortment Premier Webcam Stabilizers for 2024</u></a></li>
 </ul></div>
 

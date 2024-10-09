@@ -1,7 +1,7 @@
 ---
 title: "All About the Apple Vision Pro: A Comprehensive Breakdown of Costs, Specs & Real-World Performance on ZDNET"
-date: 2024-09-28T11:33:31.907Z
-updated: 2024-10-04T00:41:59.118Z
+date: 2024-10-08T18:10:43.635Z
+updated: 2024-10-09T22:39:47.777Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ In this article, I'll show you how to take both screenshots and screen recording
 ## How to take a screenshot or screen recording with your Vision Pro
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The two ways to take a screenshot on Vision Pro
@@ -64,10 +64,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 So that's how it's done. Now for the weird part.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to handle screenshot weirdness on Vision Pro
@@ -109,10 +115,16 @@ I carefully lined up the horizon of the lake (I'm using the Mount Hood environme
 It's quite frustrating, and either an artifact of the Vision Pro or of my slightly tilted psyche. Either way, it's weird and annoying. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to capture a screen recording on Vision Pro
@@ -162,20 +174,14 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-youtube-riches-with-best-hash-tags-tips/"><u>[New] 2024 Approved YouTube Riches with Best Hash Tags Tips</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-essential-full-screen-recorder-reviews-pcmac-edition/"><u>[Updated] 2024 Approved Essential Full-Screen Recorder Reviews PC/Mac Edition</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-capture-perfection-iphone-camera-skills-guide/"><u>2024 Approved Capture Perfection IPhone Camera Skills Guide</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-strategizing-an-attention-grabbing-tiktok-signoff/"><u>2024 Approved Strategizing an Attention-Grabbing TikTok Signoff</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-the-ultimate-list-of-5-amazing-ai-prompting-engines-for-advanced-ai-interaction/"><u>Discover the Ultimate List of 5 Amazing AI Prompting Engines for Advanced AI Interaction</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/fixed-excel-2023-vba-runtime-error-9-subscript-out-of-range-by-stellar-guide/"><u>Fixed Excel 2023 VBA Runtime Error 9 Subscript Out of Range</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-xiaomi-redmi-note-13-proplus-5g-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Xiaomi Redmi Note 13 Pro+ 5G Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-icues-missed-device-detection-a-step-by-step-guide/"><u>Overcoming ICUE's Missed Device Detection - A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ransomware-a-decryption-tale-with-mobile-savings/"><u>Ransomware: A Decryption Tale with Mobile Savings</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/romance-fraud-and-ai-discovering-the-7-key-strategies-exploited-by-cybercriminals/"><u>Romance Fraud and AI: Discovering the 7 Key Strategies Exploited by Cybercriminals</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-enduring-value-of-a-writers-perspective/"><u>The Enduring Value of a Writer’s Perspective</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-hidden-flaws-of-using-artificial-intelligence-to-verify-digital-content-authenticity/"><u>The Hidden Flaws of Using Artificial Intelligence to Verify Digital Content Authenticity</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlock-potential-with-our-8-user-friendly-gpt-variants-use-them-instantly/"><u>Unlock Potential with Our 8 User-Friendly GPT Variants – Use Them Instantly!</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/video-exploration-of-optimized-mysql-strategies-with-administrator-augusto/"><u>Video Exploration of Optimized MySQL Strategies with Administrator Augusto</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/what-does-generative-ai-entail-a-brief-overview/"><u>What Does Generative AI Entail? A Brief Overview</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-elite-5-cameras-for-slow-motion-magic-for-2024/"><u>[Updated] Elite 5 Cameras for Slow Motion Magic for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-acknowledge-feedback-provide-feedback-to-the-speaker-to-confirm-your-understanding-of-what-they-said/"><u>2024 Approved Acknowledge Feedback Provide Feedback to the Speaker to Confirm Your Understanding of What They Said</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/embracing-gpt-3-the-path-to-excellence-at-openai/"><u>Embracing GPT-3: The Path to Excellence at OpenAI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-artificer-intelligence-a-gateway-to-novel-methods-in-misleading-the-public/"><u>Is Artificer Intelligence a Gateway to Novel Methods in Misleading the Public?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/join-the-elite-club-of-bug-detectives-at-openai/"><u>Join the Elite Club of Bug Detectives at OpenAI!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leading-artifice-intelligence-ai-search-solutions-for-efficient-web-exploration/"><u>Leading Artifice Intelligence (AI) Search Solutions for Efficient Web Exploration</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/life-made-simple-by-chatgpt-discover-9-useful-methods/"><u>Life Made Simple by ChatGPT: Discover 9 Useful Methods</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/overcooked-2-analysis-a-culinary-chaos-adventure/"><u>Overcooked! 2 Analysis: A Culinary Chaos Adventure</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/vaio-shatters-weight-barrier-the-incredible-visionplus-14-a-record-breakingly-lightweight-monitor-at-072-pounds/"><u>Vaio Shatters Weight Barrier - The Incredible Vision+ 14, a Record-Breakingly Lightweight Monitor at 0.72 Pounds</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT and You: Crafting Personalized Health Targets for Success"
-date: 2024-09-16T20:19:06.108Z
-updated: 2024-09-22T23:54:42.327Z
+date: 2024-10-08T22:11:47.839Z
+updated: 2024-10-09T20:28:34.262Z
 tags:
   - chatgpt
   - open-ai
@@ -46,7 +46,21 @@ thumbnail: https://thmb.techidaily.com/1bad4b421bb32846e5fc6403e8fcf6cbbd15b750f
 
 ![perplexity app discover page screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/perplexity-app-discover-page-screenshot.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![perplexity app library page screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/perplexity-app-library-page-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -57,10 +71,10 @@ Close
  Perplexity is free to use. However, you can upgrade to its Pro plan ($20/month) for access to additional features, such as unlimited access to its more powerful AI models like OpenAI's GPT-4, Anthropic's Claude 3 Opus and Sonnet, and Mistral's Large, plus support for images and files, and better support.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can Perplexity AI Replace Google?
@@ -72,10 +86,10 @@ Close
 ![screenshot showing search result on perplexity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-showing-search-result-on-perplexity.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  It's worth noting that[Google has been testing Search Generative Experience (SGE)](https://www.makeuseof.com/how-to-access-google-ai-powered-search/) , an AI-assisted search feature. SGE provides AI overviews of search queries similar to Perplexity AI. Perplexity AI currently does a better job of answering queries thoroughly and also provides in-text citations for cross-referencing. However, this is something Google can replicate, if it becomes where the battle line is drawn.
@@ -97,5 +111,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/updated-mobile-audio-speed-the-fastest-app-list/"><u>[Updated] Mobile Audio Speed The Fastest App List</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-chromebook-masterclass-excellent-recording-suite/"><u>2024 Approved Chromebook Masterclass Excellent Recording Suite</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-premier-mic-choices-perfected-for-high-res-videos/"><u>2024 Approved Premier Mic Choices Perfected for High-Res Videos</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-and-job-hunting-top-10-linkedin-techniques-to-improve-your-career-prospects/"><u>ChatGPT & Job Hunting: Top 10 LinkedIn Techniques to Improve Your Career Prospects</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-benefits-of-using-claude-ai-an-in-depth-guide/"><u>Exploring the Benefits of Using Claude AI: An In-Depth Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-reliable-is-vpn-for-interacting-with-chatgpt-online/"><u>How Reliable Is VPN for Interacting with ChatGPT Online?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-cricket-iphone-15-pro-max-for-free-by-drfone-ios/"><u>How To Unlock Cricket iPhone 15 Pro Max for Free</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-dissecting-youtubes-criteria-for-featured-community-inputs/"><u>In 2024, Dissecting YouTube's Criteria for Featured Community Inputs</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-8-plus-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 8 Plus With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/master-the-market-how-chatgpt-enhances-your-crypto-trading-experience/"><u>Master the Market: How ChatGPT Enhances Your Crypto Trading Experience</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Honor 90 Lite? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionizing-support-the-ultimate-guide-to-combining-chatgpt-and-whatsapp-services/"><u>Revolutionizing Support: The Ultimate Guide to Combining ChatGPT and WhatsApp Services</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/the-ultimate-guide-to-increasing-traffic-with-powerful-social-media-videos/"><u>The Ultimate Guide to Increasing Traffic with Powerful Social Media Videos</u></a></li>
+</ul></div>
 

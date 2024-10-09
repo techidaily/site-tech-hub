@@ -1,7 +1,7 @@
 ---
 title: Deciphering the Mechanics of Claude Pro Compared to GPT+Plus
-date: 2024-09-17T18:49:44.681Z
-updated: 2024-09-23T02:15:44.053Z
+date: 2024-10-04T19:54:28.329Z
+updated: 2024-10-09T21:43:21.973Z
 tags:
   - chatgpt
   - open-ai
@@ -27,6 +27,13 @@ thumbnail: https://thmb.techidaily.com/fdc25fa9e7d76ca87920564362f13d91c2db27378
 * [Larger Context Window](https://www.makeuseof.com/reasons-use-claude-3-instead-of-chatgpt/#larger-context-window)
 * [More Messages Per Hour](https://www.makeuseof.com/reasons-use-claude-3-instead-of-chatgpt/#more-messages-per-hour)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Claude excels at creative writing, producing engaging and natural-sounding content with less clichés.
@@ -48,8 +55,24 @@ thumbnail: https://thmb.techidaily.com/fdc25fa9e7d76ca87920564362f13d91c2db27378
 1. Sample 1  
 ![chatgpt using cliche writing style example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-flaws-1.jpg)
 2. Sample 2  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![chatgpt using cliche writing style example-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-flaws-2.jpg)
 3. Sample 3  
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![chatgpt using cliche writing style example-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-flaws-3.jpg)
 
  Claude, on the other hand, produced varying results four times out of five trials, avoiding the cliche on the first trial:
@@ -73,10 +96,16 @@ And here's Claude's take:
  Early adopters of ChatGPT probably have a deep-rooted preference for the AI chatbot, but when it comes to creative writing, ChatGPT has some serious catching up to do in many areas.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2 Claude Offers Multimodality for Free
@@ -84,13 +113,6 @@ And here's Claude's take:
 ![screengrab of the claude ai homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/claude-screengrab.jpg)
 
  Besides Google's Gemini AI chatbot, there are hardly any major AI chatbots in the market that offer Claude's multimodal features for free. With the free version of ChatGPT, all you get is text generation abilities, and that's it. No file uploads for analysis, no image processing, nothing else! On the other hand, Claude offers these premium features on its free tier. So, you can use image prompting or upload files for analysis on the chatbot for free if you use the free beta version of the bot.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3 Larger Context Window
 
@@ -129,5 +151,26 @@ And here's Claude's take:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-timekeeping-tools-without-a-price/"><u>[New] Expert Timekeeping Tools Without a Price</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-tactics-for-cutting-edge-macro-video-creation/"><u>[New] Innovative Tactics for Cutting-Edge Macro Video Creation</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-survival-of-the-undead-cutthroat-top-8-zombie-titles-for-2024/"><u>[New] Survival of the Undead Cutthroat Top 8 Zombie Titles for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-business-slide-show-essentials-free-access-and-customization/"><u>[Updated] 2024 Approved Business Slide Show Essentials Free Access & Customization</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-from-phones-to-cameras-a-guide-to-diy-video-capturing/"><u>2024 Approved From Phones to Cameras A Guide to DIY Video Capturing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/confronting-ai-titans-advanced-gemini-vs-plush-gpt/"><u>Confronting AI Titans: Advanced Gemini Vs. Plush GPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/conquer-mass-designs-with-canva-and-gpts-collective-force/"><u>Conquer Mass Designs with Canva & GPT's Collective Force</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elon-musk-unveils-grok-ai-heres-what-it-is-and-how-much-it-might-cost/"><u>Elon Musk Unveils Grok AI - Here’s What It Is and How Much It Might Cost</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-boundary-busting-influence-of-artificial-intelligence-real-or-imaginary/"><u>Exploring The Boundary-Busting Influence Of Artificial Intelligence: Real or Imaginary?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-vivo-x90s-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Vivo X90S? Fixed | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovating-interactions-explore-the-quintessential-methods-for-personalizing-chatgpt-prompts/"><u>Innovating Interactions: Explore the Quintessential Methods for Personalizing ChatGPT Prompts</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphoneipad-type-out-troubles-6-fixes-that-work/"><u>IPhone/iPad Type-Out Troubles? 6 Fixes That Work</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-effective-chatgpt-prompt-crafting/"><u>Mastering the Art of Effective ChatGPT Prompt Crafting</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/seamless-text-input-the-complete-guide-to-using-bing-ai-in-android-keyboards/"><u>Seamless Text Input: The Complete Guide to Using Bing AI in Android Keyboards</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-walkthrough-on-how-to-erase-your-chatgpt-profile/"><u>The Ultimate Walkthrough on How To Erase Your ChatGPT Profile</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-samsung-galaxy-a15-4g-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Samsung Galaxy A15 4G.</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-organizational-mastery-leverage-chatgpt-in-4-ways/"><u>Unlocking Organizational Mastery: Leverage ChatGPT in 4 Ways</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-every-detail-the-ai-advances-showcased-in-apples-wwdc-2023/"><u>Unveiling Every Detail: The AI Advances Showcased in Apple's WWDC 2023</u></a></li>
+</ul></div>
 

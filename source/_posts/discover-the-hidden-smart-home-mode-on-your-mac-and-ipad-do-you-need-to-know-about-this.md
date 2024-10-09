@@ -1,7 +1,7 @@
 ---
 title: "Discover the Hidden 'Smart Home Mode' On Your Mac & iPad: Do You Need to Know About This?"
-date: 2024-10-03T06:38:41.359Z
-updated: 2024-10-03T16:28:35.385Z
+date: 2024-10-08T19:23:33.840Z
+updated: 2024-10-09T18:27:31.916Z
 tags:
   - apple
 categories:
@@ -60,13 +60,6 @@ You can also turn on Airplane Mode directly from the Settings panel. Open Settin
 
 Screenshot by David Gewirtz/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Travel Mode
 
 If you're traveling with your Vision Pro device, Travel Mode is where things start to get interesting. This mode's purpose is to stabilize the visuals in the device by turning off some of the tracking sensors. That way, external movement doesn't -- or at least, shouldn't -- disturb your screen. 
@@ -97,16 +90,16 @@ As mentioned above, Travel Mode and Airplane Mode are independent settings. That
 
 Screenshot by David Gewirtz/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Planes, trains, automobiles - and boats
 
 While I have no intention of taking my Vision Pro out and about, I have had a chance to review the experiences shared by others online. Here are some thoughts for each of the vehicle types you're likely to be traveling in -- _as a passenger_. 
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Airplanes
 
@@ -118,6 +111,13 @@ You'll need to account for where the battery goes, where your [travel case](http
 
 That said, as long as you have enough battery power (or [spare batteries](https://www.apple.com/shop/product/MW283LL/A/apple-vision-pro-battery)), your experience on a plane should be fairly straightforward as this was a use case Apple clearly designed for. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Trains
 
 ZDNET's [Matthew Miller has used the Vision Pro while commuting](https://www.zdnet.com/article/i-used-the-apple-vision-pro-for-my-8-hour-work-day-and-it-left-me-wanting-more/) by train in the Seattle area. He, too, found the cramped quarters a bit of a challenge, because moving your arms is a bit tough when there's a good chance you'll whack the person sitting in the seat next to you. 
@@ -127,10 +127,16 @@ ZDNET's [Matthew Miller has used the Vision Pro while commuting](https://www.zdn
 He also found that the lenses tended to fog up. While not necessarily a deal-killer, lens issues can be a serious problem when using the device, especially in a humid environment. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Automobiles
@@ -142,6 +148,13 @@ Highway travel, particularly on long stretches of the national highway system in
 **Also: [Connected cars, powered by AI, will make up 95% of all vehicles on the road by 2030](https://www.zdnet.com/article/connected-cars-powered-by-ai-will-make-up-95-of-all-vehicles-on-the-road-by-2030/)**
 
 Travel mode will certainly help, but expect it to blink in and out depending on what's going on outside the vehicle. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Shipboard travel
 
@@ -156,19 +169,6 @@ I've been on ships in rough seas, and here's the thing: You don't want to be wat
 I've also lived through devastating earthquakes. The [Loma Prieta earthquake](https://en.wikipedia.org/wiki/1989%5FLoma%5FPrieta%5Fearthquake) had a magnitude of 6.9, lasted approximately 15 seconds, and destroyed much of the San Francisco area. Sailing on rough seas is like being in a quake as large or larger than the Loma Prieta quake, but doing it for three, six, 12, or even 24 _hours_. 
 
 If you're sailing and the vessel is rolling or heaving, give up on the entertainment, and do your best not to hurl your lunch. In fact, try not to eat any lunch. Just hang in there until it's over. There will be time to watch _Avatar: The Way of Water_ in 3D another day, when the seas are calm and so is your stomach lining. 
-
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Situational awareness
 
@@ -225,16 +225,20 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-instructions-for-legit-free-vlc-player-download-on-macos/"><u>[New] In 2024, Instructions for Legit Free VLC Player Download on macOS</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-unboxing-the-typhoon-h-yuneecs-drone-expertise/"><u>[Updated] In 2024, Unboxing the Typhoon H Yuneec's Drone Expertise</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-camera-glitches-ended-by-obs-fix/"><u>2024 Approved Camera Glitches Ended by OBS Fix</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/are-chatbot-advisors-a-reliable-choice-for-your-financial-planning-needs/"><u>Are Chatbot Advisors a Reliable Choice for Your Financial Planning Needs?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/best-video-player-apps-compatible-with-mac-windows-10-ios-and-android-top-18-picks/"><u>Best Video Player Apps Compatible with Mac, Windows 10, iOS & Android: Top 18 Picks!</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-vivo-v30-pro-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Vivo V30 Pro to Mac? | Dr.fone</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-echoes-from-the-deep-a-compilation-of-titans-resonances-for-2024/"><u>New Echoes From the Deep A Compilation of Titans Resonances for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-breakthrough-of-gemini-15-why-one-million-tokens-are-redefining-capabilities/"><u>The Breakthrough of Gemini-1.5: Why One Million Tokens Are Redefining Capabilities</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-definitive-verdict-on-samsung-galaxy-s2ebeam-and-is-used-to-create-a-beamforming-effect-which-can-help-improve-signal-quality-and-range/"><u>The Definitive Verdict on Samsung Galaxy S2ebeam and Is Used to Create a Beamforming Effect, Which Can Help Improve Signal Quality and Range.</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-artificardial-intelligence-prompt-injection-vulnerability-mechanisms-and-prevention/"><u>Understanding Artificardial Intelligence Prompt Injection Vulnerability: Mechanisms & Prevention</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/will-smart-bots-unsettle-seo-industry/"><u>Will Smart Bots Unsettle SEO Industry?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-top-10-affordable-video-chat-for-android-users/"><u>[New] In 2024, Top 10 Affordable Video Chat for Android Users</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-ultimate-10-volume-upgrade-tools-for-pc-ios-and-android/"><u>[New] In 2024, Ultimate 10 Volume Upgrade Tools for PC, iOS & Android</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-transition-from-phone-videos-to-televisual-viewing/"><u>[Updated] 2024 Approved Transition From Phone Videos to Televisual Viewing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-fast-track-to-hot-photos-on-pexels/"><u>[Updated] The Fast Track to Hot Photos on Pexels</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/all-you-need-to-know-about-upgrading-to-macos-11-big-sur/"><u>All You Need to Know About Upgrading to macOS 11 Big Sur</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/confronting-bizarre-iphone-troubles-urgent-solutions-required-by-apple/"><u>Confronting Bizarre iPhone Troubles: Urgent Solutions Required by Apple</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/impulsive-purchase-my-unexpected-decision-to-get-an-apple-watch-from-amazon-despite-not-truly-desiring-it-insights/"><u>Impulsive Purchase: My Unexpected Decision to Get an Apple Watch From Amazon, Despite Not Truly Desiring It - Insights</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/in-depth-camera-comparison-pixel-9xl-against-iphone-15-pro-shoots-down-to-a-surprising-champion-tech-review-by-zdnet/"><u>In-Depth Camera Comparison: Pixel 9XL Against iPhone 15 Pro Shoots Down to a Surprising Champion | Tech Review by ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/removing-preview-hurdles-in-windows-version-of-office-mail/"><u>Removing Preview Hurdles in Windows Version of Office Mail</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-guides-addressing-and-correcting-the-0xc0000022-launch-issue-for-adobe-products/"><u>Solution Guides: Addressing and Correcting the 0xC0000022 Launch Issue for Adobe Products</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/three-essential-actions-apple-needs-to-take-to-revitalize-visualtech-and-triumph-in-the-market/"><u>Three Essential Actions Apple Needs to Take to Revitalize VisualTech and Triumph in the Market</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-25-unbeatable-christmas-ipad-offers-comprehensive-guide/"><u>Top 25 Unbeatable Christmas iPad Offers Comprehensive Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-airtag-enhancements-featuring-comprehensive-reviews-by-tech-experts/"><u>Top-Rated AirTag Enhancements Featuring Comprehensive Reviews by Tech Experts</u></a></li>
 </ul></div>
 

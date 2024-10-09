@@ -1,7 +1,7 @@
 ---
 title: "Guide: Sending & Receiving iMessages Using Windows - Tips From ZDNet"
-date: 2024-09-30T02:54:22.792Z
-updated: 2024-10-04T04:44:32.560Z
+date: 2024-10-06T18:17:32.207Z
+updated: 2024-10-09T21:12:18.076Z
 tags:
   - apple
 categories:
@@ -79,10 +79,10 @@ Your phone should ask if you want your PC to receive notifications from your iPh
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Run Phone Link
@@ -103,20 +103,13 @@ You can also start a new conversation. To do this, select one of your displayed 
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Use Intel Unison
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Install Intel Unison
@@ -140,10 +133,10 @@ At the next screen on your phone, tap the button for "Scan QR code." Scan the co
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Launch the Windows Unison app
@@ -152,6 +145,13 @@ At the "Let's get started" screen in the Windows Unison app, click the icon for 
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  4\. Go to the Messages screen
 
 At the Messages screen, click the icon for "Compose a new message." Choose the recipient from your list of contacts or type the name, email address, or phone number for someone not in your contact list.
@@ -159,10 +159,10 @@ At the Messages screen, click the icon for "Compose a new message." Choose the r
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Send a message
@@ -207,19 +207,14 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-insights-into-instagram-follower-exits/"><u>[New] 2024 Approved Insights Into Instagram Follower Exits</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-archive-adrenaline-fueled-moments-in-galaxy-games/"><u>[New] Archive Adrenaline-Fueled Moments in Galaxy Games</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-bringing-your-vision-to-life-posting-photos-on-youtube/"><u>[New] Bringing Your Vision to Life Posting Photos on YouTube</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-instagram-harmony-understanding-rights-for-2024/"><u>[New] Instagram Harmony Understanding Rights for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-free-top-10-best-drawing-software-for-mac/"><u>[Updated] 2024 Approved FREE Top 10 Best Drawing Software for Mac</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-keep-your-feed-free-no-fb-vids-here/"><u>2024 Approved Keep Your Feed Free No FB Vids Here</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-the-ultimate-guide-to-online-streaming-audio-logging/"><u>2024 Approved The Ultimate Guide to Online Streaming Audio Logging</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/best-free-ai-models-offering-comparable-capabilities-to-openais-advanced-sora-system/"><u>Best Free AI Models Offering Comparable Capabilities to OpenAI's Advanced Sora System</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-the-best-ai-helpers-to-spark-ideas-in-writing/"><u>Discover the Best AI Helpers to Spark Ideas in Writing</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-capabilities-chatgpt-and-its-role-in-smart-home-operations/"><u>Exploring the Capabilities: ChatGPT and Its Role in Smart Home Operations</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-icloud-from-iphone-se-2020-smoothly-by-drfone-ios/"><u>In 2024, How To Remove iCloud From iPhone SE (2020) Smoothly</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/stellar-eraser-for-mobile-1-mac-standard-en-erasure-process/"><u>Stellar Eraser for Mobile 1 Mac Standard en Erasure Process</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-troubling-inefficiency-of-automated-writing-detection-tools-for-digital-originality/"><u>The Troubling Inefficiency of Automated Writing Detection Tools for Digital Originality</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unraveling-the-mystery-of-truthgpt-law-enforcements-take-down-at-mullvad-vpn-ultimate-list-of-best-gratis-pc-games-and-decoding-mechanical-keyboard-tech/"><u>Unraveling the Mystery of TruthGPT, Law Enforcement's Take-Down at Mullvad VPN, Ultimate List of Best Gratis PC Games, and Decoding Mechanical Keyboard Tech</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-how-to-change-facebook-cover-photo/"><u>[New] How to Change Facebook Cover Photo</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-essential-information-for-successful-tiktok-use-on-macos-for-2024/"><u>[Updated] Essential Information for Successful TikTok Use on macOS for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-artful-adaptation-digital-tools-that-turn-pics-into-prose-online/"><u>2024 Approved Artful Adaptation Digital Tools that Turn Pics Into Prose Online</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/apple-revives-promising-ai-innovation-opportunities-and-areas-for-improvement-insights-from-zdnet/"><u>Apple Revives Promising AI Innovation: Opportunities and Areas for Improvement – Insights From ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/expert-tips-and-must-have-apps-for-streamlining-your-day-to-day-task-management-insights-from-zdnet/"><u>Expert Tips & Must-Have Apps for Streamlining Your Day-to-Day Task Management - Insights From ZDNet</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-nokia-130-music-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Nokia 130 Music to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-the-ultimate-evaluation-how-does-recmeister-stack-up/"><u>In 2024, The Ultimate Evaluation How Does Recmeister Stack Up?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ipad-air-4-vs-ipad-air-5-comparison-is-it-time-to-upgrade-insights/"><u>IPad Air 4 vs iPad Air 5 Comparison: Is It Time to Upgrade? Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-apple-smartphone-savings-in-july-2024-exclusive-offers-spotted-by-zdnet/"><u>Top Apple Smartphone Savings in July 2024: Exclusive Offers Spotted by ZDNet</u></a></li>
 </ul></div>
 

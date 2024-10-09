@@ -1,7 +1,7 @@
 ---
 title: Understanding the Impact of Hugging Face
-date: 2024-09-15T21:19:47.735Z
-updated: 2024-09-22T21:55:58.760Z
+date: 2024-10-07T21:21:07.540Z
+updated: 2024-10-09T17:17:14.994Z
 tags:
   - chatgpt
   - open-ai
@@ -46,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/20be038a3e48f613b2c652d4cbdf605ae5da9fdcf
 
  ChatGPT can hold a bias in certain scenarios due to its training data. According to[BBC Science Focus](https://www.sciencefocus.com/future-technology/gpt-3/) , ChatGPT was fed with an incredible 570GB of data from various sources, including books, journals, news articles, and Wikipedia. Most of this information was written by humans who hold biases, conscious or not. Even if less than 1% of ChatGPT's training data is biased, that still poses a problem.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Fails to Give Personalized Financial Advice
 
 ![shot of two people's legs as they sit across from each other](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/conversation-woman-man.jpg)
@@ -58,15 +65,28 @@ thumbnail: https://thmb.techidaily.com/20be038a3e48f613b2c652d4cbdf605ae5da9fdcf
 
  This may result in the chatbot telling you it cannot satisfy your request or in AI hallucination, leading to an inaccurate response.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Relies Heavily on Historical Data
 
 ![an old book open on a table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/old-book-table.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  We've already discussed ChatGPT's lack of real-time data, but it's also important to note that this chatbot heavily relies on historical data to satisfy prompts.
@@ -76,6 +96,13 @@ thumbnail: https://thmb.techidaily.com/20be038a3e48f613b2c652d4cbdf605ae5da9fdcf
  ChatGPT can be friendly and[even make jokes](https://www.makeuseof.com/can-ai-make-us-laugh/) , but this is all based on the data it has been trained with. You could certainly call it a smart program, as it is highly advanced by today's standards, but it is not an all-knowing entity.
 
  It's very important to remember this, as it's easy to assume you're getting crypto advice and statistics from a genius-level AI system when that isn't the case. You should never use ChatGPT as a substitute for professional financial advice or up-to-date sources because of this heavy reliance on historical data.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Lacks Insights Into Macroeconomic Factors
 
@@ -88,13 +115,6 @@ thumbnail: https://thmb.techidaily.com/20be038a3e48f613b2c652d4cbdf605ae5da9fdcf
  Once supply exceeds demand, prices drop. Now, the coin you bought is only worth $70\. The next day, it may be worth less, and this is all because of a traditional market issue.
 
  Because ChatGPT doesn't have access to real-time data, it cannot consider these kinds of macroeconomics when giving investment and trading advice. Nine out of ten times, this may not matter, but there's always a chance of receiving advice from ChatGPT when the tool itself hasn't considered all the necessary factors in its response.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT Is Revolutionary but Far From Perfect
 
@@ -113,5 +133,22 @@ thumbnail: https://thmb.techidaily.com/20be038a3e48f613b2c652d4cbdf605ae5da9fdcf
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-unlocking-apowersofts-zero-cost-screen-recording/"><u>[New] 2024 Approved Unlocking Apowersoft's Zero-Cost Screen Recording</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-ultimate-guide-igniting-video-visionaries-in-your-channel/"><u>[New] Ultimate Guide Igniting Video Visionaries in Your Channel</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-smb-video-marketing-success-factors/"><u>[Updated] SMB Video Marketing Success Factors</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mp4mp36/"><u>如何免費地將MP4文件改裝成高品質MP3版本的6招方法</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/demystifying-ai-a-clear-and-concise-explanation-for-everyone/"><u>Demystifying AI: A Clear and Concise Explanation for Everyone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discovering-the-capabilities-of-emotion-ai-in-deciphering-feelings/"><u>Discovering the Capabilities of Emotion AI in Deciphering Feelings</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/exclusive-insights-elevating-your-mobizen-screencast-game-for-2024/"><u>Exclusive Insights Elevating Your Mobizen Screencast Game for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/eye-catching-clues-to-fraudulent-chatgpt-websites/"><u>Eye-Catching Clues to Fraudulent ChatGPT Websites</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/guide-to-restoring-core-functionality-in-your-windows-10-pc/"><u>Guide to Restoring Core Functionality in Your Windows 10 PC</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-samsung-galaxy-s23-ultra-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Samsung Galaxy S23 Ultra Phone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/new-editing-capabilities-added-to-dall-e-3-a-work-in-progress/"><u>New Editing Capabilities Added to DALL-E 3 – A Work in Progress</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/perfecting-visual-virality-crafting-engaging-square-videos/"><u>Perfecting Visual Virality Crafting Engaging Square Videos</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/reviving-your-ai-communication-memories-how-to-get-back-past-chats-with-chatgpt/"><u>Reviving Your AI Communication Memories: How to Get Back Past Chats with ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionizing-your-dialogues-strategic-use-of-gpt-directories/"><u>Revolutionizing Your Dialogues: Strategic Use of GPT Directories</u></a></li>
+<li><a href="https://facebook.techidaily.com/updating-user-information-effortlessly-on-facebook/"><u>Updating User Information Effortlessly on Facebook</u></a></li>
+</ul></div>
 

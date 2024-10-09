@@ -1,7 +1,7 @@
 ---
 title: "Begin Your Journey Into LangChain LLM: A Step-by-Step Introduction"
-date: 2024-09-15T21:58:59.402Z
-updated: 2024-09-22T21:30:30.771Z
+date: 2024-10-07T16:43:57.491Z
+updated: 2024-10-09T20:18:51.546Z
 tags:
   - chatgpt
   - open-ai
@@ -44,6 +44,13 @@ thumbnail: https://thmb.techidaily.com/5c8db21fb7e97eed2eddd025f3f66d3a9e58c7bc7
 
  The chatbot is also built into the Edge browser, where you can access it via the homepage.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Skype Gets AI Features
 
  In addition to those apps, Microsoft has added AI-enhanced Bing support to Skype, the venerable voice and chat app. The idea here is not to get the AI to have conversations on your behalf, but to add similar search capabilities to group messages.
@@ -51,6 +58,13 @@ thumbnail: https://thmb.techidaily.com/5c8db21fb7e97eed2eddd025f3f66d3a9e58c7bc7
 > "If your family is chatting about the next family reunion, you can simply ask Bing for suggestions on travel destinations, expected weather forecasts and interesting events around your time of travel, and everyone in the chat will get access to the results."
 
  To access this feature, you simply need to add Bing to your group chats as you would any other contact. It's available worldwide and can respond in over 100 languages.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Use the New ChatGPT Bing Apps
 
@@ -63,10 +77,10 @@ thumbnail: https://thmb.techidaily.com/5c8db21fb7e97eed2eddd025f3f66d3a9e58c7bc7
 **Download:** Skype for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2022079/https://play.google.com/store/apps/details?id=com.skype.raider) |[iOS](https://apps.apple.com/us/app/skype/id304878510) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Test Out AI Chat on Android and iPhone Today
@@ -90,5 +104,18 @@ thumbnail: https://thmb.techidaily.com/5c8db21fb7e97eed2eddd025f3f66d3a9e58c7bc7
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-enhanced-engagement-with-effective-youtube-video-outros-strategies/"><u>[Updated] 2024 Approved Enhanced Engagement with Effective YouTube Video Outros Strategies</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-facebook-cover-videos-a-step-by-step-guide/"><u>[Updated] 2024 Approved Facebook Cover Videos A Step-by-Step Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-essential-methods-for-device-capturing-applications/"><u>[Updated] Essential Methods for Device Capturing Applications</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-leading-the-pack-10-crucial-apps-for-insta-video-marketers/"><u>2024 Approved Leading the Pack 10 Crucial Apps for Insta Video Marketers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/harness-ai-innovation-discover-five-free-gateways-to-gpt-ns-capabilities/"><u>Harness AI Innovation: Discover Five Free Gateways to GPT-N's Capabilities</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-vivo-v27-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Vivo V27 Activity | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-oneplus-nord-ce-3-lite-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from OnePlus Nord CE 3 Lite 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/parameters-impacting-the-use-of-chatgpt-in-therapy-support-systems/"><u>Parameters Impacting the Use of ChatGPT in Therapy Support Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-your-brainpower-innovative-methods-for-brainstorming-with-mind-mapping-and-conversational-ai-chatgpt/"><u>Unlock Your Brainpower: Innovative Methods for Brainstorming With Mind Mapping and Conversational AI, ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-smart-conversations-setting-up-bing-chat-on-android-devices/"><u>Unlocking Smart Conversations: Setting Up Bing Chat on Android Devices</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-advancements-in-googles-bard-ai-via-palm-2-explore-7-features/"><u>Unveiling the Advancements in Google's Bard AI via PaLM 2 - Explore 7 Features!</u></a></li>
+</ul></div>
 

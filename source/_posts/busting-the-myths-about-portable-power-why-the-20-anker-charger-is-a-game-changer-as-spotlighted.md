@@ -1,7 +1,7 @@
 ---
 title: Busting the Myths About Portable Power - Why the $20 Anker Charger Is a Game-Changer, as Spotlighted
-date: 2024-10-02T22:14:07.925Z
-updated: 2024-10-04T04:41:02.179Z
+date: 2024-10-04T17:06:54.773Z
+updated: 2024-10-09T17:25:46.850Z
 tags:
   - apple
 categories:
@@ -38,6 +38,13 @@ To Android users and new (or incoming) iPhone users who are looking to add a USB
 
 See, I have quibbles with many portable chargers. Those include forgetting a wire, not knowing where to hold the charger while it's charging my phone, and feeling like it takes forever to increase the battery percentage at all. This charger addresses all of the issues and more. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 Lipstick-sized charger
 
@@ -64,10 +71,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Impressive charging power for its size
@@ -79,10 +86,10 @@ The 22.5W Power Bank packs 5,000mAh capacity, which is enough to charge an [iPho
 Although it might not seem like a tremendous boost, remember that this portable charger is meant to get you out of a pinch. If your phone died on you while you were out, getting a quarter of your battery back in under 30 minutes would be a lifesaver. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Charging the power bank is hassle-free
@@ -97,22 +104,21 @@ Sabrina Ortiz/ZDNET
 
 The charger comes in five colors: blue, black, white, green, and pink, matching every iPhone 15 color besides the yellow, which the white could be paired with instead.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 If you are searching for a new portable charger for your new iPhone or just because you are due for an upgrade, the [Anker Nano 22.5W Power Bank](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C6XK77HJ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc0dd3a10-8296-4dff-937c-fd6103c4cc1a%7Cdtp&dtb=1) is a good choice because it won't break the bank and will get the job done. The fun color options, effectiveness, size, and low price point even make it a good choice for gifting.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -149,16 +155,18 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-instagram-success-stories-leveraging-highlights-for-growth/"><u>[New] 2024 Approved Instagram Success Stories Leveraging Highlights for Growth</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-connecting-for-content-roku-and-facebook-live/"><u>[New] In 2024, Connecting for Content Roku and Facebook LIVE</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-language-gurus-selection-of-top-30-tools-to-translate-videos/"><u>[New] The Language Guru’s Selection of Top 30 Tools to Translate Videos</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-on-iphone-frozen-or-crashing-discover-these-t8-quick-solutions/"><u>ChatGPT on iPhone Frozen or Crashing? Discover These T8 Quick Solutions!</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-oppo-k11-5g-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Oppo K11 5G to PC? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-androids-voice-assistant-steps-for-getting-a-chatbot-like-chatgpt-using-voicegpt-app/"><u>Mastering Android's Voice Assistant: Steps for Getting a Chatbot Like ChatGPT Using VoiceGPT App</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/raising-the-future-a-parents-roadmap-to-chatgpt-and-generative-technology/"><u>Raising the Future: A Parent's Roadmap to ChatGPT & Generative Technology</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/refining-texts-with-ai-insight/"><u>Refining Texts with AI Insight?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-8-essential-uses-of-auto-gpt-a-comprehensive-guide/"><u>Top 8 Essential Uses of Auto-GPT: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-every-aspect-of-apples-artificial-intelligence-at-wwdc-24/"><u>Unveiling Every Aspect of Apple's Artificial Intelligence at WWDC '24</u></a></li>
-<li><a href="https://windows11.techidaily.com/what-is-hardware-reserved-memory-on-windows/"><u>What Is Hardware Reserved Memory on Windows?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-spectacular-4k-tvs-nine-picks-for-exceptional-color-fidelity/"><u>[New] 2024 Approved Spectacular 4K TVs Nine Picks for Exceptional Color Fidelity</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-maximizing-value-from-youtube-comment-threads/"><u>[New] In 2024, Maximizing Value From YouTube Comment Threads</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-how-to-make-money-on-periscope-if-you-are-new-to-this-space/"><u>[Updated] In 2024, How to Make Money on Periscope if You Are New to This Space</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/24-hour-film-size-gb-measurement-guide-for-2024/"><u>24-Hour Film Size GB Measurement Guide for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-i-trust-chatgpt-with-developing-a-custom-workout-plan-that-prioritizes-safety-and-efficiency/"><u>Can I Trust ChatGPT with Developing a Custom Workout Plan That Prioritizes Safety and Efficiency?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-plus-and-language-acquisition-an-in-depth-analysis-for-rapid-learning/"><u>ChatGPT Plus and Language Acquisition: An In-Depth Analysis for Rapid Learning</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-sign-on-troubles-heres-how-to-rectify-it/"><u>ChatGPT Sign-On Troubles? Here's How to Rectify It</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpts-role-in-crafting-and-maintaining-daily-meditation-rituals/"><u>ChatGPT's Role in Crafting and Maintaining Daily Meditation Rituals</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpts-role-in-mastering-the-art-of-dating/"><u>ChatGPT's Role in Mastering the Art of Dating</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/fusion-rapida-y-sencilla-de-archivos-mp4-multimedia-para-profesionales/"><u>Fusión Rápida Y Sencilla De Archivos MP4 Multimedia Para Profesionales</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/multithreading-vs-single-threading-battle-how-amds-zen-technology-triumphs-over-intel-lunar-lake/"><u>Multithreading vs Single-Threading Battle: How AMD’s Zen Technology Triumphs Over Intel Lunar Lake</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/non-amazon-ecosystem-streamers-for-home-theater/"><u>Non-Amazon Ecosystem Streamers for Home Theater</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/simplified-pathway-using-instagram-live-effectively/"><u>Simplified Pathway Using Instagram Live Effectively</u></a></li>
 </ul></div>
 

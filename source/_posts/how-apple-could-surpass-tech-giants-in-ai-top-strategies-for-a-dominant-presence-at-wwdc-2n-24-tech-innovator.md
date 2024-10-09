@@ -1,7 +1,7 @@
 ---
 title: "How Apple Could Surpass Tech Giants in AI: Top Strategies for a Dominant Presence at WWDC 2N-24 | Tech Innovator"
-date: 2024-09-28T12:42:23.661Z
-updated: 2024-10-03T21:10:30.629Z
+date: 2024-10-03T20:36:26.502Z
+updated: 2024-10-09T16:39:18.128Z
 tags:
   - apple
 categories:
@@ -35,10 +35,10 @@ Here's a look at what's new for the 6th generation iPad Air.
 First up, [Apple is introducing](https://www.apple.com/ipad-air/) an all-new bigger size. While previous versions of the [iPad Air](https://www.zdnet.com/article/best-ipad/) only had a single size to choose from, this year's edition has an 11-inch size and a 13-inch size – the larger one giving you 30% more screen to work with. It makes the iPad slightly less portable, but the added real estate will certainly be worth the tradeoff for some.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. An M2 chip for enhanced performance
@@ -60,10 +60,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. New placement for the front camera
@@ -71,10 +71,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 It may seem minor, but the front-facing camera of the latest iPad Air is in a new spot. It's now on the landscape edge, moved from the portrait edge. Previously, you had to use the iPad in portrait mode on a video call as moving it to landscape mode distorted the picture. Now, video calls will look exactly as they do on a laptop.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Bigger base storage
@@ -115,22 +115,19 @@ The iPad Air 6 will begin shipping next week at a starting price of [$599 for th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-stream-friendly-free-tunes-vault-fb/"><u>[New] 2024 Approved Stream-Friendly Free Tunes Vault (FB)</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-cutting-edge-strategies-for-transmitting-obs-livestreams-to-facebook-for-2024/"><u>[New] Cutting-Edge Strategies for Transmitting OBS Livestreams to Facebook for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-snapshot-savior-eight-ways-to-amplify-your-color-game-in-photoshop/"><u>[New] Snapshot Savior Eight Ways to Amplify Your Color Game in Photoshop</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-bandicam-demystified-a-clearer-understanding-of-2023-functionality/"><u>[Updated] Bandicam Demystified A Clearer Understanding of 2023 Functionality</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-seo-savvy-boosting-your-podcasts-discoverability-and-rankings/"><u>[Updated] SEO Savvy Boosting Your Podcast's Discoverability and Rankings</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-a-new-companion-for-modern-dating/"><u>ChatGPT: A New Companion for Modern Dating</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/crafting-future-languages-with-ai-and-assessing-job-market-relevance/"><u>Crafting Future Languages with AI & Assessing Job Market Relevance</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/decoding-gptbot-the-motives-behind-its-internet-ban/"><u>Decoding GPTBot: The Motives Behind Its Internet Ban</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-will-artificial-intelligence-impact-our-emotional-well-being-and-provide-assistance/"><u>How Will Artificial Intelligence Impact Our Emotional Well-Being and Provide Assistance?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-poco-c51-easily-by-drfone-android/"><u>In 2024, How To Unlock a Poco C51 Easily?</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-lowering-the-quality-of-obs-streaming/"><u>In 2024, Lowering the Quality of OBS Streaming</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-prime-5-web-based-screening-sessions/"><u>In 2024, Prime 5 Web-Based Screening Sessions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/innovative-ways-to-control-and-manage-chatgpt-exchanges-using-folder-systems/"><u>Innovative Ways to Control and Manage ChatGPT Exchanges Using Folder Systems</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-microsofts-chatgpt-down-uncover-5-strategies-to-determine-its-functionality/"><u>Is Microsoft's ChatGPT Down? Uncover 5 Strategies to Determine Its Functionality</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-chatgpt-with-new-gpt-4-integration-methods/"><u>Navigating ChatGPT with New GPT-4 Integration Methods</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-exploring-in-depth-computer-hardware-insights/"><u>Tom's Tech Hub: Exploring In-Depth Computer Hardware Insights</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/up-to-date-gpt-insights-universal-benefit/"><u>Up-to-Date GPT Insights, Universal Benefit</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-echoing-giggles-ultimate-ringtone-vaults/"><u>[New] 2024 Approved Echoing Giggles Ultimate Ringtone Vaults</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-exclusive-access-to-6-premium-thumbnail-generators-for-youtube/"><u>[Updated] In 2024, Exclusive Access to 6 Premium Thumbnail Generators for YouTube</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-exclusive-selection-top-gopro-adornments/"><u>[Updated] In 2024, Exclusive Selection Top Gopro Adornments</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-must-have-top-8-wallpapers-and-themes-for-mbp-users/"><u>[Updated] Must-Have Top 8 Wallpapers & Themes for MBP Users</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-enhancing-meeting-productivity-zooms-audio-and-video-recording-tips/"><u>2024 Approved Enhancing Meeting Productivity Zoom's Audio & Video Recording Tips</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-how-to-shorten-and-resize-video-on-iphone/"><u>2024 Approved How to Shorten and Resize Video on iPhone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/are-top-tier-artifice-intelligence-prompt-services-economically-viable/"><u>Are Top-Tier Artifice Intelligence Prompt Services Economically Viable?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/best-6-programs-to-analyze-and-communicate-via-chat-on-documentspdfs/"><u>Best 6 Programs to Analyze & Communicate via Chat on Documents/PDFs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-vector-databases-contribute-to-progressive-artificial-intelligence-systems/"><u>How Vector Databases Contribute to Progressive Artificial Intelligence Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ideal-laptops-for-college-use-thoroughly-tested-picks-for-research-composing-gaming-etc/"><u>Ideal Laptops for College Use: Thoroughly Tested Picks for Research, Composing, Gaming, Etc.</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-artful-humor-chuckledrawings/"><u>In 2024, Artful Humor ChuckleDrawings</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leading-artificial-intelligence-tools-simplifying-notes-capture/"><u>Leading Artificial Intelligence Tools Simplifying Notes Capture</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-how-to-modify-chatgpt/"><u>Understanding How to Modify ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-creativity-with-gpt-3-on-openai-playground-your-comprehensive-manual/"><u>Unlocking Creativity with GPT-3 on OpenAI Playground - Your Comprehensive Manual</u></a></li>
 </ul></div>
 

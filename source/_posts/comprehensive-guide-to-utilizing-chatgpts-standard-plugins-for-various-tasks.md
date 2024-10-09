@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to Utilizing ChatGPT's Standard Plugins for Various Tasks
-date: 2024-09-21T00:40:56.869Z
-updated: 2024-09-22T19:11:30.349Z
+date: 2024-10-08T16:50:04.657Z
+updated: 2024-10-09T18:24:16.374Z
 tags:
   - chatgpt
   - open-ai
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/b8a6614e5e46e83c73c99e937a620940173ecb3e5
 
 ![Aaron Web Browser on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/aaron-web-browser-on-the-chatgpt-plugin-store.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  “Built for scraping data from multiple website URLs.” This is the first sentence in the description for the plugin. One would think that the description accurately captures the plugin's capabilities, but upon closer inspection, it’s not entirely true. We tried to scrape data from 20 different URLs and only one went through.
 
  For a plugin that advertises itself as a web crawler, the failure rates were extremely high. In fairness, we tried other web scrapper plugins available on the ChatGPT plugin store, and they weren't particularly better at their job either. Need to[scrap data from a web page](https://www.makeuseof.com/tag/what-is-web-scraping/) ? Maybe ChatGPT plugins are not the right tool.
@@ -60,15 +67,22 @@ thumbnail: https://thmb.techidaily.com/b8a6614e5e46e83c73c99e937a620940173ecb3e5
 
  Sure, it seems a bit unreasonable to expect a working text-to-app plugin that can spit out apps on demand. But in an era where chatbots can write code and where text-to-image and text-to-video are a thing, text-to-app is not that ridiculous of an expectation.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. AI Agents
 
 ![AI Agents plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-agents-plugin-on-the-chatgpt-plugin-store.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you go by the definition of an AI agent, it’s easy to get excited about what the “AI Agents” plugin promises to do. The plugin self-describes as a plugin to help you “unleash the power of multiple AIs.” The idea is to take a complex goal, break it into subtasks, and then leverage the power of multiple AI agents specializing in each subtask to achieve the big goal you set for it.
@@ -77,23 +91,9 @@ thumbnail: https://thmb.techidaily.com/b8a6614e5e46e83c73c99e937a620940173ecb3e5
 
  It seems it was just applying a few prompt tricks and returning a not-so-enhanced copy of what ChatGPT would provide. There's really no sense of AI agents at work. It doesn't offer anything particularly different from what ChatGPT would do.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. A Movie Please (FilmFindr)
 
 ![FilmFindr plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/filmfindr-plugin-on-the-chatgpt-plugin-store.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The "A Movie Please" plugin is a movie recommendation tool to help ChatGPT users decide what to watch next. Although the plugin is not a dud (it actually makes movie recommendations), you're better off using ChatGPT without the plugin.
 
@@ -108,6 +108,13 @@ thumbnail: https://thmb.techidaily.com/b8a6614e5e46e83c73c99e937a620940173ecb3e5
  The ABC website maker promises “conversational coding” where you can build web apps at a moment's notice by simply conversing with the plugin in natural language. In theory, these abilities should be relatively easy to pull off, considering ChatGPT on its own is already an impressive conversational coding tool.
 
  However, when we tasked the plugin with creating a simple portfolio website, the result was underwhelming.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ChatGPT's Plugin Store: Quantity Over Quality?
 
@@ -128,5 +135,21 @@ thumbnail: https://thmb.techidaily.com/b8a6614e5e46e83c73c99e937a620940173ecb3e5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-alternative-video-editors-for-laptops-for-2024/"><u>[New] Alternative Video Editors for Laptops for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-the-path-to-profitable-product-placements-on-youtube/"><u>[Updated] 2024 Approved The Path to Profitable Product Placements on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-masterclass-youtube-music-arrangement/"><u>[Updated] Masterclass YouTube Music Arrangement</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-lens-on-innovation-how-hdri-redefines-video-production-standards/"><u>2024 Approved A Lens on Innovation How HDRI Redefines Video Production Standards</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-capturing-consoles-step-by-step-pc-playback-guide/"><u>2024 Approved Capturing Consoles Step-by-Step PC Playback Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Sony Xperia 5 V? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/llm-essentials-understanding-giants-in-ai-language-processing/"><u>LLM Essentials: Understanding Giants in AI Language Processing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-transforming-mp3-files-into-high-quality-aac-format/"><u>Step-by-Step Guide: Transforming MP3 Files Into High-Quality AAC Format</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-on-adjusting-video-playback-from-tv-standards-samsung-lg-sony-apple/"><u>Step-by-Step Tutorial on Adjusting Video Playback From TV Standards (Samsung, LG, Sony, Apple)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-preserving-image-and-sound-integrity-when-changing-from-to-windows-media-video-format/"><u>Step-by-Step Tutorial: Preserving Image and Sound Integrity When Changing From 지오그루피 to Windows Media Video Format</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-seamless-sound-removal-from-dvd-media/"><u>Step-by-Step Tutorial: Seamless Sound Removal From DVD Media</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-beginners-guide-mastering-the-art-of-gopro-video-slicing-on-user-friendly-software/"><u>The Beginner's Guide: Mastering the Art of GoPro Video Slicing on User-Friendly Software</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/unlock-your-apple-iphone-14-plus-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>Unlock Your Apple iPhone 14 Plus in Minutes with ICCID Code Everything You Need to Know</u></a></li>
+</ul></div>
 

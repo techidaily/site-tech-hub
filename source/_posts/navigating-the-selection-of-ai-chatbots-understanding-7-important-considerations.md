@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Selection of AI Chatbots: Understanding 7 Important Considerations"
-date: 2024-09-17T17:46:07.004Z
-updated: 2024-09-22T21:02:15.686Z
+date: 2024-10-07T17:55:17.298Z
+updated: 2024-10-09T19:36:21.649Z
 tags:
   - chatgpt
   - open-ai
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/e576cd8301018b2d3e3b69c8279df093bbbc31bad
 
  Explore[responsible ways of writing with AI](https://www.makeuseof.com/ways-to-use-ai-as-writer-editor/) instead. ChatGPT streamlines non-writing tasks, like researching topics, editing drafts, and analyzing reader personas.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Automating Employee Performance Reviews Through ChatGPT
 
  ChatGPT’s sophisticated[natural language processing](https://www.makeuseof.com/what-is-natural-language-processing-and-how-does-it-work/) (NLP) system understands input and produces corresponding responses. Some employees rely on it for drafting performance reports. They make ChatGPT write customized reviews by submitting their subordinates’ key performance indicators (KPIs).
@@ -60,29 +67,22 @@ thumbnail: https://thmb.techidaily.com/e576cd8301018b2d3e3b69c8279df093bbbc31bad
 
 ![Copy-Pasting Message from ChatGPT to Slack](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-replying-to-message.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  A study by[McKinsey & Company](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-social-economy) shows that employees spend 28 percent of the workweek answering and reading messages. To save time, you might consider automating some responses. ChatGPT can compose customized output based on the messages and instructions you input.
 
  Although you won’t get fired, you should still avoid sending ChatGPT-generated responses. They come across as rude and distant. You’ll elicit more favorable responses if you compose unique, personalized messages.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Composing Emails on ChatGPT
 
  Employees find it harder to write emails than chat messages because of their formal nature. To hasten the writing process, they[compose difficult emails on ChatGPT](https://www.makeuseof.com/use-chatgpt-write-work-emails/) .
 
  Like automated AI replies, workers rarely get fired for sending ChatGPT-generated emails. It just makes them look unprofessional. Use AI to generate writing prompts and create outlines, but you should still compose messages yourself.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Doing Research and Analyses on ChatGPT
 
@@ -91,10 +91,10 @@ thumbnail: https://thmb.techidaily.com/e576cd8301018b2d3e3b69c8279df093bbbc31bad
  You won’t get fired if you research responsibly. As with any other online resource, it’s best to verify information multiple times before presenting it. Compare data from other sources. Solely relying on ChatGPT’s output puts you at risk of spreading misinformation, a potentially career-ending mistake.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Using Code Snippets Written by ChatGPT
@@ -102,10 +102,10 @@ thumbnail: https://thmb.techidaily.com/e576cd8301018b2d3e3b69c8279df093bbbc31bad
 ![Asking ChatGPT to Write a Sample Code Snippet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/sample-code-snippet-from-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  ChatGPT’s ability to code in various languages caught the attention of programmers worldwide. It can write an entire site’s code in seconds. Many programmers reduce their workload by offloading much of the coding process to ChatGPT.
@@ -132,6 +132,13 @@ thumbnail: https://thmb.techidaily.com/e576cd8301018b2d3e3b69c8279df093bbbc31bad
 
  You can still offload some tasks to ChatGPT, like drawing charts or writing summaries. Just note that it lacks contextual understanding and takes input at face value—you must perform fact-checking yourself.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Use ChatGPT Ethically and Responsibly
 
  The mere act of using ChatGPT doesn’t justify termination. Most employers fire workers who exploit chatbots and pass off AI-generated output as original work. Just be transparent about your workflow. Don’t use ChatGPT if you have to hide it from your coworkers and supervisors.
@@ -151,5 +158,22 @@ thumbnail: https://thmb.techidaily.com/e576cd8301018b2d3e3b69c8279df093bbbc31bad
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-the-art-of-visual-anonymity-in-videos/"><u>[New] In 2024, The Art of Visual Anonymity in Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-top-12-real-time-youtube-subscriber-trackers/"><u>[New] Top 12 Real-Time YouTube Subscriber Trackers</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-vivo-v27e-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Vivo V27e without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mkvmov/"><u>安心できるMKVファイルをMOVに最適なコンバート方法：劣化無し</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/movh264/"><u>効率的なMOVからH264への変換方法 - ビデオ編集者のための総合解説</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-oppo-f25-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Oppo F25 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/comprehensive-guide-to-utilizing-extension-attributes-in-software-development/"><u>Comprehensive Guide to Utilizing Extension Attributes in Software Development</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-use-songs-from-apple-music-in-your-video-projects-a-step-by-step-guide/"><u>How to Use Songs From Apple Music in Your Video Projects: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/installing-franks-media-center-addon-for-enhanced-viewing-on-kodi-v19-matrix-build-a-comprehensive-tutorial/"><u>Installing Frank's Media Center Addon for Enhanced Viewing on Kodi v19 Matrix Build – A Comprehensive Tutorial</u></a></li>
+<li><a href="https://extra-information.techidaily.com/master-curves-transforming-photos-in-ps/"><u>Master Curves Transforming Photos in PS</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/playing-music-on-amazon-kindle-fire-stick-a-simple-step-by-step-instruction-for-mp3-files/"><u>Playing Music on Amazon Kindle Fire Stick - A Simple Step-by-Step Instruction for MP3 Files</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/seamlessly-watching-mkv-videos-on-xbox-one-ultimate-tricks-and-tips-revealed/"><u>Seamlessly Watching MKV Videos on Xbox One: Ultimate Tricks & Tips Revealed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/splave-shatters-overclocking-milestones-with-newly-released-asrocks-z790i-motherboard/"><u>Splave Shatters Overclocking Milestones with Newly Released ASRock's Z790I Motherboard</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-top-rated-free-whiteboard-animation-software-for-pc/"><u>Updated 2024 Approved Top-Rated Free Whiteboard Animation Software for PC</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mqaflac/"><u>シームレスな音質移行: MQAからFLACへの適切な変換方法とソフトウェア</u></a></li>
+</ul></div>
 

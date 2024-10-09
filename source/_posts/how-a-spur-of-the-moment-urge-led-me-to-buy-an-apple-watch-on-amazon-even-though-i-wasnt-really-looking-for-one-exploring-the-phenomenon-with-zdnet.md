@@ -1,7 +1,7 @@
 ---
 title: How a Spur-of-the-Moment Urge Led Me to Buy an Apple Watch on Amazon Even Though I Wasn't Really Looking for One | Exploring the Phenomenon with ZDNET
-date: 2024-09-29T08:39:04.920Z
-updated: 2024-10-04T07:52:46.988Z
+date: 2024-10-02T17:05:33.296Z
+updated: 2024-10-09T17:15:39.360Z
 tags:
   - apple
 categories:
@@ -39,10 +39,10 @@ When I upgraded to the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-
 [ZDNET RECOMMENDS Tech21 FlexPro Tech21's FlexPro is one of the most advanced cases on the market, combining sustainability with amazing impact protection, boasting an impressive 20ft FlexShock multi-drop feature. View at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FHRDB2ZM%2FA%2Ftech21-flexpro-for-iphone-15-plus-magsafe-compatible&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Tech 21 FlexPro features
@@ -89,10 +89,10 @@ This case can also take quite a beating. In the few months that I've owned the i
 For the record, I'm using a screen protector for added durability. I think this case is certainly one of the best I've tested in a long time, and the first in quite a while that I felt compelled to write about.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -131,15 +131,24 @@ My testing suggests cases don't get much better than the [Tech 21's FlexPro](htt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-can-instant-subscription-lead-to-higher-watch-time/"><u>[New] In 2024, Can Instant Subscription Lead to Higher Watch Time?</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-transforming-your-android-into-a-broadcast-hub/"><u>[Updated] 2024 Approved Transforming Your Android Into a Broadcast Hub</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-unlocking-the-potential-of-discord/"><u>[Updated] In 2024, Unlocking the Potential of Discord</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/autophagy-allows-cells-to-degrade-their-own-components-to-recycle-nutrients-and-eliminate-damaged-organelles-or-proteins-its-protective-against-various-dise46/"><u>Autophagy Allows Cells to Degrade Their Own Components to Recycle Nutrients and Eliminate Damaged Organelles or Proteins; It's Protective Against Various Diseases.</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-the-new-oneplus-tab-2-premium-quality-with-a-3000-pixel-screen-and-powerful-snapdragon-chipset/"><u>Discover the New OnePlus Tab 2 - Premium Quality with a 3000-Pixel Screen and Powerful Snapdragon Chipset</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discovering-the-resistance-understanding-your-apple-watchs-waterproof-ratings/"><u>Discovering the Resistance: Understanding Your Apple Watch's Waterproof Ratings</u></a></li>
-<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-oppo-reno-11f-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Oppo Reno 11F 5G in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/editing-images-with-your-iphones-photos-app-a-step-by-step-guide/"><u>Editing Images with Your iPhone's Photos App: A Step-by-Step Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-usb-driver-issues-resolve-blue-screen-errors-in-windows-11/"><u>Fixing USB Driver Issues: Resolve Blue Screen Errors in Windows 11</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/master-warzone-20-pc-setup-uncover-these-7-essential-tweaks-to-avoid-start-up-hurdles/"><u>Master Warzone 2.0 PC Setup: Uncover These 7 Essential Tweaks to Avoid Start-Up Hurdles</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2023s-leading-covert-video-download-apps-1-8/"><u>[New] 2023'S Leading Covert Video Download Apps #1-8</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-produce-eye-catching-and-informative-videos-for-education-channels/"><u>[New] In 2024, How to Produce Eye-Catching and Informative Videos for Education Channels</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-simplify-collaboration-in-windows-10-effective-use-of-zoom-services/"><u>[New] In 2024, Simplify Collaboration in Windows 10 Effective Use of Zoom Services</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-precision-and-performance-gamers-equipment-showcase/"><u>[Updated] In 2024, Precision & Performance Gamer's Equipment Showcase</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-top-5-digital-tools-for-enhancing-web-streams/"><u>2024 Approved Top 5 Digital Tools for Enhancing Web Streams</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/amazon-labor-day-sale-grab-your-low-cost-ipad-for-just-199-today/"><u>Amazon Labor Day Sale: Grab Your Low-Cost iPad for Just $199 Today!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/best-buy-how-i-spontaneously-added-apples-newest-17-earpods-with-usb-c-to-my-cart-for-amazon-prime-day-deals-insights-from-zdnet/"><u>Best Buy: How I Spontaneously Added Apple's Newest $17 EarPods with USB-C to My Cart for Amazon Prime Day Deals - Insights From ZDNet</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-zero-cost-enhancer-for-digital-photography/"><u>Best Zero-Cost Enhancer for Digital Photography</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beta-testing-alert-start-using-macos-15-sequoia-today-on-your-apple-devices-with-easy-installation-guide-zdnet/"><u>Beta Testing Alert! Start Using macOS 15 Sequoia Today on Your Apple Devices with Easy Installation Guide - [ZDNet]</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boost-your-productivity-with-swift-macos-finder-shortcuts-insights/"><u>Boost Your Productivity with Swift MacOS Finder Shortcuts - Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/buy-airpods-pro-2-with-built-in-hearing-aid-functionality-at-an-exclusive-24-discount-today-shop-now-on-zdnet/"><u>Buy AirPods Pro 2 with Built-In Hearing Aid Functionality at an Exclusive 24% Discount Today - Shop Now on ZDNet</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-how-to-add-music-to-instagram-story/"><u>In 2024, How to Add Music to Instagram Story?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-moviemakermag-all-about-androvid-editor/"><u>In 2024, MovieMakerMag All About AndroVid Editor</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-iphone-camera-for-nighttime-pics-for-2024/"><u>Navigating iPhone Camera for Nighttime Pics for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/next-gen-earbuds-decoded-comparing-features-of-appleebox-airpods-pro-vs-airpods-max-gadgetguru-insights/"><u>Next-Gen Earbuds Decoded: Comparing Features of Apple'ebox AirPods Pro Vs. AirPods Max | GadgetGuru Insights</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tailored-techniques-for-dynamic-gifs-for-2024/"><u>Tailored Techniques for Dynamic GIFs for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/three-years-later-the-evolution-of-my-iphone-journey-showcased/"><u>Three Years Later: The Evolution of My iPhone Journey Showcased</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-6-persuasive-benefits-of-owning-an-apple-watch-insights-from-industry-experts/"><u>Top 6 Persuasive Benefits of Owning an Apple Watch: Insights From Industry Experts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-new-features-how-the-integration-of-googles-gemini-into-ios-enhances-your-iphone-experience-techinsights/"><u>Unlocking New Features: How the Integration of Google's Gemini Into iOS Enhances Your iPhone Experience | TechInsights</u></a></li>
 </ul></div>
 

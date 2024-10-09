@@ -1,7 +1,7 @@
 ---
 title: "A New Era of Editing Unlocked: How FCPx's Latest iPad Innovations Are Transforming Filmmaking - ZDNet"
-date: 2024-09-29T00:30:45.797Z
-updated: 2024-10-04T03:25:46.115Z
+date: 2024-10-04T21:52:54.449Z
+updated: 2024-10-09T16:02:45.589Z
 tags:
   - apple
 categories:
@@ -105,31 +105,29 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-unleashing-creativity-secrets-of-unique-yt-short-content/"><u>[New] Unleashing Creativity Secrets of Unique YT Short Content</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-google-meet-username-transformation-guide/"><u>[Updated] In 2024, Google Meet Username Transformation Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/cutting-down-on-copywriting-fails-with-chatgpt-tips/"><u>Cutting Down on Copywriting Fails with ChatGPT Tips</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/debating-tech-giants-is-the-newcomer-claude-faster-and-smarter-than-chatgpt/"><u>Debating Tech Giants: Is the Newcomer Claude Faster and Smarter than ChatGPT?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/eager-for-a-conversation-with-chatgpt-on-your-desktop-discover-an-exceptional-open-source-option/"><u>Eager for a Conversation with ChatGPT on Your Desktop? Discover an Exceptional Open-Source Option</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/extracting-stills-for-windows-11-video-projects/"><u>Extracting Stills for Windows 11 Video Projects</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/fostering-your-style-in-chatgpts-language-outputs/"><u>Fostering Your Style in ChatGPT's Language Outputs</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/guida-facile-al-caricamento-di-file-vairi-in-formato-dvd-su-nas-sincronizzazione-e-trasmissione-ottimizzate/"><u>Guida Facile Al Caricamento Di File Vairi in Formato DVD Su NAS - Sincronizzazione E Trasmissione Ottimizzate</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-substitute-cinema-classics-ranked-7-1/"><u>In 2024, Substitute Cinema Classics, Ranked #7-1</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-the-export-transferring-your-chatgpt-records/"><u>Navigating the Export: Transferring Your ChatGPT Records</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/new-10-best-memes-right-now-include-image-gifvideo-for-2024/"><u>New 10 Best Memes Right Now (Include Image/ GIF/Video) for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/securing-your-conversations-the-countdown-for-fb-messengers-e2ee/"><u>Securing Your Conversations: The Countdown for FB Messenger's E2EE</u></a></li>
-<li><a href="https://blog-min.techidaily.com/swift-4k-movie-migration-iphone-to-mac-without-hassle/"><u>Swift 4K Movie Migration: IPhone to Mac Without Hassle</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-5-breakthrough-ai-hardware-innovations-poised-for-success/"><u>Top 5 Breakthrough AI Hardware Innovations Poised for Success</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-rated-ipad-offers-just-in-save-big-on-your-next-purchase/"><u>Top-Rated iPad Offers Just In - Save Big on Your Next Purchase</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-the-potential-discover-how-snapchats-my-ai-transcends-beyond-fun-gadgetry/"><u>Unlocking the Potential: Discover How Snapchat's My AI Transcends Beyond Fun Gadgetry</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-positive-aspects-and-negative-points-of-chatgpt-plus/"><u>Unveiling The Positive Aspects And Negative Points Of ChatGPT Plus</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/what-sets-corporate-chatgpt-apart/"><u>What Sets Corporate ChatGPT Apart?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/your-ultimate-guide-to-telegram-web-navigation/"><u>Your Ultimate Guide to Telegram Web Navigation</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/he-editors-journey-creating-impactful-videos-for-youtube-with-pc-for-2024/"><u>[New] The Editor's Journey Creating Impactful Videos for YouTube with PC for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-tripods-for-youtube-creators-filming-needs/"><u>[Updated] Expert Tripods for YouTube Creators' Filming Needs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/expanding-horizons-how-apple-empowers-its-community-with-ai-training-for-students-and-alumni-featured/"><u>Expanding Horizons: How Apple Empowers Its Community with AI Training for Students and Alumni, Featured</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/get-instant-access-to-macos-15-sequoia-beta-version-and-easy-setup-walkthrough-for-users-with-a-macbook-or-any-mac-model-zdnets-quick-guide/"><u>Get Instant Access to MacOS 15 Sequoia Beta Version & Easy Setup Walkthrough for Users with a MacBook or Any Mac Model | ZDNet's Quick Guide</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/minecraft-community-image-bank-access/"><u>Minecraft Community Image Bank Access</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/story-1-the-allergy-misconception-answer-a/"><u>Story 1: The Allergy Misconception (Answer A)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-temptation-of-tech-unpacking-my-spontaneous-buy-of-apples-17-usc-equipped-earpods-during-prime-day-a-zdnet-analysis/"><u>The Temptation of Tech: Unpacking My Spontaneous Buy of Apple's $17 USC-Equipped EarPods During Prime Day - A ZDNet Analysis</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tips-and-tricks-for-iphone-audio-enthusiasts-for-2024/"><u>Tips and Tricks for iPhone Audio Enthusiasts for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-vivo-x100-pro-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Vivo X100 Pro Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-ranking-ipad-models-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top-Ranking iPad Models - Comprehensive Reviews by Tech Gurus | ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-to-fix-the-absent-d3dx924dll-error/"><u>Troubleshooting Steps to Fix the Absent d3dx9_24.dll Error</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

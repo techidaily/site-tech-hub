@@ -1,7 +1,7 @@
 ---
 title: "Running FreeChat on Win: A FreedomGPT Guide"
-date: 2024-09-16T02:06:57.607Z
-updated: 2024-09-22T21:50:14.503Z
+date: 2024-10-05T21:22:19.823Z
+updated: 2024-10-09T18:56:51.136Z
 tags:
   - chatgpt
   - open-ai
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/cfe1e4fd673ca5fb5a36d3dc03d18f188db631104
 * [How to Opt-Out of ChatGPT's Chat History and Training Feature](https://www.makeuseof.com/chatgpt-privacy-opt-out-data-collection/#how-to-opt-out-of-chatgpt-39-s-chat-history-and-training-feature)
 * [ChatGPT Data Collection You Can't Opt Out From](https://www.makeuseof.com/chatgpt-privacy-opt-out-data-collection/#chatgpt-data-collection-you-can-39-t-opt-out-from)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * You can opt out of ChatGPT's use of your chat data for training, ensuring your conversations remain private.
@@ -35,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/cfe1e4fd673ca5fb5a36d3dc03d18f188db631104
  While ChatGPT is a fantastic AI tool, certain privacy concerns have surrounded it since its November 2022 launch. One such concern is OpenAI's use of user chat data to further train its LLMs.
 
  But worry not; you can opt out of having your chat data used, keeping your ChatGPT conversations private.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Is ChatGPT's Chat History and Training Feature?
 
@@ -48,13 +62,6 @@ thumbnail: https://thmb.techidaily.com/cfe1e4fd673ca5fb5a36d3dc03d18f188db631104
 
  However, in April 2023, OpenAI started offering users the choice to disable or enable chat history and training data collection.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Opt-Out of ChatGPT's Chat History and Training Feature
 
  There's one downside of opting out of ChatGPT's chat data feature, and that's the loss of your chat history. This doesn't just mean OpenAI can't keep a history of your chats; it also means you cannot view your chat history. Therefore, returning to previous chats becomes impossible, rendering all your previous chat data inaccessible. Note that this doesn't[delete your ChatGPT history](https://www.makeuseof.com/how-to-delete-your-chatgpt-history/) but does make it off-limits until you re-enable the chat history and training feature.
@@ -63,15 +70,28 @@ thumbnail: https://thmb.techidaily.com/cfe1e4fd673ca5fb5a36d3dc03d18f188db631104
 
 ![chatgpt sidebar menu options list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/chatgpt-sidebar-menu-options-list.png)
 
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  First, click on your profile name at the bottom-left of the main page and head to**Settings & Beta** .
 
 ![screenshot of chatgpt data controls setting on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-data-controls.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In your settings, click on the**Data controls** option. Now, you'll see a setting named**Chat history & training** . This feature will be active by default, but a simple click on the toggle will disable it instantly. Now the feature has been turned off, you'll notice your chat history is no longer accessible on the main page.
@@ -107,5 +127,23 @@ thumbnail: https://thmb.techidaily.com/cfe1e4fd673ca5fb5a36d3dc03d18f188db631104
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-hub.techidaily.com/tudou/"><u>「土豆(Tudou)からのビデオダウンロードガイド」</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/get-more-for-less-discover-the-ultimate-oneplus-prime-day-sales/"><u>Get More for Less: Discover the Ultimate OnePlus Prime Day Sales!</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/how-to-convert-4k-video-to-mp4-a-step-by-step-download-guide/"><u>How to Convert 4K Video to MP4 A Step-by-Step Download Guide</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-from-iphone-14-by-drfone-ios/"><u>In 2024, Troubleshooting Error Connecting to the Apple ID Server From iPhone 14</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ltimate-list-lovers-handbook-for-crafting-youtube-music-selections-for-2024/"><u>The Ultimate List Lover's Handbook for Crafting YouTube Music Selections for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-8-essential-factors-to-look-for-in-your-next-tablet-purchase/"><u>Top 8 Essential Factors to Look For in Your Next Tablet Purchase</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-issues-with-call-of-duty-warzones-voice-and-microphone-functionality-on-pc-and-consoles/"><u>Troubleshooting Guide: Resolving Issues with Call of Duty Warzone's Voice and Microphone Functionality on PC and Consoles</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/try-our-premium-ipad-film-editor-software-for-free-and-complete-your-purchase-safely-after-testing/"><u>Try Our Premium iPad Film Editor Software for Free and Complete Your Purchase Safely After Testing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-guide-to-choosing-the-perfect-aiot-videocoder-updated-recommendations-and-tips/"><u>Ultimate Guide to Choosing the Perfect AIOT Videocoder - Updated Recommendations & Tips!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-guide-convert-your-favorite-tiktoks-into-high-quality-mp3-files-using-the-leading-converters-of-2023/"><u>Ultimate Guide: Convert Your Favorite TikToks Into High-Quality MP3 Files Using the Leading Converters of 2023</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-productivity-why-blackberry-dominates-in-enterprise-mobility-solutions/"><u>Unlocking Productivity: Why BlackBerry Dominates in Enterprise Mobility Solutions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/video-quality-unleashed-top-phones-boasting-exceptional-image-stabilization/"><u>Video Quality Unleashed Top Phones Boasting Exceptional Image Stabilization</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/wildwood-lake-park/"><u>Wildwood Lake Park</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726026870345-windows-10/"><u>Windows 10用動画カット技術詳解</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726026623828-youtube/"><u>YouTube 年齢制限突破！シークレットの方法</u></a></li>
+</ul></div>
 

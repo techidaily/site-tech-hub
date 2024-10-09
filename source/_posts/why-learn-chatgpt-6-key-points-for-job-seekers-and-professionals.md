@@ -1,7 +1,7 @@
 ---
 title: "Why Learn ChatGPT: 6 Key Points for Job Seekers and Professionals"
-date: 2024-09-21T23:18:07.263Z
-updated: 2024-09-22T22:49:53.514Z
+date: 2024-10-02T22:08:45.929Z
+updated: 2024-10-09T20:05:21.659Z
 tags:
   - chatgpt
   - open-ai
@@ -67,13 +67,6 @@ You could use:
 
 ![Elon Musk's view on Pizza](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/elon-musk-s-view-on-pizza.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Not Providing Context When Necessary
 
  Context plays a vital role in how ChatGPT responds to any given prompt. Even a minor shift in context can lead to significantly different responses. If no context is provided, your prompt becomes ambiguous, resulting in varied responses each time the same prompt is used. This lack of consistency may not be desirable when seeking precise answers because there's no way of knowing the right response. But how do you provide context, and when should you?
@@ -94,35 +87,55 @@ You could use:
 
 ![ChatGPT Prompt without example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/prompt-without-example.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Without examples, the jokes ChatGPT came up with weren't particularly rib-cracking. The overall response wasn't quite enticing as well.
 
 ![Lady Gaga and Ed Sheeran Jokes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/lady-gaga-and-ed-sheeran-jokes.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Next, we gave ChatGPT some examples of how we want our jokes to look. Here's the prompt in the screenshot below:
 
 ![chatgpt prompt with an example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-prompt-with-an-example.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  With examples to guide ChatGPT, the generated jokes became significantly better (a bit jealous that ChatGPT's jokes seem better than ours, though!). This first one was a joke about Taylor Swift.
 
 ![taylor swift joke](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/taylor-swift-joke.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 And here's another one ChatGPT made when we prompted it with Jay-Z.
 
 ![Jay-z joke made by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/jay-z-joke.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Loved the second set of jokes? Well, the moral of the story is to use examples more often.
 
@@ -135,10 +148,10 @@ And here's another one ChatGPT made when we prompted it with Jay-Z.
  Specific prompts provide a clearer direction for ChatGPT to follow. It also narrows down the focus of the prompt and provides more relevant information for the model to work with.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT Is Garbage In, Garbage Out
@@ -158,5 +171,26 @@ And here's another one ChatGPT made when we prompted it with Jay-Z.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ed-loop-like-a-boss-quick-and-easy-techniques-for-youtube-watchers-for-2024/"><u>[Updated] Loop Like a Boss Quick and Easy Techniques for YouTube Watchers for 2024</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/1-best-practices-mastering-livestreams-with-manycam-professional-virtual-camera-solutions/"><u>1. Best Practices: Mastering Livestreams with ManyCam - Professional Virtual Camera Solutions</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/best-video-editor-for-recorded-webcam-videos/"><u>Best Video Editor for Recorded Webcam Videos</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparing-ai-branches-unveiling-the-distinctions-between-nlp-and-ml/"><u>Comparing AI Branches: Unveiling the Distinctions Between NLP and ML</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discovering-the-world-of-ai-9-essential-tools-for-starters/"><u>Discovering the World of AI: 9 Essential Tools for Starters</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/future-of-ai-writing-assistant-our-wishlist-for-gpt-5/"><u>Future of AI Writing Assistant: Our Wishlist for GPT-5</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-comprehensively-conquering-hp-notebook-screen-recording-techniques/"><u>In 2024, Comprehensively Conquering HP Notebook Screen Recording Techniques</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-samsung-galaxy-f04-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Samsung Galaxy F04 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-nokia-c22-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Nokia C22 Device</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leverage-chatgpt-my-bots-for-gameplay-visuals-plus-more/"><u>Leverage ChatGPT My Bots for Gameplay, Visuals, Plus More</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leveraging-chatgpt-for-efficient-and-creative-website-creation/"><u>Leveraging ChatGPT for Efficient and Creative Website Creation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/making-every-gift-discovery-special/"><u>Making Every Gift Discovery Special</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-your-pc-with-tips-from-toms-hardware-experts/"><u>Mastering Your PC with Tips From Tom's Hardware Experts</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/navigating-with-ease-a-review-of-mobvois-ticwatch-pro-and-its-long-lasting-battery-thanks-to-innovative-dual-screen-technology/"><u>Navigating with Ease: A Review of Mobvoi's TicWatch Pro Ⅲ and Its Long-Lasting Battery, Thanks to Innovative Dual Screen Technology</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/overcoming-chatgpts-character-threshold-for-extended-conversations/"><u>Overcoming ChatGPT's Character Threshold for Extended Conversations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/running-chatgpt-as-a-desktop-app-on-windows-quick-instructions/"><u>Running ChatGPT as a Desktop App on Windows - Quick Instructions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/seven-keys-to-unlocking-the-value-of-ai-for-health-advice/"><u>Seven Keys to Unlocking the Value of AI for Health Advice</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-using-application-compatibility-mode-in-windows-10/"><u>Step-by-Step: Using Application Compatibility Mode in Windows 10</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-dichotomy-of-ai-mass-engagement-vs-precious-data/"><u>The Dichotomy of AI: Mass Engagement Vs. Precious Data</u></a></li>
+</ul></div>
 

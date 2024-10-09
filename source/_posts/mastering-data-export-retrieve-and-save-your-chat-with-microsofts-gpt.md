@@ -1,7 +1,7 @@
 ---
 title: "Mastering Data Export: Retrieve and Save Your Chat with Microsoft's GPT"
-date: 2024-09-16T20:31:11.443Z
-updated: 2024-09-22T20:22:00.505Z
+date: 2024-10-04T18:52:56.769Z
+updated: 2024-10-09T16:49:40.770Z
 tags:
   - chatgpt
   - open-ai
@@ -51,6 +51,13 @@ thumbnail: https://thmb.techidaily.com/d3a69700e0cb55adae67e72e210fb2f2a9d54f1a9
 
 ![binary code background showing a woman face to face with a robot ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/muo-photo-standard-10-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  As an AI prompt engineer or "AI whisperer," your task is to develop a set of inputs that an AI model can use to generate the most desirable output. As we have seen, the prompt's quality significantly affects an AI model's performance.
 
  To help an AI system give the most accurate responses to problems, AI prompt engineers train the AI with prompts. They design prompts to get the best results. As an AI Prompt Engineer, you should be able to understand the problem and select the best data sources to do these tasks.
@@ -81,20 +88,27 @@ thumbnail: https://thmb.techidaily.com/d3a69700e0cb55adae67e72e210fb2f2a9d54f1a9
 
  AI prompt engineering is necessary for companies and businesses looking to leverage AI. The AI revolution has just started, so you can safely assume there will be a growing demand for AI prompt engineers as long as people use AI tools.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Start Your AI Prompt Engineer Career
 
  You don't need coding skills, a tech background, or experience with AI to become an AI prompt engineer. For example, Anna Bernstein, previously mentioned in this article, is an English major and former freelance writer. To succeed in this role:
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Develop Your AI Prompt Engineering Skills
 
 ![Webpage of ChatGPT, a prototype AI chatbot, is seen on the website of OpenAI, on iPhone or smartphone](https://thmb.techidaily.com/0313aeb6801c4ad054aee4b20ba488ff337dac52c595922f616f6d67ab2cd3c7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 This non-exhaustive skills list will be helpful for your AI career:
 
@@ -115,25 +129,18 @@ This non-exhaustive skills list will be helpful for your AI career:
 
  That said, an AI prompt engineering career requires continuous learning and practice. Learning the principles while mastering the technology will help you become an AI prompt engineer.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Build Your AI Prompt Engineering Portfolio
 
 ![AI prompt engineer portfolio built on Canva](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/muo-photo-standard-8-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To highlight your prompt engineering skills, build an online portfolio on a website builder like Canva. Include the prompts you designed, and any other projects related to technology and AI. A strong portfolio will help you position yourself as an AI prompt engineer professional.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Start Networking and Building Your Credibility
 
@@ -146,10 +153,10 @@ This non-exhaustive skills list will be helpful for your AI career:
 ![screenshot of Joblist.ai website showing AI prompt engineering jobs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/muo-photo-standard-6-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  AI prompt engineering is a new career path. But you can already start looking for jobs on these websites:
@@ -159,6 +166,13 @@ This non-exhaustive skills list will be helpful for your AI career:
 * [Upwork](https://www.upwork.com/nx/jobs/search/?q=Prompt%20Engineer%20AI&sort=recency)
 
  Always check the legitimacy of online jobs. Take note of[red flags that your job offer isn't legitimate](https://www.makeuseof.com/red-flags-job-isnt-legitimate/) .
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Position Yourself as an AI Prompt Engineer
 
@@ -179,5 +193,26 @@ This non-exhaustive skills list will be helpful for your AI career:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-driving-impact-with-data-informed-spotify-ads/"><u>[New] In 2024, Driving Impact with Data-Informed Spotify Ads</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-enhancing-iphone-x-usability-fixing-face-id-issues/"><u>[New] In 2024, Enhancing iPhone X Usability Fixing Face ID Issues</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-rhythm-reels-crafting-danceable-instagram-video-content/"><u>[New] Rhythm Reels Crafting Danceable Instagram Video Content</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-no-limit-visual-capturer-device/"><u>[Updated] In 2024, No-Limit Visual Capturer Device</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-photos-from-realme-by-fonelab-android-recover-photos/"><u>Best Android Data Recovery - Retrieve Lost Photos from Realme .</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/combine-videos-freely-7-watermark-free-editors/"><u>Combine Videos Freely 7 Watermark-Free Editors</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-guide-to-dividing-mov-video-files-on-your-computer/"><u>Easy Guide to Dividing MOV Video Files on Your Computer</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-steps-for-transforming-dvd-content-to-high-quality-divx-videos/"><u>Easy Steps for Transforming DVD Content to High-Quality DivX Videos</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-strategies-how-to-transfer-large-sized-documents-effectively/"><u>Easy Strategies: How to Transfer Large-Sized Documents Effectively</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/expert-tips-on-effortlessly-cutting-4k-videos-while-preserving-full-hd-clarity-and-detail/"><u>Expert Tips on Effortlessly Cutting 4K Videos While Preserving Full HD Clarity and Detail</u></a></li>
+<li><a href="https://techtrends.techidaily.com/explore-these-15-must-have-free-applications-for-easy-software-removal/"><u>Explore These 15 Must-Have Free Applications for Easy Software Removal</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-convert-rip-proof-dvds-into-multiple-formats-like-avi-mp4-mkv-and-more/"><u>How to Convert Rip-Proof DVDs Into Multiple Formats Like AVI, MP4, MKV & More</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-flip-and-adjust-camera-angles-in-videos-a-comprehensive-walkthrough-for-avidemux-users/"><u>How to Flip and Adjust Camera Angles in Videos - A Comprehensive Walkthrough for Avidemux Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-resolve-a-9anime-crash-tips-for-getting-the-stream-up-and-running-again/"><u>How to Resolve a 9Anime Crash - Tips for Getting the Stream Up and Running Again</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/master-the-art-of-mts-video-imports-and-edits-a-guide-to-using-windows-movie-maker-proficiently/"><u>Master the Art of MTS Video Imports & Edits: A Guide to Using Windows Movie Maker Proficiently</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-audio-sampling-tips-and-techniques-to-adjust-sample-rates-for-superior-playback-experience/"><u>Mastering Audio Sampling: Tips & Techniques to Adjust Sample Rates for Superior Playback Experience</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mega-gaming-experience-custom-raspberry-pi-5-upgraded-giant-game-boy-xl-featuring-fully-operational-buttons/"><u>Mega Gaming Experience: Custom Raspberry Pi 5 Upgraded Giant Game Boy XL Featuring Fully Operational Buttons</u></a></li>
+<li><a href="https://facebook.techidaily.com/mysterious-tech-moves-unveiling-facebooks-secret-gadget/"><u>Mysterious Tech Moves: Unveiling Facebook's Secret Gadget</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/step-by-step-minecraft-video-editing-process/"><u>Step-by-Step Minecraft Video Editing Process</u></a></li>
+</ul></div>
 

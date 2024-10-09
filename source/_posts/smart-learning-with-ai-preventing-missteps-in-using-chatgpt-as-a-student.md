@@ -1,7 +1,7 @@
 ---
 title: "Smart Learning with AI: Preventing Missteps in Using ChatGPT as a Student"
-date: 2024-09-18T18:43:15.661Z
-updated: 2024-09-23T02:22:28.825Z
+date: 2024-10-07T17:49:53.916Z
+updated: 2024-10-09T19:37:24.326Z
 tags:
   - chatgpt
   - open-ai
@@ -50,9 +50,23 @@ thumbnail: https://thmb.techidaily.com/7f58c54be3fb446b417c67b3b88e71900b79dad1a
 
 **Cost:** Free for 10,000 characters per month. $9 per month for 100,000 characters and $29 per month for unlimited use.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. ShortlyAI
 
 ![ShortlyAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/shortlyai.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [ShortlyAI](https://www.shortlyai.com/) is another tool without too many features. However, this one is focused on either blog posts or story writing, which makes it much more specialized.
 
@@ -65,16 +79,10 @@ thumbnail: https://thmb.techidaily.com/7f58c54be3fb446b417c67b3b88e71900b79dad1a
 **Cost:** $79 per month for unlimited use. However, if you want to try it out, you can sign up without a credit card—and you get four clicks a day.
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. DeepStory
@@ -87,22 +95,16 @@ thumbnail: https://thmb.techidaily.com/7f58c54be3fb446b417c67b3b88e71900b79dad1a
 
 **Cost:** $12 per month, with a limit of 10,000 words. You can also try it out for free for 10 generations.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. NovelAI
 
 ![NovelAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/novelai.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [NovelAI](https://novelai.net/) is one of the most complex AI story writers on the list. But it’s also one of the most exciting ones. The basic new story AI generator works somewhat similarly to the others. You start writing the first few words or sentences of the story, and let the AI continue.
 
@@ -133,5 +135,26 @@ thumbnail: https://thmb.techidaily.com/7f58c54be3fb446b417c67b3b88e71900b79dad1a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-hub.techidaily.com/download-zebra-gk420d-driver-quickly-and-easily/"><u>[DOWNLOAD] Zebra GK420d Driver | Quickly & Easily</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-explore-best-speech-recognition-software-on-your-mac/"><u>[New] In 2024, Explore Best Speech Recognition Software on Your Mac</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-best-of-breed-top-10-youtube-stations-for-journalism-for-2024/"><u>[Updated] Best of Breed Top 10 YouTube Stations for Journalism for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-perfecting-sound-integrating-music-into-vimeo-video-projects/"><u>[Updated] Perfecting Sound Integrating Music Into Vimeo Video Projects</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-best-practices-for-video-game-archiving-on-playstation-4/"><u>2024 Approved Best Practices for Video Game Archiving on PlayStation 4</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/analyzing-security-in-browser-ai-plugins/"><u>Analyzing Security in Browser AI Plugins</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/asus-z370-e-motherboard-download-latest-drivers-now/"><u>ASUS Z370-E Motherboard: Download Latest Drivers Now</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beware-of-impostor-apps-spotting-authentic-chatgpt-windows-versions/"><u>Beware of Impostor Apps: Spotting Authentic ChatGPT Windows Versions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bypassing-openais-gatekeepers-a-guide-to-using-chatgpt-without-an-account-5-key-points/"><u>Bypassing OpenAI's Gatekeepers: A Guide to Using ChatGPT Without an Account (5 Key Points)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-your-arts-value-the-power-of-nightshade-against-ai-replicas/"><u>Elevate Your Art's Value: The Power of Nightshade Against AI Replicas</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-your-chatbot-experience-with-these-7-query-optimization-tactics/"><u>Elevate Your Chatbot Experience with These 7 Query Optimization Tactics</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-13-mini-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone 13 mini with a Broken Screen?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/leveraging-likeability-strategies-for-going-viral-on-facebook/"><u>Leveraging Likeability Strategies for Going Viral on Facebook</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-dilemma-of-ai-and-falsehood-creation/"><u>The Dilemma of AI and Falsehood Creation</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/the-ultimate-guide-to-keeping-your-microsoft-devices-up-to-date-on-all-windows-platforms/"><u>The Ultimate Guide to Keeping Your Microsoft Devices Up-to-Date on All Windows Platforms</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-the-data-protection-pitfalls-of-interactive-assistants/"><u>Understanding the Data Protection Pitfalls of Interactive Assistants</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleashing-creativity-with-pythongpt-3-pairings/"><u>Unleashing Creativity with Python/GPT-3 Pairings</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>What are Location Permissions Life360 On Apple iPhone 15? | Dr.fone</u></a></li>
+</ul></div>
 

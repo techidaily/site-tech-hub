@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Top 4 New iPadOS 16 Releases From Apple's Worldwide Developers Conference: Eligible Devices Explored – A Comprehensive Guide by TechSavvy"
-date: 2024-09-29T12:01:23.795Z
-updated: 2024-10-03T16:27:43.490Z
+date: 2024-10-05T18:34:59.757Z
+updated: 2024-10-09T22:09:08.168Z
 tags:
   - apple
 categories:
@@ -57,10 +57,10 @@ In VisionOS 2, there are gestures. Holding your hand palm up and tapping fingers
 Unlike the previous two features, this _is_ a quality of life improvement. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Mac virtual display improvements
@@ -72,10 +72,10 @@ Screenshot by David Gewirtz/ZDNET
 On the other hand, Apple "later this year" will enable you to create displays with more resolutions. The most interesting is the full wrap-around display, which will be the equivalent of two 4K monitors. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Choo-choo train mode
@@ -83,13 +83,6 @@ On the other hand, Apple "later this year" will enable you to create displays wi
 To be fair, Apple didn't call it that. We've [talked about the Vision Pro's travel mode](https://www.zdnet.com/article/itching-to-try-vision-pros-travel-mode-heres-what-to-expect-before-you-go/), which was mostly intended for airplane travel. 
 
 In VisionOS 2, Apple is announcing that there is dedicated support in travel mode for train travel. We know [people have already been successful using the Vision Pro on the train and even subway](https://www.youtube.com/shorts/8ckKAjAWLw8), but in this case, Apple presumably tweaked performance somewhat. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. New developer APIs
 
@@ -101,6 +94,13 @@ There are a ton of VR and AR APIs in Apple's platforms. But this week, at WWDC, 
 * **TabletopKit:** Helps developers create apps that anchor to flat surfaces. One obvious example is board game kits, but this could apply to interior design apps, architectural and construction projects, gaming, navigation, and more.
 * **Enterprise APIs:** These were described as enterprise-specific APIs, so we can assume they're somewhat special purpose. Examples given were surgical training and manufacturing.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. New Canon spatial lens for creating spatial video
 
 While iPhone 15 Pro users can create spatial video, there are limitations to using an iPhone as a camera. Apple announced today that Canon will be introducing a spatial lens for its [EOS R7 digital camera](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCanon-RF-S18-150mm-Mirrorless-Processor-Detection%2Fdp%2FB0B2KSD7WW%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbfbe271d-4f99-40f4-b81e-3b3c556a641c%7Cdtp&dtb=1). 
@@ -108,6 +108,13 @@ While iPhone 15 Pro users can create spatial video, there are limitations to usi
 Screenshot by David Gewirtz/ZDNET
 
 This allows more commercial and prosumer projects where the photographer or videographer needs more control over the complex range of settings available in a more traditional camera. Those videos can then be edited in Final Cut Pro, Apple's only mention of Final Cut during WWDC. There's also a new Vimeo app for VisionOS, that will allow spatial videos to be shared. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Third-party immersive video workflow
 
@@ -118,13 +125,6 @@ One of the truly breathtaking experiences of the Vision Pro is what Apple calls 
 Apple is opening up the format for third-party creators to create immersive video. The approach is to use cameras and DaVinci Resolve Studio from [Blackmagic Design](https://www.blackmagicdesign.com/). There's no doubt that Blackmagic makes excellent gear and that DaVinci Resolve is a fine application. It's just a little surprising that Apple didn't bake this capability into its own high-end video production tool, Final Cut Pro.
 
 Even so, I think this is great. Those immersive videos are fantastic. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Other new features
 
@@ -179,18 +179,22 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-merge-skype-and-zoom-easy-techniques-for-effective-communication/"><u>[New] 2024 Approved Merge Skype and Zoom Easy Techniques for Effective Communication</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/024-approved-unlock-easy-paths-for-exceptional-yt-thumbnails/"><u>[New] 2024 Approved Unlock Easy Paths for Exceptional YT Thumbnails</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-the-real-value-of-selfie-verifications-in-2024/"><u>[New] The Real Value of Selfie Verifications, In 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-ultimate-list-watching-nba-in-real-time/"><u>[New] The Ultimate List Watching NBA in Real-Time</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-boosting-watch-time-and-reducing-churn-on-youtube-the-ultimate-list-of-methods-for-2024/"><u>[Updated] Boosting Watch Time and Reducing Churn on YouTube The Ultimate List of Methods for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-dividedlens-testimonial/"><u>2024 Approved DividedLens Testimonial</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-top-trending-snapchat-augmentations-for-your-photos/"><u>2024 Approved Top Trending Snapchat Augmentations for Your Photos</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-login-troubles-heres-how-to-restore-access-and-solve-entry-issues/"><u>ChatGPT Login Troubles? Here's How to Restore Access and Solve Entry Issues</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/effective-ways-to-remove-the-copilot-feature-from-your-windows-11-computer/"><u>Effective Ways to Remove the Copilot Feature From Your Windows 11 Computer</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/freedom-to-communicate-how-to-set-up-your-own-unrestricted-gpt-dialogue-system-for-windows-with-freedomgpt-instructions/"><u>Freedom to Communicate: How to Set Up Your Own Unrestricted GPT Dialogue System for Windows with FreedomGPT Instructions</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Oppo Reno 8T 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unleash-your-creativity-elevate-content-and-projects-with-chatgpt/"><u>Unleash Your Creativity: Elevate Content and Projects with ChatGPT</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/zdnet-exclusive-why-ecoflow-river-3-dominates-as-the-ideal-starter-battery/"><u>ZDNet Exclusive: Why EcoFlow River 3 Dominates as the Ideal Starter Battery</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-tie-the-two-together-instagram-and-facebook-unite/"><u>[Updated] Tie the Two Together Instagram and Facebook Unite</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-essential-tips-for-ordering-photos-on-iphone-with-icloud-backup/"><u>2024 Approved Essential Tips for Ordering Photos on iPhone, With iCloud Backup</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/androids-fastest-video-speed-adjusters/"><u>Android's Fastest Video Speed Adjusters</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/astra-pilot-disappearance-steps-for-windows-11-users/"><u>Astra Pilot Disappearance? Steps for Windows 11 Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/content-creation-and-ai-evaluating-the-top-8-drawbacks-of-using-chatbot-technology-for-writing-tasks/"><u>Content Creation and AI: Evaluating the Top 8 Drawbacks of Using Chatbot Technology for Writing Tasks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/crafting-visuals-through-ai-how-to-use-dall-e-alongside-chatgpt-4-for-stunning-results/"><u>Crafting Visuals Through AI: How to Use DALL-E Alongside ChatGPT-4 for Stunning Results</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/digital-dreamscapes-creating-ai-images-via-chatgpt/"><u>Digital Dreamscapes: Creating AI Images via ChatGPT</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-strategies-for-utilizing-slack-in-your-job/"><u>Effective Strategies for Utilizing Slack in Your Job</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/elite-select-best-apps-for-watching-live-boxing-and-international-football-for-2024/"><u>Elite Select Best Apps for Watching Live Boxing & International Football for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-preventing-latency-when-linking-two-monitors/"><u>Guide to Preventing Latency When Linking Two Monitors</u></a></li>
+<li><a href="https://change-location.techidaily.com/ipogo-will-be-the-new-ispoofer-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Vivo V30 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-the-world-of-ai-with-openai-explained-thoroughly/"><u>Navigating the World of AI with OpenAI Explained Thoroughly</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/openai-rolls-out-gpt-storefront-master-the-ins-and-outs-of-quick-setup-and-access/"><u>OpenAI Rolls Out GPT Storefront: Master the Ins and Outs of Quick Setup & Access</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/politeness-expected-when-communicating-with-ai-platforms-including-chatgpt-google-assistant-and-cortana/"><u>Politeness Expected When Communicating with AI Platforms Including ChatGPT, Google Assistant, and Cortana?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-anatomy-of-large-language-models-explained/"><u>The Anatomy of Large Language Models Explained</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-10-blenders-perfecting-your-podcast-audio/"><u>Top 10 Blenders Perfecting Your Podcast Audio</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/visionary-approaches-in-ai-discovering-the-six-pillars-of-gpts-engineer/"><u>Visionary Approaches in AI - Discovering the Six Pillars of GPT's Engineer</u></a></li>
 </ul></div>
 

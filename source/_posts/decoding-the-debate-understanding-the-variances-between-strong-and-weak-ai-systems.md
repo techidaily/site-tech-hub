@@ -1,7 +1,7 @@
 ---
 title: "Decoding the Debate: Understanding the Variances Between Strong and Weak AI Systems"
-date: 2024-09-21T17:50:06.908Z
-updated: 2024-09-22T20:29:39.510Z
+date: 2024-10-07T22:04:05.885Z
+updated: 2024-10-09T22:11:31.066Z
 tags:
   - chatgpt
   - open-ai
@@ -86,19 +86,33 @@ ChatGPT also cracked the problem as well.
 
 ![ChatGPT composes a rap lyrics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-composes-a-rap-lyrics.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  We then fed the same prompt to Claude AI, and it gave it a fair shot as well.
 
 ![Claude AI composes a rap lyrics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-composes-a-rap-lyrics.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Both lyrics are good, but ChatGPT seemed to have an edge here. It had better rhyming, and we had the result we needed on the first trial. We had to try three times before Claude AI could produce lyrics that rhymed. We'll give this one to ChatGPT.
 
  After trying out a few more creative tasks, Claude AI seemed to excel in writing-related tasks and was able to write more natural-sounding content like a human writer would do. Although[ChatGPT was better at overcoming more complex creative tasks](https://www.makeuseof.com/creative-ways-to-use-chatgpt-openai/) , it sometimes couldn't shake off that AI chatbot feeling in the text it generated. Our verdict? Both ChatGPT and Claude AI are creative in their own right.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT vs. Claude AI: Coding Skills
@@ -111,13 +125,6 @@ ChatGPT also cracked the problem as well.
 
 ![to-do list app by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/to-do-list-app-by-chatgpt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Moving on to Claude AI, the chatbot wrote clearly intelligible code. The structure and logic all seemed fine. Unfortunately, despite repeated attempts, Claude AI kept missing some critical logic to make the code actually run on a browser. It's a fail on this one.
 
  After Claude AI failed the last test, we tried a different kind of coding task, one that was more about analyzing code and less about writing new code. We uploaded five PHP files that represent the complete backend for a website and asked both Claude AI and ChatGPT where we would need to edit in all the uploaded files to ensure we get a mail once a new user registers on the site.
@@ -129,6 +136,13 @@ ChatGPT also cracked the problem as well.
  Of course, this was not an isolated case, we repeated it with several other code files, but ChatGPT stumbled and stalled on the majority of cases while Claude AI kept delivering impressive results. In terms of coding skills, the winner is not entirely straightforward.
 
  ChatGPT is clearly significantly better at writing new code and can manage complex code with impressive proficiency. However, Claude AI is significantly better at analyzing large code bases. So, if you're looking to write code for some new idea you have, ChatGPT is the tool to turn to. If you want to analyze or make sense of a code base with thousands of lines across several files, then we would definitely recommend Claude AI.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Claude AI Is a Potent Competitor on the Block
 
@@ -147,5 +161,23 @@ ChatGPT also cracked the problem as well.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/updated-unleashing-game-potential-custom-audio-in-ps5ps4-for-2024/"><u>[Updated] Unleashing Game Potential Custom Audio in PS5/PS4 for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mp34/"><u>高品質音楽保存に使える、MP3サイズ削減の巧妙トリック4点</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mp3wav-4/"><u>簡単なMP3・WAVファイル変換 - インストール不必要のベスト4サイト</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/movmovmp4wmv/"><u>優れたMOVコンバータソフトで簡単なMOVファイルのMP4・WMV変換・逆転手法</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/guide-to-swiftly-severing-online-group-ties-on-fb/"><u>Guide to Swiftly Severing Online Group Ties on FB</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-poco-c51-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Poco C51 Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/innovate-your-live-broadcast-on-mac-with-1-5-software-for-2024/"><u>Innovate Your Live Broadcast on Mac with #1-5 Software for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/iphoneandroid8/"><u>IPhone/Android用最高の動画回転アプリトップ8ピッチ: あなたを吹き飛ばす体験!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-video-conversion-for-gopro-enthusiasts-effortlessly-change-footage-to-mp4-avi-and-more-with-our-expert-software/"><u>Mastering the Art of Video Conversion for GoPro Enthusiasts: Effortlessly Change Footage to MP4, AVI, and More With Our Expert Software</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mp3windows-1/"><u>MP3ファイル再生ツール選びのヒント：Windows 1</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-u23-by-fonelab-android-recover-video/"><u>Undeleted lost videos from U23</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-short-term-suspension-of-windows-11s-defense/"><u>Understanding Short-Term Suspension of Windows 11'S Defense</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-top-6-mickey-mouse-voice-generators-providing-efficient-results/"><u>Updated 2024 Approved Top 6 Mickey Mouse Voice Generators Providing Efficient Results</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mp4-ou/"><u>カスタマイズMP4ビデオ: どうやって副音量を削除するか教えましou?</u></a></li>
+</ul></div>
 

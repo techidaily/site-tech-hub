@@ -1,7 +1,7 @@
 ---
 title: "Identifying False ChatGPT Sites: Guidelines for Safety"
-date: 2024-09-20T02:21:15.052Z
-updated: 2024-09-22T19:58:30.109Z
+date: 2024-10-05T18:39:25.669Z
+updated: 2024-10-09T17:18:14.557Z
 tags:
   - chatgpt
   - open-ai
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
  In the example below, after having a long discussion about the US military, we asked ChatGPT to tell us about some global conflicts, and it only picked those with some form of US participation.
 
 ![ChatGPT context sensitivity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-context-sensitivity.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Too Many Instructions In a Single Prompt
 
@@ -80,10 +87,23 @@ You could use:
 ![Translating with context using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/translating-with-context-using-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Not Using Examples
@@ -95,10 +115,10 @@ You could use:
 ![ChatGPT Prompt without example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/prompt-without-example.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Without examples, the jokes ChatGPT came up with weren't particularly rib-cracking. The overall response wasn't quite enticing as well.
@@ -106,10 +126,10 @@ You could use:
 ![Lady Gaga and Ed Sheeran Jokes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/lady-gaga-and-ed-sheeran-jokes.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Next, we gave ChatGPT some examples of how we want our jokes to look. Here's the prompt in the screenshot below:
@@ -125,13 +145,6 @@ And here's another one ChatGPT made when we prompted it with Jay-Z.
 ![Jay-z joke made by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/jay-z-joke.jpg)
 
  Loved the second set of jokes? Well, the moral of the story is to use examples more often.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Not Being Clear and Specific With Your Instructions
 
@@ -158,5 +171,26 @@ And here's another one ChatGPT made when we prompted it with Jay-Z.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-cultivating-connection-not-compulsion-in-subscriptions/"><u>[New] 2024 Approved Cultivating Connection, Not Compulsion in Subscriptions</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ake-a-memorable-mark-with-your-own-thumbnails/"><u>[New] Make a Memorable Mark with Your Own Thumbnails</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-echopause-visual-record-advice/"><u>[Updated] In 2024, EchoPause Visual Record Advice</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-tutorial-on-capturing-epic-moments-in-valorant-step-by-step/"><u>「Ultimate Tutorial on Capturing Epic Moments in Valorant - Step by Step!」</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/1-live-streaming-mastery-with-manycam-virtual-webcam-and-real-time-editing-tool/"><u>1. Live Streaming Mastery with ManyCam - Virtual Webcam and Real-Time Editing Tool</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726028286638-dvd/"><u>懐かしいディスクのトラブルシューティング: DVDや古いビデオが再生不能になったときの解決策</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/webm-wav/"><u>完全な音質維持で WebM をWAVに効果的に変換する手順</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-oppo-find-x6-pro-device-sim-by-drfone-android/"><u>Easily Unlock Your Oppo Find X6 Pro Device SIM</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ebook-shopping-simplified-how-to-securely-buy-and-read-on-your-iphone-or-ipad-with-books-by-apple/"><u>EBook Shopping Simplified: How to Securely Buy and Read on Your iPhone or iPad with Books by Apple</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726027506252-gopro/"><u>GoProビデオ解像度調整の徹底ガイド</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-infinix-hot-40-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Infinix Hot 40?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-xiaomi-redmi-note-13-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Xiaomi Redmi Note 13 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726028177620-ogg/"><u>Ogg音楽ファイルのプレイバック手順とトラブルシューティング</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726026736450-pcmp3/"><u>PCおよびスマートフォンに応じた音楽ファイルをMP3へ変換する詳細ガイド</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-the-new-world-connection-issue-a-step-by-step-guide/"><u>Solving the New World Connection Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Xiaomi Redmi A2+? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/vlciso2024/"><u>VLCプレーヤーでISOファイルを読み込めない場合、2024年解決策 - 応用方法</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/webmgifgifwebm/"><u>WebM動画をGIFに、またはGIFをWebMに高品質な変換方法【詳細ガイド】</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726027434579-youtube/"><u>YouTubeやカメラロール動画からオーディオクリップでアラーム設定 - チャレンジ解決</u></a></li>
+</ul></div>
 
