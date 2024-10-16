@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Mechanics of Generative AI: Who's Implementing This Tech?"
-date: 2024-09-10T21:00:43.783Z
-updated: 2024-09-18T03:47:48.823Z
+date: 2024-10-14T02:36:49.109Z
+updated: 2024-10-15T18:08:56.904Z
 tags:
   - chatgpt
   - open-ai
@@ -42,6 +42,13 @@ Close
 
 **Download:** ChatGPT for[iOS](http://apps.apple.com/app/openai-chatgpt/id6448311069) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029654/https://play.google.com/store/apps/details?id=com.openai.chatgpt&hl=en&gl=US) (Free, subscription available)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Send ChatGPT Prompts With Your Voice
 
  Both iPhones and Android devices come with native dictation features. And that's what you'll use to take advantage of ChatGPT's Whisper integration on your phone.
@@ -57,9 +64,30 @@ Close
 
 ![ChatGPT's mic and speaker on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4311.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![ChatGPT showing the text generated from the speech on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4313.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The ChatGPT's prompt response generated from the speech on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4314.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -82,12 +110,18 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-crafting-a-compelling-narrative-with-voiceover-and-visuals/"><u>[New] In 2024, Crafting a Compelling Narrative with Voiceover and Visuals</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-best-ios-applications-for-gameplaying-iconic-psp-titles/"><u>[Updated] Best iOS Applications for Gameplaying Iconic PSP Titles</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-realme-11-pro-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Realme 11 Pro PC | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/ensuring-visual-presentation-youtube-shorts-thumbnails-fix-for-2024/"><u>Ensuring Visual Presentation YouTube Shorts Thumbnails Fix for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ring-successful-strategies-to-elevate-audience-numbers-on-youtube-shorts-for-2024/"><u>Exploring Successful Strategies to Elevate Audience Numbers on YouTube Shorts for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/high-end-laptop-clash-samsung-galaxy-book-2-ultra-versus-apple-macbook-pro-in-depth-comparison/"><u>High-End LAPTOP Clash: Samsung Galaxy Book 2 Ultra versus Apple MacBook Pro - In-Depth Comparison</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-numerical-leaderboard-spotlight-eighth-in-photo-blender/"><u>In 2024, Numerical Leaderboard Spotlight Eighth in Photo Blender</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/to-upgrade-or-not-expert-advice-on-choosing-the-iphone-n-top-reasons-editorial-team/"><u>To Upgrade or Not: Expert Advice on Choosing the iPhone N - Top Reasons Editorial Team</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-ipad-pro-protectors-2024-comprehensive-reviews-and-ratings-insights-from-tech-gurus/"><u>Top-Rated iPad Pro Protectors 2024: Comprehensive Reviews & Ratings - Insights From Tech Gurus</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-iphone-and-ipad-vpns-comprehensive-expert-reviews/"><u>Top-Rated iPhone & iPad VPNs: Comprehensive Expert Reviews</u></a></li>
+</ul></div>
 

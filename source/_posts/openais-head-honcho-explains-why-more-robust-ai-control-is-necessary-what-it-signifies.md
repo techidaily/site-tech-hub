@@ -1,7 +1,7 @@
 ---
 title: OpenAI's Head Honcho Explains Why More Robust AI Control Is Necessary – What It Signifies
-date: 2024-09-11T01:28:59.730Z
-updated: 2024-09-17T17:54:17.139Z
+date: 2024-10-11T23:51:05.248Z
+updated: 2024-10-15T17:30:09.115Z
 tags:
   - chatgpt
   - open-ai
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/e72e3b0a0f444d85893166713d9b69e6e7d31b3a9
 
  Now, privacy-focused search engine DuckDuckGo has stepped up to provide an alternative, and its AI Chat offers anonymous access to a host of generative AI chatbots.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Is DuckDuckGo AI Chat?
 
 [DuckDuckGo is well-known for its privacy-friendly search engine](https://www.makeuseof.com/why-consider-duckduckgo/) , which, unlike most other options, doesn't collect and store heaps of data as you use it. DDG is extending its push for privacy into the world of AI chatbots, as its AI Chat lets you have anonymous conversations with popular AI chat models, including OpenAI's ChatGPT 3.5 Turbo, Anthropic's Claude 3 Haiku, Mistral AI's Mixtral 8x7B, and Meta's Llama 3 70B.
@@ -48,16 +55,10 @@ thumbnail: https://thmb.techidaily.com/e72e3b0a0f444d85893166713d9b69e6e7d31b3a9
  It's a novel idea. Other services combine multiple AI chatbots into a single tool, but DuckDuckGo's AI Chat will make it easier for users to use some of the best AI chatbots while maintaining some privacy.
 
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How DuckDuckGo AI Chat Keeps Your Chats Private
@@ -78,13 +79,20 @@ thumbnail: https://thmb.techidaily.com/e72e3b0a0f444d85893166713d9b69e6e7d31b3a9
 
 ![DuckDuckGo's AI welcome dashboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/duckduck-ai-chat.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can pick a different chat model at any time by clicking the name of the current model on the left of the screen and selecting another model from the list. Click****Start New Chat** to begin a conversation with the selected model. The DuckDuckGo AI Chat has a familiar interface, so if you have used other chatbots before, you will find it easy to use. Like other AI chatbots, you can ask questions, summarize text, compose emails, and more.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Are DuckDuckGo's AI Chat Limitations?
@@ -116,5 +124,19 @@ thumbnail: https://thmb.techidaily.com/e72e3b0a0f444d85893166713d9b69e6e7d31b3a9
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-improve-productivity-learn-to-record-macs-screen-using-shortcut-keys/"><u>[New] 2024 Approved Improve Productivity Learn to Record Mac's Screen Using Shortcut Keys</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ssential-tips-and-tricks-for-creating-killer-short-videos-on-yt-for-2024/"><u>[New] Essential Tips and Tricks for Creating Killer Short Videos on YT for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-fast-forward-to-flawless-windows-11-photography/"><u>[Updated] In 2024, Fast Forward to Flawless Windows 11 Photography</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-pcandroid-tutorial-successful-facebook-video-sharing/"><u>2024 Approved PC/Android Tutorial Successful Facebook Video Sharing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boost-your-privacy-on-apple-vision-pro-by-installing-a-vpn-expert-tutorial-and-key-benefits-for-users-cybersavvyguide/"><u>Boost Your Privacy on Apple Vision Pro by Installing a VPN: Expert Tutorial & Key Benefits for Users | CyberSavvyGuide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/dbpowers-reliable-jump-starter-and-portable-charger-a-comprehensive-look-at-the-peak-1800ab-battery/"><u>DBPOWER's Reliable Jump Starter & Portable Charger: A Comprehensive Look at the Peak 18,00Ab Battery</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-logic-x-layers-building-audio-bridges-with-crossfades/"><u>In 2024, Logic X Layers Building Audio Bridges with Crossfades</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondlys-joint-venture-with-pearson-redefines-buttons/"><u>Mondly's Joint Venture with Pearson Redefines Buttons</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/smartphone-camera-battle-royale-pixel-amidst-the-iphone-15s-lens-stunning-results-and-surprising-upset-uncovered-gizmohub/"><u>Smartphone Camera Battle Royale: Pixel Amidst the iPhone 15'S Lens - Stunning Results & Surprising Upset Uncovered | GizmoHub</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-walkthrough-for-setting-up-an-ipad-fresh-from-the-box-tips-and-tricks-by-zdnet/"><u>Ultimate Walkthrough for Setting Up an iPad Fresh From the Box - Tips & Tricks by ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-your-ultimate-soccer-experience-with-apple-sport-the-ideal-free-app-for-football-enthusiasts-discover-more-on-zdnet/"><u>Unlock Your Ultimate Soccer Experience with Apple Sport: The Ideal Free App for Football Enthusiasts – Discover More on ZDNet</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Google Pixel 8 Pro? | Dr.fone</u></a></li>
+</ul></div>
 

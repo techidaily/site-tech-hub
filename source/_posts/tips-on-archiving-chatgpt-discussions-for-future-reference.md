@@ -1,7 +1,7 @@
 ---
 title: Tips on Archiving ChatGPT Discussions for Future Reference
-date: 2024-09-13T21:06:00.860Z
-updated: 2024-09-18T03:36:19.917Z
+date: 2024-10-10T00:36:15.992Z
+updated: 2024-10-16T02:01:53.686Z
 tags:
   - chatgpt
   - open-ai
@@ -26,6 +26,19 @@ thumbnail: https://thmb.techidaily.com/721844d81a2674aaafe28cc93fa85dbee744a7d0e
 * [How to Install and Configure ChatGPT Desktop Application](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#how-to-install-and-configure-chatgpt-desktop-application)
 * [When Is the Official ChatGPT Desktop Version Launching?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#when-is-the-official-chatgpt-desktop-version-launching)
 
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * OpenAI is releasing a ChatGPT desktop version, starting with macOS and later for Windows.
@@ -37,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/721844d81a2674aaafe28cc93fa85dbee744a7d0e
  Starting with macOS, OpenAI is officially bringing ChatGPT to desktops, with Windows support coming later.
 
  But if you can't wait—like me!—you can try a free, open-source version instead.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Is the Open-Source ChatGPT Desktop Application?
 
@@ -50,13 +70,20 @@ thumbnail: https://thmb.techidaily.com/721844d81a2674aaafe28cc93fa85dbee744a7d0e
 
 ![chatgpt open source desktop version login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-login.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Install and Configure ChatGPT Desktop Application
@@ -70,13 +97,6 @@ thumbnail: https://thmb.techidaily.com/721844d81a2674aaafe28cc93fa85dbee744a7d0e
  Then, just sign in to ChatGPT as you usually would. All of your previous chats will be waiting for you, and you can choose from GPT-4, GPT-4o, DALL-E, and so on.
 
 ![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## When Is the Official ChatGPT Desktop Version Launching?
 
@@ -99,5 +119,26 @@ thumbnail: https://thmb.techidaily.com/721844d81a2674aaafe28cc93fa85dbee744a7d0e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-whispered-words-web-hidden-voice-recorders-for-smartphones/"><u>[New] 2024 Approved Whispered Words Web Hidden Voice Recorders for Smartphones</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723010890998-solved-borderlands-3-crash-quickly-and-easily/"><u>[SOLVED] Borderlands 3 Crash | Quickly & Easily</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-the-efficacy-of-quick-subscribing-in-video-platforms/"><u>[Updated] 2024 Approved The Efficacy of Quick-Subscribing in Video Platforms</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-altering-articulations-in-free-fire-arena/"><u>[Updated] In 2024, Altering Articulations in Free Fire Arena</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-proportional-adjustments-online/"><u>2024 Approved Mastering Proportional Adjustments Online</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-laughter-in-vr-crafting-metaverse-humor/"><u>2024 Approved Unlocking Laughter in VR Crafting Metaverse Humor</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-infinix-smart-7-hd-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beware-no-authentic-chatgpt-app-available-on-windows-avoid-illicit-software-replicas/"><u>Beware: No Authentic ChatGPT App Available on Windows – Avoid Illicit Software Replicas!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/choosing-between-gemini-and-chatgpt-plus-a-detailed-comparison/"><u>Choosing Between Gemini and ChatGPT Plus: A Detailed Comparison</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparative-review-of-top-ai-chatbots-chatgpt-microsoft-bing-vs-google-bard/"><u>Comparative Review of Top AI Chatbots: ChatGPT, Microsoft Bing Vs. Google Bard</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-gaming-delights-with-chatgpt-see-our-selection-of-6-great-games/"><u>Discover Gaming Delights with ChatGPT - See Our Selection of 6 Great Games!</u></a></li>
+<li><a href="https://games-able.techidaily.com/easy-path-to-discord-mac-installation-explained/"><u>Easy Path to Discord: Mac Installation Explained</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-authenticate-your-health-information-sourced-through-chatgpt-and-advanced-ai-technologies/"><u>How to Authenticate Your Health Information Sourced Through ChatGPT & Advanced AI Technologies</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-samsung-galaxy-m14-5g-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Samsung Galaxy M14 5G?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/interpretive-analysis-of-the-metaphor-equating-the-internet-with-an-open-access-public-library-system/"><u>Interpretive Analysis of the Metaphor Equating the Internet with an Open-Access Public Library System</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/openais-ai-conversations-a-security-review/"><u>OpenAI's AI Conversations: A Security Review</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/professional-voice-capture-on-mac-compiling-the-best-5-apps-for-2024/"><u>Professional Voice Capture on Mac Compiling The Best 5 Apps for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/quick-and-effective-chat-utilizing-nvidias-rtx-agent/"><u>Quick and Effective Chat: Utilizing Nvidia’s RTX Agent</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transform-your-language-education-journey-using-chatgpt-plus/"><u>Transform Your Language Education Journey Using ChatGPT Plus</u></a></li>
+</ul></div>
 

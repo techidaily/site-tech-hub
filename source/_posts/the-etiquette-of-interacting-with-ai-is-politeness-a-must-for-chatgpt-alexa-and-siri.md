@@ -1,7 +1,7 @@
 ---
 title: "The Etiquette of Interacting With AI: Is Politeness a Must for ChatGPT, Alexa & Siri?"
-date: 2024-09-14T00:25:24.663Z
-updated: 2024-09-17T21:43:20.519Z
+date: 2024-10-08T17:08:41.975Z
+updated: 2024-10-15T23:16:17.865Z
 tags:
   - chatgpt
   - open-ai
@@ -46,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/212e21d96bc4724d21a24c1110e599b63bc2c397e
 
 ![A couple watching Netflix on TV](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/a-couple-watching-netflix-on-tv.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Gary Marcus, a renowned cognitive scientist and AI researcher, proposed an alternative to the Turing test that was published in the[New Yorker](https://www.newyorker.com/tech/annals-of-technology/what-comes-after-the-turing-test) to identify the cognitive ability of an AI. The test is simple—you judge an AI model based on its ability to watch and understand YouTube videos and TV shows without subtitles or text. For the AI to pass the Marcus test, it should understand sarcasm, humor, irony, and the storyline when watching the videos and explain it like a human.
 
  At the moment,[GPT-4 can describe images](https://www.makeuseof.com/best-new-gpt4-features-explained/) , but so far, there is currently no AI model that can comprehend videos like a human.[Self-driving vehicles](https://www.makeuseof.com/self-driving-cars-explained/) come close, but they're not completely autonomous and require sensors since they can't make sense of everything in their surrounding environment.
@@ -58,13 +65,6 @@ thumbnail: https://thmb.techidaily.com/212e21d96bc4724d21a24c1110e599b63bc2c397e
 
  Beyond that, if an AI and a human are shown multiple images side by side and asked to identify realistic images, the human would have the cognitive ability to pass the test. This is because AI models find it difficult to distinguish images that don't look like they were taken in the real world. In fact, that's the reason why you can[identify AI-generated images](https://www.makeuseof.com/how-to-identify-ai-generated-image/) using anomalies that don't make sense.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. The Lovelace 2.0 Test
 
 ![robot holding a pencil pointing to a book](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/robot-holding-pencil-pointing-to-book-1.jpg)
@@ -74,16 +74,10 @@ thumbnail: https://thmb.techidaily.com/212e21d96bc4724d21a24c1110e599b63bc2c397e
  For an AI to pass the Lovelace test, it must demonstrate that it can generate original ideas that exceed its training. Current AI models like GPT-4 don't have the capability to come up with new inventions beyond our existing knowledge. However,[artificial general intelligence](https://www.makeuseof.com/what-is-artificial-general-intelligence-how-it-differs-generative-ai/) can achieve that capability and pass the Lovelace test.
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Reverse Turing Test
@@ -91,10 +85,10 @@ thumbnail: https://thmb.techidaily.com/212e21d96bc4724d21a24c1110e599b63bc2c397e
 ![person using chatgpt on their laptop](https://thmb.techidaily.com/3681ab3fb1278f9c5e283b2684cc0a6da110630db6256e6386dbd78a8fb134b9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  How about the Turing test, but done in reverse? Instead of trying to find out if you're talking to a human, the objective of the[reverse Turing test](https://gist.github.com/rain-1/3bf56122b0ebeac929dff0f881ee8e4c) is to trick the AI into believing you're an AI. However, you also need another AI model to answer the same questions using text.
@@ -106,6 +100,13 @@ thumbnail: https://thmb.techidaily.com/212e21d96bc4724d21a24c1110e599b63bc2c397e
 ## 5\. AI Classification Framework
 
 ![A man playing chess with an AI robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ai-chess.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  According to the AI classification framework developed by[Chris Saad](https://docsend.com/view/et7755yasfpj3iy6) , the Turing test is just one evaluation method to know if you're talking to an AI. More succinctly, the AI classification framework is based on the theory of multiple intelligence, which requires human intelligence to satisfy at least eight different criteria, which include: musical-rhythm, logical-mathematical intelligence, visual identification, emotional intelligence, self-reflective intelligence, existential thinking ability, and body movement.
 
@@ -130,5 +131,20 @@ thumbnail: https://thmb.techidaily.com/212e21d96bc4724d21a24c1110e599b63bc2c397e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-ps5xbox-x-visuals-the-leading-game-screens-ranked/"><u>[New] PS5/Xbox X Visuals The Leading Game Screens Ranked</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-smart-growth-metropolis-balancing-development-and-nature/"><u>[New] Smart Growth Metropolis Balancing Development and Nature</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-roadmap-to-accessing-costless-frame-videos/"><u>[Updated] The Roadmap to Accessing Costless Frame Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-down-barriers-the-role-of-copilot-key-in-windows-11/"><u>Breaking Down Barriers: The Role of Copilot Key in Windows 11</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/lightweight-pc-video-grabber-w10-compatible/"><u>Lightweight PC Video Grabber, W10 Compatible</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/master-the-art-of-deduction-with-these-4-ai-interactive-murder-mystery-adventures-online/"><u>Master the Art of Deduction with These 4 AI Interactive Murder Mystery Adventures Online</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-digital-ghost-towns-the-intriguing-exploration-of-the-dead-internet-hypothesis/"><u>Navigating Digital Ghost Towns: The Intriguing Exploration of the Dead Internet Hypothesis</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionizing-routine-how-chatgpt-elevates-your-lifestyle/"><u>Revolutionizing Routine: How ChatGPT Elevates Your Lifestyle</u></a></li>
+<li><a href="https://win-popular.techidaily.com/simple-troubleshooting-steps-for-restoring-access-to-onedrive-via-file-explorer/"><u>Simple Troubleshooting Steps for Restoring Access to OneDrive via File Explorer</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-insights-into-on-device-ai-technology-and-its-working-principles/"><u>The Insights Into On-Device AI Technology & Its Working Principles</u></a></li>
+<li><a href="https://article-tips.techidaily.com/the-sound-savvy-mastering-podcast-playback-on-iphones-for-2024/"><u>The Sound Savvy Mastering Podcast Playback on iPhones for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-whatsapps-potential-custom-ringtones-for-ios-android-for-2024/"><u>Unlocking WhatsApp's Potential Custom Ringtones for iOS, Android for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/which-is-better-exploring-the-pros-and-cons-of-chatgpts-browsing-vs-plugin-models/"><u>Which Is Better? Exploring the Pros and Cons of ChatGPT's Browsing Vs. Plugin Models</u></a></li>
+</ul></div>
 

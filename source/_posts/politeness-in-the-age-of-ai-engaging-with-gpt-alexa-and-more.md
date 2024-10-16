@@ -1,7 +1,7 @@
 ---
 title: "Politeness in the Age of AI: Engaging with GPT, Alexa & More"
-date: 2024-09-12T22:02:57.580Z
-updated: 2024-09-17T19:59:35.958Z
+date: 2024-10-10T21:02:26.048Z
+updated: 2024-10-16T00:06:21.445Z
 tags:
   - chatgpt
   - open-ai
@@ -44,6 +44,13 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
 
 ![layla ai trip planner](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/layla-ai-trip-planner.png)
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Layla describes itself as an AI trip planner, meaning you can use it to decide your vacation destination, create itineraries, and find suitable hotels and flights.
 
  If you are uncertain about your destination or would like suggestions, you can ask Layla for advice regarding your trip. Otherwise, enter your destination and ask Layla to create your itinerary. Within a few seconds, you'll get a detailed plan for your trip.
@@ -51,13 +58,6 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
  As Layla is a chatbot, you can enter a prompt to ask it to change your itinerary. For instance, ask it to focus more on outdoor activities or include local restaurants. If you're unsatisfied with the activities planned on any particular day, you can give instructions and ask Layla to regenerate that part only.
 
  Once you've perfected your itinerary, you can share it with your friends via a URL or add it to your bucket list.
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2.[Wonderplan](https://wonderplan.ai/)
 
@@ -72,16 +72,10 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
  In addition to your itinerary, Wonderplan also shows essential information about the country you're visiting. These include the currency conversion rate, electricity plug type, languages spoken, weather, and popular conveyances.
 
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3.[PLAN by ixigo](https://www.ixigo.com/plan)
@@ -110,15 +104,22 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
 
 **Download:** iplan.ai for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2021804/https://play.google.com/store/apps/details?id=ai.iplan.app) |[iOS](https://apps.apple.com/app/iplan-ai-travel-planner/id1611716564) (Free, Paid)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5.[Curiosio](https://curiosio.com/)
 
 ![Curiosio is a roadtrip planning app based on AI that gives you several parameters to refine your journey before plotting a route based on your interests](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/travel-planning-ai-apps-generate-itinerary-curiosio.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The easiest last-minute travel plan is to get into a car and drive. Curiosio specializes in helping you plan an itinerary for a road trip to several major countries on all continents. It doesn't cover every single place, but the existing collection is impressive enough.
@@ -133,6 +134,13 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
 
 ![trip planner ai screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/trip-planner-ai-screenshot.png)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Trip Planner AI plans a perfect trip to your dream destination. Begin creating your itinerary by entering the city you wish to visit and traveling dates. You can add multiple destinations here.
 
  Then, select the kinds of activities you prefer, the number of people, and whether you're traveling with friends or family. Trip Planner AI asks you about your dietary preferences and budget.
@@ -144,13 +152,6 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
 ## 7.[Vacay Chatbot](https://www.usevacay.com/chatbot)
 
 ![vacay chatbot screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/vacay-chatbot-screenshot.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Vacay Chatbot is not a dedicated itinerary maker but an AI chatbot that acts like your travel advisor. So, you can ask it to give travel recommendations, compare different destinations, and, of course, create an itinerary. If you've previously used AI chatbots like ChatGPT, you'll find this trip planner easy to use.
 
@@ -175,5 +176,16 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-the-editing-odyssey-journey-to-photo-mastery/"><u>[New] The Editing Odyssey Journey to Photo Mastery</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-split-screen-audio-logging/"><u>2024 Approved Split Screen Audio Logging</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/fake-detection-unveiled-openais-counter-to-gpt-dupes/"><u>Fake Detection Unveiled: OpenAI's Counter to GPT Dupes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-gpt-35-to-gpt-4-a-comprehensive-guide-to-their-five-main-variances/"><u>From GPT-3.5 to GPT-4: A Comprehensive Guide to Their Five Main Variances</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-dynamic-iphone-photography-the-key-to-capturing-motion-blur/"><u>In 2024, Dynamic iPhone Photography The Key to Capturing Motion Blur</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-a78-5g-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Oppo A78 5G Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximizing-your-workout-with-smart-chatgpt-prompt-design-insights-for-fitness-enthusiasts/"><u>Maximizing Your Workout with Smart ChatGPT Prompt Design - Insights for Fitness Enthusiasts</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-reaching-a-wider-audience-using-video-translation-in-tamil/"><u>New In 2024, Reaching a Wider Audience Using Video Translation in Tamil</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-10-ai-powered-pdf-tools-for-productivity-gains/"><u>Top 10 AI-Powered PDF Tools for Productivity Gains</u></a></li>
+</ul></div>
 

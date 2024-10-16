@@ -1,7 +1,7 @@
 ---
 title: "Face-Off Between the Oculus Quest 3 and Apple Glasses: Was Zuckerberg Right? | Tech Analysis by ZDNet"
-date: 2024-10-05T21:17:47.859Z
-updated: 2024-10-09T20:19:00.199Z
+date: 2024-10-15T03:04:23.577Z
+updated: 2024-10-15T21:05:46.488Z
 tags:
   - apple
 categories:
@@ -42,21 +42,28 @@ Should you take the Meta CEO's remarks with a grain of salt? Probably, but he's 
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  You should buy the Meta Quest 3 if...
 
 June Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  1\. You want a headset for gaming and/or fitness
@@ -67,18 +74,18 @@ No matter how far-reaching Zuckerberg is about the Meta Quest 3's feature parity
 
 While the Vision Pro supports a growing list of Apple Arcade games, not all of them leverage the superior audiovisual quality of the headset and the hand-eye tracking sensors within. The Vision Pro is also more front-heavy than the Quest 3 due to the various computing parts embedded within its glass and aluminum face piece. Early adopters, including myself, have expressed concerns over the comfortability of the Vision Pro, especially in more physical use cases like gaming and fitness.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  2\. Comfort and physical controllers are priorities
 
 That level of fragility on the Vision Pro is absent on the Quest 3, which flaunts a more affordable price tag thanks to Meta's primary material choice: Plastic. The plastic casing that surrounds the Quest makes it lighter on the head and more resistant to damage. That extends to the Touch Plus controllers, which make all the difference when playing games or working out in apps that require rhythmic inputs like _Beat Saber_ and _Supernatural_. 
 
 Vision Pro has a similar app called _Synth Riders_, but I've found the reliance on hand-tracking far from ideal, especially in dimmer environments. It doesn't help that the Vision Pro requires an external battery pack that becomes another thing to keep in the back of your mind as you move around.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  3\. The price is right
 
@@ -99,22 +106,15 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  You should buy the Apple Vision Pro if...
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  1\. You want the clearest look into the future
 
@@ -164,22 +164,15 @@ The combination of Vision Pro's Micro OLED displays and dual-driver audio pods m
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-try-these-20-best-youtube-thumbnail-fonts-in-your-video/"><u>[New] 2024 Approved Try These 20 Best YouTube Thumbnail Fonts in Your Video</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-armies-united-exploring-the-ultimate-7-strategy-wars/"><u>[Updated] 2024 Approved Armies United Exploring the Ultimate 7 Strategy Wars</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-essential-guide-to-a-bespoke-youtube-channel-url/"><u>[Updated] The Essential Guide to a Bespoke YouTube Channel URL</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-turning-fans-into-followers-friends-and-profits-for-2024/"><u>[Updated] Turning Fans Into Followers, Friends, and Profits for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ing-a-channel-team-up-videography-guide/"><u>Building a Channel Team-Up Videography Guide</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Itel A60s? | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/instagrams-roadmap-to-fame-unlocking-the-power-of-9-tactics/"><u>Instagram's Roadmap to Fame Unlocking the Power of #9 Tactics</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/mastering-ppt-recording-essential-tips-for-2024/"><u>Mastering PPT Recording Essential Tips for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/resolving-the-realtek-pci-express-gbe-family-device-drivers-on-windows-7/"><u>Resolving the Realtek PCI Express GBE Family Device Drivers on Windows 7</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/simple-guide-switching-your-pcs-system-language-in-windows-11-step-by-step/"><u>Simple Guide: Switching Your PC's System Language in Windows 11 – Step by Step</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-steps-for-when-your-corsair-keyboard-wont-work/"><u>Solution Steps for When Your Corsair Keyboard Won't Work</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/solving-the-no-display-problem-of-your-webcam-on-microsoft-operating-systems/"><u>Solving the No-Display Problem of Your Webcam on Microsoft Operating Systems</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/speedy-and-simple-methods-for-keeping-device-drivers-current-on-windows-11/"><u>Speedy & Simple Methods for Keeping Device Drivers Current on Windows 11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-restore-system-integrity-with-the-windows-sfc-and-scanosnow-commands/"><u>Step-by-Step Guide: Restore System Integrity with the Windows SFC & ScanOSnow Commands</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-adding-the-netflix-addon-on-your-kodi-device/"><u>Step-by-Step Tutorial: Adding the Netflix Addon on Your Kodi Device</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-rise-of-erc-20-tokens-and-decentralized-exchanges-dexs-as-key-components-in-building-a-decentralized-financial-ecosystem-on-top-of-ethereum/"><u>The Rise of ERC-20 Tokens and Decentralized Exchanges (DEXs) as Key Components in Building a Decentralized Financial Ecosystem on Top of Ethereum</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-speedy-way-to-bring-your-brother-printer-online-without-hiccups/"><u>The Speedy Way to Bring Your Brother Printer Online Without Hiccups</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-experts-guide-to-utilizing-morphvox-voice-changers/"><u>[Updated] Expert's Guide to Utilizing MorphVOX Voice Changers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-virtual-frontiers-anticipated-top-5-ps-vr-experiences/"><u>2024 Approved Unveiling Virtual Frontiers Anticipated Top 5 PS VR Experiences</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-motorola-edge-2023-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Motorola Edge 2023? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-ai-powered-chatgpt-create-personalized-risk-free-exercise-programs-perfectly-suited-to-your-needs/"><u>Can AI-Powered ChatGPT Create Personalized, Risk-Free Exercise Programs Perfectly Suited to Your Needs?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparing-copilot-vs-copilot-pro-is-an-upgrade-worth-it/"><u>Comparing Copilot Vs. Copilot Pro: Is an Upgrade Worth It?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/create-stunning-visuals-8-prompt-ideas-using-dall-e-3/"><u>Create Stunning Visuals: 8 Prompt Ideas Using DALL-E 3</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/f23-5g-tutorial-bypass-lock-screensecurity-password-pinfingerprintpattern-by-drfone-android-unlock-android-unlock/"><u>F23 5G Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-tecno-spark-20c-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Tecno Spark 20C FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-chatgpt-vision-discover-8-effective-applications-for-your-work/"><u>Mastering ChatGPT Vision: Discover 8 Effective Applications for Your Work</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Realme 12+ 5G | Dr.fone</u></a></li>
 </ul></div>
 

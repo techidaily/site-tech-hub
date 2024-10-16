@@ -1,7 +1,7 @@
 ---
 title: "Mastering Mac OS MONTEREY: Setting Up Personalized Do Not Disturb Lists for Improved Concentration"
-date: 2024-10-04T21:45:50.996Z
-updated: 2024-10-09T18:28:34.266Z
+date: 2024-10-08T20:50:21.594Z
+updated: 2024-10-15T22:08:20.296Z
 tags:
   - apple
 categories:
@@ -29,10 +29,10 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 ## Create a custom Focus
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
@@ -40,10 +40,10 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
@@ -54,13 +54,6 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 
 Image: Jack Wallen
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Open the Focus tab
 
 Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
@@ -70,10 +63,10 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
@@ -105,6 +98,13 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 **Figure 6:** Adding contacts to a Focus in macOS Monterey.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
 
@@ -148,18 +148,20 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-how-to-find-your-perfect-livestream-service-match/"><u>[New] In 2024, How to Find Your Perfect Livestream Service Match</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2023s-prime-divers-top-tier-aquatic-camera-choices/"><u>2023'S Prime Divers Top-Tier Aquatic Camera Choices</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-mastery-8-pro-tips-to-elevate-your-enterprise/"><u>ChatGPT Mastery: 8 Pro Tips to Elevate Your Enterprise</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-lava-storm-5g-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Lava Storm 5G for Free? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-poco-c50-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Poco C50 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-ai-evolving-faster-the-duel-between-googles-gemini-and-chatgpt/"><u>Is AI Evolving Faster? The Duel Between Google's Gemini and ChatGPT</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/mac-dvd-rip-0-professionelle-software-zum-abrufen-von-filmen-ohne-kosten-unter-macos/"><u>Mac DVD Rip 0€: Professionelle Software Zum Abrufen Von Filmen Ohne Kosten Unter macOS</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-fade-audio-in-kinemaster/"><u>New In 2024, How To Fade Audio In Kinemaster</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/overcoming-chatgpt-hiccups-in-live-transmission/"><u>Overcoming ChatGPT Hiccups in Live Transmission</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transform-your-routines-with-auto-gtp/"><u>Transform Your Routines with Auto-GTP</u></a></li>
-<li><a href="https://solve-news.techidaily.com/transformacion-facil-de-formatos-ifo-a-mp4-tutorial-para-sistemas-operativos-windows-and-macos/"><u>Transformación Fácil De Formatos IFO a MP4: Tutorial Para Sistemas Operativos Windows & MacOS</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-and-overcoming-latency-issues-in-league-of-legends/"><u>Troubleshooting and Overcoming Latency Issues in League of Legends</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/1726027429889-youtubemp3/"><u>キャッチーなメロディを楽しむ：YouTubeとニコニコ動画からMP3音源を取得する</u></a></li>
+<li><a href="https://fox-links.techidaily.com/15-crucial-strategies-for-accessing-international-sport-events/"><u>15 Crucial Strategies for Accessing International Sport Events</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-twitters-quick-fix-for-downloading-funny-images-on-pc/"><u>2024 Approved Twitter's Quick-Fix for Downloading Funny Images on PC</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/advanced-video-editing-made-easy-adobe-premiere-pro-on-mac/"><u>Advanced Video Editing Made Easy Adobe Premiere Pro on Mac</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/audio-wizards-unveiled-top-5-techniques-for-win10-for-2024/"><u>Audio Wizards Unveiled Top 5 Techniques for Win10 for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/crafting-smart-applications-leveraging-gpt-3-for-python-development/"><u>Crafting Smart Applications: Leveraging GPT-3 for Python Development</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/explore-these-4-essential-ai-narrative-creators/"><u>Explore These 4 Essential AI Narrative Creators</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-click-into-art-ultimate-edits-for-stunning-snaps/"><u>In 2024, Click Into Art Ultimate Edits for Stunning Snaps</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On OnePlus Nord CE 3 5G? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-honor-magic-6-pro-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Honor Magic 6 Pro Devices</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-premium-cameras-for-360-film-enthusiasts/"><u>In 2024, Premium Cameras for 360° Film Enthusiasts</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-step-backward-in-time-reversing-youtube-media/"><u>In 2024, Step Backward in Time Reversing YouTube Media</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/italys-immediate-intervention-in-banning-the-chatgpt-giant/"><u>Italy's Immediate Intervention in Banning the ChatGPT Giant</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/llama-3-vs-gpt-4-which-is-better/"><u>Llama 3 Vs. GPT-4: Which Is Better?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-dilemma-of-directing-advanced-ai-systems-effectively/"><u>The Dilemma of Directing Advanced AI Systems Effectively</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-rise-of-conversational-agents-unpacking-the-appeal-of-artifice-intelligence-chatbots/"><u>The Rise of Conversational Agents: Unpacking the Appeal of Artifice Intelligence Chatbots</u></a></li>
 </ul></div>
 

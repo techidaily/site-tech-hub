@@ -1,7 +1,7 @@
 ---
 title: "Crafting Your Own Anthology: Mastering the Art of Writing Poetry with ChatGPT"
-date: 2024-09-14T04:01:09.974Z
-updated: 2024-09-17T20:24:49.393Z
+date: 2024-10-14T23:22:31.443Z
+updated: 2024-10-15T20:32:49.420Z
 tags:
   - chatgpt
   - open-ai
@@ -34,15 +34,36 @@ thumbnail: https://thmb.techidaily.com/2ba6e093c71356d417ecac5da46572ca39801b84e
 
  This just underscores how important it is to[limit what you share with ChatGPT](https://www.makeuseof.com/shouldnt-trust-chatgpt-confidential-data/) , which collects a staggering amount of data by default. Tech behemoth Samsung learned this the hard way, when a group of employees who had been using the chatbot as an assistant accidentally leaked confidential information to it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is ChatGPT a Threat to Your Privacy?
 
 ![ChatGPT logo on green background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-threat.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Security and privacy are not one and the same](https://www.makeuseof.com/privacy-anonymity-security-mean/) , but they are closely related and often intersect. If ChatGPT is a security threat, then it is also a threat to privacy, and vice versa. But what does this mean in more practical terms? What are ChatGPT's security and privacy policies like?
 
  Billions of words were scraped from the internet to create ChatGPT's vast database. This database is in a continual state of expansion, since ChatGPT stores whatever users share. The US-based non-profit[Common Sense](https://privacy.commonsense.org/evaluation/ChatGPT) gave ChatGPT a privacy evaluation score of 61 percent, noting that the chatbot collects Personally Identifiable Information (PII), and other sensitive data. Most of this data is stored, or shared with certain third-parties.
 
  In any case, you should be careful when using ChatGPT, especially[if you use it for work](https://www.makeuseof.com/things-you-can-do-with-chatgpt) , or to process sensitive information. As a general rule of thumb, you should not share with the bot what you wouldn't like the public to know.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Addressing the Security Risks Associated With ChatGPT
 
@@ -53,10 +74,10 @@ thumbnail: https://thmb.techidaily.com/2ba6e093c71356d417ecac5da46572ca39801b84e
  This will radically transform security as we know it. But as Malwarebytes also noted, ChatGPT and similar tools can be used by cybersecurity professionals as well; for example to look for bugs in software, or "suspicious patterns" in network activity.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Raising Awareness Is Key
@@ -78,5 +99,21 @@ thumbnail: https://thmb.techidaily.com/2ba6e093c71356d417ecac5da46572ca39801b84e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-busting-the-myth-of-perfect-follower-numbers-on-social-media/"><u>[New] In 2024, Busting the Myth of 'Perfect' Follower Numbers on Social Media</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-achieving-effortless-seams-in-inshot-videos/"><u>[Updated] Achieving Effortless Seams in Inshot Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-mac-snapshot-strategies-revealed-the-top-5-innovative-approaches/"><u>2024 Approved Mac Snapshot Strategies Revealed The Top 5 Innovative Approaches</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-oneplus-12r-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For OnePlus 12R by Name | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-tecno-phantom-v-fold-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/harnessing-ai-for-wealth-chatgpts-8-promising-ventures/"><u>Harnessing AI for Wealth - ChatGPT’s 8 Promising Ventures</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-easily-add-codegpt-to-visual-studio-code-an-in-depth-walkthrough/"><u>How to Easily Add CodeGPT to Visual Studio Code: An In-Depth Walkthrough</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/inside-openais-incentive-system-for-cybersecurity-testing-a-step-by-step-participant-guide/"><u>Inside OpenAI’s Incentive System for Cybersecurity Testing: A Step-by-Step Participant Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/melodic-sharing-on-instagram-legalities/"><u>Melodic Sharing on Instagram Legalities</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionary-impact-of-gpt-4-on-do-it-yourself-sectors/"><u>Revolutionary Impact of GPT-4 on Do-It-Yourself Sectors</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-linking-your-fire-stick-device-with-any-projector/"><u>Step-by-Step Guide: Linking Your Fire Stick Device with Any Projector</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-the-censorship-mechanisms-in-your-virtual-assistants/"><u>Understanding the Censorship Mechanisms in Your Virtual Assistants</u></a></li>
+<li><a href="https://facebook.techidaily.com/unlocking-the-power-of-facebooks-annual-reflection-tool/"><u>Unlocking the Power of Facebook’s Annual Reflection Tool</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-the-ultimate-fcpx-cropping-guide-resize-and-refine-your-images/"><u>Updated The Ultimate FCPX Cropping Guide Resize and Refine Your Images</u></a></li>
+</ul></div>
 

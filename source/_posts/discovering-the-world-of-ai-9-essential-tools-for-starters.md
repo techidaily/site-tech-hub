@@ -1,7 +1,7 @@
 ---
 title: "Discovering the World of AI: 9 Essential Tools for Starters"
-date: 2024-09-16T18:56:12.867Z
-updated: 2024-09-18T03:17:40.096Z
+date: 2024-10-13T18:00:07.263Z
+updated: 2024-10-16T02:10:19.939Z
 tags:
   - chatgpt
   - open-ai
@@ -80,6 +80,13 @@ thumbnail: https://thmb.techidaily.com/39eb12846caac832ee1b1d85070e2dd4cb557f022
 
 ![ChatGPT text-based RPG output showing ability scores and possible commands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/chatgpt-text-based-rpg-output-showing-ability-scores-and-possible-commands.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 > 3\. Start the game with 20/20 for ‘Health’, with 20 being the maximum health. Eating food, drinking water, or sleeping will restore health.
 >
 > 4\. Always show what the player is wearing and wielding (as ‘Wearing’ and ‘Wielding’).
@@ -132,13 +139,6 @@ thumbnail: https://thmb.techidaily.com/39eb12846caac832ee1b1d85070e2dd4cb557f022
 
  You can embellish this section with as many rules and preferences as you like. You can add an overarching plot, implement rules for governing, or even detail NPC clothes and attitudes in this section. But remember to keep it simple because multilayered rules may confuse the AI.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Add Combat and Magic Rules
 
  As with any adventure[RPG](https://www.makeuseof.com/what-are-rpgs-role-playing-games/) , combat and magic are big parts of the experience. If you don’t add rules to guide this part of your game, you’ll end up with a game you can easily cheese through. It doesn’t help that ChatGPT likes to favor the user in its narratives, and it will generally make things go your way. Here’s what our rules look like:
@@ -165,6 +165,13 @@ thumbnail: https://thmb.techidaily.com/39eb12846caac832ee1b1d85070e2dd4cb557f022
 
  Combat rules can be especially tricky for the AI, so you might need to experiment with this a bit till you find something that sticks.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclude Your Prompt
 
  Your prompt conclusion should contain a few vital commands that will hold the game's structure.
@@ -184,10 +191,10 @@ And finally, don’t forget to actually start the game:
 ![GPT-4 generating texts for a turn-based text RPG](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gpt-4-generating-texts-for-a-turn-based-text-rpg.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you have ChatGPT Plus, it grants you access to GPT-4, a more intelligent version of GPT-3.5\. You should try running a few RPG sessions with GPT-4 instead of GPT3.5\. It's way more creative, better at crafting stories, remembering rules, and all-around better at improv. It costs $20/month, and it's a good tool for doing other things apart from text-based gaming.
@@ -292,6 +299,13 @@ And finally, don’t forget to actually start the game:
 
  Once again, don't forget that AI is still an emerging technology and will change as time goes on. Your experience using our prompts may differ significantly from ours.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is This the Beginning of Open-Ended Gaming?
 
  ChatGPT has revealed that it is possible to have a game that changes with the player without following a pre-defined path or forcing the player to engage in the same NPC conversations. The future of gaming could mean entering your parameters and allowing AI to generate your ideal game without having a team of developers.
@@ -311,5 +325,22 @@ And finally, don’t forget to actually start the game:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fast-track-to-youtube-partner-level-achieve-10k-views/"><u>[New] 2024 Approved Fast Track to YouTube Partner Level - Achieve 10K Views</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-transforming-rookie-marketers-into-pros-with-these-five-hacks/"><u>[New] Transforming Rookie Marketers Into Pros with These Five Hacks</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-fun-at-no-cost-top-quality-gratuitous-meme-templates/"><u>[Updated] In 2024, Fun at No Cost Top Quality, Gratuitous Meme Templates</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-innovative-vr-experiences-from-elite-designers/"><u>[Updated] Innovative VR Experiences From Elite Designers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1-effortless-techniques-for-extracting-songs-from-a-compact-disc-using-microsoft-windows/"><u>1. Effortless Techniques for Extracting Songs From a Compact Disc Using Microsoft Windows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boosting-social-media-presence-masterful-posts-crafted-by-chatgpt/"><u>Boosting Social Media Presence: Masterful Posts Crafted by ChatGPT</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/re-create-curate-mobiles-in-action-for-youtube-thumbnails/"><u>Capture, Create, Curate Mobiles in Action for YouTube Thumbnails</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/distinguishing-chatgpt-in-commercial-settings/"><u>Distinguishing ChatGPT in Commercial Settings</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-converse-seamlessly-with-chatgpt-across-the-globe/"><u>How to Converse Seamlessly with ChatGPT Across the Globe</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-realme-10t-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Realme 10T 5G to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/superior-ai-platforms-for-effective-internet-browsing/"><u>Superior AI Platforms for Effective Internet Browsing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-meta-quest-3-lite-an-inside-look-at-potential-pricing-release-schedule-and-speculated-technical-specifications/"><u>The Meta Quest 3 Lite: An Inside Look at Potential Pricing, Release Schedule, and Speculated Technical Specifications</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-7-effective-strategies-for-enhancing-chatgpt-conversations/"><u>Top 7 Effective Strategies for Enhancing ChatGPT Conversations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-benefits-why-switching-from-chatgpt-to-claude-3-is-a-smart-move/"><u>Top Benefits: Why Switching From ChatGPT to Claude 3 Is a Smart Move</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/upgrading-your-coding-skills-the-key-differences-between-copilot-and-copilot-pro/"><u>Upgrading Your Coding Skills: The Key Differences Between Copilot & Copilot Pro</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering ChatGPT Integration: Enhance Your Google Sheets with AI-Powered Automation"
-date: 2024-09-10T17:24:17.362Z
-updated: 2024-09-18T03:16:24.952Z
+date: 2024-10-13T03:14:39.170Z
+updated: 2024-10-16T03:53:32.555Z
 tags:
   - chatgpt
   - open-ai
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/c9a6389a75e39b0704a742bad64a540518e449e3f
 * [How to Install and Configure ChatGPT Desktop Application](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#how-to-install-and-configure-chatgpt-desktop-application)
 * [When Is the Official ChatGPT Desktop Version Launching?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#when-is-the-official-chatgpt-desktop-version-launching)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * OpenAI is releasing a ChatGPT desktop version, starting with macOS and later for Windows.
@@ -37,6 +44,13 @@ thumbnail: https://thmb.techidaily.com/c9a6389a75e39b0704a742bad64a540518e449e3f
  Starting with macOS, OpenAI is officially bringing ChatGPT to desktops, with Windows support coming later.
 
  But if you can't wait—like me!—you can try a free, open-source version instead.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Is the Open-Source ChatGPT Desktop Application?
 
@@ -50,18 +64,18 @@ thumbnail: https://thmb.techidaily.com/c9a6389a75e39b0704a742bad64a540518e449e3f
 
 ![chatgpt open source desktop version login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-login.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
 
 ## How to Install and Configure ChatGPT Desktop Application
 
 ![chatgpt open source desktop version home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-home-page.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Head to the open-source[ChatGPT Desktop Application download page](https://github.com/lencx/ChatGPT/releases/tag/v1.1.0) . The latest version at the time of writing is V1.1.0, but you can check for a newer version.
 2. Download the applicable version for your operating system, then install it as per your operating system.
@@ -72,10 +86,16 @@ thumbnail: https://thmb.techidaily.com/c9a6389a75e39b0704a742bad64a540518e449e3f
 ![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When Is the Official ChatGPT Desktop Version Launching?
@@ -99,5 +119,19 @@ thumbnail: https://thmb.techidaily.com/c9a6389a75e39b0704a742bad64a540518e449e3f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-elevate-compositing-workflow-implementing-luts-in-ae/"><u>[New] In 2024, Elevate Compositing Workflow Implementing LUTs in AE</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-zooming-into-success-the-essential-blueprint-for-producing-high-quality-audio-on-video-platforms/"><u>[New] Zooming Into Success The Essential Blueprint for Producing High-Quality Audio on Video Platforms</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-oppo-reno-10-proplus-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Oppo Reno 10 Pro+ 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win-trending.techidaily.com/windows-11-30x81000037/"><u>修正 Windows 11 3次代碼错误：0X81000037的完美方法指南</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/apple-musics-role-in-professional-video-production-for-2024/"><u>Apple Music's Role in Professional Video Production for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boost-your-ai-communication-skills-with-these-five-steps-for-effective-gpt-3-prompting/"><u>Boost Your AI Communication Skills with These Five Steps for Effective GPT-3 Prompting</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comprehensive-guide-to-understanding-key-artificial-intelligence-vocabulary/"><u>Comprehensive Guide to Understanding Key Artificial Intelligence Vocabulary</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-reliable-is-chatgpt-as-a-source-of-health-related-insights/"><u>How Reliable Is ChatGPT as a Source of Health-Related Insights?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-courteous-interaction-important-when-communicating-with-voice-assistants-such-as-chatgpt-alexa-and-siri/"><u>Is Courteous Interaction Important When Communicating With Voice Assistants Such as ChatGPT, Alexa, and Siri?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/pivoting-with-purpose-rotate-and-rethink-with-youtubes-latest-tools-for-2024/"><u>Pivoting with Purpose Rotate and Rethink with YouTube's Latest Tools for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/utilizing-gpt-assisted-research-techniques/"><u>Utilizing GPT-Assisted Research Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-upgrading-to-chatgpt-plus-makes-sense-unveiling-9-compelling-reasons/"><u>Why Upgrading to ChatGPT Plus Makes Sense: Unveiling 9 Compelling Reasons</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Groundbreaking Release: OpenAI Unveils Revolutionary GPT-4 AI System"
-date: 2024-09-10T16:16:34.628Z
-updated: 2024-09-17T23:23:36.839Z
+date: 2024-10-13T21:16:13.365Z
+updated: 2024-10-15T23:01:45.522Z
 tags:
   - chatgpt
   - open-ai
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/6dfe7c6db7f80e87ac6b399dc687e52e1d331efd7
 
 ![A Screenshot of the SlidesAI io Google Slides Add-on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/slides-ai-presentation-generator-screenshot.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you’re looking for an AI presentation generator that works directly within Google Slides, then you can’t go wrong with SlidesAI.io. That's because SlidesAI.io is a Google Workspace add-on.
 
  There are already Workspace add-ons that let you[use ChatGPT on Google Sheets and Google Docs](https://www.makeuseof.com/how-use-chatgpt-google-sheets/) , and SlidesAI.io aims to do the same by letting you use AI to generate entire presentations in Google Slides.
@@ -60,22 +67,16 @@ thumbnail: https://thmb.techidaily.com/6dfe7c6db7f80e87ac6b399dc687e52e1d331efd7
 
  This includes creating AI images to match your content, creating a new slide with your content, converting a document into a presentation, or simply making one from scratch. Tome works quickly and efficiently with these AI tools, and you can easily make impressive presentations in mere moments.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4.[GPT_PPT](https://gpt-ppt.neftup.app/)
 
 ![A Screenshot of GPT PPT s Generative Presentation Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/gpt_ppt-presentation-generator-screenshot.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you’re looking for something that can quickly generate a functioning presentation or slide show, then GPT\_PPT is a great little tool for doing just that. To use GPT\_PPT, all you have to do is sign up and type out what you want your presentation to be. From there, GPT\_PPT will automatically create a brief PowerPoint covering the points that you laid out.
 
@@ -91,6 +92,13 @@ thumbnail: https://thmb.techidaily.com/6dfe7c6db7f80e87ac6b399dc687e52e1d331efd7
 
  If there’s anything you don’t like about the slides, there are options to change the type or style of the slides, and you can add points and edit what Presentations.AI has created as well.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6.[ChatBA](https://www.chatba.com)
 
 ![A Screenshot of ChatBA s AI Presentation Generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatba-ai-presentation-generator-screenshot.jpg)
@@ -101,15 +109,22 @@ thumbnail: https://thmb.techidaily.com/6dfe7c6db7f80e87ac6b399dc687e52e1d331efd7
 
  ChatBA supports exporting in both PPTX and PDF file types, which is great if you already work in PowerPoint or are looking to present directly and want a PDF that you can easily share or present from.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7.[MagicSlides](https://www.magicslides.app)
 
 ![A Screenshot of MagicSlides AI Presentation Generation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/magicslides-ai-presentation-generator-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  MagicSlides is a Google Slides add-on that aims to work like ChatGPT for your presentations. To use MagicSlides, all you have to do is enter your topic, though you can also include additional information such as reference material and instructions.
@@ -117,13 +132,6 @@ thumbnail: https://thmb.techidaily.com/6dfe7c6db7f80e87ac6b399dc687e52e1d331efd7
  You can also choose to include images, which the AI will choose from Pexels. These images are entirely free-to-use, and match the content of the slide decently enough. The presentations produced with MagicSlides are pretty good. The content is organized by dot points and feels natural.
 
  The looks, however, leave a little to be desired. There are options to adjust the theme when the presentation is generated, but they're not super easy to use. You can always use the theme features that are already present in Google Slides to fix this, however.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Make a Presentation Like Never Before
 
@@ -142,5 +150,26 @@ thumbnail: https://thmb.techidaily.com/6dfe7c6db7f80e87ac6b399dc687e52e1d331efd7
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-instagram-to-twitter-sharing-without-retweeting/"><u>[Updated] 2024 Approved Instagram to Twitter Sharing without Retweeting</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-screen-moments-a-compreenasive-recorder-roundup/"><u>[Updated] 2024 Approved Screen Moments A Compreenasive Recorder Roundup</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-the-premier-selection-of-economical-video-collaboration-tools-businesseducation-edition-for-2024/"><u>[Updated] The Premier Selection of Economical Video Collaboration Tools Business/Education Edition for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-phone-free-perfection-recording-snapchat-videos/"><u>2024 Approved Phone-Free Perfection Recording Snapchat Videos</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-googles-next-big-thing-in-ai-dive-into-project-gemini/"><u>Decoding Google's Next Big Thing in AI - Dive Into Project Gemini</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-your-skills-with-the-best-online-courses-on-artifice-intelligence-ai-prompt-techniques/"><u>Elevate Your Skills with the Best Online Courses on Artifice Intelligence (AI) Prompt Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/embrace-gpt-4s-free-version-while-discovering-6-compelling-benefits-of-continuing-with-chatgpt-plus/"><u>Embrace GPT-4's Free Version While Discovering 6 Compelling Benefits of Continuing with ChatGPT Plus</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ensure-chatgpt-remembers-a-guide-to-retrieving-disappeared-discussions/"><u>Ensure ChatGPT Remembers: A Guide to Retrieving Disappeared Discussions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-dialogue-dominance-chatbot-showdown/"><u>Exploring Dialogue Dominance: ChatBot Showdown</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-functionality-understanding-the-top-7-gpt-4-integrated-applications/"><u>Exploring the Functionality: Understanding the Top 7 GPT-4 Integrated Applications</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-infinix-smart-8-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Infinix Smart 8 to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-show-wi-fi-password-on-realme-11-proplus-by-drfone-android/"><u>How to Show Wi-Fi Password on Realme 11 Pro+</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/improving-league-of-legends-online-connectivity-fixes-for-common-issues/"><u>Improving League of Legends Online Connectivity: Fixes for Common Issues</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-chucklechief-easy-meme-design-tool/"><u>In 2024, ChuckleChief Easy Meme Design Tool</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-polaroid-cubeplus-action-camera-review/"><u>In 2024, Polaroid Cube+ Action Camera Review</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-gpt-chatbeta-web-enhancements/"><u>Navigating GPT ChatBeta Web Enhancements</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-to-codegpt-in-vs-code/"><u>Step-by-Step Guide to CodeGPT in VS Code</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-strategies-to-improve-and-accelerate-slow-broadband-speed/"><u>Top Strategies to Improve and Accelerate Slow Broadband Speed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-fraudgpt-a-comprehensive-guide-on-navigating-its-risks/"><u>Understanding FraudGPT: A Comprehensive Guide on Navigating Its Risks</u></a></li>
+</ul></div>
 

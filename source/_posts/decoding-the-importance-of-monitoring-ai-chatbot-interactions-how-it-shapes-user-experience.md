@@ -1,7 +1,7 @@
 ---
 title: "Decoding the Importance of Monitoring AI Chatbot Interactions: How It Shapes User Experience"
-date: 2024-09-13T16:44:11.284Z
-updated: 2024-09-18T02:20:00.257Z
+date: 2024-10-08T18:54:54.244Z
+updated: 2024-10-15T20:42:00.890Z
 tags:
   - chatgpt
   - open-ai
@@ -52,7 +52,21 @@ Here's the fictitious article that ChatGPT came up with:
 
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Using Chatbots to Influence People's Opinions
 
@@ -65,13 +79,6 @@ Here's the fictitious article that ChatGPT came up with:
 
  These examples all illustrate how chatbots can be utilized to mislead people.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Creating AI DeepFakes
 
  Someone can use deepfakes to create false videos of an individual saying or doing things they never did. They can use such tools for social engineering or running smear campaigns against others. Moreover, in today's meme culture, deepfakes can serve as tools for cyberbullying on social media.
@@ -81,10 +88,10 @@ Here's the fictitious article that ChatGPT came up with:
  It's crucial, then, to be able to[identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Cloning Human Voices
@@ -106,6 +113,19 @@ Here's the fictitious article that ChatGPT came up with:
 
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Beware of Disinformation Spread by AI
 
  Generative software has played a crucial role in advancing AI. Still, they can also be a significant source of disinformation in society. These affordable tools have enabled anyone to create different types of content using sophisticated AI models; their ability to generate content in large quantities and incorporate deepfakes makes them even more dangerous.
@@ -125,5 +145,22 @@ Here's the fictitious article that ChatGPT came up with:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-how-to-create-youtube-intros-and-end-cards-free-and-easy/"><u>[New] 2024 Approved How to Create YouTube Intros & End Cards - Free and Easy</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-action-camera-showdown-who-wins-with-gopro-hero5-black-and-yis-4k-update/"><u>[New] Action Camera Showdown Who Wins with GoPro Hero5 Black & Yi's 4K Update</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pioneering-visual-editing-3dlut-for-photosvideos/"><u>[New] Pioneering Visual Editing 3DLUT for Photos/Videos</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-free-video-credits-pro-the-best-suggestions-1-6-for-2024/"><u>[Updated] Free Video Credits Pro - The Best Suggestions #1-6 for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/apples-latest-leap-the-349-ipad-shines-bright-in-let-loose-event-reviews-zdnet-insights/"><u>Apple’s Latest Leap: The $349 iPad Shines Bright in 'Let Loose' Event Reviews | ZDNET Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-how-the-affordable-anker-power-bank-revolutionized-portable-charging-expert-reviews-and-tips/"><u>Discover How the Affordable Anker Power Bank Revolutionized Portable Charging: Expert Reviews & Tips</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/economical-enhancement-tweets-to-animated-gifs-guide-for-2024/"><u>Economical Enhancement Tweets to Animated GIFs Guide for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-apple-paved-the-way-in-ai-resurgence-potential-and-challenges-explored-by-zdnet/"><u>How Apple Paved the Way in AI Resurgence - Potential and Challenges Explored by ZDNet</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-all-about-apple-iphone-15-unlock-chip-you-need-to-know-by-drfone-ios/"><u>In 2024, All About Apple iPhone 15 Unlock Chip You Need to Know</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ios-172-brings-advanced-qi2-charging-support-to-apples-latest-iphones-what-you-need-to-know-expert-analysis/"><u>IOS 17.2 Brings Advanced Qi2 Charging Support to Apple's Latest iPhones: What You Need to Know | Expert Analysis</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-motorola-moto-g24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-guide-deleting-or-pausing-itunes-and-app-store-subscriptions-via-iphone-for-ios-15-users-techbuzz/"><u>Ultimate Guide: Deleting or Pausing iTunes & App Store Subscriptions via iPhone for iOS 15 Users | TechBuzz</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-elite-iphones-of-2eplusoo-rigorously-tested-by-professionals-detailed-insights/"><u>Unveiling the Elite iPhones of 2E+oo: Rigorously Tested by Professionals, Detailed Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-you-need-to-embrace-apple-pages-the-5-key-advantages-highlighted-experts/"><u>Why You Need to Embrace Apple Pages: The 5 Key Advantages Highlighted Experts</u></a></li>
+</ul></div>
 

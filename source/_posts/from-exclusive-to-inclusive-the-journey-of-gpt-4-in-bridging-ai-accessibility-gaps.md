@@ -1,7 +1,7 @@
 ---
 title: "From Exclusive to Inclusive: The Journey of GPT-4 in Bridging AI Accessibility Gaps"
-date: 2024-09-13T20:55:59.910Z
-updated: 2024-09-18T00:10:42.468Z
+date: 2024-10-14T22:17:08.568Z
+updated: 2024-10-15T21:05:21.083Z
 tags:
   - chatgpt
   - open-ai
@@ -38,6 +38,19 @@ thumbnail: https://thmb.techidaily.com/6a82b15c3b5908dade20c57e5528354889aa2d43f
 
  Here's a guide on[how to create your first custom GPT](https://www.makeuseof.com/how-use-create-a-gpt-to-create-a-customized-version-of-chatgpt/) if you're not sure how to.
 
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Translation Tool
 
 ![Screenshot of Custom GPT called Pidgin Hero](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/pidgin-hero-description-card.jpg)
@@ -56,6 +69,13 @@ thumbnail: https://thmb.techidaily.com/6a82b15c3b5908dade20c57e5528354889aa2d43f
 
  You can deploy custom GPTs to solve this problem. Simply prompt the chatbot to create a specialized GPT that focuses on the programming languages used in your project, then upload your entire project files, including a detailed description of what you're trying to build. Whenever you run into a problem with the project, prompt the GPTs, and you'll get a much more precise and relevant solution than you'd get from your regular ChatGPT.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Personal Movie Recommender
 
 ![movie recommender Custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/movie-recommender-custom-gpt.jpg)
@@ -67,22 +87,15 @@ thumbnail: https://thmb.techidaily.com/6a82b15c3b5908dade20c57e5528354889aa2d43f
 **Try this GPT** :[K-Drama Hero](https://chat.openai.com/g/g-WhObLzfn5-k-drama-hero) .
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Interactive Text and Image Games
 
 ![Custom ChatGPT game called Dungeon weaver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-chatgpt-game-called-dungeon-weaver.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Another very exciting use case for GPTs is creating games. You can bring almost any text and image-based games you can think of into reality. You can program, modify the rules, and play games like Tic-Tac-Toe, Hangman, Word Ladder, and more. We've previously created a list of simple but[interesting games you can play with ChatGPT](https://www.makeuseof.com/simple-games-you-can-play-chatgpt/) . You can spice those games up by invoking the DALL-E image creator to create scenery and characters on the go.
 
@@ -93,6 +106,13 @@ thumbnail: https://thmb.techidaily.com/6a82b15c3b5908dade20c57e5528354889aa2d43f
  Want to see simple RPG games in action? You can try my Dungeon Weaver GPT.
 
 **Try this GPT** :[Dungeon Weaver](https://chat.openai.com/g/g-BRT1bAbjI-dungeon-weaver) .
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Personal Tutor
 
@@ -119,10 +139,10 @@ thumbnail: https://thmb.techidaily.com/6a82b15c3b5908dade20c57e5528354889aa2d43f
  Another example I tried was building a GPT for interior design. After teaching the GPT the kind of designs I liked, prompting the GPT to provide interior design ideas based on certain parameters was quite easy. With custom GPTs, there are many angles to explore; it all boils down to what you do and how creative you get. The possibilities to leverage GPTs are vast across professions.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Custom GPTs: Endless Possibilities for Work and Fun
@@ -144,5 +164,20 @@ thumbnail: https://thmb.techidaily.com/6a82b15c3b5908dade20c57e5528354889aa2d43f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-proven-methods-to-record-flawlessly-using-nvidia/"><u>[New] Proven Methods to Record Flawlessly Using NVIDIA</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-streamers-crossroad-navigating-between-vimeo-youtube-dailymotion/"><u>[New] The Streamer's Crossroad Navigating Between Vimeo, YouTube, Dailymotion</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-olympic-speed-skating-snapshot-the-short-track-edition-for-2024/"><u>[Updated] Olympic Speed Skating Snapshot The Short-Track Edition for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/diagnosing-the-reasons-behind-your-pcs-sudden-failures/"><u>Diagnosing the Reasons Behind Your PC's Sudden Failures</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-text-to-image-mastery-harnessing-the-capabilities-of-dall-e-and-gpt-4-for-innovative-visuals/"><u>From Text to Image Mastery: Harnessing the Capabilities of DALL-E and GPT-4 for Innovative Visuals</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/get-started-quickly-effective-ways-to-apply-gpt-3-in-your-chatgpt-experience-today/"><u>Get Started Quickly: Effective Ways to Apply GPT-^3 in Your ChatGPT Experience Today</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-protect-your-privacy-from-chatgpt-opt-out-methods-revealed/"><u>How To Protect Your Privacy From ChatGPT - Opt Out Methods Revealed</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-holiday-memories-revisited-summertimes-best-vacation-flicks/"><u>In 2024, Holiday Memories Revisited Summertime’s Best Vacation Flicks</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-nokia-105-classic-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Nokia 105 Classic Without PUK Codes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mending-common-faults-a-guide-to-fixing-6-gpt-issues/"><u>Mending Common Faults: A Guide to Fixing 6 GPT Issues</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/step-by-step-inserting-tracks-in-youtube-playlists-for-2024/"><u>Step-by-Step Inserting Tracks in YouTube Playlists for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-future-of-wearables-explore-6-revolutionary-uses-of-chatgpt-with-your-smartwatch/"><u>The Future of Wearables: Explore 6 Revolutionary Uses of ChatGPT with Your Smartwatch</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-chatgpt-cannot-spot-its-own-writing/"><u>Why ChatGPT Cannot Spot Its Own Writing</u></a></li>
+</ul></div>
 

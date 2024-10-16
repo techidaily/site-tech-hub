@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT and Google Bard Head-to-Head: Determining the Superior Conversational AI"
-date: 2024-09-15T19:27:22.373Z
-updated: 2024-09-18T03:49:39.990Z
+date: 2024-10-14T05:07:22.930Z
+updated: 2024-10-16T05:57:12.511Z
 tags:
   - chatgpt
   - open-ai
@@ -53,6 +53,13 @@ thumbnail: https://thmb.techidaily.com/578092e9e17a69c476b3082e47519b7819155a500
 
 ![google gemini ai data comparing to open ai gpt4 model](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/google-gemini-ai-data-comparing-to-open-ai-gpt4-model.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Google](https://blog.google/technology/ai/google-gemini-ai/#performance)
 
  Gemini Ultra can also understand, explain, and generate high-quality code in some of the world's most popular programming languages, including Go, JavaScript, Python, Java, and C++. On paper, these are all great results. But these are all benchmarks, and benchmarks do not always tell the whole story. So, how well does Gemini perform in real-world tasks?
@@ -64,10 +71,10 @@ thumbnail: https://thmb.techidaily.com/578092e9e17a69c476b3082e47519b7819155a500
  Google says that Gemini Ultra will roll out in January 2024, so we've had to settle for testing Gemini Pro against ChatGPT for now.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Gemini Compares to GPT-3.5 and GPT-4
@@ -81,10 +88,10 @@ thumbnail: https://thmb.techidaily.com/578092e9e17a69c476b3082e47519b7819155a500
 ![Bard answers Math question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/bard-answers-math-question.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 We tried ChatGPT running on GPT-3.5\. The first trial got it right.
@@ -103,27 +110,27 @@ Here's the source screenshot.
 
 ![results of screenshot replication by Bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/results-of-screenshot-replication-by-bard.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  And here's GPT-4's attempt at replicating the screenshot. The result is not surprising, considering GPT-4 has historically been strong at coding. We've previously demonstrated[using GPT-4 to build a web app from scratch](https://www.makeuseof.com/chatgpt-how-build-web-app/) .
 
 ![results of screenshot replication by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/results-of-screenshot-replication-by-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  We asked Gemini Pro to create a poem about Tesla (the electric vehicle car brand). It showed marginal improvements from previous tests we've done in the past. Here's the result:
 
 ![Bard running Gemini Pro writes a poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/bard-writes-peom.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  At this point, we thought comparing the results against GPT-3.5 rather than the supercharged GPT-4 would be more appropriate. So, we asked ChatGPT running GPT-3.5 to create a similar poem.
 
@@ -150,5 +157,26 @@ Here's the source screenshot.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-steady-shots-expert-tips-on-tripods-in-vlog-production/"><u>[Updated] Steady Shots Expert Tips on Tripods in Vlog Production</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-deep-devotion-a-chat-with-an-apple-vision-pro-sales-expert-insights-from-zdnet/"><u>Exploring Deep Devotion: A Chat with an Apple Vision Pro Sales Expert - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-apple-can-revive-vision-pro-success-with-three-key-actions-insights/"><u>How Apple Can Revive Vision Pro Success with Three Key Actions - Insights</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-tecno-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Tecno</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-10-best-sites-to-download-free-slideshow-templates-filmora/"><u>In 2024, 10 Best Sites to Download Free Slideshow Templates - Filmora</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-android-gallery-upload-on-iphone-device/"><u>In 2024, Android Gallery Upload on iPhone Device</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-fixes-how-to-recover-forgotten-icloud-password-on-your-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, Easy Fixes How To Recover Forgotten iCloud Password On your Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ipad-air-analysis-surprisingly-superior-making-me-question-my-choice-of-the-ipad-pro-expert-insights-on-tech/"><u>IPad Air Analysis: Surprisingly Superior, Making Me Question My Choice of the iPad Pro - Expert Insights on Tech</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/a-difference-youtubes-quick-thumbnail-guide-for-2024/"><u>Make a Difference YouTube's Quick Thumbnail Guide for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/master-hidden-ios-voice-controls-and-maximize-iphone-performance-tips-from-tech-experts/"><u>Master Hidden iOS Voice Controls & Maximize iPhone Performance | Tips From Tech Experts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mp2-moviavi/"><u>Mp2動画ファイルを簡単にオンラインで変換する方法 - Moviavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/nailing-down-ps4-audio-problems-fixes-for-when-your-mic-wont-work/"><u>Nailing Down PS4 Audio Problems: Fixes for When Your Mic Won't Work</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/quick-access-social-media-links-and-customizable-menu-stay-connected-top-recommendations/"><u>Quick Access: Social Media Links & Customizable Menu - Stay Connected | Top Recommendations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-guide-to-the-iphone-15-for-advanced-users-gizmobugle/"><u>The Ultimate Guide to the iPhone 15 for Advanced Users | GizmoBugle</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-5-essential-upgrades-how-android-can-catch-up-with-ios-in-the-mobile-market-insights/"><u>Top 5 Essential Upgrades: How Android Can Catch Up with iOS in the Mobile Market - Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-5-gamer-ready-smartphones-features-reviews-and-comparison/"><u>Top 5 Gamer-Ready Smartphones : Features, Reviews & Comparison</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-7-compelling-factors-driving-user-satisfaction-with-apple-vision-pro-insights-from-reddit-users/"><u>Top 7 Compelling Factors Driving User Satisfaction with Apple Vision Pro - Insights From Reddit Users</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-meizu-21-pro-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Meizu 21 Pro? Here is How | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-you-should-consider-the-new-ipad-air-apple-unveils-4-irresistible-reasons-explored-by-experts-at-zdnet/"><u>Why You Should Consider the New iPad Air: Apple Unveils 4 Irresistible Reasons, Explored by Experts at ZDNet</u></a></li>
+</ul></div>
 

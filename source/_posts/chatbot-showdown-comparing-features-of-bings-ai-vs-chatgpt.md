@@ -1,7 +1,7 @@
 ---
 title: "ChatBot Showdown: Comparing Features of Bing’s AI Vs. ChatGPT"
-date: 2024-09-10T21:09:29.490Z
-updated: 2024-09-17T18:24:55.729Z
+date: 2024-10-14T17:53:31.893Z
+updated: 2024-10-15T22:43:43.631Z
 tags:
   - chatgpt
   - open-ai
@@ -54,9 +54,30 @@ For example, below is Bing Chat's effort at a simple limerick.
 
 ![Screenshot of Bing Limerick-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-bing-limerick-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  As you see from the ChatGPT effort below, both models can construct creative prose remarkably well.
 
 ![Screenshot of ChatGPT Limerick-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-limerick-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Safety
 
@@ -66,18 +87,18 @@ For example, below is Bing Chat's effort at a simple limerick.
 
  The ability to process image data is also a new feature in GPT-4\. However, this feature currently isn't integrated into Bing Chat, so it isn't covered here. The other major difference is the accuracy of the response. This is covered next.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How Accurate Are Bing Chat and ChatGPT
 
  Both platforms go to pains to make users aware that the models may generate responses that contain incorrect information. This is clearly displayed on both interfaces.
 
 ![Screenshot of GPT limitations for bin and chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-gpt-limitations-for-bin-and-chatgpt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Bing Chat has a distinct advantage here. The GPT-4 model has the twin advantages of access to more recent data and multiple sources of information. By contrast, the GPT-3.5/GPT-4 dataset was cut off at the end of 2021, and though it has received some topical updates, it is limited.
 
@@ -86,10 +107,10 @@ For example, below is Bing Chat's effort at a simple limerick.
 ![Screenshot of Plastic Recycling Stats from Bing Chat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-plastic-recycling-stats-from-bing-chat.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The response supplied figures as well as links to the sources from which the data was retrieved. However, the inclusion of US plastic exports was slightly out of context with the question. We would hesitate to call this a glitch, but it does show AI's tendency to wander off-topic at times.
@@ -112,29 +133,9 @@ By contrast, the ChatGPT response was to admit its limitations.
 
 ![Screenshot of Bing Chat response to education query](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-bing-chat-response-to-education-query.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  As you can see, the response included links to the listed websites. Compare this to the ChatGPT response:
 
 ![Screenshot of ChatGPT list of educational websites](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-list-of-educational-websites.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Which Is Best: Bing Chat or Chat GPT?
 
@@ -171,5 +172,24 @@ By contrast, the ChatGPT response was to admit its limitations.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-behind-the-screen-a-strategic-approach-for-secret-youtube-videos/"><u>[Updated] 2024 Approved Behind the Screen A Strategic Approach for Secret YouTube Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-navigating-the-world-of-instagram-streams-with-ease-through-obs/"><u>[Updated] In 2024, Navigating the World of Instagram Streams with Ease Through OBS</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-is-image-stabilization-a-feature-worth-your-time/"><u>[Updated] Is Image Stabilization a Feature Worth Your Time?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-rethinking-social-media-presence-in-light-of-instagrams-new-algorithm/"><u>[Updated] Rethinking Social Media Presence in Light of Instagram's New Algorithm</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1-apple-watch-users-troubleshoot-ghostly-screen-interactions-solutions-and-tips-zdnet/"><u>1. 'Apple Watch Users Troubleshoot Ghostly Screen Interactions: Solutions and Tips - ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/amazon-selling-iphone-15-pro-max-at-just-one-cent-exclusive-insider-guide/"><u>Amazon Selling iPhone 15 Pro Max at Just One Cent - Exclusive Insider Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/anticipated-new-tech-in-the-iphone-16-series-a-compelling-reason-to-consider-an-upgrade/"><u>Anticipated New Tech in the iPhone 16 Series - A Compelling Reason to Consider an Upgrade</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/comprehensive-guide-mastering-the-art-with-flipwriter-by-flipbuildercom/"><u>Comprehensive Guide: Mastering the Art with FlipWriter by FlipBuilder.com</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/explore-free-openai-inspired-ais-outside-of-sora/"><u>Explore Free, OpenAI-Inspired AIs Outside of Sora</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/get-your-hands-on-an-amazing-iphone-15-pro-max-for-just-a-penny-unveiling-the-amazon-secret-offer/"><u>Get Your Hands On an Amazing iPhone 15 Pro Max For Just A Penny - Unveiling The Amazon Secret Offer!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-apples-ios-1751-patch-resolves-unexpected-issue-with-revived-old-photos-analysis/"><u>How Apple's IOS 17.5.1 Patch Resolves Unexpected Issue with Revived Old Photos – Analysis</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-realme-narzo-60x-5g-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Realme Narzo 60x 5G? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-explore-the-finest-cost-free-videocalling-platforms/"><u>In 2024, Explore the Finest Cost-Free Videocalling Platforms</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/join-the-community-of-dissatisfied-users-post-ios-18-upgrade-my-story-and-more-zdnet/"><u>Join the Community of Dissatisfied Users Post-iOS 18 Upgrade: My Story & More | ZDNET</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-customization-adjusting-the-control-center-in-ios-18-on-your-iphone-expert-tips-by-zdnet/"><u>Mastering Customization: Adjusting the Control Center in iOS 18 on Your iPhone – Expert Tips by ZDNET</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-ranking-iphone-choices-comprehensive-expert-evaluations-and-reviews/"><u>Top-Ranking iPhone Choices : Comprehensive Expert Evaluations & Reviews</u></a></li>
+</ul></div>
 

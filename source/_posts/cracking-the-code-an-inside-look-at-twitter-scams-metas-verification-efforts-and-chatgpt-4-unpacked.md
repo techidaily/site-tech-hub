@@ -1,7 +1,7 @@
 ---
 title: "Cracking the Code: An Inside Look at Twitter Scams, Meta's Verification Efforts, and ChatGPT-4 Unpacked"
-date: 2024-09-15T01:22:30.385Z
-updated: 2024-09-17T17:50:37.373Z
+date: 2024-10-09T02:39:35.473Z
+updated: 2024-10-16T04:34:59.800Z
 tags:
   - chatgpt
   - open-ai
@@ -34,11 +34,31 @@ thumbnail: https://thmb.techidaily.com/24c4d966d5ae08b9992d6ca8e560b523aa54e9e6e
 
  Explore[responsible ways of writing with AI](https://www.makeuseof.com/ways-to-use-ai-as-writer-editor/) instead. ChatGPT streamlines non-writing tasks, like researching topics, editing drafts, and analyzing reader personas.
 
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Automating Employee Performance Reviews Through ChatGPT
 
  ChatGPT’s sophisticated[natural language processing](https://www.makeuseof.com/what-is-natural-language-processing-and-how-does-it-work/) (NLP) system understands input and produces corresponding responses. Some employees rely on it for drafting performance reports. They make ChatGPT write customized reviews by submitting their subordinates’ key performance indicators (KPIs).
 
  However, using ChatGPT this way is deceitful—it doesn’t have enough context to assess your employees accurately. You’ll definitely get fired for submitting erroneous ratings. Workers might even file lawsuits against you depending on the gravity of the situation.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Asking ChatGPT to Draft Legal Documents and Contracts
 
@@ -56,16 +76,22 @@ thumbnail: https://thmb.techidaily.com/24c4d966d5ae08b9992d6ca8e560b523aa54e9e6e
 
  And make sure you double-check the figures that ChatGPT presents. Blindly trusting AI’s formulas will cause errors in your computations, which might get you into trouble. Employers could also fire you if you consistently submit erroneous data.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Making ChatGPT Reply to Messages
 
 ![Copy-Pasting Message from ChatGPT to Slack](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-replying-to-message.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  A study by[McKinsey & Company](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-social-economy) shows that employees spend 28 percent of the workweek answering and reading messages. To save time, you might consider automating some responses. ChatGPT can compose customized output based on the messages and instructions you input.
 
@@ -77,13 +103,6 @@ thumbnail: https://thmb.techidaily.com/24c4d966d5ae08b9992d6ca8e560b523aa54e9e6e
 
  Like automated AI replies, workers rarely get fired for sending ChatGPT-generated emails. It just makes them look unprofessional. Use AI to generate writing prompts and create outlines, but you should still compose messages yourself.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Doing Research and Analyses on ChatGPT
 
  Many companies encourage using ChatGPT for research purposes. It’s a powerful chatbot that scours vast datasets comprising various subjects.[Science Focus](https://www.sciencefocus.com/future-technology/gpt-3/) reports that OpenAI fed the platform 300 billion words, while ChatGPT Plus has access to real-time information online. It can help you explore any topic under the sun.
@@ -93,13 +112,6 @@ thumbnail: https://thmb.techidaily.com/24c4d966d5ae08b9992d6ca8e560b523aa54e9e6e
 ## 8\. Using Code Snippets Written by ChatGPT
 
 ![Asking ChatGPT to Write a Sample Code Snippet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/sample-code-snippet-from-chatgpt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  ChatGPT’s ability to code in various languages caught the attention of programmers worldwide. It can write an entire site’s code in seconds. Many programmers reduce their workload by offloading much of the coding process to ChatGPT.
 
@@ -114,10 +126,10 @@ thumbnail: https://thmb.techidaily.com/24c4d966d5ae08b9992d6ca8e560b523aa54e9e6e
 ![ChatGPT Editing Paragraph Based on AP Styleguide](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-acting-as-an-editor.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  It’s not unethical for employees to edit with chatbots. But if you’re an editor who publishes articles edited by ChatGPT, you’ll likely get fired. Your employer pays you to correct drafts yourself. Just running them through AI-driven tools and platforms is unethical and violates your contract.
@@ -131,6 +143,13 @@ thumbnail: https://thmb.techidaily.com/24c4d966d5ae08b9992d6ca8e560b523aa54e9e6e
  That said, using AI for data analysis won’t automatically lead to termination. Most employers only fire workers who carelessly rely on AI tools and submit figures without verifying them.
 
  You can still offload some tasks to ChatGPT, like drawing charts or writing summaries. Just note that it lacks contextual understanding and takes input at face value—you must perform fact-checking yourself.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Use ChatGPT Ethically and Responsibly
 
@@ -151,5 +170,26 @@ thumbnail: https://thmb.techidaily.com/24c4d966d5ae08b9992d6ca8e560b523aa54e9e6e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-embedding-weblinks-on-instas-story-feature/"><u>[New] 2024 Approved Embedding Weblinks on Insta's Story Feature</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-polishing-screens-incorporating-filters-in-video/"><u>[New] 2024 Approved Polishing Screens Incorporating Filters in Video</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-zero-to-hero-youtube-setup-growth-and-profit-strategies-for-2024/"><u>[New] From Zero to Hero YouTube Setup, Growth & Profit Strategies for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-from-tube-to-chat-sharing-video-content-from-youtube-and-twitter-directly/"><u>[Updated] From Tube to Chat Sharing Video Content From YouTube & Twitter Directly</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/2024s-elite-list-of-waterproof-smartwatches-in-depth-analysis-and-ratings-by-professionals-digitaltechtrends/"><u>2024'S Elite List of Waterproof Smartwatches: In-Depth Analysis and Ratings by Professionals | DigitalTechTrends</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/begin-your-journey-with-vision-pros-travel-feature-essential-insights-before-you-embark/"><u>Begin Your Journey with Vision Pro's Travel Feature – Essential Insights Before You Embark</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/digital-collaboration-redefined-with-6-chatgpt-techniques/"><u>Digital Collaboration Redefined with 6 ChatGPT Techniques</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/elite-methods-for-streaming-and-preserving-sports-action/"><u>Elite Methods for Streaming and Preserving Sports Action</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-individual-to-team-in-the-new-xbox-era/"><u>From Individual to Team in the New Xbox Era</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-apples-groundbreaking-gaze-control-is-changing-the-game-for-iphone-and-ipad-users-with-enhanced-accessibility-options-insights/"><u>How Apple's Groundbreaking Gaze Control Is Changing the Game for iPhone & iPad Users with Enhanced Accessibility Options | Insights</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-realme-c55-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Realme C55 Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/insights-on-the-google-pixelbook-go-beautifully-crafted-yet-expensive-device-review/"><u>Insights on the Google Pixelbook Go: Beautifully Crafted yet Expensive Device Review</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-macos-efficiency-a-step-by-step-tutorial-on-setting-up-and-leveraging-hot-corners/"><u>Mastering macOS Efficiency: A Step-by-Step Tutorial on Setting Up and Leveraging Hot Corners</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/section-4c-five-qandas/"><u>Section 4C: Five Q&As</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-apple-watch-accessory-premium-titanium-band-unveiled/"><u>The Ultimate Apple Watch Accessory - Premium Titanium Band Unveiled</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-realme-11-proplus-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Realme 11 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-5-exciting-new-iphone-16-pro-attributes-that-tech-lovers-cant-wait-to-try-a-closer-look-by-zdnet/"><u>Top 5 Exciting New iPhone 16 Pro Attributes That Tech Lovers Can't Wait To Try - A Closer Look By ZDNET</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-iphone-releases-in-depth-analysis-by-industry-experts-techsavvy/"><u>Top Rated iPhone Releases : In-Depth Analysis by Industry Experts | TechSavvy</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-the-secret-secure-your-apple-watch-series-10-from-best-buy-starting-at-just-99-with-our-exclusive-preorder-guide-read-now-on-zdnet/"><u>Unlock the Secret: Secure Your Apple Watch Series 10 From Best Buy Starting at Just $99 with Our Exclusive Preorder Guide – Read Now on ZDNet!</u></a></li>
+</ul></div>
 

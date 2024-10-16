@@ -1,7 +1,7 @@
 ---
 title: "Artificial Intelligence in Humor: Can Machines Be Funny?"
-date: 2024-09-15T03:49:54.918Z
-updated: 2024-09-17T17:27:41.115Z
+date: 2024-10-13T22:52:47.790Z
+updated: 2024-10-15T20:23:21.486Z
 tags:
   - chatgpt
   - open-ai
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/d54fa6180dfbcf214df4f9458a0e28f5138815530
 
  The chatbot is also built into the Edge browser, where you can access it via the homepage.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Skype Gets AI Features
 
  In addition to those apps, Microsoft has added AI-enhanced Bing support to Skype, the venerable voice and chat app. The idea here is not to get the AI to have conversations on your behalf, but to add similar search capabilities to group messages.
@@ -47,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/d54fa6180dfbcf214df4f9458a0e28f5138815530
 > "If your family is chatting about the next family reunion, you can simply ask Bing for suggestions on travel destinations, expected weather forecasts and interesting events around your time of travel, and everyone in the chat will get access to the results."
 
  To access this feature, you simply need to add Bing to your group chats as you would any other contact. It's available worldwide and can respond in over 100 languages.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Use the New ChatGPT Bing Apps
 
@@ -59,10 +73,10 @@ thumbnail: https://thmb.techidaily.com/d54fa6180dfbcf214df4f9458a0e28f5138815530
 **Download:** Skype for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2022079/https://play.google.com/store/apps/details?id=com.skype.raider) |[iOS](https://apps.apple.com/us/app/skype/id304878510) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Test Out AI Chat on Android and iPhone Today
@@ -86,5 +100,19 @@ thumbnail: https://thmb.techidaily.com/d54fa6180dfbcf214df4f9458a0e28f5138815530
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-innovating-imagery-through-curve-adjustment/"><u>[New] Innovating Imagery Through Curve Adjustment</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>3 Things You Must Know about Fake Snapchat Location On Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/approach-calculate-the-energy-for-full-and-half-voltage-scenarios-separately-then-sum-up/"><u>Approach: Calculate the Energy for Full and Half Voltage Scenarios Separately, Then Sum Up.</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discover-the-best-ergonomic-keyboard-coasters-and-gel-pads-available/"><u>Discover the Best Ergonomic Keyboard Coasters and Gel Pads Available</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-apples-custom-silicon-revolution-m1-to-m3-and-rosetta-2-shapes-the-future-of-pcs-a-guide-for-shoppers/"><u>How Apple's Custom Silicon Revolution (M1 to M3) & Rosetta 2 Shapes the Future of PCs: A Guide for Shoppers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-from-100-pro-by-fonelab-android-recover-pictures/"><u>How to recover deleted pictures from 100 Pro.</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Itel P55+? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/section-2a-explanation-of-hydrostatic-testing-in-welded-joints/"><u>Section 2A: Explanation of Hydrostatic Testing in Welded Joints</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-wireless-charging-devices-comprehensive-review-by-tech-gurus/"><u>Top-Rated Wireless Charging Devices - Comprehensive Review by Tech Gurus</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshoot-non-functional-shift-in-windows/"><u>Troubleshoot Non-Functional Shift in Windows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-apples-ai-showcase-what-happened-to-those-anticipated-tech-advances/"><u>Unveiling Apple's AI Showcase: What Happened to Those Anticipated Tech Advances?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-gptbot-how-it-works-and-why-some-websites-have-chosen-to-block-access/"><u>Unveiling GPTBot: How It Works & Why Some Websites Have Chosen to Block Access</u></a></li>
+</ul></div>
 

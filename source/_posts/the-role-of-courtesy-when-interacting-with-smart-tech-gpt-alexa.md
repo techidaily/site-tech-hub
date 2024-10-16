@@ -1,7 +1,7 @@
 ---
 title: The Role of Courtesy When Interacting With Smart Tech (GPT, Alexa)
-date: 2024-09-11T02:09:19.249Z
-updated: 2024-09-17T17:22:18.276Z
+date: 2024-10-10T03:23:54.609Z
+updated: 2024-10-16T04:33:02.733Z
 tags:
   - chatgpt
   - open-ai
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/44d6dd331015bef170e8a84e58ebf4bd2f78d6bf8
 
  The points you earn are tradable for a few acts, such as checking alibis, checking records, investigating scenes, and tailing suspects. If you're stuck at any time, you can spend points to get a clue on how you should proceed. Once you're sure about the whodunnit, use the one-time "Solve the murder" action to see if you got it right.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2.[Gron](https://www.gron.games/game) (Web): Retro RPG Game to Find Clues and Chat With Suspects
 
 ![Gron is a retro 8-bit RPG-style online game where you unravel a murder mystery by finding evidence and clues, as well as interrogating suspects with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-gron-town.jpg)
@@ -52,6 +59,13 @@ thumbnail: https://thmb.techidaily.com/44d6dd331015bef170e8a84e58ebf4bd2f78d6bf8
 
 ![Mystery-o-matic uses AI like ChatGPT to generate a new murder mystery every day where you have to guess the killer, the weapon, and the location based on a set of clues](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-mystery-o-matic.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Author Screenshot by Mihir Patkar - No attribution required
 
  Move over,[Wordle and its alternatives](https://www.makeuseof.com/best-wordle-alternatives/) . There's a new daily puzzle, and lives are at stake! Mystery-o-Matic generates a new murder mystery every day using machine-learning algorithms. It uses a few base elements and then creates permutations and combinations that set up a daily mystery.
@@ -61,10 +75,16 @@ thumbnail: https://thmb.techidaily.com/44d6dd331015bef170e8a84e58ebf4bd2f78d6bf8
  Use the built-in investigator's notebook to figure out who was in which room at what time and how they could have accessed a murder weapon. Once you're sure about the solution, say who the murderer was, the weapon was, and the time of the murder. The game might get a little repetitive the longer you play it, but hey, where else would you get to solve a murder mystery daily?
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4.[Murdle](https://murdle.com/) (Web): Daily Murder Mystery Logic Puzzles
@@ -80,10 +100,10 @@ thumbnail: https://thmb.techidaily.com/44d6dd331015bef170e8a84e58ebf4bd2f78d6bf8
  You play as Detective Logico and are given a series of clues and evidence, which you can use with the cross-referencing charting to match suspects, locations, and weapons. It's best to start off with the mini-Murdle tutorial and then get to the daily puzzles. When you're ready to make your accusation, you'll need to say who the murderer was, how they did it, and where the ghastly act took place.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create Your Own ChatGPT Murder Mystery
@@ -105,5 +125,24 @@ thumbnail: https://thmb.techidaily.com/44d6dd331015bef170e8a84e58ebf4bd2f78d6bf8
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-expert-tips-for-optimizing-your-srt-setup-for-2024/"><u>[New] Expert Tips for Optimizing Your SRT Setup for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-facebook-registration-simplified/"><u>[New] In 2024, Facebook Registration Simplified</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-movavi-pro-video-review-the-new-standard-for-2024/"><u>[New] Movavi Pro Video Review – The New Standard for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-perfecting-your-pics-kinemaster-methods/"><u>[Updated] Perfecting Your Pics KineMaster Methods</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-vivo-s18-pro-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Vivo S18 Pro in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-effortless-mp3-conversion-from-youtube-for-mac-users/"><u>In 2024, Effortless MP3 Conversion From YouTube for Mac Users</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-how-to-add-bitmoji-to-keyboard-for-2024/"><u>New How to Add Bitmoji to Keyboard for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/riconverti-i-tuoi-file-ape-in-mp4-gratuitamente-online-con-movavi/"><u>Riconverti I Tuoi File APE in MP4 Gratuitamente Online Con Movavi</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/schnellere-konvertierung-von-audible-aax-zu-mp3-erfahre-die-60x-geschwindigkeitssteigerung/"><u>Schnellere Konvertierung Von Audible-AAX Zu MP3: Erfahre Die 60X Geschwindigkeitssteigerung</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/seamless-ebook-enjoyment-shifting-your-reading-experience-from-barnes-and-nobles-nook-to-amazons-kindle-devices/"><u>Seamless Ebook Enjoyment: Shifting Your Reading Experience From Barnes & Noble's Nook to Amazon's Kindle Devices</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/seamless-integration-steps-how-to-easily-implement-new-software-features/"><u>Seamless Integration Steps: How to Easily Implement New Software Features</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-to-removing-drm-from-ebook-pages/"><u>Step-by-Step Guide to Removing DRM From eBook Pages</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-setting-up-kobo-ebook-reader-via-adobe-digital-editions/"><u>Step-by-Step Guide: Setting Up Kobo Ebook Reader via Adobe Digital Editions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-transforming-epub-and-mobi-files-into-a-comprehensive-pdf-format/"><u>Step-by-Step Guide: Transforming EPUB and MOBI Files Into a Comprehensive PDF Format</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-60-free-e-books-available-on-kindle-download-list/"><u>Top 60 Free E-Books Available on Kindle: Download List</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-the-acsm-file-format-an-in-depth-guide-with-frequently-asked-questions/"><u>Understanding the ACSM File Format: An In-Depth Guide with Frequently Asked Questions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unveiling-the-secrets-of-medical-ad-success-on-fb/"><u>Unveiling the Secrets of Medical Ad Success on FB</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Smarter Living Starts Here: 9 Powerful ChatGPT Methods"
-date: 2024-09-14T02:51:50.461Z
-updated: 2024-09-18T01:32:10.931Z
+date: 2024-10-15T05:06:36.464Z
+updated: 2024-10-16T01:38:47.331Z
 tags:
   - chatgpt
   - open-ai
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/cd4be73ff3428dfa24ba60958875da0e80b94cf66
 * [How to Find the Best Custom GPTs in the GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/#how-to-find-the-best-custom-gpts-in-the-gpt-store)
 * [Is it Worth Upgrading to ChatGPT Plus to Use Custom GPTs?](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/#is-it-worth-upgrading-to-chatgpt-plus-to-use-custom-gpts)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * OpenAI has launched the GPT Store, where users can find custom GPTs created by the ChatGPT community.
@@ -35,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/cd4be73ff3428dfa24ba60958875da0e80b94cf66
  OpenAI has finally unveiled its highly anticipated GPT Store, offering users a selection of ChatGPT community-created custom GPTs featuring specialized chatbots ranging from writing and design to programming and productivity. The launch marks OpenAI's latest move to capitalize on the runaway popularity of its AI creation ChatGPT, which took the world by storm after its launch in November 2022.
 
  ChatGPT's custom GPT Store is open right now, and this is how you can use it to find the pre-programmed AI tools you need.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Access the GPT Store
 
@@ -46,13 +60,6 @@ How do you know when you've been granted access?
 
  On the left sidebar of the ChatGPT interface, you should see**Explore GPTs** instead of simply**Explore** . Once you see this, you can start using the GPT Store! Remember, the whole idea of the GPT Store is to help users browse and access a wide range of GPTs built by the community. So, how can you use it to find the right GPT for your tasks?
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Find the Best Custom GPTs in the GPT Store
 
  Using the GPT Store is quite straightforward. Here's how you can browse and search for custom GPTs:
@@ -62,18 +69,26 @@ How do you know when you've been granted access?
 ![Screenshot of the GPT store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-store.jpg)
 3. You can also use the search bar to find GPTs by keyword or related terms.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![GPT Store search screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-store-search-screen.jpg)
 4. When you find a GPT you want to try, click on it to open the individual GPT page.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. On the GPT page, you will see information about what that model offers.
 6. After testing a GPT that solves your problem well, take one important extra step—click on the GPT name in the top left corner of the page, then click**Keep in sidebar** . This saves that GPT to the sidebar along with your chat history for easy future access.  
 ![Adding a GPT to sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/adding-a-gpt-to-sidebar.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  However, you should note that at the time of writing, the GPT Store isn't reviewed, and there is no rating system or otherwise. We're hoping that OpenAI will introduce some type of rating system in the near future, as currently, without any system in place, you're effectively on your own when it comes to figuring out what works well. By extension, it seems likely that some form of rating or review system will be implemented once GPT Store revenue sharing is launched, but OpenAI hasn't given any fixed timeline for this.
 
@@ -98,5 +113,24 @@ How do you know when you've been granted access?
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-the-ultimate-10-most-popular-tracks/"><u>[Updated] In 2024, The Ultimate 10 Most Popular Tracks</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-transform-your-android-footage-with-stunning-time-lapse-videos-for-2024/"><u>[Updated] Transform Your Android Footage with Stunning Time-Lapse Videos for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/down-of-youtubes-monetization-update-for-2024/"><u>Breakdown of YouTube's Monetization Update for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-chatgpt-outperform-magazines-in-astrological-fortune-telling/"><u>Can ChatGPT Outperform Magazines in Astrological Fortune-Telling?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-7-thrilling-new-capabilities-of-googles-bard-ai-revealed-at-io-2023/"><u>Discover the 7 Thrilling New Capabilities of Google's BARD AI Revealed at IO 2023</u></a></li>
+<li><a href="https://win-news.techidaily.com/free-rollback-rx-substitutes-compatible-with-windows-11-10-8-and-7/"><u>Free Rollback RX Substitutes Compatible with Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-network-locked-motorola-moto-e13-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Motorola Moto E13 Phone?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/introducing-dall-e-s-latest-update-editing-functionality-added-but-needs-refinement/"><u>Introducing DALL-E S Latest Update: Editing Functionality Added but Needs Refinement</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-generative-ai-the-latest-instrument-in-spreading-misinformation/"><u>Is Generative AI the Latest Instrument in Spreading Misinformation?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-ai-with-kids-the-parents-primer-on-chatgpt/"><u>Mastering AI with Kids: The Parent’s Primer on ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-document-interaction-how-chatgpt-can-be-trained-to-read-pdf-content/"><u>Mastering Document Interaction: How ChatGPT Can Be Trained to Read PDF Content</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-live-commerce-next-chapter-can-ai-unlock-its-true-potential/"><u>New In 2024, Live Commerce Next Chapter Can AI Unlock Its True Potential?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/quick-and-easy-techniques-for-facebook-image-puzzling/"><u>Quick and Easy Techniques for Facebook Image Puzzling</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionize-your-approach-to-proposal-writing-chatgpt-edition/"><u>Revolutionize Your Approach to Proposal Writing - ChatGPT Edition</u></a></li>
+<li><a href="https://techidaily.com/some-mp4-won-t-play-on-my-samsung-galaxy-s23-ultra-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Some MP4 won't play on my Samsung Galaxy S23 Ultra</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-unveiling-of-truthgpt-ai-synced-with-police-raid-on-encrypted-mullvad-vpn-service-showcasing-the-ultimate-list-of-no-cost-pc-gaming-and-comprehensive-gu4/"><u>The Unveiling of TruthGPT AI: Synced with Police Raid on Encrypted Mullvad VPN Service, Showcasing the Ultimate List of No-Cost PC Gaming and Comprehensive Guide on Mechanical Keyboard Benefits</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transform-your-videos-using-video-enhancer-v22-for-2024/"><u>Transform Your Videos Using Video Enhancer V2.2 for 2024</u></a></li>
+</ul></div>
 

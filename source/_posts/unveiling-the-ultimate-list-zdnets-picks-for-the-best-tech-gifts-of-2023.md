@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Ultimate List: ZDNet's Picks for the Best Tech Gifts of 2023!"
-date: 2024-10-08T20:54:04.836Z
-updated: 2024-10-09T17:51:42.525Z
+date: 2024-10-10T22:08:41.465Z
+updated: 2024-10-15T22:59:39.793Z
 tags:
   - apple
 categories:
@@ -31,10 +31,16 @@ But which features will actually have the most impact on iPhone enthusiasts? Wha
 When Apple first released the [iPhone 15](https://www.zdnet.com/article/iphone-15-plus-review/) series, it only gave the 5x tetraprism zoom lens to the Max Pro. This time around, both the 16 Pro and the 16 Pro Max are getting the high-end zoom capability. This choice means the camera is essentially the same on the 16 Pro and 16 Pro Max, leaving other features to differentiate the two models. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. The camera control
@@ -52,10 +58,10 @@ The camera control button is available on all iPhone 16 models, but it's when pa
 [Not everyone is a fan](https://www.zdnet.com/article/i-want-to-be-excited-about-the-iphone-16s-new-camera-button-but-cant-for-now/) of the new camera button, however, as this shift from software to hardware will likely come with usability growing pains and mistakenly-accessed features.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Siri's much-needed makeover
@@ -73,10 +79,10 @@ Well, the time has finally come. Apple unveiled a ton of new functionality for S
 Beyond Siri, we have [Visual Intelligence](https://www.zdnet.com/article/apple-adds-visual-intelligence-its-answer-to-google-lens-to-the-iphone-16-camera/), which allows multi-modal AI via the camera, similar to what we've seen across other AI models this year. Apple Intelligence will start with a live beta in October in the US, with additional countries in December, and additional languages next year. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Upgraded chipset for the AI age
@@ -92,10 +98,10 @@ The 3mm technology has smaller, more efficient transistors, and constitutes a bi
 Even with AI's demanding memory requirements, having this much memory on the iPhone is a bonus for overall performance, particularly multitasking and starting up apps. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. The biggest iPhones yet
@@ -132,17 +138,17 @@ The iPhone 16 Pro and Pro Max are the largest iPhones ever, with 6.3 and 6.9-inc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-a-complete-rundown-reels-vs-stories-on-instagram/"><u>[Updated] A Complete Rundown Reels vs Stories on Instagram</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-all-inclusive-guide-to-sj-cam-s6s-features/"><u>[Updated] In 2024, The All-Inclusive Guide to SJ-CAM S6's Features</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Tecno Spark Go (2023) | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/athletic-advocates-mastering-machine-dialogue/"><u>Athletic Advocates, Mastering Machine Dialogue</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/best-websites-for-downloading-skype-ringtone-for-2024/"><u>Best Websites For Downloading Skype Ringtone for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/bypassing-phone-numbers-for-secure-login-on-messaging-services-your-ultimate-guide/"><u>Bypassing Phone Numbers for Secure Login on Messaging Services - Your Ultimate Guide!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-the-latest-pci-card-drivers-compatible-with-windows-11-10-8-and-7/"><u>Download the Latest PCI Card Drivers Compatible with Windows 11, 10, 8 & 7</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/explore-the-new-chatgpt-mobile-app-now-available-on-ios-devices/"><u>Explore the New ChatGPT Mobile App Now Available on iOS Devices!</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Samsung Galaxy A05 | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/how-to-post-tweets-on-facebook/"><u>How to Post Tweets on Facebook</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/inside-large-language-models-llms-principles-and-processes/"><u>Inside Large Language Models (LLMs): Principles and Processes</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/the-simple-way-to-find-and-install-new-drivers-for-konica-minolta-devices/"><u>The Simple Way to Find And Install New Drivers for Konica Minolta Devices</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-a-practical-guide-to-using-vsco-for-professionals/"><u>[New] In 2024, A Practical Guide to Using VSCO for Professionals</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-high-revenue-video-visionaries/"><u>[New] In 2024, High-Revenue Video Visionaries</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-jumpstart-your-photo-editing-skills-with-these-must-have-pixlr-tips/"><u>[Updated] Jumpstart Your Photo-Editing Skills with These Must-Have Pixlr Tips</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-from-basics-to-alternatives-understanding-vidmas-capture-software/"><u>2024 Approved From Basics to Alternatives Understanding Vidma's Capture Software</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-driven-poetic-endeavors-a-comprehensive-guide/"><u>ChatGPT-Driven Poetic Endeavors: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/grouping-pages-effectively-a-guide-to-optimizing-user-interfaces/"><u>Grouping Pages Effectively: A Guide to Optimizing User Interfaces</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-comprehensive-guide-to-cross-posting-youtube-video-on-fb/"><u>In 2024, Comprehensive Guide to Cross-Posting YouTube Video on FB</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-showcasing-iconic-ae-templates-for-social-media/"><u>In 2024, Showcasing Iconic AE Templates for Social Media</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leveraging-ai-five-must-know-tech-tools-for-business/"><u>Leveraging AI: Five Must-Know Tech Tools for Business</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-quoras-poe-for-ai-bot-and-llm-entry/"><u>Mastering Quora's POE for AI Bot & LLM Entry</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transform-your-hr-workflow-with-these-5-powerful-ai-chatbot-techniques/"><u>Transform Your HR Workflow with These 5 Powerful AI Chatbot Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/trustworthy-approaches-for-checking-health-insights-provided-by-chatgpt-and-machine-intelligence/"><u>Trustworthy Approaches for Checking Health Insights Provided by ChatGPT and Machine Intelligence</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Impact Analysis: AI Chatbot Moderation on Individuals"
-date: 2024-09-12T22:10:58.113Z
-updated: 2024-09-17T20:21:20.269Z
+date: 2024-10-15T02:01:09.963Z
+updated: 2024-10-15T21:45:44.640Z
 tags:
   - chatgpt
   - open-ai
@@ -56,9 +56,23 @@ thumbnail: https://thmb.techidaily.com/88bfebb08e4cbb8d0a68e78c0297b8f1e363343f3
 
 ![Screenshot of Export ChatGPT dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-export-chatgpt-dialog-box.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You will need to link your Notion account to the app, but this was easy. We found that the process was automatic if you had your Notion account open on the same browser.
 
 ![Screenshot of ChatGPT conversation imported into Notion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-chatgpt-conversation-imported-into-notion.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Overall, if you are a Notion user, this delivers on all its promises. If you aren't a Notion user, there are probably better options. However, again it was simple to install on Microsoft Edge and Google Chrome.
 
@@ -70,13 +84,6 @@ thumbnail: https://thmb.techidaily.com/88bfebb08e4cbb8d0a68e78c0297b8f1e363343f3
 
 [Installing an extension manually on Chrome](https://www.makeuseof.com/tag/how-to-install-chrome-extensions-manually/) or another browser isn't that difficult. The steps to do this are detailed below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Installing ChatGPT Export and Share for Chrome and Edge
 
 1. Download the appropriate version from the[ChatGPT Export and Share download page](https://github.com/liady/ChatGPT-pdf/releases/tag/1.3.4) .
@@ -87,10 +94,10 @@ thumbnail: https://thmb.techidaily.com/88bfebb08e4cbb8d0a68e78c0297b8f1e363343f3
 5. Install the extension by clicking the**Load unpacked** button and selecting the folder where you extracted the files. ChatGPT Export and Share should now be activated.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Installing ChatGPT Export and Share on Firefox
@@ -109,10 +116,10 @@ thumbnail: https://thmb.techidaily.com/88bfebb08e4cbb8d0a68e78c0297b8f1e363343f3
 ![Screenshot Export and Share ChatGPT options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-export-and-share-chatgpt-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Apart from that, this simple tool allows you to export your ChatGPT conversations as a PDF, weblink, or PNG file. Simple to use, with no bells and whistles, but there are easier-to-install tools that do the same function.
@@ -140,6 +147,13 @@ thumbnail: https://thmb.techidaily.com/88bfebb08e4cbb8d0a68e78c0297b8f1e363343f3
 
 ![Screenshot of Prompt Genius URL for sharing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-prompt-genius-url-for-sharing.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Overall, this tool was easy to install and worked exactly as intended. If you want to easily share your work and[improve your prompting techniques](https://www.makeuseof.com/prompting-techniques-to-improve-chatgpt-responses/) at the same time, ChatGPT Prompt Genius might be the tool for you.
 
 **Download** :[ChatGPT Prompt Genius](https://chrome.google.com/webstore/detail/chatgpt-prompt-genius/jjdnakkfjnnbbckhifcfchagnpofjffo/related) (Free)
@@ -163,5 +177,26 @@ thumbnail: https://thmb.techidaily.com/88bfebb08e4cbb8d0a68e78c0297b8f1e363343f3
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/updated-navigating-safaris-picture-in-picture-for-mobiledesktop-for-2024/"><u>[Updated] Navigating Safari’s Picture in Picture for Mobile/Desktop for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-superstar-status-secrets-a-step-by-step-plan-for-lightning-fame-on-social-media-giant-instagram/"><u>2024 Approved Superstar Status Secrets A Step-by-Step Plan for Lightning Fame on Social Media Giant Instagram</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beginning-a-journey-engineering-ai-engagement-points/"><u>Beginning a Journey: Engineering AI Engagement Points</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-instructions-on-how-to-get-and-install-auto-gpt-successfully/"><u>Easy Instructions on How To Get & Install Auto-GPT Successfully</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/expert-advice-on-free-youtube-events-without-extra-cost-for-2024/"><u>Expert Advice on Free Youtube Events without Extra Cost for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-lava-blaze-2-pro-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Lava Blaze 2 Pro Phone Screen?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-enable-chatgpt-to-access-and-interpret-pdf-documents/"><u>How to Enable ChatGPT to Access and Interpret PDF Documents</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-use-chatgpt-to-write-a-youtube-video-script/"><u>How to Use ChatGPT to Write a YouTube Video Script</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-samsung-galaxy-m14-4g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Samsung Galaxy M14 4G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-motorola-edge-40-pro-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Motorola Edge 40 Pro via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-ultimate-guide-on-apple-iphone-14-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Ultimate Guide on Apple iPhone 14 iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/in-conversation-with-machines-a-look-at-gpt-and-bing/"><u>In Conversation with Machines: A Look at GPT & Bing</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/mac-ios-data-salvage-application-seamless-restoration-of-accidentally-deleted-iphone-memories-videos-and-contacts/"><u>Mac iOS Data Salvage Application: Seamless Restoration of Accidentally Deleted iPhone Memories, Videos, & Contacts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/solving-communication-problems-resolve-plugin-service-issues-with-chatgpt/"><u>Solving Communication Problems: Resolve Plugin Service Issues with ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/start-conversing-directly-with-chatgpt/"><u>Start Conversing Directly with ChatGPT</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211875962-support-your-argument-with-historical-examples-or-current-breakthroughs-driven-by-problem-solvers/"><u>Support Your Argument with Historical Examples or Current Breakthroughs Driven by Problem Solvers.</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/the-complete-archive-of-high-quality-online-workshops-for-2024/"><u>The Complete Archive of High-Quality Online Workshops for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-privacy-concerns-in-using-chatgpt-technology/"><u>Understanding Privacy Concerns in Using ChatGPT Technology</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/who-can-tap-into-the-power-of-nvidias-adaptive-generative-ai-an-insightful-overview/"><u>Who Can Tap Into the Power of NVIDIA's Adaptive Generative AI? An Insightful Overview</u></a></li>
+</ul></div>
 

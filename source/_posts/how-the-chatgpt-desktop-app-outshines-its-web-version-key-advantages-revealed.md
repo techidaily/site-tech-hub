@@ -1,7 +1,7 @@
 ---
 title: "How the ChatGPT Desktop App Outshines Its Web Version: Key Advantages Revealed"
-date: 2024-09-10T22:32:41.278Z
-updated: 2024-09-17T18:04:40.873Z
+date: 2024-10-09T19:13:47.842Z
+updated: 2024-10-15T16:16:14.282Z
 tags:
   - chatgpt
   - open-ai
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/d8fc0a6dc40b2c266ea46ef0e0946f6a6f2bfc24f
 
  In the AI chatbot space, ChatGPT has been the undisputed leader since its launch in November 2022\. However, with the release of Claude 3, it is increasingly looking like ChatGPT might be losing that title. Here are four reasons you should consider switching from ChatGPT to Claude.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1 Claude Is Better at Creative Writing
 
  Besides occasional science homework, programming tasks, and fun games, one of the most popular use cases of AI chatbots is creative writing. Most users use[AI chatbots to help draft an email](https://www.makeuseof.com/use-chatgpt-write-work-emails/) , cover letter, resume, article, or song lyrics—basically one creative write-up or another. While ChatGPT has clearly been the favored option owing mostly to its brand name and publicity, Claude has consistently delivered top-notch results even in earlier iterations of the AI chatbots. But it's not just about providing top-notch results. Claude, especially backed by the latest[Claude 3 model](https://www.makeuseof.com/what-is-claude-3/) , outperforms ChatGPT in a wide range of creative writing tasks.
@@ -67,36 +74,37 @@ Here's ChatGPT's take:
 
 ![Coconut to wealth by ChatGPT writing example song lyrics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/coconut-to-wealth-by-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 And here's Claude's take:
 
 ![Coconut to wealth by Claude writing example song lyrics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/coconut-to-wealth-by-claude.jpg)
 
  Early adopters of ChatGPT probably have a deep-rooted preference for the AI chatbot, but when it comes to creative writing, ChatGPT has some serious catching up to do in many areas.
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2 Claude Offers Multimodality for Free
 
 ![screengrab of the claude ai homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/claude-screengrab.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Besides Google's Gemini AI chatbot, there are hardly any major AI chatbots in the market that offer Claude's multimodal features for free. With the free version of ChatGPT, all you get is text generation abilities, and that's it. No file uploads for analysis, no image processing, nothing else! On the other hand, Claude offers these premium features on its free tier. So, you can use image prompting or upload files for analysis on the chatbot for free if you use the free beta version of the bot.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3 Larger Context Window
@@ -136,5 +144,23 @@ And here's Claude's take:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-earn-more-maximizing-income-through-youtube-mobile-advertising-for-2024/"><u>[Updated] Earn More Maximizing Income Through YouTube Mobile Advertising for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-expert-webinar-label-builder-kit-for-2024/"><u>[Updated] Expert Webinar Label Builder Kit for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-icy-illusions-reveling-at-beijings-olympic-event-2022-for-2024/"><u>[Updated] Icy Illusions Reveling at Beijing's Olympic Event, 2022 for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-time-saving-strategies-mastering-video-playback-speed-for-2024/"><u>[Updated] Time-Saving Strategies Mastering Video Playback Speed for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-samsung-galaxy-z-flip-5-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Samsung Galaxy Z Flip 5 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-in-education-best-practices-to-optimize-academic-performance/"><u>ChatGPT in Education: Best Practices to Optimize Academic Performance</u></a></li>
+<li><a href="https://blog-min.techidaily.com/create-animated-movie-from-gifs-for-free-on-movavicom/"><u>Create Animated Movie From GIFs for Free on Movavi.com</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/creating-impactful-user-personalities-using-chatgpt-techniques-for-superior-results/"><u>Creating Impactful User Personalities Using ChatGPT: Techniques for Superior Results</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/download-and-use-ai-powered-conversation-bot-on-windows-for-free/"><u>Download & Use AI-Powered Conversation Bot on Windows For FREE!</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/making-a-buzz-aesthetic-strategies-for-podcast-brands-for-2024/"><u>Making a Buzz Aesthetic Strategies for Podcast Brands for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206300481-resolve-the-bluetooth-not-detected-on-windows-11-fast-fix-guide/"><u>Resolve the Bluetooth Not Detected on Windows 11 - Fast Fix Guide!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/should-you-opt-for-an-llm-exploring-9-essential-points-to-consider/"><u>Should You Opt for an LLM? Exploring 9 Essential Points to Consider</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-basics-of-claude-3-usage-how-it-works-and-what-you-can-achieve/"><u>The Basics of Claude 3 Usage: How It Works & What You Can Achieve</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-pivotal-role-of-eus-artificial-intelligence-law-on-ai-applications-like-chatgpt/"><u>The Pivotal Role of EU's Artificial Intelligence Law on AI Applications Like ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-5-strategies-using-chatgpt-to-streamline-daily-hr-operations/"><u>Top 5 Strategies Using ChatGPT to Streamline Daily HR Operations</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-reaction-video-mastery-top-ios-and-android-apps-for-2024/"><u>Updated Reaction Video Mastery Top iOS and Android Apps for 2024</u></a></li>
+</ul></div>
 

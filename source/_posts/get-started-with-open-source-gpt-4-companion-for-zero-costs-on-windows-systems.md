@@ -1,7 +1,7 @@
 ---
 title: Get Started with Open Source GPT-4 Companion for Zero Costs on Windows Systems
-date: 2024-09-16T17:27:12.748Z
-updated: 2024-09-17T23:38:18.488Z
+date: 2024-10-08T20:55:43.821Z
+updated: 2024-10-15T18:18:55.249Z
 tags:
   - chatgpt
   - open-ai
@@ -71,10 +71,10 @@ thumbnail: https://thmb.techidaily.com/a7b063e2c5f1e938dc6e32e2ce85c52239dfc8e77
 **Download:** ChatGPT Writer for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-writer-write-mail/pdnenlnelpdomajfejgapbdpmjkfpjkp/) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. YouTube Summary With ChatGPT
@@ -92,6 +92,19 @@ thumbnail: https://thmb.techidaily.com/a7b063e2c5f1e938dc6e32e2ce85c52239dfc8e77
  You can also add further prompts for more details regarding specific parts of the video without having to watch the full thing.
 
 **Download:** YouTube Summary With ChatGPT for[Chrome](https://chrome.google.com/webstore/detail/youtube-summary-with-chat/nmmicjeknamkfloonkhhcjmomieiodli) |[Safari](https://apps.apple.com/us/app/glasp-social-web-highlighter/id1605690124) (Free)
+
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Talk-to-ChatGPT
 
@@ -111,22 +124,15 @@ thumbnail: https://thmb.techidaily.com/a7b063e2c5f1e938dc6e32e2ce85c52239dfc8e77
 
 **Download:** ChatGPT for Search Engines for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-for-search-engine/feeonheemodpkdckaljcjogdncpiiban/) |[Firefox](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-for-search-engines/) |[Edge](https://microsoftedge.microsoft.com/addons/detail/chatgpt-for-search-engine/pnglghgjhaklojnjpkhcdidgalehmkbn) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Perplexity AI
 
 ![query answers by perplexity ai extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/perplexity-ai.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The decentralization of information and knowledge has done much good in recent years. But, like anything in tech, it carries an ugly side to it, too. The rise of fake news and misinformation, for instance, is one of its biggest unwanted by-products.
@@ -136,6 +142,13 @@ thumbnail: https://thmb.techidaily.com/a7b063e2c5f1e938dc6e32e2ce85c52239dfc8e77
  While the tool summarizes the information in a neat manner, it ends the answers with a quick mention of the best, legitimate sources. And while there's still a possibility of fault here (you'd still need to rely on the sources that Perplexity provides), we believe it's much better than going in blind with the usual, source-less responses you'd otherwise gotten from ChatGPT.
 
 **Download:** Perplexity AI for[Chrome](https://chrome.google.com/webstore/detail/perplexity-ai-companion/hlgbcneanomplepojfcnclggenpcoldo) (Free)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ChatGPT Is Awesome, But Be Realistic…
 
@@ -156,5 +169,20 @@ thumbnail: https://thmb.techidaily.com/a7b063e2c5f1e938dc6e32e2ce85c52239dfc8e77
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/updated-first-steps-in-learning-av1-compression/"><u>[Updated] First Steps in Learning AV1 Compression</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-lolkit-design-memes-and-graphics-with-a-click/"><u>[Updated] LolKit Design Memes & Graphics with a Click</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-the-ultimate-guide-to-linking-fb-stories/"><u>2024 Approved The Ultimate Guide to Linking FB Stories</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/fortnite-returns-to-apple-app-store-step-by-step-instructions-for-iphone-users-digitalgamingnews/"><u>Fortnite Returns to Apple App Store: Step-by-Step Instructions for iPhone Users | DigitalGamingNews</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-find-out-if-an-airtag-is-tracking-you-zdnet/"><u>How to Find Out if an AirTag Is Tracking You | ZDNET.</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-realme-c55-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Realme C55 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-d3dx941dll-file-not-found-step-by-step-solution-guide/"><u>Resolving 'd3dx9_41.dll' File Not Found? Step-by-Step Solution Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionizing-budget-sound-unveiling-the-potential-of-beats-new-solitary-earphones-as-alternatives-to-under-1n-airpods-reviews-by-zdnet/"><u>Revolutionizing Budget Sound: Unveiling the Potential of Beats' New Solitary Earphones as Alternatives to Under $1N AirPods, Reviews by ZDNET</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-steps-for-resolving-zoom-microphone-failures-on-windows-operating-systems-111n/"><u>Solution Steps for Resolving Zoom Microphone Failures on Windows Operating Systems (11/1N)</u></a></li>
+<li><a href="https://win-dash.techidaily.com/solved-fixes-for-realtek-wifi-drivers-on-windows-11-10-and-7/"><u>Solved: Fixes for Realtek WiFi Drivers on Windows 11, 10 & 7</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-10-cutting-edge-technology-presents-explore-the-latest-by-zdnet/"><u>Top 10 Cutting-Edge Technology Presents - Explore the Latest by ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-mini-tablet-reviews-of-2024-in-depth-analysis-by-tech-experts-zdnet/"><u>Top-Rated Mini Tablet Reviews of 2024 - In Depth Analysis by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/upcoming-marchapril-launch-date-revealed-for-ipads-what-to-expect-according-to-zdnet/"><u>Upcoming March/April Launch Date Revealed for iPads : What to Expect, According to ZDNet</u></a></li>
+</ul></div>
 

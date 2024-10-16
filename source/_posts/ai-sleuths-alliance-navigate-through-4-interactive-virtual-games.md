@@ -1,7 +1,7 @@
 ---
 title: "AI Sleuths Alliance: Navigate Through 4 Interactive Virtual Games"
-date: 2024-09-14T23:44:09.247Z
-updated: 2024-09-18T03:19:06.005Z
+date: 2024-10-13T18:27:45.925Z
+updated: 2024-10-15T17:52:53.379Z
 tags:
   - chatgpt
   - open-ai
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/92d4d3774b8fd498c6cfb488cbb5cb9a7cceb0aea
 
  There are dozens of free and open-source AI text-to-image generators available on the internet that specialize in specific kinds of images. So, we've sifted through the pile and found the best open-source AI text-to-image generators you can try right now.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1 [Craiyon](https://www.craiyon.com/)
 
 ![craiyon-home-page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/craiyon-home-page.jpg)
@@ -44,11 +51,25 @@ thumbnail: https://thmb.techidaily.com/92d4d3774b8fd498c6cfb488cbb5cb9a7cceb0aea
 
 ![craiyon-generated-image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/craiyon-generated-image.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Additionally, "Expert Mode" lets you include negative words, which tells the model to avoid specific items. There's also a prompt prediction feature, which uses ChatGPT to help users write the best, most detailed prompts possible. Lastly, the AI-powered remove background features can help you save time and effort cropping backgrounds out of images.
 
  And that's about everything Craiyon does. It's not the most sophisticated AI image generation model, but it does well as a basic model if you don't want something detailed or realistic.
 
  The model is free to use, but free users are limited to nine free images at a time within a minute. You can subscribe to their Supporter or Professional tiers (priced at $5 and $20 a month, respectively, and billed annually) to get no ads or watermarks, faster generation, and the option to keep your generated images private. A Custom subscription tier also allows custom models, integration, dedicated support, and private servers.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2 [Stable Diffusion 1.5](https://github.com/runwayml/stable-diffusion)
 
@@ -86,6 +107,19 @@ thumbnail: https://thmb.techidaily.com/92d4d3774b8fd498c6cfb488cbb5cb9a7cceb0aea
 
 ![invokeai-user-interface-with-image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/invokeai-user-interface-with-image.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The model focuses on letting users create visuals based on their intellectual property with customized workflows. InvokeAI is one of the best open-source AI image generation models for training custom models and working with intellectual property.
 
  Its[official Github repository](https://github.com/invoke-ai/InvokeAI?tab=readme-ov-file) lists two installation methods: installing via InvokeAI's installer or using PyPI if you're comfortable with a terminal and Python and need more control over the packages installed with the model.
@@ -94,25 +128,11 @@ thumbnail: https://thmb.techidaily.com/92d4d3774b8fd498c6cfb488cbb5cb9a7cceb0aea
 
 ![invoke-ai-generated-image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/invoke-ai-generated-image.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Yadullah Abidi/MakeUseOf/InvokeAI  
 
  While the documentation doesn't recommend Nvidia's GTX 10 Series and 16 Series GPUs for their lack of video memory, the provided installer did run just fine. While your mileage may vary, if you're on a lower-end GPU, expect to wait longer to see your prompts being turned into images. Finally, if you're on Windows, you can only use an Nvidia GPU, as there's no support for AMD GPUs currently.
 
  For the image generation part, the model tends to lean more toward artistic styles than photorealism. Of course, you can train the model on your dataset and have it generate images closer to what you want, even if that involves photorealistic images, especially if you're working in product design, architecture, or retail spaces. However, one important thing to keep in mind is that InvokeAI is primarily an image generation engine, meaning you'll likely have to use your own models for the best results (easily found via the model manager provided in the web interface) as the default model is quite similar to Stable Diffusion itself.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5 [Openjourney](https://openjourney.art/)
 
@@ -122,18 +142,18 @@ thumbnail: https://thmb.techidaily.com/92d4d3774b8fd498c6cfb488cbb5cb9a7cceb0aea
 
 ![openjourney-stablediffusion-comparison](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/openjourney-stablediffusion-comparison.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  However, if you want to run it locally and for free, you can[download the model file from HuggingFace](https://huggingface.co/prompthero/openjourney) and run it using the Stable Diffusion web UI. Openjourney is also the second most downloaded AI image generation model on HuggingFace, right behind Stable Diffusion.
 
  Openjourney doesn't list any specific hardware requirements for running the model locally on its website, but you can expect similar hardware requirements to Stable Diffusion. This means a dedicated GPU with 4GB VRAM, 16GB RAM, and around 12 to 15GB of free space on your computer to save the model and its dependencies.
 
 ![openjourney-ai-generated-image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/openjourney-ai-generated-image.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Yadullah Abidi/MakeUseOf/OpenJourney
 
@@ -152,5 +172,20 @@ thumbnail: https://thmb.techidaily.com/92d4d3774b8fd498c6cfb488cbb5cb9a7cceb0aea
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-discovering-whos-watching-your-videos-for-2024/"><u>[New] Discovering Who's Watching Your Videos for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-securing-youtube-srt-files-a-threefold-procedure-for-2024/"><u>[Updated] Securing YouTube SRT Files A Threefold Procedure for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-streamline-your-filming-journey-a-step-by-step-guide-to-utilize-your-logitech-camera-for-2024/"><u>[Updated] Streamline Your Filming Journey A Step-by-Step Guide to Utilize Your Logitech Camera for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/1726027753056-5/"><u>初学者にぬける！今期のベストゲーム配信用エディッター5本〜無料でリニューアル受注中</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/anticipating-the-release-of-chatgpt-desktop-version-discover-a-fantastic-free-ai-alternative/"><u>Anticipating the Release of ChatGPT Desktop Version? Discover a Fantastic Free AI Alternative!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/critical-6-ai-driven-digital-notebooks-for-students/"><u>Critical 6 AI-Driven Digital Notebooks for Students</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/deciphering-the-ai-text-detection-technique-of-gptzero/"><u>Deciphering the AI Text Detection Technique of GPTZero</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-poco-x6-pro-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Poco X6 Pro Through Google Earth?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-essential-role-of-vector-databases-in-ai-evolution/"><u>The Essential Role of Vector Databases in AI Evolution</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/the-ultimate-cheat-sheet-to-gameplay-screencasts-in-overwatch-for-2024/"><u>The Ultimate Cheat Sheet to Gameplay Screencasts in Overwatch for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-vivo-y78plus-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Vivo Y78+ IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-list-of-free-ai-utilities-to-effortlessly-compose-polished-emails-via-chatgpt-and-master-your-inbox-digest/"><u>Ultimate List of Free AI Utilities to Effortlessly Compose Polished Emails via ChatGPT & Master Your Inbox Digest</u></a></li>
+</ul></div>
 

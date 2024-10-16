@@ -1,7 +1,7 @@
 ---
 title: "March Release Anticipated: Exploring the Potential Launch of Apple's Upcoming MacBook Air, iPad Pro & iPad Air - Insights From ZDNet"
-date: 2024-10-08T17:30:09.424Z
-updated: 2024-10-09T21:39:26.267Z
+date: 2024-10-12T17:14:17.992Z
+updated: 2024-10-15T18:26:00.227Z
 tags:
   - apple
 categories:
@@ -68,6 +68,13 @@ Jason Hiner/ZDNET
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## iOS 18
 
 Adam Breeden/ZDNET
@@ -100,13 +107,6 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -118,10 +118,10 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -134,13 +134,6 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -160,10 +153,10 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -173,6 +166,13 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -218,16 +218,21 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-capturing-mov-videos-in-windows-11-for-2024/"><u>[New] Capturing MOV Videos in Windows 11 for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ast-tip-mastering-green-screen-techniques-for-2024/"><u>[New] Fast Tip Mastering Green Screen Techniques for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-fb-video-audio-extraction-made-simple-for-mp3-lovers-for-2024/"><u>[New] FB Video Audio Extraction Made Simple for MP3 Lovers for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-meizu-21-pro-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Meizu 21 Pro to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-realme-narzo-n55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Realme Narzo N55 | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-lava-blaze-2-pro-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Lava Blaze 2 Pro</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/quick-and-simple-guide-secure-your-windows-11-installation-today/"><u>Quick & Simple Guide: Secure Your Windows 11 Installation Today</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/quick-and-simple-methods-for-setting-up-a-bootable-windows-7-drive/"><u>Quick & Simple Methods for Setting Up a Bootable Windows 7 Drive</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/resolving-realtek-hd-audio-manager-problems-in-the-modern-windows-environments/"><u>Resolving Realtek HD Audio Manager Problems in the Modern Windows Environments</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/sculptive-strategies-in-creating-striking-fb-video-ads/"><u>Sculptive Strategies in Creating Striking Fb Video Ads</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/simple-steps-safeguarding-your-devices-drivers-prior-to-refreshing-with-any-version-of-windows/"><u>Simple Steps: Safeguarding Your Device's Drivers Prior to Refreshing with Any Version of Windows</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-detailed-breakdown-chilled-delights-on-your-screen/"><u>[New] 2024 Approved Detailed Breakdown Chilled Delights on Your Screen</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-bifrost-betrayal-gods-at-war-for-2024/"><u>[New] Bifrost Betrayal Gods at War for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-mastering-the-art-of-photo-retouching-for-2024/"><u>[New] Mastering the Art of Photo Retouching for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-enhancing-video-discoverability-through-youtube-images-for-2024/"><u>[Updated] Enhancing Video Discoverability Through Youtube Images for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-revolutionary-audio-adjustment-software-best-of-the-free-kind-for-valorant/"><u>2024 Approved Revolutionary Audio Adjustment Software – Best of the Free Kind for Valorant</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-registration-paused-insights-on-the-halt-and-future-availability-dates/"><u>ChatGPT Registration Paused – Insights on the Halt & Future Availability Dates</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/creating-a-consistent-meditation-practice-with-chatgpt-a-step-by-step-guide/"><u>Creating a Consistent Meditation Practice with ChatGPT: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-newest-exciting-functionalities-of-googles-bard-ai-from-this-years-io-event/"><u>Discover the Newest Exciting Functionalities of Google's BARD AI From This Year's I/O Event</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leverage-chatgpts-power-the-five-superior-methods-of-personalized-directives/"><u>Leverage ChatGPT's Power: The Five Superior Methods of Personalized Directives</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/passfab-apple-iphone-13-mini-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>PassFab Apple iPhone 13 mini Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/quick-start-codegpt-with-visual-studio-code/"><u>Quick Start: CodeGPT with Visual Studio Code</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/snapchats-ai-options-compared-is-myai-or-chatgpt-better-suited-for-you/"><u>Snapchat's AI Options Compared: Is MyAI or ChatGPT Better Suited for You?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-to-constructing-a-richly-detailed-ai-rpg-using-chatgpt-technology/"><u>Step-by-Step Guide to Constructing a Richly Detailed AI RPG Using ChatGPT Technology</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlock-special-deals-on-the-latest-amd-gaming-bundle-ryzen-7000-cpus-plus-radeon-rx-7000-gpus-plus-bonus-games-excludes-coming-soon-ryzen-9000/"><u>Unlock Special Deals on the Latest AMD Gaming Bundle: Ryzen 7000 CPUs + Radeon RX 7000 GPUs - Plus Bonus Games! Excludes Coming Soon Ryzen 9000</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-honor-play-40c-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Honor Play 40C Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 

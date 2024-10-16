@@ -1,7 +1,7 @@
 ---
 title: "GPT-Powered Content: Is It SE's Kryptonite?"
-date: 2024-09-11T20:21:07.162Z
-updated: 2024-09-17T21:13:14.947Z
+date: 2024-10-14T16:15:50.871Z
+updated: 2024-10-15T19:36:33.397Z
 tags:
   - chatgpt
   - open-ai
@@ -38,9 +38,23 @@ thumbnail: https://thmb.techidaily.com/c6ed4dd6078fc00a4ccdd98c0ceccdb558ca50f25
 
  The app was swiftly taken off the Apple Store after several bad reviews. Was this plugin developed by the same person? We are not sure. But it sure has the same function—absolutely nothing.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Aaron Web Browser
 
 ![Aaron Web Browser on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/aaron-web-browser-on-the-chatgpt-plugin-store.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  “Built for scraping data from multiple website URLs.” This is the first sentence in the description for the plugin. One would think that the description accurately captures the plugin's capabilities, but upon closer inspection, it’s not entirely true. We tried to scrape data from 20 different URLs and only one went through.
 
@@ -49,6 +63,13 @@ thumbnail: https://thmb.techidaily.com/c6ed4dd6078fc00a4ccdd98c0ceccdb558ca50f25
 ## 3\. AppyPie App Builder
 
 ![Appypie App builder on ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/appypie-app-builder-on-chatgpt-plugin-store.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  AppyPie is a popular no-code app-building platform. It's relatively easy to use, and you can deploy fully functional mobile apps in a very short time without having to write a single line of code.
 
@@ -60,6 +81,13 @@ thumbnail: https://thmb.techidaily.com/c6ed4dd6078fc00a4ccdd98c0ceccdb558ca50f25
 
  Sure, it seems a bit unreasonable to expect a working text-to-app plugin that can spit out apps on demand. But in an era where chatbots can write code and where text-to-image and text-to-video are a thing, text-to-app is not that ridiculous of an expectation.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. AI Agents
 
 ![AI Agents plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-agents-plugin-on-the-chatgpt-plugin-store.jpg)
@@ -69,19 +97,6 @@ thumbnail: https://thmb.techidaily.com/c6ed4dd6078fc00a4ccdd98c0ceccdb558ca50f25
  It, at least in theory, is supposed to be able to do something akin to[what AutoGPT does](https://www.makeuseof.com/what-is-auto-gpt-how-differ-from-chatgpt/) . Unfortunately, irrespective of the complexity of the task we set for it, the plugin couldn't deliver anything.
 
  It seems it was just applying a few prompt tricks and returning a not-so-enhanced copy of what ChatGPT would provide. There's really no sense of AI agents at work. It doesn't offer anything particularly different from what ChatGPT would do.
-
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. A Movie Please (FilmFindr)
 
@@ -97,23 +112,9 @@ thumbnail: https://thmb.techidaily.com/c6ed4dd6078fc00a4ccdd98c0ceccdb558ca50f25
 
 ![ABC Website maker plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/abc-website-maker-plugin-on-the-chatgpt-plugin-store.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The ABC website maker promises “conversational coding” where you can build web apps at a moment's notice by simply conversing with the plugin in natural language. In theory, these abilities should be relatively easy to pull off, considering ChatGPT on its own is already an impressive conversational coding tool.
 
  However, when we tasked the plugin with creating a simple portfolio website, the result was underwhelming.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT's Plugin Store: Quantity Over Quality?
 
@@ -134,5 +135,22 @@ thumbnail: https://thmb.techidaily.com/c6ed4dd6078fc00a4ccdd98c0ceccdb558ca50f25
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-google-hangouts-recording-guide/"><u>[Updated] Google Hangouts Recording Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-gopro-versus-polaroid-editing-faces-vs-cameras-that-shoot-them-for-2024/"><u>[Updated] GoPro Versus Polaroid Editing Faces Vs. Cameras That Shoot Them for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/capturing-impactful-voice-top-tips-for-podcasting-interviews-on-idevices/"><u>Capturing Impactful Voice Top Tips for Podcasting Interviews on iDevices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/composing-an-alluring-cinematic-teaser-track/"><u>Composing an Alluring Cinematic Teaser Track</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-flawless-fast-windows-picture-sight/"><u>In 2024, Flawless Fast Windows Picture Sight</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-harmonic-pinnacle-identifying-exceptional-music-for-visual-sequences/"><u>In 2024, Harmonic Pinnacle Identifying Exceptional Music for Visual Sequences</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-oppo-f23-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Oppo F23 5G IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/move-up-or-down-switching-console-zones/"><u>Move Up or Down: Switching Console Zones</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-for-iphone-and-ipad-users-how-to-enjoy-amazons-azw3-books/"><u>Step-by-Step Tutorial for iPhone & iPad Users - How to Enjoy Amazon's AZW3 Books</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-for-transforming-epub-files-into-pdf-documents/"><u>Step-by-Step Tutorial for Transforming EPUB Files Into PDF Documents</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-on-bypassing-digital-rights-management-in-various-ereader-formats/"><u>Step-by-Step Tutorial on Bypassing Digital Rights Management in Various eReader Formats</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-5-highly-rated-audible-mp3-players-the-ultimate-list/"><u>Top 5 Highly-Rated Audible MP3 Players: The Ultimate List</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-no-cost-cloud-file-syncing-solutions/"><u>Top Rated No-Cost Cloud File Syncing Solutions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-your-companys-software-update-procedures/"><u>Understanding Your Company's Software Update Procedures</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/viral-vault-finns-financial-findings/"><u>Viral Vault Finn's Financial Findings</u></a></li>
+</ul></div>
 

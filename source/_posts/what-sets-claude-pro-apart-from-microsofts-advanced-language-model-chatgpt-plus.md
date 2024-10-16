@@ -1,7 +1,7 @@
 ---
 title: What Sets Claude Pro Apart From Microsoft's Advanced Language Model, ChatGPT +?
-date: 2024-09-10T21:02:15.898Z
-updated: 2024-09-17T19:28:26.965Z
+date: 2024-10-14T04:06:39.014Z
+updated: 2024-10-16T05:30:32.850Z
 tags:
   - chatgpt
   - open-ai
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/f68ca812bcde6ea11b49f44592ad32b754408fad9
 
  Now that you understand the importance of providing custom data to ChatGPT, here's a step-by-step on how to do so on your local computer.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Step 1: Install and Download Software and Pre-Made Script
 
  Please note the following instructions are for a Windows 10 or Windows 11 machine.
@@ -56,6 +63,13 @@ Start by installing:
 
 ![Installing Microsoft C++ through Build Tools](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/2-install-c.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now that you have installed the latest versions of Python3, Git, and Microsoft C++, you can download the Python script to easily query custom local data.
 
 **Download:** [ChatGPT-retrieval script](https://github.com/techleadhd/chatgpt-retrieval) (Free)
@@ -64,13 +78,20 @@ Start by installing:
 
 ![Downloading Python script on GitHub](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/3-download-script.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Once downloaded, we can now set up a local environment.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Step 2: Set Up the Local Environment
@@ -80,10 +101,10 @@ Once downloaded, we can now set up a local environment.
 ![Opening terminal on directory folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/4-open-terminal.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Once the terminal is open, copy and paste this command:
@@ -96,6 +117,13 @@ pip install langchain openai chromadb tiktoken unstructured
 
 ![Creating secret API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/generate-api-key.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You will be provided with a string of characters. This is your OpenAI API key. Copy it by clicking on the copy icon on the side of the API key. Keep note that this API key should be kept secret. Do not share it with others unless you really intend for them to use it with you.
 
  Once copied, return to the chatgpt-retrieval-main folder and open constants with**Notepad** . Now replace the placeholder with your API key. Remember to save the file!
@@ -103,13 +131,6 @@ pip install langchain openai chromadb tiktoken unstructured
 ![Adding API key as environment variable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/add-api-key.jpg)
 
  Now that you have successfully set up your virtual environment and added your OpenAI API key as an environment variable. You can now provide your custom data to ChatGPT.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Step 3: Adding Custom Data
 
@@ -139,13 +160,6 @@ Make sure to put your questions in quotation marks.
 
  As you can see, it correctly described the AMD Instinct MI250x, which was released after ChatGPT -3's knowledge cutoff date.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Limitations of Custom ChatGPT
 
  Although feeding GPT-3.5 with custom data opens more ways to apply and use the LLM, there are a few drawbacks and limitations.
@@ -173,5 +187,22 @@ Make sure to put your questions in quotation marks.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-beyond-mainstream-a-list-of-6-exclusive-icon-and-logo-providers/"><u>[New] 2024 Approved Beyond Mainstream A List of 6 Exclusive Icon & Logo Providers</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-top-strategies-for-changing-song-pace-on-spotify-app/"><u>[New] 2024 Approved Top Strategies for Changing Song Pace on Spotify App</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-essential-principles-of-animated-visual-content/"><u>[New] In 2024, Essential Principles of Animated Visual Content</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/become-a-pro-mastering-codegpt-install-in-vs-code/"><u>Become a Pro: Mastering CodeGPT Install in VS Code</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/best-practices-for-maintaining-privacy-with-chatgpt-during-business-operations/"><u>Best Practices for Maintaining Privacy with ChatGPT During Business Operations</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-sources-of-high-quality-insta-soundtracks-and-crafting-noteworthy-chimes-for-2024/"><u>Exploring Sources of High-Quality Insta Soundtracks and Crafting Noteworthy Chimes for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-motorola-moto-g14-by-fonelab-android-recover-music/"><u>How to recover old music from your Motorola Moto G14</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/inside-toms-computer-gear-hub-advanced-tech-analysis-and-advice/"><u>Inside Tom's Computer Gear Hub: Advanced Tech Analysis and Advice</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/laughing-at-the-logic-of-machines-ais-journey-in-humor-tracing-laptop-milestones-and-vpn-advances/"><u>Laughing at the Logic of Machines: AI's Journey in Humor, Tracing Laptop Milestones & VPN Advances</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mastering-movie-time-a-comprehensive-tutorial-for-watching-movies-on-windows-10-phones-and-tablets/"><u>Mastering Movie Time: A Comprehensive Tutorial for Watching Movies on Windows 10 Phones and Tablets</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-11s-fast-flip-buttons/"><u>Mastering Windows 11'S Fast Flip Buttons</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-final-puzzle-will-machines-overcome-humans/"><u>The Final Puzzle: Will Machines Overcome Humans?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-functionalities-of-gpt-extensions/"><u>Unveiling the Functionalities of GPT Extensions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/youtube-dvd/"><u>YouTube 動画のダウンロードとDVDへの書き込み手順</u></a></li>
+</ul></div>
 

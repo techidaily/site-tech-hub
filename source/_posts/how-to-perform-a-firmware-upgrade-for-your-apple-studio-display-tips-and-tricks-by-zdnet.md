@@ -1,7 +1,7 @@
 ---
 title: How to Perform a Firmware Upgrade for Your Apple Studio Display (Tips and Tricks by ZDNet)
-date: 2024-10-05T22:25:03.450Z
-updated: 2024-10-09T21:00:51.329Z
+date: 2024-10-08T18:21:04.506Z
+updated: 2024-10-15T21:20:21.138Z
 tags:
   - apple
 categories:
@@ -33,6 +33,13 @@ If you're going to be one of those people, read on.
 
 You don't want to mess up this transfer, because not only could you lose data, but the next person could end up being unable to use the iPhone you sold or gave them. Follow these steps for a successful result for both of you. 
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  1\. Update
 
 Before you even think about wiping your old iPhone, there are some things that you should do. I'm going to assume that you're selling an iPhone that's still being supported and is capable of [running iOS 15](https://www.zdnet.com/article/here-are-8-ios-15-features-you-need-to-know-about/). 
@@ -58,10 +65,10 @@ If your iPhone is one of these and is not running the latest version of iOS 15, 
 Next, some apps -- specifically banking apps in my experience -- prefer it if you deactivate or deauthorize them on the old iPhone before moving to a new handset. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### read this
@@ -87,10 +94,10 @@ Don't have enough iCloud space? Don't worry! Apple will let you borrow some [tem
 **Also:** [**Here's a hidden way to increase your iCloud storage**](https://www.zdnet.com/article/the-secret-hidden-way-you-can-double-apples-maximum-2tb-icloud-storage-limit/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  4\. Get ready for the transfer
@@ -106,13 +113,6 @@ Tap **Get Started** to begin the process of backing up your iPhone and getting r
 Apple has made transferring to a new iPhone easy.
 
 Screenshot/Adrian Kingsley-Hughes
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  5\. Wiping the old iPhone
 
@@ -149,10 +149,10 @@ Remember, once you start this process, there's no going back!
 * [How to clean a mechanical keyboard](https://www.zdnet.com/article/how-to-clean-a-mechanical-keyboard/)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  6\. Spring-clean your iPhone
@@ -195,24 +195,19 @@ Now you can relax and enjoy your [new iPhone](https://www.zdnet.com/article/here
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-reviving-the-past-essential-vhs-visuals-in-todays-edits/"><u>[New] In 2024, Reviving the Past Essential VHS Visuals in Today's Edits</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-kinetic-illustration-101-core-skills-and-concepts/"><u>[New] Kinetic Illustration 101 Core Skills & Concepts</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-quick-guide-overcoming-youtube-short-hurdles/"><u>[Updated] Quick Guide Overcoming YouTube Short Hurdles</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-infinix-hot-30-5g-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Infinix Hot 30 5G Phone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-from-apple-iphone-15-pro-max-by-drfone-ios/"><u>How to Fix Locked Apple ID from Apple iPhone 15 Pro Max</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Lava Agni 2 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-auditory-storytelling-at-a-high-level/"><u>In 2024, Auditory Storytelling at a High Level</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/pro-3-the-new-standard-for-action-video-recording-by-ion-for-2024/"><u>Pro 3 - The New Standard for Action Video Recording by ION for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/quick-and-easy-method-for-accessing-windows-10s-advanced-boot-menus/"><u>Quick and Easy Method for Accessing Windows 10'S Advanced Boot Menus</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/quick-fix-guide-resolving-realtek-hd-audio-driver-issues-with-simple-steps/"><u>Quick Fix Guide: Resolving Realtek HD Audio Driver Issues with Simple Steps</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/resolving-printer-driver-problems-in-windows-11-a-comprehensive-guide/"><u>Resolving Printer Driver Problems in Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/resolving-snipping-tool-issues-in-windows-10-and-11-a-comprehensive-fix-guide/"><u>Resolving Snipping Tool Issues in Windows 10 & 11: A Comprehensive Fix Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revealing-windows-memory-capacity-a-user-friendly-approach/"><u>Revealing Windows Memory Capacity: A User-Friendly Approach</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/seamless-switch-prepping-in-two-easy-stages-for-windows-10-creators-update/"><u>Seamless Switch: Prepping in Two Easy Stages for Windows 10 Creator's Update</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/snap-save-and-share-expert-tips-for-screen-capture-on-computers/"><u>Snap, Save & Share: Expert Tips for Screen Capture on Computers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/solved-resolving-windows-1letes-safe-mode-hurdle-the-comprehensive-approach-for-restoring-the-critical-f8-functionality/"><u>Solved: Resolving Windows 1Lete's Safe Mode Hurdle – The Comprehensive Approach for Restoring the Critical F8 Functionality</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/solved-why-your-pc-wont-enter-safe-mode-using-the-f8-key-on-windows-10-systems/"><u>Solved! Why Your PC Won't Enter Safe Mode Using the F8 Key on Windows 10 Systems</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/k-youtubes-potential-with-key-rank-tracker-software-for-2024/"><u>Unlock YouTube's Potential with Key Rank Tracker Software for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlocking-apple-iphone-se-passcode-without-a-computer-drfone-by-drfone-ios/"><u>Unlocking Apple iPhone SE Passcode without a Computer | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-perfect-mac-imagery-a-guide-to-5-effective-snapshot-techniques/"><u>[New] In 2024, Perfect Mac Imagery A Guide to 5 Effective Snapshot Techniques</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-collect-premium-audio-for-video-editors/"><u>[Updated] In 2024, Collect Premium Audio for Video Editors</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-meta-versus-omni-the-future-of-digital-worlds/"><u>[Updated] Meta versus Omni The Future of Digital Worlds</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/5-ways-to-send-ringtones-from-apple-iphone-12-pro-max-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>5 Ways to Send Ringtones from Apple iPhone 12 Pro Max to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/choosing-between-browser-enabled-chatgpt-and-chatgpt-extensions-optimal-usage-guide/"><u>Choosing Between Browser-Enabled ChatGPT and ChatGPT Extensions: Optimal Usage Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/corsair-k55-keyboard-fresh-driver-update-steps-to-enhance-performance/"><u>Corsair K55 Keyboard - Fresh Driver Update Steps to Enhance Performance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/demystifying-ai-types-how-public-ai-differs-from-private-and-personal-implementations/"><u>Demystifying AI Types: How Public AI Differs From Private and Personal Implementations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-guide-to-downloading-and-installing-canon-pixma-mg2522-drivers/"><u>Easy Guide to Downloading and Installing Canon PIXMA MG2522 Drivers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-chatgpt-streamlines-your-site-creation-process-discover-the-four-key-advantages/"><u>How ChatGPT Streamlines Your Site Creation Process – Discover the Four Key Advantages</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-files-for-mix-fold-3-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD .mts files for Mix Fold 3? </u></a></li>
+<li><a href="https://win-solutions.techidaily.com/noise-restoration-for-skyrim-gamers-facing-sound-glitches/"><u>Noise Restoration for Skyrim Gamers Facing Sound Glitches</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-essential-path-to-prodigious-smm-results-delivered-in-10-steps/"><u>The Essential Path to Prodigious SMM Results, Delivered in 10 Steps</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-human-ai-balance-forging-pathways-to-thriving-careers/"><u>The Human-AI Balance: Forging Pathways to Thriving Careers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-8-benefits-of-integrating-artificial-intelligence-in-education-what-educators-need-to-know/"><u>Top 8 Benefits of Integrating Artificial Intelligence in Education: What Educators Need to Know</u></a></li>
 </ul></div>
 

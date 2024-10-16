@@ -1,7 +1,7 @@
 ---
 title: What Can You Command in ChatGPT? A Guide to Custom Instructions
-date: 2024-09-14T01:47:30.765Z
-updated: 2024-09-17T21:26:58.888Z
+date: 2024-10-13T16:25:44.254Z
+updated: 2024-10-16T05:18:25.362Z
 tags:
   - chatgpt
   - open-ai
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/cf02c6036067d0c7d674a2cb9ff43dfe3d71cfa78
 * [Trip Planner AI](https://www.makeuseof.com/free-travel-planning-ai-chatgpt-apps/#trip-planner-ai)
 * [Vacay Chatbot](https://www.makeuseof.com/free-travel-planning-ai-chatgpt-apps/#vacay-chatbot)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Layla, Wonderplan, and PLAN by ixigo are AI travel planning apps with customizable itineraries.
@@ -43,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/cf02c6036067d0c7d674a2cb9ff43dfe3d71cfa78
 ## 1.[Layla](https://justasklayla.com/)
 
 ![layla ai trip planner](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/layla-ai-trip-planner.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Layla describes itself as an AI trip planner, meaning you can use it to decide your vacation destination, create itineraries, and find suitable hotels and flights.
 
@@ -64,28 +78,15 @@ thumbnail: https://thmb.techidaily.com/cf02c6036067d0c7d674a2cb9ff43dfe3d71cfa78
 
  In addition to your itinerary, Wonderplan also shows essential information about the country you're visiting. These include the currency conversion rate, electricity plug type, languages spoken, weather, and popular conveyances.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3.[PLAN by ixigo](https://www.ixigo.com/plan)
 
 ![PLAN by ixigo website screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/plan-by-ixigo-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  PLAN by ixigo starts by asking you about your dream destination. Then, it provides an option to describe the type of experience you want to have. This is just like a ChatGPT prompt, so you can enter anything you wish.
@@ -122,9 +123,23 @@ thumbnail: https://thmb.techidaily.com/cf02c6036067d0c7d674a2cb9ff43dfe3d71cfa78
 
  The itinerary includes a map of your route and a day-wise breakdown of where you'll be going and what you'll be seeing. Each point of interest is clickable to find more information about it. There are easy ways to share your itinerary with co-travelers, print it out, or even export it to Google Maps. Curiosio is one of the[best road trip planners for your next adventure](https://www.makeuseof.com/tag/road-trip-planners/) .
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6.[Trip Planner AI](https://tripplanner.ai/)
 
 ![trip planner ai screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/trip-planner-ai-screenshot.png)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Trip Planner AI plans a perfect trip to your dream destination. Begin creating your itinerary by entering the city you wish to visit and traveling dates. You can add multiple destinations here.
 
@@ -134,23 +149,9 @@ thumbnail: https://thmb.techidaily.com/cf02c6036067d0c7d674a2cb9ff43dfe3d71cfa78
 
  Finally, Trip Planner AI generates a detailed itinerary, a map, and basic information about the city you're visiting. For each destination, it provides the details of the place, expected traveling time, and cost. Though it provides a complete plan for your trip, you can manually add or remove activities from your itinerary. You can also invite your friends to edit the itinerary and download it as a PDF.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7.[Vacay Chatbot](https://www.usevacay.com/chatbot)
 
 ![vacay chatbot screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/vacay-chatbot-screenshot.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Vacay Chatbot is not a dedicated itinerary maker but an AI chatbot that acts like your travel advisor. So, you can ask it to give travel recommendations, compare different destinations, and, of course, create an itinerary. If you've previously used AI chatbots like ChatGPT, you'll find this trip planner easy to use.
 
@@ -175,5 +176,18 @@ thumbnail: https://thmb.techidaily.com/cf02c6036067d0c7d674a2cb9ff43dfe3d71cfa78
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-superior-free-reproduction-tools-for-switch-games/"><u>[New] Superior Free Reproduction Tools for Switch Games</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-uncover-the-past-advanced-methods-for-instagram-image-retrieval/"><u>[Updated] 2024 Approved Uncover the Past Advanced Methods for Instagram Image Retrieval</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-crafting-engaging-instagram-reels-step-by-step/"><u>[Updated] Crafting Engaging Instagram Reels Step-by-Step</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discovering-grok-the-newly-launched-ai-by-elon-musk-understanding-its-functions-and-cost-structure/"><u>Discovering Grok: The Newly Launched AI by Elon Musk – Understanding Its Functions & Cost Structure</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/download-fox-sports-highlights-and-full-matches-as-quality-videos-mp4aviflv-for-offline-viewing/"><u>Download Fox Sports Highlights and Full Matches as Quality Videos (MP4/AVI/FLV) for Offline Viewing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/economical-and-sturdy-design-testing-the-cheetah-arms/"><u>Economical and Sturdy Design: Testing the Cheetah Arms</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/sculpting-dandd-worlds-leveraging-ai-to-forge-fictional-beings/"><u>Sculpting D&D Worlds: Leveraging AI to Forge Fictional Beings</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-rated-cable-modem-and-wireless-router-bundles-2024-edition/"><u>Top Rated Cable Modem and Wireless Router Bundles - 2024 Edition</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlocking-secrets-to-smooth-epson-data-transmission/"><u>Unlocking Secrets to Smooth Epson Data Transmission</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/upgrade-to-the-future-why-choose-chatgpt-pluss-9-features/"><u>Upgrade to the Future: Why Choose ChatGPT Plus's 9 Features?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/what-does-generative-ai-entail-a-brief-overview/"><u>What Does Generative AI Entail? A Brief Overview</u></a></li>
+</ul></div>
 

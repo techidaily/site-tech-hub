@@ -1,7 +1,7 @@
 ---
 title: Navigating the Impact of Europe's Proposed AI Legislation on Next-Generation Language Systems Like ChatGPT
-date: 2024-09-10T23:31:48.716Z
-updated: 2024-09-17T18:58:42.612Z
+date: 2024-10-09T03:34:50.168Z
+updated: 2024-10-15T22:48:33.314Z
 tags:
   - chatgpt
   - open-ai
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/f2d53ebba5315caabb937b6a02076182259db722e
 
  So, how, exactly, might AI prove useful here, and in what ways may it pose a risk?
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Providing Instant Advice and Support Using AI
 
  Finding a therapist can take a long time, and can even be an inaccessible option for some due to its high cost. So, when someone needs advice and support immediately, who can they turn to?
@@ -39,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/f2d53ebba5315caabb937b6a02076182259db722e
  While regular chatbots can be used in such a scenario, an AI-powered chatbot will likely have the ability to communicate in a more personal way, further understand a person's issue, and provide possible solutions or avenues. We've already seen how the[ChatGPT chatbot](https://www.makeuseof.com/what-is-chat-gpt-generative-ai-explained/) can interact with users, so there's likely some potential here for patient support.
 
  Of course, some may see[using AI to provide mental health advice as risky](https://www.makeuseof.com/dangers-using-ai-free-therapist-psychiatrist/) . We'll discuss the possible downsides of this a little later.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Monitoring Patient Progress With AI
 
@@ -50,13 +64,6 @@ thumbnail: https://thmb.techidaily.com/f2d53ebba5315caabb937b6a02076182259db722e
 
  But there are risks to consider here, and the AI system in use would have to be very thoroughly trained on how to spot possible red flags. Still, simply using this as an initial assessment could prove highly beneficial, both to doctors and patients.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Developing New Support Techniques With AI
 
  There's no denying that researchers are still working to further understand our brains and why they give way to mental illnesses. Not only is the origin of mental illness still being researched, but techniques on how to better treat patients are also being developed.
@@ -66,13 +73,6 @@ thumbnail: https://thmb.techidaily.com/f2d53ebba5315caabb937b6a02076182259db722e
  On top of this, AI has been proven to detect the presence of mental illnesses with a relatively high rate of accuracy. In a[2019 psychiatry report by IBM and the University of California](https://escholarship.org/content/qt9gx593b0/qt9gx593b0%5FnoSplash%5Fd814b6b41c76cb874050695d2bf30ced.pdf) , it was stated that, when testing AI in mental illness detection, accuracy ranged from 62 to 92 percent (depending on the AI system and training data used). While the lower ends of this range aren't too impressive, continued development may allow AI systems to reach a consistently high accuracy rate when detecting mental illnesses.
 
  Though this all seems very promising, there are also[dangers associated with using AI](https://www.makeuseof.com/is-ai-dangerous-5-immediate-risks-of-artificial-intelligence/) in the mental health field and other ways that AI can worsen mental health in general.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How Can AI Worsen Mental Health?
 
@@ -84,6 +84,13 @@ thumbnail: https://thmb.techidaily.com/f2d53ebba5315caabb937b6a02076182259db722e
 
  So, when AI becomes prominent across various industries, it could have a detrimental effect on mental health. For instance, an individual may opt to[use AI for their education](https://www.makeuseof.com/reasons-teachers-embrace-ai/) , work, entertainment, and other elements of their social life. This, in turn, may lead to something of an AI addiction. There are already plenty of people addicted to social media, online shopping, and online gaming today, which can often give way to feelings of anxiety and very real social and financial problems.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Lack of Human Contact
 
  Humans are, by nature, social beings. So, it can often be hugely beneficial to discuss your feelings with somebody else, instead of dealing with them alone.
@@ -92,13 +99,6 @@ thumbnail: https://thmb.techidaily.com/f2d53ebba5315caabb937b6a02076182259db722e
 
 ![hands reaching out to each other](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/hands-reaching-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  At the moment, humans are seen as much more effective at conducting therapy than machines, and this may always be the case. This is why the application of AI in the mental health field should be regulated and monitored very carefully so that patients are still receiving the best care possible.
 
 ### AI Giving Faulty Advice or Solutions
@@ -106,6 +106,13 @@ thumbnail: https://thmb.techidaily.com/f2d53ebba5315caabb937b6a02076182259db722e
  While AI is capable of some amazing things, it is also vulnerable to errors. This is a big concern when AI is being entrusted with people's mental health. Misjudging someone's state of mind, offering ineffective treatment, or misinterpreting important data could be catastrophic for the patient, so there are major considerations that need to be made here.
 
  There are plenty of things that can go wrong while using AI, particularly as it is in its early stages. System malfunctions, software bugs, and improper training can all lead to issues, with malicious attacks also posing a possible risk.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## AI's Future in Mental Health Must Be Watched Carefully
 
@@ -124,5 +131,20 @@ thumbnail: https://thmb.techidaily.com/f2d53ebba5315caabb937b6a02076182259db722e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-bridging-realities-the-art-of-using-luts-in-vfx-and-ar/"><u>[Updated] 2024 Approved Bridging Realities The Art of Using LUTs in VFX & AR</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/considerations-before-choosing-the-chatgpt-mobile-version-over-web-interface/"><u>Considerations Before Choosing the ChatGPT Mobile Version Over Web Interface</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722996239828-eight-proven-fixes-for-unresponsive-firefox-get-back-to-browsing-today/"><u>Eight Proven Fixes for Unresponsive Firefox - Get Back to Browsing Today!</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-motorola-edgeplus-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Motorola Edge+ (2023) | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-apple-iphone-xs-video-to-computer-drfone-by-drfone-ios/"><u>In 2024, How to Stream Apple iPhone XS Video to Computer? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/investing-in-education-shunning-quick-chatgpt-fixes/"><u>Investing in Education: Shunning Quick ChatGPT Fixes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726028727503-iphoneandroid/"><u>IPhoneとAndroidで容易な方法：モバイルデバイスからパソコンへ内部音声の配信</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-talk-with-nvidias-rtx-ai-chat-bot/"><u>Mastering Talk with Nvidia's RTX AI Chat Bot</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/on-the-go-conversations-leveraging-chatgpt-features-across-ios-and-android-platforms/"><u>On-the-Go Conversations: Leveraging ChatGPT Features Across iOS and Android Platforms</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/redefining-careers-seven-key-changes-from-generative-artificial-intelligence/"><u>Redefining Careers: Seven Key Changes From Generative Artificial Intelligence</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-strategy-for-sorting-and-controlling-your-chatgpt-interactions-with-folders/"><u>The Ultimate Strategy for Sorting and Controlling Your ChatGPT Interactions with Folders</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transcending-tradition-modern-approaches-for-machine-intelligence-measurement/"><u>Transcending Tradition: Modern Approaches for Machine Intelligence Measurement</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-power-of-grading-insights-from-dr-john-doe-for-2024/"><u>Unveiling the Power of Grading Insights From Dr. John Doe for 2024</u></a></li>
+</ul></div>
 

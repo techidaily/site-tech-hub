@@ -1,7 +1,7 @@
 ---
 title: Discover the Leading 6 Giant Language Models Revolutionizing AI
-date: 2024-09-14T01:00:02.374Z
-updated: 2024-09-17T21:20:06.019Z
+date: 2024-10-14T17:21:59.380Z
+updated: 2024-10-15T17:01:34.235Z
 tags:
   - chatgpt
   - open-ai
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
 
  ChatGPT has a wealth of games in its custom GPT store, covering everything from, RPGs and Dungeons and Dragons-style adventures, classic retro games, card games, quizzes, mysteries, and so much more.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1.[Murder Mystery Mayhem](https://chat.openai.com/g/g-82dEDeoN3-murder-mystery-mayhem)
 
  Let's start with one of the top-rated games on ChatGPT's custom GPT store. Murder Mystery Mayhem is a procedurally generated game where you play the role of a detective in the year 1925.
@@ -57,6 +64,13 @@ Close
 
  It's a basic version of the classic game, but it's engaging enough. The custom GPT's scripting doesn't allow you to go off-piste and, say, rob the local convenience store for supplies (nor did the original), but it's certainly a lot easier without so many setbacks constantly upending and destroying your party. It's a much easier version, that's for sure.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3.[Poker](https://chat.openai.com/g/g-lHyTLJaCX-poker)
 
  From the potential death and horror of the Oregon Trail to something a little more relaxing: Poker. You play against the AI in this Poker custom GPT, starting with 10,000 credits, and play standard five-card Texas hold'em until someone's credits run out.
@@ -64,19 +78,6 @@ Close
 Close
 
  My only major gripe about this poker game is that ChatGPT seems to mimic your choices, such as check, raise, and so on, which can make the game predictable (or at least less random).
-
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4.[Console GPT](https://chat.openai.com/g/g-3p94K4Djb-console-gpt)
 
@@ -96,6 +97,13 @@ Close
 
  The narrative flow is a bit shaky, and Console GPT could use some extra commands to remember other parts of the story, but it's good fun for a while. For example, one moment, I was a lone operative in a bar, and the next, I was planning a heist in a room with the rest of my assembled team.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5.[Cookie Clicker](http://chat.openai.com/g/g-g0b22bvqB-cookie-clicker)
 
  Not content with card games, custom cartridge adventures, or adventuring? Why not give a custom GPT idle game a try instead?
@@ -109,16 +117,10 @@ Close
  Still, if you're into idle games and want to try something different, it could be worth a try.
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6.[Cute Little Zombies](https://chat.openai.com/g/g-CEON6aFtV-cute-little-zombies-a-text-adventure-game)
@@ -148,5 +150,21 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-the-acoustic-bridge-to-captivating-trailers-for-2024/"><u>[New] The Acoustic Bridge to Captivating Trailers for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-guide-to-spotify-ads-learn-how-to-successfully-advertise-on-spotify/"><u>[Updated] Guide to Spotify Ads - Learn How to Successfully Advertise on Spotify</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-which-recording-tool-excels-more-bandicam-vs-camtasia/"><u>2024 Approved Which Recording Tool Excels More? - Bandicam Vs. Camtasia</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/are-lessons-on-crafting-balanced-nourishing-dishes-available-from-chatgpt/"><u>Are Lessons on Crafting Balanced, Nourishing Dishes Available From ChatGPT?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/between-bing-chat-and-chatgpt-what-freelancers-need-to-know-before-deciding-top-8-considerations/"><u>Between Bing Chat & ChatGPT: What Freelancers Need to Know Before Deciding (Top 8 Considerations)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-and-personal-fitness-training-revolutionizing-custom-workout-strategies/"><u>ChatGPT and Personal Fitness Training: Revolutionizing Custom Workout Strategies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-evade-chatgpts-conversational-history-logging/"><u>How to Evade ChatGPT's Conversational History Logging</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-on-apple-iphone-se-2022-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication On Apple iPhone SE (2022)? 5 Tips You Must Know</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-courtesy-essential-when-interacting-with-virtual-assistants-like-chatgpt-amazons-alexa-or-apples-siri/"><u>Is Courtesy Essential When Interacting with Virtual Assistants Like ChatGPT, Amazon's Alexa, or Apple's Siri?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/master-your-minutes-a-deep-dive-into-chatgpts-impact-on-time-management/"><u>Master Your Minutes: A Deep Dive Into ChatGPT's Impact on Time Management</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/utionize-marketing-top-tools-for-perfectly-timed-video-tags-for-2024/"><u>Revolutionize Marketing Top Tools for Perfectly Timed Video Tags for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/trending-topics-and-themes-to-hook-your-streams-attention/"><u>Trending Topics and Themes to Hook Your Stream's Attention</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-resolve-mw3-warzone-dev-error-6068-ahead-of-2024/"><u>Troubleshooting Guide: Resolve MW3 - Warzone Dev Error 6068 Ahead of 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Vivo V30 Pro | Dr.fone</u></a></li>
+</ul></div>
 

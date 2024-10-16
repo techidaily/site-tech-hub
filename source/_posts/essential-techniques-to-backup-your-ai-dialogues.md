@@ -1,7 +1,7 @@
 ---
 title: Essential Techniques to Backup Your AI Dialogues
-date: 2024-09-11T16:17:01.924Z
-updated: 2024-09-17T16:15:57.899Z
+date: 2024-10-12T17:00:32.668Z
+updated: 2024-10-16T02:11:33.806Z
 tags:
   - chatgpt
   - open-ai
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/087d4c396676b014d9cc5b7a27f2781bb19d17612
 
  The cybercriminals used a Facebook page impersonating OpenAI, complete with official ChatGPT logos, to redirect unsuspecting users to the malicious site.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. openai-pc-pro.online
 
  The experts at CRIL also discovered an unidentified malware strain being distributed through the domain “openai-pc-pro.online,” a malicious domain posing as the official ChatGPT website.
@@ -48,6 +55,13 @@ thumbnail: https://thmb.techidaily.com/087d4c396676b014d9cc5b7a27f2781bb19d17612
 
  ChatGPT AI, the fake ChatGPT Facebook page, also features posts that include links to “chat-gpt-pc.online,” another domain that redirects users to a malicious ChatGPT-themed website.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. chatgpt-go.online
 
  The domain “chatgpt-go.online” leads users to a website that’s a clone of the official ChatGPT website. The copy-pasted site, however, swaps the “TRY CHATGPT” button link with malicious links containing Lumma Stealer. The domain also hosts different kinds of malicious files, including clipper malware and Aurora stealer.
@@ -56,14 +70,14 @@ thumbnail: https://thmb.techidaily.com/087d4c396676b014d9cc5b7a27f2781bb19d17612
 
 ![pay.chatgptftw.com's payment page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pay-chatgptftw-com.jpg)
 
- Cybercriminals also use ChatGPT-themed payment pages for financial fraud. For example, on the domain “pay.chatgptftw.com,” Cyble came across a page designed to steal credit card details. This webpage poses as a genuine payment page for ChatGPT Plus.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Cybercriminals also use ChatGPT-themed payment pages for financial fraud. For example, on the domain “pay.chatgptftw.com,” Cyble came across a page designed to steal credit card details. This webpage poses as a genuine payment page for ChatGPT Plus.
 
 ## 6\. ChatGPT1
 
@@ -79,13 +93,6 @@ thumbnail: https://thmb.techidaily.com/087d4c396676b014d9cc5b7a27f2781bb19d17612
 
  SuperGPT is an AI assistant app built on ChatGPT. However, researchers from Unit 42 uncovered a malicious APK sample posing as the app. This fake “SuperGPT” is a Meterpreter Trojan, [a RAT that enables remote access](https://www.makeuseof.com/android-remote-access-trojan/) of Android devices.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 9\. Trojan-PSW.Win64.Fobo
 
  Kaspersky researchers discovered that cybercriminals were using a fake ChatGPT desktop client for Windows to distribute a stealer Trojan. The Trojan, dubbed Trojan-PSW.Win64.Fobo, if installed on the user’s computer, can steal account details stored in various browsers, including Chrome, Edge, Firefox, and Brave.
@@ -97,10 +104,10 @@ thumbnail: https://thmb.techidaily.com/087d4c396676b014d9cc5b7a27f2781bb19d17612
  Upon extracting the archive and running the file, you may or may not receive an installation failure message. In either case, the Trojan is installed.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Protect Yourself From Malicious ChatGPT-Themed Apps
@@ -128,5 +135,21 @@ thumbnail: https://thmb.techidaily.com/087d4c396676b014d9cc5b7a27f2781bb19d17612
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-10-superior-video-conferencing-software-titles/"><u>[New] 2024 Approved 10 Superior Video Conferencing Software Titles</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ielding-income-a-streamers-guide-to-earning-for-2024/"><u>[New] Yielding Income A Streamer's Guide to Earning for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-busting-myths-essential-facts-on-instagrams-reels/"><u>[Updated] 2024 Approved Busting Myths Essential Facts on Instagram's Reels</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-protocols-and-performance-macos-meets-mixer/"><u>[Updated] In 2024, Protocols and Performance MacOS Meets Mixer</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-selfies-on-iphone-try-these-best-free-enhancers/"><u>2024 Approved Mastering Selfies on iPhone? Try These Best Free Enhancers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/crafting-your-own-personalized-chatgpt-a-step-by-step-guide/"><u>Crafting Your Own Personalized ChatGPT: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortlessly-enhance-your-browsing-with-ai-powered-agentgpt/"><u>Effortlessly Enhance Your Browsing with AI-Powered AgentGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/handling-the-overwhelmed-chatgpt-problem-on-your-computer-expert-tips-for-windows-operating-system/"><u>Handling the Overwhelmed ChatGPT Problem on Your Computer: Expert Tips for Windows Operating System</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-oppo-find-x7-ultra-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Oppo Find X7 Ultra to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/inside-information-and-speculations-surrounding-the-new-sony-car-model-afeela/"><u>Inside Information and Speculations Surrounding the New Sony Car Model, Afeela</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/stay-connected-on-the-go-the-definitive-list-of-elite-wi-fi-travel-routers/"><u>Stay Connected on the Go: The Definitive List of Elite Wi-Fi Travel Routers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/tp-link-ac-wireless-network-card-drivers-updated-for-windows-operating-systems-11-8-and-groove-download-now/"><u>TP-Link AC Wireless Network Card Drivers Updated | For Windows Operating Systems (11, 8 & Groove) Download Now</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-novelty-gpt-4-by-openai/"><u>Unveiling Novelty: GPT-4 by OpenAI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-objectives-of-googles-cutting-edge-ai-initiative-gemini/"><u>Unveiling the Objectives of Google's Cutting-Edge AI Initiative: Gemini</u></a></li>
+</ul></div>
 

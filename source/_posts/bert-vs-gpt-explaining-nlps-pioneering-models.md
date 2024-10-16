@@ -1,7 +1,7 @@
 ---
 title: "BERT vs GPT: Explaining NLP's Pioneering Models"
-date: 2024-09-12T16:54:11.725Z
-updated: 2024-09-17T22:59:47.780Z
+date: 2024-10-11T06:05:38.727Z
+updated: 2024-10-15T17:02:38.515Z
 tags:
   - chatgpt
   - open-ai
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/356d504c4e521db72b45b5ec62fa587016c69e83d
 
 ![Screenshot Bing responding to CO2 Levels](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-bing-responding-to-co2-levels.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The first notable difference is the approach taken in quantifying CO2 levels. Rather than list CO2 levels in terms of ppm, Bing Chat presented the data in terms of percentages.
 
  The length and tone of the responses also differed. The Bing Chat response was shorter and more restrained, not offering opinions on the problem or potential solutions.
@@ -58,13 +65,20 @@ thumbnail: https://thmb.techidaily.com/356d504c4e521db72b45b5ec62fa587016c69e83d
 
 ![Screenshot Bard  CO2 Levels with other drafts showing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-bard-co2-levels-with-other-drafts-showing.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The main takeaway from this section is the importance of checking the accuracy of the information received from any chatbot.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bing Chat vs. Google Bard: Ease of Use
@@ -81,13 +95,6 @@ thumbnail: https://thmb.techidaily.com/356d504c4e521db72b45b5ec62fa587016c69e83d
 
 ![Bing Chat Screenshot Global Warming Blog Points](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bing-chat-screenshot-global-warming-blog-points.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 We did manage to get a response from Bard by rewording the prompt.
 
 ![Screenshot of bard response to reworded essay prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-bard-response-to-reworded-essay-prompt.jpg)
@@ -95,16 +102,10 @@ We did manage to get a response from Bard by rewording the prompt.
  As both platforms are going through rapid development, the user experience will continue to improve.
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Are the Differences Between the Language Models?
@@ -116,6 +117,13 @@ We did manage to get a response from Bard by rewording the prompt.
  GPT-4 is a generative model. It generates answers based on the text it's been trained on. By contrast,[LaMDA works differently](https://www.makeuseof.com/what-is-google-lamda-ai/) —it is a discriminative model, meaning it can distinguish between various kinds of text.
 
  In essence, this should mean that GPT-4 is better at generating creative content, while LaMDA is better at answering questions about facts.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Which Is Best for You: Bing Chat or Google Bard?
 
@@ -152,5 +160,18 @@ We did manage to get a response from Bard by rewording the prompt.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-recommendations-to-overcome-live-breakdowns-fb/"><u>[New] 2024 Approved Recommendations to Overcome Live Breakdowns (FB)</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-spectrasafe-uv-censor-webcam-shield/"><u>[Updated] 2024 Approved SpectraSafe UV-Censor Webcam Shield</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparing-top-tech-giants-apple-vs-dell-in-the-ultimate-2024-computer-showdown-insights/"><u>Comparing Top Tech Giants: Apple Vs. Dell in the Ultimate 2024 Computer Showdown - Insights</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elevate-dim-iphone-images-3-methods-to-try/"><u>Elevate Dim iPhone Images 3 Methods to Try</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhance-visual-fidelity-with-4k-upscaling-a-comprehensive-guide/"><u>Enhance Visual Fidelity with 4K Upscaling: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/expert-insights-on-ipad-air-with-m2-chip-the-best-tablet-to-invest-in-according-to-apple-enthusiasts/"><u>Expert Insights on iPad Air with M2 Chip: The Best Tablet to Invest in According to Apple Enthusiasts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/face-off-between-the-oculus-quest-3-and-apple-glasses-was-zuckerberg-right-tech-analysis-by-zdnet/"><u>Face-Off Between the Oculus Quest 3 and Apple Glasses: Was Zuckerberg Right? | Tech Analysis by ZDNet</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-trimming-techniques-understanding-video-crops-in-imovie/"><u>In 2024, Trimming Techniques Understanding Video Crops in iMovie</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-to-do-if-your-apple-iphone-8-plus-has-bad-esn-or-blacklisted-imei-by-drfone-ios/"><u>In 2024, What to do if your Apple iPhone 8 Plus has bad ESN or blacklisted IMEI?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/secure-your-early-access-get-the-latest-apple-watch-series-10-in-advance-tips-for-savings-and-pre-ordering-process-insights/"><u>Secure Your Early Access: Get the Latest Apple Watch Series 10 in Advance! Tips for Savings & Pre-Ordering Process - Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-3-essential-gadgets-to-maintain-the-fresh-look-of-your-iphone-13-a-guide-by-zdnet/"><u>Top 3 Essential Gadgets to Maintain the Fresh Look of Your iPhone 13: A Guide by ZDNet</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Are Language Models Such as ChatGPT a Potential Tool in Constructing Computer Viruses or Hacking Tools?
-date: 2024-09-11T20:22:02.018Z
-updated: 2024-09-17T21:31:11.376Z
+date: 2024-10-14T22:51:16.291Z
+updated: 2024-10-15T20:49:58.707Z
 tags:
   - chatgpt
   - open-ai
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/33028f93fa14d69bbcfce2acf14136a66954cb281
  However, one area in which ChatGPT could be particularly impactful is machine translation. Currently, Google Translate is the top dog, and almost everyone else is playing catch-up.
 
  But with the rise of ChatGPT, could Google Translate's dominance be challenged? We'll pit ChatGPT against Google Translate to see which tool can provide better translations.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Does a Good Translation Look Like?
 
@@ -74,6 +81,19 @@ And so did Google:
 
 ![Google translates a Filipino idiomatic expression](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/google-translates-filipino2.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This clearly gave both tools a hard time, but Google Translate seemed to have an edge.
 
  Of course, things were made even harder, this time switching to the Malayalam language. The task was for both translation tools to interpret an excerpt from a fairly popular novel in Malayalam.
@@ -82,9 +102,23 @@ And so did Google:
 
 ![ChatGPT malayalam translation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/chat.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Google, on the other hand, did fairly well.
 
 ![Google Translate translating malayalam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/goo.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  None of the tools could get it perfectly, but Google Translate was as close as you can get. This is a close contest. While Google Translate has an edge, ChatGPT can provide the meaning of idioms instead of just translations. This could be very useful when translating a larger body of text that contains an idiom. In such cases, translating an idiom literally could be a source of confusion when read together with the surrounding text.
 
@@ -112,20 +146,13 @@ Up next is a translation task in Filipino.
 
 ![ChatGPT translate filipino](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/chatgpt-translate-filipino.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  None of the translations are particularly perfect, but ChatGPT got as close as possible.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Google Translate vs. ChatGPT: Translating Creoles
@@ -147,10 +174,10 @@ Below is the source text:
 ![ChatGPT Pidgin Translation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-pidgin-translation.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Google Translate vs. ChatGPT: Language Coverage
@@ -182,5 +209,19 @@ Below is the source text:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-instagrams-filter-arsenal-for-revamping-your-archive/"><u>2024 Approved Instagram's Filter Arsenal for Revamping Your Archive</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/1722645575186-beyond-the-lens-range-canon-powershot-sx70-hs-superzoom-reviewed/"><u>Beyond the Lens Range - Canon PowerShot SX70 HS Superzoom Reviewed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/broadcom-wi-fi-adapter-enhanced-for-windows-with-n-compatibility/"><u>Broadcom Wi-Fi Adapter Enhanced for Windows with N Compatibility</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/choosing-safe-and-fun-cell-phones-for-children-insights-from-zdnet-expert-picks/"><u>Choosing Safe & Fun Cell Phones for Children : Insights From ZDNet Expert Picks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-apples-new-carplay-enhancements-unveiled-wwdc-highlights-zdnet/"><u>Discover Apple's New CarPlay Enhancements Unveiled WWDC Highlights | ZDNet</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/efficiency-and-performance/"><u>Efficiency and Performance</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/expertly-selected-ultimate-guide-to-the-top-note-taking-tablets-of-2024-cnet/"><u>Expertly Selected Ultimate Guide to the Top Note-Taking Tablets of 2024 | CNET</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/grab-apples-discounted-m2-macbook-air-now-for-just-800-on-amazon-before-official-prime-day-deals-begin-zdnet/"><u>Grab Apple's Discounted M2 MacBook Air Now for Just $800 on Amazon Before Official Prime Day Deals Begin - ZDNet</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-x-fold-2-phone-without-password-by-drfone-android/"><u>How To Unlock Vivo X Fold 2 Phone Without Password?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-tech-trends-the-authoritative-guide-by-toms-hardware/"><u>Navigating Tech Trends: The Authoritative Guide by Tom's Hardware</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-list-of-why-you-need-an-apple-watch-an-authoritative-review-by-a-tech-guru/"><u>The Ultimate List of Why You Need an Apple Watch: An Authoritative Review by a Tech Guru</u></a></li>
+</ul></div>
 

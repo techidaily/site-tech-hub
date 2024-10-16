@@ -1,7 +1,7 @@
 ---
 title: All-Inclusive Understanding on How OpenAI Works - What You Need to Know
-date: 2024-09-16T03:22:15.828Z
-updated: 2024-09-17T23:28:48.915Z
+date: 2024-10-12T01:53:09.215Z
+updated: 2024-10-15T21:06:43.831Z
 tags:
   - chatgpt
   - open-ai
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/8eee5494b28afc7aa3f86c9129d566065bf2c03da
 * [How to Find the Best Custom GPTs in the GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/#how-to-find-the-best-custom-gpts-in-the-gpt-store)
 * [Is it Worth Upgrading to ChatGPT Plus to Use Custom GPTs?](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/#is-it-worth-upgrading-to-chatgpt-plus-to-use-custom-gpts)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * OpenAI has launched the GPT Store, where users can find custom GPTs created by the ChatGPT community.
@@ -47,10 +54,10 @@ How do you know when you've been granted access?
  On the left sidebar of the ChatGPT interface, you should see**Explore GPTs** instead of simply**Explore** . Once you see this, you can start using the GPT Store! Remember, the whole idea of the GPT Store is to help users browse and access a wide range of GPTs built by the community. So, how can you use it to find the right GPT for your tasks?
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Find the Best Custom GPTs in the GPT Store
@@ -65,10 +72,10 @@ How do you know when you've been granted access?
 4. When you find a GPT you want to try, click on it to open the individual GPT page.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. On the GPT page, you will see information about what that model offers.
@@ -76,6 +83,19 @@ How do you know when you've been granted access?
 ![Adding a GPT to sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/adding-a-gpt-to-sidebar.jpg)
 
  However, you should note that at the time of writing, the GPT Store isn't reviewed, and there is no rating system or otherwise. We're hoping that OpenAI will introduce some type of rating system in the near future, as currently, without any system in place, you're effectively on your own when it comes to figuring out what works well. By extension, it seems likely that some form of rating or review system will be implemented once GPT Store revenue sharing is launched, but OpenAI hasn't given any fixed timeline for this.
+
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is it Worth Upgrading to ChatGPT Plus to Use Custom GPTs?
 
@@ -98,5 +118,20 @@ How do you know when you've been granted access?
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-fusing-fun-and-functionality-top-6-engaging-video-formats-for-2024/"><u>[New] Fusing Fun and Functionality Top 6 Engaging Video Formats for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-capturing-every-frame-the-apeaksoft-reviewed-screen-recorder/"><u>[Updated] Capturing Every Frame The Apeaksoft Reviewed Screen Recorder</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/2024s-elite-ipads-unveiled-thoroughly-tested-and-evaluated-by-tech-gurus-zdnet/"><u>2024'S Elite iPads Unveiled: Thoroughly Tested and Evaluated by Tech Gurus | ZDNET</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/experience-exceptional-savings-with-the-latest-samsung-galaxy-tab-a-now-for-just-250-after-prime-day-deals-techradar/"><u>Experience Exceptional Savings with the Latest Samsung Galaxy Tab A - Now for Just $250 After Prime Day Deals | TechRadar</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/exploring-microsofts-latest-innovations-from-the-october-surface-launch-zdnet/"><u>Exploring Microsoft's Latest Innovations From the October Surface Launch - ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-next-generation-of-mobile-displays-through-apples-ipad-pro-tandem-oled-innovation/"><u>Exploring the Next Generation of Mobile Displays Through Apple's iPad Pro Tandem OLED Innovation</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-premium-5-conferencing-recording-equipment-guide/"><u>In 2024, Premium 5 Conferencing Recording Equipment Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/streamlining-podcast-feed-creation-techniques/"><u>Streamlining Podcast Feed Creation Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tailored-touch-up-top-6-apps-to-exclude-unwanted-elements-from-photos-for-2024/"><u>Tailored Touch-Up Top 6 Apps to Exclude Unwanted Elements From Photos for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-misstep-in-new-ipad-rollout-effective-solutions-and-recovery-plans-by-apple-unveiled-digitaltechreview/"><u>The Misstep in New iPad Rollout: Effective Solutions and Recovery Plans by Apple Unveiled | DigitalTechReview</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-picking-the-right-voice-assistant-amazons-alexa-vs-googles-answer-to-it/"><u>The Ultimate Guide to Picking the Right Voice Assistant: Amazon's Alexa Vs. Google's Answer to It.</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-guide-top-5-online-converters-for-gifs-to-videos-for-2024/"><u>Ultimate Guide Top 5 Online Converters for GIFs to Videos for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/what-to-expect-from-todays-wwdc-announcements-by-apple-deep-dive-into-intelligent-tech-advanced-siri-capabilities-and-the-launch-of-ios-n18-coverage/"><u>What to Expect From Today's WWDC Announcements by Apple: Deep Dive Into Intelligent Tech, Advanced Siri Capabilities & the Launch of iOS N°18 | Coverage</u></a></li>
+</ul></div>
 

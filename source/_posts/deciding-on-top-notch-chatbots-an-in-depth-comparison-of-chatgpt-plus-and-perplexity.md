@@ -1,7 +1,7 @@
 ---
 title: "Deciding on Top-Notch Chatbots: An In-Depth Comparison of ChatGPT Plus and Perplexity"
-date: 2024-09-15T03:23:03.509Z
-updated: 2024-09-17T17:35:35.007Z
+date: 2024-10-12T18:16:58.513Z
+updated: 2024-10-15T19:47:10.964Z
 tags:
   - chatgpt
   - open-ai
@@ -34,15 +34,42 @@ thumbnail: https://thmb.techidaily.com/85ea88a283ba15f13d63e8eaf5823127ecc1dabd5
 
  This just underscores how important it is to[limit what you share with ChatGPT](https://www.makeuseof.com/shouldnt-trust-chatgpt-confidential-data/) , which collects a staggering amount of data by default. Tech behemoth Samsung learned this the hard way, when a group of employees who had been using the chatbot as an assistant accidentally leaked confidential information to it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is ChatGPT a Threat to Your Privacy?
 
 ![ChatGPT logo on green background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-threat.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Security and privacy are not one and the same](https://www.makeuseof.com/privacy-anonymity-security-mean/) , but they are closely related and often intersect. If ChatGPT is a security threat, then it is also a threat to privacy, and vice versa. But what does this mean in more practical terms? What are ChatGPT's security and privacy policies like?
 
  Billions of words were scraped from the internet to create ChatGPT's vast database. This database is in a continual state of expansion, since ChatGPT stores whatever users share. The US-based non-profit[Common Sense](https://privacy.commonsense.org/evaluation/ChatGPT) gave ChatGPT a privacy evaluation score of 61 percent, noting that the chatbot collects Personally Identifiable Information (PII), and other sensitive data. Most of this data is stored, or shared with certain third-parties.
 
  In any case, you should be careful when using ChatGPT, especially[if you use it for work](https://www.makeuseof.com/things-you-can-do-with-chatgpt) , or to process sensitive information. As a general rule of thumb, you should not share with the bot what you wouldn't like the public to know.
+
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Addressing the Security Risks Associated With ChatGPT
 
@@ -53,10 +80,10 @@ thumbnail: https://thmb.techidaily.com/85ea88a283ba15f13d63e8eaf5823127ecc1dabd5
  This will radically transform security as we know it. But as Malwarebytes also noted, ChatGPT and similar tools can be used by cybersecurity professionals as well; for example to look for bugs in software, or "suspicious patterns" in network activity.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Raising Awareness Is Key
@@ -78,5 +105,24 @@ thumbnail: https://thmb.techidaily.com/85ea88a283ba15f13d63e8eaf5823127ecc1dabd5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-rise-of-the-alternative-top-3-video-sharing-websites/"><u>[New] 2024 Approved Rise of the Alternative Top 3 Video Sharing Websites</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-a-hands-on-manual-to-easily-navigate-trending-youtube-comments/"><u>[New] A Hands-On Manual to Easily Navigate Trending YouTube Comments</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-headset-manufacturers-for-virtual-worlds/"><u>[Updated] Innovative Headset Manufacturers for Virtual Worlds</u></a></li>
+<li><a href="https://discover-great.techidaily.com/convert-youtube-videos-for-free-on-mac-with-macx-pro-converter/"><u>Convert YouTube Videos for Free on Mac with MacX Pro Converter</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-how-simple-it-really-is-to-transfer-your-macbook-data-with-our-swift-solutions/"><u>Discover How Simple It Really Is to Transfer Your MacBook Data with Our Swift Solutions!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-upgraded-apple-carplay-features-showcased-at-wwdc-2024-in-depth-analysis-and-expert-insights/"><u>Discover the Upgraded Apple CarPlay Features Showcased at WWDC 2024: In-Depth Analysis and Expert Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/essential-guide-how-to-effortlessly-set-up-your-new-ipad-insights/"><u>Essential Guide: How to Effortlessly Set Up Your New iPad - Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/experience-your-dream-of-apple-sports-come-true-a-free-and-user-friendly-iphone-app-reviewed-by-experts-zdnet/"><u>Experience Your Dream of Apple Sports Come True: A Free and User-Friendly iPhone App Reviewed by Experts | ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-why-the-discounted-apple-watch-ultra-2-is-my-ideal-smartwatch-pick-this-labor-day-insights-from-zdnet/"><u>Exploring Why the Discounted Apple Watch Ultra 2 Is My Ideal Smartwatch Pick This Labor Day - Insights From ZDNet</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-itel-s23-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Itel S23 Devices</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Poco C65? | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/overcoming-two-factor-authentication-without-access-to-phone/"><u>Overcoming Two-Factor Authentication without Access to Phone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/prime-pick-top-10-streamers-for-cutting-edge-tv-content-for-2024/"><u>Prime Pick Top 10 Streamers for Cutting-Edge TV Content for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/rapid-video-rendering-in-powerpoint-presentations-for-2024/"><u>Rapid Video Rendering in PowerPoint Presentations for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-bargains-on-amazon-hottest-offers-of-sept-24-featured/"><u>Top Bargains on Amazon - Hottest Offers of Sept '24 Featured</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-budget-tablets-of-2024-comprehensive-reviews-by-tech-experts/"><u>Top-Rated Budget Tablets of 2024: Comprehensive Reviews by Tech Experts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/will-microsoft-master-arm-architecture-for-windows-eclipsing-the-power-of-apple-silicon-inside-scoop/"><u>Will Microsoft Master ARM Architecture for Windows, Eclipsing the Power of Apple Silicon? [Inside Scoop ]</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Why Security Challenges for Generative AI Are Set to Intensify: An Insightful List"
-date: 2024-09-13T23:31:11.495Z
-updated: 2024-09-18T00:49:00.490Z
+date: 2024-10-11T20:51:15.744Z
+updated: 2024-10-15T20:28:04.964Z
 tags:
   - chatgpt
   - open-ai
@@ -34,11 +34,25 @@ thumbnail: https://thmb.techidaily.com/9f1310fb04eb76846ce94c2831da468762b7226e2
 
  According to[Microsoft](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) , Bing will be powered by the latest next-gen natural language AI model specifically trained for web searching. The AI model behind Microsoft Bing relies on improvements made on ChatGPT and GPT-3.5, making it much faster and more reliable.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What's New in Bing?
 
  Remember when searching was underwhelming and lousy using Bing? Thanks to the new AI web search companion, those days are far behind. Bing will now use AI at its core to deliver enhanced search results that are precisely relevant, allow you to generate content, and, best of all, integrate a brand new chat experience specialized to answering complex queries.
 
 ![AI powered chat feature in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-chat-new.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ` Image Credit:[ Microsoft](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) `
 
@@ -48,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/9f1310fb04eb76846ce94c2831da468762b7226e2
 
  This means if you search for**“Best flights from London to New York,”** Bing will show you a list of relevant ticketing services in the left pane but a summarized result of the best airline fare according to its AI search algorithm in the right pane.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What's New in Microsoft Edge?
 
  Over the past few years, Microsoft has significantly improved Edge with incredible features that have allowed it to compete directly against Google Chrome. With the latest capabilities of Bing + AI, Microsoft has made Edge even more potent with new AI features and an updated look.
@@ -56,18 +77,18 @@ thumbnail: https://thmb.techidaily.com/9f1310fb04eb76846ce94c2831da468762b7226e2
 
 ![compose text with Bing AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-ai-compose-new.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ` Image Credit:[ Microsoft](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) `
 
  Building on the content-generation capabilities of ChatGPT,**Compose** within Microsoft Edge will let you generate content that customizes to the required tone, format, and length. You can compose emails to your coworkers, write about your new job in a post on LinkedIn, and even convert financial information into tables; the possibilities are limitless.
 
  You can use the**Chat** feature to answer complex queries, get detailed financial information on a company, figure out the best way to grill a steak, decide the best framework for your web application, and more.**Chat** relies on your prompts to comprehensively provide you with the best possible answers.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Microsoft Bing Reinvents Web Searching
 
@@ -86,5 +107,22 @@ thumbnail: https://thmb.techidaily.com/9f1310fb04eb76846ce94c2831da468762b7226e2
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-a-beginners-guide-to-frictionless-nft-making/"><u>[New] A Beginner's Guide to Frictionless NFT Making</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-eyecatcher-ultimate-screen-capture-guide/"><u>[New] EyeCatcher Ultimate Screen Capture Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-how-to-record-gameplay-in-samsung-galaxy-phones-for-2024/"><u>[New] How to Record Gameplay in Samsung Galaxy Phones for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-online-offer-enjoy-a-gallery-of-50-youtube-banners-now/"><u>[Updated] 2024 Approved Free Online Offer Enjoy a Gallery of 50 YouTube Banners Now</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-unveiling-the-top-7-android-apps-to-banish-ads/"><u>[Updated] In 2024, Unveiling The Top 7 Android Apps to Banish Ads</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beyond-chatgpt-cutting-edge-communication-companions/"><u>Beyond ChatGPT: Cutting-Edge Communication Companions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bridging-gaps-solutions-for-sync-issues-in-chatgpt-and-services/"><u>Bridging Gaps: Solutions for Sync Issues in ChatGPT & Services</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effective-strategies-for-students-avoiding-common-pitfalls-with-chatgpt/"><u>Effective Strategies for Students: Avoiding Common Pitfalls with ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-future-of-ai-with-gpt-n-what-to-expect-from-gpt-5s-unveiling/"><u>Exploring the Future of AI with GPT-N – What to Expect From GPT-5's Unveiling</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gpt-5-vision-new-functionalities-on-the-horizon/"><u>GPT-5 Vision: New Functionalities on the Horizon</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-6s-to-other-iphone-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 6s to Other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-xiaomi-redmi-note-12-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Xiaomi Redmi Note 12 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/scoutingcameras-more-than-just-mycam-for-2024/"><u>ScoutingCameras More Than Just MyCam for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/shift-in-control-analyzing-impact-on-chatgpt-after-sam-altman-is-let-go-by-openai/"><u>Shift in Control: Analyzing Impact on ChatGPT After Sam Altman Is Let Go by OpenAI</u></a></li>
+</ul></div>
 

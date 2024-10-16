@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Your Health Outcomes: How ChatGPT Can Help You Set and Achieve Fitness Milestones"
-date: 2024-09-15T18:12:47.741Z
-updated: 2024-09-17T20:11:11.441Z
+date: 2024-10-13T19:40:44.992Z
+updated: 2024-10-16T03:24:31.497Z
 tags:
   - chatgpt
   - open-ai
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/d5763e8c703a90b60446f4bfe750752cf90d756e0
 
 **Download:** WebChatGPT for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-advanced/lpfemeioodjbpieminkklglpmhlngfcn) |[Firefox](https://addons.mozilla.org/en-US/firefox/addon/web-chatgpt/) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. ChatGPT Prompt Genius
 
  ChatGPT can seem magical when you see screenshots of some of the answers it gives people. But those screenshots don't show the prompts users have typed to make ChatGPT better. Like[learning the best Google search operators](https://www.makeuseof.com/tag/best-google-search-tips-pdf/) , you need to know how to frame the right prompts for ChatGPT. And this extension can help.
@@ -53,6 +60,13 @@ thumbnail: https://thmb.techidaily.com/d5763e8c703a90b60446f4bfe750752cf90d756e0
  You can curate and save your recently used prompts if you want to reuse them later. The extension lets you save entire chats with the ChatGPT AI as a PDF, PNG, or Markdown HTML file directly from the browser. You can also use custom themes for the chat interface, but that's more about looks than function.
 
 **Download:** ChatGPT Prompt Genius for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-history/jjdnakkfjnnbbckhifcfchagnpofjffo/) |[Firefox](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-history/) (Free)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. ChatGPT Writer
 
@@ -70,6 +84,13 @@ thumbnail: https://thmb.techidaily.com/d5763e8c703a90b60446f4bfe750752cf90d756e0
 
 **Download:** ChatGPT Writer for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-writer-write-mail/pdnenlnelpdomajfejgapbdpmjkfpjkp/) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. YouTube Summary With ChatGPT
 
  YouTube creators have the option to add a transcript of their full video or not. As a user, you have no control over this. Many times, all you want is a transcript to quickly browse through what the video is going to say so that you can know if it's worth your time.
@@ -79,13 +100,6 @@ thumbnail: https://thmb.techidaily.com/d5763e8c703a90b60446f4bfe750752cf90d756e0
  Click any timestamp to be taken to that moment in the video. If you're already midway through the video, you can jump to the current time in the transcript. And you can copy-paste the transcript anywhere.
 
 ![using the 'transcript and summary box' from youtube summary extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/youtube-summary-extension.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The extension also has a button to view an AI-generated summary of the video. Clicking this takes you to ChatGPT, with the transcript already typed in the prompt. All you have to do now is prompt ChatGPT to summarize the text, and you'll get an instant summary.
 
@@ -104,10 +118,10 @@ thumbnail: https://thmb.techidaily.com/d5763e8c703a90b60446f4bfe750752cf90d756e0
 **Download:** Talk-to-ChatGPT for[Chrome](https://chrome.google.com/webstore/detail/talk-to-chatgpt/hodadfhfagpiemkeoliaelelfbboamlk) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. ChatGPT for Search Engines
@@ -121,13 +135,6 @@ thumbnail: https://thmb.techidaily.com/d5763e8c703a90b60446f4bfe750752cf90d756e0
 ## 7\. Perplexity AI
 
 ![query answers by perplexity ai extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/perplexity-ai.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The decentralization of information and knowledge has done much good in recent years. But, like anything in tech, it carries an ugly side to it, too. The rise of fake news and misinformation, for instance, is one of its biggest unwanted by-products.
 
@@ -156,5 +163,26 @@ thumbnail: https://thmb.techidaily.com/d5763e8c703a90b60446f4bfe750752cf90d756e0
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-graphicgrind-studio/"><u>[Updated] 2024 Approved GraphicGrind Studio</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-end-audio-blackout-vocalize-tweet-videos-for-2024/"><u>[Updated] End Audio Blackout Vocalize Tweet Videos for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-inside-look-expert-techniques-with-vlc-playback/"><u>[Updated] Inside Look Expert Techniques with VLC Playback</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bypassing-launch-issues-how-to-get-starfield-running-smoothly-on-steam-and-xbox/"><u>Bypassing Launch Issues: How to Get Starfield Running Smoothly on Steam & Xbox</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-oppo-reno-11-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/corrected-epson-ink-problem-now-prints/"><u>Corrected Epson Ink Problem, Now Prints</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/explore-the-best-4-ai-storytelling-apps-to-unleash-your-imagination/"><u>Explore the Best 4 AI Storytelling Apps to Unleash Your Imagination</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-nokia-g42-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Nokia G42 5G Quickly | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovative-strategies-for-chatgpt-assisted-poetry-books/"><u>Innovative Strategies for ChatGPT-Assisted Poetry Books</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/next-level-design-ideas-8-expertly-crafted-dall-e-3-artistic-prompts-for-imagery/"><u>Next Level Design Ideas: 8 Expertly Crafted DALL-E 3 Artistic Prompts for Imagery</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/seamless-share-youtube-videos-set-up-autoplay-on-fb-for-2024/"><u>Seamless Share YouTube Videos Set Up Autoplay on FB for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-impact-of-ai-conversational-agents-on-future-search-engine-dominance/"><u>The Impact of AI Conversational Agents on Future Search Engine Dominance</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-7-advantages-of-leveraging-chatgpt-for-medical-guidance/"><u>Top 7 Advantages of Leveraging ChatGPT for Medical Guidance</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-ai-chatbots-exploring-their-rise-in-digital-communication/"><u>Understanding AI Chatbots: Exploring Their Rise in Digital Communication</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-artificnelligence-a-beginners-guide/"><u>Understanding Artificnelligence: A Beginner's Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-pdf-knowledge-a-guide-to-empower-chatgpt-with-document-reading/"><u>Unlocking PDF Knowledge: A Guide to Empower ChatGPT with Document Reading</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-distinctions-how-does-gpt-4-stand-against-its-variants/"><u>Unveiling Distinctions: How Does GPT-4 Stand Against Its Variants?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/vr-on-the-go-smartphones-top-10-choices/"><u>VR on the Go Smartphones' Top 10 Choices</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-xiaomi-redmi-note-12-4g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Xiaomi Redmi Note 12 4G Hard Reset | Dr.fone</u></a></li>
+</ul></div>
 

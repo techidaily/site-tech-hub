@@ -1,7 +1,7 @@
 ---
 title: "Unlocking a Smarter Future: Apple's Latest AI Enhances Home Interface & Amps Up Siri Capabilities"
-date: 2024-10-03T17:16:21.706Z
-updated: 2024-10-09T17:43:36.121Z
+date: 2024-10-09T01:14:56.300Z
+updated: 2024-10-15T17:31:29.355Z
 tags:
   - apple
 categories:
@@ -36,6 +36,13 @@ Apple was expected to focus on incorporating AI into its apps to simplify users'
 
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What does Apple Intelligence do?
 
 Apple
@@ -55,6 +62,13 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is Siri getting an Apple Intelligence makeover?
 
 Apple
@@ -71,13 +85,6 @@ The voice assistant will also be able to perform hundreds of new actions across 
 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What's new in Apple's photo editing & search?
 
 Apple
@@ -89,13 +96,6 @@ Like the Google Pixel's Magic Eraser, Apple is giving its devices a new, AI-powe
 Apple is adding natural language photo and video search to its Photos app. This will let users enter a prompt to search for a picture, video, or even a segment of a video. Users can say, "Find a photo of that starfish we found at the beach last summer," and have their iPhone pull up a photo without having to scroll through thousands of photos to find the one.
 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How does systemwide AI text generation work?
 
@@ -121,13 +121,6 @@ In the Notes app, for example, a new tool called Image Wand will let you circle 
 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
 
 Apple
@@ -139,13 +132,6 @@ When users make a Siri request that the voice assistant determines would be bett
 **Also: [Apple finally gave us the iPad app we've waited 14 years for at WWDC 2024](https://www.zdnet.com/article/apple-finally-gave-us-the-ipad-app-weve-waited-14-years-for-at-wwdc-2024/)**
 
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Will Apple Intelligence be processed on-device or in the cloud?
 
@@ -163,6 +149,13 @@ Apple is leveraging what it calls Private Cloud Compute for complex tasks that r
 
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is Apple Intelligence actually private and secure?
 
 Apple
@@ -177,6 +170,13 @@ The company is striving to keep the AI features secure through several mechanism
 * **Independent code review:** With Private Cloud Compute, Apple explained that the code is available for independent experts to inspect and verify it meets privacy standards.
 * **Data encryption:** Apple encrypts all data sent to and from its servers as another layer of security.
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
 
@@ -218,20 +218,22 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-top-conversion-suite-for-mp4fb-sharing/"><u>[New] 2024 Approved Top Conversion Suite for MP4/FB Sharing</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-constructing-inquiry-curtain-closers/"><u>[New] In 2024, Constructing Inquiry Curtain Closers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-reality-of-now-vrs-evolution-and-challenges/"><u>[Updated] The Reality of Now VR's Evolution and Challenges</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-cutting-edge-image-editors-for-text-addition/"><u>2024 Approved Cutting-Edge Image Editors for Text Addition</u></a></li>
-<li><a href="https://win-blog.techidaily.com/assassins-creed-valhalla-smooth-gameplay-solutions-for-pc-users-experiencing-lags-and-stutters/"><u>Assassin’s Creed Valhalla Smooth Gameplay: Solutions for PC Users Experiencing Lags and Stutters</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/automating-analysis-with-chatgpt-in-spreadsheets/"><u>Automating Analysis with ChatGPT in Spreadsheets</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/choosing-between-chatgpt-and-huggingface-an-in-depth-review-of-performance-and-features/"><u>Choosing Between ChatGPT and HuggingFace: An In-Depth Review of Performance and Features</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/cybercrime-evolution-with-ai-five-methods-employed-by-modern-thieves/"><u>Cybercrime Evolution with AI: Five Methods Employed by Modern Thieves</u></a></li>
-<li><a href="https://article-helps.techidaily.com/decoding-the-divergence-360-film-vs-virtual-reality/"><u>Decoding the Divergence 360° Film Vs. Virtual Reality</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-unmatched-query-solving-perplexity-ai/"><u>Discover Unmatched Query Solving: Perplexity AI</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/evaluating-the-performance-a-comprehensive-review-of-the-samsung-galaxy-chrombook-2-next-level-productivity-on-the-move/"><u>Evaluating the Performance: A Comprehensive Review of The Samsung Galaxy Chrombook 2 - Next-Level Productivity On-The-Move</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-vivo-y78-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Vivo Y78 5G to Another | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/pioneering-minds-when-ai-entered-our-world/"><u>Pioneering Minds: When AI Entered Our World</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/side-by-side-comparison-how-myai-outperforms-bing-chat-across-8-crucial-aspects-in-social-media-platforms/"><u>Side-by-Side Comparison: How MyAI Outperforms Bing Chat Across 8 Crucial Aspects in Social Media Platforms</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-to-stop-final-fantasy-xv-from-freezing-on-pc/"><u>Troubleshooting Steps to Stop Final Fantasy XV From Freezing on PC</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-unveiling-14-dynamic-text-animation-samples-for-2024/"><u>[New] Unveiling 14 Dynamic Text Animation Samples for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-elevate-your-meetings-with-zooms-filter-capabilities/"><u>[Updated] In 2024, Elevate Your Meetings with Zoom's Filter Capabilities</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-real-time-media-streamers-app-overview/"><u>[Updated] Real-Time Media Streamer's App Overview</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/a-users-handbook-corrective-measures-for-a-malfunctioning-paradox-launcher/"><u>A User’s Handbook: Corrective Measures for a Malfunctioning Paradox Launcher</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/best-free-and-premium-game-trailer-creators-top-17-picks-for-aspiring-gamers/"><u>Best Free & Premium Game Trailer Creators: Top 17 Picks for Aspiring Gamers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/complete-guide-erasing-all-records-of-conversations-with-chatgpt/"><u>Complete Guide: Erasing All Records of Conversations with ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/crafting-unique-narratives-with-chatgpt-techniques-for-developing-a-custom-style/"><u>Crafting Unique Narratives with ChatGPT: Techniques for Developing a Custom Style</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-world-of-chatgpt-shared-links-and-their-working-principles/"><u>Exploring the World of ChatGPT Shared Links and Their Working Principles</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exporting-your-gpt-powered-communication-logs/"><u>Exporting Your GPT-Powered Communication Logs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-verify-if-chatgpt-is-currently-operational-5-effective-methods/"><u>How to Verify if ChatGPT Is Currently Operational: 5 Effective Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6-without-passcode-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 6 Without Passcode?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-it-secure-to-use-third-party-chatgpt-tools-as-browser-addons/"><u>Is It Secure to Use Third-Party ChatGPT Tools as Browser Addons?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-ethernet-options-how-cat5-and-cat6-cables-compare/"><u>Navigating Ethernet Options: How Cat5 and Cat6 Cables Compare</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/notion-ai-vs-chatgpt-which-is-the-best-generative-ai-tool/"><u>Notion AI Vs. ChatGPT: Which Is the Best Generative AI Tool?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/real-world-uses-for-chatgpt-that-you-should-know-about-now/"><u>Real-World Uses for ChatGPT That You Should Know About Now</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-implemented-for-energetic-fluctuations-at-connection-node/"><u>Solution Implemented for Energetic Fluctuations at Connection Node</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-fixing-windows-error-0xc0000001-quickly/"><u>Understanding & Fixing Windows Error 0xC0000001 Quickly</u></a></li>
 </ul></div>
 

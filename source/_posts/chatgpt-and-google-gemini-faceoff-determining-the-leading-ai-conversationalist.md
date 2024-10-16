@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT and Google Gemini Faceoff: Determining the Leading AI Conversationalist"
-date: 2024-09-12T21:45:47.515Z
-updated: 2024-09-17T18:39:19.496Z
+date: 2024-10-09T16:32:14.129Z
+updated: 2024-10-16T01:10:18.945Z
 tags:
   - chatgpt
   - open-ai
@@ -66,6 +66,13 @@ ChatGPT also cracked the problem as well.
 
 ![ChatGPT solves maths problem on productivity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-solves-maths-problem-on-productivity.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Moving on, we asked both chatbots to solve**8/a-1 = 20/3a-1** , a fairly straightforward math problem with a surprisingly high failure rate among AI chatbots. ChatGPT was able to solve it, providing a correct answer of**\-3** at the first attempt.
 
 ![ChatGPT solves a math problem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-solves-a-math-problem.jpg)
@@ -75,6 +82,13 @@ ChatGPT also cracked the problem as well.
 ![Claude AI solves a math problem step-by-step](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-solves-a-math-problem-step-by-step.jpg)
 
  We tried a few more math problems. While both chatbots got it right on the first try in some cases, in several instances, Claude AI needed a second or third attempt to provide the right response. In terms of math skills, we'll give the crown to ChatGPT.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ChatGPT vs. Claude AI: Creativity
 
@@ -94,6 +108,13 @@ ChatGPT also cracked the problem as well.
 
  After trying out a few more creative tasks, Claude AI seemed to excel in writing-related tasks and was able to write more natural-sounding content like a human writer would do. Although[ChatGPT was better at overcoming more complex creative tasks](https://www.makeuseof.com/creative-ways-to-use-chatgpt-openai/) , it sometimes couldn't shake off that AI chatbot feeling in the text it generated. Our verdict? Both ChatGPT and Claude AI are creative in their own right.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ChatGPT vs. Claude AI: Coding Skills
 
  Just like math skills, coding skills are another very important metric for judging the abilities of an AI chatbot. While the majority of users will probably never[use a chatbot for coding](https://www.makeuseof.com/chatgpt-programming-practical-uses/) , there are significant underlying implications for a chatbot's abilities to write and understand code proficiently.
@@ -105,10 +126,10 @@ ChatGPT also cracked the problem as well.
 ![to-do list app by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/to-do-list-app-by-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Moving on to Claude AI, the chatbot wrote clearly intelligible code. The structure and logic all seemed fine. Unfortunately, despite repeated attempts, Claude AI kept missing some critical logic to make the code actually run on a browser. It's a fail on this one.
@@ -116,19 +137,6 @@ ChatGPT also cracked the problem as well.
  After Claude AI failed the last test, we tried a different kind of coding task, one that was more about analyzing code and less about writing new code. We uploaded five PHP files that represent the complete backend for a website and asked both Claude AI and ChatGPT where we would need to edit in all the uploaded files to ensure we get a mail once a new user registers on the site.
 
 ![Claude AI analyzing multiple PHP files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-analyzing-multiple-php-files.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Surprisingly, ChatGPT, despite seemingly having superior coding skills, failed at this despite repeated attempts. Claude AI, on the other hand, was able to analyze the code proficiently while identifying the right places that needed to be edited to achieve the desired results.
 
@@ -153,5 +161,24 @@ ChatGPT also cracked the problem as well.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-pro-level-strategies-for-remote-audio-capture/"><u>[New] In 2024, Pro-Level Strategies for Remote Audio Capture</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-eyecapture-master-series-version-x/"><u>[Updated] 2024 Approved EyeCapture Master Series - Version X</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-steps-to-sign-in-with-google-meet-laptop-and-mobile/"><u>[Updated] In 2024, Steps to Sign-In with Google Meet (Laptop & Mobile)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boost-your-apple-watchs-battery-performance-top-8-essential-settings-tweaks-revealed-tips-from-zdnet/"><u>Boost Your Apple Watch's Battery Performance: Top 8 Essential Settings Tweaks Revealed - Tips From ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/choosing-between-ipad-pro-and-macbook-air-a-comparative-guide-to-find-your-ideal-gadget-technology-review/"><u>Choosing Between iPad Pro and MacBook Air: A Comparative Guide to Find Your Ideal Gadget Technology Review</u></a></li>
+<li><a href="https://win-guides.techidaily.com/durchbrechen-sie-die-barriere-beheben-von-error-code-0x81000033-mit-6-schritten/"><u>Durchbrechen Sie Die Barriere: Beheben Von Error Code 0X81000033 Mit 6 Schritten</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/get-ahead-with-the-new-apple-watch-series-10-prep-for-release-now-and-discover-top-money-saving-strategies-zdnet/"><u>Get Ahead with the New Apple Watch Series 10 - Prep for Release Now and Discover Top Money-Saving Strategies | ZDNET</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-poco-c65-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Poco C65 Is Unlocked</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/integrating-icloud-note-management-into-your-linux-system-expert-tips/"><u>Integrating iCloud Note Management Into Your Linux System - Expert Tips</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-apple-subscription-worth-your-money-analyst-predicts-charging-up-to-20month/"><u>Is Apple Subscription Worth Your Money? Analyst Predicts Charging Up To $20/Month</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/multi-lens-modifiers-for-creative-video-effects-for-2024/"><u>Multi-Lens Modifiers for Creative Video Effects for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-latest-nvidia-quadro-rtx-8000-driver-installation-for-windows-operating-systems-win-11-8-7/"><u>Step-by-Step Guide: Latest NVIDIA Quadro RTX 8000 Driver Installation for Windows Operating Systems (Win 11, 8, 7)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-setting-up-and-utilizing-chatgpt-add-ons/"><u>Step-by-Step Guide: Setting Up & Utilizing ChatGPT Add-Ons</u></a></li>
+<li><a href="https://blog-min.techidaily.com/ultimate-troubleshooting-tips-successfully-hooking-up-your-xbox-controller-to-a-personal-computer/"><u>Ultimate Troubleshooting Tips: Successfully Hooking Up Your Xbox Controller to a Personal Computer</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-apples-quiet-revolution-how-a-modest-ai-feature-set-to-dominate-at-wwdc-insights/"><u>Unveiling Apple's Quiet Revolution: How a Modest AI Feature Set to Dominate at WWDC | Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-mystery-can-you-detect-when-an-apple-airtag-is-following-your-steps-tips-and-tricks/"><u>Unveiling the Mystery: Can You Detect When an Apple AirTag Is Following Your Steps? - Tips & Tricks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/upgrading-your-smartphone-is-the-iphone-16-pro-a-worthy-successor-to-the-iphone-n-pro-insights-zdnet/"><u>Upgrading Your Smartphone: Is the iPhone 16 Pro a Worthy Successor to the iPhone N Pro? Insights | ZDNET</u></a></li>
+</ul></div>
 

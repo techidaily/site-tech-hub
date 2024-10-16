@@ -1,7 +1,7 @@
 ---
 title: How Generative AI Transforms Searches & Identifying Key Players in Business Adoption
-date: 2024-09-14T18:24:14.189Z
-updated: 2024-09-18T02:52:36.822Z
+date: 2024-10-10T19:08:50.563Z
+updated: 2024-10-15T22:32:41.966Z
 tags:
   - chatgpt
   - open-ai
@@ -56,6 +56,13 @@ Close
 
  Given this precedent, works that aren't strictly made by a human are ineligible for copyright; unless the creator can sufficiently prove that they set up the situation in which the non-human entity created the piece.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## An Example of AI Copyright Rejection
 
  The US Copyright Office says that any work must be human-made to be copyrightable, which means you cannot copyright AI-generated work. This was proven in late 2022 when the comic book Zarya of the Dawn's copyright protection was revoked.
@@ -63,6 +70,13 @@ Close
  Although the USCO issued a copyright in September 2022, it said it did it in error. When it came to light that the comic book was produced using MidJourney AI, its copyright protection was revoked.
 
  This aligns with its decision to deny copyright to Steven Thaler, who created the AI-generated painting A Recent Entrance to Paradise, which was denied copyright in 2019.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is AI Work Non-Copyrightable?
 
@@ -75,10 +89,10 @@ Close
  However, if the user simply uses AI as a tool—i.e., its output is used as a base for the final product—then the work could be considered for copyright. While this somewhat solves the issue of using AI tools to create art, it also opens another can of worms.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Issues With AI-Generated Work
@@ -86,10 +100,16 @@ Close
 ![A Recent Entrance to Paradise](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/a_recent_entrance_to_paradise.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Image Credit: Steven Thaler and the Creativity Machine AI/[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:A%5FRecent%5FEntrance%5Fto%5FParadise.jpg#:~:text=Licensing,in%20whom%20copyright%20is%20vested.)
@@ -125,5 +145,19 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-speed-loading-windows-photo-displayer/"><u>[Updated] Ultimate Speed-Loading Windows Photo Displayer</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-unified-insight-the-easeus-perspective/"><u>[Updated] Unified Insight The EaseUS Perspective</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-review-of-the-keychron-q14-max-a-truly-universal-solution-for-all-hands/"><u>Comprehensive Review of the Keychron Q14 Max: A Truly Universal Solution for All Hands</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exiting-the-chatgpt-world-a-how-to/"><u>Exiting the ChatGPT World: A How-To</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-xiaomi-redmi-k70e-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Xiaomi Redmi K70E Devices | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/maximale-komprimierung-von-hochauflosenden-videos-tipps-zur-verringerung-ihrer-dateigrossen-um-90/"><u>Maximale Komprimierung Von Hochauflösenden Videos: Tipps Zur Verringerung Ihrer Dateigrößen Um 90%</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-to-restoring-your-google-map-experience-when-problems-arise/"><u>Step-by-Step Guide to Restoring Your Google Map Experience when Problems Arise</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-finding-out-your-java-versions-on-windows-11/"><u>Step-by-Step Guide: Finding Out Your Java Versions on Windows 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-switching-keyboard-layouts-in-windows-11/"><u>Step-by-Step Guide: Switching Keyboard Layouts in Windows 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-updating-your-applications-in-windows-11/"><u>Step-by-Step Guide: Updating Your Applications in Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-on-building-a-homemade-projector-screen/"><u>Step-by-Step Tutorial on Building a Homemade Projector Screen</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-discovering-all-saved-pictures-in-windows-11-system/"><u>Step-by-Step Tutorial: Discovering All Saved Pictures in Windows 11 System</u></a></li>
+</ul></div>
 

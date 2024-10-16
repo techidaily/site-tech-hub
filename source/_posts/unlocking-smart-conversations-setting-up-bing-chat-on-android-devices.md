@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Smart Conversations: Setting Up Bing Chat on Android Devices"
-date: 2024-09-15T23:19:00.242Z
-updated: 2024-09-17T18:46:54.601Z
+date: 2024-10-12T05:46:09.456Z
+updated: 2024-10-16T00:14:47.319Z
 tags:
   - chatgpt
   - open-ai
@@ -58,7 +58,21 @@ thumbnail: https://thmb.techidaily.com/f43e24b5652ac6ca705d21d4283165ba384a70210
 
 ![Screenshot Bard  CO2 Levels with other drafts showing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-bard-co2-levels-with-other-drafts-showing.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The main takeaway from this section is the importance of checking the accuracy of the information received from any chatbot.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bing Chat vs. Google Bard: Ease of Use
 
@@ -71,10 +85,10 @@ thumbnail: https://thmb.techidaily.com/f43e24b5652ac6ca705d21d4283165ba384a70210
 ![Bard responding to requests for bullet points](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bard-responding-to-requests-for-bullet-points.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Whereas Bing Chat handled the request perfectly and responded with some bullet points.
@@ -84,6 +98,13 @@ thumbnail: https://thmb.techidaily.com/f43e24b5652ac6ca705d21d4283165ba384a70210
 We did manage to get a response from Bard by rewording the prompt.
 
 ![Screenshot of bard response to reworded essay prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-bard-response-to-reworded-essay-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  As both platforms are going through rapid development, the user experience will continue to improve.
 
@@ -101,13 +122,6 @@ We did manage to get a response from Bard by rewording the prompt.
 
 ![confused-880735_1920](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/confused-880735_1920.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This is a case of choosing the right tool for the right job. When we compare the performance of both platforms, Bing Chat seems to edge it. However, there are some provisos to consider. The first is that the Microsoft offering is a more complete product, while Bard is still rough around the edges.
 
  But don't rule Bard out. We liked the more fact-driven approach that Google Bard took; the inclusion of ppm levels of CO2 was closer to the spirit of the original question than the Bing response. This is what we would expect to see, given its underlying architecture.
@@ -121,10 +135,10 @@ We did manage to get a response from Bard by rewording the prompt.
  They're free to use, so we advise trying them both. These are impressive tools that are changing the way we use the internet.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Era of the Chatbot Is Upon Us
@@ -146,5 +160,19 @@ We did manage to get a response from Bard by rewording the prompt.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-cutting-edge-creativity-unleashed-by-magix-vpx/"><u>[New] Cutting-Edge Creativity Unleashed by Magix VPX</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-crest-of-crafts-review-pinnacle-studio-evaluation/"><u>[Updated] Crest of Crafts Review Pinnacle Studio Evaluation</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-managing-who-accesses-your-youtube-videography-for-2024/"><u>[Updated] Managing Who Accesses Your YouTube Videography for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-invisible-command-shortcuts-for-iphones-and-boost-your-devices-functionality-zdnet/"><u>Discover Invisible Command Shortcuts for iPhones and Boost Your Device's Functionality [ZDNet]</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/garagebands-easy-way-to-dull-down-noise-levels/"><u>Garageband's Easy Way to Dull Down Noise Levels</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-nokia-105-classic-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Nokia 105 Classic Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/indispensable-ios-16-capabilities-for-everyday-life-including-step-by-step-tutorials-digitaledgez/"><u>Indispensable iOS 16 Capabilities for Everyday Life, Including Step-by-Step Tutorials | DigitalEdgeZ</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-18-unbeatable-prime-day-discounts-on-laptops-from-leading-brands-like-hp-apple-and-razer-exclusive-offers/"><u>Top 18 Unbeatable Prime Day Discounts on Laptops From Leading Brands Like HP, Apple, and Razer - Exclusive Offers!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-new-possibilities-with-macos-15-the-ultimate-upgrade-list-for-apple-macbook-users/"><u>Unlock New Possibilities with MacOS 15: The Ultimate Upgrade List for Apple MacBook Users</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-a-step-by-step-approach-to-implementing-audio-volume-diminuation-for-2024/"><u>Updated A Step-by-Step Approach to Implementing Audio Volume Diminuation for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-top-cartoon-animation-creators-for-mobile-devices/"><u>Updated Top Cartoon Animation Creators for Mobile Devices</u></a></li>
+</ul></div>
 

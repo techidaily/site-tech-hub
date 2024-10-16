@@ -1,7 +1,7 @@
 ---
 title: Enhance Your Coding Experience with These 6 AI ChatGPT Extensions for VS Code
-date: 2024-09-11T18:19:24.028Z
-updated: 2024-09-18T03:54:16.794Z
+date: 2024-10-09T04:12:56.426Z
+updated: 2024-10-16T02:10:54.841Z
 tags:
   - chatgpt
   - open-ai
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/170a02146718886a24f76eaa0c0aba6ab58e23ece
 
 **Download:** WebChatGPT for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-advanced/lpfemeioodjbpieminkklglpmhlngfcn) |[Firefox](https://addons.mozilla.org/en-US/firefox/addon/web-chatgpt/) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. ChatGPT Prompt Genius
 
  ChatGPT can seem magical when you see screenshots of some of the answers it gives people. But those screenshots don't show the prompts users have typed to make ChatGPT better. Like[learning the best Google search operators](https://www.makeuseof.com/tag/best-google-search-tips-pdf/) , you need to know how to frame the right prompts for ChatGPT. And this extension can help.
@@ -71,10 +78,10 @@ thumbnail: https://thmb.techidaily.com/170a02146718886a24f76eaa0c0aba6ab58e23ece
 **Download:** ChatGPT Writer for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-writer-write-mail/pdnenlnelpdomajfejgapbdpmjkfpjkp/) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. YouTube Summary With ChatGPT
@@ -88,10 +95,10 @@ thumbnail: https://thmb.techidaily.com/170a02146718886a24f76eaa0c0aba6ab58e23ece
 ![using the 'transcript and summary box' from youtube summary extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/youtube-summary-extension.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The extension also has a button to view an AI-generated summary of the video. Clicking this takes you to ChatGPT, with the transcript already typed in the prompt. All you have to do now is prompt ChatGPT to summarize the text, and you'll get an instant summary.
@@ -99,13 +106,6 @@ thumbnail: https://thmb.techidaily.com/170a02146718886a24f76eaa0c0aba6ab58e23ece
  You can also add further prompts for more details regarding specific parts of the video without having to watch the full thing.
 
 **Download:** YouTube Summary With ChatGPT for[Chrome](https://chrome.google.com/webstore/detail/youtube-summary-with-chat/nmmicjeknamkfloonkhhcjmomieiodli) |[Safari](https://apps.apple.com/us/app/glasp-social-web-highlighter/id1605690124) (Free)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Talk-to-ChatGPT
 
@@ -137,6 +137,13 @@ thumbnail: https://thmb.techidaily.com/170a02146718886a24f76eaa0c0aba6ab58e23ece
 
 **Download:** Perplexity AI for[Chrome](https://chrome.google.com/webstore/detail/perplexity-ai-companion/hlgbcneanomplepojfcnclggenpcoldo) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ChatGPT Is Awesome, But Be Realistic…
 
  With these extensions including search results in ChatGPT, showing you how to use the right prompts, and using AI to improve YouTube or Gmail, you might think it's time to offload a majority of your work to ChatGPT. But take a breath.
@@ -156,5 +163,23 @@ thumbnail: https://thmb.techidaily.com/170a02146718886a24f76eaa0c0aba6ab58e23ece
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-unveiling-the-magic-behind-shooting-images-with-iphones-hdr/"><u>[Updated] In 2024, Unveiling the Magic Behind Shooting Images with iPhone’s HDR</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-rethink-your-youtube-videos-with-these-non-youtube-edits-for-2024/"><u>[Updated] Rethink Your YouTube Videos with These Non-Youtube Edits for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/behind-the-scenes-a-detailed-guide-to-seven-leading-gpt-4-integrated-app-services/"><u>Behind The Scenes: A Detailed Guide to Seven Leading GPT-4 Integrated App Services</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/epson-connectivity-restored/"><u>Epson Connectivity Restored</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-impact-of-opening-chatgpt-and-whisper-apis-on-your-business-strategy/"><u>Exploring the Impact of Opening ChatGPT & Whisper APIs on Your Business Strategy</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/harnessing-chatgpt-for-engaging-presentation-creation/"><u>Harnessing ChatGPT for Engaging Presentation Creation</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/head-to-head-battle-comparing-the-features-of-nintendo-switch-lite-and-oled-models/"><u>Head-to-Head Battle: Comparing the Features of Nintendo Switch Lite and OLED Models</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-xiaomi-redmi-12-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Xiaomi Redmi 12? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-spark-20-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Tecno Spark 20 PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-chatgpt-innovative-tips-for-achieving-accurate-language-translations/"><u>Navigating ChatGPT: Innovative Tips for Achieving Accurate Language Translations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-safe-implementations-integrating-chatgpt-into-mindfulness-and-counseling-services/"><u>Navigating Safe Implementations: Integrating ChatGPT Into Mindfulness & Counseling Services</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722987106962-quick-and-effective-ways-to-fix-your-fortnite-loading-woes/"><u>Quick & Effective Ways to Fix Your Fortnite Loading Woes!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-repair-tips-dealing-with-the-infamous-code-43-error-on-your-nvidia-gtx-950-windows-10/"><u>Step-by-Step Repair Tips: Dealing with the Infamous 'Code 43' Error on Your Nvidia GTX 950 (Windows 10)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-battle-of-brains-unveiling-the-distinctions-between-strong-and-weak-ai/"><u>The Battle of Brains: Unveiling the Distinctions Between Strong and Weak AI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-innovative-use-of-gpt-in-industry-today/"><u>The Innovative Use of GPT in Industry Today</u></a></li>
+</ul></div>
 

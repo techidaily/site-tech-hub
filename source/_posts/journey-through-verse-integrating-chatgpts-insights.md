@@ -1,7 +1,7 @@
 ---
 title: "Journey Through Verse: Integrating ChatGPT's Insights"
-date: 2024-09-15T01:27:57.484Z
-updated: 2024-09-17T20:29:56.760Z
+date: 2024-10-14T02:48:24.296Z
+updated: 2024-10-15T17:32:00.318Z
 tags:
   - chatgpt
   - open-ai
@@ -38,9 +38,23 @@ thumbnail: https://thmb.techidaily.com/c3853b005ad6636456539b898eb59cf75f875d556
 
  For instance, if you use derogatory words when addressing[Microsoft's GPT-powered Bing AI](https://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/) , it will respond by saying, "I'm sorry, but I don't appreciate being spoken to that way." Similarly, ChatGPT will tell you to "refrain from using offensive language" because it's against its content policy or that it's "sorry to hear you're upset" but that "as an AI language model, it doesn't have feelings or emotions."
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Should You Teach Children to Be Polite Using AI?
 
 ![child looking at laptop headphones studying](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/sites-teach-children-online-safety-featured.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  A few tech companies have AI products that encourage kids to be polite. A good example is Amazon's[Echo Dot Kids Edition](https://www.makeuseof.com/is-echo-dot-kids-edition-worth-buying/) , which includes a**Magic Word** feature to persuade children to be polite. In 2018, Google also introduced the[Pretty Please feature in Google Assistant](https://www.makeuseof.com/tag/new-google-assistant-features-holidays/) that could return the favor if you say "thank you" or "please."
 
@@ -48,9 +62,23 @@ thumbnail: https://thmb.techidaily.com/c3853b005ad6636456539b898eb59cf75f875d556
 
  However, there is a possibility that children could think that AI has feelings just like humans if you reinforce politeness when they're talking to AI.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Can AI Be Rude to You?
 
 ![bing app and open ai app on smartphone screen feature](https://thmb.techidaily.com/9ff4b5531529224a97af11fd7b31d3496bf7818fcfc9f8eeee6fcb2c56355c7c.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Image Credit: Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/vancouver-canada-feb-15-2023-microsoft-2262942895)
 
@@ -59,13 +87,6 @@ thumbnail: https://thmb.techidaily.com/c3853b005ad6636456539b898eb59cf75f875d556
  AI chatbots also present biased opinions since they've learned from humans, and, at times,[AI will hallucinate answers](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/) and deliver them with confidence. However, we're still in the early days of AI adoption, and leading tech companies like OpenAI and Microsoft acknowledge that AI systems will improve with more user feedback. GPT-4 is testament to that improvement since it has safer responses than GPT 3.5,[among other differences](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained/) .
 
  On the other hand, you can[set up Alexa to swear](https://www.makeuseof.com/how-to-make-alexa-swear/) profanities if you want it to be rude.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Interact With AI How You Want
 
@@ -86,5 +107,20 @@ thumbnail: https://thmb.techidaily.com/c3853b005ad6636456539b898eb59cf75f875d556
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ed-how-to-sculpt-the-perfect-youtube-moniker-tips-and-tricks/"><u>[Updated] How to Sculpt the Perfect YouTube Moniker Tips & Tricks</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-maintain-proper-aspect-ratio-for-tweeted-movies/"><u>[Updated] Maintain Proper Aspect Ratio for Tweeted Movies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/avoiding-surveillance-is-a-vpn-necessary-for-gpt/"><u>Avoiding Surveillance: Is a VPN Necessary for GPT?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparing-the-cutting-edge-of-conversational-ai-claude-pro-against-microsofts-chatgptplus/"><u>Comparing the Cutting Edge of Conversational AI: Claude Pro Against Microsoft's ChatGPT+</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-ultimate-list-of-5-amazing-ai-prompting-engines-for-advanced-ai-interaction/"><u>Discover the Ultimate List of 5 Amazing AI Prompting Engines for Advanced AI Interaction</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/exploring-microsofts-latest-step-launch-of-test-ad-campaigns-on-windows-11-home-screen/"><u>Exploring Microsoft's Latest Step: Launch of Test Ad Campaigns on Windows 11 Home Screen</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-google-elevates-linguistics-with-its-newly-launched-palm-2-model/"><u>How Google Elevates Linguistics with Its Newly Launched PaLM 2 Model</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-verizon-iphone-14-plus-by-drfone-ios/"><u>How to Unlock Verizon iPhone 14 Plus</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-nubia-z50-ultra-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Nubia Z50 Ultra FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-elite-costless-mp3-collision-system-2023s-recommended-choices-for-2024/"><u>New Elite Costless MP3 Collision System 2023S Recommended Choices for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ransomware-a-decryption-tale-with-mobile-savings/"><u>Ransomware: A Decryption Tale with Mobile Savings</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/save-time-with-10-essential-chatgpt-inspired-pdf-automation-extensions/"><u>Save Time with 10 Essential ChatGPT-Inspired PDF Automation Extensions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/these-7-apps-are-integrating-gpt-4-but-how-do-they-work/"><u>These 7 Apps Are Integrating GPT-4, But How Do They Work?</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering iOS 18: A Step-by-Step Guide to Personalizing Your iPhone's Control Center - Tips"
-date: 2024-10-05T21:14:02.771Z
-updated: 2024-10-09T21:52:44.326Z
+date: 2024-10-11T01:52:06.091Z
+updated: 2024-10-15T18:44:00.828Z
 tags:
   - apple
 categories:
@@ -30,6 +30,13 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
@@ -37,10 +44,10 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -58,10 +65,10 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -71,10 +78,10 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -84,13 +91,6 @@ You can easily add a control to any screen that has available space. Pick a scre
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
 
@@ -134,20 +134,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-enhance-visibility-11-must-know-youtube-video-seo-tactics/"><u>[New] In 2024, Enhance Visibility 11 Must-Know YouTube Video SEO Tactics</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-ultimate-watchlist-youtubes-greatest-hits/"><u>[Updated] 2024 Approved Ultimate Watchlist YouTube's Greatest Hits</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/bard-or-bing-chat-deciding-on-the-leading-conversational-ai/"><u>Bard or Bing Chat: Deciding on the Leading Conversational AI</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/blade-e-flite-mcx2-the-ultimate-rtf-rc-helicopter-for-enthusiasts-and-beginners-alike/"><u>Blade E-Flite mCX2 - The Ultimate RTF RC Helicopter for Enthusiasts and Beginners Alike</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/can-advanced-ai-systems-like-chatgpt-create-humor-that-truly-entertains-us/"><u>Can Advanced AI Systems Like ChatGPT Create Humor that Truly Entertains Us?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-as-a-tool-for-fitness-coaches-crafting-custom-exercise-routines-easily/"><u>ChatGPT as a Tool for Fitness Coaches: Crafting Custom Exercise Routines Easily</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-unveils-its-ios-capabilities/"><u>ChatGPT Unveils Its iOS Capabilities</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/collaboration-in-a-connected-world-mastering-chatgpts-six-uses/"><u>Collaboration in a Connected World: Mastering ChatGPT's Six Uses</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-xc0f1103f-issue-with-geforce-now-on-windows/"><u>Fixing XC0F1103F Issue with GeForce Now on Windows</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-itel-p40-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Itel P40 Device</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-storytelling-6-gpt-powered-strategies/"><u>Mastering Storytelling: 6 GPT-Powered Strategies</u></a></li>
-<li><a href="https://fox-that.techidaily.com/reviving-your-frozen-iphone-a-guide-to-fixing-it-without-functional-buttons/"><u>Reviving Your Frozen iPhone: A Guide to Fixing It without Functional Buttons</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionary-artificial-intelligence-set-to-transform-do-it-yourself-sector-with-arrival-of-gpt-4/"><u>Revolutionary Artificial Intelligence Set to Transform Do-It-Yourself Sector with Arrival of GPT-4</u></a></li>
-<li><a href="https://driver-install.techidaily.com/smooth-and-quick-gtx-760-drivers-rollouts/"><u>Smooth & Quick GTX 760 Drivers Rollouts</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-kya-aap-video-call-kar-sakty-ho-translate-any-hindi-video-into-english/"><u>Updated 2024 Approved Kya Aap Video Call Kar Sakty Ho Translate Any Hindi Video Into English</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-passive-watchers-to-profit-youtube-monetization/"><u>[New] In 2024, From Passive Watchers To Profit YouTube Monetization</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/building-successful-ai-search-tools-requires-establishing-trust-how-it-remains-elusive/"><u>Building Successful AI Search Tools Requires Establishing Trust: How It Remains Elusive</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-insights-uncharted-wonders-in-windows-11/"><u>Essential Insights: Uncharted Wonders in Windows 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-peak-period-the-ultimate-guide-to-smartphones-golden-age/"><u>Exploring the Peak Period: The Ultimate Guide to Smartphone's Golden Age</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/handling-a-mysterious-journey-steps-to-take-if-your-lost-airtag-keeps-up-with-you/"><u>Handling a Mysterious Journey: Steps to Take if Your Lost AirTag Keeps Up with You</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-the-smallest-palms-struggle-with-the-mighty-google-pixel-9-pro-fold/"><u>How the Smallest Palms Struggle with the Mighty Google Pixel 9 Pro Fold</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/make-ipados-unstoppable-discover-apples-path-to-ultimate-multitasking-power-in-3-steps/"><u>Make iPadOS Unstoppable: Discover Apple's Path to Ultimate Multitasking Power in 3 Steps</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-filmora-free-trial-vs-torrent-which-one-is-safe-and-legit/"><u>New In 2024, Filmora Free Trial vs Torrent Which One Is Safe and Legit?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/newly-released-android-15-beta-phase-4-is-here-for-testing/"><u>Newly Released Android 15 Beta Phase 4 Is Here for Testing</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/step-by-step-tutorial-on-reflecting-iphone-display-onto-sharp-tvs/"><u>Step-by-Step Tutorial on Reflecting iPhone Display Onto Sharp TVs</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-lava-yuva-2-pro-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-realme-c55-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-top-10-podcasting-audio-to-text-transcription-software/"><u>Updated Top 10 Podcasting Audio to Text Transcription Software</u></a></li>
 </ul></div>
 

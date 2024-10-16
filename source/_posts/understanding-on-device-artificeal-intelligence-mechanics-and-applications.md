@@ -1,7 +1,7 @@
 ---
 title: "Understanding On-Device Artificeal Intelligence: Mechanics & Applications"
-date: 2024-09-16T22:04:03.759Z
-updated: 2024-09-17T18:32:57.250Z
+date: 2024-10-12T19:12:40.188Z
+updated: 2024-10-16T01:59:54.536Z
 tags:
   - chatgpt
   - open-ai
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/5961427253350c1b74e1650e9c2f8a99858d6dfe3
 
  The chatbot is also built into the Edge browser, where you can access it via the homepage.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Skype Gets AI Features
 
  In addition to those apps, Microsoft has added AI-enhanced Bing support to Skype, the venerable voice and chat app. The idea here is not to get the AI to have conversations on your behalf, but to add similar search capabilities to group messages.
@@ -47,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/5961427253350c1b74e1650e9c2f8a99858d6dfe3
 > "If your family is chatting about the next family reunion, you can simply ask Bing for suggestions on travel destinations, expected weather forecasts and interesting events around your time of travel, and everyone in the chat will get access to the results."
 
  To access this feature, you simply need to add Bing to your group chats as you would any other contact. It's available worldwide and can respond in over 100 languages.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Use the New ChatGPT Bing Apps
 
@@ -59,16 +73,10 @@ thumbnail: https://thmb.techidaily.com/5961427253350c1b74e1650e9c2f8a99858d6dfe3
 **Download:** Skype for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2022079/https://play.google.com/store/apps/details?id=com.skype.raider) |[iOS](https://apps.apple.com/us/app/skype/id304878510) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Test Out AI Chat on Android and iPhone Today
@@ -92,5 +100,21 @@ thumbnail: https://thmb.techidaily.com/5961427253350c1b74e1650e9c2f8a99858d6dfe3
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guidance-for-effortless-addition-of-youtube-playlists-to-your-site/"><u>[New] 2024 Approved Guidance for Effortless Addition of YouTube Playlists to Your Site</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-master-strategies-for-skyrocketing-youtube-follows/"><u>[New] Master Strategies for Skyrocketing YouTube Follows</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-educators-manual-for-integrating-videos-in-instruction/"><u>[Updated] 2024 Approved Educator's Manual for Integrating Videos in Instruction</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-fb-video-direction-whats-the-right-angle/"><u>[Updated] 2024 Approved FB Video Direction What's the Right Angle?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-accessing-fb-video-on-apple-tv-step-by-step-guide/"><u>[Updated] Accessing FB Video on Apple TV Step by Step Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-efficiently-add-your-own-look-to-youtube-shorts-via-simple-steps-for-2024/"><u>[Updated] Efficiently Add Your Own Look to YouTube Shorts via Simple Steps for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/elbphilharmonie-concert-hall-extension-hamburg-germany/"><u>Elbphilharmonie Concert Hall Extension, Hamburg, Germany</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exclusive-analysis-of-the-satechi-pro-hub-max-on-zdnet-enhancing-your-macbook-experience-like-never-before/"><u>Exclusive Analysis of the Satechi Pro Hub Max on ZDNet: Enhancing Your MacBook Experience Like Never Before</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-enhancements-in-iphone-16-universal-adoption-of-ultra-thin-bezels-and-revolutionary-spatial-recording-tech-insights-at-zdnet/"><u>Exploring Enhancements in iPhone 16: Universal Adoption of Ultra Thin Bezels & Revolutionary Spatial Recording | Tech Insights at ZDNET</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-strategic-planning-for-virtual-teams-mastering-slack-and-filmora-coordination/"><u>In 2024, Strategic Planning for Virtual Teams Mastering Slack & Filmora Coordination</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leaving-apple-for-googles-os-simplifying-your-shift-with-ios-to-android-assistance-zdnet-exclusive/"><u>Leaving Apple for Google's OS: Simplifying Your Shift with iOS-to-Android Assistance - ZDNet Exclusive</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/october-unveiling-expected-for-advanced-apple-ai-capabilities-new-intel-from-industry-sources/"><u>October Unveiling Expected for Advanced Apple AI Capabilities - New Intel From Industry Sources</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/stay-connected-the-ultimate-guide-to-messaging-loved-ones-via-your-apple-watch-tips-and-tricks/"><u>Stay Connected: The Ultimate Guide to Messaging Loved Ones via Your Apple Watch - Tips & Tricks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-trending-amazon-offers-in-september-2024-find-the-hottest-bargains/"><u>Top Trending Amazon Offers in September 2024: Find the Hottest Bargains</u></a></li>
+</ul></div>
 

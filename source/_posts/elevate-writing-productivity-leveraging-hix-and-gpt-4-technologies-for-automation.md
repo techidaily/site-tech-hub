@@ -1,7 +1,7 @@
 ---
 title: "Elevate Writing Productivity: Leveraging HIX and GPT- 4 Technologies for Automation"
-date: 2024-09-15T20:03:11.856Z
-updated: 2024-09-17T16:08:47.738Z
+date: 2024-10-10T18:15:39.905Z
+updated: 2024-10-16T02:06:32.828Z
 tags:
   - chatgpt
   - open-ai
@@ -48,7 +48,21 @@ thumbnail: https://thmb.techidaily.com/243178c138d6204ad2bbeb47ec4cfcdba020958c1
 
 ![A gym routine generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-12-59-46.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The more context you provide your AI tool, the better of a response you'll receive.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2 Ask for More Information After Getting an Initial Answer
 
@@ -64,6 +78,13 @@ thumbnail: https://thmb.techidaily.com/243178c138d6204ad2bbeb47ec4cfcdba020958c1
 
  As a general rule of thumb, ask as many questions as you feel necessary to get all the information you're looking for. You may also want to determine[whether premium AI prompts are worth the money](https://www.makeuseof.com/should-you-buy-ai-prompts/) .
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3 Explain What Hasn't Worked When You've Prompted in the Past
 
  As you use AI prompting more frequently, you'll get a better idea of what does and doesn't work for you. You'll also learn which prompts are useful and which ones confuse the tool that you're using. Once you've become more familiar with AI, make sure that you clearly outline what hasn't worked before.
@@ -73,22 +94,15 @@ thumbnail: https://thmb.techidaily.com/243178c138d6204ad2bbeb47ec4cfcdba020958c1
  Besides mentioning what hasn't worked for you when prompting in the past, you may also wish to outline anything that has not worked with what you're trying to do. For example, if you're putting together a new workout regimen, you may want to talk about which foods you've noticed you have a negative reaction to before.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4 Don't Make Your AI Multitask
 
 ![chatgpt logo and message on smartphone feature](https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002a35f04201c966ce7066b460.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Ascannio/[Shutterstock](https://www.shutterstock.com/image-photo/chatgpt-chat-bot-screen-seen-on-2237655785)
 
@@ -97,13 +111,6 @@ thumbnail: https://thmb.techidaily.com/243178c138d6204ad2bbeb47ec4cfcdba020958c1
  Sometimes, you'll begin a prompt and realize you forgot to add further information. When this happens, stop or edit the current prompt and include those details before re-generating your answer.
 
  Once you've received one prompt's results, you can move on to the next one until you're happy with everything. Doing things this way might seem more time-consuming, but[single-tasking often improves productivity](https://www.makeuseof.com/master-single-tasking-using-technology-improve-productivity/) , and it's the same for your AI, too.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5 Tell Your AI Tool What You Don't Want in Your Answer
 
@@ -122,6 +129,13 @@ thumbnail: https://thmb.techidaily.com/243178c138d6204ad2bbeb47ec4cfcdba020958c1
  If you're using AI to create art, it's also a good idea to upload images that the AI tool can use as examples. Meanwhile, if you want to[use Photo AI](https://www.makeuseof.com/what-is-photo-ai/) or similar tools for pictures of yourself, uploading selfies, headshots, and other images will help you achieve what you want.
 
 [Some AI tools can even answer questions from your PDFs](https://www.makeuseof.com/ai-tools-answer-pdf/) if you want to get more clarity.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7 Mention Where You Want to Use Your Prompt Answers
 
@@ -146,5 +160,21 @@ thumbnail: https://thmb.techidaily.com/243178c138d6204ad2bbeb47ec4cfcdba020958c1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-how-to-download-youtube-videos-without-any-software/"><u>[Updated] In 2024, How to Download YouTube Videos without Any Software</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-rapidly-create-a-compelling-facebook-photo-group/"><u>[Updated] Rapidly Create a Compelling Facebook Photo Group</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ahead-of-the-curve-meta-quest-3-launches-pre-vision-pro-ai-capabilities-how-to-activate-them/"><u>Ahead of the Curve: Meta Quest 3 Launches Pre-Vision Pro AI Capabilities - How to Activate Them</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/breaking-down-the-latest-from-apples-let-loose-features-of-the-m4-ipad-pro-13-inch-ipad-air-and-apple-pencil-pro-insights-by-zdnet/"><u>Breaking Down the Latest From Apple's 'Let Loose': Features of the M4 iPad Pro, 13-Inch iPad Air & Apple Pencil Pro | Insights by ZDNET</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/bypassing-blocked-entry-effective-strategies-to-restore-access-to-your-external-storage-device/"><u>Bypassing Blocked Entry: Effective Strategies to Restore Access to Your External Storage Device</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensively-addressing-winservicesexe-concerns/"><u>Comprehensively Addressing Winservices.exe Concerns</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-strategies-boost-your-frames-in-escape-from-tarkov-a-professionals-top-6-fixes/"><u>Expert Strategies: Boost Your Frames in Escape From Tarkov – A Professional's Top 6 Fixes</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-oppo-reno-11f-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Oppo Reno 11F 5G without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-here-are-10-best-webm-to-mp4-converters-on-the-market-that-you-can-use-to-convert-video-from-webm-to-mp4-format/"><u>New In 2024, Here Are 10 Best WebM to MP4 Converters on the Market that You Can Use to Convert Video From WebM to MP4 Format</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/synergistic-tracking-why-combining-whoop-strap-and-apple-watch-benefits-serious-sports-enthusiasts/"><u>Synergistic Tracking: Why Combining Whoop Strap & Apple Watch Benefits Serious Sports Enthusiasts</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-importance-of-learning-german-or-french-for-international-affairs/"><u>The Importance of Learning: German or French for International Affairs?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-tablet-protectors-s-ultimate-ipad-air-case-guide-reviews/"><u>Top-Rated Tablet Protectors 'S Ultimate iPad Air Case Guide Reviews</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/vision-pro-upgrade-on-horizon-discover-apples-plans-for-innovative-respiration-tracking-technology-as-reported-by-zdnet/"><u>Vision Pro Upgrade on Horizon? Discover Apple's Plans for Innovative 'Respiration Tracking' Technology, as Reported by ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-apple-believes-iphones-dont-require-cases-examining-consumer-safety-and-brand-trustworthiness-wired/"><u>Why Apple Believes iPhones Don't Require Cases: Examining Consumer Safety and Brand Trustworthiness | Wired</u></a></li>
+</ul></div>
 

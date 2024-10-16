@@ -1,7 +1,7 @@
 ---
 title: "Fool's Errand of Intelligent Machines: Recognizing AI Hallucination"
-date: 2024-09-16T01:26:55.687Z
-updated: 2024-09-18T03:49:35.861Z
+date: 2024-10-12T04:32:35.543Z
+updated: 2024-10-15T23:20:04.806Z
 tags:
   - chatgpt
   - open-ai
@@ -50,24 +50,45 @@ thumbnail: https://thmb.techidaily.com/bef0ee80271c03bca8fa1ceeb9bd487dbcf95a1c3
 
  At the moment,[GPT-4 can describe images](https://www.makeuseof.com/best-new-gpt4-features-explained/) , but so far, there is currently no AI model that can comprehend videos like a human.[Self-driving vehicles](https://www.makeuseof.com/self-driving-cars-explained/) come close, but they're not completely autonomous and require sensors since they can't make sense of everything in their surrounding environment.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. The Visual Turing Test
 
 ![Various different AI-generated images made with DALL-E](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dall-e-ai-generated-image-gallery.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  According to a research paper published on[PNAS](https://www.pnas.org/doi/10.1073/pnas.1422953112) , the visual Turing test can be used to identify if you're talking to a human or an AI using image questionaries. It works like the Turing test, but instead of answering questions using texts, participants are shown images and expected to answer simple questions while thinking like a human. However, the[visual Turing test is different from CAPTCHAs](https://www.makeuseof.com/tag/how-do-captchas-work/) since all the answers are correct—but to pass the test, the AI must process the images similarly to a human.
 
  Beyond that, if an AI and a human are shown multiple images side by side and asked to identify realistic images, the human would have the cognitive ability to pass the test. This is because AI models find it difficult to distinguish images that don't look like they were taken in the real world. In fact, that's the reason why you can[identify AI-generated images](https://www.makeuseof.com/how-to-identify-ai-generated-image/) using anomalies that don't make sense.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. The Lovelace 2.0 Test
 
 ![robot holding a pencil pointing to a book](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/robot-holding-pencil-pointing-to-book-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The theory that a computer can't create original ideas beyond what it was programmed to do was first conceptualized by Ada Lovelace before the Turing test. However, Alan Turing objected to that theory arguing that AI can still surprise humans. It wasn't until 2001 that the guidelines for the Lovelace test were developed to tell apart an AI from a human—and, as per the[thekurzweillibrary](http://www.thekurzweillibrary.com/georgia-tech-professor-proposes-another-alternative-to-the-turing-test) the rules were later revised in 2014.
 
@@ -76,13 +97,6 @@ thumbnail: https://thmb.techidaily.com/bef0ee80271c03bca8fa1ceeb9bd487dbcf95a1c3
 ## 4\. Reverse Turing Test
 
 ![person using chatgpt on their laptop](https://thmb.techidaily.com/3681ab3fb1278f9c5e283b2684cc0a6da110630db6256e6386dbd78a8fb134b9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  How about the Turing test, but done in reverse? Instead of trying to find out if you're talking to a human, the objective of the[reverse Turing test](https://gist.github.com/rain-1/3bf56122b0ebeac929dff0f881ee8e4c) is to trick the AI into believing you're an AI. However, you also need another AI model to answer the same questions using text.
 
@@ -93,13 +107,6 @@ thumbnail: https://thmb.techidaily.com/bef0ee80271c03bca8fa1ceeb9bd487dbcf95a1c3
 ## 5\. AI Classification Framework
 
 ![A man playing chess with an AI robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ai-chess.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  According to the AI classification framework developed by[Chris Saad](https://docsend.com/view/et7755yasfpj3iy6) , the Turing test is just one evaluation method to know if you're talking to an AI. More succinctly, the AI classification framework is based on the theory of multiple intelligence, which requires human intelligence to satisfy at least eight different criteria, which include: musical-rhythm, logical-mathematical intelligence, visual identification, emotional intelligence, self-reflective intelligence, existential thinking ability, and body movement.
 
@@ -124,5 +131,22 @@ thumbnail: https://thmb.techidaily.com/bef0ee80271c03bca8fa1ceeb9bd487dbcf95a1c3
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-ultimate-uniting-upskill-utopia/"><u>[New] 2024 Approved Ultimate Uniting Upskill Utopia</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1-resolving-issues-with-the-non-responsive-nvidia-control-panel-on-your-windows-pc/"><u>1. Resolving Issues with the Non-Responsive NVIDIA Control Panel on Your Windows PC</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1-unbeatable-bargains-on-technology-score-an-apple-pencil-new-samsung-galaxy-s24-stunning-4k-tvs-and-beyond/"><u>1. Unbeatable Bargains on Technology: Score an Apple Pencil, New Samsung Galaxy S24, Stunning 4K TVs & Beyond!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-rapid-reader-of-windows-photos-and-images/"><u>2024 Approved Rapid Reader of Windows Photos & Images</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-solving-srt-export-issues-in-adobe-premiere-pro/"><u>2024 Approved Solving SRT Export Issues in Adobe Premiere Pro</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/day-to-day-life-on-a-faux-windows-pc-an-in-depth-analysis/"><u>Day-to-Day Life on a Faux Windows PC - An In-Depth Analysis</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-steps-for-controlling-your-printers-functionality-within-the-windows-10-operating-system/"><u>Easy Steps for Controlling Your Printer's Functionality Within the Windows 10 Operating System</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhanced-aesthetics-logitech-g-devices-embrace-windows-11s-adaptive-illumination-feature/"><u>Enhanced Aesthetics: Logitech G Devices Embrace Windows 11'S Adaptive Illumination Feature</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhanced-security-with-expressvpns-latest-update-introducing-the-built-in-password-safe/"><u>Enhanced Security with ExpressVPN's Latest Update - Introducing the Built-In Password Safe!</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/epicurean-escapades-crafting-kitchen-films-for-2024/"><u>Epicurean Escapades Crafting Kitchen Films for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/essential-linux-attributes-for-enhancing-the-user-experience-in-windows-12/"><u>Essential Linux Attributes for Enhancing the User Experience in Windows 12</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>In 2024, Does Life360 Notify When You Log Out On Apple iPhone SE? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-iphone-a-revolutionary-approach-to-hdr-imaging/"><u>In 2024, IPhone A Revolutionary Approach to HDR Imaging</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unlock-creative-storytelling-the-art-of-jump-cutting-for-2024/"><u>Unlock Creative Storytelling The Art of Jump Cutting for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-truth-how-can-i-know-if-an-airtag-tracks-me-insights/"><u>Unveiling the Truth: How Can I Know If An AirTag Tracks Me? Insights</u></a></li>
+</ul></div>
 

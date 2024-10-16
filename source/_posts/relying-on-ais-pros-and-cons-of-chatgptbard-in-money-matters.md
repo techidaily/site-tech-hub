@@ -1,7 +1,7 @@
 ---
 title: "Relying on AIs: Pros & Cons of ChatGPT/Bard in Money Matters"
-date: 2024-09-11T02:21:37.005Z
-updated: 2024-09-17T18:18:04.545Z
+date: 2024-10-08T17:09:53.332Z
+updated: 2024-10-16T01:36:45.931Z
 tags:
   - chatgpt
   - open-ai
@@ -57,6 +57,13 @@ You could use:
 
  The second set of prompts will produce much more detailed information and relevant responses.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Being Overly Specific With Your Instructions
 
  Although it might appear beneficial to provide highly detailed prompts, this strategy isn't always optimal. Detailed instructions indeed offer ChatGPT a clear direction for generating responses. However, excessive detail can unintentionally confine ChatGPT's responses to an overly narrow context, potentially leading to less accurate responses and hallucinations.
@@ -80,10 +87,10 @@ You could use:
 ![Translating with context using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/translating-with-context-using-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Not Using Examples
@@ -94,27 +101,20 @@ You could use:
 
 ![ChatGPT Prompt without example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/prompt-without-example.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Without examples, the jokes ChatGPT came up with weren't particularly rib-cracking. The overall response wasn't quite enticing as well.
 
 ![Lady Gaga and Ed Sheeran Jokes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/lady-gaga-and-ed-sheeran-jokes.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Next, we gave ChatGPT some examples of how we want our jokes to look. Here's the prompt in the screenshot below:
 
 ![chatgpt prompt with an example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-prompt-with-an-example.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  With examples to guide ChatGPT, the generated jokes became significantly better (a bit jealous that ChatGPT's jokes seem better than ours, though!). This first one was a joke about Taylor Swift.
 
@@ -123,6 +123,13 @@ You could use:
 And here's another one ChatGPT made when we prompted it with Jay-Z.
 
 ![Jay-z joke made by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/jay-z-joke.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Loved the second set of jokes? Well, the moral of the story is to use examples more often.
 
@@ -135,10 +142,10 @@ And here's another one ChatGPT made when we prompted it with Jay-Z.
  Specific prompts provide a clearer direction for ChatGPT to follow. It also narrows down the focus of the prompt and provides more relevant information for the model to work with.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT Is Garbage In, Garbage Out
@@ -158,5 +165,24 @@ And here's another one ChatGPT made when we prompted it with Jay-Z.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-instagrams-latest-trends-for-successful-influencer-journeys/"><u>[New] 2024 Approved Instagram's Latest Trends for Successful Influencer Journeys</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-adventure-essentials-top-10-gopro-protectors-reviewed-for-2024/"><u>[New] Adventure Essentials - Top 10 GoPro Protectors Reviewed for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/achieving-soft-sound-dissolution-in-audacity/"><u>Achieving Soft Sound Dissolution in Audacity</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/affordable-premium-sound-with-beehive-earbuds/"><u>Affordable, Premium Sound with BeeHive Earbuds</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/apple-discontinues-apple-pay-later-feature-an-inside-look-at-upcoming-alternatives-zdnet/"><u>Apple Discontinues Apple Pay Later Feature: An Inside Look at Upcoming Alternatives - ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/apple-provides-accessible-ai-education-opportunities-thousands-of-learners-benefit-from-cutting-edge-tech-programs/"><u>Apple Provides Accessible AI Education Opportunities: Thousands of Learners Benefit From Cutting-Edge Tech Programs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/doj-legal-action-againnst-apple-deciphered-consequences-for-users-and-app-creators-explored/"><u>DOJ Legal Action Againnst Apple Deciphered: Consequences for Users & App Creators | Explored</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/dyson-unveils-ontrac-wireless-a-potential-challenger-to-apples-airpods-pro-explore-the-innovation-on-zdnet/"><u>Dyson Unveils OnTrac Wireless: A Potential Challenger to Apple's AirPods Pro? - Explore the Innovation on ZDNet</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/easy-guide-to-resolving-continuous-valorant-crashing-issues-on-windowsmacos/"><u>Easy Guide to Resolving Continuous Valorant Crashing Issues on Windows/MacOS</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elite-selection-of-stylus-enabled-tablets-in-202n4-unveiled-and-assessed-by-professionals-zdnet/"><u>Elite Selection of Stylus-Enabled Tablets in 202N4 Unveiled and Assessed by Professionals | ZDNet</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-download-top-rated-behringer-audio-drives/"><u>Free Download: Top-Rated Behringer Audio Drives</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-the-apple-watch-ultra-2-became-my-ideal-smartwatch-companion-plus-an-exclusive-100-labor-day-discount-insights/"><u>How the Apple Watch Ultra 2 Became My Ideal Smartwatch Companion, Plus an Exclusive $100 Labor Day Discount – Insights !</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-move-your-apple-music-playlists-seamlessly-to-and-from-youtube-music-expert-guide/"><u>How to Move Your Apple Music Playlists Seamlessly to and From YouTube Music - Expert Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-motorola-defy-2-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Motorola Defy 2 Face Lock?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-oppo-a78-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Oppo A78</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Vivo T2 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionizing-on-the-go-power-how-a-20-anker-solution-outperforms-expensive-chargers-zdnet-review/"><u>Revolutionizing On-the-Go Power: How a $20 Anker Solution Outperforms Expensive Chargers | ZDNet Review</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT's Latest Updates: Global Perks"
-date: 2024-09-16T02:27:53.758Z
-updated: 2024-09-17T19:38:00.031Z
+date: 2024-10-12T20:13:40.729Z
+updated: 2024-10-16T03:42:44.582Z
 tags:
   - chatgpt
   - open-ai
@@ -70,22 +70,15 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 ![Using ChatGPT as an AI assistant using memory and web browsing features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-as-assistant-using-expanded-knowledge-base-1-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  ChatGPT provided sound advice by browsing the web for the weather and reviewing its memory of my schedule. It even gave me a list of activities I could do instead based on my past interactions with ChatGPT.
 
  The browsing capability feature is now available for both Plus and Free tier users, while ChatGPT Memory is only available to Plus users.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Multi-Modal Voice and Video Interactions
@@ -98,19 +91,6 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
  GPT-4o's voice interaction is available to all users using the ChatGPT Android/iOS app. However, the video interaction feature is unavailable at the time of writing but is expected to roll out in the near future.
 
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Upgraded Code Analysis
 
  The previous ChatGPT Code Interpreter is now called Advanced Data Analysis (ADA). Since it is already out of beta and ChatGPT plugins are no longer available, ADA is now an integrated feature within both ChatGPT-4 and ChatGPT-4o, and both Free and Plus tier users now have this feature. No plugin or activation is needed; simply prompt ChatGPT to run, analyze, or write code, and it should do the rest for you.
@@ -119,13 +99,40 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 ![Using-ChatGPT-Advanced-Data-Analysis](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-advanced-data-analysis.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  I already knew the numbers before running it using ADA on ChatGPT-4o, so I know the provided graph is accurate. However, running it on ChatGPT-4 continually gave me errors, was slow, and never really provided me with the graph. So, although ADA is not functionally different from the old code interpreter, running ADA right on ChatGPT-4o was certainly easier, faster, and smarter.
 
  OpenAI's demonstrations also showed live code debugging using voice commands, which is another enormous upgrade for ChatGPT. Instead of having to type commands and work bit by bit, live interactions with your code could speed up the process.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Temporary Chat
 
 ![ChatGPT's new temporary chat feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-s-temporary-chat-feature.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The new Temporary Chat feature in ChatGPT-4o is ideal for privacy-conscious users and those seeking quick interactions with ChatGPT. This feature enables users to engage in a temporary chat with ChatGPT without the conversation being saved in history or used by OpenAI to train their models.
 
@@ -146,5 +153,26 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/xclusive-hd-benefits-turn-on-av1-in-youtube-settings/"><u>[New] Exclusive HD Benefits Turn On AV1 in YouTube Settings</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-turbocharge-your-photos-windows-11-edition/"><u>2024 Approved Turbocharge Your Photos Windows 11 Edition</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-comprehensive-guide-to-hiding-or-deleting-start-menu-favorites-for-a-cleaner-windows-10-experience/"><u>A Comprehensive Guide to Hiding or Deleting Start Menu Favorites for a Cleaner Windows 10 Experience</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/are-premium-priced-ai-prompts-delivering-superior-results-compared-to-free-alternatives/"><u>Are Premium-Priced AI Prompts Delivering Superior Results Compared to Free Alternatives?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/are-there-any-safety-concerns-with-using-alternative-chatgpt-applications-and-plug-ins/"><u>Are There Any Safety Concerns with Using Alternative ChatGPT Applications and Plug-Ins?</u></a></li>
+<li><a href="https://win-premium.techidaily.com/creating-image-enhanced-downloadable-pdf-files-with-ease-master-the-technique-on-flipbuilder/"><u>Creating Image-Enhanced, Downloadable PDF Files with Ease - Master the Technique on FlipBuilder</u></a></li>
+<li><a href="https://games-able.techidaily.com/engaging-with-films-via-ps5-cinematic-hub/"><u>Engaging with Films via PS5 Cinematic Hub</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-maximizing-podcast-discoverability-through-effective-seo/"><u>In 2024, Maximizing Podcast Discoverability Through Effective SEO</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-admin-access-a-step-by-step-guide-to-launching-the-command-prompt-with-elevated-rights-on-windows-10881/"><u>Mastering Admin Access: A Step-by-Step Guide to Launching the Command Prompt with Elevated Rights on Windows 10/8/8.1</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/resolve-your-windows-10-updating-woes-silent-install-successfully-achieved/"><u>Resolve Your Windows 10 Updating Woes - Silent Install Successfully Achieved!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721399752193-revolutionize-your-ai-dialogues-powered-by-google-chrome/"><u>Revolutionize Your AI Dialogues, Powered by Google Chrome</u></a></li>
+<li><a href="https://win-latest.techidaily.com/sofortige-losungen-fur-systemprobleme-wiederherstellung-in-windows-11-fehlschlagt/"><u>Sofortige Lösungen Für Systemprobleme - Wiederherstellung in Windows 11 Fehlschlägt</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-accessing-the-control-panel-on-windows-11-7-and-8/"><u>Step-by-Step Guide: Accessing the Control Panel on Windows 11, 7 & 8</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-starting-fresh-with-a-clean-boot-on-your-windows-11-pc/"><u>Step-by-Step Guide: Starting Fresh with a Clean Boot on Your Windows 11 PC</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-walkthrough-into-langchain-llm-perfect-for-beginners/"><u>Step-by-Step Walkthrough Into LangChain LLM: Perfect for Beginners</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-handbook-for-llama-2-enthusiasts/"><u>The Ultimate Handbook for Llama 2 Enthusiasts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-6-convertisseurs-de-video-en-mp4-libres-les-applications-gratuites-pour-transformer-vos-clips/"><u>Top 6 Convertisseurs De Vidéo en MP4 Libres : Les Applications Gratuites Pour Transformer Vos Clips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-8-search-tools-to-locate-any-person-online-effortlessly/"><u>Top 8 Search Tools to Locate Any Person Online Effortlessly</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/wmv-file-splitter-top-5-free-solutions-this-year-for-2024/"><u>WMV File Splitter Top 5 Free Solutions This Year for 2024</u></a></li>
+</ul></div>
 

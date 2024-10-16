@@ -1,7 +1,7 @@
 ---
 title: "Enhance Your Daily Habits: 6 Tips on Integrating ChatGPT Into Your At-Home Productivity"
-date: 2024-09-14T02:27:35.964Z
-updated: 2024-09-17T20:51:50.773Z
+date: 2024-10-10T17:35:01.014Z
+updated: 2024-10-16T00:56:18.840Z
 tags:
   - chatgpt
   - open-ai
@@ -64,6 +64,13 @@ thumbnail: https://thmb.techidaily.com/fa51da89f91ea3306806b0c92d6d119cfa0eae393
 
 ![ChatGPT 10K running plan prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-10k-running-plan-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  I responded to the questions in order, and it provided a multi-week plan. The plan is actually pretty solid, even taking potential injuries into account, but it didn't get into more granular details like pacing.
 
  If your goal focuses on speed (such as running a 10K in less than an hour), then you may want a plan that targets a certain pace. In this example, you'd need to hold around a 9:30/mile pace to complete the 10K in under one hour.
@@ -76,15 +83,22 @@ thumbnail: https://thmb.techidaily.com/fa51da89f91ea3306806b0c92d6d119cfa0eae393
 
  While ChatGPT provides adequate training plans for runners, there are many free resources for running plans online that offer much more detail. In time, however, it's likely the chatbot will be able to provide more in-depth plans that take pacing, heart rate zones, and more information into account.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Strength Training Plans From ChatGPT
 
 ![ChatGPT strength training prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-strength-training-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Likewise, ChatGPT’s general strength training plan is also pretty dependable, calling for bodyweight exercises like squats and push-ups as well as dumbbell rows. It’s similar to what you might find from[top strength-training apps](https://www.makeuseof.com/best-weightlifting-apps/) .
@@ -94,10 +108,10 @@ thumbnail: https://thmb.techidaily.com/fa51da89f91ea3306806b0c92d6d119cfa0eae393
 ![ChatGPT deadlifts prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-deadlifts-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In this example, I received detailed instructions on the correct way to do deadlifts. It offered helpful pointers about your stance, grip, and even breathing techniques in order to make the most of this particular exercise.
@@ -121,5 +135,21 @@ thumbnail: https://thmb.techidaily.com/fa51da89f91ea3306806b0c92d6d119cfa0eae393
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-add-chapters-to-youtube-videos-for-2024/"><u>[Updated] How to Add Chapters to YouTube Videos for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/anonymous-tips-seamlessly-connecting-airpods-with-your-quest-3-headphones-a-guide-for-courteous-listening/"><u>Anonymous Tips: Seamlessly Connecting AirPods with Your Quest 3 Headphones - A Guide for Courteous Listening</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/budget-mobile-ransomware-breakthrough-the-encryption-expedition/"><u>Budget Mobile, Ransomware Breakthrough - The Encryption Expedition</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Nubia Z50 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-huawei-nova-y71-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Huawei Nova Y71 without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-poco-c55-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Poco C55 Phone Pattern Lock</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/iphone-16-enhances-photography-with-new-ai-vision-technology-comparable-to-google-lens-insights/"><u>IPhone 16 Enhances Photography with New AI Vision Technology Comparable to Google Lens - Insights</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/quick-fixes-for-stopped-fb-live-broadcasts-for-2024/"><u>Quick Fixes for Stopped FB Live Broadcasts for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ms-ally-finding-best-dj-content-online/"><u>Rhythm's Ally Finding Best DJ Content Online</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-reality-behind-earbud-audio-quality-debunking-lossless-expectations-with-zdnets-analysis/"><u>The Reality Behind Earbud Audio Quality: Debunking Lossless Expectations with ZDNet's Analysis</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-qi2-charger-a-comprehensive-solution-for-tech-enthusiasts-and-apple-lovers-explore-on-zdnet/"><u>The Ultimate Qi2 Charger: A Comprehensive Solution for Tech Enthusiasts and Apple Lovers - Explore on ZDNet</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-motorola-edge-2023-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Motorola Edge 2023 for Parents | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-oppo-reno-8t-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Oppo Reno 8T Device</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1727793229060-top-rated-water-resistant-wearables-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated Water Resistant Wearables : Comprehensive Reviews by Tech Experts | ZDNET</u></a></li>
+</ul></div>
 

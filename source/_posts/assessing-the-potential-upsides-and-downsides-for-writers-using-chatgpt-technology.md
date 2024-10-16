@@ -1,7 +1,7 @@
 ---
 title: Assessing the Potential Upsides & Downsides for Writers Using ChatGPT Technology
-date: 2024-09-12T01:21:12.643Z
-updated: 2024-09-18T01:16:53.521Z
+date: 2024-10-09T03:25:43.750Z
+updated: 2024-10-16T02:27:53.739Z
 tags:
   - chatgpt
   - open-ai
@@ -67,6 +67,20 @@ You could use:
 
 ![Elon Musk's view on Pizza](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/elon-musk-s-view-on-pizza.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Not Providing Context When Necessary
 
  Context plays a vital role in how ChatGPT responds to any given prompt. Even a minor shift in context can lead to significantly different responses. If no context is provided, your prompt becomes ambiguous, resulting in varied responses each time the same prompt is used. This lack of consistency may not be desirable when seeking precise answers because there's no way of knowing the right response. But how do you provide context, and when should you?
@@ -87,49 +101,35 @@ You could use:
 
 ![ChatGPT Prompt without example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/prompt-without-example.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Without examples, the jokes ChatGPT came up with weren't particularly rib-cracking. The overall response wasn't quite enticing as well.
 
 ![Lady Gaga and Ed Sheeran Jokes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/lady-gaga-and-ed-sheeran-jokes.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Next, we gave ChatGPT some examples of how we want our jokes to look. Here's the prompt in the screenshot below:
 
 ![chatgpt prompt with an example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-prompt-with-an-example.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  With examples to guide ChatGPT, the generated jokes became significantly better (a bit jealous that ChatGPT's jokes seem better than ours, though!). This first one was a joke about Taylor Swift.
 
 ![taylor swift joke](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/taylor-swift-joke.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 And here's another one ChatGPT made when we prompted it with Jay-Z.
 
 ![Jay-z joke made by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/jay-z-joke.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Loved the second set of jokes? Well, the moral of the story is to use examples more often.
 
@@ -140,6 +140,13 @@ And here's another one ChatGPT made when we prompted it with Jay-Z.
  "What is the meaning of life?" and "What is the best way to stay healthy?" are two examples of prompts that seem normal but are quite ambiguous. There's no definitive answer to both questions. However, ChatGPT will try to provide you with an answer that seems like hard facts. Prompts like "What is the meaning of life from a biological perspective?" or "What are some specific lifestyle changes or habits that can help improve mental health?" are good examples of specific, less ambiguous alternatives.
 
  Specific prompts provide a clearer direction for ChatGPT to follow. It also narrows down the focus of the prompt and provides more relevant information for the model to work with.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ChatGPT Is Garbage In, Garbage Out
 
@@ -158,5 +165,24 @@ And here's another one ChatGPT made when we prompted it with Jay-Z.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-unlock-creative-potential-with-our-customized-outro-scenes-free/"><u>[New] 2024 Approved Unlock Creative Potential with Our Customized Outro Scenes (Free!)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-groan-inducing-humor-in-hits/"><u>[Updated] 2024 Approved Groan-Inducing Humor in Hits</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-the-angle-advantage-guide-mastering-the-art-of-spinning-photos-for-social-media-triumphs/"><u>[Updated] 2024 Approved The Angle Advantage Guide Mastering the Art of Spinning Photos for Social Media Triumphs</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-premium-black-gopro-battery-units-with-official-chargers/"><u>[Updated] Premium Black GoPro Battery Units with Official Chargers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/battle-of-the-bots-who-rules-coding-chatgpt-or-gemini/"><u>Battle of the Bots: Who Rules Coding, ChatGPT or Gemini?</u></a></li>
+<li><a href="https://solve-news.techidaily.com/1726028276679-capcutpc/"><u>CapCutによる音削除:PC版動画から音声抽出方法</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discovering-how-companies-embrace-generative-ais-potential/"><u>Discovering How Companies Embrace Generative AI's Potential</u></a></li>
+<li><a href="https://extra-information.techidaily.com/discovering-the-edge-of-action-cam-excellence-with-intova-x/"><u>Discovering the Edge of Action Cam Excellence with Intova X</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Samsung Galaxy F54 5G? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-honor-90-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-integration-seamlessly-incorporating-chatgpt-into-google-sheets/"><u>Mastering the Integration: Seamlessly Incorporating ChatGPT Into Google Sheets</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/realizing-the-potential-seamless-setup-of-gpt-4-on-your-chatgpt-interface-today/"><u>Realizing the Potential: Seamless Setup of GPT-4 on Your ChatGPT Interface Today</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/rethinking-ai-laws-the-call-from-openais-top-boss/"><u>Rethinking AI Laws: The Call From OpenAI's Top Boss</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionary-chatbot-therapists-5-innovative-ai-solutions-to-overcome-psychological-struggles/"><u>Revolutionary Chatbot Therapists: 5 Innovative AI Solutions to Overcome Psychological Struggles</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-essentials-of-ai-unveiling-its-power-and-possible-hazards/"><u>The Essentials of AI - Unveiling Its Power and Possible Hazards</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-hidden-flaws-in-machine-conversations-gpts-eight-key-problems/"><u>The Hidden Flaws in Machine Conversations: GPT's Eight Key Problems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-ai-chatbots-their-rise-in-popularity/"><u>Understanding AI Chatbots: Their Rise in Popularity</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Delving Into the World of GPTBot - Discovering the Causes Behind Its Online Exclusion
-date: 2024-09-10T23:41:06.543Z
-updated: 2024-09-17T22:57:14.936Z
+date: 2024-10-13T16:52:02.834Z
+updated: 2024-10-15T16:22:35.027Z
 tags:
   - chatgpt
   - open-ai
@@ -66,9 +66,23 @@ ChatGPT also cracked the problem as well.
 
 ![ChatGPT solves maths problem on productivity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-solves-maths-problem-on-productivity.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Moving on, we asked both chatbots to solve**8/a-1 = 20/3a-1** , a fairly straightforward math problem with a surprisingly high failure rate among AI chatbots. ChatGPT was able to solve it, providing a correct answer of**\-3** at the first attempt.
 
 ![ChatGPT solves a math problem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-solves-a-math-problem.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Claude AI failed at the first attempt, but when we prompted it to solve the problem step by step (which forces it to think through every step of its logic) it was able to crack it.
 
@@ -90,15 +104,22 @@ ChatGPT also cracked the problem as well.
 
 ![Claude AI composes a rap lyrics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-composes-a-rap-lyrics.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Both lyrics are good, but ChatGPT seemed to have an edge here. It had better rhyming, and we had the result we needed on the first trial. We had to try three times before Claude AI could produce lyrics that rhymed. We'll give this one to ChatGPT.
 
  After trying out a few more creative tasks, Claude AI seemed to excel in writing-related tasks and was able to write more natural-sounding content like a human writer would do. Although[ChatGPT was better at overcoming more complex creative tasks](https://www.makeuseof.com/creative-ways-to-use-chatgpt-openai/) , it sometimes couldn't shake off that AI chatbot feeling in the text it generated. Our verdict? Both ChatGPT and Claude AI are creative in their own right.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT vs. Claude AI: Coding Skills
@@ -116,13 +137,6 @@ ChatGPT also cracked the problem as well.
  After Claude AI failed the last test, we tried a different kind of coding task, one that was more about analyzing code and less about writing new code. We uploaded five PHP files that represent the complete backend for a website and asked both Claude AI and ChatGPT where we would need to edit in all the uploaded files to ensure we get a mail once a new user registers on the site.
 
 ![Claude AI analyzing multiple PHP files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-analyzing-multiple-php-files.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Surprisingly, ChatGPT, despite seemingly having superior coding skills, failed at this despite repeated attempts. Claude AI, on the other hand, was able to analyze the code proficiently while identifying the right places that needed to be edited to achieve the desired results.
 
@@ -147,5 +161,26 @@ ChatGPT also cracked the problem as well.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-premium-top-15-high-res-recording-devices/"><u>[New] Premium Top 15 High-Res Recording Devices</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-unleash-zodiac-potential-in-personal-bios-on-messaging-apps/"><u>[Updated] 2024 Approved Unleash Zodiac Potential in Personal Bios on Messaging Apps</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/20-anker-battery-pack-the-ultimate-solution-for-your-portable-charger-woes-insights-from-zdnet/"><u>$20 Anker Battery Pack: The Ultimate Solution for Your Portable Charger Woes - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-essential-guide-to-vr-gear-and-technology/"><u>2024 Approved Essential Guide to VR Gear and Technology</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-how-to-guide-on-bypassing-apple-iphone-13-icloud-activation-lock-by-drfone-ios/"><u>A How-To Guide on Bypassing Apple iPhone 13 iCloud Activation Lock</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comprehensive-list-of-apple-watches-compatible-with-watchos-11-models-excluded/"><u>Comprehensive List of Apple Watches Compatible with WatchOS 11 – Models Excluded</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-most-secure-and-stylish-smart-lock-perfect-for-your-iphone-without-sacrificing-aesthetics-zdnet/"><u>Discover The Most Secure & Stylish Smart Lock Perfect for Your iPhone Without Sacrificing Aesthetics | ZDNET</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/experience-gaming-like-never-before-with-apple-sports-the-free-iphone-application-every-enthusiast-dreams-of-spotlighted/"><u>Experience Gaming Like Never Before with Apple Sports: The Free iPhone Application Every Enthusiast Dreams Of | Spotlighted</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ideal-smartphones-for-children-a-comprehensive-guide-by-zdnet/"><u>Ideal Smartphones for Children: A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-paying-up-to-20-a-month-for-enhanced-apple-features-worth-it-industry-predictions-revealed/"><u>Is Paying Up to $20 a Month for Enhanced Apple Features Worth It? Industry Predictions Revealed</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/masterful-3d-design-best-animation-software-selection/"><u>Masterful 3D Design Best Animation Software Selection</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/personalize-your-casting-experience-switch-up-chromecast-background-images/"><u>Personalize Your Casting Experience: Switch Up Chromecast Background Images</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/seamless-audio-integration-in-instagram-visuals-and-stories/"><u>Seamless Audio Integration in Instagram Visuals & Stories</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-permission-fixes-for-installer-problems/"><u>Streamlining Permission Fixes for Installer Problems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-complete-list-of-essential-airpods-pro-add-ons-for-enhanced-sound-pcmag/"><u>The Complete List of Essential AirPods Pro Add-Ons for Enhanced Sound | PCMag</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/tiktok-video-safeguarding-on-smartphones-uncovered-for-2024/"><u>TikTok Video Safeguarding on Smartphones Uncovered for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-mp3-players-expert-rankings-and-reviews/"><u>Top Rated MP3 Players - Expert Rankings and Reviews</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/windows-vs-apple-silicon-can-arm-processing-surprise-the-tech-world/"><u>Windows Vs. Apple Silicon: Can ARM Processing Surprise the Tech World?</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-task-managers-for-windows-10-and-11-users/"><u>Winning Task Managers for Windows 10 & 11 Users</u></a></li>
+</ul></div>
 

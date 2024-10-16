@@ -1,7 +1,7 @@
 ---
 title: Unveiling GPTBot's Role in Web Interactions & Why It Faces Blockades
-date: 2024-09-15T23:38:29.740Z
-updated: 2024-09-17T18:47:23.969Z
+date: 2024-10-12T04:49:45.251Z
+updated: 2024-10-16T01:13:24.530Z
 tags:
   - chatgpt
   - open-ai
@@ -38,9 +38,23 @@ False news can be categorized into three types:
 
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Generating Fake Content Online
 
@@ -65,6 +79,13 @@ Here's the fictitious article that ChatGPT came up with:
 
  These examples all illustrate how chatbots can be utilized to mislead people.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Creating AI DeepFakes
 
  Someone can use deepfakes to create false videos of an individual saying or doing things they never did. They can use such tools for social engineering or running smear campaigns against others. Moreover, in today's meme culture, deepfakes can serve as tools for cyberbullying on social media.
@@ -74,10 +95,10 @@ Here's the fictitious article that ChatGPT came up with:
  It's crucial, then, to be able to[identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Cloning Human Voices
@@ -87,13 +108,6 @@ Here's the fictitious article that ChatGPT came up with:
  You might have come across tools like[Resemble AI](https://www.resemble.ai/) ,[Speechify](https://speechify.com/) ,[FakeYou](https://fakeyou.com/) , and others that can mimic the voices of celebrities. While these AI audio tools can be entertaining, they pose significant risks. Scammers can utilize voice cloning techniques for various fraudulent schemes, resulting in financial losses.
 
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by[The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Spot AI-Spread Disinformation
 
@@ -125,5 +139,26 @@ Here's the fictitious article that ChatGPT came up with:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-instagrams-secrets-selective-story-watching/"><u>[New] Instagram's Secrets - Selective Story Watching</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1-high-end-battle-royale-comparing-the-samsung-galaxy-book-4-and-the-apple-macbook-pro-for-your-next-tech-upgrade-expert-insights/"><u>1. High-End Battle Royale: Comparing the Samsung Galaxy Book 4 and the Apple MacBook Pro for Your Next Tech Upgrade - Expert Insights</u></a></li>
+<li><a href="https://extra-information.techidaily.com/arcade-affordability-bar-reviews-for-2024/"><u>ARCADE AFFORDABILITY BAR Reviews for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-x50-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on X50</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhance-productivity-with-dual-displays-on-your-m3-macbook-pro-compatible-as-the-m3-macbook-air-zdnet/"><u>Enhance Productivity with Dual Displays on Your M3 MacBook Pro - Compatible as the M3 MacBook Air | ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exclusive-testing-on-apples-hardest-hit-resistant-iphone-case-featuring-a-revolutionary-safety-aspect-analysis-by-zdnet/"><u>Exclusive Testing on Apple's Hardest Hit Resistant iPhone Case Featuring a Revolutionary Safety Aspect | Analysis by ZDNET</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/gadget-gurus-review-roundup-comparing-top-tier-electronic-enhancements/"><u>Gadget Gurus' Review Roundup: Comparing Top-Tier Electronic Enhancements</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-x50-gt-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor X50 GT to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-unlocking-time-lapse-potential-on-samsung-screens/"><u>In 2024, Unlocking Time-Lapse Potential on Samsung Screens</u></a></li>
+<li><a href="https://win-special.techidaily.com/mac2024/"><u>Mac錄音軟體推薦：2024新春四款不可小看的好用選擇</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/premiered-screen-selections-for-ps5-aficionados/"><u>Premiered Screen Selections for PS5 Aficionados</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionize-your-apple-tv-controls-discover-the-latest-accessory-for-adding-airtags/"><u>Revolutionize Your Apple TV Controls: Discover the Latest Accessory for Adding AirTags</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-ipad-gadgets-and-peripherals-featuring-insights-from-zdnet/"><u>Top-Rated iPad Gadgets and Peripherals - Featuring Insights From ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-apples-classification-of-devices-as-vintage-implications-for-users/"><u>Understanding Apple's Classification of Devices as Vintage: Implications for Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-amazing-value-with-the-iphone-14-plus-exceptional-endurance-and-reasons-to-be-charmed/"><u>Unlock Amazing Value with the iPhone 14 Plus: Exceptional Endurance & Reasons to Be Charmed!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlock-the-secrets-to-intense-hdr-portraits/"><u>Unlock the Secrets to Intense HDR Portraits</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/upcoming-autumn-updates-discover-the-latest-enhancements-from-apple-for-your-iphone-ipad-mac-and-other-devices-featuring-innovative-ai-tech-zdnet/"><u>Upcoming Autumn Updates: Discover the Latest Enhancements From Apple for Your iPhone, iPad, Mac, and Other Devices Featuring Innovative AI Tech | ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/upcoming-release-detailed-guide-on-when-new-airpods-launch-insider-info-and-preorder-locations-techzn/"><u>Upcoming Release: Detailed Guide on When New AirPods Launch, Insider Info & Preorder Locations | TechZN</u></a></li>
+</ul></div>
 

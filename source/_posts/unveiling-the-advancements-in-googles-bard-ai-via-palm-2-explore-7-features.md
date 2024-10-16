@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Advancements in Google's Bard AI via PaLM 2 - Explore 7 Features!
-date: 2024-09-16T23:35:28.875Z
-updated: 2024-09-17T23:42:37.508Z
+date: 2024-10-08T17:55:17.023Z
+updated: 2024-10-16T01:15:25.187Z
 tags:
   - chatgpt
   - open-ai
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
 
 ![Different language dictionaries](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Different-language-dictionaries.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  PaLM 2 will expand the multilingual capabilities of Bard AI, making it perform well with multilingual tasks, as it is being trained with diverse texts from over 100 languages.
 
  So Bard AI will be able to understand and, in turn, generate text in several languages from different parts of the world, including underrepresented languages on the internet. In addition, the AI chatbot can also understand more nuanced forms of language, like poems, proverbs, and riddles, than in its older versions.
@@ -44,20 +51,34 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
 
 ![thinking man sitting on chair](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/thinking-man-sitting-on-chair.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Large language models](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) emphasize language, which is why computing mathematical questions and queries can be challenging. They need to use third-party plugins to circumvent this challenge.
 
  However, the PaLM 2 model will better adapt to mathematics, logic, and common sense reasoning. Google developed the model using many science and math texts, including mathematical expressions. Therefore, PaLM 2 will not only solve mathematical problems easily but also reason through the puzzles and offer appropriate diagram illustrations.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Med-PaLM 2
 
 ![Medical Doctor Texting on a Smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/doctor.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Med-PaLM 2 is a specialized medical LLM model that focuses on medical knowledge. This version is trained and equipped with massive medical texts, including journals, textbooks, clinical notes, and patient records.
 
@@ -73,13 +94,6 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
 
  With this, it can understand and generate security-related text and code in different languages and formats.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Third-Party Extension Support
 
 ![Adobe apps on a MacBook Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/adobe-apps-on-a-macbook-pro.jpg)
@@ -88,6 +102,13 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
 
  Furthermore, Bard can connect to its other company products like Search and Maps. Google Maps will use the AI upgrade to provide immersive views of routes, including landmarks. Google Search will also receive an AI upgrade, enabling it to respond directly to search queries in an interactive, conversational manner.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Workspace
 
 ![Google Docs logo on laptop screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Google-Docs-Logo.jpg)
@@ -95,13 +116,6 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
  Another key area the company plans to upgrade Bard with PaLM 2 is the "Workspace AI collaborator." PaLM 2 will feature on the company's full product range—in Cloud, Colab, Meet, Docs, Maps, Sheets, and others.
 
  The process will become even more seamless as Google promises upgrades for exporting data. You can write codes with Bard and export them into Replit or Google Colab.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## PaLM 2 WIll Revolutionize Google Bard
 
@@ -122,5 +136,24 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-experience-the-magic-of-free-voice-change-for-valorant-gaming/"><u>[New] 2024 Approved Experience the Magic of Free Voice Change for Valorant Gaming</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-self-portraits-for-social-media-success/"><u>[Updated] In 2024, Self-Portraits for Social Media Success</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-mastering-mac-screenshots-five-efficient-ways/"><u>2024 Approved Mastering Mac Screenshots Five Efficient Ways</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-integration-with-apples-new-m4-processors-set-to-revolutionize-mac-computers-release-timeline-revealed/"><u>AI Integration with Apple's New M4 Processors Set to Revolutionize Mac Computers: Release Timeline Revealed</u></a></li>
+<li><a href="https://extra-information.techidaily.com/creating-captivating-inshot-edits-with-grace-for-2024/"><u>Creating Captivating Inshot Edits with Grace for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-z50-70-driver-update-process/"><u>Effortless Z50-70 Driver Update Process</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/find-the-ultimate-apple-device-iphone-and-ipad-vpn-solutions-in-depth-comparisons-and-expert-analysis/"><u>Find the Ultimate Apple Device (iPhone & iPad) VPN Solutions: In-Depth Comparisons and Expert Analysis</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/fixing-potentially-harmful-battery-safeguards-on-your-devices-including-airtags-step-by-step-instructions-zdnet/"><u>Fixing Potentially Harmful Battery Safeguards on Your Devices, Including AirTags - Step-by-Step Instructions | ZDNET</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-prodigious-cameras-for-slow-motion-delight/"><u>In 2024, Prodigious Cameras for Slow-Motion Delight</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-step-by-step-guide-to-crafting-striking-youtube-thumbnails-mac-edition/"><u>In 2024, Step by Step Guide to Crafting Striking YouTube Thumbnails - Mac Edition</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovative-breakthroughs-apple-eyes-ai-integration-in-domestic-robots-spotlighting-two-promising-gadgets-coverage/"><u>Innovative Breakthroughs: Apple Eyes AI Integration in Domestic Robots, Spotlighting Two Promising Gadgets Coverage</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/micro-meets-mighty-how-does-the-smaller-than-ever-m4-powered-mac-mini-stack-up-against-apple-tv/"><u>Micro Meets Mighty: How Does the Smaller-Than-Ever M4 Powered Mac Mini Stack Up Against Apple TV?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-tighter-rules-with-macpaws-iphone-app-alternative-unveiled/"><u>Navigating Tighter Rules with MacPaw's iPhone App Alternative - Unveiled</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-for-ios-devotees-how-to-refresh-the-firmware-on-an-apple-studio-display/"><u>Step-by-Step Tutorial for iOS Devotees: How to Refresh the Firmware on an Apple Studio Display</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-amazing-discounts-on-amazon-august-2024-specials-unveiled-by-zdnet/"><u>Top Amazing Discounts on Amazon - August 2024 Specials Unveiled by ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transforming-heic-photos-into-jpegs-across-windows-10-and-mac-systems-simple-tips-and-tricks/"><u>Transforming HEIC Photos Into JPEGs Across Windows 10 & Mac Systems - Simple Tips & Tricks</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/your-path-to-perfect-iphone-hdr-photos/"><u>Your Path to Perfect iPhone HDR Photos</u></a></li>
+</ul></div>
 

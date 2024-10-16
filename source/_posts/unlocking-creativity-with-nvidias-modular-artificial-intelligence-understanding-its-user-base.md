@@ -1,7 +1,7 @@
 ---
 title: Unlocking Creativity with NVIDIA's Modular Artificial Intelligence - Understanding Its User Base
-date: 2024-09-11T20:07:06.669Z
-updated: 2024-09-17T21:27:14.834Z
+date: 2024-10-10T02:27:25.730Z
+updated: 2024-10-15T21:05:48.241Z
 tags:
   - chatgpt
   - open-ai
@@ -36,9 +36,23 @@ thumbnail: https://thmb.techidaily.com/ddfdfc8e69381106d1b66c2809b663a8f7e41d96d
 
  The lectures are content-rich and easy to follow. You'll be inspired to use, instead of fearing, large language models like ChatGPT. You'll understand how AI can be helpful in writing, programming, art, thought experiments, and other creative projects. And at the end of the course, you'll be proud to have written your first prompt and developed your own prompt-based application.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2.[Introduction to Prompt Engineering for Generative AI (LinkedIn Learning)](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai/joining-the-nlp-revolution)
 
 ![Screenshot of Ronnie Sheer teaching Introduction to Prompt Engineering for Generative AI on LinkedIn Learning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-38.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Enroll in this online course if you want to learn only the bare-bones concepts in AI prompt engineering. You'll know the difference between tokens and words and how to use AI to generate text and images. At the end of the course, you'll learn some advanced practical concepts, like prompt fine-tuning and interacting with AI models using an API.
 
@@ -62,13 +76,6 @@ thumbnail: https://thmb.techidaily.com/ddfdfc8e69381106d1b66c2809b663a8f7e41d96d
 
 ![Learn Prompting Website showing Basic Applications lessons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-40.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you prefer reading rather than watching videos, access the Learn Prompting website. The curriculum takes you through basic to advanced prompting techniques using text-based lessons. The courses are free for everyone and were developed by researchers, translators, and hobbyists.
 
  Learn Prompting claims that almost every other prompt engineering video uses its material. So don't be surprised if you see the sudden onslaught of AI prompt engineering experts marketing their lessons on your social media feeds.
@@ -82,10 +89,10 @@ thumbnail: https://thmb.techidaily.com/ddfdfc8e69381106d1b66c2809b663a8f7e41d96d
 ![screenshot of ChatGPT Ultimate Guide 10x Your Productivity & Creativity with ChatGPT on Skillshare learning platform](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-41.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This course is best for beginners who want to go through the best use cases of ChatGPT quickly. ChatGPT Ultimate Guide familiarizes you with the ChatGPT interface and the OpenAI playground before explaining the numerous practical uses of the AI tool.
@@ -97,6 +104,13 @@ thumbnail: https://thmb.techidaily.com/ddfdfc8e69381106d1b66c2809b663a8f7e41d96d
  The lessons also explain how AI helps you perform better in specific jobs. For instance, teachers who want to save time should review the videos on Creating Essay, Multiple Choice, Fill in the Blanks, and True or False Questions. Meanwhile, digital marketing professionals will find the videos on Copywriting, SEO and Keywords, and Scripts for Social Media beneficial.
 
  If you're job hunting, check out these videos for job seekers. You'll learn[how to use ChatGPT to write your resume](https://www.makeuseof.com/use-chatgpt-to-write-resume/) , create a personal bio, search for jobs, and email a potential employer. While the videos only give an overview, they're sure to spark ideas on how the AI tool can be helpful for your job search.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Learn AI Prompt Engineering Today
 
@@ -117,5 +131,21 @@ thumbnail: https://thmb.techidaily.com/ddfdfc8e69381106d1b66c2809b663a8f7e41d96d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-crafting-a-winning-live-broadcast-essentials-and-strategies-for-2024/"><u>[New] Crafting a Winning Live Broadcast Essentials and Strategies for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-pinnacle-12-apps-for-unlimited-screen-recording/"><u>[New] In 2024, Pinnacle 12 Apps for Unlimited Screen Recording</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-the-ultimate-guide-to-choosing-a-screen-swivel-cam-for-your-needs/"><u>[Updated] 2024 Approved The Ultimate Guide to Choosing a Screen Swivel Cam for Your Needs</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-sync-contacts-from-apple-iphone-6s-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Sync Contacts from Apple iPhone 6s to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-pruveeo-fhd-dashcam-with-full-hd-recording-in-depth-review/"><u>Affordable Pruveeo FHD Dashcam with Full HD Recording - In-Depth Review</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-codegpt-truly-master-the-art-of-writing-software-code/"><u>Can CodeGPT Truly Master the Art of Writing Software Code?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/explore-and-apply-instagrams-latest-filters-for-stunning-feeds/"><u>Explore and Apply Instagram's Latest Filters for Stunning Feeds</u></a></li>
+<li><a href="https://facebook.techidaily.com/exploring-telegrams-popularity-during-facebook-downtime/"><u>Exploring Telegram’s Popularity During Facebook Downtime</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/how-to-do-voiceover-on-powerpoint/"><u>How to Do Voiceover on PowerPoint</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-activating-windows-11-security-features/"><u>Step-by-Step Guide: Activating Windows 11 Security Features</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-configuring-remote-access-for-windows-10-pcs-via-rdc/"><u>Step-by-Step Guide: Configuring Remote Access for Windows 10 PCs via RDC</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-creating-notes-on-the-web-via-microsoft-edge/"><u>Step-by-Step Guide: Creating Notes on the Web via Microsoft Edge</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-creating-notes-on-the-web-with-microsoft-edge/"><u>Step-by-Step Guide: Creating Notes on the Web with Microsoft Edge</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-activating-windows-11s-system-shield-and-safeguards/"><u>Step-by-Step Tutorial: Activating Windows 11'S System Shield and Safeguards</u></a></li>
+</ul></div>
 

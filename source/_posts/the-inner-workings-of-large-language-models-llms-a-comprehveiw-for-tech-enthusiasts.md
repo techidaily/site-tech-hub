@@ -1,7 +1,7 @@
 ---
 title: "The Inner Workings of Large Language Models (LLMs): A Comprehveiw for Tech Enthusiasts"
-date: 2024-09-16T17:46:23.741Z
-updated: 2024-09-17T21:39:56.213Z
+date: 2024-10-11T22:41:42.676Z
+updated: 2024-10-16T04:40:38.132Z
 tags:
   - chatgpt
   - open-ai
@@ -80,6 +80,13 @@ thumbnail: https://thmb.techidaily.com/a3acf69c3d36fa57ad14263ad88da8c8eaf18e40a
 
 ![ChatGPT text-based RPG output showing ability scores and possible commands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/chatgpt-text-based-rpg-output-showing-ability-scores-and-possible-commands.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 > 3\. Start the game with 20/20 for ‘Health’, with 20 being the maximum health. Eating food, drinking water, or sleeping will restore health.
 >
 > 4\. Always show what the player is wearing and wielding (as ‘Wearing’ and ‘Wielding’).
@@ -132,6 +139,13 @@ thumbnail: https://thmb.techidaily.com/a3acf69c3d36fa57ad14263ad88da8c8eaf18e40a
 
  You can embellish this section with as many rules and preferences as you like. You can add an overarching plot, implement rules for governing, or even detail NPC clothes and attitudes in this section. But remember to keep it simple because multilayered rules may confuse the AI.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Add Combat and Magic Rules
 
  As with any adventure[RPG](https://www.makeuseof.com/what-are-rpgs-role-playing-games/) , combat and magic are big parts of the experience. If you don’t add rules to guide this part of your game, you’ll end up with a game you can easily cheese through. It doesn’t help that ChatGPT likes to favor the user in its narratives, and it will generally make things go your way. Here’s what our rules look like:
@@ -159,16 +173,10 @@ thumbnail: https://thmb.techidaily.com/a3acf69c3d36fa57ad14263ad88da8c8eaf18e40a
  Combat rules can be especially tricky for the AI, so you might need to experiment with this a bit till you find something that sticks.
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclude Your Prompt
@@ -184,6 +192,13 @@ And finally, don’t forget to actually start the game:
 > Start Game.
 
  As you play, you might have to remind the AI of the rules you’ve laid out. The AI will respond to the same prompt differently, so every user might have a different experience.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Using GPT-4 vs. GPT-3.5 to Run Your Game
 
@@ -291,13 +306,6 @@ And finally, don’t forget to actually start the game:
 
  Once again, don't forget that AI is still an emerging technology and will change as time goes on. Your experience using our prompts may differ significantly from ours.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Is This the Beginning of Open-Ended Gaming?
 
  ChatGPT has revealed that it is possible to have a game that changes with the player without following a pre-defined path or forcing the player to engage in the same NPC conversations. The future of gaming could mean entering your parameters and allowing AI to generate your ideal game without having a team of developers.
@@ -317,5 +325,21 @@ And finally, don’t forget to actually start the game:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-unlocking-instagrams-potential-successful-post-tactics/"><u>[New] In 2024, Unlocking Instagram's Potential Successful Post Tactics</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-why-visual-narratives-from-customers-boost-business-appeal/"><u>[New] In 2024, Why Visual Narratives From Customers Boost Business Appeal</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-how-to-master-gameplay-filming-in-sims-4/"><u>2024 Approved How to Master Gameplay Filming in Sims 4</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beating-the-pressure-with-conversational-ai-insights-from-chatgpt/"><u>Beating the Pressure with Conversational AI: Insights From ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/demystify-artificial-intelligence-lexicon-with-our-in-depth-glossary/"><u>Demystify Artificial Intelligence Lexicon with Our In-Depth Glossary</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/discover-the-most-effective-free-dvd-converters-for-windows-users-complete-guide-with-downloads/"><u>Discover the Most Effective Free DVD Converters for Windows Users – Complete Guide with Downloads!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fast-video-and-audio-conversion-with-winxvideo-ai-boost-your-content-at-lightning-speed-gpu-speeds/"><u>Fast Video & Audio Conversion with Winxvideo AI: Boost Your Content at Lightning-Speed GPU Speeds</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-avoiding-poverty-earning-in-beauty-media/"><u>In 2024, Avoiding Poverty Earning in Beauty Media</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-easy-tone-generation-5-best-free-online-tools-you-need-for-2024/"><u>New Easy Tone Generation 5 Best Free Online Tools You Need for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-troubleshooting-tips-for-windows-error-code-31/"><u>Quick Troubleshooting Tips for Windows Error Code 31</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionize-self-care-top-9-applications-of-chatgpt-in-health-management/"><u>Revolutionize Self-Care: Top 9 Applications of ChatGPT in Health Management</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/silent-dialogues-on-the-web-unraveling-the-enigma-of-who-you-interact-with-online/"><u>Silent Dialogues on the Web: Unraveling the Enigma of Who You Interact With Online</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/snapchats-my-ai-and-chatgpt-face-off-which-should-be-your-go-to-ai/"><u>Snapchat’s My AI and ChatGPT Face-Off: Which Should Be Your Go-To AI?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solutions-for-resolving-missing-jvmdll-error-on-your-computer/"><u>Solutions for Resolving 'Missing jvm.dll' Error on Your Computer</u></a></li>
+</ul></div>
 

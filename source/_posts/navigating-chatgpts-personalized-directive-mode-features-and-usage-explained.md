@@ -1,7 +1,7 @@
 ---
 title: "Navigating ChatGPT's Personalized Directive Mode: Features and Usage Explained"
-date: 2024-09-11T22:29:12.642Z
-updated: 2024-09-17T21:54:04.601Z
+date: 2024-10-10T03:39:42.569Z
+updated: 2024-10-15T16:02:24.494Z
 tags:
   - chatgpt
   - open-ai
@@ -60,9 +60,23 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
 
 ![ChatGPT running plan question screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-running-plan-question-screenshot.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Next, I prompted the chatbot to create a running plan. It responded with several questions about my current fitness level, as well as overall training goals, to generate a more detailed response.
 
 ![ChatGPT 10K running plan prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-10k-running-plan-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  I responded to the questions in order, and it provided a multi-week plan. The plan is actually pretty solid, even taking potential injuries into account, but it didn't get into more granular details like pacing.
 
@@ -71,6 +85,13 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
  Even with a few attempts at follow-up questions, the chatbot did not respond with any specific pacing information. Compared to similar[training plans from Runner’s World](https://www.runnersworld.com/training/a30911910/download-your-runners-world-training-plan/) , the ChatGPT responses are not quite as detailed; however, they do offer basic plans that can help you get ready for specific distances.
 
 ![ChatGPT Boston qualifier prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-boston-qualifier-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  However, there is some level of self-awareness with ChatGPT's advice on this topic (if you can say such a thing about AI technology). For instance, if you ask it to create a running plan that will help you qualify for the Boston Marathon, then it directs you to find an online plan that already addresses this ambition. It's a huge, years-long goal, even for many talented runners, and the app rightly doesn't attempt to offer a pat response.
 
@@ -81,10 +102,10 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
 ![ChatGPT strength training prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-strength-training-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Likewise, ChatGPT’s general strength training plan is also pretty dependable, calling for bodyweight exercises like squats and push-ups as well as dumbbell rows. It’s similar to what you might find from[top strength-training apps](https://www.makeuseof.com/best-weightlifting-apps/) .
@@ -96,13 +117,6 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
  In this example, I received detailed instructions on the correct way to do deadlifts. It offered helpful pointers about your stance, grip, and even breathing techniques in order to make the most of this particular exercise.
 
  If you ever need to double-check the way to perform a certain exercise, or simply try out a new series of strength workouts, then ChatGPT is a helpful resource. The simple, straightforward responses and training plans offer a lot of information for beginner and more experienced athletes looking to increase their strength. Just be sure to verify the information with reputable sources before you take ChatGPT's advice.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## It's Possible to Use ChatGPT to Help With Your Fitness Goals
 
@@ -121,5 +135,24 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-21-edition-deep-dive-unraveling-vegas-pros-complexities/"><u>[New] In 2024, '21 Edition Deep-Dive Unraveling Vegas Pro’s Complexities</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-diverging-paths-youtube-licensing-and-creative-commons/"><u>[New] In 2024, Diverging Paths YouTube Licensing & Creative Commons</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-the-ultimate-guide-to-selecting-facebook-live-capturers/"><u>[New] In 2024, The Ultimate Guide to Selecting Facebook Live Capturers</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-melody-match-maker-audio-ambience-for-videos/"><u>[New] Melody Match-Maker Audio Ambience For Videos</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-smooth-sailing-navigating-the-world-of-igtv-videos/"><u>[New] Smooth Sailing Navigating the World of IGTV Videos</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-virtual-memoirs-best-tools-and-practices-for-downloading-twitter-content/"><u>[New] Virtual Memoirs Best Tools and Practices for Downloading Twitter Content</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-beyond-sharex-in-depth-comparisons/"><u>[Updated] Beyond ShareX In-Depth Comparisons</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-elevate-your-video-editing-skills-with-kinemaster-and-10-leading-alternatives/"><u>[Updated] Elevate Your Video Editing Skills with KineMaster & 10 Leading Alternatives</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/affordable-high-quality-tablets-for-2n4-professional-evaluations-and-rankings-zdnet/"><u>Affordable High-Quality Tablets for 2N4: Professional Evaluations and Rankings | ZDNet</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/cash-flow-curiosity-how-much-does-the-celebrity-make-in-2024/"><u>Cash Flow Curiosity How Much Does the Celebrity Make, In 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/choosing-between-legacy-and-innovation-an-essential-review-of-apples-m3-vs-m1-macbook-pro/"><u>Choosing Between Legacy & Innovation: An Essential Review of Apple's M3 Vs. M1 MacBook Pro</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enjoy-24-discount-on-airpods-pro-2-the-latest-edition-with-built-in-hearing-aid-functionality-exclusively-on-zdnet/"><u>Enjoy 24% Discount on AirPods Pro 2 - The Latest Edition with Built-In Hearing Aid Functionality, Exclusively on ZDNET!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-skepticism-to-conversion-how-three-key-features-won-me-over-for-the-apple-watch-series-10/"><u>From Skepticism to Conversion: How Three Key Features Won Me Over for the Apple Watch Series 10</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ipad-unveiling-highlights-introducing-the-ipad-pro-m4-13-ipad-air-and-enhanced-apple-pencil-full-coverage-by-zdnet/"><u>IPad Unveiling Highlights: Introducing the iPad Pro (M4), 13 iPad Air & Enhanced Apple Pencil - Full Coverage by ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-6-benefits-of-owning-an-apple-watch-insights-from-a-leading-tech-guru/"><u>Top 6 Benefits of Owning an Apple Watch: Insights From a Leading Tech Guru</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-ipad-models-featuring-comprehensive-reviews-by-tech-experts-insights/"><u>Top-Rated iPad Models Featuring Comprehensive Reviews by Tech Experts - Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unbeatable-july-offers-for-iphones-expert-tips-and-reviews/"><u>Unbeatable July Offers for iPhones: Expert Tips & Reviews</u></a></li>
+</ul></div>
 

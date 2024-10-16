@@ -1,7 +1,7 @@
 ---
 title: "Mastering MacOS with Craft: The Ultimate Guide to Using This Remarkable Document Editor"
-date: 2024-10-07T19:45:46.400Z
-updated: 2024-10-09T21:12:39.075Z
+date: 2024-10-14T22:29:45.868Z
+updated: 2024-10-16T01:13:40.537Z
 tags:
   - apple
 categories:
@@ -36,16 +36,10 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -69,10 +63,16 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -86,10 +86,10 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -140,22 +140,16 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-expert-strategies-in-photo-editing-for-profound-impact/"><u>[New] Expert Strategies in Photo Editing for Profound Impact</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-sharpfocusx7-size-your-photography-right/"><u>[Updated] 2024 Approved SharpFocusX7 Size Your Photography Right</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-audiovisual-excellence-youtube-videos-in-premiere-pro/"><u>2024 Approved Audiovisual Excellence YouTube Videos in Premiere Pro</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/boosting-output-quality-in-onlyoffice-docspace-by-integrating-with-chatgpt-technology/"><u>Boosting Output Quality in OnlyOffice Docspace by Integrating with ChatGPT Technology</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/conversational-conquerors-which-model-wins-chatgpt-or-bard/"><u>Conversational Conquerors: Which Model Wins, ChatGPT or Bard?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/converting-creative-imagery-transforming-webp-from-dall-e-to-png-jpg/"><u>Converting Creative Imagery: Transforming WebP From DALL-E to PNG, JPG</u></a></li>
-<li><a href="https://fox-links.techidaily.com/easier-than-ever-simplified-hdr-photography-insights-for-2024/"><u>Easier Than Ever Simplified HDR Photography Insights for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/facing-problems-with-the-chatgpt-app-on-your-iphone-try-these-9-fixes/"><u>Facing Problems with the ChatGPT App on Your iPhone? Try These 9 Fixes!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-15-pro-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 15 Pro without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-honor-100-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Honor 100 to iPod | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-top-5-high-definition-screens-for-ps5/"><u>In 2024, Top 5 High-Definition Screens for PS5</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-superior-communication-optimal-use-of-zoom-in-skype-sessions/"><u>In 2024, Unlocking Superior Communication Optimal Use of ZOOM in Skype Sessions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-it-possible-to-use-chatgpt-for-managing-a-smart-home-system/"><u>Is It Possible to Use ChatGPT for Managing a Smart Home System?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-puzzle-of-immutable-chatgpt-mods/"><u>The Puzzle of Immutable ChatGPT Mods</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-expert-insights-on-hardware-and-software/"><u>Tom's Tech Review: Expert Insights on Hardware and Software</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-11-creative-gpt-inquiries-to-shape-your-storys-characters/"><u>Top 11 Creative GPT Inquiries to Shape Your Story's Characters</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-power-of-chatgpt-with-extensions/"><u>Unveiling the Power of ChatGPT with Extensions</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-drone-wizardry-and-the-mavic-pro-breakdown/"><u>[New] In 2024, Drone Wizardry and the Mavic Pro Breakdown</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-unseen-screenshots-tracking-instagrams-hidden-viewer-list/"><u>[Updated] 2024 Approved Unseen Screenshots Tracking Instagram's Hidden Viewer List</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-advanced-animators-toolkit-samples/"><u>2024 Approved Advanced Animator's Toolkit Samples</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/canvas-hidden-power-ups-for-stunning-visuals/"><u>Canva's Hidden Power-Ups for Stunning Visuals</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/defensive-techniques-to-block-openai-web-harvesting-attempts-on-your-site/"><u>Defensive Techniques to Block OpenAI Web Harvesting Attempts on Your Site</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-oppo-reno-8t-to-mac-drfone-by-drfone-android/"><u>How to Mirror Oppo Reno 8T to Mac? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-vivo-g2-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Vivo G2 PC | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/six-incredible-free-alternatives-to-openais-revolutionary-sora-technology/"><u>Six Incredible Free Alternatives to OpenAI's Revolutionary Sora Technology</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-8-influential-methods-ai-powered-chatbots-enhancing-digital-writing/"><u>Top 8 Influential Methods: AI-Powered Chatbots Enhancing Digital Writing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-gpt-4-complimentary-access-opened-up-yet-6-compelling-arguments-for-continuing-with-chatgpt-plus/"><u>Unlocking GPT-4: Complimentary Access Opened Up - Yet, 6 Compelling Arguments for Continuing with ChatGPT Plus</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-openais-newly-released-gpt-platform-easy-steps-to-dive-in-right-away/"><u>Unlocking OpenAI's Newly Released GPT Platform: Easy Steps to Dive In Right Away</u></a></li>
 </ul></div>
 

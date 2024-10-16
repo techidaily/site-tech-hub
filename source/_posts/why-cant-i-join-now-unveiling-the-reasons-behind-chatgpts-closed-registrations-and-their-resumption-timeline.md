@@ -1,7 +1,7 @@
 ---
 title: Why Can't I Join Now? Unveiling the Reasons Behind ChatGPT's Closed Registrations and Their Resumption Timeline
-date: 2024-09-16T23:18:51.942Z
-updated: 2024-09-17T21:45:13.641Z
+date: 2024-10-10T22:37:34.047Z
+updated: 2024-10-15T16:01:41.166Z
 tags:
   - chatgpt
   - open-ai
@@ -56,6 +56,13 @@ We'll be using Claude 1.3 and Claude 2 in this comparison.
 
 As you can see, there are several differences to consider.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ChatGPT's Pros and Cons
 
  In what ways does ChatGPT outshine Claude? What perks and advantages does it boast?
@@ -81,13 +88,6 @@ Additionally, ChatGPT has a wide range of browser plugins, including:
 * DAIZY
 
  These plugins have various functions but generally allow you to integrate ChatGPT into your online activities.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### ChatGPT's Cons
 
@@ -121,6 +121,13 @@ So, how does Claude compare to ChatGPT?
 
  Lastly, Claude 2 is entirely free to use, with no one-off fees or monthly subscriptions required for use.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Claude's Cons
 
  Claude's biggest limitation is geographical availability. At the time of writing, Claude is only available to US and UK residents, while ChatGPT is available in most countries worldwide.
@@ -130,22 +137,15 @@ So, how does Claude compare to ChatGPT?
  Like ChatGPT, Claude is also at risk of hallucinating, which is important to remember.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT vs. Claude: a Direct Comparison
 
  To further understand how these two AI chatbots and their respective LLMs work, let's provide each with the same prompts to see how they react.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Creative Abilities
 
@@ -155,18 +155,18 @@ So, how does Claude compare to ChatGPT?
 
 ![screenshot of chatgpt poem prompt response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-poem-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  ChatGPT's poem was a little shorter, highlighting that it followed the requested ABAB rhyming structure.
 
 ![claude poem prompt chat screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-poem-prompt.jpg)
 
  On the other hand, Claude provided a slightly lengthier poem, but both are fairly equal in their creative abilities.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Mathematical Abilities
 
@@ -175,6 +175,13 @@ So, how does Claude compare to ChatGPT?
  ChatGPT's response took us through the equation step-by-step instead of just providing the answer.
 
 ![screenshot of chatgpt trigonometry prompt response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-trig-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 When given the same problem, Claude gave us the following response:
 
@@ -199,16 +206,10 @@ Claude's interpretation read...
  Compared to the original text, Claude did a slightly better job translating from Japanese to English.
 
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT and Claude May Become Close Rivals
@@ -228,5 +229,21 @@ Claude's interpretation read...
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-maximize-your-laptops-dvd-potential-easily/"><u>[New] 2024 Approved Maximize Your Laptop's DVD Potential Easily</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-choreographing-climactic-crescendos/"><u>[New] In 2024, Choreographing Climactic Crescendos</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-how-many-movies-fit-in-128gb-memory/"><u>[Updated] 2024 Approved How Many Movies Fit in 128GB Memory</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-eden-echoes-best-rural-role-playing-realms/"><u>[Updated] Eden Echoes Best Rural Role-Playing Realms</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-elevate-your-facebook-ads-game-no-price-tag-for-video-kit/"><u>[Updated] Elevate Your Facebook Ads Game - No Price Tag for Video Kit</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boosting-your-home-office-efficiency-with-chatgpt-six-essential-tips/"><u>Boosting Your Home Office Efficiency with ChatGPT: Six Essential Tips</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-subpar-to-spectaculous-elevating-proposals-with-gpt-3/"><u>From Subpar to Spectaculous: Elevating Proposals with GPT-3</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-crafting-revenue-in-20-second-chunks-youtube-shorts-magic/"><u>In 2024, Crafting Revenue in 20-Second Chunks YouTube Shorts Magic</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/machine-learning-meets-numbers-game/"><u>Machine Learning Meets Numbers Game</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/prompt-engineers-real-job-or-ai-driven-hype/"><u>Prompt Engineers: Real Job or AI-Driven Hype?</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/resolving-windows-server-2022s-dhcp-issues-step-by-step-fixes/"><u>Resolving Windows Server 2022'S DHCP Issues - Step by Step Fixes</u></a></li>
+<li><a href="https://win-superb.techidaily.com/revitalize-your-aging-pc-boosting-performance-on-windows-10-and-mac-tips-from-zdnet/"><u>Revitalize Your Aging PC: Boosting Performance on Windows 10 and Mac - Tips From ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-leading-point-of-sale-software-for-modern-businesses-not-gpt/"><u>The Leading Point-of-Sale Software for Modern Businesses, Not GPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-triad-of-artifical-intelligence-comparing-public-private-and-personal-ai-systems/"><u>The Triad of Artifical Intelligence: Comparing Public, Private, and Personal AI Systems</u></a></li>
+</ul></div>
 

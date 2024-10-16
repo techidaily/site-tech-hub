@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT Enhanced: Strategies for Effective Extension Use"
-date: 2024-09-15T01:55:55.446Z
-updated: 2024-09-17T16:50:59.510Z
+date: 2024-10-13T22:52:02.504Z
+updated: 2024-10-15T21:43:42.983Z
 tags:
   - chatgpt
   - open-ai
@@ -59,10 +59,10 @@ thumbnail: https://thmb.techidaily.com/e937c769751b4b8235d825da190a8de514c18ce6c
 ![Monitor on a desk with OpenAI logo](https://thmb.techidaily.com/0d605cbff29d9fac95ea636e3f1dc6722b73dcac2e7b43e02dacf71b94afcc8e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Ralf Jhetner Borja/[flickr](https://www.flickr.com/photos/198726053@N04/53043766807/)
@@ -74,21 +74,28 @@ thumbnail: https://thmb.techidaily.com/e937c769751b4b8235d825da190a8de514c18ce6c
  You see, a model might have a one million token context window (around 700,000 words capacity) but fail to produce a comprehensive summary when asked to summarize a 500,000-word book because it can't adequately process the entirety of the context despite having the capacity to do so in theory. That you can read a 500k-word book does not mean you can recall everything in it or process it sensibly.
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. GPT Agents
 
 ![ChatGPT accessed on a smartphone](https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51ce8909742113d79362ddfedd.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/vancouver-canada-jan-23-2024-webpage-2417500449)
 
@@ -103,6 +110,13 @@ thumbnail: https://thmb.techidaily.com/e937c769751b4b8235d825da190a8de514c18ce6c
  GPT Agents promises specialized expert bots coordinated by, hopefully, GPT-5 capable of self-prompting and tackling all subsets of a complex task autonomously. Emphasis on "self-prompting" and "autonomous."
 
  So, if GPT-5 ships with GPT Agents, you could ask it to "build a portfolio website for Maxwell Timothy" rather than just "write me a code for the homepage." GPT-5 would then theoretically be able to self-prompt by invoking expert AI agents to handle the various subtasks needed to build a website. It might invoke one GPT to scrap the web for information on Maxwell Timothy, another agent to write the code for different pages, another agent to generate and optimize images, and even another AI agent to deploy the site, all without the need for repeated human prompting.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Less Hallucination
 
@@ -129,5 +143,20 @@ thumbnail: https://thmb.techidaily.com/e937c769751b4b8235d825da190a8de514c18ce6c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-step-up-your-game-on-tiktok-top-50-trending-tags/"><u>[New] Step Up Your Game on TikTok Top 50 Trending Tags</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/1715854977923-new-vrecorder-how-to-download-and-install/"><u>[New] VRecorder How to Download and Install</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-elevating-views-amplifying-impact-a-youtube-case-study-for-2024/"><u>[Updated] Elevating Views, Amplifying Impact A Youtube Case Study for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-lava-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Lava FRP</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/apple-defies-conventions-why-your-iphone-may-not-require-a-case-are-consumers-taking-note/"><u>Apple Defies Conventions: Why Your iPhone May Not Require A Case – Are Consumers Taking Note?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/apple-vision-pros-brilliance-revealed-a-deep-dive-into-its-ten-surprising-features-insights-by-zdnet/"><u>Apple Vision Pro's Brilliance Revealed: A Deep Dive Into Its Ten Surprising Features | Insights by ZDNET</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/exclusive-12-video-hourly-livestream-service-for-2024/"><u>Exclusive 12 Video Hourly Livestream Service for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-shadow-elimination-for-dark-iphone-footage/"><u>In 2024, Shadow Elimination for Dark iPhone Footage</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-tecno-pova-6-pro-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Tecno Pova 6 Pro 5G FRP Bypass</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/iphone-users-welcome-ios-18-release-info-downloading-steps-and-supported-devices-covered/"><u>IPhone Users, Welcome: IOS 18 Release Info, Downloading Steps & Supported Devices Covered</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-webm-to-mp4-converter-roundup-top-10-picks/"><u>New 2024 Approved WebM to MP4 Converter Roundup Top 10 Picks</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/understanding-and-repairing-dev-error-5573-from-cod-vanguard-by-activision/"><u>Understanding And Repairing Dev Error 5573 From COD Vanguard By Activision</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-i-couldnt-resist-unboxing-apples-affordable-17-usb-c-earpods-on-prime-day/"><u>Why I Couldn't Resist: Unboxing Apple's Affordable $17 USB-C EarPods on Prime Day</u></a></li>
+</ul></div>
 

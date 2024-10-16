@@ -1,7 +1,7 @@
 ---
 title: Sculpt Personalized Language Agents
-date: 2024-09-16T00:20:50.292Z
-updated: 2024-09-18T02:44:05.150Z
+date: 2024-10-12T03:03:55.275Z
+updated: 2024-10-16T04:17:04.721Z
 tags:
   - chatgpt
   - open-ai
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/787952173ce9e83e0ef633a4cedb93e7fb52d657c
 * [How to Find the Best Custom GPTs in the GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/#how-to-find-the-best-custom-gpts-in-the-gpt-store)
 * [Is it Worth Upgrading to ChatGPT Plus to Use Custom GPTs?](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/#is-it-worth-upgrading-to-chatgpt-plus-to-use-custom-gpts)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * OpenAI has launched the GPT Store, where users can find custom GPTs created by the ChatGPT community.
@@ -35,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/787952173ce9e83e0ef633a4cedb93e7fb52d657c
  OpenAI has finally unveiled its highly anticipated GPT Store, offering users a selection of ChatGPT community-created custom GPTs featuring specialized chatbots ranging from writing and design to programming and productivity. The launch marks OpenAI's latest move to capitalize on the runaway popularity of its AI creation ChatGPT, which took the world by storm after its launch in November 2022.
 
  ChatGPT's custom GPT Store is open right now, and this is how you can use it to find the pre-programmed AI tools you need.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Access the GPT Store
 
@@ -46,6 +60,13 @@ How do you know when you've been granted access?
 
  On the left sidebar of the ChatGPT interface, you should see**Explore GPTs** instead of simply**Explore** . Once you see this, you can start using the GPT Store! Remember, the whole idea of the GPT Store is to help users browse and access a wide range of GPTs built by the community. So, how can you use it to find the right GPT for your tasks?
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Find the Best Custom GPTs in the GPT Store
 
  Using the GPT Store is quite straightforward. Here's how you can browse and search for custom GPTs:
@@ -55,21 +76,14 @@ How do you know when you've been granted access?
 ![Screenshot of the GPT store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-store.jpg)
 3. You can also use the search bar to find GPTs by keyword or related terms.  
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![GPT Store search screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-store-search-screen.jpg)
 4. When you find a GPT you want to try, click on it to open the individual GPT page.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. On the GPT page, you will see information about what that model offers.
@@ -99,5 +113,18 @@ How do you know when you've been granted access?
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-top-tech-for-speedy-video-frame-snapping/"><u>[New] Top Tech for Speedy Video Frame Snapping</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-sky-high-drone-competition-guide-plus-5-innovative-fpv-systems/"><u>[Updated] Sky High Drone Competition Guide + 5 Innovative FPV Systems</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-the-ultimate-guide-to-digital-audio-streaming-and-recording-for-2024/"><u>[Updated] The Ultimate Guide to Digital Audio Streaming & Recording for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-rapid-transition-from-srt-to-subc-with-simple-steps/"><u>2024 Approved Rapid Transition From SRT to SUBC with Simple Steps</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/are-browser-extensions-that-utilize-chatgpt-trustworthy-and-safe-to-use/"><u>Are Browser Extensions that Utilize ChatGPT Trustworthy and Safe to Use?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/examining-the-pitfalls-should-you-doubt-artificial-intelligence/"><u>Examining the Pitfalls: Should You Doubt Artificial Intelligence?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/halt-luminary-lurches-in-acer-computers/"><u>Halt Luminary Lurches in Acer Computers</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-your-iphone-6-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On your iPhone 6</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximize-your-chatgpt-utility-explore-the-top-7-chrome-extensions-that-transform-ai-communication-in-browsers/"><u>Maximize Your ChatGPT Utility: Explore the Top 7 Chrome Extensions That Transform AI Communication in Browsers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/redefining-clinical-practice-with-chatgpt-technology/"><u>Redefining Clinical Practice with ChatGPT Technology</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-core-variations-understanding-nlp-in-relation-to-machine-learning-techniques/"><u>The Core Variations: Understanding NLP in Relation to Machine Learning Techniques</u></a></li>
+</ul></div>
 

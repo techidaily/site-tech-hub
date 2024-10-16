@@ -1,7 +1,7 @@
 ---
 title: How Does FraudGPT Work, and What Can You Do to Stay Safe?
-date: 2024-09-11T20:12:07.424Z
-updated: 2024-09-18T01:09:39.377Z
+date: 2024-10-15T04:28:19.866Z
+updated: 2024-10-15T19:06:36.388Z
 tags:
   - chatgpt
   - open-ai
@@ -50,13 +50,26 @@ thumbnail: https://thmb.techidaily.com/4661968631eef5e118e434f91c87fd30d0c4ad99e
 
 ![chatgpt open source desktop version login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-login.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Install and Configure ChatGPT Desktop Application
@@ -64,10 +77,10 @@ thumbnail: https://thmb.techidaily.com/4661968631eef5e118e434f91c87fd30d0c4ad99e
 ![chatgpt open source desktop version home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-home-page.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Head to the open-source[ChatGPT Desktop Application download page](https://github.com/lencx/ChatGPT/releases/tag/v1.1.0) . The latest version at the time of writing is V1.1.0, but you can check for a newer version.
@@ -77,6 +90,13 @@ thumbnail: https://thmb.techidaily.com/4661968631eef5e118e434f91c87fd30d0c4ad99e
  Then, just sign in to ChatGPT as you usually would. All of your previous chats will be waiting for you, and you can choose from GPT-4, GPT-4o, DALL-E, and so on.
 
 ![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When Is the Official ChatGPT Desktop Version Launching?
 
@@ -99,5 +119,20 @@ thumbnail: https://thmb.techidaily.com/4661968631eef5e118e434f91c87fd30d0c4ad99e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-action-camera-buying-for-newbies-the-updated-guide-23/"><u>[New] Action Camera Buying for Newbies - The Updated Guide '23</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-drone-showdown-dji-vs-gopro-hero/"><u>2024 Approved Drone Showdown DJI vs GoPro Hero</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-powered-google-photo-editor-enhance-images-flawlessly/"><u>AI-Powered Google Photo Editor: Enhance Images Flawlessly</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/apple-vision-pro-equivalents-the-advancing-technology-of-meta-quest-spectacles/"><u>Apple Vision Pro Equivalents: The Advancing Technology of Meta Quest Spectacles</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-samsung-galaxy-a34-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Samsung Galaxy A34 5G to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/critical-indicators-when-opting-for-bot-services/"><u>Critical Indicators When Opting for Bot Services</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/freelancer-dilemma-bing-chat-vs-chatgpt8-must-know-points/"><u>Freelancer Dilemma: Bing Chat Vs. ChatGPT—8 Must-Know Points</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Simulate GPS Movement in AR games On Apple iPhone 12 mini? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-compelling-proposal-writing-using-chatgpt/"><u>Mastering the Art of Compelling Proposal Writing Using ChatGPT</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-troubleshooting-and-repairing-a-502-http-error/"><u>Step-by-Step Guide: Troubleshooting and Repairing a 502 HTTP Error</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-selection-of-premium-bluetooth-keyboards-for-2nnnd-century-tech-enthusiasts/"><u>Ultimate Selection of Premium Bluetooth Keyboards for 2Nnnd Century Tech Enthusiasts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-chatgpts-shared-link-system-and-functionality/"><u>Understanding ChatGPT’s Shared Link System and Functionality</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>What are Location Permissions Life360 On Apple iPhone 6 Plus? | Dr.fone</u></a></li>
+</ul></div>
 

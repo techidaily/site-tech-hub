@@ -1,7 +1,7 @@
 ---
 title: Ultimate List of Web Toolkits to Elevate Your Skills in Prompt Engineering
-date: 2024-09-13T16:56:21.448Z
-updated: 2024-09-17T16:31:41.997Z
+date: 2024-10-15T00:18:25.125Z
+updated: 2024-10-15T20:55:45.989Z
 tags:
   - chatgpt
   - open-ai
@@ -43,9 +43,29 @@ GPT-4 is here, and the rush to integrate it into apps has begun.
 
  GPT-4 is being used to create a reactive and responsive learning environment where no two conversations are alike. The first version is restricted to English speakers wanting to learn Spanish or French and is available only on iOS. Duolingo Max is priced at $29.99 monthly or $167.99 for an annual subscription.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Be My Eyes
 
 ![Picture Introducing Virtual Volunteer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/picture-introducing-virtual-volunteer.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The use of AI in our lives has been the source of many heated discussions. However, there are some areas where there can be little argument that AI has a positive effect. Be My Eyes is one such example. The app is designed to make the world more accessible for visually impaired people.
 
@@ -95,10 +115,10 @@ GPT-4 is here, and the rush to integrate it into apps has begun.
  OpenAI—the brains behind the brains of GPT-4—is already in collaboration with Stripe. Now, Stripe is integrating GPT-4 into its platform. The company already used GPT-3 for simple tasks, but integrating GPT-4 means AI will play a bigger role in the company's processes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How Stripe Intends to Use GPT-4
@@ -112,6 +132,13 @@ GPT-4 is here, and the rush to integrate it into apps has begun.
  From a user's perspective, Stripe has stated that the software can give a staggering level of insight into a user's business. This helps them understand how each business uses the platform and allows them to customize support resources tailored to the end user's needs.
 
  The developers say that the new system will be able to understand users' questions fully. It can also scan support documentation and offer solutions or highlight relevant text within documents.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. ChatSonic
 
@@ -139,13 +166,6 @@ GPT-4 is here, and the rush to integrate it into apps has begun.
 
 ![Screenshot_of Bing app opening screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot_of-bing-app-opening-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Screenshot of Bing Chat Opening Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-bing-chat-opening-screen.jpg)
 
 ![Screenshot of Bing answering query](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-bing-answering-query.jpg)
@@ -155,13 +175,6 @@ Close
  Microsoft was an early adopter of GPT-4, which it integrated into its Bing search page. A Bing app is now available for Android and iOS, bringing the power of GPT-4 to the mobile masses.
 
  The Bing app is representative of the next generation of search engines and, in true ChatGPT style, is capable of far more than just listing relevant results.
-
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### What Can You Use the Bing AI App For?
 
@@ -178,22 +191,16 @@ Close
 
 **Download** : Bing AI for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2023057/https://play.google.com/store/apps/details?id=com.microsoft.bing) |[iOS](https://apps.apple.com/us/app/bing-your-ai-copilot/id345323231) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Petey
 
 ![Screenshot of Petey home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-petey-home-page.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image Credit: Petey Assistant
 
@@ -204,10 +211,10 @@ Close
  The most basic tier for GPT-4 is a one-off payment of $3.99 on top of the cost of the app.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### What Can You Do With Petey?
@@ -215,6 +222,13 @@ Close
  It has all the usual features you'd expect from a ChatGPT-based app. However, the inclusion of GPT-4 brings the added benefit of access to real-time data, which comes into its own with its Apple Music integration. Without GPT-4, this feature can only use music released before the GPT-3.5 cut-off date (around late 2021).
 
 **Download** :[Petey](https://apps.apple.com/us/app/petey-ai-assistant/id6446047813) for iOS ($3.99 Premium version required for GPT-4)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## GPT-4: A New Level of Artificial Intelligence
 
@@ -235,5 +249,23 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-tracing-the-exits-who-left-my-insta-feed-in-2024/"><u>[Updated] Tracing the Exits Who Left My Insta Feed, In 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-from-bargain-hunting-to-video-glamour-editing-insights-for-hauls/"><u>2024 Approved From Bargain Hunting to Video Glamour Editing Insights for Hauls</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-prime-communication-tools-for-remote-teams/"><u>2024 Approved Prime Communication Tools for Remote Teams</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-xiaomi-redmi-note-12-pro-5g-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Xiaomi Redmi Note 12 Pro 5G? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chuckling-ai-pc-history-and-enhanced-web-safety-chronicles/"><u>Chuckling AI: PC History & Enhanced Web Safety Chronicles</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/cracking-linguistic-codes-comparing-gpt-with-bert-models/"><u>Cracking Linguistic Codes: Comparing GPT with BERT Models</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/download-adobe-premiere-pro-cs6-for-mac-free-latest-2023-version/"><u>Download Adobe Premiere Pro CS6 for Mac Free (Latest 2023 Version)</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/explore-the-best-ios-options-to-simulate-your-favorite-psp-classics-for-2024/"><u>Explore the Best iOS Options to Simulate Your Favorite PSP Classics for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/monitor-misbehaving-cant-show-full-screen-11-windows/"><u>Monitor Misbehaving: Can't Show Full Screen 11 Windows</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/movavi-photoshop/"><u>Movavi图片编辑器免费下载 - Photoshop替代品</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/peering-into-ais-unseen-processes-black-box-exploration/"><u>Peering Into AI's Unseen Processes: Black Box Exploration</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/seamless-teaching-online-screen-sharing-on-skype-explained/"><u>Seamless Teaching Online Screen Sharing on Skype Explained</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/text-to-tracks-enhancing-audio-design-with-chatgpt/"><u>Text to Tracks: Enhancing Audio Design with ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-future-of-psyche-care-top-5-ai-interventions/"><u>The Future of Psyche-Care: Top 5 AI Interventions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-5-myths-bypassing-gpt-in-digital-coin-studies/"><u>Top 5 Myths: Bypassing GPT in Digital Coin Studies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transform-your-approach-to-mathematics-with-the-best-7-ai-tools-available/"><u>Transform Your Approach to Mathematics With the Best 7 AI Tools Available</u></a></li>
+</ul></div>
 

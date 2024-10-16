@@ -1,7 +1,7 @@
 ---
 title: How Feasible Is the Use of Language Models Like ChatGPT in Crafting Viruses or Trojans?
-date: 2024-09-16T16:49:12.591Z
-updated: 2024-09-18T01:14:07.624Z
+date: 2024-10-11T02:59:27.617Z
+updated: 2024-10-15T18:06:31.575Z
 tags:
   - chatgpt
   - open-ai
@@ -54,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/cbf529e05dd3135fe67a52edb00f230c5ea151216
 
  Claude AI clearly got this one. We tried a few more tricky problems, and both chatbots had a fair share of successes and failures in dealing with them. Considering the outcome we observed, it might be fair to say that while ChatGPT has an edge, both chatbots are not too far apart in common sense and logical reasoning abilities.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ChatGPT vs. Claude AI: Math Skills
 
  Even if you never plan to use ChatGPT or Claude AI to solve your Algebra homework, their mathematical abilities have far-reaching implications. For AI chatbots, math is the key to understanding real-world logic, identifying flawed thinking, and admitting mistakes.
@@ -74,7 +81,21 @@ ChatGPT also cracked the problem as well.
 
 ![Claude AI solves a math problem step-by-step](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-solves-a-math-problem-step-by-step.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  We tried a few more math problems. While both chatbots got it right on the first try in some cases, in several instances, Claude AI needed a second or third attempt to provide the right response. In terms of math skills, we'll give the crown to ChatGPT.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ChatGPT vs. Claude AI: Creativity
 
@@ -95,10 +116,10 @@ ChatGPT also cracked the problem as well.
  After trying out a few more creative tasks, Claude AI seemed to excel in writing-related tasks and was able to write more natural-sounding content like a human writer would do. Although[ChatGPT was better at overcoming more complex creative tasks](https://www.makeuseof.com/creative-ways-to-use-chatgpt-openai/) , it sometimes couldn't shake off that AI chatbot feeling in the text it generated. Our verdict? Both ChatGPT and Claude AI are creative in their own right.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT vs. Claude AI: Coding Skills
@@ -116,13 +137,6 @@ ChatGPT also cracked the problem as well.
  After Claude AI failed the last test, we tried a different kind of coding task, one that was more about analyzing code and less about writing new code. We uploaded five PHP files that represent the complete backend for a website and asked both Claude AI and ChatGPT where we would need to edit in all the uploaded files to ensure we get a mail once a new user registers on the site.
 
 ![Claude AI analyzing multiple PHP files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-analyzing-multiple-php-files.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Surprisingly, ChatGPT, despite seemingly having superior coding skills, failed at this despite repeated attempts. Claude AI, on the other hand, was able to analyze the code proficiently while identifying the right places that needed to be edited to achieve the desired results.
 
@@ -147,5 +161,18 @@ ChatGPT also cracked the problem as well.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-soundscapes-free-from-restrictions/"><u>[New] Soundscapes Free From Restrictions</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-mend-facebook-story-playback-pauses-for-2024/"><u>[Updated] Mend Facebook Story Playback Pauses for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ais-evolution-how-does-transfer-learning-impact-it/"><u>AI's Evolution: How Does Transfer Learning Impact It?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/choosing-your-coding-sidekick-comparing-github-copilot-and-chatgpt-effectiveness/"><u>Choosing Your Coding Sidekick: Comparing GitHub Copilot and ChatGPT Effectiveness</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/designer-jokes-kapwings-visual-hilarity-suite/"><u>Designer Jokes Kapwing's Visual Hilarity Suite</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/introducing-googles-enhanced-palm-2-a-breakthrough-in-large-language-model-technology/"><u>Introducing Google’s Enhanced PaLM 2: A Breakthrough in Large Language Model Technology</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/navigating-the-world-of-electronics-with-toms-hardware-wisdom/"><u>Navigating the World of Electronics with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-fcpx-error-free-workflow-tips-tricks-and-techniques-for-2024/"><u>New FCPX Error-Free Workflow Tips, Tricks, and Techniques for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/quick-start-guide-bavarder-in-linux-environment/"><u>Quick-Start Guide: Bavarder in Linux Environment</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-new-era-of-jobs-shaped-by-ai-progress/"><u>The New Era of Jobs Shaped by AI Progress</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/unveiling-5-strategies-for-fb-story-access-on-pctablet-and-phone-for-2024/"><u>Unveiling 5 Strategies for FB Story Access on PC/Tablet and Phone for 2024</u></a></li>
+</ul></div>
 

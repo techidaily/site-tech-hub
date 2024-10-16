@@ -1,7 +1,7 @@
 ---
 title: "Joke Generation by AI: Can It Trigger Our Humor Circuits?"
-date: 2024-09-14T02:58:30.287Z
-updated: 2024-09-18T00:40:43.444Z
+date: 2024-10-12T05:15:50.345Z
+updated: 2024-10-16T04:16:30.787Z
 tags:
   - chatgpt
   - open-ai
@@ -40,9 +40,23 @@ thumbnail: https://thmb.techidaily.com/fe155e10fd0f0b362a89d3816e5304905834b00a0
 
 **Download:** Unriddle Summarize for[Chrome](https://chrome.google.com/webstore/detail/unriddle-ai-generated-sum/iinmigjlcpeckfihbbfajpkiilfmakff) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2.[Chatterdocs](https://chatterdocs.ai/tools/chat-with-pdf) (Web): Create Chatbots Sourcing From Multiple Documents
 
 ![Chatterdocs can analyze multiple documents at the same time while you chat with a bot and ask questions like ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/best-chatgpt-apps-chat-with-documents-pdf-chatterdocs.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * **File Formats Supported:** PDF, DOC, TXT, JPEG, PNG
 * **Page Limit:** No Information Available
@@ -72,16 +86,16 @@ thumbnail: https://thmb.techidaily.com/fe155e10fd0f0b362a89d3816e5304905834b00a0
 
  Currently, you cannot create an account on Klavier to store analyzed files. In fact, you can only work with one source material at a time and will lose any progress if you add a new source for Klavier to analyze.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4.[LXI.ai](https://lxi.ai/) (Web): Chat With Your Documents and Pay Per Usage
 
 ![LXI.ai has an innovative system to chat with your documents and pay only per your usage, not lumpsum tiers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/best-chatgpt-apps-chat-with-documents-pdf-lxi-ai.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * **File Formats Supported:** PDF, DOCX, TXT, URL
 * **Page Limit:** Unlimited
@@ -92,6 +106,13 @@ thumbnail: https://thmb.techidaily.com/fe155e10fd0f0b362a89d3816e5304905834b00a0
  LXI isn't a free app. After the 14-day trial period, you'll need to pay. But it's quite interesting that you pay according to your usage, not by preset plans. It costs $0.1 per MB per month for the amount of data you have uploaded. And every question you ask costs $0.0025, which you can avoid if you have your own OpenAI API key. So you have control over the actual price you'll pay.
 
  The chatbot works with all your documents at the same time, so you'll need to[learn to phrase ChatGPT prompts effectively](https://www.makeuseof.com/chatgpt-chrome-extensions-better-ai-prompts-answers-in-browsers/) to get the answers you need. It's also context-unaware, meaning each question is treated as a separate query without considering the conversation before it.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5.[Docalysis](https://docalysis.com/) (Web): Best App to Have ChatGPT Conversations With PDFs
 
@@ -113,13 +134,6 @@ thumbnail: https://thmb.techidaily.com/fe155e10fd0f0b362a89d3816e5304905834b00a0
 
 ![ChatPDF is a simple way to run ChatGPT on your PDF documents and chat with a bot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/best-chatgpt-apps-chat-with-documents-pdf-chatpdf.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * **File Formats Supported:** PDF
 * **Page Limit:** 120 pages (Free) | 2,000 pages (Paid)
 * **File Size Limit:** 10MB (Free) | 32MB (Paid)
@@ -127,13 +141,6 @@ thumbnail: https://thmb.techidaily.com/fe155e10fd0f0b362a89d3816e5304905834b00a0
 * **Chat Query Limit:** 50 / Day (Free) | 1000 / Day (Paid)
 
  ChatPDF is one of the[coolest new apps to work with PDF files](https://www.makeuseof.com/free-pdf-editing-web-apps-to-fix-common-problems-with-pdfs/) , and performs shockingly well for all text. It had trouble reading images and data from tables in our tests, where we uploaded files from our drive as well as direct URLs. The developers say that while they currently use ChatGPT 3.5, they are looking into how to incorporate the newer ChatGPT 4.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Learn Prompts to Make Chat Memory Easier
 
@@ -152,5 +159,26 @@ thumbnail: https://thmb.techidaily.com/fe155e10fd0f0b362a89d3816e5304905834b00a0
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-the-complete-guide-to-iphone-voice-memos-setup/"><u>[New] 2024 Approved The Complete Guide to iPhone Voice Memos Setup</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-disentangle-focus-from-webcams-surroundings/"><u>[Updated] 2024 Approved Disentangle Focus From Webcam's Surroundings</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-exploring-vsdcs-features-and-best-rival-tools/"><u>[Updated] 2024 Approved Exploring VSDC's Features and Best Rival Tools</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-streamline-your-digital-library-using-funimate/"><u>[Updated] 2024 Approved Streamline Your Digital Library Using Funimate</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-big-sur-os-essential-system-and-hardware-specifications-for-2024/"><u>[Updated] Big Sur OS Essential System & Hardware Specifications for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-capture-breathtaking-scenes-on-iphone-with-ease/"><u>[Updated] In 2024, Capture Breathtaking Scenes on iPhone with Ease</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-how-to-use-story-remix-to-edit-a-video-in-windows-10-photos/"><u>[Updated] In 2024, How to Use Story Remix to Edit a Video in Windows 10 Photos</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/apples-latest-quietly-impactful-ai-innovation-what-you-need-to-know-from-wwdc-techinsights/"><u>Apple's Latest Quietly Impactful AI Innovation: What You Need to Know From WWDC | TechInsights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-latest-innovations-apples-upcoming-tech-enhancements-for-iphone-ipad-mac-and-more-in-autumn-with-cutting-edge-ai-zdnet/"><u>Discover the Latest Innovations: Apple's Upcoming Tech Enhancements for iPhone, iPad, Mac, & More in Autumn with Cutting-Edge AI | ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722992658234-easy-solution-to-tackle-the-origin-crash-bug-swiftly-and-effectively/"><u>Easy Solution to Tackle the 'Origin Crash' Bug Swiftly and Effectively</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effective-strategies-to-retrieve-and-prevent-losing-your-airpods-further-insights/"><u>Effective Strategies to Retrieve and Prevent Losing Your AirPods Further - Insights</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Apple iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mac-studio-vs-mac-mini-why-one-feature-could-determine-your-next-purchase-decision-this-fall-zdnet-insights/"><u>Mac Studio Vs. Mac Mini: Why One Feature Could Determine Your Next Purchase Decision This Fall | ZDNET Insights</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/quick-and-convenient-video-edits-in-windows-11-photos-for-2024/"><u>Quick & Convenient Video Edits in Windows 11 Photos for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-on-sending-back-your-apple-vision-pro-insights-from-zdnet/"><u>Step-by-Step Guide on Sending Back Your Apple Vision Pro - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-4-kid-friendly-ipad-models-a-comprehensive-guide-zdnet/"><u>Top 4 Kid-Friendly iPad Models : A Comprehensive Guide | ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-tablet-enhancements-for-the-latest-ipads-featured-on-zdnet/"><u>Top Rated Tablet Enhancements for the Latest iPads - Featured on ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-guide-to-choosing-the-ideal-apple-watch-band-for-your-style-the-2024-edition-expertly-evaluated/"><u>Ultimate Guide to Choosing the Ideal Apple Watch Band for Your Style - The 2024 Edition, Expertly Evaluated</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unraveling-the-mystery-behind-the-historic-windows-meltdown-and-crowdstrike-clash-a-detailed-retrospective/"><u>Unraveling the Mystery Behind the Historic Windows Meltdown and CrowdStrike Clash - A Detailed Retrospective</u></a></li>
+</ul></div>
 

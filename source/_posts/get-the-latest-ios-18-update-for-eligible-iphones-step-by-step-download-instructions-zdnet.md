@@ -1,7 +1,7 @@
 ---
 title: Get the Latest iOS 18 Update for Eligible iPhones - Step-by-Step Download Instructions | ZDNet
-date: 2024-10-02T20:12:13.930Z
-updated: 2024-10-09T16:58:26.903Z
+date: 2024-10-14T01:41:29.137Z
+updated: 2024-10-16T06:13:33.184Z
 tags:
   - apple
 categories:
@@ -32,13 +32,6 @@ Jason Hiner/ZDNET
 
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Go to General in your iPhone Settings
 
 Go to your iPhone's Settings and select General. 
@@ -47,9 +40,23 @@ Go to your iPhone's Settings and select General.
 
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Download and install
 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Enter your passcode and follow steps to install
 
@@ -60,10 +67,10 @@ After installing the latest iOS update, your iPhone will restart.
 ## FAQs
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### When is Apple Intelligence coming out?
@@ -76,13 +83,6 @@ Apple released the iOS 18 developer beta during WWDC 2024 in June, and the publi
 
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Can you still download the iOS 18 public beta?
 
 You can always be part of the Apple Beta program to get the latest beta versions of iOS. Before you download a beta version of an operating system, you should have some housekeeping items in mind:
@@ -90,13 +90,6 @@ You can always be part of the Apple Beta program to get the latest beta versions
 * Back up your device and personal information.
 * Don't download beta software, which will likely have bugs and glitches, on your everyday iPhone.
 * You should go into the experience to test new features and share feedback to improve iOS, which is why beta versions are released.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How do I install the iOS 18 beta version?
 
@@ -108,6 +101,19 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 4. Select iOS 18 Public Beta. Then you'll begin receiving automatic software updates to the latest beta version of iOS 18\. Apple currently has four beta versions of iOS: iOS 18 public beta, iOS 18 developer beta, iOS 17 public beta, and iOS 17 developer beta. These four options will soon be reduced to just the two iOS 18 variants. Once you do this, return to the previous page. If an update is available now, your iPhone will prompt you to download and install it.
 
 Screenshot: Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to download the iOS 18 developer beta?
 
@@ -169,24 +175,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/harting-financial-success-the-tale-of-ajey-carryminati-and-youtube/"><u>[New] Charting Financial Success The Tale of Ajey (CarryMinati) and YouTube</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-facebooks-essential-steps-smoothly-uploading-videos-via-pc-iosandroid-for-2024/"><u>[New] Facebook's Essential Steps Smoothly Uploading Videos via PC, iOS/Android for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-engineering-engaging-media-excerpts/"><u>[New] In 2024, Engineering Engaging Media Excerpts</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-photographic-poise-achieving-dynamic-motion-blur-on-facial-elements-through-picsart/"><u>[Updated] Photographic Poise Achieving Dynamic Motion Blur on Facial Elements Through Picsart</u></a></li>
-<li><a href="https://network-issues.techidaily.com/bypass-graphics-snag-with-amd-fixes/"><u>Bypass Graphics Snag with AMD Fixes</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/comparing-chatgpt-and-huggingfaces-huggingchat-determining-the-superior-conversational-ai/"><u>Comparing ChatGPT and HuggingFace's HuggingChat: Determining the Superior Conversational AI</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/conscious-communication-chatgpt-as-a-therapeutic-aid/"><u>Conscious Communication: ChatGPT as a Therapeutic Aid</u></a></li>
-<li><a href="https://tools.techidaily.com/creator/products/"><u>Creator's Products</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/deciphering-chatgpts-next-level-in-verified-world/"><u>Deciphering ChatGPT's Next Level in Verified World</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-unlock-new-features-by-merging-chatgpt-with-siri-on-an-iphone/"><u>How to Unlock New Features by Merging ChatGPT with Siri on an iPhone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-lightning-flicker-viewer-windows-photos/"><u>In 2024, Lightning Flicker Viewer - Windows Photos</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/integrating-chatgpt-with-whatsapp-enhancing-your-customer-support-strategy/"><u>Integrating ChatGPT with WhatsApp: Enhancing Your Customer Support Strategy</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/is-hailing-a-cab-still-cheaper-than-booking-an-uber-the-price-comparison/"><u>Is Hailing a Cab Still Cheaper than Booking an Uber? The Price Comparison</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-the-usage-of-nvidias-personalized-ai/"><u>Navigating the Usage of NVIDIA’s Personalized AI</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-easy-integration-of-chatgpt-plugins/"><u>Step-by-Step Guide: Easy Integration of ChatGPT Plugins</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transformative-tech-ais-revolution-in-website-searches/"><u>Transformative Tech: AI's Revolution in Website Searches</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/troubleshooting-steps-to-stop-total-war-warhammer-3-from-crashing-on-your-pc/"><u>Troubleshooting Steps to Stop Total War: Warhammer 3 From Crashing on Your PC</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/ultimate-group-communication-applications-for-2024/"><u>Ultimate Group Communication Applications for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/why-you-shouldnt-delegate-privacy-to-gpt/"><u>Why You Shouldn't Delegate Privacy to GPT</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-through-video-editing-landscape-with-movies-maker-on-windows-8/"><u>[New] Navigating Through Video Editing Landscape with Movies Maker on Windows 8</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pioneering-virtual-realms-equip-yourself-with-these-tech/"><u>2024 Approved Pioneering Virtual Realms - Equip Yourself With These Tech</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-top-6-must-try-instagram-reel-apps/"><u>2024 Approved Top 6 Must-Try Instagram Reel Apps</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-as-your-partner-in-preparing-wellness-oriented-diet-programs/"><u>ChatGPT as Your Partner in Preparing Wellness-Oriented Diet Programs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/evaluating-the-differences-between-mistral-ais-le-chat-and-chatgpt/"><u>Evaluating the Differences Between Mistral AI's Le Chat and ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-profitable-side-jobs-similar-to-chatgpt-what-are-the-real-earnings-potentials/"><u>Exploring Profitable Side Jobs Similar to ChatGPT: What Are the Real Earnings Potentials?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-tecno-phantom-v-fold-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Tecno Phantom V Fold to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-liveaudiovideocasting-network/"><u>In 2024, LiveAudioVideocasting Network</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-madden-nfl-20-on-pc-eliminate-crashes-once-and-for-all/"><u>Mastering Madden NFL 20 on PC: Eliminate Crashes Once & For All</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-the-world-of-ai-as-a-parent-the-ultimate-guide-to-chatgpt/"><u>Navigating the World of AI as a Parent: The Ultimate Guide to ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-6-free-ai-tools-comparable-to-openais-sora/"><u>Top 6 FREE AI Tools Comparable to OpenAI's Sora</u></a></li>
+<li><a href="https://win-blog.techidaily.com/world-of-warcraft-stability-secrets-how-to-avoid-and-resolve-crashes-smoothly/"><u>World of Warcraft Stability Secrets: How to Avoid & Resolve Crashes Smoothly</u></a></li>
 </ul></div>
 

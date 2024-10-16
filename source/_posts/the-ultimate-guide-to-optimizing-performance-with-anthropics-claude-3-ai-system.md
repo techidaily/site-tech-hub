@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Optimizing Performance with Anthropic's Claude 3 AI System
-date: 2024-09-11T21:39:45.537Z
-updated: 2024-09-17T18:02:49.235Z
+date: 2024-10-09T03:12:49.641Z
+updated: 2024-10-15T16:40:53.576Z
 tags:
   - chatgpt
   - open-ai
@@ -41,9 +41,23 @@ thumbnail: https://thmb.techidaily.com/16a9b35c6bd9fc401c0908fd1a1024fa5ae9f4d4f
 
  There are plenty more[alternatives to DALL-E 3](https://www.makeuseof.com/ai-text-to-art-generators/) worth checking out, too. Compare them to see which image creator works best for you.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Makes DALL-E 3 Special?
 
 ![Four AI-generated images of cats wearing a hat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/four-ai-generated-images-of-cats-wearing-a-hat.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  DALL-E 3 promises to be a step up from its previous versions with improved accuracy, better photorealism capabilities, and more creative images. We've noticed a step up in quality as well, even when our prompts contain very few details.
 
@@ -58,13 +72,6 @@ thumbnail: https://thmb.techidaily.com/16a9b35c6bd9fc401c0908fd1a1024fa5ae9f4d4f
  This is how it would pan out if we were[using the previous version of DALL-E](https://www.makeuseof.com/how-to-use-dall-e-2/) . We gave DALL-E 2 the following prompt: "What would New York City look like in 2100 if plants had taken over?"
 
 ![DALL-E 2 image of NYC and plants](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-2-image-of-nyc-and-plants.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  When we asked if it could add animals to that image it just generated, it couldn't. Instead, it generated new images of just animals.
 
@@ -87,10 +94,23 @@ thumbnail: https://thmb.techidaily.com/16a9b35c6bd9fc401c0908fd1a1024fa5ae9f4d4f
 ![DALL-E 3 image of a city with animals on top of buildings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-3-image-of-a-city-with-animals-on-top-of-buildings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Limitations of DALL-E 3 and Bing
@@ -106,10 +126,16 @@ thumbnail: https://thmb.techidaily.com/16a9b35c6bd9fc401c0908fd1a1024fa5ae9f4d4f
  But this will be a welcome addition for artists who don't want their images to train DALL-E in the first place. Adding to this, you can now fill in the[OpenAI opt-out form](https://share.hsforms.com/1%5FOuT5tfFSpic89PqN6r1CQ4sk30) to make sure your image doesn't go into the training pool.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Don't Wait to Try DALL-E 3; Access It Now With Bing
@@ -129,5 +155,21 @@ thumbnail: https://thmb.techidaily.com/16a9b35c6bd9fc401c0908fd1a1024fa5ae9f4d4f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-amplify-visual-appeal-in-tiktok-clips/"><u>[New] Amplify Visual Appeal in TikTok Clips</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-expertise-in-cutting-edge-encoders-for-live-media/"><u>[New] In 2024, Expertise in Cutting-Edge Encoders for Live Media</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-revive-the-unseen-watch-video-icon-on-fb/"><u>[Updated] In 2024, Revive the Unseen Watch Video Icon on FB</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/edit-like-a-pro-in-depth-tips-for-using-apples-hidden-image-editor-preview/"><u>Edit Like a Pro: In-Depth Tips for Using Apple's Hidden Image Editor, Preview</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-apples-cutting-edge-ai-developments-unveiling-the-potential-and-impact-of-their-new-machine-learning-models-silicon-valley-insights/"><u>Exploring Apple's Cutting-Edge AI Developments: Unveiling the Potential and Impact of Their New Machine Learning Models | Silicon Valley Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-top-features-of-my-favorite-iphone-case-with-a-unique-physical-keyboard-tech-innovations-on-zdnet/"><u>Exploring the Top Features of My Favorite iPhone Case with a Unique Physical Keyboard | Tech Innovations on ZDNet</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-3-ways-of-how-to-get-someones-apple-id-off-apple-iphone-7-without-password-by-drfone-ios/"><u>In 2024, 3 Ways of How to Get Someones Apple ID Off Apple iPhone 7 without Password</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-correcting-livekernelevent-error-144-malfunctions/"><u>Step-by-Step Solutions for Correcting LiveKernelEvent Error 144 Malfunctions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/tech-savvy-bookworms-rejoice-dive-into-a-sea-of-laptops-phones-and-literary-treasures/"><u>Tech-Savvy Bookworms Rejoice: Dive Into a Sea of Laptops, Phones & Literary Treasures</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-selection-of-apple-watch-bands-for-2anno-24-insider-evaluations-and-rankings/"><u>The Ultimate Selection of Apple Watch Bands for 2Anno 24: Insider Evaluations & Rankings</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-5-gamer-friendly-smartphones-expert-picks/"><u>Top 5 Gamer-Friendly Smartphones : Expert Picks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-7-strategies-suggested-by-apple-for-creating-seamless-experiences-on-visionos-insights-from-zdnet/"><u>Top 7 Strategies Suggested by Apple for Creating Seamless Experiences on VisionOS - Insights From ZDNet</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/twitterscape-treasury-your-one-stop-shop-for-tweeted-gifs-for-2024/"><u>Twitterscape Treasury Your One-Stop Shop for Tweeted GIFs for 2024</u></a></li>
+</ul></div>
 

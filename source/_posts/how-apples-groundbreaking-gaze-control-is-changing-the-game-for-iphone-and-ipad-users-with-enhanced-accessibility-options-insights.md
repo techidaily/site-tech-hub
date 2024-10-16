@@ -1,7 +1,7 @@
 ---
 title: How Apple's Groundbreaking Gaze Control Is Changing the Game for iPhone & iPad Users with Enhanced Accessibility Options | Insights
-date: 2024-10-06T17:57:58.433Z
-updated: 2024-10-09T22:45:48.409Z
+date: 2024-10-09T03:58:24.809Z
+updated: 2024-10-15T17:04:13.466Z
 tags:
   - apple
 categories:
@@ -45,10 +45,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Apple Music haptics
@@ -64,10 +64,10 @@ Motion sickness in cars can often be the result of a disconnect between what you
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Understanding speech
@@ -77,10 +77,10 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### New CarPlay features
@@ -90,10 +90,10 @@ Apple's in-car CarPlay software is also getting new accessibility features, incl
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Some other updates
@@ -130,18 +130,21 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-a-top-10-curated-list-of-superior-vector-portals/"><u>[New] A Top 10 Curated List of Superior Vector Portals</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-captureit-all-revisiting-recordmax-users/"><u>[Updated] 2024 Approved CaptureIt All! Revisiting 'RecordMax' Users</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-steadicams-for-captivating-high-quality-shoots-on-your-dslr-camera/"><u>2024 Approved Ideal Steadicams for Captivating, High-Quality Shoots on Your DSLR Camera</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-nokia-c300-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Nokia C300 | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/deciding-between-github-copilot-and-chatgpt-for-effective-coding-assistance/"><u>Deciding Between GitHub Copilot and ChatGPT for Effective Coding Assistance</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/deciphering-mobile-device-ai-how-it-runs-on-your-smartphone/"><u>Deciphering Mobile Device AI: How It Runs on Your Smartphone?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/decoding-the-secrets-of-successful-haul-video-edits/"><u>Decoding the Secrets of Successful Haul Video Edits</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-ways-to-restore-your-laptops-microphone-functionality/"><u>Effective Ways to Restore Your Laptop's Microphone Functionality</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/leveraging-gpt-3-for-productive-task-planning/"><u>Leveraging GPT-3 for Productive Task Planning</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/realtime-av-enthusiasts-community-for-2024/"><u>RealTime AV Enthusiasts Community for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-4-interactive-ai-murder-mystery-games-solve-crimes-like-a-pro/"><u>Top 4 Interactive AI Murder Mystery Games: Solve Crimes Like a Pro!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transforming-ai-how-vector-databases-contribute-to-progress/"><u>Transforming AI: How Vector Databases Contribute to Progress</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transforming-ideas-to-visuals-chatgpt-in-ai-artistry/"><u>Transforming Ideas to Visuals: ChatGPT in AI Artistry</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-frostpunk-crashing-issue/"><u>[Solved] Frostpunk Crashing Issue</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-mastering-rl-recording-techniques-for-2024/"><u>[Updated] Mastering RL Recording Techniques for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-from-zero-to-hero-on-twitter-live/"><u>2024 Approved From Zero to Hero on Twitter Live</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/acer-aspire-e-15-top-pick-in-affordable-laptops/"><u>Acer Aspire E 15 - Top Pick in Affordable Laptops</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bings-smart-conversational-assistant-on-android-phones-how-to-get-started/"><u>Bing's Smart Conversational Assistant on Android Phones: How To Get Started</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-benefits-and-limitations-of-chatgpt-as-a-tool-for-writers/"><u>Exploring Benefits and Limitations of ChatGPT as a Tool for Writers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-capabilities-of-claude-2-a-comprehensive-overview/"><u>Exploring the Capabilities of Claude 2: A Comprehensive Overview</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-potential-of-chatgpt-as-an-assistant-for-proofreading-work/"><u>Exploring the Potential of ChatGPT as an Assistant for Proofreading Work</u></a></li>
+<li><a href="https://solve-help.techidaily.com/first-steps-in-file-rescue-the-ultimate-selection-of-data-retrieval-tools-for-windows-users/"><u>First Steps in File Rescue: The Ultimate Selection of Data Retrieval Tools for Windows Users</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-xiaomi-redmi-12-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Xiaomi Redmi 12 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/minecraft-alchemy-how-to-brew-unique-and-effective-potion-recipes/"><u>Minecraft Alchemy: How to Brew Unique and Effective Potion Recipes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-workplace-risks-the-consequences-of-using-chatgpt-a-closer-look-at-ten-scenarios/"><u>Navigating Workplace Risks: The Consequences of Using ChatGPT - A Closer Look at Ten Scenarios</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/openai-vs-sarah-silverman-and-co-exploring-why-these-artists-are-taking-legal-action-against-ai-leaders/"><u>OpenAI Vs. Sarah Silverman & Co.: Exploring Why These Artists Are Taking Legal Action Against AI Leaders</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/paving-way-to-master-generative-ai-ideas/"><u>Paving Way to Master Generative AI Ideas</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-realme-c55-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Realme C55</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-creativity-with-generative-artificial-intelligence/"><u>Unlocking Creativity with Generative Artificial Intelligence</u></a></li>
 </ul></div>
 

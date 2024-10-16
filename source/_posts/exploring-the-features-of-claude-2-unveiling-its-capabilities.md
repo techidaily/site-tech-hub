@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Features of Claude 2: Unveiling Its Capabilities"
-date: 2024-09-11T00:01:20.328Z
-updated: 2024-09-17T18:15:37.002Z
+date: 2024-10-12T16:35:37.648Z
+updated: 2024-10-16T05:29:44.401Z
 tags:
   - chatgpt
   - open-ai
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/6ea9e47c2657fcc7075624e0c60b4b097654c2203
 
  ChatGPT has a wealth of games in its custom GPT store, covering everything from, RPGs and Dungeons and Dragons-style adventures, classic retro games, card games, quizzes, mysteries, and so much more.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1.[Murder Mystery Mayhem](https://chat.openai.com/g/g-82dEDeoN3-murder-mystery-mayhem)
 
  Let's start with one of the top-rated games on ChatGPT's custom GPT store. Murder Mystery Mayhem is a procedurally generated game where you play the role of a detective in the year 1925.
@@ -47,6 +54,13 @@ Close
 
  Murder Mystery Mayhem is good fun, with the location and murderer changing round by round, and each suspect has new alibis and evidence to reveal. The changes keep it feeling fresh, and one game played through to the end can keep you engaged and seeking the truth for well over an hour. (Don't forget, you don't have to play it all at once!)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2.[Oregon Trail](https://chat.openai.com/g/g-ijJRJgWHp-oregon-trail)
 
  Dying of dysentery has become a longstanding meme from the original Oregon Trail game, but you can now relive that horrifying experience in ChatGPT. The Oregan Trail custom GPT brings one of the first edu-games (not_the_ first, mind!) to ChatGPT... where you can suffer through the wilderness all over again.
@@ -56,13 +70,6 @@ Close
  You begin as the Oregon Trail does: choosing your character and buying supplies, then heading out into the wilderness. Most of your input to the game is choosing between the numbered options, such as where to head next, whether to buy more supplies, explore a new area, hunt for supplies, talk to the locals, look at the map, and so on.
 
  It's a basic version of the classic game, but it's engaging enough. The custom GPT's scripting doesn't allow you to go off-piste and, say, rob the local convenience store for supplies (nor did the original), but it's certainly a lot easier without so many setbacks constantly upending and destroying your party. It's a much easier version, that's for sure.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3.[Poker](https://chat.openai.com/g/g-lHyTLJaCX-poker)
 
@@ -90,6 +97,13 @@ Close
 
  The narrative flow is a bit shaky, and Console GPT could use some extra commands to remember other parts of the story, but it's good fun for a while. For example, one moment, I was a lone operative in a bar, and the next, I was planning a heist in a room with the rest of my assembled team.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5.[Cookie Clicker](http://chat.openai.com/g/g-g0b22bvqB-cookie-clicker)
 
  Not content with card games, custom cartridge adventures, or adventuring? Why not give a custom GPT idle game a try instead?
@@ -103,10 +117,10 @@ Close
  Still, if you're into idle games and want to try something different, it could be worth a try.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6.[Cute Little Zombies](https://chat.openai.com/g/g-CEON6aFtV-cute-little-zombies-a-text-adventure-game)
@@ -136,5 +150,26 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-photobooth-video-glitch-understanding-the-halt/"><u>[New] 2024 Approved Photobooth Video Glitch - Understanding the Halt</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-select-4-websites-easy-skype-tone-downloads/"><u>[New] Select 4 Websites Easy Skype Tone Downloads</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-from-social-tv-viewing-to-funny-interactive-gifs-a-twitter-video-journey/"><u>[Updated] From Social TV Viewing to Funny, Interactive Gifs A Twitter Video Journey</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-innovative-recorder-software-top-10-of-this-year/"><u>[Updated] In 2024, Innovative Recorder Software Top 10 of This Year</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/6keg6akr6l2s5o2i5lio6lcd5pw05bc65aplus455qe566a5y2v5oyh5y2xic3lpolkvzxov5vooyw/"><u>视频转换与调整尺寸的简单指南 -如何进行</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bridging-human-imagination-to-reality-in-ai-artwork/"><u>Bridging Human Imagination to Reality in AI Artwork</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/browser-based-ai-management-using-agentgpt-step-by-step-guide/"><u>Browser-Based AI Management Using AgentGPT – Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-forefront-ai-outperform-chatgpt-unveiling-the-differences/"><u>Can Forefront AI Outperform ChatGPT? Unveiling the Differences</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparative-insights-understanding-nlp-in-relation-to-machine-learning-techniques/"><u>Comparative Insights: Understanding NLP in Relation to Machine Learning Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-your-written-work-using-chatgpt-strategies-and-insights-for-success/"><u>Elevate Your Written Work Using ChatGPT: Strategies and Insights for Success</u></a></li>
+<li><a href="https://article-files.techidaily.com/enhance-file-handling-effective-methods-for-transferring-to-your-computer/"><u>Enhance File Handling Effective Methods for Transferring to Your Computer</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhance-productivity-write-automated/"><u>Enhance Productivity: Write Automated</u></a></li>
+<li><a href="https://win-blog.techidaily.com/gamecrash-resolved-effective-solutions-for-windows-1110-users/"><u>GameCrash Resolved: Effective Solutions for Windows 11/10 Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/industry-titans-and-their-ai-expectations/"><u>Industry Titans and Their AI Expectations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/pioneering-intelligence-beyond-turings-paradigm/"><u>Pioneering Intelligence: Beyond Turing's Paradigm</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/secure-your-prime-day-steals-with-these-sizzling-hot-discounts-on-roku-products/"><u>Secure Your Prime Day Steals with These Sizzling Hot Discounts on Roku Products</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-the-limitations-of-artificial-intelligence-in-copyright-enforcement/"><u>Understanding the Limitations of Artificial Intelligence in Copyright Enforcement</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/unlocking-the-potential-of-time-extension-for-2024/"><u>Unlocking the Potential of Time Extension for 2024</u></a></li>
+<li><a href="https://win-latest.techidaily.com/win-10-5/"><u>Win 10 データを安全にバックアップするための究極ガイド【5つの手順で簡単実践】</u></a></li>
+</ul></div>
 

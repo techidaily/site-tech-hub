@@ -1,7 +1,7 @@
 ---
 title: "Words Into Worlds: ChatGPT’s Sixfold Creativity Catalyst"
-date: 2024-09-16T03:40:02.157Z
-updated: 2024-09-17T21:29:11.632Z
+date: 2024-10-09T16:05:39.624Z
+updated: 2024-10-15T18:18:37.459Z
 tags:
   - chatgpt
   - open-ai
@@ -52,9 +52,23 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 ![Asking ChatGPT to generate an image using text description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-16-161949.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  As you can see, ChatGPT provides some promising results, providing an image plus a description of the image. However, it still seems like you'll need to use[third-party solutions to save the image in JPG or PNG](https://www.makeuseof.com/how-convert-dalle-3-webp-images-jpg-or-png/) , since there isn't a way to save the image beside WebP.
 
  ChatGPT Plus users were immediately given access to the new features using OpenAI's new ChatGPT-4o (Omnimodal) model. Free-tier users will also have access to these features but with limited usage.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Expanded Knowledge Base and Cross-Chat Memory
 
@@ -66,23 +80,9 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 ![Using ChatGPT as an AI assistant using memory and web browsing features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-as-assistant-using-expanded-knowledge-base-1-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  ChatGPT provided sound advice by browsing the web for the weather and reviewing its memory of my schedule. It even gave me a list of activities I could do instead based on my past interactions with ChatGPT.
 
  The browsing capability feature is now available for both Plus and Free tier users, while ChatGPT Memory is only available to Plus users.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Multi-Modal Voice and Video Interactions
 
@@ -103,15 +103,22 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 ![Using-ChatGPT-Advanced-Data-Analysis](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-advanced-data-analysis.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  I already knew the numbers before running it using ADA on ChatGPT-4o, so I know the provided graph is accurate. However, running it on ChatGPT-4 continually gave me errors, was slow, and never really provided me with the graph. So, although ADA is not functionally different from the old code interpreter, running ADA right on ChatGPT-4o was certainly easier, faster, and smarter.
 
  OpenAI's demonstrations also showed live code debugging using voice commands, which is another enormous upgrade for ChatGPT. Instead of having to type commands and work bit by bit, live interactions with your code could speed up the process.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Temporary Chat
 
@@ -136,5 +143,21 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-essential-insights-how-to-choose-among-the-top-9-free-youtube-makers-for-2024/"><u>[Updated] Essential Insights How to Choose Among the Top 9 Free YouTube Makers for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-ultimate-iphone-hdr-photo-guidebook/"><u>[Updated] In 2024, Ultimate iPhone HDR Photo Guidebook</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-premium-video-devices-direct-headset-screens/"><u>[Updated] Premium Video Devices Direct Headset Screens</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-cameras-collide-in-motorsport-showdown-gopro-vs-drift-ghost-s/"><u>2024 Approved Cameras Collide in Motorsport Showdown! GoPro Vs. Drift Ghost-S</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/3-smart-and-simple-ways-to-change-home-address-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>3 Smart and Simple Ways to Change Home Address on Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bypass-typical-slip-ups-in-your-chatgpt-prompts-learn-what-to-avoid/"><u>Bypass Typical Slip-Ups in Your ChatGPT Prompts – Learn What to Avoid</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/clearing-system-cache-partition-on-android-what-you-need-to-know/"><u>Clearing System Cache Partition on Android: What You Need To Know</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/everything-you-need-to-know-about-openai/"><u>Everything You Need to Know About OpenAI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/free-flowing-gpt-uses-no-membership-needed/"><u>Free-Flowing GPT Uses: No Membership Needed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-ensuring-full-removal-of-your-chatgpt-user-profile/"><u>How To: Ensuring Full Removal of Your ChatGPT User Profile</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/1720673464616-seeking-answers-to-flawed-video-editing-fixes/"><u>Seeking Answers to Flawed Video Editing Fixes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/uncover-hidden-gems-leading-ai-applications-for-personalized-book-recommendations/"><u>Uncover Hidden Gems: Leading AI Applications for Personalized Book Recommendations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-7-amazing-strategies-how-chatgpt-supercharges-your-daily-productivity/"><u>Unveiling 7 Amazing Strategies: How ChatGPT Supercharges Your Daily Productivity</u></a></li>
+<li><a href="https://win-dash.techidaily.com/wind-speeds-over-5msec-are-generally-not-recommended-during-the-concrete-curing-period/"><u>Wind Speeds over 5M/Sec Are Generally Not Recommended During the Concrete Curing Period.</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Essential List of Leading Artificial Intelligence Note-Taking Apps
-date: 2024-09-16T23:30:57.015Z
-updated: 2024-09-18T00:33:24.351Z
+date: 2024-10-13T19:17:10.009Z
+updated: 2024-10-15T17:27:18.522Z
 tags:
   - chatgpt
   - open-ai
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/250855bb01ff5d1f68da39bedfd2fea2571983e53
 
 ![Screenshot of ChatGPT home screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-home-screen.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Comparing the Language Models of Bing Chat and ChatGPT
 
  One of the fundamental differences between the chatbots is the language model they use. Currently, free ChatGPT users are restricted to GPT-3.5, with the much-hyped GPT-4 only available to premium users.
@@ -59,26 +66,32 @@ For example, below is Bing Chat's effort at a simple limerick.
 ![Screenshot of ChatGPT Limerick-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-limerick-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Safety
 
  Moderating responses that were factually incorrect or otherwise unsuitable was performed "on the fly" with GPT-3.5\. In other words, it was a reactive strategy that acted after the horse had bolted. GPT-4 has safety measures designed into the model, meaning safety is more proactive. Where safety is a concern, Bing Chat technically has the upper hand.
 
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Image Processing and Accuracy
 
  The ability to process image data is also a new feature in GPT-4\. However, this feature currently isn't integrated into Bing Chat, so it isn't covered here. The other major difference is the accuracy of the response. This is covered next.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How Accurate Are Bing Chat and ChatGPT
 
@@ -86,18 +99,18 @@ For example, below is Bing Chat's effort at a simple limerick.
 
 ![Screenshot of GPT limitations for bin and chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-gpt-limitations-for-bin-and-chatgpt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Bing Chat has a distinct advantage here. The GPT-4 model has the twin advantages of access to more recent data and multiple sources of information. By contrast, the GPT-3.5/GPT-4 dataset was cut off at the end of 2021, and though it has received some topical updates, it is limited.
 
  Unlike testing the difference in creativity, testing this was easy. The results were comprehensive, with Bing Chat returning the most impressive answer to a straightforward question, "How many tons of plastic were recycled in 2020?"
 
 ![Screenshot of Plastic Recycling Stats from Bing Chat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-plastic-recycling-stats-from-bing-chat.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The response supplied figures as well as links to the sources from which the data was retrieved. However, the inclusion of US plastic exports was slightly out of context with the question. We would hesitate to call this a glitch, but it does show AI's tendency to wander off-topic at times.
 
@@ -123,6 +136,13 @@ By contrast, the ChatGPT response was to admit its limitations.
 
 ![Screenshot of ChatGPT list of educational websites](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-list-of-educational-websites.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Which Is Best: Bing Chat or Chat GPT?
 
  There is no straightforward answer, as both tools are incredibly impressive.
@@ -141,13 +161,6 @@ By contrast, the ChatGPT response was to admit its limitations.
 
  Ultimately, this is a case of choosing the right tool for the job. The beauty of this is that both platforms are free, so trying them both is quick and easy.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Chatbots Are Here to Stay
 
  As AI chatbots become more widespread, the differences between these early adopters will only continue to widen. However, by understanding the unique features of each platform, users can choose the chatbot that best suits their needs.
@@ -165,5 +178,24 @@ By contrast, the ChatGPT response was to admit its limitations.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-the-ultimate-obs-tutorial-for-youtube-and-twitch-broadcasts/"><u>[New] 2024 Approved The Ultimate OBS Tutorial for YouTube & Twitch Broadcasts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-premier-phone-editors-for-the-ultimate-gopro-experience/"><u>[New] Premier Phone Editors for the Ultimate GoPro Experience</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-epic-martial-arts-arcade-classics-revisited/"><u>[Updated] In 2024, Epic Martial Arts Arcade Classics Revisited</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-professional-shutter-sense-the-prime-6-4k-dslr-selections/"><u>[Updated] Professional Shutter Sense The Prime 6 4K DSLR Selections</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-master-control-over-your-youtube-viewing-rhythm/"><u>2024 Approved Master Control Over Your YouTube Viewing Rhythm</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/get-ready-to-power-up-top-anker-accessories-perfect-for-new-iphones-zdnet-insights/"><u>Get Ready to Power-Up - Top Anker Accessories Perfect for New iPhones | ZDNet Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-samsung-galaxy-ai-ventures-surge-as-google-faces-antitrust-challenges-redefining-the-landscape-of-technological-breakthroughs-zdnet/"><u>How Samsung Galaxy AI Ventures Surge as Google Faces Antitrust Challenges, Redefining the Landscape of Technological Breakthroughs | ZDNet</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-honor-magic-6-lite-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Honor Magic 6 Lite</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-apple-ignoring-the-importance-of-an-iphone-protective-case-a-closer-look-at-their-stance-techradar/"><u>Is Apple Ignoring the Importance of an iPhone Protective Case? A Closer Look at Their Stance | TechRadar</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/professional-workstation-assessment-on-the-new-microsoft-surface-pro-eight-experts/"><u>Professional Workstation Assessment on the New Microsoft Surface Pro Eight Experts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/seamless-transition-strategies-mastering-the-shift-to-your-latest-iphone-model-insights/"><u>Seamless Transition Strategies: Mastering the Shift to Your Latest iPhone Model - Insights</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ltimate-battle-for-ephemeral-content-youtube-shorts-versus-tiktok/"><u>The Ultimate Battle for Ephemeral Content YouTube Shorts Versus TikTok</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-4-innovative-features-of-the-new-iphone-16-that-propel-its-superiority-over-previous-models-insights/"><u>Top 4 Innovative Features of the New iPhone 16 That Propel Its Superiority Over Previous Models - Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-apple-watch-shield-the-ultimate-guard-for-your-device/"><u>Top-Rated Apple Watch Shield: The Ultimate Guard for Your Device</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-guide-resolving-all-itunes-issues-solutions-updated-for-2018/"><u>Ultimate Guide: Resolving All iTunes Issues - Solutions Updated for 2018</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-apples-evolutionary-chip-technology-how-m1-m2-and-m3-impact-your-next-purchase/"><u>Understanding Apple's Evolutionary Chip Technology: How M1, M2 & M3 Impact Your Next Purchase</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>Why does the pokemon go battle league not available On Apple iPhone 6 | Dr.fone</u></a></li>
+</ul></div>
 

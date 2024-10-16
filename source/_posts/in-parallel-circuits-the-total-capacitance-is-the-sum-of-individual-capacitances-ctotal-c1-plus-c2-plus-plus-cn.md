@@ -1,7 +1,7 @@
 ---
 title: "In Parallel Circuits, the Total Capacitance Is the Sum of Individual Capacitances: C_total = C1 + C2 + ... + Cn."
-date: 2024-10-04T17:11:20.180Z
-updated: 2024-10-09T16:14:01.175Z
+date: 2024-10-11T04:07:44.751Z
+updated: 2024-10-16T01:09:43.182Z
 tags:
   - apple
 categories:
@@ -60,19 +60,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -100,10 +87,10 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -121,16 +108,10 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -154,13 +135,6 @@ Adam Breeden/ZDNET
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## VisionOS 2
 
 Jason Hiner/ZDNET
@@ -178,6 +152,13 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -185,6 +166,13 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -230,22 +218,17 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-enjoy-premium-video-artwork-download-at-no-cost-today-for-2024/"><u>[New] Enjoy Premium Video Artwork - Download at No Cost Today for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-the-abc-of-advertising-a-trifecta-strategy-to-drive-engagement-on-fb-platforms/"><u>[New] The ABC of Advertising A Trifecta Strategy to Drive Engagement on FB Platforms</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/solved-bluetooth-keyboard-stop-working-in-windows-10/"><u>[Solved] Bluetooth Keyboard Stop Working in Windows 10</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-nexus-nightlife-virtual-theater-realm/"><u>[Updated] 2024 Approved Nexus Nightlife Virtual Theater Realm</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-discover-10-spectacular-reactions-on-creative-youtube-videos-for-2024/"><u>[Updated] Discover 10 Spectacular Reactions on Creative YouTube Videos for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/frame-your-shot-ultimate-software-guide-image-editors/"><u>Frame Your Shot Ultimate Software Guide Image Editors</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-update-razer-deathadder-driver-on-windows-11/"><u>How to Update Razer Deathadder Driver on Windows 11</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/quick-guide-identifying-and-verifying-your-windows-10-os-version-instantly/"><u>Quick Guide: Identifying and Verifying Your Windows 10 OS Version Instantly</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/recovering-access-steps-to-restore-a-forgotten-ipad-passcode-and-unlock-securely/"><u>Recovering Access: Steps to Restore a Forgotten iPad Passcode and Unlock Securely</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/resolve-excessive-tiworkerexe-cpu-and-memory-consumption-in-windows-11/"><u>Resolve Excessive tiworker.exe CPU and Memory Consumption in Windows 11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/speed-hacks-supercharge-minecraft-gameplay/"><u>Speed Hacks - Supercharge Minecraft Gameplay!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-efficiently-clearing-your-entire-google-search-log/"><u>Step-by-Step Guide: Efficiently Clearing Your Entire Google Search Log</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-executing-the-admin-version-of-command-prompt-on-a-windows-pc/"><u>Step-by-Step Guide: Executing the Admin Version of Command Prompt on a Windows PC</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-for-backing-up-drivers-before-refreshing-or-replacing-windows-operating-systems-windows-11-7-8-etc/"><u>Step-by-Step Tutorial for Backing Up Drivers Before Refreshing or Replacing Windows Operating Systems (Windows 11, 7, 8, Etc.)</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/top-4-unbeatable-gaming-browsers-on-windows-platform-your-ultimate-guide/"><u>Top 4 Unbeatable Gaming Browsers on Windows Platform: Your Ultimate Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-the-issue-when-your-keyboards-backspace-function-isnt-responding/"><u>Troubleshooting Guide: Fixing the Issue When Your Keyboard's 'Backspace' Function Isn't Responding</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-a-step-by-step-framework-for-engaging-fb-giving-campaigns/"><u>[New] 2024 Approved A Step-by-Step Framework for Engaging FB Giving Campaigns</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-step-by-step-tutorial-for-seamless-capture-of-youtube-streaming-across-devices/"><u>[Updated] Step-by-Step Tutorial for Seamless Capture of YouTube Streaming Across Devices</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-foundations-of-mixing-adobe-auditions-fade-in-technique/"><u>2024 Approved Foundations of Mixing Adobe Audition’s Fade In Technique</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-quick-launch-long-growth-the-10-best-youtube-business-channels/"><u>2024 Approved Quick Launch, Long Growth The 10 Best YouTube Business Channels</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-login-troubles-heres-how-to-restore-access-and-solve-entry-issues/"><u>ChatGPT Login Troubles? Here's How to Restore Access and Solve Entry Issues</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effective-ways-to-remove-the-copilot-feature-from-your-windows-11-computer/"><u>Effective Ways to Remove the Copilot Feature From Your Windows 11 Computer</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/freedom-to-communicate-how-to-set-up-your-own-unrestricted-gpt-dialogue-system-for-windows-with-freedomgpt-instructions/"><u>Freedom to Communicate: How to Set Up Your Own Unrestricted GPT Dialogue System for Windows with FreedomGPT Instructions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gratis-mpg-in-m4v-converter-onderstaakbevalling-online-met-movavi/"><u>Gratis MPG in M4V Converter: Onderstaakbevalling Online Met Movavi</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-15-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 15 without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Honor Magic Vs 2? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-vivo-s18-pro-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Vivo S18 Pro to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleash-your-creativity-elevate-content-and-projects-with-chatgpt/"><u>Unleash Your Creativity: Elevate Content and Projects with ChatGPT</u></a></li>
 </ul></div>
 

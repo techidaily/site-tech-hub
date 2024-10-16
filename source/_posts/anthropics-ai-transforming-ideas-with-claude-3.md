@@ -1,7 +1,7 @@
 ---
 title: "Anthropic's AI: Transforming Ideas with Claude 3"
-date: 2024-09-14T00:47:33.162Z
-updated: 2024-09-17T17:41:18.923Z
+date: 2024-10-12T19:19:09.287Z
+updated: 2024-10-15T18:42:50.454Z
 tags:
   - chatgpt
   - open-ai
@@ -45,26 +45,26 @@ thumbnail: https://thmb.techidaily.com/634ac9f760c3e79a9b2c54edc99fe994b8053a847
 
  In addition to the extensive library of community prompts, you can also use AIPRM for ChatGPT to create and save AI prompts for future use. This feature is especially useful if you have specific needs or frequently work on similar topics. It means you won't need to spend time crafting a new prompt for the same task each time you use ChatGPT.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Is the AIPRM Chrome Extension Free?
 
  Yes, the AIPRM Chrome extension for ChatGPT is free to use and also offers several premium plans, from the**AIPRM Plus** plan, which costs $10 per month, to the**AIPRM Titan** plan, which costs up to $999 per month. AIPRM works well with ChatGPT's free and paid versions, making it a valuable tool for any user.
 
 ![AIPRM for ChatGPT plans](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/aiprm-pricing-plan.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The free version of AIPRM can access the extensive library of Community Prompts, save two private prompt templates, and set favorite prompt templates, which is more than enough to get you started.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Install the AIPRM for ChatGPT Chrome Extension
@@ -79,11 +79,25 @@ thumbnail: https://thmb.techidaily.com/634ac9f760c3e79a9b2c54edc99fe994b8053a847
 
 You should now see the AIPRM dashboard on your ChatGPT page.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Use the AIPRM for ChatGPT Chrome Extension
 
  To get started, go to your ChatGPT account. You should see the AIPRM dashboard on your homepage. Click the**thumbs-up or down** icon on the green popup that appears to dismiss it. You can now use the extension directly from your ChatGPT account.
 
 ![The AIPRM green popup in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/aiprm-green-popup.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  As you can see, there are several tabs in the AIPRM dashboard, including:
 
@@ -106,14 +120,14 @@ You should now see the AIPRM dashboard on your ChatGPT page.
 
 ![The AIPRM for ChatGPT Activity filter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/filter-aiprm-prompts.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you have found a prompt that resonates with your needs, you can add it to your favorites for easy access in the future. Click the**Star** icon next to the prompt to add it to your**Favorites** tab. Next, go to the**Favorites** tab to view and access all your saved prompts.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Create AIPRM Prompts
 
@@ -126,13 +140,6 @@ To create a custom AIPRM prompt:
  Next, fill out all the details of your prompt. Note that providing more detailed information in the**Prompt Template** field will increase your prompt's value and the response quality from ChatGPT. Let's say you wish to create a prompt to promote your business on Facebook. You can provide specific details like the name of your business, your services, your target audience, hashtags to use, and the tone of voice. In the same field, create the task by writing the instructions that ChatGPT will follow to generate the desired text.
 
 ![AIPRM screenshot showing how to create a template](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/create-aiprm-prompt-template.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  For instance, "Write a Facebook post with emojis and a call to action about**\[PROMPT\]** ." Make sure to add the prompt variable**\[PROMPT\]** in your template, as it will be replaced by what you type whenever you use this prompt. In this example, the prompt variable**\[PROMPT\]** will be the topic for the Facebook post. You can also provide one or more examples of what you want the output to look like.
 
@@ -163,5 +170,26 @@ To create a custom AIPRM prompt:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-simplifying-the-screen-recording-process-for-dell-users/"><u>[New] In 2024, Simplifying the Screen-Recording Process for Dell Users</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-proving-the-top-5-mac-clipping-software/"><u>[Updated] 2024 Approved Proving the Top 5 Mac Clipping Software</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/best-5-elearning-programs-to-excel-in-artificial-intelligence-prompt-design/"><u>Best 5 eLearning Programs to Excel in Artificial Intelligence Prompt Design</u></a></li>
+<li><a href="https://techtrends.techidaily.com/complete-guide-to-repair-missing-or-unavailable-msidll-errors/"><u>Complete Guide to Repair Missing or Unavailable msi.dll Errors</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discovering-the-intricacies-of-7-cutting-edge-apps-utilizing-gpt-evolution/"><u>Discovering the Intricacies of 7 Cutting-Edge Apps Utilizing GPT-Evolution</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/garys-guide-to-optimal-ms-sql-health-with-star-fixers/"><u>Gary's Guide to Optimal MS SQL Health with Star Fixers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-epson-xp-440-driver-software-without-hassle/"><u>Get the Newest Epson XP-440 Driver Software Without Hassle</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/identifying-10-quick-growth-youtube-blogs-that-encourage-for-2024/"><u>Identifying 10 Quick-Growth YouTube Blogs that Encourage for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-vivo-s18-pro-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Vivo S18 Pro to New Phone | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-techniques-for-efficiently-storing-fb-messenger-conversations/"><u>In 2024, Techniques for Efficiently Storing FB Messenger Conversations</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transform-your-strategy-with-these-20-marketing-terms/"><u>In 2024, Transform Your Strategy with These 20 Marketing Terms</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-career-risks-in-an-age-of-generative-ai-can-chatgpt-replace-human-roles/"><u>Navigating Career Risks in an Age of Generative AI – Can ChatGPT Replace Human Roles?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/quoras-gateway-for-botsllm-explore-the-tech/"><u>Quora's Gateway for Bots/LLM: Explore the Tech</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionize-your-routine-how-chatgpt-can-elevate-your-lifestyle-choices/"><u>Revolutionize Your Routine: How ChatGPT Can Elevate Your Lifestyle Choices</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/sculpting-serenity-customized-zen-habits-powered-by-gpt/"><u>Sculpting Serenity: Customized Zen Habits Powered by GPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-basics-of-predictive-artificial-intelligence-insights-and-operations/"><u>The Basics of Predictive Artificial Intelligence – Insights and Operations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-most-effective-uses-of-chatgpt-for-self-care/"><u>The Most Effective Uses of ChatGPT for Self-Care</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-6-advantages-of-using-chatgpt-on-ios-over-the-web-platform/"><u>Top 6 Advantages of Using ChatGPT on iOS Over the Web Platform</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Oppo Reno 9A? | Dr.fone</u></a></li>
+</ul></div>
 

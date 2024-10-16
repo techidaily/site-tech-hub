@@ -1,7 +1,7 @@
 ---
 title: "Investigating the Origins: The In-Depth Story Behind CrowdStrike and the Infamous Windows Meltdn of '24 | Insights"
-date: 2024-10-02T18:38:05.017Z
-updated: 2024-10-09T21:52:46.777Z
+date: 2024-10-13T22:27:53.407Z
+updated: 2024-10-15T20:35:44.698Z
 tags:
   - apple
 categories:
@@ -51,16 +51,10 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -100,10 +94,10 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -133,10 +127,10 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -187,22 +181,15 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-harnessing-your-creative-power-with-ipad-for-time-lapses/"><u>[New] In 2024, Harnessing Your Creative Power with iPad for Time-Lapses</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-framefixer-feedback-complete-editor-analysis/"><u>[Updated] 2024 Approved FrameFixer Feedback – Complete Editor Analysis</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-ideal-4k-recorder-software-selections/"><u>[Updated] 2024 Approved Ideal 4K Recorder Software Selections</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-joke-junction-ultimate-free-comic-templates/"><u>[Updated] Joke Junction Ultimate Free Comic Templates</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/1723001481868-black-ops-cold-war-game-crash-heres-what-to-do-with-error-code-0xc00n0005/"><u>Black Ops Cold War Game Crash? Here's What To Do With Error Code 0XC00n0005</u></a></li>
-<li><a href="https://driver-download.techidaily.com/free-dell-inspiron-g15-driver-downloads-and-easy-install-guide-for-windows/"><u>Free Dell Inspiron G15 Driver Downloads and Easy Install Guide for Windows</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-itel-s23-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Itel S23</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-best-mts-video-editors-top-picks-for-2024/"><u>New Best MTS Video Editors Top Picks for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/sea-of-thieves-game-crash-bug-fixed/"><u>Sea of Thieves Game Crash Bug Fixed!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-techniques-for-enhancing-fps-in-gaming-insider-tips-and-tricks/"><u>Top Techniques for Enhancing FPS in Gaming - Insider Tips & Tricks</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/troubleshooting-guide-how-to-get-oculus-software-installed-on-windows-11-or-10-systems/"><u>Troubleshooting Guide: How to Get Oculus Software Installed on Windows 11 or 10 Systems</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/troubleshooting-tactics-for-when-your-zoom-screenshare-fails/"><u>Troubleshooting Tactics for When Your Zoom Screenshare Fails</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ultimate-guide-fixing-the-goose-goose-duck-issue-for-smooth-pc-gameplay/"><u>Ultimate Guide: Fixing the Goose, Goose, Duck Issue for Smooth PC Gameplay</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-fallout-4s-minimum-and-recommended-pc-specifications/"><u>Understanding Fallout 4'S Minimum & Recommended PC Specifications</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-the-windows-10-update-assistant-purpose-functionality-and-removal-steps/"><u>Understanding the Windows 10 Update Assistant: Purpose, Functionality & Removal Steps</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-mystery-of-rundll32exe-actions-you-must-know/"><u>Unveiling the Mystery of rundll32.exe – Actions You Must Know</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/updating-your-pc-a-guide-to-finding-and-installing-missing-windows-10-drivers/"><u>Updating Your PC: A Guide to Finding and Installing Missing Windows 10 Drivers</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-essential-insights-setting-up-streamlabs-on-mac-with-obs/"><u>[New] 2024 Approved Essential Insights Setting Up Streamlabs on Mac with OBS</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-spark-joy-with-these-14-playful-text-animations/"><u>2024 Approved Spark Joy with These 14 Playful Text Animations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-you-trust-the-privacy-of-chatgpt-unveiling-the-facts/"><u>Can You Trust the Privacy of ChatGPT? Unveiling the Facts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpts-unseen-potential-5-features-that-will-enhance-your-experience/"><u>ChatGPT's Unseen Potential: 5 Features That Will Enhance Your Experience</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/daily-life-with-ai-chatbots-comparing-claude-and-chatgpts-effectiveness/"><u>Daily Life with AI Chatbots: Comparing Claude and ChatGPT's Effectiveness</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/discover-the-sleek-sony-lx310bt-bluetooth-player/"><u>Discover the Sleek Sony LX310BT Bluetooth Player</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723011151278-overcoming-the-load-fixing-far-cry-5-endless-boot-loop/"><u>Overcoming the Load: Fixing 'Far Cry 5' Endless Boot Loop</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/pros-picks-best-microphones-for-asmr-recording-for-2024/"><u>Pros' Picks Best Microphones for ASMR Recording for 2024</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/transform-your-invoices-with-abbyys-ai-ocr-achieve-a-dramatic-90-reduction-in-processing-time/"><u>Transform Your Invoices with ABBYY's AI OCR - Achieve a Dramatic 90% Reduction in Processing Time</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-the-functionality-of-openais-shap-e-explainer-tool/"><u>Understanding the Functionality of OpenAI's Shap-E Explainer Tool</u></a></li>
 </ul></div>
 
