@@ -1,7 +1,7 @@
 ---
 title: Unleash Your Productivity with Craft - A Comprehensive Walkthrough for macOS Users on Enhancing Document Management and Creation
-date: 2024-10-03T21:19:04.735Z
-updated: 2024-10-09T16:08:31.930Z
+date: 2024-10-14T20:10:34.647Z
+updated: 2024-10-21T21:39:18.409Z
 tags:
   - apple
 categories:
@@ -29,10 +29,10 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 ## Create a custom Focus
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
@@ -40,10 +40,10 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
@@ -54,6 +54,13 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 
 Image: Jack Wallen
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Open the Focus tab
 
 Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
@@ -61,19 +68,6 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 **Figure 2:** You'll find a single pre-configured Focus for Do Not Disturb already available.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
 
@@ -92,10 +86,16 @@ Image: Jack Wallen
 After naming and selecting a color/icon, click Add to save the new Focus.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. Allowing specific notifications
@@ -154,20 +154,22 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-crafting-compelling-conversations-essential-expressions/"><u>[New] Crafting Compelling Conversations Essential Expressions</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-xiaomi-11-series-where-every-snapshot-becomes-a-masterpiece-for-2024/"><u>[Updated] Xiaomi 11 Series Where Every Snapshot Becomes a Masterpiece for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-interactive-lessons-expert-video-editing-for-classroom/"><u>2024 Approved Interactive Lessons Expert Video Editing for Classroom</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-screenplay-savvy-filmoras-faqs/"><u>2024 Approved Screenplay Savvy Filmora's FAQs</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/a-beginners-guide-to-changing-dall-e-webp-images-to-png-or-jpg-format/"><u>A Beginner's Guide to Changing DALL-E WebP Images to PNG or JPG Format</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/affordable-tech-secure-data-with-chatgpt-tips/"><u>Affordable Tech, Secure Data with ChatGPT Tips</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-driven-cinema-decisions-with-chatgpt/"><u>AI-Driven Cinema Decisions with ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1722074740799-anticipating-chatgpt-desktop-app-release-explore-top-notch-free-open-source-options-now/"><u>Anticipating ChatGPT Desktop App Release? Explore Top-Notch, Free Open Source Options Now!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/aol-email-service-disruption-how-to-tell-if-the-problems-real/"><u>AOL Email Service Disruption: How To Tell If The Problem's Real</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1721864543972-exploring-artificial-intelligences-role-in-transforming-medical-practices-the-potential-of-chatgpt/"><u>Exploring Artificial Intelligence's Role in Transforming Medical Practices: The Potential of ChatGPT</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-infinix-smart-8-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Infinix Smart 8 with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1722111567693-keep-your-ai-chats-intact-stealthy-ways-to-hide-not-delete/"><u>Keep Your AI Chats Intact: Stealthy Ways to Hide, Not Delete!</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ize-engagement-with-these-9-youtube-thumbnail-creators-for-2024/"><u>Maximize Engagement with These 9 YouTube Thumbnail Creators for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1721890310329-revolutionize-your-mobile-search-experience-on-android-and-ios-using-bings-smart-ai-feature/"><u>Revolutionize Your Mobile Search Experience on Android and iOS Using Bing's Smart AI Feature</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/streamlining-social-signals-with-tiktok-and-linktree-bio-mix/"><u>Streamlining Social Signals with TikTok and Linktree Bio Mix</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/eil-of-secrecy-hiding-objects-from-digital-eyes-for-2024/"><u>[New] Veil of Secrecy Hiding Objects From Digital Eyes for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/10-popular-websites-to-download-aesthetic-wallpapers-for-laptop-for-2024/"><u>10 Popular Websites to Download Aesthetic Wallpapers for Laptop for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-elevating-gameplay-increasing-ram-in-minecraft/"><u>2024 Approved Elevating Gameplay Increasing RAM in Minecraft</u></a></li>
+<li><a href="https://win-blog.techidaily.com/eps-files-explained-dai-raccomandazioni-alle-opzioni-di-apertura-piu-ottimali/"><u>EPS Files Explained – Dai Raccomandazioni Alle Opzioni Di Apertura Più Ottimali</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-lost-or-stolen-iphone-12-mini-in-easy-steps-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Data From Lost or Stolen iPhone 12 mini In Easy Steps | Stellar</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Realme 12+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-successfully-resolve-and-prevent-adobes-start-up-failure-error-0xc000000022/"><u>How to Successfully Resolve and Prevent Adobe's Start Up Failure (Error 0Xc00#0000022)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/letting-chatgpt-curate-your-tv-and-movie-selections-effortlessly/"><u>Letting ChatGPT Curate Your TV and Movie Selections Effortlessly</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/making-ai-history-with-gpt-4-the-ultimate-guide-for-broad-accessibility-and-deployment/"><u>Making AI History with GPT-4: The Ultimate Guide for Broad Accessibility and Deployment</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-interactive-storytelling-a-comprehensive-guide-to-creating-an-engaging-txt-rpg-with-chatgpt/"><u>Mastering Interactive Storytelling: A Comprehensive Guide to Creating an Engaging TXT RPG with ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-personalized-ai-writing-training-chatgpt-in-your-voice/"><u>Mastering the Art of Personalized AI Writing: Training ChatGPT in Your Voice</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-resolving-common-auto-installation-hurdles-with-gpt-systems/"><u>Mastering the Art of Resolving Common Auto-Installation Hurdles with GPT Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/musks-breakdown-understanding-the-function-and-financial-aspects-of-grok-ai/"><u>Musk's Breakdown: Understanding the Function and Financial Aspects of Grok AI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-around-common-blunders-when-using-advanced-generative-ais/"><u>Navigating Around Common Blunders When Using Advanced Generative AIs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/premier-selection-of-20-dynamic-chatgpt-sessions-on-github/"><u>Premier Selection of 20 Dynamic ChatGPT Sessions on GitHub</u></a></li>
+<li><a href="https://fox-access.techidaily.com/unveiling-best-android-photos-tactics-for-2024/"><u>Unveiling Best Android Photos Tactics for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winerror-zeroed-out-mastery-over-error-0x800f0831/"><u>WinError Zeroed Out: Mastery Over Error 0X800F0831</u></a></li>
 </ul></div>
 

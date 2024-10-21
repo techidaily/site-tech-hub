@@ -1,7 +1,7 @@
 ---
 title: "Delving Into Generative AI: The Basics Explained"
-date: 2024-09-13T03:24:12.903Z
-updated: 2024-09-18T03:38:03.719Z
+date: 2024-10-20T16:08:39.040Z
+updated: 2024-10-21T20:01:55.364Z
 tags:
   - chatgpt
   - open-ai
@@ -64,6 +64,13 @@ Close
 
  This aligns with its decision to deny copyright to Steven Thaler, who created the AI-generated painting A Recent Entrance to Paradise, which was denied copyright in 2019.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is AI Work Non-Copyrightable?
 
  With all the copyright denials, does it mean that AI work is non-copyrightable at all?
@@ -74,15 +81,28 @@ Close
 
  However, if the user simply uses AI as a tool—i.e., its output is used as a base for the final product—then the work could be considered for copyright. While this somewhat solves the issue of using AI tools to create art, it also opens another can of worms.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The Issues With AI-Generated Work
 
 ![A Recent Entrance to Paradise](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/a_recent_entrance_to_paradise.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Image Credit: Steven Thaler and the Creativity Machine AI/[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:A%5FRecent%5FEntrance%5Fto%5FParadise.jpg#:~:text=Licensing,in%20whom%20copyright%20is%20vested.)
@@ -100,10 +120,10 @@ Close
  Because AI is so powerful and is such a game-changing technology, AI will face many more issues in the immediate future.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Ethics of AI
@@ -125,5 +145,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/updated-key-fixes-for-stabilizing-windows-10-photos-display/"><u>[Updated] Key Fixes for Stabilizing Windows 10 Photos Display</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/complete-guide-navigating-google-podcast-app-for-2024/"><u>Complete Guide Navigating Google Podcast App for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/download-directly-from-instagram-a-methodology-for-iphone-users/"><u>Download Directly From Instagram A Methodology for iPhone Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experience-unparalleled-query-optimization-with-perplexity-ai/"><u>Experience Unparalleled Query Optimization with Perplexity AI</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/expert-tips-efficiently-handling-background-tasks-in-linux-systems/"><u>Expert Tips: Efficiently Handling Background Tasks in Linux Systems</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Poco C65 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-oppo-reno-8t-5g-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Oppo Reno 8T 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/lens-tricks-editing-secrets-to-photo-wonders-for-2024/"><u>Lens Tricks Editing Secrets to Photo Wonders for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-realme-c51-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Realme C51</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-to-convert-ape-audio-without-losing-sound-integrity-in-flac/"><u>Step-by-Step Guide to Convert APE Audio Without Losing Sound Integrity in FLAC</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-to-downloading-specific-portions-of-youtube-footage/"><u>Step-by-Step Guide to Downloading Specific Portions of YouTube Footage</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-transferring-your-dvd-collection-into-itunes-with-ease/"><u>Step-by-Step Guide: Transferring Your DVD Collection Into iTunes with Ease</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-installation-of-alpha-quadrant-addon-for-kodi-access-live-sports-iptv-channels-and-entertainment/"><u>Step-by-Step Installation of Alpha Quadrant Addon for Kodi: Access Live Sports, IPTV Channels & Entertainment</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-transforming-dvd-audio-into-premium-dolby-digitaldts-for-surround-sound-enthusiasts/"><u>Step-by-Step Tutorial: Transforming DVD Audio Into Premium Dolby Digital/DTS for Surround Sound Enthusiasts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-5-affordable-screen-capture-tools-optimized-for-budget-computers/"><u>Top 5 Affordable Screen Capture Tools Optimized for Budget Computers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-guide-joining-several-video-clips-into-a-single-high-quality-file/"><u>Ultimate Guide: Joining Several Video Clips Into a Single High-Quality File</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-guide-top-8-exceptional-substitutes-for-obs-in-video-capture-and-live-broadcasts/"><u>Ultimate Guide: Top 8 Exceptional Substitutes for OBS in Video Capture & Live Broadcasts</u></a></li>
+</ul></div>
 

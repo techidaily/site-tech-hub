@@ -1,7 +1,7 @@
 ---
 title: How to Perform a Firmware Upgrade for Your Apple Studio Display (Tips and Tricks by ZDNet)
-date: 2024-10-08T18:21:04.506Z
-updated: 2024-10-15T21:20:21.138Z
+date: 2024-10-20T16:12:23.345Z
+updated: 2024-10-21T17:46:34.278Z
 tags:
   - apple
 categories:
@@ -33,13 +33,6 @@ If you're going to be one of those people, read on.
 
 You don't want to mess up this transfer, because not only could you lose data, but the next person could end up being unable to use the iPhone you sold or gave them. Follow these steps for a successful result for both of you. 
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  1\. Update
 
 Before you even think about wiping your old iPhone, there are some things that you should do. I'm going to assume that you're selling an iPhone that's still being supported and is capable of [running iOS 15](https://www.zdnet.com/article/here-are-8-ios-15-features-you-need-to-know-about/). 
@@ -65,10 +58,10 @@ If your iPhone is one of these and is not running the latest version of iOS 15, 
 Next, some apps -- specifically banking apps in my experience -- prefer it if you deactivate or deauthorize them on the old iPhone before moving to a new handset. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### read this
@@ -80,6 +73,13 @@ It's not that you can't still get the service to work, but you may have to jump 
 I'd definitely check any banking and financial apps for any special process involved in moving them to a new handset and take care of that up front. 
 
 **Also:** [**The 5 best payment apps (Venmo isn't your only option)**](https://www.zdnet.com/article/best-payment-app/)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  3\. Protect your data
 
@@ -94,10 +94,10 @@ Don't have enough iCloud space? Don't worry! Apple will let you borrow some [tem
 **Also:** [**Here's a hidden way to increase your iCloud storage**](https://www.zdnet.com/article/the-secret-hidden-way-you-can-double-apples-maximum-2tb-icloud-storage-limit/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  4\. Get ready for the transfer
@@ -141,19 +141,19 @@ Remember, once you start this process, there's no going back!
 
 **Also:** [**iOS 15 privacy and security checklist**](https://www.zdnet.com/article/ios-15-ultimate-privacy-and-security/)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### See also
 
 * [6 things you can do to give your devices a spring cleaning](https://www.zdnet.com/article/6-things-you-can-do-to-give-your-devices-a-spring-cleaning/)
 * [How to clean your Apple Watch in 5 steps](https://www.zdnet.com/article/how-to-clean-your-apple-watch-in-5-steps/)
 * [How to clean and sanitize your AirPods](https://www.zdnet.com/article/how-to-clean-and-sanitize-your-airpods/)
 * [How to clean a mechanical keyboard](https://www.zdnet.com/article/how-to-clean-a-mechanical-keyboard/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  6\. Spring-clean your iPhone
 
@@ -195,19 +195,21 @@ Now you can relax and enjoy your [new iPhone](https://www.zdnet.com/article/here
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-perfect-mac-imagery-a-guide-to-5-effective-snapshot-techniques/"><u>[New] In 2024, Perfect Mac Imagery A Guide to 5 Effective Snapshot Techniques</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-collect-premium-audio-for-video-editors/"><u>[Updated] In 2024, Collect Premium Audio for Video Editors</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-meta-versus-omni-the-future-of-digital-worlds/"><u>[Updated] Meta versus Omni The Future of Digital Worlds</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/5-ways-to-send-ringtones-from-apple-iphone-12-pro-max-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>5 Ways to Send Ringtones from Apple iPhone 12 Pro Max to iPhone Including iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/choosing-between-browser-enabled-chatgpt-and-chatgpt-extensions-optimal-usage-guide/"><u>Choosing Between Browser-Enabled ChatGPT and ChatGPT Extensions: Optimal Usage Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/corsair-k55-keyboard-fresh-driver-update-steps-to-enhance-performance/"><u>Corsair K55 Keyboard - Fresh Driver Update Steps to Enhance Performance</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/demystifying-ai-types-how-public-ai-differs-from-private-and-personal-implementations/"><u>Demystifying AI Types: How Public AI Differs From Private and Personal Implementations</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/easy-guide-to-downloading-and-installing-canon-pixma-mg2522-drivers/"><u>Easy Guide to Downloading and Installing Canon PIXMA MG2522 Drivers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-chatgpt-streamlines-your-site-creation-process-discover-the-four-key-advantages/"><u>How ChatGPT Streamlines Your Site Creation Process – Discover the Four Key Advantages</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-files-for-mix-fold-3-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD .mts files for Mix Fold 3? </u></a></li>
-<li><a href="https://win-solutions.techidaily.com/noise-restoration-for-skyrim-gamers-facing-sound-glitches/"><u>Noise Restoration for Skyrim Gamers Facing Sound Glitches</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-essential-path-to-prodigious-smm-results-delivered-in-10-steps/"><u>The Essential Path to Prodigious SMM Results, Delivered in 10 Steps</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-human-ai-balance-forging-pathways-to-thriving-careers/"><u>The Human-AI Balance: Forging Pathways to Thriving Careers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-8-benefits-of-integrating-artificial-intelligence-in-education-what-educators-need-to-know/"><u>Top 8 Benefits of Integrating Artificial Intelligence in Education: What Educators Need to Know</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-photovideo-text-warping-essentials/"><u>[New] Photo/Video Text Warping Essentials</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-transform-your-igtv-videos-with-top-10-video-editors/"><u>[Updated] 2024 Approved Transform Your IGTV Videos with Top 10 Video Editors</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-the-ultimate-guide-to-the-highest-rated-conference-recorders/"><u>[Updated] In 2024, The Ultimate Guide to the Highest Rated Conference Recorders</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-threads-of-time-looms-screen-record-mastery/"><u>[Updated] In 2024, Threads of Time Loom's Screen Record Mastery</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-quick-steps-to-join-start-and-manage-a-zoom-call-with-your-android-device/"><u>[Updated] Quick Steps to Join, Start & Manage a Zoom Call with Your Android Device</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chaos-in-ai-is-gpt-too-free/"><u>Chaos in AI: Is GPT Too Free?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-ban-by-italy-an-immediate-explancion/"><u>ChatGPT Ban by Italy: An Immediate Explanción</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-reimagined-gpt-plus-enhanced-us-experience-for-20/"><u>ChatGPT Reimagined: GPT-Plus, Enhanced U.S. Experience for $20</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpts-intellectual-stability-how-openai-refutes-claims-of-declining-smarts/"><u>ChatGPT’s Intellectual Stability: How OpenAI Refutes Claims of Declining Smarts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpts-legal-battles-unpacked-adapting-to-updated-google-news-formats-and-strategies-for-consistent-high-speed-mobile-internet-on-holiday-destinations/"><u>ChatGPT's Legal Battles Unpacked: Adapting to Updated Google News Formats & Strategies for Consistent High-Speed Mobile Internet on Holiday Destinations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/choosing-the-right-chatgpt-direct-browser-access-vs-enhanced-plugin-versions/"><u>Choosing the Right ChatGPT: Direct Browser Access Vs. Enhanced Plugin Versions</u></a></li>
+<li><a href="https://win-docs.techidaily.com/comment-resoudre-les-problemes-de-carte-cf-corrompu-sous-windows-un-guide-complet/"><u>Comment Résoudre Les Problèmes De Carte CF Corrompu Sous Windows: Un Guide Complet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-elon-musks-vision-the-potential-impact-of-truthgpt-on-future-technologies/"><u>Decoding Elon Musk’s Vision: The Potential Impact of TruthGPT on Future Technologies</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-infinix-zero-30-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Infinix Zero 30 5G IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/masterful-manipulation-speedy-stylization-techniques-for-win10-apps-for-2024/"><u>Masterful Manipulation Speedy Stylization Techniques for WIN10 Apps for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/movquicktime/"><u>MOVファイル再生に失敗した場合、QuickTimeプレーヤーでのトラブルシューティング手順</u></a></li>
 </ul></div>
 

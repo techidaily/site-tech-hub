@@ -1,7 +1,7 @@
 ---
 title: "Unraveling the Distinction: NLP vs ML Explained"
-date: 2024-09-14T21:45:32.075Z
-updated: 2024-09-18T02:55:14.984Z
+date: 2024-10-16T16:13:55.495Z
+updated: 2024-10-21T17:54:39.355Z
 tags:
   - chatgpt
   - open-ai
@@ -38,9 +38,23 @@ thumbnail: https://thmb.techidaily.com/6e23731e5459bef762d6b1bc2a8183e3bf6b31c4a
 
 Here's a video of Altman's discussion below:
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## When Is GPT-5 Coming?
 
 ![When is GPT-5 coming. Question mark illustration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/pexels-pixabay-356079-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  While Altman's comments about GPT-5's development make it seem like a 2024 release of GPT-5 is off the cards, it's important to pay extra attention to the details of his comment.
 
@@ -56,6 +70,13 @@ So, a 2024 release date for GPT-5? Is that possible?
 
  Remember, GPT-4 is both a language model and a vision model. However, consumers have barely used the "vision model" capabilities of GPT-4\. There is still huge potential in GPT-4 we've not explored, and OpenAI might dedicate the next several months to helping consumers make the best of it rather than push for the much hype GPT-5.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Changes Could GPT-5 Bring?
 
 ![chatgpt conversation open on smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/smartphone-chatgpt-1.jpg)
@@ -67,10 +88,10 @@ So, a 2024 release date for GPT-5? Is that possible?
  However, considering the current abilities of GPT-4, we expect the law of diminishing marginal returns to set in. Simply increasing the model size, throwing in more computational power, or diversifying training data might not necessarily bring the significant improvements we expect from GPT-5.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## GPT-5: An Exciting Future Awaits
@@ -92,5 +113,22 @@ So, a 2024 release date for GPT-5? Is that possible?
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-ultimate-list-igtv-masterminds-and-maestros/"><u>[New] The Ultimate List IGTV Masterminds & Maestros</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-perfect-your-preview-fullscreen-mastery-with-premiere-pro/"><u>2024 Approved Perfect Your Preview Fullscreen Mastery with Premiere Pro</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/comprehensive-install-guide-installing-qualcomm-usb-wifi-drivers-on-various-windows-editions/"><u>Comprehensive [INSTALL] Guide: Installing Qualcomm USB WiFi Drivers on Various Windows Editions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/delving-into-openais-leadership-stance-why-a-stricter-hand-is-needed-on-artificial-intelligence-development/"><u>Delving Into OpenAI's Leadership Stance: Why a Stricter Hand Is Needed On Artificial Intelligence Development</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-code-24-errors-in-windows-operating-systems-solutions-for-windows-11-8-and-easily-fix-the-issue/"><u>Diagnosing Code 24 Errors in Windows Operating Systems - Solutions for Windows 11, 8, and Easily Fix the Issue.</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-prompting-made-simple-for-chatgpt-enthusiasts/"><u>Effortless Prompting Made Simple for ChatGPT Enthusiasts</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>How Do I Stop Someone From Tracking My Apple iPhone 15 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-harness-gpt-3-capabilities-using-openais-online-workbench/"><u>How To Harness GPT-3 Capabilities Using OpenAI's Online Workbench</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-tecno-phantom-v-fold-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Tecno Phantom V Fold to New Phone | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-6s-plus-location-by-number-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone 6s Plus Location by Number | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/machine-mastery-contrast-gpt-and-bings-ai-divergence/"><u>Machine Mastery Contrast: GPT & Bing's AI Divergence</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mercedes-benz-revolutionizes-the-cabin-experience-with-newly-added-voice-activated-chatgpt-controls/"><u>Mercedes-Benz Revolutionizes the Cabin Experience with Newly Added Voice-Activated ChatGPT Controls</u></a></li>
+<li><a href="https://win-answers.techidaily.com/no-more-crashes-a-hassle-free-guide-to-optimizing-your-assassins-creed-odyssey-experience-on-pc/"><u>No More Crashes - A Hassle-Free Guide to Optimizing Your Assassin's Creed Odyssey Experience on PC</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-limits-of-ai-detectors-unearthing-truths-about-zerogpt-evasion-techniques/"><u>The Limits of AI Detectors: Unearthing Truths About ZeroGPT Evasion Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transform-communication-with-personalized-gpt-models-via-chatgpts-cutting-edge-update/"><u>Transform Communication with Personalized GPT Models via ChatGPT's Cutting-Edge Update</u></a></li>
+</ul></div>
 

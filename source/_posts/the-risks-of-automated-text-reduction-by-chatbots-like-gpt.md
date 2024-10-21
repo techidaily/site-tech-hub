@@ -1,7 +1,7 @@
 ---
 title: The Risks of Automated Text Reduction by ChatBots Like GPT
-date: 2024-09-17T03:27:45.520Z
-updated: 2024-09-18T00:54:38.603Z
+date: 2024-10-16T16:34:49.689Z
+updated: 2024-10-21T18:41:59.134Z
 tags:
   - chatgpt
   - open-ai
@@ -48,13 +48,6 @@ thumbnail: https://thmb.techidaily.com/4914ba55ffacf89f7eecf219812b0360d597ec646
 
  ChatGPT AI, the fake ChatGPT Facebook page, also features posts that include links to “chat-gpt-pc.online,” another domain that redirects users to a malicious ChatGPT-themed website.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. chatgpt-go.online
 
  The domain “chatgpt-go.online” leads users to a website that’s a clone of the official ChatGPT website. The copy-pasted site, however, swaps the “TRY CHATGPT” button link with malicious links containing Lumma Stealer. The domain also hosts different kinds of malicious files, including clipper malware and Aurora stealer.
@@ -63,14 +56,14 @@ thumbnail: https://thmb.techidaily.com/4914ba55ffacf89f7eecf219812b0360d597ec646
 
 ![pay.chatgptftw.com's payment page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pay-chatgptftw-com.jpg)
 
- Cybercriminals also use ChatGPT-themed payment pages for financial fraud. For example, on the domain “pay.chatgptftw.com,” Cyble came across a page designed to steal credit card details. This webpage poses as a genuine payment page for ChatGPT Plus.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Cybercriminals also use ChatGPT-themed payment pages for financial fraud. For example, on the domain “pay.chatgptftw.com,” Cyble came across a page designed to steal credit card details. This webpage poses as a genuine payment page for ChatGPT Plus.
 
 ## 6\. ChatGPT1
 
@@ -80,15 +73,22 @@ thumbnail: https://thmb.techidaily.com/4914ba55ffacf89f7eecf219812b0360d597ec646
 
  “AI Photo” is another app that uses the ChatGPT icon, but is malicious in intent. This app was found to harbor the SpyNote malware, capable of stealing device files, contact lists, call logs, and text messages.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Meterpreter Posing as “SuperGPT” App
 
 ![The official SuperGPT's install page on Google Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/supergpt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  SuperGPT is an AI assistant app built on ChatGPT. However, researchers from Unit 42 uncovered a malicious APK sample posing as the app. This fake “SuperGPT” is a Meterpreter Trojan, [a RAT that enables remote access](https://www.makeuseof.com/android-remote-access-trojan/) of Android devices.
@@ -102,6 +102,13 @@ thumbnail: https://thmb.techidaily.com/4914ba55ffacf89f7eecf219812b0360d597ec646
  If you click the link, you’ll be redirected to a website that prompts you to download ChatGPT for Windows. Clicking on the button will download an archive containing an executable file.
 
  Upon extracting the archive and running the file, you may or may not receive an installation failure message. In either case, the Trojan is installed.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Protect Yourself From Malicious ChatGPT-Themed Apps
 
@@ -128,5 +135,24 @@ thumbnail: https://thmb.techidaily.com/4914ba55ffacf89f7eecf219812b0360d597ec646
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-transform-avi-files-into-gifs-with-filmora-on-windowsmacos-for-2024/"><u>[New] Transform AVI Files Into GIFs with Filmora on Windows/MacOS for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-leading-window-call-apps-2-1-sorted/"><u>[Updated] 2024 Approved Leading Window Call Apps, #2-#1 Sorted</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-az-screen-logger-full-review-backup-selection/"><u>[Updated] In 2024, AZ Screen Logger Full Review, Backup Selection</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-elevate-your-gameplay-records-with-advanced-methods-on-w11/"><u>[Updated] In 2024, Elevate Your Gameplay Records with Advanced Methods on W11</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-10-leading-video-conferencing-software-for-phonespcs/"><u>2024 Approved 10 Leading Video Conferencing Software for Phones/PCs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-sleuths-alliance-navigate-through-4-interactive-virtual-games/"><u>AI Sleuths Alliance: Navigate Through 4 Interactive Virtual Games</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-for-wellness-unveiling-the-top-9-methodologies/"><u>ChatGPT for Wellness: Unveiling the Top 9 Methodologies</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-apple-iphone-15-plus-without-passcode-now-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock Apple iPhone 15 Plus Without Passcode Now</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/future-proofing-your-career-against-ai-advancements-the-role-of-generative-technologies/"><u>Future-Proofing Your Career Against AI Advancements: The Role of Generative Technologies</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-solve-microphone-problems-when-playing-sea-of-thieves-on-pc/"><u>How to Solve Microphone Problems When Playing Sea of Thieves on PC</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovators-at-war-notion-ai-vs-gpt-3-in-the-spotlight/"><u>Innovators at War: Notion AI Vs. GPT-3 in the Spotlight</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leadership-shakeup-at-openai-whats-next-for-gpt/"><u>Leadership Shakeup at OpenAI - What's Next For GPT?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726028281199-pc/"><u>PCとスマートフォン用ピンタリング動画の保存に困った？解決策を学ぶ！</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tailoring-ai-text-generation-making-chatgpt-channel-your-individual-writing-essence/"><u>Tailoring AI Text Generation: Making ChatGPT Channel Your Individual Writing Essence</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tap-into-cutting-edge-tech-without-spending-a-dime-try-these-5-tricks-with-gpt-4/"><u>Tap Into Cutting-Edge Tech Without Spending a Dime – Try These 5 Tricks with GPT-4</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/transforming-printed-material-into-engaging-flipbooks-a-guide-with-flipbuildercom-techniques/"><u>Transforming Printed Material Into Engaging Flipbooks: A Guide with FlipBuilder.com Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/your-path-to-chatgpt-conversation-control-on-android/"><u>Your Path to ChatGPT Conversation Control on Android</u></a></li>
+</ul></div>
 

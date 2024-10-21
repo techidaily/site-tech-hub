@@ -1,7 +1,7 @@
 ---
 title: "Immediate Purchase Options for Apple's New Releases From WWDC Showcase: Where to Preorder"
-date: 2024-10-10T22:57:48.652Z
-updated: 2024-10-15T21:58:02.078Z
+date: 2024-10-20T16:00:52.275Z
+updated: 2024-10-21T16:15:08.674Z
 tags:
   - apple
 categories:
@@ -37,6 +37,13 @@ Cons
 >
 
 ## MacBook Air M2 15-inch
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### A refreshed MacBook Air
 
@@ -86,19 +93,19 @@ Cons
 * Very large and heavy
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Mac Pro
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### A serious workstation for serious professionals
@@ -114,22 +121,15 @@ Show Expert Take Show less
 If you recently made the switch from an Intel-based Mac to one with an M1 or M2 chipset, you might want to hold off on upgrading to these latest models. The M2 Ultra is a brand-new chip from Apple, and will have some growing pains as driver updates get released to smooth over bugs and other performance issues real-world users may have. These new devices are also on the more expensive side, so you might want to wait for a promotional sale or for when your M1/M2 Mac starts to have serious issues. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What's the difference between the M2 Max and M2 Ultra?
 
 The biggest difference comes down to how many cores each chip has as well as the maximum amount of supported memory. The M2 Max supports up to 96GB of unified RAM and features an 8-core CPU and 10-core CPU. The M2 Ultra supports up to 192GB of unified memory and features a 24-core CPU, 60-core GPU, and 32-core Neural Engine. This means that the M2 Ultra can perform more processes per second, giving you higher performance over Intel and M1-based Apple models.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## When will these be available?
 
@@ -175,20 +175,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-enhancing-video-performance-on-the-social-platform-for-2024/"><u>[Updated] Enhancing Video Performance on the Social Platform for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-master-list-of-premium-4k-yt-converters-ranked-by-usage/"><u>[Updated] Master List of Premium 4K YT Converters Ranked by Usage</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-the-animators-toolkit-windows-movie-maker-for-winning-projects-for-2024/"><u>[Updated] The Animator's Toolkit Windows Movie Maker for Winning Projects for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-top-11-audio-capture-devices-for-live-broadcasts/"><u>[Updated] Top 11 Audio Capture Devices for Live Broadcasts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatbot-insights-vs-starry-signs-is-ai-outshining-astrology-for-future-predictions/"><u>Chatbot Insights Vs. Starry Signs: Is AI Outshining Astrology for Future Predictions?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-plus-subscription-benefits-is-it-worth-your-money/"><u>ChatGPT Plus Subscription Benefits – Is It Worth Your Money?</u></a></li>
-<li><a href="https://win-blog.techidaily.com/conquering-the-cod-warzone-error-code-6328-pro-tips-for-a-seamless-gaming-experience/"><u>Conquering the Cod Warzone Error Code 6328: Pro Tips for a Seamless Gaming Experience</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhance-your-reading-list-with-smart-choices-from-our-top-picks-of-ai-book-recommender-tools/"><u>Enhance Your Reading List with Smart Choices From Our Top Picks of AI Book Recommender Tools</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/essential-guide-to-bypassing-useless-gpt-plugins/"><u>Essential Guide to Bypassing Useless GPT Plugins</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-asus-rog-phone-7-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Asus ROG Phone 7 FRP Bypass Instantly</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-it-feasible-to-obtain-custom-exercise-routines-that-are-both-secure-and-productive-via-chatgpt/"><u>Is It Feasible to Obtain Custom Exercise Routines That Are Both Secure and Productive via ChatGPT?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/optimizing-live-streams-with-onestream-a-beginners-guide-for-2024/"><u>Optimizing Live Streams with OneStream A Beginner's Guide for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/simplified-steps-for-local-llama-2-installation/"><u>Simplified Steps for Local Llama 2 Installation</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/starfield-sound-fixes-solving-audio-glitches-and-stutters/"><u>Starfield Sound Fixes: Solving Audio Glitches & Stutters</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlock-creative-writing-potential-top-9-ways-to-use-chatgpt-for-your-novel/"><u>Unlock Creative Writing Potential: Top 9 Ways to Use ChatGPT for Your Novel</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-essential-guide-for-capturing-console-playbacks/"><u>[Updated] In 2024, Essential Guide for Capturing Console Playbacks</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-becoming-a-filmora-fcc-the-pathway-explained/"><u>2024 Approved Becoming a Filmora FCC The Pathway Explained</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-gripping-gospels-intros-that-draw-ears/"><u>2024 Approved Gripping Gospels Intros That Draw Ears</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-ultimate-guide-perfecting-pics-with-facetune/"><u>2024 Approved Ultimate Guide Perfecting Pics with Facetune</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/apple-slashes-the-cost-the-all-time-bargain-of-m2-mac-mini-at-only-479-as-revealed-on-zdnet/"><u>Apple Slashes the Cost: The All-Time Bargain of M2 Mac Mini at Only $479, as Revealed on ZDNET</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beating-app-vision-pro-with-budget-friendly-xr-glasses-a-cost-effective-cure-for-fomo/"><u>Beating App Vision Pro With Budget-Friendly XR Glasses: A Cost-Effective Cure for FOMO</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discovering-delightful-gaming-experiences-with-pokemon-shining-pearl/"><u>Discovering Delightful Gaming Experiences with Pokémon Shining Pearl</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/essential-steps-for-configuring-your-latest-ipad-model-expert-advice/"><u>Essential Steps for Configuring Your Latest iPad Model - Expert Advice</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/funny-photos-for-iphones-for-2024/"><u>Funny Photos for IPhones for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-apple-could-surpass-tech-giants-in-ai-top-strategies-for-a-dominant-presence-at-wwdc-2n-24-tech-innovator/"><u>How Apple Could Surpass Tech Giants in AI: Top Strategies for a Dominant Presence at WWDC 2N-24 | Tech Innovator</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-xiaomi-redmi-note-13-pro-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Xiaomi Redmi Note 13 Pro 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/iphone-showdown-iphone-1er-vs-iphone-14-pro-max-deciding-on-your-best-bet-expert-review-zdnet-reviews/"><u>IPhone Showdown: IPhone 1Er vs iPhone 14 Pro Max – Deciding on Your Best Bet [Expert Review] | ZDNET Reviews</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-infinix-note-30i-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Infinix Note 30i FRP Bypass</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-ios-175s-unexpected-photo-recovery-apple-sheds-light-on-the-process-and-future-actions/"><u>Understanding iOS 17.5'S Unexpected Photo Recovery: Apple Sheds Light on the Process & Future Actions</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-xiaomi-13-ultra-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Xiaomi 13 Ultra Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 

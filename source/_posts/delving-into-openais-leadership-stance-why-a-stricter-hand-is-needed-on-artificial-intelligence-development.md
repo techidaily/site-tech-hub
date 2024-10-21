@@ -1,7 +1,7 @@
 ---
 title: "Delving Into OpenAI's Leadership Stance: Why a Stricter Hand Is Needed On Artificial Intelligence Development"
-date: 2024-09-15T20:30:11.324Z
-updated: 2024-09-17T23:18:20.777Z
+date: 2024-10-19T19:41:35.276Z
+updated: 2024-10-21T16:41:00.904Z
 tags:
   - chatgpt
   - open-ai
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
 
  The chatbot is also built into the Edge browser, where you can access it via the homepage.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Skype Gets AI Features
 
  In addition to those apps, Microsoft has added AI-enhanced Bing support to Skype, the venerable voice and chat app. The idea here is not to get the AI to have conversations on your behalf, but to add similar search capabilities to group messages.
@@ -47,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
 > "If your family is chatting about the next family reunion, you can simply ask Bing for suggestions on travel destinations, expected weather forecasts and interesting events around your time of travel, and everyone in the chat will get access to the results."
 
  To access this feature, you simply need to add Bing to your group chats as you would any other contact. It's available worldwide and can respond in over 100 languages.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Use the New ChatGPT Bing Apps
 
@@ -59,10 +73,10 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
 **Download:** Skype for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2022079/https://play.google.com/store/apps/details?id=com.skype.raider) |[iOS](https://apps.apple.com/us/app/skype/id304878510) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Test Out AI Chat on Android and iPhone Today
@@ -86,5 +100,22 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-integrated-iptv-channel-distribution/"><u>[New] 2024 Approved Integrated IPTV Channel Distribution</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-mastering-the-art-of-smooth-ipad-video-recording/"><u>[New] Mastering the Art of Smooth iPad Video Recording</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-tips-for-finding-trending-videos-on-facebook/"><u>[New] Tips for Finding Trending Videos on Facebook</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-navigating-the-path-to-youtube-stardom-with-these-tactics-for-2024/"><u>[Updated] Navigating the Path to YouTube Stardom with These Tactics for 2024</u></a></li>
+<li><a href="https://ai-video.techidaily.com/2024-approved-best-10-free-video-translators-to-mitigate-translation-risks/"><u>2024 Approved Best 10 Free Video Translators to Mitigate Translation Risks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/amplifying-affection-how-ai-assistance-from-chatgpt-elevates-relationships/"><u>Amplifying Affection: How AI Assistance From ChatGPT Elevates Relationships</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-format-transformation-turn-your-dvr-mpeg2-and-asf-files-into-multiple-formats-including-mp4-and-avi/"><u>Effortless Format Transformation: Turn Your DVR MPEG2 & ASF Files Into Multiple Formats Including MP4 and AVI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhance-your-tiktok-content-creation-using-advanced-editing-tools/"><u>Enhance Your TikTok Content Creation Using Advanced Editing Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/free-holiday-gift-get-your-own-merry-christmas-with-factory-pro-ipod-video-converter-30/"><u>Free Holiday Gift: Get Your Own Merry Christmas with Factory Pro iPod Video Converter 3.0!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-can-you-overcome-imessage-delivery-failures-on-an-iphone-a-comprehensive-guide/"><u>How Can You Overcome iMessage Delivery Failures on an iPhone? A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-convert-various-sources-to-mp3-a-guide-featuring-anyther2mp3-plus-alternative-applications/"><u>How to Convert Various Sources to MP3: A Guide Featuring Anyther2mp3 Plus Alternative Applications</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-enable-mkv-support-in-plex-a-simple-guide/"><u>How to Enable MKV Support in Plex: A Simple Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-11-pro-max-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix Apple iPhone 11 Pro Max Passcode not Working?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/kodi-v19-matrix-update-comprehensive-guide-on-compatibility-new-features-and-step-by-step-installation/"><u>Kodi v19 Matrix Update - Comprehensive Guide on Compatibility, New Features & Step-by-Step Installation</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-constant-bugs-in-thunders-top-tier-level-a-users-manual/"><u>Solving the Constant Bugs in Thunder's Top-Tier Level - A User's Manual</u></a></li>
+</ul></div>
 

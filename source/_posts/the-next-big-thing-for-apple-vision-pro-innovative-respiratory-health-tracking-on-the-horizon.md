@@ -1,7 +1,7 @@
 ---
 title: The Next Big Thing for Apple Vision Pro? Innovative Respiratory Health Tracking on the Horizon
-date: 2024-10-12T23:16:28.330Z
-updated: 2024-10-16T01:24:08.815Z
+date: 2024-10-19T16:02:11.207Z
+updated: 2024-10-21T17:40:06.824Z
 tags:
   - apple
 categories:
@@ -34,6 +34,13 @@ Every year, my wife and I eagerly await the release of the new iPhones. Being pa
 
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apple Intelligence: A significant, yet incomplete, leap forward
 
 Apple Intelligence represents a significant leap in on-device AI capabilities, directly bringing advanced machine learning and natural language processing to our phones. Unlike typical iOS or MacOS feature upgrades, Apple Intelligence loads a downsized version of Apple's Foundation Models, [a home-grown large language model (LLM)](https://www.zdnet.com/article/apple-claims-its-on-device-ai-system-realm-substantially-outperforms-gpt-4/) with approximately 3 billion parameters. While impressive, this is tiny compared to models like [GPT-3.5 and GPT-4](https://www.zdnet.com/article/what-does-gpt-stand-for-understanding-gpt-3-5-gpt-4-and-more/), which boast hundreds of billions of parameters. Even Meta's open source Llama 3, which you can run on a desktop computer, has 8 billion parameters. 
@@ -59,10 +66,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## New hardware leaks: what to expect from the iPhone 16
@@ -81,13 +88,6 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
 
 Besides memory concerns, AI processing demands a lot of power and additional computing resources. Without significant advancements in battery and power management technology, users might have to charge their phones more often. This can lead to increased battery drain, reduced battery lifespan, and potential performance issues. The extra processing power needed to run on-device LLMs could strain the CPU, causing the device to heat up and affecting its overall performance and reliability.
@@ -97,10 +97,10 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
@@ -120,10 +120,16 @@ Enterprises may also employ a mobile device management solution to facilitate ac
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## I'm still optimistic
@@ -166,22 +172,22 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-backward-button-chronicles-youtubes-video-reversal/"><u>[New] The Backward Button Chronicles YouTube's Video Reversal</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/battle-of-the-minds-top-10-contrasts-between-microsofts-bing-and-openais-chatgpt/"><u>Battle of the Minds: Top 10 Contrasts Between Microsoft's Bing and OpenAI's ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/bings-smart-ai-search-now-available-for-iphone-and-android-users/"><u>Bing's Smart AI Search Now Available for iPhone & Android Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/high-performance-meets-elegance-discover-the-acer-predator-helios-neo-14/"><u>High Performance Meets Elegance: Discover the Acer Predator Helios Neo 14</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-efficient-is-auto-gpt-without-the-advanced-capabilities-of-gpt-4-technology/"><u>How Efficient Is Auto-GPT Without the Advanced Capabilities of GPT-4 Technology?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-get-and-install-logitech-speaker-drivers-for-various-windows-versions-including-11-7-and-8/"><u>How to Get & Install Logitech Speaker Drivers for Various Windows Versions Including 11, 7 & 8</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-crafting-success-in-fb-video-advertising-a-collection-of-20-essentials/"><u>In 2024, Crafting Success in FB Video Advertising – A Collection of 20 Essentials</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-realme-12plus-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Realme 12+ 5G to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/instagram-story-audiences-the-untold-details/"><u>Instagram Story Audiences The Untold Details</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-dungeon-architects-tools-gpt-generative-ai-in-character-design/"><u>Mastering Dungeon Architects' Tools: GPT, Generative AI in Character Design</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-deploying-browser-based-ai-agents-with-agentgpt-technology/"><u>Mastering the Art of Deploying Browser-Based AI Agents with AgentGPT Technology</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-away-from-official-gpt-models-are-jailbreaks-the-next-big-thing/"><u>Navigating Away From Official GPT Models – Are Jailbreaks the Next Big Thing?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/ringsong-blueprint-guide-for-turning-tamil-tracks-into-notifications/"><u>RingSong Blueprint Guide for Turning Tamil Tracks Into Notifications</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/selecting-individual-pages-for-viewing-tips-for-easy-navigation-to-page-4-on-flipbuilder/"><u>Selecting Individual Pages for Viewing - Tips for Easy Navigation to Page 4 on FlipBuilder</u></a></li>
-<li><a href="https://games-able.techidaily.com/transform-spaces-and-games-with-enhanced-cabinet-frames/"><u>Transform Spaces & Games with Enhanced Cabinet Frames!</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ultimate-film-previews-collection/"><u>Ultimate Film Previews Collection</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-power-of-googles-latest-ai-the-palm-2-large-language-breakthrough/"><u>Unveiling the Power of Google’s Latest AI: The PaLM 2 Large Language Breakthrough</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-master-the-art-of-technological-advancement-with-this-guide/"><u>[Updated] Master the Art of Technological Advancement with This Guide</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-snappy-side-hustles-earning-with-snapchat-for-2024/"><u>[Updated] Snappy Side Hustles Earning with Snapchat for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boost-your-apple-watch-battery-by-altering-just-these-8-settings-expert-tips-inside/"><u>Boost Your Apple Watch Battery by Altering Just These 8 Settings - Expert Tips Inside!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/budget-friendly-cloud-pricing-showdown/"><u>Budget-Friendly Cloud Pricing Showdown</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comprehensive-analysis-of-apples-latest-airpods-pro-version-key-enhancements-explored/"><u>Comprehensive Analysis of Apple's Latest AirPods Pro Version: Key Enhancements Explored</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/defying-apples-push-how-one-user-tested-upgrading-from-an-older-iphone-model/"><u>Defying Apple's Push: How One User Tested Upgrading From an Older iPhone Model</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-apple-studio-display-a-stylish-yet-expensive-option-for-professional-mac-users-techspot/"><u>Exploring the Apple Studio Display - A Stylish Yet Expensive Option for Professional Mac Users | TechSpot</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-apple-iphone-14-plus-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From Apple iPhone 14 Plus Lock Screen</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-ignite-engagement-top-3-youtube-live-stream-tips-for-understaffed-viewership/"><u>In 2024, Ignite Engagement Top 3 YouTube Live Stream Tips for Understaffed Viewership</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-itel-p55-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Itel P55 Phone FRP Lock</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maintain-a-fresh-look-top-3-iphone-13-gadgets-and-add-ons-featured/"><u>Maintain a Fresh Look: Top 3 iPhone 13 Gadgets and Add-Ons Featured</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-the-features-of-apples-flagship-tablet-the-ipad-pro-review-and-acknowledging-its-limits-compared-to-a-macbook-zdnet-analysis/"><u>Navigating the Features of Apple's Flagship Tablet: The iPad Pro Review & Acknowledging Its Limits Compared to a MacBook | ZDNet Analysis</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/review-of-yuneecs-aerodrone-typhoon-h-insights-and-results/"><u>Review of Yuneec’s AeroDrone Typhoon H Insights and Results</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-ranked-tech-giants-showdown-comparing-apple-and-dells-latest-innovations-insights/"><u>Top-Ranked Tech Giants Showdown: Comparing Apple & Dell's Latest Innovations - Insights</u></a></li>
+<li><a href="https://win-help.techidaily.com/top-ranking-mp3-converter-software-compared-allavsoft-vs-others/"><u>Top-Ranking MP3 Converter Software Compared: Allavsoft vs Others</u></a></li>
+<li><a href="https://fox-http.techidaily.com/unlocking-the-world-of-sound-on-ios-apple-point-and-click-guide/"><u>Unlocking the World of Sound on iOS Apple' Point-and-Click Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/upgrading-guide-comparing-ipad-air-4-with-ipad-air-section-1-advanced-problem-theme-question/"><u>Upgrading Guide: Comparing iPad Air 4 with iPad Air # Section 1: Advanced Problem Theme Question</u></a></li>
 </ul></div>
 

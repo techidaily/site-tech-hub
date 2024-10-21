@@ -1,7 +1,7 @@
 ---
 title: Customizing & Streamlining Your MacOS Sonoma Menu Bar - Expert Tips
-date: 2024-10-14T16:13:03.279Z
-updated: 2024-10-15T21:05:19.414Z
+date: 2024-10-19T16:52:18.813Z
+updated: 2024-10-21T16:17:57.609Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ Those sneaky little earbuds can walk away from us, but luckily the AirPods have 
 ## How to find your lost AirPods
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Set up Find My ASAP
@@ -44,10 +44,10 @@ Nina Raemont/ZDNET
 First and foremost, set up Find My. Find My, one of the native apps on your iPhone and iPad, will become your best friend when you begin a search for lost devices like AirPods or Apple Watches. Note: You'll want to set up Find My as soon as possible, because you can't locate your AirPods through Find My _after_ you've lost them. If your AirPods are already set up on Find My, go to the next step. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Open Find My
@@ -56,34 +56,28 @@ Nina Raemont/ZDNET
 
 Open the Find My app, then toggle to the Devices tab to select your AirPods, which you've registered on Find My. If your AirPods are nearby, they'll appear on the map. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Play sound to find AirPods
 
 Nina Raemont/ZDNET
 
 Click the Play Sound feature to locate your earbuds. You'll hear a ringing sound near you. It's important to know that at least one of the two earbuds must be out of its charging case or it won't play a sound. You can play sound for the left and right earbuds by tapping L or R. Once you've found them, you can hit stop. 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Will this work if I've lost my AirPods while they're in the charging case?
 
 If you've lost your AirPods while they're in the charging case, it gets harder to locate them on Find My.The Find My map will show the most recent location where the case was last opened, but won't be updated to their current location if they've been moved since they were last used.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can you locate AirPods that aren't online?
@@ -120,20 +114,24 @@ Unfortunately, no. They need to be online and connected to Find My to easily loc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-deciphering-your-affection-filmoras-top-10-features/"><u>[New] 2024 Approved Deciphering Your Affection Filmora’s Top 10 Features</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-cut-the-cost-not-your-content-quality-try-these-top-8-free-tools/"><u>[New] In 2024, Cut The Cost, Not Your Content Quality - Try These Top 8 Free Tools</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-lut-techniques-for-professional-color-grading-and-correction/"><u>2024 Approved LUT Techniques for Professional Color Grading and Correction</u></a></li>
-<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-honor-magic-6-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Honor Magic 6 to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/breaking-down-the-barriers-with-gpt-4-an-inclusive-approach-for-all-users/"><u>Breaking Down the Barriers with GPT-4: An Inclusive Approach for All Users</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/delving-into-the-data-dilemmas-of-chatgpt-engagement/"><u>Delving Into the Data Dilemmas of ChatGPT Engagement</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/fact-checking-your-way-through-ai-wellness-advice/"><u>Fact-Checking Your Way Through AI Wellness Advice</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/get-ai-assistance-with-a-zero-price-tag-install-windows-chatgpt-alternative-now/"><u>Get AI Assistance with a Zero Price Tag – Install Windows ChatGPT Alternative Now</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-update-contact-details-in-protonvpn-browser-plugin-and-recognize-real-from-counterfeit-chatgpt-on-windows/"><u>How to Update Contact Details in ProtonVPN Browser Plugin & Recognize Real From Counterfeit ChatGPT on Windows</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-digital-broadcasting-made-simple-your-essential-guide-to-4-recording-tips/"><u>In 2024, Digital Broadcasting Made Simple Your Essential Guide to 4 Recording Tips</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-revel-in-the-rhythm-of-rising-text/"><u>In 2024, Revel in the Rhythm of Rising Text</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/innovating-proposal-writing-through-ai-with-chatgpt/"><u>Innovating Proposal Writing Through AI with ChatGPT</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/selecting-your-streaming-choice-podcast-or-video-platform-for-2024/"><u>Selecting Your Streaming Choice Podcast or Video Platform for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/ultimate-guide-fixing-persistent-vrchat-crashes-on-personal-computers/"><u>Ultimate Guide: Fixing Persistent VRChat Crashes on Personal Computers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/why-businesses-fear-the-conversational-future-the-5-reasons/"><u>Why Businesses Fear the Conversational Future: The 5 Reasons</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-best-camera-apps-to-shoot-and-record-videos-on-iphone-and-andriod-phones/"><u>[New] Best Camera Apps to Shoot and Record Videos on iPhone and Andriod Phones</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-capturing-flawless-footage-premium-pcmac-options-reviewed-for-2024/"><u>[New] Capturing Flawless Footage Premium PC/Mac Options Reviewed for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-the-ultimate-instagram-photography-guide-for-crafting-perfect-covers-for-2024/"><u>[New] The Ultimate Instagram Photography Guide for Crafting Perfect Covers for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-advanced-tips-and-tricks-for-speech-transcription-with-gdoc/"><u>[Updated] Advanced Tips and Tricks for Speech Transcription with GDoc</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-convert-m4v-files-to-wav-format-at-no-cost-on-your-windows-pc/"><u>1. Convert M4V Files to WAV Format at No Cost on Your Windows PC</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/5yuv55s744k144kk44k66lu95rib44gr5pya6auy44gu5oml44gm44gl44kk77yb5lq65rcx44gu54sh5paz44kq44oz44op44kk44oz44oe44o844or44go44k544oq44og5yyw5pa55rov/"><u>動画サイズ軽減に最高の手がかり！人気の無料オンラインツールとスリム化方法</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/conquer-loneliness-through-engaging-in-chatgpt-interaction/"><u>Conquer Loneliness Through Engaging in ChatGPT Interaction</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decrypting-the-secrets-mobile-device-held-hostage-at-50-insights-into-ransomware-and-ai-powered-writing-on-our-show/"><u>Decrypting the Secrets: Mobile Device Held Hostage at $50 - Insights Into Ransomware & AI-Powered Writing on Our Show</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/defend-your-works-of-art-from-ai-theft-with-nightshade-techniques/"><u>Defend Your Works of Art From AI Theft with Nightshade Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/demystifying-generative-artifice-intelligence-ai-explained/"><u>Demystifying Generative Artifice Intelligence (AI) Explained</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-how-to-utilize-8-versatile-gpts-instantly-for-enhanced-task-automation/"><u>Discover How to Utilize 8 Versatile GPTs Instantly for Enhanced Task Automation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-best-chatgpt-extensions-for-fitness-and-self-care-success/"><u>Discover the Best ChatGPT Extensions for Fitness & Self-Care Success</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effective-strategies-for-verifying-health-data-using-chatgpt-and-artificial-intelligence/"><u>Effective Strategies for Verifying Health Data Using ChatGPT & Artificial Intelligence</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effective-strategies-crafting-youtube-scripts-with-chatgpt/"><u>Effective Strategies: Crafting YouTube Scripts with ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhance-ai-responses-top-5-techniques-for-crafting-powerful-chatgpt-prompts/"><u>Enhance AI Responses: Top 5 Techniques for Crafting Powerful ChatGPT Prompts</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Vivo Y100i Power 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-bright-ideas-effective-lighting-in-vlogging/"><u>In 2024, Bright Ideas Effective Lighting in Vlogging</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-se-2020-backup-password-heres-what-to-do-by-drfone-ios/"><u>In 2024, Forgot iPhone SE (2020) Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/navigating-through-gadgets-with-expert-insights-from-toms-domain/"><u>Navigating Through Gadgets with Expert Insights From Tom's Domain</u></a></li>
 </ul></div>
 

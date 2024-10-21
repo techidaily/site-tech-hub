@@ -1,7 +1,7 @@
 ---
 title: Buy These New Apple Features Announced at WWDC Today – Where to Get Them | CNET News
-date: 2024-10-12T04:57:33.458Z
-updated: 2024-10-15T22:43:28.245Z
+date: 2024-10-17T18:06:33.576Z
+updated: 2024-10-21T20:42:02.261Z
 tags:
   - apple
 categories:
@@ -46,15 +46,22 @@ To help you make this decision, we've broken down all of the most important deta
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  You should buy the iPhone 16 if...
 
 Kerry Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  1\. You'd benefit from Apple Intelligence features
 
@@ -64,13 +71,6 @@ Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.c
 
 There is more to the AI features beyond Siri. Apple Intelligence will be able to summarize notifications and Priority Messages in the Mail app. Like Siri, the feature will be able to understand context. [Apple Intelligence](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/) will gain additional features later in the year like the ability to create custom emojis and perform multiple actions across apps.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  2\. You want a better photography experience
 
 The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-which-new-iphone-should-you-buy/) is seeing a new camera array. On the back will be a 48MP Fusion camera serving as the main lens. It'll have a 2x Telephoto option for up-close photography. Apple states it'll be like having "two cameras in one." Alongside it will be a 12MP Ultra Wide lens with an autofocus function that can enable "macro photography." It can also take in "2.6x times more light \[than before\] for higher image quality." 
@@ -78,6 +78,13 @@ The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-whi
 **Also: [The 5 best iPhone 16 Pro features that enthusiasts will care about](https://www.zdnet.com/article/the-5-best-iphone-16-pro-features-that-enthusiasts-will-care-about/)**
 
 On the side below the [Power Button is the new Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/). It's a tactile switch with a special sensor that can perform unique actions with a light touch. For example, pressing it quickly launches the Camera app for taking quick snapshots or recording a video. It even introduces a preview feature to help you frame the shot. And if that wasn't enough, it'll work with third-party apps.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  3\. You want "next-level performance"
 
@@ -97,22 +104,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  You should buy the iPhone 15 if...
 
 Kerry Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  1\. You don't require the generative AI capabilities
 
@@ -129,13 +130,6 @@ With the release of a new model, older phones often see a price drop, and that i
 It wouldn't be a bad pick-up, either. The camera system of the previous generation is great to this day, the A16 Bionic chip is still plenty powerful, and the Dynamic Island is a welcomed addition. You can enjoy a similar camera performance. Plus, you won't be bogged down by nascent AI features you may or may not ever use. 
 
 [Buy the iPhone 15 $729.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6417992%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6417992.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -171,24 +165,17 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-top-5-online-youtube-mp3-converters-free-and-easy/"><u>[New] 2024 Approved Top 5 Online YouTube-MP3 Converters, Free and Easy!</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-decoding-instagrams-best-timing-practices-for-2024/"><u>[New] Decoding Instagram's Best Timing Practices for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-proven-approaches-to-amass-elite-copyright-free-imagery/"><u>[Updated] 2024 Approved Proven Approaches to Amass Elite, Copyright-Free Imagery</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-unlocking-the-secrets-of-high-conversion-rates-in-youtube-banner-designs/"><u>[Updated] 2024 Approved Unlocking the Secrets of High Conversion Rates in YouTube Banner Designs</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-sending-streaming-content-linking-fb-vids-and-whatsapp-messages-for-2024/"><u>[Updated] Sending Streaming Content Linking FB Vids & WhatsApp Messages for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-step-by-step-guide-to-edges-pip-functionality/"><u>[Updated] Step-by-Step Guide to Edge’s PIP Functionality</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/8-compelling-reasons-for-a-free-vs-paid-linkedin-comparison/"><u>8 Compelling Reasons for a Free Vs. Paid LinkedIn Comparison</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/battle-of-ai-giants-choosing-between-googles-bard-and-microsofts-bing-chat/"><u>Battle of AI Giants: Choosing Between Google's Bard and Microsoft's Bing Chat</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/beware-of-blind-faith-in-ai-top-6-concerns-to-consider/"><u>Beware of Blind Faith in AI: Top 6 Concerns to Consider</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/charting-a-new-path-with-text-and-talk/"><u>Charting a New Path with Text and Talk</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-unleashed-the-compelling-benefits-of-its-desktop-edition-over-the-online-platform/"><u>ChatGPT Unleashed: The Compelling Benefits of Its Desktop Edition Over the Online Platform</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discerning-truth-from-ai-generated-content/"><u>Discerning Truth From AI-Generated Content</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/do-ai-output-sizes-have-a-predefined-character-limit/"><u>Do AI Output Sizes Have a Predefined Character Limit?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-download-of-hp-envy-4560-all-in-one-printer-driver-for-win11-win10-win8-and-win7-systems/"><u>Free Download of HP Envy 4560 All-in-One Printer Driver for Win11, Win10, Win8 & Win7 Systems</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/human-interpretation-vs-machine-generated-summary-clarity/"><u>Human Interpretation Vs. Machine-Generated Summary Clarity</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-ultimate-guide-selecting-top-notch-free-srt-translators-online/"><u>In 2024, Ultimate Guide Selecting Top-Notch Free SRT Translators Online</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-edge-of-convenience-how-the-chatgpt-desktop-app-triumphs-over-its-website-rival/"><u>The Edge of Convenience: How the ChatGPT Desktop App Triumphs Over Its Website Rival</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-ai-potential-9-must-learn-tools-for-starters/"><u>Unlocking AI Potential: 9 Must-Learn Tools for Starters</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-asus-rog-phone-8-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Asus ROG Phone 8 Device</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-cutting-edge-video-creation-the-ultimate-windows-list-for-2024/"><u>[Updated] Cutting-Edge Video Creation The Ultimate Windows List for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-craft-engaging-youtube-stays-strategies-to-shine-without-thousand-supporters/"><u>2024 Approved Craft Engaging YouTube Stays Strategies to Shine without Thousand Supporters</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/become-an-interview-pro-leveraging-chatgpt-expertise/"><u>Become an Interview Pro: Leveraging ChatGPT Expertise</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/esr-halolock-innovation-unveiled-multi-card-wallet-with-adjustable-support-ideal-for-iphones-insider-report/"><u>ESR HaloLock Innovation Unveiled: Multi-Card Wallet with Adjustable Support, Ideal for iPhones Insider Report</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/essential-ipad-pro-extras-for-a-superior-experience-expert-picks/"><u>Essential iPad Pro Extras for a Superior Experience : Expert Picks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-best-ms-office-mobile-experience-ipad-and-iphone-edition/"><u>Exploring the Best MS Office Mobile Experience : IPad and iPhone Edition</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-the-extents-of-vr-technology-for-2024/"><u>Exploring the Extents of VR Technology for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-locked-iphone-6-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>Forgot Locked iPhone 6 Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-ipad-or-iphone-11-pro-stuck-on-activation-lock-by-drfone-ios/"><u>In 2024, How to Fix iPad or iPhone 11 Pro Stuck On Activation Lock?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-instagram-film-to-mp3-conversion-tactics/"><u>In 2024, Instagram Film to MP3 Conversion Tactics</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/score-a-shocking-iphone-15-pro-max-deal-at-just-one-cent-each-exclusive-insider-guide-techradar/"><u>Score a Shocking iPhone 15 Pro Max Deal at Just One Cent Each - Exclusive Insider Guide | TechRadar</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-roadmap-for-success-key-improvements-required-by-apple-vision-pro-for-commercial-viability/"><u>The Roadmap for Success: Key Improvements Required by Apple Vision Pro for Commercial Viability</u></a></li>
 </ul></div>
 

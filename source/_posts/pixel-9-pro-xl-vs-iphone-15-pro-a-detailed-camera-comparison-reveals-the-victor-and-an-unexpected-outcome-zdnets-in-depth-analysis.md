@@ -1,7 +1,7 @@
 ---
 title: "Pixel 9 Pro XL vs iPhone 15 Pro: A Detailed Camera Comparison Reveals the Victor & an Unexpected Outcome - ZDNet's In-Depth Analysis"
-date: 2024-10-02T23:01:49.732Z
-updated: 2024-10-09T22:59:34.256Z
+date: 2024-10-17T16:52:19.497Z
+updated: 2024-10-21T18:54:04.009Z
 tags:
   - apple
 categories:
@@ -77,10 +77,16 @@ I use the ultrawide camera to take architecture shots or group photos. While I d
 I would prefer the iPhone shot for this particular image, but I can see myself using the wider FoV and fisheye effect on the Pixel 9 Pro when I'm traveling. The Google phone also fared better in low light with the ultrawide camera. That being said, the colors were consistent across three lenses on both phones.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## A clear winner in night time
@@ -110,10 +116,10 @@ The iPhone 15 Pro holds up well in indoor and artificial lighting conditions but
 The iPhone 15 Pro shot looks bad, despite the dog not moving, while the Pixel 9 Pro XL was able to capture the subject when it was about to move by the time the shutter was processed. I would pick the new Google phone for night shots unless the iPhone 16 Pro comes with better Night Mode algorithms. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Pixel 9 Pro XL gets good at selfies
@@ -127,10 +133,10 @@ I like the selfie shooter on the iPhone 15 Pro and have found it better than And
 I like the Pixel 9 Pro XL selfie here but the iPhone was able to get more details around the hair. But you can see areas around my forehead and cheeks where the highlights are blown out. However, both look social media worthy and I'm impressed by the selfie camera on the Pixel 9 Pro. It does a better job than the iPhone when the light source is behind you.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Pixel 9 Pro XL vs iPhone 15 Pro camera: Which one is better?
@@ -175,21 +181,18 @@ I expect the iPhone 16 Pro to do better in the aspects where the iPhone 15 Pro l
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-best-free-video-cutting-apps-your-go-to-list-for-2024/"><u>[Updated] Best Free Video Cutting Apps Your Go-To List for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-scour-these-top-12-sites-for-stock-photos-at-zero-cost/"><u>[Updated] Scour These Top 12 Sites for Stock Photos at Zero Cost</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-seamless-searches-the-updated-guide-for-finding-youtube-on-fb-for-2024/"><u>[Updated] Seamless Searches The Updated Guide for Finding YouTube on FB for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-streamlining-video-transfer-from-imovie-to-youtube-platform/"><u>2024 Approved Streamlining Video Transfer From iMovie to YouTube Platform</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-sony-xperia-10-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Sony Xperia 10 V | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/7-astonishing-breakthrough-features-of-bard-ai-unveiled-at-googles-annual-io-event/"><u>7 Astonishing Breakthrough Features of BARD AI Unveiled at Google's Annual I/O Event</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ace-interviews-how-chatgpt-can-help-you-create-an-impressive-cover-letter/"><u>Ace Interviews: How ChatGPT Can Help You Create an Impressive Cover Letter</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-hallucinations-unveiled-strategies-for-recognizing-when-ai-misinterprets-data/"><u>AI Hallucinations Unveiled: Strategies for Recognizing When AI Misinterprets Data</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-misconceptions-debunked-6-reasons-to-think-twice-before-blind-belief-in-machine-learning/"><u>AI Misconceptions Debunked: 6 Reasons to Think Twice Before Blind Belief in Machine Learning</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1722113423606-chatgpt-now-on-your-iphone-and-ipad-discover-how/"><u>ChatGPT Now on Your iPhone and iPad - Discover How</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/elevate-your-content-game-on-youtube-top-11-video-seo-insights-for-2024/"><u>Elevate Your Content Game on YouTube Top 11 Video SEO Insights for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Honor X50 GT? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1722096037571-impatient-for-chatgpt-on-your-device-heres-where-you-can-find-robust-open-source-solutions-instead/"><u>Impatient for ChatGPT on Your Device? Here's Where You Can Find Robust Open Source Solutions Instead</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/masterful-cloud-keeping-best-service-picks-for-2024/"><u>Masterful Cloud Keeping Best Service Picks for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1722123230450-revolutionize-how-you-find-answers-bings-cutting-edge-ai-integration-ready-for-smartphones/"><u>Revolutionize How You Find Answers: Bing's Cutting-Edge AI Integration Ready for Smartphones</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/speeding-up-live-instagram-broadcasts-on-desktop-for-2024/"><u>Speeding Up Live Instagram Broadcasts on Desktop for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/convertissez-gratuitement-vos-fichiers-ppm-en-images-jpeg-en-ligne-movavi/"><u>Convertissez Gratuitement Vos Fichiers PPM en Images JPEG en Ligne - MOVAVI</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-guide-to-installing-epson-ds-530-printer-software-on-win11-64-bit-fresh-release/"><u>Easy Guide to Installing Epson DS-530 Printer Software on Win11 (64-Bit) | Fresh Release</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-11x-5g-by-fonelab-android-recover-photos/"><u>How to recover deleted photos from 11X 5G.</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-realme-11x-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Realme 11X 5G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-film-storage-computing-the-days-gb-footprint/"><u>In 2024, Film Storage Computing the Day's GB Footprint</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-huawei-nova-y91-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Huawei Nova Y91 for Free? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-windows-11s-onedrive-error-def5-woes/"><u>Navigating Through Windows 11'S Onedrive Error DEF5 Woes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revamping-chatgpts-add-on-platform-with-these-4-strategic-improvements/"><u>Revamping ChatGPT's Add-On Platform with These 4 Strategic Improvements</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionizing-ai-art-dall-e-3s-new-editing-features-room-for-improvement/"><u>Revolutionizing AI Art: DALL-E 3'S New Editing Features - Room for Improvement?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionizing-freelance-and-remote-jobs-with-these-6-chatgpt-techniques/"><u>Revolutionizing Freelance and Remote Jobs with These 6 ChatGPT Techniques</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/silent-sounds-elegant-dimming-in-garageband-projects-for-2024/"><u>Silent Sounds Elegant Dimming in Garageband Projects for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-evolutionary-impact-of-eus-digital-single-market-strategy-on-interactive-ai-technologies-such-as-gpt/"><u>The Evolutionary Impact of EU's Digital Single Market Strategy on Interactive AI Technologies Such as GPT</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows7dvdpc/"><u>Windows7でDVDの内容をPCに移行するためのガイド</u></a></li>
 </ul></div>
 

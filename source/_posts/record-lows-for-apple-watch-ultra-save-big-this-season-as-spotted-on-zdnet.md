@@ -1,7 +1,7 @@
 ---
 title: "Record Lows for Apple Watch Ultra: Save Big This Season as Spotted on ZDNet!"
-date: 2024-10-07T22:15:42.156Z
-updated: 2024-10-09T20:38:17.361Z
+date: 2024-10-15T17:14:29.757Z
+updated: 2024-10-21T19:14:26.144Z
 tags:
   - apple
 categories:
@@ -39,6 +39,13 @@ ZDNET rounded up the best holiday deals on Apple iPads you can buy now, but thes
 * [Apple iPad Pro (2021,12.9-inch, Wi-Fi + Cellular, 128GB)](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://computers.woot.com/offers/new-apple-2021-12-9-ipad-pro-wifi-cellular-16): $810 (save $390 at W00t!)
 * [Apple iPad Pro (M2 Chip, 12.9-inch, Late 2022, 128GB, Wi-Fi)](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1731115-REG%2Fapple%5Fmnxp3ll%5Fa%5F12%5F9%5Fipad%5Fpro%5Fm2.html): $999 (save $100 at B&H)
 * [Apple iPad Pro 12.9-inch (2022)](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/tablets/apple-ipad-pro-12-9-inch-2022.html): $33.34/month ($100 off at AT&T with qualifying service)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Best iPad accessory, case deals
 
@@ -97,10 +104,10 @@ If you would prefer the smaller iPad Mini, Amazon has another deal that might in
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2021-Apple-iPad-Mini-Wi-Fi%2Fdp%2FB09G9DQDDQ%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C72ea2c00-eaf4-4278-983b-40c54372b4e7%7Cdtp&dtb=1) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How did we choose these holiday deals?
@@ -110,10 +117,10 @@ ZDNET only writes about deals we want to buy -- devices and products we want, ne
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What's the best iPad?
@@ -121,22 +128,15 @@ We also looked over customer reviews to find out what matters to real people who
 ZDNET editors have gone hands-on with every iPad model, and named the latest iPad Pro (2022) the best iPad overall, thanks to its M2 processor and fast performance.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What's the best iPad for kids?
 
 If you're looking to buy an iPad as a holiday gift for the child in your life, we'd recommend the latest iPad Air (5th gen., 2022). It's lightweight, but still packs in great performance for the lower price tag. You can find iPad Air models on sale in our list above.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What are the best holiday deals?
 
@@ -206,19 +206,19 @@ ZDNET's experts have been searching for holiday deals across sites like Amazon, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-punchline-studio-sign-up-and-share-your-humor/"><u>[New] In 2024, PunchLine Studio Sign Up & Share Your Humor</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-first-timer-accessories-transform-your-gopro-experience/"><u>2024 Approved First-Timer Accessories - Transform Your GoPro Experience</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-paving-your-way-to-cost-savvy-cloud-choices/"><u>2024 Approved Paving Your Way to Cost-Savvy Cloud Choices</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/9-essential-strategies-leveraging-chatgpt-for-enhanced-well-being/"><u>9 Essential Strategies: Leveraging ChatGPT for Enhanced Well-Being</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/a-closer-look-at-dall-es-version-3-editing-capabilities-introduced-still-under-development/"><u>A Closer Look at DALL-E's Version 3: Editing Capabilities Introduced, Still Under Development</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/a-deep-dive-into-huggingchat-an-open-and-free-competitor-to-the-famous-chatgpt/"><u>A Deep Dive Into HuggingChat – An Open and Free Competitor to the Famous ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/a-guide-to-child-centric-chatbot-use-top-5-security-tips/"><u>A Guide to Child-Centric Chatbot Use: Top 5 Security Tips</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/elite-psd-bevel-and-emboss-styles/"><u>Elite PSD Bevel & Emboss Styles</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/exploring-panoramic-versus-full-immersion-visual-media-tech-for-2024/"><u>Exploring Panoramic Versus Full-Immersion Visual Media Tech for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-comedic-craftsmanship-the-best-short-video-ideas-to-entertain-viewers/"><u>In 2024, Comedic Craftsmanship The Best Short Video Ideas to Entertain Viewers</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-14-plus-drfone-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone 14 Plus | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1721857619637-navigate-the-digital-world-easier-bings-new-ai-search-feature-for-phones/"><u>Navigate the Digital World Easier: Bing’s New AI Search Feature for Phones.</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-10-clever-techniques-to-brighten-up-phone-conversations-with-a-playful-twist/"><u>New 2024 Approved 10 Clever Techniques to Brighten Up Phone Conversations with a Playful Twist</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-google-pixel-7a-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Google Pixel 7a Phones</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-live-streaming-on-mac-os-costless-option/"><u>[New] Live Streaming on Mac OS - Costless Option</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-mastering-ppt-perfecting-your-voiceover-artistry/"><u>2024 Approved Mastering PPT Perfecting Your Voiceover Artistry</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/confronting-chatgpt-how-googles-new-artificial-intelligence-bard-is-shaping-up/"><u>Confronting ChatGPT: How Google's New Artificial Intelligence 'Bard' Is Shaping Up</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/conquer-everyday-worries-discover-how-chatgpt-can-assist-you/"><u>Conquer Everyday Worries: Discover How ChatGPT Can Assist You</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/dissecting-artificinas-intelligent-processes-inside-black-boxes/"><u>Dissecting Artificinas Intelligent Processes: Inside Black Boxes</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/easy-steps-to-master-apowersofts-streaming-audio-recorder/"><u>Easy Steps to Master Apowersoft's Streaming Audio Recorder</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effective-ai-prompt-strategies-7-proven-techniques-for-success/"><u>Effective AI Prompt Strategies: 7 Proven Techniques for Success</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-your-artistic-vision-utilizing-microsofts-copilot-for-ai-creation/"><u>Elevate Your Artistic Vision: Utilizing Microsoft's Copilot for AI Creation</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/essential-tips-for-efficient-camera-roll-upload-to-snapchat/"><u>Essential Tips for Efficient Camera Roll Upload to Snapchat</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/evaluating-the-credibility-of-ai-assistants-like-chatgpt-and-bard-for-fiscal-recommendations/"><u>Evaluating the Credibility of AI Assistants Like ChatGPT and Bard for Fiscal Recommendations</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-xiaomi-redmi-note-12t-pro-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Xiaomi Redmi Note 12T Pro to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862856242-inside-look-devoted-ahead-of-computex-newly-certified-msi-arrow-lake-s-ready-boards-z890-and-b8n60-unveiled/"><u>Inside Look: Devoted Ahead of Computex, Newly Certified MSI Arrow Lake S Ready Boards Z890 & B8n60 Unveiled</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/mobile-and-desktop-tips-for-gotomeeting-captures-for-2024/"><u>Mobile & Desktop Tips for GoToMeeting Captures for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-guide-seamless-transition-from-mjpeg-to-h264-using-top-ranked-video-converters/"><u>Ultimate Guide: Seamless Transition From MJPEG to H.264 Using Top-Ranked Video Converters</u></a></li>
 </ul></div>
 

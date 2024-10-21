@@ -1,7 +1,7 @@
 ---
 title: Top 10 Desired Enhancements for VisionOS Awaiting Reveal by Apple at the Upcoming WWDC - Insights From ZDNet
-date: 2024-10-12T17:12:33.080Z
-updated: 2024-10-16T04:31:56.737Z
+date: 2024-10-16T21:23:45.828Z
+updated: 2024-10-21T21:23:56.826Z
 tags:
   - apple
 categories:
@@ -60,13 +60,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -94,10 +87,10 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -125,10 +118,10 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -143,10 +136,10 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -165,6 +158,19 @@ Jason Hiner/ZDNET
 * Apple TV brings **multiview to Vision Pro**, which is especially useful when watching sports games.
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
+
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## AirPods
 
@@ -218,21 +224,22 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-complete-circular-camera-investigation/"><u>2024 Approved Complete Circular Camera Investigation</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-quick-fixes-for-privacy-concerns-in-piscart-images/"><u>2024 Approved Quick Fixes for Privacy Concerns in PiscArt Images</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-as-a-creative-tool-a-detailed-analysis-of-its-strengths-and-weaknesses/"><u>ChatGPT as a Creative Tool: A Detailed Analysis of Its Strengths and Weaknesses</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/from-voice-to-vision-how-chatgpt-elevates-smartwatch-capabilities/"><u>From Voice to Vision: How ChatGPT Elevates Smartwatch Capabilities</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-iphone-8-plus-in-lost-mode-drfone-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock iPhone 8 Plus in Lost Mode | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-peek-into-personality-traits-top-6-quizzes-to-determine-youtuber-preferences/"><u>In 2024, Peek Into Personality Traits Top 6 Quizzes to Determine YouTuber Preferences</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-oppo-a1-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Oppo A1 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-top-10-destinations-for-high-end-vectors/"><u>In 2024, Unveiling Top 10 Destinations for High-End Vectors</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/nt-thumbnails-for-fortnite-gameplay/"><u>Instant Thumbnails for Fortnite Gameplay</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-your-financial-security-at-risk-the-potential-of-ai-powered-chatbots-in-cyber-attacks/"><u>Is Your Financial Security at Risk: The Potential of AI-Powered Chatbots in Cyber Attacks</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/leading-large-scale-nlp-engines-the-ultimate-list-of-6/"><u>Leading Large-Scale NLP Engines: The Ultimate List of 6</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/synergy-in-ai-triple-combination-of-chatgpt-and-wolframalpha/"><u>Synergy in AI: Triple Combination of ChatGPT & WolframAlpha</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-definitive-guide-solving-intel-hd-graphics-630-driver-errors-on-your-windows-machine/"><u>The Definitive Guide: Solving Intel HD Graphics 630 Driver Errors on Your Windows Machine</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/transform-your-webcam-footage-edit-and-export-tips-for-2024/"><u>Transform Your WebCam Footage Edit & Export Tips for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlock-career-advancement-10-insider-tips-for-harnessing-chatgpts-potential-on-linkedin-job-searches/"><u>Unlock Career Advancement: 10 Insider Tips for Harnessing ChatGPT's Potential on LinkedIn Job Searches</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-on-the-fly-ai-with-agentgpt/"><u>Unlocking On-the-Fly AI with AgentGPT</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-complete-beginners-reference-to-final-cut-pro-for-2024/"><u>[New] Complete Beginner's Reference to Final Cut Pro for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-4k-uxga-reality-check-detailed-review-of-asus-mg28uq/"><u>[Updated] 4K UXGA Reality Check - Detailed Review of ASUS MG28UQ</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-beyond-the-screen-ultimate-vr-gadget-guide/"><u>2024 Approved Beyond the Screen - Ultimate VR Gadget Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/changing-your-protonvpn-account-e-mail-a-step-by-step-guide/"><u>Changing Your ProtonVPN Account E-Mail: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-limitations-phrases-it-cant-address-or-interpret/"><u>ChatGPT Limitations: Phrases It Can't Address or Interpret</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-originality-how-does-it-avoid-plagiarism-in-its-responses/"><u>ChatGPT Originality: How Does It Avoid Plagiarism in Its Responses?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/clearing-the-path-solutions-for-4-common-gpt-3-bans/"><u>Clearing the Path: Solutions for 4 Common GPT-3 Bans</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/crafting-one-of-a-kind-ai-pictures-using-microsofts-innovative-image-creator-tool/"><u>Crafting One-of-a-Kind AI Pictures Using Microsoft's Innovative Image Creator Tool</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/deciphering-digital-whispers-understanding-the-essence-of-the-dead-internet-theory/"><u>Deciphering Digital Whispers: Understanding the Essence of the 'Dead Internet Theory'</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-8-creative-strategies-with-chatgpts-visual-capabilities/"><u>Discover 8 Creative Strategies with ChatGPT's Visual Capabilities</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discovering-the-gaps-7-requests-chatgpt-cannot-fulfill-or-interpret/"><u>Discovering the Gaps: 7 Requests ChatGPT Cannot Fulfill or Interpret</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/from-video-to-music-youtube-to-mp3-on-macos-for-2024/"><u>From Video to Music YouTube to MP3 on MacOS for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-supercharge-your-pc-with-these-win-10-tricks/"><u>In 2024, Supercharge Your PC with These Win 10 Tricks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/livekernel-event-error-144-strategies-to-solve-the-problem-quickly/"><u>LiveKernel Event Error 144: Strategies to Solve the Problem Quickly</u></a></li>
+<li><a href="https://win-webster.techidaily.com/navigating-your-order-with-mirillis-complete-guide-to-transaction-steps-and-acceptable-currencies/"><u>Navigating Your Order with Mirillis: Complete Guide to Transaction Steps & Acceptable Currencies</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-12-prominent-vivo-s18-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Vivo S18 Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-vivo-y78-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Vivo Y78 5G | Dr.fone</u></a></li>
 </ul></div>
 

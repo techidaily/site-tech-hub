@@ -1,7 +1,7 @@
 ---
 title: "Leveraging Apple Pay Across Retailers & Websites: Insights on Why It's a Must-Try | Tech Advice"
-date: 2024-10-11T16:15:09.764Z
-updated: 2024-10-16T03:02:35.166Z
+date: 2024-10-14T21:06:14.872Z
+updated: 2024-10-21T20:54:22.984Z
 tags:
   - apple
 categories:
@@ -48,13 +48,6 @@ Be sure your [phone is up to date](https://www.zdnet.com/article/how-to-get-your
 
 **Also: [How to get your iPhone ready for the landmark iOS 17.4 update](https://www.zdnet.com/article/how-to-get-your-iphone-ready-for-the-landmark-ios-17-4-update/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  You must have a current prescription
 
 When I bought [my custom lenses](https://www.zdnet.com/article/i-bought-custom-lenses-for-my-meta-quest-3-but-not-every-eyeglass-wearer-needs-them-do-you/) for the [Quest 3 XR headset](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMeta-Quest-128GB-Breakthrough-Reality-3%2Fdp%2FB0C8VKH1ZH%2Fref%3Dsr%5F1%5F3%3Fcrid%3D2X0HCIAO3MOVG%26dib%3DeyJ2IjoiMSJ9.BNL0XshPOuZ3lobU5yu3cCziH0rMF3MqkgI5OZmFfI396LZ9jAGXj84MI1EU8%5F5LWlHYbffLvuK4wy60m2mpx-2b0E69G5CAgPr77uABPUs9ThjKVgBAKgxNCmitWG6OIvJQ6C%5FdCub9mc2M5TrzkUgG285Omu6Unm09oovkmtElcKnrct6qE-2GKMVhhr8O9kofjIrt-EsmkyGAKY4GXxpx1gS5vWkTxp6SQcpBxTg.-wnHYIb3S%5FyHdJPtuvKYmJx1oE3hNgbvXK-C7xpg%5FwM%26dib%5Ftag%3Dse%26keywords%3Dquest%2B3%26qid%3D1708934460%26sprefix%3Dquest%2B3%2Caps%2C170%26sr%3D8-3%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C90ceb044-fd06-4c2e-9fe4-87dbf1fce34f%7Cdtp&dtb=1), I just typed in the eyeglass numbers that corresponded to the glasses I currently wear. But I couldn't use that prescription for ZEISS (the company that makes the lenses for Apple). 
@@ -72,6 +65,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 That prescription works fine in my Quest 3, but Apple and ZEISS won't accept it. I had to book an appointment with my local optometrist. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  It's your distance prescription that counts
 
@@ -100,13 +100,6 @@ Fill it out with the relevant data from your current prescription and click Chec
 This is why you need to do all the prescription preparation first. Apple points you to the ZEISS page after the order has been completed, but by that time it's too late. The order has already been placed. It would be extremely inconvenient to find out you can't use the headset, and have to go through all sorts of hoops to either cancel the order or return the device. 
 
 By checking these details first, you can save yourself that annoyance. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Get a successful face scan
 
@@ -208,23 +201,9 @@ And, finally, you're done with the first phase of ordering your optical inserts.
 
 Screenshot by David Gewirtz/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Order the Vision Pro itself
 
 Now, it's time to decide how much storage you want to have on the Vision Pro. Keep in mind this is very much like choosing the storage on your iPhone or iPad.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##   
 
@@ -294,9 +273,29 @@ And there you go. You're done. Except: It's time to move on to ZEISS.
 
 Screenshot by David Gewirtz/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Upload your prescription to ZEISS
 
 Now, it's time to upload your prescription to ZEISS. Apple does let you come back later (like if you didn't read this article and just found out you need a current glasses prescription and have to run to the optometrist). But you are reading this article because you're smart and good-looking.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##   
 
@@ -323,6 +322,13 @@ Screenshot by David Gewirtz/ZDNET
 Whew. You're done. Now it's time to sit and wait. In my case, I got a notice the next day that my prescription was approved and the inserts were being made. 
 
 Screenshot by David Gewirtz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. And now you wait for delivery
 
@@ -373,24 +379,21 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-behance-portfolio-image-constraints/"><u>[New] Behance Portfolio Image Constraints</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-logic-pro-x-guide-to-cohesive-track-transitions/"><u>[New] Logic Pro X Guide to Cohesive Track Transitions</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-expert-methods-for-capturing-and-streaming-sports-gems/"><u>[Updated] Expert Methods for Capturing and Streaming Sports Gems</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/clarity-in-functionality-gpt4all-explored/"><u>Clarity in Functionality: GPT4All Explored</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/crafting-compelling-proposals-with-chatgpt-a-step-by-step-guide/"><u>Crafting Compelling Proposals with ChatGPT: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/expert-advice-for-the-unprepared-gpts-role-outdoors/"><u>Expert Advice for the Unprepared: GPT's Role Outdoors?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-truthgpt-tokens-authenticity/"><u>Exploring TruthGPT Token's Authenticity</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/farewell-chatgpt-disconnection-guide/"><u>Farewell, ChatGPT – Disconnection Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-pickup-vs-competitors-unveiling-the-best-android-photo-editor/"><u>In 2024, PickUp Vs. Competitors Unveiling the Best Android Photo Editor</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-infinix-smart-8-pro-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Infinix Smart 8 Pro Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Poco X5 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/lenovo-ideapad-100-windows-11-drivers-download-and-update-guide-for-enhanced-functionality/"><u>Lenovo IdeaPad 100 Windows 11 Drivers: Download & Update Guide for Enhanced Functionality</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/logitechs-lightning-strike-wireless-issue-fixed/"><u>Logitech's Lightning Strike: Wireless Issue Fixed</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-digital-evolution-the-role-of-ai-in-redesigning-web-pages/"><u>Navigating Digital Evolution: The Role of AI in Redesigning Web Pages</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-quintet-of-artifice-how-ai-ushers-in-cybercrime-innovation/"><u>The Quintet of Artifice: How AI Ushers in Cybercrime Innovation</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-simplified-art-of-ai/"><u>The Simplified Art of AI</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transforming-technology-unveiling-enhanced-ai-model/"><u>Transforming Technology: Unveiling Enhanced AI Model</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-alternate-revenue-streams-do-these-8-chatgpt-gigs-offer-real-financial-benefits/"><u>Unlocking Alternate Revenue Streams: Do These 8 ChatGPT Gigs Offer Real Financial Benefits?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/windows-103264/"><u>Windows 10全功能版免费下载指南：32位与64位之间的选择</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/est-free-subtitles-and-downloader-guide/"><u>[New] Best Free Subtitles & Downloader Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-prime-vhs-illusions-to-enhance-film-projects/"><u>[New] Prime VHS Illusions to Enhance Film Projects</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1-high-end-battle-royale-comparing-the-samsung-galaxy-book-4-and-the-apple-macbook-pro-for-your-next-tech-upgrade-expert-insights/"><u>1. High-End Battle Royale: Comparing the Samsung Galaxy Book 4 and the Apple MacBook Pro for Your Next Tech Upgrade - Expert Insights</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-broadcast-strategies-share-twitch-videos-on-fb/"><u>2024 Approved Broadcast Strategies Share Twitch Videos on FB</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-thematic-wow-factor-designing-engaging-youtube-templates/"><u>2024 Approved Thematic Wow Factor Designing Engaging YouTube Templates</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/android-and-ios-guide-capturing-google-meet-sessions-for-2024/"><u>Android & iOS Guide Capturing Google Meet Sessions for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhance-productivity-with-dual-displays-on-your-m3-macbook-pro-compatible-as-the-m3-macbook-air-zdnet/"><u>Enhance Productivity with Dual Displays on Your M3 MacBook Pro - Compatible as the M3 MacBook Air | ZDNet</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-simplifying-post-production-using-luts-in-after-effects/"><u>In 2024, Simplifying Post Production Using LUTs in After Effects</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-tunefab-screen-recorder-download-and-review/"><u>In 2024, Tunefab Screen Recorder Download and Review</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionize-your-apple-tv-controls-discover-the-latest-accessory-for-adding-airtags/"><u>Revolutionize Your Apple TV Controls: Discover the Latest Accessory for Adding AirTags</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-solution-to-overcome-invalid-steam-response/"><u>Swift Solution to Overcome Invalid Steam Response</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-ipad-gadgets-and-peripherals-featuring-insights-from-zdnet/"><u>Top-Rated iPad Gadgets and Peripherals - Featuring Insights From ZDNet</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-motorola-moto-g13-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Motorola Moto G13 Screen | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-apples-classification-of-devices-as-vintage-implications-for-users/"><u>Understanding Apple's Classification of Devices as Vintage: Implications for Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-amazing-value-with-the-iphone-14-plus-exceptional-endurance-and-reasons-to-be-charmed/"><u>Unlock Amazing Value with the iPhone 14 Plus: Exceptional Endurance & Reasons to Be Charmed!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/upcoming-release-detailed-guide-on-when-new-airpods-launch-insider-info-and-preorder-locations-techzn/"><u>Upcoming Release: Detailed Guide on When New AirPods Launch, Insider Info & Preorder Locations | TechZN</u></a></li>
 </ul></div>
 

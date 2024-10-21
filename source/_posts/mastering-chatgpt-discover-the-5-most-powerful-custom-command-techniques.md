@@ -1,7 +1,7 @@
 ---
 title: "Mastering ChatGPT: Discover the 5 Most Powerful Custom Command Techniques"
-date: 2024-09-11T18:44:50.446Z
-updated: 2024-09-17T22:31:59.338Z
+date: 2024-10-19T18:48:34.579Z
+updated: 2024-10-21T16:34:01.494Z
 tags:
   - chatgpt
   - open-ai
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/f7c7286cd43e0a0357c0677fcf7ef7e026ec5b0c5
 
  What's better is that you can also ask the chatbot for alternative dishes that are easier to make if you don't have all the ingredients on hand.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Learn New Cooking Techniques
 
 ![Learn new cooking techniques with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/learn-new-cooking-techniques-with-chatgpt.jpg)
@@ -48,26 +55,27 @@ thumbnail: https://thmb.techidaily.com/f7c7286cd43e0a0357c0677fcf7ef7e026ec5b0c5
 
 ![ChatGPT meal plan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-meal-plan.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you are very conscious about the food you eat, ChatGPT can help you understand your dietary requirements. By analyzing this, the[AI chatbot can create healthy meal plans](https://www.makeuseof.com/create-healthy-meal-plan-using-chatgpt/) and recipes that align with your dietary preferences. This personalized approach ensures that you get the nutrients you need while still enjoying the foods you love.
 
  For your fitness goals, ChatGPT can assist you in creating a meal plan that supports your objectives. You can ask for meal recommendations that are rich in protein, carbohydrates, and healthy fats. ChatGPT can also guide you on how to develop healthy eating habits if you have an eating disorder.
 
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Create a Shopping List
 
 ![Create shopping list with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/create-shopping-list-with-chatgpt.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you struggle with remembering all the ingredients needed for a recipe, ChatGPT can help you create a detailed shopping list.[You can then use Instacart for same-day grocery shopping](https://www.makeuseof.com/sir-how-is-instacart-for-same-day-grocery-shopping/) , or any other grocery delivery services available in your area.
 
@@ -75,22 +83,15 @@ thumbnail: https://thmb.techidaily.com/f7c7286cd43e0a0357c0677fcf7ef7e026ec5b0c5
 
  Even if you opt for writing the items down on a pad, the AI-powered chatbot can still make writing a shopping list much easier.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Find New Flavor Combinations
 
 ![New flavor combo ideas by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/new-flavor-combo-ideas-by-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Finding new flavor combinations is arguably the most difficult process involved with cooking. Even if a certain combination is good, you won't really know if it works for you or not. ChatGPT can make this process a bit easier.
@@ -134,5 +135,18 @@ thumbnail: https://thmb.techidaily.com/f7c7286cd43e0a0357c0677fcf7ef7e026ec5b0c5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-crafting-captivating-asmr-scenes-techniques-for-successful-recording-for-2024/"><u>[New] Crafting Captivating ASMR Scenes Techniques for Successful Recording for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-hacking-back-photo-viewing-in-windows-11-easily/"><u>[New] Hacking Back Photo Viewing in Windows 11 Easily</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-decoding-technical-difficulties-in-facebook-live-videos/"><u>[Updated] In 2024, Decoding Technical Difficulties in Facebook Live Videos</u></a></li>
+<li><a href="https://win-blog.techidaily.com/enhancing-performance-boosting-your-f1-2021-games-frame-rate-on-windows-machines/"><u>Enhancing Performance: Boosting Your F1 2021 Game's Frame Rate on Windows Machines</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-guide-to-turning-tiktok-music-into-your-cell-phone-ringtone/"><u>In 2024, Guide to Turning TikTok Music Into Your Cell Phone Ringtone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-lava-agni-2-5g-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/seamless-voice-chat-capture-with-telegram-tips-and-tricks-for-recording-across-various-gadgets/"><u>Seamless Voice Chat Capture with Telegram: Tips and Tricks for Recording Across Various Gadgets</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/seamlessly-converting-and-merging-mov-files-in-windows-with-simple-tools/"><u>Seamlessly Converting and Merging MOV Files in Windows with Simple Tools</u></a></li>
+<li><a href="https://techtrends.techidaily.com/simple-steps-for-effortless-windows-cuh-8-screenshots-everything-you-need-to-know/"><u>Simple Steps for Effortless Windows Cuh 8 Screenshots - Everything You Need to Know</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/simple-steps-how-to-transform-tweets-into-audio-files-mp3/"><u>Simple Steps: How to Transform Tweets Into Audio Files (MP3)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/solving-the-issue-why-lightworks-cant-read-mp4-files-step-by-step-fix-guide/"><u>Solving the Issue: Why Lightworks Can't Read MP4 Files – Step-by-Step Fix Guide</u></a></li>
+</ul></div>
 

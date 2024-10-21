@@ -1,7 +1,7 @@
 ---
 title: "Prime Day Savings Alert: Discover the Ultimate Top 36 Apple Bargains Still Up for Grabs!"
-date: 2024-10-13T04:13:47.861Z
-updated: 2024-10-16T02:02:39.736Z
+date: 2024-10-15T17:56:16.975Z
+updated: 2024-10-21T19:16:05.546Z
 tags:
   - apple
 categories:
@@ -85,18 +85,18 @@ While the Series 8 isn't the latest and greatest Apple Watch, it's still a great
 
 [View now at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Watch-Series-8-GPS-Cellular-45mm-Midnight-Aluminum-Case-Sport-Band-S-M-Fitness-Tracker-Blood-Oxygen-ECG-Apps-Always-On-Retina-Display%2F1490655580%3F&subId1=zd-__COM_CLICK_ID__-dtp) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Best refurbished Apple Watch deals of July 2024
 
 * [Apple Watch Series 7](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Watch-Cellular-Aluminum-Regular%2Fdp%2FB09Q4KVHGB%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7c7fab62-f4b4-43b8-8c6d-09533977c7db%7Cdtp&dtb=1) (41mm, Clover Sport Band, Renewed): $220 (save $295)
 * [Apple Watch SE](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FRestored-Apple-Watch-SE-40mm-GPS-Cellular-Gold-Aluminum-Case-Starlight-Sport-Band%2F5031506033%3F&subId1=zd-__COM_CLICK_ID__-dtp) (40mm, Pink Sport Band, Restored): $124 (save $21)
 * [Apple Watch SE](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Watch-SE-GPS-Cellular-44mm-Gold-Aluminum-Case-with-Starlight-Sport-Band-Used%2F1620367883%3F&subId1=zd-__COM_CLICK_ID__-dtp) (44mm, GPS, Starlight Sport Band, Used): $125 (save $35)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How did we choose these deals?
 
@@ -114,13 +114,6 @@ Yes, your Apple Watch, as long as it is a Series 6 or newer, can track your AFib
 
 **Also:** [**Your Apple Watch's AFib history could soon be used in clinical studies**](https://www.zdnet.com/article/your-apple-watchs-afib-history-could-soon-be-used-in-clinical-studies/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Apple Watch SE vs Series 8: Which is the better buy?
 
 If you're buying your first Apple Watch or upgrading from a Series 6 or earlier, ZDNET recommends buying the Series 9 this year because it features a big upgrade in accuracy for tracking your health and fitness. 
@@ -129,33 +122,40 @@ However, if you want to get in at the lowest price or you're buying a watch for 
 
 **Also**: [**Watch Series 8 vs Series 9: Should you upgrade?**](https://www.zdnet.com/article/apple-watch-series-9-vs-apple-watch-series-8/) 
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What is the newest Apple Watch?
 
 Apple has a lengthy lineup of its flagship tech wearable, with several iterations over the last few years. The two newest watch releases come in the Apple Watch Series 9 and the Apple Watch Ultra 2, which were released in September 2023\. The Apple Watch SE (2nd Gen) remains the most up-to-date base model. With multiple models available, both old and new, you'll be sure to find a watch that fits your needs and your price point. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which Apple watches have the new double tap feature?
 
 Apple's newest releases, the Watch Series 9 and the Watch Ultra 2 both feature the new finger tap capability. Apple formally refers to this as the "double tap gesture," and with it users can easily control either watch with just one hand and without touching the display. Users can tap the index finger and thumb of their watch hand together twice to quickly perform many of the most common actions.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What are the different Apple Watch bands available?
 
 Apple offers several band options that are included with their watches, some dependent on the model purchased. The most frequent band options, often included with new Apple watches, like the Series 9, are the Sport Band and Sport Loop, available in several colors such as Midnight, Starlight, White, Red, Pink, and more. 
 
 Other band options include the Ocean Band, Alpine Loop, Milanese Loop, Trail Loop, Solo Loop, Braided Solo Loop, and more. Apple and other retailers offer tons of bands made of differing materials in a multitude of colors and designs as well. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Are there any alternative smartwatches worth considering?
 
@@ -213,19 +213,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-that.techidaily.com/11-effective-solutions-for-continuous-airpod-connection-stability-with-iphone/"><u>11 Effective Solutions for Continuous AirPod Connection Stability with iPhone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/creepy-creations-curator/"><u>Creepy Creations Curator</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-how-copilot-utilizes-gpt-4-turbo-accessing-premium-ai-assistance-at-no-cost/"><u>Discover How Copilot Utilizes GPT-4 Turbo: Accessing Premium AI Assistance at No Cost</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Samsung Galaxy F04? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/how-can-i-watch-facebook-videos-on-my-apple-tv-in-2024/"><u>How Can I Watch Facebook Videos on My Apple TV, In 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-adding-music-mini-banners-on-instagram-profiles/"><u>In 2024, Adding Music Mini-Banners on Instagram Profiles</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/innovative-techniques-for-using-chatgpt-to-enhance-your-daw-audio-projects/"><u>Innovative Techniques for Using ChatGPT to Enhance Your DAW Audio Projects</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-the-ultimate-guide-to-mp4-to-mp3-conversion-apps-for-mobile-for-2024/"><u>New The Ultimate Guide to MP4 to MP3 Conversion Apps for Mobile for 2024</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/resolving-handbrakes-audio-problem-a-step-by-step-guide/"><u>Resolving Handbrake's Audio Problem: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionizing-your-online-queries-the-power-of-microsoft-bing-and-ai-technology/"><u>Revolutionizing Your Online Queries: The Power of Microsoft Bing and AI Technology</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transforming-your-cs-workflow-with-codegpt-and-vs-code/"><u>Transforming Your CS Workflow with CodeGPT and VS Code</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-predictive-artificnial-intelligence-insight-into-its-functioning/"><u>Understanding Predictive Artificnial Intelligence: Insight Into Its Functioning</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-proxy-perfection-the-top-8-video-editing-apps-for-4k/"><u>Updated In 2024, Proxy Perfection The Top 8 Video Editing Apps for 4K</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/voice-of-the-virtual-realm-chatgpts-influence-on-gaming-scriptwriting/"><u>Voice of the Virtual Realm: ChatGPT's Influence on Gaming Scriptwriting</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-indoor-games-galore-top-9-screen-less-titles-for-android-gamers/"><u>[Updated] In 2024, Indoor Games Galore Top 9 Screen-Less Titles for Android Gamers</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-top-5-techniques-for-capturing-games-and-live-feeds/"><u>[Updated] Top 5 Techniques for Capturing Games & Live Feeds</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1-apple-grants-approval-for-reusing-components-in-select-iphone-fixes/"><u>1. Apple Grants Approval for Reusing Components in Select iPhone Fixes</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-apple-iphone-8-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>4 Methods to Turn off Life 360 On Apple iPhone 8 without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-infinix-note-30-vip-racing-edition-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Infinix Note 30 VIP Racing Edition Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/budget-friendly-virtual-reality-upgrade-from-apple-and-metas-offerings-explore-exceptional-xr-devices-at-a-fraction-of-the-cost-zdnet-tech-tips/"><u>Budget-Friendly Virtual Reality Upgrade From Apple and Meta's Offerings - Explore Exceptional XR Devices at a Fraction of the Cost | ZDNET Tech Tips</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-iphone-x-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking iPhone X with a Broken Screen?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-ultimate-guide-to-parent-approved-kids-tablets-insights/"><u>Discover the Ultimate Guide to Parent-Approved Kids' Tablets | Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/essential-ipad-enhancements-the-ultimate-guide-to-accessories-featured-on-zdnet/"><u>Essential iPad Enhancements : The Ultimate Guide to Accessories, Featured on ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exclusive-roundup-of-premium-iphone-16pro-cases-gear-guide-tested-and-recommended-by-zdnet-professionals/"><u>Exclusive Roundup of Premium iPhone 16/Pro Cases : Gear Guide Tested & Recommended by ZDNET Professionals</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/experts-choice-ultimate-guide-to-the-best-airtag-wallets-of-2024-on-zdnet-compare-and-buy-smart/"><u>Experts' Choice: Ultimate Guide to the Best AirTag Wallets of 2024 on ZDNET | Compare and Buy Smart!</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/guide-perfecting-your-youtube-audio-to-text-conversion-for-2024/"><u>Free Guide Perfecting Your YouTube Audio-to-Text Conversion for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-apple-iphone-xs-5-ways-to-get-into-a-locked-apple-iphone-xs-by-drfone-ios/"><u>In 2024, Locked Out of Apple iPhone XS? 5 Ways to get into a Locked Apple iPhone XS</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-upgrading-to-ios-18-safe-for-all-ipads-understanding-potential-risks-and-compatibility-issues-zdnet-guide/"><u>Is Upgrading to iOS 18 Safe for All iPads? Understanding Potential Risks and Compatibility Issues | ZDNET Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/pre-order-apple-vision-pro-begins-jan-19-official-release-feb-2-check-availability-at-retailers/"><u>Pre-Order Apple Vision Pro Begins Jan 19; Official Release Feb 2 - Check Availability at Retailers!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ready-to-upgrade-your-iphone-discover-the-latest-anker-charger-gadgets-exclusive-tips-from-zdnet/"><u>Ready to Upgrade Your iPhone? Discover the Latest Anker Charger Gadgets - Exclusive Tips From ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reviving-audio-expert-tips-for-fixing-an-acer-laptop-without-sound-output/"><u>Reviving Audio: Expert Tips for Fixing an Acer Laptop Without Sound Output</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-process-of-android-video-u-turns/"><u>The Process of Android Video U-Turns</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-future-of-tablets-exclusive-highlights-from-appleculet-events-featuring-m4-ipad-pro-13-inch-ipad-air-and-enhanced-apple-pencil-techinsights/"><u>Unveiling the Future of Tablets: Exclusive Highlights From Apple'culet Events Featuring M4 iPad Pro, 13-Inch iPad Air & Enhanced Apple Pencil | TechInsights</u></a></li>
 </ul></div>
 

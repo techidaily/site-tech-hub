@@ -1,7 +1,7 @@
 ---
 title: Discovering the Covert Intelligent Communication Chips in Macs and iPads - Do You Own Them? | ZDNET
-date: 2024-10-14T18:42:23.677Z
-updated: 2024-10-15T18:10:32.742Z
+date: 2024-10-15T17:53:14.289Z
+updated: 2024-10-21T16:09:32.619Z
 tags:
   - apple
 categories:
@@ -30,18 +30,18 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -51,6 +51,13 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
@@ -58,10 +65,10 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -69,13 +76,6 @@ Screenshot by Lance Whitney/ZDNET
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -92,10 +92,10 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -134,20 +134,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-seminar-screen-recording/"><u>[New] 2024 Approved Seminar Screen Recording</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/aptivate-audiences-unveiling-secrets-for-striking-youtube-banners/"><u>[New] Captivate Audiences Unveiling Secrets for Striking YouTube Banners</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-comprehensive-checklist-for-incorporating-srt-in-mp4-files-for-2024/"><u>[New] Comprehensive Checklist for Incorporating SRT in MP4 Files for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-mobile-alter-picture-size-on-iphone-easefully/"><u>[New] Mastering Mobile Alter Picture Size on iPhone Easefully</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-7-best-apps-to-go-live-on-youtube-from-iphone-or-android/"><u>[Updated] 7 Best Apps to Go Live on YouTube From iPhone or Android</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-showdown-evaluating-claude-and-chatgpt-to-find-your-perfect-daily-assistant/"><u>AI Showdown: Evaluating Claude and ChatGPT to Find Your Perfect Daily Assistant</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/cognitive-crossroads-chatai-plus-visual-idea-mapping/"><u>Cognitive Crossroads: ChatAI + Visual Idea Mapping</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ensuring-safe-ai-growth-the-openai-executive-stance/"><u>Ensuring Safe AI Growth - The OpenAI Executive Stance</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/guaranteeing-non-loss-in-ai-conversations/"><u>Guaranteeing Non-Loss in AI Conversations</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-do-digital-assistants-mimic-human-interaction-through-advanced-programming/"><u>How Do Digital Assistants Mimic Human Interaction Through Advanced Programming?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/keep-your-asus-computer-running-smoothly-with-updated-drivers/"><u>Keep Your ASUS Computer Running Smoothly with Updated Drivers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/leverage-ai-power-how-to-guide-chatgpt-in-personalized-vehicle-tuning-advice/"><u>Leverage AI Power: How to Guide ChatGPT in Personalized Vehicle Tuning Advice</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-m14-5g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy M14 5G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-unlock-free-sound-effects-a-step-by-step-guide-for-final-cut-pro-users/"><u>Updated In 2024, Unlock Free Sound Effects A Step-by-Step Guide for Final Cut Pro Users</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/veerm-ts-videovorm-naar-avi-gratis-professioneel-online-codecconverter-met-movavi/"><u>Veerm TS-Videovorm Naar Avi Gratis: Professioneel Online Codecconverter Met Movavi</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/accessible-japanese-study-freebies-and-solo-strategies/"><u>Accessible Japanese Study: Freebies and Solo Strategies</u></a></li>
+<li><a href="https://win11.techidaily.com/amplify-sound-in-obs-studio-resolving-no-audio-on-win-11/"><u>Amplify Sound in OBS Studio - Resolving No Audio on Win 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boost-your-apple-watchs-battery-longevit-with-8-essential-tips/"><u>Boost Your Apple Watch's Battery Longevit with 8 Essential Tips</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/bunny-up-your-video-editing-game-easter-sale-on-filmora-software-for-2024/"><u>Bunny Up Your Video Editing Game Easter Sale on Filmora Software for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/embrace-xps-film-editor-installation-guide/"><u>Embrace XP's Film Editor Installation Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exclusive-analysis-of-the-satechi-pro-hub-max-on-zdnet-enhancing-your-macbook-experience-like-never-before/"><u>Exclusive Analysis of the Satechi Pro Hub Max on ZDNet: Enhancing Your MacBook Experience Like Never Before</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-enhancements-in-iphone-16-universal-adoption-of-ultra-thin-bezels-and-revolutionary-spatial-recording-tech-insights-at-zdnet/"><u>Exploring Enhancements in iPhone 16: Universal Adoption of Ultra Thin Bezels & Revolutionary Spatial Recording | Tech Insights at ZDNET</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-hidden-gems-the-top-benefits-of-an-iphone-case-beyond-its-classic-keyboard-mobile-innovation-blog/"><u>Exploring the Hidden Gems: The Top Benefits of an iPhone Case Beyond Its Classic Keyboard - Mobile Innovation Blog</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-realme-c67-5g-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Realme C67 5G Phone Hassle-Free</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/infographics-leveraging-social-media-videos/"><u>Infographics Leveraging Social Media Videos</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/mastering-gameplay-latency-discover-how-the-asus-rog-rapture-gt-ax11000-dominates-speed-and-gaming-features/"><u>Mastering Gameplay Latency? Discover How the Asus ROG Rapture GT-AX11000 Dominates Speed and Gaming Features</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximizing-ipad-potential-top-tier-apps-to-boost-productivity-and-smooth-workflow-expert-tips-by-zdnet/"><u>Maximizing iPad Potential: Top-Tier Apps to Boost Productivity & Smooth Workflow | Expert Tips by ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/october-unveiling-expected-for-advanced-apple-ai-capabilities-new-intel-from-industry-sources/"><u>October Unveiling Expected for Advanced Apple AI Capabilities - New Intel From Industry Sources</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revamp-your-visual-experience-the-comprehastern-pocket-sized-guide-for-updating-apple-studio-displays-system-software-cnet/"><u>Revamp Your Visual Experience: The Comprehastern Pocket-Sized Guide for Updating Apple Studio Display's System Software - CNET</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/solving-plugin-connectivity-issues-in-chatgpt/"><u>Solving Plugin Connectivity Issues in ChatGPT</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/the-ultimate-visual-fidelity-in-a-box-eizos-cg318-4k-for-2024/"><u>The Ultimate Visual Fidelity in a Box – EIZO's CG318-4K for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-amazon-bargains-this-month-august-2024-specials-featured/"><u>Top-Rated Amazon Bargains This Month - August 2024 Specials Featured</u></a></li>
+<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-on-apple-iphone-se-by-drfone-ios/"><u>Unlock Apple ID without Phone Number On Apple iPhone SE</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-the-secret-grab-your-complimentary-macbook-air-m3-at-best-buy-with-these-steps/"><u>Unlock the Secret: Grab Your Complimentary MacBook Air M3 at Best Buy with These Steps</u></a></li>
 </ul></div>
 

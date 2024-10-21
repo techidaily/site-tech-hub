@@ -1,7 +1,7 @@
 ---
 title: Augmented Listening on the Horizon? Anticipate Camera-Equipped AirPods From Apple by 2026, Says ZDNET Insight
-date: 2024-10-13T23:19:23.864Z
-updated: 2024-10-16T04:37:42.414Z
+date: 2024-10-15T20:01:27.455Z
+updated: 2024-10-21T16:56:03.189Z
 tags:
   - apple
 categories:
@@ -71,26 +71,27 @@ Apple partner and supplier Foxconn will be making the IR camera with a goal of 1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-seamless-streaming-tackle-instagram-video-woes/"><u>[Updated] Seamless Streaming Tackle Instagram Video Woes</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/becoming-a-pro-at-visual-effects-creation/"><u>Becoming a Pro at Visual Effects Creation</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/beyond-chatgpt-unveiling-4-impressive-qualities-of-the-claude-ai-chatbot/"><u>Beyond ChatGPT: Unveiling 4 Impressive Qualities of the Claude AI Chatbot</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/discover-the-top-9-choices-for-mac-users-comprehensive-guide-to-mp4-and-mp3-conversion-software-free-and-subscription-based/"><u>Discover the Top 9 Choices for Mac Users: Comprehensive Guide to MP4 and MP3 Conversion Software [Free & Subscription-Based]</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discovering-anthropics-ai-generation-ideas/"><u>Discovering Anthropic's AI Generation Ideas</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-hidden-echoes-on-the-web-the-insightful-guide-to-interacting-with-the-internet-ghost/"><u>Exploring Hidden Echoes on the Web: The Insightful Guide to Interacting with the 'Internet Ghost'</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-dissecting-tseries-profits-from-youtube-platforms/"><u>In 2024, Dissecting TSeries Profits From YouTube Platforms</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/simplify-your-menu-planning-with-these-7-chatgpt-insights/"><u>Simplify Your Menu Planning With These 7 ChatGPT Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/taking-a-closer-look-performance-testing-and-review-for-raspberry-pi-intelligent-unit-kit/"><u>Taking a Closer Look: Performance Testing and Review for Raspberry Pi Intelligent Unit Kit</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-complete-list-of-11-advanced-color-correction-and-grading-tutorials/"><u>The Complete List of 11 Advanced Color Correction & Grading Tutorials</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-8-android-and-iphone-apps-enhanced-with-artificial-intelligence/"><u>Top 8 Android and iPhone Apps Enhanced with Artificial Intelligence</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-oppo-a59-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Oppo A59 5G Screen | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/why-does-chatgpt-4-lag-behind-its-predecessor-chatgpt-35/"><u>Why Does ChatGPT-4 Lag Behind Its Predecessor, ChatGPT-3.5?</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/1728486118009-ssd/"><u>アダタのSSD緊急修理レシピ: データを取り戻すための詳しい工程</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-mastering-video-capture-a-deep-dive-into-showmores-tech/"><u>[New] Mastering Video Capture A Deep Dive Into ShowMore's Tech</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-maximize-attention-try-these-7-budget-friendly-tools/"><u>[New] Maximize Attention - Try These 7 Budget-Friendly Tools</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-step-by-step-guide-to-smooth-facetime-calls-on-mobile/"><u>[New] Step-by-Step Guide to Smooth FaceTime Calls on Mobile</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-social-media-power-up-grouping-multiple-photos-and-vids-for-instagram/"><u>[Updated] Social Media Power-Up Grouping Multiple Photos & Vids for Instagram</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-selecting-prime-meme-blueprints/"><u>2024 Approved Selecting Prime Meme Blueprints</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-huawei-nova-y71-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Huawei Nova Y71 Pattern Lock Screen</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-infinix-zero-5g-2023-turbo-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Infinix Zero 5G 2023 Turbo for Streaming | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/macs-top-tier-gif-recorder-tools-reviewed-for-2024/"><u>Mac's Top-Tier GIF Recorder Tools Reviewed for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-most-effective-ways-to-bypass-iphone-8-activation-lock-by-drfone-ios/"><u>The Most Effective Ways to Bypass iPhone 8 Activation Lock</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unmatched-efficiency-choosing-the-top-5-expert-ai-prompt-creators/"><u>Unmatched Efficiency: Choosing the Top 5 Expert AI Prompt Creators</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-dead-internet-theory-who-is-your-true-digital-audience/"><u>Unveiling the 'Dead Internet' Theory: Who Is Your True Digital Audience?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-risks-when-ai-chatbots-attempt-to-forge-windows-11-activation-key-generation/"><u>Unveiling the Risks: When AI Chatbots Attempt to Forge Windows 11 Activation Key Generation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-secrets-of-chatgpts-token-threshold-and-beyond-possibilities/"><u>Unveiling the Secrets of ChatGPT's Token Threshold and Beyond Possibilities</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-bots-are-winning-the-rise-of-conversational-ai/"><u>Why Bots Are Winning: The Rise of Conversational AI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/will-ai-outdo-magazine-horoscopes-in-prophetic-accuracy/"><u>Will AI Outdo Magazine Horoscopes in Prophetic Accuracy?</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

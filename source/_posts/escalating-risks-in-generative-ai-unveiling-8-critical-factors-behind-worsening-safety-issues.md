@@ -1,7 +1,7 @@
 ---
 title: "Escalating Risks in Generative AI: Unveiling 8 Critical Factors Behind Worsening Safety Issues"
-date: 2024-09-10T22:29:14.765Z
-updated: 2024-09-18T02:28:37.219Z
+date: 2024-10-16T19:55:31.800Z
+updated: 2024-10-21T20:49:45.064Z
 tags:
   - chatgpt
   - open-ai
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
  AI writing stories tools work in a similar way, but they are more focused on the story aspect. They have more advanced features to optimize the tone, write for a specific scenario, or even help you develop characters.
 
  A lot of AI story writers are not just for fiction writing.[AI can assist content writers](https://www.makeuseof.com/ways-to-use-ai-as-writer-editor/) and marketers who want to write website content, blog posts, social media posts, emails, and more. However, in this article, we’ll focus on the features related to fiction and AI script generators.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Rytr
 
@@ -75,15 +82,22 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 **Cost:** $12 per month, with a limit of 10,000 words. You can also try it out for free for 10 generations.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. NovelAI
 
 ![NovelAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/novelai.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [NovelAI](https://novelai.net/) is one of the most complex AI story writers on the list. But it’s also one of the most exciting ones. The basic new story AI generator works somewhat similarly to the others. You start writing the first few words or sentences of the story, and let the AI continue.
 
@@ -96,10 +110,10 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 **Cost:** $10/$15/$25 per month. All of these give you unlimited text generations but offer other advanced and experimental features. You can try it for free for 100 text generations.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Leave the Writer’s Block Behind With These AI Story Generators
@@ -121,5 +135,23 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-elevate-your-gopro-skills-with-this-tutorial/"><u>[New] Elevate Your GoPro Skills with This Tutorial</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-premier-windows-8-audio-shows/"><u>[New] Premier Windows 8 Audio Shows</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-explore-the-best-0-image-editing-tools-on-smartphones-today/"><u>[Updated] In 2024, Explore the Best $0 Image Editing Tools on Smartphones Today</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726026857424-3/"><u>「リージョンコード3映像ディスク再生方法・対策：視聴不可解決のためのガイダンス」</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1-step-by-step-guide-converting-avi-files-to-mp4-format-quickly-and-effectively/"><u>1. Step-by-Step Guide: Converting AVI Files to MP4 Format Quickly and Effectively</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1080p-dvd-dvd/"><u>1080P DVD リッピング用トップ機能が豊富な最高のDVDリッパー</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-5-best-360-degree-action-cameras-you-should-use/"><u>2024 Approved 5 Best 360-Degree Action Cameras You Should Use</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-cutting-edge-tools-for-inserting-text-into-pictures/"><u>2024 Approved Cutting-Edge Tools for Inserting Text Into Pictures</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-tecno-phantom-v-fold-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Tecno Phantom V Fold Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://discover-best.techidaily.com/guia-paso-a-paso-para-grabar-archivos-iso-en-un-dvd-usando-windows-11-8-o-7/"><u>Guía Paso a Paso Para Grabar Archivos ISO en Un DVD Usando Windows 11, 8 O 7</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/how-to-screen-record-facetime-calls-for-2024/"><u>How to Screen Record FaceTime Calls for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-xiaomi-redmi-note-12-4g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Xiaomi Redmi Note 12 4G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/where-to-find-your-favorite-songs-legally-the-5-best-mp3boo-clones-for-free-music-downloads/"><u>Where to Find Your Favorite Songs Legally: The 5 Best MP3BOO Clones for Free Music Downloads</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/zip-windows/"><u>ZIP形式で動画をコンパクトに: Windows向け圧縮手順ガイド</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726026663157-dvdusb/"><u>ストレージ形式自由化：簡単にDVDをUSBフラッシュドライブで使えるようにする方法</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/windowsmac/"><u>バッチ対応: WindowsまたはMacでノートパソコンからの高品質音声録音ガイド</u></a></li>
+</ul></div>
 

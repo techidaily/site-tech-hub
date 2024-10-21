@@ -1,7 +1,7 @@
 ---
 title: "Inside Look: Highlights and Missing Links From Apple'e 'Fast & Furious Tech' Event – A Detailed Analysis | ZDNET"
-date: 2024-10-02T21:12:27.933Z
-updated: 2024-10-09T18:44:32.990Z
+date: 2024-10-17T17:31:17.743Z
+updated: 2024-10-21T17:05:33.163Z
 tags:
   - apple
 categories:
@@ -42,13 +42,6 @@ For a recap of all the products unveiled during Apple's "Scary Fast" event -- an
 
 ## What products did get announced
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## M3 chips in all sizes
 
 June Wan/ZDNET
@@ -69,6 +62,13 @@ Much like the M2 processors that classify Apple's latest Mac computers by perfor
 * M3 Pro: Starting at 12 main processing cores (six performance and six efficiency) and 18 graphics cores
 * M3 Max: Starting at 16 main processing cores (12 performance and four efficiency) and 40 graphics cores, and now supports up to 128GB of unified memory
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. 14-inch and 16-inch MacBook Pro
 
 June Wan/ZDNET
@@ -85,6 +85,13 @@ What hasn't changed is the form factors of the new MacBook Pros, with Liquid Ret
 
 The 14- and 16-inch MacBook Pros are available for preorder right now, starting at $1,599 and $2,499, respectively, with the M3 and M3 Pro models seeing earlier ship times (as soon as next week), and the M3 Max models being slated for late November.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. iMac with M3
 
 Jason Hiner/ZDNET
@@ -98,20 +105,13 @@ Apple says the M3 chip allows the new 24-inch iMac to perform at twice the speed
 The 24-inch iMac is now available for preorder starting at $1,299 and will begin shipping next week.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What products didn't get announced
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1\. 13-inch MacBook Pro
 
@@ -134,10 +134,10 @@ With the iPhone being the last major product to transition over from Lightning t
 With the new 24-inch iMac, Apple will continue to bundle Lightning-equipped Magic Keyboard and Mouse peripherals, giving some users reasons to retain their cables.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to rewatch Apple's 'Scary Fast' event
@@ -174,22 +174,20 @@ The keynote presentation began on Monday, Oct. 30, 2023, at 5 p.m. PT (8 p.m. ET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/tep-by-step-to-stellar-video-youtube-studio-edition/"><u>[New] Step-by-Step to Stellar Video YouTube Studio Edition</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-targeted-success-identifying-youtube-niche-demand/"><u>[Updated] In 2024, Targeted Success Identifying YouTube Niche Demand</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-stream-with-clarity-ranking-the-best-6-microphones-today/"><u>[Updated] Stream with Clarity Ranking the Best 6 Microphones Today</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-silent-sounds-garagebands-volume-control-magic/"><u>2024 Approved Mastering Silent Sounds Garageband's Volume Control Magic</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/6-recurring-chatbot-hiccups-and-how-to-resolve-them-with-ease/"><u>6 Recurring Chatbot Hiccups and How To Resolve Them with Ease</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/8-effective-strategies-to-maximize-the-benefits-of-auto-gpt/"><u>8 Effective Strategies to Maximize the Benefits of Auto-GPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/academic-success-with-ai-discover-how-to-use-chatgpt-in-schools/"><u>Academic Success with AI: Discover How to Use ChatGPT in Schools</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/advanced-spreadsheets-excels-edge-in-calculations-vs-conversation/"><u>Advanced Spreadsheets: Excel’s Edge in Calculations Vs. Conversation</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/advantages-unveiled-picking-microsoft-copilot-over-chatgpt-explained-in-4-key-points/"><u>Advantages Unveiled: Picking Microsoft Copilot Over ChatGPT Explained in 4 Key Points</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-alternatives-for-profit-and-tech-advice/"><u>AI Alternatives for Profit & Tech Advice</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Honor X50 GT | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-vivo-y55s-5g-2023-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Vivo Y55s 5G (2023)</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1721962910474-is-accessing-chatgpt-compatible-with-virtual-private-networks-find-out-here/"><u>Is Accessing ChatGPT Compatible With Virtual Private Networks? Find Out Here</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-vivo-y78t-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Vivo Y78t? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1721982639077-transforming-research-meet-perplexity-ai-the-ai-tool-revolutionizing-your-google-searches/"><u>Transforming Research? Meet Perplexity AI - The AI Tool Revolutionizing Your Google Searches!</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unveiling-the-distinctive-features-of-aiff-vs-wav-files-and-seamless-solutions-for-converting-aiff-to-wav/"><u>Unveiling the Distinctive Features of AIFF Vs. WAV Files & Seamless Solutions for Converting AIFF to WAV</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-motorola-edgeplus-2023-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Motorola Edge+ (2023) Phones</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-broadcast-success-master-the-art-of-monitor-sharing-on-fb/"><u>[New] 2024 Approved Broadcast Success Master the Art of Monitor Sharing on FB</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-revolutionize-your-discord-conversations-learn-to-pin-effectively-for-2024/"><u>[New] Revolutionize Your Discord Conversations Learn to Pin Effectively for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/dive-into-huggingchat-how-it-matches-up-against-chatgpt-for-free/"><u>Dive Into HuggingChat: How It Matches Up Against ChatGPT for Free</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/expertly-engineered-solutions-troubleshooting-with-chatai/"><u>Expertly Engineered Solutions: Troubleshooting With ChatAI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-ai-types-comparing-the-contrast-of-strong-vs-weak-ai-systems/"><u>Exploring AI Types: Comparing the Contrast of Strong Vs. Weak AI Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-distinctive-features-of-bert-vs-generative-pre-trained-transformer-models/"><u>Exploring the Distinctive Features of BERT Vs. Generative Pre-Trained Transformer Models</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-risks-the-reason-behind-hacker-interests-in-chatgpt-platforms/"><u>Exploring the Risks: The Reason Behind Hacker Interests in ChatGPT Platforms</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/future-proof-ideas-for-enhancing-chatgpts-plugin-storefront/"><u>Future-Proof Ideas for Enhancing ChatGPT's Plugin Storefront</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gateway-to-advanced-ai-gpt-4-without-fee/"><u>Gateway to Advanced AI: GPT-4 Without Fee</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-6s-to-others-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 6s to others devices? | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-excellent-macos-converters-top-5-picklist/"><u>In 2024, Excellent macOS Converters Top 5 Picklist</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/integrating-pre-recorded-content-into-facebook-live-shows-for-2024/"><u>Integrating Pre-Recorded Content Into Facebook Live Shows for 2024</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/mastering-the-art-of-closing-applications-a-comprehensive-guide-for-your-kindle-fire-device/"><u>Mastering the Art of Closing Applications: A Comprehensive Guide for Your Kindle Fire Device</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-get-started-with-video-editing-best-tools-for-newcomers-for-2024/"><u>New Get Started with Video Editing Best Tools for Newcomers for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-fixed-monitor-cannot-support-present-input-timing/"><u>Troubleshooting Guide: Resolving '[FIXED] Monitor Cannot Support Present Input Timing'</u></a></li>
 </ul></div>
 

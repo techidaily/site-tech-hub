@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT: User Data Safety Assessed"
-date: 2024-09-16T16:37:27.720Z
-updated: 2024-09-17T19:14:41.932Z
+date: 2024-10-17T18:10:02.869Z
+updated: 2024-10-21T19:21:08.548Z
 tags:
   - chatgpt
   - open-ai
@@ -54,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/d9427c61032284cb88ab156d6c103f9d31f7d2686
 
  Claude AI clearly got this one. We tried a few more tricky problems, and both chatbots had a fair share of successes and failures in dealing with them. Considering the outcome we observed, it might be fair to say that while ChatGPT has an edge, both chatbots are not too far apart in common sense and logical reasoning abilities.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ChatGPT vs. Claude AI: Math Skills
 
  Even if you never plan to use ChatGPT or Claude AI to solve your Algebra homework, their mathematical abilities have far-reaching implications. For AI chatbots, math is the key to understanding real-world logic, identifying flawed thinking, and admitting mistakes.
@@ -74,7 +81,27 @@ ChatGPT also cracked the problem as well.
 
 ![Claude AI solves a math problem step-by-step](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-solves-a-math-problem-step-by-step.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  We tried a few more math problems. While both chatbots got it right on the first try in some cases, in several instances, Claude AI needed a second or third attempt to provide the right response. In terms of math skills, we'll give the crown to ChatGPT.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ChatGPT vs. Claude AI: Creativity
 
@@ -93,13 +120,6 @@ ChatGPT also cracked the problem as well.
  Both lyrics are good, but ChatGPT seemed to have an edge here. It had better rhyming, and we had the result we needed on the first trial. We had to try three times before Claude AI could produce lyrics that rhymed. We'll give this one to ChatGPT.
 
  After trying out a few more creative tasks, Claude AI seemed to excel in writing-related tasks and was able to write more natural-sounding content like a human writer would do. Although[ChatGPT was better at overcoming more complex creative tasks](https://www.makeuseof.com/creative-ways-to-use-chatgpt-openai/) , it sometimes couldn't shake off that AI chatbot feeling in the text it generated. Our verdict? Both ChatGPT and Claude AI are creative in their own right.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT vs. Claude AI: Coding Skills
 
@@ -124,10 +144,10 @@ ChatGPT also cracked the problem as well.
  ChatGPT is clearly significantly better at writing new code and can manage complex code with impressive proficiency. However, Claude AI is significantly better at analyzing large code bases. So, if you're looking to write code for some new idea you have, ChatGPT is the tool to turn to. If you want to analyze or make sense of a code base with thousands of lines across several files, then we would definitely recommend Claude AI.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Claude AI Is a Potent Competitor on the Block
@@ -147,5 +167,24 @@ ChatGPT also cracked the problem as well.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-captivate-and-conquer-with-customized-content-shorts-for-2024/"><u>[New] Captivate and Conquer with Customized Content Shorts for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-elevate-your-videos-the-basics-of-stunning-slow-motion-capturing-in-android/"><u>2024 Approved Elevate Your Videos The Basics of Stunning Slow Motion Capturing in Android</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/3-dvd/"><u>簡単変換 できるオーディオコンバータのベスト3: メモリーカード・DVD・音楽動画からの容易な音声ファイル変換!</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/anime-emojis-and-animations-sprucing-up-your-tiktok-videos/"><u>Anime Emojis & Animations Sprucing Up Your TikTok Videos</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boosting-tabletop-rpgs-integrating-chatgpt-into-your-dandd-sessions-for-an-unforgettable-experience/"><u>Boosting Tabletop RPGs: Integrating ChatGPT Into Your D&D Sessions for an Unforgettable Experience</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-power-of-ai-10-tactics-to-secure-your-next-role-with-chatgpt-on-linkedin/"><u>Discover the Power of AI: 10 Tactics to Secure Your Next Role with ChatGPT on LinkedIn</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-quintet-of-justifications-that-have-companies-restricting-chatgpt/"><u>Exploring the Quintet of Justifications That Have Companies Restricting ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-twitter-threats-to-advanced-conversations-unraveling-new-scam-tactics-the-dawn-of-meta-verified-profiles-and-deep-dive-into-chatgpt-4s-capabilities-exp62/"><u>From Twitter Threats to Advanced Conversations: Unraveling New Scam Tactics, The Dawn of Meta Verified Profiles & Deep Dive Into ChatGPT-4's Capabilities Explored</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/honor-x8b-video-recovery-recover-deleted-videos-from-honor-x8b-by-fonelab-android-recover-video/"><u>Honor X8b Video Recovery - Recover Deleted Videos from Honor X8b</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-realme-11-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Realme 11 5G Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-poco-m6-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Poco M6 5G? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/master-the-art-of-asking-leading-chrome-tool-to-streamline-your-chatgpt-engagement/"><u>Master the Art of Asking: Leading Chrome Tool to Streamline Your ChatGPT Engagement</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/quicktakes-why-videos-thrive-on-twitter-writes-for-2024/"><u>QuickTakes Why Videos Thrive on Twitter' Writes for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/form-your-content-creation-with-the-top-12-vlogger-cams-for-2024/"><u>Transform Your Content Creation with the Top 12 Vlogger Cams for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-creative-possibilities-using-your-gpt-bots-for-image-generation-and-game-strategies/"><u>Unlocking Creative Possibilities: Using Your GPT Bots for Image Generation & Game Strategies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/what-sets-auto-gpt-apart-from-chatgpt-insights-into-their-unique-functions/"><u>What Sets Auto-GPT Apart From ChatGPT? Insights Into Their Unique Functions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-choose-claude-ai-exploring-its-features-to-enhance-productivity/"><u>Why Choose Claude AI? Exploring Its Features to Enhance Productivity</u></a></li>
+</ul></div>
 

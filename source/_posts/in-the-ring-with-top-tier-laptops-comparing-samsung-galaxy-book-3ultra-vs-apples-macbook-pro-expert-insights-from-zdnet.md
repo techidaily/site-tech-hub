@@ -1,7 +1,7 @@
 ---
 title: "In The Ring with Top Tier Laptops: Comparing Samsung Galaxy Book 3Ultra Vs. Apple's MacBook Pro | Expert Insights From ZDNet"
-date: 2024-10-12T18:05:16.968Z
-updated: 2024-10-16T01:32:37.966Z
+date: 2024-10-17T20:56:47.490Z
+updated: 2024-10-21T20:58:02.124Z
 tags:
   - apple
 categories:
@@ -43,40 +43,13 @@ We'll compare the specs of the [Galaxy Book 3 Ultra](https://shop-links.co/link/
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  You should buy Samsung's Galaxy Book 3 Ultra if...
 
 There are definitely some strong MacBook Pro vibes informing Samsung's aesthetic for this device.
 
 Samsung
 
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  1\. You're committed to Samsung's ecosystem
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Samsung Unpacked
 
@@ -108,6 +81,13 @@ The most recent, M2 Pro or Max-powered refresh of the venerable 16-inch MacBook 
 
 Apple
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  1\. You, or your family, are committed to Apple's ecosystem
 
 This is the other side of the coin. Apple was among the first, and might still be the best, at giving you reasons to stay locked into its ecosystem. On an individual level, this includes things like the ability to share screens and inputs across devices and tricks like [Continuity Camera, which lets you use your iPhone as an advanced webcam](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/), or Apple's excellent cross-device messaging. 
@@ -127,15 +107,22 @@ It's an issue that can chafe at times, but it's also one that has led many, myse
 
 **Also:** [**Samsung Galaxy S23 Ultra vs Google Pixel 7 Pro: Which Android flagship is king?**](https://www.zdnet.com/article/samsung-galaxy-s23-ultra-vs-google-pixel-7-pro/)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  2\. You're a content creator looking for a mobile desktop replacement
 
 Apple's M1 generation of chips was already more than enough power for most photo editors, and even a large chunk of video editors, including those working in 4K+ formats. Now, with the advent of M2 Pro and M2 Max options, the 16-inch MacBook Pro is like an entire production studio unto itself, especially when combined with the ample variety of RAM and storage configurations now available for both chips and a full-fledged HDMI port, as well as three DisplayPort-capable Thunderbolt ports. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  3\. You need a ton of RAM or storage
@@ -145,6 +132,13 @@ The maximum amount of memory and storage you can configure a Galaxy Book 3 Ultra
 **Also: [Apple's new MacBook Pro with M2 Pro chip is a compelling package](https://www.zdnet.com/article/apples-new-macbook-pro-with-m2-pro-chip-is-a-compelling-package/)**
 
 [Buy the 16-inch Apple MacBook Pro $2,499 at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -199,19 +193,19 @@ Absolutely must have a 16-inch laptop? Lenovo's ThinkPad Z16 is among the most p
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-making-your-mark-with-youtubes-creative-commons-tools/"><u>[New] Making Your Mark with YouTube’s Creative Commons Tools</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-vimeoifytweets-video-to-mp3-and-mp4/"><u>[Updated] In 2024, VimeoifyTweets Video-to-MP3 & MP4</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-pixelpun-factory/"><u>2024 Approved PixelPun Factory</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-understanding-the-algorithm-maximizing-earning-potential-on-youtube/"><u>2024 Approved Understanding the Algorithm Maximizing Earning Potential on YouTube</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpts-role-in-modern-career-exploration/"><u>ChatGPT's Role in Modern Career Exploration</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-for-repairing-driver-power-errors-on-your-pc/"><u>Expert Tips for Repairing Driver Power Errors on Your PC</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/innovate-instantly-using-openais-sandbox-feature-and-the-mighty-gpt-3/"><u>Innovate Instantly Using OpenAI's Sandbox Feature and the Mighty GPT-3</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-your-chatbot-revealing-too-much-neural-network-model-inversion-attacks-explained/"><u>Is Your Chatbot Revealing Too Much? Neural Network Model Inversion Attacks Explained</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/lofree-edge-evaluation-sleek-design-and-premium-cost-compared-to-apples-magic-keyboard/"><u>Lofree Edge Evaluation: Sleek Design & Premium Cost Compared to Apple's Magic Keyboard</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transform-viewership-elevate-your-live-stream-game-with-just-a-few-supporters-for-2024/"><u>Transform Viewership Elevate Your Live Stream Game with Just a Few Supporters for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/transforming-health-tracking-fitbit-sense-as-a-comprehensive-wellness-companion-vs-apple-watch/"><u>Transforming Health Tracking: Fitbit Sense as a Comprehensive Wellness Companion Vs. Apple Watch</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unmasking-winchatgpt-falsehoods-in-the-digital-world/"><u>Unmasking WinChatGPT Falsehoods in the Digital World</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unraveling-twitters-new-security-features-the-impact-of-ax-and-checkmark-integration/"><u>Unraveling Twitter's New Security Features: The Impact of Ax & Checkmark Integration</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-the-artisans-approach-to-integrating-fade-out-effects-in-audio-design-updated-for-today/"><u>Updated 2024 Approved The Artisans Approach to Integrating Fade-Out Effects in Audio Design, Updated for Today</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-key-strategies-in-building-successful-youtube-shorts-templates/"><u>[New] Key Strategies in Building Successful YouTube Shorts Templates</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-essential-elements-for-implementing-channel-banners-in-games/"><u>[Updated] Essential Elements for Implementing Channel Banners in Games</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-obs-studio-and-lut-application-guide-for-professional-cinematographers/"><u>[Updated] OBS Studio & LUT Application Guide for Professional Cinematographers</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-designing-distinctive-denouements/"><u>2024 Approved Designing Distinctive Denouements</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/16-youtube-intro-makers-to-bring-you-more-views/"><u>Best 16 YouTube Intro Makers to Bring You More Views</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparing-the-new-wave-m1-and-m3-macbook-pro-models-is-it-time-for-an-upgrade/"><u>Comparing the New Wave: M1 and M3 MacBook Pro Models – Is It Time for an Upgrade?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-apples-hidden-gem-unveiling-the-remarkable-iphone-feature-you-might-have-missed/"><u>Discover Apple's Hidden Gem: Unveiling the Remarkable iPhone Feature You Might Have Missed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/essential-tools-for-pc-and-apple-enthusiasts-a-selection-of-the-best-by-zdnet-experts/"><u>Essential Tools for PC and Apple Enthusiasts: A Selection of the Best by ZDNet Experts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/get-ahead-with-ios-16-immediate-access-to-iphones-new-features-via-public-beta-insider-info-techguide/"><u>Get Ahead with iOS 16: Immediate Access to iPhone's New Features via Public Beta - Insider Info! | TechGuide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-android-can-surpass-ios-with-these-five-key-enhancements-expert-analysis/"><u>How Android Can Surpass iOS with These Five Key Enhancements - Expert Analysis</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-superior-economical-live-camera-snapper/"><u>In 2024, Superior Economical Live Camera Snapper</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/iphone-showdown-iphone-14-pro-vs-iphone-13-pro-are-you-getting-your-moneys-worth/"><u>IPhone Showdown: IPhone 14 Pro vs iPhone 13 Pro - Are You Getting Your Money's Worth?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/twitter-video-requirements-how-to-upload-a-video-on-twitter-for-2024/"><u>Twitter Video Requirements | How to Upload a Video on Twitter for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-zoom-potential-a-comprehensive-configurations-guide-for-2024/"><u>Unlocking Zoom Potential A Comprehensive Configurations Guide for 2024</u></a></li>
 </ul></div>
 

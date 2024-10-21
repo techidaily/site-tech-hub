@@ -1,7 +1,7 @@
 ---
 title: "Insider Reveals Apple's Development of Affordable AR Spectacles: A Game Changer in Visual Tech"
-date: 2024-10-12T17:05:36.947Z
-updated: 2024-10-16T01:02:05.897Z
+date: 2024-10-19T21:17:10.194Z
+updated: 2024-10-21T17:59:04.448Z
 tags:
   - apple
 categories:
@@ -38,9 +38,23 @@ Training Load is also coming in WatchOS 11, allowing you to keep track of the st
 
 Serious athletes will likely be drawn to these features since this is the first time Apple has shipped recovery and strain tracking on its watches. But plenty of casual users may also find these features useful when in the process of adopting healthier habits.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Pause your rings
 
 Ever get sick one day or just need a break, but you're concerned about not keeping your streak to close your Apple Watch's rings? Now, you don't have to worry about missing out on the day's progress. In WatchOS 11, Apple is giving you the ability to pause your rings for a day, week, month, or longer until you're ready to get back in the game.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Better support for pregnancy
 
@@ -51,13 +65,6 @@ WatchOS 11 will help those who are pregnant log their physical and mental health
 The feature plays into the Apple Watch's cycle-tracking experience, so everything remains cohesive and easy to find.
 
 Apple
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. More widgets for your Smart Stack, including Live Activities
 
@@ -83,16 +90,16 @@ Double tap gesture on Apple Watch Series 9.
 
 Jason Hiner/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Check In comes to your wrist
 
 With WatchOS 11, Apple is adding Check In. Originally launched in iOS 17, Check In allows you to keep track of a friend or loved one by having them confirm when they've reached their destination or have finished something like a gym session. Check In works within the Workout app and Messages.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Tap to Cash for quick payments
 
@@ -100,27 +107,26 @@ Move over, Venmo. Also in iOS 18, Apple is bringing Tap to Cash to WatchOS 11\. 
 
 **Also: [How to use 'Tap to Cash' to send money in iOS 18](https://www.zdnet.com/article/how-to-use-tap-to-cash-to-send-money-in-ios-18/)**
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 9\. Translate on the fly
 
 Apple is adding the Translate app to WatchOS 11, allowing you to translate in any of 20 supported languages. Previously, the app was available only on the iPhone and iPad. When you're traveling abroad where a supported language is spoken, it'll automatically pop up in your watch's Smart Stack. Otherwise, choose the target and source languages and speak the words you want to be translated. Tap the Play button, and the translation plays through your watch's internal speaker.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 10\. Improved workout tracking for GPS-specific workouts
 
 Soccer, American Football, Australian Football, Outdoor Hockey, Lacrosse, Downhill Skiing, Cross Country Skiing, Snowboarding, Golf, Outdoor Rowing, and other activities are being updated in WatchOS 11 to take advantage of enhancements in GPS positioning for more accurate results. You can also view your route maps for more workout types.
+
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 11\. Tickets in your Wallet get an upgrade
 
@@ -160,22 +166,14 @@ Right now, [WatchOS 11 is available as a public beta](https://www.zdnet.com/arti
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-epic-battle-royale-thumbnails-done-fast-for-2024/"><u>[New] Epic Battle Royale Thumbnails, Done Fast for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-leading-linux-editors-top-8-video-cutters/"><u>[New] In 2024, Leading Linux Editors Top 8 Video Cutters</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/1-mastering-ebook-reading-a-comprehensive-guide-to-accessing-amazon-titles-on-your-ipad-mini/"><u>1. Mastering eBook Reading: A Comprehensive Guide to Accessing Amazon Titles on Your iPad Mini</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/anticipating-verizons-future-with-5g-technology/"><u>Anticipating Verizon's Future with 5G Technology</u></a></li>
-<li><a href="https://some-skills.techidaily.com/beyond-microsoft-phone-link-embrace-this-enhanced-mobile-connectivity-solution/"><u>Beyond Microsoft Phone Link: Embrace This Enhanced Mobile Connectivity Solution</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/craftsmanship-meets-technology-expert-ai-use-in-bing-for-android/"><u>Craftsmanship Meets Technology: Expert AI Use in Bing for Android</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-the-leading-replacements-for-chatgpt-ranked/"><u>Discover the Leading Replacements for ChatGPT - Ranked</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-the-most-recent-update-for-your-logitech-g910-mouse-on-windows/"><u>Download the Most Recent Update for Your Logitech G910 Mouse on Windows</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-field-of-ai-prompt-design-can-it-lead-to-a-reliable-profession/"><u>Exploring the Field of AI Prompt Design: Can It Lead to a Reliable Profession?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/from-text-prompts-to-ai-masterpieces-harnessing-chatgpt-for-image-generation/"><u>From Text Prompts to AI Masterpieces: Harnessing ChatGPT for Image Generation</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/future-frontiers-the-new-era-of-chatbots-and-ai/"><u>Future Frontiers: The New Era of Chatbots & AI</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/harness-powerful-language-ai-without-cost-check-out-these-6-options-beyond-openais-sora/"><u>Harness Powerful Language AI Without Cost - Check Out These 6 Options Beyond OpenAI's Sora</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-8-plus-to-other-iphone-14-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 8 Plus to other iPhone 14 devices? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/openai-vs-creative-rights-the-legal-showdown-with-silverman/"><u>OpenAI Vs. Creative Rights: The Legal Showdown with Silverman</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-2024-release-problems-for-the-last-epoch-on-personal-computers/"><u>Solving 2024 Release Problems for The Last Epoch on Personal Computers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-definitive-tips-for-keeping-your-top-comments-featured-on-instagram-discussions/"><u>The Definitive Tips for Keeping Your Top Comments Featured on Instagram Discussions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-truthgpts-potential-legal-battles-targeting-mullvad-vpn-elite-catalog-of-free-gaming-titles-on-pc-unraveling-the-world-of-high-performance-mechani18/"><u>Unlocking TruthGPT's Potential | Legal Battles Targeting Mullvad VPN | Elite Catalog of FREE Gaming Titles on PC | Unraveling the World of High-Performance Mechanical Keyboards</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-perfect-virtual-scenes-enhancing-zoomgoogle-experience-for-2024/"><u>[New] Perfect Virtual Scenes Enhancing Zoom/Google Experience for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-step-by-step-guide-to-writing-captivating-docu-scripts-for-2024/"><u>[New] Step-By-Step Guide to Writing Captivating Docu-Scripts for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/can-am08-pro-enhance-authenticity-of-magic-play/"><u>Can AM08 Pro Enhance Authenticity of Magic Play?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-on-your-apple-iphone-14-pro-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock on your Apple iPhone 14 Pro and iPad</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-discover-the-best-instagram-video-editors-for-mobile-devices/"><u>In 2024, Discover the Best Instagram Video Editors for Mobile Devices</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-microsoft-copilot-a-comprehensive-install-guide-for-apple-computers/"><u>Mastering Microsoft Copilot: A Comprehensive Install Guide for Apple Computers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/reignite-creativity-top-9-perks-of-upgrading-to-chatgpt-plus/"><u>Reignite Creativity: Top 9 Perks of Upgrading to ChatGPT Plus</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/securing-employment-with-ai-chatgpts-role-in-enhancing-linkedin-applications/"><u>Securing Employment with AI: ChatGPT's Role in Enhancing LinkedIn Applications</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/securing-synthetic-intelligence-the-hidden-dangers-of-machine-learning-exposure/"><u>Securing Synthetic Intelligence: The Hidden Dangers of Machine Learning Exposure</u></a></li>
 </ul></div>
 

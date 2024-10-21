@@ -1,7 +1,7 @@
 ---
 title: Will Artificial Intelligence Determine the Fate of Apple's Next Phenomenon, the iPhone 16? | Explored at ZDNET
-date: 2024-10-03T22:09:50.264Z
-updated: 2024-10-09T19:43:52.873Z
+date: 2024-10-16T17:22:03.449Z
+updated: 2024-10-21T19:36:49.189Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ Ever since, those attributes have defined all smartphones, save for one common s
 But of all the capabilities and components of these amazing and ubiquitous computing devices, it is the smartphone _camera_ that has seen the most extraordinary evolution. Phone cameras made their first appearance during the era when smartphones started becoming practical, everyday devices. Then, these cameras advanced in an App Store-centric world where companies like [Blackmagic Design could create camera apps](https://www.blackmagicdesign.com/products/blackmagiccamera) that redefine how a smartphone camera works. Now, artificial intelligence (AI) and machine learning (ML) are changing the very nature of what a camera can do.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Pre-modern smartphones
@@ -64,10 +64,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 Another phone -- and my personal device for four years -- was the [Palm Treo 600](https://www.zdnet.com/article/treo-600-debuts-with-new-improvements-and-old-design-flaws/), released in 2003\. This device did a lot, including supporting a camera capable of taking 640x480 resolution images. The Treo didn't have Wi-Fi or Bluetooth, limiting its connectivity to a cable connected to the computer for image downloads. Its big claim to fame was that it could run any of the thousands of PalmOS apps that were available for download. Installing those apps, however, also involved connecting a cable to a computer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2008: The birth of the modern smartphone
@@ -90,6 +90,13 @@ Over in the Android world, its first phone was the HTC Dream, also marketed as t
 
 With the iPhone 3 and the App Store, along with the first Android phone, it's fair to say that 2008 was the first year of the modern smartphone era.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2010: Smartphones meet narcism, a match made in heaven
 
 Smartphones have evolved with a cadence we're all familiar with. Each year, new capabilities have been added and features improved. Cameras evolved from 3.0MP cameras to 48-50MP monsters like the [iPhone 15 Pro Max](https://www.zdnet.com/article/should-you-buy-an-iphone-15-heres-how-my-wife-and-i-are-deciding/), [Google Pixel 8](https://www.zdnet.com/article/pixel-8-pro-vs-pixel-7-pro/), [OnePlus 11](https://www.zdnet.com/article/oneplus-11-review/), and [Asus ROG Phone 8](https://rog.asus.com/articles/smartphones/the-rog-phone-8-and-rog-phone-8-pro-beyond-gaming-with-a-slim-new-design/).
@@ -109,13 +116,6 @@ Then there's the [Samsung Galaxy S23](https://shop-links.co/link/?url=https%3A%2
 Many smartphones today capture 8K video directly into phone storage. These include the [Samsung Galaxy S23](https://www.zdnet.com/article/samsung-galaxy-s23-plus-review/) (8K was supported as far back as the [S20](https://www.zdnet.com/article/galaxy-s20-s20-plus-s20-ultra-prices-specs-release-date-and-more-you-need-to-know/)), the [Asus ZenFone 9](https://www.zdnet.com/article/asus-zenfone-9-review/), the [OnePlus 11](https://www.zdnet.com/article/oneplus-11-review/), and the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-15-pro-max-50-photos-that-show-what-the-new-camera-system-can-do/) can all record 8K video directly into the device.
 
 Over time, all the increases in storage capacity, processor speed, battery life, and display resolution were accompanied by improvements to the software inside the phones, with vendors adding all sorts of smarts to their camera applications.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2017: The start of the AI/ML smartphone era
 
@@ -177,6 +177,13 @@ This technique pits a "generator" algorithm against a "discriminator" algorithm 
 
 **Also: [Generative AI: Just don't call it an 'artist'](https://www.zdnet.com/article/generative-ai-just-dont-call-it-an-artist-say-scholars-in-science-magazine/)** 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Quality-of-life enhancements
 
 Smartphone cameras are not only taking better and better pictures and videos, but they're also becoming easier to use at the same time. Here are a few quality-of-life enhancements that make smartphone cameras more helpful to their users. 
@@ -198,13 +205,6 @@ Predictive algorithms and object detection models are often used for real-time t
 One thing that's important to note: [Generative AI](https://www.zdnet.com/article/generative-ai-filled-us-with-wonder-in-2023-but-all-magic-comes-with-a-price/) is something that occurs _outside_ of the camera.
 
 As Blackmagic Design's Caniglia said, "There's been an incredible evolution of smartphone camera capabilities in comparison to just a couple of years ago. AI machine learning, especially with the new iPhone 15, has been a big driver. A huge part of that is because Apple has focused on developing technologies that do more with the actual information captured by the camera's sensor rather than a focus on creations of "faux images" via generational AI."
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Looking to the future
 
@@ -262,19 +262,24 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-tactics-to-expose-youtubes-well-guarded-videotapes/"><u>[New] Tactics to Expose YouTube's Well-Guarded Videotapes</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-from-dull-to-dynamic-a-guide-to-chromatic-finesse/"><u>[Updated] From Dull to Dynamic A Guide to Chromatic Finesse</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-trendsetters-in-virtual-reality-headsets/"><u>[Updated] Trendsetters in Virtual Reality Headsets</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-access-unlimited-stock-photos-via-four-noteworthy-youtubes/"><u>2024 Approved Access Unlimited Stock Photos via Four Noteworthy YouTubes</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/5-reasons-you-cannot-use-chatgpt-for-crypto-analysis/"><u>5 Reasons You Cannot Use ChatGPT for Crypto Analysis</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/7-key-factors-preventing-effective-chatgpt-jailbreak-strategies-from-thriving/"><u>7 Key Factors Preventing Effective ChatGPT Jailbreak Strategies From Thriving</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/a-comprehensive-guide-the-6-primary-criteria-you-must-review-when-using-chatgpt-for-mental-care/"><u>A Comprehensive Guide: The 6 Primary Criteria You Must Review When Using ChatGPT for Mental Care</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/a-detailed-breakdown-of-chatgpt-vs-huggingchat-who-wins-out/"><u>A Detailed Breakdown of ChatGPT Vs. HuggingChat - Who Wins Out?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ace-your-conversations-is-google-bard-or-bing-chat-the-top-contender/"><u>Ace Your Conversations: Is Google Bard or Bing Chat the Top Contender?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-non-charging-problems-in-windows-7-and-windows-10/"><u>Effective Fixes for Non-Charging Problems in Windows 7 and Windows 10</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-fix-iphone-se-2020-could-not-be-activatedreached-issue-by-drfone-ios/"><u>How To Fix iPhone SE (2020) Could Not Be Activated/Reached Issue</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-revisiting-social-media-written-history-on-your-laptopsphones/"><u>In 2024, Revisiting Social Media' Written History on Your Laptops/Phones</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mp4dvd/"><u>MP4をDVDへ移行するための専門的テクニックとガイド</u></a></li>
-<li><a href="https://win-blog.techidaily.com/steps-to-restore-your-utorrent-connection-and-resume-torrent-downloads/"><u>Steps to Restore Your uTorrent Connection and Resume Torrent Downloads</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/fficiently-shortening-youtube-content-for-2024/"><u>[New] Efficiently Shortening YouTube Content for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-boosting-visibility-the-art-of-crafting-youtube-channel-backlinks/"><u>[New] In 2024, Boosting Visibility The Art of Crafting YouTube Channel Backlinks</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-quick-steps-to-authenticate-your-youtube-login/"><u>2024 Approved Quick Steps to Authenticate Your YouTube Login</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/2024s-elite-iphones-a-deep-dive-into-performance-and-features-expert-analysis/"><u>2024'S Elite iPhones: A Deep Dive Into Performance and Features | Expert Analysis</u></a></li>
+<li><a href="https://win-able.techidaily.com/cyberpunk-2077-update-overcoming-the-challenge-of-elevated-cpu-demands/"><u>Cyberpunk 2077 Update: Overcoming the Challenge of Elevated CPU Demands</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-safe-are-we-exploring-the-risks-of-chatgpt-as-a-cybercriminals-ally-against-banks-and-pcs/"><u>How Safe Are We? Exploring the Risks of ChatGPT as a Cybercriminal's Ally Against Banks & PCs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-should-freelancers-decide-between-bing-chat-and-chatgpt-8-critical-factors-to-assess/"><u>How Should Freelancers Decide Between Bing Chat and ChatGPT? 8 Critical Factors to Assess</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-chatgpt-effective-in-editing-and-proofreading-texts/"><u>Is ChatGPT Effective in Editing and Proofreading Texts?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leading-giant-nlp-models-unveiling-the-six-most-powerful-llms/"><u>Leading Giant NLP Models: Unveiling the Six Most Powerful LLMs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-chatbot-creation-personalizing-via-gpt-techniques/"><u>Mastering Chatbot Creation: Personalizing via GPT Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-crypto-discussions-with-chatgpt-your-go-to-list-of-top-10-prompts/"><u>Mastering Crypto Discussions with ChatGPT: Your Go-To List of Top 10 Prompts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/microsofts-ai-the-next-level-of-bing/"><u>Microsoft's AI, The Next Level of Bing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/no-phone-required-how-to-enroll-in-chatgpt-telegram-and-whatsapp-alternatives/"><u>No Phone Required: How to Enroll in ChatGPT, Telegram & WhatsApp Alternatives</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/no-phone-no-problem-how-to-create-accounts-on-popular-platforms-without-a-cellular-number/"><u>No Phone? No Problem! How to Create Accounts on Popular Platforms Without a Cellular Number</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-nokia-c12-pro-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Nokia C12 Pro to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-remedies-effective-ways-to-stop-logitech-g930-mic-from-going-offline/"><u>Quick Remedies: Effective Ways to Stop Logitech G930 Mic From Going Offline</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/silent-voices-in-the-social-media-arena-ig-live-edition/"><u>Silent Voices in the Social Media Arena - IG Live Edition</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-beginners-guide-to-free-screen-capture-software-for-2024/"><u>The Beginner's Guide to Free Screen Capture Software for 2024</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/troubleshooting-steps-solving-the-mystery-of-missing-wi-fi-on-hp-devices/"><u>Troubleshooting Steps: Solving the Mystery of Missing Wi-Fi on HP Devices</u></a></li>
 </ul></div>
 

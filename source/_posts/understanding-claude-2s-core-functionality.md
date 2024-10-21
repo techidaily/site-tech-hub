@@ -1,7 +1,7 @@
 ---
 title: Understanding Claude 2'S Core Functionality
-date: 2024-09-15T03:47:51.373Z
-updated: 2024-09-17T16:06:46.202Z
+date: 2024-10-18T18:34:01.313Z
+updated: 2024-10-21T17:22:17.944Z
 tags:
   - chatgpt
   - open-ai
@@ -50,10 +50,10 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
 So, how can you use this?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Use the GPT Mentions Feature
@@ -61,6 +61,13 @@ So, how can you use this?
  If you're using a few custom GPTs in separate conversations, you'll now see the pop-up below displayed above your chat text box.
 
 ![screenshot of GPT mentions feature window on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-mention-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  It's super easy to use GPT Mentions, so let's delve into an example of when it would be helpful.
 
@@ -71,6 +78,13 @@ So, how can you use this?
  Now, you're chatting with Canva until you click "X" on the**Talking to Canva** tab that will appear above the chat text box.
 
 ![screenshot of active canva chat using beta gpt mentions feature on desktop browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-canva-talking.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can talk to the Canva GPT while mentioning the above conversation you've already had with Consensus. Simply ask Canva to create a graphic introducing the research Consensus provided, and the GPT will get to work providing you with something useful.
 
@@ -86,22 +100,15 @@ So, how can you use this?
 
 ![screenshot of kayak prompt result with chatgpt on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-kayak-result.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After getting the results, we added the All Trails GPT to the chat using the GPT Mentions feature, and asked it to find trails near the hotels that KAYAK previously recommended.
 
 ![screenshot of alltrails gpt being used in chatgpt on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-alltrails-result.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Now, we have hotels, flights, and trails for our trip all in one chat!
@@ -121,5 +128,23 @@ Now, we have hotels, flights, and trails for our trip all in one chat!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/new-elite-stabilization-solutions-for-video-creators/"><u>[New] Elite Stabilization Solutions for Video Creators</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-the-ultimate-picks-for-gameplay-footage-for-2024/"><u>[New] The Ultimate Picks for Gameplay Footage for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-best-practice-mp4-director-to-fb-for-2024/"><u>[Updated] Best Practice MP4 Director to FB for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-techniques-to-quicken-vimeo-videos/"><u>[Updated] Techniques to Quicken Vimeo Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-understanding-netflixs-multi-stream-technology-a-quick-guide/"><u>[Updated] Understanding Netflix's Multi-Stream Technology A Quick Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/wavwindows-10-windows-11/"><u>「WAV」音声ファイルビットレート変更手順：Windows 10および Windows 11の使用例</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1-mastering-wmv-video-playback-a-comprehensive-guide-for-android-users/"><u>1. Mastering WMV Video Playback: A Comprehensive Guide for Android Users</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/boxed-bliss-reinventing-the-art-of-first-contacts-for-2024/"><u>Boxed Bliss Reinventing the Art of First Contacts for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-from-poco-c65-by-fonelab-android-recover-pictures/"><u>How to recover deleted pictures from Poco C65.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-these-techniques-to-fix-minecrafts-black-screen-debacle-of-2024/"><u>Master These Techniques to Fix Minecraft's Black Screen Debacle of 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/techniques-for-concurrent-webcam-and-screen-recordings/"><u>Techniques for Concurrent Webcam & Screen Recordings</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-guide-to-changing-media-files-to-amr-tips-for-easy-audio-and-video-format-switching/"><u>Ultimate Guide to Changing Media Files to AMR - Tips for Easy Audio and Video Format Switching</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-guide-how-to-capture-youtube-audiovisuals-effectively-with-top-grade-audio-downloaders/"><u>Ultimate Guide: How to Capture YouTube Audiovisuals Effectively With Top Grade Audio Downloaders</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-secrets-of-blackberry-storm-3/"><u>Unveiling the Secrets of BlackBerry Storm 3</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/windows-10-wav/"><u>Windows 10互換: WAVフォーマットに変更せずにオーディオクリップの録音・保存手順</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/youtubeinstagrammov2/"><u>YoutubeやInstagram動画をMOVに簡単に変換するための2つのプロセス解説</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Discover the Latest Innovations: Apple's Upcoming Tech Enhancements for iPhone, iPad, Mac, & More in Autumn with Cutting-Edge AI | ZDNet"
-date: 2024-10-04T22:30:52.597Z
-updated: 2024-10-09T18:37:58.275Z
+date: 2024-10-17T18:03:35.775Z
+updated: 2024-10-21T18:13:29.070Z
 tags:
   - apple
 categories:
@@ -60,13 +60,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -94,10 +87,16 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -124,6 +123,13 @@ Adam Breeden/ZDNET
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## MacOS 15 (Sequoia)
 
 Adam Breeden/ZDNET
@@ -134,13 +140,6 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -160,10 +159,10 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -173,6 +172,13 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -218,18 +224,20 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-collaborative-innovation-in-brand-and-media-synergy-for-2024/"><u>[New] Collaborative Innovation in Brand and Media Synergy for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-strategic-podcast-drop-dates/"><u>[Updated] Strategic Podcast Drop Dates</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-perfectly-positioned-cards-youtube-embedding-techniques/"><u>2024 Approved Perfectly Positioned Cards YouTube Embedding Techniques</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/7-innovative-ways-chatgpt-elevates-cooking-experience/"><u>7 Innovative Ways ChatGPT Elevates Cooking Experience</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ace-any-interview-with-chatgpt-innovative-techniques-and-tips/"><u>Ace Any Interview with ChatGPT: Innovative Techniques and Tips</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/advantages-of-using-the-chatgpt-desktop-application-over-the-online-site/"><u>Advantages of Using the ChatGPT Desktop Application Over the Online Site</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-assistance-at-your-fingertips-leveraging-microsofts-bing-capabilities-in-android/"><u>AI Assistance at Your Fingertips: Leveraging Microsoft's Bing Capabilities in Android</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/best-budget-friendly-nano-pcs-for-competitive-gaming/"><u>Best Budget-Friendly Nano PCs for Competitive Gaming</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-apple-iphone-se-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your Apple iPhone SE When You Forget the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-honor-magic-6-lite-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Honor Magic 6 Lite to Outlook | Dr.fone</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-the-best-free-mod-video-editing-software-a-beginners-guide-for-2024/"><u>New The Best Free MOD Video Editing Software A Beginners Guide for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1723620256136-trouble-with-iphone-personal-hotspot-here-are-proven-solutions-to-restore-connectivity/"><u>Trouble with iPhone Personal Hotspot? Here Are Proven Solutions to Restore Connectivity!</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unlocking-srt-potential-mac-edition-tutorial/"><u>Unlocking SRT Potential Mac Edition Tutorial</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-crossing-the-line-free-verifying-video-rights-on-tiktok/"><u>[Updated] Crossing the Line-Free Verifying Video Rights on TikTok</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-picshot-the-key-to-hassle-free-collage-making/"><u>2024 Approved Picshot The Key to Hassle-Free Collage Making</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-top-5-techniques-for-capturing-games-and-live-feeds/"><u>2024 Approved Top 5 Techniques for Capturing Games & Live Feeds</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/do-costly-ai-prompts-deliver-superior-results-compared-to-free-options/"><u>Do Costly AI Prompts Deliver Superior Results Compared to Free Options?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-to-grasp-ai-concepts/"><u>Easy-to-Grasp AI Concepts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/erasing-your-chatgpt-conversation-record-a-step-by-step-guide/"><u>Erasing Your ChatGPT Conversation Record: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/everyday-wins-claude-confronting-gpt-in-chatbot-arena/"><u>Everyday Wins: Claude Confronting GPT in ChatBot Arena</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-impact-of-vector-databases-on-ai-performance-and-efficiency/"><u>Exploring the Impact of Vector Databases on AI Performance and Efficiency</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/generative-ai-and-its-revolutionary-role-in-redefining-career-pathways-top-7-insights/"><u>Generative AI and Its Revolutionary Role in Redefining Career Pathways – Top 7 Insights</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-install-displaylink-drivers-on-windows-11-8-and-7/"><u>Get the Latest: Install DisplayLink Drivers on Windows 11, 8 & 7</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/in-2024-video-quality-edge-mirrorless-versus-dslr-cameras/"><u>In 2024, Video Quality Edge Mirrorless Versus DSLR Cameras</u></a></li>
+<li><a href="https://win-unique.techidaily.com/mastering-powertoys-color-picker-feature-a-step-by-step-guide/"><u>Mastering PowerToys' Color Picker Feature – A Step-by-Step Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-amds-tarkov-graphical-glitches/"><u>Overcoming AMD's Tarkov Graphical Glitches</u></a></li>
+<li><a href="https://win11.techidaily.com/securing-systems-five-key-approaches-to-reinstate-defender-safeguard/"><u>Securing Systems: Five Key Approaches to Reinstate Defender Safeguard</u></a></li>
+<li><a href="https://techidaily.com/the-5-best-methods-to-track-a-lost-or-stolen-iphone-8-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>The 5 Best Methods to Track a Lost or Stolen iPhone 8 | Stellar</u></a></li>
 </ul></div>
 

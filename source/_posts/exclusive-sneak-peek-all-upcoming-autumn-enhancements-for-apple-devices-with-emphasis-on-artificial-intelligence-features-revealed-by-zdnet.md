@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Sneak Peek: All Upcoming Autumn Enhancements for Apple Devices with Emphasis on Artificial Intelligence - Features Revealed by ZDNet"
-date: 2024-10-10T21:24:03.794Z
-updated: 2024-10-15T22:19:15.298Z
+date: 2024-10-19T19:01:33.486Z
+updated: 2024-10-21T20:16:03.279Z
 tags:
   - apple
 categories:
@@ -29,6 +29,13 @@ In a [previous article](https://www.zdnet.com/article/6-ways-apple-can-leapfrog-
 >
 
 ## What Apple Intelligence will bring to the company's operating system platforms
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### AI on the device and in the cloud
 
@@ -60,13 +67,6 @@ Apple has dipped its toes into [ChatGPT](https://www.zdnet.com/article/what-is-c
 
 **Room for improvement:** While Apple's intention to be LLM-agnostic is a positive sign for the company's AI strategy, I had hoped for a broader embrace of third-party platforms, particularly health, finance, and education, with AI integration. However, this shift will have to come with developers embracing the new [SiriKit, App Intents, Core ML, Create ML, and other APIs](https://www.zdnet.com/article/apple-coders-rejoice-your-programming-tools-just-got-a-big-free-ai-boost/). Deeper integration with specialized AI providers could significantly enhance Apple Intelligence's functionality and versatility.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Smart notifications and writing tools
 
 Smart notifications in Apple's operating systems will leverage on-device LLMs to sift through the noise and ensure that only the most important alerts make it through. This is part of the new Reduce Interruptions Focus, which shows users key details for each notification. System-wide writing tools can write, proofread, and summarize text for users, from short messages to long blog posts, with the Rewrite feature providing multiple versions of text based on the intended audience.
@@ -75,13 +75,6 @@ Smart notifications in Apple's operating systems will leverage on-device LLMs to
 
 **Room for improvement:** Building on the Reduce Interruptions Focus, further development in proactive assistance features that anticipate user needs based on past behavior and context would be beneficial.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### AI image generation and Genmoji
 
 Apple has opened up a world of creative possibilities by integrating the [Image Playground](https://www.zdnet.com/article/forget-dall-e-apples-new-ai-image-generator-runs-on-device-and-works-like-magic/) API into all apps. Users can create AI-generated images in three styles: Sketch, Animation, and Realism. Imagine creating and sharing these images directly within Messages or Pages -- it's a game-changer. In Notes, a new Image Wand tool can generate images based on the current page content. [Genmoji](https://www.zdnet.com/article/apples-new-ai-generated-genmoji-solve-a-problem-weve-all-had-before/) allows users to create custom emojis, adding a personalized touch to communications.
@@ -89,16 +82,10 @@ Apple has opened up a world of creative possibilities by integrating the [Image 
 **Room for improvement:** Providing more granular controls and customization options for the generated images and Genmojis, such as fine-tuning styles and attributes, could cater to more specific user preferences. Additionally, implementing features that suggest image enhancements or emoji creations based on user activity and context could further streamline the creative process.
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Enhanced Siri and task automation
@@ -124,10 +111,10 @@ Lastly, enhancing AI capabilities across all Apple products, including Siri, App
 **Room for improvement:** We also haven't heard anything about [HomePod](https://www.zdnet.com/home-and-office/home-entertainment/homepod-vs-homepod-mini-which-one-of-apples-smart-speakers-is-right-for-you/) or Apple TV with Apple Intelligence, although neither of these products has the computational power to perform on-device generative AI. Similarly, there were no mentions of new AI capabilities in [WatchOS](https://www.zdnet.com/article/every-apple-watch-model-that-will-support-watchos-11-and-which-ones-wont/). While these devices might be able to use some of the cloud capabilities of Apple Intelligence, this was not brought up in the keynote. Additionally, with its M2 chip, the [Vision Pro](https://www.zdnet.com/article/apple-vision-pro-faq-price-features-hands-on-insights-and-everything-you-need-to-know/) is powerful enough to handle Apple Intelligence on-device features. Still, the keynote did not discuss what would be coming to that device specifically.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The developer story
@@ -153,6 +140,13 @@ Finally, the new Translation API will be unveiled. It will help developers build
 **Also: [Apple unveils an on-device AI image generator for iPhone, iPad, and Mac](https://www.zdnet.com/article/apple-unveils-on-device-ai-image-generator-for-iphone-ipad-and-mac/)**
 
 By equipping developers with these resources, Apple is ensuring that the potential of Apple Intelligence can be fully realized across its ecosystem, driving innovation and enhancing user experiences.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Did Apple go far enough with AI improvements?
 
@@ -194,20 +188,20 @@ Addressing the remaining gaps could enhance Apple's competitive position in the 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/updated-rhythm-and-reel-the-imovie-music-guidebook/"><u>[Updated] Rhythm and Reel The iMovie Music Guidebook</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-synergy-between-youtube-and-creative-commons-licensinas/"><u>[Updated] The Synergy Between YouTube and Creative Commons Licensinas</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/a-detailed-review-of-macos-sequoias-highlights-from-a-ten-year-perspective/"><u>A Detailed Review of macOS Sequoia’s Highlights From a Ten-Year Perspective</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/a-guide-on-evaluating-macbook-battery-condition-and-longevity/"><u>A Guide on Evaluating MacBook Battery Condition and Longevity</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/banish-the-blues-of-manual-updates-in-arch-linux-mastering-auto-sync-for-a-hitchless-pacman-performance/"><u>Banish the Blues of Manual Updates in Arch Linux - Mastering Auto-Sync for a Hitchless Pacman Performance</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/boost-your-linux-productivity-swap-out-basic-commands-for-high-performance-counterparts/"><u>Boost Your Linux Productivity: Swap Out Basic Commands for High-Performance Counterparts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/boost-your-ubuntu-experience-with-these-15-no-terminal-modifications/"><u>Boost Your Ubuntu Experience with These 15 No-Terminal Modifications</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/gearing-up-for-style-and-health-evaluating-the-amazfit-gts-experience/"><u>Gearing Up for Style and Health: Evaluating the Amazfit GTS Experience</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-zte-nubia-flip-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On ZTE Nubia Flip 5G? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-couldnt-load-plugin-errors-on-chrome-in-windows-11/"><u>How to Resolve 'Couldn't Load Plugin' Errors on Chrome in Windows 11</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-honor-magic-v2-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Honor Magic V2 Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-oppo-reno-10-proplus-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Oppo Reno 10 Pro+ 5G with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/is-your-realme-12-proplus-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Realme 12 Pro+ 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mac-mastery-starting-up-in-apples-built-in-recovery-mode-explained/"><u>Mac Mastery: Starting Up in Apple's Built-In Recovery Mode Explained</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/windows-11-marks-the-end-of-microsofts-support-for-android-applications/"><u>Windows 11 Marks the End of Microsoft's Support for Android Applications</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pro-tips-to-elevate-your-headline-game/"><u>[Updated] Pro Tips to Elevate Your Headline Game</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-text-effect-strategies/"><u>2024 Approved Ultimate Text Effect Strategies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/anticipating-the-latest-airpods-launch-insider-info-pre-ordering-guide-and-what-to-expect-from-apples-new-earbuds-zdnet-coverage/"><u>Anticipating the Latest AirPods Launch: Insider Info, Pre-Ordering Guide & What to Expect From Apple's New Earbuds | ZDNET Coverage</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/apple-broadening-iphones-capabilities-with-nfc-for-external-applications-discover-the-benefits-insights/"><u>Apple Broadening iPhone's Capabilities with NFC for External Applications - Discover the Benefits Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/critical-areas-for-enhancement-how-android-can-step-up-its-game-against-ios-according-to-zdnets-analysis/"><u>Critical Areas for Enhancement: How Android Can Step Up Its Game Against iOS, According to ZDNet's Analysis</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/from-observer-to-participant-tips-for-guesting-on-tiktoks/"><u>From Observer to Participant Tips for Guesting on TikToks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/get-your-hands-on-an-amazing-iphone-15-pro-max-for-just-a-penny-unveiling-the-amazon-secret-offer/"><u>Get Your Hands On an Amazing iPhone 15 Pro Max For Just A Penny - Unveiling The Amazon Secret Offer!</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-on-apple-iphone-7-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID On Apple iPhone 7 without Password?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-honor-x9b-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Honor X9b Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/iphone-dominates-securing-top-7-positions-in-worldwide-mobile-phone-market-insights/"><u>IPhone Dominates: Securing Top 7 Positions in Worldwide Mobile Phone Market - Insights</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ring-your-business-niche-the-best-youtube-channels-guide/"><u>Mastering Your Business Niche The Best YouTube Channels Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/stand-out-with-style-ios-and-androids-best-apps-for-adding-stickers/"><u>Stand Out with Style IOS and Android's Best Apps for Adding Stickers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-mini-tablet-computers-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top-Rated Mini Tablet Computers : Comprehensive Reviews by Tech Gurus | ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transforming-homes-with-technology-how-apple-envisions-a-future-with-in-home-robot-assistants-zdnet/"><u>Transforming Homes with Technology: How Apple Envisions a Future with In-Home Robot Assistants | ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-hidden-fixes-for-apex-crashes-on-w11/"><u>Unveiling Hidden Fixes for Apex Crashes on W11</u></a></li>
 </ul></div>
 

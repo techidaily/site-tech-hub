@@ -1,7 +1,7 @@
 ---
 title: "Favorite Phones Spotlighted: The Top Handsets Chosen by ZDNet's Tech Experts"
-date: 2024-10-04T20:14:21.506Z
-updated: 2024-10-09T21:04:52.448Z
+date: 2024-10-19T20:37:22.517Z
+updated: 2024-10-21T18:37:45.522Z
 tags:
   - apple
 categories:
@@ -70,19 +70,6 @@ Pros
 Cons 
 * Lovely design with matte finish back 5G support for all bands Advanced multiple cameras S Pen support Competive pricing High end internal specifications
 
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Samsung Galaxy S21 Ultra
 
 ### Steven J. Vaughan-Nichols and Charlie Osborne
@@ -106,13 +93,6 @@ Pros
 
 Cons 
 * Long battery life Strong performance The camera is very impressive
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## iPhone 12 Pro Max
 
@@ -172,6 +152,13 @@ Cons
 
 ## iPhone 11 Pro
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Ed Bott
 
 **Ed Bott:** I switch between two phones regularly, the iPhone 11 Pro and a newish Galaxy S21 5G, because a lot of what I do requires that I understand both platforms well. I generally stay roughly one generation behind the current models, which avoids hardware teething issues and lets me save a ton of money. I picked up the iPhone, which was only about three months old, from a seller on Swappa, replacing my old iPhone XS and paying about $500 less than a new model would have cost. The Galaxy was a deal from Xfinity Mobile that basically gave me a flagship Samsung phone at half price with no contract or commitment. I like both phones about equally and have been pleasantly surprised by the smoothness of the interface on the Samsung.
@@ -195,13 +182,6 @@ Pros
 
 Cons 
 * Strong battery life Good performance More affordable
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Google Pixel 2
 
@@ -236,20 +216,13 @@ Cons
 * Excellent photo quality Cool color options Long battery life Loud stereo speakers Wireless charging support
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iPhone XR
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Damian Radcliffe, Angelica Mari, and Sean Portnoy
 
@@ -271,25 +244,32 @@ Cons
 
 Show Expert Take Show less 
 
-###   
-
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###   
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+###   
 
 ## iPhone X
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Robin Harris
 
@@ -328,10 +308,10 @@ Purchased in 2016, I've had no reason to upgrade in four years. The thing does a
 ## iPhone 6s Plus
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### David Gewirtz and Iliana Meir
@@ -358,6 +338,13 @@ Show less
 
 ## Samsung Galaxy Note 8
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Charles McLellan
 
 I've been using Samsung's Note 8 for several years now, despite having seen all manner of new and improved flagship phones flow through the reviews system during this period. It's got an excellent 6.3-inch AMOLED display, a 3.5mm headphone slot, MicroSD storage to complement the 64GB on-board, two 12MP cameras at the back, plus an S Pen stylus and IP68 dust/water resistance. It's tough, too: I've broken plenty of phones before, but the Note 8 has survived the longest. Probably reaching the end of the road now, though.
@@ -365,6 +352,13 @@ I've been using Samsung's Note 8 for several years now, despite having seen all 
 **Next phone or dream phone?** A 2021 flagship-class phone with an integrated thermal camera. A thermal camera is a great tool for jobs around the house/office and for seeking out wildlife after dark
 
 Show Expert Take Show less 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###   
 
@@ -398,20 +392,22 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-crescendo-to-connectivity-linking-song-lists-across-platforms/"><u>[New] Crescendo to Connectivity Linking Song Lists Across Platforms</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-essential-guide-to-selecting-the-best-8-open-source-calls/"><u>[New] Essential Guide to Selecting the Best 8 Open Source Calls</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-balancing-focus-zooming-tips-for-clear-instagram-stories/"><u>[Updated] Balancing Focus Zooming Tips for Clear Instagram Stories</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-best-mac-video-trims-top-6-picks-post-snow-leopard/"><u>[Updated] Best Mac Video Trims Top 6 Picks Post-Snow Leopard</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/a-deep-dive-into-distinct-features-contrasting-the-capabilities-of-gpt-and-bert-in-nlp/"><u>A Deep-Dive Into Distinct Features: Contrasting the Capabilities of GPT and BERT in NLP</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-and-auto-tuning-how-to-employ-chatgpt-in-car-personalization-projects/"><u>AI and Auto Tuning: How to Employ ChatGPT in Car Personalization Projects</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-in-action-boosting-crypto-returns-via-chatgpt/"><u>AI in Action: Boosting Crypto Returns via ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-driven-search-evolutions-predicting-changes-to-website-design-and-accessibility/"><u>AI-Driven Search Evolutions: Predicting Changes to Website Design & Accessibility</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-powered-job-market-the-evolutionary-leap/"><u>AI-Powered Job Market – The Evolutionary Leap</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1721981217524-emoji-free-twitter-stream-linuss-hidden-tech-trojans-explained-and-ai-chatbot-woes/"><u>Emoji-Free Twitter Stream, Linus's Hidden Tech, Trojans Explained, & AI ChatBot Woes.</u></a></li>
-<li><a href="https://review-topics.techidaily.com/issues-playing-h-265-hevc-video-on-moto-g-5g-2023-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Issues playing H.265 HEVC video on Moto G 5G (2023)</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/seamless-syncing-techniques-iphone-data-migration-to-windows-11/"><u>Seamless Syncing Techniques: IPhone Data Migration to Windows 11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1722152787358-top-9-benefits-of-switching-to-chatgpt-plus-enhance-your-ai-experience/"><u>Top 9 Benefits of Switching to ChatGPT Plus - Enhance Your AI Experience!</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-your-honor-x50i-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Honor X50i Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>Which is the Best Fake GPS Joystick App On Apple iPhone 7? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-a-friendly-how-to-participating-in-tiktok-livestreams/"><u>[New] 2024 Approved A Friendly How-To Participating in TikTok Livestreams</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-ornate-asian-dwellings-for-your-next-build-off/"><u>[Updated] 2024 Approved Ornate Asian Dwellings for Your Next Build-Off</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-record-to-win-optimizing-your-twitch-broadcasting-skills/"><u>[Updated] 2024 Approved Record to Win Optimizing Your Twitch Broadcasting Skills</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/erase-distractions-top-video-blur-apps-for-face-and-background/"><u>Erase Distractions Top Video Blur Apps for Face and Background</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gpt-4-versus-gpt-nturbo-vs-gpt-4o-a-comprehensive-differentiation-guide/"><u>GPT-4 Versus GPT-nTurbo Vs. GPT-4o: A Comprehensive Differentiation Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gpt-4-without-cost-nevertheless-plus-membership-holds-6-crucial-amenities/"><u>GPT-4, Without Cost; Nevertheless, Plus Membership Holds 6 Crucial Amenities.</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-chatgpts-real-time-data-retrieval-transforms-the-information-landscape/"><u>How ChatGPT's Real-Time Data Retrieval Transforms the Information Landscape</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-does-the-openai-bug-hunt-work-learn-about-their-reward-system-and-get-started/"><u>How Does the OpenAI Bug Hunt Work? Learn About Their Reward System & Get Started!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-properly-view-all-films-in-the-conjuring-series-together/"><u>How to Properly View All Films in the 'Conjuring' Series Together</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/implementing-productivity-strategies-the-role-of-chatgpt-in-streamlining-operations/"><u>Implementing Productivity Strategies: The Role of ChatGPT in Streamlining Operations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/improving-dall-e-t3s-inbuilt-editing-features-current-capabilities-and-room-for-growth/"><u>Improving DALL-E T3's Inbuilt Editing Features: Current Capabilities and Room for Growth</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovation-infusion-chatgpts-role-in-elevating-creative-output/"><u>Innovation Infusion: ChatGPT's Role in Elevating Creative Output</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-chatgpts-bespoeke-commands-capability-understanding-its-purpose-and-potential/"><u>Mastering ChatGPT's Bespoeke Commands Capability - Understanding Its Purpose & Potential</u></a></li>
+<li><a href="https://fox-links.techidaily.com/miniature-film-script-sketch/"><u>Miniature Film Script Sketch</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/0-free-youtube-channels-for-exceptional-art-creation-for-2024/"><u>Top 10 FREE YouTube Channels for Exceptional Art Creation for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-gaming-on-a-budget-top-10-free-game-download-sites-for-pc-and-android-for-2024/"><u>Updated Gaming on a Budget Top 10 Free Game Download Sites for PC and Android for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/winning-against-malfunction-a-comprehensive-fix-for-madden-20s-pc-crash-dilemma/"><u>Winning Against Malfunction: A Comprehensive Fix for Madden 20'S PC Crash Dilemma</u></a></li>
 </ul></div>
 
