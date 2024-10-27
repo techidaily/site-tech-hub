@@ -1,7 +1,7 @@
 ---
 title: "Record Lows for Apple Watch Ultra: Save Big This Season as Spotted on ZDNet!"
-date: 2024-10-15T17:14:29.757Z
-updated: 2024-10-21T19:14:26.144Z
+date: 2024-10-20T16:11:19.402Z
+updated: 2024-10-27T17:12:51.785Z
 tags:
   - apple
 categories:
@@ -41,10 +41,10 @@ ZDNET rounded up the best holiday deals on Apple iPads you can buy now, but thes
 * [Apple iPad Pro 12.9-inch (2022)](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/tablets/apple-ipad-pro-12-9-inch-2022.html): $33.34/month ($100 off at AT&T with qualifying service)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Best iPad accessory, case deals
@@ -104,10 +104,10 @@ If you would prefer the smaller iPad Mini, Amazon has another deal that might in
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2021-Apple-iPad-Mini-Wi-Fi%2Fdp%2FB09G9DQDDQ%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C72ea2c00-eaf4-4278-983b-40c54372b4e7%7Cdtp&dtb=1) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How did we choose these holiday deals?
@@ -116,27 +116,27 @@ ZDNET only writes about deals we want to buy -- devices and products we want, ne
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What's the best iPad?
 
 ZDNET editors have gone hands-on with every iPad model, and named the latest iPad Pro (2022) the best iPad overall, thanks to its M2 processor and fast performance.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What's the best iPad for kids?
 
 If you're looking to buy an iPad as a holiday gift for the child in your life, we'd recommend the latest iPad Air (5th gen., 2022). It's lightweight, but still packs in great performance for the lower price tag. You can find iPad Air models on sale in our list above.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What are the best holiday deals?
 
@@ -206,19 +206,24 @@ ZDNET's experts have been searching for holiday deals across sites like Amazon, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-live-streaming-on-mac-os-costless-option/"><u>[New] Live Streaming on Mac OS - Costless Option</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-mastering-ppt-perfecting-your-voiceover-artistry/"><u>2024 Approved Mastering PPT Perfecting Your Voiceover Artistry</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/confronting-chatgpt-how-googles-new-artificial-intelligence-bard-is-shaping-up/"><u>Confronting ChatGPT: How Google's New Artificial Intelligence 'Bard' Is Shaping Up</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/conquer-everyday-worries-discover-how-chatgpt-can-assist-you/"><u>Conquer Everyday Worries: Discover How ChatGPT Can Assist You</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/dissecting-artificinas-intelligent-processes-inside-black-boxes/"><u>Dissecting Artificinas Intelligent Processes: Inside Black Boxes</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/easy-steps-to-master-apowersofts-streaming-audio-recorder/"><u>Easy Steps to Master Apowersoft's Streaming Audio Recorder</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/effective-ai-prompt-strategies-7-proven-techniques-for-success/"><u>Effective AI Prompt Strategies: 7 Proven Techniques for Success</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/elevate-your-artistic-vision-utilizing-microsofts-copilot-for-ai-creation/"><u>Elevate Your Artistic Vision: Utilizing Microsoft's Copilot for AI Creation</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/essential-tips-for-efficient-camera-roll-upload-to-snapchat/"><u>Essential Tips for Efficient Camera Roll Upload to Snapchat</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/evaluating-the-credibility-of-ai-assistants-like-chatgpt-and-bard-for-fiscal-recommendations/"><u>Evaluating the Credibility of AI Assistants Like ChatGPT and Bard for Fiscal Recommendations</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-xiaomi-redmi-note-12t-pro-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Xiaomi Redmi Note 12T Pro to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723862856242-inside-look-devoted-ahead-of-computex-newly-certified-msi-arrow-lake-s-ready-boards-z890-and-b8n60-unveiled/"><u>Inside Look: Devoted Ahead of Computex, Newly Certified MSI Arrow Lake S Ready Boards Z890 & B8n60 Unveiled</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/mobile-and-desktop-tips-for-gotomeeting-captures-for-2024/"><u>Mobile & Desktop Tips for GoToMeeting Captures for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-guide-seamless-transition-from-mjpeg-to-h264-using-top-ranked-video-converters/"><u>Ultimate Guide: Seamless Transition From MJPEG to H.264 Using Top-Ranked Video Converters</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-essential-tips-for-crafting-engaging-facebook-reels/"><u>[Updated] Essential Tips for Crafting Engaging Facebook Reels</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-detailed-guide-to-capturing-spherical-panoramic-shots/"><u>[Updated] In 2024, Detailed Guide to Capturing Spherical Panoramic Shots</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-close-up-cinematography-essential-guidelines/"><u>2024 Approved Mastering Close-Up Cinematography Essential Guidelines</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/amd-radeon-rx-470-secure-your-download-and-update-graphic-drivers-with-confidence/"><u>AMD Radeon RX 470 - Secure Your Download & Update Graphic Drivers with Confidence</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bridging-mythos-and-tech-enhancing-dungeons-and-dragons-characters-with-gpt-and-dall-e/"><u>Bridging Mythos and Tech: Enhancing Dungeons & Dragons Characters with GPT & DALL-E</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/choosing-the-right-format-dvd-blu-ray-or-digital-files-whats-your-best-bet/"><u>Choosing the Right Format: DVD, Blu-Ray or Digital Files – What's Your Best Bet?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/demystifying-gemini-googles-latest-ai-research-venture/"><u>Demystifying Gemini: Google’s Latest AI Research Venture</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/digital-side-hustles-and-console-revival/"><u>Digital Side Hustles & Console Revival</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-leading-10-chatbot-options-beyond-chatgpt/"><u>Discover the Leading 10 Chatbot Options Beyond ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/get-your-next-trip-in-order-fast-check-out-these-7-free-ai-and-chatgpt-enabled-itinerary-creators/"><u>Get Your Next Trip in Order Fast: Check Out These 7 FREE AI & ChatGPT Enabled Itinerary Creators</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/google-bard-alert-the-risks-and-reasons-you-should-avoid-downloading-this-app/"><u>Google Bard Alert: The Risks and Reasons You Should Avoid Downloading This App</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-lock-on-apple-iphone-se-2022-by-drfone-ios/"><u>How to Bypass iCloud Lock on Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-the-problem-when-call-of-duty-warzone-fails-to-launch/"><u>How to Resolve the Problem When Call of Duty Warzone Fails to Launch</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/teaching-chatgpt-to-emulate-your-writing-technique-step-by-step-guide/"><u>Teaching ChatGPT to Emulate Your Writing Technique: Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/uncharted-territory-5-advanced-gpt-functions-for-enthusiasts/"><u>Uncharted Territory: 5 Advanced GPT Functions for Enthusiasts</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/update-intel-graphics-3000-driver-for-windows-10-easily/"><u>Update Intel Graphics 3000 Driver for Windows 10. Easily</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-xiaomi-civi-3-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Xiaomi Civi 3 Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/which-conversational-engine-reigns-supreme-chatgpt-versus-claude-ai-showdown/"><u>Which Conversational Engine Reigns Supreme? ChatGPT Versus Claude AI Showdown</u></a></li>
 </ul></div>
 

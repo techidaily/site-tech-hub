@@ -1,7 +1,7 @@
 ---
 title: Exploring Top 5 Innovations in iOS 18 Showcased at WWDC 2024, with a Spotlight on Emerging AI Capabilities – Insights
-date: 2024-10-14T21:47:27.096Z
-updated: 2024-10-21T21:31:27.246Z
+date: 2024-10-22T16:33:16.749Z
+updated: 2024-10-27T17:44:09.773Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ For one, Apple is planning to offer AI-generated emojis that show up in text mes
 Here's the big question: Which AI provider will Apple partner with to power [iOS 18's AI features](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/)? Some reports have said that Apple is nearing a deal with OpenAI; other reports have suggested the iPhone maker is also talking to Google about using Gemini, as well as to Anthropic. Which provider Apple chooses could significantly impact how AI features work in iOS 18.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Serious customization
@@ -64,10 +64,10 @@ One of the hallmarks of Apple's design philosophy over the years has centered on
 According to Gurman's sources, [Apple will allow full iOS 18 customization this year](https://www.zdnet.com/article/apple-is-finally-adding-an-ios-home-screen-feature-that-android-has-had-for-15-years/). The feature would enable you to change the colors of app icons and -- perhaps most remarkably -- to ditch the grid layout of apps in favor of a free form option of your choosing. Apple's iOS has lagged behind Google's Android in enabling home screen customization, so it's nice to see the company consider opening things up.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. RCS
@@ -79,16 +79,10 @@ Although it's already been announced, Apple this year [will adopt](https://www.z
 Apple said earlier this year that it would launch RCS support for Android communication later in 2024\. Chances are, it'll launch on iOS 18, and finally, communicating with Android users will be streamlined for iPhone users.
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. An Apple Maps boost
@@ -98,16 +92,10 @@ According to several reports, Apple is planning a pretty big update to Apple Map
 For one, Apple is reportedly planning to offer users the opportunity to create custom routes, so they can decide for themselves if they want to take the scenic route or try to get to their destination in the fastest time possible. The company may also add a topographical mapping feature, but it's the ability to create a custom route -- a feature Google Maps has long offered -- that could be the most compelling improvement.
 
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Smart Recaps, anyone?
@@ -148,20 +136,24 @@ In iOS 18, Apple is trying to address that with a rumored Smart Recaps feature. 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-mastering-iphone-macro-photography-detailed-images-at-your-fingertips/"><u>[New] In 2024, Mastering iPhone Macro Photography Detailed Images at Your Fingertips</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-building-brands-through-innovative-design-work/"><u>[Updated] 2024 Approved Building Brands Through Innovative Design Work</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-livestreaming-titan-face-off-for-2024/"><u>[Updated] LiveStreaming Titan Face-Off for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/achieving-success-the-possibility-of-defeating-the-turing-test-with-ai/"><u>Achieving Success: The Possibility of Defeating the Turing Test with AI</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-in-counseling-unveiling-9-potential-pitfalls-and-dangers-you-need-to-know/"><u>AI in Counseling: Unveiling 9 Potential Pitfalls and Dangers You Need to Know</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-powered-sound-editing-how-to-use-chatgpt-within-a-daw-for-next-level-mixes/"><u>AI-Powered Sound Editing: How to Use ChatGPT Within a DAW for Next-Level Mixes</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1721749812823-eager-for-a-gpt-powered-desktop-experience-discover-this-top-open-source-alternative/"><u>Eager for a GPT-Powered Desktop Experience? Discover This Top Open Source Alternative</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/festplattenentfernung-vereinfacht-prozedur-zur-schnellen-loschung-der-zweiten-speicherkarte/"><u>Festplattenentfernung Vereinfacht - Prozedur Zur Schnellen Löschung Der Zweiten Speicherkarte</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1722014996106-gpt-4-open-to-all-yet-premium-users-reap-6-exclusive-advantages/"><u>GPT-4: Open to All; Yet, Premium Users Reap 6 Exclusive Advantages</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-meizu-21-pro-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Meizu 21 Pro FRP In 3 Different Ways</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-perfecting-picture-clarity-efficiently-eradicating-backgrounds/"><u>In 2024, Perfecting Picture Clarity Efficiently Eradicating Backgrounds</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1721924674677-leverage-chatgpts-potential-in-cryptocurrency-conversations-top-10-expertly-crafted-prompts/"><u>Leverage ChatGPT's Potential in Cryptocurrency Conversations: Top 10 Expertly Crafted Prompts</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-nubia-red-magic-9-pro-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Nubia Red Magic 9 Pro</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/quick-guide-to-producing-single-person-flipbooks-in-batches-using-flipbuilders-features/"><u>Quick Guide to Producing Single-Person Flipbooks in Batches Using FlipBuilder's Features</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/vs-video-edition-gopro-hero-or-polaroid-cube/"><u>Vs. Video Edition GoPro Hero or Polaroid Cube?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-best-ios-tools-for-psp-gaming-top-5/"><u>[New] 2024 Approved Best iOS Tools for PSP Gaming, Top 5</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-discovering-the-best-screen-recorder-obs-studio-vs-fraps/"><u>[New] In 2024, Discovering the Best Screen Recorder OBS Studio Vs Fraps</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-insiders-guide-to-ultimate-audio-equipment/"><u>[New] The Insider's Guide to Ultimate Audio Equipment</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-pinpointing-personalities-pinning-friends-on-snapchat/"><u>2024 Approved Pinpointing Personalities Pinning Friends on Snapchat</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-quieting-audible-outputs-a-windowsmac-guide/"><u>2024 Approved Quieting Audible Outputs A Windows/Mac Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unveiling-top-8-premium-marriage-videos-on-video-platforms/"><u>2024 Approved Unveiling Top 8 Premium Marriage Videos on Video Platforms</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-showdown-determining-which-is-superior-google-bard-or-bing-chat/"><u>AI Showdown: Determining Which Is Superior - Google Bard or Bing Chat?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-stabilized-gimbals-for-mobile-and-pro-cameras-unveiled/"><u>Best Stabilized Gimbals for Mobile and Pro Cameras Unveiled</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-you-circumvent-gpts-character-cap/"><u>Can You Circumvent GPT's Character Cap?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-you-trust-ai-like-chatgpt-to-design-your-personalized-secure-fitness-plan-without-compromising-on-efficiency/"><u>Can You Trust AI Like ChatGPT to Design Your Personalized, Secure Fitness Plan Without Compromising on Efficiency?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-registration-locked-unveiling-the-reasons-behind-closure-and-anticipated-access-windows/"><u>ChatGPT Registration Locked: Unveiling the Reasons Behind Closure & Anticipated Access Windows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/harnessing-the-power-of-microsofts-copilot-for-unique-ai-image-creation-tips-and-tricks/"><u>Harnessing the Power of Microsoft's Copilot for Unique AI Image Creation: Tips and Tricks</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Infinix Hot 40i? | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/masterclass-review-the-mavix-m9-your-key-to-effortless-hours-of-gaming-comfort/"><u>Masterclass Review: The Mavix M9 - Your Key to Effortless Hours of Gaming Comfort</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-ai-revolution-in-depth-understanding-of-openai-explained/"><u>Mastering the AI Revolution: In-Depth Understanding of OpenAI Explained</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/streamlining-pc-chatter-with-nvidias-rtx-assistant/"><u>Streamlining PC Chatter with Nvidia's RTX Assistant</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-endless-possibilities-with-openais-new-gpt-custom-store-get-started-immediately/"><u>Unlock Endless Possibilities with OpenAI's New GPT Custom Store – Get Started Immediately</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-top-7-online-auto-subtitle-translators-for-content-creators-for-2024/"><u>Updated Top 7 Online Auto Subtitle Translators for Content Creators for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-you-should-trust-chatgpt-with-your-health-queries-a-seven-point-guide/"><u>Why You Should Trust ChatGPT with Your Health Queries: A Seven-Point Guide</u></a></li>
 </ul></div>
 

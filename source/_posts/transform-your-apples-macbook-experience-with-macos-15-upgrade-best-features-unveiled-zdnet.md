@@ -1,7 +1,7 @@
 ---
 title: Transform Your Apples MacBook Experience with macOS 15 Upgrade - Best Features Unveiled | ZDNET
-date: 2024-10-18T20:33:31.758Z
-updated: 2024-10-21T20:40:57.056Z
+date: 2024-10-24T16:26:11.723Z
+updated: 2024-10-27T17:16:28.754Z
 tags:
   - apple
 categories:
@@ -35,13 +35,6 @@ While we weren't expecting the company to unveil a slew of [flashy generative AI
 Apple was expected to focus on incorporating AI into its apps to simplify users' daily tasks, categorizing such AI features under the name "Apple Intelligence." We didn't miss the wordplay.
 
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What does Apple Intelligence do?
 
@@ -103,10 +96,10 @@ The same feature can help users make major edits to text, such as changing the t
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is Image Playground?
@@ -121,6 +114,13 @@ In the Notes app, for example, a new tool called Image Wand will let you circle 
 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
 
 Apple
@@ -132,13 +132,6 @@ When users make a Siri request that the voice assistant determines would be bett
 **Also: [Apple finally gave us the iPad app we've waited 14 years for at WWDC 2024](https://www.zdnet.com/article/apple-finally-gave-us-the-ipad-app-weve-waited-14-years-for-at-wwdc-2024/)**
 
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Will Apple Intelligence be processed on-device or in the cloud?
 
@@ -157,10 +150,10 @@ Apple is leveraging what it calls Private Cloud Compute for complex tasks that r
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is Apple Intelligence actually private and secure?
@@ -177,6 +170,19 @@ The company is striving to keep the AI features secure through several mechanism
 * **Independent code review:** With Private Cloud Compute, Apple explained that the code is available for independent experts to inspect and verify it meets privacy standards.
 * **Data encryption:** Apple encrypts all data sent to and from its servers as another layer of security.
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
+
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
 
@@ -218,21 +224,18 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-event-harmony-sourcing-perfect-dj-video-templates/"><u>[New] In 2024, Event Harmony Sourcing Perfect DJ Video Templates</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-complete-annihilation-of-youtube-shorts-accessibility/"><u>2024 Approved Complete Annihilation of YouTube Shorts Accessibility</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/affordable-luxury-at-your-fingertips-the-lenovo-tab-m10s-fhd-plus-screen-unveiled-review/"><u>Affordable Luxury at Your Fingertips: The Lenovo Tab M10's FHD Plus Screen Unveiled (Review)</u></a></li>
-<li><a href="https://fox-that.techidaily.com/cant-see-notifications-on-your-iphone-here-are-7-ways-to-fix-them/"><u>Can't See Notifications on Your iPhone? Here Are 7 Ways to Fix Them</u></a></li>
-<li><a href="https://fox-place.techidaily.com/discover-the-best-online-stores-for-print-ready-images-after-using-flipbuilder-tools/"><u>Discover the Best Online Stores for Print-Ready Images After Using FlipBuilder Tools</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/enhance-online-traffic-through-the-efficient-use-of-cookiebot-software/"><u>Enhance Online Traffic Through the Efficient Use of Cookiebot Software</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/excel-productivity-boosters-the-3-most-effective-ways-to-leverage-chatgpt/"><u>Excel Productivity Boosters: The 3 Most Effective Ways to Leverage ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-potential-security-risks-in-chatgpt/"><u>Exploring Potential Security Risks in ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exposing-cyber-fraud-7-ai-methods-used-in-romance-scam-schemes/"><u>Exposing Cyber-Fraud: 7 AI Methods Used in Romance Scam Schemes</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/extracting-eroded-exchanges-from-gpt/"><u>Extracting Eroded Exchanges From GPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/free-access-to-dall-e-3-through-microsofts-bing-a-step-by-step-guide/"><u>Free Access to DALL-E 3 Through Microsoft's Bing - A Step by Step Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-chatgpt-can-transform-your-daily-schedule-discover-four-key-tips/"><u>How ChatGPT Can Transform Your Daily Schedule - Discover Four Key Tips!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-does-response-size-work-in-conversations-with-chatgpt/"><u>How Does Response Size Work in Conversations with ChatGPT?</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/euroscience-insights-enhance-effective-corporate-governance/"><u>How Neuroscience Insights Enhance Effective Corporate Governance</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-free-green-screens-for-cinematic-artists/"><u>In 2024, Free Green Screens for Cinematic Artists</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/understanding-hue-and-saturation-gopro-studio-edition-for-2024/"><u>Understanding Hue and Saturation GoPro Studio Edition for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-capture-every-day-in-the-life-of-your-sims-with-pro-tips-for-gameplay-recordings/"><u>[New] Capture Every Day in the Life of Your Sims with Pro Tips for Gameplay Recordings</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-establish-lasting-content-partnerships-with-youtubers/"><u>[Updated] In 2024, How to Establish Lasting Content Partnerships with YouTubers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-the-ultimate-checklist-for-using-firefoxs-popup-window/"><u>2024 Approved The Ultimate Checklist for Using Firefox's Popup Window</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-video-editing-fixing-youtube-short-fails/"><u>2024 Approved Video Editing Fixing YouTube Short Fails</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bard-or-bing-chat-deciding-on-the-leading-conversational-ai/"><u>Bard or Bing Chat: Deciding on the Leading Conversational AI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-as-a-tool-for-fitness-coaches-crafting-custom-exercise-routines-easily/"><u>ChatGPT as a Tool for Fitness Coaches: Crafting Custom Exercise Routines Easily</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ing-the-algorithm-behind-youtube-shorts/"><u>Decoding the Algorithm Behind YouTube Shorts</u></a></li>
+<li><a href="https://article-posts.techidaily.com/discerning-podcasters-average-incomes/"><u>Discerning Podcasters' Average Incomes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discovering-truthgpt-behind-the-scenes-crackdown-on-mullvad-vpn-by-police-authorities-top-freely-available-pc-gaming-experiences-understanding-the-world-of-53/"><u>Discovering TruthGPT - Behind-the-Scenes | Crackdown on Mullvad VPN by Police Authorities | Top Freely Available PC Gaming Experiences | Understanding the World of Mechanical Keyboards</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-storytelling-6-gpt-powered-strategies/"><u>Mastering Storytelling: 6 GPT-Powered Strategies</u></a></li>
+<li><a href="https://win-docs.techidaily.com/redesigning-with-flip-maker-tutorial-on-importing-and-editing-projects-seamlessly/"><u>Redesigning with Flip Maker: Tutorial on Importing and Editing Projects Seamlessly</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionary-artificial-intelligence-set-to-transform-do-it-yourself-sector-with-arrival-of-gpt-4/"><u>Revolutionary Artificial Intelligence Set to Transform Do-It-Yourself Sector with Arrival of GPT-4</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-the-potential-of-chatgpt-on-your-macos-device/"><u>Unlock the Potential of ChatGPT on Your macOS Device</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Uncover Apple's New Tech Magic for iPhone/iPad/Mac with This Fall’s Revolutionary Updates Including Artificial Intelligence | Expert Analysis
-date: 2024-10-14T21:41:12.750Z
-updated: 2024-10-21T18:15:53.945Z
+date: 2024-10-26T17:45:43.474Z
+updated: 2024-10-27T18:01:06.814Z
 tags:
   - apple
 categories:
@@ -61,10 +61,10 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -74,19 +74,6 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
-
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -106,19 +93,6 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -133,6 +107,13 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -142,6 +123,13 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -171,13 +159,6 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -185,6 +166,13 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -230,22 +218,17 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-content-creators-den/"><u>[Updated] Content Creator's Den</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-mastering-the-art-of-data-visualization-for-effective-communication/"><u>[Updated] Mastering the Art of Data Visualization for Effective Communication</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/comprehensive-guide-to-the-eufy-security-s350-camera-superior-tracking-and-motion-notification-performance-reviewed/"><u>Comprehensive Guide to the Eufy Security S350 Camera: Superior Tracking and Motion Notification Performance Reviewed</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/discover-10-secret-followers-on-stories/"><u>Discover 10 Secret Followers on Stories</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-xiaomi-redmi-note-12-4g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Xiaomi Redmi Note 12 4G For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-creating-seamless-connections-spotify-to-youtube-music-conversion/"><u>In 2024, Creating Seamless Connections Spotify to YouTube Music Conversion</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Oppo A56s 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/innovative-techniques-for-developing-a-tailored-chatgpt-experience-using-ai-models/"><u>Innovative Techniques for Developing a Tailored ChatGPT Experience Using AI Models</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/inside-claude-ai-revolutionizing-the-workflow-across-sectors/"><u>Inside Claude AI: Revolutionizing the Workflow Across Sectors</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-it-better-to-use-gemini-advanced-over-chatgpt-plus-lets-find-out/"><u>Is It Better to Use Gemini Advanced Over ChatGPT Plus? Let's Find Out</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Oppo Find X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mac-users-manual-how-to-implement-microsoft-copilot-seamlessly/"><u>Mac Users' Manual: How to Implement Microsoft Copilot Seamlessly</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/maximize-your-productivity-with-these-top-10-chatgpt-and-pdf-merge-tools/"><u>Maximize Your Productivity with These Top 10 ChatGPT & PDF Merge Tools</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/misleading-claims-no-win-client-of-gpt-as-virus/"><u>Misleading Claims: No Win Client of GPT as Virus</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/no-more-delays-get-your-hands-on-this-open-source-tool-instead-of-the-pending-chatgpt-app/"><u>No More Delays: Get Your Hands on This Open Source Tool Instead of the Pending ChatGPT App</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/pondering-the-plodding-progress-chatgpt-4-versus-35/"><u>Pondering the Plodding Progress: ChatGPT-4 Versus 3.5</u></a></li>
-<li><a href="https://windows11.techidaily.com/taming-the-walls-of-windows-icons/"><u>Taming the Walls of Windows Icons</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-capturing-cultures-a-step-by-step-guide-for-aspiring-travel-vloggers/"><u>[New] 2024 Approved Capturing Cultures A Step-by-Step Guide for Aspiring Travel Vloggers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-step-by-step-harvesting-hundreds-of-tiktok-videos/"><u>[Updated] Step-by-Step Harvesting Hundreds of TikTok Videos</u></a></li>
+<li><a href="https://media-tips.techidaily.com/1-successful-steps-to-viewing-mp4-videos-a-comprehensive-guide-for-all-ipads-mini-air-and-pro/"><u>1. Successful Steps to Viewing MP4 Videos: A Comprehensive Guide for All iPads (Mini, Air, and Pro)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-realme-narzo-60-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/celebrate-star-wars-day-in-style-acemagics-mini-desktop-inspired-by-the-legendary-x-wing-fighter/"><u>Celebrate Star Wars Day in Style: AceMagic's Mini Desktop Inspired by the Legendary X-Wing Fighter</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-realme-11x-5g-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Realme 11X 5G for Free? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-conversations-a-guide-to-effective-messaging-in-mozilla-thunderbird/"><u>Mastering Conversations: A Guide to Effective Messaging in Mozilla Thunderbird</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-cura-solving-the-6-most-recurring-issues-quickly-and-easily/"><u>Mastering Cura: Solving the 6 Most Recurring Issues Quickly & Easily</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/success-strategies-and-common-errors-with-chatgpt-as-a-writer/"><u>Success Strategies and Common Errors with ChatGPT as a Writer</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-chatgpts-maximum-message-length-strategies-to-exceed-the-characters-allowed/"><u>Understanding ChatGPT's Maximum Message Length: Strategies to Exceed the Characters Allowed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/visionary-voyage-harnessing-gpt-3-plus-mindmap-thinking/"><u>Visionary Voyage: Harnessing GPT-3 + Mindmap Thinking</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/windows-10-compatibility-with-directx-12-download-instructions-simplified/"><u>Windows 10 Compatibility with DirectX 12: Download Instructions Simplified</u></a></li>
 </ul></div>
 

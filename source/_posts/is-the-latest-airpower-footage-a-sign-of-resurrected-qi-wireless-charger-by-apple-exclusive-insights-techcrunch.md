@@ -1,7 +1,7 @@
 ---
 title: Is the Latest AirPower Footage a Sign of Resurrected Qi Wireless Charger by Apple? Exclusive Insights | TechCrunch
-date: 2024-10-15T21:26:30.355Z
-updated: 2024-10-21T18:29:51.100Z
+date: 2024-10-24T17:30:08.636Z
+updated: 2024-10-27T16:24:05.579Z
 tags:
   - apple
 categories:
@@ -48,6 +48,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Leverage ethical AI and privacy as a competitive advantage
 
 Emphasizing [ethical AI](https://www.zdnet.com/article/how-we-can-harness-the-power-of-generative-ai-ethically/) development will ensure fairness, transparency, and accountability. Ethical AI involves addressing biases in AI models, ensuring AI decisions are explainable, and adhering to principles that prevent misuse or harm. This approach will help build trust and set a high standard in the AI industry.
@@ -61,10 +68,10 @@ Providing private or family-specific AI instances would further enhance privacy 
 By focusing on these principles, Apple can lead by example and set new benchmarks in developing and deploying ethical AI.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Integrate seamlessly with third-party services and partner with multiple AI providers
@@ -81,6 +88,13 @@ Apple should also incorporate [Retrieval-Augmented Generation](https://www.zdnet
 
 Partnering with multiple AI providers, including specialists in natural language processing, computer vision, and machine learning, will bring cutting-edge innovations and accelerate the development of advanced features across Apple's ecosystem. This multi-partner approach reduces the risk of over-reliance on a single provider, increases resilience, and allows Apple to tailor AI solutions to different markets and user segments.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Deploy AI-accelerated appliances on the edge with dedicated cloud capacity
 
 To meet the growing demand for fast application response times, I believe Apple should consider using AI-accelerated edge devices capable of handling complex AI tasks locally. This would help reduce latency and improve overall performance. Apple's vertically integrated supply chain will likely involve AI servers powered by M2 Ultra and M4 chips, especially within its data centers. This setup would ensure seamless integration with Apple's software and provide greater control over performance and security. Localized processing can be enabled by placing these devices strategically in regional and metropolitan data centers, reducing the reliance on internet bandwidth.
@@ -88,13 +102,6 @@ To meet the growing demand for fast application response times, I believe Apple 
 **Also: [AI at the edge: 5G and the Internet of Things see fast times ahead](https://www.zdnet.com/article/ai-at-the-edge-fast-times-ahead-for-5g-and-the-internet-of-things/)**
 
 Additionally, Apple could collaborate with cloud-based AI providers to manage complex AI tasks in the cloud when necessary. Combining edge and cloud resources, this hybrid approach would create a robust and scalable AI infrastructure that supports real-time AI applications such as augmented reality, language translation, and advanced data analytics.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Enhance proactive assistance and personalization
 
@@ -105,13 +112,6 @@ Apple's AI should proactively anticipate user needs and provide personalized exp
 AI can enhance contextual awareness by integrating with sensors and data sources on Apple devices. For example, starting a workout on Fitness+ could prompt AI to suggest a matching Apple Music playlist, monitor health metrics in real-time with Apple Watch, and provide motivational prompts. AI can analyze user behavior to offer smart recommendations for content, activities, and products, acting as a personal assistant attuned to individual tastes.
 
 Proactive health and wellness features could remind users to take medication via the Health app, suggest wellness tips based on activity levels tracked by Apple Watch, and offer mental health support through mindfulness reminders. Personalized routines on Apple devices, like HomePod adjusting lighting based on daily habits, will enhance user experiences.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Ensure AI shines across all products and services
 
@@ -130,10 +130,10 @@ Leveraging AI to enhance HomeKit's capabilities is essential, especially since H
 Integrating AI across all devices ensures a seamless user experience. Preferences and data from one device would then inform recommendations on another, creating a unified ecosystem.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Apple wins the generative AI race
@@ -178,14 +178,18 @@ For consumers, the AI race is about trust, user experience, and integrating adva
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-astute-beginners-treatise-on-vector-types-and-software-selection/"><u>[New] Astute Beginners' Treatise on Vector Types & Software Selection</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/20-anker-battery-pack-the-ultimate-solution-for-your-portable-charger-woes-insights-from-zdnet/"><u>$20 Anker Battery Pack: The Ultimate Solution for Your Portable Charger Woes - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/comprehensive-list-of-apple-watches-compatible-with-watchos-11-models-excluded/"><u>Comprehensive List of Apple Watches Compatible with WatchOS 11 – Models Excluded</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-the-most-secure-and-stylish-smart-lock-perfect-for-your-iphone-without-sacrificing-aesthetics-zdnet/"><u>Discover The Most Secure & Stylish Smart Lock Perfect for Your iPhone Without Sacrificing Aesthetics | ZDNET</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-8-plus-to-roku-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 8 Plus to Roku? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-utilize-chatgpt-connection-hyperlinks-effectively/"><u>How to Utilize ChatGPT Connection Hyperlinks Effectively</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-paying-up-to-20-a-month-for-enhanced-apple-features-worth-it-industry-predictions-revealed/"><u>Is Paying Up to $20 a Month for Enhanced Apple Features Worth It? Industry Predictions Revealed</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solve-common-iphone-screen-problems-with-these-simple-steps/"><u>Solve Common iPhone Screen Problems with These Simple Steps</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-ai-its-role-rewards-and-risks-unveiled/"><u>Understanding AI: Its Role, Rewards & Risks Unveiled</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-simplifying-your-snapchat-experience-3-essential-steps/"><u>[New] Simplifying Your Snapchat Experience - 3 Essential Steps</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-unveiling-trillers-unique-strategy-in-the-world-of-online-videos-for-2024/"><u>[Updated] Unveiling Triller's Unique Strategy in the World of Online Videos for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-photos-from-motorola-by-fonelab-android-recover-photos/"><u>Best Android Data Recovery - Retrieve Lost Photos from Motorola .</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comparing-ai-minds-gpt-4-vs-gpt-35-analysis/"><u>Comparing AI Minds: GPT-4 Vs. GPT-3.5 Analysis</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/from-blurry-snaps-to-stunning-shots-learn-lunapic-editing-for-2024/"><u>From Blurry Snaps to Stunning Shots Learn LunaPic Editing for 2024</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/os-melhores-metodos-para-configurar-a-sincronizacao-automatica-de-arquivos-no-windows-versoes-11-10-8-e-7/"><u>Os Melhores Métodos Para Configurar a Sincronização Automática De Arquivos No Windows: Versões 11, 10, 8 E ^[7]</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-quest-for-authenticity-differentiating-fake-from-genuine-ai-outputs/"><u>The Quest for Authenticity: Differentiating Fake From Genuine AI Outputs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-rise-of-chatbots-do-platforms-like-chatgpt-pose-a-threat-to-conventional-search-engines/"><u>The Rise of Chatbots: Do Platforms Like ChatGPT Pose a Threat to Conventional Search Engines?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-10-chatgpt-powered-pdf-tools-to-boost-your-productivity/"><u>Top 10 ChatGPT-Powered PDF Tools to Boost Your Productivity</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-10-tips-enhancing-your-workflow-using-chatgpt-in-visual-studio-code/"><u>Top 10 Tips: Enhancing Your Workflow Using ChatGPT in Visual Studio Code</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transforming-tabletop-gaming-6-strategies-for-integrating-chatgpt-as-the-ideal-dungeon-master/"><u>Transforming Tabletop Gaming: 6 Strategies for Integrating ChatGPT as the Ideal Dungeon Master</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/try-out-these-6-free-generative-pre-trained-transformer-replacements-today/"><u>Try Out These 6 Free Generative Pre-Trained Transformer Replacements Today</u></a></li>
 </ul></div>
 

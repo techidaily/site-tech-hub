@@ -1,7 +1,7 @@
 ---
 title: "Mastering MacOS with Craft: The Ultimate Guide to Using This Remarkable Document Editor"
-date: 2024-10-20T18:15:43.676Z
-updated: 2024-10-21T18:47:45.566Z
+date: 2024-10-23T17:40:46.398Z
+updated: 2024-10-27T16:23:49.627Z
 tags:
   - apple
 categories:
@@ -36,10 +36,10 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -63,10 +63,10 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -80,16 +80,10 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -140,16 +134,15 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/1725285988890-winxdvd/"><u>联合WinXDVD功能，丰富数据库存储选项</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-iphone-transfer-transfer-contact-from-apple-iphone-15-plus-to-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, iPhone Transfer Transfer Contact from Apple iPhone 15 Plus to iPhone without iCloud | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-oppo-find-n3-flip-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Oppo Find N3 Flip to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-honor-play-7tfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Honor Play 7TFRP Lock</u></a></li>
-<li><a href="https://techidaily.com/remove-lock-screen-without-passwordnote-30-by-drfone-android-unlock-android-unlock/"><u>Remove Lock Screen without Password(Note 30)</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/safeguarding-user-privacy-mitigating-exposure-risks-with-individualized-ai-models-like-chatgpt/"><u>Safeguarding User Privacy: Mitigating Exposure Risks with Individualized AI Models Like ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/secrets-unveiled-how-to-remove-all-past-chatgpt-sessions/"><u>Secrets Unveiled: How to Remove All Past ChatGPT Sessions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/spotting-bogus-ai-in-conversations-via-gpt-notation/"><u>Spotting Bogus AI in Conversations via GPT Notation</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-how-to-obtain-and-install-the-powerful-auto-gpt-tool/"><u>Step-by-Step Tutorial: How to Obtain & Install the Powerful Auto-GPT Tool</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/tailoring-exercise-routines-with-chatgpt-a-guide-for-personal-trainers/"><u>Tailoring Exercise Routines with ChatGPT: A Guide for Personal Trainers</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/zooming-into-success-a-complete-guide-to-podcast-audio-capture-for-2024/"><u>Zooming Into Success A Complete Guide to Podcast Audio Capture for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-editors-face-off-which-is-superior-filmora-or-democreator/"><u>[New] Editors Face-Off Which Is Superior, Filmora or Democreator?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-from-camera-to-feed-instagram-video-upload-on-desktop/"><u>[New] From Camera to Feed Instagram Video Upload on Desktop</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-access-the-latest-social-interactions-watch-facebook-live-on-roku/"><u>[Updated] 2024 Approved Access the Latest Social Interactions Watch Facebook Live on Roku</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-exceptional-appraisal-and-other-choices/"><u>[Updated] 2024 Approved Exceptional Appraisal & Other Choices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/boost-engagement-how-to-include-a-pinterest-widget-on-facebook-page/"><u>Boost Engagement: How To Include A Pinterest Widget On Facebook Page</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/debunking-myths-ais-real-role-in-mental-healthcare/"><u>Debunking Myths: AI’s Real Role in Mental Healthcare</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/demystifying-artifice-intelligence-conversational-agents-debunking-the-top-9-misunderstandings/"><u>Demystifying Artifice Intelligence Conversational Agents: Debunking the Top 9 Misunderstandings</u></a></li>
+<li><a href="https://discover-help.techidaily.com/effizientes-video-bearbeiten-mit-winxvideo-ai-hochskalieren-stabilisieren-und-konvertieren-fur-profis/"><u>Effizientes Video-Bearbeiten Mit Winxvideo AI: Hochskalieren, Stabilisieren Und Konvertieren Für Profis</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-gptbot-causes-behind-website-restrictions/"><u>Understanding GPTBot: Causes Behind Website Restrictions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleash-your-imagination-using-5-revolutionary-ai-text-creation-applications/"><u>Unleash Your Imagination Using 5 Revolutionary AI Text Creation Applications</u></a></li>
 </ul></div>
 

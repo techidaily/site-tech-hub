@@ -1,7 +1,7 @@
 ---
 title: "Unlocking a Smarter Future: Apple's Latest AI Enhances Home Interface & Amps Up Siri Capabilities"
-date: 2024-10-16T16:40:41.055Z
-updated: 2024-10-21T19:17:37.630Z
+date: 2024-10-22T17:46:56.589Z
+updated: 2024-10-27T17:35:23.227Z
 tags:
   - apple
 categories:
@@ -37,16 +37,10 @@ Apple was expected to focus on incorporating AI into its apps to simplify users'
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What does Apple Intelligence do?
@@ -69,10 +63,10 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is Siri getting an Apple Intelligence makeover?
@@ -102,6 +96,13 @@ Like the Google Pixel's Magic Eraser, Apple is giving its devices a new, AI-powe
 Apple is adding natural language photo and video search to its Photos app. This will let users enter a prompt to search for a picture, video, or even a segment of a video. Users can say, "Find a photo of that starfish we found at the beach last summer," and have their iPhone pull up a photo without having to scroll through thousands of photos to find the one.
 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How does systemwide AI text generation work?
 
@@ -155,13 +156,6 @@ Apple is leveraging what it calls Private Cloud Compute for complex tasks that r
 
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Is Apple Intelligence actually private and secure?
 
 Apple
@@ -178,10 +172,10 @@ The company is striving to keep the AI features secure through several mechanism
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
@@ -224,18 +218,16 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-transform-ordinary-moments-into-extraordinary-art-creating-slow-motion-video-from-still-images-online/"><u>[New] In 2024, Transform Ordinary Moments Into Extraordinary Art Creating Slow Motion Video From Still Images Online</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-transform-your-games-into-a-live-stream-spectacle/"><u>[Updated] Transform Your Games Into a Live Stream Spectacle</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-vidvault-seamless-techniques-for-securing-tweeted-videos/"><u>2024 Approved VidVault Seamless Techniques for Securing Tweeted Videos</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-chatgpt-revolutionizes-content-writing-a-guide-with-9-key-points/"><u>How ChatGPT Revolutionizes Content Writing: A Guide with 9 Key Points</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-use-your-vpn-for-unrestricted-chatgpt-access/"><u>How to Use Your VPN for Unrestricted ChatGPT Access</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/improving-emotional-intelligence-through-conversations-with-chatgpt/"><u>Improving Emotional Intelligence Through Conversations with ChatGPT</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-nokia-c210-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Nokia C210 to Gmail | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/innovative-gpt-techniques-for-android-and-ios-enthusiasts/"><u>Innovative GPT Techniques for Android & iOS Enthusiasts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/investigate-truthgpt-coin-is-this-the-next-big-scam-or-a-hidden-gem/"><u>Investigate TruthGPT Coin - Is This the Next Big Scam or a Hidden Gem?</u></a></li>
-<li><a href="https://article-files.techidaily.com/iphone-tips-bringing-out-the-best-with-hdr-photography-for-2024/"><u>IPhone Tips Bringing Out the Best with HDR Photography for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/learning-healthy-recipes-can-ai-assistants-like-chatgpt-help/"><u>Learning Healthy Recipes: Can AI Assistants Like ChatGPT Help?</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/leverage-these-10-devices-for-crystal-clear-zooms/"><u>Leverage These 10 Devices for Crystal Clear Zooms</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/securely-access-free-womens-erotica-cross-platform-downloads-for-mac-and-windows/"><u>Securely Access Free Women's Erotica: Cross-Platform Downloads for MAC and WINDOWS</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-recipe-rulers-youtubes-finest-food-talks/"><u>[Updated] In 2024, Recipe Rulers YouTube's Finest Food Talks</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-10-simple-steps-to-superior-pixlr-edits/"><u>2024 Approved 10 Simple Steps to Superior Pixlr Edits</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-discovering-best-5k-displays-list-8/"><u>2024 Approved Discovering Best 5K Displays - List #8</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1723808349169-blocking-pop-ups-in-chrome-firefox-and-edge-quickly-and-easily/"><u>Blocking Pop-Ups in Chrome, Firefox and Edge | Quickly & Easily!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1723808060910-connecting-your-bluetooth-speaker-to-your-laptop-a-step-by-step-tutorial/"><u>Connecting Your Bluetooth Speaker to Your Laptop – A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1723807914332-how-to-do-a-clean-install-of-windows-10-quickly-and-easily/"><u>How to Do a Clean Install of Windows 10, Quickly and Easily</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-complete-action-camera-buying-guide-for-beginners/"><u>In 2024, Complete Action Camera Buying Guide For Beginners</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-optimal-gyroscopic-gimbals-for-iphoneandroiddslr-capture/"><u>In 2024, Optimal Gyroscopic Gimbals for iPhone/Android/DSLR Capture</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Google Pixel 8? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1723808090146-troubleshooting-missing-icon-issues-on-windows-10-quick-fixes-inside/"><u>Troubleshooting Missing Icon Issues on Windows 10 - Quick Fixes Inside!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/upgrade-to-cutting-edge-graphics-with-new-amd-rx-6700-xt-driver-support-for-windows-operating-systems-11-10-7/"><u>Upgrade to Cutting-Edge Graphics with New AMD RX 6700 XT Driver Support for Windows Operating Systems (11, 10, 7)</u></a></li>
 </ul></div>
 

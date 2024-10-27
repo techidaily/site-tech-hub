@@ -1,7 +1,7 @@
 ---
 title: Apple Reveals a Batch of New Features for Fall Devices, Showcasing AI Advancements in iPhone, iPad, and Mac Products | ZDNET Insights
-date: 2024-10-20T18:38:08.758Z
-updated: 2024-10-21T16:51:00.383Z
+date: 2024-10-24T16:51:46.653Z
+updated: 2024-10-27T17:04:33.861Z
 tags:
   - apple
 categories:
@@ -69,16 +69,10 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -99,6 +93,13 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -113,13 +114,6 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -129,13 +123,6 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -149,10 +136,10 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -179,6 +166,13 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -224,20 +218,22 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-harnessing-look-up-tables-luts-to-achieve-stunning-visuals-for-2024/"><u>[New] Harnessing Look-Up Tables (LUTs) to Achieve Stunning Visuals for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-instagram-story-mastery-controlling-your-video-speed/"><u>[New] Instagram Story Mastery Controlling Your Video Speed</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-stage-talent-video-download-permission-form/"><u>[New] Stage Talent Video Download Permission Form</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-mastering-obs-and-streamlabs-mac-integration/"><u>[Updated] Mastering OBS & Streamlabs Mac Integration</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/apple-vision-pro-elevates-my-fav-tv-show-viewing-a-tale-of-joy-strangeness-and-exhaustion-coverage-by-zdnet/"><u>Apple Vision Pro Elevates My Fav TV Show Viewing - A Tale of Joy, Strangeness & Exhaustion | Coverage by ZDNet</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/do-you-still-need-an-iphone-case-discover-how-apples-persistent-stance-might-change-the-game-zdnet-insights/"><u>Do You Still Need an iPhone Case? Discover How Apple's Persistent Stance Might Change the Game | ZDNET Insights</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/guide-sending-and-receiving-imessages-using-windows-tips-from-zdnet/"><u>Guide: Sending & Receiving iMessages Using Windows - Tips From ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-for-removing-personal-security-pins-from-your-windows-10-device/"><u>How-To for Removing Personal Security PINs From Your Windows 10 Device</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-itel-p55plus-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Itel P55+ Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revamping-your-iphone-a-step-by-step-guide-to-personalizing-the-ios-18-control-center-insights-from-zdnet/"><u>Revamping Your iPhone: A Step-by-Step Guide to Personalizing the iOS 18 Control Center - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/review-of-m3-macbook-air-the-accessible-intelligent-machine-from-apple-revolutionizes-computing/"><u>Review of M3 MacBook Air: The Accessible, Intelligent Machine From Apple Revolutionizes Computing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-intricacies-of-intellectual-property-rights-for-ai-created-works/"><u>The Intricacies of Intellectual Property Rights for AI-Created Works</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-ranking-ipad-models-comprehensive-reviews-by-tech-experts/"><u>Top-Ranking iPad Models - Comprehensive Reviews by Tech Experts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transform-your-vr-journey-on-meta-quest-3-by-accessing-apples-innovative-3d-videos-complete-tutorial-zdnet/"><u>Transform Your VR Journey on Meta Quest 3 by Accessing Apple's Innovative 3D Videos - Complete Tutorial | ZDNET</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-common-pc-crashes-in-metro-exodus-gameplay/"><u>Troubleshooting Common PC Crashes in Metro Exodus Gameplay</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-keyword-optimization-for-higher-youtube-viewership/"><u>[New] 2024 Approved Keyword Optimization for Higher YouTube Viewership</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-top-picks-the-ultimate-android-mp3-downloader-collection/"><u>[New] 2024 Approved Top Picks The Ultimate Android MP3 Downloader Collection</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-visual-dialogue-maker/"><u>2024 Approved Visual Dialogue Maker</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/adaptive-wellness-tools-select-8-gpt-integrations/"><u>Adaptive Wellness Tools: Select 8 GPT Integrations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/advanced-gemini-vs-chatgpt-plus-a-comprehensive-comparison/"><u>Advanced Gemini Vs. ChatGPT Plus: A Comprehensive Comparison</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/advanced-strategies-for-saving-vr-gameplay-moments/"><u>Advanced Strategies for Saving VR Gameplay Moments</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-face-off-determining-whether-to-opt-for-snapchats-my-ai-or-chatgpt/"><u>AI Face-Off: Determining Whether to Opt for Snapchat’s My AI or ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-innovations-showdown-dissecting-forefront-and-chatgpts-features/"><u>AI Innovations Showdown: Dissecting Forefront and ChatGPT's Features</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/artificial-intelligence-and-cybersecurity-threats-top-5-concerns/"><u>Artificial Intelligence and Cybersecurity Threats: Top 5 Concerns</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/behind-the-scenes-the-development-story-of-elon-musks-truthgpt-initiative/"><u>Behind the Scenes: The Development Story of Elon Musk's TruthGPT Initiative</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-you-exceed-the-word-count-in-chatgpts-responses/"><u>Can You Exceed the Word Count in ChatGPT's Responses?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chrome-extension-revolutionizing-how-you-interact-with-chatgpt/"><u>Chrome Extension Revolutionizing How You Interact with ChatGPT</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-asus-rog-phone-8-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-making-money-on-youtube-a-beginners-revenue-roadmap/"><u>In 2024, Making Money on YouTube A Beginner's Revenue Roadmap</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/passfab-iphone-8-plus-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>PassFab iPhone 8 Plus Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-beginners-guide-to-straightforward-hdr-techniques/"><u>The Beginner's Guide to Straightforward HDR Techniques</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/uniform-visual-clarity-in-microsoft-teams-conferences/"><u>Uniform Visual Clarity in Microsoft Teams Conferences</u></a></li>
 </ul></div>
 

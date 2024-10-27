@@ -1,7 +1,7 @@
 ---
 title: Unleash Your Productivity with Craft - A Comprehensive Walkthrough for macOS Users on Enhancing Document Management and Creation
-date: 2024-10-14T20:10:34.647Z
-updated: 2024-10-21T21:39:18.409Z
+date: 2024-10-25T17:14:02.604Z
+updated: 2024-10-27T18:06:26.477Z
 tags:
   - apple
 categories:
@@ -28,22 +28,15 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 
 ## Create a custom Focus
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
@@ -55,10 +48,10 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Open the Focus tab
@@ -68,6 +61,13 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 **Figure 2:** You'll find a single pre-configured Focus for Do Not Disturb already available.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
 
@@ -86,16 +86,10 @@ Image: Jack Wallen
 After naming and selecting a color/icon, click Add to save the new Focus.
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. Allowing specific notifications
@@ -154,22 +148,22 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/eil-of-secrecy-hiding-objects-from-digital-eyes-for-2024/"><u>[New] Veil of Secrecy Hiding Objects From Digital Eyes for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/10-popular-websites-to-download-aesthetic-wallpapers-for-laptop-for-2024/"><u>10 Popular Websites to Download Aesthetic Wallpapers for Laptop for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-elevating-gameplay-increasing-ram-in-minecraft/"><u>2024 Approved Elevating Gameplay Increasing RAM in Minecraft</u></a></li>
-<li><a href="https://win-blog.techidaily.com/eps-files-explained-dai-raccomandazioni-alle-opzioni-di-apertura-piu-ottimali/"><u>EPS Files Explained – Dai Raccomandazioni Alle Opzioni Di Apertura Più Ottimali</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-lost-or-stolen-iphone-12-mini-in-easy-steps-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Data From Lost or Stolen iPhone 12 mini In Easy Steps | Stellar</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Realme 12+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-successfully-resolve-and-prevent-adobes-start-up-failure-error-0xc000000022/"><u>How to Successfully Resolve and Prevent Adobe's Start Up Failure (Error 0Xc00#0000022)</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/letting-chatgpt-curate-your-tv-and-movie-selections-effortlessly/"><u>Letting ChatGPT Curate Your TV and Movie Selections Effortlessly</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/making-ai-history-with-gpt-4-the-ultimate-guide-for-broad-accessibility-and-deployment/"><u>Making AI History with GPT-4: The Ultimate Guide for Broad Accessibility and Deployment</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-interactive-storytelling-a-comprehensive-guide-to-creating-an-engaging-txt-rpg-with-chatgpt/"><u>Mastering Interactive Storytelling: A Comprehensive Guide to Creating an Engaging TXT RPG with ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-personalized-ai-writing-training-chatgpt-in-your-voice/"><u>Mastering the Art of Personalized AI Writing: Training ChatGPT in Your Voice</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-resolving-common-auto-installation-hurdles-with-gpt-systems/"><u>Mastering the Art of Resolving Common Auto-Installation Hurdles with GPT Systems</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/musks-breakdown-understanding-the-function-and-financial-aspects-of-grok-ai/"><u>Musk's Breakdown: Understanding the Function and Financial Aspects of Grok AI</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-around-common-blunders-when-using-advanced-generative-ais/"><u>Navigating Around Common Blunders When Using Advanced Generative AIs</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/premier-selection-of-20-dynamic-chatgpt-sessions-on-github/"><u>Premier Selection of 20 Dynamic ChatGPT Sessions on GitHub</u></a></li>
-<li><a href="https://fox-access.techidaily.com/unveiling-best-android-photos-tactics-for-2024/"><u>Unveiling Best Android Photos Tactics for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winerror-zeroed-out-mastery-over-error-0x800f0831/"><u>WinError Zeroed Out: Mastery Over Error 0X800F0831</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-achieve-maximum-impact-in-fb-video-ads-use-free-tools/"><u>[New] In 2024, Achieve Maximum Impact in FB Video Ads - Use Free Tools</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-boosting-your-gaming-footage-on-latest-windows-11-for-2024/"><u>[Updated] Boosting Your Gaming Footage on Latest Windows 11 for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-inquiry-youtubes-payment-scheme-for-creators/"><u>[Updated] In 2024, Inquiry YouTube's Payment Scheme for Creators</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-tips-for-crafting-an-engaging-fb-timeline-memory/"><u>2024 Approved Tips for Crafting an Engaging FB Timeline Memory</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024s-biggest-scopes-for-successful-fb-ads/"><u>2024’S Biggest Scopes for Successful FB Ads</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-mastery-8-pro-tips-to-elevate-your-enterprise/"><u>ChatGPT Mastery: 8 Pro Tips to Elevate Your Enterprise</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/connect-and-learn-new-android-app-chatgpt/"><u>Connect and Learn: New Android App, ChatGPT!</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/crosslinked-content-strategy-instagram-plus-tiktok-collaboration/"><u>Crosslinked Content Strategy Instagram + TikTok Collaboration</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/employ-gpt4all-for-low-cost-windows-gpt-clone/"><u>Employ GPT4All for Low-Cost Windows GPT Clone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/intelligent-mobile-browsing-with-bing-elevate-your-android-and-ios-experience-through-ai-innovation/"><u>Intelligent Mobile Browsing with Bing - Elevate Your Android and iOS Experience Through AI Innovation!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-ai-evolving-faster-the-duel-between-googles-gemini-and-chatgpt/"><u>Is AI Evolving Faster? The Duel Between Google's Gemini and ChatGPT</u></a></li>
+<li><a href="https://windows11.techidaily.com/keeping-apps-fixed-in-task-manager-on-pc/"><u>Keeping Apps Fixed in Task Manager on PC</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/overcoming-chatgpt-hiccups-in-live-transmission/"><u>Overcoming ChatGPT Hiccups in Live Transmission</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-future-is-now-microsoft-purchases-blizzard-diving-into-ai-creativity-and-translation-exclusive-podcast-discussion/"><u>The Future Is Now: Microsoft Purchases Blizzard, Diving Into AI Creativity and Translation - Exclusive Podcast Discussion</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transform-your-routines-with-auto-gtp/"><u>Transform Your Routines with Auto-GTP</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-motorola-moto-g04-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Motorola Moto G04 IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/your-tailored-ai-journey-starts-now-explore-the-custom-gpt-store-by-openai-here/"><u>Your Tailored AI Journey Starts Now: Explore the Custom GPT Store by OpenAI Here</u></a></li>
 </ul></div>
 

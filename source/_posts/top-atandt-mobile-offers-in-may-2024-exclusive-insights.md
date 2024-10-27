@@ -1,7 +1,7 @@
 ---
 title: Top AT&T Mobile Offers in May 2024 - Exclusive Insights
-date: 2024-10-20T21:00:32.454Z
-updated: 2024-10-21T18:35:26.505Z
+date: 2024-10-21T17:01:15.298Z
+updated: 2024-10-27T16:32:09.574Z
 tags:
   - apple
 categories:
@@ -130,6 +130,13 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 
 [Motorola moto g stylus, $2.99/month, no trade-in required View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/motorola-moto-g-stylus-5g-2023.html)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Accessory and service deals
 
 [Google Pixel Buds A-Series wireless earbuds: Save 50% when you buy a Pixel device View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/accessories/Headphones/google-pixel-buds-a-series-true-wireless-earbuds-clearly-white.html)
@@ -139,13 +146,6 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 [AT&T 15W wireless charging pad: $10 (save $19) $10 at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/accessories/Chargers/att-15w-wireless-charging-pad.html)
 
 [BodyGuardz Pure 2 Edge antimicrobial glass screen protector (iPhone 14 range) for $10 (save $35) $10 at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/accessories/Screen-Protectors/bodyguardz-pure-2-edge-antimicrobial-tempered-glass-screen-protector-iphone-14-13-13-pro.html)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How did we choose these AT&T phone deals?
 
@@ -157,13 +157,6 @@ When we made our selection for the best AT&T deals, we wanted to include options
 * **Free products**: Devices drop in value over time, and to offload excess stock, some carriers will launch time-sensitive deals, giving subscribers free products in exchange for signing up for a new contract.
 * **Events**: It's always worth checking retailers after a major event, such as Samsung Unpacked. You will often find that deals will be launched just after, luring customers to agree to preorder their new handset in return for discounts and free storage upgrades.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Does AT&T offer deals for existing customers?
 
 It's true that carriers are the most aggressive with their offers when it's year-end and new customers are shopping around for services to switch to. Still, AT&T has done a fairly balanced job of pushing promotions for new and existing customers, including all the deals we have listed above. If you've been a loyal customer, we'd even recommend reaching out to your local AT&T provider to see if there are any exclusive deals just for you.
@@ -173,15 +166,22 @@ It's true that carriers are the most aggressive with their offers when it's year
 In general, there is no difference in how much money you save whether you shop online or in stores. Instead, deciding between the two really boils down to your preference for transactions. With how complicated carrier phone deals can be, you may be better off heading down to the local AT&T store and consulting with a product expert to help you navigate the fine print. Otherwise, shopping online can be faster and more convenient.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What are the best deals right now?
 
 ZDNET experts split out the latest and greatest deals for you below.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Best deals by retailer**
 
@@ -189,10 +189,16 @@ ZDNET experts split out the latest and greatest deals for you below.
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Best deals by category**
@@ -244,17 +250,15 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-experts-choice-top-10-low-cost-sbd-applications/"><u>[New] In 2024, Expert's Choice Top 10 Low-Cost SBD Applications</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-smooth-sailing-with-instagram-fixes-for-frustrations/"><u>[New] Smooth Sailing with Instagram Fixes for Frustrations</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-compilation-worlds-leading-youtube-mp3-downloaders/"><u>[Updated] 2024 Approved Compilation World's Leading YouTube Mp3 Downloaders</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-the-art-of-photo-refreshment-how-to-tidy-up-images-on-canva/"><u>[Updated] 2024 Approved The Art of Photo Refreshment How to Tidy Up Images on Canva</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-enhanced-wireless-power-the-new-esr-qi2-magsafe-charger-lines-up-to-turbocharge-your-iphone-16-without-overheating-cryoboost/"><u>Discover Enhanced Wireless Power: The New ESR Qi2 MagSafe Charger Lines Up to Turbocharge Your iPhone 16 without Overheating (CryoBoost)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-computer-components-through-toms-device-digest/"><u>Exploring Computer Components Through Tom's Device Digest</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-vyncs-link-a-dependable-counter-with-complex-tiers/"><u>In-Depth Analysis of Vyncs Link: A Dependable Counter with Complex Tiers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-apples-airpods-pro-from-2022-still-worth-your-money-expert-insights-revealed-zdnet/"><u>Is Apple's AirPods Pro From 2022 Still Worth Your Money? Expert Insights Revealed | ZDNET</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/speedy-video-scrolling-on-tiktok-uncovered/"><u>Speedy Video Scrolling on TikTok Uncovered</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-infinix-note-30-vip-racing-edition-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Infinix Note 30 VIP Racing Edition Device</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-rated-tablet-computers-comprehensive-reviews-by-tech-experts/"><u>Top-Rated Tablet Computers : Comprehensive Reviews by Tech Experts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/upcoming-tech-news-apples-next-move-with-new-dual-oled-ipad-pro-models-and-a-redesigned-129-inch-air-set-release-insights/"><u>Upcoming Tech News: Apple's Next Move with New Dual OLED iPad Pro Models and a Redesigned 12.9-Inch Air Set Release - Insights</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-soniccapture-pro-review-and-download-steps/"><u>[Updated] 2024 Approved SonicCapture Pro Review & Download Steps</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-asmr-unraveled-enhancing-mental-wellness/"><u>[Updated] In 2024, ASMR Unraveled Enhancing Mental Wellness</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-realme-12-proplus-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Realme 12 Pro+ 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-xiaomi-13-ultra-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Xiaomi 13 Ultra Without PUK Codes</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-augmenting-realities-for-better-outcomes/"><u>In 2024, Augmenting Realities for Better Outcomes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/steps-and-solutions-for-reconnecting-with-your-favorite-blizzard-games-when-the-server-drops-connection/"><u>Steps and Solutions for Reconnecting with Your Favorite Blizzard Games When the Server Drops Connection</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleashing-video-potential-mastering-script-craft-with-chatgpt/"><u>Unleashing Video Potential: Mastering Script Craft with ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-the-secrets-of-detective-games-play-four-advanced-ai-powered-mysteries-online/"><u>Unlock the Secrets of Detective Games: Play Four Advanced AI-Powered Mysteries Online</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-the-power-of-artificial-intelligence-in-imagery-with-chatgpt/"><u>Unlocking the Power of Artificial Intelligence in Imagery with ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-ais-roots-tracing-the-inception-moment-in-its-timeline/"><u>Unveiling AI's Roots - Tracing the Inception Moment in Its Timeline</u></a></li>
 </ul></div>
 

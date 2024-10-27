@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Best MS Office Mobile Experience : IPad and iPhone Edition | ZDNET"
-date: 2024-10-16T19:19:20.456Z
-updated: 2024-10-21T18:27:59.361Z
+date: 2024-10-22T17:14:01.183Z
+updated: 2024-10-27T16:42:07.928Z
 tags:
   - apple
 categories:
@@ -46,10 +46,10 @@ Months of testing have proved that Apple's standard [iPhone 15 and iPhone 15 Plu
 If you don't see yourself shooting videos in ProRAW, requiring the extra Action button, or drooling over the 5X zoom camera on the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-15-pro-review/), you'll be plenty comfortable with the $799 iPhone 15 and $899 iPhone 15 Plus. Between the two, buy the former if you want one of the most compact (yet capable) handsets on the market, and buy the latter if you want a more affordable big-screen iPhone and the best battery life of all the models in the latest lineup.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -68,10 +68,10 @@ If you don't see yourself shooting videos in ProRAW, requiring the extra Action 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How I tested the iPhone 15 and iPhone 15 Plus
@@ -148,6 +148,13 @@ It's true that [consumers are now upgrading their smartphones at a slower rate](
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What I'd like to see in the next model
 
 Kerry Wan/ZDNET
@@ -160,22 +167,15 @@ Is this Apple's way of splitting up the non-Pro and Pro models? Probably. I don'
 
 **An Action button:** Given how many iPhone 14 Pro features Apple carried over to the iPhone 15, I have my fingers crossed that Apple will replace the alert slider with the Action button this year. Over the course of testing the latest iPhones, I've used the alert slider less than a dozen times. An Action button would give the iPhone much more functionality.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Final thought
 
 It's easy to call the standard iPhone model the "Best iPhone for most people." That's been the case since Apple introduced a Pro variant with the iPhone 11 series, and still holds true with the [iPhone 15](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). Only now, I'm finding myself recommending the non-Pro iPhone to more users than ever before, including folks I've known to be more demanding of their tech. Apple's made just enough feature upgrades (and a few compromises that may be imperceivable to some) to help the latest iPhone model stand out, even when stacked against the generation before it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -212,16 +212,19 @@ It's easy to call the standard iPhone model the "Best iPhone for most people." T
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-visionary-graphics-best-cards-in-4k-space/"><u>[New] Visionary Graphics Best Cards in 4K Space</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mastering-text-overlays-on-digital-pictures/"><u>[Updated] Mastering Text Overlays on Digital Pictures</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-channel-upgrade-smartphone-techniques-for-professional-videos/"><u>2024 Approved Channel Upgrade Smartphone Techniques for Professional Videos</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-prime-video-streamers-camera-picks-for-quality-content/"><u>2024 Approved Prime Video Streamers' Camera Picks for Quality Content</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-nokia-g310-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Nokia G310 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-nokia-g22-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Nokia G22 via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-chatgpt-sidestep-these-6-frequent-prompt-blunders-for-optimal-results/"><u>Mastering ChatGPT: Sidestep These 6 Frequent Prompt Blunders for Optimal Results</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-open-conversations-windows-freedomgpt/"><u>Mastering Open Conversations: Windows FreedomGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-the-integration-of-chatgpt-with-google-sheets-a-step-by-step-guide/"><u>Mastering the Integration of ChatGPT with Google Sheets: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/maximizing-productivity-top-6-strategies-for-utilizing-chatgpt-in-telecommuting/"><u>Maximizing Productivity: Top 6 Strategies for Utilizing ChatGPT in Telecommuting</u></a></li>
-<li><a href="https://extra-information.techidaily.com/streamline-your-listening-experience-how-to-get-apple-podcasts-downloaded/"><u>Streamline Your Listening Experience How to Get Apple Podcasts Downloaded</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-step-by-step-techniques-for-google-meet-coordination/"><u>[New] Step-by-Step Techniques for Google Meet Coordination</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-tiktok-to-tokens-financial-figures-of-pewdiepie-for-2024/"><u>[New] TikTok to Tokens Financial Figures of PewDiePie for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-the-secrets-acquiring-attractive-pexel-photos/"><u>[New] Unveiling the Secrets Acquiring Attractive Pexel Photos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-efficient-meeting-management-with-slack-and-filmora-tools-for-2024/"><u>[Updated] Efficient Meeting Management with Slack & Filmora Tools for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-fabricate-funny-faces-for-2024/"><u>[Updated] Fabricate Funny Faces for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/6-things-we-can-do-to-save-a-water-damaged-iphone-8-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>6 Things We Can Do To Save A Water Damaged iPhone 8 | Stellar</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-comprehensive-guide-setting-up-a-vpn-connection-on-windows-10-easy-step-by-step-instructions/"><u>A Comprehensive Guide: Setting Up a VPN Connection on Windows 10 - Easy, Step-by-Step Instructions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bluetooth-troubleshooting-how-to-extend-range-and-strengthen-signals-on-your-windows-11-pc/"><u>Bluetooth Troubleshooting: How to Extend Range & Strengthen Signals on Your Windows 11 PC</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boost-performance-optimizing-nvidias-3d-settings-via-control-panel/"><u>Boost Performance: Optimizing NVIDIA's 3D Settings via Control Panel</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boost-your-windows-11-speed-top-8-methods-for-a-smoother-experience/"><u>Boost Your Windows 11 Speed: Top 8 Methods for a Smoother Experience</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boosting-frame-rate-in-assassins-creed-valhalla-expert-tips-and-tricks/"><u>Boosting Frame Rate in Assassin's Creed Valhalla: Expert Tips and Tricks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/implementing-slack-into-daily-routines-for-efficient-project-management/"><u>Implementing Slack Into Daily Routines for Efficient Project Management</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Motorola Razr 40 | Dr.fone</u></a></li>
 </ul></div>
 

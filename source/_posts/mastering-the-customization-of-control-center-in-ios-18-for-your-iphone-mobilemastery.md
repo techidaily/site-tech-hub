@@ -1,7 +1,7 @@
 ---
 title: Mastering the Customization of Control Center in iOS 18 for Your iPhone | MobileMastery
-date: 2024-10-14T17:29:17.492Z
-updated: 2024-10-21T17:33:53.145Z
+date: 2024-10-20T18:04:02.394Z
+updated: 2024-10-27T17:34:55.379Z
 tags:
   - apple
 categories:
@@ -30,25 +30,11 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -58,24 +44,37 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -86,10 +85,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -97,6 +96,13 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -134,19 +140,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-navigating-the-world-of-fb-video-content-production/"><u>[New] In 2024, Navigating the World of FB Video Content Production</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-photography-transformed-simplifying-edges-and-corners/"><u>[Updated] 2024 Approved Photography Transformed Simplifying Edges and Corners</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-enabling-the-virtual-screen-layout-in-google-meet-for-2024/"><u>[Updated] Enabling the Virtual Screen Layout in Google Meet for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-harnessing-the-power-of-audio-on-your-device-apples-podcast-download-guide/"><u>2024 Approved Harnessing the Power of Audio on Your Device Apple's Podcast Download Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/beyond-the-physical-keyboard-discovering-why-this-iphone-case-stands-out-expert-reviews-at-zdnet/"><u>Beyond the Physical Keyboard: Discovering Why This iPhone Case Stands Out | Expert Reviews at ZDNet</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/downloading-the-latest-version-of-magicard-rio-pro-driver-now-supports-win10-8-and-7/"><u>Downloading the Latest Version of Magicard Rio Pro Driver – Now Supports Win10, 8 & 7</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exclusive-picks-elite-iphone-16pro-case-selections-of-2nw-featuring-expert-ratings-and-tests-from-zdnet/"><u>Exclusive Picks: Elite iPhone 16/Pro Case Selections of 2Nw | Featuring Expert Ratings and Tests From ZDNET</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/get-ready-to-power-up-top-anker-accessories-perfect-for-new-iphones-zdnet-insights/"><u>Get Ready to Power-Up - Top Anker Accessories Perfect for New iPhones | ZDNet Insights</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-samsung-galaxy-ai-ventures-surge-as-google-faces-antitrust-challenges-redefining-the-landscape-of-technological-breakthroughs-zdnet/"><u>How Samsung Galaxy AI Ventures Surge as Google Faces Antitrust Challenges, Redefining the Landscape of Technological Breakthroughs | ZDNet</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-change-country-on-app-store-for-iphone-6s-with-7-methods-drfone-by-drfone-ios/"><u>How To Change Country on App Store for iPhone 6s With 7 Methods | Dr.fone</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/in-2024-vital-guide-to-cost-effective-video-and-photography-archives/"><u>In 2024, Vital Guide to Cost-Effective Video and Photography Archives</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/inside-apple-vision-pro-pricing-details-key-features-and-user-experience-review-comprehensive-guide/"><u>Inside Apple Vision Pro: Pricing Details, Key Features & User Experience Review - Comprehensive Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-apple-ignoring-the-importance-of-an-iphone-protective-case-a-closer-look-at-their-stance-techradar/"><u>Is Apple Ignoring the Importance of an iPhone Protective Case? A Closer Look at Their Stance | TechRadar</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/say-goodbye-to-an-overflowing-inbox-effortlessly-unveil-the-one-step-hack-for-clear-communication-channels-without-setting-up-rules-or-separate-accounts/"><u>Say Goodbye to an Overflowing Inbox Effortlessly: Unveil the One-Step Hack for Clear Communication Channels without Setting up Rules or Separate Accounts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-ultimate-15-list-of-expert-recommended-gif-maker-apps/"><u>[Updated] The Ultimate 15 List of Expert-Recommended GIF Maker Apps</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/6-key-factors-optimizing-chatgpt-use-in-mental-health-interventions/"><u>6 Key Factors: Optimizing ChatGPT Use in Mental Health Interventions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-therapists-guide-to-combining-chatgpt-with-cognitive-behavioral-therapy/"><u>A Therapist's Guide to Combining ChatGPT with Cognitive Behavioral Therapy</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/academic-boosters-discover-the-five-key-ways-to-utilize-chatgpt-in-schools/"><u>Academic Boosters: Discover the Five Key Ways to Utilize ChatGPT in Schools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/academic-boosting-tips-how-students-can-benefit-from-chatgpt-in-5-key-areas/"><u>Academic Boosting Tips: How Students Can Benefit From ChatGPT in 5 Key Areas</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/access-chatgpt-effortlessly-a-guide-to-enjoying-its-features-account-free/"><u>Access ChatGPT Effortlessly: A Guide to Enjoying Its Features Account-Free</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-conversation-titans-gpt-vs-bing-for-best-bot/"><u>AI Conversation Titans: GPT Vs. Bing for Best Bot</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/w-premium-image-footage-via-top-rated-4-youtube-channels/"><u>Borrow Premium Image Footage via Top-Rated 4 YouTube Channels</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/can-you-unlock-iphone-14-after-forgetting-the-passcode-by-drfone-ios/"><u>Can You Unlock iPhone 14 After Forgetting the Passcode?</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-techniques-to-resurrect-an-unopenable-notepad-on-pc/"><u>Essential Techniques to Resurrect an Unopenable Notepad on PC</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-effortless-idevice-photo-to-pc-migration/"><u>In 2024, Effortless iDevice Photo-to-PC Migration</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-windows-10-troubleshooting-successfully-addressing-the-objects-failed-to-enumerate-container-error-solved/"><u>Mastering Windows 10 Troubleshooting: Successfully Addressing the ‘Objects Failed to Enumerate’ Container Error [Solved]</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/pemainan-bisa-beli-enjin-perangkat-lunak-backup-utama-untuk-memperbarui-operasi-windows-versi-yang-beragam/"><u>Pemainan Bisa Beli: Enjin Perangkat Lunak Backup Utama Untuk Memperbarui Operasi Windows Versi Yang Beragam</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Communicate on the Go: Sending Messages From Your Apple Watch with Friends and Family"
-date: 2024-10-20T21:26:58.965Z
-updated: 2024-10-21T17:56:51.623Z
+date: 2024-10-21T17:31:55.542Z
+updated: 2024-10-27T16:08:36.350Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Update your devices
@@ -53,6 +53,19 @@ Launch the Messages app on your Apple Watch. Start or continue a conversation wi
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. View the initial Check In notification
 
 The recipient receives a notification alerting them that you sent them a Check In with a specific time. After tapping OK, the recipient is asked if they want to allow critical alerts, which they should do. A text message then displays the time when they'll receive the alert that you reached your destination.
@@ -69,24 +82,18 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. View the actual Check in alert
 
 When the timer is up to indicate that you should have reached your destination, you'll be prompted to stop the Check In to confirm that you've arrived. You can add more time or cancel the Check In. Otherwise, the recipient will receive your Check In notification. If the confirmation isn't sent, more time will be added. After that, the recipient will be informed that you haven't yet checked in. They can then try to contact you by text or phone call to find out why you haven't yet arrived.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Change the time for a Check In
 
@@ -99,10 +106,10 @@ If you still wish to use a timer for the Check In option but change the amount o
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Send a customized Check In through the Messages app
@@ -118,13 +125,6 @@ Next, tap the link for "Add a Destination." Start typing the address of the dest
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Set a Check In for a workout in the Messages app
 
@@ -168,20 +168,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-11-free-youtube-video-rippers-to-download-youtube-videos/"><u>[New] 2024 Approved 11 FREE YouTube Video Rippers to Download YouTube Videos</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-ranking-the-premier-online-church-service-providers/"><u>[New] 2024 Approved Ranking the Premier Online Church Service Providers</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-cross-dimensional-analysis-understanding-the-metaverse-vs-omniverse/"><u>[Updated] Cross-Dimensional Analysis Understanding the Metaverse Vs. Omniverse</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-free-12-best-video-players-and-apps-for-pc-and-mobile-devices/"><u>[Updated] In 2024, FREE 12 Best Video Players and Apps for PC and Mobile Devices</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-altering-video-speed-in-stories/"><u>2024 Approved The Ultimate Guide to Altering Video Speed in Stories</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-google-pixel-fold-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Google Pixel Fold Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exclusive-review-the-ultimate-protection-of-apples-toughest-iphone-case-and-its-innovative-safety-edge-zdnet/"><u>Exclusive Review: The Ultimate Protection of Apple's Toughest iPhone Case & Its Innovative Safety Edge - ZDNet</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/experts-top-magsafe-wallets-of-the-year-the-ultimate-guide-to-choosing-your-perfect-companion/"><u>Experts' Top MagSafe Wallets of the Year: The Ultimate Guide to Choosing Your Perfect Companion</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-diminutive-dynamo-the-latest-mac-minis-power-vs-size-as-featured-on-zdnet/"><u>Exploring the Diminutive Dynamo: The Latest Mac Mini's Power Vs. Size, As Featured on ZDNet</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Honor Magic Vs 2 | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/instagram-masterclass-top-5-suggestions-and-real-life-outcomes/"><u>Instagram Masterclass Top 5 Suggestions & Real-Life Outcomes</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/score-big-discounts-on-apples-latest-airpod-offer-with-a-40-cut-before-the-fourth-of-july-festivities-gadget-hub-insights/"><u>Score Big Discounts on Apple's Latest AirPod Offer with a $40 Cut Before the Fourth of July Festivities | Gadget Hub Insights</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1727789338427-top-11-must-have-applications-and-tools-for-windows-and-macos-users-insights/"><u>Top 11 Must-Have Applications & Tools for Windows & macOS Users Insights</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-apples-core-innovations-the-impact-of-silicon-rosetta-translation-and-m-series-chips-on-modern-computing-insights-for-consumers-zdnet/"><u>Understanding Apple's Core Innovations: The Impact of Silicon, Rosetta Translation, and M-Series Chips on Modern Computing - Insights for Consumers | ZDNet</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/wallet-friendly-high-definition-equipment/"><u>Wallet-Friendly High-Definition Equipment</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-seamless-srt-addition-to-mp4s-the-ultimate-2024-process/"><u>[New] Seamless SRT Addition to MP4s The Ultimate 2024 Process</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-ultimate-simplicity-guide-to-iphone-screen-recordings/"><u>[New] Ultimate Simplicity Guide to iPhone Screen Recordings</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-maximizing-your-potential-is-a-joined-force-right-for-you/"><u>[Updated] 2024 Approved Maximizing Your Potential Is a Joined Force Right for You?</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-vivo-y55s-5g-2023-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo Y55s 5G (2023) without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-a23-5g-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy A23 5G Phone FRP Lock</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-errors-interpreting-bsod-with-code-0x0e00000b/"><u>Mastering Windows Errors: Interpreting BSOD with Code 0X0e00000b</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/seamless-sound-shift-best-10-youtube-audio-converters/"><u>Seamless Sound Shift Best 10 YouTube Audio Converters</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-companion-for-srt-to-xml-ssa-ttml-file-transformation/"><u>The Ultimate Companion for SRT-to-XML, SSA, TTML File Transformation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transformative-technology-discover-6-new-avenues-with-chatgpts-code-conductor/"><u>Transformative Technology - Discover 6 New Avenues with ChatGPT's Code Conductor</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-resolving-issues-with-monster-hunter-stories-2-wings-of-ruin-startup-problems/"><u>Troubleshooting Guide: Resolving Issues with Monster Hunter Stories 2 - Wings of Ruin Startup Problems</u></a></li>
+<li><a href="https://fox-access.techidaily.com/ultimate-headset-guide-for-drone-racing-enthusiasts/"><u>Ultimate Headset Guide for Drone Racing Enthusiasts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-the-hierarchy-unpacking-the-distinctions-between-gpt-4-versions/"><u>Understanding the Hierarchy: Unpacking the Distinctions Between GPT-4 Versions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleashing-potential-build-a-one-of-a-kind-chatgpt/"><u>Unleashing Potential: Build a One-of-a-Kind ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-word-potential-with-ai-powered-automated-drafting/"><u>Unlock Word Potential with AI-Powered Automated Drafting</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-5-premium-ai-prompt-inventors-that-work-seamlessly-across-diverse-artificial-intelligence-platforms/"><u>Unveiling 5 Premium AI Prompt Inventors That Work Seamlessly Across Diverse Artificial Intelligence Platforms</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/validating-wellness-information-in-the-age-of-ai-methods-to-assess-reliability-using-chatgpt/"><u>Validating Wellness Information in the Age of AI: Methods to Assess Reliability Using ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/what-lies-ahead-in-generative-ai-development-following-chatgpt-breakthroughs/"><u>What Lies Ahead in Generative AI Development Following ChatGPT Breakthroughs?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-relying-on-zerogpt-or-similar-ai-detectors-may-be-risky-insightful-cases/"><u>Why Relying on ZeroGPT or Similar AI Detectors May Be Risky: Insightful Cases</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/your-guide-to-online-safety-tackling-the-surge-of-twitter-scams-celebrating-metas-official-verification-launch-and-exploring-chatgpt-4/"><u>Your Guide to Online Safety: Tackling the Surge of Twitter Scams, Celebrating Meta's Official Verification Launch & Exploring ChatGPT-4</u></a></li>
 </ul></div>
 

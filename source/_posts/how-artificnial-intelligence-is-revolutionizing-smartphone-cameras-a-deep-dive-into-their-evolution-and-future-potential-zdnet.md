@@ -1,7 +1,7 @@
 ---
 title: "How Artificnial Intelligence Is Revolutionizing Smartphone Cameras: A Deep Dive Into Their Evolution and Future Potential | ZDNET"
-date: 2024-10-19T20:10:51.879Z
-updated: 2024-10-21T18:59:33.717Z
+date: 2024-10-22T17:35:12.436Z
+updated: 2024-10-27T17:37:28.163Z
 tags:
   - apple
 categories:
@@ -60,13 +60,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -74,19 +67,6 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
-
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -120,13 +100,6 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -136,6 +109,13 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -149,10 +129,10 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -172,6 +152,13 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -179,6 +166,19 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -224,14 +224,20 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/updated-the-odd-angle-intrigue-of-instagram-video-postings/"><u>[Updated] The Odd-Angle Intrigue of Instagram Video Postings</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-transform-your-instagram-vids-with-advanced-editing-skills-for-2024/"><u>[Updated] Transform Your Instagram Vids with Advanced Editing Skills for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/bcm20702a0-download-and-install-windows-drivers-with-ease/"><u>BCM20702A0: Download & Install Windows Drivers with Ease</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discovering-ai-insights-from-9-expert-community-sessions/"><u>Discovering AI: Insights From 9 Expert Community Sessions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discovering-huggingchat-gratis-transparent-replacement-to-gpt/"><u>Discovering HuggingChat: Gratis, Transparent Replacement to GPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/elevate-your-gpt-responses-discover-7-key-tips-for-better-interactions/"><u>Elevate Your GPT Responses: Discover 7 Key Tips for Better Interactions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enabling-autodoc-chatgpts-role-in-office-productivity/"><u>Enabling AutoDoc: ChatGPT's Role in Office Productivity</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-newest-canon-mg290er-driver-software-complete-guide/"><u>How to Get the Newest Canon MG290er Driver Software - Complete Guide</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/stepping-into-filmmaking-learning-the-basics-of-key-shots-for-2024/"><u>Stepping Into Filmmaking Learning the Basics of Key Shots for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-elevate-your-farm-adventure-uncovering-stardews-top-7-mods/"><u>[New] In 2024, Elevate Your Farm Adventure Uncovering Stardew's Top 7 Mods</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-master-the-metaverse-humor-scene-with-our-top-meme-ideas/"><u>[New] Master the Metaverse Humor Scene with Our Top Meme Ideas</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-quantifying-a-days-video-consumption-in-gb/"><u>[Updated] Quantifying a Day's Video Consumption in GB</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-solutions-for-when-you-encounter-a-missing-rockalldlldll-error/"><u>Effective Solutions for When You Encounter a Missing Rockalldll.dll Error</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-ai-on-quora-your-comprehensive-guide-to-poe-and-chatbot-interaction/"><u>Exploring AI on Quora: Your Comprehensive Guide to Poe & Chatbot Interaction</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-top-7-gpt-4-powered-applications-a-deep-dive-into-their-functionality/"><u>Exploring the Top 7 GPT-4 Powered Applications: A Deep Dive Into Their Functionality</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-gist-to-gui-running-chatgpt-in-windows/"><u>From Gist to GUI: Running ChatGPT in Windows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gracious-speech-communicating-effectively-with-siri-and-alexa/"><u>Gracious Speech: Communicating Effectively with Siri & Alexa</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Lava Storm 5G? | Dr.fone</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-in-2024-how-to-generate-speech-from-text-the-top-text-to-speech-converters/"><u>New In 2024, How To Generate Speech From Text | The Top Text-to-Speech Converters</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tailoring-the-artificial-intelligence-experience-personalizing-chatgpt-for-your-projects/"><u>Tailoring the Artificial Intelligence Experience: Personalizing ChatGPT for Your Projects</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-essential-distinctions-between-metaverse-and-multimeva-for-2024/"><u>The Essential Distinctions Between Metaverse and Multimeva for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-6-ai-powered-notetakers-for-enhanced-note-taking-efficiency/"><u>Top 6 AI-Powered Notetakers for Enhanced Note-Taking Efficiency</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-the-best-free-wmv-video-editors-you-need-to-try/"><u>Updated In 2024, The Best Free WMV Video Editors You Need to Try</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/windows-11-tpm/"><u>Windows 11 のクリーンインストールを容易に！セキュアブートと TPM 無視</u></a></li>
 </ul></div>
 

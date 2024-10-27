@@ -1,7 +1,7 @@
 ---
 title: "Mastering iOS 18: A Step-by-Step Guide to Personalizing Your iPhone's Control Center - Tips"
-date: 2024-10-15T21:11:04.877Z
-updated: 2024-10-21T18:09:28.075Z
+date: 2024-10-21T17:27:40.619Z
+updated: 2024-10-27T16:57:28.274Z
 tags:
   - apple
 categories:
@@ -30,13 +30,6 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
@@ -52,10 +45,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -65,16 +58,10 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -82,13 +69,6 @@ Screenshot by Lance Whitney/ZDNET
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -98,11 +78,25 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -140,19 +134,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-capture-screenshots-of-a-full-page/"><u>[New] Capture Screenshots of a Full Page</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-20-budget-conscious-video-editing-applications-for-2024/"><u>[Updated] Top 20 Budget-Conscious Video Editing Applications for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-brief-blend-of-film-blueprints/"><u>2024 Approved Brief Blend of Film Blueprints</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/apples-latest-update-free-powerful-ai-augments-programmer-arsenal-explore-the-impact-at-zdnet/"><u>Apple's Latest Update: Free, Powerful AI Augments Programmer Arsenal – Explore the Impact at ZDNet</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/discover-the-most-popular-screen-recorders-free-version-for-2024/"><u>Discover the Most Popular Screen Recorders - Free Version for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-the-ultimate-sound-premium-headphone-promotions-for-march-2024-by-cnet/"><u>Discover the Ultimate Sound: Premium Headphone Promotions for March 2024 by CNET</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/effortlessly-terminate-in-app-purchases-a-step-by-step-guide-for-disabling-apple-store-subscriptions-via-iphone-with-ios-15-techtips/"><u>Effortlessly Terminate In-App Purchases: A Step-by-Step Guide for Disabling Apple Store Subscriptions via iPhone with iOS 15 - TechTips</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/explore-the-ultimate-list-of-leading-microsoft-business-apps-on-ios-curated/"><u>Explore the Ultimate List of Leading Microsoft Business Apps on iOS - Curated</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-oppo-a1x-5g-by-drfone-android/"><u>How to Bypass FRP on Oppo A1x 5G?</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-qr-scanner-issues-here-are-10-fixes-that-work/"><u>IPhone QR Scanner Issues? Here Are 10 Fixes That Work</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/review-how-the-new-apple-airpods-gen-3-deliver-superior-sound-quality-and-design-insights/"><u>Review: How the New Apple AirPods (Gen 3) Deliver Superior Sound Quality & Design - Insights</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionizing-on-the-go-power-how-a-20-anker-solution-outperforms-expensive-chargers-zdnet-review/"><u>Revolutionizing On-the-Go Power: How a $20 Anker Solution Outperforms Expensive Chargers | ZDNet Review</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-10-essential-tweets-a-beginners-guide-to-mastering-x/"><u>Top 10 Essential Tweets: A Beginner's Guide to Mastering X</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-fix-guide-unstick-your-dota-2-from-the-loading-screen/"><u>Ultimate Fix Guide: Unstick Your Dota 2 From the Loading Screen</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-discover-the-joy-of-real-time-broadcasting-with-fb-and-roku/"><u>[New] 2024 Approved Discover the Joy of Real-Time Broadcasting with FB & Roku</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/8-surprising-methods-artificial-intelligence-transforms-dreams-into-reality/"><u>8 Surprising Methods Artificial Intelligence Transforms Dreams Into Reality</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-guide-to-chatgpts-inbuilt-extensions-functions-and-applications/"><u>A Guide to ChatGPT’s Inbuilt Extensions: Functions and Applications</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/championed-by-artists-the-top-6-nft-maker-tools/"><u>Championed by Artists The Top 6 NFT Maker Tools</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/create-ai-avatar-video-with-ai-script-for-2024/"><u>Create AI Avatar Video with AI Script for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/deactivate-chatgpts-record-functionality-for-secure-talks/"><u>Deactivate ChatGPT’s Record Functionality for Secure Talks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/demystifying-elon-musks-ambitious-brainchild-what-is-truthgpt/"><u>Demystifying Elon Musk's Ambitious Brainchild: What Is TruthGPT?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/enhanced-performance-thermaltake-unveils-powerful-120mm-and-br)/"><u>Enhanced Performance: Thermaltake Unveils Powerful 120Mm & ^Br></u></a></li>
+<li><a href="https://tech-hub.techidaily.com/evaluating-language-precision-chatgpt-versus-google-translate/"><u>Evaluating Language Precision: ChatGPT Versus Google Translate</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exclusive-leaks-on-apples-rumored-new-touchscreen-macbook-release-schedule-pricing-insights-and-specs-disclosed/"><u>Exclusive Leaks on Apple's Rumored New Touchscreen MacBook - Release Schedule, Pricing Insights, and Specs Disclosed</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-t-mobile-iphone-11-online-without-sim-card-by-drfone-ios/"><u>In 2024, How to Unlock T-Mobile iPhone 11 online without SIM Card?</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/rediscovering-the-past-with-your-camera-roll-on-snapchat/"><u>Rediscovering the Past with Your Camera Roll on Snapchat</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-xiaomi-civi-3-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Xiaomi Civi 3 Device</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-the-power-of-ai-writing-my-podcast-script-using-chatgpt/"><u>Unlocking the Power of AI: Writing My Podcast Script Using ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-langchain-essentials-for-new-users/"><u>Unveiling LangChain: Essentials for New Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/what-does-a-404-error-mean-resolving-missing-pages-on-your-site/"><u>What Does a 404 Error Mean? Resolving Missing Pages on Your Site</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-have-chatgpt-escapes-stopped-working-here-are-7-insights-explained/"><u>Why Have ChatGPT Escapes Stopped Working? Here Are 7 Insights Explained</u></a></li>
 </ul></div>
 

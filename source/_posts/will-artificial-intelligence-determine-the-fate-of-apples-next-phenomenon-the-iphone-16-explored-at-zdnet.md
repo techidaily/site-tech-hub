@@ -1,7 +1,7 @@
 ---
 title: Will Artificial Intelligence Determine the Fate of Apple's Next Phenomenon, the iPhone 16? | Explored at ZDNET
-date: 2024-10-16T17:22:03.449Z
-updated: 2024-10-21T19:36:49.189Z
+date: 2024-10-25T17:16:58.947Z
+updated: 2024-10-27T16:17:47.195Z
 tags:
   - apple
 categories:
@@ -30,13 +30,6 @@ Ever since, those attributes have defined all smartphones, save for one common s
 
 But of all the capabilities and components of these amazing and ubiquitous computing devices, it is the smartphone _camera_ that has seen the most extraordinary evolution. Phone cameras made their first appearance during the era when smartphones started becoming practical, everyday devices. Then, these cameras advanced in an App Store-centric world where companies like [Blackmagic Design could create camera apps](https://www.blackmagicdesign.com/products/blackmagiccamera) that redefine how a smartphone camera works. Now, artificial intelligence (AI) and machine learning (ML) are changing the very nature of what a camera can do.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Pre-modern smartphones
 
 Identifying the first anything is always a tricky undertaking. The very first device labeled as a smartphone (they called it a "Smart Phone") was the [Ericsson 88](https://www.mobilephonemuseum.com/phone-detail/gs-88) from 1997\. Only 200 were made, and it was mostly a personal digital assistant. It most definitely did not have a camera.
@@ -63,13 +56,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 Another phone -- and my personal device for four years -- was the [Palm Treo 600](https://www.zdnet.com/article/treo-600-debuts-with-new-improvements-and-old-design-flaws/), released in 2003\. This device did a lot, including supporting a camera capable of taking 640x480 resolution images. The Treo didn't have Wi-Fi or Bluetooth, limiting its connectivity to a cable connected to the computer for image downloads. Its big claim to fame was that it could run any of the thousands of PalmOS apps that were available for download. Installing those apps, however, also involved connecting a cable to a computer.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2008: The birth of the modern smartphone
 
 Released on June 29, 2007, [the iPhone](https://web.archive.org/web/20070629165202/http://www.apple.com/iphone) was explosive. Many of us remember the lines of people waiting to get their first phone. I sat those lines out, happy with my Treo. While the first iPhone had nearly all of the characteristics of a modern smartphone, including a 2.0MP rear-facing camera, the only apps it allowed were crude customized web pages. My Treo had far better native PalmOS apps.
@@ -91,10 +77,10 @@ Over in the Android world, its first phone was the HTC Dream, also marketed as t
 With the iPhone 3 and the App Store, along with the first Android phone, it's fair to say that 2008 was the first year of the modern smartphone era.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2010: Smartphones meet narcism, a match made in heaven
@@ -117,6 +103,13 @@ Many smartphones today capture 8K video directly into phone storage. These inclu
 
 Over time, all the increases in storage capacity, processor speed, battery life, and display resolution were accompanied by improvements to the software inside the phones, with vendors adding all sorts of smarts to their camera applications.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2017: The start of the AI/ML smartphone era
 
 It's difficult to nail down exactly when machine learning found its way into smartphones, but a good case can be made for 2017\. That year, [Google released the Pixel 2](https://blog.google/products/pixel/pixel-visual-core-image-processing-and-machine-learning-pixel-2/), which got a portrait mode that blurred backgrounds, and improved processing for HDR images.
@@ -126,6 +119,13 @@ Apple, too, was focusing on portrait mode photography in 2017, [introducing the 
 **Also: [How the iPhone 15 Pro Max challenges mirrorless cameras: We compare price and performance](https://www.zdnet.com/article/how-the-iphone-15-pro-max-challenges-mirrorless-cameras-we-compare-price-and-performance/)**
 
 Overall, these initial machine learning capabilities enhanced overall photo processing, improving aspects like auto-focus, exposure, color balancing, and noise reduction. The integration of machine learning into the Pixel and iPhone's camera systems marked a significant step forward in the quality and capabilities of smartphone photography.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## AI and machine learning in today's smartphones
 
@@ -178,10 +178,10 @@ This technique pits a "generator" algorithm against a "discriminator" algorithm 
 **Also: [Generative AI: Just don't call it an 'artist'](https://www.zdnet.com/article/generative-ai-just-dont-call-it-an-artist-say-scholars-in-science-magazine/)** 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Quality-of-life enhancements
@@ -262,24 +262,22 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/fficiently-shortening-youtube-content-for-2024/"><u>[New] Efficiently Shortening YouTube Content for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-boosting-visibility-the-art-of-crafting-youtube-channel-backlinks/"><u>[New] In 2024, Boosting Visibility The Art of Crafting YouTube Channel Backlinks</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-quick-steps-to-authenticate-your-youtube-login/"><u>2024 Approved Quick Steps to Authenticate Your YouTube Login</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/2024s-elite-iphones-a-deep-dive-into-performance-and-features-expert-analysis/"><u>2024'S Elite iPhones: A Deep Dive Into Performance and Features | Expert Analysis</u></a></li>
-<li><a href="https://win-able.techidaily.com/cyberpunk-2077-update-overcoming-the-challenge-of-elevated-cpu-demands/"><u>Cyberpunk 2077 Update: Overcoming the Challenge of Elevated CPU Demands</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-safe-are-we-exploring-the-risks-of-chatgpt-as-a-cybercriminals-ally-against-banks-and-pcs/"><u>How Safe Are We? Exploring the Risks of ChatGPT as a Cybercriminal's Ally Against Banks & PCs</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-should-freelancers-decide-between-bing-chat-and-chatgpt-8-critical-factors-to-assess/"><u>How Should Freelancers Decide Between Bing Chat and ChatGPT? 8 Critical Factors to Assess</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-chatgpt-effective-in-editing-and-proofreading-texts/"><u>Is ChatGPT Effective in Editing and Proofreading Texts?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/leading-giant-nlp-models-unveiling-the-six-most-powerful-llms/"><u>Leading Giant NLP Models: Unveiling the Six Most Powerful LLMs</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-chatbot-creation-personalizing-via-gpt-techniques/"><u>Mastering Chatbot Creation: Personalizing via GPT Techniques</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-crypto-discussions-with-chatgpt-your-go-to-list-of-top-10-prompts/"><u>Mastering Crypto Discussions with ChatGPT: Your Go-To List of Top 10 Prompts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/microsofts-ai-the-next-level-of-bing/"><u>Microsoft's AI, The Next Level of Bing</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/no-phone-required-how-to-enroll-in-chatgpt-telegram-and-whatsapp-alternatives/"><u>No Phone Required: How to Enroll in ChatGPT, Telegram & WhatsApp Alternatives</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/no-phone-no-problem-how-to-create-accounts-on-popular-platforms-without-a-cellular-number/"><u>No Phone? No Problem! How to Create Accounts on Popular Platforms Without a Cellular Number</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-nokia-c12-pro-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Nokia C12 Pro to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-remedies-effective-ways-to-stop-logitech-g930-mic-from-going-offline/"><u>Quick Remedies: Effective Ways to Stop Logitech G930 Mic From Going Offline</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/silent-voices-in-the-social-media-arena-ig-live-edition/"><u>Silent Voices in the Social Media Arena - IG Live Edition</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/the-beginners-guide-to-free-screen-capture-software-for-2024/"><u>The Beginner's Guide to Free Screen Capture Software for 2024</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/troubleshooting-steps-solving-the-mystery-of-missing-wi-fi-on-hp-devices/"><u>Troubleshooting Steps: Solving the Mystery of Missing Wi-Fi on HP Devices</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-renewal-of-photo-viewing-capabilities-in-windows-10-guide/"><u>[New] Renewal of Photo Viewing Capabilities in Windows 10 - Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-understanding-your-macs-capabilities-in-big-sur/"><u>[Updated] Understanding Your Mac's Capabilities in Big Sur</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/10-popular-cartoon-characters-that-should-top-your-list/"><u>10 Popular Cartoon Characters That Should Top Your List</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/affordable-performance-build-your-own-compact-system-with-asrocks-deskmate-x600-and-full-sized-gpu-exclusive-to-the-chinese-market/"><u>Affordable Performance: Build Your Own Compact System With ASRock's DeskMate X600 and Full-Sized GPU - Exclusive to the Chinese Market</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-for-entrepreneurs-unlocking-opportunities-with-8-essential-tips/"><u>ChatGPT for Entrepreneurs: Unlocking Opportunities with 8 Essential Tips</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/deciphering-bingcoin-hoaxes-a-crypto-guide/"><u>Deciphering BingCoin Hoaxes: A Crypto Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-six-functionalities-of-chatgpts-interpreter/"><u>Exploring Six Functionalities of ChatGPT's Interpreter</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-can-i-unlock-my-iphone-8-plus-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>How Can I Unlock My iPhone 8 Plus After Forgetting my PIN Code? | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-connect-canon-printer-to-wifi-easily/"><u>How to Connect Canon Printer to Wifi Easily</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Vivo Y27 5G? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-motorola-razr-40-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Motorola Razr 40</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-it-secure-to-use-external-chatgpt-plugins-and-addons-in-your-browsers/"><u>Is It Secure to Use External ChatGPT Plugins & Addons in Your Browsers?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/quick-enrollment-tips-using-apps-without-a-mobile-number/"><u>Quick Enrollment Tips: Using Apps without a Mobile Number</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reboot-and-repair-windows-explorer-error/"><u>Reboot & Repair: Windows Explorer Error</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transform-chatgpt-dialogues-expert-techniques-unveiled/"><u>Transform ChatGPT Dialogues: Expert Techniques Unveiled</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unpacking-microsofts-latest-move-with-blizzard-revolutionizing-ai-art-and-translation-technologies-podcast-insight/"><u>Unpacking Microsoft's Latest Move with Blizzard: Revolutionizing AI Art & Translation Technologies - Podcast Insight</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unveiling-5-cutting-edge-hmds-for-drone-masters/"><u>Unveiling 5 Cutting-Edge HMDs for Drone Masters</u></a></li>
 </ul></div>
 

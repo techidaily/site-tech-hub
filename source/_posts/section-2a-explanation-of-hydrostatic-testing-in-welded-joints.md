@@ -1,7 +1,7 @@
 ---
 title: "Section 2A: Explanation of Hydrostatic Testing in Welded Joints"
-date: 2024-10-17T18:25:14.199Z
-updated: 2024-10-21T16:22:00.970Z
+date: 2024-10-26T16:32:26.518Z
+updated: 2024-10-27T17:53:55.937Z
 tags:
   - apple
 categories:
@@ -28,13 +28,6 @@ Show less
 
 ## Microsoft Authenticator
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Put multi-factor authentication in your pocket or on your wrist
 
 There are a tremendous number of authenticator apps available for iOS. Most of them handle the basic chores of generating Time-based One-time Password (TOTP) codes, which you can use to verify your identity when using a website or service that you previously set up on your mobile device.
@@ -50,20 +43,13 @@ Show less
 [View now at App Store](https://apps.apple.com/us/app/microsoft-outlook/id951937596)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Microsoft Outlook
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Quick access to email, calendar, and cloud storage accounts
 
@@ -78,19 +64,6 @@ Show Expert Take Show less
 Show less 
 
 [View now at App Store](https://apps.apple.com/us/app/microsoft-office/id541164041)
-
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Microsoft Office
 
@@ -110,6 +83,19 @@ Show less
 
 ## Microsoft OneNote
 
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### The hidden gem of the Office family
 
 It's a shame that OneNote is often overlooked in favor of flashier members of the Office family like Word and Excel, because it's an absolutely first-rate productivity tool. You can use its freeform information gathering tools to take notes in a meeting or classroom, manage lists, keep track of receipts, organize research, and much more.
@@ -126,13 +112,6 @@ Show less
 
 ## Microsoft OneDrive
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Unlock a terabyte of cloud storage with a Microsoft 365 subscription
 
 Every free Microsoft account includes 5 GB of OneDrive storage. If you have a Microsoft 365 account (home or business) that allotment expands to a full terabyte of cloud storage. From an iPhone or iPad, you can upload and download files to that cloud storage space; you also have the option to share them with other people.
@@ -148,13 +127,20 @@ Show less
 [View now at App Store](https://apps.apple.com/us/app/microsoft-edge-web-browser/id1288723196)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Microsoft Edge
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### For the first time in decades, Microsoft has a serious mobile browser
 
@@ -186,19 +172,6 @@ Show less
 
 [View now at App Store](https://apps.apple.com/us/app/microsoft-to-do/id1212616790)
 
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Microsoft To Do
 
 ### Keep track of Projects and tasks and send reminders to yourself or your team
@@ -215,7 +188,21 @@ Show less
 
 [View now at App Store](https://apps.apple.com/us/app/remote-desktop-mobile/id714464092)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Remote Desktop Mobile
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Connect to a desktop PC or server from your mobile device
 
@@ -230,6 +217,13 @@ Show Expert Take Show less
 Show less 
 
 [View now at App Store](https://apps.apple.com/us/app/microsoft-lists/id1530637363)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Microsoft Lists
 
@@ -273,17 +267,18 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-get-paid-to-review-products-on-youtube-for-2024/"><u>[New] How to Get Paid to Review Products on YouTube for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-ultimate-list-groundbreayer-vr-gloves-reviewed/"><u>[Updated] 2024 Approved Ultimate List Groundbreayer VR Gloves Reviewed</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-snapcutmaster-insights-full-video-editor-evaluation/"><u>[Updated] SnapCutMaster Insights – Full Video Editor Evaluation</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-security-do-privacy-leaks-plague-chatgpt-interactions/"><u>Exploring the Security: Do Privacy Leaks Plague ChatGPT Interactions?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/from-theory-to-action-implementing-chatgpt-api/"><u>From Theory to Action: Implementing ChatGPT API</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-does-ai-driven-chatbot-filtering-influence-you-an-insight-into-digital-communication-controls/"><u>How Does AI-Driven Chatbot Filtering Influence You? An Insight Into Digital Communication Controls</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-samsung-galaxy-s23plus-by-drfone-android/"><u>How to Bypass FRP on Samsung Galaxy S23+?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-windows-10-audio-issues-step-by-step-guide/"><u>How to Fix Windows 10 Audio Issues - Step-by-Step Guide</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-iphone-13-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock iPhone 13 in Lost Mode</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-pc-upload-simplified-essential-file-transfer-strategies/"><u>In 2024, PC Upload Simplified Essential File Transfer Strategies</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/laughter-powered-by-algorithms-can-chatgpt-outdo-human-comedians/"><u>Laughter Powered by Algorithms: Can ChatGPT Outdo Human Comedians?</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-top-ai-rap-voice-generators-upgrade-your-rap-for-2024/"><u>New Top AI Rap Voice Generators Upgrade Your Rap for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-optimal-webp-to-jpg-transformation-guide/"><u>[New] 2024 Approved Optimal WebP-to-JPG Transformation Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-capture-and-crop-with-ios-top-iphone-apps-reviewed/"><u>In 2024, Capture & Crop with iOS Top iPhone Apps Reviewed</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-xiaomi-redmi-k70-pro-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Xiaomi Redmi K70 Pro</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-modifying-the-default-language-of-your-windows-10-operating-system/"><u>Step-by-Step Tutorial: Modifying the Default Language of Your Windows 10 Operating System</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/successfully-updating-to-directx-12-with-windows-11-a-step-by-step-process/"><u>Successfully Updating to DirectX 12 with Windows 11 - A Step-by-Step Process</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-5-premier-vpn-choices-for-a-safer-youtube-browsing-adventure/"><u>The 5 Premier VPN Choices for a Safer YouTube Browsing Adventure</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-video-metadata-editing-on-mac-top-8-picks/"><u>The Ultimate Guide to Video Metadata Editing on Mac (Top 8 Picks)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-calculations-discover-the-triad-of-key-applications-for-chatgpt-integrated-with-wolfram-technology/"><u>Transforming Calculations: Discover the Triad of Key Applications for ChatGPT Integrated with Wolfram Technology</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/troubleshooting-airpods-poor-performance-with-pc-a-step-by-step-guide/"><u>Troubleshooting AirPods Poor Performance with PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-capturing-your-screen-on-windows-or-mac/"><u>Ultimate Guide: Capturing Your Screen on Windows or Mac</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unfreeze-your-stalled-pc-on-windows-10-with-these-simple-steps/"><u>Unfreeze Your Stalled PC on Windows 10 with These Simple Steps</u></a></li>
+<li><a href="https://win-able.techidaily.com/unveiling-the-mystery-football-manager-2022-release-held-up-now-fixed/"><u>Unveiling the Mystery: Football Manager 2022 Release Held Up, Now Fixed!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/whats-new-in-windows-10-creators-update-insider-preview-build-1503/"><u>What’s New in Windows 10 Creators Update: Insider Preview Build 1503</u></a></li>
 </ul></div>
 

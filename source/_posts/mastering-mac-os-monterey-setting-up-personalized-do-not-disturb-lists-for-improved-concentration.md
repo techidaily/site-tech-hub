@@ -1,7 +1,7 @@
 ---
 title: "Mastering Mac OS MONTEREY: Setting Up Personalized Do Not Disturb Lists for Improved Concentration"
-date: 2024-10-17T18:52:30.459Z
-updated: 2024-10-21T18:36:01.570Z
+date: 2024-10-21T17:08:36.421Z
+updated: 2024-10-27T16:49:46.826Z
 tags:
   - apple
 categories:
@@ -28,22 +28,22 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 
 ## Create a custom Focus
 
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
+
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
 
@@ -54,10 +54,10 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Open the Focus tab
@@ -67,6 +67,13 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 **Figure 2:** You'll find a single pre-configured Focus for Do Not Disturb already available.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
 
@@ -85,10 +92,10 @@ Image: Jack Wallen
 After naming and selecting a color/icon, click Add to save the new Focus.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. Allowing specific notifications
@@ -104,13 +111,6 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 **Figure 6:** Adding contacts to a Focus in macOS Monterey.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
 
@@ -154,24 +154,20 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-optimal-visuals-selecting-superior-gear-for-4k-projects/"><u>[New] Optimal Visuals Selecting Superior Gear for 4K Projects</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-express-screen-snag-aural-elements/"><u>2024 Approved Express Screen Snag Aural Elements</u></a></li>
-<li><a href="https://network-issues.techidaily.com/boost-pc-visuals-with-an-easy-to-execute-intel-graphics-driver-upgrade-on-w10/"><u>Boost PC Visuals with an Easy-to-Execute Intel Graphics Driver Upgrade on W10.</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/encountered-moisture-in-smartphone-charger-opening-discover-solutions-for-iphones-on-techsite/"><u>Encountered Moisture in Smartphone Charger Opening? Discover Solutions for iPhones on TechSite</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/enhance-your-livestream-with-manycam-advanced-webcam-effects-and-online-broadcast-tools/"><u>Enhance Your Livestream with ManyCam - Advanced Webcam Effects and Online Broadcast Tools</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/enhancing-efficiency-in-your-digital-team-a-guide-for-social-media-professionals-using-massmail-solutions/"><u>Enhancing Efficiency in Your Digital Team: A Guide for Social Media Professionals Using MassMail Solutions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/introducing-a-lifesaving-feature-googles-latest-pixel-vehicle-9-the-first-android-phone-to-support-sos-messaging-via-satellite-tech-insights/"><u>Introducing a Lifesaving Feature: Google's Latest Pixel Vehicle 9, The First Android Phone to Support SOS Messaging via Satellite | Tech Insights</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/june-2024s-must-see-discounts-at-best-buy-showcased-by-zdnet/"><u>June 2024'S Must-See Discounts at Best Buy Showcased by ZDNET</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/navigating-through-the-features-of-skagen-falster-2-vs-classic-apple-phones/"><u>Navigating Through the Features of Skagen Falster 2 Vs. Classic Apple Phones</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-applications-and-software-take-up-your-devices-storage-to-create-slow-mo-explore-this-piece-to-learn-about-some-slow-motion-video-online-makers-for-2024/"><u>New Applications and Software Take up Your Devices Storage to Create Slow-Mo. Explore This Piece to Learn About some Slow-Motion Video Online Makers for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/roller-champions-crossplay-2024-pc-guide/"><u>Roller Champions Crossplay - 2024 PC Guide</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-poco-f5-pro-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Poco F5 Pro 5G with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-to-detecting-and-eliminating-mobile-spyware-on-your-smartphone/"><u>Step-by-Step Guide to Detecting & Eliminating Mobile Spyware on Your Smartphone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/story-3-the-delayed-reaction-assumption-answer-d/"><u>Story 3: The Delayed Reaction Assumption (Answer D)</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-future-of-iphone-interactivity-exploring-benefits-as-apple-integrates-nfc-with-app-makers-innovations-gizmodo/"><u>The Future of iPhone Interactivity: Exploring Benefits as Apple Integrates NFC with App Makers' Innovations | Gizmodo</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-iphone-case-review-surpassing-the-comfort-of-a-physical-keyboard-unveiling-hidden-gems/"><u>The iPhone Case Review: Surpassing the Comfort of a Physical Keyboard - Unveiling Hidden Gems</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/trasformare-i-file-video-3gp-in-mp4-gratuitamente-guida-completa/"><u>Trasformare I File Video .3Gp in .mp4 Gratuitamente: Guida Completa</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/upcoming-autumn-releases-in-depth-look-at-apples-newest-additions-to-iphone-ipad-mac-and-integration-of-ai-features-insights-from-zdnet/"><u>Upcoming Autumn Releases: In-Depth Look at Apple's Newest Additions to iPhone, iPad, Mac & Integration of AI Features - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/zdnets-ultimate-guide-to-the-top-computers-in-202c-analyzing-apple-dell-and-more/"><u>ZDNet's Ultimate Guide to the Top Computers in 202C - Analyzing Apple, Dell, and More!</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-adhering-to-correct-aspect-ratio-in-twitter-videos/"><u>[Updated] 2024 Approved Adhering to Correct Aspect Ratio in Twitter Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-are-paid-reviews-common-amongst-online-reviewers/"><u>[Updated] Are Paid Reviews Common Amongst Online Reviewers?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-eye-on-the-screen-youtube-journey-comparison-from-creator-to-competitor/"><u>[Updated] In 2024, Eye on the Screen YouTube Journey Comparison From Creator to Competitor</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-step-by-step-clearing-background-artifacts-in-figma/"><u>[Updated] In 2024, Step-by-Step Clearing Background Artifacts in Figma</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-guide-to-openais-gpt-evolution-gpt-1-4/"><u>A Guide to OpenAI's GPT Evolution (GPT-1-4)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-linguistic-enigma-solved-interpreting-chatgpts-programming-puzzle/"><u>A Linguistic Enigma Solved: Interpreting ChatGPT's Programming Puzzle</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-step-by-step-approach-to-boosting-productivity-through-chatgpt-integration/"><u>A Step-by-Step Approach to Boosting Productivity Through ChatGPT Integration</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-revolution-how-to-optimize-your-searches-using-microsofts-bing-on-android-phones/"><u>AI Revolution: How to Optimize Your Searches Using Microsoft's Bing on Android Phones</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1721865641506-chatgpt-the-ultimate-chefs-sidekick-7-cooking-hacks-inside/"><u>ChatGPT: The Ultimate Chef's Sidekick - 7 Cooking Hacks Inside</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722008546625-how-the-chatgpt-mobile-app-surpasses-the-web-version-6-key-reasons-why/"><u>How the ChatGPT Mobile App Surpasses the Web Version: 6 Key Reasons Why</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-samsung-galaxy-m14-4g-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Samsung Galaxy M14 4G Lock Screen Password</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-laugh-lines-best-comedy-video-concepts-for-the-social-media-sphere/"><u>In 2024, Laugh Lines Best Comedy Video Concepts for the Social Media Sphere</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-installing-the-latest-drivers-for-microsofts-ergonomic-sculpt-keyboard/"><u>Step-by-Step Tutorial: Installing the Latest Drivers for Microsoft's Ergonomic Sculpt Keyboard</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-guide-to-metaverse-memes-and-diy-humor-mastery/"><u>The Ultimate Guide to Metaverse Memes and DIY Humor Mastery</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1721874815957-uncover-hidden-gems-discover-the-six-coolest-chatgpt-compatible-games/"><u>Uncover Hidden Gems: Discover The Six Coolest ChatGPT-Compatible Games</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Discover Apple's New CarPlay Enhancements Unveiled WWDC Highlights | ZDNet
-date: 2024-10-18T18:26:25.223Z
-updated: 2024-10-21T18:58:24.778Z
+date: 2024-10-25T16:31:39.488Z
+updated: 2024-10-27T17:45:49.623Z
 tags:
   - apple
 categories:
@@ -29,10 +29,10 @@ This year, Apple upgraded each of its operating systems significantly, introduci
 ## The best iPadOS 18 features announced at WWDC
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Apple Intelligence on the iPad
@@ -54,13 +54,6 @@ Because Siri is also an expert on your device's information, you can ask for an 
 iPad users can also leverage [generative AI](https://www.zdnet.com/article/what-is-generative-ai-and-why-is-it-so-popular-heres-everything-you-need-to-know/) system wide to create text, rewrite, summarize, and make major edits, like changing a tone and proofreading.
 
 Other new Apple Intelligence features on the iPad include redesigning the Photos app, enhanced Siri with gesture control via AirPods Pro, and more. These features will give iPad users a more intuitive tablet with better hands-free control and multitasking capabilities. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. A built-in Calculator for iPad
 
@@ -85,16 +78,10 @@ The Notes app for iPad also has been redesigned, with Smart Script in Notes for 
 Smart Script in Notes also lets users erase portions of notes by scratching them out. This feature also draws from the Calculator on iPad, letting users make calculations and graphs like they would in the Calculator. 
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. A Passwords app
@@ -106,6 +93,13 @@ Apple has used the iCloud Keychain for years now, a way to store passwords and l
 Apple is making the new Passwords app available for iOS and iPadOS, giving users a more user-friendly way to access, edit, share, and autofill their passwords. Instead of digging through the iPad's Settings to find the iCloud Keychain, users will have a separate app called Passwords, which works much like LastPass and 1Password. 
 
 As a longtime LastPass user and Keychain disdainer, I look forward to testing this app and enjoying centralized password management with an enhanced user interface. I expect the Passwords app for iPad will greatly improve security for many users, making the access and management of passwords more convenient. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What we didn't get: An 'always on' display
 
@@ -130,10 +124,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which iPads will support iPadOS 18?
@@ -177,22 +171,17 @@ Here are the iPad models that will be updated to iPadOS 18 when available:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-your-guide-to-top-6-free-online-video-downloads/"><u>[Updated] 2024 Approved Your Guide to Top 6 Free, Online Video Downloads</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-expert-insights-into-tunefabs-recording-capabilities-for-2024/"><u>[Updated] Expert Insights Into Tunefab's Recording Capabilities for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-top-10-essentials-in-livestreaming-platform-selection/"><u>[Updated] In 2024, Top 10 Essentials in Livestreaming Platform Selection</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/amplify-your-footage-the-power-of-enhancer-22/"><u>Amplify Your Footage The Power of Enhancer 2.2</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/experience-better-ai-assistance-with-these-4-reasons-for-choosing-microsoft-copilot-over-chatgpt/"><u>Experience Better AI Assistance with These 4 Reasons for Choosing Microsoft Copilot over ChatGPT</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-oneplus-ace-3-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from OnePlus Ace 3 Phones with/without a PC</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Samsung Galaxy A24? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/inside-claudes-world-shaping-tomorrow-with-intelligent-solutions/"><u>Inside Claude's World: Shaping Tomorrow with Intelligent Solutions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-there-a-length-cap-on-answers-from-chatgpt/"><u>Is There a Length Cap on Answers From ChatGPT?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/master-your-minutes-top-4-chatgpt-strategies-for-time-optimization/"><u>Master Your Minutes: Top 4 ChatGPT Strategies for Time Optimization</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-chatgpt-a-guide-to-ensuring-your-chats-are-saved-correctly/"><u>Mastering ChatGPT: A Guide to Ensuring Your Chats Are Saved Correctly</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-the-chatgpt-api-a-step-by-step-guide/"><u>Mastering the ChatGPT API: A Step-by-Step Guide</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/maximizing-mobile-video-quality-in-tweets-for-2024/"><u>Maximizing Mobile Video Quality in Tweets for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/openai-is-it-losing-the-reins-on-chatgpts-future/"><u>OpenAI: Is It Losing the Reins on ChatGPT's Future?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/overcoming-chatgpt-authentication-hurdles-expert-tips-and-techniques/"><u>Overcoming ChatGPT Authentication Hurdles: Expert Tips & Techniques</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/overcoming-lonely-moments-using-chatgpt-technology/"><u>Overcoming Lonely Moments Using ChatGPT Technology</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/windows-11-blocks-desktop-programs-win32-apps-points-to-windows-store/"><u>Windows 11 Blocks Desktop Programs (Win32 Apps), Points to Windows Store</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-navigating-twitters-aspect-ratio-policies/"><u>[New] In 2024, Navigating Twitter's Aspect Ratio Policies</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-top-5-ps1-emulation-software-on-modern-computers/"><u>[New] Top 5 PS1 Emulation Software on Modern Computers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-pro-android-pixel-perfect-techniques/"><u>[Updated] 2024 Approved Pro Android Pixel Perfect Techniques</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-push-boundaries-in-image-editing-expert-distortion-techniques/"><u>[Updated] Push Boundaries in Image Editing Expert Distortion Techniques</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/discover-the-best-free-windows-screen-recorder-tools-1-5-for-2024/"><u>Discover the Best Free Windows Screen Recorder Tools #1-5 for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/discovering-best-in-class-live-church-broadcast/"><u>Discovering Best-in-Class Live Church Broadcast</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-do-devices-learn-and-process-information-locally/"><u>How Do Devices Learn and Process Information Locally?</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/rapid-remedies-for-blue-screen-of-death-due-to-faulty-system-settings/"><u>Rapid Remedies for 'Blue Screen of Death' Due to Faulty System Settings</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/smartwatch-evolution-through-conversation-gpts-top-6-innovations/"><u>Smartwatch Evolution Through Conversation: GPT's Top 6 Innovations</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-key-aspects-you-shouldnt-ignore-while-choosing-a-health-and-activity-monitor/"><u>The Key Aspects You Shouldn't Ignore While Choosing a Health and Activity Monitor</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transform-your-enterprise-the-5-artificial-intelligence-resources-for-savvy-business-owners/"><u>Transform Your Enterprise: The 5 Artificial Intelligence Resources for Savvy Business Owners</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-features-of-claude-pro-versus-chatgpt-plus-by-microsoft/"><u>Unveiling the Features of Claude Pro Versus ChatGPT Plus by Microsoft</u></a></li>
 </ul></div>
 

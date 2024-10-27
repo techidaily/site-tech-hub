@@ -1,7 +1,7 @@
 ---
 title: Top 10 Desired Enhancements for VisionOS Awaiting Reveal by Apple at the Upcoming WWDC - Insights From ZDNet
-date: 2024-10-16T21:23:45.828Z
-updated: 2024-10-21T21:23:56.826Z
+date: 2024-10-25T17:39:03.992Z
+updated: 2024-10-27T16:08:11.674Z
 tags:
   - apple
 categories:
@@ -68,6 +68,13 @@ Jason Hiner/ZDNET
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## iOS 18
 
 Adam Breeden/ZDNET
@@ -87,10 +94,10 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -107,6 +114,13 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -118,10 +132,10 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -134,13 +148,6 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -158,19 +165,6 @@ Jason Hiner/ZDNET
 * Apple TV brings **multiview to Vision Pro**, which is especially useful when watching sports games.
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
-
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## AirPods
 
@@ -224,22 +218,16 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-complete-beginners-reference-to-final-cut-pro-for-2024/"><u>[New] Complete Beginner's Reference to Final Cut Pro for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-4k-uxga-reality-check-detailed-review-of-asus-mg28uq/"><u>[Updated] 4K UXGA Reality Check - Detailed Review of ASUS MG28UQ</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-beyond-the-screen-ultimate-vr-gadget-guide/"><u>2024 Approved Beyond the Screen - Ultimate VR Gadget Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/changing-your-protonvpn-account-e-mail-a-step-by-step-guide/"><u>Changing Your ProtonVPN Account E-Mail: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-limitations-phrases-it-cant-address-or-interpret/"><u>ChatGPT Limitations: Phrases It Can't Address or Interpret</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-originality-how-does-it-avoid-plagiarism-in-its-responses/"><u>ChatGPT Originality: How Does It Avoid Plagiarism in Its Responses?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/clearing-the-path-solutions-for-4-common-gpt-3-bans/"><u>Clearing the Path: Solutions for 4 Common GPT-3 Bans</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/crafting-one-of-a-kind-ai-pictures-using-microsofts-innovative-image-creator-tool/"><u>Crafting One-of-a-Kind AI Pictures Using Microsoft's Innovative Image Creator Tool</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/deciphering-digital-whispers-understanding-the-essence-of-the-dead-internet-theory/"><u>Deciphering Digital Whispers: Understanding the Essence of the 'Dead Internet Theory'</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-8-creative-strategies-with-chatgpts-visual-capabilities/"><u>Discover 8 Creative Strategies with ChatGPT's Visual Capabilities</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discovering-the-gaps-7-requests-chatgpt-cannot-fulfill-or-interpret/"><u>Discovering the Gaps: 7 Requests ChatGPT Cannot Fulfill or Interpret</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/from-video-to-music-youtube-to-mp3-on-macos-for-2024/"><u>From Video to Music YouTube to MP3 on MacOS for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-supercharge-your-pc-with-these-win-10-tricks/"><u>In 2024, Supercharge Your PC with These Win 10 Tricks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/livekernel-event-error-144-strategies-to-solve-the-problem-quickly/"><u>LiveKernel Event Error 144: Strategies to Solve the Problem Quickly</u></a></li>
-<li><a href="https://win-webster.techidaily.com/navigating-your-order-with-mirillis-complete-guide-to-transaction-steps-and-acceptable-currencies/"><u>Navigating Your Order with Mirillis: Complete Guide to Transaction Steps & Acceptable Currencies</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-12-prominent-vivo-s18-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Vivo S18 Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-vivo-y78-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-anime-emojis-and-animations-sprucing-up-your-tiktok-videos/"><u>[New] 2024 Approved Anime Emojis & Animations Sprucing Up Your TikTok Videos</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-freeze-action-with-iphone-mastery-of-motion-blur-techniques/"><u>2024 Approved Freeze Action with iPhone Mastery of Motion-Blur Techniques</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721268058856-stellar-repair/"><u>迅速対応：高品位画像復元ソフトウェア「Stellar Repair」の入手方法</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-cooldown-chart-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/quick-steps-to-change-weather-location-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>Quick Steps to Change Weather Location on Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://win-help.techidaily.com/solving-windows-10-boot-volume-damage-a-step-by-step-guide/"><u>Solving Windows 10 Boot Volume Damage: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-successfully-installing-inf-drivers-on-windows-11-7-8-xp-and-vista/"><u>Step-by-Step Guide: Successfully Installing INF Drivers on Windows 11, 7, 8, XP & Vista</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-quick-fix-update-your-facebook-password-with-minimal-hassle/"><u>The Quick Fix: Update Your Facebook Password with Minimal Hassle</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-game-torrents-at-a-glance-navigating-the-best-free-downloading-portals/"><u>Top Game Torrents at a Glance: Navigating the Best Free Downloading Portals</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/troubleshooting-steps-to-solve-your-logitech-mouses-latency-issues/"><u>Troubleshooting Steps to Solve Your Logitech Mouse's Latency Issues</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-guide-steps-to-link-your-ps4-gamepad-effortlessly/"><u>Ultimate Guide: Steps to Link Your PS4 Gamepad Effortlessly</u></a></li>
 </ul></div>
 

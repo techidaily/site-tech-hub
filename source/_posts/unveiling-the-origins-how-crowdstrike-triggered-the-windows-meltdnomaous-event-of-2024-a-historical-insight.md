@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Origins: How CrowdStrike Triggered the Windows Meltdnomaous Event of 2024 – A Historical Insight"
-date: 2024-10-20T16:30:25.641Z
-updated: 2024-10-21T21:45:59.014Z
+date: 2024-10-20T16:20:49.593Z
+updated: 2024-10-27T16:01:07.185Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -94,10 +94,10 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -127,16 +127,10 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -187,21 +181,18 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-simultaneously-stream-youtube-channels/"><u>[New] In 2024, Simultaneously Stream YouTube Channels</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-mastering-camtasia-ken-burns-technique-unveiled-for-2024/"><u>[New] Mastering Camtasia Ken Burns Technique Unveiled for 2024</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/3-solutions-to-find-your-apple-iphone-xs-max-current-location-of-a-mobile-number-drfone-by-drfone-virtual-ios/"><u>3 Solutions to Find Your Apple iPhone XS Max Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/creazione-di-uno-studio-cinematografico-stop-motion-il-tuo-percorso-dettagliato-passo-dopo-passo-movavi/"><u>Creazione Di Uno Studio Cinematografico Stop Motion: Il Tuo Percorso Dettagliato Passo Dopo Passo - Movavi</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-tecno-camon-20-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Tecno Camon 20 FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/te-video-impact-proven-youtube-seo-methods/"><u>Elevate Video Impact Proven YouTube SEO Methods</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/guerir-la-sauvegarde-de-votre-systeme-windows-11-sur-un-nas-qnap-deux-methodes-efficaces/"><u>Guérir La Sauvegarde De Votre Système Windows 11 Sur Un NAS QNAP: Deux Méthodes Efficaces</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-spotlight-on-professionals-the-cutting-edge-soundtracked-photovideo-artists/"><u>In 2024, Spotlight on Professionals The Cutting-Edge, Soundtracked Photo/Video Artists</u></a></li>
-<li><a href="https://techidaily.com/repair-corrupt-pdf-v12-file-using-pdf-repair-tool-by-stellar-guide/"><u>Repair Corrupt PDF v1.2 File using PDF Repair Tool</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-process-to-construct-and-train-your-own-data-driven-chat-gpt-variant/"><u>Step-by-Step Process to Construct and Train Your Own Data-Driven Chat GPT Variant</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/supercharge-gpt-4-for-nothing-more-than-a-friendly-helper-enter-copilot/"><u>Supercharge GPT-4 for Nothing More Than a Friendly Helper - Enter Copilot!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/tech-titans-meet-ms-bzs-merger-explored-with-ais-role-in-creativity-podcast/"><u>Tech Titans Meet: MS, BZ's Merger Explored with AI's Role in Creativity [Podcast]</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-comprehensive-guide-to-hugging-face-and-its-role-in-machine-learning/"><u>The Comprehensive Guide to Hugging Face and Its Role in Machine Learning</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-limitations-of-artificial-intelligence-in-spotting-authentic-content/"><u>The Limitations of Artificial Intelligence in Spotting Authentic Content</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-top-7-applications-of-chatgpt-outside-developer-environments/"><u>The Top 7 Applications of ChatGPT Outside Developer Environments</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-4-artificial-intelligence-powered-story-creation-tools/"><u>Top 4 Artificial Intelligence-Powered Story Creation Tools</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-avoid-unnecessary-interactions-block-strategies/"><u>[New] In 2024, Avoid Unnecessary Interactions Block Strategies</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-leveraging-temporal-illusions-in-cinematography/"><u>[Updated] Leveraging Temporal Illusions in Cinematography</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-enhancing-detail-in-youtube-clips/"><u>2024 Approved Enhancing Detail in YouTube Clips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-steam-readwrite-errors-with-ease/"><u>Bypassing Steam Read/Write Errors with Ease</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancements-arrive-chatgpt-introduces-top-tier-updates/"><u>Enhancements Arrive: ChatGPT Introduces Top-Tier Updates</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-honor-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Honor .</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-budget-conscious-video-modification-sites-explored-and-rated/"><u>In 2024, Top Budget-Conscious Video Modification Sites Explored and Rated</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-honor-x50-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Honor X50</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/skyrocket-traffic-innovative-strategies-for-youtube-backlink-acquisition-for-2024/"><u>Skyrocket Traffic Innovative Strategies for YouTube Backlink Acquisition for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/troubleshooting-steps-to-resolve-your-chatgpt-sign-in-issues/"><u>Troubleshooting Steps to Resolve Your ChatGPT Sign-In Issues</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-the-risks-is-chatgpt-being-misused-to-create-viruses-and-trojans/"><u>Understanding the Risks: Is ChatGPT Being Misused to Create Viruses and Trojans?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-top-five-catalysts-for-chatgptn-explosive-growth-trajectory/"><u>Unveiling the Top Five Catalysts for ChatGPT'n Explosive Growth Trajectory</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/your-guide-to-youtube-tv-5-essential-reasons-for-membership/"><u>Your Guide to YouTube TV – 5 Essential Reasons for Membership</u></a></li>
 </ul></div>
 

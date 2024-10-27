@@ -1,7 +1,7 @@
 ---
 title: "Say Goodbye to Nuisance SMS: The Three-Step Method for Securing Your iPhone Against Spam"
-date: 2024-10-19T20:55:44.709Z
-updated: 2024-10-21T18:46:11.793Z
+date: 2024-10-24T17:07:15.072Z
+updated: 2024-10-27T16:57:38.838Z
 tags:
   - apple
 categories:
@@ -30,6 +30,13 @@ The good news is that you can stop these text messages using a feature already i
 
 **What you'll need:** To follow this tutorial, you'll need the latest version of iOS available for your device.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Open Settings
 
 Open the Settings app on your iPhone, scroll down until you can access Apps, and tap on the Messages option.
@@ -37,13 +44,6 @@ Open the Settings app on your iPhone, scroll down until you can access Apps, and
 Tap on Messages to access the settings for your Messages app.
 
 Screenshot by Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Scroll until you find 'Filter Unknown Messages'
 
@@ -79,13 +79,6 @@ Screenshot by Maria Diaz/ZDNET
 
 ## FAQ
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How do I stop spam calls on iPhone?
 
 Incoming spam calls are a nuisance; if you're having that problem, you can either block specific numbers via your phone app, add your number to the National Do Not Call Registry, or block all calls from unknown numbers. To do the latter, follow these steps:
@@ -101,6 +94,13 @@ When you do this, unknown callers will go straight to voicemail and can leave yo
 
 Remember that if someone calls you from a number that is not saved in your contacts, you may miss important calls.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How do I report junk messages on iPhone?
 
 The tutorial above will let you live in ignorant bliss of whoever is trying to reach you, but you can also go a step further and report messages as junk. Here's how you can report junk messages on your iPhone:
@@ -109,6 +109,13 @@ The tutorial above will let you live in ignorant bliss of whoever is trying to r
 2. Tap on Report Junk below the message.
 
 iPhone messages from unknown senders display a text below them saying, "This sender is not in your contact list. Report Junk." This is where you can report the message.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How do I block a sender on my iPhone?
 
@@ -120,10 +127,10 @@ If you keep getting messages from the same sender after reporting them, you can 
 4. Select Block this caller.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why is the 'Filter Unknown Senders' option turned off?
@@ -131,13 +138,6 @@ If you keep getting messages from the same sender after reporting them, you can 
 The necessity for increased vigilance in certain situations -- like deliveries and communication with certain organizations -- when someone is expecting a message, is likely why Apple turns the Filter Unknown Senders feature off by default. After all, this option is meant for iPhone users who don't want to be bothered by messages from people they don't know or scammers. It can't be on by default, given that a new iPhone is void of any contacts in the address book. 
 
 **Also: [My 4 favorite iOS 18 features make the iPhone a lot better, and more fun](https://www.zdnet.com/article/my-4-favorite-ios-18-features/)**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Why am I getting so many spam text messages?
 
@@ -175,19 +175,20 @@ Some phone companies started flagging incoming calls as "Spam Caller" or "Scam L
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-how-to-download-final-cut-pro-for-free/"><u>[New] In 2024, How to Download Final Cut Pro for Free?</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-pathway-to-preserving-instagram-videos-with-ease-pcmac-methodology-for-2024/"><u>[New] Pathway to Preserving Instagram Videos with Ease (PC/Mac Methodology) for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-make-a-youtube-intro-video-2-ways/"><u>[Updated] 2024 Approved How to Make A YouTube Intro Video [2 Ways]</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-understanding-the-dynamics-behind-youtubes-investment-in-shorts/"><u>2024 Approved Understanding the Dynamics Behind YouTube's Investment in Shorts</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/cookiebot-empowered-tools-for-compliant-online-tracking/"><u>Cookiebot Empowered Tools for Compliant Online Tracking</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/essential-criteria-checklist-for-choosing-the-ideal-fitness-tracker-device/"><u>Essential Criteria Checklist for Choosing the Ideal Fitness Tracker Device</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-s-hottest-2d-animation-software-reviews-and-comparisons/"><u>New S Hottest 2D Animation Software Reviews and Comparisons</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/1719581371814-say-hi-in-another-language-today-at-nearly-no-cost-to-you/"><u>Say Hi in Another Language Today – At Nearly No Cost to You</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transform-how-you-interact-9-critical-benefits-of-opting-for-chatgpt-plus-today/"><u>Transform How You Interact: 9 Critical Benefits of Opting for ChatGPT Plus Today!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-chatgpts-content-generation-do-accusations-of-plagiarism-hold-water/"><u>Understanding ChatGPT’s Content Generation: Do Accusations of Plagiarism Hold Water?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-the-appeal-why-do-cybercriminals-focus-on-chatgpt-usernames-and-passwords/"><u>Understanding the Appeal: Why Do Cybercriminals Focus on ChatGPT Usernames and Passwords?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-the-differences-a-comparison-of-claude-pro-vs-chatgpt-plus/"><u>Understanding the Differences: A Comparison of Claude Pro Vs. ChatGPT Plus</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unraveling-the-distinctions-a-comparison-between-gpt-4-gpt-4-turbo-and-phi/"><u>Unraveling the Distinctions: A Comparison Between GPT-4, GPT-4 Turbo, and Phi</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-how-generative-ai-powers-modern-searches-and-identifying-key-players-embracing-innovation/"><u>Unveiling How Generative AI Powers Modern Searches and Identifying Key Players Embracing Innovation</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-photographic-sparkle-essential-ideas-for-inspired-posts/"><u>[New] Photographic Sparkle Essential Ideas for Inspired Posts</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-why-videographers-embrace-filmoras-premier-traits/"><u>[New] Why Videographers Embrace Filmora's Premier Traits</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-breaking-down-the-abcd-a-guide-to-crafting-compelling-fb-text/"><u>[Updated] 2024 Approved Breaking Down the ABCD A Guide to Crafting Compelling FB Text</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-oppo-a79-5g-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-3-steps-for-perfect-instagram-video-margins/"><u>2024 Approved 3 Steps for Perfect Instagram Video Margins</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/asking-the-right-questions-chatgpt-as-a-guide-in-diy-car-modifications/"><u>Asking the Right Questions: ChatGPT as a Guide in DIY Car Modifications</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-explored-an-informative-companion-for-families/"><u>ChatGPT Explored: An Informative Companion for Families</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/claude-pro-unveiled-a-comparative-study-with-chatgptplus/"><u>Claude Pro Unveiled: A Comparative Study with ChatGPT+</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/github-copilot-versus-chatgpt-determining-the-superior-programming-partner/"><u>GitHub Copilot Versus ChatGPT: Determining the Superior Programming Partner</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-11-best-location-changers-for-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transforming-everyday-alerts-how-to-create-customizable-tones-on-android-phones/"><u>In 2024, Transforming Everyday Alerts How to Create Customizable Tones on Android Phones</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-generative-design-top-5-no-cost-open-source-ai-imaging-software-choices/"><u>Mastering Generative Design: Top 5 No-Cost, Open Source AI Imaging Software Choices</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/slide-show-must-haves-for-iphone-models-787-pro-max/"><u>Slide Show Must-Haves for iPhone Models 7/8/7 Pro Max</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-strategies-for-leveraging-anthropics-newly-launched-claude/"><u>Step-by-Step Strategies for Leveraging Anthropic's Newly Launched Claude</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transform-gaming-nights-innovative-techniques-to-design-dandd-characters-with-chatgpt-and-dall-e/"><u>Transform Gaming Nights: Innovative Techniques to Design D&D Characters with ChatGPT & DALL-E</u></a></li>
 </ul></div>
 

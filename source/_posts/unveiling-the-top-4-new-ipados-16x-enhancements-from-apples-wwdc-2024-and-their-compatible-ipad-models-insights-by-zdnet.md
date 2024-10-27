@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Top 4 New iPadOS 16.x Enhancements From Apple's WWDC 2024 and Their Compatible iPad Models - Insights by ZDNet
-date: 2024-10-15T19:09:16.201Z
-updated: 2024-10-21T16:25:29.963Z
+date: 2024-10-24T17:01:29.689Z
+updated: 2024-10-27T18:03:46.603Z
 tags:
   - apple
 categories:
@@ -28,6 +28,13 @@ This year, Apple upgraded each of its operating systems significantly, introduci
 
 ## The best iPadOS 18 features announced at WWDC
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Apple Intelligence on the iPad
 
 Apple announced a ton of new artificial intelligence (AI) features coming to the iPhone with iOS 18 at WWDC today. But the iPad wasn't left behind -- new iPadOS AI features will make the iPad more user-friendly, enhancing productivity and creativity.
@@ -47,13 +54,6 @@ Because Siri is also an expert on your device's information, you can ask for an 
 iPad users can also leverage [generative AI](https://www.zdnet.com/article/what-is-generative-ai-and-why-is-it-so-popular-heres-everything-you-need-to-know/) system wide to create text, rewrite, summarize, and make major edits, like changing a tone and proofreading.
 
 Other new Apple Intelligence features on the iPad include redesigning the Photos app, enhanced Siri with gesture control via AirPods Pro, and more. These features will give iPad users a more intuitive tablet with better hands-free control and multitasking capabilities. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. A built-in Calculator for iPad
 
@@ -78,10 +78,16 @@ The Notes app for iPad also has been redesigned, with Smart Script in Notes for 
 Smart Script in Notes also lets users erase portions of notes by scratching them out. This feature also draws from the Calculator on iPad, letting users make calculations and graphs like they would in the Calculator. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. A Passwords app
@@ -95,10 +101,10 @@ Apple is making the new Passwords app available for iOS and iPadOS, giving users
 As a longtime LastPass user and Keychain disdainer, I look forward to testing this app and enjoying centralized password management with an enhanced user interface. I expect the Passwords app for iPad will greatly improve security for many users, making the access and management of passwords more convenient. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What we didn't get: An 'always on' display
@@ -124,10 +130,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which iPads will support iPadOS 18?
@@ -171,22 +177,19 @@ Here are the iPad models that will be updated to iPadOS 18 when available:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-artistic-awareness-accelerate-editing-in-the-photos-app-win10-style-for-2024/"><u>[New] Artistic Awareness Accelerate Editing in the Photos App, WIN10 Style for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/he-essentials-of-youtubes-latest-payment-policy/"><u>[New] The Essentials of YouTube's Latest Payment Policy</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-expert-tips-capturing-high-quality-whatsapp-voice-transcripts-for-2024/"><u>[Updated] Expert Tips Capturing High-Quality WhatsApp Voice Transcripts for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-maintain-your-memories-android-plus-mac-video-preservation/"><u>[Updated] In 2024, Maintain Your Memories Android + Mac Video Preservation</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-beyond-viral-tactics-uncovering-the-facts-about-reels-on-instagram/"><u>2024 Approved Beyond Viral Tactics Uncovering the Facts About Reels on Instagram</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/achieving-crystal-clear-audio-on-oculus-quest-devices-the-complete-guide-to-using-your-mic/"><u>Achieving Crystal Clear Audio on Oculus Quest Devices - The Complete Guide to Using Your Mic</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhancing-iphone-productivity-how-to-connect-chatgpt-to-siri/"><u>Enhancing iPhone Productivity: How to Connect ChatGPT to Siri</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/envisioned-visions-painting-with-chatgpt-and-ai-magic/"><u>Envisioned Visions: Painting with ChatGPT & AI Magic</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/essential-tips-to-kickstart-a-career-in-prompt-engineering/"><u>Essential Tips to Kickstart a Career in Prompt Engineering</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/evolutionary-leap-in-online-browsing-how-artificial-intelligence-reshapes-site-visibility/"><u>Evolutionary Leap in Online Browsing: How Artificial Intelligence Reshapes Site Visibility</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exciting-times-for-everyone-gpt-4-is-now-free-plus-still-shines-with-6-benefits/"><u>Exciting Times for Everyone: GPT-4 Is Now Free; Plus Still Shines with 6 Benefits.</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Ways to stop parent tracking your Apple iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/innovative-ais-face-off-which-wins-llama-3-or-gpt-4/"><u>Innovative AIs Face Off: Which Wins, Llama 3 or GPT-4?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/interact-with-intelligence-engage-in-conversations-using-chatgpt-today/"><u>Interact With Intelligence: Engage in Conversations Using ChatGPT Today</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-it-feasible-to-get-personalized-secure-exercise-routines-created-by-chatgpt/"><u>Is It Feasible To Get Personalized, Secure Exercise Routines Created By ChatGPT?</u></a></li>
-<li><a href="https://common-error.techidaily.com/keyboard-problems-fixed-restoring-functionality-of-number-pad/"><u>Keyboard Problems Fixed: Restoring Functionality of Number Pad</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/render-images-with-radial-light-diffusion-technique-for-2024/"><u>Render Images with Radial Light Diffusion Technique for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-quick-guide-to-video-cross-upload-twitter-and-tumblr/"><u>[New] 2024 Approved Quick Guide to Video Cross-Upload Twitter & Tumblr</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-a-step-by-step-guide-to-mp4-and-beyond-vlc-conversions-for-2024/"><u>[New] A Step-by-Step Guide to MP4 and Beyond VLC Conversions for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-channel-name-wizardry-brainstorm-and-create/"><u>[Updated] 2024 Approved Channel Name Wizardry Brainstorm & Create!</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-capturing-the-essence-of-sims-gaming-for-2024/"><u>[Updated] Capturing the Essence of Sims Gaming for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-is-an-m1-macbook-air-smarter-and-faster-for-editing/"><u>2024 Approved Is an M1 MacBook Air Smarter and Faster for Editing?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/artificial-intelligence-bridging-the-gap-between-imagination-and-reality-in-8-methods/"><u>Artificial Intelligence: Bridging the Gap Between Imagination & Reality in 8 Methods</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boosting-ai-with-vector-database-technology/"><u>Boosting AI with Vector Database Technology</u></a></li>
+<li><a href="https://facebook.techidaily.com/dismantling-hurdles-in-your-social-network/"><u>Dismantling Hurdles in Your Social Network</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-get-the-latest-konica-minolta-drivers-quick-and-simple-steps/"><u>How to Get the Latest Konica Minolta Drivers – Quick and Simple Steps</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-y200e-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Vivo Y200e 5G PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://fox-that.techidaily.com/immediate-fixes-for-non-responsive-predictive-emojis-on-iphonesipads/"><u>Immediate Fixes for Non-Responsive Predictive Emojis on iPhones/iPads</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mislead-no-more-recognize-real-and-rigged-chatgpt-apps/"><u>Mislead No More: Recognize Real and Rigged ChatGPT Apps!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/new-era-mercedes-elevates-conversation-with-gpt-in-cars/"><u>New Era: Mercedes Elevates Conversation with GPT in Cars</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unpacking-italys-decision-for-swiftly-banning-chatgpt-without-delay/"><u>Unpacking Italy's Decision for Swiftly Banning ChatGPT Without Delay</u></a></li>
 </ul></div>
 

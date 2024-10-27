@@ -1,7 +1,7 @@
 ---
 title: Professional Workstation Assessment on the New Microsoft Surface Pro Eight Experts
-date: 2024-10-17T17:24:14.400Z
-updated: 2024-10-21T17:50:27.102Z
+date: 2024-10-20T18:05:25.187Z
+updated: 2024-10-27T18:04:58.959Z
 tags:
   - apple
 categories:
@@ -48,6 +48,13 @@ Jason Cipriani/ZDNet
 
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best Surface PCs Microsoft's lineup of Surface PCs now covers a wide range of hardware factors and price points -- and every model is Windows 11-ready.  Read now](https://www.zdnet.com/article/best-surface-pc/)
@@ -87,10 +94,10 @@ Regardless of which keyboard you pick up, all of them have a slot for a Surface 
 Overall, I love the design of the Pro 8\. I've actually found myself using it as a tablet more than I do the iPad Pro simply because the kickstand is built into the housing. There isn't another cover or case I have to manage. It's fantastic. 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## But can it replace an iPad Pro?
@@ -100,19 +107,6 @@ Jason Cipriani/ZDNet
 Inside the Surface Pro 8 I've been testing is an 11th Generation Intel Core i7 processor, 16GB of memory, and a 256GB SSD. It was running Windows 11 Pro out of the box. 
 
 The LTE options range in price from $1,349 for an Intel Core i5, 8GB of memory, and 128GB of storage up to the build I tested, which normally retails for $1,849 but is currently on sale for $1,599\. Again, those prices don't include a keyboard. 
-
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### More Microsoft
 
@@ -147,13 +141,6 @@ I realize that the Pro 8 is running a full-fledged operating system in Windows 1
 
 The total cost of the Surface Pro 8 with LTE, along with the Signature Keyboard Cover with Slim Pen is $2,128\. The iPad Pro with 5G, 16GB of memory, 1TB of storage, Apple's Magic Keyboard with trackpad and an Apple Pencil is $2,449\. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## There are still many things the iPad Pro does better
 
 Jason Cipriani/ZDNet
@@ -165,13 +152,6 @@ I prefer to use Apple's Mail app along with my iCloud+ personal domain as oppose
 **Also:** [**Want a touchscreen MacBook? This portable monitor makes it possible**](https://www.zdnet.com/home-and-office/smart-office/want-a-touchscreen-macbook-this-portable-monitor-makes-it-possible/)
 
 Another thing I love about my iPad Pro is that its performance is reliable and consistent. When using the Pro 8 with multiple apps open, there would be a slight delay or pause before an app would appear after being minimized at times. It wasn't specific to any one app; I frequently experienced it with Thunderbird, Discord, and Slack. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Bottom line
 
@@ -185,7 +165,21 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQ
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Should I get a Surface Pro 8 or an iPad Pro?
 
@@ -224,16 +218,22 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-30-top-funny-tiktok-jokes-and-riddles/"><u>[New] In 2024, 30 Top Funny TikTok Jokes & Riddles</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-multiangle-exploration-guide/"><u>[New] In 2024, MultiAngle Exploration Guide</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-inbuilt-camera-functions-to-capture-screens-on-huaweis-matep-series-phones-for-2024/"><u>[New] Inbuilt Camera Functions to Capture Screens on Huawei's Mate/P Series Phones for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/analyzing-elite-performance-of-parrots-ar-drone-20-for-2024/"><u>Analyzing Elite Performance of Parrot's AR Drone 2.0 for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/essential-7-aspects-how-to-select-a-superior-ai-chatbot-solution/"><u>Essential 7 Aspects: How to Select a Superior AI Chatbot Solution</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/essential-errors-to-escape-while-crafting-content-with-chatgpt/"><u>Essential Errors to Escape While Crafting Content with ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/experience-intelligent-query-processing-access-bings-latest-ai-powered-mobile-search-for-both-android-and-ios-users/"><u>Experience Intelligent Query Processing: Access Bing's Latest AI-Powered Mobile Search for Both Android & iOS Users</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-reality-of-prompt-engineering-key-aspects-and-opportunities/"><u>Exploring the Reality of Prompt Engineering: Key Aspects and Opportunities</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/gpt-planning-superior-dietary-choices/"><u>GPT: Planning Superior Dietary Choices</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Motorola Edge 40 | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-unveiling-secrets-to-pristine-bg-removal-techniques-in-figma/"><u>In 2024, Unveiling Secrets to Pristine BG Removal Techniques in Figma</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-expand-your-horizons-with-a-bundle-of-youtube-videos/"><u>[Updated] In 2024, Expand Your Horizons With A Bundle of YouTube Videos</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-comprehensive-overview-evolution-of-apples-ios-from-10-through-180/"><u>A Comprehensive Overview: Evolution of Apple's iOS From 1.0 Through 18.0</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/browse-empower-deploying-ais-with-agentgpt/"><u>Browse, Empower: Deploying AIs with AgentGPT</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-read-qr-codes-with-iphone-camera-here-are-5-effective-ways-to-fix-it/"><u>Can't Read QR Codes with iPhone Camera? Here Are 5 Effective Ways to Fix It!</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/deciphering-the-covert-codes-of-snapchats-emojis/"><u>Deciphering the Covert Codes of Snapchat's Emojis</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-llama-2-features-uses-and-advantages/"><u>Exploring LLAMA 2: Features, Uses & Advantages</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/get-your-huion-sketchpen-back-on-track-fast-fix-guide-in-5-steps/"><u>Get Your Huion Sketchpen Back on Track - Fast Fix Guide in 5 Steps</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/harnessing-advanced-conversation-integrate-nvidias-rtx-chatbot-into-your-pc-experience/"><u>Harnessing Advanced Conversation: Integrate NVIDIA's RTX Chatbot Into Your PC Experience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-step-by-step-guide-for-top-picture-editor/"><u>In 2024, Step-by-Step Guide for Top Picture Editor</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovative-study-strategies-using-chatgpt-to-boost-learning-in-schools/"><u>Innovative Study Strategies Using ChatGPT to Boost Learning in Schools</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/master-iphoneipad-video-posting-to-youtube/"><u>Master iPhone/iPad Video Posting to YouTube</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigate-the-world-of-windows-and-chatgpt/"><u>Navigate the World of Windows and ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/practical-ai-tips-for-peak-performance/"><u>Practical AI Tips for Peak Performance</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/reliable-or-risky-assessing-chatgpt-plugins-security/"><u>Reliable or Risky: Assessing ChatGPT Plugins' Security</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/security-audit-are-there-gaps-in-chatgpt/"><u>Security Audit: Are There Gaps in ChatGPT?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/superior-8-chatgpt-questions-for-reducing-technological-interruptions/"><u>Superior 8 ChatGPT Questions for Reducing Technological Interruptions</u></a></li>
+<li><a href="https://video-capture.techidaily.com/top-12-animated-series-ideal-for-mastering-the-japanese-language/"><u>Top 12 Animated Series Ideal for Mastering the Japanese Language</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Latest Mobile Innovations: From Intelligent Devices to Next-Gen Phones – Insights for Tech Enthusiasts"
-date: 2024-10-19T17:20:32.789Z
-updated: 2024-10-21T18:15:12.026Z
+date: 2024-10-20T17:12:19.785Z
+updated: 2024-10-27T16:17:35.528Z
 tags:
   - apple
 categories:
@@ -45,10 +45,16 @@ Samsung's just-released [Galaxy S24 smartphones](https://www.zdnet.com/article/e
 Qualcomm is playing a major role here as well, with its flagship [Snapdragon 8 Gen 3 chipset](https://www.zdnet.com/article/qualcomms-new-snapdragon-8-gen-3-mobile-chip-brings-generative-ai-to-smartphones/) enabling performance gains across the board on smartphones, from a 20% improvement in CPU, 30% in GPU, and 41% in NPU -- the latter of which is critical for devices to perform generative AI tasks in a power-efficient manner. Expect more flagship [Android phones](https://www.zdnet.com/article/best-android-phone/) this year -- as well as [VR and XR headsets](https://www.zdnet.com/article/best-vr-headset/) \-- to field Qualcomm's new processor, with plenty of AI-enabled capabilities in tow.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Foldables are getting better (and cheaper)
@@ -68,10 +74,10 @@ Now that the major players have entered the competition, the big question this y
 But there's hope. Carrier providers, who often discount the latest devices aggressively in exchange for customer loyalty (read: agreement to long-term installment plans), remain a primary source of US smartphone sales. Motorola's [standard Razr model](https://www.zdnet.com/article/this-motorola-is-still-200-off-and-its-surprisingly-capable/), which can be purchased for [as low as $499](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmotorola-razr-2023-128gb-unlocked-sage-green%2F6557867.p%3F&publisher_slug=itechdaily19598&exclusive=1) at the time of writing, is another sign of good things to come. With that in mind, 2024 is looking to be a promising sequel to foldables' breakout year in 2023.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Qi2 bridges a long-standing gap in charging
@@ -91,10 +97,10 @@ The adoption of such technology bridges a longstanding gap between MagSafe-compa
 **Also: [The best wireless chargers for iPhone and Android phones](https://www.zdnet.com/article/best-wireless-charger/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Periscope lenses push cameras to further distances
@@ -116,10 +122,10 @@ As manufacturers continue to figure out ways to shrink and fit better components
 **Also:** [**The evolution of smartphone cameras: From megapixels to AI-driven photography**](https://www.zdnet.com/article/the-evolution-of-smartphone-cameras-from-megapixels-to-ai-driven-photography/)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. A new class of mobile devices
@@ -176,20 +182,22 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-gigglegallery-craft-and-share-your-own-funny-faces/"><u>[New] GiggleGallery Craft and Share Your Own Funny Faces</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-megadatasky-affordable-space-for-big-files/"><u>[New] MegaDataSky - Affordable Space for Big Files</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-simplifying-your-system-switch-from-sierra-to-os-x-1010/"><u>[New] Simplifying Your System Switch From Sierra to OS X 10.10</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2023how-to-share-videos-on-twitter-on-your-phone-without-retweeting/"><u>[Updated] 2023|How to Share Videos on Twitter on Your Phone Without Retweeting?</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-achieve-sharpness-camera-tips-without-a-tripod/"><u>[Updated] In 2024, Achieve Sharpness Camera Tips Without a Tripod</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-examining-the-financial-success-strategies-of-t-series-on-youtube/"><u>[Updated] In 2024, Examining the Financial Success Strategies of T-Series on YouTube</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-how-to-reverse-youtube-video-in-creative-ways/"><u>[Updated] In 2024, How to Reverse YouTube Video in Creative Ways</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Honor Play 7T | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transform-your-job-search-with-chatgpt-for-resumes/"><u>Transform Your Job Search with ChatGPT for Resumes</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transforming-remote-collaboration-via-chatgpt-use/"><u>Transforming Remote Collaboration via ChatGPT Use</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ultimate-guide-to-chatgpt-prompt-innovation-spotlighting-20-premier-examples-from-github/"><u>Ultimate Guide to ChatGPT Prompt Innovation – Spotlighting 20 Premier Examples From GitHub</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-call-logs-from-poco-m6-pro-5g-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Poco M6 Pro 5G</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-the-latest-social-media-trends-new-twists-on-twitter-security-metas-official-verification-rollout-and-demystifying-chatgpt-4/"><u>Understanding the Latest Social Media Trends: New Twists on Twitter Security, Meta's Official Verification Rollout, and Demystifying ChatGPT-4</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-global-access-how-to-use-chatgpt-with-chatgpt-everywhere/"><u>Unlocking Global Access: How to Use ChatGPT with ChatGPT Everywhere</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-openais-ai-secure-communication/"><u>Unlocking OpenAI's AI Secure Communication</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-essential-tips-for-capturing-high-quality-audio-in-filmmaking/"><u>[New] In 2024, Essential Tips for Capturing High-Quality Audio in Filmmaking</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-top-innovations-in-podcast-titling-with-ai-assistants/"><u>[Updated] 2024 Approved Top Innovations in Podcast Titling with AI Assistants</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-12plus-ways-to-immerse-in-international-cricket-via-streaming/"><u>[Updated] In 2024, 12+ Ways to Immerse in International Cricket via Streaming</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beyond-boundaries-in-ai-unraveling-the-5-major-variances-from-gpt-n35-to-gpt-4/"><u>Beyond Boundaries in AI: Unraveling the 5 Major Variances From GPT-N_3.5 to GPT-4</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/budget-laptop-showdown-can-the-hp-15-with-an-amd-chip-meet-your-needs/"><u>Budget Laptop Showdown: Can the HP 15 with an AMD Chip Meet Your Needs?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-machines-trigger-a-chuckle-delve-into-the-tale-of-computings-journey-from-bulky-desktops-to-slim-laptops-and-virtual-private-network-breakthroughs/"><u>Can Machines Trigger a Chuckle? Delve Into the Tale of Computing's Journey From Bulky Desktops to Slim Laptops & Virtual Private Network Breakthroughs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-you-confidently-use-chatgpt-for-reliable-medical-information/"><u>Can You Confidently Use ChatGPT for Reliable Medical Information?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/diy-chatbot-creation-tailoring-chatgpt-to-learn-from-your-own-data-collection/"><u>DIY Chatbot Creation: Tailoring ChatGPT to Learn From Your Own Data Collection</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ensuring-privacy-security-with-tailored-gpt-models-insights-into-chatgpt-data-exposure-and-defense-strategies/"><u>Ensuring Privacy Security with Tailored GPT Models: Insights Into ChatGPT Data Exposure and Defense Strategies</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-xiaomi-redmi-note-12-4g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Xiaomi Redmi Note 12 4G to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-12-mini-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 12 mini to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Motorola Edge 40? | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/instructions-to-initiate-interactive-on-line-associations-via-fb/"><u>Instructions to Initiate Interactive On-Line Associations via FB</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-guide-to-using-chatgpt-with-apples-siri-on-your-mobile-device/"><u>The Ultimate Guide to Using ChatGPT with Apple's Siri on Your Mobile Device</u></a></li>
+<li><a href="https://media-tips.techidaily.com/1723620235665-transform-mp4-videos-into-mpeg-with-simple-techniques-for-mac-users-free-conversion-tips/"><u>Transform MP4 Videos Into MPEG with Simple Techniques for Mac Users - Free Conversion Tips!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-the-turing-test-and-its-beatability/"><u>Understanding The Turing Test & Its Beatability</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-generative-ai-insights-into-how-it-works-and-transforms-technology/"><u>Unveiling Generative AI: Insights Into How It Works and Transforms Technology</u></a></li>
 </ul></div>
 

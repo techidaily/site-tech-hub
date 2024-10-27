@@ -1,7 +1,7 @@
 ---
 title: Unraveling the Mystery Behind the Historic Windows Meltdown and CrowdStrike Clash - A Detailed Retrospective
-date: 2024-10-20T20:51:50.165Z
-updated: 2024-10-21T17:04:08.315Z
+date: 2024-10-20T17:45:45.407Z
+updated: 2024-10-27T16:23:13.377Z
 tags:
   - apple
 categories:
@@ -51,10 +51,16 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -94,16 +100,10 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -133,10 +133,10 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -187,22 +187,21 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-5-ultimate-map-quests-for-precious-in-game-finds-for-2024/"><u>[New] 5 Ultimate Map Quests for Precious In-Game Finds for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-depth-guide-best-audio-techniques-on-windows/"><u>[New] In-Depth Guide Best Audio Techniques on Windows</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-superior-tune-makers-for-iphone-users/"><u>[Updated] In 2024, Superior Tune Makers for iPhone Users</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/discover-the-finest-senior-friendly-phone-contracts-of-2024/"><u>Discover the Finest Senior-Friendly Phone Contracts of 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/efficiently-altering-login-details-of-other-users-within-the-windows-environment/"><u>Efficiently Altering Login Details of Other Users Within the Windows Environment</u></a></li>
-<li><a href="https://win-news.techidaily.com/exploring-the-pros-and-cons-of-android-integration-on-windows-11-is-it-worthwhile-digitalsavvy-blog/"><u>Exploring the Pros and Cons of Android Integration on Windows 11 - Is It Worthwhile? | DigitalSavvy Blog</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-poco-f5-5g-by-drfone-android/"><u>How to Bypass FRP on Poco F5 5G?</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-xs-max-to-an-older-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone XS Max to an Older iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transform-your-windows-into-a-gpt-paradise/"><u>Transform Your Windows Into a GPT Paradise</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/ultimate-screen-snaps-for-mac-users-max-156-chars-for-2024/"><u>Ultimate Screen Snaps for Mac Users (Max 156 Chars) for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-ais-black-box-insight-into-its-functionality/"><u>Understanding AI's Black Box: Insight Into Its Functionality</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-openais-chatgpt-bypassing-output-size-restrictions/"><u>Understanding OpenAI's ChatGPT: Bypassing Output Size Restrictions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unearth-more-from-chatgpt-5-untapped-features-that-will-improve-your-usage/"><u>Unearth More From ChatGPT: 5 Untapped Features That Will Improve Your Usage</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-secret-your-guide-to-talking-with-chatgpt-today/"><u>Unveiling the Secret: Your Guide to Talking With ChatGPT Today</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/virtual-bartender-ai-chatgpts-skills/"><u>Virtual Bartender AI: ChatGPT’s Skills</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/what-sam-altmans-departure-means-for-openai-and-the-fate-of-chatgpt/"><u>What Sam Altman's Departure Means for OpenAI and the Fate of ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/why-the-chatgpt-ios-version-outshines-its-web-counterpart-a-comparison/"><u>Why the ChatGPT iOS Version Outshines Its Web Counterpart: A Comparison</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-direct-encouraging-content-for-daily-living-vids/"><u>[New] 2024 Approved How to Direct Encouraging Content for Daily Living Vids</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-the-definitive-io-screen-recorder-guidebook/"><u>[New] 2024 Approved The Definitive IO Screen Recorder Guidebook</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-essential-insights-for-crafting-youtube-intros-aplusb-methods/"><u>[New] In 2024, Essential Insights for Crafting YouTube Intros A+B Methods</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-understanding-and-utilizing-igtv-for-enhanced-engagement/"><u>[New] Understanding and Utilizing IGTV for Enhanced Engagement</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/athletic-advocates-mastering-machine-dialogue/"><u>Athletic Advocates, Mastering Machine Dialogue</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/cyber-seance-how-to-tell-if-youre-chatting-with-a-ghost-or-just-hacked-by-someone-nasty/"><u>Cyber Séance: How to Tell if You're Chatting With a Ghost or Just Hacked by Someone Nasty</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discovering-how-ios-changes-your-gpt-game/"><u>Discovering How iOS Changes Your GPT Game</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-accessibility-who-qualifies-for-nvidias-advanced-ai-foundations-services/"><u>Exploring Accessibility: Who Qualifies for NVIDIA's Advanced AI Foundations Services?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-windows-unable-to-find-printer-driver-issue/"><u>How To Resolve 'Windows Unable To Find Printer Driver' Issue</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-harness-the-power-of-hashtags-in-instagram-marketing-strategies/"><u>In 2024, Harness the Power of Hashtags in Instagram Marketing Strategies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximizing-your-workouts-with-smart-chatgpt-prompt-techniques-tips-for-health-enthusiasts/"><u>Maximizing Your Workouts with Smart ChatGPT Prompt Techniques - Tips for Health Enthusiasts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/optimizing-chatgpt-with-new-plugins/"><u>Optimizing ChatGPT with New Plugins</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/overcoming-the-fear-of-artificnial-intelligence-in-education-discover-8-compelling-reasons-why-teachers-should-adapt-to-it/"><u>Overcoming the Fear of Artificnial Intelligence in Education - Discover 8 Compelling Reasons Why Teachers Should Adapt to It</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-integrating-chatgpt-into-linux-using-the-bavarder-tool/"><u>Step-by-Step Tutorial: Integrating ChatGPT Into Linux Using the Bavarder Tool</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-airplay-technology-a-comprehensive-guide/"><u>Understanding AirPlay Technology: A Comprehensive Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-green-screen-software-for-mobile-top-picks-for-android-and-ios/"><u>Updated Free Green Screen Software for Mobile Top Picks for Android and iOS</u></a></li>
 </ul></div>
 

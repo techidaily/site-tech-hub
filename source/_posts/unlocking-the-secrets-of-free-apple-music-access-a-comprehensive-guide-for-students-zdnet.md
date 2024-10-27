@@ -1,7 +1,7 @@
 ---
 title: "Unlocking the Secrets of Free Apple Music Access: A Comprehensive Guide for Students | ZDNet"
-date: 2024-10-19T18:29:11.279Z
-updated: 2024-10-21T16:33:18.591Z
+date: 2024-10-26T16:16:45.342Z
+updated: 2024-10-27T16:41:54.189Z
 tags:
   - apple
 categories:
@@ -32,6 +32,13 @@ Before you get started using Apple Pay in stores and online, here's what you nee
 
 **What you need:** iPhone, banking information
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Set up Apple Pay in the Wallet app
 
 Before using Apple Pay as your contactless payment form, you need to set it up by adding your credit or debit cards to your iPhone. You can set up Apple Pay from your [iPhone's settings](https://www.zdnet.com/article/dont-change-five-these-iphone-settings/) or simply by going to the Wallet app and adding your cards there. 
@@ -39,6 +46,13 @@ Before using Apple Pay as your contactless payment form, you need to set it up b
 Tap on the Wallet app to open it.
 
 Screenshot by Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Tap on the Add Card button and enter Apple Pay info
 
@@ -62,6 +76,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. During check-out, double-click the right-side button of your iPhone
 
 Double-clicking, or, rather, double-pressing, the button on the right side of your iPhone brings up your available cards to use in Apple Pay. Do this when it's time to pay at the checkout counter, and you can then choose your preferred payment card when the Wallet comes up.
@@ -69,13 +90,6 @@ Double-clicking, or, rather, double-pressing, the button on the right side of yo
 Double-press the iPhone's right-side button to access Apple Pay.
 
 Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Enter your Apple Pay passcode or use Face ID to confirm payment
 
@@ -100,10 +114,10 @@ Apple
 That's it! Apple Pay is as easy as apple pie. (Sorry, I had to.) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## FAQ
@@ -121,23 +135,9 @@ Once you add your card to your Wallet, you can edit your settings to suit your n
 
 You can use Apple Pay with an iPhone or Apple Watch at checkout wherever there is a payment terminal with NFC. Most retailers have them at the checkout counter, with some exceptions. Just look for the NFC symbol on the card reader or an Apple Pay logo. Some banks even support Apple Pay at NFC-enabled ATMs so you can make withdrawals or access your account. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What is NFC?
 
 NFC stands for [near-field communication](https://www.zdnet.com/article/near-field-communication-aims-to-simplify-our-lives/). It's a technology that employs magnetic field induction to allow wireless communication between two electronic devices at a short range, typically less than 4 centimeters or 1.5 inches.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Can I use Apple Pay online?
 
@@ -148,13 +148,6 @@ On top of being more secure, using Apple Pay online is more convenient as you do
 **Also: [Venmo and PayPal now offer 'Tap to Pay' on iPhone for businesses](https://www.zdnet.com/article/venmo-and-paypal-now-offer-tap-to-pay-on-iphone-for-businesses/)**
 
 To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other Apple device, if it's available. Next, you'll be prompted either to enter your passcode or use Face ID to authorize the payment. Then you'll be able to check out as usual with your Apple Pay information already filled in, so you won't need to sign in again or enter your card information. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What is Apple Cash?
 
@@ -177,6 +170,13 @@ In order to use Apple Pay for contactless payments with your Apple Watch, you ne
 3. Choose Previous Cards to add any payment cards previously linked to your iPhone and you'll be prompted to enter the security code for each, or
 4. Tap on Debit or Credit Card to add a new one, or
 5. Select Transit Card to add an eligible transportation payment card.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is Apple Pay secure?
 
@@ -212,22 +212,21 @@ Using Apple Pay or [Google Pay](https://www.zdnet.com/finance/google-pay-vs-sams
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-windows-8-video-editor-pro/"><u>[New] 2024 Approved Windows 8 Video Editor Pro</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-direct-directions-simple-techniques-for-laptop-screening-dell/"><u>[New] In 2024, Direct Directions Simple Techniques for Laptop Screening (Dell)</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-downloading-the-latest-hits-top-youtube-playlist-savers-for-pc/"><u>[New] In 2024, Downloading the Latest Hits Top YouTube Playlist Savers for PC</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-become-a-color-connoisseur-in-digital-photography/"><u>[Updated] Become a Color Connoisseur in Digital Photography</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-the-definitive-guide-to-live-discord-broadcasts/"><u>[Updated] In 2024, The Definitive Guide to Live Discord Broadcasts</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effortless-multitasking-a-guide-to-enabling-split-screen-view-on-a-macbook-air/"><u>Effortless Multitasking: A Guide to Enabling Split Screen View on a MacBook Air</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/essential-digital-helpers-to-sharpen-prompt-engineering/"><u>Essential Digital Helpers to Sharpen Prompt Engineering</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/essential-open-source-image-enhancement-software/"><u>Essential Open Source Image Enhancement Software</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/evaluating-ais-potential-to-strengthen-or-compromise-mental-health-interventions-an-insightful-look/"><u>Evaluating AI's Potential to Strengthen or Compromise Mental Health Interventions: An Insightful Look</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-copilot-vs-copilot-pro-should-you-upgrade-your-toolset/"><u>Exploring Copilot Vs. Copilot Pro – Should You Upgrade Your Toolset?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-ultimate-selection-of-ai-prompt-services/"><u>Exploring The Ultimate Selection of AI Prompt Services</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/from-simple-ai-to-sophisticated-gpt-4/"><u>From Simple AI to Sophisticated GPT-4</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/gateway-to-advanced-ai-without-expenditure-4-methods/"><u>Gateway to Advanced AI Without Expenditure: 4 Methods</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/getting-starter-with-microsofts-chatgpt-on-your-windows-computer-a-detailed-guide/"><u>Getting Starter with Microsoft's ChatGPT on Your Windows Computer: A Detailed Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-does-bert-revolutionize-nlp-and-stand-out-against-the-gpt-framework/"><u>How Does BERT Revolutionize NLP and Stand Out Against the GPT Framework?</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-vivo-y100t-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Vivo Y100t Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-tutorial-linking-google-duo-features-for-a-smarter-gmail-chat/"><u>The Ultimate Tutorial: Linking Google Duo Features for a Smarter Gmail Chat</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-concept-to-screen-channel-yt-for-pioneering-filmmaking-techniques/"><u>[Updated] In 2024, From Concept to Screen Channel YT for Pioneering Filmmaking Techniques</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-expert-review-of-apeaksoft-for-video-capture-technology/"><u>2024 Approved Expert Review of Apeaksoft for Video Capture Technology</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/best-performance-showdown-evaluating-results-from-three-chatbots-on-the-same-challenge/"><u>Best Performance Showdown: Evaluating Results From Three Chatbots on the Same Challenge</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dimming-dilemma-dispersed-in-portable-unit/"><u>Dimming Dilemma Dispersed in Portable Unit</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-power-of-gpt-automation-with-these-8-essential-tips/"><u>Discover the Power of GPT Automation with These 8 Essential Tips</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/generative-ais-evolving-threat-spectrum/"><u>Generative AI's Evolving Threat Spectrum</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-xbox-controller-connected-effortless-drivers-download-instructions/"><u>Get Your Xbox Controller Connected: Effortless Drivers Download Instructions</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-11-pro-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 11 Pro to other iPhone 12 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-cozy-up-your-videos-best-winter-bgs-revealed/"><u>In 2024, Cozy Up Your Videos Best Winter Bg's Revealed</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-exquisite-photographic-saga-assembler/"><u>In 2024, Exquisite Photographic Saga Assembler</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-ai-the-new-stand-up-artist-discovering-chatgpts-humorous-side/"><u>Is AI the New Stand-Up Artist? Discovering ChatGPT's Humorous Side</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-chatgpt-a-trustworthy-source-for-medical-insights/"><u>Is ChatGPT a Trustworthy Source for Medical Insights?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Honor Magic Vs 2? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-potential-of-googles-gemini-ai-in-light-of-chatgpt/"><u>Unveiling the Potential of Google's Gemini AI in Light of ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/which-is-superior-notion-ai-versus-chatgpt-in-the-arena-of-generative-ai-tools/"><u>Which Is Superior? Notion AI Versus ChatGPT in the Arena of Generative AI Tools</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-poco-x5-pro-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Poco X5 Pro | Dr.fone</u></a></li>
 </ul></div>
 

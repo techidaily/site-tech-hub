@@ -1,7 +1,7 @@
 ---
 title: Top 5 Exciting New iPhone 16 Pro Attributes That Tech Lovers Can't Wait To Try - A Closer Look By ZDNET
-date: 2024-10-14T18:29:36.027Z
-updated: 2024-10-21T17:10:04.960Z
+date: 2024-10-24T17:45:41.944Z
+updated: 2024-10-27T16:12:17.828Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ But which features will actually have the most impact on iPhone enthusiasts? Wha
 When Apple first released the [iPhone 15](https://www.zdnet.com/article/iphone-15-plus-review/) series, it only gave the 5x tetraprism zoom lens to the Max Pro. This time around, both the 16 Pro and the 16 Pro Max are getting the high-end zoom capability. This choice means the camera is essentially the same on the 16 Pro and 16 Pro Max, leaving other features to differentiate the two models. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. The camera control
@@ -52,10 +52,10 @@ The camera control button is available on all iPhone 16 models, but it's when pa
 [Not everyone is a fan](https://www.zdnet.com/article/i-want-to-be-excited-about-the-iphone-16s-new-camera-button-but-cant-for-now/) of the new camera button, however, as this shift from software to hardware will likely come with usability growing pains and mistakenly-accessed features.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Siri's much-needed makeover
@@ -73,10 +73,10 @@ Well, the time has finally come. Apple unveiled a ton of new functionality for S
 Beyond Siri, we have [Visual Intelligence](https://www.zdnet.com/article/apple-adds-visual-intelligence-its-answer-to-google-lens-to-the-iphone-16-camera/), which allows multi-modal AI via the camera, similar to what we've seen across other AI models this year. Apple Intelligence will start with a live beta in October in the US, with additional countries in December, and additional languages next year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Upgraded chipset for the AI age
@@ -92,10 +92,10 @@ The 3mm technology has smaller, more efficient transistors, and constitutes a bi
 Even with AI's demanding memory requirements, having this much memory on the iPhone is a bonus for overall performance, particularly multitasking and starting up apps. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. The biggest iPhones yet
@@ -132,22 +132,20 @@ The iPhone 16 Pro and Pro Max are the largest iPhones ever, with 6.3 and 6.9-inc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-expert-moves-for-sharing-youtube-and-twitter-on-whatsapp-platform-for-2024/"><u>[New] Expert Moves for Sharing YouTube and Twitter on WhatsApp Platform for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-ultimate-free-guide-to-accessing-youtube-video-texts/"><u>[Updated] The Ultimate FREE Guide to Accessing YouTube Video Texts</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-ultimate-list-best-virtual-playstation-3-software/"><u>[Updated] Ultimate List Best Virtual PlayStation 3 Software</u></a></li>
-<li><a href="https://media-tips.techidaily.com/free-online-screen-mirroring-connect-your-pc-or-mac-to-tv-without-cost/"><u>Free Online Screen Mirroring: Connect Your PC or Mac to TV Without Cost</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-poco-f5-pro-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Poco F5 Pro 5G to iPod | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-video-editing-software-virtualdub-review-rating-and-top-alternatives/"><u>In 2024, Best Video Editing Software Virtualdub Review, Rating, and Top Alternatives</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-investing-in-the-right-keyboard-for-low-cost-maximum-output/"><u>In 2024, Investing in the Right Keyboard for Low Cost, Maximum Output</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-downloading-and-setting-up-llama-2-on-your-system/"><u>Step-by-Step Guide: Downloading & Setting Up LLaMA 2 on Your System</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/step-by-step-guide-resetting-your-forgotten-email-password/"><u>Step-by-Step Guide: Resetting Your Forgotten Email Password</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-9-most-overlooked-dangers-when-using-ai-for-mental-support/"><u>The 9 Most Overlooked Dangers When Using AI for Mental Support</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-future-of-business-8-key-ways-to-harness-chatgpt/"><u>The Future of Business: 8 Key Ways to Harness ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-in-depth-look-benefits-and-challenges-of-local-llms/"><u>The In-Depth Look: Benefits & Challenges of Local LLMs</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-progressive-leap-detailed-insights-into-every-generation-of-openais-gpt-from-genesis-to-genius-gpt-1-to-gpt-4/"><u>The Progressive Leap: Detailed Insights Into Every Generation of OpenAI's GPT - From Genesis to Genius (GPT-1 to GPT-4)</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-secrets-behind-ai-decision-making-how-does-the-black-box-model-operate/"><u>The Secrets Behind AI Decision-Making: How Does the 'Black Box' Model Operate?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-5-emerging-innovations-in-artifice-intelligence-hardware/"><u>Top 5 Emerging Innovations in Artifice Intelligence Hardware</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-8-powerful-plug-ins-enhancing-health-and-fitness-with-gpt/"><u>Top 8 Powerful Plug-Ins Enhancing Health & Fitness with GPT</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-loud-playstation-4-consoles-what-to-do/"><u>Troubleshooting Loud PlayStation 4 Consoles - What to Do?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1723808168853-solved-logitech-k520-keyboard-not-working-quickly-and-easily/"><u>[SOLVED] Logitech K520 Keyboard Not Working | Quickly & Easily!</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-the-insiders-trick-for-automatic-and-smooth-youtube-video-replays/"><u>2024 Approved The Insider's Trick for Automatic and Smooth YouTube Video Replays</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/advanced-techniques-to-strengthen-bluetooth-signals-on-your-windows-laptop-or-pc/"><u>Advanced Techniques to Strengthen Bluetooth Signals on Your Windows Laptop or PC.</u></a></li>
+<li><a href="https://fox-access.techidaily.com/battle-of-the-cameras-hero5-black-vs-hero4-silver-showdown/"><u>Battle of the Cameras HERO5 Black vs HERO4 Silver Showdown</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beat-the-lag-a-guide-to-smooth-gaming-with-a-second-monitor-on-windows-pcs/"><u>Beat the Lag: A Guide to Smooth Gaming with a Second Monitor on Windows PCs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/breathtaking-stunts-and-jumps-2022-fig-skates/"><u>Breathtaking Stunts and Jumps - 2022 Fig Skates</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1723807914043-download-asus-aura-customization-packs-for-pc-windows-1011-boost-your-desktop-look/"><u>Download ASUS Aura Customization Packs for PC (Windows 10/11) – Boost Your Desktop Look!</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/effortless-conversion-guide-from-wmv-to-h264-and-back/"><u>Effortless Conversion Guide: From WMV to H.264 And Back</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1723808213410-how-to-sync-ps4-controller-easy-guide/"><u>How to Sync PS4 Controller — Easy Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Sony Xperia 10 V? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/leading-digital-background-switchers-shutterfix-excellence/"><u>Leading Digital Background Switchers ShutterFix Excellence</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/secure-and-simple-photovideo-sharing-with-ios/"><u>Secure and Simple Photo/Video Sharing with IOS</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/set-new-save-directory-for-mac-snapshots-for-2024/"><u>Set New Save Directory for Mac Snapshots for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1723807902925-this-app-cant-run-on-your-pc-solved/"><u>This App Can't Run on Your PC [Solved]</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/windows-11-dvd-ripping-made-simple-quick-tips-and-tricks/"><u>Windows 11 DVD Ripping Made Simple: Quick Tips and Tricks</u></a></li>
 </ul></div>
 

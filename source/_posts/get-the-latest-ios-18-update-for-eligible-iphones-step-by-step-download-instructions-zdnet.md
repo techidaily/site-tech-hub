@@ -1,7 +1,7 @@
 ---
 title: Get the Latest iOS 18 Update for Eligible iPhones - Step-by-Step Download Instructions | ZDNet
-date: 2024-10-15T20:09:18.650Z
-updated: 2024-10-21T21:04:11.092Z
+date: 2024-10-25T16:27:18.266Z
+updated: 2024-10-27T16:31:07.883Z
 tags:
   - apple
 categories:
@@ -32,34 +32,13 @@ Jason Hiner/ZDNET
 
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Go to General in your iPhone Settings
 
 Go to your iPhone's Settings and select General. 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Go to Software Update in Settings
 
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Download and install
 
@@ -71,24 +50,44 @@ Enter your passcode, if necessary, to authorize the installation of the new iOS 
 
 After installing the latest iOS update, your iPhone will restart.
 
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQs
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### When is Apple Intelligence coming out?
 
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### When was iOS 18 released?
 
 Apple released the iOS 18 developer beta during WWDC 2024 in June, and the public beta version was released on July 15\. The general release of iOS 18 is September 16.
 
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Can you still download the iOS 18 public beta?
 
@@ -97,6 +96,13 @@ You can always be part of the Apple Beta program to get the latest beta versions
 * Back up your device and personal information.
 * Don't download beta software, which will likely have bugs and glitches, on your everyday iPhone.
 * You should go into the experience to test new features and share feedback to improve iOS, which is why beta versions are released.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How do I install the iOS 18 beta version?
 
@@ -169,17 +175,20 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-best-ringtones-roundup-essential-sites/"><u>[New] Best Ringtones Roundup Essential Sites</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-thriving-as-an-online-gaming-content-creator/"><u>2024 Approved Thriving as an Online Gaming Content Creator</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-asus-rog-phone-8-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Asus ROG Phone 8 without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/artists-playground-the-prime-6-platforms-for-nft-creation/"><u>Artists' Playground The Prime 6 Platforms for NFT Creation</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/beats-in-the-balance-adding-music-to-whatsapp-for-2024/"><u>Beats in the Balance Adding Music to WhatsApp for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/immediate-use-dive-into-8-tailored-gpt-experiences/"><u>Immediate Use: Dive Into 8 Tailored GPT Experiences</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/in-depth-language-models-comparison-gpt-and-bert-explored/"><u>In-Depth Language Models Comparison: GPT & BERT Explored</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/inside-the-legality-and-functioning-of-chatgpt-jailbreaking-techniques/"><u>Inside the Legality and Functioning of ChatGPT Jailbreaking Techniques</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/langchain-llm-essentials-starting-point-for-newcomers/"><u>LangChain LLM Essentials: Starting Point for Newcomers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/launching-your-career-as-a-prompt-engineer-essential-insights-and-techniques/"><u>Launching Your Career as a Prompt Engineer: Essential Insights and Techniques</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-the-chatgpt-widget-tips-and-tricks-for-android-applications/"><u>Mastering the ChatGPT Widget: Tips & Tricks for Android Applications</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/performance-analysis-of-agis-ai818-2tb-ssd-is-it-truly-swift-and-responsive/"><u>Performance Analysis of AGI's AI818 2TB SSD: Is It Truly Swift and Responsive?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-pro-tips-for-effortless-photos-and-videos-in-windows-11-for-2024/"><u>[New] Pro Tips for Effortless Photos & Videos in Windows 11 for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-evaluating-bandicam-and-camtasia-for-mac-users-for-2024/"><u>[Updated] Evaluating Bandicam and Camtasia for Mac Users for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-high-ranking-nintendo-switch-brawlers-index-max-156/"><u>[Updated] In 2024, High-Ranking Nintendo Switch Brawlers Index (Max 156)</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-navigating-peak-hours-best-times-for-instagram-posts/"><u>[Updated] In 2024, Navigating Peak Hours Best Times for Instagram Posts</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-elite-15-luts-transforming-gopro-action-footage/"><u>2024 Approved Elite 15 LUTs Transforming GoPro Action Footage</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1723808230345-csrssexe-client-server-runtime-process-what-is-it-and-should-i-remove-it/"><u>csrss.exe (Client Server Runtime Process) - What Is It and Should I Remove It?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1723808106373-effortless-steps-for-achieving-a-swift-windows-10-clean-boot/"><u>Effortless Steps for Achieving a Swift Windows 10 Clean Boot!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-tips-for-detaching-devices-from-your-google-home-setup/"><u>Expert Tips for Detaching Devices From Your Google Home Setup</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1723808206750-how-to-set-up-vpn-on-apple-tv-a-beginners-guide/"><u>How to Set Up VPN on Apple TV | A Beginner's Guide</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-on-iphone-xs-max-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID On iPhone XS Max without Password?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-the-ultimate-guide-to-alternatives-to-streamlabs-obs/"><u>In 2024, The Ultimate Guide to Alternatives to StreamLabs OBS</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-access-to-intel-nvme-driver-downloads-easy-install-guide-included/"><u>Quick Access to Intel NVMe Driver Downloads - Easy Install Guide Included</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1723808135759-seamless-ad-blocking-in-firefox-unlock-a-cleaner-faster-web-experience-today/"><u>Seamless Ad Blocking in Firefox: Unlock a Cleaner, Faster Web Experience Today!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-windows-11s-boot-menu-a-step-by-step-guide/"><u>Unlocking Windows 11'S Boot Menu: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/utorrent-free-download-for-windows-10/"><u>UTorrent Free Download For Windows 10</u></a></li>
 </ul></div>
 

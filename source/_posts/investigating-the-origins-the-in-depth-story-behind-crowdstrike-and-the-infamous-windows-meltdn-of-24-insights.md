@@ -1,7 +1,7 @@
 ---
 title: "Investigating the Origins: The In-Depth Story Behind CrowdStrike and the Infamous Windows Meltdn of '24 | Insights"
-date: 2024-10-20T18:18:50.883Z
-updated: 2024-10-21T18:19:09.417Z
+date: 2024-10-20T16:25:42.648Z
+updated: 2024-10-27T18:04:17.859Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -94,10 +94,10 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -127,10 +127,10 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -181,22 +181,18 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ptimizing-content-visibility-premier-tracking-applications-for-youtubers-for-2024/"><u>[New] Optimizing Content Visibility - Premier Tracking Applications for YouTubers for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-separate-visual-elements-videos-to-pics-via-windows-10-photos/"><u>2024 Approved Separate Visual Elements Videos to Pics via Windows 10 Photos</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/airpods-pro-review-do-these-earbuds-justify-the-hype-insights-from-a-tech-expert-on-zdnet/"><u>AirPods Pro Review: Do These Earbuds Justify the Hype? Insights From a Tech Expert on ZDNet</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/boosting-readership-through-shares-seamlessly-promote-your-page-flipping-ebooks-on-facebook-twitter-and-linkedin-with-flipbuilder/"><u>Boosting Readership Through Shares: Seamlessly Promote Your Page-Flipping eBooks on Facebook, Twitter, and LinkedIn with FlipBuilder</u></a></li>
-<li><a href="https://win-latest.techidaily.com/comment-transferer-en-douce-voie-les-photographies-de-votre-mac-vers-une-disquette-externe-strategies-efficaces/"><u>Comment Transférer en Douce Voie Les Photographies De Votre Mac Vers Une Disquette Externe : Stratégies Efficaces</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/comparing-top-tech-giants-apple-vs-dell-in-the-ultimate-2024-computer-showdown-insights/"><u>Comparing Top Tech Giants: Apple Vs. Dell in the Ultimate 2024 Computer Showdown - Insights</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/expert-insights-on-ipad-air-with-m2-chip-the-best-tablet-to-invest-in-according-to-apple-enthusiasts/"><u>Expert Insights on iPad Air with M2 Chip: The Best Tablet to Invest in According to Apple Enthusiasts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/face-off-between-the-oculus-quest-3-and-apple-glasses-was-zuckerberg-right-tech-analysis-by-zdnet/"><u>Face-Off Between the Oculus Quest 3 and Apple Glasses: Was Zuckerberg Right? | Tech Analysis by ZDNet</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-poco-m6-pro-4g-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Poco M6 Pro 4G Phone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-on-your-apple-iphone-12-pro-max-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock on your Apple iPhone 12 Pro Max and iPad</u></a></li>
-<li><a href="https://techidaily.com/is-your-vivo-v30-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Vivo V30 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/key-decision-points-avoiding-pitfalls-in-monitor-shopping/"><u>Key Decision Points: Avoiding Pitfalls in Monitor Shopping</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionary-eye-controlled-technology-unveiled-by-apple-for-ios-devices-zdnet/"><u>Revolutionary Eye-Controlled Technology Unveiled by Apple for iOS Devices - ZDNet</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/secure-your-early-access-get-the-latest-apple-watch-series-10-in-advance-tips-for-savings-and-pre-ordering-process-insights/"><u>Secure Your Early Access: Get the Latest Apple Watch Series 10 in Advance! Tips for Savings & Pre-Ordering Process - Insights</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-3-essential-gadgets-to-maintain-the-fresh-look-of-your-iphone-13-a-guide-by-zdnet/"><u>Top 3 Essential Gadgets to Maintain the Fresh Look of Your iPhone 13: A Guide by ZDNet</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ultimate-guide-securely-syncing-and-backing-up-your-iphone-using-icloudmac-tips/"><u>Ultimate Guide: Securely Syncing and Backing Up Your iPhone Using iCloud/Mac - Tips</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-if-you-want-to-know-the-best-apps-to-animate-text-on-your-phone-check-it-out-for-2024/"><u>Updated If You Want to Know the Best Apps to Animate Text on Your Phone, Check It Out for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-how-to-fade-in-and-fade-out-video-clips/"><u>[New] 2024 Approved How to Fade-In and Fade-Out Video Clips</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-gaming-history-told-by-top-video-makers/"><u>[New] In 2024, Gaming History Told by Top Video Makers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-blissful-onboarding-guide-for-new-users/"><u>[Updated] Blissful Onboarding Guide for New Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/5-reasons-why-you-shouldnt-trust-chatgpt-for-medical-advice/"><u>5 Reasons Why You Shouldn’t Trust ChatGPT for Medical Advice</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/accessing-cutting-edge-ai-tools-an-introduction-to-nvidias-foundations-service-suitability/"><u>Accessing Cutting-Edge AI Tools: An Introduction to NVIDIA's Foundations Service Suitability</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ace-ai-conversations-learn-the-7-essential-methods-to-refine-chatgpt-outputs/"><u>Ace AI Conversations: Learn the 7 Essential Methods to Refine ChatGPT Outputs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-chatbots-and-conversations-unveiling-how-they-emulate-talking-with-people/"><u>AI Chatbots and Conversations: Unveiling How They Emulate Talking with People</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-driven-dialogues-bots-approach-to-human-talking/"><u>AI-Driven Dialogues: Bot's Approach to Human Talking</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1723808238592-conquer-the-map-triumph-over-foes-advanced-tactics-to-skyrocket-your-fps-in-fortnites-ultimate-showdown-the-next-level-awaits/"><u>Conquer the Map, Triumph Over Foes: Advanced Tactics to Skyrocket Your FPS in Fortnite's Ultimate Showdown - The Next Level Awaits</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-hp-scanjet-driver-updates-for-seamless-printing-on-windows-1187-download-here/"><u>Get the Latest HP Scanjet Driver Updates for Seamless Printing on Windows 11/8/7 [Download Here]</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-how-to-mix-text-and-video-on-a-shoestring-budget/"><u>In 2024, How to Mix Text & Video on a Shoestring Budget</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-youtube-money-mastery-from-clicks-to-checkbook-balance/"><u>In 2024, YouTube Money Mastery From Clicks to Checkbook Balance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/introducing-the-royalty-of-professional-displays-the-all-new-asus-8k-mini-led-proart-monitor-shine-at-an-astounding-1200-nits-with-tailored-illumination-thr41/"><u>Introducing the Royalty of Professional Displays - The All-New Asus' 8K Mini LED ProArt Monitor: Shine at an Astounding 1200 Nits with Tailored Illumination Through 4096 Lighting Zones</u></a></li>
 </ul></div>
 

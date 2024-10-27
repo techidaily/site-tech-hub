@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide to Supercharged Productivity: Tools and Strategies That Transform Daily Workflow Wisdom"
-date: 2024-10-17T21:08:50.672Z
-updated: 2024-10-21T16:23:12.634Z
+date: 2024-10-23T17:39:00.397Z
+updated: 2024-10-27T17:10:39.059Z
 tags:
   - apple
 categories:
@@ -32,13 +32,6 @@ Today, I coordinate with teams, rather than manage them. I have students rather 
 
 I use a tremendous number of tools for my projects, and they often change from project to project. But what I'm going to discuss here are the tools I use on a daily basis to manage my "flow". 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What do I mean by my flow?
 
 I divide my work day into two main chunks of time: Communications and knowledge gathering time, and project time. Every day has pretty much the same communications and knowledge gathering activities, which follows a relatively consistent pattern that has proven to be highly productive for me. These are the daily productivity activities I've been talking about. 
@@ -64,6 +57,13 @@ In any case, what that means is that instead of my escalating ranking of phones,
 ## Tools for my daily flow
 
 Now that you understand how my working environment has changed and how I structure my work day, let's discuss the tools I use in my daily flow. It all starts with Gmail... 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## First morning Gmail
 
@@ -107,6 +107,13 @@ By this point, I'm somewhere between 30 and 60 minutes into my day, I've had one
 
 Depending on the importance and urgency of the messages in my Gmail inbox, I'll either go straight into my morning email cycle or begin my morning reading. I prefer to do morning reading before email, so I'll discuss that next. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The Pocket-read-post-archive cycle
 
 I read. A lot. I need to keep up to date on a tremendous amount of information, both breaking news related and deep technical or academic information. As a result, a good percentage of my morning is spent reading. I also watch a lot of YouTube videos. I'm almost always learning about new stuff, and many YouTube videos provide great introductions to both how those things work and what they do. Without YouTube, I never would have [gotten my CNC up and running](https://www.zdnet.com/article/hands-on-building-the-next-generation-x-carve-cnc-build-log/) and done [my first successful build](https://www.zdnet.com/article/my-first-big-cnc-project-a-parts-organizer-rack/).
@@ -118,13 +125,6 @@ What's particularly nice about Pocket is that it runs on not only my couch-side 
 Part of my morning flow is posting to the social networks. Unfortunately, this has changed. It used to be that whenever I found an article that was interesting in my Pocket collection, I tapped the Share icon in Pocket and then selected [Buffer](http://bufferapp.com). Buffer then took the article, scheduled it, and posted it to Twitter, Facebook, and LinkedIn. Two clicks and I used to be able shared something interesting.
 
 But Facebook broke that. Facebook no longer allows tools like Buffer and [Hootsuite](https://hootsuite.com/) to to post to personal Facebook pages. I've spent years building up my personal Facebook page following and don't want to start a corporate page (or orphan all my followers), so when Facebook broke auto-posting, it hurt. Now, I hand post to Twitter and then do it again on Facebook. LinkedIn gets a lot less attention, and, frankly, I post less frequently. 
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Featured reviews
 
@@ -163,13 +163,6 @@ Now, to be fair, I have a slight email fetish, so I do check back in to my inbox
 
 In fact, now that I have email notifications integrated into my watch, I'm finding I'm actually breaking myself of the habit, because unless I hear the notification tone, I don't have any important emails coming in. I have actually gone a few hours without checking my email inbox, which is something of a record for me. 
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Managing my daily teaching opportunities
 
 As it turns out, supporting users is a lot like teaching online students.
@@ -194,10 +187,10 @@ By the way, this is also a great way to think about users, which I initially was
 Here's another little trick I use: I get a lot of feature requests (which I call "cool feature ideas") from the plugin users. The go into [the bug tracking system I manage in Notion](https://www.zdnet.com/article/notion-app-review/).
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## To-doing my to-do list
@@ -230,6 +223,13 @@ I've set up a bunch of Notion pages and all the items that "should be on the lis
 
 That, by the way, is the entire key to keeping your to-do list under control. If you actually intend to do an item within a reasonably short period of time, put it on your to-do list. If you expect to do it someday, it's not a to-do list item, not an actionable item, and you should write them on another list somewhere. I use Trello for that. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best 3D printers If you're in the market for a 3D printer, you'll find one here that fits your needs.  Read now](https://www.zdnet.com/article/best-3d-printer/)
@@ -251,10 +251,10 @@ Finally, there's Planner Tentative. This is where I block out the approximate ti
 With this system, I rarely lose track of projects and also rarely overbook myself. It's worked quite well for a bunch of years now.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Rethinking your flow
@@ -286,18 +286,17 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-rounded-overview-googles-podcast-application-demystified/"><u>[New] 2024 Approved Rounded Overview Google's Podcast Application Demystified</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-accessing-fb-video-on-apple-tv-step-by-step-guide-for-2024/"><u>[New] Accessing FB Video on Apple TV Step by Step Guide for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-the-ultimate-guide-to-sourcing-premium-background-images/"><u>[New] The Ultimate Guide to Sourcing Premium Background Images</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-unleash-zodiac-potential-in-personal-bios-on-messaging-apps-for-2024/"><u>[New] Unleash Zodiac Potential in Personal Bios on Messaging Apps for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-untangling-box-mystery-ideas-to-boost-joy-for-2024/"><u>[New] Untangling Box Mystery Ideas to Boost Joy for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/choosing-between-ipad-pro-sizes-11-inch-or-129-inch-with-m1m2-chips-a-comprehensive-comparison/"><u>Choosing Between IPad Pro Sizes: 11-Inch or 12.9-Inch with M1/M2 Chips? A Comprehensive Comparison</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/emergency-pause-on-latest-ios-test-version-as-users-report-iphone-issues-says-zdnet/"><u>Emergency Pause on Latest iOS Test Version as Users Report iPhone Issues, Says ZDNet</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-brightest-highlights-of-ios-18-at-wwdc-2024-how-ai-is-paving-the-way-for-tomorrow-featured-on-zdnet/"><u>Exploring the Brightest Highlights of iOS 18 at WWDC 2024 | How AI Is Paving the Way for Tomorrow | Featured on ZDNET</u></a></li>
-<li><a href="https://howto.techidaily.com/quick-fixes-for-why-is-my-vivo-y28-5g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Vivo Y28 5G Black and White | Dr.fone</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/recupere-com-seguranca-seus-dados-perdidos-metodos-naturais-para-restaurar-arquivos-deletados-da-lixeira/"><u>Recupere Com Segurança Seus Dados Perdidos – Métodos Naturais Para Restaurar Arquivos Deletados Da Lixeira</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-4th-of-july-cell-plan-bargains-exclusive-offers/"><u>Top 4Th of July Cell Plan Bargains - Exclusive Offers !</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-savings-unbeatable-atandt-mobile-offers-in-may-2024-discover-the-latest-on-zdnet/"><u>Top Savings: Unbeatable AT&T Mobile Offers in May 2024 - Discover the Latest on ZDNet</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/update-your-gaming-experience-download-and-update-logitech-controller-drivers-now/"><u>Update Your Gaming Experience: Download & Update Logitech Controller Drivers Now</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-mastering-the-conversion-of-vids-to-mp3-on-insta/"><u>[New] 2024 Approved Mastering the Conversion of Vids to MP3 on Insta</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-quick-steps-to-record-and-share-your-skyrim-quests/"><u>[New] Quick Steps to Record and Share Your Skyrim Quests</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-learn-how-to-create-a-kinetic-typography-text-effect-in-filmora-one-of-the-best-video-editors-for-all-skill-levels-check-out-this-simple-step-/"><u>2024 Approved Learn How to Create a Kinetic Typography Text Effect in Filmora, One of the Best Video Editors for All Skill Levels. Check Out This Simple Step-by-Step Guide</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-dance-dictates-selecting-perfect-audio-visuals/"><u>In 2024, Dance Dictates Selecting Perfect Audio-Visuals</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-infinix-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Infinix Phone Now with These Tips</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/insiders-guide-to-mechanical-keyboard-modding/"><u>Insider's Guide to Mechanical Keyboard Modding</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-forefront-ai-a-stronger-contender-than-chatgpt-find-out-here/"><u>Is Forefront AI a Stronger Contender than ChatGPT? Find Out Here</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/master-meal-prep-effortlessly-with-these-7-uses-for-chatgpt-in-the-kitchen/"><u>Master Meal Prep Effortlessly with These 7 Uses for ChatGPT in the Kitchen</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-conversational-ai-7-key-tips-for-superior-chatgpt-prompts/"><u>Mastering Conversational AI: 7 Key Tips for Superior ChatGPT Prompts</u></a></li>
+<li><a href="https://media-tips.techidaily.com/transforming-videos-into-masterpieces-a-guide-on-creating-with-creative-zen/"><u>Transforming Videos Into Masterpieces: A Guide on Creating with Creative Zen</u></a></li>
 </ul></div>
 

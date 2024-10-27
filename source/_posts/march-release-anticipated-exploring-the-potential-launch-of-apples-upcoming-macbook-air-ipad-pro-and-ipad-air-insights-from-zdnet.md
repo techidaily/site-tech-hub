@@ -1,7 +1,7 @@
 ---
 title: "March Release Anticipated: Exploring the Potential Launch of Apple's Upcoming MacBook Air, iPad Pro & iPad Air - Insights From ZDNet"
-date: 2024-10-19T21:00:27.934Z
-updated: 2024-10-21T18:54:14.134Z
+date: 2024-10-20T17:31:56.034Z
+updated: 2024-10-27T16:57:01.923Z
 tags:
   - apple
 categories:
@@ -60,13 +60,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -74,6 +67,13 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -94,10 +94,10 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -113,13 +113,6 @@ Adam Breeden/ZDNET
 * With watchOS, users will get suggestions on the best photo options for their **watch face** from their photo library based on criteria such as aesthetics, composition, facial expressions, and more. The face can also be customized with different sizes, layouts, and fonts.
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## iPadOS 18
 
@@ -143,10 +136,16 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -173,6 +172,13 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -218,21 +224,22 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-essential-media-makers-software-linux-edition/"><u>[New] 2024 Approved Essential Media Makers' Software Linux Edition</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-tecno-phantom-v-fold-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Tecno Phantom V Fold Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/addressing-excessive-load-warning-windows-chatgpt/"><u>Addressing Excessive Load Warning: Windows ChatGPT</u></a></li>
-<li><a href="https://article-files.techidaily.com/advanced-accessories-for-immersive-gaming-worlds-for-2024/"><u>Advanced Accessories for Immersive Gaming Worlds for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/advanced-methods-crafting-distinctive-references-with-gpt-tags-within-personal-chatgpt-exchanges/"><u>Advanced Methods: Crafting Distinctive References with GPT Tags Within Personal ChatGPT Exchanges</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/advancing-past-chatgpt-exploring-future-prospects-of-generative-ai-and-conversational-agents/"><u>Advancing Past ChatGPT: Exploring Future Prospects of Generative AI & Conversational Agents</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-horizon-musks-hidden-project/"><u>AI Horizon: Musk's Hidden Project</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/beating-the-chatgpt-sign-in-error-tips-and-solutions-for-successful-access/"><u>Beating the ChatGPT Sign-In Error: Tips and Solutions for Successful Access</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/beating-the-odds-against-the-727e66ac-2024-challenge-in-nba-2k24-proven-tips-and-techniques/"><u>Beating the Odds Against the 727E66ac-2024 Challenge in NBA 2K24 - Proven Tips & Techniques</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/beware-of-imposter-how-a-fraudulent-chatgpt-add-on-compromises-your-facebook-password-security/"><u>Beware of Imposter: How a Fraudulent ChatGPT Add-On Compromises Your Facebook Password Security</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/boosted-bots-dialogue-improving-gpt-with-10-custom-tweaks/"><u>Boosted Bots Dialogue: Improving GPT with 10 Custom Tweaks</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-the-newest-drivers-for-nvidia-quadro-rtx-8000-on-windows-11-10-and-7/"><u>Download the Newest Drivers for Nvidia Quadro RTX 8000 on Windows 11, 10 & 7</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-vivo-y27s-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Vivo Y27s to Roku | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-11-prevention-and-solution-drfone-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone 11 Prevention & Solution | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-tutorial-deleting-profiles-efficiently-using-revo-for-windows-11-users/"><u>Step-by-Step Tutorial: Deleting Profiles Efficiently Using Revo for Windows 11 Users</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-vivo-y28-5g-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Vivo Y28 5G Device</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-comprehensively-addressed-best-tools-for-efficient-unfollowing/"><u>[Updated] In 2024, Comprehensively Addressed Best Tools for Efficient Unfollowing</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-the-best-practices-for-recording-apex-heroes/"><u>[Updated] The Best Practices for Recording Apex Heroes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-app-for-windows-enthusiasts/"><u>ChatGPT App for Windows Enthusiasts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/deciphering-ai-balancing-harmony-and-ethics/"><u>Deciphering AI: Balancing Harmony and Ethics</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-gionee-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Gionee FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Google Pixel 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-courtesy-towards-voice-assistants-such-as-chatgpt-amazons-alexa-and-apples-siri-necessary/"><u>Is Courtesy Towards Voice Assistants Such as ChatGPT, Amazon's Alexa, and Apple's Siri Necessary?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-it-feasible-to-create-secure-fitness-routines-with-chatgpt/"><u>Is It Feasible to Create Secure Fitness Routines with ChatGPT?</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-mov-video-rotation-made-easy-top-free-options/"><u>New 2024 Approved MOV Video Rotation Made Easy Top Free Options</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-honor-90-gt-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Honor 90 GT Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/prime-coverage-pro-iphone-plus-android-insta-covers-app/"><u>Prime Coverage Pro IPhone + Android Insta Covers App</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/strategies-for-superior-tabletop-role-playing-via-gpt-utilization/"><u>Strategies for Superior Tabletop Role-Playing via GPT Utilization</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-7-incredible-chatgpt-browser-plugins-to-enhance-your-ai-conversations/"><u>Top 7 Incredible ChatGPT Browser Plugins to Enhance Your AI Conversations</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/ultimate-list-of-hd-webcams-compatible-with-windows-11-pcs-for-2024/"><u>Ultimate List of HD Webcams Compatible with Windows 11 PCs for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-solving-this-device-is-not-present-windows-7-8-and-10-troubleshooting-steps/"><u>Understanding and Solving 'This Device Is Not Present' - Windows 7, 8 & 10 Troubleshooting Steps</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-the-safety-concerns-around-alternative-chatgpt-applications/"><u>Understanding the Safety Concerns Around Alternative ChatGPT Applications</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/whisking-together-a-perfect-dough-base/"><u>Whisking Together a Perfect Dough Base</u></a></li>
 </ul></div>
 

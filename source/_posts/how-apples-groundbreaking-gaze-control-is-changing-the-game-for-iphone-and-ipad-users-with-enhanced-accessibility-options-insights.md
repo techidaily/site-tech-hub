@@ -1,7 +1,7 @@
 ---
 title: How Apple's Groundbreaking Gaze Control Is Changing the Game for iPhone & iPad Users with Enhanced Accessibility Options | Insights
-date: 2024-10-19T21:00:46.120Z
-updated: 2024-10-21T21:32:24.646Z
+date: 2024-10-20T16:25:52.466Z
+updated: 2024-10-27T17:33:07.980Z
 tags:
   - apple
 categories:
@@ -45,22 +45,15 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Apple Music haptics
 
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Addressing motion sickness
 
@@ -71,10 +64,10 @@ Motion sickness in cars can often be the result of a disconnect between what you
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Understanding speech
@@ -84,10 +77,10 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### New CarPlay features
@@ -95,6 +88,13 @@ Another feature, Listen for Atypical Speech, will use machine learning to unders
 Apple's in-car CarPlay software is also getting new accessibility features, including the ability for you to navigate CarPlay and engage with apps using only your voice. A new Sound Recognition feature will display alerts on CarPlay's screen when car horns or sirens go off, and Color Filters will make CarPlay easier to use for colorblind users.
 
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Some other updates
 
@@ -130,24 +130,22 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-avoiding-threats-while-grabbing-gratis-vlc-player-for-apple-machines/"><u>[New] In 2024, Avoiding Threats While Grabbing Gratis VLC Player for Apple Machines</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-smooth-loop-setup-tailoring-youtube-content-for-television/"><u>[New] In 2024, Smooth Loop Setup Tailoring YouTube Content for Television</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-simplify-tv-broadcasts-introducing-youtube-content-loops/"><u>[New] Simplify TV Broadcasts Introducing YouTube Content Loops</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-unlock-your-viewing-pleasure-with-budget-friendly-recording-tools/"><u>[Updated] 2024 Approved Unlock Your Viewing Pleasure with Budget-Friendly Recording Tools</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/beyondonecam-testing-are-there-better-options-for-2024/"><u>BeyondOneCam Testing Are There Better Options for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/easy-integration-of-microsofts-bing-ai-into-your-android-typing-experience/"><u>Easy Integration of Microsoft's Bing AI Into Your Android Typing Experience</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/elevate-your-workout-the-ultimate-list-of-8-powerful-gpt-plugins-for-fitness-excellence/"><u>Elevate Your Workout: The Ultimate List of 8 Powerful GPT Plugins for Fitness Excellence</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/empowered-enterprises-via-chatgpt-and-whisper-integration/"><u>Empowered Enterprises via ChatGPT & Whisper Integration</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhancing-writing-skills-through-chatgpt-practice/"><u>Enhancing Writing Skills Through ChatGPT Practice</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-ai-conversational-agents-which-one-is-better-chatgpt-or-huggingchat/"><u>Exploring AI Conversational Agents: Which One Is Better, ChatGPT or HuggingChat?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/finding-out-if-chatgpt-is-down-a-guide-to-5-reliable-techniques/"><u>Finding Out if ChatGPT Is Down: A Guide to 5 Reliable Techniques</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/from-basics-to-pros-mastering/"><u>From Basics to Pros: Mastering</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/from-browser-to-agents-agentgpts-efficiency-tutorial/"><u>From Browser to Agents: AgentGPT’s Efficiency Tutorial</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/from-idea-to-manuscript-leverage-chatgpts-expertise-with-our-9-ingenious-writing-techniques/"><u>From Idea to Manuscript: Leverage ChatGPT's Expertise with Our 9 Ingenious Writing Techniques</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-motorola-g54-5g-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Motorola G54 5G</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-technology-a-deep-dive-into-toms-hardware-findings/"><u>Mastering Technology: A Deep Dive Into Tom's Hardware Findings</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/mastering-the-steam-deck-a-list-of-the-2023-gaming-essentials/"><u>Mastering the Steam Deck: A List of the 2023 Gaming Essentials</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/scalable-earnings-via-youtube-beauty-channels-for-2024/"><u>Scalable Earnings via YouTube Beauty Channels for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-karaoke-experience-in-the-usa-top-picks-for-less-than-150/"><u>Ultimate Karaoke Experience in the USA - Top Picks for Less Than $150</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-screen-recording-techniques-for-enhanced-creativity/"><u>[New] 2024 Approved Screen Recording Techniques for Enhanced Creativity</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-superior-online-sound-devices-ranked-for-recording-2023/"><u>[New] 2024 Approved Superior Online Sound Devices Ranked for Recording 2023</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-navigating-whatsapp-with-ease-advanced-functions-revealed/"><u>[Updated] 2024 Approved Navigating WhatsApp with Ease Advanced Functions Revealed</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-12-pro-drfone-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Meizu 21 Pro? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leading-usb-memory-sticks-of-2024-speedy-spacious-and-compact-choices/"><u>Leading USB Memory Sticks of 2024: Speedy, Spacious, and Compact Choices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-iphone-limitations-6-remedies-for-issues-with-exclusive-emergency-call-access/"><u>Overcoming iPhone Limitations: 6 Remedies for Issues with Exclusive Emergency Call Access</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revive-your-missing-microsoft-word-documents-with-these-easy-tips-for-windows-10-includes-images/"><u>Revive Your Missing Microsoft Word Documents with These Easy Tips for Windows 10 (Includes Images)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/seamless-aspect-ratio-adaptation-in-dev-workflows-for-2024/"><u>Seamless Aspect Ratio Adaptation in Dev Workflows for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/silencing-spam-how-to-easily-block-calls-on-iphones-and-androids/"><u>Silencing Spam: How to Easily Block Calls on iPhones & Androids</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/solving-slow-response-times-tips-for-enhancing-wireless-keyboard-performance-on-pcs/"><u>Solving Slow Response Times: Tips for Enhancing Wireless Keyboard Performance on PCs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/sound-problems-on-fortnite-quick-solutions-to-restore-audio/"><u>Sound Problems on Fortnite? Quick Solutions to Restore Audio</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-easily-connect-your-devices-with-chromecast/"><u>Step-by-Step Guide: Easily Connect Your Devices with Chromecast</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-resolving-issues-with-your-logitech-k75n-keyboard/"><u>Step-by-Step Guide: Resolving Issues with Your Logitech K75n Keyboard</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-updating-your-system-with-windows-10/"><u>Step-by-Step Guide: Updating Your System with Windows 10</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-converting-photos-to-engaging-gif-format/"><u>Step-by-Step Tutorial: Converting Photos to Engaging GIF Format</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/your-guide-to-affordable-quality-live-streaming-on-smartphones-for-2024/"><u>Your Guide to Affordable, Quality Live Streaming on Smartphones for 2024</u></a></li>
 </ul></div>
 
