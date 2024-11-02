@@ -1,7 +1,7 @@
 ---
 title: How Samsung Galaxy AI Ventures Surge as Google Faces Antitrust Challenges, Redefining the Landscape of Technological Breakthroughs | ZDNet
-date: 2024-10-21T16:47:52.199Z
-updated: 2024-10-27T16:41:05.553Z
+date: 2024-10-31T08:58:16.774Z
+updated: 2024-11-01T17:07:25.744Z
 tags:
   - apple
 categories:
@@ -71,31 +71,35 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-zeroing-in-precision-backdrop-deduplication-with-photopea-for-2024/"><u>[New] Zeroing In Precision Backdrop Deduplication with Photopea for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-webcam-innovation-cutting-edge-live-video-technology/"><u>[Updated] In 2024, Webcam Innovation Cutting-Edge Live Video Technology</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-becoming-an-expert-in-lut-technology/"><u>2024 Approved Becoming an Expert in LUT Technology</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-design-dynamics-the-role-of-color-integration/"><u>2024 Approved Design Dynamics The Role of Color Integration</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/boosting-output-quality-in-onlyoffice-docspace-by-integrating-with-chatgpt-technology/"><u>Boosting Output Quality in OnlyOffice Docspace by Integrating with ChatGPT Technology</u></a></li>
-<li><a href="https://fox-that.techidaily.com/cant-see-notifications-on-iphone-here-are-7-ways-to-resolve-the-issue/"><u>Can't See Notifications on iPhone? Here Are 7 Ways to Resolve the Issue</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/conversational-conquerors-which-model-wins-chatgpt-or-bard/"><u>Conversational Conquerors: Which Model Wins, ChatGPT or Bard?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/converting-creative-imagery-transforming-webp-from-dall-e-to-png-jpg/"><u>Converting Creative Imagery: Transforming WebP From DALL-E to PNG, JPG</u></a></li>
-<li><a href="https://solve-news.techidaily.com/cookiebot-fueled-personalization-enhancing-user-experience-with-smart-analytics/"><u>Cookiebot-Fueled Personalization: Enhancing User Experience with Smart Analytics</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/facing-problems-with-the-chatgpt-app-on-your-iphone-try-these-9-fixes/"><u>Facing Problems with the ChatGPT App on Your iPhone? Try These 9 Fixes!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-creative-minds-are-opposing-tech-titans-the-case-of-artists-suing-openai-and-meta/"><u>How Creative Minds Are Opposing Tech Titans: The Case of Artists Suing OpenAI and Meta</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-luts-premiere-pro-essentials/"><u>In 2024, Mastering LUTs Premiere Pro Essentials</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-prodigious-platform-professionals/"><u>In 2024, Prodigious Platform Professionals</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/limited-ring-battery-doorbell-pro-assessment-premium-quality-justifies-high-price/"><u>Limited Ring Battery Doorbell Pro Assessment: Premium Quality Justifies High Price</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-making-your-dall-e-3-webp-pictures-into-usable-jpgpng-files/"><u>Step-by-Step Tutorial: Making Your DALL-E 3 WebP Pictures Into Usable JPG/PNG Files</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-puzzle-of-immutable-chatgpt-mods/"><u>The Puzzle of Immutable ChatGPT Mods</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-11-creative-gpt-inquiries-to-shape-your-storys-characters/"><u>Top 11 Creative GPT Inquiries to Shape Your Story's Characters</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-power-of-chatgpt-with-extensions/"><u>Unveiling the Power of ChatGPT with Extensions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-and-install-amd-radeon-vega-64-graphics-card-driver-on-windows-pcs-fixed/"><u>Update & Install AMD Radeon Vega 64 Graphics Card Driver on Windows PCs [FIXED]</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-excellence-in-virtual-venue-experience/"><u>[New] Excellence in Virtual Venue Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-device-not-migrated-on-windows-10/"><u>[Solved] Device Not Migrated on Windows 10</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-elevate-your-gameplay-records-with-advanced-methods-on-w11/"><u>[Updated] Elevate Your Gameplay Records with Advanced Methods on W11</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-find-8-digital-hubs-offering-free-green-screen-elements-and-scenes-for-2024/"><u>[Updated] Find 8 Digital Hubs Offering Free Green-Screen Elements & Scenes for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-the-messenger-maestros-guide-to-capturing-social-media-videos-for-2024/"><u>[Updated] The Messenger Maestro's Guide to Capturing Social Media Videos for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/canvas-hidden-power-ups-for-stunning-visuals-for-2024/"><u>Canva's Hidden Power-Ups for Stunning Visuals for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-enable-flv-playback-on-lightworks-a-comprehensive-guide/"><u>How to Enable FLV Playback on Lightworks: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-transform-a-gif-into-a-quicktime-mov-file-in-just-three-simple-steps/"><u>How to Transform a GIF Into a QuickTime MOV File in Just Three Simple Steps</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-non-gaming-screen-capture-apps-worth-your-time/"><u>In 2024, Non-Gaming Screen Capture Apps Worth Your Time</u></a></li>
+<li><a href="https://fox-making.techidaily.com/macbooksd/"><u>MacBookを使用したSDメモリカードの利用手順：詳細な案内</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-youtube-to-facebook-video-conversion-expert-techniques-and-recommended-software/"><u>Mastering YouTube-to-Facebook Video Conversion: Expert Techniques and Recommended Software</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/quick-guide-to-extracting-dvds-with-various-languages-and-captions-effortlessly/"><u>Quick Guide to Extracting DVDs With Various Languages & Captions Effortlessly</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/removing-logos-from-your-videos-tips-and-tricks-for-a-clearer-image/"><u>Removing Logos From Your Videos: Tips and Tricks for a Clearer Image</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-converting-your-dvd-into-an-mkv-file/"><u>Step-by-Step Guide: Converting Your DVD Into an MKV File</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-transforming-several-ts-files-into-mp4-quickly-and-easily/"><u>Step-by-Step Guide: Transforming Several TS Files Into MP4 Quickly and Easily</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-next-step-after-vlc-top-media-players-reviewed-for-2024/"><u>The Next Step After VLC - Top Media Players Reviewed for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/pc10/"><u>ベストなPC画面キャプチャアプリ:無料と有料両方選び10点</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "Section 2A: Explanation of Hydrostatic Testing in Welded Joints"
-date: 2024-10-26T16:32:26.518Z
-updated: 2024-10-27T17:53:55.937Z
+date: 2024-11-01T06:46:20.856Z
+updated: 2024-11-01T22:43:20.468Z
 tags:
   - apple
 categories:
@@ -42,14 +42,20 @@ Show less
 
 [View now at App Store](https://apps.apple.com/us/app/microsoft-outlook/id951937596)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Microsoft Outlook
+
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Quick access to email, calendar, and cloud storage accounts
 
@@ -66,6 +72,13 @@ Show less
 [View now at App Store](https://apps.apple.com/us/app/microsoft-office/id541164041)
 
 ## Microsoft Office
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Word, Excel, PowerPoint, and more, in one app
 
@@ -84,16 +97,10 @@ Show less
 ## Microsoft OneNote
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### The hidden gem of the Office family
@@ -109,6 +116,13 @@ Show Expert Take Show less
 Show less 
 
 [View now at App Store](https://apps.apple.com/us/app/microsoft-onedrive/id477537958)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Microsoft OneDrive
 
@@ -127,20 +141,13 @@ Show less
 [View now at App Store](https://apps.apple.com/us/app/microsoft-edge-web-browser/id1288723196)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Microsoft Edge
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### For the first time in decades, Microsoft has a serious mobile browser
 
@@ -188,21 +195,7 @@ Show less
 
 [View now at App Store](https://apps.apple.com/us/app/remote-desktop-mobile/id714464092)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Remote Desktop Mobile
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Connect to a desktop PC or server from your mobile device
 
@@ -219,10 +212,10 @@ Show less
 [View now at App Store](https://apps.apple.com/us/app/microsoft-lists/id1530637363)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Microsoft Lists
@@ -234,6 +227,13 @@ When you're firmly entrenched in Microsoft's world as a developer or IT pro and 
 Think of Microsoft Lists as OneNote without all the annoying paragraphs. You can use lists to track issues like customer support requests, or assets in your business, or customers or inventory or ... well, you get the idea. The real secret of Microsoft Lists is not creating personal lists but rather in sharing lists with a team, complete with enterprise-grade security and customizable views that can keep everyone on the same extremely orderly page.
 
 Show Expert Take Show less 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##   
 
@@ -267,18 +267,22 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-optimal-webp-to-jpg-transformation-guide/"><u>[New] 2024 Approved Optimal WebP-to-JPG Transformation Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-capture-and-crop-with-ios-top-iphone-apps-reviewed/"><u>In 2024, Capture & Crop with iOS Top iPhone Apps Reviewed</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-xiaomi-redmi-k70-pro-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Xiaomi Redmi K70 Pro</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-modifying-the-default-language-of-your-windows-10-operating-system/"><u>Step-by-Step Tutorial: Modifying the Default Language of Your Windows 10 Operating System</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/successfully-updating-to-directx-12-with-windows-11-a-step-by-step-process/"><u>Successfully Updating to DirectX 12 with Windows 11 - A Step-by-Step Process</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-5-premier-vpn-choices-for-a-safer-youtube-browsing-adventure/"><u>The 5 Premier VPN Choices for a Safer YouTube Browsing Adventure</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-video-metadata-editing-on-mac-top-8-picks/"><u>The Ultimate Guide to Video Metadata Editing on Mac (Top 8 Picks)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transforming-calculations-discover-the-triad-of-key-applications-for-chatgpt-integrated-with-wolfram-technology/"><u>Transforming Calculations: Discover the Triad of Key Applications for ChatGPT Integrated with Wolfram Technology</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/troubleshooting-airpods-poor-performance-with-pc-a-step-by-step-guide/"><u>Troubleshooting AirPods Poor Performance with PC: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-capturing-your-screen-on-windows-or-mac/"><u>Ultimate Guide: Capturing Your Screen on Windows or Mac</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unfreeze-your-stalled-pc-on-windows-10-with-these-simple-steps/"><u>Unfreeze Your Stalled PC on Windows 10 with These Simple Steps</u></a></li>
-<li><a href="https://win-able.techidaily.com/unveiling-the-mystery-football-manager-2022-release-held-up-now-fixed/"><u>Unveiling the Mystery: Football Manager 2022 Release Held Up, Now Fixed!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/whats-new-in-windows-10-creators-update-insider-preview-build-1503/"><u>What’s New in Windows 10 Creators Update: Insider Preview Build 1503</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-step-by-step-kinemaster-guidance-for-flawless-green-screen-techniques/"><u>[New] 2024 Approved Step-by-Step Kinemaster Guidance for Flawless Green Screen Techniques</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-keeping-synchronization-fix-frame-disruptions-in-obs/"><u>[Updated] 2024 Approved Keeping Synchronization Fix Frame Disruptions in OBS</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comprehensive-instructions-for-integrating-autowidget-into-kodi-builds-v20x-and-v19x/"><u>Comprehensive Instructions for Integrating AutoWidget Into Kodi Builds v20.x and v19.x</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-steps-to-open-and-enjoy-your-wav-soundtracks/"><u>Easy Steps to Open and Enjoy Your WAV Soundtracks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-top-5-tools-for-seamless-combining-of-flac-audio-files/"><u>Easy Top 5 Tools for Seamless Combining of FLAC Audio Files</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-dvd-to-computer-conversion-tips-for-secure-data-moving/"><u>Effortless DVD-to-Computer Conversion Tips for Secure Data Moving</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-mp4-screen-capturing-software-create-videos-with-perfect-record-quality/"><u>Effortless MP4 Screen Capturing Software – Create Videos with Perfect Record Quality</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-audio-editing-with-ape-essential-tips-for-opening-and-manipulating-ape-files-using-an-ape-player/"><u>Exploring Audio Editing with APE: Essential Tips for Opening & Manipulating APE Files Using an APE Player</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-limitations-and-drawbacks-of-microsofts-windows-phone-7-platform/"><u>Exploring the Limitations and Drawbacks of Microsoft's Windows Phone #7 Platform</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-stealth-in-social-media-going-unseen-with-live-feeds/"><u>In 2024, Stealth in Social Media Going Unseen with Live Feeds</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/step-by-step-guide-recording-google-translation-speech-online-and-offline/"><u>Step-by-Step Guide: Recording Google Translation Speech Online and Offline</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-tutorial-for-forcibly-closing-apps-on-a-windows-11-laptop-or-desktop/"><u>Step-by-Step Tutorial for Forcibly Closing Apps on a Windows 11 Laptop or Desktop</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2173132-9781848588493-the-dark-history-of-the-occult/"><u>The Dark History of the Occult | Free Book</u></a></li>
+<li><a href="https://fox-info.techidaily.com/unveiling-the-basics-an-approachable-hdr-review/"><u>Unveiling the Basics An Approachable HDR Review</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-top-10-4k-video-samples/"><u>Updated 2024 Approved Top 10 4K Video Samples</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/dvd-iphone/"><u>ジャニーズ DVD ダウンロード: IPhoneへ導くステップバイステップガイド</u></a></li>
 </ul></div>
 

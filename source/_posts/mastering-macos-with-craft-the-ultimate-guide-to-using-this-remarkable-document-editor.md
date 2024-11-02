@@ -1,7 +1,7 @@
 ---
 title: "Mastering MacOS with Craft: The Ultimate Guide to Using This Remarkable Document Editor"
-date: 2024-10-23T17:40:46.398Z
-updated: 2024-10-27T16:23:49.627Z
+date: 2024-10-29T18:05:06.157Z
+updated: 2024-11-02T10:53:51.419Z
 tags:
   - apple
 categories:
@@ -36,10 +36,16 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -63,10 +69,10 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -80,10 +86,10 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -134,15 +140,20 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-editors-face-off-which-is-superior-filmora-or-democreator/"><u>[New] Editors Face-Off Which Is Superior, Filmora or Democreator?</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-from-camera-to-feed-instagram-video-upload-on-desktop/"><u>[New] From Camera to Feed Instagram Video Upload on Desktop</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-access-the-latest-social-interactions-watch-facebook-live-on-roku/"><u>[Updated] 2024 Approved Access the Latest Social Interactions Watch Facebook Live on Roku</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-exceptional-appraisal-and-other-choices/"><u>[Updated] 2024 Approved Exceptional Appraisal & Other Choices</u></a></li>
-<li><a href="https://techtrends.techidaily.com/boost-engagement-how-to-include-a-pinterest-widget-on-facebook-page/"><u>Boost Engagement: How To Include A Pinterest Widget On Facebook Page</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/debunking-myths-ais-real-role-in-mental-healthcare/"><u>Debunking Myths: AI’s Real Role in Mental Healthcare</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/demystifying-artifice-intelligence-conversational-agents-debunking-the-top-9-misunderstandings/"><u>Demystifying Artifice Intelligence Conversational Agents: Debunking the Top 9 Misunderstandings</u></a></li>
-<li><a href="https://discover-help.techidaily.com/effizientes-video-bearbeiten-mit-winxvideo-ai-hochskalieren-stabilisieren-und-konvertieren-fur-profis/"><u>Effizientes Video-Bearbeiten Mit Winxvideo AI: Hochskalieren, Stabilisieren Und Konvertieren Für Profis</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-gptbot-causes-behind-website-restrictions/"><u>Understanding GPTBot: Causes Behind Website Restrictions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unleash-your-imagination-using-5-revolutionary-ai-text-creation-applications/"><u>Unleash Your Imagination Using 5 Revolutionary AI Text Creation Applications</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-master-browser-fb-vid-extractor-kit/"><u>[New] In 2024, Master Browser FB Vid Extractor Kit</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-excellent-pc-screen-grabbers-the-most-useful-1-5-for-2024/"><u>[Updated] Excellent PC Screen Grabbers The Most Useful #1-#5 for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-achieving-professional-skype-recordings-in-obs/"><u>[Updated] In 2024, Achieving Professional Skype Recordings in OBS</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-vocal-choirs-on-tiktoks-digital-stage/"><u>[Updated] In 2024, Vocal Choirs on TikTok's Digital Stage</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-the-art-of-search-engine-optimization-for-podcasts/"><u>[Updated] Mastering the Art of Search Engine Optimization for Podcasts</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-secrets-to-the-ultimate-5-free-pinterest-video-loader/"><u>[Updated] Secrets to the Ultimate 5-Free Pinterest Video Loader</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-swift-seize-video-with-soundtracking-for-2024/"><u>[Updated] Swift Seize Video with Soundtracking for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mp4-ogv/"><u>「簡単な手順で！ MP4ビデオから高品質な OGVへの完全変換方法」</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortlessly-watching-mp4-files-on-an-ipad-with-these-3-proven-strategies/"><u>Effortlessly Watching MP4 Files on an iPad with These 3 Proven Strategies</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-from-the-apple-iphone-14-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock From the Apple iPhone 14 Without Previous Owner?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/master-the-art-of-video-format-shifting-from-youtube-for-apple-devices-expert-tutorial-on-iphoneipod-video-converters/"><u>Master the Art of Video Format Shifting From YouTube for Apple Devices - Expert Tutorial on iPhone/iPod Video Converters</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-audio-files-the-essential-guide-to-separating-and-organizing-your-sound-with-the-best-splitter-software/"><u>Mastering Audio Files: The Essential Guide to Separating and Organizing Your Sound with the Best Splitter Software</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-mkv-video-playback-on-your-xbox-series-xs-console/"><u>Mastering MKV Video Playback on Your Xbox Series X|S Console</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mp4dav/"><u>MP4に素早く、安心して変換できるDAVファイル用のシンプルな解決策</u></a></li>
+<li><a href="https://win11.techidaily.com/remedy-for-windows-signature-validation-failures/"><u>Remedy for Windows Signature Validation Failures</u></a></li>
 </ul></div>
 

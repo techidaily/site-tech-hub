@@ -1,7 +1,7 @@
 ---
 title: \\[ \\Left(\\frac{1}{2}l\\right)^2 + L^2 = 10^2 \\
-date: 2024-10-23T17:38:18.693Z
-updated: 2024-10-27T17:11:32.607Z
+date: 2024-10-29T18:53:07.667Z
+updated: 2024-11-01T20:28:44.642Z
 tags:
   - apple
 categories:
@@ -42,22 +42,15 @@ While the Pixel 6 Pro at time of release was only $100 cheaper ($899) than the $
 | Price                  | [Starting at $899](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://store.google.com/product/pixel%5F6%5Fpro?hl=en-US&pli=1) | [Starting at $999](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fiphone-13-pro%2Fkey-features%2F%3Fafid%3Dp238%257CsNQZDFTnQ-dc%5Fmtid%5F20925d2q39172%5Fpcrid%5F588006468460%5Fpgrid%5F126654828229%5F%26cid%3Dwwa-us-kwgo-iphone--slid---Brand-iphone13pro-avail-&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) |
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  You should buy the Google Pixel 6 Pro if…
 
@@ -68,19 +61,6 @@ The Google Pixel has always been known for its exceptional computational photogr
 One standout camera feature on the Pixel 6 Pro is **Motion Mode,** whichallows users to capture a clear photo of a moving object, something you'd typically need a tripod for. Motion Mode includes an Action Pan option to dial up the shutter speed and capture fast-moving subjects like cars and subways. There's also a Long Exposure option that, like Action Pan, adds a creative blur to the background for a "Pro" look and feel. 
 
 Another new and useful feature is **Magic Eraser.** Like Photoshop's Content Aware Fill, the software trick allows you to magically erase unwanted objects from a photo. Using the feature is as simple as circling what you'd like to erase from your image, whether that's strangers in the background, stain marks, or signage, and the Pixel 6 Pro does the rest. When done correctly, the image will look like it was perfectly captured in the first place. 
-
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  2\. You want a bigger battery
 
@@ -103,10 +83,10 @@ Lastly, the Pixel 6 Pro runs on the latest Android 12 software, with Android 13 
 ##  You should buy the iPhone 13 Pro if...
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  1\. You want cinematic camera features
@@ -121,6 +101,13 @@ The iPhone 13 Pro also features new photographic styles. Different from your typ
 
 Lastly, Cinematic Mode shoots videos with a soft, out-of-focus background so that the subject of interest and the depth map are kept separate. With AI processing, the focus can intelligently shift when the subject turns around and his or her back is then facing the camera. Overall, the special mode gives a more movie-like quality to your iPhone videos 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  2\. You own other Apple products (AirPods, Apple Watch, iPad, MacBook, etc.)
 
 There's a reason for Apple's cult following and customer loyalty. Its products have always followed a "strength in numbers" philosophy, enhancing existing services when more than one device is integrated. This interlocking of hardware and software is best described as Apple's walled garden, making it difficult for users to switch out once they're invested. 
@@ -128,6 +115,13 @@ There's a reason for Apple's cult following and customer loyalty. Its products h
 While not an actual product, the Apple ecosystem is still very much part of the product you purchase when investing in, say, an iPhone. Your Apple ID credentials serve as the ecosystem's life source, allowing you to manage and protect multiple devices effortlessly. If you already own a pair of AirPods, an Apple Watch, or a MacBook, then buying the iPhone 13 Pro will make more sense usability-wise. 
 
 Image: Apple
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  3\. You want the best software and hardware support
 
@@ -167,24 +161,19 @@ This support extends to the many physical Apple storefronts, equipped with custo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-maximizing-engagement-integrating-youtube-music-into-videos/"><u>[New] Maximizing Engagement Integrating YouTube Music Into Videos</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-crafting-gifs-like-a-pro-industry-leaders-tools-for-2024/"><u>[Updated] Crafting GIFs Like a Pro Industry Leaders' Tools for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unveiling-the-practicality-of-smoothing-in-camera-jitters/"><u>[Updated] Unveiling the Practicality of Smoothing In-Camera Jitters</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/5-key-safety-measures-for-children-when-engaging-with-chatgpt-online/"><u>5 Key Safety Measures for Children When Engaging With ChatGPT Online</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/5-reasons-why-using-chatgpt-to-condense-documents-could-lead-you-astray/"><u>5 Reasons Why Using ChatGPT to Condense Documents Could Lead You Astray</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/affordable-cybersecurity-insights-on-mobile-devices-understanding-decryption-for-just-50-listen-to-our-chatgpt-powered-podcast/"><u>Affordable Cybersecurity Insights on Mobile Devices - Understanding Decryption for Just $50! Listen to Our ChatGPT-Powered Podcast.</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-face-off-ranking-the-best-response-to-the-same-creative-cue/"><u>AI Face-Off: Ranking the Best Response to the Same Creative Cue</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-innovations-boosting-scholarly-exploration/"><u>AI Innovations: Boosting Scholarly Exploration</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-driven-job-market-the-evolving-scenario/"><u>AI-Driven Job Market: The Evolving Scenario</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1722163231637-emoji-less-tweets-for-clarity-linuss-revealed-secrets-trojans-explained-and-ai-conversational-challenges/"><u>Emoji-Less Tweets for Clarity, Linus's Revealed Secrets, Trojans Explained, & AI Conversational Challenges</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/harvesting-happiness-the-ultimate-list-of-7-14-mods-for-2024/"><u>Harvesting Happiness The Ultimate List of #7-14 Mods for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1722168198415-how-to-experience-gpt-4-without-spending-a-penny-5-tactics-revealed/"><u>How to Experience GPT-4 Without Spending a Penny – 5 Tactics Revealed</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Oppo Reno 11 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/leading-audio-designers-for-iphone-ringtones-for-2024/"><u>Leading Audio Designers for iPhone Ringtones for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/noiseless-video-record-of-your-screens-easy-fix-and-tutorial-by-movavi/"><u>Noiseless Video Record of Your Screens - Easy Fix & Tutorial by Movavi</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1721762809093-revolutionizing-ai-communication-explore-openais-tailored-store/"><u>Revolutionizing AI Communication: Explore OpenAI’s Tailored Store!</u></a></li>
-<li><a href="https://extra-support.techidaily.com/sonic-storytelling-in-instagram-visuals-for-2024/"><u>Sonic Storytelling in Instagram Visuals for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/the-significance-of-the-latest-iphone-os-update-why-ios-18-shakes-up-the-tech-world/"><u>The Significance of the Latest iPhone OS Update: Why iOS 18 Shakes Up the Tech World</u></a></li>
-<li><a href="https://article-files.techidaily.com/zooctorial-template-goldmine/"><u>Zooctorial Template Goldmine</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-the-ultimate-playbook-capturing-ps3-game-highlights/"><u>[New] In 2024, The Ultimate Playbook Capturing PS3 Game Highlights</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-from-passion-to-paychecks-your-vlog-venture-guide/"><u>[Updated] From Passion to Paychecks Your Vlog Venture Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-pinpointing-premium-hdr-camera-brands/"><u>[Updated] Pinpointing Premium HDR Camera Brands</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-oppo-reno-11f-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Oppo Reno 11F 5G to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancing-your-projects-with-chatgpt-8-key-methods-leveraging-its-imagery-skills/"><u>Enhancing Your Projects with ChatGPT: 8 Key Methods Leveraging Its Imagery Skills</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-exclusive-sneak-peek-at-apples-finest-facebook-video-extractor-apps/"><u>In 2024, Exclusive Sneak Peek at Apple's Finest Facebook Video Extractor Apps</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-in-depth-analysis-understanding-google-podcasts-app/"><u>In 2024, In-Depth Analysis Understanding Google Podcasts App</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-chatgpt-borrowing-ideas-unlawfully-or-just-smartly-referencing-sources/"><u>Is ChatGPT Borrowing Ideas Unlawfully or Just Smartly Referencing Sources?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/overcoming-service-errors-between-chatgpt-and-plugins/"><u>Overcoming Service Errors Between ChatGPT and Plugins</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/rapidly-redefining-tech-unpacking-5-reasons-for-chatgpts-success/"><u>Rapidly Redefining Tech: Unpacking 5 Reasons for ChatGPT's Success</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-deleted-iphone-11-pro-max-whatsapp-attachments-on-mac-and-windows-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Recover Deleted iPhone 11 Pro Max WhatsApp Attachments on Mac and Windows | Stellar</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/troubleshooting-chatgpt-iphone-issues-top-9-solutions-for-a-functioning-app/"><u>Troubleshooting ChatGPT iPhone Issues - Top 9 Solutions for a Functioning App</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-advanced-features-with-chatgpt-plus-understand-these-cuhre-9-motivations/"><u>Unlocking Advanced Features with ChatGPT Plus: Understand These Cuhre 9 Motivations</u></a></li>
 </ul></div>
 

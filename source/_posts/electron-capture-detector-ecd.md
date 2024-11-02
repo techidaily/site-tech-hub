@@ -1,7 +1,7 @@
 ---
 title: "Electron Capture Detector (ECD):"
-date: 2024-10-25T16:00:46.363Z
-updated: 2024-10-27T16:28:54.676Z
+date: 2024-10-31T01:21:38.908Z
+updated: 2024-11-01T21:16:00.689Z
 tags:
   - apple
 categories:
@@ -29,6 +29,13 @@ You'll find the necessary setting in the Control Center section of your Settings
 
 Michael Gariffo
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Open your Settings app and find "Control Center"
 
 Apple added a quick, easy way to record your screen with [iOS 14 in 2020](https://www.zdnet.com/article/apple-launches-ios-14-aims-for-siri-overhaul-better-app-organization/), but you'll need to enable it before you can use it. To do this, open your Settings app and find Control Center (as seen above in the red rectangle).
@@ -36,13 +43,6 @@ Apple added a quick, easy way to record your screen with [iOS 14 in 2020](https:
 This is the Screen Recording option we'll be adding to Control Center
 
 Michael Gariffo
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Add the Screen Recording button to your Control Center
 
@@ -55,10 +55,10 @@ This is the screen recording button we'll use to start the recording.
 Michael Gariffo
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Open your Control Center
@@ -89,6 +89,13 @@ This is the confirmation box that will appear when you stop your recording.
 
 Michael Gariffo
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5\. End your recording
 
 When you're ready to end your recording, there are two ways to stop it. The first is to tap the red clock in the top left of your screen. This will produce a dialogue box like the one seen above. You'll need to tap "Stop" to end your recording. If you're in a full-screen app that hides the clock, you can also once again pull out your Control Center and tap the Screen Recording button. If you use this second method, the recording will end immediately, with no confirmation required. 
@@ -100,16 +107,10 @@ In both cases, the recording you just produced will immediately be saved to your
 ## FAQs
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What does the Screen Recording app actually capture?
@@ -123,19 +124,6 @@ Unfortunately, the built-in iPhone tool for recording your screen doesn't suppor
 * [Techsmith Capture](https://apps.apple.com/us/app/techsmith-capture/id1266321056) \- A straightforward screen recorder app that works almost identically to the built-in process, but supports adding real-time narration using the iPhone's built-in microphones.
 * [RecordIt!](https://apps.apple.com/us/app/record-it-screen-recorder/id1245356545) \- A slightly more complex option that also allows for real-time narration or post-capture editing. It also supports face cam captures, so you can record your screen and yourself at the same time.
 * [Screen Recorder +](https://apps.apple.com/us/app/screen-recorder/id1380506650) \- A similar option to RecordIt!, Screen Recorder + touts its ability to start up in just one second, for those spur-of-the-moment captures.
-
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How can I share my captured video?
 
@@ -173,21 +161,21 @@ Be aware that some apps, particularly email and messaging apps that don't rely o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-instagram-archive-mastery-how-and-why-for-2024/"><u>[New] Instagram Archive Mastery How and Why for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-pinnacle-ai-editor-with-advanced-features/"><u>[New] Pinnacle AI Editor with Advanced Features</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-elevating-your-youtube-presence-with-customized-subtitles/"><u>[Updated] Elevating Your YouTube Presence with Customized Subtitles</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-mastering-the-art-of-instagrams-visual-storytelling-for-2024/"><u>[Updated] Mastering the Art of Instagram's Visual Storytelling for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-huggingchat-your-free-community-driven-answer-to-chatgpt/"><u>Discover HuggingChat: Your Free, Community-Driven Answer to ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/elevate-user-engagement-the-ultimate-list-of-9-must-try-chatgpt-plugins-now/"><u>Elevate User Engagement: The Ultimate List of 9 Must-Try ChatGPT Plugins Now</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/expert-instructions-activating-and-utilizing-microsoft-copilot-on-macos-systems/"><u>Expert Instructions: Activating and Utilizing Microsoft Copilot on macOS Systems</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/expert-tips-genuine-gpt-practices/"><u>Expert Tips: Genuine GPT Practices</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-advanced-intelligence-what-to-anticipate-from-microsofts-smart-bing-transformation/"><u>Exploring Advanced Intelligence: What to Anticipate From Microsoft’s Smart Bing Transformation</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-boundaries-why-chatgpt-falls-short-in-predicting-crypto-movements-5-insights/"><u>Exploring the Boundaries: Why ChatGPT Falls Short in Predicting Crypto Movements – 5 Insights</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-differences-a-comprehensive-guide-to-claude-pro-vs-chatgpt-plus/"><u>Exploring the Differences: A Comprehensive Guide to Claude Pro Vs. ChatGPT Plus</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/free-online-conversion-transform-m4v-files-into-webm-format-with-movavi/"><u>Free Online Conversion - Transform M4V Files Into WebM Format with Movavi</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-vivo-v27withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Vivo V27with/without a PC</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-xiaomi-redmi-12-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Xiaomi Redmi 12 to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-vintage-racing-spectacles-top-five/"><u>In 2024, Vintage Racing Spectacles Top Five</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/top-5-chrome-security-apps-protect-your-web-surfing-and-online-financial-transactions/"><u>Top 5 Chrome Security Apps: Protect Your Web Surfing & Online Financial Transactions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-the-full-capabilities-of-windows-11/"><u>[New] Unlocking the Full Capabilities of Windows 11</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-unleash-potential-in-online-engagement-through-zoom-screenshares-for-2024/"><u>[Updated] Unleash Potential in Online Engagement Through Zoom Screenshares for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-complete-guide-to-oem-unlocking-on-motorola-moto-g73-5g-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Motorola Moto G73 5G</u></a></li>
+<li><a href="https://driver-download.techidaily.com/canon-ip110-driver-software-downloads-for-various-windows-versions-win11win10win8win7/"><u>Canon iP110 Driver Software Downloads for Various Windows Versions (Win11/Win10/Win8/Win7)</u></a></li>
+<li><a href="https://common-error.techidaily.com/conclusion-opengl-unsupported-by-drivers/"><u>Conclusion: OpenGL Unsupported By Drivers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effective-management-of-chatgpt-interactions-with-dedicated-folder-systems/"><u>Effective Management of ChatGPT Interactions with Dedicated Folder Systems</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-becoming-an-expert-at-using-zoom-for-your-windows-pc-win10/"><u>In 2024, Becoming an Expert at Using Zoom for Your Windows PC (Win10)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-crafting-conceptions-unveiling-the-worlds-best-schools-for-stories-top-8/"><u>In 2024, Crafting Conceptions Unveiling the World's Best Schools for Stories (Top 8)</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovative-ways-to-use-chatgpt-and-dall-e-for-generating-dungeons-and-dragons-characters/"><u>Innovative Ways to Use ChatGPT and DALL-E for Generating Dungeons & Dragons Characters</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/personalized-libraries-on-the-rise-explore-these-ai-book-apps/"><u>Personalized Libraries on the Rise: Explore These AI Book Apps</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/pro-tech-reviews-sharex-and-more-for-2024/"><u>Pro Tech Reviews ShareX & More for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/speak-to-chatgpt-android-voice-activation-guide/"><u>Speak to ChatGPT: Android Voice Activation Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-8-essential-chatgpt-tools-enhancing-health-and-well-being/"><u>Top 8 Essential ChatGPT Tools Enhancing Health & Well-Being</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transform-how-you-engage-in-chatgpt-through-chrome-add-ons/"><u>Transform How You Engage in ChatGPT Through Chrome Add-Ons</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unseen-mistakes-by-artificial-writers/"><u>Unseen Mistakes by Artificial Writers</u></a></li>
 </ul></div>
 

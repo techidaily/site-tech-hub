@@ -1,7 +1,7 @@
 ---
 title: "Apple Complies with MacBook Class-Action Agreement: Eligible Users Receive Compensation - Insights"
-date: 2024-10-25T17:01:10.588Z
-updated: 2024-10-27T16:55:06.527Z
+date: 2024-10-30T20:18:22.684Z
+updated: 2024-11-02T09:07:25.717Z
 tags:
   - apple
 categories:
@@ -55,6 +55,13 @@ During this time, the company focused on providing viable mixed reality and VR e
 
 Essentially, Meta's focus has been on finding the sweet spot for AR and VR devices using current technology and baking that into its products. In the Quest 3, it has introduced a truly great device at a reasonably affordable price.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  That old Apple magic
 
 Apple, on the other hand, has a problem. It no longer has Steve Jobs to ruthlessly remove features and capabilities added by over-enthusiastic engineers and designers. Instead, Apple sometimes has a myopic focus on being special, on producing something "magic." 
@@ -82,13 +89,6 @@ Bloomberg's Gurman believes Apple is more willing to kill products now than it h
 
 His inference is that it's possible Apple will lose patience with the slow progress of the Vision Pro and kill it off, although he says his sources claim the company is more focused on introducing a cost-cut Vision device that off-loads the processing to a tethered iPhone or Mac. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Think different?
 
 For Apple to be able to move forward with the Vision Pro, it must answer one simple question: Why should I buy this thing? 
@@ -109,6 +109,13 @@ The virtual Mac screen the Vision Pro now offers doesn't add much. But being abl
 
 There are always reasons for delays. It's certainly possible the company hit technical hurdles. But perhaps it could have moved resources over from circus sideshow projects like converting 2D photos into 3D photos -- a feature _no one_ will use as a justification to buy a Vision Pro -- into something that could and will provide real, tangible value and even a justification for the high purchase price. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  A Vision for the rest of us
 
 Right now, the Quest 3 is the [spatial computing](https://www.zdnet.com/article/what-is-spatial-computing-and-how-does-it-work/) headset for the rest of us. While head-mounted displays are still a challenging sell, the Quest 3 offers enough compelling value ([especially as a theatre-sized Netflix player](https://www.zdnet.com/article/netflix-is-now-meta-quest-3s-killer-app-thanks-to-these-two-new-modes/)) to make it the mainstream, easy-to-adopt solution. 
@@ -123,6 +130,13 @@ In other words, for the Vision to be successful, it has to stop fooling around a
 
 So what, beyond shipping useful software like the ultra-wide Mac display, needs to factor into that probably elusive Apple mindset change? Three things. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Give the Vision a controller
 
 VisionOS 2 has made some improvements. Beyond a trackpad, the new OS version (coming this fall) will support a mouse for pointing. It will also allow some form of keyboard passthrough, even in immersive environments, enabling you to see your keyboard. 
@@ -134,10 +148,10 @@ The eye tracking and hand gestures interface that are the primary means of opera
 You can see this in action with the [Puzzling Places game](https://www.meta.com/experiences/3931148300302917/). On the Quest 3, the game provides a much richer interface than on the Vision Pro. That's because it's much easier to navigate objects in the 3D space using the Quest controllers. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Stay away from cable tethering
@@ -151,13 +165,6 @@ Just the absence of the Vision Pro battery and its tether to manage makes the Qu
 The idea that a future Vision device might need to be physically tethered to an iPhone to work would be a joy killer, especially when the Quest 3 doesn't have such an annoyance. 
 
 There might be one compromise, which is to wirelessly offload some processing to an iPhone, similar to the symbiotic relationship the Apple Watch has with the iPhone. That could work. 
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Make a tough margin decision
 
@@ -178,13 +185,6 @@ Think about that. If the Quest 3 is sold for $500, retailers like Amazon are lik
 **Also: [Who's afraid of VR? I was - until I tried Meta Quest 3](https://www.zdnet.com/article/whos-afraid-of-vr-i-was-until-i-tried-meta-quest-3/)**
 
 Apple, by contrast, is making a fairly predictable margin on the Vision Pro, which is why the price is so high by comparison. Apple does have some cost-cutting options (display, chips, assembly, structure, and lenses), but if Facebook is competing at a loss, that puts Apple into the uncomfortable position of also taking a per-unit COGS loss or pricing well higher than the current market leader. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Looking towards the future
 
@@ -235,24 +235,24 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-crafting-compelling-video-narratives-using-captivate/"><u>[Updated] Crafting Compelling Video Narratives Using Captivate</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-professional-techniques-for-home-based-podcast-capture/"><u>[Updated] Professional Techniques for Home-Based Podcast Capture</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-utilizing-free-clip-art-for-graphic-designs/"><u>2024 Approved Utilizing Free Clip Art for Graphic Designs</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Apple iPhone 6 Plus | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/can-auto-gpt-hold-its-own-without-accessing-gpt-4/"><u>Can Auto-GPT Hold Its Own Without Accessing GPT-4?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/experience-an-affordable-and-personalized-chatgpt-clone-right-from-your-windows-desktop/"><u>Experience an Affordable and Personalized ChatGPT Clone Right From Your Windows Desktop!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/explore-and-earn-entering-the-world-of-error-hunting-at-openai/"><u>Explore and Earn: Entering the World of Error Hunting at OpenAI</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-features-of-claude-3-unlocking-its-potential/"><u>Exploring the Features of Claude 3: Unlocking Its Potential</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-world-of-ai-deceptions-insights-on-detecting-artificial-intelligence-hallucinations-and-their-impact-on-data-analysis/"><u>Exploring the World of AI Deceptions: Insights on Detecting Artificial Intelligence Hallucinations and Their Impact on Data Analysis</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/from-text-to-images-seamlessly-craft-your-next-masterpiece-with-these-8-dall-e-3-suggestions/"><u>From Text to Images Seamlessly: Craft Your Next Masterpiece With These 8 DALL-E 3 Suggestions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/future-proofing-speeches-top-7-ai-enhancers/"><u>Future-Proofing Speeches - Top 7 AI Enhancers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/gpt-and-you-crafting-diplomatic-emails-with-smart-tech/"><u>GPT and You: Crafting Diplomatic Emails with Smart Tech</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/gpt-4-gpt-evolution-and-gpt-4o-unveiling-the-similarities-and-differences-in-ai-language-models/"><u>GPT-4, GPT-Evolution, and GPT-4o – Unveiling the Similarities and Differences in AI Language Models</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-steps-to-convert-video-tweets-to-mp3-soundtracks/"><u>In 2024, Steps to Convert Video Tweets to MP3 Soundtracks</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-the-ultimate-step-by-step-youtube-editing-walkthrough/"><u>In 2024, The Ultimate Step-by-Step YouTube Editing Walkthrough</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/inside-llama-2-how-to-utilize-this-innovative-tool-effectively/"><u>Inside Llama 2: How to Utilize This Innovative Tool Effectively</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/installing-windows-11-arm-detailed-iso-based-guide/"><u>Installing Windows 11 ARM: Detailed ISO-Based Guide</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/master-your-art-with-the-giant-canvas-of-the-htiu-kamvas-gt-191-drawing-tablet-in-depth-analysis/"><u>Master Your Art with the Giant Canvas of the HTIU Kamvas GT-191 Drawing Tablet - In-Depth Analysis</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/solved-move-from-poco-m6-pro-4g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Poco M6 Pro 4G to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-the-ultimate-guide-to-windows-10-picture-and-media-importer/"><u>[Updated] 2024 Approved The Ultimate Guide to Windows 10 Picture & Media Importer</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-maximize-video-reach-with-effective-tags-titles/"><u>[Updated] In 2024, How to Maximize Video Reach with Effective Tags, Titles</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-art-of-editing-crafting-your-youtube-story-with-precision/"><u>[Updated] The Art of Editing Crafting Your YouTube Story with Precision</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/18-steps-to-make-your-instagram-unboxing-content-stand-out/"><u>18 Steps to Make Your Instagram Unboxing Content Stand Out</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-accelerate-conversion-srt-to-text-txt-in-minutes-only/"><u>2024 Approved Accelerate Conversion SRT to Text (TXT) in Minutes Only</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-not-working-here-are-9-fixes-to-get-it-running-smoothly-on-your-iphone/"><u>ChatGPT Not Working? Here Are 9 Fixes to Get It Running Smoothly on Your iPhone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/conversione-libera-online-da-m4v-a-m4a-con-movavi-un-tutorial-dettagliato/"><u>Conversione Libera Online Da M4V a M4A Con Movavi: Un Tutorial Dettagliato</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-essential-plugins-for-integrating-chatgpt-into-your-cryptocurrency-applications/"><u>Discover Essential Plugins for Integrating ChatGPT Into Your Cryptocurrency Applications</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-leading-replacements-for-chatgpt-ranked/"><u>Discover the Leading Replacements for ChatGPT - Ranked</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/riendly-cities-redefining-urban-spaces-for-nature/"><u>Eco-Friendly Cities Redefining Urban Spaces for Nature</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-download-of-hp-officejet-5740-printer-software/"><u>Effortless Download of HP OfficeJet 5740 Printer Software!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-text-prompts-to-ai-masterpieces-harnessing-chatgpt-for-image-generation/"><u>From Text Prompts to AI Masterpieces: Harnessing ChatGPT for Image Generation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/future-frontiers-the-new-era-of-chatbots-and-ai/"><u>Future Frontiers: The New Era of Chatbots & AI</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/guide-for-resolving-a-key-problem-unavailable-protect-system-feature-in-windows-server-2016/"><u>Guide for Resolving a Key Problem: Unavailable 'Protect System' Feature in Windows Server 2016</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/harness-powerful-language-ai-without-cost-check-out-these-6-options-beyond-openais-sora/"><u>Harness Powerful Language AI Without Cost - Check Out These 6 Options Beyond OpenAI's Sora</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/openai-vs-creative-rights-the-legal-showdown-with-silverman/"><u>OpenAI Vs. Creative Rights: The Legal Showdown with Silverman</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-to-oneplus-11r-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to OnePlus 11R Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transform-your-android-experience-easy-steps-to-enable-voice-controlled-chatgpt-via-voicegpt/"><u>Transform Your Android Experience: Easy Steps to Enable Voice Controlled ChatGPT via VoiceGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-choose-claude-over-gpt-focusing-on-the-4-foremost-upgrades/"><u>Why Choose Claude Over GPT: Focusing on the 4 Foremost Upgrades</u></a></li>
 </ul></div>
 

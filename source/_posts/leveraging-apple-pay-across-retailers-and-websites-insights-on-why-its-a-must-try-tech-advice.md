@@ -1,7 +1,7 @@
 ---
 title: "Leveraging Apple Pay Across Retailers & Websites: Insights on Why It's a Must-Try | Tech Advice"
-date: 2024-10-23T17:48:48.929Z
-updated: 2024-10-27T16:50:10.529Z
+date: 2024-10-29T05:41:33.304Z
+updated: 2024-11-02T03:13:34.622Z
 tags:
   - apple
 categories:
@@ -48,13 +48,6 @@ Be sure your [phone is up to date](https://www.zdnet.com/article/how-to-get-your
 
 **Also: [How to get your iPhone ready for the landmark iOS 17.4 update](https://www.zdnet.com/article/how-to-get-your-iphone-ready-for-the-landmark-ios-17-4-update/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  You must have a current prescription
 
 When I bought [my custom lenses](https://www.zdnet.com/article/i-bought-custom-lenses-for-my-meta-quest-3-but-not-every-eyeglass-wearer-needs-them-do-you/) for the [Quest 3 XR headset](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMeta-Quest-128GB-Breakthrough-Reality-3%2Fdp%2FB0C8VKH1ZH%2Fref%3Dsr%5F1%5F3%3Fcrid%3D2X0HCIAO3MOVG%26dib%3DeyJ2IjoiMSJ9.BNL0XshPOuZ3lobU5yu3cCziH0rMF3MqkgI5OZmFfI396LZ9jAGXj84MI1EU8%5F5LWlHYbffLvuK4wy60m2mpx-2b0E69G5CAgPr77uABPUs9ThjKVgBAKgxNCmitWG6OIvJQ6C%5FdCub9mc2M5TrzkUgG285Omu6Unm09oovkmtElcKnrct6qE-2GKMVhhr8O9kofjIrt-EsmkyGAKY4GXxpx1gS5vWkTxp6SQcpBxTg.-wnHYIb3S%5FyHdJPtuvKYmJx1oE3hNgbvXK-C7xpg%5FwM%26dib%5Ftag%3Dse%26keywords%3Dquest%2B3%26qid%3D1708934460%26sprefix%3Dquest%2B3%2Caps%2C170%26sr%3D8-3%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C90ceb044-fd06-4c2e-9fe4-87dbf1fce34f%7Cdtp&dtb=1), I just typed in the eyeglass numbers that corresponded to the glasses I currently wear. But I couldn't use that prescription for ZEISS (the company that makes the lenses for Apple). 
@@ -73,6 +66,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 That prescription works fine in my Quest 3, but Apple and ZEISS won't accept it. I had to book an appointment with my local optometrist. 
 
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  It's your distance prescription that counts
 
 When you go to see your optometrist, you'll need to get a distance prescription for the lens inserts. Some people think you'll need both close and distance prescriptions, particularly if you need glasses to read a book or your phone. But that's not how it works. 
@@ -88,10 +94,16 @@ Note that Apple specifically states, "Intermediate distance, task distance, or c
 In any case, within a half hour, I had a new distance prescription that was current and official. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Confirm your prescription can be used
@@ -213,10 +225,10 @@ Screenshot by David Gewirtz/ZDNET
 Now, it's time to decide how much storage you want to have on the Vision Pro. Keep in mind this is very much like choosing the storage on your iPhone or iPad.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##   
@@ -288,10 +300,10 @@ And there you go. You're done. Except: It's time to move on to ZEISS.
 Screenshot by David Gewirtz/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Upload your prescription to ZEISS
@@ -373,22 +385,17 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-converting-vimeo-selections-the-pathway-to-memorable-gifs/"><u>2024 Approved Converting Vimeo Selections The Pathway to Memorable GIFs</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-unveil-your-channels-potential-with-30-top-tier-free-intros/"><u>2024 Approved Unveil Your Channel's Potential with 30 Top-Tier Free Intros</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/5-solutions-for-nokia-105-classic-unlock-without-password-by-drfone-android/"><u>5 Solutions For Nokia 105 Classic Unlock Without Password</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-network-interface-driver-downloads-optimize-performance-for-windows-versions-11-7-and-8/"><u>HP Network Interface Driver Downloads: Optimize Performance for Windows Versions 11, 7 & 8</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/masterclass-on-motherboards-dissecting-the-asus-rog-maximus-z790-with-hybrid-cooling-innovations-and-high-performance-components/"><u>Masterclass on Motherboards: Dissecting the Asus ROG Maximus Z790 with Hybrid Cooling Innovations & High Performance Components</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/quick-and-secure-factory-reset-on-your-toshiba-satellite-including-full-data-protection-steps/"><u>Quick & Secure Factory Reset on Your Toshiba Satellite: Including Full Data Protection Steps</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/speed-it-up-crafting-beautiful-timelapse-videos-on-galaxy/"><u>Speed It Up Crafting Beautiful Timelapse Videos on Galaxy</u></a></li>
-<li><a href="https://fox-within.techidaily.com/strumenti-di-riproduzione-perfetti-il-migliore-per-windows-mail-in-esilio-sul-tuo-computer-windows/"><u>Strumenti Di Riproduzione Perfetti: Il Migliore per Windows Mail in Esilio Sul Tuo Computer Windows</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unboxing-the-lenovo-thinkpad-x1-nano-your-new-featherlight-powerhouse/"><u>Unboxing the Lenovo ThinkPad X1 Nano: Your New Featherlight Powerhouse</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-the-risks-could-chatgpt-use-lead-to-job-termination/"><u>Understanding the Risks: Could ChatGPT Use Lead to Job Termination?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unleash-the-full-potential-of-your-chatbot-mastering-effective-prompt-crafting/"><u>Unleash the Full Potential of Your ChatBot: Mastering Effective Prompt Crafting</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlock-the-power-of-chatgpt-on-your-smartphone-with-new-android-support/"><u>Unlock the Power of ChatGPT on Your Smartphone with New Android Support!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-gpt-3-a-guide-to-enabling-the-latest-chatbot-web-navigation-and-add-on-capabilities/"><u>Unlocking GPT-3: A Guide to Enabling the Latest Chatbot Web Navigation & Add-On Capabilities</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-the-power-of-chatgpt-top-5-no-account-methods/"><u>Unlocking the Power of ChatGPT: Top 5 No-Account Methods</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-critical-concerns-a-closer-look-at-chatgpts-shortcomings/"><u>Unveiling Critical Concerns: A Closer Look at ChatGPT's Shortcomings</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/using-advanced-ai-for-delicate-office-dialogue-delivery/"><u>Using Advanced AI for Delicate Office Dialogue Delivery</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/voiceactivated-ai-on-mobile-try-chatgpt-with-android/"><u>VoiceActivated AI on Mobile? Try ChatGPT with Android</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-securing-every-moment-tips-for-reliable-capture-of-google-meet-sessions/"><u>[Updated] In 2024, Securing Every Moment Tips for Reliable Capture of Google Meet Sessions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-under-100-investments-in-action-cameras-top-selections/"><u>2024 Approved Under $100 Investments in Action Cameras – Top Selections</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-novel-way-to-manage-galaxy-devices-with-windows-11/"><u>A Novel Way to Manage Galaxy Devices with Windows 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/asus-unveils-cost-details-the-all-new-nuc-lineup-with-nuc-14-pro-beginning-at-just-394-and-nuc-14-proplus-starting-from-869/"><u>Asus Unveils Cost Details: The All-New NUC Lineup with NUC 14 Pro Beginning at Just $394 & NUC 14 Pro+ Starting From $869</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/clash-of-titans-in-nlp-exploring-the-contrasts-between-gpt-and-bert-models/"><u>Clash of Titans in NLP: Exploring the Contrasts Between GPT and BERT Models</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparing-ai-variants-which-is-right-for-you-public-vs-private-vs-personal/"><u>Comparing AI Variants: Which Is Right for You - Public Vs. Private Vs. Personal</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discreet-preservation-of-dialogues-with-gpt-assistant/"><u>Discreet Preservation of Dialogues with GPT Assistant</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hazy-endings-how-to-black-out-with-pro-for-2024/"><u>Hazy Endings How to Black Out with Pro for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/taskbar-alert-managing-full-disk-on-win1110/"><u>Taskbar Alert: Managing Full Disk on Win11/10</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-9-uses-of-chatgpt-simplifying-everyday-tasks/"><u>Top 9 Uses of ChatGPT: Simplifying Everyday Tasks</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unending-shutdown-method-how-to-kill-off-youtube-shorts-for-2024/"><u>Unending Shutdown Method How to Kill Off Youtube Shorts for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unveil-your-video-potential-streaming-google-meet-to-youtube-guide-for-2024/"><u>Unveil Your Video Potential Streaming Google Meet to YouTube Guide for 2024</u></a></li>
 </ul></div>
 

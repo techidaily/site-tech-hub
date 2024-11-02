@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Sneak Peek: All Upcoming Autumn Enhancements for Apple Devices with Emphasis on Artificial Intelligence - Features Revealed by ZDNet"
-date: 2024-10-24T17:44:31.119Z
-updated: 2024-10-27T17:59:54.346Z
+date: 2024-10-26T10:17:18.005Z
+updated: 2024-11-02T04:07:35.773Z
 tags:
   - apple
 categories:
@@ -29,13 +29,6 @@ In a [previous article](https://www.zdnet.com/article/6-ways-apple-can-leapfrog-
 >
 
 ## What Apple Intelligence will bring to the company's operating system platforms
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### AI on the device and in the cloud
 
@@ -68,10 +61,10 @@ Apple has dipped its toes into [ChatGPT](https://www.zdnet.com/article/what-is-c
 **Room for improvement:** While Apple's intention to be LLM-agnostic is a positive sign for the company's AI strategy, I had hoped for a broader embrace of third-party platforms, particularly health, finance, and education, with AI integration. However, this shift will have to come with developers embracing the new [SiriKit, App Intents, Core ML, Create ML, and other APIs](https://www.zdnet.com/article/apple-coders-rejoice-your-programming-tools-just-got-a-big-free-ai-boost/). Deeper integration with specialized AI providers could significantly enhance Apple Intelligence's functionality and versatility.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Smart notifications and writing tools
@@ -81,13 +74,6 @@ Smart notifications in Apple's operating systems will leverage on-device LLMs to
 **Also:** [**You can finally schedule messages on the iPhone. Here's what to know**](https://www.zdnet.com/article/you-can-finally-schedule-messages-on-the-iphone-heres-how/)
 
 **Room for improvement:** Building on the Reduce Interruptions Focus, further development in proactive assistance features that anticipate user needs based on past behavior and context would be beneficial.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### AI image generation and Genmoji
 
@@ -109,6 +95,13 @@ Apple Intelligence also performs actions within apps on behalf of the user. It c
 
 **Room for improvement:** While Apple has made significant progress, future updates could further enhance Siri's capabilities, automate more complex tasks, and provide deeper personalization across the Apple ecosystem.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### AI capabilities across Apple products
 
 Lastly, enhancing AI capabilities across all Apple products, including Siri, Apple Music, Apple News, Health, Fitness+, TV, and HomeKit, was a major recommendation. While Apple's AI features are integrated across devices, the specific enhancements for services like Apple Music and HomeKit were limited, at least as addressed in the WWDC keynote.
@@ -116,6 +109,13 @@ Lastly, enhancing AI capabilities across all Apple products, including Siri, App
 **Also: [What is Apple Intelligence? How the iPhone's on-device and cloud-based AI works](https://www.zdnet.com/article/what-is-apple-intelligence-how-the-iphones-on-device-and-cloud-based-ai-will-work/)**
 
 **Room for improvement:** We also haven't heard anything about [HomePod](https://www.zdnet.com/home-and-office/home-entertainment/homepod-vs-homepod-mini-which-one-of-apples-smart-speakers-is-right-for-you/) or Apple TV with Apple Intelligence, although neither of these products has the computational power to perform on-device generative AI. Similarly, there were no mentions of new AI capabilities in [WatchOS](https://www.zdnet.com/article/every-apple-watch-model-that-will-support-watchos-11-and-which-ones-wont/). While these devices might be able to use some of the cloud capabilities of Apple Intelligence, this was not brought up in the keynote. Additionally, with its M2 chip, the [Vision Pro](https://www.zdnet.com/article/apple-vision-pro-faq-price-features-hands-on-insights-and-everything-you-need-to-know/) is powerful enough to handle Apple Intelligence on-device features. Still, the keynote did not discuss what would be coming to that device specifically.
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The developer story
 
@@ -142,10 +142,10 @@ Finally, the new Translation API will be unveiled. It will help developers build
 By equipping developers with these resources, Apple is ensuring that the potential of Apple Intelligence can be fully realized across its ecosystem, driving innovation and enhancing user experiences.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Did Apple go far enough with AI improvements?
@@ -188,22 +188,22 @@ Addressing the remaining gaps could enhance Apple's competitive position in the 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/2024-approved-free-access-to-10-superior-lut-resources/"><u>2024 Approved Free Access to 10 Superior LUT Resources</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-windows-11-tips-for-effective-sound-recording/"><u>2024 Approved Windows 11 Tips for Effective Sound Recording</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/boost-your-social-media-presence-10-key-steps-for-an-insta-viral-effect/"><u>Boost Your Social Media Presence: 10 Key Steps for an Insta-Viral Effect</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-usb-30-device-drivers-for-windows-pcs-download-guide/"><u>Free USB 3.0 Device Drivers for Windows PCs: Download Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-smart-shopping-for-cloud-storages-best-price-secrets-revealed/"><u>In 2024, Smart Shopping for Cloud Storages Best Price Secrets Revealed</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722875047394-iphone-or-android-a-comprehensive-guide-to-selecting-your-next-smartphone/"><u>IPhone or Android? A Comprehensive Guide to Selecting Your Next Smartphone.</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-2024-approved-best-5-quandale-dingle-voice-generators/"><u>New 2024 Approved Best 5 Quandale Dingle Voice Generators</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/step-by-step-guide-to-creating-an-efi-partition-in-windows-11-with-tips-for-secure-backups/"><u>Step-by-Step Guide to Creating an EFI Partition in Windows 11 with Tips for Secure Backups</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ers-channel-blueprint-10-essential-tips-for-youtube-educators/"><u>Teachers’ Channel Blueprint 10 Essential Tips for YouTube Educators</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-nine-essential-ways-to-harness-chatgpts-health-benefits/"><u>The Nine Essential Ways to Harness ChatGPT's Health Benefits</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-pace-predicament-why-is-chatgpt-4-not-as-swift/"><u>The Pace Predicament: Why Is ChatGPT-4 Not as Swift?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-pitfalls-evaluating-why-chatgpt-isnt-ideal-for-forecasting-cryptos/"><u>The Pitfalls: Evaluating Why ChatGPT Isn't Ideal for Forecasting Cryptos</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-ultimate-compendium-of-8-chatgpt-plugin-upgrades-for-coins/"><u>The Ultimate Compendium of 8 ChatGPT Plugin Upgrades for Coins</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-10-strategies-for-integrating-chatgpt-into-your-visual-studio-code-workflow/"><u>Top 10 Strategies for Integrating ChatGPT Into Your Visual Studio Code Workflow</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-5-artificial-intelligence-tools-altering-commerce-landscape/"><u>Top 5 Artificial Intelligence Tools Altering Commerce Landscape</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transform-interaction-5-innovative-ways-to-direct-chatgpt-through-voice-commands/"><u>Transform Interaction: 5 Innovative Ways to Direct ChatGPT Through Voice Commands</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/troubleshoot-your-chatgpt-connection-with-these/"><u>Troubleshoot Your ChatGPT Connection with These</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-foundations-in-creating-animated-imagery/"><u>[Updated] Foundations in Creating Animated Imagery</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-step-by-step-guide-changing-voices-in-instagram-features/"><u>[Updated] In 2024, Step-by-Step Guide Changing Voices in Instagram Features</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-journey-from-monochrome-masterpieces-to-vivid-hdri-imagery/"><u>[Updated] Journey From Monochrome Masterpieces to Vivid HDRI Imagery</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-surprises-with-gaming-fun-check-out-these-exceptional-game-picks-for-non-stop-entertainment/"><u>ChatGPT Surprises with Gaming Fun! Check Out These Exceptional Game Picks for Non-Stop Entertainment.</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpts-influence-six-revolutionary-ways-it-enhances-smartwatch-capabilities/"><u>ChatGPT's Influence: Six Revolutionary Ways It Enhances Smartwatch Capabilities</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/complete-tutorial-on-registering-for-chatgpts-latest-add-on-capabilities/"><u>Complete Tutorial on Registering for ChatGPT's Latest Add-On Capabilities</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-instructions-to-download-and-run-llama-2-in-your-local-environment/"><u>Easy Instructions to Download and Run LLAMA 2 in Your Local Environment</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/experience-enhanced-soccer-memories-how-fifas-augmented-reality-app-boosts-fans-world-cup-stories/"><u>Experience Enhanced Soccer Memories: How FIFA's Augmented Reality App Boosts Fans' World Cup Stories</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-innovation-with-toms-computing-guide/"><u>Exploring Innovation with Tom's Computing Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-vulnerabilities-how-might-hackers-use-ai-assistants-like-chatgpt-against-financial-and-personal-computing-systems/"><u>Exploring Vulnerabilities: How Might Hackers Use AI Assistants Like ChatGPT Against Financial and Personal Computing Systems?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-realme-11x-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Realme 11X 5G Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-nubia-red-magic-8s-proplus-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Nubia Red Magic 8S Pro+ to Gmail | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximizing-side-income-through-chatgpt-uses-step-by-step-pc-creation-strategies-and-retro-gaming-devices-guide/"><u>Maximizing Side Income Through ChatGPT Uses, Step-by-Step PC Creation Strategies & Retro Gaming Devices Guide</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/newly-released-av1-encoding-tools-advanced-software-and-hardware-solutions-unveiled/"><u>Newly Released AV1 Encoding Tools: Advanced Software and Hardware Solutions Unveiled</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/363791-9781440649776-shamans-through-time/"><u>Shamans Through Time | Free Book</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-easy-way-to-transform-your-dall-e-3-artwork-from-webp-to-popular-photo-types/"><u>The Easy Way to Transform Your DALL-E 3 Artwork From WebP to Popular Photo Types</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/what-defines-chatgpts-text-capacity-with-tokens-and-how-to-exceed-its-limit/"><u>What Defines ChatGPT’s Text Capacity with Tokens, And How to Exceed Its Limit</u></a></li>
 </ul></div>
 

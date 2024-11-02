@@ -1,7 +1,7 @@
 ---
 title: "Expert Insights on iPad Air with M2 Chip: The Best Tablet to Invest in According to Apple Enthusiasts"
-date: 2024-10-21T16:40:15.539Z
-updated: 2024-10-27T16:56:03.371Z
+date: 2024-10-25T20:05:07.839Z
+updated: 2024-11-02T10:41:40.750Z
 tags:
   - apple
 categories:
@@ -59,10 +59,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## New hardware leaks: what to expect from the iPhone 16
@@ -82,10 +88,10 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
@@ -97,10 +103,10 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
@@ -120,10 +126,10 @@ Enterprises may also employ a mobile device management solution to facilitate ac
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## I'm still optimistic
@@ -166,15 +172,22 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://buynow-info.techidaily.com/2024s-budget-friendly-photography-hack-cameras/"><u>2024'S Budget-Friendly Photography Hack - Cameras</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/a-step-by-step-process-for-local-llama-2-setup/"><u>A Step-By-Step Process for Local Llama 2 Setup</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-and-comedy-collide-assessing-chatgpts-capacity-to-entertain-and-elicit-giggles/"><u>AI and Comedy Collide: Assessing ChatGPT's Capacity to Entertain and Elicit Giggles</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-code-warriors-can-gemini-outperform-chatgpt-for-developers/"><u>AI Code Warriors: Can Gemini Outperform ChatGPT for Developers?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-command-skills-essential-online-training/"><u>AI Command Skills: Essential Online Training</u></a></li>
-<li><a href="https://win-dash.techidaily.com/find-and-update-to-the-latest-epson-tm-t88v-printer-drivers-on-windows-step-by-step-guide/"><u>Find & Update to the Latest EPSON TM-T88V Printer Drivers on Windows - Step by Step Guide</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-xiaomi-redmi-note-12-pro-4g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Xiaomi Redmi Note 12 Pro 4G to iOS not Working Problems | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/mycams-journey-from-concept-to-reality-explored-for-2024/"><u>MyCam's Journey From Concept to Reality Explored for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/overcoming-boot-up-roadblocks-in-windows-10-a-step-by-step-solution-to-unlocking-your-system-with-f8-safe-mode/"><u>Overcoming Boot-Up Roadblocks in Windows 10: A Step-by-Step Solution to Unlocking Your System with F8 Safe Mode</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solving-post-update-issues-with-realtek-lan-controls/"><u>Solving Post-Update Issues with Realtek LAN Controls</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-superior-desktop-video-recorders-for-pcmacos/"><u>[New] In 2024, Superior Desktop Video Recorders for PC/macOS</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-streamlined-techniques-to-capture-webinars-efficiently-windows-mac/"><u>[New] Streamlined Techniques to Capture Webinars Efficiently (Windows, Mac)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/battle-of-the-minds-top-10-contrasts-between-microsofts-bing-and-openais-chatgpt/"><u>Battle of the Minds: Top 10 Contrasts Between Microsoft's Bing and OpenAI's ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bings-smart-ai-search-now-available-for-iphone-and-android-users/"><u>Bing's Smart AI Search Now Available for iPhone & Android Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-the-elite-list-of-10-most-visited-sites-on-the-internet/"><u>Explore The Elite List of 10 Most Visited Sites on the Internet</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-get-and-install-logitech-speaker-drivers-for-various-windows-versions-including-11-7-and-8/"><u>How to Get & Install Logitech Speaker Drivers for Various Windows Versions Including 11, 7 & 8</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-eyeview-scrutiny-exploration/"><u>In 2024, Eyeview Scrutiny Exploration</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-dungeon-architects-tools-gpt-generative-ai-in-character-design/"><u>Mastering Dungeon Architects' Tools: GPT, Generative AI in Character Design</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-deploying-browser-based-ai-agents-with-agentgpt-technology/"><u>Mastering the Art of Deploying Browser-Based AI Agents with AgentGPT Technology</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximizing-proposal-impact-with-gpt-3-assistance/"><u>Maximizing Proposal Impact with GPT-3 Assistance</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-ai-tools-for-independent-work-bing-chat-versus-gpt-3-analysis/"><u>Navigating AI Tools for Independent Work: Bing Chat Versus GPT-3 Analysis</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigating-the-world-of-phones-is-an-iphone-or-a-samsung-device-best-for-you/"><u>Navigating the World of Phones: Is an iPhone or a Samsung Device Best for You?</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-realme-v30-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Realme V30 ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-8-mobile-games-to-play-ranked/"><u>Top 8 Mobile Games to Play – Ranked!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-trouble-shooting-handbook-for-all-generations-of-iphones/"><u>Ultimate Trouble-Shooting Handbook for All Generations of iPhones</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-power-of-googles-latest-ai-the-palm-2-large-language-breakthrough/"><u>Unveiling the Power of Google’s Latest AI: The PaLM 2 Large Language Breakthrough</u></a></li>
 </ul></div>
 

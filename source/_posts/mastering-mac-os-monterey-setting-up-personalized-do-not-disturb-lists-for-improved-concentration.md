@@ -1,7 +1,7 @@
 ---
 title: "Mastering Mac OS MONTEREY: Setting Up Personalized Do Not Disturb Lists for Improved Concentration"
-date: 2024-10-21T17:08:36.421Z
-updated: 2024-10-27T16:49:46.826Z
+date: 2024-10-29T21:13:55.969Z
+updated: 2024-11-01T20:21:09.616Z
 tags:
   - apple
 categories:
@@ -28,21 +28,22 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 
 ## Create a custom Focus
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
@@ -53,13 +54,6 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 
 Image: Jack Wallen
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Open the Focus tab
 
 Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
@@ -69,10 +63,10 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
@@ -92,10 +86,10 @@ Image: Jack Wallen
 After naming and selecting a color/icon, click Add to save the new Focus.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. Allowing specific notifications
@@ -154,20 +148,24 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-adhering-to-correct-aspect-ratio-in-twitter-videos/"><u>[Updated] 2024 Approved Adhering to Correct Aspect Ratio in Twitter Videos</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-are-paid-reviews-common-amongst-online-reviewers/"><u>[Updated] Are Paid Reviews Common Amongst Online Reviewers?</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-eye-on-the-screen-youtube-journey-comparison-from-creator-to-competitor/"><u>[Updated] In 2024, Eye on the Screen YouTube Journey Comparison From Creator to Competitor</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-step-by-step-clearing-background-artifacts-in-figma/"><u>[Updated] In 2024, Step-by-Step Clearing Background Artifacts in Figma</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/a-guide-to-openais-gpt-evolution-gpt-1-4/"><u>A Guide to OpenAI's GPT Evolution (GPT-1-4)</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/a-linguistic-enigma-solved-interpreting-chatgpts-programming-puzzle/"><u>A Linguistic Enigma Solved: Interpreting ChatGPT's Programming Puzzle</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/a-step-by-step-approach-to-boosting-productivity-through-chatgpt-integration/"><u>A Step-by-Step Approach to Boosting Productivity Through ChatGPT Integration</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-revolution-how-to-optimize-your-searches-using-microsofts-bing-on-android-phones/"><u>AI Revolution: How to Optimize Your Searches Using Microsoft's Bing on Android Phones</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1721865641506-chatgpt-the-ultimate-chefs-sidekick-7-cooking-hacks-inside/"><u>ChatGPT: The Ultimate Chef's Sidekick - 7 Cooking Hacks Inside</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1722008546625-how-the-chatgpt-mobile-app-surpasses-the-web-version-6-key-reasons-why/"><u>How the ChatGPT Mobile App Surpasses the Web Version: 6 Key Reasons Why</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-samsung-galaxy-m14-4g-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Samsung Galaxy M14 4G Lock Screen Password</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-laugh-lines-best-comedy-video-concepts-for-the-social-media-sphere/"><u>In 2024, Laugh Lines Best Comedy Video Concepts for the Social Media Sphere</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-installing-the-latest-drivers-for-microsofts-ergonomic-sculpt-keyboard/"><u>Step-by-Step Tutorial: Installing the Latest Drivers for Microsoft's Ergonomic Sculpt Keyboard</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-ultimate-guide-to-metaverse-memes-and-diy-humor-mastery/"><u>The Ultimate Guide to Metaverse Memes and DIY Humor Mastery</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1721874815957-uncover-hidden-gems-discover-the-six-coolest-chatgpt-compatible-games/"><u>Uncover Hidden Gems: Discover The Six Coolest ChatGPT-Compatible Games</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-resolving-silence-in-tweeted-video-playbacks/"><u>[New] Resolving Silence in Tweeted Video Playbacks</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-artisans-crafting-marvel-fantasy-landscapes/"><u>[Updated] Artisans Crafting Marvel Fantasy Landscapes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beyond-human-sight-ais-ineffective-blockers/"><u>Beyond Human Sight: AI's Ineffective Blockers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-showdown-determining-if-a-browser-addon-or-plugin-formats-your-needs-best/"><u>ChatGPT Showdown: Determining if a Browser Addon or Plugin Formats Your Needs Best</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/creative-video-text-top-10-edition/"><u>Creative Video Text Top 10 Edition</u></a></li>
+<li><a href="https://driver-error.techidaily.com/device-error-alert-ideport0-disruption/"><u>Device Error Alert: Ideport0 Disruption</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/end-juxtaposing-siri-and-chatgpt-discerning-their-divergence/"><u>End Juxtaposing Siri & ChatGPT: Discerning Their Divergence</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-ranking-ideal-mobile-plans-tailored-for-seniors-2024-edition/"><u>Expert Ranking: Ideal Mobile Plans Tailored for Seniors, 2024 Edition</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exposing-fraudgpt-schemes-stay-one-step-ahead/"><u>Exposing FraudGPT Schemes: Stay One Step Ahead</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gpt-and-cybersecurity-risks-to-your-bank-data/"><u>GPT and Cybersecurity: Risks to Your Bank Data?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hassle-free-updates-for-your-dell-printers-essential-driving-force/"><u>Hassle-Free Updates for Your Dell Printer's Essential Driving Force</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Asus ROG Phone 8? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-key-to-flawless-shots-using-a-tripod-correctly-in-video-blogging/"><u>In 2024, The Key to Flawless Shots Using a Tripod Correctly in Video Blogging</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ase-views-discover-20-prime-thumbnail-fonts/"><u>Increase Views - Discover 20 Prime Thumbnail Fonts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leverage-artificial-intelligence-for-reading-pleasure-top-5-recommender-sites-and-apps-to-choose-your-next-book/"><u>Leverage Artificial Intelligence for Reading Pleasure: Top 5 Recommender Sites and Apps to Choose Your Next Book</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/spotting-fraudulent-bingpt-crypto-before-its-too-late/"><u>Spotting Fraudulent BinGPT Crypto Before It's Too Late</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-essentials-of-controlling-ai-identifying-potential-regulators-and-frameworks/"><u>The Essentials of Controlling AI: Identifying Potential Regulators and Frameworks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-9-strategies-how-chatgpt-boosts-efficiency-for-content-makers/"><u>Top 9 Strategies: How ChatGPT Boosts Efficiency for Content Makers</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210711659-9781435137257-true-irish-ghost-stories/"><u>True Irish Ghost Stories | Free Book</u></a></li>
 </ul></div>
 

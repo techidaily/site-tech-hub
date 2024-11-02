@@ -1,7 +1,7 @@
 ---
 title: Discovering the Covert Intelligent Communication Chips in Macs and iPads - Do You Own Them? | ZDNET
-date: 2024-10-23T17:40:31.212Z
-updated: 2024-10-27T17:50:18.606Z
+date: 2024-10-31T05:39:52.798Z
+updated: 2024-11-01T22:15:31.980Z
 tags:
   - apple
 categories:
@@ -30,25 +30,11 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -59,10 +45,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -72,10 +58,10 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -83,6 +69,13 @@ Screenshot by Lance Whitney/ZDNET
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -97,6 +90,19 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -134,18 +140,14 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-streaming-with-flair-xbox-one-edition/"><u>[New] Streaming with Flair Xbox One Edition</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-perfecting-google-meet-ppt-sessions-on-desktoptablet/"><u>[Updated] Perfecting Google Meet PPT Sessions on Desktop/Tablet</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-pro-audios-essential-guide-to-top-10-free-luts/"><u>2024 Approved Pro Audio's Essential Guide to Top 10 Free LUTs</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/boosting-your-career-path-with-these-6-smart-uses-of-chatgpt/"><u>Boosting Your Career Path with These 6 Smart Uses of ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/bot-interactions-and-anonymity-unveiling-3-major-privacy-issues/"><u>Bot Interactions and Anonymity: Unveiling 3 Major Privacy Issues</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/breaking-barriers-with-iphone-x-fixing-facial-detection/"><u>Breaking Barriers with iPhone X Fixing Facial Detection</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/breakthrough-ai-bard-by-google-to-outshine-chatgpt/"><u>Breakthrough AI 'Bard' By Google to Outshine ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/challenges-with-chatgpt-7-inquiries-it-cant-handle/"><u>Challenges with ChatGPT: 7 Inquiries It Can't Handle</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatbot-companions-are-they-lifesavers-in-natures-realm/"><u>Chatbot Companions: Are They Lifesavers in Nature's Realm?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatbots-and-their-art-of-conversational-simulation/"><u>Chatbots and Their Art of Conversational Simulation</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/fiery-flirtations-iconic-french-cinema/"><u>Fiery Flirtations: Iconic French Cinema</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-steelseries-arctis-cued-up-downloading-and-installing-the-latest-drivers/"><u>Get Your SteelSeries Arctis Cued Up: Downloading & Installing the Latest Drivers</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/simplifying-multi-platform-group-chat-creation-on-skype-a-step-by-step-approach/"><u>Simplifying Multi-Platform Group Chat Creation on Skype A Step by Step Approach</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-frosty-filming-experts-ice-cream-screen-capture-method/"><u>[New] 2024 Approved Frosty Filming Expert's Ice Cream Screen Capture Method</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-whip-up-a-fresh-web-comedic-bite-sized-delight-for-2024/"><u>[New] Whip Up a Fresh Web Comedic Bite-Sized Delight for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bringing-advanced-search-to-your-fingers-bings-ai-for-smartphones/"><u>Bringing Advanced Search to Your Fingers: Bing’s AI for Smartphones</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-infinix-hot-40-pro-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Infinix Hot 40 Pro is off? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-you-build-a-successful-future-by-focusing-on-ai-based-prompt-creation-techniques/"><u>Can You Build a Successful Future by Focusing on AI-Based Prompt Creation Techniques?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-precision-and-power-choosing-best-kung-fu-games-ranked/"><u>In 2024, Precision & Power Choosing Best Kung Fu Games Ranked</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximizing-productivity-combine-chatgpt-and-vs-code-for-ultimate-development-hacks/"><u>Maximizing Productivity: Combine ChatGPT & VS Code for Ultimate Development Hacks</u></a></li>
+<li><a href="https://games-able.techidaily.com/stay-ahead-with-smooth-play-overcoming-fps-dips-and-enhancing-valorant-gameplay-windows-edition/"><u>Stay Ahead with Smooth Play: Overcoming FPS Dips and Enhancing Valorant Gameplay, Windows Edition</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/steer-clear-of-deception-the-top-5-chatgpt-scams-exposed/"><u>Steer Clear of Deception: The Top 5 ChatGPT Scams Exposed</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "In Parallel Circuits, the Total Capacitance Is the Sum of Individual Capacitances: C_total = C1 + C2 + ... + Cn."
-date: 2024-10-23T16:20:04.750Z
-updated: 2024-10-27T17:56:53.163Z
+date: 2024-10-29T03:42:32.497Z
+updated: 2024-11-01T17:41:52.817Z
 tags:
   - apple
 categories:
@@ -60,13 +60,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -74,6 +67,13 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -92,13 +92,6 @@ Adam Breeden/ZDNET
 * The Messages app now supports [**Rich Communication Services (RCS).**](https://www.zdnet.com/article/apple-is-finally-adding-rcs-to-the-iphone-and-i-couldnt-be-more-excited/)
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## WatchOS 11
 
@@ -125,10 +118,16 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -141,6 +140,13 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -160,10 +166,10 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -218,22 +224,22 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-unlocking-your-instagrams-virtual-meet-up-potential/"><u>[New] 2024 Approved Unlocking Your Instagram's Virtual Meet-Up Potential</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-discover-the-best-in-class-our-list-of-12-high-performing-flip-cameras/"><u>[New] In 2024, Discover the Best in Class Our List of 12 High-Performing Flip Cameras</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-assessing-magixs-multimedia-capabilities/"><u>[Updated] Assessing MAGIX's Multimedia Capabilities</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/are-third-party-chatgpt-apps-and-browser-extensions-safe/"><u>Are Third-Party ChatGPT Apps and Browser Extensions Safe?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/decoding-bingchatgpt-token-hoaxes-a-step-by-step-guide-to-spotting-and-preventing-cryptocurrency-scams-online/"><u>Decoding BingChatGPT Token Hoaxes: A Step-by-Step Guide to Spotting & Preventing Cryptocurrency Scams Online</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhancing-data-management-how-to-leverage-chatgpt-in-your-excel-workflows/"><u>Enhancing Data Management: How to Leverage ChatGPT in Your Excel Workflows</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-dependable-are-ai-services-like-chatgpt-and-bard-when-it-comes-to-your-money-matters/"><u>How Dependable Are AI Services Like ChatGPT & Bard When It Comes to Your Money Matters?</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-honor-x50iplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Honor X50i+ | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-infinix-smart-8-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Infinix Smart 8 Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-max-360-vs-hero-11-evaluating-the-best-gopro-for-action-videos/"><u>In 2024, Max 360 Vs. Hero 11 Evaluating the Best GoPro for Action Videos</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastery-in-privacy-controls-email-change-through-protonbrowser/"><u>Mastery in Privacy Controls: Email Change Through ProtonBrowser</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-the-pitfalls-a-guide-to-why-you-shouldnt-use-chatgpt-from-your-macs-software-marketplace/"><u>Navigating the Pitfalls: A Guide to Why You Shouldn't Use ChatGPT From Your Mac’s Software Marketplace</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-infinix-smart-7-hd-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Infinix Smart 7 HD to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/the-ultimate-mobile-cinema-showcase-apples-best-freepluspaid-film-watchers-guide/"><u>The Ultimate Mobile Cinema Showcase Apple's Best FREE+Paid Film Watchers Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/transform-your-workflow-top-7-methods-for-windows-11-excellence-42/"><u>Transform Your Workflow: Top 7 Methods for Windows 11 Excellence (42)</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unleash-a-local-ai-chatbot-free-gpt-4-imitation-on-your-windows-machine-with-gpt4all/"><u>Unleash a Local AI Chatbot: Free GPT-4 Imitation on Your Windows Machine with GPT4All</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/voice-activated-chatgpt-now-available-in-mercedes-benz-cars/"><u>Voice-Activated ChatGPT Now Available in Mercedes-Benz Cars</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-reel-your-browser-life-the-foremost-tools-for-high-quality-captures/"><u>[New] 2024 Approved Reel Your Browser Life The Foremost Tools for High-Quality Captures</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-a-comprehensive-tour-youtube-creator-suite/"><u>[Updated] 2024 Approved A Comprehensive Tour YouTube Creator Suite</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-the-ultimate-toolbox-what-every-youtube-newbie-needs/"><u>[Updated] In 2024, The Ultimate Toolbox What Every YouTube Newbie Needs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-apps-and-programs-for-image-video-integration/"><u>2024 Approved Best Apps and Programs for Image Video Integration</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/embark-on-a-prompt-engineering-pathway-strategies-for-beginners/"><u>Embark on a Prompt Engineering Pathway: Strategies for Beginners</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-nvidias-ai-foundation-an-insight-into-their-custom-generative-ai-platform/"><u>Exploring NVIDIA's AI Foundation: An Insight Into Their Custom Generative AI Platform</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-essential-list-5-superior-webcams-with-sound-capture/"><u>In 2024, Essential List 5 Superior Webcams with Sound Capture</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-lava-blaze-pro-5g-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Lava Blaze Pro 5G Face Lock?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovative-methods-generate-unique-dandd-avatars-using-ai-tools-like-gpt-and-dall-e/"><u>Innovative Methods: Generate Unique D&D Avatars Using AI Tools Like GPT and DALL-E</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-the-art-of-incremental-volume-decrease-with-lumafusion/"><u>Mastering the Art of Incremental Volume Decrease with Lumafusion</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/protective-measures-against-chatgpt-retaining-your-dialogue-information/"><u>Protective Measures Against ChatGPT Retaining Your Dialogue Information</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/secure-chatgpt-record-keeping-methods/"><u>Secure ChatGPT Record Keeping Methods</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/silicon-based-silliness-does-ai-craft-chuckles/"><u>Silicon-Based Silliness: Does AI Craft Chuckles?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-paradox-of-self-awareness-in-ai-writing-investigating-chatgpts-inability-to-spot-its-own-scripts/"><u>The Paradox of Self-Awareness in AI Writing: Investigating ChatGPT's Inability to Spot Its Own Scripts</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-and-fixing-lags-for-the-elder-scrolls-onlines-blackwood-area/"><u>Troubleshooting and Fixing Lags for The Elder Scrolls Online's Blackwood Area</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tweet-no-more-emojis-linuss-leaks-trojan-breakdown-and-chatgpt-woes/"><u>Tweet No More Emojis, Linus's Leaks, Trojan Breakdown, & ChatGPT Woes.</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ultimate-resource-for-installing-latest-asus-bluetooth-driver-updates-with-step-by-step-directions/"><u>Ultimate Resource for Installing Latest ASUS Bluetooth Driver Updates with Step-by-Step Directions</u></a></li>
 </ul></div>
 

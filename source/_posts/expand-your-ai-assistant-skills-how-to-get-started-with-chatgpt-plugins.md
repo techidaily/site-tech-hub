@@ -1,7 +1,7 @@
 ---
 title: "Expand Your AI Assistant Skills: How to Get Started with ChatGPT Plugins"
-date: 2024-09-11T18:07:16.763Z
-updated: 2024-09-12T18:07:16.763Z
+date: 2024-10-28T07:47:12.098Z
+updated: 2024-11-02T01:56:36.458Z
 tags:
   - chatgpt
   - open-ai
@@ -19,19 +19,6 @@ thumbnail: https://thmb.techidaily.com/2cea6027c03bd4c55f4ae87f65e8c9bc1f9246426
 
  People have been looking for simple ways to access the tool ever since it blew up in popularity, but it's finally possible to do so, thanks to its official mobile app.
 
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## ChatGPT Comes to iPhone (and Android)
 
  On May 18th, 2023, OpenAI introduced its own ChatGPT app for iOS via an[OpenAI blog post](https://openai.com/blog/introducing-the-chatgpt-app-for-ios) . According to the company, the release comes from a continued increase in user interest, especially from those who love to use the tool when on the move.
@@ -43,16 +30,10 @@ thumbnail: https://thmb.techidaily.com/2cea6027c03bd4c55f4ae87f65e8c9bc1f9246426
  If iOS isn't your preferred platform, know that[ChatGPT is also available for Android devices](https://www.makeuseof.com/chatgpt-is-now-available-on-android/) , allowing you to bypass the somewhat clunky mobile browser experience.
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Download ChatGPT on Your iPhone
@@ -63,29 +44,22 @@ thumbnail: https://thmb.techidaily.com/2cea6027c03bd4c55f4ae87f65e8c9bc1f9246426
 
 ![ChatGPT's App Store page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-s-app-store-page-on-an-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![ChatGPT iOS app welcome screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-ios-app-welcome-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![ChatGPT responding to a query in the official app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-responding-to-a-query-in-the-official-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close
@@ -95,16 +69,10 @@ Close
 **Download** **:** ChatGPT for[iOS](http://apps.apple.com/app/openai-chatgpt/id6448311069) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2025542/https://play.google.com/store/apps/details?id=com.openai.chatgpt&hl=en&gl=US) (Free, subscription available)
 
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Use ChatGPT Seamlessly on Your iPhone
@@ -124,5 +92,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-step-by-step-clearing-background-artifacts-in-figma/"><u>[New] Step-by-Step Clearing Background Artifacts in Figma</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-from-obscurity-to-popularity-facebooks-best-follower-growth-methods/"><u>[Updated] 2024 Approved From Obscurity to Popularity Facebook's Best Follower Growth Methods</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/1-ultimate-guide-best-alternatives-to-manycam-and-live-video-streaming-solutions/"><u>1. Ultimate Guide: Best Alternatives to ManyCam and Live Video Streaming Solutions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-boost-your-media-creation-skills-a-detailed-walkthrough-of-movie-maker-on-windows-8/"><u>2024 Approved Boost Your Media Creation Skills A Detailed Walkthrough of Movie Maker on Windows 8</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discovering-grok-the-newly-launched-ai-by-elon-musk-understanding-its-functions-and-cost-structure/"><u>Discovering Grok: The Newly Launched AI by Elon Musk – Understanding Its Functions & Cost Structure</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/dvdwinx-dvd-ripperdvdmp4iphonexperia/"><u>DVD変換プログラムWinX DVD Ripperの使い方、編集手順、設定:簡単にDVDをMP4やiPhone、Xperiaへリッピング</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/economical-and-sturdy-design-testing-the-cheetah-arms/"><u>Economical and Sturdy Design: Testing the Cheetah Arms</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/examining-the-world-of-chatgpt-jailbreaks-and-their-implications-for-users/"><u>Examining the World of ChatGPT Jailbreaks and Their Implications for Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-scripted-to-smart-exploring-how-chatbots-are-programmed-to-simulate-human-like-discussions/"><u>From Scripted to Smart: Exploring How Chatbots Are Programmed to Simulate Human-Like Discussions</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/o-pinpoint-premium-video-keywords-on-youtube-for-2024/"><u>How to Pinpoint Premium Video Keywords on YouTube for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transform-your-pubg-presence-with-new-sounds/"><u>In 2024, Transform Your PUBG Presence with New Sounds</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/sculpting-dandd-worlds-leveraging-ai-to-forge-fictional-beings/"><u>Sculpting D&D Worlds: Leveraging AI to Forge Fictional Beings</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-tecno-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Tecno</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-ultimate-technique-for-capturing-and-broadcasting-ps4-games/"><u>The Ultimate Technique for Capturing & Broadcasting PS4 Games</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-ais-creative-world-prompts-and-more/"><u>Unveiling AI's Creative World: Prompts and More</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/upgrade-to-the-future-why-choose-chatgpt-pluss-9-features/"><u>Upgrade to the Future: Why Choose ChatGPT Plus's 9 Features?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/what-does-generative-ai-entail-a-brief-overview/"><u>What Does Generative AI Entail? A Brief Overview</u></a></li>
+</ul></div>
 

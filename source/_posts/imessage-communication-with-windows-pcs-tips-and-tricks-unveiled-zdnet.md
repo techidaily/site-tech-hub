@@ -1,7 +1,7 @@
 ---
 title: IMessage Communication with Windows PCs - Tips & Tricks Unveiled (ZDNet)
-date: 2024-10-23T16:36:07.935Z
-updated: 2024-10-27T16:05:06.268Z
+date: 2024-11-01T03:34:03.525Z
+updated: 2024-11-02T03:40:20.702Z
 tags:
   - apple
 categories:
@@ -62,6 +62,13 @@ Click the Start button, go to All Apps, and select Phone Link from the list. The
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Scan the QR codes
 
 A QR code should appear in the Phone Link app. Launch the camera on your iPhone and scan the code. On your iPhone, tap the link at the bottom of the camera screen to pair your devices. If you can't scan the code for any reason, click the link to continue manually without a QR code and follow those steps.
@@ -71,13 +78,6 @@ At the screen to pair your devices, tap "Link to Windows" to download and instal
 You should see pairing prompts on both your iPhone and your Windows 11 computer. Select the Pair button on both devices and wait for the two to pair.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Sync your iPhone data
 
@@ -91,6 +91,13 @@ The Phone Link welcome screen should appear on your PC and ask if you want to op
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Access your recent messages
 
 To access your iPhone's text messages in Phone Link, tap the Messages heading at the top. You should see any recent messages sent to you since Phone Link has been active. If there are any, type a response to a message and send it. You can then carry on a conversation from either your iPhone or your PC, and the two will sync with each other.
@@ -103,19 +110,6 @@ You can also start a new conversation. To do this, select one of your displayed 
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Use Intel Unison
 
 ## 1\. Install Intel Unison
@@ -127,10 +121,10 @@ Launch the app and click the Accept & Continue button. You'll be asked how you'd
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Pair your phone and computer
@@ -145,18 +139,18 @@ At the next screen on your phone, tap the button for "Scan QR code." Scan the co
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Launch the Windows Unison app
 
 At the "Let's get started" screen in the Windows Unison app, click the icon for "Send messages." 
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  4\. Go to the Messages screen
 
@@ -164,18 +158,18 @@ At the Messages screen, click the icon for "Compose a new message." Choose the r
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Send a message
 
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Receive a message
 
@@ -213,22 +207,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-innovate-humorous-gifry-on-giphy-network/"><u>[New] Innovate Humorous Gifry on Giphy Network</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-elevate-farming-fun-with-these-top-7-stardew-valley-enhancements/"><u>[Updated] 2024 Approved Elevate Farming Fun with These Top 7 Stardew Valley Enhancements</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-most-shared-moments-socials-star-vids-for-2024/"><u>[Updated] Most Shared Moments Social's Star Vids for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-targeted-thought-leadership-with-profound-fb-video-strategies-for-2024/"><u>[Updated] Targeted Thought Leadership with Profound FB Video Strategies for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/comprendre-le-guide-dutilisation-de-winxdvd-un-cours-pratique/"><u>Comprendre Le Guide D'Utilisation De WinXDVD : Un Cours Pratique</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/effortless-flv-video-editing-on-windows-8-the-ultimate-guide-for-2024/"><u>Effortless FLV Video Editing on Windows 8 The Ultimate Guide for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-inner-workings-of-artificial-intelligence-on-devices/"><u>Exploring the Inner Workings of Artificial Intelligence on Devices</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/free-gpt-4-for-all-plus-still-provides-an-exclusive-set-of-6-premium-features/"><u>Free GPT-4 for All! Plus Still Provides an Exclusive Set of 6 Premium Features.</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/guide-sharing-your-chatgpt-conversations-with-others-online/"><u>Guide: Sharing Your ChatGPT Conversations with Others Online</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-will-artificial-intelligence-impact-mental-wellness-enhancing-support-systems/"><u>How Will Artificial Intelligence Impact Mental Wellness: Enhancing Support Systems</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/leveraging-ai-for-job-hunting-success-the-power-of-chatgpt-in-landing-top-roles/"><u>Leveraging AI for Job Hunting Success: The Power of ChatGPT in Landing Top Roles</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/maximizing-efficiency-with-gpt-automation-unlocking-8-powerful-strategies/"><u>Maximizing Efficiency with GPT Automation: Unlocking 8 Powerful Strategies</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/maximizing-efficiency-the-freelancers-manual-for-using-chatgpt/"><u>Maximizing Efficiency: The Freelancer's Manual for Using ChatGPT</u></a></li>
-<li><a href="https://facebook.techidaily.com/music-at-your-fingertips-spotifys-miniplayer-in-fb-app/"><u>Music at Your Fingertips: Spotify's Miniplayer in FB App</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-through-ai-tips-for-using-microsoft-bing-on-your-android-smartphone/"><u>Navigating Through AI: Tips for Using Microsoft Bing on Your Android Smartphone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/the-progression-of-vegaspro-through-its-2019-updates/"><u>The Progression of VegasPro Through Its 2019 Updates</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-20-uncommon-secrets-to-mastering-your-nintendo-switch/"><u>Top 20 Uncommon Secrets to Mastering Your Nintendo Switch</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-resolve-twitter-vids-playback-issue/"><u>[New] 2024 Approved Resolve Twitter Vids Playback Issue</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-unlock-the-power-of-time-markings-in-your-youtube-content/"><u>[New] Unlock the Power of Time Markings in Your YouTube Content</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-steer-clear-of-soundtracked-sessions-how-to-mute-participants-in-gomeet/"><u>2024 Approved Steer Clear of Soundtracked Sessions How to Mute Participants in GoMeet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/cautionary-tales-of-misinterpreted-chatgpt-summaries/"><u>Cautionary Tales of Misinterpreted ChatGPT Summaries</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/chasing-charm-innovative-photo-techniques-to-ignite-insta-for-2024/"><u>Chasing Charm Innovative Photo Techniques to Ignite Insta for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-solutions-for-fixing-your-software-after-an-unexpected-shutdown/"><u>Easy Solutions for Fixing Your Software After an Unexpected Shutdown</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-oneplus-nord-n30-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset OnePlus Nord N30 5G in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovating-living-spaces-with-gpt-home-control-tech/"><u>Innovating Living Spaces with GPT Home Control Tech</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/intellectual-ownership-of-machine-learning-outputs/"><u>Intellectual Ownership of Machine Learning Outputs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-program-installation-on-windows-11/"><u>Mastering Program Installation on Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-solutions-for-a-408-request-timed-out-issue-online/"><u>Mastering Solutions for a 408 Request Timed Out Issue Online</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-ultimate-lineup-of-llm-innovations/"><u>Unveiling the Ultimate Lineup of LLM Innovations</u></a></li>
 </ul></div>
 

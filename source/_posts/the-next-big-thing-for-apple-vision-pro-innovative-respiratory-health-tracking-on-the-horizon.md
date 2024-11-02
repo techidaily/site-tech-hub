@@ -1,7 +1,7 @@
 ---
 title: The Next Big Thing for Apple Vision Pro? Innovative Respiratory Health Tracking on the Horizon
-date: 2024-10-26T17:38:44.572Z
-updated: 2024-10-27T16:49:25.693Z
+date: 2024-11-01T10:53:03.917Z
+updated: 2024-11-02T12:20:27.104Z
 tags:
   - apple
 categories:
@@ -35,10 +35,10 @@ Every year, my wife and I eagerly await the release of the new iPhones. Being pa
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
@@ -66,10 +66,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## New hardware leaks: what to expect from the iPhone 16
@@ -97,10 +103,10 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
@@ -120,10 +126,10 @@ Enterprises may also employ a mobile device management solution to facilitate ac
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## I'm still optimistic
@@ -166,22 +172,17 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-quick-and-easy-how-to-transform-your-mobile-device-into-a-vr-headset/"><u>[New] 2024 Approved Quick and Easy How to Transform Your Mobile Device Into a VR Headset</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-straightforward-guide-for-instagram-chat-beginners/"><u>[Updated] In 2024, The Straightforward Guide for Instagram Chat Beginners</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-building-a-community-through-periscope-streams/"><u>2024 Approved Building a Community Through Periscope Streams</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/best-free-editing-sites-your-gateway-to-flawless-visual-content-creation-for-2024/"><u>Best Free Editing Sites - Your Gateway to Flawless Visual Content Creation for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/comprehensive-guide-to-iphone-podcast-downloads-for-2024/"><u>Comprehensive Guide to iPhone Podcast Downloads for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ient-revenue-streams-the-guide-to-making-money-from-youtube-mobile/"><u>Efficient Revenue Streams The Guide to Making Money From YouTube Mobile</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-mechanics-of-artificial-intelligence-ai-prompt-based-security-breaches/"><u>Exploring the Mechanics of Artificial Intelligence (AI) Prompt-Based Security Breaches</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exposing-falsehoods-the-non-existent-chatgpt-app-for-windows-is-not-safe-avoid-potential-threats/"><u>Exposing Falsehoods: The Non-Existent ChatGPT App for Windows Is Not Safe - Avoid Potential Threats</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/fraudgpt-unveiled-protecting-yourself-from-potential-online-scams/"><u>FraudGPT Unveiled: Protecting Yourself From Potential Online Scams</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/freeing-yourself-from-the-mobile-tether-register-on-chatgpt-telegram-and-whatsapp-without-a-phone-number-in-easy-steps/"><u>Freeing Yourself From the Mobile Tether: Register on ChatGPT, Telegram & WhatsApp without a Phone Number in Easy Steps</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/from-confusion-to-clarity-excel-made-simple-by-chatgpt/"><u>From Confusion to Clarity: Excel Made Simple by ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/from-gpt-3-to-claude-3-identifying-four-key-differences/"><u>From GPT-3 to Claude 3: Identifying Four Key Differences</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/future-proof-your-data-the-upcoming-7-trendscapes/"><u>Future-Proof Your Data: The Upcoming 7 Trendscapes</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/high-tech-titans-discussing-tomorrows-ai/"><u>High-Tech Titans Discussing Tomorrow's AI</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-powerpoint-pro-tips-seamlessly-add-vimeo-videos-and-multimedia/"><u>In 2024, PowerPoint Pro Tips Seamlessly Add Vimeo Videos and Multimedia</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/leading-usb-wi-fi-converters-the-ultimate-list/"><u>Leading USB Wi-Fi Converters: The Ultimate List</u></a></li>
-<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-demystifying-the-mechanics-of-youtube-studio/"><u>[Updated] 2024 Approved Demystifying the Mechanics of YouTube Studio</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-pixels-to-spirit-nurturing-memories-through-live-photo-to-video-conversion/"><u>[Updated] From Pixels to Spirit Nurturing Memories Through Live Photo to Video Conversion</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-ultimate-students-guide-to-historical-channels-1-10-for-2024/"><u>[Updated] Ultimate Students' Guide to Historical Channels #1-10 for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boost-productivity-mass-design-strategies-in-canva-plus-gpt/"><u>Boost Productivity: Mass-Design Strategies in Canva + GPT</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mpegipad/"><u>MPEG動画がIPadで見やすくなるヒント</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-icue-no-device-found-error-with-easy-troubleshooting-steps/"><u>Resolving the 'ICUE - No Device Found' Error with Easy Troubleshooting Steps</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/revive-qb-files-stellars-revolutionary-tool-unveiled/"><u>Revive QB Files: Stellar's Revolutionary Tool Unveiled</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-evolution-of-conversational-agents-openais-integration-of-speech-technology-into-chatgpt-systems/"><u>The Evolution of Conversational Agents: OpenAI's Integration of Speech Technology Into ChatGPT Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-fastest-path-to-running-chatgpt-on-linux-installation-made-simple-with-bavarder/"><u>The Fastest Path to Running ChatGPT on Linux - Installation Made Simple with Bavarder</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-relationship-between-paperclip-maximizer-problem-and-modern-ai-systems/"><u>The Relationship Between Paperclip Maximizer Problem & Modern AI Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/upcoming-enhancements-await-siri-with-apples-latest-ai-boost-major-revamps-coming/"><u>Upcoming Enhancements Await Siri with Apple's Latest AI Boost - Major Revamps Coming !</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-you-should-doubt-the-reliability-of-zerogpt-and-similar-ai-detectors-top-4-reasons/"><u>Why You Should Doubt the Reliability of ZeroGPT & Similar AI Detectors: Top 4 Reasons</u></a></li>
 </ul></div>
 

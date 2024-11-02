@@ -1,7 +1,7 @@
 ---
 title: How to Perform a Firmware Upgrade for Your Apple Studio Display (Tips and Tricks by ZDNet)
-date: 2024-10-20T16:54:27.947Z
-updated: 2024-10-27T17:32:42.217Z
+date: 2024-10-31T07:20:32.686Z
+updated: 2024-11-01T20:43:10.758Z
 tags:
   - apple
 categories:
@@ -33,6 +33,13 @@ If you're going to be one of those people, read on.
 
 You don't want to mess up this transfer, because not only could you lose data, but the next person could end up being unable to use the iPhone you sold or gave them. Follow these steps for a successful result for both of you. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  1\. Update
 
 Before you even think about wiping your old iPhone, there are some things that you should do. I'm going to assume that you're selling an iPhone that's still being supported and is capable of [running iOS 15](https://www.zdnet.com/article/here-are-8-ios-15-features-you-need-to-know-about/). 
@@ -53,13 +60,6 @@ These are the iPhones that can run iOS 15:
 
 If your iPhone is one of these and is not running the latest version of iOS 15, then I recommend upgrading to the latest release to get the best experience. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  2\. Look out for apps that need additional handholding during a transfer
 
 Next, some apps -- specifically banking apps in my experience -- prefer it if you deactivate or deauthorize them on the old iPhone before moving to a new handset. 
@@ -75,10 +75,10 @@ I'd definitely check any banking and financial apps for any special process invo
 **Also:** [**The 5 best payment apps (Venmo isn't your only option)**](https://www.zdnet.com/article/best-payment-app/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  3\. Protect your data
@@ -92,6 +92,13 @@ Make sure to back up your data. To be honest, you should be doing that anyway. i
 Don't have enough iCloud space? Don't worry! Apple will let you borrow some [temporary iCloud storage](https://support.apple.com/en-us/HT212732). (It helps to [keep your iPhone storage under control](https://www.zdnet.com/article/running-out-of-space-on-your-iphone-do-this-before-you-buy-a-new-one/), and you really should consider getting more storage for your future backup needs.) 
 
 **Also:** [**Here's a hidden way to increase your iCloud storage**](https://www.zdnet.com/article/the-secret-hidden-way-you-can-double-apples-maximum-2tb-icloud-storage-limit/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  4\. Get ready for the transfer
 
@@ -134,13 +141,6 @@ Remember, once you start this process, there's no going back!
 
 **Also:** [**iOS 15 privacy and security checklist**](https://www.zdnet.com/article/ios-15-ultimate-privacy-and-security/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### See also
 
 * [6 things you can do to give your devices a spring cleaning](https://www.zdnet.com/article/6-things-you-can-do-to-give-your-devices-a-spring-cleaning/)
@@ -149,10 +149,10 @@ Remember, once you start this process, there's no going back!
 * [How to clean a mechanical keyboard](https://www.zdnet.com/article/how-to-clean-a-mechanical-keyboard/)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  6\. Spring-clean your iPhone
@@ -195,24 +195,20 @@ Now you can relax and enjoy your [new iPhone](https://www.zdnet.com/article/here
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-step-by-step-guide-to-ken-burns-effect-with-camtasia-9/"><u>[New] 2024 Approved Step-by-Step Guide to Ken Burns Effect with Camtasia 9</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-prosight-review-the-next-big-step-beyond-manycam/"><u>[New] ProSight Review The Next Big Step Beyond ManyCam</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-decoding-facebooks-video-mutes-your-2023-remedy-guide-for-2024/"><u>[Updated] Decoding Facebook's Video Mutes – Your 2023 Remedy Guide for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-vintage-racing-sims-our-favorite-five-for-2024/"><u>[Updated] Vintage Racing Sims Our Favorite Five for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/adobe-photoshop-shake-reduction-is-it-really-useful/"><u>Adobe Photoshop Shake Reduction | Is It Really Useful?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpts-ethical-standards-for-sourcing-data/"><u>ChatGPT's Ethical Standards for Sourcing Data</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpts-recent-advancements-a-closer-look-at-new-functionalities-you-need-to-know-about/"><u>ChatGPT's Recent Advancements: A Closer Look at New Functionalities You Need to Know About</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/conversational-innovations-snapchat-vs-gpt-powered-chatter/"><u>Conversational Innovations: Snapchat vs GPT-Powered Chatter</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/future-of-computing-best-5-ai-hardware-advances/"><u>Future of Computing: Best 5 AI Hardware Advances</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-safe-are-non-official-chatgpt-plugins-and-addons/"><u>How Safe Are Non-Official ChatGPT Plugins & Addons?</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-oppo-reno-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Oppo Reno 11 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-12-pro-max-by-phone-number-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone 12 Pro Max by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-turbocharged-triumphs-unveiling-five-pinnacle-racer-simulators/"><u>In 2024, Turbocharged Triumphs Unveiling Five Pinnacle Racer Simulators</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/leveraging-chatgpt-to-excel-in-your-next-interview/"><u>Leveraging ChatGPT to Excel in Your Next Interview</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-project-excellence-with-chatgpt-a-guide-to-enhanced-content-and-ideas/"><u>Mastering Project Excellence with ChatGPT: A Guide to Enhanced Content & Ideas</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ready-for-a-game-discover-chatgpts-hidden-treasures/"><u>Ready for a Game? Discover ChatGPT's Hidden Treasures</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/register-now-navigate-through-microsofts-ai-integrated-bing-search-platform-easily/"><u>Register Now: Navigate Through Microsoft's AI Integrated Bing Search Platform Easily</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/top-rated-comfortable-mechanical-keyboards-in-2/"><u>Top-Rated Comfortable Mechanical Keyboards in 2</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-advanced-speed-adjustment-techniques-in-media-editing/"><u>[New] Advanced Speed Adjustment Techniques in Media Editing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-personalizing-your-android-a-step-by-step-guide-to-ringtone-and-sound-settings/"><u>[New] Personalizing Your Android A Step-by-Step Guide to Ringtone & Sound Settings</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beyond-digital-echoes-identifying-your-hidden-correspondents-in-cyberspace-and-explaining-spectral-internet-theories/"><u>Beyond Digital Echoes: Identifying Your Hidden Correspondents in Cyberspace & Explaining Spectral Internet Theories</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/cambia-i-tuoi-file-video-nsv-in-mpeg-senza-costi-tramite-il-servizio-online-di-movavi/"><u>Cambia I Tuoi File Video NSV in MPEG Senza Costi Tramite Il Servizio Online Di Movavi</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancing-essay-quality-with-chatgpt-strategies-for-effective-research/"><u>Enhancing Essay Quality with ChatGPT: Strategies for Effective Research</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gpt-and-bing-chat-face-off-for-ultimate-ai-conversation/"><u>GPT and Bing Chat Face-Off for Ultimate AI Conversation</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-7-plus-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 7 Plus without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-enter-the-ispoofer-discord-server-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to enter the iSpoofer discord server On Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leveraging-openais-chatgpt-for-enhanced-interaction-comprehensive-user-guide/"><u>Leveraging OpenAI's ChatGPT for Enhanced Interaction: Comprehensive User Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/professional-tips-mastering-efficient-note-taking-using-chatgpt/"><u>Professional Tips: Mastering Efficient Note-Taking Using ChatGPT</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-how-to-fix-the-fifa-20-game-crashing-due-to-a-directx-issue/"><u>Resolved: How to Fix the FIFA 20 Game Crashing Due to a DirectX Issue</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-hidden-networks-of-digital-interaction-exploring-the-who-you-really-talk-to-phenomenon-according-to-dead-internet-theory/"><u>The Hidden Networks of Digital Interaction: Exploring the Who You Really Talk to Phenomenon According to Dead Internet Theory</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unleash-your-inner-player-with-these-top-8-google-play-pass-game-titles/"><u>Unleash Your Inner Player with These Top 8 Google Play Pass Game Titles</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-cutting-edge-tech-tips-from-toms-computing-corner/"><u>Unveiling Cutting-Edge Tech Tips From Tom's Computing Corner</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-oppo-a1x-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Oppo A1x 5G? Here Is the Answer | Dr.fone</u></a></li>
 </ul></div>
 

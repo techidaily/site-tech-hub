@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Apple Watch's Battery Performance: Top 8 Essential Settings Tweaks Revealed - Tips From ZDNet"
-date: 2024-10-23T17:50:19.638Z
-updated: 2024-10-27T16:32:18.347Z
+date: 2024-10-31T03:57:16.961Z
+updated: 2024-11-01T20:42:00.287Z
 tags:
   - apple
 categories:
@@ -42,13 +42,6 @@ This is the most effective thing you can do to preserve your Apple Watch's batte
 
 **How to:** On your Apple Watch, head to Settings > Display & Brightness > Always On, then toggle the feature off.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Use Low Power Mode when you can
 
 I don't recommend using Low Power Mode all day since it limits the functionality of your Apple Watch, but in a pinch, it can squeeze out a lot more juice than you think. If you drop down to 40 percent by 2 p.m., your watch will last the remainder of the day without issue by using the feature.
@@ -58,10 +51,10 @@ I don't recommend using Low Power Mode all day since it limits the functionality
 **Also:** [**Apple Watch Ultra 2 vs. Watch Ultra: Is it time to upgrade?**](https://www.zdnet.com/article/apple-watch-ultra-2-vs-ultra/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Disable cellular connectivity
@@ -71,6 +64,13 @@ If you have an Apple Watch with cellular connectivity, it's best to not use your
 **How to:** Open Settings > Cellular on your watch and toggle off "Cellular." Then, when you want to turn it back on, flick the switch again. It's worth noting that airplane mode will essentially do the same thing, but it also turns off Wi-Fi which you need for certain things, so manually disabling cellular data will save some steps.
 
 Jason Hiner/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Turn off background app refresh
 
@@ -91,10 +91,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Turn off irregular heart rate notifications
@@ -102,6 +102,19 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 With some of the newest Apple Watches, Apple includes a feature that can alert you when your heart rate is beating in irregular intervals and alert you when it may be atrial fibrillation. While that's nice to have for tracking your health over time, it means the heart rate sensor is constantly on collecting your heart rate, which isn't good for battery life.
 
 **How to:** Visit Settings > Heart > Irregular Rhythm Notifications and flick the feature off.
+
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Reduce the amount of notifications you get
 
@@ -124,13 +137,6 @@ Adrian Kingsley-Hughes/ZDNET
 I've heard from many folks who have faced issues with battery life on the Apple Watch that it's best to do a complete factory reset. Full disclosure: it's not going to work for everyone, but if you've exhausted every option on your Apple Watch to extend battery life, the battery is still healthy, and you don't want to upgrade, your best bet is to reset it and start from scratch. That way, you can set up your watch and, along the way, spot the app or service that drains your battery the most. It may also help clean up some of the system bloat in watchOS 10 that's led to poor efficiency on your watch.
 
 **How to:** Go to Settings > General > Reset on your Apple Watch, then choose "Erase All Content and Settings." You won't have to disable Find My or get rid of your cellular plan since you'll be setting it up with your iPhone again, but if you want to get rid of absolutely everything, make sure you disable Find My and dump your cellular plan during the process.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How we test smartwatches
 
@@ -173,20 +179,16 @@ For a deeper look at our testing process, check out our comprehensive [smartwatc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-enhanced-visual-splendor-adding-filters-to-media-pc-and-mobile/"><u>[New] Enhanced Visual Splendor Adding Filters to Media (PC & Mobile)</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-essential-linux-software-best-choices-for-snaps-and-shots-for-2024/"><u>[Updated] Essential Linux Software Best Choices for Snaps & Shots for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-essential-tips-for-capturing-high-quality-audio-in-filmmaking-for-2024/"><u>[Updated] Essential Tips for Capturing High-Quality Audio in Filmmaking for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/6-recurring-chatbot-hiccups-and-how-to-resolve-them-with-ease/"><u>6 Recurring Chatbot Hiccups and How To Resolve Them with Ease</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/8-effective-strategies-to-maximize-the-benefits-of-auto-gpt/"><u>8 Effective Strategies to Maximize the Benefits of Auto-GPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/a-detailed-breakdown-of-chatgpt-vs-huggingchat-who-wins-out/"><u>A Detailed Breakdown of ChatGPT Vs. HuggingChat - Who Wins Out?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/academic-success-with-ai-discover-how-to-use-chatgpt-in-schools/"><u>Academic Success with AI: Discover How to Use ChatGPT in Schools</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/advanced-spreadsheets-excels-edge-in-calculations-vs-conversation/"><u>Advanced Spreadsheets: Excel’s Edge in Calculations Vs. Conversation</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/advantages-unveiled-picking-microsoft-copilot-over-chatgpt-explained-in-4-key-points/"><u>Advantages Unveiled: Picking Microsoft Copilot Over ChatGPT Explained in 4 Key Points</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-elevate-your-channels-youtubes-partner-program/"><u>In 2024, Elevate Your Channels - YouTube's Partner Program</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Oppo Reno 11 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1721962910474-is-accessing-chatgpt-compatible-with-virtual-private-networks-find-out-here/"><u>Is Accessing ChatGPT Compatible With Virtual Private Networks? Find Out Here</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/photoshop-partners-for-pixel-perfect-grids-and-frames-for-2024/"><u>Photoshop Partners for Pixel-Perfect Grids and Frames for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/score-big-savings-with-a-sharp-fast-paced-gaming-screen-acer-nitro-27-for-under-150/"><u>Score Big Savings with a Sharp, Fast-Paced Gaming Screen – Acer Nitro 27 for Under $150</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-14-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 14</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-as-your-partner-in-preparing-wellness-oriented-diet-programs/"><u>ChatGPT as Your Partner in Preparing Wellness-Oriented Diet Programs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-profitable-side-jobs-similar-to-chatgpt-what-are-the-real-earnings-potentials/"><u>Exploring Profitable Side Jobs Similar to ChatGPT: What Are the Real Earnings Potentials?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-the-comprehensive-users-manual-for-precision-playback/"><u>In 2024, The Comprehensive User's Manual for Precision Playback</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-unleash-creativity-with-iphones-top-10-free-aesthetic-photo-composer-tools/"><u>In 2024, Unleash Creativity with iPhone’s Top 10 Free, Aesthetic Photo Composer Tools</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/luxury-levels-screen-brightness-on-android/"><u>Luxury Levels Screen Brightness on Android</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-the-world-of-ai-as-a-parent-the-ultimate-guide-to-chatgpt/"><u>Navigating the World of AI as a Parent: The Ultimate Guide to ChatGPT</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/pricing-guide-youtube-marketing-expenses-for-2024/"><u>Pricing Guide YouTube Marketing Expenses for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-infinix-note-30i-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Infinix Note 30i Device</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-phantom-v-fold-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Phantom V Fold without backup.</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-6-free-ai-tools-comparable-to-openais-sora/"><u>Top 6 FREE AI Tools Comparable to OpenAI's Sora</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/top-7-epic-strategy-battles-unveiling-ultimate-total-wars/"><u>Top 7 Epic Strategy Battles Unveiling Ultimate Total Wars</u></a></li>
 </ul></div>
 

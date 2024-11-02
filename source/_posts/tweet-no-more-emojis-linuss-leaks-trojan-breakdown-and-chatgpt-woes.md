@@ -1,7 +1,7 @@
 ---
 title: Tweet No More Emojis, Linus's Leaks, Trojan Breakdown, & ChatGPT Woes.
-date: 2024-09-11T18:08:22.484Z
-updated: 2024-09-12T18:08:22.484Z
+date: 2024-10-31T02:29:23.278Z
+updated: 2024-11-02T08:52:49.876Z
 tags:
   - chatgpt
   - open-ai
@@ -23,11 +23,35 @@ thumbnail: https://thmb.techidaily.com/1a5a77b6bb8382f9ae076aba5fd29ec526a718550
 
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
+## Shownotes
+
+ This week, we chat about the following tech news that matters:
+
+* [Twitter Removing Legacy Verified Blue Checks](https://www.makeuseof.com/twitter-start-removing-legacy-verified-checkmarks/)
+* [Linus Tech Tips YouTube Channel Hacked, Promotes Crypto Scams](https://www.makeuseof.com/linus-tech-tips-youtube-hacked-to-promote-crypto-scams/)
+* [Amazon Expands Fire TV Lineup](https://www.makeuseof.com/amazon-expands-fire-tv-lineup/)
+
+ We've got these tips and explainers:
+
+* [The Biggest Problems With OpenAI and ChatGPT](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/)
+* [Can Trojans Replicate Themselves?](https://www.makeuseof.com/can-trojans-replicate-themselves/)
+
+ We finish the show with the following recommendations:
+
+* [Dockcase Explorer Edition](https://www.makeuseof.com/review-dockcase-explorer-edition-smart-usbc-hub/)
+* [Sim Racing Cheaters](https://youtu.be/rP%5FXkeF1DbU)
+
+ Christian Cawley and Gavin Phillips host this podcast. You can contact them on Twitter: [@thegadgetmonkey](https://twitter.com/thegadgetmonkey) and [@gavinspavin](https://twitter.com/gavinspavin), with your suggestions for future topics.
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -55,10 +79,10 @@ thumbnail: https://thmb.techidaily.com/1a5a77b6bb8382f9ae076aba5fd29ec526a718550
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -86,47 +110,10 @@ thumbnail: https://thmb.techidaily.com/1a5a77b6bb8382f9ae076aba5fd29ec526a718550
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-## Shownotes
-
- This week, we chat about the following tech news that matters:
-
-* [Twitter Removing Legacy Verified Blue Checks](https://www.makeuseof.com/twitter-start-removing-legacy-verified-checkmarks/)
-* [Linus Tech Tips YouTube Channel Hacked, Promotes Crypto Scams](https://www.makeuseof.com/linus-tech-tips-youtube-hacked-to-promote-crypto-scams/)
-* [Amazon Expands Fire TV Lineup](https://www.makeuseof.com/amazon-expands-fire-tv-lineup/)
-
- We've got these tips and explainers:
-
-* [The Biggest Problems With OpenAI and ChatGPT](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/)
-* [Can Trojans Replicate Themselves?](https://www.makeuseof.com/can-trojans-replicate-themselves/)
-
- We finish the show with the following recommendations:
-
-* [Dockcase Explorer Edition](https://www.makeuseof.com/review-dockcase-explorer-edition-smart-usbc-hub/)
-* [Sim Racing Cheaters](https://youtu.be/rP%5FXkeF1DbU)
-
- Christian Cawley and Gavin Phillips host this podcast. You can contact them on Twitter: [@thegadgetmonkey](https://twitter.com/thegadgetmonkey) and [@gavinspavin](https://twitter.com/gavinspavin), with your suggestions for future topics.
-
-**SCROLL TO CONTINUE WITH CONTENT**
-
- You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -162,5 +149,18 @@ thumbnail: https://thmb.techidaily.com/1a5a77b6bb8382f9ae076aba5fd29ec526a718550
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-tailored-instagram-filters-a-step-by-step-process/"><u>[Updated] 2024 Approved Tailored Instagram Filters A Step-by-Step Process</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-revolutionizing-your-photo-video-experience/"><u>[Updated] Revolutionizing Your Photo-Video Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/2024-civil-case-update-resolving-exception-access-errors/"><u>2024 Civil Case Update: Resolving Exception Access Errors</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boost-creativity-the-best-ai-text-synthesizers/"><u>Boost Creativity: The Best AI Text Synthesizers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/creating-personalized-chatgpt-a-step-by-step-guide-to-integrate-your-unique-dataset/"><u>Creating Personalized ChatGPT: A Step-by-Step Guide to Integrate Your Unique Dataset</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-samsung-galaxy-a15-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Samsung Galaxy A15 5G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovating-interaction-are-we-witnessing-ai-evolution/"><u>Innovating Interaction: Are We Witnessing AI Evolution?</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/leading-choices-best-handheld-video-game-systems-2024-edition/"><u>Leading Choices: Best Handheld Video Game Systems, 2024 Edition</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/lip-sync-your-way-to-fame-top-rated-apps-for-creators/"><u>Lip Sync Your Way to Fame Top-Rated Apps for Creators</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-fixes-for-rdo-pc-game-crashes-step-by-step-guide/"><u>Resolved: Fixes for RDO PC Game Crashes - Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-rise-of-gptbot-and-the-reasons-behind-site-restrictions/"><u>The Rise of GPTBot and the Reasons Behind Site Restrictions</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Top Trends Shaping Today’s Mobile Landscape - From AI Integration to Revolutionary Phone Design | Tech Insights by ZDNET
-date: 2024-10-23T16:29:24.591Z
-updated: 2024-10-27T16:44:18.637Z
+date: 2024-10-30T11:02:33.491Z
+updated: 2024-11-02T11:18:48.813Z
 tags:
   - apple
 categories:
@@ -34,15 +34,22 @@ Read on for a look at some of the new accessibility features coming to Apple har
 
 Apple is bringing a new feature to both iOS and iPadOS that will let you navigate your iPhone and iPad with just your eye movements. The feature uses the device's front-facing camera to track your eye movements and let you move through apps. Apple said that its new Eye Tracking feature will work across both its own and third-party apps, and will work with gestures powered solely by eye movements.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Apple Music haptics
 
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Addressing motion sickness
@@ -53,13 +60,6 @@ Motion sickness in cars can often be the result of a disconnect between what you
 
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Understanding speech
 
 A new feature called Voice Shortcuts will let you "assign custom utterances" that Apple's virtual personal assistant Siri will save. When Siri hears those utterances, it'll perform whatever action was assigned to it, including launching apps or engaging in more complex tasks on the device.
@@ -67,10 +67,10 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### New CarPlay features
@@ -80,10 +80,10 @@ Apple's in-car CarPlay software is also getting new accessibility features, incl
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Some other updates
@@ -120,17 +120,20 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-the-ultimate-mac-list-of-non-bandicamp-video-capture-tools-for-2024/"><u>[New] The Ultimate Mac List of Non-Bandicamp Video Capture Tools for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovations-in-videography-infusing-narratives-effortlessly/"><u>2024 Approved Innovations in Videography Infusing Narratives Effortlessly</u></a></li>
-<li><a href="https://app-tips.techidaily.com/amazon-introduces-revolutionary-ai-performance-metric-the-next-gen-rag-system-unveiled-by-zdnet/"><u>Amazon Introduces Revolutionary AI Performance Metric: The Next-Gen RAG System Unveiled by ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discerning-fact-from-fabricated-narratives-by-ai/"><u>Discerning Fact From Fabricated Narratives by AI</u></a></li>
-<li><a href="https://facebook.techidaily.com/social-networks-future-tracing-a-possible-rebrand/"><u>Social Network's Future: Tracing a Possible Rebrand</u></a></li>
-<li><a href="https://program-issues.techidaily.com/stardew-valley-crash-woes-here-are-5-proven-strategies-to-stabilize-your-game-on-pc/"><u>Stardew Valley Crash Woes? Here Are 5 Proven Strategies to Stabilize Your Game on PC</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-operations-and-applications-of-claude-2/"><u>The Operations and Applications of Claude 2</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-power-of-tailored-directives-with-chatgpt-insights-into-its-versatile-features/"><u>The Power of Tailored Directives with ChatGPT: Insights Into Its Versatile Features</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-professionals-edge-tailoring-challenging-corporate-emails-with-chatgpt-expertise/"><u>The Professional's Edge: Tailoring Challenging Corporate Emails with ChatGPT Expertise</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-ultimate-guide-to-leveraging-chatgpts-potential-for-your-health-journey-top-9-uses/"><u>The Ultimate Guide to Leveraging ChatGPT's Potential for Your Health Journey (Top 9 Uses)</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-11-essential-gpt4-prompts-for-crafting-book-characters/"><u>Top 11 Essential GPT4 Prompts for Crafting Book Characters</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-15-online-haven-for-your-favorite-ringtone-files-for-2024/"><u>Top 15 Online Haven for Your Favorite Ringtone Files for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-snap-into-action-quick-tips-for-cellphone-screen-capture-for-2024/"><u>[New] Snap Into Action Quick Tips for Cellphone Screen Capture for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-gopro-hero5-experience-recap/"><u>2024 Approved GoPro Hero5 Experience Recap</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/a-comprehensive-guide-to-the-sound-blaster-zxr-by-creative-gaming-headset-review-for-2ebytes/"><u>A Comprehensive Guide to the Sound Blaster ZxR by Creative - Gaming Headset Review for 2Ebytes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-steps-for-soothing-the-soul/"><u>ChatGPT Steps for Soothing the Soul</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-power-of-chatgpt-in-personal-healthcare-learn-why-its-worth-considering-now/"><u>Discover the Power of ChatGPT in Personal Healthcare – Learn Why It's Worth Considering Now</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elite-communities-for-artificinas-intelligentis-prompts/"><u>Elite Communities for Artificinas Intelligentis Prompts</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/enhancing-video-quality-with-accurate-camera-adjustments/"><u>Enhancing Video Quality with Accurate Camera Adjustments</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/evaluating-the-value-of-chatgpt-plus-membership/"><u>Evaluating the Value of ChatGPT Plus Membership</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-expert-guide-to-instagram-data-decoding-and-actionable-strategies/"><u>In 2024, Expert Guide to Instagram Data Decoding and Actionable Strategies</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-motorola-moto-g-5g-2023-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Motorola Moto G 5G (2023) to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/master-the-art-of-ai-discover-7-proven-prompting-methods-for-successful-interactions/"><u>Master the Art of AI: Discover 7 Proven Prompting Methods for Successful Interactions</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pinnacle-of-picture-perfection-10-screens-for-2024/"><u>Pinnacle of Picture Perfection – #10 Screens for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-students-toolkit-utilizing-chatgpt-for-effective-writing-and-research-projects/"><u>The Student's Toolkit: Utilizing ChatGPT for Effective Writing & Research Projects</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-6-benefits-of-mastering-chatgpt-a-game-changer-for-job-hunters-and-professionals/"><u>Top 6 Benefits of Mastering ChatGPT: A Game-Changer for Job Hunters & Professionals</u></a></li>
+<li><a href="https://techidaily.com/will-motorola-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Will Motorola play AVCHD mts files?</u></a></li>
 </ul></div>
 
