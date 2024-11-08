@@ -1,7 +1,7 @@
 ---
 title: Mastering the Customization of Control Center in iOS 18 for Your iPhone | MobileMastery
-date: 2024-10-31T17:16:16.211Z
-updated: 2024-11-02T08:41:07.479Z
+date: 2024-11-01T19:35:40.170Z
+updated: 2024-11-07T20:30:12.527Z
 tags:
   - apple
 categories:
@@ -37,10 +37,10 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -51,6 +51,13 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
@@ -58,10 +65,10 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -69,13 +76,6 @@ Screenshot by Lance Whitney/ZDNET
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -92,10 +92,10 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -134,17 +134,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-direct-to-twitter-video-conversion-a-comprehensible-list/"><u>[New] 2024 Approved Direct-to-Twitter Video Conversion A Comprehensible List</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-balancing-work-and-leisure-enhancing-podcast-listening-for-2024/"><u>[Updated] Balancing Work and Leisure Enhancing Podcast Listening for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-first-captured-visual-saga-critique-with-alternate-views-for-2024/"><u>[Updated] First Captured Visual Saga Critique with Alternate Views for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/evaluating-the-security-of-external-applications-for-chatgpt-access/"><u>Evaluating the Security of External Applications for ChatGPT Access</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/googles-ai-upgrade-can-gemini-outperform-chatgpt/"><u>Google's AI Upgrade: Can Gemini Outperform ChatGPT?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-from-iphone-14-pro-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID from iPhone 14 Pro</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/premiere-elements-alternatives-top-10-video-editors-to-consider/"><u>Premiere Elements Alternatives Top 10 Video Editors to Consider</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/the-curiosity-driving-users-to-hack-into-ai-chatbots-understanding-their-purpose-and-methods/"><u>The Curiosity Driving Users to Hack Into AI Chatbots: Understanding Their Purpose and Methods</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-8-creative-uses-of-microsofts-chatbot-enhance-your-experience-with-textual-and-visual-intelligence/"><u>Top 8 Creative Uses of Microsoft's Chatbot: Enhance Your Experience with Textual and Visual Intelligence</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-chatgpt-critical-problems-and-limitations-revealed/"><u>Understanding ChatGPT: Critical Problems and Limitations Revealed</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-best-5-artificial-intelligence-tools-to-guide-your-next-literary-journey/"><u>Unveiling the Best 5 Artificial Intelligence Tools to Guide Your Next Literary Journey</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-power-of-the-garmin-forerunner-945-a-breakdown-of-features-in-a-gps-running-watch-review/"><u>Unveiling the Power of The Garmin Forerunner 945: A Breakdown of Features in a GPS Running Watch Review</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-choreographing-gripping-podcast-endings/"><u>[New] Choreographing Gripping Podcast Endings</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-key-techniques-for-a-thorough-review-of-youtube-stats-for-2024/"><u>[Updated] Key Techniques for a Thorough Review of YouTube Stats for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/2024s-elite-list-of-waterproof-smartwatches-in-depth-analysis-and-ratings-by-professionals-digitaltechtrends/"><u>2024'S Elite List of Waterproof Smartwatches: In-Depth Analysis and Ratings by Professionals | DigitalTechTrends</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/begin-your-journey-with-vision-pros-travel-feature-essential-insights-before-you-embark/"><u>Begin Your Journey with Vision Pro's Travel Feature – Essential Insights Before You Embark</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-the-issue-of-warframe-constantly-pausing-or-hanging-a-step-by-step-guide/"><u>Fixing the Issue of Warframe Constantly Pausing or Hanging - A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-apples-groundbreaking-gaze-control-is-changing-the-game-for-iphone-and-ipad-users-with-enhanced-accessibility-options-insights/"><u>How Apple's Groundbreaking Gaze Control Is Changing the Game for iPhone & iPad Users with Enhanced Accessibility Options | Insights</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-hdr-portraiture-comprehensive-photography-guide/"><u>In 2024, Mastering HDR Portraiture Comprehensive Photography Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-macos-efficiency-a-step-by-step-tutorial-on-setting-up-and-leveraging-hot-corners/"><u>Mastering macOS Efficiency: A Step-by-Step Tutorial on Setting Up and Leveraging Hot Corners</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/section-4c-five-qandas/"><u>Section 4C: Five Q&As</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210970070-9781088232835-todas-las-flores-que-yo-gane/"><u>Todas las Flores que yo gané | Free Book</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-5-exciting-new-iphone-16-pro-attributes-that-tech-lovers-cant-wait-to-try-a-closer-look-by-zdnet/"><u>Top 5 Exciting New iPhone 16 Pro Attributes That Tech Lovers Can't Wait To Try - A Closer Look By ZDNET</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-iphone-xs-and-android-phones-by-drfone-ios/"><u>Top IMEI Unlokers for iPhone XS and Android Phones</u></a></li>
 </ul></div>
 

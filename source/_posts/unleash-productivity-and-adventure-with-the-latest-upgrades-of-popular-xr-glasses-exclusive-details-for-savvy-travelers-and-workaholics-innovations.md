@@ -1,7 +1,7 @@
 ---
 title: Unleash Productivity and Adventure with the Latest Upgrades of Popular XR Glasses - Exclusive Details for Savvy Travelers & Workaholics Innovations
-date: 2024-10-26T04:09:20.319Z
-updated: 2024-11-02T02:34:37.028Z
+date: 2024-10-31T19:58:21.435Z
+updated: 2024-11-08T00:56:19.069Z
 tags:
   - apple
 categories:
@@ -81,10 +81,10 @@ Along with the [Viture Pro XR glasses](https://buy.geni.us/Proxy.ashx?TSID=36825
 Lastly, Viture announced a new limited-edition controller in partnership with 8BitDo. You can connect this new controller, with a classic XBox-style controller layout, via Bluetooth to your gaming device, including the Nintendo Switch. The smokey translucent design looks cool and matches the Viture ecosystem. The 8BitDo controller also serves as a companion to the Viture Neckband, but I have yet to try out the Neckband, so I cannot share my experiences with that accessory.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -121,22 +121,24 @@ The [Viture Pro XR glasses](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-obs-vs-wirecast-ultimate-broadcast-showdown/"><u>[New] OBS vs Wirecast Ultimate Broadcast Showdown</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-fast-track-fun-turning-animated-art-into-sticky-messages-quickly/"><u>[Updated] Fast Track Fun Turning Animated Art Into Sticky Messages Quickly</u></a></li>
-<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-oneplus-nord-n30-se-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your OnePlus Nord N30 SE | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/creative-gaming-strategies-leveraging-chatgpt-for-unforgettable-dandd-campaigns/"><u>Creative Gaming Strategies: Leveraging ChatGPT for Unforgettable D&D Campaigns</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/discover-the-power-of-easy-trimming-with-windows-photos-app/"><u>Discover the Power of Easy Trimming with Windows Photos App</u></a></li>
-<li><a href="https://network-issues.techidaily.com/discover-unseen-display-options-in-windows-11/"><u>Discover Unseen Display Options in Windows 11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/do-premium-ai-command-scripts-deliver-worthy-results-for-the-price-paid/"><u>Do Premium AI Command Scripts Deliver Worthy Results for the Price Paid?</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-to-resolve-msi-dragon-center-not-working-errors/"><u>Expert Tips to Resolve 'MSI Dragon Center Not Working' Errors</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-basics-to-bonus-elevate-your-cam-game/"><u>In 2024, From Basics to Bonus Elevate Your Cam Game</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-this-article-we-are-going-to-take-you-through-some-of-the-best-time-lapse-video-editing-software-you-can-find-on-the-market/"><u>In This Article, We Are Going to Take You Through some of the Best Time-Lapse Video Editing Software, You Can Find on the Market</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/rethinking-generative-ai-for-messaging-the-7-key-considerations-you-should-know/"><u>Rethinking Generative AI for Messaging: The 7 Key Considerations You Should Know</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revitalize-your-lifestyle-with-select-7-gpt-additions/"><u>Revitalize Your Lifestyle with Select 7 GPT Additions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-to-implementing-gpt-ns-power-in-chatgpt-currently/"><u>Step-by-Step Guide to Implementing GPT-N's Power in ChatGPT Currently</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/strategies-for-securing-dialogues-against-gpt-retention/"><u>Strategies for Securing Dialogues Against GPT' Retention</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-5-factors-behind-chatgpts-record-breaking-popularity-surge/"><u>Top 5 Factors Behind ChatGPT's Record-Breaking Popularity Surge</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/truthcoin-scam-detection-or-investment-gain/"><u>TruthCoin: Scam Detection or Investment Gain?</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-speed-up-your-videos-best-time-lapse-apps-for-iphone-and-android/"><u>Updated 2024 Approved Speed Up Your Videos Best Time-Lapse Apps for iPhone and Android</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-colormorph-pro-searching-for-lightroom-equals/"><u>[New] 2024 Approved ColorMorph Pro Searching for Lightroom Equals</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-capturing-heights-a-deep-dive-into-gopro-karma/"><u>[Updated] Capturing Heights A Deep Dive Into GoPro Karma</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-mastering-the-art-of-securing-cost-free-vlc-player-download-on-mac-for-2024/"><u>[Updated] Mastering the Art of Securing, Cost-Free VLC Player Download on Mac for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-maximizing-igtv-impact-effective-tips-for-vertical-video-conversion-for-2024/"><u>[Updated] Maximizing IGTV Impact Effective Tips for Vertical Video Conversion for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-bargain-4k-camera-deals/"><u>2024 Approved Best Bargain 4K Camera Deals</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/dont-miss-out-apples-latest-16-inch-macbook-pro-with-m3-pro-now-500-cheaper-prime-day-countdown/"><u>Don't Miss Out! Apple's Latest 16-Inch MacBook Pro with M3 Pro Now $500 Cheaper - Prime Day Countdown</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancing-iphone-functionality-with-apples-integration-of-google-gemini-into-ios-insights/"><u>Enhancing iPhone Functionality with Apple's Integration of Google Gemini Into iOS - Insights</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-samsung-galaxy-f14-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Samsung Galaxy F14 5GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/iphone-showdown-unpacking-differences-between-iphone-1er-pro-and-pro-max-to-inform-your-upgrade-decision-analysis/"><u>IPhone Showdown: Unpacking Differences Between iPhone 1Er Pro & Pro Max to Inform Your Upgrade Decision - Analysis</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/missing-pieces-in-apples-latest-ai-showcase-anticipating-future-innovations/"><u>Missing Pieces in Apple's Latest AI Showcase: Anticipating Future Innovations</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-final-cut-pro-x-productivity-hacks-top-40-keyboard-shortcuts-for-2024/"><u>New Final Cut Pro X Productivity Hacks Top 40 Keyboard Shortcuts for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionize-your-apple-watch-usage-with-these-8-key-settings-adjustments-to-boost-battery-life/"><u>Revolutionize Your Apple Watch Usage with These 8 Key Settings Adjustments to Boost Battery Life</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/shop-macbook-air-with-powerful-m1-chip-for-a-steal-at-just-649-top-price-drop-alert/"><u>Shop MacBook Air with Powerful M1 Chip for a Steal at Just $649 - Top Price Drop Alert !</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-worlds-thinnest-ipads-unveiled-is-a-slimmer-design-worth-it-a-close-look-inside-the-apple-experience/"><u>The World's Thinnest iPads Unveiled: Is a Slimmer Design Worth It? - A Close Look Inside the Apple Experience</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-10-desired-visionos-enhancements-what-we-hope-apple-unveils-at-the-upcoming-wwdc-event/"><u>Top 10 Desired VisionOS Enhancements: What We Hope Apple Unveils at the Upcoming WWDC Event</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-innovations-at-toms-tech-hub/"><u>Unveiling the Latest Innovations at Tom's Tech Hub</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/upcoming-release-anticipated-launch-of-new-airpods-lite-followed-by-airpods-max-in-the-near-future-tech-news-zdnet/"><u>Upcoming Release: Anticipated Launch of New 'AirPods Lite', Followed by AirPods Max in the Near Future | Tech News - ZDNet</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/virtual-reality-humor-the-art-of-metaverse-memes/"><u>Virtual Reality Humor The Art of Metaverse Memes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/zdnets-favorite-phones-editorial-choice-and-personal-device-reviews/"><u>ZDNet's Favorite Phones: Editorial Choice and Personal Device Reviews</u></a></li>
 </ul></div>
 

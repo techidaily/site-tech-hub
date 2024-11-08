@@ -1,7 +1,7 @@
 ---
 title: "Mastering MacOS with Craft: The Ultimate Guide to Using This Remarkable Document Editor"
-date: 2024-10-29T18:05:06.157Z
-updated: 2024-11-02T10:53:51.419Z
+date: 2024-11-06T22:09:03.979Z
+updated: 2024-11-07T23:31:08.898Z
 tags:
   - apple
 categories:
@@ -36,16 +36,10 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -69,10 +63,10 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -86,10 +80,10 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -140,20 +134,22 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-master-browser-fb-vid-extractor-kit/"><u>[New] In 2024, Master Browser FB Vid Extractor Kit</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-excellent-pc-screen-grabbers-the-most-useful-1-5-for-2024/"><u>[Updated] Excellent PC Screen Grabbers The Most Useful #1-#5 for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-achieving-professional-skype-recordings-in-obs/"><u>[Updated] In 2024, Achieving Professional Skype Recordings in OBS</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-vocal-choirs-on-tiktoks-digital-stage/"><u>[Updated] In 2024, Vocal Choirs on TikTok's Digital Stage</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-the-art-of-search-engine-optimization-for-podcasts/"><u>[Updated] Mastering the Art of Search Engine Optimization for Podcasts</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-secrets-to-the-ultimate-5-free-pinterest-video-loader/"><u>[Updated] Secrets to the Ultimate 5-Free Pinterest Video Loader</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-swift-seize-video-with-soundtracking-for-2024/"><u>[Updated] Swift Seize Video with Soundtracking for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mp4-ogv/"><u>「簡単な手順で！ MP4ビデオから高品質な OGVへの完全変換方法」</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/effortlessly-watching-mp4-files-on-an-ipad-with-these-3-proven-strategies/"><u>Effortlessly Watching MP4 Files on an iPad with These 3 Proven Strategies</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-from-the-apple-iphone-14-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock From the Apple iPhone 14 Without Previous Owner?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/master-the-art-of-video-format-shifting-from-youtube-for-apple-devices-expert-tutorial-on-iphoneipod-video-converters/"><u>Master the Art of Video Format Shifting From YouTube for Apple Devices - Expert Tutorial on iPhone/iPod Video Converters</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-audio-files-the-essential-guide-to-separating-and-organizing-your-sound-with-the-best-splitter-software/"><u>Mastering Audio Files: The Essential Guide to Separating and Organizing Your Sound with the Best Splitter Software</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-mkv-video-playback-on-your-xbox-series-xs-console/"><u>Mastering MKV Video Playback on Your Xbox Series X|S Console</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mp4dav/"><u>MP4に素早く、安心して変換できるDAVファイル用のシンプルな解決策</u></a></li>
-<li><a href="https://win11.techidaily.com/remedy-for-windows-signature-validation-failures/"><u>Remedy for Windows Signature Validation Failures</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-retro-gaming-revived-top-5-emulators-to-play-your-favorite-ps1-titles-for-2024/"><u>[New] Retro Gaming Revived - Top 5 Emulators to Play Your Favorite PS1 Titles for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-boosting-social-reach-top-facebook-video-engagement-techniques/"><u>[Updated] 2024 Approved Boosting Social Reach Top Facebook Video Engagement Techniques</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-soundtrack-secrets-your-complete-audio-compilation-for-ig-videos-for-2024/"><u>[Updated] Soundtrack Secrets Your Complete Audio Compilation for IG Videos for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/compatible-lenovo-t430-drivers-for-seamless-use-on-windows-11-or-older-versions/"><u>Compatible Lenovo T430 Drivers for Seamless Use on Windows 11 or Older Versions</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-strategies-for-handling-windows-11s-0xc1900208-installation-hurdle/"><u>Effective Strategies for Handling Windows 11'S 0xC1900208 Installation Hurdle</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevating-your-presentations-with-smart-use-of-chatgpt/"><u>Elevating Your Presentations with Smart Use of ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/empowering-your-household-with-gpt-powered-command-systems/"><u>Empowering Your Household with GPT-Powered Command Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/explore-new-horizons-with-these-6-amazing-ways-to-utilize-chatgpts-code-companion/"><u>Explore New Horizons with These 6 Amazing Ways to Utilize ChatGPT's Code Companion</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-oppo-reno-11-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/harnessing-chatgpt-to-innovate-and-enhance-soundscapes-within-your-daw-studio/"><u>Harnessing ChatGPT to Innovate and Enhance Soundscapes Within Your DAW Studio</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-is-ai-revolutionizing-the-medical-field-with-chatgpts-potential/"><u>How Is AI Revolutionizing the Medical Field with ChatGPT's Potential?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-run-a-censorship-free-gpt-alternative-on-windows-using-the-freedomgpt-platform/"><u>How To Run A Censorship-Free GPT Alternative On Windows Using the FreedomGPT Platform</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-realme-gt-3-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovative-techniques-for-developing-a-tailored-chatgpt-experience-using-ai-models/"><u>Innovative Techniques for Developing a Tailored ChatGPT Experience Using AI Models</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/inside-claude-ai-revolutionizing-the-workflow-across-sectors/"><u>Inside Claude AI: Revolutionizing the Workflow Across Sectors</u></a></li>
+<li><a href="https://article-helps.techidaily.com/top-cinematographer-secrets-for-exceptional-visuals-for-2024/"><u>Top Cinematographer Secrets for Exceptional Visuals for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-security-expanding-context-menu-with-firewall-restrictions/"><u>Windows 11 Security: Expanding Context Menu with Firewall Restrictions</u></a></li>
 </ul></div>
 

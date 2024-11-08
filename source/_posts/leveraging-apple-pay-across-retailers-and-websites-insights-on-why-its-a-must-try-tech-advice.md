@@ -1,7 +1,7 @@
 ---
 title: "Leveraging Apple Pay Across Retailers & Websites: Insights on Why It's a Must-Try | Tech Advice"
-date: 2024-10-29T05:41:33.304Z
-updated: 2024-11-02T03:13:34.622Z
+date: 2024-11-01T00:17:18.797Z
+updated: 2024-11-08T03:19:09.853Z
 tags:
   - apple
 categories:
@@ -48,6 +48,13 @@ Be sure your [phone is up to date](https://www.zdnet.com/article/how-to-get-your
 
 **Also: [How to get your iPhone ready for the landmark iOS 17.4 update](https://www.zdnet.com/article/how-to-get-your-iphone-ready-for-the-landmark-ios-17-4-update/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  You must have a current prescription
 
 When I bought [my custom lenses](https://www.zdnet.com/article/i-bought-custom-lenses-for-my-meta-quest-3-but-not-every-eyeglass-wearer-needs-them-do-you/) for the [Quest 3 XR headset](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMeta-Quest-128GB-Breakthrough-Reality-3%2Fdp%2FB0C8VKH1ZH%2Fref%3Dsr%5F1%5F3%3Fcrid%3D2X0HCIAO3MOVG%26dib%3DeyJ2IjoiMSJ9.BNL0XshPOuZ3lobU5yu3cCziH0rMF3MqkgI5OZmFfI396LZ9jAGXj84MI1EU8%5F5LWlHYbffLvuK4wy60m2mpx-2b0E69G5CAgPr77uABPUs9ThjKVgBAKgxNCmitWG6OIvJQ6C%5FdCub9mc2M5TrzkUgG285Omu6Unm09oovkmtElcKnrct6qE-2GKMVhhr8O9kofjIrt-EsmkyGAKY4GXxpx1gS5vWkTxp6SQcpBxTg.-wnHYIb3S%5FyHdJPtuvKYmJx1oE3hNgbvXK-C7xpg%5FwM%26dib%5Ftag%3Dse%26keywords%3Dquest%2B3%26qid%3D1708934460%26sprefix%3Dquest%2B3%2Caps%2C170%26sr%3D8-3%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C90ceb044-fd06-4c2e-9fe4-87dbf1fce34f%7Cdtp&dtb=1), I just typed in the eyeglass numbers that corresponded to the glasses I currently wear. But I couldn't use that prescription for ZEISS (the company that makes the lenses for Apple). 
@@ -66,19 +73,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 That prescription works fine in my Quest 3, but Apple and ZEISS won't accept it. I had to book an appointment with my local optometrist. 
 
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  It's your distance prescription that counts
 
 When you go to see your optometrist, you'll need to get a distance prescription for the lens inserts. Some people think you'll need both close and distance prescriptions, particularly if you need glasses to read a book or your phone. But that's not how it works. 
@@ -93,19 +87,6 @@ Note that Apple specifically states, "Intermediate distance, task distance, or c
 
 In any case, within a half hour, I had a new distance prescription that was current and official. 
 
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Confirm your prescription can be used
 
 Now, you need to take one more step. Point yourself to the [ZEISS Eyeglass Prescription Guide](https://www.zeiss.com/vision-care/us/zeiss-optical-inserts/prescription-guide.html) page. At the bottom of the page, you'll see this interactive form: 
@@ -119,6 +100,13 @@ Fill it out with the relevant data from your current prescription and click Chec
 This is why you need to do all the prescription preparation first. Apple points you to the ZEISS page after the order has been completed, but by that time it's too late. The order has already been placed. It would be extremely inconvenient to find out you can't use the headset, and have to go through all sorts of hoops to either cancel the order or return the device. 
 
 By checking these details first, you can save yourself that annoyance. 
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Get a successful face scan
 
@@ -224,13 +212,6 @@ Screenshot by David Gewirtz/ZDNET
 
 Now, it's time to decide how much storage you want to have on the Vision Pro. Keep in mind this is very much like choosing the storage on your iPhone or iPad.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##   
 
 Screenshot by David Gewirtz/ZDNET
@@ -300,10 +281,10 @@ And there you go. You're done. Except: It's time to move on to ZEISS.
 Screenshot by David Gewirtz/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Upload your prescription to ZEISS
@@ -335,6 +316,13 @@ Screenshot by David Gewirtz/ZDNET
 Whew. You're done. Now it's time to sit and wait. In my case, I got a notice the next day that my prescription was approved and the inserts were being made. 
 
 Screenshot by David Gewirtz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. And now you wait for delivery
 
@@ -385,17 +373,14 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-securing-every-moment-tips-for-reliable-capture-of-google-meet-sessions/"><u>[Updated] In 2024, Securing Every Moment Tips for Reliable Capture of Google Meet Sessions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-under-100-investments-in-action-cameras-top-selections/"><u>2024 Approved Under $100 Investments in Action Cameras – Top Selections</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-novel-way-to-manage-galaxy-devices-with-windows-11/"><u>A Novel Way to Manage Galaxy Devices with Windows 11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/asus-unveils-cost-details-the-all-new-nuc-lineup-with-nuc-14-pro-beginning-at-just-394-and-nuc-14-proplus-starting-from-869/"><u>Asus Unveils Cost Details: The All-New NUC Lineup with NUC 14 Pro Beginning at Just $394 & NUC 14 Pro+ Starting From $869</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/clash-of-titans-in-nlp-exploring-the-contrasts-between-gpt-and-bert-models/"><u>Clash of Titans in NLP: Exploring the Contrasts Between GPT and BERT Models</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/comparing-ai-variants-which-is-right-for-you-public-vs-private-vs-personal/"><u>Comparing AI Variants: Which Is Right for You - Public Vs. Private Vs. Personal</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discreet-preservation-of-dialogues-with-gpt-assistant/"><u>Discreet Preservation of Dialogues with GPT Assistant</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/hazy-endings-how-to-black-out-with-pro-for-2024/"><u>Hazy Endings How to Black Out with Pro for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/taskbar-alert-managing-full-disk-on-win1110/"><u>Taskbar Alert: Managing Full Disk on Win11/10</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-9-uses-of-chatgpt-simplifying-everyday-tasks/"><u>Top 9 Uses of ChatGPT: Simplifying Everyday Tasks</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/unending-shutdown-method-how-to-kill-off-youtube-shorts-for-2024/"><u>Unending Shutdown Method How to Kill Off Youtube Shorts for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/unveil-your-video-potential-streaming-google-meet-to-youtube-guide-for-2024/"><u>Unveil Your Video Potential Streaming Google Meet to YouTube Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-explore-and-compare-20plus-best-free-video-editors-for-ios/"><u>[New] In 2024, Explore and Compare 20+ Best Free Video Editors for iOS</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-the-ultimate-checklist-for-using-firefoxs-popup-window/"><u>[Updated] 2024 Approved The Ultimate Checklist for Using Firefox's Popup Window</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/breakthrough-xr-technology-fixes-color-blindness-cheaply-outperforms-pricey-apple-vision-pro/"><u>Breakthrough XR Technology Fixes Color Blindness Cheaply, Outperforms Pricey Apple Vision Pro</u></a></li>
+<li><a href="https://win11.techidaily.com/bridging-gaps-between-data-units-in-windows-11/"><u>Bridging Gaps Between Data Units in Windows 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/choosing-the-right-apple-powerhouse-in-depth-comparison-of-m3-vs-m2-macbook-air-for-tech-enthusiasts/"><u>Choosing the Right Apple Powerhouse: In-Depth Comparison of M3 vs M2 MacBook Air for Tech Enthusiasts</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-elevating-listener-experience-through-podcast-exits/"><u>In 2024, Elevating Listener Experience Through Podcast Exits</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-investigating-the-silence-of-non-suggestive-video-content-on-fb/"><u>In 2024, Investigating the Silence of Non-Suggestive Video Content on FB</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximizing-your-apple-experience-with-watchos-11s-latest-upgrade-features-explored/"><u>Maximizing Your Apple Experience with WatchOS 11'S Latest Upgrade - Features Explored</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-7-strategies-suggested-by-apple-for-creating-seamless-experiences-on-visionos-insights-from-zdnet/"><u>Top 7 Strategies Suggested by Apple for Creating Seamless Experiences on VisionOS - Insights From ZDNet</u></a></li>
 </ul></div>
 

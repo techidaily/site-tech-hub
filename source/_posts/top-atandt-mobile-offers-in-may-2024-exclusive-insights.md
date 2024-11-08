@@ -1,7 +1,7 @@
 ---
 title: Top AT&T Mobile Offers in May 2024 - Exclusive Insights
-date: 2024-10-29T16:51:58.407Z
-updated: 2024-11-01T17:23:50.166Z
+date: 2024-11-03T16:02:05.018Z
+updated: 2024-11-07T16:18:53.319Z
 tags:
   - apple
 categories:
@@ -141,10 +141,10 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 [BodyGuardz Pure 2 Edge antimicrobial glass screen protector (iPhone 14 range) for $10 (save $35) $10 at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/accessories/Screen-Protectors/bodyguardz-pure-2-edge-antimicrobial-tempered-glass-screen-protector-iphone-14-13-13-pro.html)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How did we choose these AT&T phone deals?
@@ -158,10 +158,10 @@ When we made our selection for the best AT&T deals, we wanted to include options
 * **Events**: It's always worth checking retailers after a major event, such as Samsung Unpacked. You will often find that deals will be launched just after, luring customers to agree to preorder their new handset in return for discounts and free storage upgrades.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Does AT&T offer deals for existing customers?
@@ -177,10 +177,16 @@ In general, there is no difference in how much money you save whether you shop o
 ZDNET experts split out the latest and greatest deals for you below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Best deals by retailer**
@@ -189,10 +195,10 @@ ZDNET experts split out the latest and greatest deals for you below.
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Best deals by category**
@@ -244,21 +250,19 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-top-stunts-and-tricks-at-snowboarding-x-olympics-for-2024/"><u>[New] Top Stunts and Tricks at Snowboarding X-Olympics for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-map-masterpieces-excellent-quests-for-gold/"><u>[Updated] 2024 Approved Map Masterpieces Excellent Quests for Gold</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-saving-on-cloud-space-expenses-detailed-analysis-and-tips/"><u>[Updated] Saving on Cloud Space Expenses Detailed Analysis & Tips</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-top-10-software-to-create-and-edit-vector-images-that-you-should-know/"><u>[Updated] Top 10 Software to Create and Edit Vector Images That You Should Know</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-unleash-creativity-angled-rotation-mastery-for-youtube-vids/"><u>[Updated] Unleash Creativity Angled Rotation Mastery for YouTube Vids</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-asus-pa32u-explored-unparalleled-4k-professional-monitoring/"><u>2024 Approved Asus PA32U Explored Unparalleled 4K Professional Monitoring</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/boosting-your-job-application-with-chatgpt-a-guide-to-six-key-techniques/"><u>Boosting Your Job Application with ChatGPT: A Guide to Six Key Techniques</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-on-your-computer-exploring-advantages-of-the-desktop-software-over-the-online-site/"><u>ChatGPT on Your Computer: Exploring Advantages of the Desktop Software over the Online Site</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/convertissez-vos-fichiers-nsv-en-format-wmv-gratuitement-sur-internet-avec-movavi/"><u>Convertissez Vos Fichiers .nsv en Format WMV Gratuitement Sur Internet Avec Movavi</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/guide-how-to-distribute-access-to-your-chatgpt-chat-records/"><u>Guide: How to Distribute Access to Your ChatGPT Chat Records</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-chatgpt-claimed-its-spot-at-the-pinnacle-the-five-key-reasons-for-its-rapid-growth/"><u>How ChatGPT Claimed Its Spot at the Pinnacle: The Five Key Reasons for Its Rapid Growth</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-not-to-use-chatgpt-avoiding-common-errors-in-digital-writing/"><u>How Not to Use ChatGPT: Avoiding Common Errors in Digital Writing</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-inside-out-the-100-complete-theta-s-study/"><u>In 2024, Inside Out The 100% Complete Theta S Study</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ring-360-degree-videos-secure-youtube-uploads-for-2024/"><u>Mastering 360-Degree Videos Secure YouTube Uploads for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/talent-showcase-whos-the-top-generative-chatbot-winner/"><u>Talent Showcase: Who's the Top Generative Chatbot Winner?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlock-the-power-of-ai-in-search-how-to-sign-up-for-bing/"><u>Unlock the Power of AI in Search - How to Sign Up for Bing</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-uncluttered-desktop-recorder-w10-for-2024/"><u>[New] Uncluttered Desktop Recorder W10 for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-recording-real-time-action-in-overwatch/"><u>[Updated] 2024 Approved Recording Real-Time Action in Overwatch</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-eye-catching-podcast-logos-step-by-step-creation-for-2024/"><u>[Updated] Eye-Catching Podcast Logos Step-by-Step Creation for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-minecraft-banner-templates-get-them-here/"><u>2024 Approved Minecraft Banner Templates Get Them Here</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/apple-watch-ultra-discounted-like-never-before-unmissable-holiday-deals-revealed-by-zdnet/"><u>Apple Watch Ultra Discounted Like Never Before – Unmissable Holiday Deals Revealed by ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beeper-messaging-platform-now-under-automattic-ownership-poised-for-growth/"><u>Beeper Messaging Platform Now Under Automattic Ownership, Poised for Growth</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-oppo-a59-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Oppo A59 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/discords-best-servers-for-finding-a-mate-for-2024/"><u>Discord's Best Servers for Finding a Mate for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-infinix-smart-8-by-fonelab-android-recover-data/"><u>Easy steps to recover deleted data from Infinix Smart 8</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-sound-mastery-with-sonos-s2-app-unveiled-benefits-and-surprises-revealed/"><u>Effortless Sound Mastery with Sonos S2 App Unveiled: Benefits and Surprises Revealed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-apples-latest-stair-climbing-challenge-unpack-the-motive-behind-your-phone-nudging-you-for-fitness/"><u>Exploring Apple's Latest Stair-Climbing Challenge - Unpack the Motive Behind Your Phone Nudging You for Fitness</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/final-cut-pro-on-ipad-unveiled-a-breakthrough-toolset-redefining-film-production-according-to-zdnet/"><u>Final Cut Pro on iPad Unveiled: A Breakthrough Toolset Redefining Film Production According to ZDNET</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-apples-ai-must-evolve-top-10-capabilities-required-to-rival-openai-and-google-insights/"><u>How Apple's AI Must Evolve: Top 10 Capabilities Required to Rival OpenAI & Google - Insights</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-honor-magic-5-lite-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Honor Magic 5 Lite | Dr.fone</u></a></li>
 </ul></div>
 

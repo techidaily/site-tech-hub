@@ -1,7 +1,7 @@
 ---
 title: MacOS 15 'Sequoia' Beta Now Available for Download – Get the Latest Features on MacBook & Desktop | ZDNET
-date: 2024-10-29T05:06:40.258Z
-updated: 2024-11-02T02:00:43.034Z
+date: 2024-11-04T16:22:35.606Z
+updated: 2024-11-08T07:35:17.530Z
 tags:
   - apple
 categories:
@@ -32,13 +32,6 @@ Jason Hiner/ZDNET
 
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Go to General in your iPhone Settings
 
 Go to your iPhone's Settings and select General. 
@@ -48,28 +41,15 @@ Go to your iPhone's Settings and select General.
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Download and install
 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
-
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Enter your passcode and follow steps to install
 
@@ -77,24 +57,31 @@ Enter your passcode, if necessary, to authorize the installation of the new iOS 
 
 After installing the latest iOS update, your iPhone will restart.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQs
 
 ### When is Apple Intelligence coming out?
 
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### When was iOS 18 released?
 
 Apple released the iOS 18 developer beta during WWDC 2024 in June, and the public beta version was released on July 15\. The general release of iOS 18 is September 16.
 
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Can you still download the iOS 18 public beta?
 
@@ -130,6 +117,13 @@ If you can't see this option, go to your **Settings,** select **Privacy & Securi
 **Also: [How to use and customize your iPhone's new Control Center with iOS 18](https://www.zdnet.com/article/how-to-use-and-customize-your-iphones-new-control-center-with-ios-18/)**
 
 If you aren't already a member of the Apple Developer Program, you can sign up to become one in the app. An annual membership costs $99.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What is in iOS 18 beta 3?
 
@@ -175,21 +169,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/updated-chuckle-craft-ranking-the-top-10-memes-by-wow-factor/"><u>[Updated] Chuckle Craft Ranking the Top 10 Memes by Wow Factor</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-art-of-spinning-indie-podcast-hits/"><u>2024 Approved The Art of Spinning Indie Podcast Hits</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/boost-your-productivity-with-these-3-strategies-using-chatgpt-and-wolfram-alpha-together/"><u>Boost Your Productivity with These 3 Strategies Using ChatGPT and Wolfram Alpha Together</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/deciding-the-prime-coding-companion-how-does-chatgpt-measure-up-against-gemini/"><u>Deciding the Prime Coding Companion: How Does ChatGPT Measure Up Against Gemini?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/expand-your-ai-assistant-skills-how-to-get-started-with-chatgpt-plugins/"><u>Expand Your AI Assistant Skills: How to Get Started with ChatGPT Plugins</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-possibilities-a-comprehensive-openai-api-tutorial/"><u>Exploring Possibilities: A Comprehensive OpenAI API Tutorial</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/extensive-review-on-eero-pros-full-house-wi-fi-connectivity-and-performance/"><u>Extensive Review on Eero Pro's Full House Wi-Fi Connectivity and Performance</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-resolve-an-apple-watch-displaying-the-apple-logo-instead-of-boot-up-screen/"><u>How to Resolve an Apple Watch Displaying the Apple Logo Instead of Boot-Up Screen</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oppo-reno-9a-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Oppo Reno 9A Location by Number | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/organizing-virtual-gatherings-syncing-slack-with-filmoras-features/"><u>Organizing Virtual Gatherings Syncing Slack with Filmora's Features</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/should-you-bypass-gpts-limits-considerations/"><u>Should You Bypass GPT's Limits? Considerations</u></a></li>
-<li><a href="https://media-tips.techidaily.com/simple-yet-powerful-strategies-for-converting-mp4-files-to-swf-with-minimal-effort/"><u>Simple Yet Powerful Strategies for Converting MP4 Files to SWF with Minimal Effort</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/step-by-step-tutorial-on-moving-songs-from-windows-laptop-to-iphones-using-a-universal-cable/"><u>Step-by-Step Tutorial on Moving Songs From Windows Laptop to iPhones Using a Universal Cable</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-spectrum-of-ai-accessibility-community-to-individual-models/"><u>The Spectrum of AI Accessibility: Community to Individual Models</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unleash-the-potential-how-chatgpt-elevates-your-smartwatch-experience-in-six-ways/"><u>Unleash the Potential: How ChatGPT Elevates Your Smartwatch Experience in Six Ways</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-mobile-video-to-audio-conversion-made-easy-top-apps-reviewed/"><u>Updated Mobile Video to Audio Conversion Made Easy Top Apps Reviewed</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-top-8-best-screen-recorders-without-lag/"><u>[New] 2024 Approved Top 8 Best Screen Recorders without Lag</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-iphones-secrets-for-stunning-time-lapse-videos-for-2024/"><u>[New] IPhone's Secrets for Stunning Time-Lapse Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-spin-and-share-easy-iphone-filmmaking-techniques/"><u>[Updated] 2024 Approved Spin and Share Easy iPhone Filmmaking Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/5-ai-powered-book-recommendation-sites-and-apps-to-find-your-next-read/"><u>5 AI-Powered Book Recommendation Sites and Apps to Find Your Next Read</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/5-critical-methods-artificial-intelligence-enables-for-hackers/"><u>5 Critical Methods Artificial Intelligence Enables for Hackers</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/everything-you-need-to-know-about-spanish-verbs-and-conjugations/"><u>Everything You Need To Know About Spanish Verbs & Conjugations</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-insights-swiftly-navigating-3d-paint-with-keys/"><u>Expert Insights: Swiftly Navigating 3D Paint with Keys</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/fujitsu-scansnap-ix1600-review-a-robust-desktop-scanner-for-documents/"><u>Fujitsu ScanSnap iX1600 Review: A Robust Desktop Scanner for Documents</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-rated-screen-recording-software-for-windows-10-8-y-7-capture-full-screen-or-selected-area/"><u>Top Rated Screen Recording Software for Windows 10, 8 Y 7 – Capture Full Screen or Selected Area</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/top-tips-to-stream-rust-like-a-pro-for-2024/"><u>Top Tips to Stream Rust Like a Pro for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-the-power-of-conversation-talk-with-chatgpt-today/"><u>Unlock the Power of Conversation: Talk with ChatGPT Today</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-truthgpt-coin-a-comprehensive-guide-to-assess-its-authenticity/"><u>Unveiling TruthGPT Coin: A Comprehensive Guide to Assess Its Authenticity</u></a></li>
+<li><a href="https://article-files.techidaily.com/videographers-acclaim-top-5-exquisite-slow-motion-cameras-for-2024/"><u>Videographers' Acclaim Top 5 Exquisite Slow-Motion Cameras for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/what-is-grok-ai-from-elon-musk-inside-look-at-its-potential-and-price-points/"><u>What Is Grok AI From Elon Musk? Inside Look at Its Potential and Price Points</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering iOS 18: A Step-by-Step Guide to Personalizing Your iPhone's Control Center - Tips"
-date: 2024-10-30T23:16:12.933Z
-updated: 2024-11-02T09:38:32.987Z
+date: 2024-11-02T02:49:53.678Z
+updated: 2024-11-07T23:15:24.304Z
 tags:
   - apple
 categories:
@@ -37,10 +37,10 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -51,18 +51,18 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Delete a control
 
@@ -71,10 +71,10 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -86,10 +86,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -134,21 +134,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-essential-strategies-for-finding-fabulous-and-free-images-on-pexels/"><u>[New] In 2024, Essential Strategies for Finding Fabulous and Free Images on Pexels</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-maximizing-fun-in-the-stardew-ginger-region/"><u>[New] In 2024, Maximizing Fun in the Stardew Ginger Region</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/he-ultimate-tracker-gauging-youtube-popularity-for-financial-insights-for-2024/"><u>[New] The Ultimate Tracker Gauging YouTube Popularity for Financial Insights for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/nlocking-the-art-of-alluring-youtube-live-image-creation-for-2024/"><u>[New] Unlocking the Art of Alluring YouTube Live Image Creation for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-secrets-to-proficient-ipad-screening/"><u>2024 Approved Secrets to Proficient iPad Screening</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/bridging-human-expertise-and-machine-learning-with-ai-in-3d-printing/"><u>Bridging Human Expertise & Machine Learning with AI in 3D Printing</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-the-top-benefits-of-snapchats-my-ai-beyond-a-simple-fun-app/"><u>Discover the Top Benefits of Snapchat’s 'My AI': Beyond a Simple Fun App</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-limits-why-cant-chatgpt-detect-its-creative-outputs/"><u>Exploring the Limits: Why Can't ChatGPT Detect Its Creative Outputs?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-seamlessly-integrate-chatgpt-in-linux-using-the-bavarder-application/"><u>How To Seamlessly Integrate ChatGPT in Linux Using the Bavarder Application</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-oppo-f23-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Oppo F23 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-todays-vr-experience-insight/"><u>In 2024, Today’s VR Experience Insight</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/leveraging-anthropics-prompt-repository/"><u>Leveraging Anthropic's Prompt Repository</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-increase-windows-disk-size-securely/"><u>Strategies to Increase Windows Disk Size Securely</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unleash-ai-conversation-tools-on-your-android-device-with-latest-chatgpt-version/"><u>Unleash AI Conversation Tools on Your Android Device with Latest ChatGPT Version</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unleash-potential-in-media-production-via-xp-for-2024/"><u>Unleash Potential in Media Production via XP for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-creativity-the-role-of-chatgpt-in-developing-engaging-content-top-tips/"><u>Unlocking Creativity: The Role of ChatGPT in Developing Engaging Content (Top Tips)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-mastering-speech-to-text-googles-perfect-translation-technique/"><u>[New] Mastering Speech-to-Text Google's Perfect Translation Technique</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-key-to-discovery-perfecting-your-youtube-tags-game/"><u>[Updated] In 2024, Key to Discovery Perfecting Your YouTube Tags Game</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-top-notch-ae-extensions-selection/"><u>2024 Approved Top-Notch AE Extensions Selection</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/customizing-the-control-center-on-ios-18-a-step-by-step-guide-zdnet/"><u>Customizing the Control Center on iOS 18: A Step-by-Step Guide - ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/deciding-your-ideal-tablet-in-depth-review-of-apples-m1-vs-m2-ipad-pro-models-zdnet/"><u>Deciding Your Ideal Tablet: In-Depth Review of Apple's M1 Vs. M2 iPad Pro Models | ZDNET</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/expert-strategies-for-enhancing-your-daily-productivity-a-comprehensive-guide-insights-from-zdnet/"><u>Expert Strategies for Enhancing Your Daily Productivity: A Comprehensive Guide - Insights From ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/high-refresh-rate-picks-top-gamer-displays-240hz/"><u>High-Refresh Rate Picks: Top Gamer Displays (240Hz)</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-oneplus-nord-n30-se-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock OnePlus Nord N30 SE Phone When You Forget the Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/introducing-apples-enhanced-logic-pro-smart-ai-instruments-tailored-for-mac-and-ipad-music-creators/"><u>Introducing Apple's Enhanced Logic Pro: Smart AI Instruments Tailored for Mac & iPad Music Creators</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/llama-2-simplified-making-complex-tasks-manageable/"><u>Llama 2 Simplified: Making Complex Tasks Manageable</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-apple-vision-pro-ultimate-guide-to-flawless-screen-captures-and-recording-techniques/"><u>Mastering Apple Vision Pro: Ultimate Guide to Flawless Screen Captures & Recording Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/pros-and-cons-of-switching-to-iphone-16-insights-from-zdnet-experts/"><u>Pros & Cons of Switching to iPhone 16: Insights From ZDNet Experts</u></a></li>
 </ul></div>
 

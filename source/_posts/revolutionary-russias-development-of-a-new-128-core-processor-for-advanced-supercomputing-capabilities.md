@@ -1,7 +1,7 @@
 ---
 title: Revolutionary Russia's Development of a New 128-Core Processor for Advanced Supercomputing Capabilities
-date: 2024-09-06T21:46:58.514Z
-updated: 2024-09-07T21:46:58.514Z
+date: 2024-11-05T23:18:41.782Z
+updated: 2024-11-07T17:55:19.713Z
 tags:
   - desktop
 categories:
@@ -9,24 +9,12 @@ categories:
 thumbnail: https://cdn.mos.cms.futurecdn.net/AdGF8mqfmrfKzZXh2t7FTB-320-80.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Secure Your Discounted Quad-Core Snapdragon X Elite PC: Exclusive Preorder of the Compact Gaming Desktop Device
 
 In an interesting turn of events, the first device boasting the highest-end version of Qualcomm's Snapdragon X Elite chipset isn't even a laptop. It's a Mini PC in the form of an official Dev Kit, which undercuts ([or at least matches](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-8900246-12578053%3Fsid%3Dtomshardware-us-1069194734322795598%26url%3Dhttps%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-computer-laptops%2Fnew-inspiron-14-plus-laptop%2Fspd%2Finspiron-14-7441-laptop%2Fuseichbts7441hcjp%3Fref%3Dvariantstack) ) the price of even the lower-end Snapdragon X Plus laptops, and it's set for a full launch on August 23rd, though it's also already available for pre-order on[Arrow.com](https://www.arrow.com/en/products/c8380-12c-mp-32g/thundercomm) for just $899 USD.
 
  We just reviewed a Snapdragon X Elite laptop— the[Dell XPS 13 9345](https://www.tomshardware.com/laptops/ultrabooks-ultraportables/dell-xps-13-9345-review) — and that unit retails for $1299, which is about $400 pricier for the laptop form factor.
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Qualcomm Snapdragon Dev Kit for Windows Specifications
 
 * **SoC** : Qualcomm Snapdragon X Elite X-1E-00-1DE, specs divided between CPU, GPU, and NPU below
@@ -49,11 +37,12 @@ In an interesting turn of events, the first device boasting the highest-end vers
  But it's not all doom and gloom in the world of Qualcomm Snapdragon X Elite laptops — or Mini PCs in this case — as long as you have the requisite monitor and peripherals to get it up and running. You generally have a pretty usable version of[Windows 11](https://www.tomshardware.com/tag/windows-11) here, and a number of productivity and creative applications that will work perfectly fine. If your needs are more professional or are particularly focused on development efforts— perhaps even efforts to improve the state of games listed on[Works on Windows on Arm](https://www.worksonwoa.com/games/) — this may just be the Mini PC for you.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -68,8 +57,6 @@ In an interesting turn of events, the first device boasting the highest-end vers
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -77,4 +64,23 @@ In an interesting turn of events, the first device boasting the highest-end vers
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-crafting-the-perfect-anime-story-best-ideas-for-viral-videos/"><u>[New] 2024 Approved Crafting the Perfect Anime Story Best Ideas for Viral Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-iphone-guide-engage-with-audio-content-seamlessly/"><u>[Updated] IPhone Guide Engage with Audio Content Seamlessly</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-an-intro-to-macs-5-leading-snipping-software-choices/"><u>2024 Approved An Intro to Mac's 5 Leading Snipping Software Choices</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comprehensive-evaluation-samsung-gear-360-vr-camera/"><u>Comprehensive Evaluation Samsung Gear 360 VR Camera</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/demystifying-ai-asset-ownership-claims/"><u>Demystifying AI Asset Ownership Claims</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/digital-identity-crisis-averted-understanding-new-threats-on-twitter-metas-badge-of-honor-and-the-power-of-chatgpt-narrative-explained/"><u>Digital Identity Crisis Averted? Understanding New Threats on Twitter, Meta's Badge of Honor, and the Power of ChatGPT-Narrative Explained</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-5-innovative-artifice-intelligence-storytellers-to-spice-up-your-writing/"><u>Discover 5 Innovative Artifice Intelligence Storytellers to Spice Up Your Writing</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/dynamic-playback-pace-enhancers-list-for-2024/"><u>Dynamic Playback Pace Enhancers List for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-living-through-technology-explore-9-ways-chatgpt-streamlines-tasks/"><u>Effortless Living Through Technology: Explore 9 Ways ChatGPT Streamlines Tasks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-boundaries-the-role-of-the-turing-test-in-ai-progress-and-its-potential-defeat/"><u>Exploring the Boundaries: The Role of the Turing Test in AI Progress and Its Potential Defeat</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-nokia-g42-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/how-to-make-money-from-instagram/"><u>How to Make Money From Instagram</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/setting-up-voice-assistant-chatgpt-for-android-a-step-by-step-guide/"><u>Setting Up Voice Assistant ChatGPT for Android: A Step-by-Step Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/storing-session-videos-in-gh-for-2024/"><u>Storing Session Videos in GH for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-importance-of-regulatory-measures-in-ai-perspectives-from-the-head-of-openai/"><u>The Importance of Regulatory Measures in AI: Perspectives From the Head of OpenAI</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unrecognizable-blue-yeti-mic-here-are-effective-remedies-to-resolve-the-issue/"><u>Unrecognizable Blue Yeti Mic? Here Are Effective Remedies to Resolve the Issue</u></a></li>
+</ul></div>
 

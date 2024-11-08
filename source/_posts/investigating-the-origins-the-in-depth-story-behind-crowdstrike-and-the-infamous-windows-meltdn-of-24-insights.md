@@ -1,7 +1,7 @@
 ---
 title: "Investigating the Origins: The In-Depth Story Behind CrowdStrike and the Infamous Windows Meltdn of '24 | Insights"
-date: 2024-10-27T03:06:03.945Z
-updated: 2024-11-02T03:23:26.131Z
+date: 2024-11-01T06:38:17.892Z
+updated: 2024-11-08T00:11:07.889Z
 tags:
   - apple
 categories:
@@ -51,16 +51,10 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -100,10 +94,10 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -133,10 +127,10 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -187,19 +181,17 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-the-path-to-profitable-fb-animation-ad-success-stories/"><u>[New] 2024 Approved The Path to Profitable FB Animation Ad Success Stories</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-hacking-youtube-success-peak-audience-engagement-timing-for-2024/"><u>[Updated] Hacking YouTube Success Peak Audience Engagement Timing for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-vivo-y27-5g-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Vivo Y27 5G to Roku | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chromes-best-8-extensions-infused-with-ai-productivity-features/"><u>Chrome's Best 8 Extensions Infused With AI Productivity Features</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/harness-the-power-of-chatgpt-for-enhanced-personal-job-support-and-task-automation/"><u>Harness the Power of ChatGPT for Enhanced Personal Job Support and Task Automation</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-apple-iphone-xs-max-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>How to Change Your Apple iPhone XS Max Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/how-to-create-funny-talking-avatars-using-oddcast-text-to-speech/"><u>How to Create Funny Talking Avatars Using Oddcast Text to Speech</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-engaging-video-summaries-for-books/"><u>In 2024, Engaging Video Summaries for Books</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-professional-pilots-guide-to-best-5-drones/"><u>In 2024, Professional Pilot’s Guide to Best 5 Drones</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-the-art-of-uploading-srt-text-in-digital-communities-for-2024/"><u>Mastering the Art of Uploading SRT Text in Digital Communities for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/synthesizing-conversational-ais-insights-on-gpt-and-bing/"><u>Synthesizing Conversational AIs: Insights on GPT & Bing</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-sony-xperia-1-v-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Sony Xperia 1 V Device</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transforming-search-with-microsoft-bings-advanced-ai-integration/"><u>Transforming Search with Microsoft Bing's Advanced AI Integration</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-novel-creation-the-power-of-chatgpt-as-a-co-author/"><u>Unlocking Novel Creation: The Power of ChatGPT as a Co-Author</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-the-ultimate-guide-to-creating-a-powerful-tiktok-advertising-strategy/"><u>[New] 2024 Approved The Ultimate Guide to Creating a Powerful TikTok Advertising Strategy</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-humorhexagonhub-photofunniesfactory-for-2024/"><u>[New] HumorHexagonHub PhotoFunniesFactory for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-top-rated-desktops-for-peak-performance-for-2024/"><u>[New] Top-Rated Desktops for Peak Performance for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-the-4-essential-steps-to-create-engaging-instagram-loops/"><u>[Updated] 2024 Approved The 4 Essential Steps to Create Engaging Instagram Loops</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-achieving-gradual-sound-boosts-with-lumafusion/"><u>[Updated] Achieving Gradual Sound Boosts with Lumafusion</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/99-pre-order-snap-up-the-newest-apple-watch-series-10-exclusive-at-best-buy-step-by-step-guide/"><u>$99 Pre-Order: Snap Up the Newest Apple Watch Series 10 Exclusive at Best Buy – Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comprehensive-camera-face-off-google-pixel-9xl-vs-apple-iphone-15-pro-unveils-unexpected-results/"><u>Comprehensive Camera Face-Off: Google Pixel 9XL vs Apple iPhone 15 Pro Unveils Unexpected Results!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/devise-giggle-generating-pictorials-for-giphy/"><u>Devise Giggle-Generating Pictorials for Giphy</u></a></li>
+<li><a href="https://article-tips.techidaily.com/revolutionary-capturing-best-5-cameras-for-slow-mo-for-2024/"><u>Revolutionary Capturing Best 5 Cameras for Slow Mo for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-smart-display-picks-insiders-guide-by-techradar/"><u>Top 5 Smart Display Picks : Insider's Guide by TechRadar</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/uncovering-the-hidden-expenses-true-cost-of-complimentary-phones-from-telecom-providers/"><u>Uncovering the Hidden Expenses: True Cost of Complimentary Phones From Telecom Providers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-and-how-to-keep-your-airpods-germ-free-expert-tips-on-sanitization-techniques-for-optimal-audio-health-zdnet/"><u>Why & How to Keep Your AirPods Germ-Free: Expert Tips on Sanitization Techniques for Optimal Audio Health | ZDNET</u></a></li>
 </ul></div>
 

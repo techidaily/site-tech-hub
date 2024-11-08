@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Ultimate List: ZDNet's Picks for the Best Tech Gifts of 2023!"
-date: 2024-11-01T02:25:27.860Z
-updated: 2024-11-02T11:35:53.220Z
+date: 2024-11-02T23:55:15.398Z
+updated: 2024-11-07T21:57:04.045Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ But which features will actually have the most impact on iPhone enthusiasts? Wha
 When Apple first released the [iPhone 15](https://www.zdnet.com/article/iphone-15-plus-review/) series, it only gave the 5x tetraprism zoom lens to the Max Pro. This time around, both the 16 Pro and the 16 Pro Max are getting the high-end zoom capability. This choice means the camera is essentially the same on the 16 Pro and 16 Pro Max, leaving other features to differentiate the two models. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. The camera control
@@ -52,10 +52,10 @@ The camera control button is available on all iPhone 16 models, but it's when pa
 [Not everyone is a fan](https://www.zdnet.com/article/i-want-to-be-excited-about-the-iphone-16s-new-camera-button-but-cant-for-now/) of the new camera button, however, as this shift from software to hardware will likely come with usability growing pains and mistakenly-accessed features.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Siri's much-needed makeover
@@ -73,10 +73,10 @@ Well, the time has finally come. Apple unveiled a ton of new functionality for S
 Beyond Siri, we have [Visual Intelligence](https://www.zdnet.com/article/apple-adds-visual-intelligence-its-answer-to-google-lens-to-the-iphone-16-camera/), which allows multi-modal AI via the camera, similar to what we've seen across other AI models this year. Apple Intelligence will start with a live beta in October in the US, with additional countries in December, and additional languages next year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Upgraded chipset for the AI age
@@ -92,10 +92,10 @@ The 3mm technology has smaller, more efficient transistors, and constitutes a bi
 Even with AI's demanding memory requirements, having this much memory on the iPhone is a bonus for overall performance, particularly multitasking and starting up apps. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. The biggest iPhones yet
@@ -132,24 +132,18 @@ The iPhone 16 Pro and Pro Max are the largest iPhones ever, with 6.3 and 6.9-inc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-asmr-studio-essentials-great-quality-easy-on-wallet/"><u>[New] ASMR Studio Essentials Great Quality, Easy On Wallet</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/himsical-wonders-in-musical-worlds/"><u>[New] Whimsical Wonders in Musical Worlds</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-premier-choices-8-linux-editing-tools/"><u>2024 Approved Premier Choices 8 Linux Editing Tools</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-slapstick-selection-twitters-funny-threads/"><u>2024 Approved Slapstick Selection Twitter's Funny Threads</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/an-insight-into-predictive-ai-functionality-explained/"><u>An Insight Into Predictive AI - Functionality Explained</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/assessing-the-accuracy-of-chatgpt-and-bard-for-budgets/"><u>Assessing the Accuracy of ChatGPT and Bard for Budgets</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/capture-king-review-the-screen-recorder-showdown/"><u>Capture King Review The Screen Recorder Showdown</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chilling-out-cool-down-the-dough-just-right/"><u>Chilling Out: Cool Down the Dough Just Right</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/comparing-gemini-how-does-googles-latest-ai-stack-up-against-chatgpt/"><u>Comparing Gemini: How Does Google's Latest AI Stack Up Against ChatGPT?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Vivo V30 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/dive-into-hugging-face-understanding-its-purpose-and-why-it-matters/"><u>Dive Into Hugging Face: Understanding Its Purpose & Why It Matters</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-wacom-intuos-prise-a-comprehensive-guide-for-seamless-compatibility-with-windows-work-environments/"><u>Download Wacom Intuos Prise: A Comprehensive Guide for Seamless Compatibility with Windows Work Environments</u></a></li>
-<li><a href="https://fox-http.techidaily.com/mastering-flight-control-best-motor-selections-unveiled/"><u>Mastering Flight Control Best Motor Selections Unveiled</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/seamless-ways-to-preserve-and-exchange-chatgpt-conversations-4-key-extensions/"><u>Seamless Ways to Preserve & Exchange ChatGPT Conversations – 4 Key Extensions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/strategies-for-dealing-with-chatgpt-is-at-maximum-load-in-the-windows-environment/"><u>Strategies for Dealing with 'ChatGPT Is at Maximum Load' In the Windows Environment</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/streamlined-chatgpt-chrome-extension-your-new-partner/"><u>Streamlined ChatGPT: Chrome Extension, Your New Partner</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/the-artisans-guide-to-backdrop-free-image-perfection-with-photopea/"><u>The Artisan's Guide to Backdrop-Free Image Perfection with Photopea</u></a></li>
-<li><a href="https://techtrends.techidaily.com/understanding-and-fixing-missing-zlibdll-errors-on-your-pc-expert-tips/"><u>Understanding and Fixing Missing zlib.dll Errors on Your PC - Expert Tips</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlock-access-how-to-use-email-or-social-media-for-sign-up-on-chatgpt-telegram-whatsapp-instead-of-a-phone-number/"><u>Unlock Access: How to Use Email or Social Media for Sign-Up on ChatGPT, Telegram, WhatsApp Instead of a Phone Number</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-an-exclusive-review-of-lgs-innovative-4k-screen-tech/"><u>[New] An Exclusive Review of LG's Innovative 4K Screen Tech</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-the-ultimate-guide-for-professional-use-of-screen-recorder-by-zd-soft/"><u>[Updated] In 2024, The Ultimate Guide for Professional Use of Screen Recorder by ZD Soft</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/apples-vision-for-domestic-automation-introducing-the-next-generation-home-based-robot-assistant-tech-analysis-by-zdnet/"><u>Apple's Vision for Domestic Automation: Introducing the Next Generation Home-Based Robot Assistant | Tech Analysis by ZDNET</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/experience-the-marvel-universe-firsthand-with-apple-vision-pro-discover-more-on-may-30-zdnet/"><u>Experience the Marvel Universe Firsthand with Apple Vision Pro: Discover More on May 30 | ZDNET</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-top-5-innovations-in-ios-18-showcased-at-wwdc-2024-with-a-spotlight-on-emerging-ai-capabilities-insights/"><u>Exploring Top 5 Innovations in iOS 18 Showcased at WWDC 2024, with a Spotlight on Emerging AI Capabilities – Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/guide-sending-and-receiving-imessages-from-your-pc-with-windows-insights/"><u>Guide: Sending & Receiving iMessages From Your PC with Windows - Insights</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-diy-guide-to-turning-youtube-screen-time-into-a-free-screencast/"><u>In 2024, DIY Guide to Turning YouTube Screen Time Into a FREE Screencast</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Lava Blaze 2? | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-make-movies-like-a-pro-best-windows-10-video-editors/"><u>New In 2024, Make Movies Like a Pro Best Windows 10 Video Editors</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/romancing-the-magyar-tongue-expression-of-love/"><u>Romancing the Magyar Tongue: Expression of Love</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-simplified-journey-for-metaverse-personas-for-2024/"><u>The Ultimate Simplified Journey for Metaverse Personas for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-ranking-magsafe-wallet-reviews-insider-pick-and-analysis-by-tech-experts-gizmodo/"><u>Top-Ranking MagSafe Wallet Reviews : Insider Pick & Analysis by Tech Experts | Gizmodo</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/uncover-prime-savings-exclusive-amazon-deals-for-september-2n-2024-as-featured-by-zdnet/"><u>Uncover Prime Savings: Exclusive Amazon Deals for September 2N, 2024 as Featured by ZDNet</u></a></li>
 </ul></div>
 
