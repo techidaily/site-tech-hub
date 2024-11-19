@@ -1,7 +1,7 @@
 ---
 title: Steps to Erase Your Entire ChatGPT Conversation Record
-date: 2024-09-06T21:43:16.416Z
-updated: 2024-09-07T21:43:16.416Z
+date: 2024-11-13T18:11:29.896Z
+updated: 2024-11-18T17:09:33.162Z
 tags:
   - chatgpt
   - open-ai
@@ -21,28 +21,10 @@ thumbnail: https://thmb.techidaily.com/d615ac68260522d8e70b422dd5540cece714bbc62
 
  On March 19, 2024,[OpenAI disabled ChatGPT Plugin](https://help.openai.com/en/articles/8988022-winding-down-the-chatgpt-plugins-beta) conversations and completely removed them on April 9, 2024\. ChatGPT Plugins were removed because much of their functionality can be found in[custom GPTs and the GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. I Am Rich
 
 ![The I Am Rich plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-i-am-rich-plugin-on-the-chatgpt-plugin-store.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The "I Am Rich" plugin is one of the most confusing plugins on the ChatGPT platform. If you're ever curious about what it does and go poking around—you're probably already wasting your time because the plugin does absolutely nothing. And this is not an exaggeration.
 
  To trigger the plugin, you're supposed to activate it, and then include the text "I am rich" in your prompt. What happens when you do this? Well, ChatGPT is supposed to load an image of a crystal with a glow around it. What purpose does the image serve? Unless you value it as "artwork," there's really nothing else it does.
@@ -56,27 +38,23 @@ thumbnail: https://thmb.techidaily.com/d615ac68260522d8e70b422dd5540cece714bbc62
 ![Aaron Web Browser on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/aaron-web-browser-on-the-chatgpt-plugin-store.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  “Built for scraping data from multiple website URLs.” This is the first sentence in the description for the plugin. One would think that the description accurately captures the plugin's capabilities, but upon closer inspection, it’s not entirely true. We tried to scrape data from 20 different URLs and only one went through.
 
  For a plugin that advertises itself as a web crawler, the failure rates were extremely high. In fairness, we tried other web scrapper plugins available on the ChatGPT plugin store, and they weren't particularly better at their job either. Need to[scrap data from a web page](https://www.makeuseof.com/tag/what-is-web-scraping/) ? Maybe ChatGPT plugins are not the right tool.
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. AppyPie App Builder
 
 ![Appypie App builder on ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/appypie-app-builder-on-chatgpt-plugin-store.jpg)
@@ -90,6 +68,13 @@ thumbnail: https://thmb.techidaily.com/d615ac68260522d8e70b422dd5540cece714bbc62
  The link leads to the AppyPie website, but there's actually no app waiting to be customized. You'll end up being prompted to register and subscribe to its no-code app-building platform. It's an annoying attempt at advertisement.
 
  Sure, it seems a bit unreasonable to expect a working text-to-app plugin that can spit out apps on demand. But in an era where chatbots can write code and where text-to-image and text-to-video are a thing, text-to-app is not that ridiculous of an expectation.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. AI Agents
 
@@ -105,12 +90,6 @@ thumbnail: https://thmb.techidaily.com/d615ac68260522d8e70b422dd5540cece714bbc62
 
 ![FilmFindr plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/filmfindr-plugin-on-the-chatgpt-plugin-store.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The "A Movie Please" plugin is a movie recommendation tool to help ChatGPT users decide what to watch next. Although the plugin is not a dud (it actually makes movie recommendations), you're better off using ChatGPT without the plugin.
 
  Once you've provided a description of the kind of movie you want, the plugin only ever recommends movies that are available on Amazon's Prime streaming service. If you have a niche taste in movies, you'll find the recommendations to be mediocre at best.
@@ -122,35 +101,33 @@ thumbnail: https://thmb.techidaily.com/d615ac68260522d8e70b422dd5540cece714bbc62
 ![ABC Website maker plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/abc-website-maker-plugin-on-the-chatgpt-plugin-store.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  The ABC website maker promises “conversational coding” where you can build web apps at a moment's notice by simply conversing with the plugin in natural language. In theory, these abilities should be relatively easy to pull off, considering ChatGPT on its own is already an impressive conversational coding tool.
 
  However, when we tasked the plugin with creating a simple portfolio website, the result was underwhelming.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## ChatGPT's Plugin Store: Quantity Over Quality?
 
  Rather than hastening progress, the "quantity over quality" trajectory that the ChatGPT plugin store seems to be towing is promoting lacklustre plugins that clutter the store. These plugins divert attention from other more promising tools that could truly push ChatGPT to new heights. Nonetheless, we hope that as the plugin store matures, higher-quality offerings will surface.
 
  Once developers dig deeper into ChatGPT's capabilities and innovate at its edges, we may finally see plugins that unlock the AI's full power. But for now, relying on the base ChatGPT model or proven third-party tools is a better bet for most tasks. Our verdict? The ChatGPT plugin gold rush has yet to strike gold.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -159,4 +136,20 @@ thumbnail: https://thmb.techidaily.com/d615ac68260522d8e70b422dd5540cece714bbc62
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-navigating-the-landscape-of-ps3-capture-software/"><u>[New] Navigating the Landscape of PS3 Capture Software</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-crafting-engaging-content-with-google-trends-analytics-for-2024/"><u>[Updated] Crafting Engaging Content with Google Trends Analytics for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-top-3-best-nintendo-switch-emulators-you-can-find/"><u>[Updated] Top 3 Best Nintendo Switch Emulators You Can Find</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-motorola-razr-40-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-safely-remove-your-presence-from-chatgpt/"><u>How To Safely Remove Your Presence From ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-shield-your-online-information-from-advanced-web-scrapers-like-openai/"><u>How to Shield Your Online Information From Advanced Web Scrapers Like OpenAI</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-fcpx-xml-essentials-what-you-need-to-know/"><u>In 2024, FCPX XML Essentials What You Need to Know</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovative-excel-solutions-achieved-via-chatgpt-use-cases/"><u>Innovative Excel Solutions Achieved via ChatGPT Use Cases</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-using-chatgpt-a-viable-option-for-creating-customized-risk-free-exercise-programs-for-your-needs/"><u>Is Using ChatGPT A Viable Option For Creating Customized, Risk-Free Exercise Programs For Your Needs?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-your-conversation-safe-with-chatgpt-unveiling-the-privacy-concerns/"><u>Is Your Conversation Safe with ChatGPT: Unveiling the Privacy Concerns</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/italys-sudden-ban-on-chatgpt-unpacking-the-reasons-behind-the-decision/"><u>Italy's Sudden Ban on ChatGPT: Unpacking the Reasons Behind the Decision</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/lcv-video-monitoring-analysis-for-2024/"><u>LCV Video Monitoring Analysis for 2024</u></a></li>
+<li><a href="https://win-docs.techidaily.com/transform-your-unsubscribe-strategy-expert-tips-for-crafting-the-ideal-user-departure-journey-using-massmail-tech/"><u>Transform Your Unsubscribe Strategy: Expert Tips for Crafting the Ideal User Departure Journey Using MassMail Tech</u></a></li>
+</ul></div>
 

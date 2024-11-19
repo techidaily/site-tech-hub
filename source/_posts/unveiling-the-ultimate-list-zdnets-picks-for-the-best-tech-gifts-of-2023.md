@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Ultimate List: ZDNet's Picks for the Best Tech Gifts of 2023!"
-date: 2024-11-02T23:55:15.398Z
-updated: 2024-11-07T21:57:04.045Z
+date: 2024-11-13T19:52:36.863Z
+updated: 2024-11-18T19:10:04.823Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ But which features will actually have the most impact on iPhone enthusiasts? Wha
 When Apple first released the [iPhone 15](https://www.zdnet.com/article/iphone-15-plus-review/) series, it only gave the 5x tetraprism zoom lens to the Max Pro. This time around, both the 16 Pro and the 16 Pro Max are getting the high-end zoom capability. This choice means the camera is essentially the same on the 16 Pro and 16 Pro Max, leaving other features to differentiate the two models. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. The camera control
@@ -52,10 +52,10 @@ The camera control button is available on all iPhone 16 models, but it's when pa
 [Not everyone is a fan](https://www.zdnet.com/article/i-want-to-be-excited-about-the-iphone-16s-new-camera-button-but-cant-for-now/) of the new camera button, however, as this shift from software to hardware will likely come with usability growing pains and mistakenly-accessed features.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Siri's much-needed makeover
@@ -73,10 +73,10 @@ Well, the time has finally come. Apple unveiled a ton of new functionality for S
 Beyond Siri, we have [Visual Intelligence](https://www.zdnet.com/article/apple-adds-visual-intelligence-its-answer-to-google-lens-to-the-iphone-16-camera/), which allows multi-modal AI via the camera, similar to what we've seen across other AI models this year. Apple Intelligence will start with a live beta in October in the US, with additional countries in December, and additional languages next year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Upgraded chipset for the AI age
@@ -92,10 +92,10 @@ The 3mm technology has smaller, more efficient transistors, and constitutes a bi
 Even with AI's demanding memory requirements, having this much memory on the iPhone is a bonus for overall performance, particularly multitasking and starting up apps. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. The biggest iPhones yet
@@ -132,18 +132,18 @@ The iPhone 16 Pro and Pro Max are the largest iPhones ever, with 6.3 and 6.9-inc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-an-exclusive-review-of-lgs-innovative-4k-screen-tech/"><u>[New] An Exclusive Review of LG's Innovative 4K Screen Tech</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-the-ultimate-guide-for-professional-use-of-screen-recorder-by-zd-soft/"><u>[Updated] In 2024, The Ultimate Guide for Professional Use of Screen Recorder by ZD Soft</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/apples-vision-for-domestic-automation-introducing-the-next-generation-home-based-robot-assistant-tech-analysis-by-zdnet/"><u>Apple's Vision for Domestic Automation: Introducing the Next Generation Home-Based Robot Assistant | Tech Analysis by ZDNET</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/experience-the-marvel-universe-firsthand-with-apple-vision-pro-discover-more-on-may-30-zdnet/"><u>Experience the Marvel Universe Firsthand with Apple Vision Pro: Discover More on May 30 | ZDNET</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-top-5-innovations-in-ios-18-showcased-at-wwdc-2024-with-a-spotlight-on-emerging-ai-capabilities-insights/"><u>Exploring Top 5 Innovations in iOS 18 Showcased at WWDC 2024, with a Spotlight on Emerging AI Capabilities – Insights</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/guide-sending-and-receiving-imessages-from-your-pc-with-windows-insights/"><u>Guide: Sending & Receiving iMessages From Your PC with Windows - Insights</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-diy-guide-to-turning-youtube-screen-time-into-a-free-screencast/"><u>In 2024, DIY Guide to Turning YouTube Screen Time Into a FREE Screencast</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Lava Blaze 2? | Dr.fone</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-make-movies-like-a-pro-best-windows-10-video-editors/"><u>New In 2024, Make Movies Like a Pro Best Windows 10 Video Editors</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/romancing-the-magyar-tongue-expression-of-love/"><u>Romancing the Magyar Tongue: Expression of Love</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-ultimate-simplified-journey-for-metaverse-personas-for-2024/"><u>The Ultimate Simplified Journey for Metaverse Personas for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-ranking-magsafe-wallet-reviews-insider-pick-and-analysis-by-tech-experts-gizmodo/"><u>Top-Ranking MagSafe Wallet Reviews : Insider Pick & Analysis by Tech Experts | Gizmodo</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/uncover-prime-savings-exclusive-amazon-deals-for-september-2n-2024-as-featured-by-zdnet/"><u>Uncover Prime Savings: Exclusive Amazon Deals for September 2N, 2024 as Featured by ZDNet</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-adobe-memefixer-a-humorous-journey/"><u>[Updated] Adobe Memefixer A Humorous Journey</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-a-hands-on-manual-to-easily-navigate-trending-youtube-comments/"><u>2024 Approved A Hands-On Manual to Easily Navigate Trending YouTube Comments</u></a></li>
+<li><a href="https://win-able.techidaily.com/debugging-woes-heres-how-to-keep-halo-infinite-running-without-interruptions-on-pc/"><u>Debugging Woes? Here's How to Keep Halo Infinite Running Without Interruptions on PC</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/finding-the-language-that-suits-you-best/"><u>Finding The Language That Suits You Best</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Samsung Galaxy M34 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-guide-securing-your-intelligent-thunderbolt-drivers-with-ease/"><u>Quick Guide: Securing Your Intelligent Thunderbolt Drivers with Ease</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-on-device-artific/"><u>Understanding On-Device Artific</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-the-potential-top-5-benefits-of-using-chatgpt-in-your-cryptocurrency-investments/"><u>Unlocking the Potential: Top 5 Benefits of Using ChatGPT in Your Cryptocurrency Investments</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-influence-of-smart-chatbots-on-modern-content-creation-techniques/"><u>Unveiling the Influence of Smart Chatbots on Modern Content Creation Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/virtual-reality-meets-artificial-intelligence-shaping-tomorrows-gaming/"><u>Virtual Reality Meets Artificial Intelligence: Shaping Tomorrow's Gaming</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/virtual-world-betrayals-activisions-tale/"><u>Virtual World Betrayals: Activision's Tale</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/what-drives-openai-ceo-to-advocate-greater-control-over-ai-development/"><u>What Drives OpenAI CEO to Advocate Greater Control Over AI Development?</u></a></li>
 </ul></div>
 

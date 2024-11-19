@@ -1,7 +1,7 @@
 ---
 title: "Communicate on the Go: Sending Messages From Your Apple Watch with Friends and Family"
-date: 2024-11-05T17:10:59.182Z
-updated: 2024-11-08T05:30:50.299Z
+date: 2024-11-16T16:45:42.470Z
+updated: 2024-11-18T23:11:48.895Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Update your devices
@@ -48,10 +48,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I was on the fence with the Apple Watch 10, but these 3 features changed my mind](https://www.zdnet.com/article/i-was-on-the-fence-with-the-apple-watch-10-but-these-3-features-changed-my-mind/)**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Send the default Check In through the Messages app
@@ -82,13 +82,6 @@ When the timer is up to indicate that you should have reached your destination, 
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Change the time for a Check In
 
 If you don't want to share the default details with a Check In, you can easily change them. After starting or resuming a conversation in Messages with your trusted contact, tap the + icon and select Check In. At the Check In screen, tap Edit. The next screen displays several settings that you can modify.
@@ -98,6 +91,19 @@ If you don't want to share the default details with a Check In, you can easily c
 If you still wish to use a timer for the Check In option but change the amount of time allocated, tap Timer. Tap the button for hours and use the Digital Crown to cycle through different numbers. Do the same for the number of minutes. When finished, tap Done. Tap the yellow checkmark and then send the text. When you end the Check In at the appropriate time, your recipient will be alerted as an indication that you've arrived.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Send a customized Check In through the Messages app
 
@@ -114,10 +120,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Set a Check In for a workout in the Messages app
@@ -162,18 +168,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-a-beginners-guide-to-youtube-shorts-nuances/"><u>[Updated] 2024 Approved A Beginner's Guide to YouTube Shorts Nuances</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-preserving-past-a-guide-to-digitally-archiving-faded-prints/"><u>2024 Approved Preserving Past A Guide to Digitally Archiving Faded Prints</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-top-pc-speeds-choosing-the-right-extension-software/"><u>2024 Approved Top PC Speeds Choosing the Right Extension Software</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/experts-choice-ultimate-guide-to-the-best-airtag-wallets-of-2024-on-zdnet-compare-and-buy-smart/"><u>Experts' Choice: Ultimate Guide to the Best AirTag Wallets of 2024 on ZDNET | Compare and Buy Smart!</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-locked-oppo-phone-by-drfone-android/"><u>How to Reset a Locked Oppo Phone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/inside-apples-next-move-diving-into-artificial-intelligence-with-future-home-robotics/"><u>Inside Apple's Next Move: Diving Into Artificial Intelligence with Future Home Robotics</u></a></li>
-<li><a href="https://blog-min.techidaily.com/mxfwmvwindows-media/"><u>MXF到WMV自由转换：全新移动磁影到Windows Media视频格式的在线无限制解决方案</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-removing-and-replacing-your-smartphones-screen-shield/"><u>Step-by-Step Guide: Removing and Replacing Your Smartphone's Screen Shield</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-best-4-app-tools-to-simplify-your-next-indoor-or-outdoor-painting-task/"><u>The Best 4 App Tools to Simplify Your Next Indoor or Outdoor Painting Task</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-future-is-personal-how-ai-could-be-at-your-fingertips-by-2024-discoveries-in-tech/"><u>The Future Is Personal: How AI Could Be at Your Fingertips by 2024 | Discoveries in Tech</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlock-iphone-xs-max-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>Unlock iPhone XS Max With Forgotten Passcode Different Methods You Can Try</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-exclusive-savings-preorder-tips-for-the-latest-tech-marvels-iphone-15-and-apple-watch-s9-ultra-perfected-by-zdnet-experts/"><u>Unlocking Exclusive Savings: Preorder Tips for the Latest Tech Marvels, iPhone 15 and Apple Watch S9 Ultra, Perfected by ZDNET Experts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-new-ai-capabilities-in-ios-18-for-iphone-enthusiasts-discover-today-and-tomorrow/"><u>Unveiling the New AI Capabilities in iOS 18 for iPhone Enthusiasts - Discover Today and Tomorrow</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-behind-the-scenes-crafting-a-screenplay/"><u>[New] Behind the Scenes Crafting a Screenplay</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ow-to-keep-your-audience-engaged-top-6-strategies-for-higher-youtube-stickiness-for-2024/"><u>[New] How To Keep Your Audience Engaged Top 6 Strategies for Higher YouTube Stickiness for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-why-you-shouldnt-trust-your-eyes-when-it-comes-to-youtube-views/"><u>[New] Why You Shouldn't Trust Your Eyes When It Comes to YouTube Views</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-newbies-netflix-nook-deciphering-resolution-ratings-for-2024/"><u>[Updated] Newbie's Netflix Nook Deciphering Resolution Ratings for 2024</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/amit-ki-kell-probalnod-tobb-ki-kulson-tolvajai-szives-hatosag/"><u>Amit Ki Kell Próbálnod? Több Ki Külsön Tolvajai - Szíves Hatóság!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ceo-swap-at-ai-hub-the-future-of-chatgpt-inquiry/"><u>CEO Swap at AI Hub, The Future of ChatGPT Inquiry</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-and-malware-an-ethical-perspective/"><u>ChatGPT & Malware: An Ethical Perspective</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-api-essentials-beginners-roadmap-to-implementation/"><u>ChatGPT API Essentials: Beginner's Roadmap to Implementation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpts-capability-in-mixing-drinks/"><u>ChatGPT's Capability in Mixing Drinks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/computational-algebra-gpts-role/"><u>Computational Algebra: GPT's Role</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-11-to-an-older-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 11 to an Older Version? | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-next-gen-capture-the-leading-apps-decoded/"><u>In 2024, Next-Gen Capture The Leading Apps Decoded</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-kodis-unable-to-connect-error-and-restoring-directory-access/"><u>Troubleshooting Kodi's Unable to Connect Error & Restoring Directory Access</u></a></li>
 </ul></div>
 

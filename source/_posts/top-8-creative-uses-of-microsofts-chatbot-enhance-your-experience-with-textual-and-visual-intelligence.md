@@ -1,7 +1,7 @@
 ---
 title: "Top 8 Creative Uses of Microsoft's Chatbot: Enhance Your Experience with Textual and Visual Intelligence"
-date: 2024-09-06T21:43:12.346Z
-updated: 2024-09-07T21:43:12.346Z
+date: 2024-11-18T01:10:57.979Z
+updated: 2024-11-18T22:14:24.101Z
 tags:
   - chatgpt
   - open-ai
@@ -23,15 +23,22 @@ thumbnail: https://thmb.techidaily.com/d70a53087560a098bb105b6da250ee7a060b663d9
 
  If you want to try DALL-E 3 but don't want to pay for a ChatGPT Plus subscription, there's an easy way around it. Microsoft Bing has a powerful DALL-E 3 integration, and right now, you can use it for free.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Access DALL-E 3 With Microsoft Bing
 
 ![A half human half robot character generated with DALL-E 3 on Bing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/a-half-human-half-robot-character-generated-with-dall-e-3-on-bing.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Bing is a search engine featuring an AI chat function and an AI Image Creator. Thanks to a partnership with OpenAI, Microsoft was the first company to integrate DALL-E 3 into its products. This means you can use DALL-E 3 for free using either of the features mentioned.
 
@@ -43,21 +50,22 @@ thumbnail: https://thmb.techidaily.com/d70a53087560a098bb105b6da250ee7a060b663d9
  There are plenty more[alternatives to DALL-E 3](https://www.makeuseof.com/ai-text-to-art-generators/) worth checking out, too. Compare them to see which image creator works best for you.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## What Makes DALL-E 3 Special?
 
 ![Four AI-generated images of cats wearing a hat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/four-ai-generated-images-of-cats-wearing-a-hat.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  DALL-E 3 promises to be a step up from its previous versions with improved accuracy, better photorealism capabilities, and more creative images. We've noticed a step up in quality as well, even when our prompts contain very few details.
 
  But the most notable change about DALL-E 3 is that it has been integrated into ChatGPT, OpenAI's powerful AI chatbot. It opens up a whole new way of interacting with the image generator and gives you a fresh way of creating prompts.
@@ -76,38 +84,28 @@ thumbnail: https://thmb.techidaily.com/d70a53087560a098bb105b6da250ee7a060b663d9
 
 ![DALL-E 2 prompt for animals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-2-prompt-for-animals.jpg)
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Compare that with DALL-E 3 in Bing. The image it generated is quite good, considering our prompt barely contained any specific details.
 
 ![DALL-E 3 in Bing Chat image of a city covered in plants](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-3-in-bing-chat-image-of-a-city-covered-in-plants.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  We followed this up by asking if it could add animals to the image it just created. Unlike DALL-E 2, it had no trouble understanding our request.
 
 ![DALL-E 3 iamge of New York City overgrown with plants and animals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-3-iamge-of-new-york-city-overgrown-with-plants-and-animals.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You can even ask Bing to redo one of the images. We told it that we liked the second image and would like to see if it could make the animals more detailed.
 
 ![DALL-E 3 image of a city overun with animals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-3-image-of-a-city-overun-with-animals.jpg)
@@ -117,11 +115,12 @@ thumbnail: https://thmb.techidaily.com/d70a53087560a098bb105b6da250ee7a060b663d9
 ![DALL-E 3 image of a city with animals on top of buildings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-3-image-of-a-city-with-animals-on-top-of-buildings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Limitations of DALL-E 3 and Bing
 
  With no subscription fees or waitlist, you're probably wondering what the catch is.
@@ -138,14 +137,11 @@ thumbnail: https://thmb.techidaily.com/d70a53087560a098bb105b6da250ee7a060b663d9
 
  Head to Bing Chat to try DALL-E 3 for free. Each week, you get free boost credits that make it quick to generate an image. On top of that, you don't need to worry about engineering a prompt any longer, as DALL-E 3 can transform even the most vague request into an interesting AI-generated image.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -154,4 +150,24 @@ thumbnail: https://thmb.techidaily.com/d70a53087560a098bb105b6da250ee7a060b663d9
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-effortless-technique-mirror-video-playback-in-vlc-player/"><u>[New] In 2024, Effortless Technique Mirror Video Playback in VLC Player</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-startup-strategies-for-making-money-on-periscope/"><u>[New] Startup Strategies for Making Money on Periscope</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-free-mp3s-galore-10-no-cost-online-tools/"><u>[Updated] Free Mp3s Galore 10 No-Cost Online Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-detailed-comparison-of-gemini-advanced-vs-microsofts-chatgptplus-unraveling-the-better-option/"><u>A Detailed Comparison of Gemini Advanced Vs. Microsoft's ChatGPT+ – Unraveling the Better Option</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-boundaries-questions-that-challenge-chatgpt/"><u>AI Boundaries: Questions That Challenge ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bypass-ais-windows-11-keys-at-your-own-risk/"><u>Bypass AI's Windows 11 Keys at Your Own Risk</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-ai-like-chatgpt-be-lifesaving-in-wild-outdoor-adventures/"><u>Can AI Like ChatGPT Be Lifesaving in Wild Outdoor Adventures?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722207346175-choosing-your-champion-google-bard-vs-bing-chat-showdown/"><u>Choosing Your Champion: Google Bard Vs. Bing Chat Showdown!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Oppo A2? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-smooth-gameplay-in-minecraft-advanced-tutorial-to-stop-pc-hitches-and-lags-in-2-cups-of-coffee/"><u>Mastering Smooth Gameplay in Minecraft: Advanced Tutorial to Stop PC Hitches and Lags in 2 Cups of Coffee?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pulse-of-production-syncing-sound-in-w11-environments/"><u>Pulse of Production Syncing Sound in W11 Environments</u></a></li>
+<li><a href="https://techidaily.com/resolve-compile-error-in-hidden-module-in-excel-2023-causes-and-solutions-stellar-by-stellar-guide/"><u>Resolve Compile Error in Hidden Module in Excel 2023 Causes & Solutions | Stellar</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-to-overcome-code-0x0000004e-glitch/"><u>Techniques to Overcome Code 0X0000004E Glitch</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleash-your-creative-potential-crafting-images-through-chatgpts-advanced-ai-tech/"><u>Unleash Your Creative Potential: Crafting Images Through ChatGPT's Advanced AI Tech</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-more-from-chatgpt-master-the-art-of-writing-impactful-questions-with-7-tips/"><u>Unlock More From ChatGPT: Master the Art of Writing Impactful Questions with 7 Tips</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/what-is-generative-ai-breaking-it-down/"><u>What Is Generative AI? Breaking It Down</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209636306-9781633411081-what-we-knew-in-the-night/"><u>What We Knew in the Night | Free Book</u></a></li>
+</ul></div>
 

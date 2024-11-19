@@ -1,7 +1,7 @@
 ---
 title: "Investigating the Origins: The In-Depth Story Behind CrowdStrike and the Infamous Windows Meltdn of '24 | Insights"
-date: 2024-11-01T06:38:17.892Z
-updated: 2024-11-08T00:11:07.889Z
+date: 2024-11-14T16:47:59.612Z
+updated: 2024-11-18T22:32:33.563Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -94,10 +94,10 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -127,10 +127,10 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -181,17 +181,17 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-the-ultimate-guide-to-creating-a-powerful-tiktok-advertising-strategy/"><u>[New] 2024 Approved The Ultimate Guide to Creating a Powerful TikTok Advertising Strategy</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-humorhexagonhub-photofunniesfactory-for-2024/"><u>[New] HumorHexagonHub PhotoFunniesFactory for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-top-rated-desktops-for-peak-performance-for-2024/"><u>[New] Top-Rated Desktops for Peak Performance for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-the-4-essential-steps-to-create-engaging-instagram-loops/"><u>[Updated] 2024 Approved The 4 Essential Steps to Create Engaging Instagram Loops</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-achieving-gradual-sound-boosts-with-lumafusion/"><u>[Updated] Achieving Gradual Sound Boosts with Lumafusion</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/99-pre-order-snap-up-the-newest-apple-watch-series-10-exclusive-at-best-buy-step-by-step-guide/"><u>$99 Pre-Order: Snap Up the Newest Apple Watch Series 10 Exclusive at Best Buy – Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/comprehensive-camera-face-off-google-pixel-9xl-vs-apple-iphone-15-pro-unveils-unexpected-results/"><u>Comprehensive Camera Face-Off: Google Pixel 9XL vs Apple iPhone 15 Pro Unveils Unexpected Results!</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/devise-giggle-generating-pictorials-for-giphy/"><u>Devise Giggle-Generating Pictorials for Giphy</u></a></li>
-<li><a href="https://article-tips.techidaily.com/revolutionary-capturing-best-5-cameras-for-slow-mo-for-2024/"><u>Revolutionary Capturing Best 5 Cameras for Slow Mo for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-5-smart-display-picks-insiders-guide-by-techradar/"><u>Top 5 Smart Display Picks : Insider's Guide by TechRadar</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/uncovering-the-hidden-expenses-true-cost-of-complimentary-phones-from-telecom-providers/"><u>Uncovering the Hidden Expenses: True Cost of Complimentary Phones From Telecom Providers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/why-and-how-to-keep-your-airpods-germ-free-expert-tips-on-sanitization-techniques-for-optimal-audio-health-zdnet/"><u>Why & How to Keep Your AirPods Germ-Free: Expert Tips on Sanitization Techniques for Optimal Audio Health | ZDNET</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-source-usage-scrutinized-a-look-at-accusations-of-content-theft/"><u>ChatGPT Source Usage Scrutinized: A Look at Accusations of Content Theft</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chrome-plugin-mimicking-chatgpt-compromises-facebook-usernames-and-passwords/"><u>Chrome Plugin Mimicking ChatGPT Compromises Facebook Usernames and Passwords</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/crack-the-ransomware-code-for-just-050-mobile-strategies-and-chatgpt-insights-shared-in-our-exclusive-podcast/"><u>Crack the Ransomware Code for Just $0.50 - Mobile Strategies & ChatGPT Insights Shared in Our Exclusive Podcast!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-truthgpt-coin-understanding-its-value-and-potential-risks-to-avoid-frauds/"><u>Decoding TruthGPT Coin: Understanding Its Value and Potential Risks to Avoid Frauds</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/delving-into-functionality-the-process-behind-7-leading-gpt-4-enhanced-applications/"><u>Delving Into Functionality: The Process Behind 7 Leading GPT-4 Enhanced Applications</u></a></li>
+<li><a href="https://games-able.techidaily.com/easier-way-to-discover-if-pcs-cpu-is-bottl-written-by/"><u>Easier Way to Discover If PC’s CPU Is Bottl Written By</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-honor-x9b-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Honor X9b?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-or-malfunctioning-drivers-with-windows-device-manager-in-windows-710-by-drivereasy-guide/"><u>How to identify missing or malfunctioning drivers with Windows Device Manager in Windows 7,10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/is-blizzards-battlenet-experiencing-downtime-or-are-you-just-facing-connectivity-woes/"><u>Is Blizzard's Battle.net Experiencing Downtime, Or Are You Just Facing Connectivity Woes?</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-discover-the-top-10-digital-audio-workstations-for-pc-and-mac-windowsmac-updated-edition-for-2024/"><u>New Discover the Top 10 Digital Audio Workstations for PC and Mac (Windows/Mac) - Updated Edition for 2024</u></a></li>
+<li><a href="https://win-popular.techidaily.com/prozess-der-wiederherstellung-des-leeren-mulleimers-schritt-fur-schritt-anleitung-recovermybin/"><u>Prozess Der Wiederherstellung Des Leeren Mülleimers: Schritt-Für-Schritt Anleitung | RecoverMyBin</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-alan-wake-2-freezing-issues-expert-advice-for-gamers-in-202-groovy-titles-to-fix-your-game-crashes/"><u>Solving the Alan Wake 2 Freezing Issues: Expert Advice for Gamers in 202 Groovy Titles to Fix Your Game Crashes</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering iOS 18: A Step-by-Step Guide to Personalizing Your iPhone's Control Center - Tips"
-date: 2024-11-02T02:49:53.678Z
-updated: 2024-11-07T23:15:24.304Z
+date: 2024-11-15T19:34:46.276Z
+updated: 2024-11-18T17:55:29.355Z
 tags:
   - apple
 categories:
@@ -37,10 +37,10 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -51,31 +51,24 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -86,10 +79,16 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -97,6 +96,13 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -134,19 +140,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-mastering-speech-to-text-googles-perfect-translation-technique/"><u>[New] Mastering Speech-to-Text Google's Perfect Translation Technique</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-key-to-discovery-perfecting-your-youtube-tags-game/"><u>[Updated] In 2024, Key to Discovery Perfecting Your YouTube Tags Game</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-top-notch-ae-extensions-selection/"><u>2024 Approved Top-Notch AE Extensions Selection</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/customizing-the-control-center-on-ios-18-a-step-by-step-guide-zdnet/"><u>Customizing the Control Center on iOS 18: A Step-by-Step Guide - ZDNet</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/deciding-your-ideal-tablet-in-depth-review-of-apples-m1-vs-m2-ipad-pro-models-zdnet/"><u>Deciding Your Ideal Tablet: In-Depth Review of Apple's M1 Vs. M2 iPad Pro Models | ZDNET</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/expert-strategies-for-enhancing-your-daily-productivity-a-comprehensive-guide-insights-from-zdnet/"><u>Expert Strategies for Enhancing Your Daily Productivity: A Comprehensive Guide - Insights From ZDNet</u></a></li>
-<li><a href="https://games-able.techidaily.com/high-refresh-rate-picks-top-gamer-displays-240hz/"><u>High-Refresh Rate Picks: Top Gamer Displays (240Hz)</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-oneplus-nord-n30-se-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock OnePlus Nord N30 SE Phone When You Forget the Password</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Honor X9b | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Tecno Phantom V Fold | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/introducing-apples-enhanced-logic-pro-smart-ai-instruments-tailored-for-mac-and-ipad-music-creators/"><u>Introducing Apple's Enhanced Logic Pro: Smart AI Instruments Tailored for Mac & iPad Music Creators</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/llama-2-simplified-making-complex-tasks-manageable/"><u>Llama 2 Simplified: Making Complex Tasks Manageable</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-apple-vision-pro-ultimate-guide-to-flawless-screen-captures-and-recording-techniques/"><u>Mastering Apple Vision Pro: Ultimate Guide to Flawless Screen Captures & Recording Techniques</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/pros-and-cons-of-switching-to-iphone-16-insights-from-zdnet-experts/"><u>Pros & Cons of Switching to iPhone 16: Insights From ZDNet Experts</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-a-prism-of-design-from-theory-to-practice/"><u>[Updated] A Prism of Design From Theory to Practice</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-instant-youtube-financial-forecasting/"><u>[Updated] In 2024, Instant YouTube Financial Forecasting</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-the-best-of-the-best-androids-top-8-group-chatters/"><u>[Updated] In 2024, The Best of the Best Android's Top 8 Group Chatters</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/advanced-prompt-engineering-techniques-unveiling-the-best-seven-internet-tools/"><u>Advanced Prompt Engineering Techniques: Unveiling the Best Seven Internet Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/artificial-intelligence-developments-tentative-date-for-gpt-5/"><u>Artificial Intelligence Developments: Tentative Date for GPT-5?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/battle-of-the-bots-llama-3-against-gpt-neuroses-4/"><u>Battle of the Bots: LLaMA 3 Against GPT-nEuroses 4</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-8-filter-packs-for-dynamic-video-streaming/"><u>Best 8 Filter Packs for Dynamic Video Streaming</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beware-the-shortcomings-of-ai-detection-apps-like-zerogpt-exposed-through-four-case-studies/"><u>Beware! The Shortcomings of AI Detection Apps Like ZeroGPT Exposed Through Four Case Studies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/building-your-personal-ai-companer-install-and-run-an-open-alternative-to-chatgpt-on-windows/"><u>Building Your Personal AI Companer: Install and Run an Open Alternative to ChatGPT on Windows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-on-the-go-is-the-mobile-app-beneficial-or-detrimental/"><u>ChatGPT on the Go: Is the Mobile App Beneficial or Detrimental?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/clash-of-tech-titans-exploring-8-key-differences-between-snapchats-my-ai-and-microsofts-bing-chat-on-skype/"><u>Clash of Tech Titans: Exploring 8 Key Differences Between Snapchat's My AI & Microsoft's Bing Chat on Skype</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/critical-considerations-when-leveraging-chatgpt-for-emotional-well-being/"><u>Critical Considerations When Leveraging ChatGPT for Emotional Well-Being</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/d500-exploration-nikons-journey-in-4k-hd-for-2024/"><u>D500 Exploration Nikon's Journey in 4K HD for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/driving-decisions-perfecting-persuasive-business-proposals-with-ai/"><u>Driving Decisions: Perfecting Persuasive Business Proposals with AI</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-sony-xperia-10-v-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Sony Xperia 10 V for Free? | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-infinite-frontier-the-best-sci-fi-films-that-redefine-universes/"><u>In 2024, Infinite Frontier The Best Sci-Fi Films That Redefine Universes</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/premium-5-web-based-video-recorders/"><u>Premium 5 Web-Based Video Recorders</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
 </ul></div>
 

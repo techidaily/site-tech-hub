@@ -1,7 +1,7 @@
 ---
 title: When Did We First Encounter AI? A Chronicle of Its Historical Emergence
-date: 2024-09-06T21:43:03.968Z
-updated: 2024-09-07T21:43:03.968Z
+date: 2024-11-17T20:49:09.451Z
+updated: 2024-11-18T23:51:32.671Z
 tags:
   - chatgpt
   - open-ai
@@ -13,32 +13,14 @@ excerpt: This Article Describes When Did We First Encounter AI? A Chronicle of I
 thumbnail: https://thmb.techidaily.com/22aa5877473f7aef18423fbe77d7ea5e7e2937ae2cb99e9b5ca8066747f3813d.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Still Eager for a Personalized Bot Experience? Check These Awesome Open Source Apps Instead of Waiting
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [What Is the Open-Source ChatGPT Desktop Application?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#what-is-the-open-source-chatgpt-desktop-application)
 * [How to Install and Configure ChatGPT Desktop Application](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#how-to-install-and-configure-chatgpt-desktop-application)
 * [When Is the Official ChatGPT Desktop Version Launching?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#when-is-the-official-chatgpt-desktop-version-launching)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * OpenAI is releasing a ChatGPT desktop version, starting with macOS and later for Windows.
@@ -52,11 +34,12 @@ thumbnail: https://thmb.techidaily.com/22aa5877473f7aef18423fbe77d7ea5e7e2937ae2
  But if you can't wait—like me!—you can try a free, open-source version instead.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## What Is the Open-Source ChatGPT Desktop Application?
 
  ChatGPT users have long wanted a desktop version. The world's leading generative AI chatbot works great in a browser, but sometimes, a desktop app is more convenient.
@@ -70,22 +53,31 @@ thumbnail: https://thmb.techidaily.com/22aa5877473f7aef18423fbe77d7ea5e7e2937ae2
 ![chatgpt open source desktop version login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-login.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Install and Configure ChatGPT Desktop Application
 
 ![chatgpt open source desktop version home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-home-page.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Head to the open-source[ChatGPT Desktop Application download page](https://github.com/lencx/ChatGPT/releases/tag/v1.1.0) . The latest version at the time of writing is V1.1.0, but you can check for a newer version.
 2. Download the applicable version for your operating system, then install it as per your operating system.
@@ -95,18 +87,6 @@ thumbnail: https://thmb.techidaily.com/22aa5877473f7aef18423fbe77d7ea5e7e2937ae2
 
 ![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## When Is the Official ChatGPT Desktop Version Launching?
 
  The official ChatGPT Desktop app is already slowly rolling out to macOS users.
@@ -115,14 +95,11 @@ thumbnail: https://thmb.techidaily.com/22aa5877473f7aef18423fbe77d7ea5e7e2937ae2
 
  Still, if you can't wait, you can give this open-source ChatGPT desktop version a try instead.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -131,4 +108,21 @@ thumbnail: https://thmb.techidaily.com/22aa5877473f7aef18423fbe77d7ea5e7e2937ae2
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-boost-your-workflow-with-these-8-best-facebook-timers-for-2024/"><u>[New] Boost Your Workflow with These 8 Best Facebook Timers for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-cutting-edge-uhd-capture-the-15-leaders-for-2024/"><u>[New] Cutting-Edge UHD Capture – The 15 Leaders for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-spotlight-on-top-trending-tweets/"><u>[Updated] Spotlight on Top Trending Tweets</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-starting-your-own-platform-a-guide-to-critiquing-home-essentials-for-2024/"><u>[Updated] Starting Your Own Platform A Guide to Critiquing Home Essentials for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-driven-meal-planning-creating-healthy-menus-using-chatgpt/"><u>AI-Driven Meal Planning: Creating Healthy Menus Using ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722109704135-experience-an-affordable-and-personalized-chatgpt-clone-right-from-your-windows-desktop/"><u>Experience an Affordable and Personalized ChatGPT Clone Right From Your Windows Desktop</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-to-restore-headphone-connectivity-in-malfunctioning-laptop-jacks/"><u>Expert Tips to Restore Headphone Connectivity in Malfunctioning Laptop Jacks</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/facebook-frenzy-top-downloader-tools-that-bring-videos-to-life-on-idevices-for-2024/"><u>Facebook Frenzy Top Downloader Tools that Bring Videos to Life on iDevices for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-resolve-a-directdraw-graphics-issue-effectively/"><u>How to Resolve a DirectDraw Graphics Issue Effectively</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-mobile-entertainment-steam-link-on-iosandroid-devices/"><u>Master Mobile Entertainment - Steam Link on iOS/Android Devices</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-honor-x8bs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Honor X8bs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/upgrade-or-not-assessing-whether-chatgpt-plus-offers-value-for-money/"><u>Upgrade or Not: Assessing Whether ChatGPT Plus Offers Value for Money</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/what-is-chatgpt-revealing-ais-creative-potential/"><u>What Is ChatGPT? Revealing AI's Creative Potential</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-enhance-your-experience-with-chatgpt-plus-here-are-9-compelling-reasons/"><u>Why Enhance Your Experience with ChatGPT Plus? Here Are 9 Compelling Reasons</u></a></li>
+</ul></div>
 

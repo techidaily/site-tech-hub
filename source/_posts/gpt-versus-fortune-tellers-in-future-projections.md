@@ -1,7 +1,7 @@
 ---
 title: GPT Versus Fortune Tellers in Future Projections
-date: 2024-09-06T21:44:44.766Z
-updated: 2024-09-07T21:44:44.766Z
+date: 2024-11-12T22:34:14.005Z
+updated: 2024-11-18T22:15:08.084Z
 tags:
   - chatgpt
   - open-ai
@@ -19,12 +19,6 @@ thumbnail: https://thmb.techidaily.com/8b331b35c6d777fdf8e0a1e1e6e83a2b89a91f457
 
  So, what exactly can you do with ChatGPT's Code Interpreter plugin? We’ve put together some of the most useful ways you can use the Code Interpreter plugin right now.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Create and Edit Images
 
  You can pull off a lot of interesting image manipulation tricks with[ChatGPT's Code Interpreter](https://www.makeuseof.com/what-is-chatgpt-code-interpreter/) . The best part is that you don't need any special skills to do so, all you need to do is simply describe what you want to do in plain language. The results and options might not be Photoshop grade, but they are usually quite interesting and worth the efforts.
@@ -55,13 +49,14 @@ thumbnail: https://thmb.techidaily.com/8b331b35c6d777fdf8e0a1e1e6e83a2b89a91f457
 
 ![Word cloud created with ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/word-cloud-created-with-chatgpt-code-interpreter.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Of course, you can ask it to change the background color or use a different font. There are a lot of ways you play around with images using the Code Interpreter plugin. If you are short of ideas, just upload an image and ask ChatGPT to tell you what tasks it can perform on the image.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Create and Edit Videos
 
@@ -80,11 +75,12 @@ thumbnail: https://thmb.techidaily.com/8b331b35c6d777fdf8e0a1e1e6e83a2b89a91f457
 ![Things you can do with a video using ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/things-you-can-do-with-a-video-using-chatgpt-code-interpreter.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  In the example below, we asked ChatGPT to extract the audio from a small video file, and it did so in just a few seconds. The resulting audio file which was available for download was very crisp and clear.
 
 ![Extracting audio from a video file with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/extracting-audio-from-a-video-file.jpg)
@@ -92,17 +88,12 @@ thumbnail: https://thmb.techidaily.com/8b331b35c6d777fdf8e0a1e1e6e83a2b89a91f457
  While the Code Interpreter plugin can perform a lot of video-related operations, practical usage, at least for now, is quite limited due to the limited size of video it can handle. It's not very clear the maximum size of video files Code Interpreter can handle, but you'll typically run into memory issues with larger videos. For the best results, use smaller video files, with lower resolutions whenever possible.
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Create and Modify Audio Files
 
  ChatGPT's Code Interpreter also has a[built-in text-to-speech feature](https://www.makeuseof.com/best-chrome-text-to-speech-extensions/) . This means you can write a piece of text and have ChatGPT to convert it to an audio file. Besides that, you can also perform several interesting actions on audio files using the Code Interpreter plugin. You can:
@@ -127,12 +118,6 @@ thumbnail: https://thmb.techidaily.com/8b331b35c6d777fdf8e0a1e1e6e83a2b89a91f457
 
  Think of any twist you can encounter in real life usage. If it involves creating or reading from documents of any kind, there's a good chance the Code Interpreter plugin will be able to deal with it.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Write and Analyze Code
 
  If you have large code files you want to make sense of, Code Interpreter is a solid option. You can attach files with several thousand lines of code and simply ask Code Interpreter to tell you what it does, maybe debug it, refactor it, translate to another programming language or perform just about any programming-related task you can think of.
@@ -154,25 +139,23 @@ thumbnail: https://thmb.techidaily.com/8b331b35c6d777fdf8e0a1e1e6e83a2b89a91f457
  It can also handle distorted or blurry text as well as text in different fonts, sizes, styles, orientations, and colors. You could, say, ask ChatGPT to create an MS Word document from a scanned copy of a document you uploaded, and you'll get a result in seconds.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## A Powerful Tool at Your Fingertips
 
  While it is important to recognize that the current capabilities of the Code Interpreter plugin is limited in many ways, the plugin still represents one of the most powerful features available in an AI chatbot anywhere on the internet.
 
  With a few upgrades, especially in the size of files it can load into memory and work with, the Code Interpreter feature will undoubtedly give ChatGPT an edge over any other AI chatbots it currently competes with. And there's still plenty more you can do with ChatGPT.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -181,4 +164,26 @@ thumbnail: https://thmb.techidaily.com/8b331b35c6d777fdf8e0a1e1e6e83a2b89a91f457
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-finding-your-niche-making-money-with-video-content/"><u>[New] 2024 Approved Finding Your Niche Making Money with Video Content</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-seekingnextgencamerasolutions/"><u>[New] SeekingNextGenCameraSolutions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-picart-technique-for-clean-images/"><u>[New] The Ultimate PicArt Technique for Clean Images</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-craft-humorous-memes-with-giphy/"><u>[Updated] In 2024, Craft Humorous Memes with Giphy</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/abby-y-alteryx-link-software-download-today/"><u>ABBY Y Alteryx Link Software - Download Today!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/energize-with-rhythm-the-most-inspiring-exercise-soundtracks/"><u>Energize with Rhythm The Most Inspiring Exercise Soundtracks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-baseline-to-boosted-performance-the-unique-features-of-gpt-4-gpt-4-turbo-and-gpt-n/"><u>From Baseline to Boosted Performance: The Unique Features of GPT-4, GPT-4 Turbo, & GPT-N</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-sign-up-for-chatgpts-new-plugins-feature/"><u>How to Sign Up for ChatGPT's New Plugins Feature</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/imposter-extension-plunders-social-media-logins/"><u>Imposter Extension: Plunders Social Media Logins</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-10-streaming-services-a-must-know/"><u>In 2024, Top 10 Streaming Services - A Must Know</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/inside-the-transformation-a-comprehensive-guide-through-each-version-of-openais-groundbreaking-gpt-models/"><u>Inside the Transformation: A Comprehensive Guide Through Each Version of OpenAI's Groundbreaking GPT Models</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ios-users-check-this-out-chatgpt-app/"><u>IOS Users, Check This Out: ChatGPT App</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-chatgpt-secure-or-does-it-face-cybersecurity-challenges/"><u>Is ChatGPT Secure, or Does It Face Cybersecurity Challenges?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-there-a-length-restriction-on-chatgpt-answers/"><u>Is There a Length Restriction on ChatGPT Answers?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/keeping-secrets-safe-in-custom-gpt-environments/"><u>Keeping Secrets Safe in Custom GPT Environments</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leverage-chatgpts-potential-in-cryptocurrency-conversations-top-10-expertly-crafted-prompts/"><u>Leverage ChatGPT's Potential in Cryptocurrency Conversations: Top 10 Expertly Crafted Prompts.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/speak-up-smartphone-chatgpts-android-introduction/"><u>Speak Up, Smartphone: ChatGPT's Android Introduction</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-tips-how-to-choose-the-perfect-projector-for-your-needs/"><u>Top Tips: How to Choose the Perfect Projector for Your Needs</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unrivaled-selection-of-no-cost-4k-video-players-for-windows/"><u>Unrivaled Selection of No-Cost 4K Video Players for Windows</u></a></li>
+</ul></div>
 

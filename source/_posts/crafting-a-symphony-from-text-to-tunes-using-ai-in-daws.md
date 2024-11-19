@@ -1,7 +1,7 @@
 ---
 title: Crafting a Symphony From Text to Tunes Using AI in DAWs
-date: 2024-09-06T21:42:02.983Z
-updated: 2024-09-07T21:42:02.983Z
+date: 2024-11-16T21:00:09.109Z
+updated: 2024-11-18T19:10:54.839Z
 tags:
   - chatgpt
   - open-ai
@@ -13,30 +13,12 @@ excerpt: This Article Describes Crafting a Symphony From Text to Tunes Using AI 
 thumbnail: https://thmb.techidaily.com/0741b6d6b142e6d035036f6df7e304509ca00be9b2a4f404614a92dadcad15cd.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Bing Brings Cutting-Edge AI to Your Fingertips for Improved iPhone & Android Searches
 
  Microsoft has launched three new AI-powered apps for smartphones. Bing, Edge, and a new version of Skype have launched for Android and iPhone, all with ChatGPT integration.
 
  The apps are available now via the Play Store and App Store, although you do have to join the waiting list to try out the chatbot functionality if you don't have access already.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## AI-Powered Bing Comes to Mobile
 
  Microsoft has been going all-in on AI recently. The[ChatGPT-enabled version of Bing](https://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/) caused a storm online as it threatens to[totally change how we search the internet](https://www.makeuseof.com/is-chatgpt-search-engine-threat/) .
@@ -45,12 +27,6 @@ thumbnail: https://thmb.techidaily.com/0741b6d6b142e6d035036f6df7e304509ca00be9b
 
 ![bing and skype with chatgpt enhanced](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-and-skype-with-chatgpt-enhanced.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Image Credit:[Microsoft](https://blogs.microsoft.com/blog/2023/02/22/the-new-bing-preview-experience-arrives-on-bing-and-edge-mobile-apps-introducing-bing-now-in-skype/)
 
  The Bing app has a whole new look, and perhaps the most interesting part is that it now supports voice to help make your prompts and searches even more intuitive.
@@ -60,11 +36,12 @@ thumbnail: https://thmb.techidaily.com/0741b6d6b142e6d035036f6df7e304509ca00be9b
  The chatbot is also built into the Edge browser, where you can access it via the homepage.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Skype Gets AI Features
 
  In addition to those apps, Microsoft has added AI-enhanced Bing support to Skype, the venerable voice and chat app. The idea here is not to get the AI to have conversations on your behalf, but to add similar search capabilities to group messages.
@@ -74,11 +51,12 @@ thumbnail: https://thmb.techidaily.com/0741b6d6b142e6d035036f6df7e304509ca00be9b
  To access this feature, you simply need to add Bing to your group chats as you would any other contact. It's available worldwide and can respond in over 100 languages.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Use the New ChatGPT Bing Apps
 
  If you haven't already got access to the new Bing chatbot, you'll have to[join the waitlist](https://www.makeuseof.com/try-bing-ai-powered-search-engine/) before you can start using it. To do this, just install one of the apps and follow the on-screen prompts. Microsoft says it has given access to more than a million users across 169 countries so far, with more added every day.
@@ -90,17 +68,12 @@ thumbnail: https://thmb.techidaily.com/0741b6d6b142e6d035036f6df7e304509ca00be9b
 **Download:** Skype for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2022079/https://play.google.com/store/apps/details?id=com.skype.raider) |[iOS](https://apps.apple.com/us/app/skype/id304878510) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Test Out AI Chat on Android and iPhone Today
 
  It was only a matter of time before AI chatbots made the move to mobile. The new version of Bing has certainly shaken up the industry—although it hasn't been without controversy.
@@ -109,14 +82,11 @@ thumbnail: https://thmb.techidaily.com/0741b6d6b142e6d035036f6df7e304509ca00be9b
 
  And in its mobile form, it is still very much a search tool, so is not something that's going to be replacing Google Assistant, Siri, Bixby, or any other voice assistant any time soon.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -125,4 +95,18 @@ thumbnail: https://thmb.techidaily.com/0741b6d6b142e6d035036f6df7e304509ca00be9b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-capturecrafted-expert-reviews-on-the-best-screen-recorders-for-2024/"><u>[New] CaptureCrafted Expert Reviews on the Best Screen Recorders for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-choice-android-sky-dumps-and-safes/"><u>[New] Top Choice Android Sky Dumps & Safes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-9-ways-to-facebook-video-black-screen-issues-on-chromesafarifir/"><u>2024 Approved 9 Ways to Facebook Video Black Screen Issues on Chrome/Safari/Fir</u></a></li>
+<li><a href="https://blog-min.techidaily.com/convert-avi-videos-to-webm-format-free-best-desktop-and-online-tools/"><u>Convert AVI Videos to WebM Format Free: Best Desktop & Online Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/evaluating-ais-potential-to-strengthen-or-compromise-mental-health-interventions-an-insightful-look/"><u>Evaluating AI's Potential to Strengthen or Compromise Mental Health Interventions: An Insightful Look</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-copilot-vs-copilot-pro-should-you-upgrade-your-toolset/"><u>Exploring Copilot Vs. Copilot Pro – Should You Upgrade Your Toolset?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-ultimate-selection-of-ai-prompt-services/"><u>Exploring The Ultimate Selection of AI Prompt Services</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/galaxy-s8s-ultra-hd-experience-unveiled-for-2024/"><u>Galaxy S8's Ultra HD Experience Unveiled for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gateway-to-advanced-ai-without-expenditure-4-methods/"><u>Gateway to Advanced AI Without Expenditure: 4 Methods</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-tecno-spark-10-pro-by-drfone-android/"><u>Three Ways to Sim Unlock Tecno Spark 10 Pro</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-90-gt-by-fonelab-android-recover-photos/"><u>Undelete lost photos from 90 GT.</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Sneak Peek: All Upcoming Autumn Enhancements for Apple Devices with Emphasis on Artificial Intelligence - Features Revealed by ZDNet"
-date: 2024-11-05T02:26:30.839Z
-updated: 2024-11-07T22:28:32.489Z
+date: 2024-11-17T01:13:34.491Z
+updated: 2024-11-18T17:51:12.674Z
 tags:
   - apple
 categories:
@@ -30,13 +30,6 @@ In a [previous article](https://www.zdnet.com/article/6-ways-apple-can-leapfrog-
 
 ## What Apple Intelligence will bring to the company's operating system platforms
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### AI on the device and in the cloud
 
 Apple Intelligence brings powerful generative models to iPhone, iPad, and [Mac](https://www.zdnet.com/article/best-mac/). On-device capabilities require an A17 Pro chip, limiting them to [iPhone 15 Pro](https://www.zdnet.com/article/iphone-15-plus-review/) and Pro Max users for enhanced security and privacy. Similarly, only iPads with M-series chips (like the latest iPad Air and iPad Pro) and Macs running Apple Silicon will be compatible. Many users with older devices or non-Pro models will miss these advanced features.
@@ -58,13 +51,6 @@ In terms of AI infrastructure, Apple also introduced its [Foundation Models](htt
 **Also: [Every iPhone model that will get Apple's iOS 18 (and which ones won't)](https://www.zdnet.com/article/every-iphone-model-that-will-get-apples-ios-18-and-which-ones-wont/)**
 
 **Room for Improvement:** Apple fell short in AI infrastructure leadership by not announcing AI-accelerated server appliances at the edge, which would allow less capable devices, like the base iPhone 15 and earlier iOS 18-supported models, to use Apple Intelligence's more advanced features. While the hybrid AI model with on-device and PCC is a step in the right direction, AI-accelerated edge network devices were not mentioned to enhance performance and reduce latency. Apple is typically not transparent about deploying resources in its data centers, so it may plan to deploy these appliances at the edge without disclosing specifics. While the short list of Responsible AI Principles that the company [has documented here](https://machinelearning.apple.com/research/introducing-apple-foundation-models) is a good start, an AI [ethical disclosure](https://www.adobe.com/content/dam/cc/en/ai-ethics/pdfs/Adobe-AI-Ethics-Principles.pdf) statement [along the lines of what Adobe is doing](https://www.adobe.com/ai/overview/ethics.html) would further bolster trust and transparency.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Embracing third-party AI providers
 
@@ -88,6 +74,13 @@ Apple has opened up a world of creative possibilities by integrating the [Image 
 
 **Room for improvement:** Providing more granular controls and customization options for the generated images and Genmojis, such as fine-tuning styles and attributes, could cater to more specific user preferences. Additionally, implementing features that suggest image enhancements or emoji creations based on user activity and context could further streamline the creative process.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Enhanced Siri and task automation
 
 Siri, the voice assistant we've come to know and tolerate, is finally getting a much-needed upgrade. With advanced natural language processing (NLP), Siri can understand users even if they stutter and maintain conversational context, making interactions more seamless and intuitive. You can now type requests to Siri, a feature bound to be a hit in noisy environments. Siri's new look, with a light wrapping around the screen edges when tapped, adds a modern touch.
@@ -103,10 +96,10 @@ Apple Intelligence also performs actions within apps on behalf of the user. It c
 **Room for improvement:** While Apple has made significant progress, future updates could further enhance Siri's capabilities, automate more complex tasks, and provide deeper personalization across the Apple ecosystem.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### AI capabilities across Apple products
@@ -116,6 +109,13 @@ Lastly, enhancing AI capabilities across all Apple products, including Siri, App
 **Also: [What is Apple Intelligence? How the iPhone's on-device and cloud-based AI works](https://www.zdnet.com/article/what-is-apple-intelligence-how-the-iphones-on-device-and-cloud-based-ai-will-work/)**
 
 **Room for improvement:** We also haven't heard anything about [HomePod](https://www.zdnet.com/home-and-office/home-entertainment/homepod-vs-homepod-mini-which-one-of-apples-smart-speakers-is-right-for-you/) or Apple TV with Apple Intelligence, although neither of these products has the computational power to perform on-device generative AI. Similarly, there were no mentions of new AI capabilities in [WatchOS](https://www.zdnet.com/article/every-apple-watch-model-that-will-support-watchos-11-and-which-ones-wont/). While these devices might be able to use some of the cloud capabilities of Apple Intelligence, this was not brought up in the keynote. Additionally, with its M2 chip, the [Vision Pro](https://www.zdnet.com/article/apple-vision-pro-faq-price-features-hands-on-insights-and-everything-you-need-to-know/) is powerful enough to handle Apple Intelligence on-device features. Still, the keynote did not discuss what would be coming to that device specifically.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The developer story
 
@@ -142,10 +142,10 @@ Finally, the new Translation API will be unveiled. It will help developers build
 By equipping developers with these resources, Apple is ensuring that the potential of Apple Intelligence can be fully realized across its ecosystem, driving innovation and enhancing user experiences.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Did Apple go far enough with AI improvements?
@@ -188,16 +188,24 @@ Addressing the remaining gaps could enhance Apple's competitive position in the 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-picperfect-upgrade-mobile-photography-no-money-down/"><u>[Updated] 2024 Approved PicPerfect Upgrade Mobile Photography No Money Down</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-unveil-vlogger-success-key-youtube-seo-tech/"><u>[Updated] Unveil Vlogger Success Key YouTube SEO Tech</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ahead-of-the-curve-meta-quest-3-launches-pre-vision-pro-ai-capabilities-how-to-activate-them/"><u>Ahead of the Curve: Meta Quest 3 Launches Pre-Vision Pro AI Capabilities - How to Activate Them</u></a></li>
-<li><a href="https://games-able.techidaily.com/crafting-a-tailored-ps5-games-package-list/"><u>Crafting a Tailored PS5 Games Package List</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/fortnite-returns-to-apple-app-store-step-by-step-instructions-for-iphone-users-digitalgamingnews/"><u>Fortnite Returns to Apple App Store: Step-by-Step Instructions for iPhone Users | DigitalGamingNews</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-poco-c65-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Poco C65 Phone? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-image-upload-youtube-guide/"><u>In 2024, Mastering Image Upload YouTube Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionizing-budget-sound-unveiling-the-potential-of-beats-new-solitary-earphones-as-alternatives-to-under-1n-airpods-reviews-by-zdnet/"><u>Revolutionizing Budget Sound: Unveiling the Potential of Beats' New Solitary Earphones as Alternatives to Under $1N AirPods, Reviews by ZDNET</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/reators-guide-to-the-top-9-affordable-video-editing-apps-for-2024/"><u>The Creator's Guide to the Top 9 Affordable Video Editing Apps for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-rated-mini-tablet-reviews-of-2024-in-depth-analysis-by-tech-experts-zdnet/"><u>Top-Rated Mini Tablet Reviews of 2024 - In Depth Analysis by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-rated-tablet-protectors-s-ultimate-ipad-air-case-guide-reviews/"><u>Top-Rated Tablet Protectors 'S Ultimate iPad Air Case Guide Reviews</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/astering-the-art-of-youtube-creating-accessible-video-ideas/"><u>[New] Mastering the Art of YouTube Creating Accessible Video Ideas</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-capturing-on-win10-the-leading-apps-to-check-out/"><u>[Updated] Capturing on Win10 The Leading Apps to Check Out</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/5-chatgpt-features-you-arent-using-but-should/"><u>5 ChatGPT Features You Aren't Using, but Should</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/6-innovative-ways-to-enhance-your-household-routines-using-chatgpt/"><u>6 Innovative Ways to Enhance Your Household Routines Using ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/agentgpt-simplified-easy-steps-to-deploy-your-own-ai-agents-via-the-web-browser/"><u>AgentGPT Simplified: Easy Steps to Deploy Your Own AI Agents via the Web Browser</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-character-creation-mastery-using-chatgpt-and-dall-e-for-dungeons-and-dragons/"><u>AI Character Creation Mastery: Using ChatGPT & DALL-E for Dungeons & Dragons</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-electronics-every-bookworm-needs-phones-laptops-and-more/"><u>Essential Electronics Every Bookworm Needs: Phones, Laptops & More</u></a></li>
+<li><a href="https://review-topics.techidaily.com/guide-to-intel-me-software-fixes/"><u>Guide to Intel ME Software Fixes</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-tips-and-tricks-voice-overseas-that-elevate-your-film-projects/"><u>In 2024, Tips & Tricks Voice Overseas That Elevate Your Film Projects</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/safeguard-your-ebay-venture-top-strategies-to-shield-yourself-from-online-auction-frauds-with-massmail-solutions/"><u>Safeguard Your eBay Venture: Top Strategies to Shield Yourself From Online Auction Frauds with MassMail Solutions</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-temperature-of-the-hot-reservoir-heat-addition-is-30c-which-is-equivalent-to-30-plus-27315-30315-k/"><u>The Temperature of the Hot Reservoir (Heat Addition) Is 30°C, Which Is Equivalent to 30 + 273.15 = 303.15 K.</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-the-downsides-a-closer-look-at-why-a-chatgpt-app-for-androidios-may-not-be-ideal/"><u>Understanding the Downsides: A Closer Look at Why a ChatGPT App for Android/iOS May Not Be Ideal</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleash-your-excel-potential-triumph-where-chatgpt-falls-short/"><u>Unleash Your Excel Potential: Triumph Where ChatGPT Falls Short</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722146426539-unlock-new-possibences-in-private-messaging-utilize-duckduckgos-advanced-ai-chat-features-today/"><u>Unlock New Possibences in Private Messaging – Utilize DuckDuckGo's Advanced AI Chat Features Today!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-the-power-of-chatgpt-on-your-phone-steps-for-ios-and-android-devices/"><u>Unlock the Power of ChatGPT on Your Phone – Steps for iOS and Android Devices</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-global-chatgpt-a-step-by-step-guide-to-using-the-app-worldwide/"><u>Unlocking Global ChatGPT: A Step-by-Step Guide to Using the App Worldwide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/unlocking-hidden-recommendations-on-social-media-for-2024/"><u>Unlocking Hidden Recommendations on Social Media for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/unlocking-youtube-revenue-essential-view-count-milestones/"><u>Unlocking YouTube Revenue Essential View Count Milestones</u></a></li>
 </ul></div>
 

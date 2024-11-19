@@ -1,7 +1,7 @@
 ---
 title: Is ChatGPT Borrowing Ideas Unlawfully or Just Smartly Referencing Sources?
-date: 2024-09-06T21:42:29.950Z
-updated: 2024-09-07T21:42:29.950Z
+date: 2024-11-16T01:23:11.422Z
+updated: 2024-11-18T17:27:20.412Z
 tags:
   - chatgpt
   - open-ai
@@ -31,33 +31,22 @@ thumbnail: https://thmb.techidaily.com/6152b7c969d91f2eaae0be3b9bf8b8ec86f6a4683
 
 ![Screenshot of New Bing Introduction](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-new-bing-introduction.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The process with ChatGPT is even simpler. First, you will need to create an[OpenAI](https://chat.openai.com/auth/login) account. Once created, you can use ChatGPT from any supported browser. This multi-browser compatibility marks the first notable difference. Bing Chat does offer a form of multi-browser support but with limited functionality.
 
 ![Screenshot of ChatGPT home screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-home-screen.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Comparing the Language Models of Bing Chat and ChatGPT
 
  One of the fundamental differences between the chatbots is the language model they use. Currently, free ChatGPT users are restricted to GPT-3.5, with the much-hyped GPT-4 only available to premium users.
 
  Bing Chat uses the latest version of the language model, GPT-4\. However, there are some[key differences between GPT-4 and GPT-3.5](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained/) :
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Creativity
 
@@ -67,22 +56,10 @@ For example, below is Bing Chat's effort at a simple limerick.
 
 ![Screenshot of Bing Limerick-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-bing-limerick-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  As you see from the ChatGPT effort below, both models can construct creative prose remarkably well.
 
 ![Screenshot of ChatGPT Limerick-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-limerick-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Safety
 
  Moderating responses that were factually incorrect or otherwise unsuitable was performed "on the fly" with GPT-3.5\. In other words, it was a reactive strategy that acted after the horse had bolted. GPT-4 has safety measures designed into the model, meaning safety is more proactive. Where safety is a concern, Bing Chat technically has the upper hand.
@@ -91,12 +68,6 @@ For example, below is Bing Chat's effort at a simple limerick.
 
  The ability to process image data is also a new feature in GPT-4\. However, this feature currently isn't integrated into Bing Chat, so it isn't covered here. The other major difference is the accuracy of the response. This is covered next.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How Accurate Are Bing Chat and ChatGPT
 
  Both platforms go to pains to make users aware that the models may generate responses that contain incorrect information. This is clearly displayed on both interfaces.
@@ -104,11 +75,12 @@ For example, below is Bing Chat's effort at a simple limerick.
 ![Screenshot of GPT limitations for bin and chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-gpt-limitations-for-bin-and-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Bing Chat has a distinct advantage here. The GPT-4 model has the twin advantages of access to more recent data and multiple sources of information. By contrast, the GPT-3.5/GPT-4 dataset was cut off at the end of 2021, and though it has received some topical updates, it is limited.
 
  Unlike testing the difference in creativity, testing this was easy. The results were comprehensive, with Bing Chat returning the most impressive answer to a straightforward question, "How many tons of plastic were recycled in 2020?"
@@ -116,23 +88,18 @@ For example, below is Bing Chat's effort at a simple limerick.
 ![Screenshot of Plastic Recycling Stats from Bing Chat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-plastic-recycling-stats-from-bing-chat.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  The response supplied figures as well as links to the sources from which the data was retrieved. However, the inclusion of US plastic exports was slightly out of context with the question. We would hesitate to call this a glitch, but it does show AI's tendency to wander off-topic at times.
 
 By contrast, the ChatGPT response was to admit its limitations.
 
 ![Screenshot of ChatGPT response to recycling question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-response-to-recycling-question.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The answer tries to provide estimates and other sources that could be referenced, but there are no hard and fast facts.
 
 ## Comparing the Interfaces of ChatGPT and Bing Chat
@@ -152,11 +119,19 @@ By contrast, the ChatGPT response was to admit its limitations.
 ![Screenshot of ChatGPT list of educational websites](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-list-of-educational-websites.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Which Is Best: Bing Chat or Chat GPT?
 
  There is no straightforward answer, as both tools are incredibly impressive.
@@ -179,14 +154,11 @@ By contrast, the ChatGPT response was to admit its limitations.
 
  As AI chatbots become more widespread, the differences between these early adopters will only continue to widen. However, by understanding the unique features of each platform, users can choose the chatbot that best suits their needs.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -195,4 +167,20 @@ By contrast, the ChatGPT response was to admit its limitations.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-comprehensive-capture-and-review-with-az-for-2024/"><u>[Updated] Comprehensive Capture & Review with AZ for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/101-ai-tips-learning-from-9-beginner-friendly-groups/"><u>101 AI Tips: Learning From 9 Beginner-Friendly Groups</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-setup-and-strategies-for-youtube-gamers-live-sessions/"><u>2024 Approved Setup and Strategies for YouTube Gamers' Live Sessions</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-the-path-to-youtube-wealth-top-revenue-tactics/"><u>2024 Approved The Path to YouTube Wealth Top Revenue Tactics</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/7-key-approaches-to-elevate-chatgpt-interactions/"><u>7 Key Approaches to Elevate ChatGPT Interactions</u></a></li>
+<li><a href="https://discover-data.techidaily.com/m2ssdsatassd/"><u>安全確実な方法でM2SSDをコピーしてSATASSDへ変換する - 専門家チェックリスト</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boost-your-writing-with-chatgpt-a-guide-to-9-creative-uses-for-content-makers/"><u>Boost Your Writing with ChatGPT: A Guide to 9 Creative Uses for Content Makers</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/budget-friendly-apeman-c45n-analysis-reliable-road-companion-review/"><u>Budget-Friendly Apeman C45n Analysis - Reliable Road Companion Review</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1721943143670-discover-how-copilot-harnesses-gpt-4s-power-without-costing-a-penny/"><u>Discover How Copilot Harnesses GPT-4's Power Without Costing a Penny</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/explore-cinemas-treasure-trove-a-guide-to-the-best-online-hubs-for-trailers/"><u>Explore Cinema's Treasure Trove: A Guide to the Best Online Hubs for Trailers</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-vivo-y36i-by-drfone-android/"><u>In 2024, How to Bypass FRP from Vivo Y36i?</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-leading-contenders-in-elgato-steam-decks/"><u>Unveiling the Leading Contenders in Elgato Steam Decks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-claude-3-is-worth-your-attention/"><u>Why Claude 3 Is Worth Your Attention</u></a></li>
+</ul></div>
 

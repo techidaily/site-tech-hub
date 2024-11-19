@@ -1,7 +1,7 @@
 ---
 title: "Mastering Organized Discussions: A Guide to Utilizing ChatGPT Directories"
-date: 2024-09-06T21:43:55.328Z
-updated: 2024-09-07T21:43:55.328Z
+date: 2024-11-15T22:45:18.513Z
+updated: 2024-11-19T00:21:01.783Z
 tags:
   - chatgpt
   - open-ai
@@ -30,19 +30,14 @@ thumbnail: https://thmb.techidaily.com/1c99e9418ecc4dc629f64c0ecebd23df13aefb6fa
 ![digital graphic of ai brain with various icons spreading outward and laptop in background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/ai-brain-digital.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Why are people so hyped about setting up their own[large language models](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) on their computers? Beyond the hype and bragging rights, what are some practical benefits?
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Less Censorship
 
  When ChatGPT and Bing AI first came online, the things both chatbots were willing to say and do were as fascinating as they were alarming. Bing AI acted warm and lovely, like it had emotions. ChatGPT was willing to use curse words if you asked nicely. At the time, both chatbots would even help you make a bomb if you used the right prompts. This might sound like all shades of wrong, but being able to do anything was emblematic of the unrestricted capabilities of the language models that powered them.
@@ -53,25 +48,27 @@ thumbnail: https://thmb.techidaily.com/1c99e9418ecc4dc629f64c0ecebd23df13aefb6fa
 
  One of the primary reasons people opt for a local LLM is to ensure that whatever happens on their computer stays on their computer. When you use a local LLM, it's like having a conversation privately in your living room—no one outside can listen in. Whether you're experimenting with your credit card details or having sensitive personal conversations with the LLM, all the resulting data is stored only on your computer. The alternative is using publicly-facing LLMs like GPT-4, which gives the companies in charge access to your chat information.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Offline Usage
 
  With the internet being widely affordable and accessible, offline access might seem like a trivial reason to use a local LLM. Offline access could become especially critical in remote or isolated locations where internet service is unreliable or unavailable. In such scenarios, a local LLM operating independently of an internet connection becomes a vital tool. It allows you to continue doing whatever you want to do without interruption.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 4\. Cost Savings
 
  The average price of accessing a capable LLM like GPT-4 or Claude 2 is $20 per month. Although that might not seem like an alarming price, you still get several annoying restrictions for that amount. For instance, with GPT-4, accessed via ChatGPT, you are stuck with a 50-message per three-hour cap. You can only get past those limits by[switching to the ChatGPT Enterprise plan](https://www.makeuseof.com/what-is-chatgpt-enterprise/) , which could potentially cost thousands of dollars. With a local LLM, once you've set up the software, there are no $20 monthly subscription or recurring costs to pay. It's like buying a car instead of relying on ride-share services. Initially, it's expensive, but over time, you save money.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 5\. Better Customization
 
@@ -81,36 +78,12 @@ thumbnail: https://thmb.techidaily.com/1c99e9418ecc4dc629f64c0ecebd23df13aefb6fa
 
 ![An illustration of a young boy using ChatGPT on a computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-and-child.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Before you make the switch, there are some downsides to using a local LLM you should consider.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Resource Intensive
 
  To run a performant local LLM, you'll need high-end hardware. Think powerful CPUs, lots of RAM, and likely a dedicated GPU. Don't expect a $400 budget laptop to provide a good experience. Responses will be painfully slow, especially with larger AI models. It's like running cutting-edge video games—you need beefy specs for optimal performance. You may even need specialized cooling solutions. The bottom line is that local LLMs require an investment in top-tier hardware to get the speed and responsiveness you enjoy on web-based LLMs (or even improve on that). The computing demands on your end will be significant compared to using web-based services.
 
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Slower Responses and Inferior Performance
 
  A common limitation of local LLMs is slower response times. The exact speed depends on the specific AI model and hardware used, but most setups lag behind online services. After experiencing instant responses from ChatGPT, Bard, and others, local LLMs can feel jarringly sluggish. Words slowly trickle out versus being quickly returned. This isn't universally true, as some local deployments achieve good performance. But average users face a steep drop-off from the snappy web experience. So, prepare for a "culture shock" from fast online systems to slower local equivalents.
@@ -121,6 +94,19 @@ thumbnail: https://thmb.techidaily.com/1c99e9418ecc4dc629f64c0ecebd23df13aefb6fa
 
  Deploying a local LLM is more involved than just signing up for a web-based AI service. With an internet connection, your ChatGPT, Bard, or Bing AI account could be ready to start prompting in minutes. Setting up a full local LLM stack requires downloading frameworks, configuring infrastructure, and integrating various components. For larger models, this complex process can take hours, even with tools that aim to simplify installation. Some bleeding-edge AI systems still require deep technical expertise to get running locally. So, unlike plug-and-play web-based AI models, managing your own AI involves a significant technical and time investment.
 
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4\. Limited Knowledge
 
  A lot of local LLMs are stuck in the past. They have limited knowledge of current events. Remember when ChatGPT couldn't access the internet? When it could only provide answers to questions about events that occurred before September 2021? Yes? Well, similar to early ChatGPT models, locally hosted language models are often trained only on data before a certain cutoff date. As a result, they lack awareness of recent developments after that point.
@@ -128,25 +114,23 @@ thumbnail: https://thmb.techidaily.com/1c99e9418ecc4dc629f64c0ecebd23df13aefb6fa
  Additionally, local LLMs can't access live internet data. This restricts usefulness for real-time queries like stock prices or weather. To enjoy a semblance of real-time data, local LLMs will typically require an additional layer of integration with internet-connected services. Internet access is one of the reasons you might[consider upgrading to ChatGPT Plus](https://www.makeuseof.com/reasons-you-should-upgrade-chatgpt-plus/) !
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Should You Use a Local LLM?
 
  Local large language models provide tempting benefits but also have real downsides to consider before taking the plunge. Less censorship, better privacy, offline access, cost savings, and customization make a compelling case for setting up your LLM locally. However, these benefits come at a price.
 
  With lots of freely available LLMs online, jumping into local LLMs may be like swatting a fly with a sledgehammer–possible but overkill. But remember, if it's free, you and the data you generate are likely the product. So, there is no definitive right or wrong answer today. Assessing your priorities will determine if now is the right time to make the switch.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -155,4 +139,26 @@ thumbnail: https://thmb.techidaily.com/1c99e9418ecc4dc629f64c0ecebd23df13aefb6fa
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-a-pictures-worth-a-thousand-dollars-online-top-photo-cloud-services-reviewed/"><u>[New] A Picture's Worth a Thousand Dollars Online Top Photo Cloud Services Reviewed</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-dissecting-the-benefits-of-using-sns-hdr-over-others/"><u>[New] In 2024, Dissecting the Benefits of Using SNS HDR over Others</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-optimizing-social-media-for-vimeo-sharing-for-2024/"><u>[Updated] Optimizing Social Media for Vimeo Sharing for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bards-launch-googles-answer-to-the-challenge-from-chatgpt/"><u>Bard's Launch: Google's Answer to the Challenge From ChatGPT</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/best-3d-video-player-for-android/"><u>Best 3D Video Player for Android</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722013703357-beware-these-sham-ai-tools-risky-for-data-security/"><u>Beware: These Sham AI Tools Risky for Data Security!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-decoded-ais-new-era-in-creative-generation/"><u>ChatGPT Decoded: AI’s New Era in Creative Generation</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1154417-9781608680610-everyday-meditation/"><u>Everyday Meditation | Free Book</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722185838595-exciting-news-chatgpt-on-iphone/"><u>Exciting News: ChatGPT on iPhone</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/mobile-memory-mender-restore-and-save/"><u>Mobile Memory Mender, Restore & Save</u></a></li>
+<li><a href="https://some-tips.techidaily.com/srt-simplified-a-practical-manual-for-xmlssattml-transformation-for-2024/"><u>SRT Simplified A Practical Manual for XML/SSA/TTML Transformation for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-art-of-crafting-engaging-successful-games-learn-from-helldivers-2/"><u>The Art of Crafting Engaging, Successful Games: Learn From Helldivers 2</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/uninstalling-the-ai-assistant-clear-steps-to-disable-copilot-on-windows-11/"><u>Uninstalling the AI Assistant: Clear Steps to Disable Copilot on Windows 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-future-the-anticipated-arrival-of-gpt-5-explained/"><u>Unveiling the Future: The Anticipated Arrival of GPT-5 Explained</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-latest-insights-into-apples-artificial-intelligence-announcements-at-wwdc-2024/"><u>Unveiling the Latest Insights Into Apple's Artificial Intelligence Announcements at WWDC 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-power-of-shapley-explanations-in-machine-learning-with-openais-shape/"><u>Unveiling the Power of Shapley Explanations in Machine Learning with OpenAI's ShapE</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-top-5-innovative-tools-to-generate-advanced-ai-dialogue-starters/"><u>Unveiling the Top 5 Innovative Tools to Generate Advanced AI Dialogue Starters</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/weaving-tales-gpt-3-and-world-design/"><u>Weaving Tales: GPT-3 and World Design</u></a></li>
+<li><a href="https://facebook.techidaily.com/why-your-life-is-better-with-these-9-social-media-uses/"><u>Why Your Life Is Better with These 9 Social Media Uses</u></a></li>
+</ul></div>
 

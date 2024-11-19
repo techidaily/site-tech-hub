@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Acquires Blizzard: In-Depth Discussion on AI in Art & Translation - Podcast Insights"
-date: 2024-09-06T21:41:00.964Z
-updated: 2024-09-07T21:41:00.964Z
+date: 2024-11-15T23:52:30.177Z
+updated: 2024-11-18T22:04:00.725Z
 tags:
   - chatgpt
   - open-ai
@@ -23,12 +23,6 @@ thumbnail: https://thmb.techidaily.com/f4c650853e8507f493dd5a4da625f53ce5ecb8f26
 
  However, you'll need to get creative with your prompts to make the best of ChatGPT as a translation tool. We've done the hard part—here's how to get the best results from ChatGPT as a translation tool.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why Use ChatGPT for Translation?
 
  Google Translate, Microsoft Translator, and DeepL are some of the [most popular translation services on the internet](https://www.makeuseof.com/best-google-translate-alternatives/). There are also dozens more out there, all offering impressive accuracy, free access, and covering dozens of languages. So why choose ChatGPT? What makes ChatGPT a good translation tool?
@@ -39,24 +33,19 @@ thumbnail: https://thmb.techidaily.com/f4c650853e8507f493dd5a4da625f53ce5ecb8f26
 
  If you're wondering how ChatGPT stacks up against Google Translate as a translation tool, here's a [comparison of ChatGPT vs. Google Translate](https://www.makeuseof.com/chatgpt-vs-google-translate-which-is-better-at-translation/). Furthermore, did you know you can [use ChatGPT to help you learn a new language](https://www.makeuseof.com/how-chatgpt-plus-can-help-you-learn-a-language/)? Translating with ChatGPT is fast and accurate, but why not go the extra step and learn an entirely new language using an AI tutor?
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Translate Languages With ChatGPT
 
  Translating with ChatGPT is easy. All you need to do is provide the text you want to translate and specify the language you want to translate it to, and ChatGPT will handle the rest. However, you can customize ChatGPT's language translation outputs, create unique language translation scenarios, and adjust many more aspects. ChatGPT is a generative AI tool, after all.
 
  Here are other important things you'll need to keep in mind to use ChatGPT efficiently as a translation tool.
 
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Provide Context
 
  One of the key advantages of ChatGPT over popular translation tools like Google Translate is its ability to accurately consider the context of a text when generating translations. Considering context can be the difference between simply translating individual words in a sentence and generating a translation that truly reflects the author's or speaker's intention.
@@ -64,6 +53,13 @@ thumbnail: https://thmb.techidaily.com/f4c650853e8507f493dd5a4da625f53ce5ecb8f26
  Take the Spanish sentence “Gracias por preguntar, pero estoy bastante seguro aquí” for instance. Google Translate produces "Thanks for asking, but I'm pretty sure here" as the translation. While this isn't entirely wrong, depending on the context, the sentence could mean, "Thanks for asking, but I'm safe here."
 
 ![Translating with context using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/translating-with-context-using-chatgpt.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Of course, Google Translate will provide the same translation no matter how many times you attempt to translate it because it doesn't have a way to recognize contextual nuance. As per the screenshot above, ChatGPT will attempt to provide the most accurate translation depending on the provided context. Providing context can significantly improve the quality of your translation. If you are not sure how to provide context, here are some inspirations:
 
@@ -85,11 +81,12 @@ thumbnail: https://thmb.techidaily.com/f4c650853e8507f493dd5a4da625f53ce5ecb8f26
  The prompts above or similar ones help ChatGPT use relevant or industry-specific context when generating a translation. Although ChatGPT sometimes recognizes the right niche words to use for translation, you'll have to explicitly prompt it to do so using type declaration in some cases.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 3\. Use Style Transfer
 
  Sometimes, when translating text, the translation might be too technical or simply inappropriate for the target audience. Using style transfer in ChatGPT can help adjust the tone and style of a translation to match the target audience or industry. So, if you're translating a legal document, the translation could retain the author's original meaning while using more layman's wording. In the example below, I translated a soccer commentary from Spanish to English, first without style transfer and then using style transfer.
@@ -100,18 +97,6 @@ thumbnail: https://thmb.techidaily.com/f4c650853e8507f493dd5a4da625f53ce5ecb8f26
 
 ![An English translation using style transfer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/an-english-translation-using-style-transfer.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To use style transfer when translating, use prompts like:
 
 * Translate \[text to translate\] to \[target language\] in layman's terms.
@@ -130,13 +115,20 @@ thumbnail: https://thmb.techidaily.com/f4c650853e8507f493dd5a4da625f53ce5ecb8f26
 
 ![ChatGPT translation accounting for regional differences in meaning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-translation-accounting-for-regional-differences-in-meaning.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  We repeated the translation prompt but added hints about the speaker's origin and possible intent. ChatGPT changed the translation to "我要去踢橄榄球 (Wǒ yào qù tī gǎnlǎnqiú)," this time using "gǎnlǎnqiú" which is the Chinese term for American football and better reflects the potential intent of the speaker.
+
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 5\. Use Summarized Translation
 
@@ -149,12 +141,6 @@ thumbnail: https://thmb.techidaily.com/f4c650853e8507f493dd5a4da625f53ce5ecb8f26
 
  Translation summaries are great when you're trying to communicate but don't necessarily have time to get deep into learning the language immediately.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 6\. Use a Fine-Tuned Instance of ChatGPT
 
  Using a fine-tuned instance of ChatGPT is one of the best ways to utilize ChatGPT as a translation tool. It opens up almost endless possibilities for translation using the AI chatbot. But how can you fine-tune ChatGPT for translation?
@@ -165,12 +151,6 @@ thumbnail: https://thmb.techidaily.com/f4c650853e8507f493dd5a4da625f53ce5ecb8f26
 
 ![Fine-tunning ChatGPT for translation tasks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/fine-tunning-chatgpt-for-translation-tasks.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can also make ChatGPT translations more accurate by providing several large texts and their verified translations. You can then prompt ChatGPT to deduce the right translation of words and phrases from the provided samples and apply it when translating text involving a similar language pair. While you can use significantly longer texts to fine-tune ChatGPT translations, below is a short illustration of how it works using a short paragraph.
 
 ![Providing a parralel corpus of text for ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/providing-a-parralel-corpus-of-text-for-chatgpt.jpg)
@@ -184,17 +164,12 @@ thumbnail: https://thmb.techidaily.com/f4c650853e8507f493dd5a4da625f53ce5ecb8f26
  For instance, in point six above, we talked about a word-translation pair. You can simply add your preferred translations of words to the ChatGPT Custom Instruction editor and have the chatbot use that preference across all chat sessions. If you spend time translating between two specific languages and use tricky, unique, or colloquial words and phrasing, this will speed up your ChatGPT language translation efforts.
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 8\. Replicate Linguistic Form
 
  Being able to replicate linguistic forms on demand is one of the most important advantages of ChatGPT as a translation tool over conventional translation tools. In certain texts, like those meant to entertain, the choice of words and phrases is always integral to creating entertainment value. Simply substituting different terms in another language may not preserve entertainment value.
@@ -210,11 +185,12 @@ thumbnail: https://thmb.techidaily.com/f4c650853e8507f493dd5a4da625f53ce5ecb8f26
 ![Translation that preserves linguistic form](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/translation-that-preserves-linguistic-form.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Of course, this is not a perfect translation example, but with a few prompt tweaks, there's more to achieve.
 
 ## Don't Rely Solely on Machine Translation
@@ -225,14 +201,11 @@ thumbnail: https://thmb.techidaily.com/f4c650853e8507f493dd5a4da625f53ce5ecb8f26
 
  However, you'll need to get creative with your prompts to make the best of ChatGPT as a translation tool. We've done the hard part—here's how to get the best results from ChatGPT as a translation tool.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -241,4 +214,24 @@ thumbnail: https://thmb.techidaily.com/f4c650853e8507f493dd5a4da625f53ce5ecb8f26
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-how-to-use-telegram-web-step-by-step-guide/"><u>[New] How To Use Telegram Web Step-By-Step Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-essential-techniques-for-dell-pc-screen-saving/"><u>[Updated] 2024 Approved Essential Techniques for Dell PC Screen Saving</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-step-by-step-tips-for-captivating-igtv-backgrounds/"><u>[Updated] Step-By-Step Tips for Captivating IGTV Backgrounds</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-step-by-step-guide-uploading-imovie-videos-to-vimeo-platform/"><u>2024 Approved Step-by-Step Guide Uploading iMovie Videos to Vimeo Platform</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-steps-to-activate-windows-11-hdr-automatically/"><u>2024 Approved Steps to Activate Windows 11 HDR Automatically</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tailoring-battery-choices-for-exceptional-drone-performance/"><u>2024 Approved Tailoring Battery Choices for Exceptional Drone Performance</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/como-convertir-audio-ogg-a-wma-sin-coste-con-la-herramienta-web-de-movavi/"><u>Cómo Convertir Audio OGG a WMA Sin Coste Con La Herramienta Web De Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-tips-for-restarting-a-stuck-gmail-synchronization/"><u>Essential Tips for Restarting a Stuck Gmail Synchronization</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-tier-steadicam-options-for-drone-video-production/"><u>Top-Tier Steadicam Options for Drone Video Production</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/train-chatgpt-for-personalized-content-creation-like-yourselves/"><u>Train ChatGPT for Personalized Content Creation Like Yourselves</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transforming-gaming-the-rising-role-of-ai-in-creating-interactive-experienebles/"><u>Transforming Gaming: The Rising Role of AI in Creating Interactive Experienebles</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transforming-tasks-with-chatgpt-a-comprehensive-guide-to-effective-scheduling/"><u>Transforming Tasks with ChatGPT: A Comprehensive Guide to Effective Scheduling</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-the-contrast-what-makes-auto-gpt-stand-out-from-chatgpt/"><u>Understanding the Contrast: What Makes Auto-GPT Stand Out From ChatGPT?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-the-dark-side-of-ai-five-strategies-used-by-cybercriminals/"><u>Understanding the Dark Side of AI: Five Strategies Used by Cybercriminals</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1721980343750-unearthed-fun-fact-dive-into-these-6-amazing-games-available-on-chatgpt-today/"><u>Unearthed Fun Fact: Dive Into These 6 Amazing Games Available on ChatGPT Today!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-ai-plagiarism-checkers-fail-uncovering-the-impact-on-online-authenticity/"><u>Why AI Plagiarism Checkers Fail: Uncovering the Impact on Online Authenticity</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-choosing-chatgpt-plus-makes-sense-even-as-gpt-4-becomes-gratis-insights-into-six-key-factors/"><u>Why Choosing ChatGPT Plus Makes Sense Even as GPT-4 Becomes Gratis – Insights Into Six Key Factors</u></a></li>
+</ul></div>
 

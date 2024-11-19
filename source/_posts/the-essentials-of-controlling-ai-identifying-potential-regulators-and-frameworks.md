@@ -1,7 +1,7 @@
 ---
 title: "The Essentials of Controlling AI: Identifying Potential Regulators and Frameworks"
-date: 2024-09-06T21:41:28.396Z
-updated: 2024-09-07T21:41:28.396Z
+date: 2024-11-17T19:59:54.030Z
+updated: 2024-11-18T22:31:40.106Z
 tags:
   - chatgpt
   - open-ai
@@ -19,18 +19,6 @@ thumbnail: https://thmb.techidaily.com/b35a9a46671dd373ee6fb76f2e7c8c289a52fdab2
 
  This article will show you how to use ChatGPT’s storytelling prowess to play a text adventure RPG game on the chat. We’ll work you through how to create a prompt to achieve the kind of RPG you want. In the end, we’ll put the finished prompt so you can copy it.
 
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Tell ChatGPT Its Function and the Presentation Rules
 
  While this guide is geared towards more experienced ChatGPT users, new users might find this useful when they learn[how to use ChatGPT](https://www.makeuseof.com/how-does-chatgpt-work/) . After you get the hang of the AI, you can begin to create your prompt.
@@ -59,12 +47,6 @@ thumbnail: https://thmb.techidaily.com/b35a9a46671dd373ee6fb76f2e7c8c289a52fdab2
 
 ![ChatGPT displaying text adventure game output in code blocks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/chatgpt-displaying-text-adventure-game-output-in-code-blocks.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  As you can see, this is more compact and easier to look at than the default look.
 
 > 6\. The ‘Description’ must stay between 3 to 10 sentences.
@@ -93,12 +75,6 @@ thumbnail: https://thmb.techidaily.com/b35a9a46671dd373ee6fb76f2e7c8c289a52fdab2
 
 ![ChatGPT text-based RPG output showing ability scores and possible commands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/chatgpt-text-based-rpg-output-showing-ability-scores-and-possible-commands.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 > 3\. Start the game with 20/20 for ‘Health’, with 20 being the maximum health. Eating food, drinking water, or sleeping will restore health.
 >
 > 4\. Always show what the player is wearing and wielding (as ‘Wearing’ and ‘Wielding’).
@@ -128,6 +104,13 @@ thumbnail: https://thmb.techidaily.com/b35a9a46671dd373ee6fb76f2e7c8c289a52fdab2
 > 15\. The player can not spend more than the total value of ‘Gold’.
 
  These ‘gold’ rules help establish the spending mechanic and limit exploitation.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Craft the Story, Setting, and NPCs
 
@@ -177,12 +160,6 @@ thumbnail: https://thmb.techidaily.com/b35a9a46671dd373ee6fb76f2e7c8c289a52fdab2
 
  Combat rules can be especially tricky for the AI, so you might need to experiment with this a bit till you find something that sticks.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclude Your Prompt
 
  Your prompt conclusion should contain a few vital commands that will hold the game's structure.
@@ -201,16 +178,24 @@ And finally, don’t forget to actually start the game:
 
 ![GPT-4 generating texts for a turn-based text RPG](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gpt-4-generating-texts-for-a-turn-based-text-rpg.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you have ChatGPT Plus, it grants you access to GPT-4, a more intelligent version of GPT-3.5\. You should try running a few RPG sessions with GPT-4 instead of GPT3.5\. It's way more creative, better at crafting stories, remembering rules, and all-around better at improv. It costs $20/month, and it's a good tool for doing other things apart from text-based gaming.
 
  Should you pay the $20 solely for text-based gaming? Realistically, no. Unless you're a big fan of RPGs, it might not be worth the money. Also, GPT-4 has a limit of 50 messages every three hours, so you won't have endless fun, and you'll be returned to GPT-3 in a short while. Some users have also complained that[GPT-4 is slower than GPT3.5](https://www.makeuseof.com/why-is-chatgpt-4-so-slow-compared-to-chatgpt-35/) .
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## The Complete ChatGPT RPG Prompt
 
  We've combined everything and put it here for you to copy, so you can start your own game immediately.
@@ -310,25 +295,23 @@ And finally, don’t forget to actually start the game:
  Once again, don't forget that AI is still an emerging technology and will change as time goes on. Your experience using our prompts may differ significantly from ours.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Is This the Beginning of Open-Ended Gaming?
 
  ChatGPT has revealed that it is possible to have a game that changes with the player without following a pre-defined path or forcing the player to engage in the same NPC conversations. The future of gaming could mean entering your parameters and allowing AI to generate your ideal game without having a team of developers.
 
  You can tap into that future now with ChatGPT and create your own fun-filled adventure text game on the chat. Have fun, but remember that right now, AI is still very limited.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -337,4 +320,24 @@ And finally, don’t forget to actually start the game:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-firefoxs-video-downloader-boost-optimal-extensions-and-plugins-for-facebook-content/"><u>[New] 2024 Approved Firefox's Video Downloader Boost Optimal Extensions & Plugins for Facebook Content</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-top-windows-11-visualizer-for-rapid-images/"><u>[New] 2024 Approved Top Windows 11 Visualizer for Rapid Images</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-premium-video-boosts-the-9-finest-webcam-effects/"><u>[Updated] In 2024, Premium Video Boosts The 9 Finest Webcam Effects</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-smartphone-image-editing-the-best-free-layers-and-tools-guide-top-10/"><u>[Updated] Smartphone Image Editing - The Best Free Layers & Tools Guide (Top 10)</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-technological-testing-and-tracking-the-vll-method/"><u>[Updated] Technological Testing and Tracking The VLL Method</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-the-sims-4-graphics-issue-how-to-resolve-your-video-card-problem/"><u>Fixing the Sims 4 Graphics Issue: How to Resolve Your Video Card Problem</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-optimize-and-accelerate-your-sluggish-windows-10-pc-comprehensive-guide/"><u>How to Optimize and Accelerate Your Sluggish Windows 10 PC - Comprehensive Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-resolve-football-manager-202n-game-freezing-issues-on-your-computer/"><u>How to Resolve Football Manager 202N Game Freezing Issues on Your Computer</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/ipad-video-editing-essentials-top-picks/"><u>IPad Video Editing Essentials Top Picks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-superior-ai-crafting-a-fair-exchange-for-dollars/"><u>Is Superior AI Crafting a Fair Exchange for Dollars?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-using-auto-gpt-without-access-to-gpt-4-worth-your-time-and-resources/"><u>Is Using Auto-GPT Without Access to GPT-4 Worth Your Time and Resources?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/legal-considerations-when-leveraging-chatgpt-transformative-adjustments-to-googles-news-curation-and-ensuring-premium-mobile-internet-during-travel/"><u>Legal Considerations When Leveraging ChatGPT, Transformative Adjustments to Google's News Curation, & Ensuring Premium Mobile Internet During Travel</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/masterclass-building-dynamic-web-applications-via-chatgpt-integration/"><u>Masterclass: Building Dynamic Web Applications via ChatGPT Integration</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximize-your-scholarly-inquiry-with-4-powerful-ai-research-methods/"><u>Maximize Your Scholarly Inquiry with 4 Powerful AI Research Methods</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/quick-remedies-to-resolve-six-common-gpt-vehicle-problems/"><u>Quick Remedies to Resolve Six Common GPT Vehicle Problems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/redefining-autonomy-in-development-with-non-chatgpt-software/"><u>Redefining Autonomy in Development with Non-ChatGPT Software</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionize-your-daily-routine-with-chatgpts-smart-solutions/"><u>Revolutionize Your Daily Routine with ChatGPT's Smart Solutions</u></a></li>
+</ul></div>
 

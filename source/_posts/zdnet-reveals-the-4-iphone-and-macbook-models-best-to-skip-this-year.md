@@ -1,7 +1,7 @@
 ---
 title: ZDNet Reveals the 4 iPhone & MacBook Models Best to Skip This Year!
-date: 2024-11-05T20:18:07.688Z
-updated: 2024-11-07T20:55:10.154Z
+date: 2024-11-17T23:47:19.301Z
+updated: 2024-11-18T23:08:08.113Z
 tags:
   - apple
 categories:
@@ -28,6 +28,13 @@ We rounded up the top MP3 players you can buy by evaluating storage, battery lif
 
 **Also:** [**The best sound systems you can buy**](https://www.zdnet.com/home-and-office/home-entertainment/best-sound-system/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The best MP3 players of 2024
 
 Show less 
@@ -43,6 +50,13 @@ Cons
 * Can be a bit tricky to use with a Mac
 
 ## Sony NW-A306 Walkman
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best MP3 player overall
 
@@ -72,6 +86,13 @@ Pros
 Cons 
 * Does not bookmark your position in a book or song
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## AGPTEK A02X 32GB MP3 Player
 
 ### Best budget MP3 player
@@ -90,14 +111,14 @@ Show less
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C5FWM9XD%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce3db7b21-4f97-4659-9487-95c216f484c1%7Cdtp&dtb=1)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Mighty 3 Spotify Music Player
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best mini MP3 player
 
@@ -124,21 +145,7 @@ Cons
 * Quick charge isn't really that quick
 * Older software and limited memory
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fiio M11S
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best lossless audio MP3 player
 
@@ -152,13 +159,6 @@ The player comes with Android 10 right out of the box so that you can access the
 
 Show Expert Take Show less 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What is the best MP3 player?
 
 The best MP3 player for most people is the Sony NW-A306 Walkman, based on compatibility and price. It also has an impressively long battery life of up to 36 hours. 
@@ -169,13 +169,6 @@ The best MP3 player for most people is the Sony NW-A306 Walkman, based on compat
 | AGPTEK A02X          | $30       | 32GB plus microSD                    | Up to 40 hours       |
 | Mighty 3             | $125      | 8GB                                  | 8 hours              |
 | Fiio M11S            | $500      | 32GB                                 | 13 hours             |
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Which MP3 player is right for you?
 
@@ -213,16 +206,16 @@ This all depends on the amount of storage that is on the MP3 device. The number 
 * 32GB = 8,000 songs
 * 64GB = 16,000 songs
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is it worth it to buy an MP3 player?
 
 In 2024, you might wonder if it's even worth buying an MP3 player when you can just listen to music on your smartphone. However, MP3 players are great for kids who want to listen to music but don't yet have a smartphone, people who like to run or hike outside, or those who simply want to listen to music without any distractions from their phones.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What are the different audio formats?
 
@@ -237,6 +230,13 @@ Many MP3 players today support multiple audio files. Here are the most popular o
 ## Do MP3 players need Wi-Fi?
 
 No. Because MP3 players don't need Wi-Fi to work, you can use them in more situations. However, some MP3 players do have Wi-Fi connection capabilities, such as the Mighty Vibe player.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Are there alternative MP3 players worth considering?
 
@@ -284,22 +284,21 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-designing-dramatic-podcast-clips/"><u>[Updated] 2024 Approved Designing Dramatic Podcast Clips</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-smart-strategies-for-buying-economical-gopros/"><u>[Updated] In 2024, Smart Strategies for Buying Economical GoPros</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/20-anker-battery-pack-the-ultimate-solution-for-your-portable-charger-woes-insights-from-zdnet/"><u>$20 Anker Battery Pack: The Ultimate Solution for Your Portable Charger Woes - Insights From ZDNet</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-face-forward-comparing-apple-and-samsungs-face-detection-capabilities/"><u>2024 Approved Face Forward Comparing Apple and Samsung's Face-Detection Capabilities</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-hilarityhub-online-tool-for-funny-image-crafting/"><u>2024 Approved HilarityHub Online Tool for Funny Image Crafting</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/best-screen-capture-alternatives-for-the-cost-conscious-user-for-2024/"><u>Best Screen Capture Alternatives for the Cost-Conscious User for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/comprehensive-list-of-apple-watches-compatible-with-watchos-11-models-excluded/"><u>Comprehensive List of Apple Watches Compatible with WatchOS 11 – Models Excluded</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-the-most-secure-and-stylish-smart-lock-perfect-for-your-iphone-without-sacrificing-aesthetics-zdnet/"><u>Discover The Most Secure & Stylish Smart Lock Perfect for Your iPhone Without Sacrificing Aesthetics | ZDNET</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/experience-gaming-like-never-before-with-apple-sports-the-free-iphone-application-every-enthusiast-dreams-of-spotlighted/"><u>Experience Gaming Like Never Before with Apple Sports: The Free iPhone Application Every Enthusiast Dreams Of | Spotlighted</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/hoest-de-beste-manieren-om-gegevens-terug-te-recupereren-van-een-samsung-ssd/"><u>Hoest De Beste Manieren Om Gegevens Terug Te Recupereren Van Een Samsung SSD</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-snowy-scores-winter-2022-wonders-unveiled/"><u>In 2024, Snowy Scores Winter 2022 Wonders Unveiled</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-paying-up-to-20-a-month-for-enhanced-apple-features-worth-it-industry-predictions-revealed/"><u>Is Paying Up to $20 a Month for Enhanced Apple Features Worth It? Industry Predictions Revealed</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/the-ultimate-guide-to-free-software-for-transforming-mkv-videos-into-dvd-format/"><u>The Ultimate Guide to Free Software for Transforming MKV Videos Into DVD Format</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-rated-mp3-players-expert-rankings-and-reviews/"><u>Top Rated MP3 Players - Expert Rankings and Reviews</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlock-amazing-value-with-the-iphone-14-plus-exceptional-endurance-and-reasons-to-be-charmed/"><u>Unlock Amazing Value with the iPhone 14 Plus: Exceptional Endurance & Reasons to Be Charmed!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/update-your-rtx-ablishing-a-safe-environment-in-which-individuals-can-express-their-emotions-and-offering-coping-strategies-to-manage-intense-feelings-const107/"><u>Update Your RTX Ablishing a Safe Environment in Which Individuals Can Express Their Emotions, and Offering Coping Strategies to Manage Intense Feelings Constructively without Resorting to Self-Harm</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/windows-vs-apple-silicon-can-arm-processing-surprise-the-tech-world/"><u>Windows Vs. Apple Silicon: Can ARM Processing Surprise the Tech World?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/5-smart-ways-to-save-your-roblox-gaming-on-apple-computers/"><u>5 Smart Ways to Save Your Roblox Gaming on Apple Computers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-a-blue-tint-problem-eight-effective-methods-for-your-tvs-visual-clarity/"><u>Fixing a Blue Tint Problem: Eight Effective Methods for Your TV's Visual Clarity</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/going-back-in-time-your-android-movie-method/"><u>Going Back in Time Your Android Movie Method</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-realme-c53-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Realme C53? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-vanguard-of-virtual-fame-instagrams-25-luminaries/"><u>In 2024, The Vanguard of Virtual Fame Instagram's 25 Luminaries</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/keyboard-charms-how-to-effortlessly-type-heart-graphics-in-text/"><u>Keyboard Charms: How to Effortlessly Type Heart Graphics in Text</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/master-the-art-of-youtube-video-scriptwriting-with-chatgpts-powerful-tools/"><u>Master the Art of YouTube Video Scriptwriting with ChatGPT's Powerful Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximizing-productivity-using-chatgpt-in-your-excel-workflows/"><u>Maximizing Productivity: Using ChatGPT in Your Excel Workflows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/overcoming-spreadsheet-phobia-how-to-leverage-chatgpt-in-excel/"><u>Overcoming Spreadsheet Phobia: How to Leverage ChatGPT in Excel</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/realms-of-possibility-ai-and-the-reality-shift/"><u>Realms of Possibility: AI and the Reality Shift</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Tecno Camon 20 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionizing-document-processing-top-gpt-chat-tools/"><u>Revolutionizing Document Processing: Top GPT Chat Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/setting-up-voicegpt-a-step-by-step-guide-to-achieve-voice-activated-chatgpt-on-your-android-device/"><u>Setting Up VoiceGPT: A Step-by-Step Guide to Achieve Voice-Activated ChatGPT on Your Android Device</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/speedometer-and-cycling-metrics/"><u>Speedometer & Cycling Metrics</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-choosing-top-hardware-solutions-by-tom/"><u>The Ultimate Guide to Choosing Top Hardware Solutions by Tom</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-samsung-galaxy-m54-5g-by-drfone-android/"><u>Universal Unlock Pattern for Samsung Galaxy M54 5G</u></a></li>
 </ul></div>
 

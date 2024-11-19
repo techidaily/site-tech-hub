@@ -1,7 +1,7 @@
 ---
 title: "Electron Capture Detector (ECD):"
-date: 2024-11-02T03:27:57.363Z
-updated: 2024-11-08T00:26:30.190Z
+date: 2024-11-14T23:15:25.691Z
+updated: 2024-11-19T00:15:23.771Z
 tags:
   - apple
 categories:
@@ -37,6 +37,13 @@ This is the Screen Recording option we'll be adding to Control Center
 
 Michael Gariffo
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Add the Screen Recording button to your Control Center
 
 Once you're in the Control Center section, you'll see a couple of toggles, an "Included Controls" section with all of the options that have already been added to your Control Center, and a section called "More Controls." 
@@ -48,10 +55,10 @@ This is the screen recording button we'll use to start the recording.
 Michael Gariffo
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Open your Control Center
@@ -75,10 +82,10 @@ Your clock will look like this as long as Screen Recording is active.
 Michael Gariffo
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 5: Record
@@ -89,13 +96,6 @@ This is the confirmation box that will appear when you stop your recording.
 
 Michael Gariffo
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5\. End your recording
 
 When you're ready to end your recording, there are two ways to stop it. The first is to tap the red clock in the top left of your screen. This will produce a dialogue box like the one seen above. You'll need to tap "Stop" to end your recording. If you're in a full-screen app that hides the clock, you can also once again pull out your Control Center and tap the Screen Recording button. If you use this second method, the recording will end immediately, with no confirmation required. 
@@ -105,19 +105,6 @@ In both cases, the recording you just produced will immediately be saved to your
 **Also:** [How to record a call on your iPhone](https://www.zdnet.com/article/how-to-record-a-phone-call-on-your-iphone/)
 
 ## FAQs
-
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What does the Screen Recording app actually capture?
 
@@ -130,6 +117,13 @@ Unfortunately, the built-in iPhone tool for recording your screen doesn't suppor
 * [Techsmith Capture](https://apps.apple.com/us/app/techsmith-capture/id1266321056) \- A straightforward screen recorder app that works almost identically to the built-in process, but supports adding real-time narration using the iPhone's built-in microphones.
 * [RecordIt!](https://apps.apple.com/us/app/record-it-screen-recorder/id1245356545) \- A slightly more complex option that also allows for real-time narration or post-capture editing. It also supports face cam captures, so you can record your screen and yourself at the same time.
 * [Screen Recorder +](https://apps.apple.com/us/app/screen-recorder/id1380506650) \- A similar option to RecordIt!, Screen Recorder + touts its ability to start up in just one second, for those spur-of-the-moment captures.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How can I share my captured video?
 
@@ -167,21 +161,24 @@ Be aware that some apps, particularly email and messaging apps that don't rely o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-convert-youtube-sounds-to-wider-reach-mp3-for-mac-users/"><u>[New] 2024 Approved Convert YouTube Sounds to Wider Reach MP3 for Mac Users</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-idea-to-impact-top-8-online-courses-for-new-creators/"><u>[Updated] In 2024, From Idea to Impact Top 8 Online Courses for New Creators</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-realme-11-proplus-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Realme 11 Pro+ Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/best-places-to-pre-order-ipad-pro-ipad-air-and-apple-pencil-pro-top-current-offers/"><u>Best Places to Pre-Order iPad Pro, iPad Air & Apple Pencil Pro: Top Current Offers</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/can-you-unlock-apple-iphone-13-pro-max-after-forgetting-the-passcode-by-drfone-ios/"><u>Can You Unlock Apple iPhone 13 Pro Max After Forgetting the Passcode?</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/discovering-the-top-5-engine-choices-for-your-drones/"><u>Discovering the Top 5 Engine Choices for Your Drones</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/essential-steps-locating-your-misplaced-airpods-and-preventing-future-losses-insights-from-zdnet/"><u>Essential Steps: Locating Your Misplaced AirPods & Preventing Future Losses - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/guide-to-iphone-call-recording-legality-by-state-tech-insights/"><u>Guide to iPhone Call Recording - Legality by State | Tech Insights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-download-and-update-zebra-zp450-drivers-a-complete-walkthrough/"><u>How to Download & Update Zebra ZP450 Drivers: A Complete Walkthrough</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-step-by-step-how-to-erase-photographic-backgrounds/"><u>In 2024, Step-by-Step How to Erase Photographic Backgrounds</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/iphone-1e-selection-navigating-through-regular-plus-pro-and-pro-max-options-with-expert-tips-from-zdnet/"><u>IPhone 1E Selection: Navigating Through Regular, Plus, Pro & Pro Max Options with Expert Tips From ZDNET</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/leading-tablet-picks-in-depth-analysis-and-comparisons/"><u>Leading Tablet Picks : In-Depth Analysis & Comparisons</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/safe-and-smart-choosing-the-ideal-child-phone-features-ratings-and-picks-by-tech-experts/"><u>Safe and Smart: Choosing the Ideal Child Phone - Features, Ratings & Picks by Tech Experts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/save-24-on-airpods-pro-2-the-latest-evolved-earpiece-with-built-in-hearing-aid-compatibility/"><u>Save 24% on AirPods Pro 2 - The Latest Evolved Earpiece with Built-In Hearing Aid Compatibility</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-rated-magsafe-wallet-options-comprehensive-reviews-by-tech-experts/"><u>Top-Rated MagSafe Wallet Options : Comprehensive Reviews by Tech Experts</u></a></li>
-<li><a href="https://windows11.techidaily.com/transform-work-processes-embrace-the-power-of-flow-launcher/"><u>Transform Work Processes: Embrace the Power of Flow Launcher</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-restored-full-screen-happy-obs-users/"><u>[Updated] Restored Full Screen, Happy OBS Users</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-guide-to-filming-and-refining-videos-via-adobe-connect/"><u>2024 Approved Guide to Filming & Refining Videos via Adobe Connect</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-simplify-images-remove-the-environmental-elements/"><u>2024 Approved Simplify Images Remove the Environmental Elements</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-tailor-made-youtube-url-strategies-an-easier-approach/"><u>2024 Approved Tailor-Made YouTube URL Strategies An Easier Approach</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/android-sound-logging-without-need-for-rooting-for-2024/"><u>Android Sound Logging Without Need for Rooting for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/h265-video-converter-perfetto-elaborazione-ottimizzata-per-windows-10-e-mac/"><u>H.265 Video Converter Perfetto - Elaborazione Ottimizzata per Windows 10 E Mac</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-comparative-study-samsung-vs-traditional-photo-tools/"><u>In 2024, Comparative Study Samsung vs Traditional Photo Tools</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-xiaomi-redmi-note-12r-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Xiaomi Redmi Note 12R Face Lock?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-the-ai-act-of-europe-what-it-means-for-future-chatbots-including-chatgpt/"><u>Navigating the AI Act of Europe: What It Means for Future Chatbots Including ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-the-limits-of-chatgpts-response-tokens-insights-and-tips/"><u>Navigating the Limits of ChatGPT's Response Tokens: Insights & Tips</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-the-realm-of-ai-dissecting-public-private-and-personal-ai-types/"><u>Navigating the Realm of AI: Dissecting Public, Private & Personal AI Types</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-the-skies-copilot-versions-compared/"><u>Navigating the Skies: CoPilot Versions Compared</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/new-era-microsofts-ai-on-bing-search/"><u>New Era: Microsoft's AI on Bing Search</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/overcoming-gpts-top-6-conversational-blunders-and-fixes/"><u>Overcoming GPT's Top 6 Conversational Blunders & Fixes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/promoting-safe-interactions-on-ai-platforms-5-key-guidelines-for-kids-using-chatgpt/"><u>Promoting Safe Interactions on AI Platforms: 5 Key Guidelines for Kids Using ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/prompt-perfection-top-5-ai-tutorials-online/"><u>Prompt Perfection: Top 5 AI Tutorials Online</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/pursue-justice-in-digital-realms-experience-4-ai-mysteries/"><u>Pursue Justice in Digital Realms: Experience 4 AI Mysteries</u></a></li>
+<li><a href="https://discover-data.techidaily.com/step-by-step-tutorial-saving-magic-stream-content-as-mp4-or-avi-on-macos-and-windows-systems/"><u>Step-by-Step Tutorial: Saving Magic Stream Content as MP4 or AVI on macOS and Windows Systems</u></a></li>
 </ul></div>
 

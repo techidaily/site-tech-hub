@@ -1,7 +1,7 @@
 ---
 title: IMessage Communication with Windows PCs - Tips & Tricks Unveiled (ZDNet)
-date: 2024-11-06T22:52:23.337Z
-updated: 2024-11-07T22:53:46.280Z
+date: 2024-11-12T23:44:38.393Z
+updated: 2024-11-18T20:34:47.902Z
 tags:
   - apple
 categories:
@@ -44,6 +44,13 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 
 ## How to send and receive iMessages on Windows
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Use Microsoft Phone Link
 
 Before you can use Phone Link, you'll have to take care of a few items on your phone and your PC.
@@ -62,6 +69,13 @@ Click the Start button, go to All Apps, and select Phone Link from the list. The
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Scan the QR codes
 
 A QR code should appear in the Phone Link app. Launch the camera on your iPhone and scan the code. On your iPhone, tap the link at the bottom of the camera screen to pair your devices. If you can't scan the code for any reason, click the link to continue manually without a QR code and follow those steps.
@@ -72,31 +86,24 @@ You should see pairing prompts on both your iPhone and your Windows 11 computer.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Sync your iPhone data
 
 Your phone should ask if you want your PC to receive notifications from your iPhone. Tap Allow to OK this. Go to the Bluetooth settings screen on your phone, tap the Info icon for your computer, and turn on the switches for Show Notifications, Sync Contacts, and Share System Notifications. Doing so will let you fully access and use the apps and data from your phone on your PC, including messages.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Run Phone Link
 
 The Phone Link welcome screen should appear on your PC and ask if you want to open the app each time you log into Windows. If you do, check the box.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Access your recent messages
 
@@ -111,20 +118,13 @@ You can also start a new conversation. To do this, select one of your displayed 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Use Intel Unison
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1\. Install Intel Unison
 
@@ -152,6 +152,13 @@ At the "Let's get started" screen in the Windows Unison app, click the icon for 
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  4\. Go to the Messages screen
 
 At the Messages screen, click the icon for "Compose a new message." Choose the recipient from your list of contacts or type the name, email address, or phone number for someone not in your contact list.
@@ -163,13 +170,6 @@ Screenshot by Lance Whitney/ZDNET
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Receive a message
 
@@ -207,20 +207,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-softening-the-edges-a-guide-to-dimmed-audio-in-logic-pro-for-2024/"><u>[New] Softening the Edges A Guide to Dimmed Audio in Logic Pro for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-cutting-edge-methods-for-recording-presentations-for-2024/"><u>[Updated] Cutting Edge Methods for Recording Presentations for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-transforming-social-media-traffic-into-revenue/"><u>[Updated] In 2024, Transforming Social Media Traffic Into Revenue</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-tweeted-timelines-a-complete-guide-to-video-backups-for-2024/"><u>[Updated] Tweeted Timelines A Complete Guide to Video Backups for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-resolving-ntoskrnlexes-usage-spikes/"><u>Diagnosing and Resolving ntoskrnl.exe's Usage Spikes</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/discover-the-champion-of-value-a-comprehensive-guide-to-fellowes-microban-wireless-keyboard/"><u>Discover the Champion of Value: A Comprehensive Guide to Fellowes Microban Wireless Keyboard</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exciting-enhancements-await-discover-the-upcoming-beneficial-perks-for-select-apple-airpod-models-in-autumn-insights-from-zdnet/"><u>Exciting Enhancements Await: Discover the Upcoming Beneficial Perks for Select Apple AirPod Models in Autumn - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exclusive-look-at-apples-latest-upgrades-for-all-airpods-lineup-reveal-the-top-four-must-have-improvements/"><u>Exclusive Look at Apple's Latest Upgrades for All AirPods Lineup – Reveal the Top Four Must-Have Improvements</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/forget-rice-apple-recommends-these-methods-to-revive-your-wet-smartphone-exclusive-guide-by-zdnet/"><u>Forget Rice, Apple Recommends These Methods to Revive Your Wet Smartphone | Exclusive Guide by ZDNET</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-cricket-apple-iphone-15-for-free-by-drfone-ios/"><u>In 2024, How To Unlock Cricket Apple iPhone 15 for Free</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-freelancers-companion-easy-and-affordable-audio-effect-additions/"><u>In 2024, The Freelancer's Companion Easy and Affordable Audio Effect Additions</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/the-ultimate-look-at-logitechs-high-quality-4k-cam/"><u>The Ultimate Look at Logitech's High-Quality 4K Cam</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-3-iphone-13-care-gadgets-that-will-make-it-last-forever-tips-from-experts/"><u>Top 3 iPhone 13 Care Gadgets That Will Make It Last Forever: Tips From Experts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ultimate-guide-to-selecting-the-perfect-airtag-wallet-in-2er-exclusive-insights-and-ratings-digitalsleuth/"><u>Ultimate Guide to Selecting the Perfect AirTag Wallet in 2Er: Exclusive Insights & Ratings | DigitalSleuth</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/upgrade-or-not-a-detailed-analysis-of-ipad-air-4-versus-ipad-air-5-features-and-performance-digital-world-insights/"><u>Upgrade or Not? A Detailed Analysis of iPad Air 4 Versus iPad Air 5 Features and Performance | Digital World Insights</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-free-guide-to-capturing-windows-3-quick-steps/"><u>[New] Free Guide to Capturing Windows (3 Quick Steps)</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-elite-racing-titles-our-five-favorites/"><u>[Updated] Elite Racing Titles Our Five Favorites</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-picart-strategies-for-stunning-image-purification-for-2024/"><u>[Updated] PicArt Strategies for Stunning Image Purification for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/best-of-the-best-in-screenshots-and-recorders-iobit-and-movavi-face-off-reviewed/"><u>Best of the Best in Screenshots & Recorders: IObit and Movavi Face-Off Reviewed</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-guide-to-the-samsung-galaxy-tab-a-2er-2020-noteworthy-omission/"><u>Comprehensive Guide to the Samsung Galaxy Tab A (2Er 2020) - Noteworthy Omission</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-motorola-moto-g14-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Motorola Moto G14 to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-vivo-v29-pro-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Vivo V29 Pro FRP</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-realme-gt-neo-5-se-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Realme GT Neo 5 SE Phones</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/quick-guide-to-leveraging-gpt-4-in-todays-chatgpt/"><u>Quick Guide to Leveraging GPT-4 in Today's ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionize-text-entry-integrating-bing-ai-on-android-devices/"><u>Revolutionize Text Entry: Integrating Bing AI on Android Devices</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionizing-hr-routines-via-chatgpt/"><u>Revolutionizing HR Routines via ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/seamless-integration-of-chatgpt-into-your-linux-system-a-step-by-step-guide/"><u>Seamless Integration of ChatGPT Into Your Linux System: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/seamless-integration-of-chatgpt-into-your-linux-system-a-step-by-step-installation-guide/"><u>Seamless Integration of ChatGPT Into Your Linux System: A Step-by-Step Installation Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/sharing-tips-easily-distribute-conversations-from-your-chatgpt-sessions/"><u>Sharing Tips: Easily Distribute Conversations From Your ChatGPT Sessions</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/why-the-samsung-galaxy-a51-is-a-must-have-in-the-budget-friendly-5g-phone-category/"><u>Why the Samsung Galaxy A51 Is a Must-Have in the Budget-Friendly 5G Phone Category</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Professional Workstation Assessment on the New Microsoft Surface Pro Eight Experts
-date: 2024-10-26T08:51:08.298Z
-updated: 2024-11-02T07:32:26.139Z
+date: 2024-11-16T22:05:38.714Z
+updated: 2024-11-18T17:26:36.451Z
 tags:
   - apple
 categories:
@@ -49,16 +49,16 @@ Jason Cipriani/ZDNet
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
 
 <!-- affiliate ads begin -->
-<span id="1982596">
+<span id="1982462">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -82,6 +82,13 @@ When you open the kickstand, you'll find a small door in the bottom left corner 
 You don't have to use a physical SIM card thanks to the Pro 8's support for an eSIM, but since I often switch between the Pro X and iPad Pro, I already had a dedicated SIM card with a data-only plan tied to it. 
 
 **Also:** [**eSIM vs. SIM: What's the difference?**](https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -107,13 +114,6 @@ Inside the Surface Pro 8 I've been testing is an 11th Generation Intel Core i7 p
 
 The LTE options range in price from $1,349 for an Intel Core i5, 8GB of memory, and 128GB of storage up to the build I tested, which normally retails for $1,849 but is currently on sale for $1,599\. Again, those prices don't include a keyboard. 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### More Microsoft
 
 * [The best Windows laptop models: Comparing Dell, Samsung, Lenovo, and more](https://www.zdnet.com/article/best-windows-laptop/)
@@ -137,13 +137,6 @@ The ability to connect a tablet to an external display and have it actually work
 
 When working on my iPad Pro connected to a monitor, whatever's on the iPad's screen is mirrored on the larger display. There are some apps that use Apple's rudimentary API for external displays, but it's not great. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [The best iPads: Which model should you buy? Apple's tablet lineup has a wide range of prices and capabilities.  Read now](https://www.zdnet.com/article/best-ipad/)
@@ -153,6 +146,13 @@ Also, I have a lot of workarounds for completing certain tasks on the iPad. For 
 I realize that the Pro 8 is running a full-fledged operating system in Windows 11, whereas the iPad Pro is running a mobile-first operating system in iPadOS, but the devices are relatively the same size and target the same type of user. Even the prices are close enough that the comparison is warranted. 
 
 The total cost of the Surface Pro 8 with LTE, along with the Signature Keyboard Cover with Slim Pen is $2,128\. The iPad Pro with 5G, 16GB of memory, 1TB of storage, Apple's Magic Keyboard with trackpad and an Apple Pencil is $2,449\. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## There are still many things the iPad Pro does better
 
@@ -167,10 +167,10 @@ I prefer to use Apple's Mail app along with my iCloud+ personal domain as oppose
 Another thing I love about my iPad Pro is that its performance is reliable and consistent. When using the Pro 8 with multiple apps open, there would be a slight delay or pause before an app would appear after being minimized at times. It wasn't specific to any one app; I frequently experienced it with Thunderbird, Discord, and Slack. 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -224,18 +224,20 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-complete-manual-for-expert-use-of-screen-recorder-by-zd-soft/"><u>[Updated] Complete Manual for Expert Use of Screen Recorder by ZD Soft</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-step-by-step-tutorial-for-seamless-capture-of-youtube-streaming-across-devices-for-2024/"><u>[Updated] Step-by-Step Tutorial for Seamless Capture of YouTube Streaming Across Devices for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/iuewoewnmoocroocpooditog44ot44oh44kq44gu44ki44k544oa44kv44oi5qplusu44ks44gg44gplus44gp5yih44kk5pu44gi44kl5pa55rovig/"><u>簡単ガイド: ビデオのアスペクト比をうまく切り替える方法</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/considerations-regulieres-pour-windows-video-ia-questions-souvent-posees-avec-des-answers-valides/"><u>Considérations Régulières Pour Windows Video IA : Questions Souvent Posées Avec Des Answers Valides</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/cutting-the-final-5-minutes-of-your-computers-playback-in-windows-1011/"><u>Cutting the Final 5 Minutes of Your Computer's Playback in Windows 10/11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discovering-taylor-swift-hassle-free-mp3-downloads-to-enhance-your-musical-journey/"><u>Discovering Taylor Swift: Hassle-Free MP3 Downloads to Enhance Your Musical Journey</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/easy-steps-capturing-the-hottest-videos-from-youtube-using-a-reliable-video-downloader/"><u>Easy Steps: Capturing the Hottest Videos From YouTube Using a Reliable Video Downloader</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/effortless-guide-swift-conversion-of-mov-files-into-high-quality-mp3-audio/"><u>Effortless Guide: Swift Conversion of MOV Files Into High-Quality MP3 Audio</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-realme-gt-neo-5-se-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme GT Neo 5 SE without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-on-iphone-15-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data on iPhone 15? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/kodi-troubleshooting-guide-successfully-overcoming-dependency-installation-errors/"><u>Kodi Troubleshooting Guide: Successfully Overcoming Dependency Installation Errors</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-rated-mp3-players-comprehensive-reviews/"><u>Top Rated MP3 Players : Comprehensive Reviews</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/unstuck-your-dota-2-microphone-proven-solutions-to-restore-audio-communication/"><u>Unstuck Your Dota 2 Microphone - Proven Solutions to Restore Audio Communication</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-ios-leading-edge-5-exceptional-psp-game-tools/"><u>[New] IOS Leading Edge 5 Exceptional PSP Game Tools</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-fundamental-guidelines-for-saving-lol-scores/"><u>[Updated] 2024 Approved Fundamental Guidelines for Saving LOL Scores</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-top-picks-for-your-android-the-current-best-facebook-videos-downloaders-ranked/"><u>[Updated] 2024 Approved Top Picks for Your Android - The Current Best Facebook Videos Downloaders Ranked</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/affordable-precision-on-the-road-an-in-depth-look-at-bouncies-user-friendly-gps-tracker-for-drivers/"><u>Affordable Precision on the Road: An In-Depth Look at Bouncie’s User-Friendly GPS Tracker for Drivers</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/best-ipads-compared-finding-your-perfect-match/"><u>Best iPads Compared: Finding Your Perfect Match</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-the-showdown-in-depth-analysis-of-chatgpt-and-microsofts-bing-bot-side-by-side/"><u>Decoding the Showdown: In-Depth Analysis of ChatGPT and Microsoft's Bing Bot, Side by Side</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/digital-minds-may-displace-traditional-jobs/"><u>Digital Minds May Displace Traditional Jobs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/do-interactive-exchanges-with-users-evolve-chatgpts-functionality/"><u>Do Interactive Exchanges with Users Evolve ChatGPT’s Functionality?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/drive-smart-and-smarter-mercedes-benz-vehicles-now-equipped-with-voice-controlled-ai-assistant-chatgpt/"><u>Drive Smart and Smarter: Mercedes-Benz Vehicles Now Equipped with Voice-Controlled AI Assistant, ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-installation-and-operation-of-microsoft-copilot-on-macos/"><u>Effortless Installation and Operation of Microsoft Copilot on macOS</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enjoy-a-world-of-gaming-with-chatgpts-top-6-innovative-titles/"><u>Enjoy a World of Gaming with ChatGPT's Top 6 Innovative Titles</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ensuring-continuity-of-gpt-powered-dialogues/"><u>Ensuring Continuity of GPT-Powered Dialogues</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/how-to-save-streaming-content-as-various-file-types-mp4-avi-mp3-on-windows-and-macos/"><u>How to Save Streaming Content as Various File Types (MP4, AVI, MP3) on Windows and macOS</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-full-course-on-becoming-a-yt-creator-expert-for-2024/"><u>The Full Course on Becoming a YT Creator Expert for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-your-footage-techniques-for-outstanding-gopro-edits-for-2024/"><u>Transform Your Footage Techniques for Outstanding GoPro Edits for 2024</u></a></li>
 </ul></div>
 

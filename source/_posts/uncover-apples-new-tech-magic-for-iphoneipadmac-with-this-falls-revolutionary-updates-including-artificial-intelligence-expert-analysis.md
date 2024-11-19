@@ -1,7 +1,7 @@
 ---
 title: Uncover Apple's New Tech Magic for iPhone/iPad/Mac with This Fall’s Revolutionary Updates Including Artificial Intelligence | Expert Analysis
-date: 2024-11-05T03:51:23.279Z
-updated: 2024-11-07T20:54:18.831Z
+date: 2024-11-17T23:24:54.309Z
+updated: 2024-11-18T21:57:07.152Z
 tags:
   - apple
 categories:
@@ -61,10 +61,16 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -74,13 +80,6 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -101,10 +100,16 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -122,10 +127,10 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -137,6 +142,13 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -218,16 +230,24 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-enhance-audience-reach-share-twitch-videos-on-facebook/"><u>[New] 2024 Approved Enhance Audience Reach Share Twitch Videos on Facebook</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-starting-an-impactful-fb-community-giving-campaign/"><u>[Updated] 2024 Approved Starting an Impactful FB Community Giving Campaign</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-endless-possibilities-with-chatgpts-my-bot-capabilities/"><u>Discover Endless Possibilities With ChatGPT's My Bot Capabilities</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/educators-guide-to-detecting-ai-4-cutting-edge-tools-to-verify-chatgpt-output-in-professional-settings/"><u>Educator's Guide to Detecting AI: 4 Cutting-Edge Tools to Verify ChatGPT Output in Professional Settings</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/effortless-prompt-crafting-a-browser-extension-for-chatgpt-users/"><u>Effortless Prompt Crafting: A Browser Extension for ChatGPT Users</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/elevating-engagement-analyzing-chatgpt-plus-strengths-and-weaknesses/"><u>Elevating Engagement: Analyzing ChatGPT Plus Strengths and Weaknesses</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/explore-the-ultimate-selection-of-transition-apps-for-2024/"><u>Explore the Ultimate Selection of Transition Apps for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-iphone-12-pro-max-storage-not-loadingshowing-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix iPhone 12 Pro Max Storage Not Loading/Showing | Stellar</u></a></li>
-<li><a href="https://review-topics.techidaily.com/identify-missing-or-malfunctioning-hardware-drivers-with-windows-device-manager-on-windows-11-and-10-by-drivereasy-guide/"><u>Identify missing or malfunctioning hardware drivers with Windows Device Manager on Windows 11 & 10</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/instagram-edition-the-finest-picture-fixers-for-2024/"><u>Instagram Edition The Finest Picture Fixers for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-to-oppo-reno-10-proplus-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Oppo Reno 10 Pro+ 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-elevate-your-youtube-presence-with-audio/"><u>[Updated] 2024 Approved Elevate Your Youtube Presence with Audio</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-the-leading-list-for-best-vector-resources/"><u>[Updated] 2024 Approved The Leading List for Best Vector Resources</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-directly-stream-google-meet-youtube-edition-steps-for-2024/"><u>[Updated] Directly Stream Google Meet - YouTube Edition Steps for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-how-to-use-whiteboard-in-zoom-meeting-desktopiosandroid/"><u>2024 Approved How to Use Whiteboard in Zoom Meeting [Desktop/iOS/Android]</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/te-your-youtube-presence-the-art-of-seo-optimization/"><u>Elevate Your YouTube Presence The Art of SEO Optimization</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-sony-xperia-10-v-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Sony Xperia 10 V Phone Network-Ready</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-fix-ultimate-tips-and-tricks-to-correctly-address-windows-update-error-code-0x8024402c/"><u>Mastering the Fix: Ultimate Tips & Tricks to Correctly Address Window's Update Error Code 0X8024402c</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/new-horizons-in-conversational-ai-chatgpts-exciting-latest-developments-revealed/"><u>New Horizons in Conversational AI: ChatGPT's Exciting Latest Developments Revealed!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/no-real-chatgpt-client-exists-for-windows-dont-fall-victim-to-malware-disguised-alternatives/"><u>No Real ChatGPT Client Exists for Windows; Don't Fall Victim to Malware-Disguised Alternatives!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/not-on-board-with-waiting-for-chatgpt-embrace-this-superb-free-open-source-solution-now/"><u>Not on Board with Waiting for ChatGPT? Embrace This Superb Free, Open-Source Solution Now</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/premier-mic-choices-perfected-for-high-res-videos-for-2024/"><u>Premier Mic Choices Perfected for High-Res Videos for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revive-stuck-chatgpt-iphone-solutions-you-can-implement-today/"><u>Revive Stuck ChatGPT: IPhone Solutions You Can Implement Today</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/seamless-service-chatgpts-role-in-whatsapp-assistance/"><u>Seamless Service: ChatGPT's Role in WhatsApp Assistance</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/solving-login-problems-with-chatgpt-a-comprehensive-guide/"><u>Solving Login Problems with ChatGPT: A Comprehensive Guide</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/starting-conversation-in-japan-essential-on-calls/"><u>Starting Conversation in Japan: Essential On-Calls</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/streamlining-support-how-to-connect-chatgpt-and-whatsapp-effectively/"><u>Streamlining Support: How to Connect ChatGPT and WhatsApp Effectively</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/swift-solutions-to-chatgpt-errors-the-essential-fixes-list/"><u>Swift Solutions to ChatGPT Errors: The Essential Fixes List</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tech-savvy-prompts-top-ai-instructive-platforms/"><u>Tech-Savvy Prompts: Top AI Instructive Platforms</u></a></li>
+<li><a href="https://facebook.techidaily.com/vital-tactics-ensuring-responsible-fb-password-management/"><u>Vital Tactics: Ensuring Responsible FB Password Management</u></a></li>
 </ul></div>
 

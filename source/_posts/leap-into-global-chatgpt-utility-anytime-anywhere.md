@@ -1,7 +1,7 @@
 ---
 title: Leap Into Global ChatGPT Utility, Anytime Anywhere
-date: 2024-09-06T21:43:28.985Z
-updated: 2024-09-07T21:43:28.985Z
+date: 2024-11-12T22:14:21.977Z
+updated: 2024-11-18T18:49:23.219Z
 tags:
   - chatgpt
   - open-ai
@@ -15,12 +15,6 @@ thumbnail: https://thmb.techidaily.com/a208f3a78dbc1966a7b3c23e883554ad74b655fe5
 
 ## DALL-E 3 Reveals Integrated Editing Tools - Time to Polish and Perfect Them
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [What Are DALL-E 3's Editing Tools?](https://www.makeuseof.com/how-dalle-3-editing-tools-work/#what-are-dall-e-3-39-s-editing-tools)
@@ -39,18 +33,6 @@ thumbnail: https://thmb.techidaily.com/a208f3a78dbc1966a7b3c23e883554ad74b655fe5
 
  The only issue is that they don't do what OpenAI advertises, and it's a mixed bag as to whether you'll get the edits you want. But still, it's a start of what's to come for DALL-E 3 editing, and this is how they work.
 
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Are DALL-E 3's Editing Tools?
 
  They've been a while coming, but OpenAI has finally added editing functionality to DALL-E 3 in ChatGPT Plus. Prior to this, you could attempt to make edits to your DALL-E 3 creations, but it would typically always result in a completely fresh image being generated. Even if the prompts used to create the edited image were extremely similar to the first prompt, due to the very nature of generative AI, the output could be significantly different.
@@ -65,16 +47,17 @@ However, it's a mixed bag.
 
  That's not to say the editing tools don't work. They can absolutely remove features and make small changes, as detailed below, but it's all on a small scale.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Use DALL-E 3's Editing Tool
 
  The best way to show you what DALL-E 3's editing tool can do is with some proper examples.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Removing and Erasing
 
  DALL-E 3's editing tools can erase some small features, but it definitely struggles. In the following image, I'd asked DALL-E to create "A robotic hand holding a glowing, transparent square chip with 'AI Accelerated' written on it. The background is dark blue, creating a futuristic and high-tech atmosphere."
@@ -87,18 +70,6 @@ Close
 
 Close
 
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Adding and Changing
 
  DALL-E 3 can make some changes to images, but again, it depends on the scale of what you're asking. Small additions and changes are possible, but most of the time, DALL-E's editing tool can't process what is asked.
@@ -108,11 +79,12 @@ Close
 ![dalle 3 editing tools close up human eye](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-close-up-human-eye.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Pretty decent, if a little odd (eyelash reflections?!), but I wanted to switch the iris color to blue-green instead, resulting in this image:
 
 ![dalle 3 editing tools close up human eye changed colour](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-close-up-human-eye-changed-colour.jpg)
@@ -123,21 +95,16 @@ Close
 
 ![dalle 3 editing tools tiger yeti claymation style](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-tiger-yeti-claymation-style.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Again, the original image is good, has sharp, vibrant colors, and matches the prompt. However, I wanted to switch the yeti to a different type of scary animal.
 
 ![dalle 3 editing tools yeti removed from image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-yeti-removed-from-image.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Instead of swapping the yeti for a different animal, it's just completely gone. Instead, I returned to the original image and asked it to add another yeti, which it failed to do. It similarly failed when asked to add more trees to the image.
 
@@ -152,25 +119,23 @@ Close
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## DALL-E's Editing Tools Are Useful, But Need Work (and a Little Persistence)
 
  I've found that DALL-E's editing tools are useful for certain tasks, but it takes some time to get the editing right. At other times, it just won't work, and you're probably better off taking your original prompt and tweaking that to create a new image.
 
  DALL-E's editing tools will likely improve over time, but until then, you might be better off editing your image with an image editing tool rather than going through multiple time-consuming rounds of conversation with DALL-E. When it works, it's good; when it doesn't understand or doesn't make the edit at all, it's frustrating.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -179,4 +144,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-the-ultimate-guide-to-validating-your-yt-channels-earnings/"><u>[New] 2024 Approved The Ultimate Guide to Validating Your YT Channel's Earnings</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-demystifying-complexities-a-guide-to-understanding-slug-lines/"><u>[New] In 2024, Demystifying Complexities A Guide to Understanding Slug Lines</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-immersive-color-grading-navigating-luts-in-adobe-premiere-pro/"><u>2024 Approved Immersive Color Grading Navigating LUTs in Adobe Premiere Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-oneplus-12r-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from OnePlus 12R to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-ultimate-selection-of-crypto-chatgpt-addons-a-buyers-guide/"><u>Discover the Ultimate Selection of Crypto ChatGPT Addons: A Buyer's Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/do-interactions-with-chatgpt-alexa-and-siri-require-polite-conversation-etiquette/"><u>Do Interactions with ChatGPT, Alexa, and Siri Require Polite Conversation Etiquette?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effortless-solutions-for-powerpoint-audio-dysfunction-your-step-by-step-handbook/"><u>Effortless Solutions for PowerPoint Audio Dysfunction - Your Step-by-Step Handbook</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-content-production-8-ai-solutions-for-writers-to-streamline-their-processes/"><u>Elevate Content Production: 8 AI Solutions for Writers to Streamline Their Processes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevating-ai-conversations-with-3-key-approaches-to-chatgpt-wolframlink/"><u>Elevating AI Conversations with 3 Key Approaches to ChatGPT-WolframLink</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancing-your-social-content-mastering-chatgpt-assisted-writing-techniques/"><u>Enhancing Your Social Content: Mastering ChatGPT-Assisted Writing Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/evaluating-authenticity-in-the-age-of-ai-composers/"><u>Evaluating Authenticity in the Age of AI Composers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/evaluating-professional-opportunities-for-prompt-craftsmen/"><u>Evaluating Professional Opportunities for Prompt Craftsmen</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/explore-artificial-intelligence-mastering-dall-e-3-via-bing/"><u>Explore Artificial Intelligence: Mastering DALL-E 3 via Bing</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-unleash-your-creativity-in-full-rotation-best-practices-for-vr-video/"><u>In 2024, Unleash Your Creativity in Full Rotation Best Practices for VR Video</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondlys-mission-investing-in-ukrainian-speakers-for-no-expense/"><u>Mondly's Mission: Investing in Ukrainian Speakers, for No Expense</u></a></li>
+<li><a href="https://ai-video.techidaily.com/new-2024-approved-top-10-solutions-for-movie-subtitle-translation-making-things-perfect/"><u>New 2024 Approved Top 10 Solutions for Movie Subtitle Translation Making Things Perfect</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/pinnacle-4k-cameras-the-ultimate-guide/"><u>Pinnacle 4K Cameras The Ultimate Guide</u></a></li>
+</ul></div>
 

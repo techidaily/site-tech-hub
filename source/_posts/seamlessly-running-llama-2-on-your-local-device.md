@@ -1,7 +1,7 @@
 ---
 title: Seamlessly Running Llama 2 on Your Local Device
-date: 2024-09-06T21:44:02.039Z
-updated: 2024-09-07T21:44:02.039Z
+date: 2024-11-16T20:42:35.293Z
+updated: 2024-11-18T21:49:06.072Z
 tags:
   - chatgpt
   - open-ai
@@ -21,12 +21,6 @@ thumbnail: https://thmb.techidaily.com/20c1b79c602928e68eb827f2805a2d6c02102230f
 
  At the time of writing, OpenAI hasn't released an official app for ChatGPT on the Chrome Web Store or the Microsoft Store. Please be cautious while searching for any purported ChatGPT app on these and other app marketplaces.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Run ChatGPT as a Windows App Using Edge
 
  Microsoft Edge offers an**Install this site as an app** feature. It lets you run web pages as standalone native Windows apps. Since ChatGPT is only available as a web app, you can install the AI chatbot website as an app on your computer. It looks and works similarly to the web version, except you don't see any web elements such as bookmarks, tabs, etc.
@@ -39,18 +33,6 @@ To add ChatGPT as a Windows app using Edge:
 3. Go to**Apps** and select**Install this site as an app** .  
 ![install chatgpt app windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-chatgpt-app-windows.jpg)
 4. In the**Install App** popup, enter a name for the app. For example, enter**ChatGPT** . Entering a name makes it easy to search for the installed app.
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. To add a custom icon, click the**Edit** button under**Install App** and select an icon from your local drive. For GPT, you can leave it as default.
 6. Click**Install** and wait for Windows to install the site as an app.
 
@@ -62,12 +44,6 @@ To add ChatGPT as a Windows app using Edge:
 
  To pin the ChatGPT app, press the**Win** key and type ChatGPT. Right-click the app icon and select**Pin to Start** or**Taskbar** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Uninstall the ChatGPT Web App on Edge
 
 ![uninstall chatgpt edge app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-chatgpt-edge-app.jpg)
@@ -87,6 +63,14 @@ To add ChatGPT as a Windows app using Edge:
 4. Enter a name in the**Create shortcut** popup.  
 ![chatgpt create chrome shortcut create](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-create-chrome-shortcut-create.jpg)
 5. Select the**Open as window** option. Without this, the ChatGPT shortcut will open the site in a new Chrome window instead of in its standalone window.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Click**Create** to finish.
 
  You can open the ChatGPT Chrome shortcut from the Start menu. Right-click on the Shortcut to add it to the Start menu and taskbar.
@@ -96,17 +80,12 @@ To add ChatGPT as a Windows app using Edge:
 ![uninstall chrome shortcut chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-chrome-shortcut-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 1. Press the**Win** key and type**ChatGPT** .
 2. Right-click on the**ChatGPT** icon and select**Uninstall** .
 3. In the**Control Panel** window, locate and select**ChatGPT** .
@@ -119,11 +98,12 @@ To add ChatGPT as a Windows app using Edge:
 ![chat gpt github unofficial project running on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chat-gpt-github-unofficial-project-running-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  A developer on GitHub has posted an unofficial ChatGPT project which runs natively on the Windows computer. To use the app, you need to log in using the ChatGPT credentials. It works similarly to the AI chatbot web app but offers some additional features.
 
  Since it is a third-party project, we recommend you[create a restore point](https://www.makeuseof.com/windows-11-create-restore-point/) to be able to undo the changes in case something goes awry.
@@ -147,37 +127,29 @@ Here’s how to run the unofficial ChatGPT project on Windows:
 ![uninstall chatgpt unofficial client](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/uninstall-chatgpt-unofficial-client.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 1. Press**Win + I** to open**Settings** .
 2. Next, open the**Apps** tab and click**Installed Apps** .
 3. Search for the ChatGPT app, click the**three-dots** menu next to the app name and select**Uninstall** .
 
  Once done, you might also want to delete the setup file from the Downloads folder in File Explorer.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Install ChatGPT as a Windows App
 
  Adding ChatGPT as a Windows app lets you access the app in a standalone window. This removes the hassle of visiting the site frequently to use the service.
 
  In addition, it also removes the clutter around the web apps and browsers and offers a clean user interface with only necessary options.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -186,4 +158,24 @@ Here’s how to run the unofficial ChatGPT project on Windows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-master-8-android-video-call-apps-for-collaborative-sessions-for-2024/"><u>[New] Master 8 Android Video Call Apps for Collaborative Sessions for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-top-3-voice-capturing-ipad-apps-reviewed-for-2024/"><u>[New] TOP 3 Voice Capturing iPad Apps Reviewed for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-a-new-era-of-streaming-leading-voices-of-female-creators/"><u>[Updated] In 2024, A New Era of Streaming Leading Voices of Female Creators</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enabling-unrestricted-gpt-on-windows-systems/"><u>Enabling Unrestricted GPT on Windows Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/examining-the-prestige-of-chatgpt-premium/"><u>Examining the Prestige of ChatGPT Premium</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-chatgpts-ability-in-mathematics-assistance/"><u>Exploring ChatGPT's Ability in Mathematics Assistance</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/google-bard-vs-chatgpt-an-in-depth-comparison/"><u>Google Bard vs ChatGPT: An In-Depth Comparison</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gpt-5-release-forecast-when-can-we-anticipate-its-debut/"><u>GPT-5 Release Forecast – When Can We Anticipate Its Debut?</u></a></li>
+<li><a href="https://howto.techidaily.com/How-to-Git-Push-With-SSH-Key/"><u>How to Git Push With SSH Key</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-protect-your-privacy-steps-to-disconnect-from-chatgpt/"><u>How to Protect Your Privacy: Steps to Disconnect From ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/inside-look-what-is-grok-by-elon-musk-and-how-much-will-it-set-you-back/"><u>Inside Look: What Is Grok by Elon Musk, and How Much Will It Set You Back?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/intelligence-stands-firm-in-chatgpt-opensai-declares/"><u>Intelligence Stands Firm in ChatGPT, OpensAI Declares</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/aging-youtube-studio-across-devices/"><u>Leveraging Youtube Studio Across Devices</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/mastering-the-art-of-repairing-issues-with-realtek-high-definition-video-drivers/"><u>Mastering the Art of Repairing Issues With Realtek High Definition Video Drivers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pro-level-perfection-iphone-xs-photographic-breakthroughs/"><u>Pro-Level Perfection IPhone X's Photographic Breakthroughs</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/seamless-transitions-the-top-6-mac-apps-to-cut-videos-in-big-sur/"><u>Seamless Transitions The Top 6 Mac Apps to Cut Videos in Big Sur</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/compreran-guide-to-creating-viral-ad-videos-for-free-for-2024/"><u>Your Compreran Guide to Creating Viral Ad Videos for Free for 2024</u></a></li>
+</ul></div>
 

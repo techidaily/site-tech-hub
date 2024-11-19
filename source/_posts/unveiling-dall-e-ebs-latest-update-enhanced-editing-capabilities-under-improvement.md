@@ -1,7 +1,7 @@
 ---
 title: "Unveiling DALL-E Eb's Latest Update: Enhanced Editing Capabilities Under Improvement"
-date: 2024-09-06T21:40:35.928Z
-updated: 2024-09-07T21:40:35.928Z
+date: 2024-11-11T20:23:31.037Z
+updated: 2024-11-18T18:30:08.144Z
 tags:
   - chatgpt
   - open-ai
@@ -13,58 +13,22 @@ excerpt: "This Article Describes Unveiling DALL-E Eb's Latest Update: Enhanced E
 thumbnail: https://thmb.techidaily.com/a8009f1be4223fad5f174852a5dbbbf732624444e76009d5f2106549ef1886ec.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Master Multilingual Abilities Using ChatGPT Plus: Effective Strategies Inside
 
  For $20 per month, ChatGPT Plus gives you access to GPT-4 and other premium features. GPT-4 is the successor to GPT-3 and has access to more parameters, a better understanding of context, and enhanced problem-solving skills. It turns out that it's also quite good for learning a new language.
 
  Whether you want to improve your French-speaking skills or pick up some German, GPT-4 is surprisingly capable. It can help you build your vocabulary, learn grammar and syntax, and even learn a bit about culture.
 
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. What's the Best Place to Start?
 
 ![ChatGPT Plus best way to learn a language](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-best-way-to-learn-a-language-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Naturally, we started by asking ChatGPT about the best place to start and how it can help. ChatGPT recommends that you set clear goals, learn vocabulary in context, listen to and mimic native speakers, and take notes. All of this is solid advice.
 
  It continues by saying that it can help answer questions about grammar and pronunciation, recommend resources, and offer cultural insights.[ChatGPT can also provide simple translations](https://www.makeuseof.com/how-to-translate-with-chatgpt/) . This structures our learning approach better: we now know exactly what we need to ask from ChatGPT during our course of learning a language.
 
  It's important to keep in mind that you pick a language that's relatively easy to learn. English speakers find learning languages such as Mandarin, Russian, and Japanese hard. While ChatGPT can write in all languages, you're better off getting a tutor if you want to nail the pronunciation and overall fluency for the more complex languages.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Building Your Vocabulary
 
 ![ChatGPT-Plus-Vocabulary](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-vocabulary.jpg)
@@ -78,11 +42,12 @@ thumbnail: https://thmb.techidaily.com/a8009f1be4223fad5f174852a5dbbbf732624444e
  The result shows that GPT-4 has a better understanding of context in comparison to its predecessor. This is just one of the many[differences between GPT 3.5 and GPT-4](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Practice Conversational Skills
 
 ![ChatGPT Plus Conversational Practice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-conversational-practice-1.jpg)
@@ -93,16 +58,24 @@ thumbnail: https://thmb.techidaily.com/a8009f1be4223fad5f174852a5dbbbf732624444e
 
  GPT-3.5 also worked well here. However, it responded with much longer responses and, at times, completely forgot to critique our writing/speaking skills. It still works, but you'll have to occasionally remind the language model about its mistakes.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Learn Grammar and Syntax
 
 ![ChatGPT Plus Grammar Syntax Correction](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-grammar-syntax-correction.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Grammar and syntax provide the structure and rules necessary to communicate and understand others. ChatGPT can help you learn the grammar and syntax rules by providing real-time feedback, explanations, and examples during written interactions. Since ChatGPT is all about interactivity, it does a better job here than most language-learning apps.
 
  GPT-4 also does a great job of continuing the natural flow of conversation. Keep talking to ChatGPT, and it will point out grammatical errors. Once you understand those errors, you can continue with the conversation. Since[ChatGPT learns from your conversations](https://www.makeuseof.com/does-chatgpt-learn-from-user-conversations/) , the responses and critiques improve over time.
@@ -126,6 +99,13 @@ Here's how you can create your own personalized tests:
 
 ![ChatGPT Plus Cultural Learning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-cultural-learning.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Languages and cultures are closely intertwined. By learning a new language, you can gain insight into the traditions, values, customs, and history of those who speak the language. While learning a language with ChatGPT, you can ask for cultural context, references, and social norms that are present in the language. This helps you understand how native speakers communicate.
 
  You can also get insights into cultural phenomena such as historical events, festivals, celebrations, and more. Then, you can ask ChatGPT to provide you with resources such as movies, books, and music in the language you're trying to learn. The key here is to ask anything you can think of about the language and culture.
@@ -138,30 +118,15 @@ Here's how you can create your own personalized tests:
 
  ChatGPT Plus may not provide you with the speaking or listening capabilities to help with pronunciation that other[language-learning apps](https://www.makeuseof.com/tag/five-free-apps-help-learn-foreign-language/) have, but it acts as your teacher that understands context and your progress. These two items help expedite your journey of learning a new language—something no other app can really do.
 
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## ChatGPT Is the Perfect Partner for Learning a New Language
 
  The problem with language learning apps is that you often feel like you're all on your own. This isn't something you'll run into when you use ChatGPT. Since it's all about conversation and the constant back and forth, you feel like you're discussing your issues with a partner. If you're someone who prefers an interactive experience while learning, GPT-4 is worth checking out.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -170,4 +135,24 @@ Here's how you can create your own personalized tests:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-the-complete-guide-to-home-film-production-starting-with-youtube/"><u>[Updated] In 2024, The Complete Guide to Home Film Production, Starting with YouTube</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-the-ultimate-guide-to-selecting-screen-recorder-software/"><u>[Updated] The Ultimate Guide to Selecting Screen Recorder Software</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/becoming-a-note-taking-whiz-chatgpts-secret/"><u>Becoming a Note-Taking Whiz - ChatGPT's Secret</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/breakdown-of-hugging-faces-utility-in-ai-technologies/"><u>Breakdown of Hugging Face's Utility in AI Technologies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatbots-face-off-assessing-performance-between-chatgpt-and-claude/"><u>Chatbots Face-Off: Assessing Performance Between ChatGPT and Claude</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-revolutionizes-creation-craft-your-unique-gpt-variant-today/"><u>ChatGPT Revolutionizes Creation: Craft Your Unique GPT Variant Today</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparing-the-three-faces-of-ai-understanding-public-private-and-personal-systems/"><u>Comparing the Three Faces of AI: Understanding Public, Private and Personal Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/crafting-a-world-using-ai-to-build-captivating-tales/"><u>Crafting a World: Using AI to Build Captivating Tales</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/crafting-impactful-talks-utilizing-chatgpt-for-expert-presentation-creation/"><u>Crafting Impactful Talks: Utilizing ChatGPT for Expert Presentation Creation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-ransomware-mobile-phones-50-costs-and-the-role-of-ai-in-our-latest-podcast-episode/"><u>Decoding Ransomware: Mobile Phones, $50 Costs & the Role of AI in Our Latest Podcast Episode!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/dive-deep-into-gesture-recognition-systems/"><u>Dive Deep Into Gesture Recognition Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-varieties-of-xbox-wraps/"><u>Exploring Varieties of Xbox Wraps</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-correctly-configure-your-gadget-and-solve-error-code-1/"><u>How to Correctly Configure Your Gadget and Solve Error Code 1</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-tecno-spark-20-proplus-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Tecno Spark 20 Pro+ For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-lava-yuva-3-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Lava Yuva 3 to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-simple-win-steps-for-fishy-sounds-alteration/"><u>In 2024, Simple Win Steps for Fishy Sounds Alteration</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-discounts-on-acer-laptops-and-accessories-during-prime-day-2024/"><u>Top Discounts on Acer Laptops & Accessories During Prime Day 2024</u></a></li>
+</ul></div>
 

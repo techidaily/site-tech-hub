@@ -1,7 +1,7 @@
 ---
 title: "Mastering MacOS with Craft: The Ultimate Guide to Using This Remarkable Document Editor"
-date: 2024-11-06T22:09:03.979Z
-updated: 2024-11-07T23:31:08.898Z
+date: 2024-11-16T17:37:50.995Z
+updated: 2024-11-18T16:26:49.593Z
 tags:
   - apple
 categories:
@@ -36,10 +36,10 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -63,10 +63,10 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -80,10 +80,10 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -134,22 +134,22 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-retro-gaming-revived-top-5-emulators-to-play-your-favorite-ps1-titles-for-2024/"><u>[New] Retro Gaming Revived - Top 5 Emulators to Play Your Favorite PS1 Titles for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-boosting-social-reach-top-facebook-video-engagement-techniques/"><u>[Updated] 2024 Approved Boosting Social Reach Top Facebook Video Engagement Techniques</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-soundtrack-secrets-your-complete-audio-compilation-for-ig-videos-for-2024/"><u>[Updated] Soundtrack Secrets Your Complete Audio Compilation for IG Videos for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/compatible-lenovo-t430-drivers-for-seamless-use-on-windows-11-or-older-versions/"><u>Compatible Lenovo T430 Drivers for Seamless Use on Windows 11 or Older Versions</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-strategies-for-handling-windows-11s-0xc1900208-installation-hurdle/"><u>Effective Strategies for Handling Windows 11'S 0xC1900208 Installation Hurdle</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/elevating-your-presentations-with-smart-use-of-chatgpt/"><u>Elevating Your Presentations with Smart Use of ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/empowering-your-household-with-gpt-powered-command-systems/"><u>Empowering Your Household with GPT-Powered Command Systems</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/explore-new-horizons-with-these-6-amazing-ways-to-utilize-chatgpts-code-companion/"><u>Explore New Horizons with These 6 Amazing Ways to Utilize ChatGPT's Code Companion</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-oppo-reno-11-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Oppo Reno 11 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/harnessing-chatgpt-to-innovate-and-enhance-soundscapes-within-your-daw-studio/"><u>Harnessing ChatGPT to Innovate and Enhance Soundscapes Within Your DAW Studio</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-is-ai-revolutionizing-the-medical-field-with-chatgpts-potential/"><u>How Is AI Revolutionizing the Medical Field with ChatGPT's Potential?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-run-a-censorship-free-gpt-alternative-on-windows-using-the-freedomgpt-platform/"><u>How To Run A Censorship-Free GPT Alternative On Windows Using the FreedomGPT Platform</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-realme-gt-3-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Realme GT 3 | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/innovative-techniques-for-developing-a-tailored-chatgpt-experience-using-ai-models/"><u>Innovative Techniques for Developing a Tailored ChatGPT Experience Using AI Models</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/inside-claude-ai-revolutionizing-the-workflow-across-sectors/"><u>Inside Claude AI: Revolutionizing the Workflow Across Sectors</u></a></li>
-<li><a href="https://article-helps.techidaily.com/top-cinematographer-secrets-for-exceptional-visuals-for-2024/"><u>Top Cinematographer Secrets for Exceptional Visuals for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-security-expanding-context-menu-with-firewall-restrictions/"><u>Windows 11 Security: Expanding Context Menu with Firewall Restrictions</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-best-5-twitter-alternatives/"><u>[New] 2024 Approved Best 5 Twitter Alternatives</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gif-magic-transformations-without-extra-files-downloaded/"><u>[New] GIF Magic Transformations Without Extra Files Downloaded</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-the-blueprint-to-youtube-wealth-smart-strategies-for-facebook-video-marketing-for-2024/"><u>[Updated] The Blueprint to YouTube Wealth Smart Strategies for Facebook Video Marketing for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-to-network-or-not-a-detailed-guide-for-youtubers-considering-mncs/"><u>[Updated] To Network, Or Not A Detailed Guide for YouTubers Considering MNCs</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/free-youtube-to-mp3-converters-you-should-know-onlinewinmac-for-2024/"><u>Best Free YouTube to MP3 Converters You Should Know [Online/Win/Mac] for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-galaxy-a24-by-fonelab-android-recover-video/"><u>How to recover old videos from your Galaxy A24</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-nubia-z50s-pro-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Nubia Z50S Pro to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-how-to-shuffle-youtube-playlist/"><u>In 2024, How to Shuffle YouTube Playlist</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/noise-troubles-in-pandoras-land-resolving-sound-problems-with-pc-version-of-borderlands-3/"><u>Noise Troubles in Pandora's Land: Resolving Sound Problems with PC Version of Borderlands 3</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-dangers-of-delegating-care-to-chatbots/"><u>The Dangers of Delegating Care to Chatbots</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-insight-into-predictive-ai-systems-operations-and-principles/"><u>The Insight Into Predictive AI Systems: Operations & Principles</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-latest-on-dall-e-3-now-includes-edit-options-that-need-tweaking/"><u>The Latest on DALL-E 3: Now Includes Edit Options That Need Tweaking</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-path-to-ai-mastery-creating-a-unique-chatgpt/"><u>The Path to AI Mastery: Creating a Unique ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-spectrum-of-realism-in-the-age-of-ai/"><u>The Spectrum of Realism in the Age of AI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tips-for-immediate-gpt-4-adoption-in-chatgpt-usage/"><u>Tips for Immediate GPT-4 Adoption in ChatGPT Usage</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-4-pitfalls-to-steer-clear-of-in-chatgpt-driven-content-development/"><u>Top 4 Pitfalls to Steer Clear of in ChatGPT-Driven Content Development</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-the-significance-of-real-time-info-for-chatgpt-and-its-effect-on-society/"><u>Understanding the Significance of Real-Time Info for ChatGPT and Its Effect on Society</u></a></li>
 </ul></div>
 

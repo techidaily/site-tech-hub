@@ -1,7 +1,7 @@
 ---
 title: "Save 20%% Today: Top Picks in Travel-Friendly Cell Case & Charger Bundles + Apple Band Deals on ZDNet"
-date: 2024-11-03T07:38:50.274Z
-updated: 2024-11-08T06:58:34.675Z
+date: 2024-11-11T21:21:03.560Z
+updated: 2024-11-18T17:18:56.278Z
 tags:
   - apple
 categories:
@@ -75,19 +75,6 @@ Equipped with an Nvidia GeForce RTX 4080 GPU and a dual mode mini LED display, t
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C3P346B4%2Fref%3Dasc%5Fdf%5FB0C3P346B41727002800000%3Fcreative%3D395261%26creativeASIN%3DB0C3P346B4%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9ce9008-3603-459e-8a58-f4457742ba16%7Cdtp&dtb=1) 
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Prime Day Chromebook deals
 
 Asus/ZDNET
@@ -104,6 +91,19 @@ Kyle Kucharski/ZDNET
 * [Apple MacBook Air (M3) for $899 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-2024-MacBook-13-inch-Laptop%2Fdp%2FB0CX23V2ZK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9ce9008-3603-459e-8a58-f4457742ba16%7Cdtp&dtb=1): If you want to purchase one of Apple's latest MacBook Air products, you can save $200 on the [2024 version](https://www.zdnet.com/article/m3-macbook-air-review/), powered by an M3 chip -- the lowest price of the year. Don't forget to apply the coupon.
 * [Apple MacBook Pro (M3) for $1,400 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-Laptop-8%E2%80%91core-10%E2%80%91core%2Fdp%2FB0CM5JV268%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9ce9008-3603-459e-8a58-f4457742ba16%7Cdtp&dtb=1): The [MacBook Pro (M3)](https://www.zdnet.com/article/m3-macbook-pro-buying-advice/) is one of the best-performing laptops on the market, and it's $200 off -- make sure you add the coupon offer on the page.
 
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Prime Day HP laptop deals
 
 HPZDNET
@@ -119,13 +119,6 @@ Lenovo/ZDNET
 * [Lenovo Legion 5i for $1,339 (save $160)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Display-GeForce-2560x1600-Battery%2Fdp%2FB0CVLFS7WP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9ce9008-3603-459e-8a58-f4457742ba16%7Cdtp&dtb=1): This 16-inch laptop from Lenovo's gaming PC line features an Intel i7 processor, 32GB of RAM, and a solid selection of ports for all your gaming accessories for just $1,500.
 * [Lenovo ThinkBook 15 for $525 (save $74)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkBook-15-Business-i7-1165G7%2Fdp%2FB0D1CQPWPG%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9ce9008-3603-459e-8a58-f4457742ba16%7Cdtp&dtb=1): This laptop is a powerhouse for your back-to-school or business needs. Its 8-core AMD Ryzen 7 processor pairs with 16GB of RAM, so any major spec-heavy tasks will perform smoothly.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Best Buy laptop deals during Prime Day
 
 Kyle Kucharski/ZDNET
@@ -134,13 +127,6 @@ Kyle Kucharski/ZDNET
 * [HP Chromebook x360 2-in-1 Laptop for $293 (save $35 at Walmart)](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FHP-Chromebook-X360-14-HD-Touchscreen-2-in-1-Laptop-Intel-Celeron-N4020-4GB-RAM-64GB-eMMC-Teal-14a-ca0130wm%2F518977383&subId1=zd-__COM_CLICK_ID__-dtp): In [our testing](https://www.zdnet.com/article/this-hp-chromebook-made-living-without-windows-easier-than-i-expected/), we found this 2-in-1 Chromebook easily flexes between a laptop and a tablet, with a large 14-inch screen, comfortable keyboard, and sturdy build.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## More Prime Day 2024 laptop deals
 
@@ -151,10 +137,10 @@ Kyle Kucharski/ZDNET
 * [Asus VivoBook 16 for $479 (save $120)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-VivoBook-Laptop-WUXGA-1920%2Fdp%2FB0BT6NKLQR%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9ce9008-3603-459e-8a58-f4457742ba16%7Cdtp&dtb=1): One of the most versatile and well-rounded laptops on the market is also one of the most affordable. The Vivobook 16 is designed to handle a variety of use cases with ease, and for just $479 you can't go wrong with its 1TB of storage, Windows 11, and solid selection of ports.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## FAQs
@@ -172,10 +158,10 @@ There are a lot of great gaming laptops on sale right now, but in our opinion, [
 Even though Amazon isn't typically the first place you think of when you're shopping for a new laptop, there are some great deals that pop up if you're willing to look. We've thoroughly combed through the deals to find some diamonds in the rough, and listed the best ones here.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How did we choose these Prime Day deals?
@@ -184,9 +170,23 @@ At ZDNET, we only write about deals our team members would want to buy -- device
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we recommend. These recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### When will these deals expire?
 
 Prime Day 2024 has ended, so deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on a deal, but don't fret -- we're constantly finding new chances to save and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What are the best Prime Day 2024 deals still available?
 
@@ -251,20 +251,17 @@ And the best deals still available from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-best-tips-to-use-zoom-on-chromebook/"><u>[New] Best Tips to Use Zoom on Chromebook</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-boosting-video-playback-rate-on-tiktok/"><u>[Updated] Boosting Video Playback Rate on TikTok</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-women-rule-the-top-10-youtube-stars-amongst-genders/"><u>[Updated] Women Rule The Top 10 YouTube Stars Amongst Genders</u></a></li>
-<li><a href="https://win11.techidaily.com/7-ways-to-use-windows-11-more-efficiently/"><u>7 Ways to Use Windows 11 More Efficiently</u></a></li>
-<li><a href="https://win-unique.techidaily.com/come-ripristinare-i-file-da-un-hard-disk-portatile-toshiba/"><u>Come Ripristinare I File Da Un Hard Disk Portatile Toshiba</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-capture-and-create-first-edits-in-lunapic-photo-editor/"><u>In 2024, Capture & Create First Edits in LunaPic Photo Editor</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-the-interview-process-with-chatgpts-assistance/"><u>Mastering the Interview Process with ChatGPT's Assistance</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-the-world-of-ai-chatbot-moderation-and-its-effects/"><u>Navigating the World of AI Chatbot Moderation and Its Effects</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/overcoming-lifes-pressures-with-chatgpt-innovative-approaches-and-advice/"><u>Overcoming Life's Pressures with ChatGPT: Innovative Approaches and Advice</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/preventative-measures-against-ai-web-scrapers-protecting-your-sites-data-integrity/"><u>Preventative Measures Against AI Web Scrapers - Protecting Your Site's Data Integrity</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/resolving-interface-snags-a-step-by-step-approach-for-chatgpt-plugin-services/"><u>Resolving Interface Snags: A Step-by-Step Approach for ChatGPT Plugin Services</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionizing-diy-with-artificial-intelligence-the-arrival-of-gpt-4/"><u>Revolutionizing DIY with Artificial Intelligence: The Arrival of GPT-4</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-oppo-reno-9a-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Oppo Reno 9A? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-for-a-non-functional-lucidsound-ls30-audio-device/"><u>Troubleshooting Tips for a Non-Functional LucidSound LS30 Audio Device</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/ultimate-selection-the-top-10-greatest-rom-coms-ever-made/"><u>Ultimate Selection: The Top 10 Greatest Rom-Coms Ever Made</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/implified-video-transferring-techniques-for-youtube-enthusiasts/"><u>[New] Simplified Video Transferring Techniques for YouTube Enthusiasts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-film-equipment-for-novice-cinematographers-35mm-to-pands/"><u>2024 Approved Ideal Film Equipment for Novice Cinematographers (35Mm to P&S)</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-strategic-social-sharing-master-facebook-story-linking/"><u>2024 Approved Strategic Social Sharing Master Facebook Story Linking</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-change-location-on-yik-yak-for-your-itel-p55-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Itel P55 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/red-techniques-to-cut-off-unwanted-youtube-content-on-devices/"><u>Tailored Techniques to Cut Off Unwanted YouTube Content on Devices</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-guide-to-intovas-action-realm/"><u>The Ultimate Guide to Intova's Action Realm</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-8-artificial-intelligence-apps-you-must-install-on-ios-and-android/"><u>Top 8 Artificial Intelligence Apps You Must Install on iOS & Android</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-8-innovative-dall-e-3-ideas-for-stunning-imagery-creation/"><u>Top 8 Innovative DALL-E 3 Ideas for Stunning Imagery Creation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transform-your-tabletop-gaming-with-these-6-chatgpt-hacks-for-gamemasters/"><u>Transform Your Tabletop Gaming with These 6 ChatGPT Hacks for Gamemasters</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-a-better-matchmaking-experience-using-chatgpt/"><u>Unlocking a Better Matchmaking Experience Using ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unravel-cyber-crimes-discover-the-best-ai-powered-detective-games-and-puzzles/"><u>Unravel Cyber Crimes: Discover the Best AI-Powered Detective Games and Puzzles</u></a></li>
+<li><a href="https://win11.techidaily.com/why-skip-the-extra-just-linux-no-more-wsl/"><u>Why Skip the Extra? Just Linux! No More WSL</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How Do Copyright Regulations Apply to Creations Made by Machine Learning Algorithms?
-date: 2024-09-06T21:40:12.936Z
-updated: 2024-09-07T21:40:12.936Z
+date: 2024-11-12T17:50:56.124Z
+updated: 2024-11-18T20:31:06.800Z
 tags:
   - chatgpt
   - open-ai
@@ -33,28 +33,10 @@ It further defines original works as:
 
 ![sefl portrait of a Macaca nigra](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/macaca_nigra_self-portrait_large.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Image Credit: David Slater/[Wikimedia Commons](https://en.m.wikipedia.org/wiki/Monkey%5Fselfie%5Fcopyright%5Fdispute#/media/File%3AMacaca%5Fnigra%5Fself-portrait%5Flarge.jpg)
 
 ![full body self-portrait of a macaca nigra](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/macaca_nigra_self-portrait_full_body.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Image Credit: David Slater/[Wikimedia Commons](https://en.m.wikipedia.org/wiki/Monkey%5Fselfie%5Fcopyright%5Fdispute#/media/File:Macaca%5Fnigra%5Fself-portrait%5Ffull%5Fbody.jpg)
 
 Close
@@ -70,17 +52,12 @@ Close
  Given this precedent, works that aren't strictly made by a human are ineligible for copyright; unless the creator can sufficiently prove that they set up the situation in which the non-human entity created the piece.
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## An Example of AI Copyright Rejection
 
  The US Copyright Office says that any work must be human-made to be copyrightable, which means you cannot copyright AI-generated work. This was proven in late 2022 when the comic book Zarya of the Dawn's copyright protection was revoked.
@@ -88,6 +65,13 @@ Close
  Although the USCO issued a copyright in September 2022, it said it did it in error. When it came to light that the comic book was produced using MidJourney AI, its copyright protection was revoked.
 
  This aligns with its decision to deny copyright to Steven Thaler, who created the AI-generated painting A Recent Entrance to Paradise, which was denied copyright in 2019.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is AI Work Non-Copyrightable?
 
@@ -99,22 +83,17 @@ Close
 
  However, if the user simply uses AI as a tool—i.e., its output is used as a base for the final product—then the work could be considered for copyright. While this somewhat solves the issue of using AI tools to create art, it also opens another can of worms.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Issues With AI-Generated Work
 
 ![A Recent Entrance to Paradise](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/a_recent_entrance_to_paradise.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Image Credit: Steven Thaler and the Creativity Machine AI/[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:A%5FRecent%5FEntrance%5Fto%5FParadise.jpg#:~:text=Licensing,in%20whom%20copyright%20is%20vested.)
 
  As with any new technology, AI will face many issues. Aside from the[copyright rules around AI art,](https://www.makeuseof.com/copyright-rules-ai-art/) which we've discussed above,[AI writing also has dangers](https://www.makeuseof.com/dangers-ai-writing-how-spot-ai-generated-text/) that users and readers must know about.
@@ -130,25 +109,23 @@ Close
  Because AI is so powerful and is such a game-changing technology, AI will face many more issues in the immediate future.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## The Ethics of AI
 
  Although AI tools are powerful, valuable tools that'll help us be more efficient, it's untested and unprecedented technology. AI could have unintended consequences, so we should be careful when using this technology.
 
  But, simultaneously, we shouldn't avoid using it because we don't understand it. The best way to deal with AI is to ensure that its use will serve the purpose of advancing humanity as a whole. There will be endless debates about this, for sure; that's why we should have a solid moral compass when using this new tool.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -157,4 +134,26 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-best-camera-lenses-for-youtube/"><u>[New] 2024 Approved Best Camera Lenses for YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-essential-guide-to-top-12-free-and-paid-gaming-introduction-creators/"><u>[New] 2024 Approved Essential Guide to Top 12 Free and Paid Gaming Introduction Creators</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-laugh-out-loud-and-weepy-instagrams-best-meme-communities-for-2024/"><u>[New] Laugh Out Loud & Weepy Instagram's Best Meme Communities for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-advanced-tips-for-capturing-gaming-moments-in-overwatch-for-2024/"><u>[Updated] Advanced Tips for Capturing Gaming Moments in Overwatch for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-apple-iphone-13-pro-max-without-a-passcode-drfone-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your Apple iPhone 13 Pro Max Without a Passcode | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/avoidable-slip-ups-with-neural-networks/"><u>Avoidable Slip-Ups with Neural Networks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-you-rely-on-chatgpt-or-bard-for-your-money-matters-an-expert-take/"><u>Can You Rely on ChatGPT or Bard for Your Money Matters: An Expert Take</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-at-your-fingertips-configuring-ai-conversations-for-android-users-and-ios-enthusiasts/"><u>ChatGPT at Your Fingertips: Configuring AI Conversations for Android Users & iOS Enthusiasts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-extensions-unleashed-how-to-get-started-and-make-them-work-for-you/"><u>ChatGPT Extensions Unleashed: How To Get Started & Make Them Work For You</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-your-virtual-partner-in-navigating-personal-health-7-perspectives/"><u>ChatGPT: Your Virtual Partner in Navigating Personal Health - 7 Perspectives</u></a></li>
+<li><a href="https://win-hot.techidaily.com/consequences-of-clearing-your-entire-steam-directory/"><u>Consequences of Clearing Your Entire Steam Directory</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/copilot-vs-copilot-pro-whats-the-difference-and-should-you-upgrade/"><u>Copilot Vs. Copilot Pro: What's the Difference, and Should You Upgrade?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/dall-e-3-imagery-seamless-conversion-from-webp-to-your-preferred-image-type/"><u>DALL-E 3 Imagery: Seamless Conversion From WebP to Your Preferred Image Type!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/digital-defenses-failing-an-ai-challenge/"><u>Digital Defenses Failing: An AI Challenge</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-gpts-top-pairings-with-files-and-text/"><u>Discover GPT's Top Pairings with Files and Text</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722854810310-fire-stick-remote-woes-heres-how-you-can-fix-it/"><u>Fire Stick Remote Woes? Here's How You Can Fix It!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-update-causes-frequent-system-crashes-solutions-and-fixes/"><u>PC Update Causes Frequent System Crashes: Solutions and Fixes</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/photobooth-lags-steadying-the-playback-journey-for-2024/"><u>Photobooth Lags Steadying the Playback Journey for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionize-heat-management-with-new-pink-caulk-gun-thermal-paste-by-tim-ideal-for-components-voids/"><u>Revolutionize Heat Management with New Pink 'Caulk Gun' Thermal Paste by TIM – Ideal For Components Voids</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Top Trends Shaping Today’s Mobile Landscape - From AI Integration to Revolutionary Phone Design | Tech Insights by ZDNET
-date: 2024-11-02T23:25:27.389Z
-updated: 2024-11-08T08:23:18.883Z
+date: 2024-11-11T21:42:11.158Z
+updated: 2024-11-18T19:17:31.854Z
 tags:
   - apple
 categories:
@@ -35,15 +35,22 @@ Read on for a look at some of the new accessibility features coming to Apple har
 Apple is bringing a new feature to both iOS and iPadOS that will let you navigate your iPhone and iPad with just your eye movements. The feature uses the device's front-facing camera to track your eye movements and let you move through apps. Apple said that its new Eye Tracking feature will work across both its own and third-party apps, and will work with gestures powered solely by eye movements.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Apple Music haptics
 
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Addressing motion sickness
 
@@ -54,10 +61,10 @@ Motion sickness in cars can often be the result of a disconnect between what you
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Understanding speech
@@ -67,10 +74,16 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### New CarPlay features
@@ -78,13 +91,6 @@ Another feature, Listen for Atypical Speech, will use machine learning to unders
 Apple's in-car CarPlay software is also getting new accessibility features, including the ability for you to navigate CarPlay and engage with apps using only your voice. A new Sound Recognition feature will display alerts on CarPlay's screen when car horns or sirens go off, and Color Filters will make CarPlay easier to use for colorblind users.
 
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Some other updates
 
@@ -120,21 +126,19 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/hree-methods-to-capture-youtube-images-for-macwindows-users/"><u>[New] Three Methods to Capture YouTube Images for Mac/Windows Users</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-navigating-through-your-instagram-post-eye-balls/"><u>[Updated] In 2024, Navigating Through Your Instagram Post Eye-Balls</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-premier-tool-for-perfect-openings-anywhere-you-go/"><u>[Updated] In 2024, Premier Tool for Perfect Openings, Anywhere You Go</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-xsplit-vs-obs-which-one-leads-in-livestream-quality/"><u>[Updated] XSplit Vs. OBS – Which One Leads in Livestream Quality?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/2023s-ultimate-guide-to-essential-airpods-pro-peripherals-insights/"><u>2023'S Ultimate Guide to Essential AirPods Pro Peripherals | Insights</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-samsung-galaxy-xcover-7-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/decoding-vimeo-where-creative-videos-meet-for-2024/"><u>Decoding Vimeo Where Creative Videos Meet for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/eliminate-risk-of-data-loss-with-steam-backups/"><u>Eliminate Risk of Data Loss with Steam Backups</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-icloud-integration-for-apple-pages-documents-expert-strategies/"><u>Mastering iCloud Integration for Apple Pages Documents: Expert Strategies</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/secure-your-early-access-to-the-innovative-apple-watch-series-10-sneak-peek-and-discount-strategies/"><u>Secure Your Early Access to the Innovative Apple Watch Series 10 – Sneak Peek & Discount Strategies!</u></a></li>
-<li><a href="https://win-web.techidaily.com/streamline-content-creation-using-emeditor-a-powerful-and-user-friendly-text-editor-experience/"><u>Streamline Content Creation Using EmEditor: A Powerful and User-Friendly Text Editor Experience</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/tech-showdown-pixel-9-pro-xl-vs-iphone-15-pro-camera-face-off-who-won-and-whats-the-hidden-twist-analysis/"><u>Tech Showdown: Pixel 9 Pro XL Vs. IPhone 15 Pro Camera Face-Off | Who Won and What's the Hidden Twist? - Analysis</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-green-myths-and-realities-surrounding-electric-vehicles/"><u>The Green Myths and Realities Surrounding Electric Vehicles</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transforming-homes-with-technology-how-apple-envisions-a-future-with-in-home-robot-assistants/"><u>Transforming Homes with Technology: How Apple Envisions a Future with In-Home Robot Assistants</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ultimate-guide-to-the-latest-and-greatest-airtag-accessories-of-thoroughly-tested-and-reviewed-by-professionals-wired/"><u>Ultimate Guide to the Latest & Greatest AirTag Accessories of #: Thoroughly Tested and Reviewed by Professionals | Wired</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/we-regret-it-too-a-look-at-the-top-issues-faced-after-switching-to-iphones-latest-os-version-ios-18-contributed-by-zdnet/"><u>We Regret It Too: A Look at the Top Issues Faced After Switching to iPhone's Latest OS Version, iOS 18 | Contributed By ZDNet</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-best-11-tools-for-perfecting-your-fb-profile-pics/"><u>[New] Best 11 Tools For Perfecting Your FB Profile Pics</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-climbing-the-youtube-search-rankings-key-seo-strategies-unveiled-for-2024/"><u>[New] Climbing the YouTube Search Rankings Key SEO Strategies Unveiled for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-unlock-growth-potential-with-savvy-analysis-of-youtube-data/"><u>2024 Approved Unlock Growth Potential with Savvy Analysis of YouTube Data</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/corsair-k55-driver-download-and-update/"><u>Corsair K55 Driver Download & Update</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-extensive-breakdown-what-the-google-podcast-app-means-for-you/"><u>In 2024, Extensive Breakdown What the Google Podcast App Means for You</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-pc-and-mac-techniques-utilizing-dslr-for-facebook-live/"><u>In 2024, PC & Mac Techniques Utilizing DSLR for Facebook LIVE</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-picture-perfect-adding-imagery-to-ig/"><u>In 2024, Picture Perfect Adding Imagery to IG</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-integrating-chatgpt-into-your-android-device/"><u>Step-by-Step Tutorial: Integrating ChatGPT Into Your Android Device</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-future-of-conversational-ai-7-improvements-brought-by-googlen-palm-2-to-bard/"><u>The Future of Conversational AI: 7 Improvements Brought by Google'n PaLM 2 to Bard</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-great-intellectual-duel-who-wins-in-a-faceoff-llama-3-or-gpt-4/"><u>The Great Intellectual Duel: Who Wins in a Faceoff - Llama 3 or GPT-4?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-next-level-of-driving-comfort-mercedes-ai-upgrade/"><u>The Next Level of Driving Comfort: Mercedes' AI Upgrade</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-guide-to-making-life-easier-with-chatgpts-top-techniques/"><u>The Ultimate Guide to Making Life Easier with ChatGPT's Top Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/todays-tips-blending-gpt-4-into-your-chatgpt-use/"><u>Today's Tips: Blending GPT-4 Into Your ChatGPT Use</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-advanced-os-settings-the-after-dim-option/"><u>Unlocking Advanced OS Settings: The 'After Dim' Option</u></a></li>
 </ul></div>
 

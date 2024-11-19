@@ -1,7 +1,7 @@
 ---
 title: "IPad Air 4 Vs. IPad Air 5 Comparison: Is It Time for an Upgrade?"
-date: 2024-11-03T06:56:58.678Z
-updated: 2024-11-08T04:20:44.663Z
+date: 2024-11-15T23:03:43.664Z
+updated: 2024-11-18T17:06:52.408Z
 tags:
   - apple
 categories:
@@ -37,6 +37,13 @@ But if pricing impacts your buying decision, then the similarly-designed iPad Ai
 
 **Also: [The best iPad Air cases](https://www.zdnet.com/article/best-ipad-air-case/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Specifications
 
 | | iPad Air 4 (2020)        | iPad Air 5 (2022)                              |                                                |
@@ -54,6 +61,13 @@ But if pricing impacts your buying decision, then the similarly-designed iPad Ai
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## You should buy the iPad Air 5 (2022) if...
 
 Image: Apple
@@ -65,10 +79,10 @@ The saying you can't teach an old dog new tricks doesn't really apply to the iPa
 That's a significant step up, considering both iPads start on equal footing with 8GB of RAM. While the iPad Air 5 didn't get Apple's newer [M2 chip](https://www.zdnet.com/article/everything-you-need-to-know-about-the-apple-m2-chip/), the M1 is still a powerhouse for graphics-intensive apps, such as video editors, 3D racing games, augmented reality, and general multitasking.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. You want a better front camera and FaceTime experience
@@ -87,29 +101,22 @@ You will, of course, need to be under a 5G data plan, have the appropriate nano-
 
 [Apple iPad Air (2022) $499.97 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DD2F93LD%2Fref%3Dasc%5Fdf%5FB0DD2F93LD1726916400000%3Fcreative%3D395261%26creativeASIN%3DB0DD2F93LD%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ccc40f053-922d-48a4-99a0-60db381cb5f5%7Cdtp&dtb=1)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## You should buy the iPad Air 4 (2020) if...
 
 Image: Apple
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Price comes before anything else
 
 With the release of the new iPad Air, most third-party retailers have since marked down the 2020 model as a means to clear out inventory. The winner of this sequence is you, the consumer. At the time of writing, the iPad Air 4 can be had for as low as [$429](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-10-9-inch-Cellular-Generation-Renewed%2Fdp%2FB08PF8HCDJ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ccc40f053-922d-48a4-99a0-60db381cb5f5%7Cdtp&dtb=1), less if you opt for an open-market retailer like eBay. That's more than a $150 difference compared to the new iPad Air 5 which, in a snapshot, only wins out on 5G, the front-facing camera, and processing power. If one, two, or even all three of those aspects are not on your priority list of features, then opting for the older iPad Air may be the best play here. 
 
 [Apple iPad Air (2020) $358.86 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB08J61FCVN%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ccc40f053-922d-48a4-99a0-60db381cb5f5%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## FAQ
 
@@ -122,13 +129,6 @@ You should buy the iPad Air 5 (2022) if you're looking to upgrade to the Apple M
 The 1st-gen Apple Pencil is not compatible with either of the two iPad Air models mentioned in this article. Instead, you'll have to buy Apple's 2nd-gen stylus, which uses USB-C for charging and pairing, for the newer tablets.
 
 Our [guide to finding the right Apple Pencil and how to pair it](https://www.zdnet.com/article/how-to-pair-and-charge-your-apple-pencil/) breaks down the full list of compatible devices.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What's the best alternative to the iPad Air?
 
@@ -170,19 +170,14 @@ If you're still on the fence, below are the best alternatives to the iPad Air.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-phones-speed-up-sound-essential-app-listing/"><u>2024 Approved Phones’ Speed Up Sound Essential App Listing</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/affordable-tech-elite-cybersecurity-explanations/"><u>Affordable Tech, Elite Cybersecurity Explanations</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-face-off-comparing-notion-and-chatgpt-for-ultimate-productivity/"><u>AI Face-Off: Comparing Notion and ChatGPT for Ultimate Productivity</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-assisted-content-chatgpts-creative-edge/"><u>AI-Assisted Content: ChatGPT's Creative Edge</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/are-costly-advanced-ai-prompt-platforms-a-good-value/"><u>Are Costly Advanced AI Prompt Platforms a Good Value?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/best-practices-for-privacy-in-work-related-chats/"><u>Best Practices for Privacy in Work-Related Chats</u></a></li>
-<li><a href="https://win-able.techidaily.com/getting-your-minecraft-game-running-smoothly-again-on-desktop-a-comprehensive-guide/"><u>Getting Your Minecraft Game Running Smoothly Again on Desktop: A Comprehensive Guide</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/illustration-insights-elevating-text-in-three-dimensions-for-2024/"><u>Illustration Insights Elevating Text in Three Dimensions for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/imagelogger-screen-logger-xtreme/"><u>ImageLogger Screen Logger Xtreme</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-vivo-v30-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Vivo V30 Pro to iPhone | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/instant-mp3-from-your-fb-videos-online-converter/"><u>Instant MP3 From Your FB Videos - Online Converter</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/modify-your-hosts-file-efficiently-with-visual-basic-scripting-or-powershell-techniques/"><u>Modify Your Hosts File Efficiently with Visual Basic Scripting or PowerShell Techniques</u></a></li>
-<li><a href="https://fox-access.techidaily.com/prime-choices-of-affordable-cameras-with-full-hd/"><u>Prime Choices of Affordable Cameras with Full HD</u></a></li>
-<li><a href="https://win-able.techidaily.com/rocket-league-fix-resolving-server-lag-and-crashing-issues/"><u>Rocket League Fix: Resolving Server Lag and Crashing Issues</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/6-compelling-arguments-why-professionals-should-embrace-chatgpt/"><u>6 Compelling Arguments: Why Professionals Should Embrace ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/7-essential-software-solutions-for-elevating-your-conversational-ai-expertise/"><u>7 Essential Software Solutions for Elevating Your Conversational AI Expertise</u></a></li>
+<li><a href="https://win-community.techidaily.com/best-solutions-for-when-your-ios-18-software-update-isnt-appearing-top-6-tips/"><u>Best Solutions for When Your iOS 18 Software Update Isn't Appearing: Top 6 Tips</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/how-to-digitize-dvds-software-solutions-and-user-friendly-techniques/"><u>How to Digitize DVDs: Software Solutions & User-Friendly Techniques</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-the-bar-pivotal-youtube-seo-enhancers-for-2024/"><u>Raise the Bar Pivotal YouTube SEO Enhancers for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-leading-edge-of-virtual-reality-technology-2023-edition/"><u>The Leading Edge of Virtual Reality Technology - 2023 Edition</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/icks-procuring-start-up-youtube-channel-monetization-platforms-for-2024/"><u>Top Picks Procuring Start-Up YouTube Channel Monetization Platforms for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-tricks-of-fraudgpt-safeguarding-measures/"><u>Unveiling the Tricks of FraudGPT - Safeguarding Measures</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/winning-at-interviews-with-the-help-of-chatgpt-a-comprehvealshun-for-candidates/"><u>Winning at Interviews with the Help of ChatGPT: A Comprehvealshun for Candidates</u></a></li>
 </ul></div>
 

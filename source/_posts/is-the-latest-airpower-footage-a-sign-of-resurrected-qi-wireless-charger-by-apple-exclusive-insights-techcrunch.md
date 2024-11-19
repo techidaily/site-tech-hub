@@ -1,7 +1,7 @@
 ---
 title: Is the Latest AirPower Footage a Sign of Resurrected Qi Wireless Charger by Apple? Exclusive Insights | TechCrunch
-date: 2024-11-02T16:27:27.926Z
-updated: 2024-11-08T03:22:40.537Z
+date: 2024-11-17T16:09:45.756Z
+updated: 2024-11-18T22:29:10.344Z
 tags:
   - apple
 categories:
@@ -49,10 +49,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Leverage ethical AI and privacy as a competitive advantage
@@ -66,6 +66,13 @@ Apple's historical commitment to privacy can also give it a significant advantag
 Providing private or family-specific AI instances would further enhance privacy and personalized interactions. For example, HomePod could recognize individual voices and offer personalized responses, while Apple TV+ could recommend shows tailored to each user. AI can coordinate family schedules, manage activities, and send reminders. Robust privacy controls and advanced parental controls ensure secure and healthy digital environments for children.
 
 By focusing on these principles, Apple can lead by example and set new benchmarks in developing and deploying ethical AI.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Integrate seamlessly with third-party services and partner with multiple AI providers
 
@@ -82,16 +89,10 @@ Apple should also incorporate [Retrieval-Augmented Generation](https://www.zdnet
 Partnering with multiple AI providers, including specialists in natural language processing, computer vision, and machine learning, will bring cutting-edge innovations and accelerate the development of advanced features across Apple's ecosystem. This multi-partner approach reduces the risk of over-reliance on a single provider, increases resilience, and allows Apple to tailor AI solutions to different markets and user segments.
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Deploy AI-accelerated appliances on the edge with dedicated cloud capacity
@@ -101,13 +102,6 @@ To meet the growing demand for fast application response times, I believe Apple 
 **Also: [AI at the edge: 5G and the Internet of Things see fast times ahead](https://www.zdnet.com/article/ai-at-the-edge-fast-times-ahead-for-5g-and-the-internet-of-things/)**
 
 Additionally, Apple could collaborate with cloud-based AI providers to manage complex AI tasks in the cloud when necessary. Combining edge and cloud resources, this hybrid approach would create a robust and scalable AI infrastructure that supports real-time AI applications such as augmented reality, language translation, and advanced data analytics.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Enhance proactive assistance and personalization
 
@@ -120,16 +114,10 @@ AI can enhance contextual awareness by integrating with sensors and data sources
 Proactive health and wellness features could remind users to take medication via the Health app, suggest wellness tips based on activity levels tracked by Apple Watch, and offer mental health support through mindfulness reminders. Personalized routines on Apple devices, like HomePod adjusting lighting based on daily habits, will enhance user experiences.
 
 <!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Ensure AI shines across all products and services
@@ -190,24 +178,22 @@ For consumers, the AI race is about trust, user experience, and integrating adva
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-20plus-fresh-collages-elevate-your-environment/"><u>[New] 20+ Fresh Collages Elevate Your Environment</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-6-ingenious-sites-brimming-with-customizable-youtube-themes/"><u>[New] 2024 Approved 6 Ingenious Sites Brimming With Customizable YouTube Themes</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-how-to-incorporate-your-podcast-into-app-store-for-2024/"><u>[Updated] How To Incorporate Your Podcast Into App Store for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-unveiling-the-power-of-featured-channels-on-youtube-platform-for-2024/"><u>[Updated] Unveiling the Power of Featured Channels on YouTube Platform for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-mastering-video-segmentation-the-easy-fades-way/"><u>2024 Approved Mastering Video Segmentation The Easy Fades Way</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/choosing-the-right-smartphone-for-your-child-expert-reviews-on-safety-and-fun-features-zdnet-insights/"><u>Choosing the Right Smartphone for Your Child? Expert Reviews on Safety and Fun Features - ZDNet Insights</u></a></li>
-<li><a href="https://discover-community.techidaily.com/discover-the-ultimate-5-iphoto-substitutes-for-windows-users-compatibility-with-10-and-11-systems/"><u>Discover the Ultimate 5 iPhoto Substitutes for Windows Users: Compatibility with 10 and 11 Systems</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/get-your-macbook-organized-the-all-in-one-stand-and-charger-with-port-hub-at-an-unbeatable-price-of-just-102-exclusively/"><u>Get Your MacBook Organized: The All-in-One Stand & Charger with Port Hub at an Unbeatable Price of Just $102 - Exclusively !</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-lava-blaze-curve-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Lava Blaze Curve 5G to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/innovative-insights-makeuseofs-best-of-mwc-2024/"><u>Innovative Insights: MakeUseOf's Best of MWC 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-cross-platform-messaging-use-imessage-on-your-windows-desktop-expert-insights/"><u>Mastering Cross-Platform Messaging: Use iMessage on Your Windows Desktop | Expert Insights</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-common-platforms/"><u>New 2024 Approved Common Platforms</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionizing-safety-in-tech-the-first-of-its-kind-the-google-pixel-9-now-comes-with-life-saving-satellite-sos-messaging-capabilities-insights/"><u>Revolutionizing Safety in Tech: The First of Its Kind, the Google Pixel 9 Now Comes with Life-Saving Satellite SOS Messaging Capabilities | Insights</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/say-goodbye-to-spam-protect-your-iphone-with-these-three-essential-text-blocking-strategies/"><u>Say Goodbye to Spam: Protect Your iPhone with These Three Essential Text-Blocking Strategies</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/score-your-tech-bargain-just-250-for-the-latest-ipad-9gen-post-apple-release-exclusive-deals/"><u>Score Your Tech Bargain: Just $250 for the Latest iPad (9Gen) Post Apple Release | Exclusive Deals</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/scrutinizing-the-financial-lifelines-that-drive-tseries-youtube-success/"><u>Scrutinizing the Financial Lifelines that Drive TSeries' Youtube Success</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-5-innovative-iphone-os-18-updates-unveiled-at-wwdc-2024-the-dawn-of-enhanced-ai-capabilities-techspot/"><u>Top 5 Innovative iPhone OS 18 Updates Unveiled at WWDC 2024: The Dawn of Enhanced AI Capabilities | TechSpot</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/visit-to-apple-store-reveals-worlds-thinnest-ipad-yet-can-an-extra-008-inches-enhance-user-experience/"><u>Visit to Apple Store Reveals World's Thinnest iPad Yet – Can an Extra 0.08 Inches Enhance User Experience?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/why-i-wont-be-switching-to-the-iphone-16-pro-from-my-iphone-14-insights-and-perspectives-techzenith/"><u>Why I Won't Be Switching to the iPhone 16 Pro From My iPhone 14 – Insights and Perspectives | TechZenith</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-quick-fire-methods-to-record-and-save-your-virtual-gatherings-windows-and-mac/"><u>[New] 2024 Approved Quick-Fire Methods to Record and Save Your Virtual Gatherings (Windows & Mac)</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-the-cutting-edge-essential-editing-tips-for-youtube-experts/"><u>[New] 2024 Approved The Cutting Edge Essential Editing Tips for YouTube Experts</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-best-zero-cost-chromebook-recorders/"><u>[New] In 2024, Best Zero Cost Chromebook Recorders</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/discovering-the-highlight-functionality-within-emeditor-your-go-to-advanced-text-editor/"><u>Discovering the Highlight Functionality Within EmEditor, Your Go-To Advanced Text Editor</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-motorola-razr-40-ultra-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Motorola Razr 40 Ultra</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/te-your-video-presence-mastery-of-channel-art-and-banner-sizes-for-2024/"><u>Elevate Your Video Presence Mastery of Channel Art and Banner Sizes for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gpts-potential-engineering-specialized-chatgpt-models/"><u>GPT's Potential: Engineering Specialized ChatGPT Models</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-machine-learning-is-shaping-the-future-of-interactive-entertainment/"><u>How Machine Learning Is Shaping the Future of Interactive Entertainment</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-enhance-your-coding-in-visual-studio-code-using-chatgpt-a-guide-for-developers/"><u>How to Enhance Your Coding in Visual Studio Code Using ChatGPT - A Guide for Developers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/huggingchat-explored-an-open-source-and-ethical-ai-option/"><u>HuggingChat Explored: An Open-Source and Ethical AI Option</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/introducing-the-elite-gigabyte-intel-z790-aorus-xtreme-x-gold-cpu-socket-and-impressive-misty-theme-with-a-massive-m2-heatsink/"><u>Introducing the Elite Gigabyte Intel Z790 Aorus XTreme X: Gold CPU Socket & Impressive Misty Theme with a Massive M.2 Heatsink</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-chatgpt-a-robust-tool-for-mathematical-problem-solving/"><u>Is ChatGPT a Robust Tool for Mathematical Problem Solving?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-chatgpt-a-validate-health-information-partner/"><u>Is ChatGPT a Validate Health Information Partner?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-prompt-engineering-a-real-job-9-factors-to-consider/"><u>Is Prompt Engineering a Real Job? 9 Factors to Consider</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-your-banking-information-safe-the-possibility-of-chatgpt-enabled-cyber-attacks-explored/"><u>Is Your Banking Information Safe? The Possibility of ChatGPT-Enabled Cyber Attacks Explored.</u></a></li>
+<li><a href="https://techtrends.techidaily.com/optimizing-your-instagram-outreach-through-innovative-meta-artificial-intelligence-solutions/"><u>Optimizing Your Instagram Outreach Through Innovative Meta Artificial Intelligence Solutions</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-hearing-colors-and-movements-a-comprehensive-list-of-top-notch-music-visualizers-both-free-and-paid/"><u>Updated Hearing Colors and Movements A Comprehensive List of Top-Notch Music Visualizers (Both Free & Paid)</u></a></li>
 </ul></div>
 

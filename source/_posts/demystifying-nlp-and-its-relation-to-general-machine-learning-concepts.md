@@ -1,7 +1,7 @@
 ---
 title: Demystifying NLP and Its Relation to General Machine Learning Concepts
-date: 2024-09-06T21:43:49.670Z
-updated: 2024-09-07T21:43:49.670Z
+date: 2024-11-15T17:51:21.560Z
+updated: 2024-11-18T16:40:58.634Z
 tags:
   - chatgpt
   - open-ai
@@ -19,12 +19,6 @@ thumbnail: https://thmb.techidaily.com/b366957cb2f5f0bbc845d34641faf6413a6383aa8
 
  After all, since AI isn't human, it cannot hold ownership over its creations. So, if an AI makes something, who do we attribute it to? The AI's programmer? The person who initiated the prompts? Or the sources the AI used?
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Is Copyright? Does It Apply to Non-Human Creations?
 
  Before talking about copyright, we must first define it. According to the[US Copyright Office](https://www.copyright.gov/what-is-copyright/) (USCO), "Copyright is a type of intellectual property that protects original works of authorship as soon as an author fixes the work in a tangible form of expression."
@@ -39,12 +33,6 @@ It further defines original works as:
 
 ![sefl portrait of a Macaca nigra](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/macaca_nigra_self-portrait_large.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Image Credit: David Slater/[Wikimedia Commons](https://en.m.wikipedia.org/wiki/Monkey%5Fselfie%5Fcopyright%5Fdispute#/media/File%3AMacaca%5Fnigra%5Fself-portrait%5Flarge.jpg)
 
 ![full body self-portrait of a macaca nigra](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/macaca_nigra_self-portrait_full_body.jpg)
@@ -64,11 +52,12 @@ Close
  Given this precedent, works that aren't strictly made by a human are ineligible for copyright; unless the creator can sufficiently prove that they set up the situation in which the non-human entity created the piece.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## An Example of AI Copyright Rejection
 
  The US Copyright Office says that any work must be human-made to be copyrightable, which means you cannot copyright AI-generated work. This was proven in late 2022 when the comic book Zarya of the Dawn's copyright protection was revoked.
@@ -78,17 +67,18 @@ Close
  This aligns with its decision to deny copyright to Steven Thaler, who created the AI-generated painting A Recent Entrance to Paradise, which was denied copyright in 2019.
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Is AI Work Non-Copyrightable?
 
  With all the copyright denials, does it mean that AI work is non-copyrightable at all?
@@ -100,14 +90,22 @@ Close
  However, if the user simply uses AI as a tool—i.e., its output is used as a base for the final product—then the work could be considered for copyright. While this somewhat solves the issue of using AI tools to create art, it also opens another can of worms.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## The Issues With AI-Generated Work
 
 ![A Recent Entrance to Paradise](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/a_recent_entrance_to_paradise.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Image Credit: Steven Thaler and the Creativity Machine AI/[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:A%5FRecent%5FEntrance%5Fto%5FParadise.jpg#:~:text=Licensing,in%20whom%20copyright%20is%20vested.)
 
@@ -123,26 +121,17 @@ Close
 
  Because AI is so powerful and is such a game-changing technology, AI will face many more issues in the immediate future.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Ethics of AI
 
  Although AI tools are powerful, valuable tools that'll help us be more efficient, it's untested and unprecedented technology. AI could have unintended consequences, so we should be careful when using this technology.
 
  But, simultaneously, we shouldn't avoid using it because we don't understand it. The best way to deal with AI is to ensure that its use will serve the purpose of advancing humanity as a whole. There will be endless debates about this, for sure; that's why we should have a solid moral compass when using this new tool.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -151,4 +140,26 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-hero5-black-versus-hero4-silver-comparison/"><u>[New] Hero5 Black Versus Hero4 Silver Comparison</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-invest-in-success-unveiling-the-highest-earning-posts/"><u>[New] In 2024, Invest in Success Unveiling the Highest Earning Posts</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-basic-building-blocks-simplest-mc-dwellings-for-novices/"><u>[Updated] Basic Building Blocks Simplest MC Dwellings for Novices</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-prime-selection-top-8-webcams-to-upgrade-streaming/"><u>[Updated] Prime Selection Top 8 Webcams to Upgrade Streaming</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-visualizing-2023-social-medias-next-big-thing/"><u>2024 Approved Visualizing 2023 Social Media's Next Big Thing</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/budgeted-skyvault-storing-mountains-of-data/"><u>Budgeted SkyVault Storing Mountains of Data</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/cutting-edge-techniques-for-prime-tiktok-beginnings-mac-for-2024/"><u>Cutting Edge Techniques for Prime TikTok Beginnings (Mac) for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gaming-evolution-unpacked-the-synergy-of-bz-microsoft-and-cutting-edge-ai-tech-analysis/"><u>Gaming Evolution Unpacked: The Synergy of BZ, Microsoft & Cutting-Edge AI [Tech Analysis]</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gpt-series-breakdown-what-sets-apart-gpt-4-from-its-turbocharged-cousins-gpt-4turbo-and-gpt-4o/"><u>GPT Series Breakdown: What Sets Apart GPT-4 From Its Turbocharged Cousins GPT-4Turbo & GPT-4o</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gpt-all-demystified-how-it-functions-and-performs/"><u>GPT-^ All Demystified: How It Functions and Performs?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/headphone-troubles-stop-the-crackle-simple-fixes-inside/"><u>Headphone Troubles? Stop the Crackle - Simple Fixes Inside!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-tecno-spark-go-2024-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Tecno Spark Go (2024) | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-my-financial-security-at-risk-can-ai-like-chatgpt-be-used-by-hackers/"><u>Is My Financial Security at Risk: Can AI Like ChatGPT Be Used by Hackers?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/language-assistance-in-the-digital-age-should-you-choose-bing-chat-over-gpt-3/"><u>Language Assistance in the Digital Age: Should You Choose Bing Chat Over GPT-3?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-conversation-with-ai-an-introductory-guide-to-chatgpt/"><u>Mastering the Art of Conversation with AI: An Introductory Guide to ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximizing-efficiency-leveraging-chatgpt-for-enhanced-workflow-planning/"><u>Maximizing Efficiency: Leveraging ChatGPT for Enhanced Workflow Planning</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/microsofts-ai-journey-enhances-the-bing-experience/"><u>Microsoft's AI Journey Enhances the Bing Experience</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/my-ai-or-chatgpt-selecting-your-ideal-digital-companion-on-snapchat/"><u>My AI or ChatGPT - Selecting Your Ideal Digital Companion on Snapchat</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-tecno-pop-8-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Tecno Pop 8 Location By Mobile Number | Dr.fone</u></a></li>
+</ul></div>
 

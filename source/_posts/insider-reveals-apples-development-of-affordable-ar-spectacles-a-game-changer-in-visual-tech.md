@@ -1,7 +1,7 @@
 ---
 title: "Insider Reveals Apple's Development of Affordable AR Spectacles: A Game Changer in Visual Tech"
-date: 2024-11-02T21:50:32.655Z
-updated: 2024-11-07T16:25:32.094Z
+date: 2024-11-15T23:27:01.841Z
+updated: 2024-11-18T21:02:44.862Z
 tags:
   - apple
 categories:
@@ -52,6 +52,13 @@ The feature plays into the Apple Watch's cycle-tracking experience, so everythin
 
 Apple
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. More widgets for your Smart Stack, including Live Activities
 
 The Smart Stack, introduced in WatchOS 10, is improving slightly with some new widgets.
@@ -61,6 +68,13 @@ Apple is adding one for Shazam, Photos, Distance, and more. Plus, Smart Stack ca
 Plus, Live Activities are coming to Smart Stack, so you can keep tabs on live events, Ubers, food orders, and more on your wrist.
 
 Apple
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. The Photos face, powered by machine learning
 
@@ -77,22 +91,21 @@ Double tap gesture on Apple Watch Series 9.
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Check In comes to your wrist
 
 With WatchOS 11, Apple is adding Check In. Originally launched in iOS 17, Check In allows you to keep track of a friend or loved one by having them confirm when they've reached their destination or have finished something like a gym session. Check In works within the Workout app and Messages.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Tap to Cash for quick payments
 
@@ -105,10 +118,10 @@ Move over, Venmo. Also in iOS 18, Apple is bringing Tap to Cash to WatchOS 11\. 
 Apple is adding the Translate app to WatchOS 11, allowing you to translate in any of 20 supported languages. Previously, the app was available only on the iPhone and iPad. When you're traveling abroad where a supported language is spoken, it'll automatically pop up in your watch's Smart Stack. Otherwise, choose the target and source languages and speak the words you want to be translated. Tap the Play button, and the translation plays through your watch's internal speaker.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 10\. Improved workout tracking for GPS-specific workouts
@@ -118,13 +131,6 @@ Soccer, American Football, Australian Football, Outdoor Hockey, Lacrosse, Downhi
 ## 11\. Tickets in your Wallet get an upgrade
 
 If you often use your digital wallet on your Apple Watch, you'll be intrigued by the improved ticketing experience. In WatchOS 11, Apple is adding more information on the event you're going to see, such as when the venue opens, what time it starts, and more. Plus, once you've loaded a ticket into your wallet and that special day approaches, you'll find seating information and other notable tidbits in a widget in your Smart Stack automatically.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## When does WatchOS 11 come out?
 
@@ -160,15 +166,20 @@ Right now, [WatchOS 11 is available as a public beta](https://www.zdnet.com/arti
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-explore-the-best-no-cost-video-meeting-apps-iosandroid/"><u>[New] 2024 Approved Explore the Best No-Cost Video Meeting Apps - iOS/Android</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-how-to-upload-longer-videos-on-instagram/"><u>[New] How to Upload Longer Videos on Instagram</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/1716171624413-2024-approved-mastering-instagrams-latest-trends-reels-and-stories/"><u>2024 Approved Mastering Instagram’s Latest Trends Reels & Stories</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhancing-ai-capabilities-understanding-the-power-of-vector-databases/"><u>Enhancing AI Capabilities: Understanding the Power of Vector Databases</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhancing-privacy-measures-for-adaptive-chatgpt-applications/"><u>Enhancing Privacy Measures for Adaptive ChatGPT Applications</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/experiencing-issues-with-chatgpt-try-these-5-tricks-to-check-its-status/"><u>Experiencing Issues with ChatGPT? Try These 5 Tricks to Check Its Status</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploiting-ai-attention-cues-to-expose-shadow-bots/"><u>Exploiting AI Attention Cues to Expose Shadow Bots</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/the-premier-selection-of-logic-pro-x-extensions-8-plugins-to-elevate-your-sound-design/"><u>The Premier Selection of Logic Pro X Extensions 8 Plugins to Elevate Your Sound Design</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/923292-9781780990439-the-whole-elephant-revealed/"><u>The Whole Elephant Revealed | Free Book</u></a></li>
-<li><a href="https://driver-download.techidaily.com/top-behringer-drives-available-for-immediate-download-quality-sound-awaits-you/"><u>Top Behringer Drives Available for Immediate Download – Quality Sound Awaits You</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-5-facebook-video-grabbers/"><u>[New] 2024 Approved 5 Facebook Video Grabbers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722973898623-download-and-install-the-latest-synaptics-driver-for-your-windows-tabletlaptop/"><u>Download & Install the Latest Synaptics Driver for Your Windows Tablet/Laptop!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/free-flexible-ais-for-practical-use-beyond-sora/"><u>Free, Flexible AIs for Practical Use: Beyond Sora</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-activision-hacks-to-ai-dominance-navigating-challenges-in-cybersecurity-and-job-security-amidst-technological-advances/"><u>From Activision Hacks to AI Dominance: Navigating Challenges in Cybersecurity and Job Security Amidst Technological Advances</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/future-of-work-identifying-positions-vulnerable-to-replacement-by-chatgpt-style-technology/"><u>Future of Work: Identifying Positions Vulnerable to Replacement by ChatGPT-Style Technology</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/generate-images-for-free-with-dall-e-3-through-microsoft-bing-integration/"><u>Generate Images for Free with DALL-E 3 Through Microsoft Bing Integration</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/getting-acquainted-with-gptzero-for-detecting-ais/"><u>Getting Acquainted with GPTZero for Detecting AIs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/groundbreaking-developments-in-bard-ai-showcased-at-google-io-2cuyb3zunveiling-the-top-7-enthralling-updates-of-2023/"><u>Groundbreaking Developments in BARD AI Showcased at Google I/O 2Cuyb3z—Unveiling the Top 7 Enthralling Updates of 2023</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/holy-stone-rc-cartoon-race-car-review/"><u>Holy Stone RC Cartoon Race Car Review</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-safe-are-our-finances-can-chatgpt-become-a-tool-for-hacking-banks-and-pcs/"><u>How Safe Are Our Finances: Can ChatGPT Become a Tool for Hacking Banks and PCs?</u></a></li>
+<li><a href="https://techidaily.com/how-to-exit-recovery-mode-on-apple-iphone-12-mini-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on Apple iPhone 12 mini? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-samsung-galaxy-m34-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Samsung Galaxy M34.</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-an-ultimate-guide-about-video-resolution-for-beginners/"><u>In 2024, An Ultimate Guide About Video Resolution for Beginners</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-vivo-y200e-5g-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Vivo Y200e 5G</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revolutionary-sound-enhancement-how-lgs-latest-tv-update-delights-apple-fans-exclusive-insight-from-zdnet/"><u>Revolutionary Sound Enhancement: How LG's Latest TV Update Delights Apple Fans - Exclusive Insight From ZDNet</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: IPhone 12 Now Features Enhanced Qi2 Wireless Charger without MagSafe Requirement | ZDNet
-date: 2024-10-31T22:15:27.763Z
-updated: 2024-11-08T08:13:46.099Z
+date: 2024-11-14T19:52:09.392Z
+updated: 2024-11-18T21:10:49.212Z
 tags:
   - apple
 categories:
@@ -67,30 +67,31 @@ Qi2 hardware is still pretty limited, but if you know where to look you can find
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-snapchat-integration-for-the-tech-savvy-mac-user/"><u>[New] 2024 Approved Snapchat Integration for the Tech-Savvy Mac User</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-flickering-fonts-2-innovative-text-techniques/"><u>[New] In 2024, Flickering Fonts 2 Innovative Text Techniques</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-selecting-the-right-gear-a-filmmakers-checklist/"><u>[New] In 2024, Selecting the Right Gear A Filmmaker's Checklist</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-unveiling-the-secrets-of-superior-tunefab-recordings/"><u>[New] Unveiling the Secrets of Superior Tunefab Recordings</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-achieve-perfection-on-instagram-with-right-video-dimensions/"><u>[Updated] Achieve Perfection on Instagram with Right Video Dimensions</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/capture-moments-on-a-dime-kodaks-fz53-explored/"><u>Capture Moments on a Dime - Kodak's FZ53 Explored</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-invisible-command-shortcuts-for-iphones-and-boost-your-devices-functionality-zdnet/"><u>Discover Invisible Command Shortcuts for iPhones and Boost Your Device's Functionality [ZDNet]</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/find-the-ultimate-apple-device-iphone-and-ipad-vpn-solutions-in-depth-comparisons-and-expert-analysis/"><u>Find the Ultimate Apple Device (iPhone & iPad) VPN Solutions: In-Depth Comparisons and Expert Analysis</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/indispensable-ios-16-capabilities-for-everyday-life-including-step-by-step-tutorials-digitaledgez/"><u>Indispensable iOS 16 Capabilities for Everyday Life, Including Step-by-Step Tutorials | DigitalEdgeZ</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastering-the-art-of-free-yet-striking-image-acquisition/"><u>Mastering the Art of Free, Yet Striking Image Acquisition</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-18-unbeatable-prime-day-discounts-on-laptops-from-leading-brands-like-hp-apple-and-razer-exclusive-offers/"><u>Top 18 Unbeatable Prime Day Discounts on Laptops From Leading Brands Like HP, Apple, and Razer - Exclusive Offers!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlock-new-possibilities-with-macos-15-the-ultimate-upgrade-list-for-apple-macbook-users/"><u>Unlock New Possibilities with MacOS 15: The Ultimate Upgrade List for Apple MacBook Users</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-building-blocks-to-successful-video-editing-on-windows-8-for-2024/"><u>[New] Building Blocks to Successful Video Editing on Windows 8 for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unlock-video-potential-leading-tools-turning-youtubes-to-avis/"><u>[New] Unlock Video Potential Leading Tools Turning YouTubes to Avis</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-embrace-the-big-picture-facebooks-full-screen-feature-explained/"><u>[Updated] Embrace the Big Picture Facebook's Full Screen Feature Explained</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-chill-vibes-current-hits-to-match-your-yt-short-tunes/"><u>[Updated] In 2024, Chill Vibes Current Hits to Match Your YT Short Tunes</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-zoom-webinar-mastery-a-novices-step-by-step-tutorial-for-2024/"><u>[Updated] Zoom Webinar Mastery A Novice's Step-by-Step Tutorial for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-linksys-wrt3200-tu-n900-drivers-fast-and-simple-installation/"><u>Download Linksys WRT3200-TU N900 Drivers - Fast and Simple Installation</u></a></li>
+<li><a href="https://driver-download.techidaily.com/expert-guide-to-overcome-startech-driver-problems-in-various-windows-versions-including-10-8-and-7/"><u>Expert Guide to Overcome StarTech Driver Problems in Various Windows Versions Including 10, 8 & 7</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199724895-failure-to-adhere-to-recommended-calibration-frequencies-can-result-in-product-quality-issues-and-non-compliance-with-industry-standards/"><u>Failure to Adhere to Recommended Calibration Frequencies Can Result in Product Quality Issues and Non-Compliance with Industry Standards</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-20-great-tools-for-live-streaming-and-webcam-recordings/"><u>In 2024, 20 Great Tools for Live Streaming & Webcam Recordings</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-edit-videos-online-for-free-the-best-tools-and-services/"><u>New In 2024, Edit Videos Online for Free The Best Tools and Services</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/protecting-sensitive-data-a-guide-to-using-chatgpt-responsibly-in-the-workplace/"><u>Protecting Sensitive Data: A Guide to Using ChatGPT Responsibly in the Workplace</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/setting-up-voicegpt-your-guide-to-having-an-android-compatible-speech-activated-chatgpt/"><u>Setting Up VoiceGPT: Your Guide to Having an Android-Compatible Speech-Activated ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tackling-maxed-out-chatgpt-issue-windows/"><u>Tackling Maxed-Out ChatGPT Issue (Windows)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-essentials-of-llama-2-insights-and-implementation-tips/"><u>The Essentials of Llama 2: Insights and Implementation Tips</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-potential-misuse-of-chatgpt-in-creating-malicious-software-how-likely-is-it/"><u>The Potential Misuse of ChatGPT in Creating Malicious Software: How Likely Is It?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-introduction-for-aspiring-prompt-engineers-getting-started/"><u>The Ultimate Introduction for Aspiring Prompt Engineers: Getting Started</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/to-trust-or-not-to-trust-in-local-llm-heres-the-scoop/"><u>To Trust or Not to Trust in Local LLM? Here's the Scoop</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-list-6-leading-chatgpt-addons-for-your-vs-code-workflow/"><u>Ultimate List: 6 Leading ChatGPT Addons for Your VS Code Workflow</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-ai-openai-uncovered/"><u>Understanding AI: OpenAI Uncovered</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

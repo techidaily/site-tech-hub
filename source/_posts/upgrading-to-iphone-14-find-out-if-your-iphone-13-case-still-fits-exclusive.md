@@ -1,7 +1,7 @@
 ---
 title: Upgrading to iPhone 14? Find Out if Your iPhone 13 Case Still Fits Exclusive
-date: 2024-11-05T04:59:22.048Z
-updated: 2024-11-07T19:09:47.201Z
+date: 2024-11-14T21:22:13.729Z
+updated: 2024-11-18T21:31:51.361Z
 tags:
   - apple
 categories:
@@ -30,6 +30,19 @@ Every time Apple adds a new line of products it also seems to add on new accesso
 
 Long answer short, for the regular-size model, you don't have to switch out your iPhone 13 case if you're getting an iPhone 14\. Yes, your current case will work with the iPhone 14, so you can save the hassle and your money if you already have an [iPhone 13](https://www.zdnet.com/product/apple-iphone-13/) with a case. Don't let the ads and the slight change in dimensions fool you. Here's the breakdown of those dimensions so you can see for yourself.
 
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Does an iPhone 13 case fit on an iPhone 14?
 
 Yes. Despite their **0.01**\-**inch** difference in depth, both the iPhone 13 and iPhone 14 have a **6.1-inch display screen**, are **5.78 inches high**, and are **2.82 inches wide.** That difference is not enough to make it necessary to invest in an entirely new case (though of course you can if you want to). If you look on Amazon, you'll see cases that are listed as compatible with both the iPhone 13 and iPhone 14\. [This](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCASEKOO-iPhone-13-Protection-Shockproof%2Fdp%2FB0967K2MWY%2Fref%3Dsr%5F1%5F1%5Fsspa%3Fcrid%3DV0U5JLZKTZDZ%26keywords%3Diphone%2B13%2Bcase%26qid%3D1662666716%26s%3Delectronics%26sprefix%3Diphone%2B13%2Bcase%2Celectronics%2C363%26sr%3D1-1-spons%26smid%3DA2WI2R6H3U1YSA%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3f77d920-3910-40a0-af07-619bdd6ff42f%7Cdtp&dtb=1) case, for example, fits either.
@@ -43,10 +56,10 @@ The iPhone 13 next to the iPhone 14.
 Image: Apple
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What about an iPhone 13 Pro case on an iPhone 14 Pro?
@@ -67,22 +80,15 @@ Click [here](https://www.apple.com/iphone-14-pro/specs/) to see the exact dimens
 
 Jason Hiner/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Will my iPhone 13 case fit the iPhone 14 phone?
 
 Yes. The cases are interchangeable thanks to the slightest of differences in depth only between the iPhone 13's and iPhone 14's dimensions. Merchants such as Amazon are already selling cases that are advertised for "iPhone 13 or 14." For the Pro and Pro Max models, though, you do need to get a new case due to the addition of a new camera lens and the bigger dimensions of the sensors overall.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Does the iPhone 14 have a Lightning cable or a USB-C port?
@@ -90,10 +96,10 @@ Yes. The cases are interchangeable thanks to the slightest of differences in dep
 The rumors of the iPhone 14 charging completely wirelessly are not true. All models of iPhone's newest generation will continue to use Lightning to charge. So you will not have to invest in a new charger if you already have an iPhone 5 or later.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Does Apple sell MagSafe cases for iPhone 14?
@@ -132,14 +138,24 @@ Yes. Along with its regular repertoire of cases, Apple does sell MagSafe cases f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-hub.techidaily.com/99-pre-order-special-secure-your-new-apple-watch-series-10-exclusively-from-best-buy-detailed-steps-inside-techsavvy/"><u>$99 Pre-Order Special: Secure Your New Apple Watch Series 10 Exclusively From Best Buy – Detailed Steps Inside | TechSavvy</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-the-essential-guide-to-snap-mastery/"><u>2024 Approved The Essential Guide to Snap Mastery</u></a></li>
-<li><a href="https://network-issues.techidaily.com/adjusting-viewpoints-on-new-windows-vision/"><u>Adjusting Viewpoints on New Windows Vision</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/elite-cards-for-uhd-video-creation-for-2024/"><u>Elite Cards for UHD Video Creation for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exclusive-insights-where-to-snag-the-best-current-offers-for-ipad-pro-ipad-air-and-apple-pencil-pro-expert-tips-from-zdnet/"><u>Exclusive Insights: Where to Snag the Best Current Offers for iPad Pro, iPad Air, and Apple Pencil Pro - Expert Tips From ZDNET</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-speech-to-text-your-all-inclusive-gdoc-training-guide-for-2024/"><u>From Speech to Text Your All-Inclusive GDoc Training Guide for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-future-of-technology-key-highlights-from-apples-iphone-16-glowtime-showcase-ai-revolution-and-next-gen-accessories/"><u>Unveiling the Future of Technology: Key Highlights From Apple's iPhone 16 Glowtime Showcase - AI Revolution and Next-Gen Accessories</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-iphone-15-pros-a-must-have-upgrade-for-tech-enthusiasts-insights-from-zdnet/"><u>Unveiling the iPhone 15 Pros: A Must-Have Upgrade for Tech Enthusiasts - Insights From ZDNet</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-an-ultimate-guide-of-best-narrator-voice-generators-for-2024/"><u>Updated An Ultimate Guide of Best Narrator Voice Generators for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-building-brand-loyalty-tips-for-higher-fb-page-ranking/"><u>[New] Building Brand Loyalty Tips for Higher FB Page Ranking</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-visual-harmony-on-screen-mastering-zooms-edge-magic/"><u>[New] In 2024, Visual Harmony on Screen Mastering Zoom's Edge Magic</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-enhance-video-impact-two-tiktok-techniques/"><u>[Updated] 2024 Approved Enhance Video Impact Two TikTok Techniques</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-exploring-the-heart-of-srt-in-depth-for-2024/"><u>[Updated] Exploring the Heart of SRT in Depth for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-home-visionarys-review-best-devices-for-clips/"><u>[Updated] Home Visionary's Review Best Devices for Clips</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-top-15-facebook-strategies-for-maximizing-online-selling-power/"><u>[Updated] In 2024, Top 15 Facebook Strategies for Maximizing Online Selling Power</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boosting-m4a-sound-levels-a-guide-to-enhancing-mp4-file-loudness/"><u>Boosting M4A Sound Levels - A Guide to Enhancing MP4 File Loudness</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhancing-analytical-prowess-in-excel-through-chatgpt-integration/"><u>Enhancing Analytical Prowess in Excel Through ChatGPT Integration</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Gionee F3 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/reviving-past-conversations-with-chatgpt-a-step-by-step-guide/"><u>Reviving Past Conversations with ChatGPT: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/seamless-worldwide-engagement-with-chatgpt/"><u>Seamless Worldwide Engagement with ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/sign-up-strategies-for-embracing-chatgpt-plugins/"><u>Sign Up Strategies for Embracing ChatGPT Plugins</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-accuracy-debate-chatgpt-or-lies/"><u>The Accuracy Debate: ChatGPT or Lies?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-complete-user-manual-for-harnessing-the-potential-of-chatgpt-microsofts-revolutionary-conversational-tool/"><u>The Complete User Manual for Harnessing the Potential of ChatGPT – Microsoft's Revolutionary Conversational Tool</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-3-strategies-for-leveraging-chatgpt-within-microsoft-excel/"><u>Top 3 Strategies for Leveraging ChatGPT Within Microsoft Excel</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-6-advanced-llms-the-biggest-names-in-language-processing/"><u>Top 6 Advanced LLMs: The Biggest Names in Language Processing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-6-tips-for-boosting-household-efficiency-with-chatgpt/"><u>Top 6 Tips for Boosting Household Efficiency with ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transform-your-hr-workflow-discover-5-key-prompts-for-accelerated-task-handling-using-gpt/"><u>Transform Your HR Workflow: Discover 5 Key Prompts for Accelerated Task Handling Using GPT</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/unleashing-your-device-writers-step-by-step-tutorial-for-custom-ringtones-and-sounds-on-android-for-2024/"><u>Unleashing Your Device' Writers Step-by-Step Tutorial for Custom Ringtones and Sounds on Android for 2024</u></a></li>
 </ul></div>
 

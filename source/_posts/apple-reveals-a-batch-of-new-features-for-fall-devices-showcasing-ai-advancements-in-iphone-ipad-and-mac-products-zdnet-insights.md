@@ -1,7 +1,7 @@
 ---
 title: Apple Reveals a Batch of New Features for Fall Devices, Showcasing AI Advancements in iPhone, iPad, and Mac Products | ZDNET Insights
-date: 2024-11-03T17:43:11.746Z
-updated: 2024-11-07T21:49:39.896Z
+date: 2024-11-17T21:16:44.601Z
+updated: 2024-11-19T01:17:28.145Z
 tags:
   - apple
 categories:
@@ -61,10 +61,10 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -74,13 +74,6 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -100,6 +93,13 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -115,10 +115,10 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -160,10 +160,10 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -218,16 +218,22 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/1-easy-guide-editing-your-microsoft-teams-recordings/"><u>1. Easy Guide: Editing Your Microsoft Teams Recordings</u></a></li>
-<li><a href="https://windows11.techidaily.com/activating-prints-with-microsoft-smartscreen-security-feature/"><u>Activating Prints with Microsoft SmartScreen Security Feature</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/comprehensive-list-of-apple-watches-compatible-with-watchos-11-exclusions-revealed/"><u>Comprehensive List of Apple Watches Compatible with WatchOS 11: Exclusions Revealed</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discovering-apples-hidden-gem-in-the-latest-iphone-software-update/"><u>Discovering Apple's Hidden Gem in the Latest iPhone Software Update</u></a></li>
-<li><a href="https://win-top.techidaily.com/exploring-vmware-recovery-solutions-top-evaluations-and-aligning-strategies-with-eoas/"><u>Exploring VMware Recovery Solutions – Top Evaluations & Aligning Strategies with EOAs</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-free-3gp-video-rotator-review-top-rated-options/"><u>New In 2024, Free 3GP Video Rotator Review Top-Rated Options</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/the-ultimate-windows-11-guide-to-recording-games-for-2024/"><u>The Ultimate Windows 11 Guide to Recording Games for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-10-cutting-edge-tech-presents-featured-on-zdnet/"><u>Top 10 Cutting-Edge Tech Presents - Featured on ZDNet</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1727791058176-top-4-kid-friendly-ipad-models-your-comprehensive-guide-zdnet/"><u>Top 4 Kid-Friendly iPad Models : Your Comprehensive Guide - ZDNet</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-rated-mp3-player-reviews-and-picks-guide/"><u>Top Rated MP3 Player Reviews and Picks Guide</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unlock-beat-potential-explore-these-free-tempo-tracking-tools-for-2024/"><u>Unlock Beat Potential – Explore These Free Tempo Tracking Tools for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-conquer-profits-on-the-go-youtube-studio-monetization-explained/"><u>[New] In 2024, Conquer Profits On-the-Go YouTube Studio Monetization Explained</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-online-no-cost-fb-sound-archive/"><u>[New] In 2024, Online, No Cost FB Sound Archive</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-master-list-of-vimeo-video-capturers-for-2024/"><u>[New] Master List of Vimeo Video Capturers for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-game-on-android-a-deep-dive-into-kinemaster-features/"><u>[Updated] Game On Android A Deep Dive Into KineMaster Features</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/embracing-the-undead-a-review-on-how-7-days-to-die-successfully-reinvents-classic-zombie-lore-for-modern-gamers/"><u>Embracing the Undead: A Review on How '7 Days to Die' Successfully Reinvents Classic Zombie Lore for Modern Gamers.</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-itel-p55-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-itel-p40-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Itel P40? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-music-after-oppo-reno-10-pro-5g-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after Oppo Reno 10 Pro 5G has been deleted</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/sarah-silverman-joins-legal-battle-challenging-ai-giants-openai-and-meta/"><u>Sarah Silverman Joins Legal Battle: Challenging AI Giants OpenAI & Meta</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-deepening-danger-how-generative-ais-safeguards-are-set-to-wane/"><u>The Deepening Danger: How Generative AI's Safeguards Are Set to Wane</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-influence-of-ai-on-mental-health-potential-benefits-and-risks-explored/"><u>The Influence of AI on Mental Health: Potential Benefits and Risks Explored</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-workflow-for-high-volume-designs-with-canva-and-chatgpt-integration/"><u>The Ultimate Workflow for High-Volume Designs with Canva & ChatGPT Integration</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tips-to-surpass-chatgpts-character-threshold/"><u>Tips to Surpass ChatGPT's Character Threshold</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-educational-potential-5-academic-applications-of-chatgpt-for-pupils/"><u>Unlocking Educational Potential: 5 Academic Applications of ChatGPT for Pupils</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unmasking-medical-misinformation-from-ai-expertise/"><u>Unmasking Medical Misinformation From AI Expertise</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unpacking-auto-gpt-systematic-setup/"><u>Unpacking Auto-GPT: Systematic Setup</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/unveiling-the-process-precision-recording-of-roblox-adventures-on-apple-devices-for-2024/"><u>Unveiling the Process Precision Recording of Roblox Adventures on Apple Devices for 2024</u></a></li>
 </ul></div>
 

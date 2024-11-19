@@ -1,7 +1,7 @@
 ---
 title: The Next Big Thing for Apple Vision Pro? Innovative Respiratory Health Tracking on the Horizon
-date: 2024-11-02T19:02:37.753Z
-updated: 2024-11-07T21:00:46.178Z
+date: 2024-11-13T21:35:28.258Z
+updated: 2024-11-18T19:50:51.824Z
 tags:
   - apple
 categories:
@@ -35,10 +35,10 @@ Every year, my wife and I eagerly await the release of the new iPhones. Being pa
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
@@ -65,6 +65,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## New hardware leaks: what to expect from the iPhone 16
 
 Earlier, I discussed how older -- as well as current generation -- iOS devices [aren't powerful enough to handle on-device Generative AI tasks](https://www.zdnet.com/article/the-expensive-reason-why-apples-upcoming-ai-features-arent-coming-to-your-older-iphone/). The [base iPhone 15](https://www.zdnet.com/article/iphone-15-plus-review/), which has only 6GB of RAM, would struggle to meet the demands of Apple Intelligence as it evolves and becomes more integrated into iOS, core Apple applications, and developer applications. Older iPhones have [6GB of RAM or less](https://iosref.com/ram-processor), and are not eligible to run Apple Intelligence in current iOS 18.1 builds. 
@@ -81,13 +88,6 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
 
 Besides memory concerns, AI processing demands a lot of power and additional computing resources. Without significant advancements in battery and power management technology, users might have to charge their phones more often. This can lead to increased battery drain, reduced battery lifespan, and potential performance issues. The extra processing power needed to run on-device LLMs could strain the CPU, causing the device to heat up and affecting its overall performance and reliability.
@@ -97,10 +97,10 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
@@ -120,10 +120,10 @@ Enterprises may also employ a mobile device management solution to facilitate ac
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## I'm still optimistic
@@ -166,17 +166,18 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guide-clearing-up-youtube-watchlater-stored-list/"><u>[New] 2024 Approved Guide Clearing Up YouTube Watchlater Stored List</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/aximizing-earnings-with-youtube-studio-monetization-on-any-device-for-2024/"><u>[New] Maximizing Earnings with YouTube Studio Monetization on Any Device for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-perfecting-your-podcast-in-depth-zoom-video-recording-tutorial/"><u>[Updated] 2024 Approved Perfecting Your Podcast In-Depth Zoom Video Recording Tutorial</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-the-ultimate-zoom-strategy-for-fb-live-success/"><u>[Updated] In 2024, The Ultimate Zoom Strategy for FB Live Success</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/a-comprehensive-guide-to-crafting-memes-on-9gag-for-2024/"><u>A Comprehensive Guide to Crafting Memes on 9GAG for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/comprehensive-list-of-apple-watches-upgradable-to-watchos-11-and-exclusions-find-out-your-models-compatibility/"><u>Comprehensive List of Apple Watches Upgradable to WatchOS 11 & Exclusions: Find Out Your Model's Compatibility</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-enhanced-wireless-power-the-new-esr-qi2-magsafe-charger-lines-up-to-turbocharge-your-iphone-16-without-overheating-cryoboost/"><u>Discover Enhanced Wireless Power: The New ESR Qi2 MagSafe Charger Lines Up to Turbocharge Your iPhone 16 without Overheating (CryoBoost)</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/expert-take-on-iphone-15-top-pick-for-tech-savvy-and-pros-alike-insights/"><u>Expert Take on iPhone 15: Top Pick for Tech Savvy and Pros Alike Insights</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/phantom-3-face-off-apparition-4-unveiled-for-2024/"><u>Phantom 3 Face-Off Apparition 4 Unveiled for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-rated-tablet-computers-comprehensive-reviews-by-tech-experts/"><u>Top-Rated Tablet Computers : Comprehensive Reviews by Tech Experts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/upcoming-tech-news-apples-next-move-with-new-dual-oled-ipad-pro-models-and-a-redesigned-129-inch-air-set-release-insights/"><u>Upcoming Tech News: Apple's Next Move with New Dual OLED iPad Pro Models and a Redesigned 12.9-Inch Air Set Release - Insights</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/-enhancement-incorporating-youtube-into-slides-for-2024/"><u>Video Enhancement Incorporating YouTube Into Slides for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-ultimate-game-hub-a-thousand-channels-for-gamers/"><u>[New] 2024 Approved Ultimate Game Hub A Thousand Channels for Gamers</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-explore-exceptional-economically-priced-asmr-gear-for-2024/"><u>[New] Explore Exceptional, Economically-Priced ASMR Gear for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effortless-guide-for-repairing-corrupt-disks-on-steam-platform/"><u>Effortless Guide for Repairing Corrupt Disks on Steam Platform</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-poco-c55-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Poco C55 Phone?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-securing-new-samsung-usb-device-drivers-for-windows-11-users/"><u>Step-by-Step Tutorial: Securing New Samsung USB Device Drivers for Windows 11 Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/storytelling-mastery-unleashed-harnessing-the-power-of-chatgpt-for-captivating-narratives/"><u>Storytelling Mastery Unleashed: Harnessing the Power of ChatGPT for Captivating Narratives</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tailored-training-strategies-gpts-role-unveiled/"><u>Tailored Training Strategies: GPT's Role Unveiled</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-dark-side-of-ai-5-ways-it-benefits-digital-criminals/"><u>The Dark Side of AI: 5 Ways It Benefits Digital Criminals</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-escalating-risks-understanding-the-deterioration-of-generative-ai-safety/"><u>The Escalating Risks: Understanding the Deterioration of Generative AI Safety</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-hidden-truth-of-virtual-conversations-demystifying-the-who-is-behind-your-digital-footprint-dead-internet-theory-insight/"><u>The Hidden Truth of Virtual Conversations: Demystifying the Who Is Behind Your Digital Footprint? - Dead Internet Theory Insight</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-newbies-guide-to-understanding-core-filming-techniques-for-2024/"><u>The Newbie's Guide to Understanding Core Filming Techniques for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-powerful-impact-of-ai-in-seven-key-health-areas/"><u>The Powerful Impact of AI in Seven Key Health Areas</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782393-9781591439356-walking-on-the-wind/"><u>Walking on the Wind | Free Book</u></a></li>
 </ul></div>
 

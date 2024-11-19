@@ -1,7 +1,7 @@
 ---
 title: Uncovering The Basics of LangChain Tech
-date: 2024-09-06T21:43:33.268Z
-updated: 2024-09-07T21:43:33.268Z
+date: 2024-11-14T20:07:11.720Z
+updated: 2024-11-19T00:14:05.136Z
 tags:
   - chatgpt
   - open-ai
@@ -13,12 +13,6 @@ excerpt: This Article Describes Uncovering The Basics of LangChain Tech
 thumbnail: https://thmb.techidaily.com/1bbd0a3f8dc1d9288d108f379c03c690ea0ce4f3426715024680a4a4a0f123c3.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Discover the Top 6 Engaging Games Available on ChatGPT
 
 ### Quick Links
@@ -34,12 +28,6 @@ thumbnail: https://thmb.techidaily.com/1bbd0a3f8dc1d9288d108f379c03c690ea0ce4f34
 
  ChatGPT has a wealth of games in its custom GPT store, covering everything from, RPGs and Dungeons and Dragons-style adventures, classic retro games, card games, quizzes, mysteries, and so much more.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1.[Murder Mystery Mayhem](https://chat.openai.com/g/g-82dEDeoN3-murder-mystery-mayhem)
 
  Let's start with one of the top-rated games on ChatGPT's custom GPT store. Murder Mystery Mayhem is a procedurally generated game where you play the role of a detective in the year 1925.
@@ -54,6 +42,13 @@ Close
 
  Murder Mystery Mayhem is good fun, with the location and murderer changing round by round, and each suspect has new alibis and evidence to reveal. The changes keep it feeling fresh, and one game played through to the end can keep you engaged and seeking the truth for well over an hour. (Don't forget, you don't have to play it all at once!)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2.[Oregon Trail](https://chat.openai.com/g/g-ijJRJgWHp-oregon-trail)
 
  Dying of dysentery has become a longstanding meme from the original Oregon Trail game, but you can now relive that horrifying experience in ChatGPT. The Oregan Trail custom GPT brings one of the first edu-games (not_the_ first, mind!) to ChatGPT... where you can suffer through the wilderness all over again.
@@ -64,18 +59,6 @@ Close
 
  It's a basic version of the classic game, but it's engaging enough. The custom GPT's scripting doesn't allow you to go off-piste and, say, rob the local convenience store for supplies (nor did the original), but it's certainly a lot easier without so many setbacks constantly upending and destroying your party. It's a much easier version, that's for sure.
 
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3.[Poker](https://chat.openai.com/g/g-lHyTLJaCX-poker)
 
  From the potential death and horror of the Oregon Trail to something a little more relaxing: Poker. You play against the AI in this Poker custom GPT, starting with 10,000 credits, and play standard five-card Texas hold'em until someone's credits run out.
@@ -84,12 +67,6 @@ Close
 
  My only major gripe about this poker game is that ChatGPT seems to mimic your choices, such as check, raise, and so on, which can make the game predictable (or at least less random).
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4.[Console GPT](https://chat.openai.com/g/g-3p94K4Djb-console-gpt)
 
  Now, this is a cool idea of how a custom GPT can span multiple types of input to create a custom game with a unique storyline.
@@ -99,17 +76,12 @@ Close
 ![cyber syndicate cartridge ai image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/cyber-syndicate-cartridge-ai-image.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Input the type of game you want in the text box, select**Glif It!** , and watch as your creation comes to life. I went with "retro-futurism crime lord" and was presented with "Cyber Syndicate," a game where you "navigate a neon-soaked, cyberpunk metropolis teeming with high-tech heists and digital espionage," with a goal of becoming the ultimate syndicate leader.
 
  Now, download the Cyber Syndicate cartridge (as an image; it's not really a cartridge file) by hovering over the image and selecting**Download** .
@@ -119,6 +91,13 @@ Close
 Close
 
  The narrative flow is a bit shaky, and Console GPT could use some extra commands to remember other parts of the story, but it's good fun for a while. For example, one moment, I was a lone operative in a bar, and the next, I was planning a heist in a room with the rest of my assembled team.
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5.[Cookie Clicker](http://chat.openai.com/g/g-g0b22bvqB-cookie-clicker)
 
@@ -133,17 +112,12 @@ Close
  Still, if you're into idle games and want to try something different, it could be worth a try.
 
 <!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 6.[Cute Little Zombies](https://chat.openai.com/g/g-CEON6aFtV-cute-little-zombies-a-text-adventure-game)
 
 [Adventure Inked](https://adventureinked.wixsite.com/gpts/) has developed more than 200 ChatGPT text adventure games, so there are far too many to list here. Cute Little Zombies is a perfect example of why its text adventures are great, giving you a heap of different scenarios to play through, all with cute little AI-generated images to help build the story out.
@@ -158,14 +132,11 @@ Close
 
  ChatGPT's games are entertaining, and custom GPT games can add an extra dimension with some clever designs, but that limit means you'll always have more fun with a regular game instead.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -174,4 +145,23 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-breakdown-of-steps-perfecting-idevice-video-features-on-youtube/"><u>[New] 2024 Approved Breakdown of Steps Perfecting iDevice Video Features on YouTube</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-maximizing-your-experience-with-youtube-tv-for-2024/"><u>[Updated] Maximizing Your Experience with YouTube TV for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1721907747880-chatgpt-pdf-reading-made-simple-discover-four-effective-approaches-today/"><u>ChatGPT PDF Reading Made Simple: Discover Four Effective Approaches Today</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/dominating-search-results-essential-youtube-seo-tricks-for-2024/"><u>Dominating Search Results Essential YouTube SEO Tricks for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/from-frustration-to-resolution-dealing-with-the-notorious-black-screen-issue/"><u>From Frustration to Resolution: Dealing With the Notorious Black Screen Issue</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-premium-mobile-podcast-sources/"><u>In 2024, Premium Mobile Podcast Sources</u></a></li>
+<li><a href="https://common-error.techidaily.com/netflix-sound-not-working-heres-how-you-can-fix-it-fast/"><u>Netflix Sound Not Working? Here's How You Can Fix It Fast!</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-best-ways-to-record-and-preserve-internet-radio-for-2024/"><u>The Best Ways to Record and Preserve Internet Radio for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-cleanup-for-chatgpt-records/"><u>The Ultimate Cleanup for ChatGPT Records</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1721999252342-uncover-surprising-gaming-capabilities-with-chatgpt-heres-the-top-6-picks-for-gamers/"><u>Uncover Surprising Gaming Capabilities with ChatGPT – Here's the Top 6 Picks for Gamers!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-the-truth-about-prompt-engineering-careers-9-factors-to-evaluate-before-you-decide/"><u>Unlocking The Truth About Prompt Engineering Careers: 9 Factors To Evaluate Before You Decide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unraveling-the-mystery-ownership-and-copyrights-in-ai-generated-content/"><u>Unraveling the Mystery: Ownership and Copyrights in AI-Generated Content</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/whats-trending-in-cyber-security-the-rise-of-a-twitter-hoax-scheme-rollout-of-metas-verified-tags-and-a-comprehensive-look-at-how-chatgpt-4-works/"><u>What’s Trending in Cyber Security? The Rise of a Twitter Hoax Scheme, Rollout of Meta's Verified Tags and A Comprehensive Look at How ChatGPT-4 Works</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-go-local-with-an-llm-lets-discuss-9-key-factors/"><u>Why Go Local with an LLM? Let's Discuss 9 Key Factors</u></a></li>
+<li><a href="https://windows11.techidaily.com/why-microsoft-family-safety-matters-for-parents/"><u>Why Microsoft Family Safety Matters for Parents</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/zerogpts-limits-uncovered-a-look-at-four-scenarios-where-ai-detection-falls-short/"><u>ZeroGPT's Limits Uncovered: A Look at Four Scenarios Where AI Detection Falls Short</u></a></li>
+</ul></div>
 

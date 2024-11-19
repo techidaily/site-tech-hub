@@ -1,7 +1,7 @@
 ---
 title: "Bringing Serenity to Chaos: Mastery Through GPT Techniques"
-date: 2024-09-06T21:40:14.295Z
-updated: 2024-09-07T21:40:14.295Z
+date: 2024-11-17T19:03:46.655Z
+updated: 2024-11-18T19:24:59.295Z
 tags:
   - chatgpt
   - open-ai
@@ -13,22 +13,10 @@ excerpt: "This Article Describes Bringing Serenity to Chaos: Mastery Through GPT
 thumbnail: https://thmb.techidaily.com/f0a710f8b121815cf9221ed63e6d5399bb71fd342dd8940addf1aa95c2adb631.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Experience the Ultimate Free Guide to Mastering GPT-4 with Copilot Assistance
 
  With AI chatbots becoming mainstream, companies are locking their most powerful features behind subscription paywalls. However, some companies allow free users to do more things than others. As such, if you'd like to give GPT-4 Turbo a try, using Microsoft's Copilot tool is the best way to do it.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Is GPT-4 Turbo?
 
 ![gpt-4 logo on smartphone screen](https://thmb.techidaily.com/9332c7608a3b7c0a804f93bd3e8889a390304fedee62792e7be872d16bace959.jpg)
@@ -41,35 +29,38 @@ thumbnail: https://thmb.techidaily.com/f0a710f8b121815cf9221ed63e6d5399bb71fd342
 
  Right now, the best way to use GPT-4 Turbo for free is via Microsoft Copilot. It may seem weird that you have to go through Microsoft instead of OpenAI, but the two companies have a really close relationship. As such, it's not unusual to see OpenAI's features appear within Microsoft's AI assistants.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Use GPT-4 Turbo for Free With Microsoft Copilot
 
  To get started with GPT-4 Turbo, just boot up Copilot and start talking with it. At the time of writing, Copilot will use GPT-4 Turbo by default when talking to a user on the free tier. Paid users can go back to previous models if they wish, but you don't need to worry about that if you just want to use the latest and greatest model.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### How to Use GPT-4 Turbo for Free on Windows 10 and 11
 
 ![Copilot prompt on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/copilot-prompt-on-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If you're a Windows 10 or 11 user, there's a very good chance you have a Copilot button on your taskbar. To get started with GPT-4 Turbo, just click this button and begin chatting with the chatbot when it appears.
 
  If you want to bring Copilot up faster, you can do so by pressing**Win + C** . Or, if you're lucky enough to own a[laptop with a dedicated Copilot button](https://www.makeuseof.com/microsofts-copilot-key-windows-11-pc/) , just press that to bring up the assistant at any time.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Use GPT-4 Turbo for Free on Other Devices
 
@@ -80,17 +71,12 @@ thumbnail: https://thmb.techidaily.com/f0a710f8b121815cf9221ed63e6d5399bb71fd342
  If you're on mobile, you can download the[Copilot app for Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2032122/https://play.google.com/store/apps/details?id=com.microsoft.copilot&hl=en&gl=US) or[iOS](https://apps.apple.com/us/app/microsoft-copilot/id6472538445) . The app has a toggle when you open it that enables or disables GPT-4\. It may not be the Turbo version, but it should still be powerful enough to handle your queries.
 
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Get the Most Out of GPT-4 Turbo
 
 ![GPT 4 graphic with digital patterns](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-4-graphic-with-digital-patterns.jpg)
@@ -103,14 +89,11 @@ thumbnail: https://thmb.techidaily.com/f0a710f8b121815cf9221ed63e6d5399bb71fd342
 
  GPT-4 Turbo is a very powerful tool, and fortunately, you don't have to pay a cent to use it. Now you know how to use the popular chatbot model for free, whether you're on a Windows PC or otherwise.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -119,4 +102,26 @@ thumbnail: https://thmb.techidaily.com/f0a710f8b121815cf9221ed63e6d5399bb71fd342
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-making-money-on-youtube-a-guide/"><u>[New] 2024 Approved Making Money on YouTube A Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-no-one-watching-to-huge-engagement-10-proven-ways-to-increase-video-popularity-for-2024/"><u>[New] From No One Watching to Huge Engagement 10 Proven Ways to Increase Video Popularity for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-youtube-video-magic-comprehensive-editing-for-professionals/"><u>[Updated] YouTube Video Magic Comprehensive Editing for Professionals</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-photographers-list-of-top-10-lenses/"><u>2024 Approved The Photographer's List of Top 10 Lenses</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-evolution-microsofts-update-to-bing/"><u>AI Evolution: Microsoft's Update to Bing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-revolution-in-employment-trends/"><u>AI Revolution in Employment Trends</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-some-outdated-hardware-drivers-with-windows-device-manager-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>How to identify some outdated hardware drivers with Windows Device Manager on Windows 11 & 10 & 7</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-15-pro-screen-lock-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock iPhone 15 Pro screen lock?</u></a></li>
+<li><a href="https://facebook.techidaily.com/is-the-facebook-protect-email-from-securityfacebookmailcom-legitimate/"><u>Is the Facebook Protect Email From Security@facebookmail.com Legitimate?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722127417865-playful-possibilities-with-chatgpt-uncovered-the-ultimate-list-of-top-cups-games/"><u>Playful Possibilities with ChatGPT Uncovered - The Ultimate List of Top Cups Games</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-honor-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Honor on Windows</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/snap-it-all-navigating-the-world-of-free-tiktok-bgs-for-2024/"><u>Snap It All Navigating the World of Free TikTok BGs for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-reducing-high-cpuram-demand-from-unrealcefsubprocess/"><u>Understanding & Reducing High CPU/RAM Demand From UnrealCEFSubprocess</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722096633684-unlocking-linux-potential-setting-up-chatgpt-for-beginners-and-pros-alike/"><u>Unlocking Linux Potential: Setting Up ChatGPT for Beginners & Pros Alike!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-shortcomings-of-automated-copy-detection-tools-in-ai-systems/"><u>Unveiling the Shortcomings of Automated Copy Detection Tools in AI Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-superior-benefits-of-the-chatgpt-desktop-application-compared-to-its-web-counterpart/"><u>Unveiling the Superior Benefits of the ChatGPT Desktop Application Compared to Its Web Counterpart</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/voices-of-the-future-leveraging-chatgpt-for-dynamic-game-dialogues/"><u>Voices of the Future: Leveraging ChatGPT for Dynamic Game Dialogues</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/what-is-the-turing-test-and-will-it-ever-be-beaten/"><u>What Is The Turing Test And Will It Ever Be Beaten?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/workplace-implications-of-using-chatgpt-the-legal-landscape/"><u>Workplace Implications of Using ChatGPT: The Legal Landscape</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Buy These New Apple Features Announced at WWDC Today – Where to Get Them | CNET News
-date: 2024-10-31T17:11:05.698Z
-updated: 2024-11-08T02:38:58.560Z
+date: 2024-11-12T19:50:24.798Z
+updated: 2024-11-18T22:07:23.526Z
 tags:
   - apple
 categories:
@@ -50,10 +50,16 @@ To help you make this decision, we've broken down all of the most important deta
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  1\. You'd benefit from Apple Intelligence features
@@ -71,6 +77,13 @@ The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-whi
 **Also: [The 5 best iPhone 16 Pro features that enthusiasts will care about](https://www.zdnet.com/article/the-5-best-iphone-16-pro-features-that-enthusiasts-will-care-about/)**
 
 On the side below the [Power Button is the new Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/). It's a tactile switch with a special sensor that can perform unique actions with a light touch. For example, pressing it quickly launches the Camera app for taking quick snapshots or recording a video. It even introduces a preview feature to help you frame the shot. And if that wasn't enough, it'll work with third-party apps.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  3\. You want "next-level performance"
 
@@ -91,22 +104,15 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  You should buy the iPhone 15 if...
 
 Kerry Wan/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  1\. You don't require the generative AI capabilities
 
@@ -117,10 +123,10 @@ All of the bells and whistles on the iPhone 16 are certainly nice, but are they 
 Sometimes, it's best to wait until all the bugs have been ironed out. Plus, there's a lot of uncertainty surrounding the chipset. Early impressions indicate the A18 can handle all the AI features, but can it? Or will we see a performance drop once it launches? 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  2\. You're on a budget
@@ -165,20 +171,16 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-top-7-streaming-tools-for-mac-os-x-for-2024/"><u>[New] Top 7 Streaming Tools for Mac OS X for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ltimate-voice-transformation-tools-for-social-media-stars-for-2024/"><u>[New] Ultimate Voice Transformation Tools for Social Media Stars for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-the-enigma-exchange-where-anonymity-meets-digital-riches-2023-edition/"><u>2024 Approved The Enigma Exchange Where Anonymity Meets Digital Riches, 2023 Edition</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/797104-9781451672817-a-spiritual-renegades-guide-to-the-good-life/"><u>A Spiritual Renegade's Guide to the Good Life | Free Book</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/best-note-taking-software-ranked-the-ultimate-list/"><u>Best Note-Taking Software Ranked: The Ultimate List</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/boost-your-phone-security-with-latest-ios-18-features-that-deliver-critical-ai-free-emergency-notifications/"><u>Boost Your Phone Security with Latest iOS 18 Features That Deliver Critical, AI-Free Emergency Notifications!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhance-productivity-by-setting-up-custom-alerts-on-your-mac-a-guide-for-macos-monterey-users/"><u>Enhance Productivity by Setting Up Custom Alerts on Your Mac - A Guide for macOS Monterey Users</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-mac-for-apple-iphone-12-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock on Mac For Apple iPhone 12?</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-in-depth-review-elevating-your-recording-game-with-showmore/"><u>In 2024, In-Depth Review Elevating Your Recording Game with ShowMore</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/maximizing-efficiency-top-ipad-applications-for-boosting-productivity-and-streamlining-task-management-insights-from-zdnet/"><u>Maximizing Efficiency: Top iPad Applications for Boosting Productivity & Streamlining Task Management - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/save-20-today-top-picks-in-travel-friendly-cell-case-and-charger-bundles-plus-apple-band-deals/"><u>Save 20% Today: Top Picks in Travel-Friendly Cell Case & Charger Bundles + Apple Band Deals</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/seamless-connection-the-ultimate-guide-to-pairing-airpods-with-quest-headset-without-disturbing-others-techwise/"><u>Seamless Connection: The Ultimate Guide to Pairing AirPods with Quest Headset without Disturbing Others | TechWise</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/spotifys-1-hit-list-update-for-2024/"><u>Spotify's #1 Hit List Update for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/tailor-made-control-center-options-in-ios-18-on-your-iphone-a-comprehensive-guide/"><u>Tailor-Made Control Center Options in iOS 18 on Your iPhone - A Comprehensive Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/the-ultimate-top-5-picks-leading-360-degree-video-player-applications/"><u>The Ultimate Top 5 Picks: Leading 360-Degree Video Player Applications</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-compliance-with-standards/"><u>[Updated] Compliance with Standards</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-easily-download-specific-youtube-sections-for-2024/"><u>[Updated] Easily Download Specific YouTube Sections for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-pathway-to-facebook-success-livestreaming-recorded-visual-narratives-for-2024/"><u>[Updated] Pathway to Facebook Success Livestreaming Recorded Visual Narratives for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-mastering-the-art-of-defeating-youtube-short-issues/"><u>2024 Approved Mastering the Art of Defeating YouTube Short Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-fixes-for-windows-update-error-code-0x8024a105-a-comprehensive-approach/"><u>Mastering Fixes for Windows Update Error Code 0X8024A105: A Comprehensive Approach</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/programming-in-the-age-of-automation-how-ai-changes-the-game-for-developers/"><u>Programming in the Age of Automation: How AI Changes the Game for Developers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-8-best-crypto-chatgpt-plugins/"><u>The 8 Best Crypto ChatGPT Plugins</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-quintessence-of-quick-growth-chatgpts-pivotal-points/"><u>The Quintessence of Quick Growth: ChatGPT’s Pivotal Points</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-science-behind-chatbot-dialogue-understanding-virtual-communication/"><u>The Science Behind Chatbot Dialogue: Understanding Virtual Communication</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-4-methods-of-ai-tool-oversight-by-governments/"><u>Top 4 Methods of AI Tool Oversight by Governments</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-7-revolutionary-ai-applications-for-mastering-mathematics/"><u>Top 7 Revolutionary AI Applications for Mastering Mathematics</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Scaling Creativity: Mass Producing Visuals with Canva & GPT"
-date: 2024-09-06T21:43:19.181Z
-updated: 2024-09-07T21:43:19.181Z
+date: 2024-11-15T19:25:05.446Z
+updated: 2024-11-19T00:58:04.985Z
 tags:
   - chatgpt
   - open-ai
@@ -29,22 +29,10 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 
  A lot of AI story writers are not just for fiction writing.[AI can assist content writers](https://www.makeuseof.com/ways-to-use-ai-as-writer-editor/) and marketers who want to write website content, blog posts, social media posts, emails, and more. However, in this article, we’ll focus on the features related to fiction and AI script generators.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Rytr
 
 ![Rytr](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/rytr.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you’re a beginner fiction writer or looking for a new story AI generator on a budget, this one is for you.[Rytr](https://rytr.me/) doesn’t come with many bells and whistles, but it gets the job done.
 
  It lets you pick from numerous tones, such as**awestruck** or**critical** , and can provide up to three variants. There are several use cases to help optimize the text, but for the fiction writer, the best one is the**Story Plot** .
@@ -57,16 +45,24 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 
 **Cost:** Free for 10,000 characters per month. $9 per month for 100,000 characters and $29 per month for unlimited use.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. ShortlyAI
 
 ![ShortlyAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/shortlyai.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 [ShortlyAI](https://www.shortlyai.com/) is another tool without too many features. However, this one is focused on either blog posts or story writing, which makes it much more specialized.
 
  To begin a story, you’ll need to pick**I’m writing a story** . Then, you can input your title and the first few words. The magic happens thanks to the**Story background** . That’s where you tell your AI about your characters, plot, genre, and tone in not more than 500 characters.
@@ -88,21 +84,16 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 **Cost:** $12 per month, with a limit of 10,000 words. You can also try it out for free for 10 generations.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4\. NovelAI
 
 ![NovelAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/novelai.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [NovelAI](https://novelai.net/) is one of the most complex AI story writers on the list. But it’s also one of the most exciting ones. The basic new story AI generator works somewhat similarly to the others. You start writing the first few words or sentences of the story, and let the AI continue.
 
  However, the configuration options are endless. First, there is something called**Config Preset** . This determines the way the story is being told. There are presets better for poems; one focused on story development or coherence.
@@ -114,31 +105,29 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 **Cost:** $10/$15/$25 per month. All of these give you unlimited text generations but offer other advanced and experimental features. You can try it for free for 100 text generations.
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Leave the Writer’s Block Behind With These AI Story Generators
 
  The main benefit of AI story generators is for people who feel like they’ve lost their creativity. If you feel like you keep coming back to the same ideas, these can definitely help you break out of old habits.
 
  Since these AI story writers receive their information from thousands of different sources, they can come up with unexpected content. And if you don’t like it, you can always ask the AI to rewrite it until it comes up with something better.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -147,4 +136,20 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-secure-screenshots-without-intrusions/"><u>[New] In 2024, Secure Screenshots Without Intrusions</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-explore-gbs-best-in-class-emulation-software-for-pc-users/"><u>[Updated] Explore GB's Best in Class Emulation Software for PC Users</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-networked-narrative-recorder-pro/"><u>[Updated] In 2024, Networked Narrative Recorder Pro</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/1715860655920-updated-record-your-mac-view-in-minutes/"><u>[Updated] Record Your Mac View in Minutes!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discovering-the-gaps-7-requests-chatgpt-cannot-fulfill-or-interpret/"><u>Discovering the Gaps: 7 Requests ChatGPT Cannot Fulfill or Interpret</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhance-your-mobile-tech-with-these-8-advanced-ai-applications-for-phones/"><u>Enhance Your Mobile Tech with These 8 Advanced AI Applications for Phones</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/experience-better-conversations-with-these-9-compelling-reasons-for-chatgpt-plus/"><u>Experience Better Conversations with These 9 Compelling Reasons for ChatGPT Plus</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-deep-learnings-concealed-mechanisms-ai-black-boxes-revealed/"><u>Exploring Deep Learning's Concealed Mechanisms: AI Black Boxes Revealed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-evolution-of-openais-gpt/"><u>Exploring the Evolution of OpenAI's GPT</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-how-to-go-live-on-instagram/"><u>In 2024, How to Go Live on Instagram</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/h-transition-of-online-videos-to-tv-screens/"><u>Smooth Transition of Online Videos to TV Screens</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ultimate-guide-complete-step-by-step-process-to-perform-a-full-system-reset-on-windows-10/"><u>Ultimate Guide: Complete Step-by-Step Process to Perform a Full System Reset on Windows 10</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-apple-iphone-8-plus-passcode-without-a-computer-drfone-by-drfone-ios/"><u>Unlocking Apple iPhone 8 Plus Passcode without a Computer | Dr.fone</u></a></li>
+</ul></div>
 

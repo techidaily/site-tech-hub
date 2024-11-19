@@ -1,7 +1,7 @@
 ---
 title: Ensuring Safe AI Growth - The OpenAI Executive Stance
-date: 2024-09-06T21:43:41.257Z
-updated: 2024-09-07T21:43:41.257Z
+date: 2024-11-13T19:39:28.288Z
+updated: 2024-11-18T22:56:51.806Z
 tags:
   - chatgpt
   - open-ai
@@ -13,12 +13,6 @@ excerpt: This Article Describes Ensuring Safe AI Growth - The OpenAI Executive S
 thumbnail: https://thmb.techidaily.com/b025fc7ab394893f7e8a7b25d81a217b766fc055b9d4d40cb760c793a3b4d35f.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Get AI Assistance with a Zero Price Tag – Install Windows ChatGPT Alternative Now
 
  Offline AI chatbots are here, with new, increasingly versatile, and more optimized solutions popping up almost every day. Out of all of them, GPT4All is near the top.
@@ -59,26 +53,22 @@ Let's see how you can install and use GPT4All on your Windows PC.
 2. Run the downloaded application and follow the wizard's steps to install GPT4All on your computer.  
 ![GPT4All Setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-setup.jpg)
 3. GPT4All's installer needs to download extra data for the app to work. So if the installer fails, try to rerun it after you grant it access through your firewall.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![GPT4All Installer Downloading Component](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-installer-downloading-component.jpg)
 4. When you eventually find yourself looking at GPT4All's interface, you will also have to download a Language Model to use it. GPT4All will present you with a list of available models. Check its size (next to its name) to ensure you have enough RAM or VRAM to run it. When you decide on a model, click its**Download** button to have GPT4All download and install it.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![GPT4All Model Size and Download Button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-model-size-and-download-button.jpg)
 5. If you change your mind, click the**Cancel** button to stop an active download and choose another model.  
 ![GPT4All Downloading Language Model](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-downloading-language-model.jpg)
 6. To save some time, if you want to try out multiple models, you can have GPT4All download them in parallel. However, note that the gigabytes can soon add up and ensure you have enough storage space for all the models you selected.  
 ![GPT4All Downloading Multiple Language Models](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-downloading-multiple-language-models.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Getting Familiar With GPT4All
 
  With GPT4All installed and some LLMs downloaded, you can now start chatting with your own AI chatbot.
@@ -88,84 +78,61 @@ Let's see how you can install and use GPT4All on your Windows PC.
 2. Use the**burger icon** on the top left to access GPT4All's control panel.  
 ![GPT4All Options Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-options-panel.jpg)
 3. The first options on GPT4All's panel allow you to create a**New chat** ,**rename** the current one, or**trash** it.  
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![GPT4All Chat Name](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-chat-name.jpg)
 4. The**Updates** button lets you update the application and add or remove components.  
 ![GPT4All Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-update.jpg)
 5. The**Downloads** button gives you access to the**Language Models** panel.  
 ![GPT4All Download](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-download.jpg)
 6. You can use the**Language Models** panel to install new LLMs, remove installed ones, and change their download path.  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![GPT4All Language Model Management](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-language-model-management.jpg)
 7. Chatting with an LLM in GPT4All is similar to ChatGPT's online version. Type something in the**entry field** at the bottom of GPT4All's window, and after pressing Enter, you will see your prompt in GPT4All's main view. The selected Language Model's response will appear below your prompt.  
 ![GPT4All Chatting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-chatting.jpg)
 8. Like with ChatGPT, if you don't like an LLM's response as it's generated on your screen, you can click on the**Stop Generating** button to interrupt the process.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![GPT4All Stop Generating Response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-stop-generating-response.jpg)
 9. Similarly, if you don't like an already generated response and want to see an alternative take, you can click the**Regenerate Response** button, which appears on the same spot.  
+
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![GPT4All Regenerate Response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-regenerate-response.jpg)
 10. Note that GPT4All also allows you access to what's known as**Unrestricted** language models. Those don't come with artificial limitations. This "freedom" supposedly "liberates" and "empowers" them to be more creative and offer more factual responses. However, it also means they may produce offensive output.  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![GPT4All Unrestricted Language Model](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-unrestricted-language-model.jpg)
 11. The two first buttons on the top right of the app allow you to**reset** a conversation or**copy** it to the clipboard to paste it elsewhere.  
 ![GPT4All Reload and Copy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-reload-and-copy.jpg)
 12. The third button (with a cogwheel icon) gives you access to GPT4All's**Settings** .  
 ![GPT4All Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-settings.jpg)
 13. The**Generation** tab of GPT4All's Settings allows you to configure the parameters of the active Language Model. By changing variables like its**Temperature** and**Repeat Penalty** , you can tweak its creativeness, conciseness, and so on.  
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![GPT4All Generation Variables](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-generation-variables.jpg)
 14. The**Application** tab allows you to choose a**Default Model** for GPT4All, define a**Download path** for the Language Model, assign a specific number of**CPU Threads** to the app, have every chat automatically saved locally, and enable its internal**web server** to have it accessible through your browser.  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![GPT4All Application Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-application-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Chatting With Your Documents With GPT4All
 
  The best feature of GPT4All, though, is how it makes it effortless to add your own document to your selected Language Model. As we saw, it's possible to do the same with ChatGPT, and[build a custom ChatGPT with your own data](https://www.makeuseof.com/build-custom-chatgpt-with-your-own-data/) . However, the process is much easier with GPT4All, and free from the costs of using Open AI's ChatGPT API.
@@ -173,94 +140,46 @@ Let's see how you can install and use GPT4All on your Windows PC.
 1. Place some of your documents in a folder. Ensure they're in a widely compatible file format, like TXT, MD (for Markdown), Doc, etc.  
 ![GPT4All Local Documents in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-local-documents-in-windows-file-explorer.jpg)
 2. On GPT4All's**Settings** panel, move to the**LocalDocs Plugin (Beta)** tab page. Click the**Browse** button and point the app to the folder where you placed your documents. Then click on**Add** to have them included in GPT4All's external document list.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![GPT4All Local Docs Plugin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-local-docs-plugin.jpg)
 3. You will see an entry for your documents folder on GPT4All's**LocalDocs Plugin** document list. If you decide to remove a documents folder, select it from here and click the**Remove** button on its right.  
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![GPT4All Local Docs Plugin with Added User Document](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-local-docs-plugin-with-added-user-document.jpg)
 4. From the same spot, you can tweak the**Document snippet size** and the**Document snippets to process per prompt** values from the bottom left of the panel. Increasing those will improve the selected Language Model's ability to "understand" your documents and offer more relevant responses. However, it will also severely slow GPT4All down since it must analyze your documents after every prompt.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![GPT4All Local Docs Plugin Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-local-docs-plugin-options.jpg)
 5. You can manage your external documents through GPT4All's**Collections** button.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![GPT4All Collections Button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-collections-button.jpg)
 6. You can add multiple document collections to GPT4All. It's better, though, instead of having them all active all the time, dragging GPT4All's performance down to control**which** group of documents ("collection") you want active from the**Collections** panel.  
+
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![GPT4All Available Collections Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-available-collections-panel.jpg)
 7. After you add some documents and enable their collection, GPT4All will tell you that it's**processing** them after a prompt.  
 ![GPT4All Processing User s Documents](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-processing-user-s-documents.jpg)
 8. Each time GPT4All presents a response that pulls data from your documents, it will offer a list of**references** and**context links** under the response.  
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![GPT4All Response from User's Documents](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-response-from-user-s-documents.jpg)
-9. By clicking a**context link** , GPT4All will show you a snippet of text from your documents that it used for its response.  
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![GPT4All Response Checking User Document Context](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-response-checking-user-document-context.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
+![GPT4All Response from User's Documents](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-response-from-user-s-documents.jpg)
+9. By clicking a**context link** , GPT4All will show you a snippet of text from your documents that it used for its response.  
+![GPT4All Response Checking User Document Context](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-response-checking-user-document-context.jpg)
+
 ## Your Own ChatGPT on Windows
 
  GPT4All and the language models you can use through it might not be an absolute match for the dominant ChatGPT, but they're still useful.
@@ -269,14 +188,11 @@ Let's see how you can install and use GPT4All on your Windows PC.
 
  Instead of going into details about the pros and cons of each model available, though, why don't you try them yourself? GPT4All makes it easy.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -285,4 +201,20 @@ Let's see how you can install and use GPT4All on your Windows PC.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-a-step-by-step-guide-to-embedding-timestamp-metadata/"><u>[New] In 2024, A Step-by-Step Guide to Embedding Timestamp Metadata</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-top-10-guides-for-crafting-stellar-music-reactions-on-youtube/"><u>[New] In 2024, Top 10 Guides for Crafting Stellar Music Reactions on YouTube</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-identifying-top-economical-iosandroid-live-streaming-tools/"><u>2024 Approved Identifying Top Economical iOS/Android Live Streaming Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exciting-gpt-5-updates-top-4-enhancements-fans-anticipate/"><u>Exciting GPT-5 Updates: Top 4 Enhancements Fans Anticipate</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/explore-the-elite-selection-of-ai-prompt-services-ranked/"><u>Explore The Elite Selection of AI Prompt Services - Ranked</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-forefront-ai-understanding-its-capabilities-compared-to-chatgpt/"><u>Exploring Forefront AI: Understanding Its Capabilities Compared to ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-googles-cutting-edge-technology-the-enhanced-palm-2-llm/"><u>Exploring Google's Cutting-Edge Technology: The Enhanced PaLM 2 LLM</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-contrast-between-strong-and-weak-ai-insights-into-their-definitions/"><u>Exploring the Contrast Between Strong and Weak AI: Insights Into Their Definitions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/generative-ais-role-in-content-innovation-industry-insights/"><u>Generative AI's Role in Content Innovation: Industry Insights</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-on-iphone-11-pro-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock On iPhone 11 Pro?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/maroon-5-their-modern-pop-rock-sound-has-many-feel-good-songs-such-as-sunday-morning-and-the-classic-this-love/"><u>Maroon 5 – Their Modern Pop-Rock Sound Has Many Feel-Good Songs Such as Sunday Morning and the Classic This Love.</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/trasforma-file-png-in-formato-bmp-senza-costi-con-la-guida-di-conversione-online-facile-movavi/"><u>Trasforma File PNG in Formato BMP Senza Costi Con La Guida Di Conversione Online Facile – Movavi</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-troubleshooting-tips-to-prevent-frequent-reboots-in-your-windows-11-system/"><u>Ultimate Troubleshooting Tips to Prevent Frequent Reboots in Your Windows 11 System</u></a></li>
+</ul></div>
 

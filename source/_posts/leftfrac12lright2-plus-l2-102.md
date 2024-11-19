@@ -1,7 +1,7 @@
 ---
 title: \\[ \\Left(\\frac{1}{2}l\\right)^2 + L^2 = 10^2 \\
-date: 2024-11-02T20:37:18.226Z
-updated: 2024-11-07T21:57:50.056Z
+date: 2024-11-13T22:46:53.696Z
+updated: 2024-11-18T16:29:20.403Z
 tags:
   - apple
 categories:
@@ -41,18 +41,25 @@ While the Pixel 6 Pro at time of release was only $100 cheaper ($899) than the $
 | Colors                 | Cloudy White, Sorta Sunny, Stormy Black                                                                                                                                      | Alpine Green, Silver, Gold, Graphite, Sierra Blue                                                                                                                                                                                                                                                                                                           |
 | Price                  | [Starting at $899](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://store.google.com/product/pixel%5F6%5Fpro?hl=en-US&pli=1) | [Starting at $999](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fiphone-13-pro%2Fkey-features%2F%3Fafid%3Dp238%257CsNQZDFTnQ-dc%5Fmtid%5F20925d2q39172%5Fpcrid%5F588006468460%5Fpgrid%5F126654828229%5F%26cid%3Dwwa-us-kwgo-iphone--slid---Brand-iphone13pro-avail-&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) |
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  You should buy the Google Pixel 6 Pro if…
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  1\. You want fun and experimental camera features
 
@@ -61,19 +68,6 @@ The Google Pixel has always been known for its exceptional computational photogr
 One standout camera feature on the Pixel 6 Pro is **Motion Mode,** whichallows users to capture a clear photo of a moving object, something you'd typically need a tripod for. Motion Mode includes an Action Pan option to dial up the shutter speed and capture fast-moving subjects like cars and subways. There's also a Long Exposure option that, like Action Pan, adds a creative blur to the background for a "Pro" look and feel. 
 
 Another new and useful feature is **Magic Eraser.** Like Photoshop's Content Aware Fill, the software trick allows you to magically erase unwanted objects from a photo. Using the feature is as simple as circling what you'd like to erase from your image, whether that's strangers in the background, stain marks, or signage, and the Pixel 6 Pro does the rest. When done correctly, the image will look like it was perfectly captured in the first place. 
-
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  2\. You want a bigger battery
 
@@ -84,10 +78,10 @@ While Apple's iPhones have made significant improvements to battery life since t
 CNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  3\. You want a sleek, innovative design
@@ -103,10 +97,10 @@ Lastly, the Pixel 6 Pro runs on the latest Android 12 software, with Android 13 
 ##  You should buy the iPhone 13 Pro if...
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  1\. You want cinematic camera features
@@ -167,15 +161,20 @@ This support extends to the many physical Apple storefronts, equipped with custo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-the-10-best-drones-for-industrial-lifting-tasks/"><u>[New] 2024 Approved The 10 Best Drones for Industrial Lifting Tasks</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/connecting-from-afar-mastering-the-art-of-messaging-loved-ones-via-your-apple-watch-zdnet-insights/"><u>Connecting From Afar: Mastering the Art of Messaging Loved Ones via Your Apple Watch | ZDNet Insights</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/expert-opinion-on-iphone-15-the-unparalleled-choice-for-professionals-and-enthusiasts-alike-techreview/"><u>Expert Opinion on iPhone 15: The Unparalleled Choice for Professionals & Enthusiasts Alike | TechReview</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Realme GT 5 Pro? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-tecno-pop-8-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Tecno Pop 8 phone? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-iphone-6s-plus-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 6s Plus When We Dont Have Apple ID or Password?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-poco-c55-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Poco C55 Phone Pattern Lock</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/labor-day-tech-bonanza-snag-the-latest-ipad-pro-for-a-whopping-700-discount-at-zdnets-special-promotion/"><u>Labor Day Tech Bonanza! Snag the Latest iPad Pro for a Whopping $700 Discount at ZDNet's Special Promotion</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-perfect-wearable-for-me-the-apple-watch-ultra-2-with-an-exclusive-labor-day-offer-save-100-today-gadget-reviews/"><u>Unveiling the Perfect Wearable for Me: The Apple Watch Ultra 2 with an Exclusive Labor Day Offer - Save $100 Today | Gadget Reviews</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-enhance-your-reel-with-rhythms-instagrams-music-guide/"><u>[New] 2024 Approved Enhance Your Reel with Rhythms Instagram's Music Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-lenovo-laptop-screen-logging-made-easy/"><u>[New] In 2024, Lenovo Laptop Screen Logging Made Easy</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-precision-in-portability-the-ultimate-list-of-35-free-android-video-compressors/"><u>[New] Precision in Portability The Ultimate List of 35 Free Android Video Compressors</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-mastering-gopro-timelapses-top-editing-techniques/"><u>[Updated] Mastering GoPro Timelapses Top Editing Techniques</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-navigating-youtubes-profit-maze-for-2024/"><u>[Updated] Navigating YouTube's Profit Maze for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-discerning-the-good-and-bad-in-virtual-space/"><u>2024 Approved Discerning the Good & Bad in Virtual Space</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-comprehensive-guide-to-chatgpt-enterprise-understanding-its-offerings-and-differentiators/"><u>A Comprehensive Guide to ChatGPT Enterprise: Understanding Its Offerings and Differentiators</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beginners-guide-top-9-communities-where-you-can-learn-about-ai-tools/"><u>Beginner's Guide: Top 9 Communities Where You Can Learn About AI Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1721944431679-discover-how-you-can-supercharge-your-workflow-with-our-top-eb-of-9-chatgpt-plugins-get-started-today/"><u>Discover How You Can Supercharge Your Workflow With Our Top Eb of 9 ChatGPT Plugins - Get Started Today</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-on-your-apple-iphone-xr-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID on Your Apple iPhone XR?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-8-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 8 To Other iPhone 13 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722029438331-is-it-time-for-a-change-investigating-contemporary-substitutes-for-the-traditional-turing-challenge/"><u>Is It Time for a Change? Investigating Contemporary Substitutes for the Traditional Turing Challenge.</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-honor-play-40c-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Honor Play 40C Phone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-ai-mirage-techniques-to-discern-real-insights-from-fake/"><u>Unveiling AI Mirage: Techniques to Discern Real Insights From Fake</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-power-of-the-openai-api-explore-infinite-possibilities/"><u>Unveiling the Power of the OpenAI API: Explore Infinite Possibilities</u></a></li>
 </ul></div>
 

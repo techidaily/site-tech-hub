@@ -1,7 +1,7 @@
 ---
 title: "Augment Your Workflow: Access 8 Personalized AIs"
-date: 2024-09-06T21:42:10.492Z
-updated: 2024-09-07T21:42:10.492Z
+date: 2024-11-14T19:50:37.073Z
+updated: 2024-11-18T19:46:29.699Z
 tags:
   - chatgpt
   - open-ai
@@ -13,34 +13,16 @@ excerpt: "This Article Describes Augment Your Workflow: Access 8 Personalized AI
 thumbnail: https://thmb.techidaily.com/b6dbcc18e11dc426bd1e06a708ba47abaebc27e7bce0a9cec47bbc5c1d004931.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Canva Meets ChatGPT: Revolutionize Your Content Design Workflow
 
  ChatGPT is a helpful tool for creating bulk text content, especially for social media posts using quotes or snippets of public information. Along with ChatGPT, this tutorial will show you how Canva’s Bulk Create app works. You’ll never look back once you realize you can create months’ worth of content in mere minutes.
 
 It’s a very simple process, and you’ll want to do it again and again.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Write a Prompt in ChatGPT
 
 ![ChatGPT prompt results ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-prompt-results.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you struggle to generate ideas for content, ChatGPT can save you some brain power and provide all the content for you. If you don’t know how the chatbot works, see our[guide for how to use ChatGPT](https://www.makeuseof.com/how-to-use-chatgpt-by-openai/) . Sign up on the[OpenAI](https://openai.com/blog/chatgpt) website and create a free account. In periods of high demand, it may take longer to create an account or even receive chatbot results.
 
  On the ChatGPT chatbot page, write your prompt. Using a chatbot works best for collating information you otherwise do not have, would struggle with, or would take too long to research and generate yourself. Some helpful prompt ideas are:
@@ -51,6 +33,13 @@ It’s a very simple process, and you’ll want to do it again and again.
 * Tina Belcher’s funniest quotes from Bob’s Burgers.
 
  After ChatGPT generates your prompts, read over them. One of the[issues with using ChatGPT](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/) is occasionally it generates inaccurate information. If you’re making content that informs people, you should ensure that it is correct.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Copy the Text Into a Spreadsheet
 
@@ -63,11 +52,12 @@ It’s a very simple process, and you’ll want to do it again and again.
  Paste your content into A2 by using**Cmd** +**V** on Mac or**Ctrl** +**V** on Windows. Despite selecting only one box, each line of text will be input into a new row.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Tidy Up the Content
 
 ![Google Sheets with quotes in one column and credits in another.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/googlesheets-remove-attirubtion.jpg)
@@ -83,11 +73,12 @@ It’s a very simple process, and you’ll want to do it again and again.
 ![Google Sheets with Quotes and Attribution labels.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/labelledgoogledocs.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Now it’s time to put labels in the first row. This allows Canva to attribute your spreadsheet values to its bulk creation system later.
 
  Label**A1** with “QUOTES” or the type of content that’s there, like “SONGS,” “PASSAGES,” or “TESTIMONIALS.” In**B1** —and any further columns—label it with the content type, ensuring the label is different. We’re going to use “ATTRIBUTION,” but you could use “CREDIT,” “CUSTOMER,” “ARTIST,” or whatever suits your content.
@@ -96,6 +87,13 @@ It’s a very simple process, and you’ll want to do it again and again.
 
 ![Google Sheets saving options.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/saveas-csv.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  CSV stands for Comma-Separated Values which allows your content to be saved in a structured table ready for input into other programs.
 
  Depending on which spreadsheet software you’re using, saving might work differently. If you’re using Google Sheets, go to**File** \>**Download** \>**Comma Separated Values (.csv)** .
@@ -103,27 +101,23 @@ It’s a very simple process, and you’ll want to do it again and again.
  For Microsoft Excel, go to**File** \>**Save as** ​​​​​​, and under File Format choose**CSV UTF-8 (Comma-delimited) (.csv)** ​​​​​​. But this could be different depending on which version of Microsoft Office you’re running.
 
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 6\. Make Your Design in Canva
 
 ![Create a Design options in Canva.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/create-design-canva.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Head to[Canva](https://www.canva.com) and choose a size for your bulk designs. Whether you’re using a pre-made template, or designing from a blank page, make sure your design isn’t overcrowded and that there will be enough space for your text.
 
  If you’ve already[made and published Canva templates](https://www.makeuseof.com/canva-how-to-create-publish-templates/) , choose one of those, or if you’re designing from scratch, you could[use Canva’s Brand Kit feature](https://www.makeuseof.com/canva-how-to-use-brand-kit-feature/) to incorporate your branding into your design. Both of those features require a Canva Pro subscription or the free trial.
@@ -131,11 +125,12 @@ It’s a very simple process, and you’ll want to do it again and again.
 ![Canva template design](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/canva-template-design.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Add elements around the edges of your design, leaving enough empty space for your text. You could add your logo, images, a background, or decorative patterns.
 
 ## 7\. Add Text Placeholders
@@ -149,11 +144,12 @@ It’s a very simple process, and you’ll want to do it again and again.
  If you want different designs for the same content, you can create more than one template design here. Select**Add a page** beneath your artboard to add a new design.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 8\. Bulk Create Your Content
 
 ![Bulk Create app in Canva.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bulk-create-app-canva.jpg)
@@ -166,24 +162,12 @@ It’s a very simple process, and you’ll want to do it again and again.
 
 ![Canva CSV input.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/curly-brackets.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Select your Quotes placeholder text, then right-click >**Connect Data** \>**\[QUOTES\]** . This inputs your data into Canva, shown by your label now written in curly brackets. Do this again for your second set of content, and any others you’re adding. Select**Continue** .
 
 ![Canva's Bulk Create checkboxes.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/apply-data-canva-bulk-create.jpg)
 
  You’ll see a list of all the content to be applied with checkboxes next to each item. To remove any text items, uncheck the box next to it. If you’re happy with all the content, keep them all checked and select**Generate Pages** . Ensure you don't have a pop-up blocker on as your designs will open in a new tab.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 9\. Review and Edit Your Designs
 
 ![Canva bulk designs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/canva-bulk-designs.jpg)
@@ -194,12 +178,6 @@ It’s a very simple process, and you’ll want to do it again and again.
 
  At this point you can also add emphasis to individual words with extra colors, bold or italics, or change the font for certain words or phrases. This isn’t possible to do with Bulk Create.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 10\. Save Your Bulk-Created Designs
 
 ![Canva save options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/canva-save-options.jpg)
@@ -208,26 +186,17 @@ It’s a very simple process, and you’ll want to do it again and again.
 
 ![Bulk designs on Mac Finder window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bulk-designs-on-mac.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can add your bulk content to a social media scheduling app, like Hootsuite or Later, to save even more time and to ensure regular posting. Bulk designs are great for weekly or monthly posts of a similar type, for example, Monday Motivation or monthly calendar posts.
 
 ## Bulk Create Content With Canva and ChatGPT
 
  Whether you use ChatGPT, another AI chatbot, or manually generate the written content, Canva’s Bulk Create feature is not one to be missed. You can quickly and easily create months’ worth of designs for social media or other uses. Canva’s easy system removes any complications you might find in other software and saves time and energy for mass production.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -236,4 +205,23 @@ It’s a very simple process, and you’ll want to do it again and again.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-easy-screen-capture-in-vlc-player-for-2024/"><u>[New] Easy Screen Capture in VLC Player for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-top-10-sites-for-high-end-vector-graphics-for-2024/"><u>[Updated] Top 10 Sites for High-End Vector Graphics for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpts-surprising-gaming-world-check-out-the-best-6-games-to-play/"><u>ChatGPT's Surprising Gaming World - Check Out the Best 6 Games to Play</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-the-latest-canon-mp280-printer-drivers-for-windows-10-8-and-7/"><u>Download the Latest Canon MP280 Printer Drivers for Windows 10, 8 & 7</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-review-on-huions-inspiroy-g10t-tablet-excellence-in-performance-and-design-quality/"><u>Expert Review on Huion's Inspiroy G10T Tablet - Excellence in Performance & Design Quality</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-realme-12plus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-c12-plus-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Nokia C12 Plus Phone without PIN</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionizing-freelance-and-remote-jobs-with-these-6-chatgpt-techniques/"><u>Revolutionizing Freelance and Remote Jobs with These 6 ChatGPT Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-evolutionary-impact-of-eus-digital-single-market-strategy-on-interactive-ai-technologies-such-as-gpt/"><u>The Evolutionary Impact of EU's Digital Single Market Strategy on Interactive AI Technologies Such as GPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-impact-of-emojis-on-financial-guidance-securing-the-future-or-a-pathway-to-risk/"><u>The Impact of Emojis on Financial Guidance: Securing the Future or a Pathway to Risk?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-premier-5-ai-prompt-generators-reviewed/"><u>The Premier 5 AI Prompt Generators Reviewed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-guide-to-understanding-ai-language-decode-29-crucial-terms/"><u>The Ultimate Guide to Understanding AI Language: Decode 29 Crucial Terms</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-comprehensive-insights-into-computer-hardware/"><u>Tom's Tech: Comprehensive Insights Into Computer Hardware</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-artificial-intelligence-search-platforms-for-efficient-web-exploration/"><u>Top-Rated Artificial Intelligence Search Platforms for Efficient Web Exploration</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transform-your-diy-skills-unveiling-the-power-of-gpt-4s-artificial-intelligence-innovation/"><u>Transform Your DIY Skills - Unveiling the Power of GPT-4's Artificial Intelligence Innovation</u></a></li>
+<li><a href="https://common-error.techidaily.com/unplugging-pauses-a-guide-to-smooth-gaming/"><u>Unplugging Pauses: A Guide to Smooth Gaming</u></a></li>
+</ul></div>
 

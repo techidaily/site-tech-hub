@@ -1,7 +1,7 @@
 ---
 title: Top AT&T Mobile Offers in May 2024 - Exclusive Insights
-date: 2024-11-03T16:02:05.018Z
-updated: 2024-11-07T16:18:53.319Z
+date: 2024-11-15T23:55:02.139Z
+updated: 2024-11-18T17:38:47.884Z
 tags:
   - apple
 categories:
@@ -116,6 +116,13 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 
 [View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/motorola-razrplus.html) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## More AT&T deals
 
 [Apple iPhone 15 Pro Max, $5.56/month with trade-in View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/apple-iphone-15-pro-max.html)
@@ -141,10 +148,16 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 [BodyGuardz Pure 2 Edge antimicrobial glass screen protector (iPhone 14 range) for $10 (save $35) $10 at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/accessories/Screen-Protectors/bodyguardz-pure-2-edge-antimicrobial-tempered-glass-screen-protector-iphone-14-13-13-pro.html)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How did we choose these AT&T phone deals?
@@ -157,13 +170,6 @@ When we made our selection for the best AT&T deals, we wanted to include options
 * **Free products**: Devices drop in value over time, and to offload excess stock, some carriers will launch time-sensitive deals, giving subscribers free products in exchange for signing up for a new contract.
 * **Events**: It's always worth checking retailers after a major event, such as Samsung Unpacked. You will often find that deals will be launched just after, luring customers to agree to preorder their new handset in return for discounts and free storage upgrades.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Does AT&T offer deals for existing customers?
 
 It's true that carriers are the most aggressive with their offers when it's year-end and new customers are shopping around for services to switch to. Still, AT&T has done a fairly balanced job of pushing promotions for new and existing customers, including all the deals we have listed above. If you've been a loyal customer, we'd even recommend reaching out to your local AT&T provider to see if there are any exclusive deals just for you.
@@ -172,22 +178,16 @@ It's true that carriers are the most aggressive with their offers when it's year
 
 In general, there is no difference in how much money you save whether you shop online or in stores. Instead, deciding between the two really boils down to your preference for transactions. With how complicated carrier phone deals can be, you may be better off heading down to the local AT&T store and consulting with a product expert to help you navigate the fine print. Otherwise, shopping online can be faster and more convenient.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What are the best deals right now?
 
 ZDNET experts split out the latest and greatest deals for you below.
-
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Best deals by retailer**
 
@@ -195,10 +195,10 @@ ZDNET experts split out the latest and greatest deals for you below.
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Best deals by category**
@@ -250,19 +250,14 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-uncluttered-desktop-recorder-w10-for-2024/"><u>[New] Uncluttered Desktop Recorder W10 for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-recording-real-time-action-in-overwatch/"><u>[Updated] 2024 Approved Recording Real-Time Action in Overwatch</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-eye-catching-podcast-logos-step-by-step-creation-for-2024/"><u>[Updated] Eye-Catching Podcast Logos Step-by-Step Creation for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-minecraft-banner-templates-get-them-here/"><u>2024 Approved Minecraft Banner Templates Get Them Here</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/apple-watch-ultra-discounted-like-never-before-unmissable-holiday-deals-revealed-by-zdnet/"><u>Apple Watch Ultra Discounted Like Never Before – Unmissable Holiday Deals Revealed by ZDNet</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/beeper-messaging-platform-now-under-automattic-ownership-poised-for-growth/"><u>Beeper Messaging Platform Now Under Automattic Ownership, Poised for Growth</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-oppo-a59-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Oppo A59 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/discords-best-servers-for-finding-a-mate-for-2024/"><u>Discord's Best Servers for Finding a Mate for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-infinix-smart-8-by-fonelab-android-recover-data/"><u>Easy steps to recover deleted data from Infinix Smart 8</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/effortless-sound-mastery-with-sonos-s2-app-unveiled-benefits-and-surprises-revealed/"><u>Effortless Sound Mastery with Sonos S2 App Unveiled: Benefits and Surprises Revealed</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-apples-latest-stair-climbing-challenge-unpack-the-motive-behind-your-phone-nudging-you-for-fitness/"><u>Exploring Apple's Latest Stair-Climbing Challenge - Unpack the Motive Behind Your Phone Nudging You for Fitness</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/final-cut-pro-on-ipad-unveiled-a-breakthrough-toolset-redefining-film-production-according-to-zdnet/"><u>Final Cut Pro on iPad Unveiled: A Breakthrough Toolset Redefining Film Production According to ZDNET</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-apples-ai-must-evolve-top-10-capabilities-required-to-rival-openai-and-google-insights/"><u>How Apple's AI Must Evolve: Top 10 Capabilities Required to Rival OpenAI & Google - Insights</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-honor-magic-5-lite-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-effective-strategies-to-capture-and-save-google-voice-dialogues/"><u>[Updated] In 2024, Effective Strategies to Capture and Save Google Voice Dialogues</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-prime-alternatives-the-best-online-learning-platforms-without-udemy/"><u>[Updated] In 2024, Prime Alternatives The Best Online Learning Platforms without Udemy</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparing-experiences-testing-the-mistral-ais-le-chat-against-chatgpt/"><u>Comparing Experiences: Testing the Mistral AI's Le Chat Against ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/current-user-manual-how-to-harness-the-power-of-gpt-4-within-chatgpt-environmentally-today/"><u>Current User Manual: How to Harness the Power of GPT-4 Within ChatGPT Environmentally Today</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/deciphering-digital-signals-can-emojis-guide-your-investments-plus-updates-on-activision-security-breach-and-ais-role-in-job-disruption/"><u>Deciphering Digital Signals: Can Emojis Guide Your Investments? Plus Updates on Activision Security Breach and AI's Role in Job Disruption</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decode-cyber-threats-with-chatgpt-mobile-phones-for-50-plus-ransomware-unveiled-on-our-show/"><u>Decode Cyber Threats with ChatGPT: Mobile Phones for $50 + Ransomware Unveiled on Our Show!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-samsung-galaxy-f34-5g-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Samsung Galaxy F34 5G</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-xiaomi-14-ultra-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Xiaomi 14 Ultra in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-enhanced-color-and-contrast-why-hdr-outshines-sdr/"><u>In 2024, Enhanced Color and Contrast Why HDR Outshines SDR</u></a></li>
 </ul></div>
 
