@@ -1,7 +1,7 @@
 ---
 title: Apple Reveals a Batch of New Features for Fall Devices, Showcasing AI Advancements in iPhone, iPad, and Mac Products | ZDNET Insights
-date: 2024-11-17T21:16:44.601Z
-updated: 2024-11-19T01:17:28.145Z
+date: 2024-11-24T13:44:59.057Z
+updated: 2024-11-27T20:11:35.772Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -61,10 +65,7 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -74,6 +75,10 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -93,13 +98,6 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -113,13 +111,6 @@ Adam Breeden/ZDNET
 * With watchOS, users will get suggestions on the best photo options for their **watch face** from their photo library based on criteria such as aesthetics, composition, facial expressions, and more. The face can also be customized with different sizes, layouts, and fonts.
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## iPadOS 18
 
@@ -160,10 +151,7 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -173,6 +161,10 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -218,22 +210,18 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-conquer-profits-on-the-go-youtube-studio-monetization-explained/"><u>[New] In 2024, Conquer Profits On-the-Go YouTube Studio Monetization Explained</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-online-no-cost-fb-sound-archive/"><u>[New] In 2024, Online, No Cost FB Sound Archive</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-master-list-of-vimeo-video-capturers-for-2024/"><u>[New] Master List of Vimeo Video Capturers for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-game-on-android-a-deep-dive-into-kinemaster-features/"><u>[Updated] Game On Android A Deep Dive Into KineMaster Features</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/embracing-the-undead-a-review-on-how-7-days-to-die-successfully-reinvents-classic-zombie-lore-for-modern-gamers/"><u>Embracing the Undead: A Review on How '7 Days to Die' Successfully Reinvents Classic Zombie Lore for Modern Gamers.</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-itel-p55-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Itel P55 | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-itel-p40-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Itel P40? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-music-after-oppo-reno-10-pro-5g-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after Oppo Reno 10 Pro 5G has been deleted</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/sarah-silverman-joins-legal-battle-challenging-ai-giants-openai-and-meta/"><u>Sarah Silverman Joins Legal Battle: Challenging AI Giants OpenAI & Meta</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-deepening-danger-how-generative-ais-safeguards-are-set-to-wane/"><u>The Deepening Danger: How Generative AI's Safeguards Are Set to Wane</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-influence-of-ai-on-mental-health-potential-benefits-and-risks-explored/"><u>The Influence of AI on Mental Health: Potential Benefits and Risks Explored</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-ultimate-workflow-for-high-volume-designs-with-canva-and-chatgpt-integration/"><u>The Ultimate Workflow for High-Volume Designs with Canva & ChatGPT Integration</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/tips-to-surpass-chatgpts-character-threshold/"><u>Tips to Surpass ChatGPT's Character Threshold</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-educational-potential-5-academic-applications-of-chatgpt-for-pupils/"><u>Unlocking Educational Potential: 5 Academic Applications of ChatGPT for Pupils</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unmasking-medical-misinformation-from-ai-expertise/"><u>Unmasking Medical Misinformation From AI Expertise</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unpacking-auto-gpt-systematic-setup/"><u>Unpacking Auto-GPT: Systematic Setup</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/unveiling-the-process-precision-recording-of-roblox-adventures-on-apple-devices-for-2024/"><u>Unveiling the Process Precision Recording of Roblox Adventures on Apple Devices for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-master-your-digital-creations-selecting-top-7-nft-generating-platforms/"><u>[New] Master Your Digital Creations - Selecting Top 7 NFT-Generating Platforms</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-editors-treasure-trove-curated-list-of-iconic-80s-vhs-hacks-for-editing/"><u>[Updated] The Editor's Treasure Trove Curated List of Iconic 80S VHS Hacks for Editing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/conscious-communication-chatgpt-as-a-therapeutic-aid/"><u>Conscious Communication: ChatGPT as a Therapeutic Aid</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Oppo Find X7 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/instant-data-integration-essential-steps-for-file-movement-onto-computer/"><u>Instant Data Integration Essential Steps for File Movement Onto Computer</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-the-usage-of-nvidias-personalized-ai/"><u>Navigating the Usage of NVIDIA’s Personalized AI</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overzicht-van-windows-movie-maker-en-gebruikelijke-oplossingen/"><u>Overzicht Van Windows Movie Maker en Gebruikelijke Oplossingen</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/prestigious-vr-movie-collection-to-watch/"><u>Prestigious VR Movie Collection to Watch</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-easy-integration-of-chatgpt-plugins/"><u>Step-by-Step Guide: Easy Integration of ChatGPT Plugins</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-6-strategies-leveraging-chatgpt-for-enhanced-remote-and-freelance-jobs/"><u>Top 6 Strategies: Leveraging ChatGPT for Enhanced Remote & Freelance Jobs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transformative-tech-ais-revolution-in-website-searches/"><u>Transformative Tech: AI's Revolution in Website Searches</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-roku-closed-captioning-feature-that-refuses-to-activate/"><u>Troubleshooting Roku Closed Captioning Feature That Refuses to Activate</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/wie-man-kontakte-erfolgreich-von-einem-icloud-account-auf-einen-anderen-ubersetzt/"><u>Wie Man Kontakte Erfolgreich Von Einem iCloud-Account Auf Einen Anderen Übersetzt</u></a></li>
 </ul></div>
 

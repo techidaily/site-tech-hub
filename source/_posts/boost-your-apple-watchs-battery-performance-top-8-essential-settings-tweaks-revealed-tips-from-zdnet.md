@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Apple Watch's Battery Performance: Top 8 Essential Settings Tweaks Revealed - Tips From ZDNet"
-date: 2024-11-17T19:53:49.634Z
-updated: 2024-11-18T20:10:59.560Z
+date: 2024-11-23T04:27:29.054Z
+updated: 2024-11-28T08:24:00.115Z
 tags:
   - apple
 categories:
@@ -42,6 +42,10 @@ This is the most effective thing you can do to preserve your Apple Watch's batte
 
 **How to:** On your Apple Watch, head to Settings > Display & Brightness > Always On, then toggle the feature off.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Use Low Power Mode when you can
 
 I don't recommend using Low Power Mode all day since it limits the functionality of your Apple Watch, but in a pinch, it can squeeze out a lot more juice than you think. If you drop down to 40 percent by 2 p.m., your watch will last the remainder of the day without issue by using the feature.
@@ -51,10 +55,7 @@ I don't recommend using Low Power Mode all day since it limits the functionality
 **Also:** [**Apple Watch Ultra 2 vs. Watch Ultra: Is it time to upgrade?**](https://www.zdnet.com/article/apple-watch-ultra-2-vs-ultra/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Disable cellular connectivity
@@ -64,19 +65,6 @@ If you have an Apple Watch with cellular connectivity, it's best to not use your
 **How to:** Open Settings > Cellular on your watch and toggle off "Cellular." Then, when you want to turn it back on, flick the switch again. It's worth noting that airplane mode will essentially do the same thing, but it also turns off Wi-Fi which you need for certain things, so manually disabling cellular data will save some steps.
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Turn off background app refresh
 
@@ -102,6 +90,10 @@ With some of the newest Apple Watches, Apple includes a feature that can alert y
 
 **How to:** Visit Settings > Heart > Irregular Rhythm Notifications and flick the feature off.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Reduce the amount of notifications you get
 
 When a notification comes in, it not only plays a "ding!" to alert you, it also vibrates your Apple Watch and lights up the screen. While your notifications won't drain your battery in excess, if you get enough of them throughout the day, you'll definitely notice a difference in endurance.
@@ -111,10 +103,7 @@ When a notification comes in, it not only plays a "ding!" to alert you, it also 
 **Also:** [**Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11**](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Turn off Siri
@@ -125,18 +114,15 @@ Ah, Siri. Many people swear by the voice assistant and use it daily to do things
 
 Adrian Kingsley-Hughes/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Factory reset your Apple Watch (a.k.a. the last resort)
 
 I've heard from many folks who have faced issues with battery life on the Apple Watch that it's best to do a complete factory reset. Full disclosure: it's not going to work for everyone, but if you've exhausted every option on your Apple Watch to extend battery life, the battery is still healthy, and you don't want to upgrade, your best bet is to reset it and start from scratch. That way, you can set up your watch and, along the way, spot the app or service that drains your battery the most. It may also help clean up some of the system bloat in watchOS 10 that's led to poor efficiency on your watch.
 
 **How to:** Go to Settings > General > Reset on your Apple Watch, then choose "Erase All Content and Settings." You won't have to disable Find My or get rid of your cellular plan since you'll be setting it up with your iPhone again, but if you want to get rid of absolutely everything, make sure you disable Find My and dump your cellular plan during the process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How we test smartwatches
 
@@ -179,19 +165,22 @@ For a deeper look at our testing process, check out our comprehensive [smartwatc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://activate-lock.techidaily.com/best-ways-to-bypass-icloud-activation-lock-from-apple-iphone-15-pro-maxipadipod-by-drfone-ios/"><u>Best Ways to Bypass iCloud Activation Lock from Apple iPhone 15 Pro Max/iPad/iPod</u></a></li>
-<li><a href="https://extra-information.techidaily.com/boosting-patient-engagement-through-fb-health-ads/"><u>Boosting Patient Engagement Through FB Health Ads</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-tecno-pova-6-pro-5g-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Honor Magic5 Ultimate? | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/lifelong-education-top-four-reasons-to-learn-languages-at-age-40plus-for-enriched-life-experiences/"><u>Lifelong Education: Top Four Reasons to Learn Languages at Age 40+ for Enriched Life Experiences</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/maximillians-must-see-documentaries-in-july-2024-find-out-which-ones-made-the-cut/"><u>Maximillian's Must-See Documentaries in July 2024: Find Out Which Ones Made the Cut</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722978086858-secure-your-system-with-amds-official-gpio-driver-now-available/"><u>Secure Your System with AMD's Official GPIO Driver - Now Available</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-social-media-sensation-kit-building-memes-on-9gag-for-2024/"><u>The Social Media Sensation Kit Building Memes on 9GAG for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transform-your-screenplays-with-chatgpt-assisted-youtube-creation/"><u>Transform Your Screenplays with ChatGPT-Assisted YouTube Creation</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transforming-the-future-the-leading-5-hardware-advancements-in-ai-sector/"><u>Transforming the Future: The Leading 5 Hardware Advancements in AI Sector</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/true-insights-free-pc-game-guide/"><u>True Insights: Free PC Game Guide</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/ubertragt-man-effizient-dokumente-von-einem-windows-pc-auf-einen-ipad-pro-entdeckung-der-besten-6-methoden/"><u>Überträgt Man Effizient Dokumente Von Einem Windows PC Auf Einen iPad Pro - Entdeckung Der Besten 6 Methoden</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ultimate-tutorial-on-launching-ai-agents-through-agentgpt-in-your-browser/"><u>Ultimate Tutorial on Launching AI Agents Through AgentGPT in Your Browser</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-how-governments-control-and-manage-ai-technologies-four-key-strategies/"><u>Understanding How Governments Control and Manage AI Technologies: Four Key Strategies</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-essential-low-cost-footage-source-directory/"><u>[New] In 2024, Essential Low-Cost Footage Source Directory</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-a-quick-walkthrough-of-new-user-registration-on-twitter/"><u>2024 Approved A Quick Walkthrough of New User Registration on Twitter</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-step-by-step-guide-to-enabling-onscreen-keyboards-in-microsoft-windows-operating-systems/"><u>A Step-by-Step Guide to Enabling Onscreen Keyboards in Microsoft Windows Operating Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/asus-aura-themes-and-skins-for-windows-update-your-pcs-visual-appeal-with-free-downloads/"><u>ASUS AURA Themes & Skins for Windows: Update Your PC's Visual Appeal with Free Downloads</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/camera-malfunction-in-windows-overcoming-error-code-0xa00f4244-with-easy-fixes-for-1011-users/"><u>Camera Malfunction in Windows: Overcoming Error Code 0XA00F4244 with Easy Fixes for 10/11 Users</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-motorola-edgeplus-2023-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Motorola Edge+ (2023) has native HEVC support?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-steps-for-achieving-a-swift-windows-10-clean-boot/"><u>Effortless Steps for Achieving a Swift Windows 10 Clean Boot</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-your-gameplay-the-ultimate-guide-to-setting-mouse-dpi-for-competitive-fortnite-players/"><u>Elevate Your Gameplay: The Ultimate Guide to Setting Mouse DPI for Competitive Fortnite Players</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/fixing-a-broken-snipping-feature-in-windows-operating-systems-including-windows-11-edition/"><u>Fixing a Broken Snipping Feature in Windows Operating Systems, Including Windows 11 Edition</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/flight-path-perfection-essential-insights-for-drone-racers-and-top-5-models/"><u>Flight Path Perfection Essential Insights for Drone Racers & Top 5 Models</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/goose-goose-duck-fixes-7-critical-steps-to-stop-crashing-and-enjoy-flawless-gaming-on-your-pc/"><u>Goose Goose Duck Fixes - 7 Critical Steps to Stop Crashing & Enjoy Flawless Gaming on Your PC</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/guaranteed-method-to-disable-driver-security-features-in-windows-11-for-smooth-installation/"><u>Guaranteed Method to Disable Driver Security Features in Windows 11 for Smooth Installation</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfersync-notes-from-apple-iphone-14-pro-max-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer/Sync Notes from Apple iPhone 14 Pro Max to iPad | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/review-of-bouncie-drive-connect-an-easy-to-use-budget-friendly-gps-tracking-solution/"><u>Review of Bouncie Drive Connect: An Easy-to-Use, Budget-Friendly GPS Tracking Solution</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-nokia-xr21-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/troubleshooting-complete-videotrim-failures/"><u>Troubleshooting Complete Videotrim Failures</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-cross-platform-audio-transcription-turning-text-into-mp3-clips-for-2024/"><u>Updated Cross-Platform Audio Transcription Turning Text Into MP3 Clips for 2024</u></a></li>
 </ul></div>
 

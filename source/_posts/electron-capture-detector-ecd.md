@@ -1,7 +1,7 @@
 ---
 title: "Electron Capture Detector (ECD):"
-date: 2024-11-14T23:15:25.691Z
-updated: 2024-11-19T00:15:23.771Z
+date: 2024-11-23T06:36:42.398Z
+updated: 2024-11-27T16:43:15.931Z
 tags:
   - apple
 categories:
@@ -29,6 +29,10 @@ You'll find the necessary setting in the Control Center section of your Settings
 
 Michael Gariffo
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Open your Settings app and find "Control Center"
 
 Apple added a quick, easy way to record your screen with [iOS 14 in 2020](https://www.zdnet.com/article/apple-launches-ios-14-aims-for-siri-overhaul-better-app-organization/), but you'll need to enable it before you can use it. To do this, open your Settings app and find Control Center (as seen above in the red rectangle).
@@ -36,13 +40,6 @@ Apple added a quick, easy way to record your screen with [iOS 14 in 2020](https:
 This is the Screen Recording option we'll be adding to Control Center
 
 Michael Gariffo
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Add the Screen Recording button to your Control Center
 
@@ -54,13 +51,6 @@ This is the screen recording button we'll use to start the recording.
 
 Michael Gariffo
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Open your Control Center
 
 Next, you'll want to open Control Center. This can be done from your home screen, or from within the vast majority of iPhone apps. For iPhones without a physical Home Button, you can access it by swiping down from the top-right corner of the display. 
@@ -70,6 +60,10 @@ For iPhones with a physical Home Button, you can access it by swiping up from th
 While recording, your Screen Recording button will look like this (minus the red circle we added)
 
 Michael Gariffo
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Begin screen recording
 
@@ -82,10 +76,7 @@ Your clock will look like this as long as Screen Recording is active.
 Michael Gariffo
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 5: Record
@@ -104,7 +95,15 @@ In both cases, the recording you just produced will immediately be saved to your
 
 **Also:** [How to record a call on your iPhone](https://www.zdnet.com/article/how-to-record-a-phone-call-on-your-iphone/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQs
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What does the Screen Recording app actually capture?
 
@@ -117,13 +116,6 @@ Unfortunately, the built-in iPhone tool for recording your screen doesn't suppor
 * [Techsmith Capture](https://apps.apple.com/us/app/techsmith-capture/id1266321056) \- A straightforward screen recorder app that works almost identically to the built-in process, but supports adding real-time narration using the iPhone's built-in microphones.
 * [RecordIt!](https://apps.apple.com/us/app/record-it-screen-recorder/id1245356545) \- A slightly more complex option that also allows for real-time narration or post-capture editing. It also supports face cam captures, so you can record your screen and yourself at the same time.
 * [Screen Recorder +](https://apps.apple.com/us/app/screen-recorder/id1380506650) \- A similar option to RecordIt!, Screen Recorder + touts its ability to start up in just one second, for those spur-of-the-moment captures.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How can I share my captured video?
 
@@ -161,24 +153,20 @@ Be aware that some apps, particularly email and messaging apps that don't rely o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-restored-full-screen-happy-obs-users/"><u>[Updated] Restored Full Screen, Happy OBS Users</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-guide-to-filming-and-refining-videos-via-adobe-connect/"><u>2024 Approved Guide to Filming & Refining Videos via Adobe Connect</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-simplify-images-remove-the-environmental-elements/"><u>2024 Approved Simplify Images Remove the Environmental Elements</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-tailor-made-youtube-url-strategies-an-easier-approach/"><u>2024 Approved Tailor-Made YouTube URL Strategies An Easier Approach</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/android-sound-logging-without-need-for-rooting-for-2024/"><u>Android Sound Logging Without Need for Rooting for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/h265-video-converter-perfetto-elaborazione-ottimizzata-per-windows-10-e-mac/"><u>H.265 Video Converter Perfetto - Elaborazione Ottimizzata per Windows 10 E Mac</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Vivo Y200e 5G | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-comparative-study-samsung-vs-traditional-photo-tools/"><u>In 2024, Comparative Study Samsung vs Traditional Photo Tools</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-xiaomi-redmi-note-12r-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Xiaomi Redmi Note 12R Face Lock?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-the-ai-act-of-europe-what-it-means-for-future-chatbots-including-chatgpt/"><u>Navigating the AI Act of Europe: What It Means for Future Chatbots Including ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-the-limits-of-chatgpts-response-tokens-insights-and-tips/"><u>Navigating the Limits of ChatGPT's Response Tokens: Insights & Tips</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-the-realm-of-ai-dissecting-public-private-and-personal-ai-types/"><u>Navigating the Realm of AI: Dissecting Public, Private & Personal AI Types</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-the-skies-copilot-versions-compared/"><u>Navigating the Skies: CoPilot Versions Compared</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/new-era-microsofts-ai-on-bing-search/"><u>New Era: Microsoft's AI on Bing Search</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/overcoming-gpts-top-6-conversational-blunders-and-fixes/"><u>Overcoming GPT's Top 6 Conversational Blunders & Fixes</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/promoting-safe-interactions-on-ai-platforms-5-key-guidelines-for-kids-using-chatgpt/"><u>Promoting Safe Interactions on AI Platforms: 5 Key Guidelines for Kids Using ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/prompt-perfection-top-5-ai-tutorials-online/"><u>Prompt Perfection: Top 5 AI Tutorials Online</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/pursue-justice-in-digital-realms-experience-4-ai-mysteries/"><u>Pursue Justice in Digital Realms: Experience 4 AI Mysteries</u></a></li>
-<li><a href="https://discover-data.techidaily.com/step-by-step-tutorial-saving-magic-stream-content-as-mp4-or-avi-on-macos-and-windows-systems/"><u>Step-by-Step Tutorial: Saving Magic Stream Content as MP4 or AVI on macOS and Windows Systems</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-audio-visual-elites-selecting-5-exceptional-creators-who-mix-sounds/"><u>[Updated] Audio-Visual Elites Selecting 5 Exceptional Creators Who Mix Sounds</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/dvd-ripping-tool-fur-mac-perfektes-konvertieren-von-filmen-auf-ihrem-apple-gerat/"><u>DVD Ripping Tool Für Mac: Perfektes Konvertieren Von Filmen Auf Ihrem Apple Gerät</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-11-pro-drfone-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-itel-p55plus-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-flash-dead-vivo-v29-pro-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Vivo V29 Pro Safely | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-xs-max-to-mac-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone XS Max to Mac? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/troubleshooting-tips-how-to-easily-leave-safe-mode-on-your-windows-11-pc/"><u>Troubleshooting Tips: How to Easily Leave Safe Mode on Your Windows 11 PC</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/turbulent-flow-is-characterized-by-chaotic-fluid-motion-and-occurs-at-reynolds-numbers-greater-than-approximately-4000-for-pipe-flows/"><u>Turbulent Flow Is Characterized by Chaotic Fluid Motion and Occurs at Reynolds Numbers Greater than Approximately 4000 for Pipe Flows.</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-guide-capturing-screen-images-on-windows-7-8-and-10/"><u>Ultimate Guide: Capturing Screen Images on Windows 7, 8 & 10</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-guide-step-by-step-process-to-flush-browser-and-system-cache-in-windows-10/"><u>Ultimate Guide: Step-by-Step Process to Flush Browser and System Cache in Windows 10</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-list-of-top-game-torrent-websites-find-the-latest-releases/"><u>Ultimate List of Top Game Torrent Websites – Find the Latest Releases!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-the-secrets-of-pc-maintenance-how-to-conduct-a-hard-reboot-and-restore-performance-on-windows-10/"><u>Unlock the Secrets of PC Maintenance: How to Conduct a Hard Reboot and Restore Performance on Windows 10</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-the-secrets-of-windows-11s-task-manager-easy-tutorial/"><u>Unlock the Secrets of Windows 11'S Task Manager - Easy Tutorial</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>What is Geo-Blocking and How to Bypass it On Apple iPhone 15 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-the-price-bump-means-no-more-gaming-with-ea/"><u>Why the Price Bump Means No More Gaming with EA</u></a></li>
 </ul></div>
 

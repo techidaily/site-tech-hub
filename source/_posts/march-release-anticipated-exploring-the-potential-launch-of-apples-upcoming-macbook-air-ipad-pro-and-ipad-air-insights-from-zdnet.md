@@ -1,7 +1,7 @@
 ---
 title: "March Release Anticipated: Exploring the Potential Launch of Apple's Upcoming MacBook Air, iPad Pro & iPad Air - Insights From ZDNet"
-date: 2024-11-13T18:11:03.182Z
-updated: 2024-11-19T00:51:48.604Z
+date: 2024-11-26T08:44:28.691Z
+updated: 2024-11-28T07:50:54.005Z
 tags:
   - apple
 categories:
@@ -60,13 +60,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -93,6 +86,10 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -107,6 +104,10 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -116,13 +117,6 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -136,10 +130,7 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -159,6 +150,10 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -168,10 +163,7 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -218,18 +210,20 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-xbox-extra-storage-best-hdd-options-reviewed-for-2024/"><u>[Updated] Xbox Extra Storage Best HDD Options Reviewed for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-pioneering-visual-editing-3dlut-for-photosvideos/"><u>2024 Approved Pioneering Visual Editing 3DLUT for Photos/Videos</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-understanding-vr-limitations/"><u>2024 Approved Understanding VR Limitations</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/a-comprehensive-guide-to-understanding-forefront-ai-and-its-advantages-over-chatgpt/"><u>A Comprehensive Guide to Understanding Forefront AI and Its Advantages Over ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-driven-chrome-extensions-ranked-for-maximum-productivity/"><u>AI-Driven Chrome Extensions Ranked for Maximum Productivity</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1722087256949-bypass-costs-with-6-premium-ai-models-similar-to-openais-sora-and-get-them-absolutely-free/"><u>Bypass Costs with 6 Premium AI Models Similar to OpenAI's Sora, and Get Them Absolutely Free!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-sign-svd-file-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .svd file electronically</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-samsung-galaxy-a15-5g-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Samsung Galaxy A15 5G Phone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-infinix-hot-40i-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Infinix Hot 40i</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-motorola-moto-g13-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Motorola Moto G13 Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-samsung-galaxy-a14-4g-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Samsung Galaxy A14 4G Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209663404-9781632657992-magickal-crafts/"><u>Magickal Crafts | Free Book</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/why-zerogpt-and-similar-ai-detectors-may-fail-insightful-cases/"><u>Why ZeroGPT & Similar AI Detectors May Fail: Insightful Cases</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-introducing-the-ultimate-intro-edits-app-of-2023/"><u>[New] Introducing the Ultimate Intro Edits App of 2023</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-achieving-audiovisual-consistency-in-premiers-for-2024/"><u>[Updated] Achieving Audiovisual Consistency in Premiers for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-shooting-hdr-on-iphone-a-comprehensive-guide/"><u>[Updated] Shooting HDR on iPhone A Comprehensive Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-motorola-moto-g14-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/avoid-virtual-reality-queasiness-5-useful-tips-for-2024/"><u>Avoid Virtual Reality Queasiness 5 Useful Tips for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chaos-unfolds-as-italy-bans-chatgpt-abruptly/"><u>Chaos Unfolds as Italy Bans ChatGPT Abruptly</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/delving-deeper-into-ai-security-risks-the-operational-mechanism-of-prompt-injection/"><u>Delving Deeper Into AI Security Risks: The Operational Mechanism of Prompt Injection</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-extended-view-on-large-windows-display/"><u>Fixed Extended View on Large Windows Display</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-13-mini-drfone-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Vivo S18? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/in-depth-analysis-of-claude-pro-and-how-it-stacks-up-against-chatgpt-plus/"><u>In-Depth Analysis of Claude Pro and How It Stacks Up Against ChatGPT Plus</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/introduction-to-claude-3-its-purpose-and-potential-benefits/"><u>Introduction to Claude 3 – Its Purpose and Potential Benefits</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximizing-gpt-chat-sharing-a-step-by-step-guide/"><u>Maximizing GPT-Chat Sharing: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-goals-and-achievements-behind-googles-innovative-project-gemini/"><u>The Goals and Achievements Behind Google's Innovative Project Gemini</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-elevate-your-video-editing-top-10-free-green-screen-apps-for-androidios/"><u>Updated Elevate Your Video Editing Top 10 Free Green Screen Apps for Android/iOS</u></a></li>
 </ul></div>
 

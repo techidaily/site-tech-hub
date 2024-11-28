@@ -1,7 +1,7 @@
 ---
 title: Sharing the Top Remorse Moment of Upgrading to iOS 18 – A Common Dilemma Discussed on ZDNet
-date: 2024-11-12T01:30:40.452Z
-updated: 2024-11-18T17:22:14.085Z
+date: 2024-11-24T17:45:43.147Z
+updated: 2024-11-28T00:05:33.608Z
 tags:
   - apple
 categories:
@@ -59,6 +59,10 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to navigate the iOS 18 Photos app
 
 Maria Diaz/ZDNET
@@ -105,27 +109,18 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/updated-navigating-through-the-world-of-ar-stickers-highlighting-google/"><u>[Updated] Navigating Through the World of AR Stickers, Highlighting Google</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-millisecond-metrics-for-a-20mb-digital-creation/"><u>2024 Approved Millisecond Metrics for a 20MB Digital Creation</u></a></li>
-<li><a href="https://fox-info.techidaily.com/bridging-gap-integrating-zoom-into-your-gmail-setup/"><u>Bridging Gap Integrating Zoom Into Your Gmail Setup</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/clearing-hurdles-in-access-how-to-resolve-the-4-common-issues-leading-to-chatgpt-blocks/"><u>Clearing Hurdles in Access: How To Resolve The 4 Common Issues Leading to ChatGPT Blocks</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/contrasting-standard-and-enterprise-chatgpt-uses/"><u>Contrasting Standard and Enterprise ChatGPT Uses</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/dall-e-3-gets-upgrade-integrated-editing-tools-launched-yet-to-perfect/"><u>DALL-E 3 Gets Upgrade - Integrated Editing Tools Launched, Yet to Perfect</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/discover-apples-best-vr-gaming-titles-on-your-phone-for-2024/"><u>Discover Apple's Best VR Gaming Titles on Your Phone for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-the-best-8-dall-e-create-amazing-visuals/"><u>Discover the Best 8 DALL-E 지정 문구: Create Amazing Visuals</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discovering-the-premier-mega-language-models-on-the-market/"><u>Discovering the Premier Mega Language Models on the Market</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/employing-nightshade-to-combat-digital-copyright-infringement-in-art/"><u>Employing Nightshade to Combat Digital Copyright Infringement in Art</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-essential-notebooks-excellent-in-media-post-production/"><u>In 2024, Essential Notebooks Excellent in Media Post-Production</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-expert-tips-to-boost-visual-impact-aes-10-text-sets/"><u>In 2024, Expert Tips to Boost Visual Impact AE's 10 Text Sets</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-lenovo-simple-recording-techniques/"><u>In 2024, Lenovo Simple Recording Techniques</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/laptop-setup-guide-to-initiate-direct-chat-rooms-via-whatsapp-web-for-2024/"><u>Laptop Setup Guide to Initiate Direct Chat Rooms via WhatsApp Web for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-breaking-through-boundaries-optimizing-videos-for-maximum-traction/"><u>[New] Breaking Through Boundaries Optimizing Videos for Maximum Traction</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-pixelmaster-360-multiplatform-resolution-booster/"><u>[New] PixelMaster 360 – Multiplatform Resolution Booster</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-how-to-create-a-youtube-account/"><u>[Updated] In 2024, How to Create a YouTube Account</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pristine-20-uncopyrighted-pubg-visual-sequences/"><u>2024 Approved Pristine 20 Uncopyrighted PUBG Visual Sequences</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-infinix-note-30-vip-racing-edition-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Infinix Note 30 VIP Racing Edition? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-7-amazing-free-travel-planning-apps-with-ai-and-chatgpt-features-for-instant-trip-organization/"><u>Discover 7 Amazing Free Travel Planning Apps with AI and ChatGPT Features for Instant Trip Organization</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-reliability-of-ai-powered-workouts-can-they-provide-safe-options-for-your-needs/"><u>Exploring the Reliability of AI-Powered Workouts: Can They Provide Safe Options for Your Needs?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-poco-c55-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-quality-video-uplift-immaculate-resolution/"><u>In 2024, Top Quality Video Uplift Immaculate Resolution</u></a></li>
+<li><a href="https://games-able.techidaily.com/supercharge-your-console-with-3-innovative-strategies/"><u>Supercharge Your Console with 3 Innovative Strategies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-ultimate-efficiency-with-perplexity-ai-the-top-unused-google-search-enhancer/"><u>Unlock Ultimate Efficiency with Perplexity AI: The Top Unused Google Search Enhancer</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-gptzeros-role-in-spotting-ai-content/"><u>Unveiling GPTZero's Role in Spotting AI Content</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

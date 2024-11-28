@@ -1,7 +1,7 @@
 ---
 title: Mastering the Customization of Control Center in iOS 18 for Your iPhone | MobileMastery
-date: 2024-11-12T18:48:59.353Z
-updated: 2024-11-18T22:08:06.216Z
+date: 2024-11-24T12:07:10.196Z
+updated: 2024-11-28T07:30:44.098Z
 tags:
   - apple
 categories:
@@ -30,6 +30,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
@@ -37,10 +41,7 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -58,10 +59,7 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -69,13 +67,6 @@ Screenshot by Lance Whitney/ZDNET
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -85,6 +76,10 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
@@ -92,10 +87,7 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -134,24 +126,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-augmented-reality-stickers-by-google-unveiled-and-compared/"><u>[New] In 2024, Augmented Reality Stickers by Google Unveiled and Compared</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-expert-roundup-screen-recording-for-gamers/"><u>[New] In 2024, Expert Roundup Screen Recording for Gamers</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-film-techniques-free-ecological-templates/"><u>[Updated] In 2024, Film Techniques Free Ecological Templates</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-use-youtube-enhancements/"><u>[Updated] In 2024, How to Use YouTube Enhancements</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-visual-flair-a-collection-of-ae-text-presets-for-2024/"><u>[Updated] Visual Flair A Collection of AE Text Presets for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-the-complete-cheat-sheet-for-negative-snap-playback/"><u>2024 Approved The Complete Cheat Sheet for Negative Snap Playback</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-lava-blaze-curve-5g-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Lava Blaze Curve 5G is off? | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/delight-in-these-top-10-insta-memes-that-spark-joy-and-sobs-for-2024/"><u>Delight in These Top 10 Insta Memes That Spark Joy & Sobs for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Realme Narzo N55? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/laptop-wont-boot-troubleshooting-the-all-too-common-bright-display-problem/"><u>Laptop Won’t Boot? Troubleshooting the All-Too-Common Bright Display Problem</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/productivity-made-simple-the-best-ai-powered-pdf-tools/"><u>Productivity Made Simple: The Best AI-Powered PDF Tools</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/protect-your-privacy-tips-for-concealing-chatgpt-interactions-instantly/"><u>Protect Your Privacy: Tips for Concealing ChatGPT Interactions Instantly</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/public-and-private-ais-unpacked-usage-spectrum-analysis/"><u>Public and Private AIs Unpacked: Usage Spectrum Analysis</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionize-your-internet-experience-with-these-7-must-have-chatgpt-extensions-for-enhanced-browsing-interactions/"><u>Revolutionize Your Internet Experience with These 7 Must-Have ChatGPT Extensions for Enhanced Browsing Interactions!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionizing-sites-how-machine-learning-alters-online-presence/"><u>Revolutionizing Sites: How Machine Learning Alters Online Presence</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/speak-now-ask-anyth-market-research-expert-on-how-businesses-can-use-chatbots-in-customer-service-to-enhance-brand-experience-and-reduce-costs/"><u>Speak Now, Ask Anyth Market Research Expert on How Businesses Can Use Chatbots in Customer Service to Enhance Brand Experience and Reduce Costs</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-on-distributing-chatgpt-dialogue-links/"><u>Step-by-Step Tutorial on Distributing ChatGPT Dialogue Links</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/stop-openais-data-harvesters-on-your-site/"><u>Stop OpenAI's Data Harvesters on Your Site</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/synthesizing-sentences-comparing-language-bots/"><u>Synthesizing Sentences: Comparing Language Bots</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-facetune-exploration-the-ultimate-photo-editing-journey-for-2024/"><u>[New] Facetune Exploration The Ultimate Photo Editing Journey for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-unlocking-past-mysteries-top-10-historical-channels-for-learners/"><u>[New] In 2024, Unlocking Past Mysteries Top 10 Historical Channels for Learners</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-mastering-instagram-the-ultimate-video-editing-handbook/"><u>[Updated] 2024 Approved Mastering Instagram The Ultimate Video Editing Handbook</u></a></li>
+<li><a href="https://win-answers.techidaily.com/experiencing-reduced-fps-understanding-the-causes-behind-farmers-dilemma-22/"><u>Experiencing Reduced FPS? Understanding the Causes Behind Farmer's Dilemma 22</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/faster-than-ever-solving-the-windows-10-long-update-dilemma/"><u>Faster Than Ever: Solving the Windows 10 Long Update Dilemma</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/fixing-the-issue-how-to-resolve-google-chrome-has-stopped-responding/"><u>Fixing the Issue: How to Resolve 'Google Chrome Has Stopped Responding'</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/frei-verfugbarer-film-downloads-auf-youtube-abrufen-ohne-zeitlimit/"><u>Frei Verfügbarer Film-Downloads Auf YouTube - Abrufen Ohne Zeitlimit</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722971821422-get-your-msi-z370-a-pros-latest-drivers-here-free-offer/"><u>Get Your MSI Z370-A Pro's Latest Drivers Here – Free Offer</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/guide-dual-monitor-setup-on-your-laptop/"><u>Guide: Dual-Monitor Setup on Your Laptop</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/hdmi-connection-secrets-revealed-connecting-your-laptop-to-a-flat-screen-tv-complete-with-illustrative-photos/"><u>HDMI Connection Secrets Revealed: Connecting Your Laptop to a Flat-Screen TV - Complete with Illustrative Photos</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-get-your-windows-pcs-spotify-app-back-up-and-running-again/"><u>How To Get Your Windows PC's Spotify App Back Up and Running Again</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-safely-eradicate-malware-from-your-iphone/"><u>How To Safely Eradicate Malware From Your iPhone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-quick-share-your-youtube-playlist-journey/"><u>In 2024, Quick Share Your YouTube Playlist Journey</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-apple-iphone-8-plus-fixed-drfone-by-drfone-virtual-ios/"><u>iSpoofer is not working On Apple iPhone 8 Plus? Fixed | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/logitech-k52amatics-how-to-restore-functionality-in-minutes/"><u>Logitech K52amatics: How to Restore Functionality in Minutes!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-windows-10-unveiling-the-secrets-of-tablet-mode/"><u>Mastering Windows 10: Unveiling the Secrets of Tablet Mode</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-motorola-moto-g-stylus-2023-by-fonelab-android-recover-data/"><u>Recover lost data from Motorola Moto G Stylus (2023)</u></a></li>
 </ul></div>
 

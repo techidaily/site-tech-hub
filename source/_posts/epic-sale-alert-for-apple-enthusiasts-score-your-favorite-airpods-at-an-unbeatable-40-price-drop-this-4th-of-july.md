@@ -1,7 +1,7 @@
 ---
 title: Epic Sale Alert for Apple Enthusiasts! Score Your Favorite AirPods at an Unbeatable $40 Price Drop This 4Th of July
-date: 2024-11-15T22:32:43.950Z
-updated: 2024-11-18T19:28:51.737Z
+date: 2024-11-24T20:36:08.411Z
+updated: 2024-11-28T09:06:38.515Z
 tags:
   - apple
 categories:
@@ -28,6 +28,10 @@ Lucky for us, that already-affordable price dropped once more, and the deal is s
 The second-generation AirPods come with a Lightning charger case. They offer solid sound, five hours of battery of life (and a fully-charged case can recharge them five times, giving you up to 24 hours), and voice-activated Siri access. They're also super easy to set up and to switch between your Apple devices. 
 
 Buy the AirPods on sale at [Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-AirPods-Charging-Latest-Model%2Fdp%2FB07PXGQC1Q%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc897cc8f-f17e-41e6-8410-d72f180f8ed4%7Cdtp&dtb=1) now. You can also check out more [headphone deals](https://www.zdnet.com/article/best-headphone-deals/) and the [top products ZDNET readers bought last month](https://www.zdnet.com/home-and-office/the-25-most-popular-products-zdnet-readers-bought-last-month/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -58,31 +62,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-top-15-ff-extensions-for-easy-fb-video-download-for-2024/"><u>[New] Top 15 FF Extensions For Easy FB Video Download for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-melodious-memes-crafting-choreographed-reels-with-sound/"><u>[Updated] In 2024, Melodious Memes Crafting Choreographed Reels with Sound</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-optimizing-visual-engagement-in-google-meet-sessions/"><u>[Updated] In 2024, Optimizing Visual Engagement in Google Meet Sessions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/6-chatgpt-prompt-mistakes-to-avoid/"><u>6 ChatGPT Prompt Mistakes to Avoid</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/7-typical-trips-in-the-terrain-of-tech-tools/"><u>7 Typical Trips in the Terrain of Tech Tools</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/assessing-the-potential-privacy-concerns-of-using-chatgpt/"><u>Assessing the Potential Privacy Concerns of Using ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/bing-transformed-with-microsofts-artificial-intelligence/"><u>Bing Transformed with Microsoft’s Artificial Intelligence</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/boost-your-interview-skills-using-chatgpt-tips-and-techniques/"><u>Boost Your Interview Skills Using ChatGPT - Tips and Techniques</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1722209119086-chatgpt-now-on-ios-download-the-cutting-edge-ai-assistant-today/"><u>ChatGPT Now On iOS - Download the Cutting-Edge AI Assistant Today</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/elite-firefox-visual-recorders/"><u>Elite Firefox Visual Recorders</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-samsung-galaxy-s24plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Samsung Galaxy S24+ | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-xiaomi-redmi-note-12-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Xiaomi Redmi Note 12 5G to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Google Pixel Fold | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-samsung-galaxy-z-fold-5-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Samsung Galaxy Z Fold 5 Black and White | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-instant-conversion-of-3d-footage-into-classic-2d-format-with-a-simple-click/"><u>Step-by-Step Tutorial: Instant Conversion of 3D Footage Into Classic 2D Format with a Simple Click!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-creativity-how-chatgpt-enhances-content-production-in-9-ways/"><u>Unlocking Creativity: How ChatGPT Enhances Content Production in 9 Ways</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unmasking-false-projections-in-artificial-intelligence-outputs/"><u>Unmasking False Projections in Artificial Intelligence Outputs</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-the-ultimate-tutorial-computer-sound-recordings-with-audacity/"><u>Updated The Ultimate Tutorial Computer Sound Recordings with Audacity</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/verse-vanguard-showdown-bards-chatbots-and-wooly-companions/"><u>Verse Vanguard Showdown: Bards, ChatBots & Wooly Companions</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-unlocking-vlcs-full-potential-an-overview-for-2024/"><u>[Updated] Unlocking VLC's Full Potential An Overview for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-overcoming-technical-challenges-with-fb-live-videos/"><u>2024 Approved Overcoming Technical Challenges with FB Live Videos</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-samsung-galaxy-a14-4g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Samsung Galaxy A14 4G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-code-1067-explained-steps-to-prevent-unexpected-windows-process-terminations/"><u>Error Code 1067 Explained: Steps to Prevent Unexpected Windows Process Terminations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-chatgpt-understanding-its-functions-and-applications-in-the-realm-of-generative-ai/"><u>Exploring ChatGPT: Understanding Its Functions & Applications in the Realm of Generative AI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/fitness-pros-secret-to-more-accurate-chatgpt-prompt-responses/"><u>Fitness Pros' Secret to More Accurate ChatGPT Prompt Responses</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-samsung-galaxy-xcover-6-pro-tactical-edition-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Samsung Galaxy XCover 6 Pro Tactical Edition</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-how-to-amass-wealth-the-art-of-vimeo-video-monetization/"><u>In 2024, How to Amass Wealth The Art of Vimeo Video Monetization</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/keep-content-safe-stop-bot-harvesters/"><u>Keep Content Safe: Stop Bot Harvesters</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-drivers-for-your-hp-laserjet-pro-mfp-m127fn-download-and-installation-instructions/"><u>Latest Drivers for Your HP Laserjet Pro MFP M127FN - Download & Installation Instructions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-artisans-guide-to-custom-chatbots/"><u>The Artisan's Guide to Custom ChatBots</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Honor V Purse? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-next-generation-of-ai-seven-key-upgrades-in-googles-bard-with-palm-2-integration/"><u>The Next Generation of AI: Seven Key Upgrades in Google's Bard with PaLM 2 Integration</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

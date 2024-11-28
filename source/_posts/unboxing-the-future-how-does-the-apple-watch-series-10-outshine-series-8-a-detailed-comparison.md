@@ -1,7 +1,7 @@
 ---
 title: "Unboxing the Future: How Does the Apple Watch Series 10 Outshine Series 8? A Detailed Comparison"
-date: 2024-11-15T18:36:13.326Z
-updated: 2024-11-18T23:59:16.168Z
+date: 2024-11-21T18:30:48.424Z
+updated: 2024-11-28T10:15:11.944Z
 tags:
   - apple
 categories:
@@ -72,30 +72,18 @@ But should you splurge on Apple's newest mid-range wearable? Is it time for an u
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## You should buy the Apple Watch Series 10 if...
 
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. You want a thinner design or larger watch sizes
 
 For the first time since the Watch Series 7 in 2021, the Apple Watch has had a facelift. The new Series 10 has a thinner overall profile and features larger faces and more rounded edges. Choose from a 42mm or 46mm display and enjoy a wearable lighter than the previous Series 9\. So, if you've been avoiding an Apple Watch because you've wanted a slimmer profile or larger face, here's your chance. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. You'd benefit from sleep apnea tracking
 
@@ -106,16 +94,7 @@ Sleep tracking is all the rage in tech (seriously, ZDNET readers [frequently pur
 Brand new for the Series 10, sleep apnea tracking is now built-in and there's a host of other features, such as [depth gauge](https://www.zdnet.com/article/apple-watch-series-9-vs-series-10-which-smartwatch-is-right-for-you/), for sports like snorkeling and diving.
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. You're looking for something future-proof
@@ -127,6 +106,10 @@ The Watch Series 10 is the newest Apple Watch you can buy. History suggests it w
 **Also: [Apple Watch Series 9 vs. Series 10: Which smartwatch is right for you?](https://www.zdnet.com/article/apple-watch-series-9-vs-series-10-which-smartwatch-is-right-for-you/)**
 
 Not only does the Watch Series 10 offer new features like sleep apnea detection, temperature sensing, and a depth gauge, but it's also designed to maximize [WatchOS 11](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) and benefits from a seamless integration with Apple's latest [iPhone 16 models](https://www.zdnet.com/article/every-iphone-16-model-compared-which-new-iphone-should-you-buy/), which run on [iOS 18](https://www.zdnet.com/article/every-iphone-model-that-will-be-updated-to-apples-ios-18-and-which-ones-wont/). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. It's time to upgrade
 
@@ -152,18 +135,15 @@ If you want to experience the integrated benefits of the Apple ecosystem on your
 
 While the [Series 9](https://www.zdnet.com/article/apple-watch-series-9-review/) has been available for [upwards of $150 off](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Watch-Series-9-With-Blood-Oxygen-GPS-Cellular-41mm-Starlight-Aluminum-Case-with-Starlight-Sport-Band-S-M%2F5031676480%3Fwmlspartner%3Dwlpa%26selectedSellerId%3D0%26gclsrc%3Daw.ds%26%26adid%3D222222222275031676480_156221679273_18387865360%26wl0%3D%26wl1%3Dg%26wl2%3Dc%26wl3%3D677785081658%26wl4%3Dpla-2228157757188%26wl5%3D9192199%26wl6%3D%26wl7%3D%26wl8%3D%26wl9%3Dpla%26wl10%3D8175035%26wl11%3Donline%26wl12%3D5031676480%26veh%3Dsem%26gad_source%3D1%26gclid%3DCjwKCAjwufq2BhAmEiwAnZqw8qlhlHZgVBlgIzIofDP3CSyc29wH8YwdGFvBqUfPmphFZr9oKyfkTRoCL_cQAvD_BwE&subId1=zd-__COM_CLICK_ID__-dtp) lately, the Series 8 is often even more affordable. You can find [refurbished options](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C2VT692T%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C18911bd6-33f0-46ad-9f93-9cc100988cea%7Cdtp&dtb=1) for under $250, though a major downside is this model is increasingly hard to find, especially in new condition. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. You're looking for blood oxygen sensors
 
 A major reason you may be interested in the Series 8, even though it's now a few years old, is the blood oxygen feature. Since the blood oxygen sensor [was banned](https://www.zdnet.com/article/apple-removes-blood-oxygen-sensor-from-new-watches-what-does-this-mean-for-current-users/) for the Series 9, Ultra 2, and as expected, the Series 10, no newer Apple Watch model offers the same capabilities. This situation means the Series 8 is the best option if you're looking for an Apple Watch equipped with blood oxygen sensing. 
 
 [Buy the Apple Watch Series 8 View now at Target](https://shop-links.co/link/?url=https%3A%2F%2Fwww.target.com%2Fp%2Frefurbished-apple-watch-series-8-gps-41mm-midnight-aluminum-case-with-midnight-sport-band-m-l-2022-8th-generation-target-certified-refurbished%2F-%2FA-89776439%3F&publisher_slug=itechdaily19598&exclusive=1)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -199,22 +179,18 @@ A major reason you may be interested in the Series 8, even though it's now a few
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-definitive-guide-to-crafting-memorable-podcast-names-with-inspirations/"><u>[New] The Definitive Guide to Crafting Memorable Podcast Names, with Inspirations</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-night-avenger-black-vs-day-defender-silver/"><u>[Updated] 2024 Approved Night Avenger (Black) VS Day Defender (Silver)</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-visual-storytelling-beginnings-made-simple/"><u>[Updated] 2024 Approved Visual Storytelling Beginnings Made Simple</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-boost-sound-level-for-twitters-quiet-vids-for-2024/"><u>[Updated] Boost Sound Level for Twitter's Quiet Vids for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-powered-deception-exploring-7-techniques-used-by-fraudsters-in-love-cons/"><u>AI-Powered Deception: Exploring 7 Techniques Used by Fraudsters in Love Cons</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/best-practices-for-leveraging-ai-like-chatgpt-in-mental-wellness-coaching/"><u>Best Practices for Leveraging AI Like ChatGPT in Mental Wellness Coaching</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/bings-leap-into-ai-driven-search-excellence/"><u>Bing's Leap Into AI-Driven Search Excellence</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/boosting-video-engagement-crafting-scripts-on-youtube-via-chatgpt/"><u>Boosting Video Engagement: Crafting Scripts on YouTube via ChatGPT</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-honor-90-gt-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Honor 90 GT is off? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fixing-the-wmvcoredll-error-tips-and-solutions-for-users-struggling-with-missing-files/"><u>Fixing the Wmvcore.dll Error - Tips and Solutions for Users Struggling with Missing Files</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-beijings-frigid-triumph-in-winter-sports-2022/"><u>In 2024, Beijing's Frigid Triumph in Winter Sports, 2022</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-lenovo-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Lenovo PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1722009919361-ready-for-chatgpt-on-your-computer-but-cant-find-it-yet-check-out-our-picked-open-source-substitutes/"><u>Ready for ChatGPT on Your Computer but Can't Find It Yet? Check Out Our Picked Open Source Substitutes!</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-oppo-a59-5g-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Oppo A59 5G</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1721893987489-unlock-the-power-of-ai-in-search-how-to-sign-up-for-bing/"><u>Unlock the Power of AI in Search - How to Sign Up for Bing!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/what-security-risks-exist-when-interacting-with-chatgpt/"><u>What Security Risks Exist When Interacting With ChatGPT?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/worth-the-cost-evaluating-premium-artificial-intelligence-prompts/"><u>Worth the Cost: Evaluating Premium Artificial Intelligence Prompts</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-mastery-of-spotify-ad-formats-and-best-practices/"><u>[New] 2024 Approved Mastery of Spotify Ad Formats and Best Practices</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-creative-video-ends-top-6-budget-friendly-options/"><u>2024 Approved Creative Video Ends Top 6 Budget-Friendly Options</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-invisible-riches-the-online-auction-exclusive-to-the-elusive-2023-edition/"><u>2024 Approved Invisible Riches The Online Auction Exclusive to the Elusive, 2023 Edition</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortlessly-measure-your-processors-power-using-advanced-cpu-benchmark-tools/"><u>Effortlessly Measure Your Processor's Power Using Advanced CPU Benchmark Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/essential-fixes-for-when-windows-10-ignores-your-pressed-f8-a-step-by-step-solution/"><u>Essential Fixes for When Windows 10 Ignores Your Pressed F8: A Step-by-Step Solution</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/fixing-full-storage-allocation-issues-windows-10-and-the-task-manager-solution/"><u>Fixing Full Storage Allocation Issues - Windows 10 and the Task Manager Solution</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/free-online-tool-find-your-public-ip-address-instantly/"><u>Free Online Tool: Find Your Public IP Address Instantly</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-honor-70-lite-5g-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Honor 70 Lite 5G Phone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-vivo-x90s-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Vivo X90S to New Phone | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-oppo-find-x6-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Oppo Find X6 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-realme-v30t-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unwanted-ringers-eliminated-tips-for-blocking-hidden-caller-ids-on-apple-phones/"><u>Unwanted Ringers Eliminated: Tips for Blocking Hidden Caller ID's on Apple Phones</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "MacBook Air with M1 Chip Now at Unbeatable Price of $649: The Ultimate Deal on ZDNet"
-date: 2024-11-11T22:11:20.459Z
-updated: 2024-11-19T00:17:29.128Z
+date: 2024-11-26T03:14:33.475Z
+updated: 2024-11-28T04:16:54.436Z
 tags:
   - apple
 categories:
@@ -41,6 +41,10 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When will this deal expire?
 
 Walmart's new partnership with Apple allows them to sell computers and laptops directly to customers, a first for the retailer. As such, there's no expiration date for the M1 MacBook Air for $649, but they almost certainly won't stay in stock long at this price. Similarly, Best Buy's $699 price has potential to sell out quick, too. 
@@ -77,29 +81,15 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-revolutionize-playtime-unveiling-win11s-latest-titles/"><u>[New] Revolutionize Playtime Unveiling Win11's Latest Titles</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/eil-of-secrecy-hiding-objects-from-digital-eyes-for-2024/"><u>[New] Veil of Secrecy Hiding Objects From Digital Eyes for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-exclusive-gathering-of-top-tier-no-fee-vectr-and-illustration-sources-for-2024/"><u>[Updated] Exclusive Gathering of Top-Tier No-Fee Vectr and Illustration Sources for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-trending-tweet-treasures-1-10-showdown/"><u>[Updated] Trending Tweet Treasures #1-#10 Showdown</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-screen-selection-simplified-ultrawide-versus-uhd-4k-demystified/"><u>2024 Approved Screen Selection Simplified UltraWide Versus UHD 4K Demystified</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-strategies-to-open-control-panel-in-windows/"><u>Efficient Strategies to Open Control Panel in Windows</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/effortless-batch-design-production-using-canva-and-chatgpt-techniques/"><u>Effortless Batch Design Production Using Canva & ChatGPT Techniques</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/experience-cutting-edge-ai-search-on-the-go-with-bings-new-app-support-for-android-and-ios/"><u>Experience Cutting-Edge AI Search on the Go with Bing's New App Support for Android and iOS!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-new-horizons-with-chatgpt-enabling-beta-browsing-and-plugin-functions-for-an-upgraded-online-journey/"><u>Exploring New Horizons with ChatGPT: Enabling Beta Browsing and Plugin Functions for an Upgraded Online Journey</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/flavor-and-fitness-ai-powered-meal-prepping-tips/"><u>Flavor & Fitness: AI-Powered Meal Prepping Tips</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/hack-alert-activision-breach-exposed-are-chatgpt-infused-ai-taking-our-jobs/"><u>Hack Alert: Activision Breach Exposed, Are ChatGPT-Infused AI Taking Our Jobs?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-does-gpt-4-differ-from-its-cousins-a-deep-dive-into-gpt-4-vs-gpt-4-turbo-vs-gpt-4o/"><u>How Does GPT-4 Differ From Its Cousins? A Deep Dive Into GPT-4 Vs. GPT-4 Turbo Vs. GPT-4o</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-about-oppo-reno-8t-5g-frp-bypass-by-drfone-android/"><u>In 2024, About Oppo Reno 8T 5G FRP Bypass</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-oppo-f23-5g-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Oppo F23 5G Phone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/inside-googles-cutting-edge-initiative-the-gemini-ai-project-explained/"><u>Inside Google's Cutting-Edge Initiative: The Gemini AI Project Explained</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/installation-made-easy-running-gpt-on-windows/"><u>Installation Made Easy: Running GPT on Windows</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/unlocking-online-potential-top-5-strategic-approaches-to-youtube-marketing-for-2024/"><u>Unlocking Online Potential - Top 5 Strategic Approaches to YouTube Marketing for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-discover-the-ultimate-top-5-iphone-applications-for-podcasts/"><u>[New] 2024 Approved Discover the Ultimate Top 5 iPhone Applications for Podcasts</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-transforming-team-meeting-aesthetics-the-prepost-customization-angle/"><u>[Updated] In 2024, Transforming Team Meeting Aesthetics The Pre/Post Customization Angle</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1723262386101-250-deal-alert-invest-in-an-elite-rtx-4090-powered-gaming-tower-now/"><u>$250 Deal Alert: Invest in an Elite RTX 4090 Powered Gaming Tower Now!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-task-management-auto-gpt-in-ubuntu/"><u>Effortless Task Management: Auto-GPT in Ubuntu</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-all-facets-of-netflixs-online-content-delivery-network/"><u>Exploring All Facets of Netflix's Online Content Delivery Network</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/size-matters-crafting-engaging-video-titles-for-2024/"><u>Size Matters Crafting Engaging Video Titles for 2024</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/step-by-step-instructions-for-retrieving-lost-drone-videos-from-the-dji-go-platform/"><u>Step-by-Step Instructions for Retrieving Lost Drone Videos From the DJI GO Platform</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-future-of-professional-emails-chatgpt-as-your-creative-companion/"><u>The Future of Professional Emails: ChatGPT as Your Creative Companion</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/the-future-of-social-media-sharing-twitter-videos-on-fb/"><u>The Future of Social Media Sharing Twitter Videos on FB</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-auto-gpt-key-features-that-set-it-apart-from-chatgpt/"><u>Understanding Auto-GPT: Key Features That Set It Apart From ChatGPT</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

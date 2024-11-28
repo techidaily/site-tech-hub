@@ -1,7 +1,7 @@
 ---
 title: OpenAI Dispels Notion of GPT Deterioration
-date: 2024-09-06T21:38:18.680Z
-updated: 2024-09-07T21:38:18.680Z
+date: 2024-11-22T01:20:18.935Z
+updated: 2024-11-28T07:45:42.954Z
 tags:
   - chatgpt
   - open-ai
@@ -15,12 +15,6 @@ thumbnail: https://thmb.techidaily.com/f43e24b5652ac6ca705d21d4283165ba384a70210
 
 ## Top 6 No-Cost AI Models That Can Compete with the Power of Phi From OpenAI
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [Runway's Gen-2](https://www.makeuseof.com/openai-sora-alternatives/#runway-39-s-gen-2)
@@ -32,22 +26,10 @@ thumbnail: https://thmb.techidaily.com/f43e24b5652ac6ca705d21d4283165ba384a70210
 
  OpenAI's Sora text-to-video tool is set to give the world another ChatGPT moment, and for good reason. Sora's ability to generate high-quality video from text prompts is remarkable but not unprecedented, and it's still yet to fully launch. So, if you're looking for a Sora alternative, for whatever reason, you have options to choose from.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1 [Runway's Gen-2](https://research.runwayml.com/gen2)
 
 ![Runway Gen 2 Home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/runway-gen-2-home-page.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * **Free:** 125 Credits
 * **Standard:** $15/month ($12 when paid annually) for 625 monthly credits
 
@@ -64,11 +46,9 @@ thumbnail: https://thmb.techidaily.com/f43e24b5652ac6ca705d21d4283165ba384a70210
 ![screenshot of pika labs homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/screenshot-of-pika-labs-homepage.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 * **Free:** 250 initial credits (free 30 credits daily after exhausting initial credits)
 * **Standard:** $10/month ($8 when paid annually) for 700 monthly credits
 
@@ -89,20 +69,16 @@ A stylish woman walks down a Tokyo street filled with warm glowing neon and anim
  We'll let you judge which is better, but it's clear Pika has some catching up to do compared to the quality of Sora-generated clips online. However, its other features, like lip-syncing and image animation, give it an edge over Sora—at least for now.
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3 [Pixverse](http://pixverse.ai/)
 
 ![screenshot of pixverse homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/screenshot-of-pixverse-homepage.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * **Free**
 
@@ -140,11 +116,9 @@ Quality-wise, Pixverse is in the same class as Pika—below Sora.
 ![screenshot of synthesia homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/screenshot-of-synthesia-homepage.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 * **Free:** Test video
 * **Starter:** $29/month ($22 when billed annually) for 10 minutes of video.
 
@@ -156,21 +130,13 @@ Quality-wise, Pixverse is in the same class as Pika—below Sora.
 
  Synthesia is a good alternative to Sora for creating engaging and personalized videos for education, marketing, or entertainment purposes.
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6 [Vidnoz](http://www.vidnoz.com/)
 
 ![Screenshot of vidnoz homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/screenshot-of-vidnoz-homepage.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * **Free:** 1 minute/day
 * **Starter:** $19.99 ($14.99 when billed annually) for 10 minutes of watermark-free videos
@@ -183,14 +149,11 @@ Quality-wise, Pixverse is in the same class as Pika—below Sora.
 
  If what followed OpenAI's launch of ChatGPT is anything to go by, then you can expect more AI text-to-video platforms to be introduced. You can also expect Google's Lumiere and Meta's Make-A-Video to become accessible to the public.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -199,4 +162,21 @@ Quality-wise, Pixverse is in the same class as Pika—below Sora.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-next-level-vfx-gear-for-the-eco-savvy/"><u>[Updated] 2024 Approved Next-Level VFX Gear for the Eco-Savvy</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-ultimate-guide-to-finding-unique-video-graphics-online-for-2024/"><u>[Updated] The Ultimate Guide to Finding Unique Video Graphics Online for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-detailed-steps-for-a-flawless-ps3-gameplay-recording-process/"><u>2024 Approved Detailed Steps for a Flawless PS3 Gameplay Recording Process</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-premier-mobile-and-desktop-mkv-software/"><u>2024 Approved Premier Mobile & Desktop MKV Software</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/androids-best-rated-10-ultimate-game-boy-advance-simulators-for-2024/"><u>Android's Best-Rated 10 Ultimate Game Boy Advance Simulators for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-top-ps3-emulators-your-gateway-to-classic-games/"><u>In 2024, Top Ps3 Emulators Your Gateway to Classic Games</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/insights-into-how-generative-ai-operates-and-companies-leveraging-this-tech/"><u>Insights Into How Generative AI Operates & Companies Leveraging This Tech</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-artificial-intelligence-hallucinations-identification-and-detection/"><u>Understanding Artificial Intelligence Hallucinations: Identification and Detection</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-generative-ais-role-in-tech/"><u>Understanding Generative AI's Role in Tech</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-fun-discover-top-6-games-featured-on-chatgpt/"><u>Unlock Fun: Discover Top 6 Games Featured on ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unraveling-the-distinctions-machine-learning-versus-natural-language-processing/"><u>Unraveling the Distinctions: Machine Learning Versus Natural Language Processing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-10-advanced-ai-alternatives-surpassing-chatgpt/"><u>Unveiling 10 Advanced AI Alternatives Surpassing ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-progress-of-generative-pre-trained-transformers-gpt-how-gpt-1-gpt-2-gpt-3-and-gpt-evolved-into-advanced-ai-models-by-openai/"><u>Unveiling the Progress of Generative Pre-Trained Transformers (GPT): How GPT-1, GPT-2, GPT-3 and GPT-Evolved Into Advanced AI Models by OpenAI</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/verizons-most-competitive-device-trade-up-deals-in-month-you-cant-miss/"><u>Verizon's Most Competitive Device Trade-Up Deals in [Month] You Can’t Miss!</u></a></li>
+</ul></div>
 

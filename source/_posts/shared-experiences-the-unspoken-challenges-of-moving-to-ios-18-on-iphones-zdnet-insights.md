@@ -1,7 +1,7 @@
 ---
 title: "Shared Experiences: The Unspoken Challenges of Moving to iOS 18 on iPhones | ZDNET Insights"
-date: 2024-11-16T01:33:03.873Z
-updated: 2024-11-18T18:37:25.766Z
+date: 2024-11-26T06:20:29.030Z
+updated: 2024-11-27T17:00:52.494Z
 tags:
   - apple
 categories:
@@ -59,6 +59,10 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to navigate the iOS 18 Photos app
 
 Maria Diaz/ZDNET
@@ -105,27 +109,15 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-efficient-storage-of-androidmac-snaps-for-longevity/"><u>[New] Efficient Storage of Android/Mac Snaps for Longevity</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-instantly-engage-in-video-talks-using-whatsapp-web-from-your-laptop/"><u>[New] Instantly Engage in Video Talks Using WhatsApp Web From Your Laptop</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-unleash-the-power-of-instagram-footage-a-compilation-of-mp4-conversion-tools-for-pc-and-mac/"><u>[Updated] 2024 Approved Unleash the Power of Instagram Footage A Compilation of MP4 Conversion Tools for PC & Mac</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-no-cost-all-benefits-with-fcp-downloads/"><u>[Updated] No Cost, All Benefits with FCP Downloads</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Motorola Moto G24 | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/decoding-claude-2-innovative-uses-and-benefits-revealed/"><u>Decoding Claude 2: Innovative Uses and Benefits Revealed</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-the-full-potential-of-chatgpt-by-enabling-its-newly-launched-beta-features-heres-how/"><u>Discover the Full Potential of ChatGPT by Enabling Its Newly Launched Beta Features - Here’s How</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/dive-into-dialogue-chatgpt-joins-the-android-family/"><u>Dive Into Dialogue: ChatGPT Joins the Android Family</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/do-advanced-ai-prompts-offer-value-for-their-price/"><u>Do Advanced AI Prompts Offer Value for Their Price?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/efficiently-implementing-gpt-3-with-python/"><u>Efficiently Implementing GPT-3 with Python</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/elevating-health-ambitions-a-step-by-step-approach-using-chatgpt-assistance/"><u>Elevating Health Ambitions: A Step-by-Step Approach Using ChatGPT Assistance</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-window-11-icons-to-maximize-efficiency/"><u>Essential Window 11 Icons to Maximize Efficiency</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-get-logitech-g402-software-complete-guide-for-setup-and-download/"><u>How to Get Logitech G402 Software: Complete Guide for Setup and Download</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-preserving-chronological-integrity-in-visuals/"><u>In 2024, Preserving Chronological Integrity in Visuals</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/vlc-screen-recorder-review-for-2024/"><u>VLC Screen Recorder Review for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-depth-guide-on-using-annotations-for-marketing/"><u>[New] In-Depth Guide on Using Annotations for Marketing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-creme-de-la-creme-best-large-scale-linguistic-algorithms/"><u>Discover the Creme De La Creme: Best Large-Scale Linguistic Algorithms</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/elevate-digital-marketing-discover-cookiebots-powerful-capabilities/"><u>Elevate Digital Marketing: Discover Cookiebot's Powerful Capabilities</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/fine-tune-fitness-dialogue-with-chatgpt-tips/"><u>Fine-Tune Fitness Dialogue with ChatGPT Tips</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hp-network-driver-download-for-windows-1178/"><u>HP Network Driver Download for Windows 11/7/8</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-action-cam-showdown-which-holds-the-crown-gopro-or-yi/"><u>In 2024, Action Cam Showdown Which Holds the Crown - GoPro or Yi?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-taming-soundscapes-mastering-gradual-volume-increase-with-audition/"><u>In 2024, Taming Soundscapes Mastering Gradual Volume Increase with Audition</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/strategic-placement-of-access-points-for-maintenance-is-crucial-for-the-long-term-operation-and-integrity-of-a-pipeline-system/"><u>Strategic Placement of Access Points for Maintenance Is Crucial for the Long-Term Operation and Integrity of a Pipeline System.</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/streamlining-communication-how-to-combine-chatgpts-power-with-your-iphonee-siri-feature/"><u>Streamlining Communication: How to Combine ChatGPT's Power with Your iPhone'e Siri Feature</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tips-and-techniques-for-expert-use-of-anthropics-new-claude-3-prompt-engine/"><u>Tips and Techniques for Expert Use of Anthropic's New Claude 3 Prompt Engine</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: Elevate Your Tech Savvy with GPT-Assisted Fixes
-date: 2024-09-06T21:38:16.852Z
-updated: 2024-09-07T21:38:16.852Z
+date: 2024-11-23T13:19:41.527Z
+updated: 2024-11-28T12:59:07.546Z
 tags:
   - chatgpt
   - open-ai
@@ -19,12 +19,6 @@ thumbnail: https://thmb.techidaily.com/17e5357e78d53548c97f4d85021e25770f5faa06f
 
  Whether you're looking to prioritize your to-do list, tackle a large project, or simply get through your day effectively, ChatGPT can offer personalized advice for your day-to-day activities and make the most of your time.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Get Advice on How to Prioritize Your Tasks
 
  ChatGPT can advise you on common task prioritization methods, such as the Eisenhower Matrix, ABCD Method, and the MoSCoW Method. It can also help you choose the most suitable method based on your specific needs and goals.
@@ -44,27 +38,13 @@ thumbnail: https://thmb.techidaily.com/17e5357e78d53548c97f4d85021e25770f5faa06f
 ![ChatGPT ABCD Method part one](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-abcd-method-part-one.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you have a list of pending tasks and don't know where to start, ChatGPT can take a guess at which ones are likely the most important using the ABCD Method. Even if you disagree with the app's initial sorting, it's a quick way to gauge your priorities.
 
 ![ChatGPT ABCD Method part two](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-abcd-method-part-two.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  As this example shows, the chatbot sorts your activities into assignments that require immediate attention (such as working your shift for the day), as well as those that can go on the back burner for a little while (such as returning a call to your doctor's office).
 
  When crafting your prompt, be as specific as possible, and don't hesitate to rephrase the question or regenerate your first response. In this case, list out every item on your to-do list if you like, and note which tasks are time-sensitive or otherwise critical.
@@ -73,11 +53,19 @@ thumbnail: https://thmb.techidaily.com/17e5357e78d53548c97f4d85021e25770f5faa06f
 
  For the most part, the chatbot can help you determine which of your many tasks deserves your attention the most. For anyone who gets overwhelmed by too many pending responsibilities, this is a simple way to let technology take on a little of the decision-making for you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Streamline Your Workflow With ChatGPT
 
  Depending on your profession, ChatGPT can also offer specific advice for speeding up your workflow. In this example, we prompted the chatbot to address a common time suck: reading and responding to emails.
 
 ![ChatGPT email prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-email-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  For this prompt, the chatbot provided some general advice about using templates and unsubscribing from as much as possible. However, you can also drill down to get more specific advice for these issues as well.
 
@@ -89,19 +77,11 @@ thumbnail: https://thmb.techidaily.com/17e5357e78d53548c97f4d85021e25770f5faa06f
 
 ![ChatGPT automation ideas for a realtor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-automation-ideas-for-a-realtor.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  ChatGPT provided several tips in regard to email marketing, virtual tours, and property listing syndication services that can help realtors excel in their line of work while saving some time. Prompt the chatbot for some advice about time management in your own career for more specific tips.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Break Down a Large Project Into Manageable Sections
 
@@ -115,12 +95,6 @@ thumbnail: https://thmb.techidaily.com/17e5357e78d53548c97f4d85021e25770f5faa06f
 
  The next time you have a large project to tackle, see whether ChatGPT can help you sort through the steps to make it more manageable and efficient. The chatbot just might offer the right piece of advice to help speed up the whole job.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Get Personalized Time-Saving Tips
 
  Prompt the bot to provide time-saving tips. Tailor the prompts to suit your specific needs (i.e., “provide time-saving tips for people with a long commute” or “provide time-saving tips for software developers”).
@@ -130,31 +104,20 @@ thumbnail: https://thmb.techidaily.com/17e5357e78d53548c97f4d85021e25770f5faa06f
 ![ChatGPT procrastination prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-procrastination-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The chatbot offered plenty of practical advice about eliminating unnecessary steps and visualizing the end result for motivation. Given the sheer amount of information that ChatGPT can pull from, it can likely suggest time-saving options for your situation, too. Remember to provide detailed, specific prompts to get the best advice.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Save Time With ChatGPT
 
  For the most part, AI technologies such as ChatGPT can help streamline your productivity and time management skills. Experiment with the chatbot to make the most of your time with a few simple prompts.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -163,4 +126,21 @@ thumbnail: https://thmb.techidaily.com/17e5357e78d53548c97f4d85021e25770f5faa06f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-ten-commandments-of-stream-undoing-on-twitch/"><u>[New] 2024 Approved Ten Commandments of Stream Undoing on Twitch</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-how-to-start-a-facebook-giveaway-post-for-2024/"><u>[New] How to Start a Facebook Giveaway Post for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-xstudio-essentials-explored-detailed-reviews/"><u>[New] XStudio Essentials Explored Detailed Reviews</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-secrets-of-sound-logging-ios-and-android-stealthy-tools-list/"><u>[Updated] In 2024, Secrets of Sound Logging IOS & Android Stealthy Tools List</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ple-approach-to-youtube-statistics-review-for-2024/"><u>A Simple Approach to YouTube Statistics Review for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-your-ai-experience-with-chatgpt-desktop-app-features-that-surpass-the-online-counterpart/"><u>Elevate Your AI Experience with ChatGPT Desktop App: Features That Surpass the Online Counterpart</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhance-your-ai-interaction-sidestep-these-ve-7-critical-flaws-in-chatgpt-prompts/"><u>Enhance Your AI Interaction: Sidestep These Ve-7 Critical Flaws in ChatGPT Prompts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/essential-solutions-for-6-typical-chatgpt-errors-you-should-know-about/"><u>Essential Solutions for 6 Typical ChatGPT Errors You Should Know About</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/evaluating-cgps-credibility-for-medical-insights/"><u>Evaluating CGP's Credibility for Medical Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/evaluating-chatbot-potential-as-a-crucial-aid-during-wild-expeditions/"><u>Evaluating Chatbot Potential as a Crucial Aid During Wild Expeditions</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-fb-stream-downloading-on-different-operating-systems/"><u>In 2024, FB Stream Downloading on Different Operating Systems</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-network-locked-meizu-21-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Meizu 21 Phone?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-10-strategies-for-achieving-virality-on-tiktok/"><u>Top 10 Strategies for Achieving Virality on TikTok</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-11-must-have-windows-and-mac-applications-from-an-experts-selection-zdnet-insights/"><u>Top 11 Must-Have Windows & Mac Applications From an Expert's Selection | ZDNet Insights</u></a></li>
+</ul></div>
 

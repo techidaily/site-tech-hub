@@ -1,7 +1,7 @@
 ---
 title: "Chilling Out: Cool Down the Dough Just Right"
-date: 2024-09-06T21:38:34.443Z
-updated: 2024-09-07T21:38:34.443Z
+date: 2024-11-25T22:44:04.131Z
+updated: 2024-11-28T06:00:45.111Z
 tags:
   - chatgpt
   - open-ai
@@ -19,18 +19,6 @@ thumbnail: https://thmb.techidaily.com/0d94a1daa7c27cd73a9d8298e21e0d777d1adaffd
 
  On the surface, the website looks geared toward programmers, but we'll show you that it's just as accessible to someone with no coding knowledge. If you're waiting for the next GPT model to be released, why not spend some time experimenting in OpenAI's Playground?
 
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Is OpenAI Playground?
 
  In November 2021, the waitlist was removed for GPT-3, allowing more people to use the OpenAI API. But what most people don't know is that a version of GPT-3 is accessible through the OpenAI Playground.
@@ -43,18 +31,16 @@ So, how do ChatGPT and OpenAI Playground differ?
 
  Now, want to give it a try? Here's how you use GPT-3 in OpenAI Playground.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Create an Account
 
 1. Head to[OpenAI](https://openai.com/api/) and click**Get Started** .
 2. Follow the signup instructions. You must input your email and a valid mobile number and answer a quick question about why you want to use OpenAI.
 3. Once that's done, click**Playground** from the navigation menu at the top of the screen. It will bring you to the**Chat** mode page, with some adjustable settings in the sidebar.  
 ![Screenshot of OpenAI's Playground interface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/open-ai-playground-interface-gpt3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Enter a Prompt
 
@@ -77,17 +63,9 @@ So, how do ChatGPT and OpenAI Playground differ?
 ![Screenshot of OpenAI Playground prompt completion listing dog pet names.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/openai-playground-prompt-dog-pet-names.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## 3\. Experiment With Different Ideas and Prompts
 
  Asking GPT-3 to suggest a few names for your pet dog is just the tip of the iceberg; there is so much more you can do with it, including generating content, summarizing information, and translating text. There are plenty of[creative uses for GPT-3](https://www.makeuseof.com/creative-uses-for-gpt-3-openai-playground/) , from writing a bedtime story for your children to creating a social media bio text.
@@ -95,59 +73,25 @@ So, how do ChatGPT and OpenAI Playground differ?
 ![Screenshot showing GPT-3 translating a phrase into five languages.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/gpt3-translate-language.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  These days, AI is finding its way into all sorts of apps. You can check out[all the things you can do with ChatGPT](https://www.makeuseof.com/things-you-can-do-with-chatgpt/) , which, as mentioned, is an AI chatbot built by the same company and developed using the GPT-3 language model.
 
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Keep Track of Your OpenAI Playground Credits
 
 ![Screenshot of usage stats in OpenAI Playground](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/open-ai-playground-usage-stats.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Before getting carried away with using OpenAI Playground, quickly look at your usage stats to see how many credits you have to spend. In the top right corner of the page, click on**Personal** \>**Manage account** , then click**Usage** from the navigation bar on the left.
 
  Tokens are used to calculate the fees, and they are based on how many words, or groups of characters, you use in a prompt; this also includes the text result you get from GPT-3\. You can see how many tokens you use each time in the bottom right of the text box area.
 
  Tokens are then translated to dollars, of which you have $5 to spend in the first three months (previously $18). It's a strange pricing model to wrap your head around at first, but what matters is that it's more than enough to play with. When we tested it out over a couple of days, we only used $0.11 from our total.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Switch to a Different GPT Model
 
  Davinci, Curie, Babbage, and Ada are the names of the different models you can choose to power GPT-3\. You can select**Model** in the settings bar on the right of the text box to switch between them.
@@ -162,6 +106,10 @@ So, how do ChatGPT and OpenAI Playground differ?
 
  Remember that you'll still incur costs for each model you choose, but the cost per token will vary.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Improve Your Results
 
  The**Temperature** setting is a key parameter to play with if you want to fine-tune your results. When the temperature is set to**zero** you will get the same answer from GPT-3, even if you resubmit the exact same prompt. Raising this number will result in more varied and unpredictable answers.
@@ -172,16 +120,14 @@ So, how do ChatGPT and OpenAI Playground differ?
 
 ![Three screenshots of GPT-3 generated text offering different answers for the same prompt.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/gpt-3-settings-tempearture.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This is a great parameter to play around with if you want to use GPT-3 to generate ideas, such as brainstorming video ideas for YouTube or generating new social media posts. Understanding this one setting can help you to fine-tune the results you get from GPT-3.
 
  There are lots of ways that an AI language model can help you in day-to-day tasks. For more handy tools to help you write, check out the[best AI writing extensions for Google Chrome.](https://www.makeuseof.com/best-ai-writing-extensions-chrome/)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Can You Use GPT-4 in OpenAI Playground?
 
  When OpenAI released GPT-3 to the world, the pace of development drastically picked up in the field of generative AI. Within several months of GPT-3 being open to the public and the launch of GPT-3.5 through ChatGPT,[OpenAI announced GPT-4](https://www.makeuseof.com/openai-launches-gpt-4-artificial-intelligence-model/) , bringing new functions to the artificial intelligence model.
@@ -200,14 +146,11 @@ So, how do ChatGPT and OpenAI Playground differ?
 
  You don't need special knowledge of machine learning systems to play around with GPT-3\. It's simple to use and easy to fine-tune; all you have to do is start with a prompt.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -216,4 +159,19 @@ So, how do ChatGPT and OpenAI Playground differ?
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-best-practices-for-boosting-views-on-freefire-gaming-channels/"><u>[Updated] 2024 Approved Best Practices for Boosting Views on FreeFire Gaming Channels</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-capture-your-world-no-cost-screen-recording-apps-for-pcmac/"><u>[Updated] Capture Your World No-Cost Screen Recording Apps for PC/Mac</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-identifying-top-video-capturing-tools-for-win11/"><u>[Updated] Identifying Top Video Capturing Tools for Win11</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-seamless-access-track-down-your-latest-facebook-watches-for-2024/"><u>[Updated] Seamless Access Track Down Your Latest Facebook Watches for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-integration-of-chatgpt-into-your-linux-environment/"><u>Effortless Integration of ChatGPT Into Your Linux Environment</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gaining-an-edge-in-the-marketplace-with-ai-companion-gpt/"><u>Gaining an Edge in the Marketplace with AI Companion, GPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/googles-gemini-initiative-unveiling-the-mystery-behind-its-current-objectives/"><u>Google's Gemini Initiative: Unveiling the Mystery Behind Its Current Objectives</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gpt-powered-strategies-for-ei-development/"><u>GPT-Powered Strategies for EI Development</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-activate-accounts-on-chatgpt-telegram-and-whatsapp-without-providing-a-mobile-number/"><u>How To Activate Accounts on ChatGPT, Telegram, and WhatsApp Without Providing a Mobile Number</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-revive-your-photo-viewer-two-methods-to-try-in-win-11/"><u>In 2024, Revive Your Photo Viewer Two Methods to Try in Win 11</u></a></li>
+<li><a href="https://facebook.techidaily.com/why-old-school-charm-may-reignite-interest-in-instagram/"><u>Why Old-School Charm May Reignite Interest in Instagram</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-gameplay-upgrades-a-guide-to-achieving-smoother-faster-games/"><u>Windows 11 Gameplay Upgrades: A Guide to Achieving Smoother, Faster Games</u></a></li>
+</ul></div>
 

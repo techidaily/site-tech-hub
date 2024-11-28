@@ -1,7 +1,7 @@
 ---
 title: Discovering the Covert Intelligent Communication Chips in Macs and iPads - Do You Own Them? | ZDNET
-date: 2024-11-12T21:55:00.703Z
-updated: 2024-11-18T18:42:43.014Z
+date: 2024-11-22T04:32:51.353Z
+updated: 2024-11-27T21:21:23.304Z
 tags:
   - apple
 categories:
@@ -30,6 +30,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
@@ -37,10 +41,7 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -50,13 +51,6 @@ You can move any of the current controls on the first screen. To start, tap the 
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Resize a control
 
@@ -71,10 +65,7 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -86,10 +77,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -97,6 +85,10 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -134,22 +126,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2023s-best-web-based-recording-tech-handpicked/"><u>[New] 2023'S Best Web-Based Recording Tech Handpicked</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-elevate-your-instagram-imagery-with-striking-borders/"><u>[New] In 2024, Elevate Your Instagram Imagery with Striking Borders</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-from-kitchen-to-feeds-the-10-hottest-tiktok-treats/"><u>2024 Approved From Kitchen to Feeds The 10 Hottest TikTok Treats</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unlock-your-pcs-potential-with-these-5-windows-11-recording-methods/"><u>2024 Approved Unlock Your PC's Potential with These 5 Windows 11 Recording Methods</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-realme-11-pro-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Realme 11 Pro without App | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/a-closer-inspect-of-the-stunning-dell-p2715q-monitors-capabilities/"><u>A Closer Inspect of the Stunning Dell P2715Q Monitor's Capabilities</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/advance-repair-for-bad-and-corrupt-video-files-of-vivo-t2-5g-by-stellar-video-repair-mobile-video-repair/"><u>Advance Repair for Bad and Corrupt Video Files of Vivo T2 5G</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/elevate-your-youtube-videos-the-chatgpt-scriptwriting-technique/"><u>Elevate Your YouTube Videos: The ChatGPT Scriptwriting Technique</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhancing-content-and-creativity-with-chatgpt-a-compreh/"><u>Enhancing Content & Creativity with ChatGPT: A Compreh</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ensuring-child-privacy-with-chatgpt-top-5-measures/"><u>Ensuring Child Privacy with ChatGPT: Top 5 Measures</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-effective-substitutes-to-chatgpt-for-autonomous-code-generation/"><u>Exploring Effective Substitutes to ChatGPT for Autonomous Code Generation</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-world-of-emotion-recognition-how-artifice-intelligence-deciphers-human-sentiments/"><u>Exploring the World of Emotion Recognition: How Artifice Intelligence Deciphers Human Sentiments</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/fraudulent-chatgpt-adapter-captures-fb-passwords/"><u>Fraudulent ChatGPT Adapter: Captures FB Passwords</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/innovative-ai-applications-redefining-online-research/"><u>Innovative AI Applications Redefining Online Research</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-continuous-learning-part-of-chatgpts-functionality-from-conversing-with-people/"><u>Is Continuous Learning Part of ChatGPT's Functionality From Conversing With People?</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/live-streaming-made-easy-discover-the-power-of-manycam-virtual-camera-software/"><u>Live Streaming Made Easy: Discover the Power of ManyCam, Virtual Camera Software</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/razer-naga-support-where-to-download-the-most-recent-driver-packages-for-windows-users/"><u>Razer Naga Support: Where to Download the Most Recent Driver Packages for Windows Users</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-turning-off-igtv-on-your-account-for-2024/"><u>[New] Turning Off IGTV on Your Account for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/solved-bluetooth-keyboard-stop-working-in-windows-10/"><u>[Solved] Bluetooth Keyboard Stop Working in Windows 10</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-free-photo-editing-unleashed-android-and-iphones-top-tools-ranked-for-2024/"><u>[Updated] Free Photo Editing Unleashed – Android & iPhone's Top Tools Ranked for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-unlock-pinterests-treasure-trove-with-top-free-video-downloads/"><u>[Updated] Unlock Pinterest's Treasure Trove with Top Free Video Downloads</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-top-3-strategies-for-enhanced-zoom-video-conversion-techniques/"><u>2024 Approved Top 3 Strategies for Enhanced Zoom Video Conversion Techniques</u></a></li>
+<li><a href="https://facebook.techidaily.com/decoding-the-headlines-that-changed-googles-trajectory/"><u>Decoding the Headlines that Changed Google's Trajectory</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-ultimate-alternative-to-appleankers-magsafe-wallets-on-steep-discount-review/"><u>Discover the Ultimate Alternative to Apple/Anker's Magsafe Wallets on Steep Discount Review</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/financial-forecasts-in-focus-select-stock-youtube-channels-for-2024/"><u>Financial Forecasts in Focus Select Stock YouTube Channels for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/how-do-i-schedule-a-screen-recording/"><u>How Do I Schedule A Screen Recording</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-tecno-spark-10-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Tecno Spark 10 Pro Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/quick-fix-for-a-malfunctioning-logitech-k520-keyboard-easy-tips-inside/"><u>Quick Fix for a Malfunctioning Logitech K520 Keyboard – Easy Tips Inside!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/quick-fix-for-removing-windows-10-lock-screen-a-user-friendly-approach/"><u>Quick Fix for Removing Windows 10 Lock Screen - A User-Friendly Approach</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/quick-guide-identifying-and-verifying-your-windows-10-os-version-instantly/"><u>Quick Guide: Identifying and Verifying Your Windows 10 OS Version Instantly</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/recovering-access-steps-to-restore-a-forgotten-ipad-passcode-and-unlock-securely/"><u>Recovering Access: Steps to Restore a Forgotten iPad Passcode and Unlock Securely</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/resolve-excessive-tiworkerexe-cpu-and-memory-consumption-in-windows-11/"><u>Resolve Excessive tiworker.exe CPU and Memory Consumption in Windows 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/speed-hacks-supercharge-minecraft-gameplay/"><u>Speed Hacks - Supercharge Minecraft Gameplay!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-efficiently-clearing-your-entire-google-search-log/"><u>Step-by-Step Guide: Efficiently Clearing Your Entire Google Search Log</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-executing-the-admin-version-of-command-prompt-on-a-windows-pc/"><u>Step-by-Step Guide: Executing the Admin Version of Command Prompt on a Windows PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-powertoys-worldwide-mouse-capabilities/"><u>Unlock PowerToy's Worldwide Mouse Capabilities</u></a></li>
 </ul></div>
 

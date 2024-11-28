@@ -1,7 +1,7 @@
 ---
 title: "Investigating the Origins: The In-Depth Story Behind CrowdStrike and the Infamous Windows Meltdn of '24 | Insights"
-date: 2024-11-14T16:47:59.612Z
-updated: 2024-11-18T22:32:33.563Z
+date: 2024-11-27T06:34:17.542Z
+updated: 2024-11-27T19:32:19.495Z
 tags:
   - apple
 categories:
@@ -32,6 +32,10 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What happened?
 
 CrowdStrike, which sells security software designed to keep systems safe from external attacks, pushed a faulty ["sensor configuration update"](https://www.crowdstrike.com/blog/falcon-update-for-windows-hosts-technical-details/) to the millions of PCs worldwide running its Falcon Sensor software. That update was, according to CrowdStrike, a "Channel File" whose function was to identify newly observed, malicious activity by cyberattackers.
@@ -51,10 +55,7 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -94,10 +95,7 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -127,10 +125,7 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -181,17 +176,17 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-source-usage-scrutinized-a-look-at-accusations-of-content-theft/"><u>ChatGPT Source Usage Scrutinized: A Look at Accusations of Content Theft</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chrome-plugin-mimicking-chatgpt-compromises-facebook-usernames-and-passwords/"><u>Chrome Plugin Mimicking ChatGPT Compromises Facebook Usernames and Passwords</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/crack-the-ransomware-code-for-just-050-mobile-strategies-and-chatgpt-insights-shared-in-our-exclusive-podcast/"><u>Crack the Ransomware Code for Just $0.50 - Mobile Strategies & ChatGPT Insights Shared in Our Exclusive Podcast!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/decoding-truthgpt-coin-understanding-its-value-and-potential-risks-to-avoid-frauds/"><u>Decoding TruthGPT Coin: Understanding Its Value and Potential Risks to Avoid Frauds</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/delving-into-functionality-the-process-behind-7-leading-gpt-4-enhanced-applications/"><u>Delving Into Functionality: The Process Behind 7 Leading GPT-4 Enhanced Applications</u></a></li>
-<li><a href="https://games-able.techidaily.com/easier-way-to-discover-if-pcs-cpu-is-bottl-written-by/"><u>Easier Way to Discover If PC’s CPU Is Bottl Written By</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-honor-x9b-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Honor X9b?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-or-malfunctioning-drivers-with-windows-device-manager-in-windows-710-by-drivereasy-guide/"><u>How to identify missing or malfunctioning drivers with Windows Device Manager in Windows 7,10</u></a></li>
-<li><a href="https://techtrends.techidaily.com/is-blizzards-battlenet-experiencing-downtime-or-are-you-just-facing-connectivity-woes/"><u>Is Blizzard's Battle.net Experiencing Downtime, Or Are You Just Facing Connectivity Woes?</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-discover-the-top-10-digital-audio-workstations-for-pc-and-mac-windowsmac-updated-edition-for-2024/"><u>New Discover the Top 10 Digital Audio Workstations for PC and Mac (Windows/Mac) - Updated Edition for 2024</u></a></li>
-<li><a href="https://win-popular.techidaily.com/prozess-der-wiederherstellung-des-leeren-mulleimers-schritt-fur-schritt-anleitung-recovermybin/"><u>Prozess Der Wiederherstellung Des Leeren Mülleimers: Schritt-Für-Schritt Anleitung | RecoverMyBin</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-alan-wake-2-freezing-issues-expert-advice-for-gamers-in-202-groovy-titles-to-fix-your-game-crashes/"><u>Solving the Alan Wake 2 Freezing Issues: Expert Advice for Gamers in 202 Groovy Titles to Fix Your Game Crashes</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-navigating-instagrams-reel-downloads-with-ease-and-versatility/"><u>[New] 2024 Approved Navigating Instagram's Reel Downloads with Ease and Versatility</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-the-final-verdict-on-vegas-pro-21-a-sports-enthusiasts-review/"><u>[New] 2024 Approved The Final Verdict on Vegas Pro '21 - A Sports Enthusiast's Review</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-step-by-step-process-for-photo-backdrop-erasure/"><u>[New] Step-by-Step Process for Photo Backdrop Erasure</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-prestigious-websites-elevating-youtube-content/"><u>[Updated] In 2024, Prestigious Websites Elevating YouTube Content</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-troubleshooting-eradicating-monitor-ghosting-in-minutes/"><u>Easy Troubleshooting: Eradicating Monitor Ghosting in Minutes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-tutorial-for-installing-the-latest-atheros-wifi-driver-in-windows-10-system/"><u>Easy Tutorial for Installing the Latest Atheros WiFi Driver in Windows 10 System</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-access-to-windows-10-advanced-startup-settings-a-step-by-step-guide/"><u>Effortless Access to Windows 10 Advanced Startup Settings: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/essential-pubg-game-specs-must-know-minimum-and-recommended-system-requirements/"><u>Essential PUBG Game Specs: Must-Know Minimum & Recommended System Requirements</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/expert-tips-for-deactivating-microsofts-cortana-feature-on-windows-10-devices/"><u>Expert Tips for Deactivating Microsoft's Cortana Feature on Windows 10 Devices</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-honor-100-pro-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Honor 100 Pro Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-digital-connections-understanding-facebook-twitter-instagram-and-youtube/"><u>Navigating Digital Connections: Understanding Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-beammaster-pro/"><u>The BeamMaster Pro</u></a></li>
 </ul></div>
 

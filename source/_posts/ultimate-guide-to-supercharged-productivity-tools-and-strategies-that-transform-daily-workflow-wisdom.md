@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide to Supercharged Productivity: Tools and Strategies That Transform Daily Workflow Wisdom"
-date: 2024-11-14T23:08:20.471Z
-updated: 2024-11-18T17:11:08.321Z
+date: 2024-11-20T18:21:53.716Z
+updated: 2024-11-27T21:10:18.882Z
 tags:
   - apple
 categories:
@@ -45,10 +45,7 @@ That whole process is my flow. Over my many various iterations, I've managed to 
 The other half of my day is project time. This is when I work on everything from academic papers to the presentations, white papers, and webcasts I do for ZDNet to developing code to most of the projects I write about for DIY-IT. I tend to work on projects in the late afternoon and the late evening, with a break in the early evening for family time and lunch or dinner. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Changes due to the pandemic
@@ -61,16 +58,13 @@ Now, [mostly I'm home](https://www.zdnet.com/article/whats-inside-gewirtzs-home-
 
 In any case, what that means is that instead of my escalating ranking of phones, tablets, Chromebooks and laptops, I just carry my [iPhone 12 Pro Max](https://www.zdnet.com/article/dont-buy-that-expensive-new-iphone-13-how-used-iphones-can-deliver-huge-savings/). It will keep me up to speed until I get back home and can pick up where I left off.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Tools for my daily flow
 
 Now that you understand how my working environment has changed and how I structure my work day, let's discuss the tools I use in my daily flow. It all starts with Gmail... 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## First morning Gmail
 
@@ -87,13 +81,6 @@ Actually, scratch that. I no longer take my iPhone to bed with me. Instead, I we
 The boy
 
 The way I have Gmail set up, only the most important messages show up on my watch. Same with Slack notifications. Basically, unless there's something urgent from one of my editors, I can start my day in peace. If there's nothing urgent, I hit the snooze button. After repeating this ritual two or three times, I get up, do my morning necessaries, and zombie-walk to the coffee maker. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -132,6 +119,10 @@ What's particularly nice about Pocket is that it runs on not only my couch-side 
 Part of my morning flow is posting to the social networks. Unfortunately, this has changed. It used to be that whenever I found an article that was interesting in my Pocket collection, I tapped the Share icon in Pocket and then selected [Buffer](http://bufferapp.com). Buffer then took the article, scheduled it, and posted it to Twitter, Facebook, and LinkedIn. Two clicks and I used to be able shared something interesting.
 
 But Facebook broke that. Facebook no longer allows tools like Buffer and [Hootsuite](https://hootsuite.com/) to to post to personal Facebook pages. I've spent years building up my personal Facebook page following and don't want to start a corporate page (or orphan all my followers), so when Facebook broke auto-posting, it hurt. Now, I hand post to Twitter and then do it again on Facebook. LinkedIn gets a lot less attention, and, frankly, I post less frequently. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Featured reviews
 
@@ -184,6 +175,10 @@ I just think of those users like more of my students. If any questions show up i
 
 By the way, this is also a great way to think about users, which I initially was a bit unhappy about adding to my daily workload. But the reframe is this: I'm an educator and these are more people in need of assistance while they're learning to use these plugins. So, rather than thinking about providing user support as an added workload, I think of the users as more of my students and their questions as simply more teaching opportunities. It's also a great way to keep up on what people are doing out there, and gives me a much more "on the street" dialog with users, which is invaluable as a tech journalist.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Featured
 
 * [We've used every iPhone 16 model and here's our best buying advice for 2024](https://www.zdnet.com/article/iphone-16-pro-max-buying-advice-2024/)
@@ -192,13 +187,6 @@ By the way, this is also a great way to think about users, which I initially was
 * [Want a programming job? Learn these three languages](https://www.zdnet.com/article/want-a-programming-job-learn-these-three-languages/)
 
 Here's another little trick I use: I get a lot of feature requests (which I call "cool feature ideas") from the plugin users. The go into [the bug tracking system I manage in Notion](https://www.zdnet.com/article/notion-app-review/).
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## To-doing my to-do list
 
@@ -230,18 +218,15 @@ I've set up a bunch of Notion pages and all the items that "should be on the lis
 
 That, by the way, is the entire key to keeping your to-do list under control. If you actually intend to do an item within a reasonably short period of time, put it on your to-do list. If you expect to do it someday, it's not a to-do list item, not an actionable item, and you should write them on another list somewhere. I use Trello for that. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [The best 3D printers If you're in the market for a 3D printer, you'll find one here that fits your needs.  Read now](https://www.zdnet.com/article/best-3d-printer/)
 
 I've also set up Notion pages for each 3D printer, and for managing and tracking my reviews and video projects. It's great as a catch-all for lots of details, but unlike previous catch-alls like Evernote, Notion allows you to assign some structure and layout to the stuff you're working with. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Blocking out time for my projects
 
@@ -256,6 +241,10 @@ Next is DG Planner. I use this to block out a set of days for everything that ha
 Finally, there's Planner Tentative. This is where I block out the approximate time a project I may or may not be working on will probably take. That way, if I'm taking with my team about a bunch of projects, I can block out some tentative time and see how my month is shaping up.
 
 With this system, I rarely lose track of projects and also rarely overbook myself. It's worked quite well for a bunch of years now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Rethinking your flow
 
@@ -286,22 +275,20 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-journey-beyond-the-frantic-crafting-epic-slow-motion-content-for-instragram-for-2024/"><u>[Updated] Journey Beyond the Frantic Crafting Epic Slow Motion Content for Instragram for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-xiaomi-13t-pro-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Xiaomi 13T Pro to Roku | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Vivo Y27s | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/apex-legends-players-guide-resolving-in-game-engine-errors-successfully/"><u>Apex Legends Players Guide: Resolving In-Game Engine Errors Successfully</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Honor Magic 6 | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-oneplus-ace-2v-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On OnePlus Ace 2V</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-enhance-engagement-personalize-twitter-videos-with-new-thumbnails/"><u>In 2024, Enhance Engagement Personalize Twitter Videos with New Thumbnails</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/premier-accessible-stopwatches/"><u>Premier Accessible Stopwatches</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-twin-question-which-ai-wins/"><u>The Twin Question: Which AI Wins?</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/0plus-free-online-youtube-intro-makers-for-2024/"><u>Top 10+ Free Online YouTube Intro Makers for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-5-strategies-for-crafting-impactful-prompts-with-chatgpt-for-optimal-ai-responses/"><u>Top 5 Strategies for Crafting Impactful Prompts with ChatGPT for Optimal AI Responses</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-5-tools-for-sharing-your-conversations-with-chatgpt/"><u>Top 5 Tools for Sharing Your Conversations with ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-7-auto-coding-tools-that-serve-as-great-substitutes-for-chatgpt/"><u>Top 7 Auto-Coding Tools That Serve as Great Substitutes for ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transform-your-life-mastering-chatgpt-for-enhanced-daily-living/"><u>Transform Your Life: Mastering ChatGPT for Enhanced Daily Living</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transform-your-routine-the-9-ways-chatgpt-boosts-personal-efficiency/"><u>Transform Your Routine: The 9 Ways ChatGPT Boosts Personal Efficiency</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-ai-prompt-injection-attacks-how-do-they-function/"><u>Understanding AI Prompt Injection Attacks: How Do They Function?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/universal-gpt-mastery-for-cross-boundary-communication/"><u>Universal GPT Mastery for Cross-Boundary Communication</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-ultimate-hd-video-memory-creators/"><u>[New] In 2024, Ultimate HD Video Memory Creators</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-captureclub-bout/"><u>[Updated] In 2024, CaptureClub Bout</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-comprehensive-guide-to-mastering-zoom-win10-for-2024/"><u>A Comprehensive Guide to Mastering Zoom (Win10) for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accessing-windows-component-services-interface-quickly/"><u>Accessing Windows' Component Services Interface Quickly</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-best-4-ai-writers-for-generating-engaging-stories/"><u>Discover the Best 4 AI Writers for Generating Engaging Stories</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leveraging-chatgpt-for-persuasive-business-proposals/"><u>Leveraging ChatGPT for Persuasive Business Proposals</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-battery-health-check-up-with-windows-nine-eleven-technology/"><u>Mastering Battery Health Check-Up with Windows Nine Eleven Technology</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/openais-innovative-leap-navigating-and-harnessing-the-power-of-the-new-gpt-store/"><u>OpenAI's Innovative Leap - Navigating & Harnessing the Power of the New GPT Store</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/quick-and-easy-your-guide-to-agentdeployment-on-agentgpt/"><u>Quick and Easy: Your Guide to AgentDeployment on AgentGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/shielding-yourself-from-bogus-chatgpt-clones-lurking-in-the-ios-ecosystem/"><u>Shielding Yourself From Bogus ChatGPT Clones Lurking in the iOS Ecosystem</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-dell-usb-issues-effective-methods-to-restore-connectivity/"><u>Solving Dell USB Issues: Effective Methods to Restore Connectivity</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-implementing-child-safety-features-on-windows-11/"><u>Step-by-Step Tutorial: Implementing Child Safety Features on Windows 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-future-of-ai-will-the-turing-test-ever-be-overcome-by-machines/"><u>The Future of AI: Will the Turing Test Ever Be Overcome by Machines?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-intersection-of-truth-and-tale-in-ai/"><u>The Intersection of Truth & Tale in AI</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-tribit-audio-unbeatable-discounts-during-prime-day-sale/"><u>Top-Rated Tribit Audio: Unbeatable Discounts During Prime Day Sale!</u></a></li>
 </ul></div>
 

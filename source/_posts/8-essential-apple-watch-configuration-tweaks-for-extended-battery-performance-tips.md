@@ -1,7 +1,7 @@
 ---
 title: 8 Essential Apple Watch Configuration Tweaks for Extended Battery Performance - Tips
-date: 2024-11-15T01:39:52.259Z
-updated: 2024-11-18T22:58:31.675Z
+date: 2024-11-21T03:10:24.087Z
+updated: 2024-11-28T02:52:07.022Z
 tags:
   - apple
 categories:
@@ -36,6 +36,10 @@ Even with a healthy battery life in my device, I'm not sure when the problem ori
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Turn off the always-on display
 
 This is the most effective thing you can do to preserve your Apple Watch's battery life. While yes, it can be super inconvenient to ditch the always-on display, it can be the difference between your Apple Watch lasting all day and it dying before dinner time. I turned mine off for a weekend and was surprised to find that it greatly enhances endurance, albeit not to the point of pre-watchOS 10.
@@ -43,10 +47,7 @@ This is the most effective thing you can do to preserve your Apple Watch's batte
 **How to:** On your Apple Watch, head to Settings > Display & Brightness > Always On, then toggle the feature off.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Use Low Power Mode when you can
@@ -64,6 +65,10 @@ If you have an Apple Watch with cellular connectivity, it's best to not use your
 **How to:** Open Settings > Cellular on your watch and toggle off "Cellular." Then, when you want to turn it back on, flick the switch again. It's worth noting that airplane mode will essentially do the same thing, but it also turns off Wi-Fi which you need for certain things, so manually disabling cellular data will save some steps.
 
 Jason Hiner/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Turn off background app refresh
 
@@ -89,13 +94,6 @@ With some of the newest Apple Watches, Apple includes a feature that can alert y
 
 **How to:** Visit Settings > Heart > Irregular Rhythm Notifications and flick the feature off.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Reduce the amount of notifications you get
 
 When a notification comes in, it not only plays a "ding!" to alert you, it also vibrates your Apple Watch and lights up the screen. While your notifications won't drain your battery in excess, if you get enough of them throughout the day, you'll definitely notice a difference in endurance.
@@ -103,6 +101,10 @@ When a notification comes in, it not only plays a "ding!" to alert you, it also 
 **How to:** On your iPhone, open the Apple Watch app and navigate to "Notifications." From there, you'll be presented with a list of the apps on your phone that are sending notifications to your watch. Go through the list and turn off the ones you don't want to receive any longer. You also have the option to group notifications together if a particular app sends you a lot during the day but you want to keep them on.
 
 **Also:** [**Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11**](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Turn off Siri
 
@@ -113,10 +115,7 @@ Ah, Siri. Many people swear by the voice assistant and use it daily to do things
 Adrian Kingsley-Hughes/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Factory reset your Apple Watch (a.k.a. the last resort)
@@ -124,19 +123,6 @@ Adrian Kingsley-Hughes/ZDNET
 I've heard from many folks who have faced issues with battery life on the Apple Watch that it's best to do a complete factory reset. Full disclosure: it's not going to work for everyone, but if you've exhausted every option on your Apple Watch to extend battery life, the battery is still healthy, and you don't want to upgrade, your best bet is to reset it and start from scratch. That way, you can set up your watch and, along the way, spot the app or service that drains your battery the most. It may also help clean up some of the system bloat in watchOS 10 that's led to poor efficiency on your watch.
 
 **How to:** Go to Settings > General > Reset on your Apple Watch, then choose "Erase All Content and Settings." You won't have to disable Find My or get rid of your cellular plan since you'll be setting it up with your iPhone again, but if you want to get rid of absolutely everything, make sure you disable Find My and dump your cellular plan during the process.
-
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How we test smartwatches
 
@@ -179,19 +165,24 @@ For a deeper look at our testing process, check out our comprehensive [smartwatc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-the-ultimate-guide-to-success-in-stardews-enigmatic-ginger-isle/"><u>[New] 2024 Approved The Ultimate Guide to Success in Stardew's Enigmatic Ginger Isle</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-top-30-metaverse-gems-diy-meme-ideas-unleashed/"><u>[Updated] Top 30 Metaverse Gems DIY Meme Ideas Unleashed</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-fuel-ambition-with-these-10-movie-masterpieces/"><u>2024 Approved Fuel Ambition with These 10 Movie Masterpieces</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-synchronized-screenscape-tv-loops-of-online-media/"><u>2024 Approved Synchronized Screenscape TV Loops of Online Media</u></a></li>
-<li><a href="https://win11.techidaily.com/ensuring-your-windows-pcs-character-map-functionality-succeeds/"><u>Ensuring Your Windows PC's Character Map Functionality Succeeds</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/evaluating-the-benefits-and-drawbacks-of-chatgpt-plus-a-comprehensive-overview/"><u>Evaluating the Benefits and Drawbacks of ChatGPT Plus: A Comprehensive Overview</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/identifying-potential-vulnerabilities-in-chatgpts-operations/"><u>Identifying Potential Vulnerabilities in ChatGPT's Operations</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/innovative-leap-by-mercedes-benz-with-new-chatgpt-and-voice-commands-integration/"><u>Innovative Leap by Mercedes-Benz with New ChatGPT and Voice Commands Integration</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/integrating-ai-for-wellbeiting-top-9-chatgpt-tips/"><u>Integrating AI for Wellbeiting: Top 9 ChatGPT Tips</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/master-the-art-of-recognizing-pure-and-impure-token-deals/"><u>Master the Art of Recognizing Pure and Impure Token Deals</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-ai-censorship-in-chatbots-effects-on-you/"><u>Navigating AI Censorship in Chatbots – Effects on You</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-apple-for-authentic-chatai-services/"><u>Navigating Apple for Authentic ChatAI Services</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/tive-screen-time-topping-youtube-movies/"><u>Selective Screen Time Topping YouTube Movies</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-8-must-have-ebook-reader-applications/"><u>Top 8 Must-Have eBook Reader Applications</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-capturing-creativity-premium-screen-recorder-software-on-pc-and-mac/"><u>[New] 2024 Approved Capturing Creativity - Premium Screen Recorder Software on PC & Mac</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-the-apex-of-high-res-viewing-best-4k-screens-on-macs/"><u>[New] 2024 Approved The Apex of High-Res Viewing - Best 4K Screens on Macs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1723808168853-solved-logitech-k520-keyboard-not-working-quickly-and-easily/"><u>[SOLVED] Logitech K520 Keyboard Not Working | Quickly & Easily!</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-navigating-the-process-of-embedding-vimeo-media-in-ppts/"><u>[Updated] In 2024, Navigating the Process of Embedding Vimeo Media in PPTs</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-instas-music-guide-essentials/"><u>[Updated] Insta's Music Guide Essentials</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-top-10-must-knows-before-elevating-systems/"><u>[Updated] Top 10 Must-Knows Before Elevating Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/advanced-techniques-to-strengthen-bluetooth-signals-on-your-windows-laptop-or-pc/"><u>Advanced Techniques to Strengthen Bluetooth Signals on Your Windows Laptop or PC.</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1723807914043-download-asus-aura-customization-packs-for-pc-windows-1011-boost-your-desktop-look/"><u>Download ASUS Aura Customization Packs for PC (Windows 10/11) – Boost Your Desktop Look!</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-tecno-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Tecno FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/how-to-be-a-virtual-visitor-in-friendly-tiktok-streams/"><u>How to Be a Virtual Visitor in Friendly TikTok Streams</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1723808213410-how-to-sync-ps4-controller-easy-guide/"><u>How to Sync PS4 Controller — Easy Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-oppo-find-n3-flip-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Oppo Find N3 Flip Phone Now with These Tips</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/quick-tips-for-setting-up-zoom-on-your-android-phonetablet-for-2024/"><u>Quick Tips for Setting Up Zoom on Your Android Phone/Tablet for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/secure-your-website-by-transitioning-http-to-https-through-nginx-configuration/"><u>Secure Your Website by Transitioning HTTP to HTTPS Through Nginx Configuration</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/solution-found-a-guide-for-users-who-forgot-their-facebook-account-passwords/"><u>Solution Found: A Guide for Users Who Forgot Their Facebook Account Passwords</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-to-restoring-oculus-air-link-connectivity-for-windows-users/"><u>Step-by-Step Guide to Restoring Oculus Air Link Connectivity for Windows Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1723807902925-this-app-cant-run-on-your-pc-solved/"><u>This App Can't Run on Your PC [Solved]</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-unleash-the-power-of-slow-motion-top-10-video-players/"><u>Updated 2024 Approved Unleash the Power of Slow Motion Top 10 Video Players</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/windows-11-dvd-ripping-made-simple-quick-tips-and-tricks/"><u>Windows 11 DVD Ripping Made Simple: Quick Tips and Tricks</u></a></li>
 </ul></div>
 

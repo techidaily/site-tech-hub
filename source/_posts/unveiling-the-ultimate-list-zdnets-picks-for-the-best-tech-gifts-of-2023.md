@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Ultimate List: ZDNet's Picks for the Best Tech Gifts of 2023!"
-date: 2024-11-13T19:52:36.863Z
-updated: 2024-11-18T19:10:04.823Z
+date: 2024-11-23T10:46:41.879Z
+updated: 2024-11-27T22:13:03.954Z
 tags:
   - apple
 categories:
@@ -26,15 +26,16 @@ But which features will actually have the most impact on iPhone enthusiasts? Wha
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. The 5x zoom comes to the Pro
 
 When Apple first released the [iPhone 15](https://www.zdnet.com/article/iphone-15-plus-review/) series, it only gave the 5x tetraprism zoom lens to the Max Pro. This time around, both the 16 Pro and the 16 Pro Max are getting the high-end zoom capability. This choice means the camera is essentially the same on the 16 Pro and 16 Pro Max, leaving other features to differentiate the two models. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. The camera control
@@ -52,10 +53,7 @@ The camera control button is available on all iPhone 16 models, but it's when pa
 [Not everyone is a fan](https://www.zdnet.com/article/i-want-to-be-excited-about-the-iphone-16s-new-camera-button-but-cant-for-now/) of the new camera button, however, as this shift from software to hardware will likely come with usability growing pains and mistakenly-accessed features.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Siri's much-needed makeover
@@ -73,10 +71,7 @@ Well, the time has finally come. Apple unveiled a ton of new functionality for S
 Beyond Siri, we have [Visual Intelligence](https://www.zdnet.com/article/apple-adds-visual-intelligence-its-answer-to-google-lens-to-the-iphone-16-camera/), which allows multi-modal AI via the camera, similar to what we've seen across other AI models this year. Apple Intelligence will start with a live beta in October in the US, with additional countries in December, and additional languages next year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Upgraded chipset for the AI age
@@ -92,10 +87,7 @@ The 3mm technology has smaller, more efficient transistors, and constitutes a bi
 Even with AI's demanding memory requirements, having this much memory on the iPhone is a bonus for overall performance, particularly multitasking and starting up apps. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. The biggest iPhones yet
@@ -132,18 +124,16 @@ The iPhone 16 Pro and Pro Max are the largest iPhones ever, with 6.3 and 6.9-inc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/updated-adobe-memefixer-a-humorous-journey/"><u>[Updated] Adobe Memefixer A Humorous Journey</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-a-hands-on-manual-to-easily-navigate-trending-youtube-comments/"><u>2024 Approved A Hands-On Manual to Easily Navigate Trending YouTube Comments</u></a></li>
-<li><a href="https://win-able.techidaily.com/debugging-woes-heres-how-to-keep-halo-infinite-running-without-interruptions-on-pc/"><u>Debugging Woes? Here's How to Keep Halo Infinite Running Without Interruptions on PC</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/finding-the-language-that-suits-you-best/"><u>Finding The Language That Suits You Best</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Samsung Galaxy M34 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Honor X7b | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/quick-guide-securing-your-intelligent-thunderbolt-drivers-with-ease/"><u>Quick Guide: Securing Your Intelligent Thunderbolt Drivers with Ease</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-on-device-artific/"><u>Understanding On-Device Artific</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-the-potential-top-5-benefits-of-using-chatgpt-in-your-cryptocurrency-investments/"><u>Unlocking the Potential: Top 5 Benefits of Using ChatGPT in Your Cryptocurrency Investments</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-influence-of-smart-chatbots-on-modern-content-creation-techniques/"><u>Unveiling the Influence of Smart Chatbots on Modern Content Creation Techniques</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/virtual-reality-meets-artificial-intelligence-shaping-tomorrows-gaming/"><u>Virtual Reality Meets Artificial Intelligence: Shaping Tomorrow's Gaming</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/virtual-world-betrayals-activisions-tale/"><u>Virtual World Betrayals: Activision's Tale</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/what-drives-openai-ceo-to-advocate-greater-control-over-ai-development/"><u>What Drives OpenAI CEO to Advocate Greater Control Over AI Development?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/2020-tips-insert-a-pdf-into-word-quick-and-easy/"><u>[2020 Tips] Insert a PDF Into Word | Quick & Easy</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-best-price-to-performance-laptops-under-500-gaming-edition/"><u>[New] Best Price-to-Performance Laptops Under $500 (Gaming Edition)</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-exploring-basics-of-digital-narratives/"><u>[New] In 2024, Exploring Basics of Digital Narratives</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-tiktoks-take-jujutsu-kaisen-challenges-and-laughs-for-2024/"><u>[New] TikTok's Take Jujutsu Kaisen Challenges and Laughs for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-high-end-vector-sites-ranked-1-to-10/"><u>[Updated] In 2024, High-End Vector Sites Ranked 1 to 10</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1723808062249-advanced-techniques-to-strengthen-bluetooth-signals-on-your-windows-laptop-or-pc/"><u>Advanced Techniques to Strengthen Bluetooth Signals on Your Windows Laptop or PC</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1723808214581-easy-fixes-for-when-skype-fails-to-connect-in-windows-n-discover-your-pathway-to-seamless-communication/"><u>Easy Fixes for When Skype Fails to Connect in Windows N: Discover Your Pathway to Seamless Communication!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1723808358553-forgot-your-gmail-password-again-discover-simple-remedies-now/"><u>Forgot Your Gmail Password Again? Discover Simple Remedies Now</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-samsung-galaxy-m34-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Samsung Galaxy M34? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1723808239433-quick-tutorial-making-google-the-first-page-in-any-browser/"><u>Quick Tutorial: Making Google the First Page in Any Browser</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210650695-9781402788741-the-enchanted-birthday-book/"><u>The Enchanted Birthday Book | Free Book</u></a></li>
 </ul></div>
 

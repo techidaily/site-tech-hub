@@ -1,7 +1,7 @@
 ---
 title: How to Perform a Firmware Upgrade for Your Apple Studio Display (Tips and Tricks by ZDNet)
-date: 2024-11-12T16:25:08.709Z
-updated: 2024-11-18T18:16:27.280Z
+date: 2024-11-21T08:32:06.913Z
+updated: 2024-11-27T20:58:13.273Z
 tags:
   - apple
 categories:
@@ -33,6 +33,10 @@ If you're going to be one of those people, read on.
 
 You don't want to mess up this transfer, because not only could you lose data, but the next person could end up being unable to use the iPhone you sold or gave them. Follow these steps for a successful result for both of you. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  1\. Update
 
 Before you even think about wiping your old iPhone, there are some things that you should do. I'm going to assume that you're selling an iPhone that's still being supported and is capable of [running iOS 15](https://www.zdnet.com/article/here-are-8-ios-15-features-you-need-to-know-about/). 
@@ -53,22 +57,13 @@ These are the iPhones that can run iOS 15:
 
 If your iPhone is one of these and is not running the latest version of iOS 15, then I recommend upgrading to the latest release to get the best experience. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. Look out for apps that need additional handholding during a transfer
 
 Next, some apps -- specifically banking apps in my experience -- prefer it if you deactivate or deauthorize them on the old iPhone before moving to a new handset. 
-
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### read this
 
@@ -79,6 +74,10 @@ It's not that you can't still get the service to work, but you may have to jump 
 I'd definitely check any banking and financial apps for any special process involved in moving them to a new handset and take care of that up front. 
 
 **Also:** [**The 5 best payment apps (Venmo isn't your only option)**](https://www.zdnet.com/article/best-payment-app/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  3\. Protect your data
 
@@ -93,10 +92,7 @@ Don't have enough iCloud space? Don't worry! Apple will let you borrow some [tem
 **Also:** [**Here's a hidden way to increase your iCloud storage**](https://www.zdnet.com/article/the-secret-hidden-way-you-can-double-apples-maximum-2tb-icloud-storage-limit/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  4\. Get ready for the transfer
@@ -141,10 +137,7 @@ Remember, once you start this process, there's no going back!
 **Also:** [**iOS 15 privacy and security checklist**](https://www.zdnet.com/article/ios-15-ultimate-privacy-and-security/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### See also
@@ -153,13 +146,6 @@ Remember, once you start this process, there's no going back!
 * [How to clean your Apple Watch in 5 steps](https://www.zdnet.com/article/how-to-clean-your-apple-watch-in-5-steps/)
 * [How to clean and sanitize your AirPods](https://www.zdnet.com/article/how-to-clean-and-sanitize-your-airpods/)
 * [How to clean a mechanical keyboard](https://www.zdnet.com/article/how-to-clean-a-mechanical-keyboard/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  6\. Spring-clean your iPhone
 
@@ -201,24 +187,14 @@ Now you can relax and enjoy your [new iPhone](https://www.zdnet.com/article/here
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-critical-review-best-bargain-video-call-apps-ios-and-android/"><u>[New] Critical Review Best Bargain Video Call Apps - iOS & Android</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-capture-and-record-videos-from-your-webcam/"><u>[Updated] Capture and Record Videos From Your Webcam</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-client-speeches-transforming-marketing-narratives/"><u>[Updated] In 2024, Client Speeches Transforming Marketing Narratives</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-art-of-holding-attention-6-video-classifications/"><u>[Updated] The Art of Holding Attention 6 Video Classifications</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-boosting-your-videos-popularity-in-a-competitive-space-like-tiktok/"><u>2024 Approved Boosting Your Video’s Popularity in a Competitive Space Like TikTok</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/8-next-level-ai-companions-for-your-smartphone-beyond-chatgpt/"><u>8 Next-Level AI Companions for Your Smartphone Beyond ChatGPT</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/analyzing-the-compact-cp24-from-criacr-your-guide-to-the-pros-and-cons-of-this-bluetooth-fm-transmitter/"><u>Analyzing the Compact CP24 From CRIACR - Your Guide to the Pros & Cons of This Bluetooth FM Transmitter</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-apple-iphone-6-plus-without-passcode-easily-drfone-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 6 Plus Without Passcode Easily | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/indie-gaming-delights-revealing-my-preferred-titles/"><u>Indie Gaming Delights: Revealing My Preferred Titles</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-bring-your-ideas-to-life-best-3d-animation-apps-for-mobile-free/"><u>New In 2024, Bring Your Ideas to Life Best 3D Animation Apps for Mobile (Free)</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/shooting-for-greatness-iphones-10-vital-composition-guidelines/"><u>Shooting for Greatness IPhone's 10 Vital Composition Guidelines</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-new-frontier-of-ai-claudians-distinct-advantages-over-chatgpts-capabilities/"><u>The New Frontier of AI: Claudians' Distinct Advantages Over ChatGPT’s Capabilities</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-parents-guide-to-chatgpt-and-generative-ai/"><u>The Parents Guide to ChatGPT and Generative AI</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-puzzle-of-ensuring-synergy-between-human-intentions-and-ai-objectives/"><u>The Puzzle of Ensuring Synergy Between Human Intentions and AI Objectives</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-surge-in-ai-chatbot-usage-insights-and-motivations/"><u>The Surge in AI Chatbot Usage: Insights and Motivations</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-7-inquiries-outside-of-chatgpts-capabilities-limits-explored/"><u>Top 7 Inquiries Outside of ChatGPT's Capabilities: Limits Explored</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/tracing-the-future-beyond-turings-legacy/"><u>Tracing the Future: Beyond Turing's Legacy</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlock-global-access-mastering-the-use-of-chatgpt-everywhere/"><u>Unlock Global Access: Mastering the Use of ChatGPT Everywhere</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/utilizing-chatgpt-to-overcome-isolation-and-loneliness/"><u>Utilizing ChatGPT to Overcome Isolation and Loneliness</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/astering-backward-play-innovative-youtube-video-tricks/"><u>[New] Mastering Backward Play Innovative YouTube Video Tricks</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-elevate-your-creativity-2-routes-to-perfect-snap-filters/"><u>2024 Approved Elevate Your Creativity 2 Routes to Perfect Snap Filters</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/acquiring-vivid-clipart-without-investment-for-2024/"><u>Acquiring Vivid Clipart Without Investment for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/affordable-performance-build-your-own-compact-system-with-asrocks-deskmate-x600-and-full-sized-gpu-exclusive-to-the-chinese-market/"><u>Affordable Performance: Build Your Own Compact System With ASRock's DeskMate X600 and Full-Sized GPU - Exclusive to the Chinese Market</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discovering-7-amazing-updates-the-latest-bard-ai-reveal-from-google-io-2023/"><u>Discovering 7 Amazing Updates: The Latest Bard AI Reveal From Google I/O 2023</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/master-your-own-chatai-blueprint/"><u>Master Your Own ChatAI Blueprint</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/er-choice-the-best-10-recorders-for-tech-talks/"><u>Premier Choice The Best 10 Recorders for Tech Talks</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/seamless-adventures-in-night-city-overcoming-cyberpunk-2077s-lag-and-glitch-fixes/"><u>Seamless Adventures in Night City: Overcoming Cyberpunk 2077'S Lag and Glitch Fixes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-next-generation-ai-puzzle-why-does-chatgpt-4-take-its-time-when-chatgpt-35-was-faster/"><u>The Next Generation AI Puzzle: Why Does ChatGPT-4 Take Its Time When ChatGPT-3.5 Was Faster?</u></a></li>
 </ul></div>
 

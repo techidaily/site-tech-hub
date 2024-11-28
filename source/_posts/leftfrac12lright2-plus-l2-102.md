@@ -1,7 +1,7 @@
 ---
 title: \\[ \\Left(\\frac{1}{2}l\\right)^2 + L^2 = 10^2 \\
-date: 2024-11-13T22:46:53.696Z
-updated: 2024-11-18T16:29:20.403Z
+date: 2024-11-21T22:05:03.885Z
+updated: 2024-11-28T00:48:09.390Z
 tags:
   - apple
 categories:
@@ -41,25 +41,19 @@ While the Pixel 6 Pro at time of release was only $100 cheaper ($899) than the $
 | Colors                 | Cloudy White, Sorta Sunny, Stormy Black                                                                                                                                      | Alpine Green, Silver, Gold, Graphite, Sierra Blue                                                                                                                                                                                                                                                                                                           |
 | Price                  | [Starting at $899](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://store.google.com/product/pixel%5F6%5Fpro?hl=en-US&pli=1) | [Starting at $999](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fiphone-13-pro%2Fkey-features%2F%3Fafid%3Dp238%257CsNQZDFTnQ-dc%5Fmtid%5F20925d2q39172%5Fpcrid%5F588006468460%5Fpgrid%5F126654828229%5F%26cid%3Dwwa-us-kwgo-iphone--slid---Brand-iphone13pro-avail-&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You should buy the Google Pixel 6 Pro if…
-
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  1\. You want fun and experimental camera features
 
@@ -77,13 +71,6 @@ While Apple's iPhones have made significant improvements to battery life since t
 
 CNET
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  3\. You want a sleek, innovative design
 
 While the iPhone 13 Pro stuck to its traditional, stainless-steel design, only adding a larger camera bump, Google's design broke creative boundaries, especially when compared to previous Pixel generations. Featuring a camera bar that stretches across the back, the Pixel camera doesn't take up half of your phone like that of the iPhone 13 Pro. The bar slightly protrudes from the back glass -- about 3mm from the surface -- which keeps the whole device wobble-free when laid flat. 
@@ -94,13 +81,14 @@ Lastly, the Pixel 6 Pro runs on the latest Android 12 software, with Android 13 
 
 [Buy the Google Pixel 6 Pro $418.88 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09HYR2NC8%2Fref%3Dasc%5Fdf%5FB09HYR2NC81727521200000%3Fcreative%3D395261%26creativeASIN%3DB09HYR2NC8%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7e5b1293-c7f0-4074-bebc-aa1278013569%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  You should buy the iPhone 13 Pro if...
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  1\. You want cinematic camera features
@@ -114,6 +102,10 @@ By using the ultra-wide lens, Macro Mode lets you capture close-up shots of subj
 The iPhone 13 Pro also features new photographic styles. Different from your typical Instagram filters, these styles change how the iPhone captures photos by placing a cooler, warmer, or even black and white, digital film over the shots. This feature can save you from editing a photo after the fact.
 
 Lastly, Cinematic Mode shoots videos with a soft, out-of-focus background so that the subject of interest and the depth map are kept separate. With AI processing, the focus can intelligently shift when the subject turns around and his or her back is then facing the camera. Overall, the special mode gives a more movie-like quality to your iPhone videos 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  2\. You own other Apple products (AirPods, Apple Watch, iPad, MacBook, etc.)
 
@@ -161,20 +153,24 @@ This support extends to the many physical Apple storefronts, equipped with custo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-enhance-your-reel-with-rhythms-instagrams-music-guide/"><u>[New] 2024 Approved Enhance Your Reel with Rhythms Instagram's Music Guide</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-lenovo-laptop-screen-logging-made-easy/"><u>[New] In 2024, Lenovo Laptop Screen Logging Made Easy</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-precision-in-portability-the-ultimate-list-of-35-free-android-video-compressors/"><u>[New] Precision in Portability The Ultimate List of 35 Free Android Video Compressors</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-mastering-gopro-timelapses-top-editing-techniques/"><u>[Updated] Mastering GoPro Timelapses Top Editing Techniques</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-navigating-youtubes-profit-maze-for-2024/"><u>[Updated] Navigating YouTube's Profit Maze for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-discerning-the-good-and-bad-in-virtual-space/"><u>2024 Approved Discerning the Good & Bad in Virtual Space</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/a-comprehensive-guide-to-chatgpt-enterprise-understanding-its-offerings-and-differentiators/"><u>A Comprehensive Guide to ChatGPT Enterprise: Understanding Its Offerings and Differentiators</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/beginners-guide-top-9-communities-where-you-can-learn-about-ai-tools/"><u>Beginner's Guide: Top 9 Communities Where You Can Learn About AI Tools</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1721944431679-discover-how-you-can-supercharge-your-workflow-with-our-top-eb-of-9-chatgpt-plugins-get-started-today/"><u>Discover How You Can Supercharge Your Workflow With Our Top Eb of 9 ChatGPT Plugins - Get Started Today</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-on-your-apple-iphone-xr-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID on Your Apple iPhone XR?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-8-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 8 To Other iPhone 13 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1722029438331-is-it-time-for-a-change-investigating-contemporary-substitutes-for-the-traditional-turing-challenge/"><u>Is It Time for a Change? Investigating Contemporary Substitutes for the Traditional Turing Challenge.</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-honor-play-40c-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Honor Play 40C Phone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-ai-mirage-techniques-to-discern-real-insights-from-fake/"><u>Unveiling AI Mirage: Techniques to Discern Real Insights From Fake</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-power-of-the-openai-api-explore-infinite-possibilities/"><u>Unveiling the Power of the OpenAI API: Explore Infinite Possibilities</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1717714301218-new-in-2024-how-to-fix-the-green-screen-on-youtube-on-mac/"><u>[New] In 2024, How to Fix the Green Screen on YouTube on Mac</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-launching-laughter-hilarious-initiation-hints/"><u>[New] Launching Laughter Hilarious Initiation Hints</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-mastering-ios-the-secrets-of-screen-casts-for-2024/"><u>[New] Mastering iOS The Secrets of Screen Casts for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-monitoring-lost-instagram-connections/"><u>[Updated] Monitoring Lost Instagram Connections</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adopt-a-streamlined-approach-to-input-customization/"><u>Adopt a Streamlined Approach to Input Customization</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-tricks-to-enhance-communication-with-emojis-on-the-ios-device/"><u>Easy Tricks to Enhance Communication with Emojis on the iOS Device</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1723807875667-find-out-what-motherboard-you-have-easily/"><u>Find Out What Motherboard You Have Easily!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/googles-latest-gemini-ai-vs-chatgpt-an-in-depth-comparison/"><u>Google's Latest Gemini AI Vs. ChatGPT - An In-Depth Comparison</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/navigating-through-collective-media-on-messenger/"><u>Navigating Through Collective Media on Messenger</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723011328081-persona-5-strikers-banish-your-pc-game-crashing-woes-for-an-uninterrupted-adventure/"><u>Persona 5 Strikers - Banish Your PC Game Crashing Woes for an Uninterrupted Adventure!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unraveling-the-secrets-of-torrenting-a-detailed-utorrent-movie-download-manual/"><u>Unraveling the Secrets of Torrenting: A Detailed uTorrent Movie Download Manual</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/updated-alert-download-restricted-due-to-your-active-security-protocols/"><u>Updated Alert: Download Restricted Due To Your Active Security Protocols</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/upgrading-your-pc-a-comprehensive-guide-to-the-latest-windows-11-update/"><u>Upgrading Your PC: A Comprehensive Guide to the Latest Windows 11 Update</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/what-version-of-windows-do-i-have-1-step-to-find-out/"><u>What Version of Windows Do I Have? 1 Step to Find Out!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/windows-10-cleanup-tutorial-how-to-remove-unnecessary-temp-files-permanently/"><u>Windows 10 Cleanup Tutorial: How to Remove Unnecessary Temp Files Permanently</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/windows-11-installation-hurdles-cleared-strategies-that-worked-for-us/"><u>Windows 11 Installation Hurdles Cleared - Strategies That Worked for Us</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/winning-strategies-how-to-adjust-mouse-sensitivity-for-dominating-fortnite-games/"><u>Winning Strategies: How to Adjust Mouse Sensitivity for Dominating Fortnite Games</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-the-battle-against-continuous-automatic-repairs-in-windows-11-top-fixes/"><u>Winning the Battle Against Continuous Automatic Repairs in Windows #11: Top Fixes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/wireless-printing-made-simple-on-windows-11-systems/"><u>Wireless Printing Made Simple on Windows 11 Systems</u></a></li>
 </ul></div>
 

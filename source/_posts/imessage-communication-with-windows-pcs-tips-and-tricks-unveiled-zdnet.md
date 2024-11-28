@@ -1,7 +1,7 @@
 ---
 title: IMessage Communication with Windows PCs - Tips & Tricks Unveiled (ZDNet)
-date: 2024-11-12T23:44:38.393Z
-updated: 2024-11-18T20:34:47.902Z
+date: 2024-11-26T00:59:36.470Z
+updated: 2024-11-28T08:48:17.762Z
 tags:
   - apple
 categories:
@@ -44,13 +44,6 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 
 ## How to send and receive iMessages on Windows
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Use Microsoft Phone Link
 
 Before you can use Phone Link, you'll have to take care of a few items on your phone and your PC.
@@ -63,18 +56,15 @@ Next, confirm that you're running the latest version of Phone Link. To do this, 
 
 Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings, select Bluetooth & devices, and turn on the switch for Bluetooth if it's off.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Open Phone Link
 
 Click the Start button, go to All Apps, and select Phone Link from the list. The first screen prompts you to select your device. Click the button for iPhone.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Scan the QR codes
 
@@ -99,10 +89,7 @@ The Phone Link welcome screen should appear on your PC and ask if you want to op
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Access your recent messages
@@ -111,20 +98,21 @@ To access your iPhone's text messages in Phone Link, tap the Messages heading at
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Start a new chat
 
 You can also start a new conversation. To do this, select one of your displayed contacts and then compose and send your text. To chat with someone else, click the New Message icon and type the name or phone number of the recipient. Compose and send your message.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Use Intel Unison
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Install Intel Unison
 
@@ -146,18 +134,15 @@ At the next screen on your phone, tap the button for "Scan QR code." Scan the co
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Launch the Windows Unison app
 
 At the "Let's get started" screen in the Windows Unison app, click the icon for "Send messages." 
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  4\. Go to the Messages screen
 
@@ -207,20 +192,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-free-guide-to-capturing-windows-3-quick-steps/"><u>[New] Free Guide to Capturing Windows (3 Quick Steps)</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-elite-racing-titles-our-five-favorites/"><u>[Updated] Elite Racing Titles Our Five Favorites</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-picart-strategies-for-stunning-image-purification-for-2024/"><u>[Updated] PicArt Strategies for Stunning Image Purification for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/best-of-the-best-in-screenshots-and-recorders-iobit-and-movavi-face-off-reviewed/"><u>Best of the Best in Screenshots & Recorders: IObit and Movavi Face-Off Reviewed</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-guide-to-the-samsung-galaxy-tab-a-2er-2020-noteworthy-omission/"><u>Comprehensive Guide to the Samsung Galaxy Tab A (2Er 2020) - Noteworthy Omission</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-motorola-moto-g14-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Motorola Moto G14 to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-vivo-v29-pro-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Vivo V29 Pro FRP</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-realme-gt-neo-5-se-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Realme GT Neo 5 SE Phones</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/quick-guide-to-leveraging-gpt-4-in-todays-chatgpt/"><u>Quick Guide to Leveraging GPT-4 in Today's ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionize-text-entry-integrating-bing-ai-on-android-devices/"><u>Revolutionize Text Entry: Integrating Bing AI on Android Devices</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionizing-hr-routines-via-chatgpt/"><u>Revolutionizing HR Routines via ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/seamless-integration-of-chatgpt-into-your-linux-system-a-step-by-step-guide/"><u>Seamless Integration of ChatGPT Into Your Linux System: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/seamless-integration-of-chatgpt-into-your-linux-system-a-step-by-step-installation-guide/"><u>Seamless Integration of ChatGPT Into Your Linux System: A Step-by-Step Installation Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/sharing-tips-easily-distribute-conversations-from-your-chatgpt-sessions/"><u>Sharing Tips: Easily Distribute Conversations From Your ChatGPT Sessions</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/why-the-samsung-galaxy-a51-is-a-must-have-in-the-budget-friendly-5g-phone-category/"><u>Why the Samsung Galaxy A51 Is a Must-Have in the Budget-Friendly 5G Phone Category</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-unlimited-realms-top-10-no-cost-roleplaying-worlds/"><u>[New] 2024 Approved Unlimited Realms Top 10 No-Cost Roleplaying Worlds</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-crafting-memorable-valorant-thumbnails-a-practical-guide-for-youtube-creators/"><u>[New] In 2024, Crafting Memorable Valorant Thumbnails A Practical Guide for YouTube Creators</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-decoding-revenue-how-much-do-creators-earn-on-youtube-for-2024/"><u>[Updated] Decoding Revenue How Much Do Creators Earn on Youtube for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/1715860202313-2024-approved-your-comprehensive-manual-for-creating-an-accessible-and-effective-chat-room-within-skype-compatible-with-both-windows-and-macos-platforms/"><u>2024 Approved Your Comprehensive Manual for Creating an Accessible and Effective Chat Room Within Skype, Compatible with Both Windows & MacOS Platforms.</u></a></li>
+<li><a href="https://common-error.techidaily.com/bluetooth-troubles-top-fixes-to-get-your-windows-10-devices-connected-again-update-guide/"><u>Bluetooth Troubles? Top Fixes to Get Your Windows 10 Devices Connected Again - Update Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1723807925014-directx-refresh-tutorial-for-windows-11-and-10-fast-and-effortless-process/"><u>DirectX Refresh Tutorial for Windows 11 & 10: Fast & Effortless Process</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1723808075442-play-fallout-3-seamlessly-on-windows-11-tips-and-tricks-inside/"><u>Play Fallout 3 Seamlessly on Windows 11 – Tips & Tricks Inside!</u></a></li>
+<li><a href="https://fox-where.techidaily.com/refine-your-photos-top-5-tools-for-sharpening-blurry-pictures/"><u>Refine Your Photos: Top 5 Tools for Sharpening Blurry Pictures</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-fixing-issues-with-nvidia-geforce-experiences-setting-retrieval/"><u>Resolved: Fixing Issues with Nvidia GeForce Experience's Setting Retrieval</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1723808155320-skype-cant-connect-5-ways-to-fix-on-windows-10-easily/"><u>Skype Can't Connect: 5 Ways to Fix on Windows 10 Easily</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1723808168062-trouble-with-your-logitech-clicker-heres-how-you-can-make-it-work-again/"><u>Trouble with Your Logitech Clicker? Here's How You Can Make It Work Again</u></a></li>
+<li><a href="https://win-dash.techidaily.com/trouble-free-methods-for-adding-mkv-videos-into-sony-vegas/"><u>Trouble-Free Methods for Adding MKV Videos Into Sony Vegas</u></a></li>
+<li><a href="https://win-answers.techidaily.com/tutorial-enhancing-functionality-of-the-underperforming-spotify-web-player/"><u>Tutorial: Enhancing Functionality of the Underperforming Spotify Web Player</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1723807952921-voice-recorder-windows-10-how-to-use-it-and-fix-issues-with-it/"><u>Voice Recorder Windows 10 — How to Use It & Fix Issues with It?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/vpn-for-mac-how-to-setup-vpn-on-mac-quickly-and-easily/"><u>VPN for Mac | How to Setup VPN on Mac | Quickly & Easily</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/what-is-rundll32exe-comprehensive-guide-for-protection-and-management/"><u>What Is rundll32.exe? Comprehensive Guide for Protection & Management</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/windows-10-time-wrong-issue-solved/"><u>Windows 10 Time Wrong Issue [Solved]</u></a></li>
 </ul></div>
 

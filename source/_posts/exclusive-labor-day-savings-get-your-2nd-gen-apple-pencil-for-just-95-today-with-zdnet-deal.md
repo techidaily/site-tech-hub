@@ -1,7 +1,7 @@
 ---
 title: Exclusive Labor Day Savings! Get Your 2Nd Gen Apple Pencil for Just $95 Today with ZDNET Deal
-date: 2024-11-15T00:09:03.932Z
-updated: 2024-11-19T01:24:18.313Z
+date: 2024-11-22T19:39:09.234Z
+updated: 2024-11-28T06:11:14.772Z
 tags:
   - apple
 categories:
@@ -32,6 +32,10 @@ The Apple Pencil is super responsive and has pixel-perfect precision with indust
 By using the Apple Pencil with your iPad (specifically, the iPad Pro 2022 model), you'll get exclusive features like the new hover feature that makes part of the iPad's interface come to life when the tip of the Apple Pencil gets within 12mm of the iPad's display. 
 
 Get the [Apple Pencil (2nd Gen)](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Pencil-2nd-Generation-Pixel-Perfect-Precision-Industry-Leading-Low-Latency-Perfect-Note-Taking-Drawing-Signing-documents-Attaches-Charges-Pairs%2F949679706&subId1=zd-__COM_CLICK_ID__-dtp) with $35 in savings right now if you want to upgrade your iPad stylus. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -67,23 +71,22 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-photographing-the-stars-at-night-with-iphones/"><u>[New] Photographing the Stars at Night with iPhones</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-pro-level-performance-a-compre-cookie-box/"><u>[New] Pro-Level Performance A Compre Cookie Box</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-hero5-black-meets-yi-4k-the-ultimate-update-for-action-camera-fans/"><u>2024 Approved Hero5 Black Meets Yi 4K - The Ultimate Update for Action Camera Fans</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-tecno-spark-10-5g-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Tecno Spark 10 5G FRP Bypass Instantly</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On OnePlus 11R | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/mastering-reading-with-the-nook-glowlight-n4-an-authoritative-product-review/"><u>Mastering Reading with the Nook Glowlight N°4 – An Authoritative Product Review</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-through-gpt-bot-controversy-why-your-favorite-sites-may-be-blocking-it/"><u>Navigating Through GPT Bot Controversy: Why Your Favorite Sites May Be Blocking It</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/premium-extensions-supercharging-chatgpt-in-vs-code/"><u>Premium Extensions: Supercharging ChatGPT in VS Code</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/real-world-applications-top-7-uses-of-chatgpt-today/"><u>Real-World Applications: Top 7 Uses of ChatGPT Today</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionize-your-approach-learn-about-eight-strategic-uses-for-chatgpts-visual-intelligence/"><u>Revolutionize Your Approach: Learn About Eight Strategic Uses for ChatGPT's Visual Intelligence</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionizing-data-analysis-3-powerful-applications-of-chatgpt-in-microsoft-excel/"><u>Revolutionizing Data Analysis: 3 Powerful Applications of ChatGPT in Microsoft Excel</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-enhance-cinematography-with-obs-studios-lut-features-and-downloads/"><u>[Updated] 2024 Approved Enhance Cinematography with OBS Studio's LUT Features and Downloads</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-digital-footprint-and-interactive-iconography-honors/"><u>2024 Approved Digital Footprint and Interactive Iconography Honors</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beginner-friendly-tutorial-for-integrating-microsoft-copilot-into-your-mac-experience/"><u>Beginner-Friendly Tutorial for Integrating Microsoft Copilot Into Your Mac Experience</u></a></li>
+<li><a href="https://driver-error.techidaily.com/diagnosing-and-repairing-issues-with-hps-wireless-keyboards-a-comprehensive-guide/"><u>Diagnosing and Repairing Issues with HP's Wireless Keyboards: A Comprehensive Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-vivo-v29e-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Vivo V29e for Free? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expertise-in-enhancing-photos-via-online-tools/"><u>In 2024, Expertise in Enhancing Photos via Online Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/install-updated-drivers-for-your-tp-link-ub400-bluetooth-stick-today/"><u>Install Updated Drivers for Your TP-Link UB400 Bluetooth Stick Today</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-presentations-with-chatgpt-a-step-by-step-guide/"><u>Mastering Presentations with ChatGPT: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-craft-integrating-gpt-my-bots-into-hobbies-and-artistry/"><u>Mastering the Craft: Integrating GPT-My Bots Into Hobbies and Artistry</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-privacy-concerns-with-corporate-gpt-use/"><u>Navigating Privacy Concerns with Corporate GPT Use</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-renaming-your-account-in-windows-1-10/"><u>Step-by-Step Guide: Renaming Your Account in Windows 1지 10</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-instructions-for-finding-and-installing-updated-drivers-for-dell-latitude-e6430-running-windows-os/"><u>Step-by-Step Instructions for Finding and Installing Updated Drivers for Dell Latitude E6430 Running Windows OS</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/taming-data-management-how-chatgpt-can-revolutionize-your-excel-workflows/"><u>Taming Data Management: How ChatGPT Can Revolutionize Your Excel Workflows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-complete-guide-to-electronics-with-tom-hardware-insights-and-analysis/"><u>The Complete Guide to Electronics with Tom – Hardware Insights and Analysis</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/to-hire-or-not-to-hire-a-local-llm-understanding-potential-outcomes-for-your-case/"><u>To Hire or Not to Hire a Local LL.M.: Understanding Potential Outcomes for Your Case</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-resolve-issues-in-your-game-installation-support-from-origin-games/"><u>Troubleshoot & Resolve Issues in Your Game Installation – Support From Origin Games</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-potential-of-gpt-3-at-openai-interface/"><u>Unveiling the Potential of GPT-3 at OpenAI Interface</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

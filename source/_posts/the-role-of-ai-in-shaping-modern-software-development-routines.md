@@ -1,7 +1,7 @@
 ---
 title: The Role of AI in Shaping Modern Software Development Routines
-date: 2024-09-06T21:38:20.185Z
-updated: 2024-09-07T21:38:20.185Z
+date: 2024-11-27T13:23:47.986Z
+updated: 2024-11-27T18:16:26.872Z
 tags:
   - chatgpt
   - open-ai
@@ -13,12 +13,6 @@ excerpt: This Article Describes The Role of AI in Shaping Modern Software Develo
 thumbnail: https://thmb.techidaily.com/f379595bc7b1cd3050b5ae0744653e1ab5e0a38460cd4cd6298021feb9a9cc65.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Decoding Ransomware: Mobile Phones, $50 Costs & the Role of AI in Our Latest Podcast Episode
 
  Our weekly tech podcast for technophobes brings you the latest tech news that will affect you and some tips and tricks to help you get better results from your electronics.
@@ -28,11 +22,9 @@ thumbnail: https://thmb.techidaily.com/f379595bc7b1cd3050b5ae0744653e1ab5e0a3846
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Shownotes
 
 This week, we chat about the following tech news that matters:
@@ -56,14 +48,11 @@ We finish the show with the following recommendations:
 
  Christian Cawley hosts this week's podcast, and is joined by Ben Stegner. You can contact them on Twitter:[@thegadgetmonkey](https://twitter.com/thegadgetmonkey) and[@stegnersaurus](https://twitter.com/stegnersaurus) , with your suggestions for future topics.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -72,4 +61,23 @@ We finish the show with the following recommendations:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-sneak-into-a-friends-tiktok-live-unnoticed/"><u>[New] Sneak Into a Friend’s TikTok Live Unnoticed</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-expert-mac-system-for-high-definition-screen-plus-audio-recording/"><u>2024 Approved Expert Mac System for High Definition Screen + Audio Recording</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/5-ways-students-can-use-chatgpt-in-school/"><u>5 Ways Students Can Use ChatGPT in School</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-closer-look-at-the-4-principal-ways-authorities-regulate-artificial-intelligence-applications/"><u>A Closer Look at the 4 Principal Ways Authorities Regulate Artificial Intelligence Applications</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/accelerate-routine-hr-operations-discover-the-secret-to-efficient-task-management-using-5-chatbot-prompts/"><u>Accelerate Routine HR Operations: Discover the Secret to Efficient Task Management Using 5 Chatbot Prompts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-programming-pros-chatgpt-vs-gemini-who-wins-the-code-challenge/"><u>AI Programming Pros: ChatGPT Vs. Gemini – Who Wins the Code Challenge?</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/brand-yourself-differently-strategies-for-finding-uncommon-names/"><u>Brand Yourself Differently Strategies for Finding Uncommon Names</u></a></li>
+<li><a href="https://games-able.techidaily.com/cross-operating-system-gaming-on-linux/"><u>Cross-Operating System Gaming on Linux</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722085169840-false-alarm-a-real-chatgpt-windows-application-doesnt-exist-its-a-cyber-threat-in-disguise/"><u>False Alarm: A Real ChatGPT Windows Application Doesn't Exist; It’s a Cyber Threat In Disguise!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-oppo-a59-5g-frp-by-drfone-android/"><u>Full Guide to Bypass Oppo A59 5G FRP</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xr-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone XR Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
+<li><a href="https://win-web3.techidaily.com/le-grand-jeu-de-lachat-dune-cle-usb-conseils-et-tipps-pour-choisir-le-bon-modele-en-2024/"><u>Le Grand Jeu De L'Achat D'une Clé USB : Conseils Et Tipps Pour Choisir Le Bon Modèle en 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/omzetten-van-flv-videofilen-tot-mp4mov-veilige-gratis-online-instellingen/"><u>Omzetten Van FLV Videofilen Tot MP4/MOV: Veilige, Gratis Online Instellingen</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/spotlight-on-top-8-sites-where-3d-meets-lustrous-text-for-2024/"><u>Spotlight on Top 8 Sites Where 3D Meets Lustrous Text for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722190639062-transform-how-you-navigate-information-seas-with-perplexity-ai-the-unsung-hero-of-advanced-google-querying/"><u>Transform How You Navigate Information Seas with Perplexity AI - The Unsung Hero of Advanced Google Querying</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722171151494-unveiling-the-advancements-in-googles-bard-ai-via-palm-2-explore-7-features/"><u>Unveiling the Advancements in Google's Bard AI via PaLM 2 - Explore 7 Features</u></a></li>
+</ul></div>
 

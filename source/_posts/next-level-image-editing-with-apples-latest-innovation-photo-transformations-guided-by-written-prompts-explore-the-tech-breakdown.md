@@ -1,7 +1,7 @@
 ---
 title: "Next-Level Image Editing with Apple's Latest Innovation: Photo Transformations Guided by Written Prompts | Explore the Tech Breakdown"
-date: 2024-11-16T16:13:00.870Z
-updated: 2024-11-18T18:02:40.675Z
+date: 2024-11-23T22:19:06.696Z
+updated: 2024-11-27T21:47:39.193Z
 tags:
   - apple
 categories:
@@ -32,6 +32,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What this means for the iPhone and Vision Pro
 
@@ -89,31 +93,20 @@ Apple tends to shy away from using buzzwords like 'AI' to describe its product f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-unleash-creativity-the-best-9-camera-accessories-for-vloggers-and-more/"><u>[New] 2024 Approved Unleash Creativity The Best 9 Camera Accessories for Vloggers and More</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-pushing-boundaries-camera-capabilities-in-ios-11/"><u>[New] Pushing Boundaries Camera Capabilities in iOS 11</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-twitch-revival-tactics-for-forgotten-sessions/"><u>[Updated] In 2024, Twitch Revival Tactics for Forgotten Sessions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/elevate-your-creative-flow-large-scale-designs-unleashed-by-canva-plus-gpt/"><u>Elevate Your Creative Flow: Large-Scale Designs Unleashed by Canva + GPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/embark-on-a-venture-into-dialogue-system-crafting/"><u>Embark on a Venture Into Dialogue System Crafting</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhance-ai-conversations-with-these-7-effective-prompt-strategies-for-chatgpt/"><u>Enhance AI Conversations with These 7 Effective Prompt Strategies for ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhancing-task-management-a-guide-to-3-effective-ways-of-utilizing-chatgpt-and-wolfram-plugin/"><u>Enhancing Task Management: A Guide to 3 Effective Ways of Utilizing ChatGPT and Wolfram Plugin</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/enhancing-virtual-collaboration-essential-strategies-for-efficient-zoom-chats-for-2024/"><u>Enhancing Virtual Collaboration Essential Strategies for Efficient ZOOM Chats for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/essential-tips-for-chatgpt-and-mac-users/"><u>Essential Tips for ChatGPT & Mac Users</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-world-of-huggingchat-the-no-cost-contender-to-chatgpts-crown/"><u>Exploring the World of HuggingChat – The No-Cost Contender to ChatGPT's Crown</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/from-talk-to-action-gpt-driven-advances-in-watch-tech/"><u>From Talk to Action: GPT-Driven Advances in Watch Tech</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/harnessing-the-power-of-chatgpt-for-fixing-your-defective-pc-expert-tips/"><u>Harnessing the Power of ChatGPT for Fixing Your Defective PC: Expert Tips</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-might-generative-ai-contribute-to-the-rise-of-sophisticated-misinformation-techniques/"><u>How Might Generative AI Contribute to the Rise of Sophisticated Misinformation Techniques?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-xiaomi-redmi-12-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on Xiaomi Redmi 12?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-release-a-stuck-window-updates-on-legacy-oss-like-windows-seven-updated-tips-and-techniques-for-better-user-experience-in-the-year-2024-helpful-tips-148/"><u>How To Release A Stuck Window Updates On Legacy OSs Like WIndows Seven - Updated Tips And Techniques For Better User Experience In The Year 2024 (Helpful Tips & Guide)</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Tecno Camon 30 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-an-ai-infused-work-environment-6-key-strategies/"><u>Navigating an AI-Infused Work Environment: 6 Key Strategies</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/seamless-srt-creation-the-ultimate-xmlssattml-playbook-for-2024/"><u>Seamless SRT Creation The Ultimate XML/SSA/TTML Playbook for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/snag-the-apples-m2-macbook-air-for-an-unbelievable-price-of-749-on-amazons-prime-day-in-october-according-to-zdnet-reviews/"><u>Snag the Apple's M2 MacBook Air for an Unbelievable Price of $749 on Amazon’s Prime Day in October, According to ZDNET Reviews</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-effortless-selfie-sending-learn-the-technique-now/"><u>[New] 2024 Approved Effortless Selfie Sending - Learn the Technique Now</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-building-an-affluent-future-with-instagram-know-how/"><u>[New] In 2024, Building an Affluent Future with Instagram Know-How</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-instagrams-close-up-secrets-mastering-the-magnify-technique-for-2024/"><u>[New] Instagram's Close-Up Secrets Mastering the Magnify Technique for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-professional-level-content-structure-with-expert-templates/"><u>[Updated] In 2024, Professional-Level Content Structure with Expert Templates</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/dynamic-endings-creating-smooth-video-transitions/"><u>Dynamic Endings Creating Smooth Video Transitions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-steps-for-successfully-uninstalling-software-from-your-windows-11-pc/"><u>Easy Steps for Successfully Uninstalling Software From Your Windows 11 PC</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-tutorial-update-your-windows-11-operating-system-language-with-these-basic-instructions/"><u>Effortless Tutorial: Update Your Windows 11 Operating System Language with These Basic Instructions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/epson-printer-installation-guide-step-by-step-tutorial-for-smooth-setup/"><u>Epson Printer Installation Guide: Step-by-Step Tutorial for Smooth Setup</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fortnite-login-restrictions-heres-how-to-secure-your-rightful-entry-into-gameplay/"><u>Fortnite Login Restrictions? Here’s How to Secure Your Rightful Entry Into Gameplay</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/fortnite-mastery-a-step-by-step-tutorial-for-newbies-starting-on-pc/"><u>Fortnite Mastery: A Step-by-Step Tutorial for Newbies Starting on PC</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-connect-an-xbox-one-controller-to-a-pc-2024-guide/"><u>How to Connect an Xbox One Controller to a PC - 2024 Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-fix-windows-store-unresponsive-issues-in-windows-11-a-step-by-step-guide/"><u>How to Fix 'Windows Store Unresponsive' Issues in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-webster.techidaily.com/navigating-your-order-with-mirillis-complete-guide-to-transaction-steps-and-acceptable-currencies/"><u>Navigating Your Order with Mirillis: Complete Guide to Transaction Steps & Acceptable Currencies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/quick-fix-turn-off-your-pcs-lock-screen-with-these-simple-tips-windows-10/"><u>Quick Fix: Turn Off Your PC's Lock Screen with These Simple Tips (Windows 10)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unveiling-the-secrets-of-m1-max-clips/"><u>Unveiling the Secrets of M1 Max Clips</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

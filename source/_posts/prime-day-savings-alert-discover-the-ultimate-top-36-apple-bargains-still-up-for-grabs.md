@@ -1,7 +1,7 @@
 ---
 title: "Prime Day Savings Alert: Discover the Ultimate Top 36 Apple Bargains Still Up for Grabs!"
-date: 2024-11-12T01:15:04.846Z
-updated: 2024-11-18T18:14:58.477Z
+date: 2024-11-24T12:17:02.829Z
+updated: 2024-11-28T12:52:33.334Z
 tags:
   - apple
 categories:
@@ -86,10 +86,7 @@ While the Series 8 isn't the latest and greatest Apple Watch, it's still a great
 [View now at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Watch-Series-8-GPS-Cellular-45mm-Midnight-Aluminum-Case-Sport-Band-S-M-Fitness-Tracker-Blood-Oxygen-ECG-Apps-Always-On-Retina-Display%2F1490655580%3F&subId1=zd-__COM_CLICK_ID__-dtp) 
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best refurbished Apple Watch deals of July 2024
@@ -104,21 +101,16 @@ ZDNET only writes about deals we want to buy -- devices and products we desire, 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the best Apple watch?
 
 ZDNET's top pick for the [best Apple watch](https://www.zdnet.com/article/best-apple-watch/) is the Apple Watch Ultra 2 since it is lauded by athletes and members of the press as the best Apple Watch ever made thanks to its rugged durability, large and bright display, long battery life, water resistance, and more. It's no surprise it became the flagship model as soon as the Ultra was released last year. 
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Do Apple Watches track my AFib?
@@ -126,13 +118,6 @@ ZDNET's top pick for the [best Apple watch](https://www.zdnet.com/article/best-a
 Yes, your Apple Watch, as long as it is a Series 6 or newer, can track your AFib, or irregular heartbeat. In fact, The US Food and Drug Administration (FDA) has recently [awarded](https://content.govdelivery.com/accounts/USFDA/bulletins/399d551) medical device development tool (MDDT) status to the Apple Watch's atrial fibrillation (AFib) history tracker. The feature is first piece of digital health technology to earn MDDT status, the FDA said in a statement.
 
 **Also:** [**Your Apple Watch's AFib history could soon be used in clinical studies**](https://www.zdnet.com/article/your-apple-watchs-afib-history-could-soon-be-used-in-clinical-studies/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Apple Watch SE vs Series 8: Which is the better buy?
 
@@ -147,10 +132,7 @@ However, if you want to get in at the lowest price or you're buying a watch for 
 Apple has a lengthy lineup of its flagship tech wearable, with several iterations over the last few years. The two newest watch releases come in the Apple Watch Series 9 and the Apple Watch Ultra 2, which were released in September 2023\. The Apple Watch SE (2nd Gen) remains the most up-to-date base model. With multiple models available, both old and new, you'll be sure to find a watch that fits your needs and your price point. 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which Apple watches have the new double tap feature?
@@ -174,6 +156,10 @@ Similarly to turning in an older cell-phone to receive monetary credit towards p
 When participating in a trade-in offer, you are providing your previously used item to the retailer in exchange for a predetermined amount of cash back that can be directly applied to your next item purchase of the same product. Eligible trade-in items and the cash back offered for each product is decided by each individual retailer and is often determined by factors such as age, condition, and functionality of the item being presented for trade-in. Apple recently decided to even bump up the amount they offer for trade-ins as well, too. 
 
 **Also:** [**Apple is paying more for your used Apple watches**](https://www.zdnet.com/article/apple-is-now-paying-more-for-your-used-apple-watches-and-ipads/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When will these deals expire?
 
@@ -219,24 +205,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-exploring-the-metaphysics-of-metaverse-selling/"><u>[New] 2024 Approved Exploring the Metaphysics of Metaverse Selling</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-innovative-14-examples-of-moving-text-art/"><u>[New] 2024 Approved Innovative 14 Examples of Moving Text Art</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-free-hd-video-capture-tools-the-complete-review-for-2024/"><u>[New] Free HD Video Capture Tools The Complete Review for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-fusionflix-your-all-inclusive-tv-streaming-companion/"><u>[New] In 2024, FusionFlix Your All-Inclusive TV Streaming Companion</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-screensnap-it-all-high-quality-netflix-on-mac/"><u>[New] In 2024, ScreenSnap It All High-Quality Netflix on Mac</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-free-safe-steps-to-extract-audio-from-youtube-videos-for-2024/"><u>[Updated] Free, Safe Steps to Extract Audio From YouTube Videos for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-effortless-control-enhancing-gameplay-on-steam-using-switch-pro/"><u>2024 Approved Effortless Control Enhancing Gameplay on Steam Using Switch Pro</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/4-engaging-ai-murder-mystery-challenges-solve-crime-with-digital-deduction/"><u>4 Engaging AI Murder Mystery Challenges: Solve Crime with Digital Deduction</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/7-ethical-strategies-for-ai-in-writing-and-editing/"><u>7 Ethical Strategies for AI in Writing and Editing</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-chatting-titans-clash-who-takes-the-crown-between-microsoft-bing-google-bard-and-chatgpt/"><u>AI Chatting Titans Clash: Who Takes the Crown Between Microsoft Bing, Google Bard, and ChatGPT?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/beneath-the-surface-truthgpt-and-its-origins/"><u>Beneath the Surface: TruthGPT and Its Origins</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/compreenhensive-guide-to-selecting-and-cultivating-valheim-seeds-for-2024/"><u>Compreenhensive Guide to Selecting & Cultivating Valheim Seeds for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-apple-books-application-analysis/"><u>Comprehensive Apple Books Application Analysis</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/quick-booting-den-lenovo-pc-direkt-von-einem-usb-flash-drive-zu-starten-unter-windows-11/"><u>Quick Booting: Den Lenovo PC Direkt Von Einem USB Flash Drive Zu Starten Unter Windows 11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transform-your-lifestyle-top-9-chatgpt-techniques-for-optimal-health/"><u>Transform Your Lifestyle: Top 9 ChatGPT Techniques for Optimal Health</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1721787433288-unlock-the-power-of-ai-with-these-7-essential-prompting-hacks/"><u>Unlock the Power of AI with These 7 Essential Prompting Hacks</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-conversation-activate-bing-ai-chat-for-android-input-methods/"><u>Unlocking Conversation: Activate Bing AI Chat for Android Input Methods</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-opportunities-in-openais-vulnerability-disclosure-program-participation-steps/"><u>Unlocking Opportunities in OpenAI’s Vulnerability Disclosure Program – Participation Steps</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/when-art-meets-law-exploring-the-reasons-behind-elite-artists-legal-challenge-to-meta-and-openai/"><u>When Art Meets Law: Exploring the Reasons Behind Elite Artists' Legal Challenge to Meta and OpenAI</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-the-pros-and-cons-of-using-vidma-as-a-screen-grabber/"><u>[Updated] In 2024, The Pros & Cons of Using Vidma as a Screen Grabber</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-strategies-for-capturing-webinars-effectively-for-2024/"><u>[Updated] Top Strategies for Capturing Webinars Effectively for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-apex-design-studio-examination/"><u>2024 Approved Apex Design Studio Examination</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/o-make-a-cool-intro-for-youtube-plusfree-templates/"><u>How to Make a Cool Intro for YouTube? [+Free Templates]</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-optimize-dwm-for-lower-gpu-consumption-in-windows-11-a-five-step-guide/"><u>How to Optimize DWM for Lower GPU Consumption in Windows 11: A Five-Step Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/hyper-personalized-sites-with-advanced-ai-search/"><u>Hyper-Personalized Sites with Advanced AI Search</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/protect-privacy-tips-for-deleting-your-chat-records-with-chatgpt/"><u>Protect Privacy: Tips for Deleting Your Chat Records with ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/resolve-chatgpt-overload-in-windows-with-simple-troubleshooting-tips/"><u>Resolve ChatGPT Overload in Windows with Simple Troubleshooting Tips</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/safeguarding-your-data-examining-the-cyber-risks-associated-with-ai-platforms-such-as-chatgpt/"><u>Safeguarding Your Data: Examining the Cyber Risks Associated with AI Platforms Such as ChatGPT</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-quintessential-social-sphere-understanding-facebook-twitter-instagram-and-youtube/"><u>The Quintessential Social Sphere: Understanding Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-guide-to-mastering-ai-prompt-engineering-with-top-5-online-classes/"><u>Ultimate Guide to Mastering AI Prompt Engineering with Top 5 Online Classes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-secrets-behind-ai-prompt-injection-assaults-and-their-operations/"><u>Unveiling the Secrets Behind AI Prompt Injection Assaults and Their Operations</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/value-hunting-affordable-vr-gear-from-china-for-2024/"><u>Value Hunting Affordable VR Gear From China for 2024</u></a></li>
 </ul></div>
 

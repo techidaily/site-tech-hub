@@ -1,7 +1,7 @@
 ---
 title: Buy These New Apple Features Announced at WWDC Today – Where to Get Them | CNET News
-date: 2024-11-12T19:50:24.798Z
-updated: 2024-11-18T22:07:23.526Z
+date: 2024-11-26T16:55:49.262Z
+updated: 2024-11-27T21:10:26.607Z
 tags:
   - apple
 categories:
@@ -45,21 +45,16 @@ To help you make this decision, we've broken down all of the most important deta
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  You should buy the iPhone 16 if...
 
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  1\. You'd benefit from Apple Intelligence features
@@ -70,6 +65,10 @@ Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.c
 
 There is more to the AI features beyond Siri. Apple Intelligence will be able to summarize notifications and Priority Messages in the Mail app. Like Siri, the feature will be able to understand context. [Apple Intelligence](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/) will gain additional features later in the year like the ability to create custom emojis and perform multiple actions across apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  2\. You want a better photography experience
 
 The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-which-new-iphone-should-you-buy/) is seeing a new camera array. On the back will be a 48MP Fusion camera serving as the main lens. It'll have a 2x Telephoto option for up-close photography. Apple states it'll be like having "two cameras in one." Alongside it will be a 12MP Ultra Wide lens with an autofocus function that can enable "macro photography." It can also take in "2.6x times more light \[than before\] for higher image quality." 
@@ -79,10 +78,7 @@ The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-whi
 On the side below the [Power Button is the new Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/). It's a tactile switch with a special sensor that can perform unique actions with a light touch. For example, pressing it quickly launches the Camera app for taking quick snapshots or recording a video. It even introduces a preview feature to help you frame the shot. And if that wasn't enough, it'll work with third-party apps.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  3\. You want "next-level performance"
@@ -103,13 +99,6 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  You should buy the iPhone 15 if...
 
 Kerry Wan/ZDNET
@@ -123,10 +112,7 @@ All of the bells and whistles on the iPhone 16 are certainly nice, but are they 
 Sometimes, it's best to wait until all the bugs have been ironed out. Plus, there's a lot of uncertainty surrounding the chipset. Early impressions indicate the A18 can handle all the AI features, but can it? Or will we see a performance drop once it launches? 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  2\. You're on a budget
@@ -171,16 +157,20 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-compliance-with-standards/"><u>[Updated] Compliance with Standards</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-easily-download-specific-youtube-sections-for-2024/"><u>[Updated] Easily Download Specific YouTube Sections for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-pathway-to-facebook-success-livestreaming-recorded-visual-narratives-for-2024/"><u>[Updated] Pathway to Facebook Success Livestreaming Recorded Visual Narratives for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-mastering-the-art-of-defeating-youtube-short-issues/"><u>2024 Approved Mastering the Art of Defeating YouTube Short Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-fixes-for-windows-update-error-code-0x8024a105-a-comprehensive-approach/"><u>Mastering Fixes for Windows Update Error Code 0X8024A105: A Comprehensive Approach</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/programming-in-the-age-of-automation-how-ai-changes-the-game-for-developers/"><u>Programming in the Age of Automation: How AI Changes the Game for Developers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-8-best-crypto-chatgpt-plugins/"><u>The 8 Best Crypto ChatGPT Plugins</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-quintessence-of-quick-growth-chatgpts-pivotal-points/"><u>The Quintessence of Quick Growth: ChatGPT’s Pivotal Points</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-science-behind-chatbot-dialogue-understanding-virtual-communication/"><u>The Science Behind Chatbot Dialogue: Understanding Virtual Communication</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-4-methods-of-ai-tool-oversight-by-governments/"><u>Top 4 Methods of AI Tool Oversight by Governments</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-7-revolutionary-ai-applications-for-mastering-mathematics/"><u>Top 7 Revolutionary AI Applications for Mastering Mathematics</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-discovering-new-ways-beyond-magix-acid-pro/"><u>[New] 2024 Approved Discovering New Ways Beyond Magix ACID Pro</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/nnovative-hubs-of-affordable-visual-content-sources/"><u>[New] Innovative Hubs of Affordable Visual Content Sources</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-plus-reviewed-the-positives-meet-the-negatives/"><u>ChatGPT Plus Reviewed: The Positives Meet the Negatives</u></a></li>
+<li><a href="https://win-forum.techidaily.com/complete-tutorial-on-deleting-profiles-in-windows-nvme-storage-with-revos-tools/"><u>Complete Tutorial on Deleting Profiles in Windows Nvme Storage with Revo's Tools</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/directors-discourse-insights-and-answers-for-2024/"><u>Directors' Discourse Insights and Answers for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-your-career-game-leveraging-chatgpt-techniques-for-winning-linkedin-roles/"><u>Elevate Your Career Game: Leveraging ChatGPT Techniques for Winning LinkedIn Roles</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/global-tech-leaders-weigh-in-the-ai-debate/"><u>Global Tech Leaders Weigh In: The AI Debate</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-does-emotion-artificial-intelligence-interpret-human-sentiments/"><u>How Does Emotion Artificial Intelligence Interpret Human Sentiments?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-permanently-remove-yourself-from-chatgpt-detailed-instructions/"><u>How to Permanently Remove Yourself From ChatGPT: Detailed Instructions</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/innovative-and-fastest-usb-wi-fi-sticks-of-2024-what-you-should-buy-now/"><u>Innovative and Fastest USB Wi-Fi Sticks of 2024: What You Should Buy Now</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-chatgpt-effective-at-mathematical-problem-solving/"><u>Is ChatGPT Effective at Mathematical Problem-Solving?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/linus-tech-tips-twitters-new-checkmark-feature-unveiled-and-understanding-cyber-threats/"><u>Linus Tech Tips: Twitter's New Checkmark Feature Unveiled & Understanding Cyber Threats</u></a></li>
+<li><a href="https://extra-information.techidaily.com/peekpoint-analysis-a-guide/"><u>Peekpoint Analysis A Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/perfect-zooming-techniques-for-google-meet-for-2024/"><u>Perfect Zooming Techniques for Google Meet for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/struggling-with-wi-fi-on-your-laptop-discover-effective-troubleshooting-techniques-today/"><u>Struggling with Wi-Fi on Your Laptop? Discover Effective Troubleshooting Techniques Today!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Elevate Your Organization with These 6 Advanced AI Notes Apps
-date: 2024-09-06T21:38:15.920Z
-updated: 2024-09-07T21:38:15.920Z
+date: 2024-11-26T01:56:22.835Z
+updated: 2024-11-27T20:28:20.501Z
 tags:
   - chatgpt
   - open-ai
@@ -15,12 +15,6 @@ thumbnail: https://thmb.techidaily.com/de6795aa500edeb21b509dd38328958388c423fd6
 
 ## Facing Problems with the ChatGPT App on Your iPhone? Try These 9 Fixes
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Check your internet connection: A stable Wi-Fi or cellular connection is crucial for the ChatGPT app to work. Verify your connection and try reconnecting if necessary.
@@ -32,11 +26,9 @@ thumbnail: https://thmb.techidaily.com/de6795aa500edeb21b509dd38328958388c423fd6
  However, we've compiled a list of effective troubleshooting solutions to restore your app's functionality in case of a problem. You can easily try them all out and have your ChatGPT app back up on its feet in no time.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Verify Your iPhone's Internet Connection
 
  It is essential for your iPhone to have a stable Wi-Fi or cellular connection for the ChatGPT app to work. If you do not have one, your prompts will not be received or replied to.
@@ -45,14 +37,12 @@ thumbnail: https://thmb.techidaily.com/de6795aa500edeb21b509dd38328958388c423fd6
 
 ![no internet connection ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/no-internet-connection-chatgpt-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![request failed error in ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/request-failed-error-in-chatgpt-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
  If you do have a strong internet connection, but it doesn't seem to be working on your device, you can try reconnecting to the network by entering the Wi-Fi password again or disabling and re-enabling cellular data from the Control Center.
@@ -67,60 +57,26 @@ Close
 
 ![ChatGPT app in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-app-in-settings.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ChatGPT app permissions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-app-permissions.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
  If you don't see the option for**Mobile Data** here, you can go to**Settings** , tap**Mobile Data** and then turn on the toggle for**ChatGPT** .
 
 ![mobile data in settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/mobile-data-in-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![mobile data toggle on for ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/mobile-data-toggle-on-for-chatgpt-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Ensure Sufficient iPhone Storage Space
 
  When your iPhone's storage is maxed out,[your iPhone tends to lag and slow down](https://www.makeuseof.com/how-to-fix-slow-iphone/) . This interferes with apps and features on your device, including the ChatGPT app. To restore optimal functionality, take some time to declutter your digital space.
@@ -131,12 +87,6 @@ Close
 
 ![iPhone storage details](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-storage-details.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![system data and app storage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/system-data-and-app-storage.jpg)
 
 Close
@@ -148,6 +98,10 @@ Close
  VPNs are great tools for online privacy, but they can potentially interfere with connections to the server. Many apps have a hard time maintaining a stable connection or syncing data with VPNs, especially if the service is having a slow day, and ChatGPT can be one of them.
 
  Users have reported that a VPN connection stopped their app from working, and disconnecting immediately caused the problem to cease. You can always turn your VPN connection back on after you're done using the app, as disconnecting and connecting is as easy as a single tap from the Settings menu or third-party VPN app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Update the ChatGPT App
 
@@ -163,21 +117,13 @@ Close
 
 ![open ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/open-chatgpt-app.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
  You can also check for an update by tapping your profile icon (at the top-right corner) on the App Store.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Uninstall and Reinstall the ChatGPT App
 
@@ -195,12 +141,6 @@ To delete an app from your iPhone, follow these steps:
 
 ![confirm deleting ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/confirm-deleting-chatgpt-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
  Download the app again by pressing the blue cloud icon next to the app's name in the App Store, and you'll be good to go.
@@ -215,17 +155,19 @@ Close
 
 ![general and accessibility in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/general-and-accessibility-in-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![software update, iPhone storage, and background app refresh options in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/software-update-and-iphone-storage-options-in-settings.jpg)
 
 ![iOS updated](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/ios-updated.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Restart Your iPhone
 
@@ -247,44 +189,31 @@ To contact ChatGPT support, follow these steps:
 
 ![help center in ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/help-center-in-chatgpt-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![chat icon in ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chat-icon-in-chatgpt-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![send us a message option in ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/send-us-a-message-option-in-chatgpt-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Resolving Your ChatGPT Issues
 
  From a quick internet check to restarting your device, we've provided a brisk overview of all the troubleshooting methods you can adopt to fix any problem you encounter with the ChatGPT app on your iPhone. Keep this guide handy, and you should hopefully have no hiccups with your AI chatbot experience.
 
  Don't give up on the ChatGPT app when you're facing minor issues, though, because it's better than the website in many ways.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -293,4 +222,26 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-mastering-audio-transitions-in-premiere-pro/"><u>[Updated] 2024 Approved Mastering Audio Transitions in Premiere Pro</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-xiaomi-redmi-k70-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-curiosity-to-creation-your-guide-to-openai-innovations/"><u>From Curiosity to Creation: Your Guide to OpenAI Innovations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gemini-15-how-its-unique-approach-with-one-million-tokens-is-transforming-the-crypto-industry/"><u>Gemini 1.5: How Its Unique Approach with One Million Tokens Is Transforming the Crypto Industry</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-amped-arcs-and-zigzags-in-olympic-speed/"><u>In 2024, Amped Arcs & Zigzags in Olympic Speed</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-premiere-reviews-exploring-the-best-8k-cameras/"><u>In 2024, Premiere Reviews Exploring the Best 8K Cameras</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/interacting-seamlessly-with-nvidias-ai-conversation-agent/"><u>Interacting Seamlessly with Nvidia's AI Conversation Agent</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-it-worth-choosing-a-local-legal-malpractice-attorney-weighing-the-pros-and-cons/"><u>Is It Worth Choosing a Local Legal Malpractice Attorney? Weighing the Pros and Cons</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leveraging-ai-for-better-results-how-to-craft-expert-chatbot-queries-if-youre-into-fitness/"><u>Leveraging AI for Better Results: How to Craft Expert Chatbot Queries if You're Into Fitness</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leveraging-chatgpt-successfully-as-a-solo-writing-professional/"><u>Leveraging ChatGPT Successfully as a Solo Writing Professional</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-ai-communication-the-five-premier-ai-prompt-engineering-applications-for-all-platforms/"><u>Mastering AI Communication: The Five Premier AI Prompt Engineering Applications for All Platforms</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-codegpt-installation-and-functionality-in-vs-code-expert-tips-and-tricks/"><u>Mastering CodeGPT Installation and Functionality in VS Code - Expert Tips & Tricks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-multilingual-communication-a-guide-to-using-chatgpt-for-language-translation/"><u>Mastering Multilingual Communication: A Guide to Using ChatGPT for Language Translation</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/optimal-strategies-for-livestream-sports-recording/"><u>Optimal Strategies for Livestream Sports Recording</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/silencing-secretive-calls-on-your-ios-device-a-comprehensive-guide-to-controlling-caller-identity/"><u>Silencing Secretive Calls on Your iOS Device: A Comprehensive Guide to Controlling Caller Identity</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-infinix-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Infinix</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/simplified-methods-for-recording-successful-online-classes-and-meets/"><u>Simplified Methods for Recording Successful Online Classes & Meets</u></a></li>
+<li><a href="https://win11.techidaily.com/stepping-past-the-steam-file-access-hurdle/"><u>Stepping Past the Steam “File Access” Hurdle</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-pioneering-project-by-elon-musk/"><u>The Pioneering Project by Elon Musk</u></a></li>
+</ul></div>
 

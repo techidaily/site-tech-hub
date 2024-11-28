@@ -1,7 +1,7 @@
 ---
 title: The Next Big Thing for Apple Vision Pro? Innovative Respiratory Health Tracking on the Horizon
-date: 2024-11-13T21:35:28.258Z
-updated: 2024-11-18T19:50:51.824Z
+date: 2024-11-25T07:40:29.195Z
+updated: 2024-11-28T13:19:16.009Z
 tags:
   - apple
 categories:
@@ -28,18 +28,15 @@ If anything, the latest iOS 18.1 betas with Apple Intelligence features have bee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The annual upgrade ritual
 
 Every year, my wife and I eagerly await the release of the new iPhones. Being part of [Apple's Upgrade Program](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fiphone%2Fiphone-upgrade-program&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), we return our devices, reset our loan with Citizens Bank, and acquire the latest model. Over the past few years, I have opted for the [Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fiphone-15-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), and my wife has chosen the [base model](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fiphone-15%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). The expected annual improvements have been incremental but appreciated. 
 
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
 
@@ -66,10 +63,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## New hardware leaks: what to expect from the iPhone 16
@@ -88,6 +82,10 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
 
 Besides memory concerns, AI processing demands a lot of power and additional computing resources. Without significant advancements in battery and power management technology, users might have to charge their phones more often. This can lead to increased battery drain, reduced battery lifespan, and potential performance issues. The extra processing power needed to run on-device LLMs could strain the CPU, causing the device to heat up and affecting its overall performance and reliability.
@@ -97,10 +95,7 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
@@ -120,10 +115,7 @@ Enterprises may also employ a mobile device management solution to facilitate ac
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## I'm still optimistic
@@ -166,18 +158,16 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-ultimate-game-hub-a-thousand-channels-for-gamers/"><u>[New] 2024 Approved Ultimate Game Hub A Thousand Channels for Gamers</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-explore-exceptional-economically-priced-asmr-gear-for-2024/"><u>[New] Explore Exceptional, Economically-Priced ASMR Gear for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effortless-guide-for-repairing-corrupt-disks-on-steam-platform/"><u>Effortless Guide for Repairing Corrupt Disks on Steam Platform</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-poco-c55-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Poco C55 Phone?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-securing-new-samsung-usb-device-drivers-for-windows-11-users/"><u>Step-by-Step Tutorial: Securing New Samsung USB Device Drivers for Windows 11 Users</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/storytelling-mastery-unleashed-harnessing-the-power-of-chatgpt-for-captivating-narratives/"><u>Storytelling Mastery Unleashed: Harnessing the Power of ChatGPT for Captivating Narratives</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/tailored-training-strategies-gpts-role-unveiled/"><u>Tailored Training Strategies: GPT's Role Unveiled</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-dark-side-of-ai-5-ways-it-benefits-digital-criminals/"><u>The Dark Side of AI: 5 Ways It Benefits Digital Criminals</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-escalating-risks-understanding-the-deterioration-of-generative-ai-safety/"><u>The Escalating Risks: Understanding the Deterioration of Generative AI Safety</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-hidden-truth-of-virtual-conversations-demystifying-the-who-is-behind-your-digital-footprint-dead-internet-theory-insight/"><u>The Hidden Truth of Virtual Conversations: Demystifying the Who Is Behind Your Digital Footprint? - Dead Internet Theory Insight</u></a></li>
-<li><a href="https://article-helps.techidaily.com/the-newbies-guide-to-understanding-core-filming-techniques-for-2024/"><u>The Newbie's Guide to Understanding Core Filming Techniques for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-powerful-impact-of-ai-in-seven-key-health-areas/"><u>The Powerful Impact of AI in Seven Key Health Areas</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95782393-9781591439356-walking-on-the-wind/"><u>Walking on the Wind | Free Book</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-harmonizing-content-and-platform-youtubes-brief-melodies-explained-for-2024/"><u>[New] Harmonizing Content and Platform YouTube's Brief Melodies Explained for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-overcoming-iphone-lens-focus-discrepancies/"><u>[New] Overcoming iPhone Lens Focus Discrepancies</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-mastering-the-mark-crafting-unique-podcast-graphics/"><u>[Updated] 2024 Approved Mastering the Mark Crafting Unique Podcast Graphics</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-chromebooks-best-vocal-transformers-the-top-5-chrome-apps/"><u>[Updated] Chromebook's Best Vocal Transformers The Top 5 Chrome Apps</u></a></li>
+<li><a href="https://android-location.techidaily.com/boost-your-musical-creativity-with-the-open-source-tulip-computer-powered-by-micropython-only-59/"><u>Boost Your Musical Creativity with the Open-Source Tulip Computer Powered by MicroPython, Only $59</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-it-possible-to-use-chatgpt-for-managing-a-smart-home-system/"><u>Is It Possible to Use ChatGPT for Managing a Smart Home System?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ai-evolution-at-work-6-insightful-strategies-for-survival-and-success/"><u>The AI Evolution at Work: 6 Insightful Strategies for Survival and Success</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-windows-11-fixing-low-speaker-output-issues/"><u>Troubleshooting Windows 11: Fixing Low Speaker Output Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-your-inner-artist-creating-captivating-ai-visuals-with-paint-cocreator-and-windows-11/"><u>Unleash Your Inner Artist: Creating Captivating AI Visuals with Paint Cocreator & Windows 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unpacking-microsofts-big-play-in-gaming-with-blizzard-podcast-discussion-on-innovative-ai-and-translation-tech/"><u>Unpacking Microsoft's Big Play in Gaming with Blizzard: Podcast Discussion on Innovative AI and Translation Tech</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-choose-the-chatgpt-desktop-version-over-the-web-interface-top-advantages/"><u>Why Choose the ChatGPT Desktop Version Over the Web Interface: Top Advantages</u></a></li>
 </ul></div>
 

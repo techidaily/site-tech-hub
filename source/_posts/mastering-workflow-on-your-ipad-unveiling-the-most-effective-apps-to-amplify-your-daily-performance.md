@@ -1,7 +1,7 @@
 ---
 title: "Mastering Workflow on Your iPad: Unveiling the Most Effective Apps to Amplify Your Daily Performance"
-date: 2024-11-15T21:02:57.497Z
-updated: 2024-11-18T17:48:18.312Z
+date: 2024-11-26T04:21:49.281Z
+updated: 2024-11-27T18:15:05.097Z
 tags:
   - apple
 categories:
@@ -44,6 +44,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## A crushing upset
 
 Somehow, though, Apple managed to get many, many people negatively worked up about one aspect of its launch.
@@ -71,10 +75,7 @@ Adam Singer, VP of marketing at billboard measurement company AdQuick, [offered 
 The Wall Street Journal's Katie Deighton [felt similarly distressed](https://twitter.com/dollydeighton/status/1788176047134876101?s=43&t=1QeKgm6aFAVhMUF6f9rEKA): "This ad perfectly encapsulates the insight that people think technology is killing everything we ever found joy in. And then presents that as a good thing. I haven't seen such a visceral backlash to a spot in a long time."
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The role of TikTok?
@@ -94,10 +95,7 @@ It's even odder that Apple would release an ad that makes the company come acros
 Occasionally, though, a sort of groupthink can take over between the creatives and client executives if they think an idea is somehow "cool."
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Sorry, why is thin so good?
@@ -148,22 +146,21 @@ And make us like them.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-transform-your-mac-with-the-latest-macos-11-big-sur-overview/"><u>[New] 2024 Approved Transform Your Mac with the Latest MacOS 11 Big Sur Overview</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-conquer-recording-challenges-using-ezvides-screencasting/"><u>[New] In 2024, Conquer Recording Challenges Using EZvide's Screencasting</u></a></li>
-<li><a href="https://facebook.techidaily.com/alert-ensure-your-online-safety-on-social-platforms-like-fb/"><u>Alert! Ensure Your Online Safety on Social Platforms Like FB</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/best-extensions-save-and-distribute-your-interactions-on-chatgpt/"><u>Best Extensions: Save and Distribute Your Interactions on ChatGPT!</u></a></li>
-<li><a href="https://win-hot.techidaily.com/best-free-tools-for-adjusting-videos-perfectly-for-twitter-simple-and-user-friendly-options/"><u>Best Free Tools for Adjusting Videos Perfectly for Twitter - Simple & User-Friendly Options</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/boosting-your-enterprise-with-these-8-chatgpt-applications/"><u>Boosting Your Enterprise with These 8 ChatGPT Applications</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/bringing-gpt-into-your-terminal-how-to-run-chatgpt-on-ubuntu-using-shellscripts/"><u>Bringing GPT Into Your Terminal: How to Run ChatGPT on Ubuntu Using ShellScripts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/can-i-depend-on-chatgpt-for-credible-medical-information/"><u>Can I Depend on ChatGPT for Credible Medical Information?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/champion-your-fitness-qanda-mastering-the-art-of-effective-chatgpt-communication/"><u>Champion Your Fitness Q&A: Mastering the Art of Effective ChatGPT Communication</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/changing-your-protonvpn-login-details-steps-and-security-tips/"><u>Changing Your ProtonVPN Login Details: Steps & Security Tips</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-desktop-still-not-out-check-this-great-gratis-open-source-option-for-your-needs/"><u>ChatGPT Desktop Still Not Out? Check This Great, Gratis Open Source Option for Your Needs.</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-vs-bing-ai-chatbot-an-insightful-look-at-their-10-main-contrasts-and-variations/"><u>ChatGPT Vs. Bing AI Chatbot - An Insightful Look at Their 10 Main Contrasts and Variations</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/complete-collection-of-playstation-5s-exclusive-titles/"><u>Complete Collection of PlayStation 5'S Exclusive Titles</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/datadeliverers-professional-view-for-2024/"><u>DataDeliverers Professional View for 2024</u></a></li>
-<li><a href="https://discover-data.techidaily.com/guide-convert-and-save-buzzfeed-videos-as-mp4wmvmovflvavi-for-mac-or-pc-users/"><u>Guide: Convert & Save BuzzFeed Videos as MP4/WMV/MOV/FLV/AVI for Mac or PC Users</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-through-potential-data-security-issues-the-hidden-dangers-of-chatbots/"><u>Navigating Through Potential Data Security Issues: The Hidden Dangers of Chatbots</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-most-sought-after-17-laptops-on-the-market-2024-edition/"><u>Unveiling the Most Sought-After 17 Laptops on the Market - 2024 Edition</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-kickstarting-a-vlog-key-hardware-and-apps/"><u>[New] Kickstarting a Vlog Key Hardware & Apps</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-next-gen-screen-capture-tools-ultra-fast-action/"><u>[Updated] 2024 Approved Next-Gen Screen Capture Tools - Ultra-Fast Action</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-how-to-download-twitter-videos-to-your-android-phone/"><u>[Updated] How to Download Twitter Videos to Your Android Phone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-professional-insight-into-accurate-and-clear-vr-recording/"><u>[Updated] In 2024, Professional Insight Into Accurate and Clear VR Recording</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-grasping-the-basics-of-av1-compression/"><u>2024 Approved Grasping the Basics of AV1 Compression</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/cutting-edge-analysis-techniques-unlocking-the-potential-of-gpt-3/"><u>Cutting-Edge Analysis Techniques: Unlocking the Potential of GPT-3</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/dall-e-3-introduces-editing-functions-in-its-newest-release-yet-further-optimization-is-needed/"><u>DALL-E 3 Introduces Editing Functions in Its Newest Release, Yet Further Optimization Is Needed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-huggingchat-the-communitys-chatgpt-equivalent/"><u>Exploring HuggingChat: The Community's ChatGPT Equivalent</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-does-chatgpt-adapt-through-dialogue-with-users/"><u>How Does ChatGPT Adapt Through Dialogue With Users?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-capturing-knowledge-three-approaches-with-mac/"><u>In 2024, Capturing Knowledge Three Approaches with Mac</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-chatgpts-standard-add-ons/"><u>Navigating ChatGPT's Standard Add-Ons</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-the-editors-edge-techniques-for-removing-background-noise-and-selective-muting-in-video-post-production/"><u>New In 2024, The Editors Edge Techniques for Removing Background Noise and Selective Muting in Video Post-Production</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/outsmart-scammers-the-ultimate-guide-to-detecting-bogus-chatgpt-apps-on-iphone-and-ipad-stores/"><u>Outsmart Scammers: The Ultimate Guide to Detecting Bogus ChatGPT Apps on iPhone and iPad Stores</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/overcoming-spreadsheet-anxiety-the-chatgpt-and-excel-combo-guide/"><u>Overcoming Spreadsheet Anxiety: The ChatGPT and Excel Combo Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/prompt-engineering-careers-realistic-or-virtual/"><u>Prompt Engineering Careers: Realistic or Virtual?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-creativity-with-ai-the-chatgpt-guide-to-crafting-stories/"><u>Unlocking Creativity with AI: The ChatGPT Guide to Crafting Stories</u></a></li>
 </ul></div>
 

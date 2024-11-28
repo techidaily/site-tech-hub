@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Cellular Connectivity Problems After iOS 17.2.1 Upgrade | Insights by ZDNET
-date: 2024-11-13T23:58:47.829Z
-updated: 2024-11-18T21:00:21.416Z
+date: 2024-11-26T23:53:14.914Z
+updated: 2024-11-27T16:34:31.640Z
 tags:
   - apple
 categories:
@@ -59,6 +59,10 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to navigate the iOS 18 Photos app
 
 Maria Diaz/ZDNET
@@ -105,31 +109,15 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-the-rise-of-facebooks-quick-vids/"><u>[New] In 2024, The Rise of Facebook's Quick Vids</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-passionate-communicator-evaluation-revision-viii/"><u>[Updated] In 2024, Passionate Communicator Evaluation - Revision VIII</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-viewers-perspectives-on-instagram-stories-not-known/"><u>[Updated] Viewers' Perspectives on Instagram Stories Not Known</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/engage-with-ease-mastering-the-rtx-conversational-bot/"><u>Engage With Ease: Mastering the RTX Conversational Bot</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhancing-your-ai-interactions-step-by-step-guide-to-creating-personalized-personas-in-chtgpt/"><u>Enhancing Your AI Interactions: Step-by-Step Guide to Creating Personalized Personas in Chtgpt</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-googles-artificial-intelligence-endeavor-unveiling-the-mysteries-of-project-gemini/"><u>Exploring Google's Artificial Intelligence Endeavor: Unveiling the Mysteries of Project Gemini</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-functionality-inside-these-top-7-gpt-4-powered-applications/"><u>Exploring the Functionality: Inside These Top 7 GPT-4 Powered Applications</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-samsung-galaxy-a23-5g-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Samsung Galaxy A23 5G? Try These Fixes</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/free-access-harnessing-the-power-of-dall-e-3-within-microsofts-bing-search/"><u>Free Access: Harnessing the Power of DALL-E 3 Within Microsoft's Bing Search</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/future-of-apple-laptops-details-and-rumors-on-the-forthcoming-touchscreen-macbook/"><u>Future of Apple Laptops? Details & Rumors on the Forthcoming Touchscreen MacBook</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/future-proofing-ai-ceos-advocacy-for-stricter-laws/"><u>Future-Proofing AI: CEO's Advocacy for Stricter Laws</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/google-palm-2-and-openai-gpt-n-a-comprehensive-guide-to-differences-in-ai-technology/"><u>Google PaLM 2 and OpenAI GPT-N: A Comprehensive Guide to Differences in AI Technology</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-on-apple-iphone-7-by-drfone-ios/"><u>How To Create an Apple Developer Account On Apple iPhone 7</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-from-apple-iphone-6s-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock from Apple iPhone 6s</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-use-chatgpt-as-your-personal-assistant-for-work/"><u>How to Use ChatGPT as Your Personal Assistant for Work</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/innovating-job-quests-6-chatgpt-techniques-explored/"><u>Innovating Job Quests: 6 ChatGPT Techniques Explored</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/revolutionize-your-reading-habits-with-the-new-and-improved-kindle-paperwhite-2018/"><u>Revolutionize Your Reading Habits with The New and Improved Kindle Paperwhite (2018)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-ai-the-basics-of-transfer-learning/"><u>Understanding AI: The Basics of Transfer Learning</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-nokia-c22-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-perfecting-proximity-views-an-essential-for-roblox-enthusiasts/"><u>[Updated] 2024 Approved Perfecting Proximity Views An Essential for Roblox Enthusiasts</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210492780-9780711271739-earth-magick/"><u>Earth Magick | Free Book</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-the-efficiency-of-tp-link-re305-an-informative-ac1200-range-extender-review/"><u>Exploring the Efficiency of TP-Link RE305 – An Informative AC1200 Range Extender Review</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/how-to-seamlessly-blend-apples-siri-into-your-tiktok-content-for-2024/"><u>How to Seamlessly Blend Apple's Siri Into Your TikTok Content for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/inside-virtuality-metaverse-vs-omniverse-in-focus-for-2024/"><u>Inside Virtuality Metaverse Vs. Omniverse in Focus for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/organizing-dialogues-the-power-of-precision-in-chatgpt/"><u>Organizing Dialogues: The Power of Precision in ChatGPT</u></a></li>
+<li><a href="https://win-dash.techidaily.com/simple-steps-for-downloading-and-updating-epson-printing-drivers-on-windows-10-systems/"><u>Simple Steps for Downloading and Updating Epson Printing Drivers on Windows 10 Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-advantages-of-choosing-claude-over-chamgpt-unveiling-4-major-perks/"><u>The Advantages of Choosing Claude Over ChamGPT - Unveiling 4 Major Perks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transforming-dull-to-dynamic-top-5-ai-writing-catalysts/"><u>Transforming Dull to Dynamic: Top 5 AI Writing Catalysts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-the-sudden-italian-prohibition-on-chatgpt/"><u>Understanding the Sudden Italian Prohibition on ChatGPT</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "Keep Data Safe: Halt AI Web-Scraping Bots"
-date: 2024-09-06T21:38:20.715Z
-updated: 2024-09-07T21:38:20.715Z
+date: 2024-11-22T10:01:07.871Z
+updated: 2024-11-28T03:27:47.465Z
 tags:
   - chatgpt
   - open-ai
@@ -13,22 +13,14 @@ excerpt: "This Article Describes Keep Data Safe: Halt AI Web-Scraping Bots"
 thumbnail: https://thmb.techidaily.com/ff27900c09b1e7c1dbf788a17f82a6622f15751a0bcc9355401391b0248f242f.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Malicious Chromium App Mimicking ChatGPT: Protect Your Facebook Login Details Now
 
  A malicious Chrome extension using ChatGPT's name is being used to steal users' Facebook logins for malicious advertising.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## A Fake ChatGPT Extension Is Targeting Facebook Users
 
  Facebook and Chrome users are being targeted by a malicious browser extension using the well-known name of the[AI-powered chatbot ChatGPT](https://www.makeuseof.com/what-is-chat-gpt-generative-ai-explained/) .
@@ -44,11 +36,9 @@ Guardio took to Twitter to warn readers of the malicious campaign.
  It was also speculated in the blog post that, once the attacker has accessed your data, they will "probably[sell it to the highest bidder](https://www.makeuseof.com/how-can-data-be-sold-dark-web/) as usual."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Thousands of Facebook Accounts May Have Been Compromised
 
  In this malicious campaign, thousands of Facebook accounts may have been successfully hijacked. In the aforementioned blog post, it was stated that there are "more than 2000 users installing this extension on a daily basis since its first appearance on 03/03/2023."
@@ -56,33 +46,26 @@ Guardio took to Twitter to warn readers of the malicious campaign.
  On top of this, Tal wrote that each one of the individuals installing the add-on "gets his Facebook account stolen and probably this is not the only damage," suggesting that other consequences may arise from the extension's presence.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Malicious App Has Been Removed from Chrome
 
  Though thousands have downloaded this phony browser extension, it has now been taken down from the Google Chrome Store, preventing further attacks via Chrome-based downloads. It is not yet known exactly how many people have been affected by this campaign, but the number of installations is a definite concern.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## ChatGPT's Name Is Consistently Used by Scammers
 
  Since ChatGPT's rise to fame, its name has been repeatedly used by cybercriminals to gain the trust of potential victims. Whether its phony ChatGPT-related tokens, or malicious Chat GPT-branded extensions, the popularity of this AI-powered chatbot is undoubtedly being exploited by malicious actors to steal data and money.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -91,4 +74,21 @@ Guardio took to Twitter to warn readers of the malicious campaign.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-forgotten-tiktok-reload-a-quick-fix/"><u>[New] Forgotten TikTok Reload A Quick Fix?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-tweet-to-tune-video-to-audible-file-for-2024/"><u>[New] Tweet-to-Tune Video to Audible File for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/3-things-you-can-do-with-excel-that-chatgpt-cant-do/"><u>3 Things You Can Do With Excel That ChatGPT Can’t Do</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/4-vital-ai-tools-shaping-academia/"><u>4 Vital AI Tools Shaping Academia</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/6-reasons-to-view-snapchats-ai-as-essential-not-extras/"><u>6 Reasons to View Snapchat's AI as Essential, Not Extras</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-deep-dive-into-8-chatgpt-income-opportunities/"><u>A Deep Dive Into 8 ChatGPT Income Opportunities</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211015900-9781958896174-awakening-of-a-warrior/"><u>Awakening of a Warrior | Free Book</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722119868042-experience-the-ultimate-4-ai-online-deduction-escapades-become-an-internet-detective-today/"><u>Experience the Ultimate 4 AI Online Deduction Escapades - Become an Internet Detective Today</u></a></li>
+<li><a href="https://win-blog.techidaily.com/free-online-audiovideo-converter-transform-m4a-to-3gp-effortlessly-with-movavi/"><u>Free Online Audio/Video Converter: Transform M4A to 3GP Effortlessly with Movavi</u></a></li>
+<li><a href="https://program-issues.techidaily.com/obs-screen-capture-woes-heres-how-to-get-it-up-and-running-again/"><u>OBS Screen Capture Woes? Here's How to Get It Up and Running Again</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/streamlined-and-effective-a-comprehensive-look-at-why-the-google-pixel-4a-fits-most-consumers-lifestyle/"><u>Streamlined and Effective: A Comprehensive Look at Why the Google Pixel 4a Fits Most Consumers' Lifestyle</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1721877861756-top-4-tools-for-sharing-and-exporting-your-conversations-with-chatgpt/"><u>Top 4 Tools for Sharing and Exporting Your Conversations with ChatGPT</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1724766165725-dvd/"><u>ディスク内容コピー防止技術について学ぶ：完全なるDVD攻略ガイド！</u></a></li>
+</ul></div>
 

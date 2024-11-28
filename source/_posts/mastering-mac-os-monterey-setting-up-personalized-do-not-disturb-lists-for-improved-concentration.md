@@ -1,7 +1,7 @@
 ---
 title: "Mastering Mac OS MONTEREY: Setting Up Personalized Do Not Disturb Lists for Improved Concentration"
-date: 2024-11-14T19:43:04.903Z
-updated: 2024-11-18T23:57:07.350Z
+date: 2024-11-25T07:08:58.030Z
+updated: 2024-11-28T02:56:57.433Z
 tags:
   - apple
 categories:
@@ -26,18 +26,15 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Create a custom Focus
 
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
 
@@ -48,10 +45,7 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Open the Focus tab
@@ -63,10 +57,7 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
@@ -85,6 +76,10 @@ Image: Jack Wallen
 
 After naming and selecting a color/icon, click Add to save the new Focus.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Allowing specific notifications
 
 The next thing to do is to specific contacts or apps that will be allowed when this Focus is enabled. To do that, click + under Allowed Notifications From (**Figure 5**).
@@ -100,10 +95,7 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
@@ -148,19 +140,18 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/lite-10-audio-amplifiers-desktops-to-smartphones-for-2024/"><u>[New] Elite 10 Audio Amplifiers Desktops to Smartphones for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ransforming-viewership-into-income-youtubes-advertising-guide-for-2024/"><u>[New] Transforming Viewership Into Income YouTube's Advertising Guide for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-the-art-of-sharing-online-videos-from-youtube-to-facebook-for-2024/"><u>[Updated] The Art of Sharing Online Videos From YouTube to Facebook for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-unveiling-top-8-crowd-favorites-in-ae-templates/"><u>[Updated] Unveiling Top 8 Crowd Favorites in AE Templates</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-stalled-keys-for-active-windows-11/"><u>Addressing Stalled Keys for Active Windows 11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1722203023324-effortless-auto-gpt-installation-follow-these-steps/"><u>Effortless Auto-GPT Installation - Follow These Steps</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-from-syncing-to-capturing-a-complete-itunes-journey/"><u>In 2024, From Syncing to Capturing A Complete iTunes Journey</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-vivo-y100i-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Vivo Y100i Device</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1722153355435-transforming-diy-innovation-with-the-upcoming-arrival-of-gpt-navigate-through-ais-next-giant-leap/"><u>Transforming DIY Innovation with the Upcoming Arrival of GPT-Navigate Through AI's Next Giant Leap</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-model-clarity-with-openais-shap-e/"><u>Unveiling Model Clarity with OpenAI's SHAP E</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/what-is-codegpt-and-can-it-really-write-code/"><u>What Is CodeGPT and Can It Really Write Code?</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-motorola-moto-g73-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Motorola Moto G73 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/why-has-chatgpt-halted-new-registrations-unveiling-reasons-and-predicting-comeback-timelines/"><u>Why Has ChatGPT Halted New Registrations? Unveiling Reasons and Predicting Comeback Timelines</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/why-virtual-reality-lack-of-content-in-2024/"><u>Why Virtual Reality Lack of Content, In 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-efficiently-explore-every-entry-facebook-profile-hunt-101-for-2024/"><u>[New] Efficiently Explore Every Entry Facebook Profile Hunt 101 for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-unleash-social-potential-transitioning-from-twitter-videos-to-whatsapp/"><u>[New] In 2024, Unleash Social Potential Transitioning From Twitter Videos to WhatsApp</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-whatsapp-narratives-the-sound-factor/"><u>[New] WhatsApp Narratives The Sound Factor</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-tiny-turbines-car-shindig/"><u>[Updated] 2024 Approved Tiny Turbines' Car Shindig</u></a></li>
+<li><a href="https://fox-links.techidaily.com/audio-ambiance-assembler-selecting-background-scores-for-2024/"><u>Audio Ambiance Assembler Selecting Background Scores for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1723808211669-discover-the-top-10-game-torrents-your-guide-to-free-downloads/"><u>Discover the Top 10 Game Torrents: Your Guide to Free Downloads.</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-novice-to-pro-the-comprehensive-guide-to-youtube-chapter-management-for-2024/"><u>From Novice to Pro The Comprehensive Guide to YouTube Chapter Management for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-the-ultimate-guide-to-iphone-video-editing-top-5-apps/"><u>In 2024, The Ultimate Guide to iPhone Video Editing Top 5 Apps</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1723808304828-skype-cant-connect-5-ways-to-fix-on-windows-11-easily/"><u>Skype Can't Connect: 5 Ways to Fix on Windows 11 Easily</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-the-role-of-video-cards-in-computing-an-insightful-guide/"><u>Understanding the Role of Video Cards in Computing: An Insightful Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-windows-11-a-simple-guide-to-removing-your-pcs-password/"><u>Unlocking Windows 11: A Simple Guide to Removing Your PC's Password</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/what-is-vpn-tunnel-common-types-of-vpn-tunneling-protocol/"><u>What Is VPN Tunnel: Common Types of VPN Tunneling Protocol</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/windows-11-settings-wont-open-solved/"><u>Windows 11 Settings Won't Open ? [Solved]</u></a></li>
 </ul></div>
 

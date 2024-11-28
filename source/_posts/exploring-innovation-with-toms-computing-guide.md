@@ -1,7 +1,7 @@
 ---
 title: Exploring Innovation with Tom's Computing Guide
-date: 2024-09-06T21:38:19.453Z
-updated: 2024-09-07T21:38:19.453Z
+date: 2024-11-24T00:57:46.129Z
+updated: 2024-11-27T16:44:08.527Z
 tags:
   - desktop
 categories:
@@ -9,18 +9,6 @@ categories:
 thumbnail: https://cdn.mos.cms.futurecdn.net/jMREdMmEXpBKBvCf2GG69Q-320-80.png
 ---
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Meet Asus' Latest Innovation: ROG NUC with Up to Intel Core I9 CPUs and RTX 4070 GPUs - Starting at Just $1,629
 
 Asus is launching its first gaming mini-PC with the ROG NUC. This tiny PC weighs just 2.6 kg and comes in a 2.5-liter chassis that measures 270 x 180 x 50mm. Even though it has a diminutive form factor, you won't miss out on performance as it comes with either an Intel Core Ultra 7 155H or a Core Ultra 9 185H. Both models also have a discrete GPU — an RTX 4060 for the Ultra 7 and RTX 4070 for the Ultra 9.
@@ -54,11 +42,9 @@ These are the specifications of the two Asus ROG NUC models:
  You can now see both devices on the[Asus website](https://clk.tradedoubler.com/click?p=332082&a=2384895&epi=tomshardware-us-6479410811963061514&url=https%3A%2F%2Frog.asus.com%2Fus%2Fdesktops%2Fmini-pc%2Frog-nuc%2F) , but they're marked as 'Temporarily Out of Stock.' Nevertheless, if you're looking for a tiny gaming PC, you can ask Asus to notify you when they become available. You should also prepare your wallet if you want this device with its high starting price. It does come with a discrete GPU, though, unlike other mini-PC designs, where you need an eGPU dock to enjoy high-quality graphics.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -67,14 +53,11 @@ These are the specifications of the two Asus ROG NUC models:
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -83,4 +66,18 @@ These are the specifications of the two Asus ROG NUC models:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-navigating-the-seas-of-saving-facebook-gifs-on-various-tech-platforms/"><u>[New] Navigating the Seas of Saving Facebook GIFs on Various Tech Platforms</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-unleashing-potential-a-deep-dive-into-the-ion-air-pro-3-review/"><u>[Updated] Unleashing Potential A Deep Dive Into the ION Air Pro 3 Review</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-takes-the-ios-stage/"><u>ChatGPT Takes the iOS Stage!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-transforms-officedoc-space-for-optimal-performance/"><u>ChatGPT Transforms OfficeDoc Space for Optimal Performance</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-ventures-viable-income-strategies/"><u>ChatGPT Ventures: Viable Income Strategies?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-powered-nutrition-success-how-to-design-and-stick-to-a-healthy-meal-plan/"><u>ChatGPT-Powered Nutrition Success: How to Design and Stick to a Healthy Meal Plan</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-realme-12-proplus-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Realme 12 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-optimize-your-watch-time-on-instagram-videos/"><u>In 2024, Optimize Your Watch Time on Instagram Videos</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-comprehensive-guide-to-the-top-8-free-cartoon-sound-effect-downloads-for-2024/"><u>New Comprehensive Guide to the Top 8 Free Cartoon Sound Effect Downloads for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-for-non-functional-iphone-mail-app/"><u>Troubleshooting Steps for Non-Functional iPhone Mail App</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/unlocking-higher-visuals-in-your-chats-is-av1-compatible-with-discord-and-how-to-optimize-it/"><u>Unlocking Higher Visuals in Your Chats: Is AV1 Compatible with Discord and How to Optimize It</u></a></li>
+</ul></div>
 

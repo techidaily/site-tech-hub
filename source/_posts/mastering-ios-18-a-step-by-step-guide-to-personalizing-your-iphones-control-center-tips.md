@@ -1,7 +1,7 @@
 ---
 title: "Mastering iOS 18: A Step-by-Step Guide to Personalizing Your iPhone's Control Center - Tips"
-date: 2024-11-15T19:34:46.276Z
-updated: 2024-11-18T17:55:29.355Z
+date: 2024-11-22T11:51:43.174Z
+updated: 2024-11-27T18:44:41.044Z
 tags:
   - apple
 categories:
@@ -28,7 +28,15 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to customize your iPhone's new Control Center with iOS 18
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Access Control Center
 
@@ -37,10 +45,7 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -58,10 +63,7 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -69,6 +71,10 @@ Screenshot by Lance Whitney/ZDNET
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -78,31 +84,11 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -140,24 +126,21 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-a-prism-of-design-from-theory-to-practice/"><u>[Updated] A Prism of Design From Theory to Practice</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-instant-youtube-financial-forecasting/"><u>[Updated] In 2024, Instant YouTube Financial Forecasting</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-the-best-of-the-best-androids-top-8-group-chatters/"><u>[Updated] In 2024, The Best of the Best Android's Top 8 Group Chatters</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/advanced-prompt-engineering-techniques-unveiling-the-best-seven-internet-tools/"><u>Advanced Prompt Engineering Techniques: Unveiling the Best Seven Internet Tools</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/artificial-intelligence-developments-tentative-date-for-gpt-5/"><u>Artificial Intelligence Developments: Tentative Date for GPT-5?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/battle-of-the-bots-llama-3-against-gpt-neuroses-4/"><u>Battle of the Bots: LLaMA 3 Against GPT-nEuroses 4</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/best-8-filter-packs-for-dynamic-video-streaming/"><u>Best 8 Filter Packs for Dynamic Video Streaming</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/beware-the-shortcomings-of-ai-detection-apps-like-zerogpt-exposed-through-four-case-studies/"><u>Beware! The Shortcomings of AI Detection Apps Like ZeroGPT Exposed Through Four Case Studies</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/building-your-personal-ai-companer-install-and-run-an-open-alternative-to-chatgpt-on-windows/"><u>Building Your Personal AI Companer: Install and Run an Open Alternative to ChatGPT on Windows</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-on-the-go-is-the-mobile-app-beneficial-or-detrimental/"><u>ChatGPT on the Go: Is the Mobile App Beneficial or Detrimental?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/clash-of-tech-titans-exploring-8-key-differences-between-snapchats-my-ai-and-microsofts-bing-chat-on-skype/"><u>Clash of Tech Titans: Exploring 8 Key Differences Between Snapchat's My AI & Microsoft's Bing Chat on Skype</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/critical-considerations-when-leveraging-chatgpt-for-emotional-well-being/"><u>Critical Considerations When Leveraging ChatGPT for Emotional Well-Being</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/d500-exploration-nikons-journey-in-4k-hd-for-2024/"><u>D500 Exploration Nikon's Journey in 4K HD for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/driving-decisions-perfecting-persuasive-business-proposals-with-ai/"><u>Driving Decisions: Perfecting Persuasive Business Proposals with AI</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-sony-xperia-10-v-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Sony Xperia 10 V for Free? | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-infinite-frontier-the-best-sci-fi-films-that-redefine-universes/"><u>In 2024, Infinite Frontier The Best Sci-Fi Films That Redefine Universes</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Samsung Galaxy S23 | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/premium-5-web-based-video-recorders/"><u>Premium 5 Web-Based Video Recorders</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/fixed-windows-7-running-slow-speed-up-windows-7/"><u>[Fixed] Windows 7 Running Slow - Speed up Windows 7</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/full-guide-how-to-change-google-chrome-language/"><u>[FULL GUIDE] How to Change Google Chrome Language</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-maximizing-production-value-choosing-top-tier-youtube-tools/"><u>[New] In 2024, Maximizing Production Value Choosing Top-Tier YouTube Tools</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-premier-platforms-identifying-the-finest-ps2-emulation-tools-for-android/"><u>[Updated] Premier Platforms Identifying the Finest PS2 Emulation Tools for Android</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-incorporate-subtitles-for-improved-viewing-wmp-guide/"><u>2024 Approved Incorporate Subtitles for Improved Viewing WMP Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ensuring-digital-safety-while-making-purchases-on-the-internet/"><u>Ensuring Digital Safety While Making Purchases on the Internet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/expert-advice-navigating-to-windows-11s-advanced-boot-configuration-effortlessly/"><u>Expert Advice: Navigating to Windows 11'S Advanced Boot Configuration Effortlessly</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/fixing-windows-10-performance-issues-proven-solutions-and-tips/"><u>Fixing Windows 10 Performance Issues: Proven Solutions & Tips</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/guide-setting-up-your-home-network-on-windows-7-wireless-connection-made-easy/"><u>Guide: Setting Up Your Home Network on Windows 7 - Wireless Connection Made Easy</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-address-complete-cpu-resource-occupation-on-windows-10s-task-manager/"><u>How to Address Complete CPU Resource Occupation on Windows 10'S Task Manager</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-windows-upgrade-error-0xc004f050/"><u>How to Fix the Windows Upgrade Error 0Xc004f050</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-vivo-y100a-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Vivo Y100A to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-oneplus-nord-n30-se-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of OnePlus Nord N30 SE Without PUK Codes</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-xiaomi-redmi-note-12r-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Xiaomi Redmi Note 12R FRP Without Computer</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-excel-a-complete-tutorial-on-cloning-conditional-format-styles/"><u>Mastering Excel: A Complete Tutorial on Cloning Conditional Format Styles</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/m2ts-movavi/"><u>オンラインでストリーミング再生可能なM2TSファイルへの自由許諾 - Movavi無料変換</u></a></li>
 </ul></div>
 
