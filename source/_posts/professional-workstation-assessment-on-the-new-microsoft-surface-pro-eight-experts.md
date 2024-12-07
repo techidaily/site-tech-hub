@@ -1,7 +1,7 @@
 ---
 title: Professional Workstation Assessment on the New Microsoft Surface Pro Eight Experts
-date: 2024-11-16T22:05:38.714Z
-updated: 2024-11-18T17:26:36.451Z
+date: 2024-12-06T20:41:04.910Z
+updated: 2024-12-07T19:32:26.882Z
 tags:
   - apple
 categories:
@@ -42,24 +42,15 @@ As part of my journey, I've been testing a [Surface Pro 8 with LTE](https://clic
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## A new-look Surface… kind of
 
 Jason Cipriani/ZDNet
 
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
-
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -83,13 +74,6 @@ You don't have to use a physical SIM card thanks to the Pro 8's support for an e
 
 **Also:** [**eSIM vs. SIM: What's the difference?**](https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [The best tablets (aren't all iPads) Choosing the best tablet can be tricky. Yes, the top picks include the Apple iPad and iPad Pro, but we also love the Samsung Galaxy Tab S8 Ultra, Microsoft Surface Go 3, and others.  Read now](https://www.zdnet.com/article/best-tablet/)
@@ -105,6 +89,10 @@ I already had the combo kit, so that's what I've been using during my testing.
 Regardless of which keyboard you pick up, all of them have a slot for a Surface Slim Pen 2 above the keyboard. When it's folded up, the pen rests against the Pro 8's bottom bezel. It wirelessly charges the pen, so it's constantly ready for use. 
 
 Overall, I love the design of the Pro 8\. I've actually found myself using it as a tablet more than I do the iPad Pro simply because the kickstand is built into the housing. There isn't another cover or case I have to manage. It's fantastic. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## But can it replace an iPad Pro?
 
@@ -137,6 +125,10 @@ The ability to connect a tablet to an external display and have it actually work
 
 When working on my iPad Pro connected to a monitor, whatever's on the iPad's screen is mirrored on the larger display. There are some apps that use Apple's rudimentary API for external displays, but it's not great. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best iPads: Which model should you buy? Apple's tablet lineup has a wide range of prices and capabilities.  Read now](https://www.zdnet.com/article/best-ipad/)
@@ -146,13 +138,6 @@ Also, I have a lot of workarounds for completing certain tasks on the iPad. For 
 I realize that the Pro 8 is running a full-fledged operating system in Windows 11, whereas the iPad Pro is running a mobile-first operating system in iPadOS, but the devices are relatively the same size and target the same type of user. Even the prices are close enough that the comparison is warranted. 
 
 The total cost of the Surface Pro 8 with LTE, along with the Signature Keyboard Cover with Slim Pen is $2,128\. The iPad Pro with 5G, 16GB of memory, 1TB of storage, Apple's Magic Keyboard with trackpad and an Apple Pencil is $2,449\. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## There are still many things the iPad Pro does better
 
@@ -167,10 +152,7 @@ I prefer to use Apple's Mail app along with my iCloud+ personal domain as oppose
 Another thing I love about my iPad Pro is that its performance is reliable and consistent. When using the Pro 8 with multiple apps open, there would be a slight delay or pause before an app would appear after being minimized at times. It wasn't specific to any one app; I frequently experienced it with Thunderbird, Discord, and Slack. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -184,6 +166,10 @@ So, iPad or Surface Pro 8? With so much uncertainty over the future of iPadOS, I
 If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro, I'll say this: you can't go wrong with either device, as long as you know what you're getting yourself into. The iPad Pro can do a lot of things, but only a few things really well. Whereas the Surface Pro 8 can do a lot of things really well, but it has its fair share of hiccups and gotchas as well.
 
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## FAQ
 
@@ -224,20 +210,15 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-ios-leading-edge-5-exceptional-psp-game-tools/"><u>[New] IOS Leading Edge 5 Exceptional PSP Game Tools</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-fundamental-guidelines-for-saving-lol-scores/"><u>[Updated] 2024 Approved Fundamental Guidelines for Saving LOL Scores</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-top-picks-for-your-android-the-current-best-facebook-videos-downloaders-ranked/"><u>[Updated] 2024 Approved Top Picks for Your Android - The Current Best Facebook Videos Downloaders Ranked</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/affordable-precision-on-the-road-an-in-depth-look-at-bouncies-user-friendly-gps-tracker-for-drivers/"><u>Affordable Precision on the Road: An In-Depth Look at Bouncie’s User-Friendly GPS Tracker for Drivers</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/best-ipads-compared-finding-your-perfect-match/"><u>Best iPads Compared: Finding Your Perfect Match</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/decoding-the-showdown-in-depth-analysis-of-chatgpt-and-microsofts-bing-bot-side-by-side/"><u>Decoding the Showdown: In-Depth Analysis of ChatGPT and Microsoft's Bing Bot, Side by Side</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/digital-minds-may-displace-traditional-jobs/"><u>Digital Minds May Displace Traditional Jobs</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/do-interactive-exchanges-with-users-evolve-chatgpts-functionality/"><u>Do Interactive Exchanges with Users Evolve ChatGPT’s Functionality?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/drive-smart-and-smarter-mercedes-benz-vehicles-now-equipped-with-voice-controlled-ai-assistant-chatgpt/"><u>Drive Smart and Smarter: Mercedes-Benz Vehicles Now Equipped with Voice-Controlled AI Assistant, ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/effortless-installation-and-operation-of-microsoft-copilot-on-macos/"><u>Effortless Installation and Operation of Microsoft Copilot on macOS</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enjoy-a-world-of-gaming-with-chatgpts-top-6-innovative-titles/"><u>Enjoy a World of Gaming with ChatGPT's Top 6 Innovative Titles</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ensuring-continuity-of-gpt-powered-dialogues/"><u>Ensuring Continuity of GPT-Powered Dialogues</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/how-to-save-streaming-content-as-various-file-types-mp4-avi-mp3-on-windows-and-macos/"><u>How to Save Streaming Content as Various File Types (MP4, AVI, MP3) on Windows and macOS</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-full-course-on-becoming-a-yt-creator-expert-for-2024/"><u>The Full Course on Becoming a YT Creator Expert for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transform-your-footage-techniques-for-outstanding-gopro-edits-for-2024/"><u>Transform Your Footage Techniques for Outstanding GoPro Edits for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-jumpstart-high-res-webcam-filming-for-amazing-results/"><u>[New] Jumpstart High-Res WebCam Filming for Amazing Results</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-fiscally-flourishing-through-film-reviewing-retail-relics-for-2024/"><u>[Updated] Fiscally Flourishing Through Film Reviewing Retail Relics for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bridging-human-and-machine-potential-this-years-most-promising-ai-tech/"><u>Bridging Human & Machine Potential: This Year's Most Promising AI Tech</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-and-cupids-arrow-ai-insights-to-enhance-your-love-life-strategies/"><u>ChatGPT and Cupid's Arrow: AI Insights to Enhance Your Love Life Strategies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-to-use-extensions-for-backing-up-and-sharing-your-history-on-chatgpt/"><u>Easy-to-Use Extensions for Backing Up & Sharing Your History on ChatGPT</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/fixing-absence-of-color-on-game-feedback/"><u>Fixing Absence of Color on Game Feedback</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-does-predictive-ai-anticipate-future-events-an-in-depth-guide/"><u>How Does Predictive AI Anticipate Future Events?: An In-Depth Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-fix-and-update-your-csr8510-a10-graphics-card-drivers-on-windows-platforms/"><u>How to Fix and Update Your CSR8510 A10 Graphics Card Drivers on Windows Platforms</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/realtek-dac-no-sound-heres-how-you-can-fix-it-and-enjoy-music-again/"><u>Realtek DAC No Sound? Here’s How You Can Fix It and Enjoy Music Again!</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-content-transcriber-for-2024/"><u>Video Content Transcriber for 2024</u></a></li>
 </ul></div>
 

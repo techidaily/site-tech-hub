@@ -1,7 +1,7 @@
 ---
 title: "Electron Capture Detector (ECD):"
-date: 2024-11-23T06:36:42.398Z
-updated: 2024-11-27T16:43:15.931Z
+date: 2024-12-02T18:58:56.860Z
+updated: 2024-12-07T19:27:37.420Z
 tags:
   - apple
 categories:
@@ -29,10 +29,6 @@ You'll find the necessary setting in the Control Center section of your Settings
 
 Michael Gariffo
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Open your Settings app and find "Control Center"
 
 Apple added a quick, easy way to record your screen with [iOS 14 in 2020](https://www.zdnet.com/article/apple-launches-ios-14-aims-for-siri-overhaul-better-app-organization/), but you'll need to enable it before you can use it. To do this, open your Settings app and find Control Center (as seen above in the red rectangle).
@@ -40,6 +36,10 @@ Apple added a quick, easy way to record your screen with [iOS 14 in 2020](https:
 This is the Screen Recording option we'll be adding to Control Center
 
 Michael Gariffo
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Add the Screen Recording button to your Control Center
 
@@ -50,6 +50,10 @@ Depending on how many controls you have active, you may need to scroll down a bi
 This is the screen recording button we'll use to start the recording. 
 
 Michael Gariffo
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Open your Control Center
 
@@ -62,7 +66,7 @@ While recording, your Screen Recording button will look like this (minus the red
 Michael Gariffo
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Begin screen recording
@@ -76,7 +80,7 @@ Your clock will look like this as long as Screen Recording is active.
 Michael Gariffo
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 5: Record
@@ -87,6 +91,10 @@ This is the confirmation box that will appear when you stop your recording.
 
 Michael Gariffo
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. End your recording
 
 When you're ready to end your recording, there are two ways to stop it. The first is to tap the red clock in the top left of your screen. This will produce a dialogue box like the one seen above. You'll need to tap "Stop" to end your recording. If you're in a full-screen app that hides the clock, you can also once again pull out your Control Center and tap the Screen Recording button. If you use this second method, the recording will end immediately, with no confirmation required. 
@@ -95,15 +103,7 @@ In both cases, the recording you just produced will immediately be saved to your
 
 **Also:** [How to record a call on your iPhone](https://www.zdnet.com/article/how-to-record-a-phone-call-on-your-iphone/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQs
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What does the Screen Recording app actually capture?
 
@@ -153,20 +153,22 @@ Be aware that some apps, particularly email and messaging apps that don't rely o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/updated-audio-visual-elites-selecting-5-exceptional-creators-who-mix-sounds/"><u>[Updated] Audio-Visual Elites Selecting 5 Exceptional Creators Who Mix Sounds</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/dvd-ripping-tool-fur-mac-perfektes-konvertieren-von-filmen-auf-ihrem-apple-gerat/"><u>DVD Ripping Tool Für Mac: Perfektes Konvertieren Von Filmen Auf Ihrem Apple Gerät</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-11-pro-drfone-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-itel-p55plus-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Itel P55+ | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-flash-dead-vivo-v29-pro-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Vivo V29 Pro Safely | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-xs-max-to-mac-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone XS Max to Mac? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/troubleshooting-tips-how-to-easily-leave-safe-mode-on-your-windows-11-pc/"><u>Troubleshooting Tips: How to Easily Leave Safe Mode on Your Windows 11 PC</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/turbulent-flow-is-characterized-by-chaotic-fluid-motion-and-occurs-at-reynolds-numbers-greater-than-approximately-4000-for-pipe-flows/"><u>Turbulent Flow Is Characterized by Chaotic Fluid Motion and Occurs at Reynolds Numbers Greater than Approximately 4000 for Pipe Flows.</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ultimate-guide-capturing-screen-images-on-windows-7-8-and-10/"><u>Ultimate Guide: Capturing Screen Images on Windows 7, 8 & 10</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ultimate-guide-step-by-step-process-to-flush-browser-and-system-cache-in-windows-10/"><u>Ultimate Guide: Step-by-Step Process to Flush Browser and System Cache in Windows 10</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ultimate-list-of-top-game-torrent-websites-find-the-latest-releases/"><u>Ultimate List of Top Game Torrent Websites – Find the Latest Releases!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlock-the-secrets-of-pc-maintenance-how-to-conduct-a-hard-reboot-and-restore-performance-on-windows-10/"><u>Unlock the Secrets of PC Maintenance: How to Conduct a Hard Reboot and Restore Performance on Windows 10</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlock-the-secrets-of-windows-11s-task-manager-easy-tutorial/"><u>Unlock the Secrets of Windows 11'S Task Manager - Easy Tutorial</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>What is Geo-Blocking and How to Bypass it On Apple iPhone 15 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/why-the-price-bump-means-no-more-gaming-with-ea/"><u>Why the Price Bump Means No More Gaming with EA</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-perfect-virtual-scenes-enhancing-zoomgoogle-experience/"><u>[New] In 2024, Perfect Virtual Scenes Enhancing Zoom/Google Experience</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-get-started-signing-up-for-a-youtube-channel/"><u>[Updated] How to Get Started Signing Up for a YouTube Channel</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-top-12-effortless-typing-solutions-on-ios-and-android-the-ultimate-keyboard-app-selection/"><u>Discover the Top 12 Effortless Typing Solutions on iOS & Android: The Ultimate Keyboard App Selection</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207952817-easy-solutions-to-common-file-explorer-problems-in-windows-10/"><u>Easy Solutions to Common File Explorer Problems in Windows 10!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-fixing-the-0x80240034-update-issue-in-your-windows-10-system/"><u>Expert Tips for Fixing the 0X80240034 Update Issue in Your Windows 10 System</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/from-concept-to-completion-utilizing-luts-effectively-in-premiere-pro/"><u>From Concept to Completion Utilizing LUTs Effectively in Premiere Pro</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-5-best-live-streaming-software-for-mac-you-must-know/"><u>In 2024, 5 Best Live Streaming Software for Mac You Must Know</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/inside-on-device-intelligence-functionality-and-advantages-for-smartphones/"><u>Inside On-Device Intelligence: Functionality & Advantages for Smartphones</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-it-feasible-to-obtain-custom-exercise-routines-that-are-both-secure-and-productive-via-chatgpt/"><u>Is It Feasible to Obtain Custom Exercise Routines That Are Both Secure and Productive via ChatGPT?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-it-possible-for-chatgpt-to-create-personalized-secure-fitness-routines/"><u>Is It Possible for ChatGPT to Create Personalized, Secure Fitness Routines?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-social-media-engagement-strategies-with-chatgpt/"><u>Mastering Social Media Engagement: Strategies with ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionize-your-workflow-discover-8-key-benefits-of-implementing-chatgpt-vision/"><u>Revolutionize Your Workflow: Discover 8 Key Benefits of Implementing ChatGPT Vision</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/talk-titans-clash-understanding-distinct-chatbot-traits/"><u>Talk Titans Clash: Understanding Distinct Chatbot Traits</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-battle-for-video-editing-supremacy-final-cut-pro-vs-lumafusion/"><u>The Battle for Video Editing Supremacy Final Cut Pro vs LumaFusion</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-verdict-on-secretlabs-titan-evo-gen-7-a-top-pick-for-gamers/"><u>The Ultimate Verdict on Secretlab's Titan Evo Gen-7 : A Top Pick for Gamers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-creative-writing-potential-top-9-ways-to-use-chatgpt-for-your-novel/"><u>Unlock Creative Writing Potential: Top 9 Ways to Use ChatGPT for Your Novel</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-digital-success-how-chatgpt-facilitates-your-web-design-journey/"><u>Unlocking Digital Success: How ChatGPT Facilitates Your Web Design Journey</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Rethinking Access to Knowledge Through an Academic Lens: The Role of the Internet as a Universal Resource Hub"
-date: 2024-09-02T09:23:30.658Z
-updated: 2024-09-03T09:23:30.658Z
+date: 2024-11-30T19:33:35.779Z
+updated: 2024-12-07T21:09:16.020Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/92985b2f8fb733c6ace3a56ad63487609f03bf1d5
 
 ![A blue and yellow D20 di](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/blue-dice.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Whether you're strictly following a scripted adventure or mostly just going with the flow, ChatGPT can make it easy to add random encounters to your campaign. This is especially useful for when your players are traveling. It's also a great addition for anyone learning[how to play Dungeons & Dragons online](https://www.makeuseof.com/how-to-play-dungeons-dragons-online/) .
 
  Sure, it's generally easy to add an encounter based on the context, like goblins showing up while the party's resting because there's a goblin encampment nearby. But you can spice the situation up by asking ChatGPT to create a random encounter that matches the players' current levels.
@@ -38,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/92985b2f8fb733c6ace3a56ad63487609f03bf1d5
 5. Provide the stats for each monster/enemy.
 
  There are plenty of additional commands you could add to this prompt for additional details. However, this serves as a great boilerplate. Keep in mind that the more details on the context you provide, the easier it will be for ChatGPT to tie its output to your campaign.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Create NPCs and Generate Dialogue
 
@@ -55,15 +63,16 @@ Here's a pretty great prompt for generating NPCs:
 
 ![Prompt for dialogue with NPC innkeeper in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/dialogue-with-npc.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Of course, you can swap out multiple variables in each prompt to adjust them to your campaign and situation. For extra flair, you can[use ChatGPT and DALL-E to generate images of characters](https://www.makeuseof.com/how-to-use-chatgpt-and-dall-e-to-create-characters-for-dungeons-and-dragons/) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Filler Content in a Pinch: When Players Deviate From the Story
 
  You've probably run into a situation where your players decide to deviate from a carefully crafted campaign. While ChatGPT can't help with the frustration this can cause, it can help you with filler content in a pinch. It's a fantastic option for creating engaging content on the fly and avoiding awkward or long pauses during the session.
@@ -75,13 +84,11 @@ Here's one example of a prompt that can work:
 ![Prompt in ChatGPT for D&D when players deviate from story](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/players-deviate-from-campaign.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Here, ChatGPT automatically generated an easy-to-understand environment, an NPC with a name, and a quest to boot. All of this within seconds. The next time your party surprises you by taking a new direction, ChatGPT has you covered.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. ChatGPT Can Assist in Map Creation
 
  You can use ChatGPT to describe an area to your party better or build a room for an encounter. In fact, there are two great ways to use ChatGPT to generate maps.
@@ -90,9 +97,6 @@ Here's one example of a prompt that can work:
 
  Alternatively, you can use ChatGPT for map creation by prompting for ideas. You can provide the basics of your idea for a foundation, and ChatGPT will provide you with and elaborate on the details.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Keep Track of the Game State
 
  If you've been running a campaign for more than 15 sessions, you might consider using ChatGPT as a D&D assistant to keep track of the game state. It might take some work and a bit of time, but it's definitely worth it. And in many cases, it's better than managing a complex spreadsheet and a tall stack of notes.
@@ -103,33 +107,23 @@ Here's one example of a prompt that can work:
 
  If you're not too happy with the answers from this prompt, there are a few[ways to write effective ChatGPT prompts](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/) that you might consider implementing. A cheat sheet can really help you tweak prompts to better fit the context of your campaign.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Provide Guidance and Feedback for New DMs
 
  Guidance and feedback from ChatGPT can take place in or outside a session. During a session, you can use ChatGPT to quickly double-check rules and look up information regarding classes, races, abilities, items, and more. It's also a definite lifesaver in complicated battle scenarios.
 
  For new DMs, though, it's a great way to get some feedback on ideas and session summaries. For the prompt, you can write out a summary of what happened, and ask if the events that took place made sense, followed the rules, and if there's anything that could have been done better.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## Improve Your D&D Experience With ChatGPT
 
  ChatGPT, with the right prompts, can greatly improve your D&D experience by functioning as an efficient dungeon master assistant, whether you're just getting started or you're a veteran dungeon master. Assisting with map and environment creation, NPC dialogue, guidance and feedback after sessions, and generating random events are just a few examples.
 
  There are, of course, a plethora of other ways to use ChatGPT to improve your D&D sessions. With the right prompt, you can even run a solo RPG campaign in ChatGPT with additional instructions to test out ideas from a player's perspective.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -138,4 +132,20 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-from-blank-canvas-to-biggest-hit-mastering-youtube-thumbnail-sizes/"><u>[New] 2024 Approved From Blank Canvas to Biggest Hit Mastering YouTube Thumbnail Sizes</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-10-best-youtube-makeup-artists-you-must-have-heard/"><u>[New] In 2024, 10 Best YouTube Makeup Artists You Must Have Heard</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-joyjingles-where-to-find-hilarious-ringtone-links/"><u>[New] JoyJingles Where to Find Hilarious Ringtone Links</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unique-channels-generating-top-notch-video-naming/"><u>[New] Unique Channels Generating Top-Notch Video Naming</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-remove-inconvenient-black-edges-from-youtube-videos/"><u>[Updated] Remove Inconvenient Black Edges From YouTube Videos</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/demystifying-the-mechanisms-of-predictive-ai-technology/"><u>Demystifying the Mechanisms of Predictive AI Technology</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-leading-replacements-for-chatgpt-ranked/"><u>Discover the Leading Replacements for ChatGPT - Ranked</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/fachmannisch-systemeinstellen-wiederherstellen-sie-ihr-windows-11-im-abgeschirmten-modus/"><u>Fachmännisch Systemeinstellen: Wiederherstellen Sie Ihr Windows 11 Im Abgeschirmten Modus</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-text-prompts-to-ai-masterpieces-harnessing-chatgpt-for-image-generation/"><u>From Text Prompts to AI Masterpieces: Harnessing ChatGPT for Image Generation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/future-frontiers-the-new-era-of-chatbots-and-ai/"><u>Future Frontiers: The New Era of Chatbots & AI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/harness-powerful-language-ai-without-cost-check-out-these-6-options-beyond-openais-sora/"><u>Harness Powerful Language AI Without Cost - Check Out These 6 Options Beyond OpenAI's Sora</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Realme 11X 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transform-your-android-experience-easy-steps-to-enable-voice-controlled-chatgpt-via-voicegpt/"><u>Transform Your Android Experience: Easy Steps to Enable Voice Controlled ChatGPT via VoiceGPT</u></a></li>
+</ul></div>
 

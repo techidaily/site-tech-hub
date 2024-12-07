@@ -1,7 +1,7 @@
 ---
 title: "Excel Mastery Unraveled: Where ChatGPT Lags"
-date: 2024-09-06T21:38:21.771Z
-updated: 2024-09-07T21:38:21.771Z
+date: 2024-12-04T16:38:42.766Z
+updated: 2024-12-07T19:35:49.568Z
 tags:
   - chatgpt
   - open-ai
@@ -13,13 +13,11 @@ excerpt: "This Article Describes Excel Mastery Unraveled: Where ChatGPT Lags"
 thumbnail: https://thmb.techidaily.com/e694a122580d35baa4ea409639e0ea6a835876b9d9b87e9c40850a4f81b5f21f.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Best Free Alternatives to OpenAI's Sora: Try Them Out Now
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -32,9 +30,17 @@ thumbnail: https://thmb.techidaily.com/e694a122580d35baa4ea409639e0ea6a835876b9d
 
  OpenAI's Sora text-to-video tool is set to give the world another ChatGPT moment, and for good reason. Sora's ability to generate high-quality video from text prompts is remarkable but not unprecedented, and it's still yet to fully launch. So, if you're looking for a Sora alternative, for whatever reason, you have options to choose from.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1 [Runway's Gen-2](https://research.runwayml.com/gen2)
 
 ![Runway Gen 2 Home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/runway-gen-2-home-page.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * **Free:** 125 Credits
 * **Standard:** $15/month ($12 when paid annually) for 625 monthly credits
@@ -47,12 +53,6 @@ thumbnail: https://thmb.techidaily.com/e694a122580d35baa4ea409639e0ea6a835876b9d
 
  Judging from the quality of Sora-generated clips shared by OpenAI, Sora bests Runway Gen-2 as an AI text-to-video generator. However, given the speed of development in the AI space (and the fact that Runway launched Gen-2 about a year before the first preview of Sora was released), it's clear OpenAI's Sora and Runway Gen-2 (and its future versions) will battle for the best text-to-video AI generator title.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2 [Pika](https://pika.art/)
 
 ![screenshot of pika labs homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/screenshot-of-pika-labs-homepage.jpg)
@@ -76,28 +76,14 @@ A stylish woman walks down a Tokyo street filled with warm glowing neon and anim
 
  We'll let you judge which is better, but it's clear Pika has some catching up to do compared to the quality of Sora-generated clips online. However, its other features, like lip-syncing and image animation, give it an edge over Sora—at least for now.
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3 [Pixverse](http://pixverse.ai/)
 
 ![screenshot of pixverse homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/screenshot-of-pixverse-homepage.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 * **Free**
 
  Pixverse is another alternative to Open AI's Sora that lets you create realistic videos with text prompts. Pixverse also offers two platforms for video creation: the web platform and the Discord server.
@@ -114,16 +100,14 @@ A stylish woman walks down a Tokyo street filled with warm glowing neon and anim
 
 Quality-wise, Pixverse is in the same class as Pika—below Sora.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 [Kaiber](https://kaiber.ai/)
 
 ![screenshot of kaiber homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/screenshot-of-kaiber-homepage.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * **Free:** 100 initial credits
 * **Explorer:** $5/month for 300 credits.
 
@@ -135,12 +119,6 @@ Quality-wise, Pixverse is in the same class as Pika—below Sora.
 
  Your browser does not support the video tag.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5 [Synthesia](http://www.synthesia.io/)
 
 ![screenshot of synthesia homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/screenshot-of-synthesia-homepage.jpg)
@@ -156,12 +134,6 @@ Quality-wise, Pixverse is in the same class as Pika—below Sora.
 
  Synthesia is a good alternative to Sora for creating engaging and personalized videos for education, marketing, or entertainment purposes.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6 [Vidnoz](http://www.vidnoz.com/)
 
 ![Screenshot of vidnoz homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/screenshot-of-vidnoz-homepage.jpg)
@@ -177,14 +149,11 @@ Quality-wise, Pixverse is in the same class as Pika—below Sora.
 
  If what followed OpenAI's launch of ChatGPT is anything to go by, then you can expect more AI text-to-video platforms to be introduced. You can also expect Google's Lumiere and Meta's Make-A-Video to become accessible to the public.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -193,4 +162,23 @@ Quality-wise, Pixverse is in the same class as Pika—below Sora.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-next-level-livestream-selecting-the-best-360-cameras/"><u>[New] In 2024, Next-Level Livestream Selecting the Best 360° Cameras</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-rising-to-the-top-essential-youtube-video-seo-techniques-for-success/"><u>[New] Rising to the Top Essential YouTube Video SEO Techniques for Success</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-simplified-process-for-name-change-in-google-meet-laptopmobile-for-2024/"><u>[New] Simplified Process for Name Change in Google Meet (Laptop/Mobile) for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-sky-high-quality-with-your-iphone-camera-essential-tips-top-8/"><u>[New] Sky-High Quality with Your iPhone Camera Essential Tips (Top 8)</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-elevate-your-freefire-gameplay-on-youtube-channels-for-2024/"><u>[Updated] Elevate Your FreeFire Gameplay on YouTube Channels for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enjoy-endless-benefits-at-no-charge-discover-top-quality-free-offerings-today/"><u>Enjoy Endless Benefits at No Charge: Discover Top-Quality Free Offerings Today!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enjoy-endless-stories-read-kobo-titles-on-ios-devices/"><u>Enjoy Endless Stories - Read Kobo Titles on iOS Devices</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-comprehensive-faqs-of-epubor-your-ultimate-resource-guide/"><u>Exploring the Comprehensive FAQs of Epubor: Your Ultimate Resource Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/facing-difficulties-in-turning-books-into-ebooks-discover-how-to-overcome-common-ebook-conversion-challenges/"><u>Facing Difficulties in Turning Books Into eBooks? Discover How to Overcome Common EBook Conversion Challenges!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/freedom-of-access-effective-techniques-for-drm-free-conversion-of-pdf-and-ebook-formats/"><u>Freedom of Access: Effective Techniques for DRM-Free Conversion of PDF and eBook Formats</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/get-started-with-our-exclusive-no-cost-test-drive/"><u>Get Started with Our Exclusive No-Cost Test Drive</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-nvidia-geforce-gtx-460-driver-for-windows-computers-step-by-step-download-tutorial/"><u>Get the Latest nVidia GeForce GTX 460 Driver for Windows Computers - Step by Step Download Tutorial</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/guide-converting-your-kindle-library-into-google-play-format-seamlessly/"><u>Guide: Converting Your Kindle Library Into Google Play Format Seamlessly</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Honor X50i+? | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/leading-htpc-reviews-find-your-perfect-media-center-setup-today/"><u>Leading HTPC Reviews - Find Your Perfect Media Center Setup Today!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/troubleshooting-solutions-for-the-realtek-8821ae-wifi-network-adapters-80211ac-driver-problem/"><u>Troubleshooting Solutions for the Realtek 8821AE WiFi Network Adapter's 802.11Ac Driver Problem</u></a></li>
+</ul></div>
 

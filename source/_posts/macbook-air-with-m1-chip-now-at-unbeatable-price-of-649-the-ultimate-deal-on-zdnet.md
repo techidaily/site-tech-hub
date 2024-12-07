@@ -1,7 +1,7 @@
 ---
 title: "MacBook Air with M1 Chip Now at Unbeatable Price of $649: The Ultimate Deal on ZDNet"
-date: 2024-11-26T03:14:33.475Z
-updated: 2024-11-28T04:16:54.436Z
+date: 2024-12-04T20:50:54.273Z
+updated: 2024-12-07T17:25:38.855Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,15 +81,20 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-discover-the-ultimate-top-5-iphone-applications-for-podcasts/"><u>[New] 2024 Approved Discover the Ultimate Top 5 iPhone Applications for Podcasts</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-transforming-team-meeting-aesthetics-the-prepost-customization-angle/"><u>[Updated] In 2024, Transforming Team Meeting Aesthetics The Pre/Post Customization Angle</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1723262386101-250-deal-alert-invest-in-an-elite-rtx-4090-powered-gaming-tower-now/"><u>$250 Deal Alert: Invest in an Elite RTX 4090 Powered Gaming Tower Now!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/effortless-task-management-auto-gpt-in-ubuntu/"><u>Effortless Task Management: Auto-GPT in Ubuntu</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-all-facets-of-netflixs-online-content-delivery-network/"><u>Exploring All Facets of Netflix's Online Content Delivery Network</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/size-matters-crafting-engaging-video-titles-for-2024/"><u>Size Matters Crafting Engaging Video Titles for 2024</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/step-by-step-instructions-for-retrieving-lost-drone-videos-from-the-dji-go-platform/"><u>Step-by-Step Instructions for Retrieving Lost Drone Videos From the DJI GO Platform</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-future-of-professional-emails-chatgpt-as-your-creative-companion/"><u>The Future of Professional Emails: ChatGPT as Your Creative Companion</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/the-future-of-social-media-sharing-twitter-videos-on-fb/"><u>The Future of Social Media Sharing Twitter Videos on FB</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-auto-gpt-key-features-that-set-it-apart-from-chatgpt/"><u>Understanding Auto-GPT: Key Features That Set It Apart From ChatGPT</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-3-simple-ways-to-color-grading-in-photoshop/"><u>[New] 3 Simple Ways to Color Grading in Photoshop</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-prime-screen-grabbers-selection-1-8/"><u>[New] Prime Screen Grabbers Selection #1-8</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-navigating-noise-free-auditory-shifts/"><u>[Updated] 2024 Approved Navigating Noise-Free Auditory Shifts</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-vimeo-video-snippets-turn-into-dynamic-shareable-gifs-for-2024/"><u>[Updated] Vimeo Video Snippets Turn Into Dynamic, Shareable GIFs for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/m2tff3/"><u>最適な無料ツールでM2TFFファイルの変換方法:上位3つ紹介</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/by-accident-tiktok-rewind-restore-lost-content-in-2024/"><u>By Accident, TikTok Rewind Restore Lost Content, In 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-the-ultimate-pc-clipper-guide-choose-from-the-5-best-tools/"><u>In 2024, The Ultimate PC Clipper Guide - Choose From the 5 Best Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mp3-dvd/"><u>MP3へ変換: DVDのオーディオリッピング手順詳細ガイド</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-speed-up-or-slow-down-the-best-free-video-editing-apps-for-mobile-for-2024/"><u>New Speed Up or Slow Down The Best Free Video Editing Apps for Mobile for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/professional-blackberry-video-transcoder-ultimate-guide-using-wonderfox-factory-pro/"><u>Professional BlackBerry Video Transcoder: Ultimate Guide Using WonderFox Factory Pro</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/quick-and-simple-steps-to-transform-dss-files-into-high-quality-wav-format/"><u>Quick & Simple Steps to Transform DSS Files Into High-Quality WAV Format</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/rotating-video-footage-effortlessly-alternatives-to-windows-media-player/"><u>Rotating Video Footage Effortlessly - Alternatives to Windows Media Player</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-how-to-incornately-insert-text-overlays-in-videos-at-zero-cost-and-without-watermarks/"><u>Step-by-Step Guide: How to Incornately Insert Text Overlays in Videos at Zero Cost and Without Watermarks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-separating-audio-from-video-in-davinci-resolve/"><u>Step-by-Step Guide: Separating Audio From Video in DaVinci Resolve</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-spontaneous-crashes-a-case-study/"><u>Windows 10 Spontaneous Crashes: A Case Study</u></a></li>
 </ul></div>
 

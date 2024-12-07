@@ -1,7 +1,7 @@
 ---
 title: Easy Guide to Activating Slack Alerts on Apple Watch - Tips
-date: 2024-11-21T21:54:33.741Z
-updated: 2024-11-27T18:10:38.179Z
+date: 2024-12-04T18:27:27.106Z
+updated: 2024-12-07T20:40:30.651Z
 tags:
   - apple
 categories:
@@ -44,9 +44,17 @@ Here's how.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to enable Slack notifications on your Apple Watch
 
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Install the Slack app on your iPhone
 
@@ -54,17 +62,9 @@ There is no dedicated Slack app for the Apple Watch, but there is an iPhone app.
 
 Once it's installed, go ahead and log into your various Slack channels. Get those setup and working as you like before configuring the app for notifications.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Set up Slack notifications in the system settings
 
 Let's make sure iOS is set up to allow Slack notifications. Go to the main Settings app and on the main settings screen, scroll all the way down to Slack. It's a long scroll past many other apps. Tap into Slack.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##   
 
@@ -76,17 +76,9 @@ Now, back out to the top of the Settings app and tap the red Notifications icon.
 
 Screenshot by David Gewirtz/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Set up Slack notifications in the Slack app
 
 Next, open the Slack app. Tap your profile image in the upper right corner of the screen. Then tap Notifications.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##   
 
@@ -126,12 +118,16 @@ So, make sure you set the Start and End times that fit with your schedule.
 
 Recommendation to Slack: Where you put the "Every day" option in that setting, add the times as well (e.g., "Every day 8 a.m. - 11 p.m."). That way, it's clear to users what they might need to change. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Enable Slack notifications in the Watch app
 
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   
@@ -139,6 +135,10 @@ We're almost done configuring notifications. Open the Watch app and scroll down 
 Screenshot by David Gewirtz/ZDNET
 
 There. You've set up notifications. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
 
@@ -179,24 +179,24 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://novels-ebooks.techidaily.com/211335804-9798218427023-soulful-dialogue/"><u> "Soulful Dialogue | Free Book</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-harnessing-hdr-in-post-top-4-youtube-guides-with-complimentary-green-screen-effects/"><u>[New] 2024 Approved Harnessing HDR in Post Top 4 YouTube Guides with Complimentary Green Screen Effects</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-dull-to-delightful-text-that-tumbles-and-twirls-for-2024/"><u>[New] From Dull to Delightful Text that Tumbles and Twirls for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-crafting-engaging-narratives-a-compreehensive-guide-to-adding-emojis-to-instagram-stories/"><u>[New] In 2024, Crafting Engaging Narratives A Compreehensive Guide to Adding Emojis to Instagram Stories</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-revolutionize-your-videos-with-top-10-free-srt-converters/"><u>[New] Revolutionize Your Videos with Top 10 Free SRT Converters</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-make-every-picture-pop-with-these-10-online-photo-fixers/"><u>[Updated] Make Every Picture Pop with These 10 Online Photo Fixers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-the-power-of-gpt-automation-with-these-8-essential-tips/"><u>Discover the Power of GPT Automation with These 8 Essential Tips</u></a></li>
-<li><a href="https://games-able.techidaily.com/evading-inquisitive-trackers-in-games/"><u>Evading Inquisitive Trackers in Games</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/generative-ais-evolving-threat-spectrum/"><u>Generative AI's Evolving Threat Spectrum</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/high-dynamic-range-luminances-impact-review/"><u>High Dynamic Range Luminance's Impact Review</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-assessing-the-full-video-range-within-a-64128gb-memory-pool/"><u>In 2024, Assessing the Full Video Range Within a 64/128GB Memory Pool</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-optimize-youtube-for-superior-image-quality-using-av1/"><u>In 2024, Optimize YouTube for Superior Image Quality Using AV1</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-ai-the-new-stand-up-artist-discovering-chatgpts-humorous-side/"><u>Is AI the New Stand-Up Artist? Discovering ChatGPT's Humorous Side</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-chatgpt-a-trustworthy-source-for-medical-insights/"><u>Is ChatGPT a Trustworthy Source for Medical Insights?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/stay-alert-against-false-ai-apps-uncovering-the-dangers-of-these-9-misleading-chatgpt-viruses-capable-of-data-breach/"><u>Stay Alert Against False AI Apps: Uncovering the Dangers of These 9 Misleading ChatGPT Viruses Capable of Data Breach</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-role-of-chatgpt-in-cultivating-greater-emotional-awareness-and-understanding/"><u>The Role of ChatGPT in Cultivating Greater Emotional Awareness and Understanding</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-potential-of-googles-gemini-ai-in-light-of-chatgpt/"><u>Unveiling the Potential of Google's Gemini AI in Light of ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-secrets-of-bert-the-next-evolution-beyond-gpt-for-text-comprehension/"><u>Unveiling the Secrets of BERT: The Next Evolution Beyond GPT for Text Comprehension</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/which-is-superior-notion-ai-versus-chatgpt-in-the-arena-of-generative-ai-tools/"><u>Which Is Superior? Notion AI Versus ChatGPT in the Arena of Generative AI Tools</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-calls-recorded-and-saved-iphone-24-sound-guide/"><u>[New] In 2024, Calls Recorded & Saved IPhone '24 Sound Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-virtual-worlds-reimagined-the-most-spectacular-sci-fi-films-of-the-metaverse-era/"><u>[New] Virtual Worlds Reimagined The Most Spectacular Sci-Fi Films of the Metaverse Era</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tudou/"><u>「土豆(Tudou)からのビデオダウンロードガイド」</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-ideal-techniques-for-garnering-background-visuals/"><u>2024 Approved Ideal Techniques for Garnering Background Visuals</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-honor-x50-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oneplus-open-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock OnePlus Open Phone Without Password?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-save-big-top-6-inexpensive-action-cams-under-100-deals/"><u>In 2024, Save Big Top 6 Inexpensive Action Cams Under $100 Deals</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/precision-and-efficiency-incorporating-luts-in-after-effects-for-2024/"><u>Precision and Efficiency Incorporating LUTs in After Effects for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamlining-gpt-3-interactions-via-folder-management/"><u>Streamlining GPT-3 Interactions via Folder Management</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-artisan-writes-crafting-hdr-magic-with-iphone-for-2024/"><u>The Artisan’ Writes Crafting HDR Magic with iPhone for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-free-ipod-video-transformation-tool-the-ultimate-guide-to-the-best-free-ipod-video-converter/"><u>Top Rated Free iPod Video Transformation Tool: The Ultimate Guide to the Best Free iPod Video Converter</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/trouble-adding-mp4-to-imovie-discover-how-to-successfully-integrate-your-video/"><u>Trouble Adding MP4 to iMovie? Discover How to Successfully Integrate Your Video!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/try-our-premium-ipad-film-editor-software-for-free-and-complete-your-purchase-safely-after-testing/"><u>Try Our Premium iPad Film Editor Software for Free and Complete Your Purchase Safely After Testing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-guide-to-choosing-the-perfect-aiot-videocoder-updated-recommendations-and-tips/"><u>Ultimate Guide to Choosing the Perfect AIOT Videocoder - Updated Recommendations & Tips!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-guide-convert-your-favorite-tiktoks-into-high-quality-mp3-files-using-the-leading-converters-of-2023/"><u>Ultimate Guide: Convert Your Favorite TikToks Into High-Quality MP3 Files Using the Leading Converters of 2023</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-productivity-why-blackberry-dominates-in-enterprise-mobility-solutions/"><u>Unlocking Productivity: Why BlackBerry Dominates in Enterprise Mobility Solutions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726026870345-windows-10/"><u>Windows 10用動画カット技術詳解</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726026623828-youtube/"><u>YouTube 年齢制限突破！シークレットの方法</u></a></li>
 </ul></div>
 

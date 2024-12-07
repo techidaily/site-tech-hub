@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide on Deleting Your Apple Music Subscription Without Using iTunes
-date: 2024-10-27T12:53:06.303Z
-updated: 2024-11-02T00:54:25.005Z
+date: 2024-12-02T17:29:18.203Z
+updated: 2024-12-07T16:28:03.009Z
 tags:
   - apple
 categories:
@@ -22,6 +22,10 @@ iTunes is dead. iTunes has been dead since 2019\. Alas, poor iTunes, we knew you
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### See also
 
 * [How to customize your iPhone's new Control Center with iOS 18](https://www.zdnet.com/article/how-to-customize-your-iphones-new-control-center-with-ios-18/)
@@ -36,10 +40,7 @@ But iTunes is dead. Actually, that's not entirely true. Its ghost lingers on. Ap
 Apple Music hasn't been tied to iTunes for account management since 2019\. Now, for those of us who have moved on from our iTunes days, we can cancel an Apple Music subscription either from the web or from iOS device Settings. Let's look at both. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to cancel Apple Music from your Web browser
@@ -59,16 +60,7 @@ David Gewirtz/Screenshot
 Once you're on the Manage screen, choose Cancel Subscription. That should do it for you. 
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to cancel Apple Music from your iPhone or iPad
@@ -129,20 +121,20 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-ultimate-guide-selecting-the-top-8-tripods-for-high-res-cameras/"><u>[New] In 2024, Ultimate Guide Selecting the Top 8 Tripods for High-Res Cameras</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-streamline-your-social-networking-joining-instagram-and-facebook-seamlessly/"><u>[Updated] 2024 Approved Streamline Your Social Networking Joining Instagram & Facebook Seamlessly</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-elated-user-entryways-and-exits/"><u>[Updated] Elated User Entryways & Exits</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-master-the-art-of-recording-lol-discover-3-essential-tips-for-2024/"><u>[Updated] Master the Art of Recording LOL - Discover 3 Essential Tips for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/google-chromemozilla-firefox/"><u>【Google Chrome/Mozilla Firefox】インタラクティブなビデオ取得ツールの効果的利用方法」</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/effortless-conversion-transform-videos-into-wav-files-with-ease/"><u>Effortless Conversion: Transform Videos Into WAV Files with Ease</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/effortless-steps-for-converting-swf-files-into-mov-format/"><u>Effortless Steps for Converting SWF Files Into MOV Format</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhancing-video-resolution-with-premiere-pro-tips-for-achieving-stunning-1080p-and-4k-outputs/"><u>Enhancing Video Resolution with Premiere Pro: Tips for Achieving Stunning 1080P and 4K Outputs</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/fixing-the-problem-of-non-recording-sound-files-in-audacity-software/"><u>Fixing the Problem of Non-Recording Sound Files in Audacity Software</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/flash-video-flv-conversion-tutorial-switching-to-windows-media-video-wmv/"><u>Flash Video (FLV) Conversion Tutorial: Switching to Windows Media Video (WMV)</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/free-and-dependable-strategies-extracting-bilibili-music-tracks-as-mp3-files/"><u>Free & Dependable Strategies: Extracting Bilibili Music Tracks as MP3 Files</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-repair-unresponsive-sounds-in-dying-light-expert-solutions-revealed/"><u>How to Repair Unresponsive Sounds in Dying Light – Expert Solutions Revealed</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-realme-12-proplus-5g-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Realme 12 Pro+ 5G Phone Pattern Lock</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-bitter-truth-of-ai-dialogue-nine-problematic-aspects-of-gpt/"><u>The Bitter Truth of AI Dialogue: Nine Problematic Aspects of GPT</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-breathing-new-life-into-anime-with-impactful-tiktoks/"><u>[Updated] In 2024, Breathing New Life Into Anime with Impactful TikToks</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-charismatic-charm-of-moving-text-on-screen/"><u>[Updated] In 2024, Charismatic Charm of Moving Text on Screen</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-chatgpt-compete-with-traditional-search-engine-technology/"><u>Can ChatGPT Compete with Traditional Search Engine Technology?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/explore-top-virtual-reality-bike-adventures-for-2024/"><u>Explore Top Virtual Reality Bike Adventures for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-boost-your-utorrent-speed-and-get-faster-downloads-expert-tips/"><u>How to Boost Your uTorrent Speed & Get Faster Downloads: Expert Tips</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-the-rise-of-ai-chatbots-posing-a-threat-to-conventional-web-search-services/"><u>Is the Rise of AI Chatbots Posing a Threat to Conventional Web Search Services?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/journey-through-verse-integrating-chatgpts-insights/"><u>Journey Through Verse: Integrating ChatGPT's Insights</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondly-kids-edition-secure-and-enjoyable-for-2017-parents/"><u>Mondly Kid's Edition: Secure & Enjoyable for 2017 Parents</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-through-ai-enriched-content-strategies-with-advanced-chatbot-solutions/"><u>Navigating Through AI-Enriched Content Strategies with Advanced Chatbot Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721470427941-resolve-the-mystery-of-vanishing-icons-on-your-apple-device-today/"><u>Resolve the Mystery of Vanishing Icons on Your Apple Device Today</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/simplify-mundane-hr-tasks-using-advanced-chatgpt-techniques/"><u>Simplify Mundane HR Tasks Using Advanced ChatGPT Techniques</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/ultimate-strategies-for-stunning-iphone-nature-photography-for-2024/"><u>Ultimate Strategies for Stunning iPhone Nature Photography for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-ais-best-kept-secrets-a-deep-dive-into-chatgpt-plus-vs-perplexity-capabilities/"><u>Unveiling AI's Best Kept Secrets: A Deep Dive Into ChatGPT Plus Vs. Perplexity Capabilities</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-easter-treat-for-creators-wondershare-filmora-exclusive-offer/"><u>Updated 2024 Approved Easter Treat for Creators Wondershare Filmora Exclusive Offer</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/words-into-worlds-chatgpts-sixfold-creativity-catalyst/"><u>Words Into Worlds: ChatGPT’s Sixfold Creativity Catalyst</u></a></li>
 </ul></div>
 

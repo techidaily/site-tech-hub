@@ -1,7 +1,7 @@
 ---
 title: Discover Why the Removable Battery Is Just the Beginning of What Makes This iPhone Case Special
-date: 2024-11-26T17:08:59.207Z
-updated: 2024-11-28T06:05:40.655Z
+date: 2024-12-02T16:32:18.883Z
+updated: 2024-12-07T20:39:20.025Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ Matthew Miller/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  ZDNET's key takeaways
@@ -84,7 +84,7 @@ My biggest challenge now is memorizing all the shortcuts I've created, but the a
 Clicks is available for the two iPhone 14 Pro models and all four models of the iPhone 15\. Availability of the various colors varies, so check back on the website if you don't see the one you want. I would love to hear which shortcuts you created and find the most useful, so leave a comment below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  ZDNET's buying advice
@@ -123,24 +123,22 @@ If you miss the physical keyboard on devices like the Blackberry, this accessory
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-vlc-player-from-live-viewing-to-recording/"><u>[New] VLC Player From Live Viewing to Recording</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-15-best-ideas-to-post-on-snapchat/"><u>[Updated] In 2024, 15 Best Ideas To Post On Snapchat</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-jest-junction-youtubes-top-20-for-a-lighthearted-pause/"><u>[Updated] Jest Junction YouTube's Top 20 for a Lighthearted Pause</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-comprehensive-walkthrough-posting-imovie-videos-to-vimeo/"><u>2024 Approved Comprehensive Walkthrough Posting iMovie Videos to Vimeo</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-showdown-evaluating-the-superiority-of-chatgpt-microsoft-bings-ai-and-google-bard/"><u>AI Showdown: Evaluating the Superiority of ChatGPT, Microsoft Bing's AI, & Google Bard</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/conquer-daily-hurdles-easily-using-chatgpt-for-a-peak-performance-life/"><u>Conquer Daily Hurdles Easily: Using ChatGPT for a Peak Performance Life</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/crafting-your-version-of-chatgpt-for-enhanced-personal-use/"><u>Crafting Your Version of ChatGPT for Enhanced Personal Use</u></a></li>
-<li><a href="https://games-able.techidaily.com/ensuring-durability-5-tips-for-a-lasting-switch-experience/"><u>Ensuring Durability: 5 Tips for a Lasting Switch Experience</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-radeon-r9-drivers-on-new-windows-11/"><u>Fixing Radeon R9 Drivers on New Windows 11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-bypass-common-setbacks-when-leveraging-chatgpt-in-writing/"><u>How to Bypass Common Setbacks When Leveraging ChatGPT in Writing</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stop-microsoft-edge-from-crashing-in-windows-(title)10-issue-resolved/"><u>How to Stop Microsoft Edge From Crashing in Windows <Title>10 [Issue Resolved]</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-perfecting-screen-capture-teams-meetings-on-pctablet/"><u>In 2024, Perfecting Screen Capture Teams' Meetings on PC/Tablet</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-it-secure-to-use-independent-chatgpt-add-ons-and-plugins/"><u>Is It Secure to Use Independent ChatGPT Add-Ons & Plugins?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/maximize-efficiency-with-copilot-the-ideal-choice-for-complimentary-gpt-4-turbo-use/"><u>Maximize Efficiency with Copilot - The Ideal Choice for Complimentary GPT-4 Turbo Use</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/on-device-ai-demystified-an-in-depth-look-at-how-it-operates/"><u>On-Device AI Demystified: An In-Depth Look at How It Operates</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/precision-pc-analysis-with-toms-hardware-experts/"><u>Precision PC Analysis with Tom's Hardware Experts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/strategies-to-secure-your-artwork-against-generative-ai-infringement/"><u>Strategies to Secure Your Artwork Against Generative AI Infringement</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-generative-artificial-intelligence-the-future-of-machine-based-innovation/"><u>Unveiling Generative Artificial Intelligence: The Future of Machine-Based Innovation</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-unbranded-and-unbeatable-the-best-free-online-video-editors/"><u>Updated 2024 Approved Unbranded and Unbeatable The Best Free Online Video Editors</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-explore-the-finest-10-free-video-conferencing-services-for-corporates-and-academia/"><u>[New] In 2024, Explore the Finest 10 Free Video Conferencing Services for Corporates & Academia</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-intellectual-edge-trivia-challenges-2024/"><u>[New] Intellectual Edge Trivia Challenges 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-vocal-variance-for-visuals-dynamic-voiceover-strategies-on-slides/"><u>[Updated] 2024 Approved Vocal Variance for Visuals Dynamic Voiceover Strategies on Slides</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-avoiding-common-pitfalls-in-pc-based-youtube-video-editing/"><u>[Updated] In 2024, Avoiding Common Pitfalls in PC-Based YouTube Video Editing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/behind-the-algorithmic-curtain-how-do-ai-black-boxes-work/"><u>Behind the Algorithmic Curtain: How Do AI Black Boxes Work?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/comprehensive-list-of-budget-friendly-online-editors-for-2024/"><u>Comprehensive List of Budget-Friendly Online Editors for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/crafting-paperwork-with-chatgpt-aid/"><u>Crafting Paperwork with ChatGPT Aid</u></a></li>
+<li><a href="https://change-location.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-best-markets-for-generative-ai-services/"><u>Discover the Best Markets for Generative AI Services</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ting-your-yt-content-with-the-top-thumbnail-hacks-for-2024/"><u>Elevating Your YT Content with the Top Thumbnail Hacks for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/protecting-your-digital-fortresses-could-cybercriminals-exploit-chatgpt-for-attacks/"><u>Protecting Your Digital Fortresses: Could Cybercriminals Exploit ChatGPT for Attacks?</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-outlook-access-issue-opening-restricted-folders-in-windows/"><u>Resolving Outlook Access Issue: Opening Restricted Folders in Windows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/trustworthy-methods-to-authenticate-health-insights-from-ai-systems-like-chatgpt/"><u>Trustworthy Methods to Authenticate Health Insights From AI Systems Like ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-chatgpt-enterprise-features-benefits-and-unique-advantages/"><u>Understanding ChatGPT Enterprise: Features, Benefits, and Unique Advantages</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-openais-security-challenge-learn-how-to-contribute-and-earn-rewards/"><u>Unveiling OpenAI's Security Challenge - Learn How to Contribute and Earn Rewards</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/will-advanced-language-models-like-chatgpt-disrupt-current-search-engine-giants/"><u>Will Advanced Language Models Like ChatGPT Disrupt Current Search Engine Giants?</u></a></li>
 </ul></div>
 

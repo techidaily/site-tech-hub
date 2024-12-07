@@ -1,7 +1,7 @@
 ---
 title: Buy These New Apple Features Announced at WWDC Today – Where to Get Them | CNET News
-date: 2024-11-26T16:55:49.262Z
-updated: 2024-11-27T21:10:26.607Z
+date: 2024-12-05T20:43:18.851Z
+updated: 2024-12-07T19:47:14.017Z
 tags:
   - apple
 categories:
@@ -28,6 +28,10 @@ To help you make this decision, we've broken down all of the most important deta
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Specifications
 
 | Specs        | **iPhone 16**                                                                                                                                                                                                    | **iPhone 15**                                                                                                                                                                                                    |
@@ -46,16 +50,12 @@ To help you make this decision, we've broken down all of the most important deta
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You should buy the iPhone 16 if...
 
 Kerry Wan/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  1\. You'd benefit from Apple Intelligence features
 
@@ -64,10 +64,6 @@ Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.c
 **Also: [Your AIrPods Pro 2 can soon double as over-the-counter hearing aids. Here's how](https://www.zdnet.com/article/your-airpods-pro-2-can-soon-double-as-over-the-counter-hearing-aids-heres-how/)**
 
 There is more to the AI features beyond Siri. Apple Intelligence will be able to summarize notifications and Priority Messages in the Mail app. Like Siri, the feature will be able to understand context. [Apple Intelligence](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/) will gain additional features later in the year like the ability to create custom emojis and perform multiple actions across apps.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  2\. You want a better photography experience
 
@@ -78,7 +74,7 @@ The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-whi
 On the side below the [Power Button is the new Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/). It's a tactile switch with a special sensor that can perform unique actions with a light touch. For example, pressing it quickly launches the Camera app for taking quick snapshots or recording a video. It even introduces a preview feature to help you frame the shot. And if that wasn't enough, it'll work with third-party apps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  3\. You want "next-level performance"
@@ -99,6 +95,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  You should buy the iPhone 15 if...
 
 Kerry Wan/ZDNET
@@ -111,10 +111,6 @@ All of the bells and whistles on the iPhone 16 are certainly nice, but are they 
 
 Sometimes, it's best to wait until all the bugs have been ironed out. Plus, there's a lot of uncertainty surrounding the chipset. Early impressions indicate the A18 can handle all the AI features, but can it? Or will we see a performance drop once it launches? 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  2\. You're on a budget
 
 With the release of a new model, older phones often see a price drop, and that is exactly what we're getting here. Apple has cut the price of the iPhone 15 by about $100 off its digital storefront to entice new adopters. 
@@ -122,6 +118,10 @@ With the release of a new model, older phones often see a price drop, and that i
 It wouldn't be a bad pick-up, either. The camera system of the previous generation is great to this day, the A16 Bionic chip is still plenty powerful, and the Dynamic Island is a welcomed addition. You can enjoy a similar camera performance. Plus, you won't be bogged down by nascent AI features you may or may not ever use. 
 
 [Buy the iPhone 15 $729.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6417992%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6417992.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -157,20 +157,20 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-discovering-new-ways-beyond-magix-acid-pro/"><u>[New] 2024 Approved Discovering New Ways Beyond Magix ACID Pro</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/nnovative-hubs-of-affordable-visual-content-sources/"><u>[New] Innovative Hubs of Affordable Visual Content Sources</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-plus-reviewed-the-positives-meet-the-negatives/"><u>ChatGPT Plus Reviewed: The Positives Meet the Negatives</u></a></li>
-<li><a href="https://win-forum.techidaily.com/complete-tutorial-on-deleting-profiles-in-windows-nvme-storage-with-revos-tools/"><u>Complete Tutorial on Deleting Profiles in Windows Nvme Storage with Revo's Tools</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/directors-discourse-insights-and-answers-for-2024/"><u>Directors' Discourse Insights and Answers for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/elevate-your-career-game-leveraging-chatgpt-techniques-for-winning-linkedin-roles/"><u>Elevate Your Career Game: Leveraging ChatGPT Techniques for Winning LinkedIn Roles</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/global-tech-leaders-weigh-in-the-ai-debate/"><u>Global Tech Leaders Weigh In: The AI Debate</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-does-emotion-artificial-intelligence-interpret-human-sentiments/"><u>How Does Emotion Artificial Intelligence Interpret Human Sentiments?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-permanently-remove-yourself-from-chatgpt-detailed-instructions/"><u>How to Permanently Remove Yourself From ChatGPT: Detailed Instructions</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/innovative-and-fastest-usb-wi-fi-sticks-of-2024-what-you-should-buy-now/"><u>Innovative and Fastest USB Wi-Fi Sticks of 2024: What You Should Buy Now</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-chatgpt-effective-at-mathematical-problem-solving/"><u>Is ChatGPT Effective at Mathematical Problem-Solving?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/linus-tech-tips-twitters-new-checkmark-feature-unveiled-and-understanding-cyber-threats/"><u>Linus Tech Tips: Twitter's New Checkmark Feature Unveiled & Understanding Cyber Threats</u></a></li>
-<li><a href="https://extra-information.techidaily.com/peekpoint-analysis-a-guide/"><u>Peekpoint Analysis A Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/perfect-zooming-techniques-for-google-meet-for-2024/"><u>Perfect Zooming Techniques for Google Meet for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/struggling-with-wi-fi-on-your-laptop-discover-effective-troubleshooting-techniques-today/"><u>Struggling with Wi-Fi on Your Laptop? Discover Effective Troubleshooting Techniques Today!</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-resolve-androidios-issues-with-fb-video-playback/"><u>[Updated] Resolve Android/iOS Issues with FB Video Playback</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/claim-your-edge-with-claude-top-tier-ai-for-competitive-advantage/"><u>Claim Your Edge with Claude: Top-Tier AI for Competitive Advantage</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Infinix Smart 8? | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/enhance-conversions-using-the-advanced-features-of-cookiebot/"><u>Enhance Conversions Using the Advanced Features of Cookiebot</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/enhance-your-online-presence-with-manycam-premier-choice-for-live-broadcasts-and-virtual-webcams/"><u>Enhance Your Online Presence with ManyCam: Premier Choice for Live Broadcasts and Virtual Webcams</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-efficient-is-auto-gpt-without-the-advanced-capabilities-of-gpt-4-technology/"><u>How Efficient Is Auto-GPT Without the Advanced Capabilities of GPT-4 Technology?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-tecno-spark-10-4g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Tecno Spark 10 4G Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/installing-and-updating-logitech-hd-webcam-c270-driver-software-on-windows-10-and-11-systems/"><u>Installing & Updating Logitech HD WebCam C270 Driver Software on Windows 10 and 11 Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/limits-on-learning-machines/"><u>Limits on Learning Machines</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-away-from-official-gpt-models-are-jailbreaks-the-next-big-thing/"><u>Navigating Away From Official GPT Models – Are Jailbreaks the Next Big Thing?</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-beyond-gopro-studio-top-picks-for-editing-your-adventure-videos/"><u>New Beyond GoPro Studio Top Picks for Editing Your Adventure Videos</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/securing-your-ideal-career-the-role-of-chatgpt-in-boosting-job-applications/"><u>Securing Your Ideal Career: The Role of ChatGPT in Boosting Job Applications</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/strong-ai-and-weak-ai-unraveling-the-difference/"><u>Strong AI & Weak AI: Unraveling the Difference</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-guide-to-decreasing-sounds-prominence-in-lumafusion/"><u>The Ultimate Guide to Decreasing Sounds' Prominence in Lumafusion</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-the-animators-toolkit-8-essential-software-for-mac-and-windows-for-2024/"><u>Updated The Animators Toolkit 8 Essential Software for Mac and Windows for 2024</u></a></li>
 </ul></div>
 

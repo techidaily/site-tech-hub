@@ -1,7 +1,7 @@
 ---
 title: Is Opting for Local LLM the Best Decision? 9 Reasons to Consider
-date: 2024-09-02T09:26:40.086Z
-updated: 2024-09-03T09:26:40.086Z
+date: 2024-12-05T17:32:27.913Z
+updated: 2024-12-07T21:04:36.739Z
 tags:
   - chatgpt
   - open-ai
@@ -21,9 +21,17 @@ thumbnail: https://thmb.techidaily.com/2d824596cda220209cd5b9247c0c0e4bf48214334
 
  On March 19, 2024,[OpenAI disabled ChatGPT Plugin](https://help.openai.com/en/articles/8988022-winding-down-the-chatgpt-plugins-beta) conversations and completely removed them on April 9, 2024\. ChatGPT Plugins were removed because much of their functionality can be found in[custom GPTs and the GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. I Am Rich
 
 ![The I Am Rich plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-i-am-rich-plugin-on-the-chatgpt-plugin-store.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The "I Am Rich" plugin is one of the most confusing plugins on the ChatGPT platform. If you're ever curious about what it does and go poking around—you're probably already wasting your time because the plugin does absolutely nothing. And this is not an exaggeration.
 
@@ -32,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/2d824596cda220209cd5b9247c0c0e4bf48214334
  Years ago, there was an app on the Apple Store that cost around $999.99 which did the same thing. Once you installed the app, the only thing it did was show you the image. The only value it offered was showing people that you were rich enough to afford it.
 
  The app was swiftly taken off the Apple Store after several bad reviews. Was this plugin developed by the same person? We are not sure. But it sure has the same function—absolutely nothing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Aaron Web Browser
 
@@ -45,9 +57,6 @@ thumbnail: https://thmb.techidaily.com/2d824596cda220209cd5b9247c0c0e4bf48214334
 
 ![Appypie App builder on ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/appypie-app-builder-on-chatgpt-plugin-store.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
  AppyPie is a popular no-code app-building platform. It's relatively easy to use, and you can deploy fully functional mobile apps in a very short time without having to write a single line of code.
 
  Considering such a reputation, when AppyPie's plugin popped up in the ChatGPT plugins store, it seemed like you'd be able to build apps on demand by simply describing what you want in plain language. Just type in a prompt describing the kind of app you want and have the plugin build it immediately.
@@ -58,9 +67,6 @@ thumbnail: https://thmb.techidaily.com/2d824596cda220209cd5b9247c0c0e4bf48214334
 
  Sure, it seems a bit unreasonable to expect a working text-to-app plugin that can spit out apps on demand. But in an era where chatbots can write code and where text-to-image and text-to-video are a thing, text-to-app is not that ridiculous of an expectation.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. AI Agents
 
 ![AI Agents plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-agents-plugin-on-the-chatgpt-plugin-store.jpg)
@@ -71,9 +77,6 @@ thumbnail: https://thmb.techidaily.com/2d824596cda220209cd5b9247c0c0e4bf48214334
 
  It seems it was just applying a few prompt tricks and returning a not-so-enhanced copy of what ChatGPT would provide. There's really no sense of AI agents at work. It doesn't offer anything particularly different from what ChatGPT would do.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. A Movie Please (FilmFindr)
 
 ![FilmFindr plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/filmfindr-plugin-on-the-chatgpt-plugin-store.jpg)
@@ -85,36 +88,32 @@ thumbnail: https://thmb.techidaily.com/2d824596cda220209cd5b9247c0c0e4bf48214334
  For quality movie suggestions, you're better off prompting the base ChatGPT model directly[to decide what to watch next](https://www.makeuseof.com/chatgpt-movie-shows-recommendations/) . By going that route, you'll get far superior results compared to relying on the "A Movie Please" plugin.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. ABC Website Maker
 
 ![ABC Website maker plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/abc-website-maker-plugin-on-the-chatgpt-plugin-store.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The ABC website maker promises “conversational coding” where you can build web apps at a moment's notice by simply conversing with the plugin in natural language. In theory, these abilities should be relatively easy to pull off, considering ChatGPT on its own is already an impressive conversational coding tool.
 
  However, when we tasked the plugin with creating a simple portfolio website, the result was underwhelming.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## ChatGPT's Plugin Store: Quantity Over Quality?
 
  Rather than hastening progress, the "quantity over quality" trajectory that the ChatGPT plugin store seems to be towing is promoting lacklustre plugins that clutter the store. These plugins divert attention from other more promising tools that could truly push ChatGPT to new heights. Nonetheless, we hope that as the plugin store matures, higher-quality offerings will surface.
 
  Once developers dig deeper into ChatGPT's capabilities and innovate at its edges, we may finally see plugins that unlock the AI's full power. But for now, relying on the base ChatGPT model or proven third-party tools is a better bet for most tasks. Our verdict? The ChatGPT plugin gold rush has yet to strike gold.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -123,4 +122,24 @@ thumbnail: https://thmb.techidaily.com/2d824596cda220209cd5b9247c0c0e4bf48214334
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-capture-the-internets-attention-craft-with-kapwing/"><u>[New] Capture the Internet’s Attention – Craft with Kapwing</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-seamless-synergy-wearable-helps-open-mac-gadgets/"><u>[New] Seamless Synergy Wearable Helps Open Mac Gadgets</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-amplify-your-video-content-with-precision-insights-from-social-blade-and-youtube/"><u>2024 Approved Amplify Your Video Content with Precision Insights From Social Blade & YouTube</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/2024-approved-easy-ways-to-translate-tiktok-videos/"><u>2024 Approved Easy Ways to Translate TikTok Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-essentials-of-whatsapp-call-messages/"><u>2024 Approved The Essentials of WhatsApp Call Messages</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-nubia-red-magic-9-proplus-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Nubia Red Magic 9 Pro+ To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/microsofts-decision-phasing-out-more-built-in-utilities-in-windows-11/"><u>Microsoft's Decision: Phasing Out More Built-In Utilities in Windows 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/microsofts-new-roadmap-windows-11-update-ending-support-for-vbscript-in-h2/"><u>Microsoft's New Roadmap: Windows 11 Update Ending Support for VBScript in H2</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/photoshop-partners-for-pixel-perfect-grids-and-frames-for-2024/"><u>Photoshop Partners for Pixel-Perfect Grids and Frames for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/prepare-your-computer-with-the-next-gen-copilotplus-desktops/"><u>Prepare Your Computer with the Next-Gen 'Copilot+ Desktops'</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revamp-your-pcs-identity-a-step-by-step-guide-to-renaming-admin-account-on-windows-11/"><u>Revamp Your PC's Identity: A Step-by-Step Guide to Renaming Admin Account on Windows 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revive-your-taskbar-icons-in-windows-11-discover-6-effective-solutions/"><u>Revive Your Taskbar Icons in Windows 11: Discover 6 Effective Solutions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/six-shocking-examples-of-software-that-survive-and-thrive-in-the-age-old-world-of-windows-xp/"><u>Six Shocking Examples of Software That Survive and Thrive in the Age-Old World of Windows XP!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-determining-if-your-pcs-memory-is-upgradable-on-a-windows-system/"><u>Step-by-Step Guide: Determining if Your PC's Memory Is Upgradable on a Windows System</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-finding-out-your-java-versions-on-windows-11/"><u>Step-by-Step Guide: Finding Out Your Java Versions on Windows 11</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/the-compre-point-saving-twitter-exclusive-gifs-on-phones-for-2024/"><u>The Compre Point Saving Twitter-Exclusive Gifs on Phones for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unlocking-savings-with-speed-an-expert-review-on-the-samsung-galaxy-a51-5g-smartphone/"><u>Unlocking Savings with Speed - An Expert Review on the Samsung Galaxy A51 5G Smartphone</u></a></li>
+</ul></div>
 

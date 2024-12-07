@@ -1,7 +1,7 @@
 ---
 title: Top Trends Shaping Today’s Mobile Landscape - From AI Integration to Revolutionary Phone Design | Tech Insights by ZDNET
-date: 2024-11-21T13:43:13.977Z
-updated: 2024-11-28T09:43:45.675Z
+date: 2024-11-30T19:29:54.194Z
+updated: 2024-12-07T19:42:43.366Z
 tags:
   - apple
 categories:
@@ -31,23 +31,19 @@ Read on for a look at some of the new accessibility features coming to Apple har
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New eye-tracking features
 
 Apple is bringing a new feature to both iOS and iPadOS that will let you navigate your iPhone and iPad with just your eye movements. The feature uses the device's front-facing camera to track your eye movements and let you move through apps. Apple said that its new Eye Tracking feature will work across both its own and third-party apps, and will work with gestures powered solely by eye movements.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Apple Music haptics
 
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Addressing motion sickness
@@ -58,6 +54,10 @@ Motion sickness in cars can often be the result of a disconnect between what you
 
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Understanding speech
 
 A new feature called Voice Shortcuts will let you "assign custom utterances" that Apple's virtual personal assistant Siri will save. When Siri hears those utterances, it'll perform whatever action was assigned to it, including launching apps or engaging in more complex tasks on the device.
@@ -65,7 +65,7 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New CarPlay features
@@ -75,7 +75,7 @@ Apple's in-car CarPlay software is also getting new accessibility features, incl
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Some other updates
@@ -112,21 +112,16 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-kinemaster-elevating-your-game-play-experience-on-android-devices/"><u>[New] 2024 Approved KineMaster Elevating Your Game Play Experience on Android Devices</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-best-youtube-names-generators-plus-how-to-brainstorm/"><u>[Updated] In 2024, Best YouTube Names Generators [+ How to Brainstorm]</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-building-your-hyperlapse-filmmaking-toolkit/"><u>2024 Approved Building Your Hyperlapse Filmmaking Toolkit</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/assessing-the-viability-top-6-considerations-before-implementing-chatgpt-in-therapy-settings/"><u>Assessing the Viability: Top 6 Considerations Before Implementing ChatGPT in Therapy Settings</u></a></li>
-<li><a href="https://common-error.techidaily.com/handling-windows-11-freezes-effective-solutions-and-troubleshooting-steps/"><u>Handling Windows 11 Freezes: Effective Solutions and Troubleshooting Steps</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-realme-gt-5-240w-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Realme GT 5 (240W) Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/hitman-navigating-and-resolving-the-infamous-connection-error/"><u>Hitman Navigating and Resolving the Infamous Connection Error</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-ai-tools-are-being-used-by-cyberthieves-top-five-examples/"><u>How AI Tools Are Being Used by Cyberthieves: Top Five Examples</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-samsung-galaxy-xcover-7-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Samsung Galaxy XCover 7 Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On OnePlus 11R | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/innovations-in-ai-discovering-the-distinctive-aspects-of-bert-versus-traditional-gpt-methodologies/"><u>Innovations in AI: Discovering the Distinctive Aspects of BERT Versus Traditional GPT Methodologies</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/storytelling-excellence-achieved-through-chatgpt-key-strategies-revealed/"><u>Storytelling Excellence Achieved Through ChatGPT: Key Strategies Revealed</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-mystery-behind-grok-ai-elon-musk-sheds-light-on-his-new-creation/"><u>The Mystery Behind Grok AI: Elon Musk Sheds Light on His New Creation</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-smart-device-that-moves-with-you-in-depth-look-at-the-newly-released-amazon-echo-show-10-3rd-generation/"><u>The Smart Device That Moves With You - In-Depth Look at the Newly Released Amazon Echo Show 10 (3Rd Generation)</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ultimate-battle-of-linguistic-minds-chatgpt-plus-vs-perplexity-reviewed/"><u>Ultimate Battle of Linguistic Minds: ChatGPT Plus Vs. Perplexity Reviewed</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-the-significance-of-real-time-information-for-chatgpt-users-worldwide/"><u>Unlocking the Significance of Real-Time Information for ChatGPT Users Worldwide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-10-best-apps-for-editing-igtv-vertical-videos/"><u>[New] 2024 Approved 10 Best Apps for Editing IGTV Vertical Videos</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-hot-off-the-internet-discover-amazons-30-tiktok-must-haves/"><u>[New] 2024 Approved Hot Off the Internet? Discover Amazon's 30 TikTok Must-Haves</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-education-enhancement-the-art-of-lecture-transcription-on-macos/"><u>[Updated] 2024 Approved Education Enhancement The Art of Lecture Transcription on MacOS</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/augment-your-workflow-access-8-personalized-ais/"><u>Augment Your Workflow: Access 8 Personalized AIs</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-oneplus-ace-2-pro-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost OnePlus Ace 2 Pro for Free? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-motorola-moto-g84-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Motorola Moto G84 5G to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-the-world-of-ai-assistants-determining-whos-best-between-chatgpt-bing-by-microsoft-and-bard-from-google/"><u>Navigating the World of AI Assistants: Determining Who's Best Between ChatGPT, Bing by Microsoft, and Bard From Google</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-music-after-redmi-13c-5g-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after Redmi 13C 5G has been deleted</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-verdict-on-virtual-assistance-is-chatgpts-health-advice-credible/"><u>The Verdict on Virtual Assistance: Is ChatGPT's Health Advice Credible?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transform-your-smartphone-with-chatgpt-and-android/"><u>Transform Your Smartphone with ChatGPT & Android</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-advanced-problem-solving-with-these-7-ai-math-tools/"><u>Unlock Advanced Problem-Solving with These 7 AI Math Tools</u></a></li>
 </ul></div>
 

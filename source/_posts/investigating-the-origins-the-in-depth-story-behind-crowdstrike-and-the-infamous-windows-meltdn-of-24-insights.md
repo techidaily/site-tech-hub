@@ -1,7 +1,7 @@
 ---
 title: "Investigating the Origins: The In-Depth Story Behind CrowdStrike and the Infamous Windows Meltdn of '24 | Insights"
-date: 2024-11-27T06:34:17.542Z
-updated: 2024-11-27T19:32:19.495Z
+date: 2024-12-01T18:36:09.420Z
+updated: 2024-12-07T19:59:10.799Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What happened?
@@ -55,7 +55,7 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -95,7 +95,7 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -125,7 +125,7 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -176,17 +176,15 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-navigating-instagrams-reel-downloads-with-ease-and-versatility/"><u>[New] 2024 Approved Navigating Instagram's Reel Downloads with Ease and Versatility</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-the-final-verdict-on-vegas-pro-21-a-sports-enthusiasts-review/"><u>[New] 2024 Approved The Final Verdict on Vegas Pro '21 - A Sports Enthusiast's Review</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-step-by-step-process-for-photo-backdrop-erasure/"><u>[New] Step-by-Step Process for Photo Backdrop Erasure</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-prestigious-websites-elevating-youtube-content/"><u>[Updated] In 2024, Prestigious Websites Elevating YouTube Content</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/easy-troubleshooting-eradicating-monitor-ghosting-in-minutes/"><u>Easy Troubleshooting: Eradicating Monitor Ghosting in Minutes</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/easy-tutorial-for-installing-the-latest-atheros-wifi-driver-in-windows-10-system/"><u>Easy Tutorial for Installing the Latest Atheros WiFi Driver in Windows 10 System</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/effortless-access-to-windows-10-advanced-startup-settings-a-step-by-step-guide/"><u>Effortless Access to Windows 10 Advanced Startup Settings: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/essential-pubg-game-specs-must-know-minimum-and-recommended-system-requirements/"><u>Essential PUBG Game Specs: Must-Know Minimum & Recommended System Requirements</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/expert-tips-for-deactivating-microsofts-cortana-feature-on-windows-10-devices/"><u>Expert Tips for Deactivating Microsoft's Cortana Feature on Windows 10 Devices</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-honor-100-pro-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Honor 100 Pro Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-digital-connections-understanding-facebook-twitter-instagram-and-youtube/"><u>Navigating Digital Connections: Understanding Facebook, Twitter, Instagram, and YouTube</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-beammaster-pro/"><u>The BeamMaster Pro</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-bridging-the-gap-with-magix-music-maker-for-beginners/"><u>[New] 2024 Approved Bridging the Gap with Magix Music Maker for Beginners</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-assessment-of-various-camera-types-for-videos-for-2024/"><u>[Updated] Assessment of Various Camera Types for Videos for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-proven-techniques-to-enhance-subscriber-count-with-effective-channel-branding/"><u>2024 Approved Proven Techniques to Enhance Subscriber Count with Effective Channel Branding</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-tutorial-on-setting-up-codegpt-for-developers-using-vs-code/"><u>Comprehensive Tutorial on Setting Up CodeGPT for Developers Using VS Code</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726028098261-gopro-mp4/"><u>GoPro MP4ビデオのプレイバック不能を解消する方法</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-best-monitors-for-xbox-series-x-for-2024/"><u>The Best Monitors for Xbox Series X for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultimate-tutorial-setting-up-call-diversion-for-all-phones-explained/"><u>Ultimate Tutorial: Setting up Call Diversion for All Phones Explained</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726027962222-vlc/"><u>VLCマルチメディアエディターとしてのビデオ編集手順</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726027472247-youtube/"><u>YouTube動画効果的にカスタマイズ：パソコン利用者のための簡単な手順</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/youtubemp35/"><u>YouTube動画MP3ダウンロード用の優れたツール・サイトベスト5</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: \\[ \\Left(\\frac{1}{2}l\\right)^2 + L^2 = 10^2 \\
-date: 2024-11-21T22:05:03.885Z
-updated: 2024-11-28T00:48:09.390Z
+date: 2024-12-05T16:00:36.275Z
+updated: 2024-12-07T20:47:28.525Z
 tags:
   - apple
 categories:
@@ -42,18 +42,18 @@ While the Pixel 6 Pro at time of release was only $100 cheaper ($899) than the $
 | Price                  | [Starting at $899](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://store.google.com/product/pixel%5F6%5Fpro?hl=en-US&pli=1) | [Starting at $999](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fiphone-13-pro%2Fkey-features%2F%3Fafid%3Dp238%257CsNQZDFTnQ-dc%5Fmtid%5F20925d2q39172%5Fpcrid%5F588006468460%5Fpgrid%5F126654828229%5F%26cid%3Dwwa-us-kwgo-iphone--slid---Brand-iphone13pro-avail-&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  You should buy the Google Pixel 6 Pro if…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  1\. You want fun and experimental camera features
 
@@ -62,6 +62,10 @@ The Google Pixel has always been known for its exceptional computational photogr
 One standout camera feature on the Pixel 6 Pro is **Motion Mode,** whichallows users to capture a clear photo of a moving object, something you'd typically need a tripod for. Motion Mode includes an Action Pan option to dial up the shutter speed and capture fast-moving subjects like cars and subways. There's also a Long Exposure option that, like Action Pan, adds a creative blur to the background for a "Pro" look and feel. 
 
 Another new and useful feature is **Magic Eraser.** Like Photoshop's Content Aware Fill, the software trick allows you to magically erase unwanted objects from a photo. Using the feature is as simple as circling what you'd like to erase from your image, whether that's strangers in the background, stain marks, or signage, and the Pixel 6 Pro does the rest. When done correctly, the image will look like it was perfectly captured in the first place. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  2\. You want a bigger battery
 
@@ -82,14 +86,10 @@ Lastly, the Pixel 6 Pro runs on the latest Android 12 software, with Android 13 
 [Buy the Google Pixel 6 Pro $418.88 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09HYR2NC8%2Fref%3Dasc%5Fdf%5FB09HYR2NC81727521200000%3Fcreative%3D395261%26creativeASIN%3DB09HYR2NC8%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7e5b1293-c7f0-4074-bebc-aa1278013569%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You should buy the iPhone 13 Pro if...
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  1\. You want cinematic camera features
 
@@ -103,10 +103,6 @@ The iPhone 13 Pro also features new photographic styles. Different from your typ
 
 Lastly, Cinematic Mode shoots videos with a soft, out-of-focus background so that the subject of interest and the depth map are kept separate. With AI processing, the focus can intelligently shift when the subject turns around and his or her back is then facing the camera. Overall, the special mode gives a more movie-like quality to your iPhone videos 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  2\. You own other Apple products (AirPods, Apple Watch, iPad, MacBook, etc.)
 
 There's a reason for Apple's cult following and customer loyalty. Its products have always followed a "strength in numbers" philosophy, enhancing existing services when more than one device is integrated. This interlocking of hardware and software is best described as Apple's walled garden, making it difficult for users to switch out once they're invested. 
@@ -114,6 +110,10 @@ There's a reason for Apple's cult following and customer loyalty. Its products h
 While not an actual product, the Apple ecosystem is still very much part of the product you purchase when investing in, say, an iPhone. Your Apple ID credentials serve as the ecosystem's life source, allowing you to manage and protect multiple devices effortlessly. If you already own a pair of AirPods, an Apple Watch, or a MacBook, then buying the iPhone 13 Pro will make more sense usability-wise. 
 
 Image: Apple
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  3\. You want the best software and hardware support
 
@@ -153,24 +153,24 @@ This support extends to the many physical Apple storefronts, equipped with custo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/1717714301218-new-in-2024-how-to-fix-the-green-screen-on-youtube-on-mac/"><u>[New] In 2024, How to Fix the Green Screen on YouTube on Mac</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-launching-laughter-hilarious-initiation-hints/"><u>[New] Launching Laughter Hilarious Initiation Hints</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-mastering-ios-the-secrets-of-screen-casts-for-2024/"><u>[New] Mastering iOS The Secrets of Screen Casts for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-monitoring-lost-instagram-connections/"><u>[Updated] Monitoring Lost Instagram Connections</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adopt-a-streamlined-approach-to-input-customization/"><u>Adopt a Streamlined Approach to Input Customization</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-tricks-to-enhance-communication-with-emojis-on-the-ios-device/"><u>Easy Tricks to Enhance Communication with Emojis on the iOS Device</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1723807875667-find-out-what-motherboard-you-have-easily/"><u>Find Out What Motherboard You Have Easily!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/googles-latest-gemini-ai-vs-chatgpt-an-in-depth-comparison/"><u>Google's Latest Gemini AI Vs. ChatGPT - An In-Depth Comparison</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/navigating-through-collective-media-on-messenger/"><u>Navigating Through Collective Media on Messenger</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723011328081-persona-5-strikers-banish-your-pc-game-crashing-woes-for-an-uninterrupted-adventure/"><u>Persona 5 Strikers - Banish Your PC Game Crashing Woes for an Uninterrupted Adventure!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unraveling-the-secrets-of-torrenting-a-detailed-utorrent-movie-download-manual/"><u>Unraveling the Secrets of Torrenting: A Detailed uTorrent Movie Download Manual</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/updated-alert-download-restricted-due-to-your-active-security-protocols/"><u>Updated Alert: Download Restricted Due To Your Active Security Protocols</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/upgrading-your-pc-a-comprehensive-guide-to-the-latest-windows-11-update/"><u>Upgrading Your PC: A Comprehensive Guide to the Latest Windows 11 Update</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/what-version-of-windows-do-i-have-1-step-to-find-out/"><u>What Version of Windows Do I Have? 1 Step to Find Out!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/windows-10-cleanup-tutorial-how-to-remove-unnecessary-temp-files-permanently/"><u>Windows 10 Cleanup Tutorial: How to Remove Unnecessary Temp Files Permanently</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/windows-11-installation-hurdles-cleared-strategies-that-worked-for-us/"><u>Windows 11 Installation Hurdles Cleared - Strategies That Worked for Us</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/winning-strategies-how-to-adjust-mouse-sensitivity-for-dominating-fortnite-games/"><u>Winning Strategies: How to Adjust Mouse Sensitivity for Dominating Fortnite Games</u></a></li>
-<li><a href="https://common-error.techidaily.com/winning-the-battle-against-continuous-automatic-repairs-in-windows-11-top-fixes/"><u>Winning the Battle Against Continuous Automatic Repairs in Windows #11: Top Fixes</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/wireless-printing-made-simple-on-windows-11-systems/"><u>Wireless Printing Made Simple on Windows 11 Systems</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-exploring-the-heart-of-srt-in-depth/"><u>[New] In 2024, Exploring the Heart of SRT in Depth</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-best-non-zoom-video-conferencing-tools-desktopmobile/"><u>[Updated] In 2024, Best Non-Zoom Video Conferencing Tools (Desktop/Mobile)</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-live-streaming-on-mac-os-costless-option-for-2024/"><u>[Updated] Live Streaming on Mac OS - Costless Option for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-mastering-game-record-on-windows-10-top-5-tips/"><u>[Updated] Mastering Game Record on Windows 10 Top 5 Tips</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-navigating-the-top-10-ways-to-improve-fb-page-rankings/"><u>[Updated] Navigating the Top 10 Ways to Improve FB Page Rankings</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/best-free-and-premium-wav-converter-tools-top-picks-for-superior-audio-quality/"><u>Best Free and Premium WAV Converter Tools: Top Picks for Superior Audio Quality</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bulk-conversion-guide-upscale-your-soundcloud-tracks-to-high-quality-320kbps-audio/"><u>Bulk Conversion Guide: Upscale Your SoundCloud Tracks to High-Quality 320Kbps Audio</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bypassing-borderlines-enjoy-canadian-films-worldwide-free-from-region-codes/"><u>Bypassing Borderlines: Enjoy Canadian Films Worldwide, Free From Region Codes</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/el-upgrade-how-reaching-500-viewers-propelts-monetization/"><u>Channel Upgrade How Reaching 500 Viewers Propelts Monetization</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparing-wav-and-mp3-files-a-comprehensive-guide-on-whats-best-for-you/"><u>Comparing WAV and MP3 Files - A Comprehensive Guide on What's Best for You</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/complete-instructions-for-installing-the-tvnsports-plugin-in-kodi-version-19/"><u>Complete Instructions for Installing the TVNSports Plugin in Kodi Version 19</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comprehensive-document-management-by-wonderfox-easily-organize-word-excel-pdf-and-powerpoint-files-for-business/"><u>Comprehensive Document Management by WonderFox: Easily Organize Word, Excel, PDF & PowerPoint Files for Business</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/comprehensive-guide-transferring-data-from-windows-server-201/"><u>Comprehensive Guide: Transferring Data From Windows Server 201</u></a></li>
+<li><a href="https://common-error.techidaily.com/connect-to-the-web-anywhere-the-ultimate-guide-to-usb-tethering-in-windows-11/"><u>Connect to the Web Anywhere: The Ultimate Guide to USB Tethering in Windows 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/cutting-the-final-5-minutes-of-your-computers-playback-in-windows-1011/"><u>Cutting the Final 5 Minutes of Your Computer's Playback in Windows 10/11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discovering-taylor-swift-hassle-free-mp3-downloads-to-enhance-your-musical-journey/"><u>Discovering Taylor Swift: Hassle-Free MP3 Downloads to Enhance Your Musical Journey</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-steps-capturing-the-hottest-videos-from-youtube-using-a-reliable-video-downloader/"><u>Easy Steps: Capturing the Hottest Videos From YouTube Using a Reliable Video Downloader</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Apple iPhone 11? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-quash-unwanted-youtube-suggested-videos/"><u>In 2024, Quash Unwanted YouTube Suggested Videos</u></a></li>
 </ul></div>
 

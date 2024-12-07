@@ -1,7 +1,7 @@
 ---
 title: "March Release Anticipated: Exploring the Potential Launch of Apple's Upcoming MacBook Air, iPad Pro & iPad Air - Insights From ZDNet"
-date: 2024-11-26T08:44:28.691Z
-updated: 2024-11-28T07:50:54.005Z
+date: 2024-12-05T20:59:40.231Z
+updated: 2024-12-07T20:52:34.336Z
 tags:
   - apple
 categories:
@@ -37,6 +37,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Apple Intelligence (AI)
 
@@ -87,7 +91,7 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -105,7 +109,7 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -118,6 +122,10 @@ Adam Breeden/ZDNET
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## MacOS 15 (Sequoia)
 
 Adam Breeden/ZDNET
@@ -128,10 +136,6 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -151,7 +155,7 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -161,10 +165,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -210,20 +210,20 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-introducing-the-ultimate-intro-edits-app-of-2023/"><u>[New] Introducing the Ultimate Intro Edits App of 2023</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-achieving-audiovisual-consistency-in-premiers-for-2024/"><u>[Updated] Achieving Audiovisual Consistency in Premiers for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-shooting-hdr-on-iphone-a-comprehensive-guide/"><u>[Updated] Shooting HDR on iPhone A Comprehensive Guide</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-motorola-moto-g14-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Motorola Moto G14 | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/avoid-virtual-reality-queasiness-5-useful-tips-for-2024/"><u>Avoid Virtual Reality Queasiness 5 Useful Tips for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chaos-unfolds-as-italy-bans-chatgpt-abruptly/"><u>Chaos Unfolds as Italy Bans ChatGPT Abruptly</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/delving-deeper-into-ai-security-risks-the-operational-mechanism-of-prompt-injection/"><u>Delving Deeper Into AI Security Risks: The Operational Mechanism of Prompt Injection</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixed-extended-view-on-large-windows-display/"><u>Fixed Extended View on Large Windows Display</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-13-mini-drfone-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone 13 mini | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Vivo S18? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/in-depth-analysis-of-claude-pro-and-how-it-stacks-up-against-chatgpt-plus/"><u>In-Depth Analysis of Claude Pro and How It Stacks Up Against ChatGPT Plus</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/introduction-to-claude-3-its-purpose-and-potential-benefits/"><u>Introduction to Claude 3 – Its Purpose and Potential Benefits</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/maximizing-gpt-chat-sharing-a-step-by-step-guide/"><u>Maximizing GPT-Chat Sharing: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-goals-and-achievements-behind-googles-innovative-project-gemini/"><u>The Goals and Achievements Behind Google's Innovative Project Gemini</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-elevate-your-video-editing-top-10-free-green-screen-apps-for-androidios/"><u>Updated Elevate Your Video Editing Top 10 Free Green Screen Apps for Android/iOS</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-pro-tips-for-utilizing-green-screen-effects-professionally/"><u>[New] In 2024, Pro Tips for Utilizing Green Screen Effects Professionally</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-quality-video-sharing-leading-alternative-converters-from-flv-to-yt/"><u>[Updated] Quality Video Sharing Leading Alternative Converters From FLV to YT</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/1-transfert-facile-de-jeux-steam-vers-un-nouveau-disque-dur-ou-ssd/"><u>1. Transfert Facile De Jeux Steam Vers Un Nouveau Disque Dur Ou SSD</u></a></li>
+<li><a href="https://driver-download.techidaily.com/best-practices-updating-your-amd-graphics-card-software-on-windows-platforms/"><u>Best Practices: Updating Your AMD Graphics Card Software on Windows Platforms</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/compare-and-contrast-what-sets-echo-pop-apart-from-echo-dot/"><u>Compare & Contrast: What Sets Echo Pop Apart From Echo Dot?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/direct-match-twitchs-battle-against-youtubes-dominance-for-2024/"><u>Direct Match Twitch's Battle Against YouTube's Dominance for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-guide-restoring-damaged-mp4-videos-using-top-rated-quick-fix-software/"><u>Easy Guide: Restoring Damaged MP4 Videos Using Top-Rated Quick Fix Software</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-methods-for-transposing-vp8-into-vp9-and-reversing-the-process-with-webm-videos/"><u>Easy Methods for Transposing VP8 Into VP9 and Reversing the Process with WebM Videos</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-batch-transformation-from-wav-to-aac-audio-on-pc-expert-tips-and-tools/"><u>Effortless Batch Transformation From WAV to AAC Audio on PC: Expert Tips & Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-conversion-transforming-vcds-into-dvd-format-on-your-pc-using-windows/"><u>Effortless Conversion: Transforming VCDs Into DVD Format on Your PC Using Windows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-mpg-playback-on-pc-the-ultimate-top-10-list-of-applications/"><u>Effortless MPG Playback on PC: The Ultimate Top 10 List of Applications</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/facebook/"><u>Facebookで音楽ファイルの安全なダウンロード手順</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-xiaomi-redmi-note-13-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Xiaomi Redmi Note 13 5G Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-on-creating-free-dvds-from-wmv-videos-with-winx-dvd-author-software/"><u>Step-by-Step Tutorial on Creating Free DVDs From WMV Videos with WinX DVD Author Software</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/flashmp4/"><u>ファイル形式変更ガイド: FLASH動画からMP4へ完全な変換方法</u></a></li>
 </ul></div>
 

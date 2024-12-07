@@ -1,7 +1,7 @@
 ---
 title: "Pioneering Intelligence: GPT-4 Elevates AI"
-date: 2024-09-02T09:25:09.767Z
-updated: 2024-09-03T09:25:09.767Z
+date: 2024-11-30T18:44:06.356Z
+updated: 2024-12-07T21:00:40.477Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,15 @@ thumbnail: https://thmb.techidaily.com/a01c874bf96001212de2ae31da3cf8c01bb85a8c0
 
 ![ChatGPT App Login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-login.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![ChatGPT app welcome screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-welcome-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -50,36 +58,37 @@ Close
 
 ![ChatGPT's welcome page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4309.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![ChatGPT's mic and speaker on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4311.jpg)
 
 ![ChatGPT showing the text generated from the speech on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4313.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The ChatGPT's prompt response generated from the speech on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4314.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
  Now, all you need to do is wait a couple of seconds for ChatGPT to type out its response. You can test this feature while trying these[ChatGPT crypto prompts](https://www.makeuseof.com/the-best-chatgpt-crypto-prompts/) .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## Talk to ChatGPT and Save Time
 
  By speaking to ChatGPT, you can send longer and more descriptive prompts with your voice and have a conversation without manually typing a prompt that could take several minutes. This way, you can be more productive with your task and save time while using ChatGPT.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -88,4 +97,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-smooth-transition-altering-snapchat-videos-tempo/"><u>[Updated] In 2024, Smooth Transition Altering Snapchat Videos' Tempo</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-skys-the-limit-revel-in-20-top-free-cloud-service-plans-up-to-1tb-for-2024/"><u>[Updated] Sky's the Limit Revel in 20 Top Free Cloud Service Plans (Up To 1TB) for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-most-important-characteristics-for-a-superior-ai-chatbot-service-top-7/"><u>Discover the Most Important Characteristics for a Superior AI Chatbot Service (Top 7)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevating-user-manuals-with-ai-generated-content/"><u>Elevating User Manuals with AI-Generated Content</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-on-restoring-rust-microphone-functionality-the-definitive-2-of-troubleshooting-techniques/"><u>Expert Advice on Restoring Rust Microphone Functionality: The Definitive 2# of Troubleshooting Techniques</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/gaming-on-samsungs-q60r-series-in-depth-analysis-of-the-qled-4k-tv/"><u>Gaming on Samsung's Q60R Series: In-Depth Analysis of the QLED 4K TV</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/global-network-ai-versus-closed-system-deployment/"><u>Global Network AI versus Closed System Deployment</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/groundbreayer-list-of-best-github-and-chatgpt-interaction-techniques/"><u>Groundbreayer List of Best GitHub and ChatGPT Interaction Techniques</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-nokia-g42-5g-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Nokia G42 5G using Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-lapithexcellence-discovering-the-creme-de-la-creme-of-laps-backgrounds/"><u>In 2024, Lapithexcellence Discovering the Crème De La Créme of Laps Backgrounds</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/age-youtube-metrics-for-enhanced-visibility-for-2024/"><u>Leverage YouTube Metrics for Enhanced Visibility for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maintaining-data-integrity-in-adaptive-chatgpt-systems/"><u>Maintaining Data Integrity in Adaptive ChatGPT Systems</u></a></li>
+<li><a href="https://extra-support.techidaily.com/precision-in-pro-videos-essential-lighting-insights-for-2024/"><u>Precision in Pro Videos Essential Lighting Insights for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-instructions-on-how-to-binge-dragnolution-correctly/"><u>Step-by-Step Instructions on How to Binge Dragnolution Correctly</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-accessory-compendium-for-psvr2/"><u>The Ultimate Accessory Compendium for PSVR2</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-walkthrough-to-setting-up-and-utilizing-chatgpt-plugins/"><u>The Ultimate Walkthrough to Setting Up and Utilizing ChatGPT Plugins</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/voice-activated-chatbot-experience-with-voicegpt-on-android-get-started-now/"><u>Voice-Activated Chatbot Experience with VoiceGPT on Android - Get Started Now</u></a></li>
+</ul></div>
 

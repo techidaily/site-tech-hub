@@ -1,7 +1,7 @@
 ---
 title: "Expert Strategies: Using GPT Recognition in Conversational Security"
-date: 2024-09-02T09:22:23.023Z
-updated: 2024-09-03T09:22:23.023Z
+date: 2024-12-01T18:55:10.992Z
+updated: 2024-12-07T18:14:31.057Z
 tags:
   - chatgpt
   - open-ai
@@ -41,8 +41,9 @@ thumbnail: https://thmb.techidaily.com/4d762caa04f98755e083fa6f19084871af3024b44
  In addition to the extensive library of community prompts, you can also use AIPRM for ChatGPT to create and save AI prompts for future use. This feature is especially useful if you have specific needs or frequently work on similar topics. It means you won't need to spend time crafting a new prompt for the same task each time you use ChatGPT.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Is the AIPRM Chrome Extension Free?
 
  Yes, the AIPRM Chrome extension for ChatGPT is free to use and also offers several premium plans, from the**AIPRM Plus** plan, which costs $10 per month, to the**AIPRM Titan** plan, which costs up to $999 per month. AIPRM works well with ChatGPT's free and paid versions, making it a valuable tool for any user.
@@ -51,9 +52,6 @@ thumbnail: https://thmb.techidaily.com/4d762caa04f98755e083fa6f19084871af3024b44
 
  The free version of AIPRM can access the extensive library of Community Prompts, save two private prompt templates, and set favorite prompt templates, which is more than enough to get you started.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Install the AIPRM for ChatGPT Chrome Extension
 
  Installing AIPRM for ChatGPT on your Chrome browser is easy; all you need to do is follow the steps below:
@@ -64,20 +62,18 @@ thumbnail: https://thmb.techidaily.com/4d762caa04f98755e083fa6f19084871af3024b44
 4. This should automatically direct you to your ChatGPT homepage, where you will see a terms & conditions popup for the AIPRM extension. Tick the checkbox to agree and click**Confirm.**  
 ![AIPRM terms and conditions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/aiprm-terms-conditions-chatgpt.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You should now see the AIPRM dashboard on your ChatGPT page.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Use the AIPRM for ChatGPT Chrome Extension
 
  To get started, go to your ChatGPT account. You should see the AIPRM dashboard on your homepage. Click the**thumbs-up or down** icon on the green popup that appears to dismiss it. You can now use the extension directly from your ChatGPT account.
 
 ![The AIPRM green popup in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/aiprm-green-popup.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  As you can see, there are several tabs in the AIPRM dashboard, including:
 
 1. **Favorites** where you can save your commonly-used prompts.
@@ -89,6 +85,10 @@ You should now see the AIPRM dashboard on your ChatGPT page.
 
 ![The AIPRM for ChatGPT dashboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/aiprm-chatgpt-dashboard.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can start using AIPRM prompts by clicking the**Public** tab and scrolling through the list of available prompts. For instance, you can select the**Midjourney Prompt Generator** to get a detailed and descriptive prompt to generate a unique AI image. Type a keyword, and it will generate a detailed and descriptive prompt, which you can copy and paste into Midjourney.
 
 ## How to Filter and Favorite AIPRM Prompts
@@ -99,11 +99,12 @@ You should now see the AIPRM dashboard on your ChatGPT page.
 
 ![The AIPRM for ChatGPT Activity filter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/filter-aiprm-prompts.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you have found a prompt that resonates with your needs, you can add it to your favorites for easy access in the future. Click the**Star** icon next to the prompt to add it to your**Favorites** tab. Next, go to the**Favorites** tab to view and access all your saved prompts.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ## How to Create AIPRM Prompts
 
  Although thousands of prompts are available on AIPRM, you may sometimes need a more personalized prompt. So, why bother crafting your prompt in AIPRM rather than using it directly in ChatGPT? This can be useful when you need to reuse the prompt for a similar task in the future.
@@ -116,9 +117,6 @@ To create a custom AIPRM prompt:
 
 ![AIPRM screenshot showing how to create a template](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/create-aiprm-prompt-template.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  For instance, "Write a Facebook post with emojis and a call to action about**\[PROMPT\]** ." Make sure to add the prompt variable**\[PROMPT\]** in your template, as it will be replaced by what you type whenever you use this prompt. In this example, the prompt variable**\[PROMPT\]** will be the topic for the Facebook post. You can also provide one or more examples of what you want the output to look like.
 
  Next, fill in the**Teaser** field. This is a description to help you remember the prompt easily. The**Prompt Hint** reminds you of what you will type in when using the prompt. This replaces the prompt variable**\[PROMPT\]** .
@@ -129,20 +127,21 @@ To create a custom AIPRM prompt:
 
 ![AIPRM for ChatGPT prompt template creation page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/aiprm-prompt-template-creation.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once your prompt is saved, you can find it under the**Own** tab.
 
  You have just created your first AIPRM prompt! Test it out and see what kind of response you get from ChatGPT. You can always edit your prompt by clicking the**pencil** icon next to it.
 
  AIPRM for ChatGPT is a handy productivity tool that can help you get relevant and quality responses from ChatGPT. Its vast library of expertly crafted prompts makes it easier to interact with ChatGPT and get the desired output. With AIPRM, you can save time, be more productive, and have fun experimenting with different prompt templates.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -151,4 +150,23 @@ To create a custom AIPRM prompt:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-ranking-the-best-cameras-that-dont-feature-a-gopro-brand/"><u>[New] 2024 Approved Ranking the Best Cameras That Don't Feature a GoPro Brand</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-a-step-by-step-roadmap-for-masterful-instagram-photos/"><u>[Updated] A Step-by-Step Roadmap for Masterful Instagram Photos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-elevate-video-performance-following-the-path-of-stars/"><u>[Updated] In 2024, Elevate Video Performance Following the Path of Stars</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-fraudulent-fronts-navigating-the-minefield-of-fake-youtube-viewers/"><u>[Updated] In 2024, Fraudulent Fronts Navigating the Minefield of Fake YouTube Viewers</u></a></li>
+<li><a href="https://win-hot.techidaily.com/5aac5l2v5bplusr6ycf5lik5oml5zue5ps25qc85byp5yyw5zco5asx5y6755qe5pww5o2u77ya566a5y2v5pwz56il5oyh5y2x/"><u>如何快速上手回收格式化后失去的数据：简单教程指南</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-for-a-more-organized-life-6-tips-for-home-efficiency-gains/"><u>ChatGPT for a More Organized Life: 6 Tips for Home Efficiency Gains</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/conversing-with-giants-the-new-era-of-ai-comparison-between-gemini-and-chatgpt/"><u>Conversing with Giants: The New Era of AI Comparison Between Gemini and ChatGPT</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/elegant-seafaring-the-alluring-charm-of-skagen-falster-2-over-apple/"><u>Elegant Seafaring: The Alluring Charm of Skagen Falster 2 Over Apple</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-xiaomi-13-ultra-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Xiaomi 13 Ultra</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-oneplus-nord-ce-3-lite-5g-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass OnePlus Nord CE 3 Lite 5G FRP</u></a></li>
+<li><a href="https://driver-download.techidaily.com/setting-up-your-western-digital-ses-usb-device-a-users-guide-updated-for-2011plus-models/"><u>Setting Up Your Western Digital SES USB Device: A User's Guide (Updated for 2011+ Models)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/strategic-workflow-improvement-using-chatgpt-tools-and-techniques/"><u>Strategic Workflow Improvement Using ChatGPT Tools and Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-science-behind-generative-ai-working-principles-and-leading-company-examples/"><u>The Science Behind Generative AI: Working Principles & Leading Company Examples</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-simplest-method-for-activating-chatgpt-on-linux-utilizing-bavarders-easy-installation-process/"><u>The Simplest Method for Activating ChatGPT on Linux - Utilizing Bavarder's Easy Installation Process</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-the-limitations-6-good-arguments-against-unquestioning-relyance-on-ai/"><u>Understanding the Limitations: 6 Good Arguments Against Unquestioning Relyance on AI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-the-mystery-top-4-causes-of-a-blocked-chatgpt-account-and-solutions/"><u>Unlocking the Mystery: Top 4 Causes of a Blocked ChatGPT Account and Solutions</u></a></li>
+</ul></div>
 

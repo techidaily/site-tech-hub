@@ -1,7 +1,7 @@
 ---
 title: Uncover Apple's New Tech Magic for iPhone/iPad/Mac with This Fall’s Revolutionary Updates Including Artificial Intelligence | Expert Analysis
-date: 2024-11-17T23:24:54.309Z
-updated: 2024-11-18T21:57:07.152Z
+date: 2024-12-03T20:01:55.058Z
+updated: 2024-12-07T20:19:20.636Z
 tags:
   - apple
 categories:
@@ -60,19 +60,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -80,6 +67,10 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -100,16 +91,7 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -127,10 +109,7 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -144,10 +123,7 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -185,6 +161,10 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -230,24 +210,17 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-elevate-your-youtube-presence-with-audio/"><u>[Updated] 2024 Approved Elevate Your Youtube Presence with Audio</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-the-leading-list-for-best-vector-resources/"><u>[Updated] 2024 Approved The Leading List for Best Vector Resources</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-directly-stream-google-meet-youtube-edition-steps-for-2024/"><u>[Updated] Directly Stream Google Meet - YouTube Edition Steps for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-how-to-use-whiteboard-in-zoom-meeting-desktopiosandroid/"><u>2024 Approved How to Use Whiteboard in Zoom Meeting [Desktop/iOS/Android]</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/te-your-youtube-presence-the-art-of-seo-optimization/"><u>Elevate Your YouTube Presence The Art of SEO Optimization</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-sony-xperia-10-v-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Sony Xperia 10 V Phone Network-Ready</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-the-fix-ultimate-tips-and-tricks-to-correctly-address-windows-update-error-code-0x8024402c/"><u>Mastering the Fix: Ultimate Tips & Tricks to Correctly Address Window's Update Error Code 0X8024402c</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/new-horizons-in-conversational-ai-chatgpts-exciting-latest-developments-revealed/"><u>New Horizons in Conversational AI: ChatGPT's Exciting Latest Developments Revealed!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/no-real-chatgpt-client-exists-for-windows-dont-fall-victim-to-malware-disguised-alternatives/"><u>No Real ChatGPT Client Exists for Windows; Don't Fall Victim to Malware-Disguised Alternatives!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/not-on-board-with-waiting-for-chatgpt-embrace-this-superb-free-open-source-solution-now/"><u>Not on Board with Waiting for ChatGPT? Embrace This Superb Free, Open-Source Solution Now</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/premier-mic-choices-perfected-for-high-res-videos-for-2024/"><u>Premier Mic Choices Perfected for High-Res Videos for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revive-stuck-chatgpt-iphone-solutions-you-can-implement-today/"><u>Revive Stuck ChatGPT: IPhone Solutions You Can Implement Today</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/seamless-service-chatgpts-role-in-whatsapp-assistance/"><u>Seamless Service: ChatGPT's Role in WhatsApp Assistance</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/solving-login-problems-with-chatgpt-a-comprehensive-guide/"><u>Solving Login Problems with ChatGPT: A Comprehensive Guide</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/starting-conversation-in-japan-essential-on-calls/"><u>Starting Conversation in Japan: Essential On-Calls</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/streamlining-support-how-to-connect-chatgpt-and-whatsapp-effectively/"><u>Streamlining Support: How to Connect ChatGPT and WhatsApp Effectively</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/swift-solutions-to-chatgpt-errors-the-essential-fixes-list/"><u>Swift Solutions to ChatGPT Errors: The Essential Fixes List</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/tech-savvy-prompts-top-ai-instructive-platforms/"><u>Tech-Savvy Prompts: Top AI Instructive Platforms</u></a></li>
-<li><a href="https://facebook.techidaily.com/vital-tactics-ensuring-responsible-fb-password-management/"><u>Vital Tactics: Ensuring Responsible FB Password Management</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/eciphering-the-language-of-youtube-thumbnails-effectiveness/"><u>[New] Deciphering the Language of YouTube Thumbnails Effectiveness</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/oshis-playbook-the-path-to-earnings-on-youtube/"><u>[New] Joshi's Playbook The Path to Earnings on Youtube</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-premier-windows-8-audio-shows/"><u>[Updated] Premier Windows 8 Audio Shows</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-discover-inspirational-hiring-vids-1-10/"><u>2024 Approved Discover Inspirational Hiring Vids #1-10</u></a></li>
+<li><a href="https://media-tips.techidaily.com/a-comprehensive-guide-discover-the-ins-and-outs-of-entertaining-animated-memes-and-gifs/"><u>A Comprehensive Guide: Discover the Ins and Outs of Entertaining Animated Memes & GIFs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-steps-for-seamless-compression-of-quicktime-video-files/"><u>Easy Steps for Seamless Compression of QuickTime Video Files</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-tips-for-capturing-audio-of-twitter-spaces-live-sessions-on-computers-and-phones/"><u>Easy Tips for Capturing Audio of Twitter Spaces Live Sessions on Computers & Phones</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-iso-file-compatibility-on-plex-fixing-playback-troubles-seamlessly/"><u>Effortless ISO File Compatibility on Plex - Fixing Playback Troubles Seamlessly</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/expert-review-navigating-the-latest-dvd-to-mkv-converters-for-windows-computers-whats-new/"><u>Expert Review: Navigating the Latest DVD to MKV Converters for Windows Computers - What's New ?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-oppo-reno-11f-5g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Oppo Reno 11F 5G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-fixing-error-msodll-is-missing-on-your-pc/"><u>Step-by-Step Guide: Fixing Error Mso.dll Is Missing on Your PC</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Poco F5 5G? | Dr.fone</u></a></li>
 </ul></div>
 

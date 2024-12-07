@@ -1,7 +1,7 @@
 ---
 title: How to Perform a Firmware Upgrade for Your Apple Studio Display (Tips and Tricks by ZDNet)
-date: 2024-11-21T08:32:06.913Z
-updated: 2024-11-27T20:58:13.273Z
+date: 2024-12-02T19:38:31.843Z
+updated: 2024-12-07T19:12:07.766Z
 tags:
   - apple
 categories:
@@ -33,10 +33,6 @@ If you're going to be one of those people, read on.
 
 You don't want to mess up this transfer, because not only could you lose data, but the next person could end up being unable to use the iPhone you sold or gave them. Follow these steps for a successful result for both of you. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  1\. Update
 
 Before you even think about wiping your old iPhone, there are some things that you should do. I'm going to assume that you're selling an iPhone that's still being supported and is capable of [running iOS 15](https://www.zdnet.com/article/here-are-8-ios-15-features-you-need-to-know-about/). 
@@ -58,12 +54,16 @@ These are the iPhones that can run iOS 15:
 If your iPhone is one of these and is not running the latest version of iOS 15, then I recommend upgrading to the latest release to get the best experience. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  2\. Look out for apps that need additional handholding during a transfer
 
 Next, some apps -- specifically banking apps in my experience -- prefer it if you deactivate or deauthorize them on the old iPhone before moving to a new handset. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### read this
 
@@ -74,10 +74,6 @@ It's not that you can't still get the service to work, but you may have to jump 
 I'd definitely check any banking and financial apps for any special process involved in moving them to a new handset and take care of that up front. 
 
 **Also:** [**The 5 best payment apps (Venmo isn't your only option)**](https://www.zdnet.com/article/best-payment-app/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  3\. Protect your data
 
@@ -92,7 +88,7 @@ Don't have enough iCloud space? Don't worry! Apple will let you borrow some [tem
 **Also:** [**Here's a hidden way to increase your iCloud storage**](https://www.zdnet.com/article/the-secret-hidden-way-you-can-double-apples-maximum-2tb-icloud-storage-limit/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  4\. Get ready for the transfer
@@ -108,6 +104,10 @@ Tap **Get Started** to begin the process of backing up your iPhone and getting r
 Apple has made transferring to a new iPhone easy.
 
 Screenshot/Adrian Kingsley-Hughes
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  5\. Wiping the old iPhone
 
@@ -136,16 +136,16 @@ Remember, once you start this process, there's no going back!
 
 **Also:** [**iOS 15 privacy and security checklist**](https://www.zdnet.com/article/ios-15-ultimate-privacy-and-security/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### See also
 
 * [6 things you can do to give your devices a spring cleaning](https://www.zdnet.com/article/6-things-you-can-do-to-give-your-devices-a-spring-cleaning/)
 * [How to clean your Apple Watch in 5 steps](https://www.zdnet.com/article/how-to-clean-your-apple-watch-in-5-steps/)
 * [How to clean and sanitize your AirPods](https://www.zdnet.com/article/how-to-clean-and-sanitize-your-airpods/)
 * [How to clean a mechanical keyboard](https://www.zdnet.com/article/how-to-clean-a-mechanical-keyboard/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Spring-clean your iPhone
 
@@ -187,14 +187,19 @@ Now you can relax and enjoy your [new iPhone](https://www.zdnet.com/article/here
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/astering-backward-play-innovative-youtube-video-tricks/"><u>[New] Mastering Backward Play Innovative YouTube Video Tricks</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-elevate-your-creativity-2-routes-to-perfect-snap-filters/"><u>2024 Approved Elevate Your Creativity 2 Routes to Perfect Snap Filters</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/acquiring-vivid-clipart-without-investment-for-2024/"><u>Acquiring Vivid Clipart Without Investment for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/affordable-performance-build-your-own-compact-system-with-asrocks-deskmate-x600-and-full-sized-gpu-exclusive-to-the-chinese-market/"><u>Affordable Performance: Build Your Own Compact System With ASRock's DeskMate X600 and Full-Sized GPU - Exclusive to the Chinese Market</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discovering-7-amazing-updates-the-latest-bard-ai-reveal-from-google-io-2023/"><u>Discovering 7 Amazing Updates: The Latest Bard AI Reveal From Google I/O 2023</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/master-your-own-chatai-blueprint/"><u>Master Your Own ChatAI Blueprint</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/er-choice-the-best-10-recorders-for-tech-talks/"><u>Premier Choice The Best 10 Recorders for Tech Talks</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/seamless-adventures-in-night-city-overcoming-cyberpunk-2077s-lag-and-glitch-fixes/"><u>Seamless Adventures in Night City: Overcoming Cyberpunk 2077'S Lag and Glitch Fixes</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-next-generation-ai-puzzle-why-does-chatgpt-4-take-its-time-when-chatgpt-35-was-faster/"><u>The Next Generation AI Puzzle: Why Does ChatGPT-4 Take Its Time When ChatGPT-3.5 Was Faster?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-true-story-of-youtube-earnings-and-viewer-volume-requirements/"><u>[Updated] The True Story of YouTube Earnings and Viewer Volume Requirements</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/2023-dvd-css/"><u>2023年度適用: 迅速なDVD CSS解除手法ガイド</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/5yq55p6c55qe44gq5oml44ow44os44o844kr44o844gu44ot44oh44kq5zyn57iu44og44kv44ol44od44kv77ya44k544ob44ol44ov44o844oj44k344kn44ki44cn/"><u>効果的な手ブレーカーのビデオ圧縮テクニック：スチュワードシェア」</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/20243/"><u>新入学生に最適! 2024年専用で人気のある無料ミュージックエディターアプリベスト3選</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bbc-sound-capture-tutorial-transforming-broadcasts-into-mp3-format-with-five-easy-steps/"><u>BBC Sound Capture Tutorial: Transforming Broadcasts Into MP3 Format with Five Easy Steps</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-4k-quality-hc-wxf991-review/"><u>Exploring 4K Quality: HC-WXF991 Review</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-12-pro-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-zte-axon-40-lite-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from ZTE Axon 40 Lite to New Android? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-through-vivas-video-content/"><u>In 2024, Navigating Through Viva's Video Content</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-realme-gt-5-pro-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Realme GT 5 Pro Phone Pattern Lock</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/taming-troublesome-buffer-underruns/"><u>Taming Troublesome Buffer Underruns</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transformez-votre-jour-de-consultation-a-domicile-en-une-experience-agreable-et-positive/"><u>Transformez Votre Jour De Consultation À Domicile en Une Expérience Agréable Et Positive</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726029346129-pc3/"><u>アクティブライフスタイルとしてのPCゲーム動画撮影：3つの効果的な方法</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/44ov44kh44oz44k244gn44gk6kal44gb44gf5yuv55s744ks5a6j5ywo44gr6kiy6yyy44o75lplusd566h44gz44kl5oml5byv44gn/"><u>ファンザでお見せた動画を安全に記録・保管する手引き</u></a></li>
 </ul></div>
 

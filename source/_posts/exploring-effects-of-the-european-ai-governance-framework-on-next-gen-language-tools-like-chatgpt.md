@@ -1,7 +1,7 @@
 ---
 title: Exploring Effects of the European AI Governance Framework on Next-Gen Language Tools Like ChatGPT
-date: 2024-09-02T09:27:37.296Z
-updated: 2024-09-03T09:27:37.296Z
+date: 2024-11-30T18:02:50.881Z
+updated: 2024-12-07T16:14:30.922Z
 tags:
   - chatgpt
   - open-ai
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
 
  So, how, exactly, might AI prove useful here, and in what ways may it pose a risk?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Providing Instant Advice and Support Using AI
 
  Finding a therapist can take a long time, and can even be an inaccessible option for some due to its high cost. So, when someone needs advice and support immediately, who can they turn to?
@@ -36,15 +40,17 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
  Of course, some may see[using AI to provide mental health advice as risky](https://www.makeuseof.com/dangers-using-ai-free-therapist-psychiatrist/) . We'll discuss the possible downsides of this a little later.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Monitoring Patient Progress With AI
 
 ![person typing on laptop next to stethoscope on desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/stetho-laptop-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Monitoring a patient's progress to ensure they're not taking steps backward is a very important step in recovery. While a human professional can do this well, the number of individuals requiring mental health support makes it difficult for human personnel to keep up with the demand.
 
  This is where AI might be able to help. Using this technology, a patient could give inputs on how they're feeling and what they've been doing, and an AI system could then assess and evaluate the information provided to determine whether there is any cause for concern. The AI system could then alert the relevant parties so that action can be taken. This may lower the occurrences of mental health negligence, as a far greater number of people could be assessed regularly without the need for a human professional.
@@ -52,8 +58,9 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
  But there are risks to consider here, and the AI system in use would have to be very thoroughly trained on how to spot possible red flags. Still, simply using this as an initial assessment could prove highly beneficial, both to doctors and patients.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Developing New Support Techniques With AI
 
  There's no denying that researchers are still working to further understand our brains and why they give way to mental illnesses. Not only is the origin of mental illness still being researched, but techniques on how to better treat patients are also being developed.
@@ -65,8 +72,9 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
  Though this all seems very promising, there are also[dangers associated with using AI](https://www.makeuseof.com/is-ai-dangerous-5-immediate-risks-of-artificial-intelligence/) in the mental health field and other ways that AI can worsen mental health in general.
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Can AI Worsen Mental Health?
 
  While AI has significant potential to improve mental healthcare, there are also risks and dangers in the adoption of this fast-evolving technology.
@@ -85,14 +93,8 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
 
 ![hands reaching out to each other](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/hands-reaching-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  At the moment, humans are seen as much more effective at conducting therapy than machines, and this may always be the case. This is why the application of AI in the mental health field should be regulated and monitored very carefully so that patients are still receiving the best care possible.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### AI Giving Faulty Advice or Solutions
 
  While AI is capable of some amazing things, it is also vulnerable to errors. This is a big concern when AI is being entrusted with people's mental health. Misjudging someone's state of mind, offering ineffective treatment, or misinterpreting important data could be catastrophic for the patient, so there are major considerations that need to be made here.
@@ -103,14 +105,11 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
 
  AI has so much potential that it's no secret why people are so excited about it. However, as is the case with any emerging technology, it is crucial that AI is not too quickly applied or outright misused. In mental healthcare, this could do more harm than good to patients. Time will tell if, or when, AI becomes a key element in the mental health industry and whether this turns out to be a blessing or a curse.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -119,4 +118,23 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-becoming-a-leader-in-the-world-of-design-work/"><u>[New] In 2024, Becoming a Leader in the World of Design Work</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-peek-at-all-shared-images-and-videos-in-chats/"><u>[Updated] Peek at All Shared Images & Videos in Chats</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-spectrum-savvy-the-filmmakers-guide-to-color-for-2024/"><u>[Updated] Spectrum Savvy The Filmmaker's Guide to Color for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-pixels-melodic-matches-and-personalization/"><u>2024 Approved Pixel's Melodic Matches and Personalization</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-nokia-c32-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Nokia C32 to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bypassing-sims-joining-gpt-and-telegram-with-ease/"><u>Bypassing SIMs: Joining GPT and Telegram with Ease</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-vs-microsoft-bing-ai-vs-google-bard-which-is-the-best-ai-chatbot/"><u>ChatGPT Vs. Microsoft Bing AI Vs. Google Bard: Which Is the Best AI Chatbot?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/future-ready-data-retention-selecting-excellent-cloud-providers/"><u>Future-Ready Data Retention Selecting Excellent Cloud Providers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/if-youre-counting-down-for-chatgpt-on-desktop-dont-miss-our-top-pick-in-open-source-ai-tools/"><u>If You're Counting Down for ChatGPT on Desktop – Don't Miss Our Top Pick in Open-Source AI Tools!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/lenovo-legion-5-pro-upgrade-to-modern-drivers-ach6h-edition/"><u>Lenovo Legion 5 Pro - Upgrade to Modern Drivers: ACH6H Edition</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/master-the-art-of-centralized-data-protection-uniting-multiple-machines-on-one-backup-system/"><u>Master the Art of Centralized Data Protection: Uniting Multiple Machines on One Backup System</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-ai-features-utilizing-microsofts-bing-tool-on-your-android-device/"><u>Mastering AI Features: Utilizing Microsoft's Bing Tool on Your Android Device</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/no-more-engaging-shut-down-gpt/"><u>No More Engaging? Shut Down GPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionizing-work-through-ai-breakthroughs/"><u>Revolutionizing Work Through AI Breakthroughs</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-easy-way-to-verify-and-edit-your-age-on-tiktok-for-2024/"><u>The Easy Way to Verify and Edit Your Age on TikTok for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-claude-the-essential-ai-revolutionizing-industries/"><u>Unveiling Claude: The Essential AI Revolutionizing Industries</u></a></li>
+</ul></div>
 

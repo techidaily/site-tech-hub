@@ -1,7 +1,7 @@
 ---
 title: Sharing the Top Remorse Moment of Upgrading to iOS 18 – A Common Dilemma Discussed on ZDNet
-date: 2024-11-24T17:45:43.147Z
-updated: 2024-11-28T00:05:33.608Z
+date: 2024-12-05T20:58:36.801Z
+updated: 2024-12-07T16:16:26.247Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,18 +109,24 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-breaking-through-boundaries-optimizing-videos-for-maximum-traction/"><u>[New] Breaking Through Boundaries Optimizing Videos for Maximum Traction</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-pixelmaster-360-multiplatform-resolution-booster/"><u>[New] PixelMaster 360 – Multiplatform Resolution Booster</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-how-to-create-a-youtube-account/"><u>[Updated] In 2024, How to Create a YouTube Account</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-pristine-20-uncopyrighted-pubg-visual-sequences/"><u>2024 Approved Pristine 20 Uncopyrighted PUBG Visual Sequences</u></a></li>
-<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-infinix-note-30-vip-racing-edition-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Infinix Note 30 VIP Racing Edition? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-7-amazing-free-travel-planning-apps-with-ai-and-chatgpt-features-for-instant-trip-organization/"><u>Discover 7 Amazing Free Travel Planning Apps with AI and ChatGPT Features for Instant Trip Organization</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-reliability-of-ai-powered-workouts-can-they-provide-safe-options-for-your-needs/"><u>Exploring the Reliability of AI-Powered Workouts: Can They Provide Safe Options for Your Needs?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-poco-c55-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Poco C55 | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Realme 10T 5G | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-top-quality-video-uplift-immaculate-resolution/"><u>In 2024, Top Quality Video Uplift Immaculate Resolution</u></a></li>
-<li><a href="https://games-able.techidaily.com/supercharge-your-console-with-3-innovative-strategies/"><u>Supercharge Your Console with 3 Innovative Strategies</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlock-ultimate-efficiency-with-perplexity-ai-the-top-unused-google-search-enhancer/"><u>Unlock Ultimate Efficiency with Perplexity AI: The Top Unused Google Search Enhancer</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-gptzeros-role-in-spotting-ai-content/"><u>Unveiling GPTZero's Role in Spotting AI Content</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixed-microsoft-store-wont-open/"><u>[Fixed] Microsoft Store Won't Open</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-choose-between-youtubers-game-entrance-tutorials-cost-included-for-2024/"><u>[New] How to Choose Between Youtubers' Game Entrance Tutorials (Cost Included?) For 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-instilling-illusions-blur-wonders-in-adobes-visual-staging-tools/"><u>[New] Instilling Illusions Blur Wonders in Adobe's Visual Staging Tools</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-premier-sound-pivot-for-podcast-masters/"><u>[New] Premier Sound Pivot for Podcast Masters</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-unveiling-uavs-the-basics-of-drone-operations/"><u>[New] Unveiling UAVs The Basics of Drone Operations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-showdown-evaluating-claude-and-chatgpt-to-find-your-perfect-daily-assistant/"><u>AI Showdown: Evaluating Claude and ChatGPT to Find Your Perfect Daily Assistant</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-boosting-world-of-warcraft-speed-and-reducing-lag/"><u>Comprehensive Guide: Boosting World of Warcraft Speed & Reducing Lag</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/demystifying-nlp-and-its-relation-to-general-machine-learning-concepts/"><u>Demystifying NLP and Its Relation to General Machine Learning Concepts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ensuring-safe-ai-growth-the-openai-executive-stance/"><u>Ensuring Safe AI Growth - The OpenAI Executive Stance</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/experience-enhanced-ai-with-chatgpt-for-iphone-discover-why/"><u>Experience Enhanced AI with ChatGPT for iPhone - Discover Why</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gptzero-uncovered-identifying-artificial-textual-outputs/"><u>GPTZero Uncovered: Identifying Artificial Textual Outputs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-the-chatgpt-mobile-app-for-ios-is-transforming-conversations/"><u>How the ChatGPT Mobile App for iOS Is Transforming Conversations</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-navigating-online-public-opinion-for-video-content-concepts/"><u>In 2024, Navigating Online Public Opinion for Video Content Concepts</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-honor-magic-5-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Honor Magic 5</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovation-in-content-creation-7-smart-ai-uses/"><u>Innovation in Content Creation: 7 Smart AI Uses</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/privacy-precautions-minimizing-the-risks-when-using-individualized-generative-pre-trained-transformer-technologies/"><u>Privacy Precautions: Minimizing the Risks When Using Individualized Generative Pre-Trained Transformer Technologies</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/ultimate-software-selection-for-effective-study-habits/"><u>Ultimate Software Selection for Effective Study Habits</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unraveling-openais-pioneering-advancements/"><u>Unraveling OpenAI's Pioneering Advancements</u></a></li>
+<li><a href="https://facebook.techidaily.com/you-can-now-listen-to-spotify-on-a-miniplayer-in-the-facebook-app/"><u>You Can Now Listen to Spotify on a Miniplayer in the Facebook App</u></a></li>
 </ul></div>
 

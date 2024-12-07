@@ -1,7 +1,7 @@
 ---
 title: How Apple's Groundbreaking Gaze Control Is Changing the Game for iPhone & iPad Users with Enhanced Accessibility Options | Insights
-date: 2024-10-26T07:35:17.925Z
-updated: 2024-11-02T12:01:03.171Z
+date: 2024-12-06T17:39:01.375Z
+updated: 2024-12-07T16:04:01.491Z
 tags:
   - apple
 categories:
@@ -30,6 +30,10 @@ Read on for a look at some of the new accessibility features coming to Apple har
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### New eye-tracking features
 
 Apple is bringing a new feature to both iOS and iPadOS that will let you navigate your iPhone and iPad with just your eye movements. The feature uses the device's front-facing camera to track your eye movements and let you move through apps. Apple said that its new Eye Tracking feature will work across both its own and third-party apps, and will work with gestures powered solely by eye movements.
@@ -45,10 +49,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Apple Music haptics
@@ -56,10 +57,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Addressing motion sickness
@@ -70,18 +68,15 @@ Motion sickness in cars can often be the result of a disconnect between what you
 
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Understanding speech
 
 A new feature called Voice Shortcuts will let you "assign custom utterances" that Apple's virtual personal assistant Siri will save. When Siri hears those utterances, it'll perform whatever action was assigned to it, including launching apps or engaging in more complex tasks on the device.
 
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### New CarPlay features
 
@@ -90,10 +85,7 @@ Apple's in-car CarPlay software is also getting new accessibility features, incl
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Some other updates
@@ -130,18 +122,19 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-key-elements-for-compelling-facebook-ad-textual-content/"><u>[New] In 2024, Key Elements for Compelling Facebook Ad Textual Content</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-navigating-the-minefield-of-instasongs-and-rights-for-2024/"><u>[New] Navigating the Minefield of InstaSongs and Rights for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-progressive-array-of-chat-initiators-for-attracting-podcast-audience/"><u>[New] Progressive Array of Chat-Initiators for Attracting Podcast Audience</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/10-kid-friendly-drone-recommendations-for-2024/"><u>10 Kid-Friendly Drone Recommendations for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-real-time-facebook-footage-the-top-5-live-streaming-apps/"><u>2024 Approved Real-Time Facebook Footage The Top 5 Live-Streaming Apps</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/comprehensive-strategies-to-correct-acrocefexe-application-malfunctions/"><u>Comprehensive Strategies to Correct acrocef.exe Application Malfunctions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/master-the-art-of-mts-video-imports-and-edits-a-guide-to-using-windows-movie-maker-proficiently/"><u>Master the Art of MTS Video Imports & Edits: A Guide to Using Windows Movie Maker Proficiently</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-audio-sampling-tips-and-techniques-to-adjust-sample-rates-for-superior-playback-experience/"><u>Mastering Audio Sampling: Tips & Techniques to Adjust Sample Rates for Superior Playback Experience</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/overcoming-regional-restrictions-a-guide-to-watching-global-content-despite-country-blocks/"><u>Overcoming Regional Restrictions: A Guide to Watching Global Content Despite Country Blocks</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/photoshop/"><u>Photoshopで効率的にワークフローを記録するテクニック</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/quick-and-easy-methods-how-to-transform-xa-files-into-mp3-format/"><u>Quick & Easy Methods: How to Transform XA Files Into MP3 Format</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-9-itel-p55t-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Itel P55T Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-compressed-storage-on-windows-11/"><u>Unlocking Compressed Storage on Windows 11</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-flash-and-fly-gaming-top-10-speedy-apps-on-desktopmobile-for-2024/"><u>[Updated] Flash & Fly Gaming Top 10 Speedy Apps on Desktop/Mobile for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-enhancing-clarity-and-comprehensibility-adding-on-screen-captions-in-video-projects/"><u>[Updated] In 2024, Enhancing Clarity & Comprehensibility Adding On-Screen Captions in Video Projects</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-unveiling-the-secrets-of-lut-customization-in-premiere/"><u>[Updated] In 2024, Unveiling the Secrets of LUT Customization in Premiere</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-pioneering-the-pathway-personal-youtube-videos-in-google-accounts/"><u>[Updated] Pioneering the Pathway Personal YouTube Videos in Google Accounts</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-itel-a60s-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Itel A60s Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancing-your-craft-optimal-uses-of-chatgpt-by-independent-authors/"><u>Enhancing Your Craft: Optimal Uses of ChatGPT by Independent Authors</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-copyright-law-in-artificial-intelligence-who-is-the-author/"><u>Exploring Copyright Law in Artificial Intelligence: Who Is The Author?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-get-free-picture-frame-videos-for-2024/"><u>How to Get Free Picture Frame Videos for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-motorola-edge-2023-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Motorola Edge 2023 PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/incorporating-ai-into-fitness-coaching-the-ultimate-guide-to-chatgpt-for-personalized-workouts/"><u>Incorporating AI Into Fitness Coaching: The Ultimate Guide to ChatGPT for Personalized Workouts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-image-transformation-with-effective-use-of-3d-lut-in-ps-for-2024/"><u>Mastering Image Transformation with Effective Use of 3D LUT in PS for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/resolving-pc-issues-efficiently-with-the-help-of-chatgpt/"><u>Resolving PC Issues Efficiently with the Help of ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-connecting-chatgpt-with-your-whatsapp-business-account/"><u>Step-by-Step Guide: Connecting ChatGPT with Your WhatsApp Business Account</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/study-hacks-gone-wrong-steering-clear-of-misusing-chatgpt-as-a-student/"><u>Study Hacks Gone Wrong: Steering Clear of Misusing ChatGPT as a Student</u></a></li>
 </ul></div>
 

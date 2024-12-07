@@ -1,7 +1,7 @@
 ---
 title: "Advancing AI Frontiers with Apple: Discover How New Models Are Changing the Game | Detailed Analysis"
-date: 2024-10-27T16:17:37.697Z
-updated: 2024-11-02T10:59:16.608Z
+date: 2024-11-30T20:25:01.062Z
+updated: 2024-12-07T18:03:09.660Z
 tags:
   - apple
 categories:
@@ -48,6 +48,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## A trained charm offensive
 
 But before I could bathe in that oddness, a charming saleswoman wandered over and asked if she could help.
@@ -79,10 +83,7 @@ She began to play a demonstration video that, dare I confess, is quite moving.
 The fact that someone else can see (a digital version of) your eyes is a touchingly humane feature, even if imperfect. But the simple gesturing and the apparent power of that gesturing is, even on video, quite something.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Suddenly, it's all business
@@ -124,10 +125,7 @@ I asked if she thought this would become the new way of living, where people wan
 (Well, not quite all the apps. Netflix and YouTube [aren't there](https://www.zdnet.com/article/what-apps-will-be-on-apple-vision-pro-not-these-two-major-ones/).)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Was I sold? Not quite yet
@@ -193,22 +191,20 @@ I asked the female store employee whether she'd be able to try one on before the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-sun-salutations-and-beyond-youtubes-premier-yoga-pages/"><u>[New] 2024 Approved Sun Salutations & Beyond – YouTube's Premier Yoga Pages</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-spotlight-secrets-perfecting-vlogger-lights/"><u>[Updated] In 2024, Spotlight Secrets Perfecting Vlogger Lights</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-ultimate-rule-book-on-instagram-video-length/"><u>[Updated] In 2024, The Ultimate Rule Book on Instagram Video Length</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-holistic-harmony-the-best-online-yoga-channels/"><u>2024 Approved Holistic Harmony - The Best Online Yoga Channels</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/556s44gp6zat44gr44k744o844or44gu44k544k44o844o744os44oa44kiioodleocqeodicatioobiuwpluociuaomplusobiplusocig/"><u>瞬く間にセールのスター・レペア フォト - お取り掛かり</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mp3wav4/"><u>最適の無料MP3変換器選び：WAVから簡単に！インストールなしで使えるトップ4</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/eloquentaiartisan-the-ai-empowered-editor/"><u>EloquentAIArtisan The AI-Empowered Editor</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/fixing-common-problems-with-freemake-video-converter-for-smooth-performance/"><u>Fixing Common Problems with Freemake Video Converter for Smooth Performance</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/flashflv2/"><u>Flashビデオ(FLV)の分割・切り取りに必要な2つの方法投稿</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/free-or-paid-exploring-the-distinctions-between-apple-video-converter-factory-and-pro-version/"><u>Free or Paid? Exploring the Distinctions Between Apple Video Converter Factory & Pro Version</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-unveiling-and-managing-windows-10-actions/"><u>Guide to Unveiling & Managing Windows 10 Actions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/guide-capturing-your-instagram-live-streams-from-desktop-or-mobile-devices/"><u>Guide: Capturing Your Instagram Live Streams From Desktop or Mobile Devices</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-video-extraction-effective-techniques-for-securing-content-from-anon-v/"><u>Mastering Video Extraction: Effective Techniques for Securing Content From Anon-V</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mp4-to-mjpeg-conversion-a-step-by-step-guide/"><u>MP4 to MJPEG Conversion: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/play-and-convert-dav-format-effortlessly-discover-the-best-software-for-dav-video-management/"><u>Play and Convert DAV Format Effortlessly! Discover the Best Software for DAV Video Management</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/step-by-step-guide-clearing-your-password-history-on-mozilla-firefox/"><u>Step-by-Step Guide: Clearing Your Password History on Mozilla Firefox</u></a></li>
-<li><a href="https://common-error.techidaily.com/winning-the-battle-against-startup-glitches-on-your-windows-10-device/"><u>Winning the Battle Against Startup Glitches on Your Windows 10 Device</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-shotchrome-intrinsic-recorder-for-os-x/"><u>[New] ShotChrome Intrinsic Recorder for OS X</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-thriving-on-both-sides-work-and-youtubing-tips/"><u>[New] Thriving on Both Sides Work and YouTubing Tips</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-enhance-your-feed-editing-tall-videos-with-fcpx-expertise-for-2024/"><u>[Updated] Enhance Your Feed Editing Tall Videos with FCPX Expertise for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-vivo-y200e-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Vivo Y200e 5G</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discovering-the-world-of-ai-9-essential-tools-for-starters/"><u>Discovering the World of AI: 9 Essential Tools for Starters</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/future-of-ai-writing-assistant-our-wishlist-for-gpt-5/"><u>Future of AI Writing Assistant: Our Wishlist for GPT-5</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-regain-original-typing-positions-on-windows-11-devices/"><u>Guide to Regain Original Typing Positions on Windows 11 Devices</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-five-steps-to-enhance-your-screenplay-narration/"><u>In 2024, Five Steps to Enhance Your Screenplay Narration</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-samsung-galaxy-xcover-7-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Samsung Galaxy XCover 7 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-simple-strategies-for-capturing-games-on-consoles/"><u>In 2024, Simple Strategies for Capturing Games on Consoles</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leveraging-chatgpt-for-efficient-and-creative-website-creation/"><u>Leveraging ChatGPT for Efficient and Creative Website Creation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/overcoming-chatgpts-character-threshold-for-extended-conversations/"><u>Overcoming ChatGPT's Character Threshold for Extended Conversations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/running-chatgpt-as-a-desktop-app-on-windows-quick-instructions/"><u>Running ChatGPT as a Desktop App on Windows - Quick Instructions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-dichotomy-of-ai-mass-engagement-vs-precious-data/"><u>The Dichotomy of AI: Mass Engagement Vs. Precious Data</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-5-car-locator-apps-for-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>Top 5 Car Locator Apps for Apple iPhone XR | Dr.fone</u></a></li>
 </ul></div>
 

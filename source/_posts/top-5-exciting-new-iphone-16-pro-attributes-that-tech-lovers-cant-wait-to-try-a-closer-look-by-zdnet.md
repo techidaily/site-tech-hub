@@ -1,7 +1,7 @@
 ---
 title: Top 5 Exciting New iPhone 16 Pro Attributes That Tech Lovers Can't Wait To Try - A Closer Look By ZDNET
-date: 2024-10-31T11:30:54.703Z
-updated: 2024-11-01T18:42:47.885Z
+date: 2024-11-30T16:58:38.976Z
+updated: 2024-12-07T20:04:44.694Z
 tags:
   - apple
 categories:
@@ -26,15 +26,16 @@ But which features will actually have the most impact on iPhone enthusiasts? Wha
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. The 5x zoom comes to the Pro
 
 When Apple first released the [iPhone 15](https://www.zdnet.com/article/iphone-15-plus-review/) series, it only gave the 5x tetraprism zoom lens to the Max Pro. This time around, both the 16 Pro and the 16 Pro Max are getting the high-end zoom capability. This choice means the camera is essentially the same on the 16 Pro and 16 Pro Max, leaving other features to differentiate the two models. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. The camera control
@@ -52,10 +53,7 @@ The camera control button is available on all iPhone 16 models, but it's when pa
 [Not everyone is a fan](https://www.zdnet.com/article/i-want-to-be-excited-about-the-iphone-16s-new-camera-button-but-cant-for-now/) of the new camera button, however, as this shift from software to hardware will likely come with usability growing pains and mistakenly-accessed features.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Siri's much-needed makeover
@@ -73,10 +71,7 @@ Well, the time has finally come. Apple unveiled a ton of new functionality for S
 Beyond Siri, we have [Visual Intelligence](https://www.zdnet.com/article/apple-adds-visual-intelligence-its-answer-to-google-lens-to-the-iphone-16-camera/), which allows multi-modal AI via the camera, similar to what we've seen across other AI models this year. Apple Intelligence will start with a live beta in October in the US, with additional countries in December, and additional languages next year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Upgraded chipset for the AI age
@@ -92,10 +87,7 @@ The 3mm technology has smaller, more efficient transistors, and constitutes a bi
 Even with AI's demanding memory requirements, having this much memory on the iPhone is a bonus for overall performance, particularly multitasking and starting up apps. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. The biggest iPhones yet
@@ -132,20 +124,16 @@ The iPhone 16 Pro and Pro Max are the largest iPhones ever, with 6.3 and 6.9-inc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-the-subtle-art-of-easing-audio-intensity-garageband/"><u>[New] In 2024, The Subtle Art of Easing Audio Intensity (Garageband)</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-unveiling-8-premium-mp3-extraction-software-android/"><u>[New] Unveiling 8 Premium MP3 Extraction Software (Android)</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-funimate-essentials-for-the-avid-gamer/"><u>[Updated] 2024 Approved Funimate Essentials for the Avid Gamer</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1726027621578-7/"><u>「縦長化へのカギ: 横画像動画を編集する上質ツール7選」</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/1726026806806-dvddvd/"><u>「パソコン」用外付けDVDプレーヤーでDVDを見られないときの解決法</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-seamless-integration-of-skype-meetings-into-zoom-platform/"><u>2024 Approved Seamless Integration of Skype Meetings Into Zoom Platform</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-access-the-apple-tv-streaming-service-on-amazon-fire-stick/"><u>How To Access The Apple TV Streaming Service On Amazon Fire Stick</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-oneplus-12-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked OnePlus 12 Phone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Honor Magic 6? | Dr.fone</u></a></li>
-<li><a href="https://discover-able.techidaily.com/trio-de-solutions-pour-recuperer-les-drivers-perdus-sous-windows-10/"><u>Trio De Solutions Pour Récupérer Les Drivers Perdus Sous Windows 10</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/widely-used-file-types-accepted/"><u>Widely Used File Types Accepted</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/windows-11dvdiso/"><u>Windows 11のもとで効率的にDVDをISO画像化 - 手順ガイド</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/wonderfox-redirected-successfully-your-new-destination/"><u>WonderFox - Redirected Successfully: Your New Destination</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/youtubeavi/"><u>YouTube動画から自由なダウンロードと無料でのAVIフォーマット変換</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1726027210558-youtube/"><u>Youtubeユニークなお笑いコンテンツが豊富なバラエティ動画アーカイブからダウンロードできる | ビデオ保存</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-invaluable-list-of-prime-no-charge-sites-for-seamless-video-editing-experience/"><u>[New] Invaluable List of Prime No-Charge Sites for Seamless Video Editing Experience</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-capture-and-compose-best-writing-apps-for-photos-iosandroid/"><u>[Updated] Capture and Compose Best Writing Apps for Photos (iOS/Android)</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-ultimate-shooter-showdown-our-best-picks-for-2024/"><u>[Updated] Ultimate Shooter Showdown - Our Best Picks for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-shap-e-the-powerful-explainer-tool-from-openai-demystified/"><u>Decoding SHAP-E: The Powerful Explainer Tool From OpenAI Demystified</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/escalating-risks-in-generative-ai-unveiling-8-critical-factors-behind-worsening-safety-issues/"><u>Escalating Risks in Generative AI: Unveiling 8 Critical Factors Behind Worsening Safety Issues</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/how-to-import-photos-and-videos-in-windows-10-deepest-secret/"><u>How to Import Photos and Videos in Windows 10 (Deepest Secret)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-track-imei-number-of-lava-yuva-3-pro-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Lava Yuva 3 Pro Through Google Earth?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-oneplus-ace-2-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your OnePlus Ace 2 Lock Screen Password</u></a></li>
+<li><a href="https://games-able.techidaily.com/tech-tango-the-perfect-sync-dance-with-an-xbox-one-remote/"><u>Tech Tango: The Perfect Sync Dance with an Xbox One Remote</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-10-ai-powered-pdf-tools-for-streamlining-your-workflow-with-chatgpt/"><u>Top 10 AI-Powered PDF Tools for Streamlining Your Workflow with ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleash-your-potential-with-these-5-methods-to-utilize-chatgpt-in-academia/"><u>Unleash Your Potential with These 5 Methods to Utilize ChatGPT in Academia</u></a></li>
 </ul></div>
 

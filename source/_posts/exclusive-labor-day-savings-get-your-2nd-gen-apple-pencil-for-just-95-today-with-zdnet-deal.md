@@ -1,7 +1,7 @@
 ---
 title: Exclusive Labor Day Savings! Get Your 2Nd Gen Apple Pencil for Just $95 Today with ZDNET Deal
-date: 2024-11-22T19:39:09.234Z
-updated: 2024-11-28T06:11:14.772Z
+date: 2024-12-03T19:37:04.327Z
+updated: 2024-12-07T20:53:09.203Z
 tags:
   - apple
 categories:
@@ -34,7 +34,7 @@ By using the Apple Pencil with your iPad (specifically, the iPad Pro 2022 model)
 Get the [Apple Pencil (2nd Gen)](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Pencil-2nd-Generation-Pixel-Perfect-Precision-Industry-Leading-Low-Latency-Perfect-Note-Taking-Drawing-Signing-documents-Attaches-Charges-Pairs%2F949679706&subId1=zd-__COM_CLICK_ID__-dtp) with $35 in savings right now if you want to upgrade your iPad stylus. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -71,22 +71,15 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-enhance-cinematography-with-obs-studios-lut-features-and-downloads/"><u>[Updated] 2024 Approved Enhance Cinematography with OBS Studio's LUT Features and Downloads</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-digital-footprint-and-interactive-iconography-honors/"><u>2024 Approved Digital Footprint and Interactive Iconography Honors</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/beginner-friendly-tutorial-for-integrating-microsoft-copilot-into-your-mac-experience/"><u>Beginner-Friendly Tutorial for Integrating Microsoft Copilot Into Your Mac Experience</u></a></li>
-<li><a href="https://driver-error.techidaily.com/diagnosing-and-repairing-issues-with-hps-wireless-keyboards-a-comprehensive-guide/"><u>Diagnosing and Repairing Issues with HP's Wireless Keyboards: A Comprehensive Guide</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-vivo-v29e-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Vivo V29e for Free? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expertise-in-enhancing-photos-via-online-tools/"><u>In 2024, Expertise in Enhancing Photos via Online Tools</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/install-updated-drivers-for-your-tp-link-ub400-bluetooth-stick-today/"><u>Install Updated Drivers for Your TP-Link UB400 Bluetooth Stick Today</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-presentations-with-chatgpt-a-step-by-step-guide/"><u>Mastering Presentations with ChatGPT: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-the-craft-integrating-gpt-my-bots-into-hobbies-and-artistry/"><u>Mastering the Craft: Integrating GPT-My Bots Into Hobbies and Artistry</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-privacy-concerns-with-corporate-gpt-use/"><u>Navigating Privacy Concerns with Corporate GPT Use</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-renaming-your-account-in-windows-1-10/"><u>Step-by-Step Guide: Renaming Your Account in Windows 1지 10</u></a></li>
-<li><a href="https://win-dash.techidaily.com/step-by-step-instructions-for-finding-and-installing-updated-drivers-for-dell-latitude-e6430-running-windows-os/"><u>Step-by-Step Instructions for Finding and Installing Updated Drivers for Dell Latitude E6430 Running Windows OS</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/taming-data-management-how-chatgpt-can-revolutionize-your-excel-workflows/"><u>Taming Data Management: How ChatGPT Can Revolutionize Your Excel Workflows</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-complete-guide-to-electronics-with-tom-hardware-insights-and-analysis/"><u>The Complete Guide to Electronics with Tom – Hardware Insights and Analysis</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/to-hire-or-not-to-hire-a-local-llm-understanding-potential-outcomes-for-your-case/"><u>To Hire or Not to Hire a Local LL.M.: Understanding Potential Outcomes for Your Case</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-resolve-issues-in-your-game-installation-support-from-origin-games/"><u>Troubleshoot & Resolve Issues in Your Game Installation – Support From Origin Games</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-potential-of-gpt-3-at-openai-interface/"><u>Unveiling the Potential of GPT-3 at OpenAI Interface</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-building-business-via-beauty-vlogs/"><u>[New] Building Business via Beauty Vlogs</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-benq-sw320-monitor-reveal-a-spectacle-in-4k-technology/"><u>[Updated] BenQ SW320 Monitor Reveal A Spectacle in 4K Technology</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-step-into-a-tiktok-realm-a-guide-for-joining-lives/"><u>[Updated] In 2024, Step Into a TikTok Realm A Guide for Joining Lives</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-realme-12-pro-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Realme 12 Pro 5G</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fix-guide-overcoming-workspace-failure-in-win-office/"><u>Quick-Fix Guide: Overcoming Workspace Failure in Win Office</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-to-capturing-4k-60hz-clips-from-youtube/"><u>Step-by-Step Guide to Capturing 4K @ 60Hz Clips From YouTube</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-to-elevate-your-screen-captures-visual-fidelity/"><u>Step-by-Step Guide to Elevate Your Screen Capture's Visual Fidelity</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-instructions-on-separating-audio-tracks-in-wmv-format-both-web-and-desktop-solutions/"><u>Step-by-Step Instructions on Separating Audio Tracks in .WMV Format, Both Web and Desktop Solutions.</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/stream-elysium-anywhere-the-ultimate-guide-to-digital-copy-download/"><u>Stream 'Elysium' Anywhere – The Ultimate Guide to Digital Copy Download</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/troubleshooting-steps-for-pc-players-of-granblue-fantasy-with-recurring-relink-glitches/"><u>Troubleshooting Steps for PC Players of Granblue Fantasy with Recurring ReLink Glitches</u></a></li>
 </ul></div>
 

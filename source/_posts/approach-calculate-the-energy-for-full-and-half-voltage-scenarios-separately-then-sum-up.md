@@ -1,7 +1,7 @@
 ---
 title: "Approach: Calculate the Energy for Full and Half Voltage Scenarios Separately, Then Sum Up."
-date: 2024-10-25T18:27:49.495Z
-updated: 2024-11-01T18:28:44.507Z
+date: 2024-11-30T19:33:58.944Z
+updated: 2024-12-07T16:55:31.547Z
 tags:
   - apple
 categories:
@@ -44,6 +44,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Hey Siri, let's talk about Microsoft
 
 Yet now, and urgently, Apple is thrusting itself further into AI. Cupertino [already claims](https://www.zdnet.com/article/apple-claims-its-on-device-ai-system-realm-substantially-outperforms-gpt-4/) its on-device AI is better than GPT-4\. The name of its on-device system? ReALM (Reference Resolution As Language Modeling), apparently.
@@ -73,10 +77,7 @@ Microsoft, on the other hand, is a strong brand -- one that's become both more i
 Meanwhile, Siri connotes the phrase "You cannot be Sirious." 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Hey Siri, say goodbye
@@ -125,16 +126,20 @@ This replacement should have a new name -- Cuper or Cooky anyone? -- that'll mak
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-streamline-your-storage-download-vimeo-videos-in-mp4-formats/"><u>2024 Approved Streamline Your Storage Download Vimeo Videos in MP4 Formats</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/m2tff3/"><u>最適な無料ツールでM2TFFファイルの変換方法:上位3つ紹介</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/crafting-a-successful-vimeo-earning-model-a-comprehensive-guide/"><u>Crafting a Successful Vimeo Earning Model – A Comprehensive Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-logitech-g533-microphone-issues-step-by-step-solutions/"><u>Fixing Logitech G533 Microphone Issues: Step-by-Step Solutions</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Motorola G54 5G | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-enhance-gameplay-the-ultimate-guide-to-using-steams-switch-controller/"><u>In 2024, Enhance Gameplay The Ultimate Guide to Using Steam's Switch Controller</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/master-your-zebra-zp450-printer-free-downloads-and-updates-with-easy-instructions/"><u>Master Your Zebra ZP450 Printer - Free Downloads and Updates with Easy Instructions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mp3-dvd/"><u>MP3へ変換: DVDのオーディオリッピング手順詳細ガイド</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/professional-blackberry-video-transcoder-ultimate-guide-using-wonderfox-factory-pro/"><u>Professional BlackBerry Video Transcoder: Ultimate Guide Using WonderFox Factory Pro</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/quick-and-simple-steps-to-transform-dss-files-into-high-quality-wav-format/"><u>Quick & Simple Steps to Transform DSS Files Into High-Quality WAV Format</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/rotating-video-footage-effortlessly-alternatives-to-windows-media-player/"><u>Rotating Video Footage Effortlessly - Alternatives to Windows Media Player</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-elite-slide-to-digital-recorder/"><u>[Updated] In 2024, Elite Slide-to-Digital Recorder</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-incremental-introduction/"><u>[Updated] Incremental Introduction</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/crafting-your-own-anthology-mastering-the-art-of-writing-poetry-with-chatgpt/"><u>Crafting Your Own Anthology: Mastering the Art of Writing Poetry with ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-the-workings-of-ai-driven-content-synthesis-for-firms/"><u>Decoding the Workings of AI-Driven Content Synthesis for Firms</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/demystifying-claude-3-insights-into-its-functions-and-benefits/"><u>Demystifying Claude 3: Insights Into Its Functions and Benefits</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-concept-to-creation-building-apps-with-chatgpts-insight/"><u>From Concept to Creation: Building Apps with ChatGPT's Insight</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gpt-powered-therapy-ensuring-client-safety/"><u>GPT-Powered Therapy: Ensuring Client Safety</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gpt-series-faceoff-exploring-the-unique-aspects-of-gpt-4-gpt-4-turbo-and-gpt-4o-models/"><u>GPT-Series Faceoff: Exploring the Unique Aspects of GPT-4, GPT-4 Turbo & GPT-4o Models.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-users-through-device-driver-installation-issues-in-win11/"><u>Guiding Users Through Device Driver Installation Issues in Win11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-bookmark-and-revisit-your-conversations-with-chatgpt-at-any-time/"><u>How to Bookmark and Revisit Your Conversations with ChatGPT at Any Time</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-honor-magic-6-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Honor Magic 6 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-unavailable-screen-configurations-in-nvidia/"><u>Overcoming Unavailable Screen Configurations in NVIDIA</u></a></li>
+<li><a href="https://review-topics.techidaily.com/reinstall-drivers-with-device-manager-in-windows-11-by-drivereasy-guide/"><u>Reinstall drivers with Device Manager in Windows 11</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/unveiling-professional-hdr-magic-in-adobes-photoshop/"><u>Unveiling Professional HDR Magic in Adobe's Photoshop</u></a></li>
 </ul></div>
 

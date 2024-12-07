@@ -1,7 +1,7 @@
 ---
 title: Mastering the Customization of Control Center in iOS 18 for Your iPhone | MobileMastery
-date: 2024-11-24T12:07:10.196Z
-updated: 2024-11-28T07:30:44.098Z
+date: 2024-12-05T16:33:07.017Z
+updated: 2024-12-07T18:11:08.650Z
 tags:
   - apple
 categories:
@@ -28,11 +28,11 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-## How to customize your iPhone's new Control Center with iOS 18
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## How to customize your iPhone's new Control Center with iOS 18
 
 ## 1\. Access Control Center
 
@@ -41,7 +41,7 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -59,7 +59,7 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -67,6 +67,10 @@ Screenshot by Lance Whitney/ZDNET
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -76,10 +80,6 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
@@ -87,7 +87,7 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -126,22 +126,16 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-facetune-exploration-the-ultimate-photo-editing-journey-for-2024/"><u>[New] Facetune Exploration The Ultimate Photo Editing Journey for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-unlocking-past-mysteries-top-10-historical-channels-for-learners/"><u>[New] In 2024, Unlocking Past Mysteries Top 10 Historical Channels for Learners</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-mastering-instagram-the-ultimate-video-editing-handbook/"><u>[Updated] 2024 Approved Mastering Instagram The Ultimate Video Editing Handbook</u></a></li>
-<li><a href="https://win-answers.techidaily.com/experiencing-reduced-fps-understanding-the-causes-behind-farmers-dilemma-22/"><u>Experiencing Reduced FPS? Understanding the Causes Behind Farmer's Dilemma 22</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/faster-than-ever-solving-the-windows-10-long-update-dilemma/"><u>Faster Than Ever: Solving the Windows 10 Long Update Dilemma</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/fixing-the-issue-how-to-resolve-google-chrome-has-stopped-responding/"><u>Fixing the Issue: How to Resolve 'Google Chrome Has Stopped Responding'</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/frei-verfugbarer-film-downloads-auf-youtube-abrufen-ohne-zeitlimit/"><u>Frei Verfügbarer Film-Downloads Auf YouTube - Abrufen Ohne Zeitlimit</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722971821422-get-your-msi-z370-a-pros-latest-drivers-here-free-offer/"><u>Get Your MSI Z370-A Pro's Latest Drivers Here – Free Offer</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/guide-dual-monitor-setup-on-your-laptop/"><u>Guide: Dual-Monitor Setup on Your Laptop</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/hdmi-connection-secrets-revealed-connecting-your-laptop-to-a-flat-screen-tv-complete-with-illustrative-photos/"><u>HDMI Connection Secrets Revealed: Connecting Your Laptop to a Flat-Screen TV - Complete with Illustrative Photos</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-get-your-windows-pcs-spotify-app-back-up-and-running-again/"><u>How To Get Your Windows PC's Spotify App Back Up and Running Again</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-safely-eradicate-malware-from-your-iphone/"><u>How To Safely Eradicate Malware From Your iPhone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-quick-share-your-youtube-playlist-journey/"><u>In 2024, Quick Share Your YouTube Playlist Journey</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-apple-iphone-8-plus-fixed-drfone-by-drfone-virtual-ios/"><u>iSpoofer is not working On Apple iPhone 8 Plus? Fixed | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/logitech-k52amatics-how-to-restore-functionality-in-minutes/"><u>Logitech K52amatics: How to Restore Functionality in Minutes!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-windows-10-unveiling-the-secrets-of-tablet-mode/"><u>Mastering Windows 10: Unveiling the Secrets of Tablet Mode</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-motorola-moto-g-stylus-2023-by-fonelab-android-recover-data/"><u>Recover lost data from Motorola Moto G Stylus (2023)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/exploring-the-ultimate-12-choices-in-computer-audio-recording-with-movavi-insights/"><u>Exploring the Ultimate 12 Choices in Computer Audio Recording with Movavi Insights</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/game-changing-homes-in-blocktown/"><u>Game Changing Homes in Blocktown</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/harnessing-color-grading-with-luts-in-premiere/"><u>Harnessing Color Grading with LUTs in Premiere</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-oneplus-nord-n30-5g-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring OnePlus Nord N30 5G PC | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-is-your-apple-iphone-14-plus-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Is Your Apple iPhone 14 Plus in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-5-exceptional-online-video-editing-tools-for-youtube-creators/"><u>Top 5 Exceptional Online Video Editing Tools for Youtube Creators</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-5-no-cost-gaming-introduction-creators-crafting-epic-game-intros-simplified/"><u>Top 5 No-Cost Gaming Introduction Creators: Crafting Epic Game Intros Simplified</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-guide-converting-mmf-audio-files-into-mp3-format-with-easy-steps/"><u>Ultimate Guide: Converting MMF Audio Files Into MP3 Format with Easy Steps</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-lightning-mode-a-comprehensive-guide-on-its-functionality-and-operations/"><u>Understanding Lightning Mode: A Comprehensive Guide on Its Functionality and Operations</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-iphone-x-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud From your iPhone X</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/where-to-find-your-favorite-songs-legally-the-5-best-mp3boo-clones-for-free-music-downloads/"><u>Where to Find Your Favorite Songs Legally: The 5 Best MP3BOO Clones for Free Music Downloads</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Discontinuing Your Subscription to Apple Music Without Using iTunes - Insights From ZDNet"
-date: 2024-10-26T16:02:23.992Z
-updated: 2024-10-27T16:50:33.062Z
+date: 2024-12-03T17:50:58.855Z
+updated: 2024-12-07T18:24:44.777Z
 tags:
   - apple
 categories:
@@ -22,6 +22,10 @@ iTunes is dead. iTunes has been dead since 2019\. Alas, poor iTunes, we knew you
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### See also
 
 * [How to customize your iPhone's new Control Center with iOS 18](https://www.zdnet.com/article/how-to-customize-your-iphones-new-control-center-with-ios-18/)
@@ -36,10 +40,7 @@ But iTunes is dead. Actually, that's not entirely true. Its ghost lingers on. Ap
 Apple Music hasn't been tied to iTunes for account management since 2019\. Now, for those of us who have moved on from our iTunes days, we can cancel an Apple Music subscription either from the web or from iOS device Settings. Let's look at both. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to cancel Apple Music from your Web browser
@@ -59,10 +60,7 @@ David Gewirtz/Screenshot
 Once you're on the Manage screen, choose Cancel Subscription. That should do it for you. 
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to cancel Apple Music from your iPhone or iPad
@@ -123,20 +121,16 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-find-the-finest-websites-with-free-game-of-thrones-audio/"><u>[New] 2024 Approved Find the Finest Websites with Free Game of Thrones Audio</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-leading-sources-for-stunning-sky-hd-imagery-online/"><u>[New] 2024 Approved Leading Sources for Stunning Sky HD Imagery Online</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-expert-guides-to-mobile-screen-recording-for-2024/"><u>[New] Expert Guides to Mobile Screen Recording for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-elevating-your-gameplay-on-youtube-with-these-essential-tags/"><u>[Updated] Elevating Your Gameplay on YouTube with These Essential Tags</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-sliding-to-victory-celebrating-the-best-in-snowboard-cross-winter-games-22-for-2024/"><u>[Updated] Sliding to Victory Celebrating the Best in Snowboard Cross, Winter Games '22 for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/get-your-chatgpt-app-up-and-running-again-9-proven-troubleshooting-tips-for-iphones/"><u>Get Your ChatGPT App Up and Running Again: 9 Proven Troubleshooting Tips for iPhones.</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-easily-distribute-games-through-your-steam-library/"><u>How to Easily Distribute Games Through Your Steam Library</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-reduce-overutilization-of-ram-in-your-windows-11-setup/"><u>How to Reduce Overutilization of RAM in Your Windows 11 Setup</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-turn-onoff-hibernation-mode-on-your-windows-11-pc/"><u>How to Turn On/Off Hibernation Mode on Your Windows 11 PC</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-upgrade-your-windows-10-system-with-new-amd-radeon-hd-6450-drivers/"><u>How to Upgrade Your Windows 10 System with New AMD Radeon HD 6450 Drivers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/identify-your-motherboard-quickly-and-effortlessly/"><u>Identify Your Motherboard Quickly and Effortlessly</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-70-lite-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor 70 Lite 5G To Phone | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-pc-input-devices-on-sonys-playstation/"><u>Mastering PC Input Devices on Sony's PlayStation</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/nvidia-driver-cleanup-a-beginners-guide-for-windows-10-systems/"><u>Nvidia Driver Cleanup: A Beginner's Guide for Windows 10 Systems</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-your-vivo-y100t-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Vivo Y100t Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-streamlined-savings-for-cloud-storage-costs-analysis/"><u>[Updated] Streamlined Savings for Cloud Storage Costs Analysis</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-full-spectrum-analysis-of-vsco-editing-features/"><u>2024 Approved Full Spectrum Analysis of VSCO Editing Features</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-the-ambitions-and-progress-of-googles-pioneering-ai-experiment-gemini/"><u>Decoding the Ambitions and Progress of Google's Pioneering AI Experiment, Gemini</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-conquer-kinemaster-rule-the-meme-world/"><u>In 2024, Conquer KineMaster, Rule the Meme World</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-harness-social-blade-for-profound-youtube-stats-analysis/"><u>In 2024, Harness Social Blade for Profound YouTube Stats Analysis</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-honor-magic-5-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Honor Magic 5 Phone Screen?</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-how-to-create-a-youtube-channel-today/"><u>In 2024, How to Create A YouTube Channel Today</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/increasing-social-understanding-via-chatgpt-tips/"><u>Increasing Social Understanding via ChatGPT Tips</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/infusing-dandd-realms-with-ai-powered-character-blueprints/"><u>Infusing D&D Realms with AI-Powered Character Blueprints</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/linguistic-kinship-between-uk-and-russ/"><u>Linguistic Kinship Between Uk & Russ</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/plan-trips-effortlessly-7-complimentary-chatgpt-apps-for-on-the-spot-trip-planning/"><u>Plan Trips Effortlessly: 7 Complimentary ChatGPT Apps for On-the-Spot Trip Planning</u></a></li>
 </ul></div>
 

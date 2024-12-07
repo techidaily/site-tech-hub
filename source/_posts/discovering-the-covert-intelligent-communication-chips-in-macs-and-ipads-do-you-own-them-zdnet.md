@@ -1,7 +1,7 @@
 ---
 title: Discovering the Covert Intelligent Communication Chips in Macs and iPads - Do You Own Them? | ZDNET
-date: 2024-11-22T04:32:51.353Z
-updated: 2024-11-27T21:21:23.304Z
+date: 2024-12-04T18:57:43.289Z
+updated: 2024-12-07T16:50:07.250Z
 tags:
   - apple
 categories:
@@ -30,10 +30,6 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
@@ -41,7 +37,7 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -52,11 +48,19 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Delete a control
 
@@ -65,7 +69,7 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -77,7 +81,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -85,10 +89,6 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -126,24 +126,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-turning-off-igtv-on-your-account-for-2024/"><u>[New] Turning Off IGTV on Your Account for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/solved-bluetooth-keyboard-stop-working-in-windows-10/"><u>[Solved] Bluetooth Keyboard Stop Working in Windows 10</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-free-photo-editing-unleashed-android-and-iphones-top-tools-ranked-for-2024/"><u>[Updated] Free Photo Editing Unleashed – Android & iPhone's Top Tools Ranked for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-unlock-pinterests-treasure-trove-with-top-free-video-downloads/"><u>[Updated] Unlock Pinterest's Treasure Trove with Top Free Video Downloads</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-top-3-strategies-for-enhanced-zoom-video-conversion-techniques/"><u>2024 Approved Top 3 Strategies for Enhanced Zoom Video Conversion Techniques</u></a></li>
-<li><a href="https://facebook.techidaily.com/decoding-the-headlines-that-changed-googles-trajectory/"><u>Decoding the Headlines that Changed Google's Trajectory</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-ultimate-alternative-to-appleankers-magsafe-wallets-on-steep-discount-review/"><u>Discover the Ultimate Alternative to Apple/Anker's Magsafe Wallets on Steep Discount Review</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/financial-forecasts-in-focus-select-stock-youtube-channels-for-2024/"><u>Financial Forecasts in Focus Select Stock YouTube Channels for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/how-do-i-schedule-a-screen-recording/"><u>How Do I Schedule A Screen Recording</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-tecno-spark-10-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Tecno Spark 10 Pro Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/quick-fix-for-a-malfunctioning-logitech-k520-keyboard-easy-tips-inside/"><u>Quick Fix for a Malfunctioning Logitech K520 Keyboard – Easy Tips Inside!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/quick-fix-for-removing-windows-10-lock-screen-a-user-friendly-approach/"><u>Quick Fix for Removing Windows 10 Lock Screen - A User-Friendly Approach</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/quick-guide-identifying-and-verifying-your-windows-10-os-version-instantly/"><u>Quick Guide: Identifying and Verifying Your Windows 10 OS Version Instantly</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/recovering-access-steps-to-restore-a-forgotten-ipad-passcode-and-unlock-securely/"><u>Recovering Access: Steps to Restore a Forgotten iPad Passcode and Unlock Securely</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/resolve-excessive-tiworkerexe-cpu-and-memory-consumption-in-windows-11/"><u>Resolve Excessive tiworker.exe CPU and Memory Consumption in Windows 11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/speed-hacks-supercharge-minecraft-gameplay/"><u>Speed Hacks - Supercharge Minecraft Gameplay!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-efficiently-clearing-your-entire-google-search-log/"><u>Step-by-Step Guide: Efficiently Clearing Your Entire Google Search Log</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-executing-the-admin-version-of-command-prompt-on-a-windows-pc/"><u>Step-by-Step Guide: Executing the Admin Version of Command Prompt on a Windows PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlock-powertoys-worldwide-mouse-capabilities/"><u>Unlock PowerToy's Worldwide Mouse Capabilities</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-compreenas-guide-inserting-captions-into-mp4-files-2024/"><u>[New] Compreenas Guide Inserting Captions Into MP4 Files 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-optimize-your-content-youtube-seo-techniques-and-gadgets/"><u>[New] In 2024, Optimize Your Content YouTube SEO Techniques and Gadgets</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-the-modern-filmmakers-guide-for-computer-mac-and-mobile/"><u>[Updated] The Modern Filmmaker's Guide for Computer, Mac & Mobile</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlocking-creative-potential-with-filmora-answers/"><u>[Updated] Unlocking Creative Potential with Filmora Answers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beyond-digital-echoes-identifying-your-hidden-correspondents-in-cyberspace-and-explaining-spectral-internet-theories/"><u>Beyond Digital Echoes: Identifying Your Hidden Correspondents in Cyberspace & Explaining Spectral Internet Theories</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-mastery-for-effective-essay-writing/"><u>ChatGPT Mastery for Effective Essay Writing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancing-essay-quality-with-chatgpt-strategies-for-effective-research/"><u>Enhancing Essay Quality with ChatGPT: Strategies for Effective Research</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-it-now-how-to-resolve-wacom-tablet-functionality-issues-quickly/"><u>Fix It Now: How To Resolve Wacom Tablet Functionality Issues Quickly</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gpt-and-bing-chat-face-off-for-ultimate-ai-conversation/"><u>GPT and Bing Chat Face-Off for Ultimate AI Conversation</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-samsung-galaxy-f14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016971706-hp-laptop-speaker-failure-heres-how-to-restore-audio-output/"><u>HP Laptop Speaker Failure? Here's How to Restore Audio Output</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-nokia-130-music-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Nokia 130 Music Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leveraging-openais-chatgpt-for-enhanced-interaction-comprehensive-user-guide/"><u>Leveraging OpenAI's ChatGPT for Enhanced Interaction: Comprehensive User Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-hidden-networks-of-digital-interaction-exploring-the-who-you-really-talk-to-phenomenon-according-to-dead-internet-theory/"><u>The Hidden Networks of Digital Interaction: Exploring the Who You Really Talk to Phenomenon According to Dead Internet Theory</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-10-powerful-video-editing-software-alternatives-to-final-cut-pro-x/"><u>Updated 10 Powerful Video Editing Software Alternatives to Final Cut Pro X</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Mac OS MONTEREY: Setting Up Personalized Do Not Disturb Lists for Improved Concentration"
-date: 2024-11-25T07:08:58.030Z
-updated: 2024-11-28T02:56:57.433Z
+date: 2024-12-05T16:19:48.660Z
+updated: 2024-12-07T20:55:41.447Z
 tags:
   - apple
 categories:
@@ -26,15 +26,15 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Create a custom Focus
 
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
 
@@ -45,7 +45,7 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Open the Focus tab
@@ -57,7 +57,7 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
@@ -77,7 +77,7 @@ Image: Jack Wallen
 After naming and selecting a color/icon, click Add to save the new Focus.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Allowing specific notifications
@@ -95,7 +95,7 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
@@ -140,18 +140,16 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-efficiently-explore-every-entry-facebook-profile-hunt-101-for-2024/"><u>[New] Efficiently Explore Every Entry Facebook Profile Hunt 101 for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-unleash-social-potential-transitioning-from-twitter-videos-to-whatsapp/"><u>[New] In 2024, Unleash Social Potential Transitioning From Twitter Videos to WhatsApp</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-whatsapp-narratives-the-sound-factor/"><u>[New] WhatsApp Narratives The Sound Factor</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-tiny-turbines-car-shindig/"><u>[Updated] 2024 Approved Tiny Turbines' Car Shindig</u></a></li>
-<li><a href="https://fox-links.techidaily.com/audio-ambiance-assembler-selecting-background-scores-for-2024/"><u>Audio Ambiance Assembler Selecting Background Scores for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1723808211669-discover-the-top-10-game-torrents-your-guide-to-free-downloads/"><u>Discover the Top 10 Game Torrents: Your Guide to Free Downloads.</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-novice-to-pro-the-comprehensive-guide-to-youtube-chapter-management-for-2024/"><u>From Novice to Pro The Comprehensive Guide to YouTube Chapter Management for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-the-ultimate-guide-to-iphone-video-editing-top-5-apps/"><u>In 2024, The Ultimate Guide to iPhone Video Editing Top 5 Apps</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1723808304828-skype-cant-connect-5-ways-to-fix-on-windows-11-easily/"><u>Skype Can't Connect: 5 Ways to Fix on Windows 11 Easily</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-the-role-of-video-cards-in-computing-an-insightful-guide/"><u>Understanding the Role of Video Cards in Computing: An Insightful Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-windows-11-a-simple-guide-to-removing-your-pcs-password/"><u>Unlocking Windows 11: A Simple Guide to Removing Your PC's Password</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/what-is-vpn-tunnel-common-types-of-vpn-tunneling-protocol/"><u>What Is VPN Tunnel: Common Types of VPN Tunneling Protocol</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/windows-11-settings-wont-open-solved/"><u>Windows 11 Settings Won't Open ? [Solved]</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-soundwave-startups-curating-melodies-for-your-podcast-opener/"><u>[New] Soundwave Startups Curating Melodies for Your Podcast Opener</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-anonymous-legacy-non-protected-creative-pieces/"><u>[Updated] Anonymous Legacy Non-Protected Creative Pieces</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-leading-gamescript-replacements-for-fbx-files/"><u>[Updated] Leading Gamescript Replacements for FBX Files</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/4mkvmp4/"><u>4効果的なフリーコツ：MKVからMP4への変換ガイド</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/54sh5paz44ko44oh44kj44k44o844gn44or44k944kz44oz44gr5yplusw44kk6l6844kt44gg44ot44oh44kq5pig5yop44gu5yq55p6c55qe44gq57eo6zug5pa55rov/"><u>無料エディターでパソコンに取り込んだビデオ映像の効果的な編集方法</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/alternatives-to-idm-for-youtube-content-extraction-a-comprehensive-guide-on-video-downloading-techniques-and-tools/"><u>Alternatives to IDM for YouTube Content Extraction - A Comprehensive Guide on Video Downloading Techniques and Tools</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-y78plus-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on Y78+</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-usb-20-essentials-an-overview-of-transfer-speeds-wires-and-interfaces/"><u>Mastering USB 2.0 Essentials: An Overview of Transfer Speeds, Wires, and Interfaces</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-iphone-power-drain-issues-after-ios-cuetinado-1751-upgrade-top-7-fixes-revealed/"><u>Resolving iPhone Power Drain Issues After iOS Cuetinado 17.5.1 Upgrade - Top 7 Fixes Revealed</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-final-cut-pro-time-lapse-tutorial-create-stunning-videos-in-minutes/"><u>Updated 2024 Approved Final Cut Pro Time Lapse Tutorial Create Stunning Videos in Minutes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/amv/"><u>スマートフォンAMV動画無制限再生方法</u></a></li>
 </ul></div>
 

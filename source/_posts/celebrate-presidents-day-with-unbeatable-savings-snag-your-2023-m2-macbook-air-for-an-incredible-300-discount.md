@@ -1,7 +1,7 @@
 ---
 title: "Celebrate Presidents' Day with Unbeatable Savings: Snag Your 2023 M2 MacBook Air for an Incredible $300 Discount"
-date: 2024-11-26T01:02:18.167Z
-updated: 2024-11-28T07:28:47.434Z
+date: 2024-12-05T18:40:47.858Z
+updated: 2024-12-07T18:56:09.185Z
 tags:
   - apple
 categories:
@@ -34,7 +34,7 @@ ZDNET editor-in-chief Jason Hiner says the pair are the most easily recommendabl
 If you're ready to replace that old pair of wired earbuds with one of our favorite wireless earbuds, you might as well hop on this [second-generation AirPods Pro deal](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D1XD1ZV3%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6a967f3d-7d3f-4fdf-b579-d62f551f1b28%7Cdtp&dtb=1). But act fast -- the discount won't last long. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,22 +81,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ssential-tips-for-incorporating-dynamic-cards-in-youtube-videos/"><u>[New] Essential Tips for Incorporating Dynamic Cards in YouTube Videos</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-laugh-ledger-top-10-tweets-for-a-smile/"><u>[Updated] 2024 Approved Laugh Ledger Top 10 Tweets for a Smile</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-dish-on-titles-creative-concepts-for-cookery-vids-for-2024/"><u>[Updated] Dish on Titles Creative Concepts for Cookery Vids for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/avoid-faux-pas-ensuring-the-quality-of-ios-bots/"><u>Avoid Faux Pas: Ensuring the Quality of iOS Bots</u></a></li>
-<li><a href="https://win-net.techidaily.com/comment-configurer-un-script-pour-automatiser-la-sauvegarde-des-fichiers-via-le-planificateur-de-taches/"><u>Comment Configurer Un Script Pour Automatiser La Sauvegarde Des Fichiers Via Le Planificateur De Tâches</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ensuring-integrity-in-ai-generated-content/"><u>Ensuring Integrity in AI-Generated Content</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exposing-and-clarifying-the-most-prevalent-9-misunderstandings-about-ai-chatbots/"><u>Exposing and Clarifying the Most Prevalent 9 Misunderstandings About AI Chatbots</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-vivo-s18-pro-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Vivo S18 Pro Phones with/without a PC</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oppo-reno-11-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Oppo Reno 11 5G Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/jumpstart-java-rapid-android-studio-compilation-in-windows/"><u>Jumpstart Java: Rapid Android Studio Compilation in Windows</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolved-fixing-lego-star-wars-the-skywalker-saga-game-crashes-on-windows/"><u>Resolved: Fixing Lego Star Wars: The Skywalker Saga Game Crashes on Windows</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/safeguarding-children-top-5-secure-chatgpt-activities/"><u>Safeguarding Children: Top 5 Secure ChatGPT Activities</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-making-your-dall-e-3-webp-pictures-into-usable-jpgpng-files/"><u>Step-by-Step Tutorial: Making Your DALL-E 3 WebP Pictures Into Usable JPG/PNG Files</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-8-leading-artificial-intelligence-apps-to-upgrade-your-mobile-experience/"><u>The 8 Leading Artificial Intelligence Apps to Upgrade Your Mobile Experience</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-serious-issue-with-reliance-on-artifice-intelligence-for-content-authenticity-checks/"><u>The Serious Issue with Reliance on Artifice Intelligence for Content Authenticity Checks</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-strategies-for-pokemon-unite-newbies/"><u>Ultimate Strategies for Pokémon Unite Newbies</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-codegpts-ability-to-create-error-free-programs-an-insight/"><u>Understanding CodeGPT's Ability to Create Error-Free Programs - An Insight</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-lead-the-charge-with-our-12-best-tycoon-games-ever-played/"><u>[Updated] Lead the Charge with Our #12 Best Tycoon Games Ever Played</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/atlas-air-by-turtle-beach-an-immersive-audio-journey-with-unmatched-comfort/"><u>Atlas Air by Turtle Beach: An Immersive Audio Journey with Unmatched Comfort</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/choosing-the-superior-ai-4-critical-reasons-to-make-the-move-from-chatgpt-to-claude-3-today/"><u>Choosing the Superior AI: 4 Critical Reasons to Make the Move From ChatGPT to Claude 3 Today</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-the-chatbot-debate-gpt-pluses-versus-perplexities/"><u>Decoding the Chatbot Debate: GPT Pluses versus Perplexities</u></a></li>
+<li><a href="https://fox-place.techidaily.com/easy-solutions-step-by-step-tutorial-for-overcoming-0x110-windows-error-code/"><u>Easy Solutions: Step-by-Step Tutorial for Overcoming 0X1#10 Windows Error Code</u></a></li>
+<li><a href="https://app-tips.techidaily.com/harnessing-artificial-intelligence-expert-insights-on-securing-victory-in-cyberspace-warfare-zdnet/"><u>Harnessing Artificial Intelligence: Expert Insights on Securing Victory in Cyberspace Warfare | ZDNet</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-nubia-z50s-pro-screen-sharing-drfone-by-drfone-android/"><u>How To Do Nubia Z50S Pro Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-visionary-solutions-top-1-ward-video-recorders-on-the-web/"><u>In 2024, Visionary Solutions Top 1 Ward Video Recorders on the Web</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/miniscreen-tape-snapshot-assessment-and-substitutes/"><u>MiniScreen Tape Snapshot Assessment & Substitutes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ai-journey-simplified-edition/"><u>The AI Journey, Simplified Edition</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-advanced-conversations-creating-a-restrict-free-ai-chatbot-on-windows-via-freedomgpt/"><u>Unlocking Advanced Conversations: Creating a Restrict-Free AI Chatbot on Windows via FreedomGPT</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/why-is-ipogo-not-working-on-nubia-z50s-pro-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Nubia Z50S Pro? Fixed | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Motorola G24 Power | Dr.fone</u></a></li>
 </ul></div>
 

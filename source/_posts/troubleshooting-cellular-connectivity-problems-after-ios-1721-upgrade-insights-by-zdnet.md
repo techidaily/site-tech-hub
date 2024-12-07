@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Cellular Connectivity Problems After iOS 17.2.1 Upgrade | Insights by ZDNET
-date: 2024-11-26T23:53:14.914Z
-updated: 2024-11-27T16:34:31.640Z
+date: 2024-12-03T17:03:56.598Z
+updated: 2024-12-07T17:13:46.267Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,15 +109,20 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-perfecting-proximity-views-an-essential-for-roblox-enthusiasts/"><u>[Updated] 2024 Approved Perfecting Proximity Views An Essential for Roblox Enthusiasts</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210492780-9780711271739-earth-magick/"><u>Earth Magick | Free Book</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/exploring-the-efficiency-of-tp-link-re305-an-informative-ac1200-range-extender-review/"><u>Exploring the Efficiency of TP-Link RE305 – An Informative AC1200 Range Extender Review</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/how-to-seamlessly-blend-apples-siri-into-your-tiktok-content-for-2024/"><u>How to Seamlessly Blend Apple's Siri Into Your TikTok Content for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/inside-virtuality-metaverse-vs-omniverse-in-focus-for-2024/"><u>Inside Virtuality Metaverse Vs. Omniverse in Focus for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/organizing-dialogues-the-power-of-precision-in-chatgpt/"><u>Organizing Dialogues: The Power of Precision in ChatGPT</u></a></li>
-<li><a href="https://win-dash.techidaily.com/simple-steps-for-downloading-and-updating-epson-printing-drivers-on-windows-10-systems/"><u>Simple Steps for Downloading and Updating Epson Printing Drivers on Windows 10 Systems</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-advantages-of-choosing-claude-over-chamgpt-unveiling-4-major-perks/"><u>The Advantages of Choosing Claude Over ChamGPT - Unveiling 4 Major Perks</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transforming-dull-to-dynamic-top-5-ai-writing-catalysts/"><u>Transforming Dull to Dynamic: Top 5 AI Writing Catalysts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-the-sudden-italian-prohibition-on-chatgpt/"><u>Understanding the Sudden Italian Prohibition on ChatGPT</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-innovative-activities-for-the-modern-podcaster-for-2024/"><u>[New] Innovative Activities for the Modern Podcaster for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-miniscreen-capture-scrutiny-and-replacements/"><u>[New] MiniScreen Capture Scrutiny and Replacements</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harnessing-monetization-potential-with-youtube-ad-strategies/"><u>[Updated] 2024 Approved Harnessing Monetization Potential with YouTube Ad Strategies</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-advanced-audio-editing-apps-ranked-by-users/"><u>[Updated] In 2024, Advanced Audio Editing Apps Ranked by Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/battle-of-language-models-can-chatgpt-outperform-google-bard/"><u>Battle of Language Models: Can ChatGPT Outperform Google Bard?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/developing-your-own-nutritious-eating-schedule-with-the-help-of-chatgpt/"><u>Developing Your Own Nutritious Eating Schedule with the Help of ChatGPT</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-installation-of-lenovo-x1-carbon-drivers-on-windows-11-and-7-systems/"><u>Easy Installation of Lenovo X1 Carbon Drivers on Windows 11 & 7 Systems</u></a></li>
+<li><a href="https://win-updates.techidaily.com/easy-steps-transforming-images-into-motion-a-beginners-guide/"><u>Easy Steps: Transforming Images Into Motion - A Beginner's Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/from-ordinary-to-stunning-a-guide-to-hdr-portraits/"><u>From Ordinary to Stunning A Guide to HDR Portraits</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovative-approaches-to-academic-research-the-role-of-chatgpt/"><u>Innovative Approaches to Academic Research: The Role of ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/seamless-entry-into-chatgpt-despite-login-hurdles/"><u>Seamless Entry Into ChatGPT Despite Login Hurdles</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-impact-of-chatgpt-on-creativity-a-look-at-its-strengths-and-limitations/"><u>The Impact of ChatGPT on Creativity: A Look at Its Strengths and Limitations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-9-benefits-of-switching-to-chatgpt-plus-why-the-upgrade-is-essential/"><u>Top 9 Benefits of Switching to ChatGPT Plus: Why the Upgrade Is Essential</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-ai-chatbot-moderation-impacts-on-users/"><u>Understanding AI Chatbot Moderation: Impacts on Users</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unveiling-the-best-youtube-channel-titles-a-must-have-guide-for-vloggers-limit-to-156-characters-for-2024/"><u>Unveiling the Best Youtube Channel Titles A Must-Have Guide for Vloggers (Limit to 156 Characters) for 2024</u></a></li>
 </ul></div>
 

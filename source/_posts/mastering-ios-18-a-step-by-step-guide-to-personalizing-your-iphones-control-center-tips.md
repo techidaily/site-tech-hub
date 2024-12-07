@@ -1,7 +1,7 @@
 ---
 title: "Mastering iOS 18: A Step-by-Step Guide to Personalizing Your iPhone's Control Center - Tips"
-date: 2024-11-22T11:51:43.174Z
-updated: 2024-11-27T18:44:41.044Z
+date: 2024-12-04T16:13:41.381Z
+updated: 2024-12-07T19:50:52.219Z
 tags:
   - apple
 categories:
@@ -28,14 +28,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -43,10 +39,6 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -56,6 +48,10 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
@@ -63,7 +59,7 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -73,7 +69,7 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -89,6 +85,10 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -126,21 +126,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-hub.techidaily.com/fixed-windows-7-running-slow-speed-up-windows-7/"><u>[Fixed] Windows 7 Running Slow - Speed up Windows 7</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/full-guide-how-to-change-google-chrome-language/"><u>[FULL GUIDE] How to Change Google Chrome Language</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-maximizing-production-value-choosing-top-tier-youtube-tools/"><u>[New] In 2024, Maximizing Production Value Choosing Top-Tier YouTube Tools</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-premier-platforms-identifying-the-finest-ps2-emulation-tools-for-android/"><u>[Updated] Premier Platforms Identifying the Finest PS2 Emulation Tools for Android</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-incorporate-subtitles-for-improved-viewing-wmp-guide/"><u>2024 Approved Incorporate Subtitles for Improved Viewing WMP Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ensuring-digital-safety-while-making-purchases-on-the-internet/"><u>Ensuring Digital Safety While Making Purchases on the Internet</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/expert-advice-navigating-to-windows-11s-advanced-boot-configuration-effortlessly/"><u>Expert Advice: Navigating to Windows 11'S Advanced Boot Configuration Effortlessly</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/fixing-windows-10-performance-issues-proven-solutions-and-tips/"><u>Fixing Windows 10 Performance Issues: Proven Solutions & Tips</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/guide-setting-up-your-home-network-on-windows-7-wireless-connection-made-easy/"><u>Guide: Setting Up Your Home Network on Windows 7 - Wireless Connection Made Easy</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-address-complete-cpu-resource-occupation-on-windows-10s-task-manager/"><u>How to Address Complete CPU Resource Occupation on Windows 10'S Task Manager</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-windows-upgrade-error-0xc004f050/"><u>How to Fix the Windows Upgrade Error 0Xc004f050</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-vivo-y100a-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Vivo Y100A to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-oneplus-nord-n30-se-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of OnePlus Nord N30 SE Without PUK Codes</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-xiaomi-redmi-note-12r-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Xiaomi Redmi Note 12R FRP Without Computer</u></a></li>
-<li><a href="https://win-blog.techidaily.com/mastering-excel-a-complete-tutorial-on-cloning-conditional-format-styles/"><u>Mastering Excel: A Complete Tutorial on Cloning Conditional Format Styles</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/m2ts-movavi/"><u>オンラインでストリーミング再生可能なM2TSファイルへの自由許諾 - Movavi無料変換</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-selective-guide-to-exceptional-twitch-download-apps/"><u>A Selective Guide to Exceptional Twitch Download Apps</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/clear-twitters-of-checkmarks-linuss-truths-uncovered-trojan-clarified-and-ai-bots-faults-exposed/"><u>Clear Twitters of Checkmarks, Linus’s Truths Uncovered, Trojan Clarified, & AI Bots' Faults Exposed.</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/crafting-personalized-intelligent-agents-gpt-driven-chatgpt/"><u>Crafting Personalized Intelligent Agents: GPT-Driven ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-gpt-bot-and-its-impact-on-online-accessibility/"><u>Exploring GPT Bot & Its Impact on Online Accessibility</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gpt-enhanced-document-and-pdf-chat-options/"><u>GPT-Enhanced Document & PDF Chat Options</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-nokia-130-music-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Nokia 130 Music to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-12-to-android-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 12 to Android? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-motorola-moto-g23-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Vivo Y27 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/protect-data-prevent-scraper-hacking/"><u>Protect Data, Prevent Scraper Hacking</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/smooth-gameplay-now-cyberpunk-2077s-persistent-lag-and-frame-drops-resolved/"><u>Smooth Gameplay Now: Cyberpunk 2077'S Persistent Lag and Frame Drops Resolved</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-truth-about-working-in-prompt-engineering-9-critical-factors-for-consideration/"><u>The Truth About Working in Prompt Engineering: 9 Critical Factors for Consideration</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Realme C67 5G? | Dr.fone</u></a></li>
 </ul></div>
 

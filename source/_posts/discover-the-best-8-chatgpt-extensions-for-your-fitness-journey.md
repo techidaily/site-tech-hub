@@ -1,7 +1,7 @@
 ---
 title: Discover the Best 8 ChatGPT Extensions for Your Fitness Journey
-date: 2024-09-02T09:22:46.043Z
-updated: 2024-09-03T09:22:46.043Z
+date: 2024-12-04T21:28:29.150Z
+updated: 2024-12-07T17:29:13.027Z
 tags:
   - chatgpt
   - open-ai
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/facaba7a5fd4b37097e51780f00827156432b8b7f
 ---
 
 ## Impatient for ChatGPT on Your Desktop? Discover Top-Notch Open Source Substitutes
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -34,8 +38,9 @@ thumbnail: https://thmb.techidaily.com/facaba7a5fd4b37097e51780f00827156432b8b7f
  But if you can't wait—like me!—you can try a free, open-source version instead.
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is the Open-Source ChatGPT Desktop Application?
 
  ChatGPT users have long wanted a desktop version. The world's leading generative AI chatbot works great in a browser, but sometimes, a desktop app is more convenient.
@@ -49,29 +54,19 @@ thumbnail: https://thmb.techidaily.com/facaba7a5fd4b37097e51780f00827156432b8b7f
 ![chatgpt open source desktop version login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-login.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## How to Install and Configure ChatGPT Desktop Application
 
 ![chatgpt open source desktop version home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-home-page.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 1. Head to the open-source[ChatGPT Desktop Application download page](https://github.com/lencx/ChatGPT/releases/tag/v1.1.0) . The latest version at the time of writing is V1.1.0, but you can check for a newer version.
 2. Download the applicable version for your operating system, then install it as per your operating system.
 3. Launch the ChatGPT Desktop Application.
@@ -81,11 +76,9 @@ thumbnail: https://thmb.techidaily.com/facaba7a5fd4b37097e51780f00827156432b8b7f
 ![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## When Is the Official ChatGPT Desktop Version Launching?
 
  The official ChatGPT Desktop app is already slowly rolling out to macOS users.
@@ -94,14 +87,11 @@ thumbnail: https://thmb.techidaily.com/facaba7a5fd4b37097e51780f00827156432b8b7f
 
  Still, if you can't wait, you can give this open-source ChatGPT desktop version a try instead.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -110,4 +100,24 @@ thumbnail: https://thmb.techidaily.com/facaba7a5fd4b37097e51780f00827156432b8b7f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-top-10-heartening-films-for-optimism-and-power/"><u>[New] 2024 Approved Top 10 Heartening Films for Optimism & Power</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-clear-cinematic-vision-top-camera-stabilizers-reviewed/"><u>[Updated] 2024 Approved Clear Cinematic Vision - Top Camera Stabilizers Reviewed</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-transform-youtube-soundtracks-on-iphone-with-these-6-choices/"><u>[Updated] Transform YouTube Soundtracks on iPhone with These 6 Choices</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-the-hidden-value-in-uninterrupted-youtube-watching-is-it-worth-the-investment/"><u>2024 Approved The Hidden Value in Uninterrupted YouTube Watching Is It Worth the Investment?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-just-got-ios-friendly/"><u>ChatGPT Just Got iOS-Friendly</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effective-strategies-for-crafting-chatbot-prompts-tips-from-the-fitness-world/"><u>Effective Strategies for Crafting Chatbot Prompts: Tips From the Fitness World</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/freedomgpt-a-comprehensive-guide-to-setting-up-a-restrict-free-chatbot-on-your-windows-pc/"><u>FreedomGPT: A Comprehensive Guide to Setting Up a Restrict-Free Chatbot on Your Windows PC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/machine-talk-deciphering-the-gpt-bing-divide/"><u>Machine Talk: Deciphering the GPT-Bing Divide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ransomware-demystified-on-a-budget-50-phones-and-chatgpts-revolutionary-role-in-podcast-creation/"><u>Ransomware Demystified on a Budget: $50 Phones & ChatGPT's Revolutionary Role in Podcast Creation!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revolutionizing-intelligence-unveiling-apples-latest-ai-advancements-and-their-capabilities-insights-from-zdnet/"><u>Revolutionizing Intelligence: Unveiling Apple's Latest AI Advancements and Their Capabilities - Insights From ZDNet</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/secure-your-flash-drive-with-user-authentication-in-windows-11-no-need-for-bitlocker/"><u>Secure Your Flash Drive with User Authentication in Windows 11 - No Need for BitLocker</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95853124-9781612834054-the-after-death-chronicles/"><u>The After Death Chronicles | Free Book</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-evolution-of-conversational-agents-openais-integration-of-speech-technology-into-chatgpt-systems/"><u>The Evolution of Conversational Agents: OpenAI's Integration of Speech Technology Into ChatGPT Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-fastest-path-to-running-chatgpt-on-linux-installation-made-simple-with-bavarder/"><u>The Fastest Path to Running ChatGPT on Linux - Installation Made Simple with Bavarder</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-relationship-between-paperclip-maximizer-problem-and-modern-ai-systems/"><u>The Relationship Between Paperclip Maximizer Problem & Modern AI Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-the-potential-of-chatgpt-for-perfecting-your-cover-letter/"><u>Unlock the Potential of ChatGPT for Perfecting Your Cover Letter</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-ai-shortcomings-why-plagiarism-software-isnt-always-accurate/"><u>Unveiling AI Shortcomings: Why Plagiarism Software Isn't Always Accurate</u></a></li>
+</ul></div>
 

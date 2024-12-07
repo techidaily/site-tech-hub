@@ -1,7 +1,7 @@
 ---
 title: "Save 20%% Today: Top Picks in Travel-Friendly Cell Case & Charger Bundles + Apple Band Deals on ZDNet"
-date: 2024-11-20T22:43:10.262Z
-updated: 2024-11-27T23:27:44.141Z
+date: 2024-12-01T21:11:16.346Z
+updated: 2024-12-07T17:25:20.487Z
 tags:
   - apple
 categories:
@@ -75,6 +75,10 @@ Equipped with an Nvidia GeForce RTX 4080 GPU and a dual mode mini LED display, t
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C3P346B4%2Fref%3Dasc%5Fdf%5FB0C3P346B41727002800000%3Fcreative%3D395261%26creativeASIN%3DB0C3P346B4%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9ce9008-3603-459e-8a58-f4457742ba16%7Cdtp&dtb=1) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Prime Day Chromebook deals
 
 Asus/ZDNET
@@ -83,10 +87,6 @@ Asus/ZDNET
 * [Asus Chromebook Plus CX34 for $432](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Chromebook-1920x1080-Processor-CX3402CBA-DH386-WH%2Fdp%2FB0CGJGZZ1L%2Fref%3Dsxin%5F15%5Fpa%5Fsp%5Fsearch%5Fthematic%5Fsspa%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9ce9008-3603-459e-8a58-f4457742ba16%7Cdtp&dtb=1): Asus' stylish CX34 Chromebook Plus comes with a bit more local storage than most Chromebooks (256GB) as well as an ultra-thin form factor and over 10 hours of battery life.
 * [HP Chromebook 14 for $189 (Save $100)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Chromebook-Graphics-Keyboard-14a-na0226nr%2Fdp%2FB09SVSBVP1%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9ce9008-3603-459e-8a58-f4457742ba16%7Cdtp&dtb=1): It doesn't get much more budget than this. HP's 14-inch Chromebook comes with just 4GB of RAM, so it's perfect as a backup machine or secondary travel device.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Prime Day MacBook deals
 
 Kyle Kucharski/ZDNET
@@ -94,10 +94,6 @@ Kyle Kucharski/ZDNET
 * [Apple MacBook Air (M2) for $799 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2022-Apple-MacBook-Laptop-chip%2Fdp%2FB0B3BVWJ6Y%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9ce9008-3603-459e-8a58-f4457742ba16%7Cdtp&dtb=1): [The MacBook Air (M2)](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/) combines performance and portability. It's one of our favorite laptops at ZDNET and our Product of the Year -- and it's on sale for just $799, the lowest price we've ever seen.
 * [Apple MacBook Air (M3) for $899 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-2024-MacBook-13-inch-Laptop%2Fdp%2FB0CX23V2ZK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9ce9008-3603-459e-8a58-f4457742ba16%7Cdtp&dtb=1): If you want to purchase one of Apple's latest MacBook Air products, you can save $200 on the [2024 version](https://www.zdnet.com/article/m3-macbook-air-review/), powered by an M3 chip -- the lowest price of the year. Don't forget to apply the coupon.
 * [Apple MacBook Pro (M3) for $1,400 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-Laptop-8%E2%80%91core-10%E2%80%91core%2Fdp%2FB0CM5JV268%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9ce9008-3603-459e-8a58-f4457742ba16%7Cdtp&dtb=1): The [MacBook Pro (M3)](https://www.zdnet.com/article/m3-macbook-pro-buying-advice/) is one of the best-performing laptops on the market, and it's $200 off -- make sure you add the coupon offer on the page.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Prime Day HP laptop deals
 
@@ -114,10 +110,6 @@ Lenovo/ZDNET
 * [Lenovo Legion 5i for $1,339 (save $160)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Display-GeForce-2560x1600-Battery%2Fdp%2FB0CVLFS7WP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9ce9008-3603-459e-8a58-f4457742ba16%7Cdtp&dtb=1): This 16-inch laptop from Lenovo's gaming PC line features an Intel i7 processor, 32GB of RAM, and a solid selection of ports for all your gaming accessories for just $1,500.
 * [Lenovo ThinkBook 15 for $525 (save $74)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkBook-15-Business-i7-1165G7%2Fdp%2FB0D1CQPWPG%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9ce9008-3603-459e-8a58-f4457742ba16%7Cdtp&dtb=1): This laptop is a powerhouse for your back-to-school or business needs. Its 8-core AMD Ryzen 7 processor pairs with 16GB of RAM, so any major spec-heavy tasks will perform smoothly.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best Buy laptop deals during Prime Day
 
 Kyle Kucharski/ZDNET
@@ -128,7 +120,7 @@ Kyle Kucharski/ZDNET
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## More Prime Day 2024 laptop deals
@@ -141,21 +133,29 @@ Kyle Kucharski/ZDNET
 
 ## FAQs
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### When is Amazon Prime Day 2024?
 
 Amazon Prime Day officially ran from July 16 to July 17, but sometimes deals continue afterward.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What's the best gaming laptop deal on Prime Day?
 
 There are a lot of great gaming laptops on sale right now, but in our opinion, [this deal on the Razer Blade 16](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRazer-Blade-Gaming-Laptop-4090-13th%2Fdp%2FB0BQP1WCP4%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9ce9008-3603-459e-8a58-f4457742ba16%7Cdtp&dtb=1) is the best. We're talking $1,000 off one of the most high-end gaming laptops on the market, with hardware that is future-proofed to be relevant for years to come. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Is Amazon Prime Day a good time to buy a laptop?
 
 Even though Amazon isn't typically the first place you think of when you're shopping for a new laptop, there are some great deals that pop up if you're willing to look. We've thoroughly combed through the deals to find some diamonds in the rough, and listed the best ones here.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How did we choose these Prime Day deals?
 
@@ -230,21 +230,22 @@ And the best deals still available from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-spin-tiktok-magic-into-viral-instagram-reel-success/"><u>[New] 2024 Approved Spin TikTok Magic Into Viral Instagram Reel Success</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-content-creator-to-earnings-expert-on-youtube-for-2024/"><u>[New] From Content Creator to Earnings Expert on YouTube for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/aughing-lane-the-funniest-youtubers-for-a-good-time/"><u>[New] Laughing Lane The Funniest YouTubers for a Good Time</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-10-shopping-powerhouses-where-to-buy-personalized-present-wrappers/"><u>2024 Approved 10 Shopping Powerhouses Where to Buy Personalized Present Wrappers</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-command-and-conquer-the-pinnacle-of-strategic-sagas-in-7-total-war-games/"><u>2024 Approved Command & Conquer The Pinnacle of Strategic Sagas in 7 Total War Games</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/beyond-convenience-understanding-ais-limitations-with-6-insightful-reasons-for-caution/"><u>Beyond Convenience: Understanding AI's Limitations with 6 Insightful Reasons for Caution</u></a></li>
-<li><a href="https://extra-information.techidaily.com/bridge-the-gap-between-skype-and-zoom-with-simple-steps/"><u>Bridge the Gap Between Skype & Zoom with Simple Steps</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/can-advanced-ai-systems-like-chatgpt-create-humor-that-truly-entertains-us/"><u>Can Advanced AI Systems Like ChatGPT Create Humor that Truly Entertains Us?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhancing-ai-dialogue-three-avenues-using-chatgpt-and-wolframalpha/"><u>Enhancing AI Dialogue: Three Avenues Using ChatGPT & WolframAlpha</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-ultimate-list-zdnets-pick-of-best-2022-telepresence-robotics-innovations/"><u>Exploring the Ultimate List: ZDNet's Pick of Best 2022 Telepresence Robotics Innovations</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-oneplus-12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on OnePlus 12 | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/streamline-your-content-creation-embrace-automated-writing-with-hixai-and-gpt-4/"><u>Streamline Your Content Creation: Embrace Automated Writing with HixAI & GPT-4</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/synthesizing-smart-tech-for-crypto-conversation-top-8-tools-guide/"><u>Synthesizing Smart Tech for Crypto Conversation – Top 8 Tools Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-gpt-4-all-insights-into-its-functionality/"><u>Understanding GPT-4 All: Insights Into Its Functionality</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-gpt4alls-workings/"><u>Understanding GPT4All's Workings</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/which-wins-in-ai-conversation-the-battle-of-gpt-3-plus-vs-perplexity/"><u>Which Wins in AI Conversation: The Battle of GPT-3 Plus Vs. Perplexity</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-critically-acclaimed-vr-film-selections/"><u>[New] 2024 Approved Critically Acclaimed VR Film Selections</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/4-easy-methods-to-transform-mono-audio-into-stereo-sound-step-by-step-guide/"><u>4 Easy Methods to Transform Mono Audio Into Stereo Sound - Step-by-Step Guide!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5-ways-to-command-chatgpt-voice-based-control-methods/"><u>5 Ways to Command ChatGPT: Voice-Based Control Methods</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726029130286-fbrmp4/"><u>使いやすくて賢明なFBRファイルをMP4に変換する技術</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/best-free-platforms-with-access-to-latest-hollywood-cinema-releases-online/"><u>Best Free Platforms with Access to Latest Hollywood Cinema Releases Online</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/best-vob-media-players-top-5-picks-for-flawless-hd-streaming-on-your-computer/"><u>Best VOB Media Players: Top 5 Picks for Flawless HD Streaming on Your Computer</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/complete-walkthrough-easy-kodi-setup-on-windows-10-pc/"><u>Complete Walkthrough: Easy Kodi Setup on Windows 10 PC</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-leading-websites-for-losslessly-streaming-tunes-paid-vs-free-options/"><u>Discover the Leading Websites for Losslessly Streaming Tunes: Paid Vs. Free Options</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-conversion-tips-changing-your-mp4-media-to-clear-and-crisp-wav-format/"><u>Easy Conversion Tips: Changing Your MP4 Media to Clear and Crisp WAV Format</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-xiaomi-redmi-note-13-5g-frp-by-drfone-android/"><u>How Can We Bypass Xiaomi Redmi Note 13 5G FRP?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-factory-reset-a-dell-laptop/"><u>How To Factory Reset a Dell Laptop</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-itel-p55-5g-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Itel P55 5G Android SIM Unlock APK</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/magix-music-maker-2024-revolutionizing-home-recording-experience/"><u>Magix Music Maker 2024 Revolutionizing Home Recording Experience</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/melody-mix-up-how-to-tune-your-facebook-videos-with-songs-for-2024/"><u>Melody Mix-Up How to Tune Your Facebook Videos with Songs for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-15-apps-to-hack-wifi-password-on-vivo-x-flip-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Vivo X Flip</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Sony Xperia 10 V? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726029334396-youtube/"><u>YouTubeでの地域ロックを落とす究極のガイド</u></a></li>
 </ul></div>
 

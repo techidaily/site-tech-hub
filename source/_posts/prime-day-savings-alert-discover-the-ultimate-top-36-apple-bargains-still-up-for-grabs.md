@@ -1,7 +1,7 @@
 ---
 title: "Prime Day Savings Alert: Discover the Ultimate Top 36 Apple Bargains Still Up for Grabs!"
-date: 2024-11-24T12:17:02.829Z
-updated: 2024-11-28T12:52:33.334Z
+date: 2024-12-01T16:03:58.916Z
+updated: 2024-12-07T17:07:13.189Z
 tags:
   - apple
 categories:
@@ -85,15 +85,15 @@ While the Series 8 isn't the latest and greatest Apple Watch, it's still a great
 
 [View now at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Watch-Series-8-GPS-Cellular-45mm-Midnight-Aluminum-Case-Sport-Band-S-M-Fitness-Tracker-Blood-Oxygen-ECG-Apps-Always-On-Retina-Display%2F1490655580%3F&subId1=zd-__COM_CLICK_ID__-dtp) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best refurbished Apple Watch deals of July 2024
 
 * [Apple Watch Series 7](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Watch-Cellular-Aluminum-Regular%2Fdp%2FB09Q4KVHGB%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7c7fab62-f4b4-43b8-8c6d-09533977c7db%7Cdtp&dtb=1) (41mm, Clover Sport Band, Renewed): $220 (save $295)
 * [Apple Watch SE](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FRestored-Apple-Watch-SE-40mm-GPS-Cellular-Gold-Aluminum-Case-Starlight-Sport-Band%2F5031506033%3F&subId1=zd-__COM_CLICK_ID__-dtp) (40mm, Pink Sport Band, Restored): $124 (save $21)
 * [Apple Watch SE](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Watch-SE-GPS-Cellular-44mm-Gold-Aluminum-Case-with-Starlight-Sport-Band-Used%2F1620367883%3F&subId1=zd-__COM_CLICK_ID__-dtp) (44mm, GPS, Starlight Sport Band, Used): $125 (save $35)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How did we choose these deals?
 
@@ -102,22 +102,22 @@ ZDNET only writes about deals we want to buy -- devices and products we desire, 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is the best Apple watch?
 
 ZDNET's top pick for the [best Apple watch](https://www.zdnet.com/article/best-apple-watch/) is the Apple Watch Ultra 2 since it is lauded by athletes and members of the press as the best Apple Watch ever made thanks to its rugged durability, large and bright display, long battery life, water resistance, and more. It's no surprise it became the flagship model as soon as the Ultra was released last year. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Do Apple Watches track my AFib?
 
 Yes, your Apple Watch, as long as it is a Series 6 or newer, can track your AFib, or irregular heartbeat. In fact, The US Food and Drug Administration (FDA) has recently [awarded](https://content.govdelivery.com/accounts/USFDA/bulletins/399d551) medical device development tool (MDDT) status to the Apple Watch's atrial fibrillation (AFib) history tracker. The feature is first piece of digital health technology to earn MDDT status, the FDA said in a statement.
 
 **Also:** [**Your Apple Watch's AFib history could soon be used in clinical studies**](https://www.zdnet.com/article/your-apple-watchs-afib-history-could-soon-be-used-in-clinical-studies/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Apple Watch SE vs Series 8: Which is the better buy?
 
@@ -132,7 +132,7 @@ However, if you want to get in at the lowest price or you're buying a watch for 
 Apple has a lengthy lineup of its flagship tech wearable, with several iterations over the last few years. The two newest watch releases come in the Apple Watch Series 9 and the Apple Watch Ultra 2, which were released in September 2023\. The Apple Watch SE (2nd Gen) remains the most up-to-date base model. With multiple models available, both old and new, you'll be sure to find a watch that fits your needs and your price point. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which Apple watches have the new double tap feature?
@@ -145,6 +145,10 @@ Apple offers several band options that are included with their watches, some dep
 
 Other band options include the Ocean Band, Alpine Loop, Milanese Loop, Trail Loop, Solo Loop, Braided Solo Loop, and more. Apple and other retailers offer tons of bands made of differing materials in a multitude of colors and designs as well. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Are there any alternative smartwatches worth considering?
 
 The Apple watch models are not the only options for smart watches, despite their popularity. ZDNET rounded up the [best smartwatch deals](https://www.zdnet.com/article/best-black-friday-and-cyber-monday-smartwatch-deals-still-available/) so you can scope more alternative deals, including the Fitbit Versa 4, Fitbit Luxe, Google Pixel Watch, Samsung Galaxy Watch 6, and more. 
@@ -156,10 +160,6 @@ Similarly to turning in an older cell-phone to receive monetary credit towards p
 When participating in a trade-in offer, you are providing your previously used item to the retailer in exchange for a predetermined amount of cash back that can be directly applied to your next item purchase of the same product. Eligible trade-in items and the cash back offered for each product is decided by each individual retailer and is often determined by factors such as age, condition, and functionality of the item being presented for trade-in. Apple recently decided to even bump up the amount they offer for trade-ins as well, too. 
 
 **Also:** [**Apple is paying more for your used Apple watches**](https://www.zdnet.com/article/apple-is-now-paying-more-for-your-used-apple-watches-and-ipads/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When will these deals expire?
 
@@ -205,18 +205,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-the-pros-and-cons-of-using-vidma-as-a-screen-grabber/"><u>[Updated] In 2024, The Pros & Cons of Using Vidma as a Screen Grabber</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-strategies-for-capturing-webinars-effectively-for-2024/"><u>[Updated] Top Strategies for Capturing Webinars Effectively for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-apex-design-studio-examination/"><u>2024 Approved Apex Design Studio Examination</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/o-make-a-cool-intro-for-youtube-plusfree-templates/"><u>How to Make a Cool Intro for YouTube? [+Free Templates]</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-optimize-dwm-for-lower-gpu-consumption-in-windows-11-a-five-step-guide/"><u>How to Optimize DWM for Lower GPU Consumption in Windows 11: A Five-Step Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/hyper-personalized-sites-with-advanced-ai-search/"><u>Hyper-Personalized Sites with Advanced AI Search</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/protect-privacy-tips-for-deleting-your-chat-records-with-chatgpt/"><u>Protect Privacy: Tips for Deleting Your Chat Records with ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/resolve-chatgpt-overload-in-windows-with-simple-troubleshooting-tips/"><u>Resolve ChatGPT Overload in Windows with Simple Troubleshooting Tips</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/safeguarding-your-data-examining-the-cyber-risks-associated-with-ai-platforms-such-as-chatgpt/"><u>Safeguarding Your Data: Examining the Cyber Risks Associated with AI Platforms Such as ChatGPT</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-quintessential-social-sphere-understanding-facebook-twitter-instagram-and-youtube/"><u>The Quintessential Social Sphere: Understanding Facebook, Twitter, Instagram & Youtube</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ultimate-guide-to-mastering-ai-prompt-engineering-with-top-5-online-classes/"><u>Ultimate Guide to Mastering AI Prompt Engineering with Top 5 Online Classes</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-secrets-behind-ai-prompt-injection-assaults-and-their-operations/"><u>Unveiling the Secrets Behind AI Prompt Injection Assaults and Their Operations</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/value-hunting-affordable-vr-gear-from-china-for-2024/"><u>Value Hunting Affordable VR Gear From China for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-overcoming-low-resolution-output-in-obs/"><u>[New] Overcoming Low-Resolution Output in OBS</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-best-top-text-overlays-and-animations/"><u>[Updated] Best Top Text Overlays & Animations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/alteremailonprotonbrowser-a-step-by-step-guide/"><u>AlterEmailOnProtonBrowser: A Step-By-Step Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-ai-like-chatgpt-serve-as-a-reliable-proofreader/"><u>Can AI Like ChatGPT Serve As a Reliable Proofreader?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-how-these-8-chatgpt-extensions-can-elevate-your-digital-currency-experience/"><u>Discover How These 8 ChatGPT Extensions Can Elevate Your Digital Currency Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-issues-how-to-restore-voice-chat-in-call-of-duty-modern-warfare/"><u>Fixing Issues: How to Restore Voice Chat in Call of Duty Modern Warfare</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/harnessing-the-power-of-chatgpt-for-multimodal-communication-explore-eight-innovative-applications/"><u>Harnessing the Power of ChatGPT for Multimodal Communication: Explore Eight Innovative Applications</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-samsung-galaxy-m14-5g-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Samsung Galaxy M14 5G</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-samsung-galaxy-a24-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Samsung Galaxy A24 Devices</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-infinix-zero-5g-2023-turbo-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Infinix Zero 5G 2023 Turbo</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-honor-90-pro-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Honor 90 Pro Phone Network-Ready</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/overcoming-green-tint-in-youtubes-on-mac-a-guide-for-2024/"><u>Overcoming Green Tint in YouTubes on Mac A Guide for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/revolutionizing-reality-top-vr-peripherals-for-2024/"><u>Revolutionizing Reality Top VR Peripherals for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/streamline-your-day-discover-9-ways-chatgpt-enhances-daily-living/"><u>Streamline Your Day: Discover 9 Ways ChatGPT Enhances Daily Living</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-future-of-gaming-how-machine-learning-shapes-new-titles-and-alters-market-dynamics/"><u>The Future of Gaming: How Machine Learning Shapes New Titles and Alters Market Dynamics</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-6-strategies-how-chatgpt-can-boost-your-career-hunt/"><u>Top 6 Strategies: How ChatGPT Can Boost Your Career Hunt</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-gpts-blindspot-the-reason-behind-its-inability-to-recognize-its-own-output/"><u>Understanding GPT's Blindspot: The Reason Behind Its Inability to Recognize Its Own Output</u></a></li>
 </ul></div>
 

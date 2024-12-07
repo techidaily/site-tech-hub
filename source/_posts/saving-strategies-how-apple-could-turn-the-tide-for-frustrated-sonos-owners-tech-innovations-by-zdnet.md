@@ -1,7 +1,7 @@
 ---
 title: "Saving Strategies: How Apple Could Turn the Tide for Frustrated Sonos Owners | Tech Innovations by ZDNet"
-date: 2024-11-23T16:58:28.304Z
-updated: 2024-11-28T01:33:55.073Z
+date: 2024-12-05T19:03:48.630Z
+updated: 2024-12-07T18:18:46.441Z
 tags:
   - apple
 categories:
@@ -30,6 +30,10 @@ And then there's the Apple Watch Series 8 and the Apple Watch Ultra. The watches
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Specifications
 
 | |  Apple Watch Ultra | Apple Watch Series 8                                                            |                                                                         |
@@ -43,6 +47,10 @@ And then there's the Apple Watch Series 8 and the Apple Watch Ultra. The watches
 | Starting price       | $799                                                                            | $399                                                                    |
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  You should buy the Apple Watch Ultra if…
 
@@ -59,7 +67,7 @@ The 49mm housing is also the biggest Apple Watch made to date, and with double t
 With a new design comes new bands, as well. There are [three completely new watchband designs](https://www.zdnet.com/article/new-apple-watch-ultra-bands-work-with-other-apple-watch-models-too/), each one designed for different activities such as outdoor adventures, endurance training and water sports. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. You ride, hike or dive… a lot
@@ -69,10 +77,6 @@ Speaking of outdoor activities, the Ultra is specifically made for extreme fitne
 Apple touts 36 hours of battery life for the Ultra during normal use, or 60 hours when you activate low power mode. The Ultra is compatible with two different GPS frequencies, L1 and L5, which should provide [accurate and precise location information](https://www.zdnet.com/article/what-is-l5-precision-dual-frequency-gps-why-is-apple-using-it-and-do-you-need-it) regardless of your surroundings. The new compass app will track your route during a hike or bike ride, and then provide waypoints for you to find your way back -- should you get lost. 
 
 Every Apple Watch Ultra comes with LTE capabilities, so as long as you pay your wireless carrier for an additional plan (usually around $10 a month), your watch will always be connected, even if you leave your iPhone behind. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. You need a ruggedized watch
 
@@ -86,17 +90,9 @@ There's even an 86-decibel siren built into the watch should you need emergency 
 
 [Apple Watch Ultra $799 at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch-ultra&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  You should buy the Apple Watch Series 8 if…
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. You want a traditional Apple Watch design
 
@@ -118,6 +114,10 @@ For $399 you can get a [41mm Apple Watch Series 8](https://apple.sjv.io/c/159047
 
 Still, those prices are more affordable than the Ultra's price tag and the Series 8 is sure to last a few years, or at least until Apple stops providing software updates to it. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Don't need all of the extreme outdoor features
 
 Even if you like the design of the Ultra, it has more features than I'd wager most people will ever need. Two different types of GPS tracking, the ability to withstand a depth of 100m underwater, and the 2,000 nits display for outdoor viewing can all be overkill. 
@@ -131,7 +131,7 @@ The Series 8 is water resistant, as well, and can be used while swimming or even
 [Apple Watch Series 8 $399 at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -170,18 +170,21 @@ Open to other Apple Watch prospects? Consider the also-new Apple Watch SE.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-secrets-revealed-how-to-capture-your-facebook-sessions/"><u>[New] Secrets Revealed How to Capture Your Facebook Sessions</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-immortalize-gameplay-glories-with-samsung-devices/"><u>[Updated] Immortalize Gameplay Glories with Samsung Devices</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-obs-broadcasting-directly-on-instagram/"><u>2024 Approved OBS Broadcasting Directly on Instagram</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-prime-picks-easy-youtube-template-downloads/"><u>2024 Approved Prime Picks Easy YouTube Template Downloads</u></a></li>
-<li><a href="https://win11.techidaily.com/breaking-down-wi-fi-connectivity-hurdles-clearing-up-vague-instructions/"><u>Breaking Down Wi-Fi Connectivity Hurdles: Clearing Up Vague Instructions</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-oneplus-ace-2v-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring OnePlus Ace 2V? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/integration-of-hearing-aid-mode-into-airpods-pro-with-latest-ios-update-hardware-unchanged-the-verge/"><u>Integration of Hearing Aid Mode Into AirPods Pro with Latest iOS Update - Hardware Unchanged | The Verge</u></a></li>
-<li><a href="https://solve-news.techidaily.com/mastering-online-presence-the-art-and-science-behind-effective-pages/"><u>Mastering Online Presence: The Art and Science Behind Effective Pages</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/seagate-external-not-detected-by-pc-how-to-restore-connectivity-with-windows-n10/"><u>Seagate External Not Detected by PC: How to Restore Connectivity with Windows #N#10</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/self-repair-features-keeping-your-windows-10-computer-running-smoothly-without-a-hitch/"><u>Self-Repair Features: Keeping Your Windows 10 Computer Running Smoothly Without a Hitch</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/simple-steps-to-pause-windows-10-update-services-efficiently/"><u>Simple Steps to Pause Windows 10 Update Services Efficiently</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-accessing-bios-in-windows-10-and-windows-7/"><u>Step-by-Step Guide: Accessing BIOS in Windows 10 and Windows 7</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-running-older-programs-with-compatibility-settings-on-windows-10/"><u>Step-by-Step Guide: Running Older Programs with Compatibility Settings on Windows 10</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-step-by-step-guide-on-using-gaming-youtube-banner-templates/"><u>[New] 2024 Approved Step-By-Step Guide on Using Gaming YouTube Banner Templates</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-pro-video-mastery-with-iphone-unveiling-top-8-tips-for-success/"><u>[Updated] 2024 Approved Pro Video Mastery with iPhone Unveiling Top 8 Tips for Success</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-instant-immersion-mixing-tunes-in-facebook-narratives/"><u>2024 Approved Instant Immersion Mixing Tunes in Facebook Narratives</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-realme-narzo-n53-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/easy-methods-how-to-transfer-pictures-from-apple-iphone-14-plus-to-pc-drfone-by-drfone-transfer-from-ios/"><u>Easy Methods How To Transfer Pictures From Apple iPhone 14 Plus to PC | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/embracing-the-future-top-8-benefits-of-artificial-intelligence-in-education/"><u>Embracing the Future: Top 8 Benefits of Artificial Intelligence in Education</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ensuring-child-safety-with-chatgpt-discover-5-effective-methods/"><u>Ensuring Child Safety with ChatGPT: Discover 5 Effective Methods</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/inside-truthgpts-revelation-policemen-clash-with-mullvad-vpn-top-no-cost-gaming-for-pcs-and-insights-on-mechanical-typing-peripherals/"><u>Inside TruthGPT's Revelation: Policemen Clash with Mullvad VPN, Top No-Cost Gaming for PCs & Insights on Mechanical Typing Peripherals</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-chatgpt-a-credible-source-for-your-health-related-questions-understanding-ai-in-medicine/"><u>Is ChatGPT a Credible Source for Your Health-Related Questions? Understanding AI in Medicine</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/er-transcriber-platform-video-to-writing-for-2024/"><u>Premier Transcriber Platform Video to Writing for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/should-you-opt-for-copilot-pro-a-comprehensive-guide-highlighting-benefits-over-standard-copilot/"><u>Should You Opt for CoPilot Pro? A Comprehensive Guide Highlighting Benefits Over Standard CoPilot</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/stap-voor-stap-handleiding-voor-migratie-van-jezelfs-samsung-gegevens-naar-windows-eindinstallatie-10-incl-downloadproces/"><u>Stap-Voor-Stap-Handleiding Voor Migratie Van Jezelfs Samsung-Gegevens Naar Windows Eindinstallatie 10, Incl. Downloadproces</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-quintessential-social-giants-understanding-facebook-twitter-instagram-and-youtube/"><u>The Quintessential Social Giants: Understanding Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/total-motion-systems-scrutiny-report-for-2024/"><u>Total Motion Systems Scrutiny Report for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleashing-chatgpts-potential-as-your-ideal-dungeon-master-companion/"><u>Unleashing ChatGPT's Potential as Your Ideal Dungeon Master Companion</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/voices-from-around-the-world-10-tech-leaders-weigh-in-on-ai/"><u>Voices From Around the World: 10 Tech Leaders Weigh In on AI</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Apple Watch's Battery Performance: Top 8 Essential Settings Tweaks Revealed - Tips From ZDNet"
-date: 2024-11-23T04:27:29.054Z
-updated: 2024-11-28T08:24:00.115Z
+date: 2024-12-05T18:37:50.010Z
+updated: 2024-12-07T17:19:08.743Z
 tags:
   - apple
 categories:
@@ -43,7 +43,7 @@ This is the most effective thing you can do to preserve your Apple Watch's batte
 **How to:** On your Apple Watch, head to Settings > Display & Brightness > Always On, then toggle the feature off.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Use Low Power Mode when you can
@@ -55,7 +55,7 @@ I don't recommend using Low Power Mode all day since it limits the functionality
 **Also:** [**Apple Watch Ultra 2 vs. Watch Ultra: Is it time to upgrade?**](https://www.zdnet.com/article/apple-watch-ultra-2-vs-ultra/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Disable cellular connectivity
@@ -65,6 +65,10 @@ If you have an Apple Watch with cellular connectivity, it's best to not use your
 **How to:** Open Settings > Cellular on your watch and toggle off "Cellular." Then, when you want to turn it back on, flick the switch again. It's worth noting that airplane mode will essentially do the same thing, but it also turns off Wi-Fi which you need for certain things, so manually disabling cellular data will save some steps.
 
 Jason Hiner/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Turn off background app refresh
 
@@ -84,15 +88,15 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Turn off irregular heart rate notifications
 
 With some of the newest Apple Watches, Apple includes a feature that can alert you when your heart rate is beating in irregular intervals and alert you when it may be atrial fibrillation. While that's nice to have for tracking your health over time, it means the heart rate sensor is constantly on collecting your heart rate, which isn't good for battery life.
 
 **How to:** Visit Settings > Heart > Irregular Rhythm Notifications and flick the feature off.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Reduce the amount of notifications you get
 
@@ -103,7 +107,7 @@ When a notification comes in, it not only plays a "ding!" to alert you, it also 
 **Also:** [**Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11**](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Turn off Siri
@@ -119,10 +123,6 @@ Adrian Kingsley-Hughes/ZDNET
 I've heard from many folks who have faced issues with battery life on the Apple Watch that it's best to do a complete factory reset. Full disclosure: it's not going to work for everyone, but if you've exhausted every option on your Apple Watch to extend battery life, the battery is still healthy, and you don't want to upgrade, your best bet is to reset it and start from scratch. That way, you can set up your watch and, along the way, spot the app or service that drains your battery the most. It may also help clean up some of the system bloat in watchOS 10 that's led to poor efficiency on your watch.
 
 **How to:** Go to Settings > General > Reset on your Apple Watch, then choose "Erase All Content and Settings." You won't have to disable Find My or get rid of your cellular plan since you'll be setting it up with your iPhone again, but if you want to get rid of absolutely everything, make sure you disable Find My and dump your cellular plan during the process.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How we test smartwatches
 
@@ -165,22 +165,20 @@ For a deeper look at our testing process, check out our comprehensive [smartwatc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-essential-low-cost-footage-source-directory/"><u>[New] In 2024, Essential Low-Cost Footage Source Directory</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-a-quick-walkthrough-of-new-user-registration-on-twitter/"><u>2024 Approved A Quick Walkthrough of New User Registration on Twitter</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/a-step-by-step-guide-to-enabling-onscreen-keyboards-in-microsoft-windows-operating-systems/"><u>A Step-by-Step Guide to Enabling Onscreen Keyboards in Microsoft Windows Operating Systems</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/asus-aura-themes-and-skins-for-windows-update-your-pcs-visual-appeal-with-free-downloads/"><u>ASUS AURA Themes & Skins for Windows: Update Your PC's Visual Appeal with Free Downloads</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/camera-malfunction-in-windows-overcoming-error-code-0xa00f4244-with-easy-fixes-for-1011-users/"><u>Camera Malfunction in Windows: Overcoming Error Code 0XA00F4244 with Easy Fixes for 10/11 Users</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/does-motorola-edgeplus-2023-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Motorola Edge+ (2023) has native HEVC support?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/effortless-steps-for-achieving-a-swift-windows-10-clean-boot/"><u>Effortless Steps for Achieving a Swift Windows 10 Clean Boot</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/elevate-your-gameplay-the-ultimate-guide-to-setting-mouse-dpi-for-competitive-fortnite-players/"><u>Elevate Your Gameplay: The Ultimate Guide to Setting Mouse DPI for Competitive Fortnite Players</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/fixing-a-broken-snipping-feature-in-windows-operating-systems-including-windows-11-edition/"><u>Fixing a Broken Snipping Feature in Windows Operating Systems, Including Windows 11 Edition</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/flight-path-perfection-essential-insights-for-drone-racers-and-top-5-models/"><u>Flight Path Perfection Essential Insights for Drone Racers & Top 5 Models</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/goose-goose-duck-fixes-7-critical-steps-to-stop-crashing-and-enjoy-flawless-gaming-on-your-pc/"><u>Goose Goose Duck Fixes - 7 Critical Steps to Stop Crashing & Enjoy Flawless Gaming on Your PC</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/guaranteed-method-to-disable-driver-security-features-in-windows-11-for-smooth-installation/"><u>Guaranteed Method to Disable Driver Security Features in Windows 11 for Smooth Installation</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfersync-notes-from-apple-iphone-14-pro-max-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer/Sync Notes from Apple iPhone 14 Pro Max to iPad | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/review-of-bouncie-drive-connect-an-easy-to-use-budget-friendly-gps-tracking-solution/"><u>Review of Bouncie Drive Connect: An Easy-to-Use, Budget-Friendly GPS Tracking Solution</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-nokia-xr21-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Nokia XR21 | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/troubleshooting-complete-videotrim-failures/"><u>Troubleshooting Complete Videotrim Failures</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-cross-platform-audio-transcription-turning-text-into-mp3-clips-for-2024/"><u>Updated Cross-Platform Audio Transcription Turning Text Into MP3 Clips for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ersonal-usage-dilemma-selecting-the-ideal-video-sharing-app-for-2024/"><u>[New] Personal Usage Dilemma Selecting the Ideal Video Sharing App for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-navigating-adobe-clouds-storage-explained-simply-with-comparisons/"><u>[Updated] Navigating Adobe Cloud's Storage, Explained Simply with Comparisons</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/0x80073712-error-code-in-windows-11-solved/"><u>0X80073712 Error Code in Windows 11 [SOLVED]</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-prompt-crafting-mastery-a-fitness-community-how-to-guide/"><u>ChatGPT Prompt Crafting Mastery: A Fitness Community How-To Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-to-the-rescue-a-comprehensive-guide-on-repairing-a-damaged-computer-system/"><u>ChatGPT to the Rescue: A Comprehensive Guide on Repairing a Damaged Computer System</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comparing-the-latest-apple-powerhouses-the-m2-vs-m3-macbook-air-buying-guide/"><u>Comparing the Latest Apple Powerhouses: The M2 Vs. M3 MacBook Air - Buying Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/deciphering-ai-benefits-vs-potential-perils/"><u>Deciphering AI: Benefits vs Potential Perils</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/empowering-education-with-ai-the-top-5-ways-to-use-chatgpt-in-schools/"><u>Empowering Education with AI: The Top 5 Ways to Use ChatGPT in Schools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/excellence-in-detail-a-curated-list-of-8k-cameras-for-2024/"><u>Excellence in Detail A Curated List of 8K Cameras for 2024</u></a></li>
+<li><a href="https://fox-within.techidaily.com/execution-de-lsassexe-avec-un-cpu-eleve-sur-windows-server-2016-guide-des-mises-a-jour-correctives/"><u>Exécution De LSASS.exe Avec Un CPU Élevé Sur Windows Server 2016 : Guide Des Mises À Jour Correctives</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-ai-chatbot-restrictions-and-personal-repercussions/"><u>Exploring AI Chatbot Restrictions & Personal Repercussions</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/from-ephemeral-to-everlasting-the-art-of-saving-social-media-snaps/"><u>From Ephemeral to Everlasting The Art of Saving Social Media Snaps</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/phone-free-registration-tips-access-chatgpt-whatsapp-telegram-and-more-without-a-phone-number/"><u>Phone-Free Registration Tips: Access ChatGPT, WhatsApp, Telegram and More Without a Phone Number</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-tecno-spark-20-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Tecno Spark 20 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-limits-of-machine-learning-in-medicine-revealed/"><u>The Limits of Machine Learning in Medicine Revealed</u></a></li>
 </ul></div>
 

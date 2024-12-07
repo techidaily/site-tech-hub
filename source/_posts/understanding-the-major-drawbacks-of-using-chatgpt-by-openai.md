@@ -1,7 +1,7 @@
 ---
 title: Understanding the Major Drawbacks of Using ChatGPT by OpenAI
-date: 2024-09-02T09:27:04.285Z
-updated: 2024-09-03T09:27:04.285Z
+date: 2024-12-06T17:38:08.564Z
+updated: 2024-12-07T21:07:32.657Z
 tags:
   - chatgpt
   - open-ai
@@ -19,13 +19,25 @@ thumbnail: https://thmb.techidaily.com/8a48baa92cdc76a86f454f4bf37afbb0816527695
 
  Because of how LLMs are trained, it was inevitable there would be a conflict between copyright law and artificial intelligence. Now the chickens are coming home to roost, as Sarah Silverman and other artists are suing OpenAI and Meta over copyright infringement.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Sarah Silverman and Other Artists Are Suing Open AI and Meta
 
 ![Person having a chat on ChatGPT](https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5163c7ab05139a28f15cb6cd.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In[a class action lawsuit](https://llmlitigation.com/pdf/03416/silverman-openai-complaint.pdf) \[PDF\] filed in California, comedian Sarah Silverman and other writers (Christopher Golden and Richard Kadrey) seek to recover damages against OpenAI and Meta over copyright infringement. The lawsuit alleges OpenAI and Meta scraped copyrighted books from pirate websites to train their AI models. This is the equivalent of an AI model downloading its training datasets from Piratebay without compensating the authors.
 
  Coincidentally, a[separate class action lawsuit](https://storage.courtlistener.com/recap/gov.uscourts.cand.414822/gov.uscourts.cand.414822.1.0%5F1.pdf) \[PDF\] against OpenAI alleges the company used unauthorized private information to train ChatGPT. Google is also facing a similar lawsuit over allegedly using stolen data to train Google Bard. This is why you should[make it a habit to protect your personal information](https://www.makeuseof.com/online-safety-habits-data-privacy/) , though publishing work and private personal data are not the same.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Are the Chances Sarah Silverman Could Win the Lawsuit?
 
@@ -39,38 +51,33 @@ thumbnail: https://thmb.techidaily.com/8a48baa92cdc76a86f454f4bf37afbb0816527695
 
  If it's proven that OpenAI and Meta used illegal torrent websites to acquire copyrighted materials to train its AI models, Silverman may have a shot of winning the lawsuit. However, AI models are uncharted territory with no precedent for courts to rely on to make a ruling based on AI copyright infringement. In fact, that's one of the reasons why[the EU proposed an AI Act.](https://www.makeuseof.com/what-is-the-eu-ai-act-how-would-it-affect-chatgpt/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## What Is the Future of AI Models and Copyright Law?
 
 ![A laptop screen showing logos of chatgpt and google bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-bard-vs-chatgpt-for-coding.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  We're still in the early days of AI to know how it will adapt to copyright law. It's even more complex trying to figure out[who owns the copyright to AI creation](https://www.makeuseof.com/who-owns-copyright-to-ai-creations/) . But for human creators, regulations exist to protect them against someone else accessing their copyrighted material without compensation, consent, or credit. If the rules exist for humans, will they apply to AI models?
 
  The EU parliament drafted the closest glimpse into the future of how AI models will comply with copyright law. If the EU AI Act is assented into law, AI models like ChatGPT and Bard will be required to publish all their dataset sources and copyrighted data used for training. This will help clear up any confusion if the AI models accessed copyrighted books, movies, music, and photos for training through illegal piracy websites.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The AI Class Action Lawsuit Ruling Will Set a Legal Precedent
 
  Large language models can scrape all the corners of the internet for data used in training. But would they be liable for copyright infringement if they access illegal torrent websites to acquire the data? And if they do, can you prove it?
 
  Regardless of the outcome, the class action lawsuits against the tech companies that own the most popular AI models will set a precedent that will be relevant in the future.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -79,4 +86,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-taking-charge-stop-instagram-suggested-posts/"><u>[Updated] Taking Charge Stop Instagram Suggested Posts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/are-there-newer-options-to-replace-the-classic-turing-test-in-ai/"><u>Are There Newer Options to Replace the Classic Turing Test in AI?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/behind-the-scenes-generating-podcast-content-via-chatgpt-an-episode-breakdown/"><u>Behind-the-Scenes: Generating Podcast Content via ChatGPT – An Episode Breakdown</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-implement-power-on-by-lan-functionality-on-windows-11/"><u>How to Implement Power On By LAN Functionality on Windows 11</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-12-to-other-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 12 to Other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/instagram-storytelling-using-videos-effectively/"><u>Instagram Storytelling Using Videos Effectively</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/master-the-art-of-fixing-ghost-recon-breakpoint-say-goodbye-to-frustrating-crashes/"><u>Master the Art of Fixing Ghost Recon: Breakpoint – Say Goodbye to Frustrating Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-fallout-76s-optimization-end-the-annoying-freeze-ups/"><u>Mastering Fallout 76'S Optimization - End the Annoying Freeze-Ups!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/musks-mystery-the-future-of-gpt-revealed/"><u>Musk's Mystery: The Future of GPT Revealed?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/my-ai-or-chatgpt-on-snapchat-the-ultimate-comparison-for-users/"><u>My AI or ChatGPT on Snapchat: The Ultimate Comparison for Users</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-unrecognized-devices-on-w11w10-pcs/"><u>Overcoming 'Unrecognized Devices' On W11/W10 PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-gamepad-unresponsiveness/"><u>Overcoming Windows Gamepad Unresponsiveness</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-unlock-your-creative-potential-10-top-music-video-editing-software/"><u>Updated In 2024, Unlock Your Creative Potential 10 Top Music Video Editing Software</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Next Big Thing for Apple Vision Pro? Innovative Respiratory Health Tracking on the Horizon
-date: 2024-11-25T07:40:29.195Z
-updated: 2024-11-28T13:19:16.009Z
+date: 2024-12-03T21:28:57.369Z
+updated: 2024-12-07T19:19:59.595Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ If anything, the latest iOS 18.1 betas with Apple Intelligence features have bee
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The annual upgrade ritual
@@ -37,6 +37,10 @@ If anything, the latest iOS 18.1 betas with Apple Intelligence features have bee
 Every year, my wife and I eagerly await the release of the new iPhones. Being part of [Apple's Upgrade Program](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fiphone%2Fiphone-upgrade-program&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), we return our devices, reset our loan with Citizens Bank, and acquire the latest model. Over the past few years, I have opted for the [Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fiphone-15-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), and my wife has chosen the [base model](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fiphone-15%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). The expected annual improvements have been incremental but appreciated. 
 
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
 
@@ -63,7 +67,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## New hardware leaks: what to expect from the iPhone 16
@@ -83,7 +87,7 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
@@ -93,10 +97,6 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 **Also: [How iOS 18 changes the way you charge your iPhone](https://www.zdnet.com/article/how-ios-18-changes-the-way-you-charge-your-iphone/)**
 
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
 
@@ -115,7 +115,7 @@ Enterprises may also employ a mobile device management solution to facilitate ac
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## I'm still optimistic
@@ -158,16 +158,22 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-harmonizing-content-and-platform-youtubes-brief-melodies-explained-for-2024/"><u>[New] Harmonizing Content and Platform YouTube's Brief Melodies Explained for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-overcoming-iphone-lens-focus-discrepancies/"><u>[New] Overcoming iPhone Lens Focus Discrepancies</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-mastering-the-mark-crafting-unique-podcast-graphics/"><u>[Updated] 2024 Approved Mastering the Mark Crafting Unique Podcast Graphics</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-chromebooks-best-vocal-transformers-the-top-5-chrome-apps/"><u>[Updated] Chromebook's Best Vocal Transformers The Top 5 Chrome Apps</u></a></li>
-<li><a href="https://android-location.techidaily.com/boost-your-musical-creativity-with-the-open-source-tulip-computer-powered-by-micropython-only-59/"><u>Boost Your Musical Creativity with the Open-Source Tulip Computer Powered by MicroPython, Only $59</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-it-possible-to-use-chatgpt-for-managing-a-smart-home-system/"><u>Is It Possible to Use ChatGPT for Managing a Smart Home System?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-ai-evolution-at-work-6-insightful-strategies-for-survival-and-success/"><u>The AI Evolution at Work: 6 Insightful Strategies for Survival and Success</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-windows-11-fixing-low-speaker-output-issues/"><u>Troubleshooting Windows 11: Fixing Low Speaker Output Issues</u></a></li>
-<li><a href="https://win11.techidaily.com/unleash-your-inner-artist-creating-captivating-ai-visuals-with-paint-cocreator-and-windows-11/"><u>Unleash Your Inner Artist: Creating Captivating AI Visuals with Paint Cocreator & Windows 11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unpacking-microsofts-big-play-in-gaming-with-blizzard-podcast-discussion-on-innovative-ai-and-translation-tech/"><u>Unpacking Microsoft's Big Play in Gaming with Blizzard: Podcast Discussion on Innovative AI and Translation Tech</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/why-choose-the-chatgpt-desktop-version-over-the-web-interface-top-advantages/"><u>Why Choose the ChatGPT Desktop Version Over the Web Interface: Top Advantages</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/chieving-virality-youtube-promotion-no-cost-involved/"><u>[New] Achieving Virality YouTube Promotion No Cost Involved</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-tiktok-triumphs-in-twitter-land-toptiktoks-revealed/"><u>[New] TikTok Triumphs in Twitter Land #TopTikToks Revealed</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-peering-through-the-printer-one-persons-3dr-story/"><u>[Updated] In 2024, Peering Through the Printer One Person’s '3DR' Story</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-protecting-data-while-transforming-youtube-videos-into-mp3-files/"><u>2024 Approved Protecting Data While Transforming YouTube Videos Into MP3 Files</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-the-essentials-of-creating-a-personalized-twitter-account/"><u>2024 Approved The Essentials of Creating a Personalized Twitter Account</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/avoiding-chatgpt-impostors-tips-for-recognizing-authentic-versions-in-the-app-store/"><u>Avoiding ChatGPT Impostors: Tips for Recognizing Authentic Versions in the App Store</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/charting-a-new-path-with-text-and-talk/"><u>Charting a New Path with Text and Talk</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-unleashed-the-compelling-benefits-of-its-desktop-edition-over-the-online-platform/"><u>ChatGPT Unleashed: The Compelling Benefits of Its Desktop Edition Over the Online Platform</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-chatgpts-funniest-and-funnier-games/"><u>Discover ChatGPT's Funniest & Funnier Games</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ensuring-smooth-exchange-correcting-chatgpt-and-service-errors/"><u>Ensuring Smooth Exchange: Correcting ChatGPT and Service Errors</u></a></li>
+<li><a href="https://discover-great.techidaily.com/fujifilm-instax-mini-99-assessment-exploring-the-charm-of-an-immediate-photography-device/"><u>Fujifilm Instax Mini 99 Assessment - Exploring the Charm of an Immediate Photography Device</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-realme-11-pro-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Realme 11 Pro To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/human-interpretation-vs-machine-generated-summary-clarity/"><u>Human Interpretation Vs. Machine-Generated Summary Clarity</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/monthly-earnings-from-youtube-for-creators/"><u>Monthly Earnings From YouTube for Creators</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/separating-the-sincere-from-the-synthetic-in-machine-learning-outputs/"><u>Separating the Sincere From the Synthetic in Machine Learning Outputs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-art-of-sentiment-can-computers-understand-love-fear/"><u>The Art of Sentiment: Can Computers Understand Love, Fear?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-gadget-guide-discovering-top-picks-with-toms-hardware-knowledge/"><u>The Ultimate Gadget Guide - Discovering Top Picks with Tom's Hardware Knowledge</u></a></li>
 </ul></div>
 

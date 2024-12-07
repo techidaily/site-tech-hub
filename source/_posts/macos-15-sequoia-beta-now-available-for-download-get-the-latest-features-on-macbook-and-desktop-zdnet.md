@@ -1,7 +1,7 @@
 ---
 title: MacOS 15 'Sequoia' Beta Now Available for Download – Get the Latest Features on MacBook & Desktop | ZDNET
-date: 2024-11-13T00:45:19.858Z
-updated: 2024-11-18T22:23:23.128Z
+date: 2024-12-04T17:22:02.760Z
+updated: 2024-12-07T20:05:21.478Z
 tags:
   - apple
 categories:
@@ -32,15 +32,16 @@ Jason Hiner/ZDNET
 
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Go to General in your iPhone Settings
 
 Go to your iPhone's Settings and select General. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Go to Software Update in Settings
@@ -52,10 +53,7 @@ Within General, tap on Software Update. This will show you if the iOS 18 update 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Enter your passcode and follow steps to install
@@ -85,10 +83,7 @@ You can always be part of the Apple Beta program to get the latest beta versions
 * You should go into the experience to test new features and share feedback to improve iOS, which is why beta versions are released.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How do I install the iOS 18 beta version?
@@ -103,10 +98,7 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 Screenshot: Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to download the iOS 18 developer beta?
@@ -169,22 +161,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-expertly-selected-top-7-internet-voice-recorders-2023/"><u>[New] In 2024, Expertly Selected Top 7 Internet Voice Recorders 2023</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-recommendation-best-iphone-ringtone-makers/"><u>[New] Recommendation Best iPhone Ringtone Makers</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-exploring-ffmpegs-original-audio-extraction-capabilities/"><u>[Updated] 2024 Approved Exploring FFmpeg’s Original Audio Extraction Capabilities</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-data-deluge-infographics-on-youtubes-intriguing-insights/"><u>2024 Approved Data Deluge Infographics on YouTube's Intriguing Insights</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/a-comprehensive-guide-to-chatgpt-jailbreaking-insights-for-responsible-use/"><u>A Comprehensive Guide to ChatGPT Jailbreaking: Insights for Responsible Use</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/a-comprehensive-look-at-claude-pro-how-it-stacks-up-to-microsofts-chatgpt-plus/"><u>A Comprehensive Look at Claude Pro: How It Stacks Up to Microsoft's ChatGPT Plus</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/a-developers-roadmap-to-building-intelligent-web-solutions-using-chatgpt/"><u>A Developer's Roadmap to Building Intelligent Web Solutions Using ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ais-knowledge-highway-traversing-through-transfer-learning-techniques/"><u>AI's Knowledge Highway: Traversing Through Transfer Learning Techniques</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/behind-closed-doors-with-truthgpt-and-the-controversial-raid-on-mullvad-vpn-plus-your-guide-to-free-gaming-bliss/"><u>Behind Closed Doors with TruthGPT & The Controversial Raid on Mullvad VPN, Plus Your Guide to Free Gaming Bliss</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/clearing-up-unreadable-text-in-windows-n-quick-troubleshooting-tips/"><u>Clearing Up Unreadable Text in Windows N - Quick Troubleshooting Tips</u></a></li>
-<li><a href="https://fox-http.techidaily.com/getting-hooked-on-telegram-advertising-a-starters-guide/"><u>Getting Hooked on Telegram Advertising A Starter's Guide</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-direct-download-process-from-vimeo-to-mp3-format/"><u>In 2024, Direct Download Process From Vimeo to MP3 Format</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1722008075872-openais-revolutionary-shop-is-here-master-your-tailored-gpt-solutions-instantly/"><u>OpenAI's Revolutionary Shop Is Here – Master Your Tailored GPT Solutions Instantly</u></a></li>
-<li><a href="https://windows11.techidaily.com/reclaim-your-typing-efficiency-with-9-proven-fixes-for-broken-windows-shortcut-commands/"><u>Reclaim Your Typing Efficiency with 9 Proven Fixes for Broken Window's Shortcut Commands</u></a></li>
-<li><a href="https://games-able.techidaily.com/steams-ultimate-visual-experience-big-picture/"><u>Steam’s Ultimate Visual Experience: Big Picture</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unpacking-emotional-intelligence-in-machine-learning/"><u>Unpacking Emotional Intelligence in Machine Learning</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/what-to-look-forward-to-as-microsoft-enhances-bing-with-artificnial-intelligence-technology/"><u>What to Look Forward to as Microsoft Enhances Bing with Artificnial Intelligence Technology</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-expert-techniques-for-integrating-standardized-luts-in-post-production-workflows-for-2024/"><u>[New] Expert Techniques for Integrating Standardized LUTs in Post-Production Workflows for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-combining-camera-and-display-in-one-go/"><u>[Updated] Combining Camera and Display in One Go</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-high-definition-wonders-with-the-nikon-d500-for-2024/"><u>[Updated] High Definition Wonders with the Nikon D500 for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-comedy-kings-the-most-popular-memes/"><u>[Updated] In 2024, Comedy Kings The Most Popular Memes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726029688723-youtube/"><u>「車内で音楽再生が難しい時の解決策：YouTubeリンク共有方法」</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726028680247-mp4/"><u>「最強無料MP4フォーマッター:アヴィ変換の追いかける方法」</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-5-best-photo-editing-app-for-android-phone/"><u>2024 Approved 5 Best Photo Editing App for Android Phone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-how-to-preserve-your-roblox-experience-with-flawless-recording-mac/"><u>2024 Approved How to Preserve Your Roblox Experience with Flawless Recording (Mac)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726030415371-gifpc/"><u>GIFアニメをトリミングするPC方法：長さ制御とスクリーンフィット</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-telegram-for-newcomers-how-to-make-your-advertising-stand-out/"><u>In 2024, Telegram for Newcomers How to Make Your Advertising Stand Out</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-live-tv-access-a-top-ranked-list-review-for-2024/"><u>Mastering Live TV Access A Top-Ranked List Review for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tweaking-fn-keys-to-your-desired-effects-on-windows-11/"><u>Tweaking FN Keys to Your Desired Effects on Windows 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726028822139-windowspc/"><u>WindowsPCで音楽を保存するためのダウンロード・レコーディング技術</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726029140615-youtubevimeo/"><u>YouTubeやVimeoなど、映像ファイルに他のビデオを組み込む方法</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Communicate on the Go: Sending Messages From Your Apple Watch with Friends and Family"
-date: 2024-11-22T22:59:47.525Z
-updated: 2024-11-28T02:17:04.320Z
+date: 2024-11-30T17:11:34.369Z
+updated: 2024-12-07T18:20:02.005Z
 tags:
   - apple
 categories:
@@ -26,9 +26,17 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to check in with a friend or family member from your Apple Watch
 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Update your devices
 
@@ -47,7 +55,7 @@ Launch the Messages app on your Apple Watch. Start or continue a conversation wi
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. View the initial Check In notification
@@ -66,19 +74,11 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. View the actual Check in alert
 
 When the timer is up to indicate that you should have reached your destination, you'll be prompted to stop the Check In to confirm that you've arrived. You can add more time or cancel the Check In. Otherwise, the recipient will receive your Check In notification. If the confirmation isn't sent, more time will be added. After that, the recipient will be informed that you haven't yet checked in. They can then try to contact you by text or phone call to find out why you haven't yet arrived.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Change the time for a Check In
 
@@ -90,15 +90,15 @@ If you still wish to use a timer for the Check In option but change the amount o
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Send a customized Check In through the Messages app
 
 To further customize the Check In, tap the Edit button at the Check In screen. Tap Check In. You can now set a notification to be sent when you've arrived at your destination, after the timer ends, or when a workout ends. Tap the option for "When I arrive."
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Add a destination and send the text
 
@@ -115,7 +115,7 @@ Maybe you're working out at the gym or at home and want to let someone know when
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Set a Check In for a workout in the Workout app
@@ -154,17 +154,21 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-advanced-anonymization-techniques-to-blur-faces/"><u>[New] Advanced Anonymization Techniques to Blur Faces</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-perfecti-top-photo-and-video-display-programming/"><u>[New] Perfecti Top Photo & Video Display Programming</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-superior-tune-makers-for-iphone-users/"><u>[Updated] Superior Tune Makers for iPhone Users</u></a></li>
-<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Honor Magic 6 Lite | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/effective-strategies-utilizing-chatgpts-assistance-for-automotive-customization/"><u>Effective Strategies: Utilizing ChatGPT's Assistance for Automotive Customization</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-insight-into-youtubes-latest-income-and-rewards/"><u>In 2024, Insight Into YouTube's Latest Income and Rewards</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/nifty-editing-edits-discover-the-top-5-online-strategies-for-cutting-and-condensing-videos-for-2024/"><u>Nifty Editing Edits Discover the Top 5 Online Strategies for Cutting & Condensing Videos for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/redesigning-windows-removed-characteristics/"><u>Redesigning Windows: Removed Characteristics</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/secrets-of-success-incorporating-chatgpt-into-interview-practices/"><u>Secrets of Success: Incorporating ChatGPT Into Interview Practices</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-oppo-a78-5g-by-drfone-android/"><u>Three Ways to Sim Unlock Oppo A78 5G</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-six-important-points-to-know-about-utilizing-chatgpt-for-emotional-support/"><u>Top Six Important Points to Know About Utilizing ChatGPT for Emotional Support</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlock-fluent-communication-skills-using-chatgpt-plus-for-effective-language-acquisition/"><u>Unlock Fluent Communication Skills Using ChatGPT Plus for Effective Language Acquisition</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-from-zero-to-profit-beginners-guide-on-periscope-earning-for-2024/"><u>[Updated] From Zero to Profit Beginner’s Guide on Periscope Earning for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-saying-goodbye-to-instagram-forever-a-detailed-walkthrough-for-2024/"><u>[Updated] Saying Goodbye to Instagram Forever A Detailed Walkthrough for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-boost-your-images-advanced-online-photoshop-cropping-tips/"><u>2024 Approved Boost Your Images Advanced Online Photoshop Cropping Tips</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-employing-inbuilt-screen-recording-tools-on-mate-p-models-p20-p10/"><u>2024 Approved Employing Inbuilt Screen Recording Tools on Mate, P Models (P20, P10)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-channels-to-champions-leveraging-lingo-in-telegram-marketing/"><u>2024 Approved From Channels to Champions Leveraging Lingo in Telegram Marketing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-the-contrast-how-does-nlp-differ-from-machine-learning/"><u>Decoding the Contrast: How Does NLP Differ From Machine Learning?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effective-strategies-for-implementing-chatgpt-in-cbt-practices/"><u>Effective Strategies for Implementing ChatGPT in CBT Practices</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gpt-and-cybersecurity-risks-to-your-bank-data/"><u>GPT and Cybersecurity: Risks to Your Bank Data?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-honor-90-lite-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Honor 90 Lite to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Google Pixel Fold? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-asus-rog-phone-8-pro-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Asus ROG Phone 8 Pro Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-from-iphone-15-plus-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock From iPhone 15 Plus? How to Fix it?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-gpt-3-enabling-web-browser-and-plugin-beta/"><u>Mastering GPT-3: Enabling Web Browser & Plugin Beta</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionize-your-daily-routine-using-chatgpt/"><u>Revolutionize Your Daily Routine Using ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-enhancements-streamlining-the-chatgpt-plugin-directory/"><u>Top Enhancements: Streamlining the ChatGPT Plugin Directory</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleash-your-creativity-using-microsofts-copilot-image-generator-a-step-by-journey/"><u>Unleash Your Creativity Using Microsoft's Copilot Image Generator - A Step-by-Journey</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: From Digital Dialogue to Printed Poetry Collections
-date: 2024-09-02T09:26:56.216Z
-updated: 2024-09-03T09:26:56.216Z
+date: 2024-12-06T19:39:15.708Z
+updated: 2024-12-07T19:40:01.630Z
 tags:
   - chatgpt
   - open-ai
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/1621022f15bae9f90515e95f15edd431dd0fad0e7
 * [How to Filter and Favorite AIPRM Prompts](https://mindmanager.sjv.io/anq2nj)
 * [How to Create AIPRM Prompts](https://dreoaffiliateprogram.pxf.io/k0ezjl)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Crafting effective prompts for ChatGPT is crucial for quality responses. AIPRM offers a vast library of expert prompts.
@@ -36,9 +40,6 @@ thumbnail: https://thmb.techidaily.com/1621022f15bae9f90515e95f15edd431dd0fad0e7
 
  ChatGPT is a useful generative AI tool that can help you do various tasks, from research to content creation. However, the quality of ChatGPT responses largely depends on how well you frame your instructions or prompts. If you find it challenging to craft effective ChatGPT prompts or wish to save time, you can use a handy Chrome Extension called AIPRM to make ChatGPT prompting easy.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Is AIPRM for ChatGPT?
 
  Your ability to [write effective ChatGPT prompts](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/) is crucial to getting quality responses, but it's not the easiest task crafting prompts that deliver your desired output. Luckily, AI prompting tools like AIPRM can help.
@@ -46,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/1621022f15bae9f90515e95f15edd431dd0fad0e7
  AIPRM is a [ChatGPT prompt creation Chrome extension](https://www.makeuseof.com/chatgpt-chrome-extensions-better-ai-prompts-answers-in-browsers/) with an extensive library of prompts created by a community of experts. The prompts are designed to help you create better AI-generated responses and save time. AIPRM's curated prompts cover a vast range of topics, including marketing, copywriting, DevOps, productivity, and software engineering, to name a few.
 
  In addition to the extensive library of community prompts, you can also use AIPRM for ChatGPT to create and save AI prompts for future use. This feature is especially useful if you have specific needs or frequently work on similar topics. It means you won't need to spend time crafting a new prompt for the same task each time you use ChatGPT.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is the AIPRM Chrome Extension Free?
 
@@ -56,8 +61,9 @@ thumbnail: https://thmb.techidaily.com/1621022f15bae9f90515e95f15edd431dd0fad0e7
  The free version of AIPRM can access the extensive library of Community Prompts, save two private prompt templates, and set favorite prompt templates, which is more than enough to get you started.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Install the AIPRM for ChatGPT Chrome Extension
 
  Installing AIPRM for ChatGPT on your Chrome browser is easy; all you need to do is follow the steps below:
@@ -68,9 +74,6 @@ thumbnail: https://thmb.techidaily.com/1621022f15bae9f90515e95f15edd431dd0fad0e7
 4. This should automatically direct you to your ChatGPT homepage, where you will see a terms & conditions popup for the AIPRM extension. Tick the checkbox to agree and click **Confirm.**  
 ![AIPRM terms and conditions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/aiprm-terms-conditions-chatgpt.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
  You should now see the AIPRM dashboard on your ChatGPT page.
 
 ## How to Use the AIPRM for ChatGPT Chrome Extension
@@ -78,6 +81,10 @@ thumbnail: https://thmb.techidaily.com/1621022f15bae9f90515e95f15edd431dd0fad0e7
  To get started, go to your ChatGPT account. You should see the AIPRM dashboard on your homepage. Click the **thumbs-up or down** icon on the green popup that appears to dismiss it. You can now use the extension directly from your ChatGPT account.
 
 ![The AIPRM green popup in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/aiprm-green-popup.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  As you can see, there are several tabs in the AIPRM dashboard, including:
 
@@ -92,6 +99,10 @@ thumbnail: https://thmb.techidaily.com/1621022f15bae9f90515e95f15edd431dd0fad0e7
 
  You can start using AIPRM prompts by clicking the **Public** tab and scrolling through the list of available prompts. For instance, you can select the **Midjourney Prompt Generator** to get a detailed and descriptive prompt to generate a unique AI image. Type a keyword, and it will generate a detailed and descriptive prompt, which you can copy and paste into Midjourney.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Filter and Favorite AIPRM Prompts
 
  Considering the extensive selection of prompts, finding the right one for your needs may be challenging or time-consuming. To make it easier to find a specific prompt, you can filter the prompts by topic, activity, popularity, or ChatGPT version.
@@ -100,23 +111,8 @@ thumbnail: https://thmb.techidaily.com/1621022f15bae9f90515e95f15edd431dd0fad0e7
 
 ![The AIPRM for ChatGPT Activity filter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/filter-aiprm-prompts.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Once you have found a prompt that resonates with your needs, you can add it to your favorites for easy access in the future. Click the **Star** icon next to the prompt to add it to your **Favorites** tab. Next, go to the **Favorites** tab to view and access all your saved prompts.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Create AIPRM Prompts
 
  Although thousands of prompts are available on AIPRM, you may sometimes need a more personalized prompt. So, why bother crafting your prompt in AIPRM rather than using it directly in ChatGPT? This can be useful when you need to reuse the prompt for a similar task in the future.
@@ -129,9 +125,6 @@ thumbnail: https://thmb.techidaily.com/1621022f15bae9f90515e95f15edd431dd0fad0e7
 
 ![AIPRM screenshot showing how to create a template](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/create-aiprm-prompt-template.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
  For instance, "Write a Facebook post with emojis and a call to action about **\[PROMPT\]**." Make sure to add the prompt variable **\[PROMPT\]** in your template, as it will be replaced by what you type whenever you use this prompt. In this example, the prompt variable **\[PROMPT\]** will be the topic for the Facebook post. You can also provide one or more examples of what you want the output to look like.
 
  Next, fill in the **Teaser** field. This is a description to help you remember the prompt easily. The **Prompt Hint** reminds you of what you will type in when using the prompt. This replaces the prompt variable **\[PROMPT\]**.
@@ -156,8 +149,6 @@ thumbnail: https://thmb.techidaily.com/1621022f15bae9f90515e95f15edd431dd0fad0e7
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -165,4 +156,26 @@ thumbnail: https://thmb.techidaily.com/1621022f15bae9f90515e95f15edd431dd0fad0e7
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/updated-boosting-participation-tips-for-fb-giveaway-posts/"><u>[Updated] Boosting Participation Tips for FB Giveaway Posts</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-earnings-expansion-the-significance-of-500-subs-club-for-2024/"><u>[Updated] Earnings Expansion The Significance of 500 Subs Club for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-metaverse-comedy-the-art-and-science-of-creating-viral-online-laughs/"><u>2024 Approved Metaverse Comedy The Art & Science of Creating Viral Online Laughs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ais-evolution-how-does-transfer-learning-impact-it/"><u>AI's Evolution: How Does Transfer Learning Impact It?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/choosing-your-coding-sidekick-comparing-github-copilot-and-chatgpt-effectiveness/"><u>Choosing Your Coding Sidekick: Comparing GitHub Copilot and ChatGPT Effectiveness</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/creating-visual-content-using-ai-discover-how-to-leverage-my-gpt-bots-for-learning-and-beyond/"><u>Creating Visual Content Using AI: Discover How to Leverage My GPT Bots for Learning and Beyond</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-overcoming-windows-update-search-failures/"><u>Expert Advice: Overcoming Windows Update Search Failures</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/exploring-the-concept-of-variable-response-menus-a-guide-to-dynamic-ui-engagement/"><u>Exploring the Concept of Variable Response Menus: A Guide to Dynamic UI Engagement</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-chaos-to-order-using-gpt-3-in-repairs/"><u>From Chaos to Order: Using GPT-3 in Repairs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-10-visionary-global-tech-pioneers-view-artificial-intelligence-advancements/"><u>How 10 Visionary Global Tech Pioneers View Artificial Intelligence Advancements</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-xiaomi-mix-fold-3-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Xiaomi Mix Fold 3 Phone Screen?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/introducing-googles-enhanced-palm-2-a-breakthrough-in-large-language-model-technology/"><u>Introducing Google’s Enhanced PaLM 2: A Breakthrough in Large Language Model Technology</u></a></li>
+<li><a href="https://solve-help.techidaily.com/m4a-versus-m4b-comparing-audio-formats-for-seamless-conversion-strategies/"><u>M4A Versus M4B: Comparing Audio Formats for Seamless Conversion Strategies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-image-creation-with-chatgpt-an-ultimate-guide/"><u>Mastering the Art of Image Creation with ChatGPT: An Ultimate Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-vivo-x-fold-2-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Vivo X Fold 2 and Browser | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/quick-start-guide-bavarder-in-linux-environment/"><u>Quick-Start Guide: Bavarder in Linux Environment</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-tutorial-troubleshooting-and-solving-secure-internet-connectivity-problems-on-windows-pcs/"><u>Step-by-Step Tutorial: Troubleshooting & Solving Secure Internet Connectivity Problems on Windows PCs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-new-era-of-jobs-shaped-by-ai-progress/"><u>The New Era of Jobs Shaped by AI Progress</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transform-your-employment-opportunures-using-chatgpt-six-proven-methods/"><u>Transform Your Employment Opportunures Using ChatGPT: Six Proven Methods</u></a></li>
+</ul></div>
 

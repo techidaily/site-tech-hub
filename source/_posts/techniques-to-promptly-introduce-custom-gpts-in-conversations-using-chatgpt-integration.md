@@ -1,7 +1,7 @@
 ---
 title: Techniques to Promptly Introduce Custom GPTs in Conversations Using ChatGPT Integration
-date: 2024-09-02T09:27:33.389Z
-updated: 2024-09-03T09:27:33.389Z
+date: 2024-12-04T19:41:17.838Z
+updated: 2024-12-07T16:58:26.729Z
 tags:
   - chatgpt
   - open-ai
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/6050aa5ce58a3d916a0355d32e6800af8938ccf6a
  Cryptocurrency is slowly changing the financial landscape, bringing complex concepts and opportunities that need understanding. To keep up with the industry, whether by understanding new terminologies, exploring crypto projects, or even conducting advanced trading, you'll need to use tools that give you power.
 
  ChatGPT is one tool to pay attention to. If used properly, it can help you gain powerful and actionable insights. But you must know how to ask questions the right way. Here are examples of clear and specific crypto prompts you can start with.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Analyze a Token
 
@@ -40,13 +44,18 @@ thumbnail: https://thmb.techidaily.com/6050aa5ce58a3d916a0355d32e6800af8938ccf6a
  Whenever you want to upgrade your skills, you easily get overwhelmed with every detail you must consider. In this case, the prompt will help you narrow down these details, so you can focus on the most important aspects.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Summarize a Whitepaper
 
 * **Prompt** : Assume I am an 18-year-old with basic computer knowledge. I want to understand Bitcoin's whitepaper. Summarize the key concepts and innovations presented in the paper in an easy-to-read manner. Provide a concise overview of the objectives, technology, and problems it aims to solve. Describe how Bitcoin is intended to be used and how different it is from government currencies and other cryptocurrencies. Ensure the summary is accurate and avoids any ambiguity.
 * **Result** :  
 ![Screesnhot of ChatGPT Summarizing a Whitepaper](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/summarizing-a-whitepaper.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  With many crypto projects in the market, you don't want to spend thousands of hours going through endless whitepapers. Use this prompt to summarize any crypto whitepaper and get a quick, firm grasp of what the project entails.
 
@@ -69,9 +78,6 @@ thumbnail: https://thmb.techidaily.com/6050aa5ce58a3d916a0355d32e6800af8938ccf6a
 
  The cryptocurrency industry is fast evolving. A few years back, we thought Bitcoin's only use was as a store of value and currency. Today courtesy of[Bitcoin ordinals](https://www.makeuseof.com/what-are-bitcoin-ordinals-how-differ-from-nfts/) , Bitcoin can now support NFTs. Often, you'll come across many such crypto terms that need some explaining, and this prompt helps you to understand them better.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Make Investment Strategies
 
 * **Prompt** : I'm interested in earning passive income, and I've opted to invest in crypto staking. Currently, which cryptocurrencies are most secure and offer the most attractive returns? In addition, could you provide a detailed analysis of these cryptocurrencies mentioning their historical annual percentage yield, potential risks, token lockup periods, and security measures in place to safeguard my investment? I would also like to know the minimum requirements to participate in these programs and any associated fees. Break down the analysis for easy reading.
@@ -79,8 +85,9 @@ thumbnail: https://thmb.techidaily.com/6050aa5ce58a3d916a0355d32e6800af8938ccf6a
 ![Screesnhot of ChatGPT offering Investment Strategies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/make-investment-strategies.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you want to take control of your financial future and have chosen cryptocurrency as the tool for growth, ChatGPT can be a great companion. This prompt, for instance, can help you get started with crypto staking the safest way.
 
 ## 7\. Create a "Getting Started" Plan
@@ -89,10 +96,11 @@ thumbnail: https://thmb.techidaily.com/6050aa5ce58a3d916a0355d32e6800af8938ccf6a
 * **Result** :  
 ![Screenshot of ChatGPT Creating A Getting Started Plan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/create-a-getting-started-plan.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The crypto industry is growing, and more professionals will be needed to help develop solutions. So, if you need a guide on how to get started with anything in crypto, this prompt (or similar) can get ChatGPT to design a great plan specifically for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Brainstorm Token Project Ideas
 
@@ -100,9 +108,6 @@ thumbnail: https://thmb.techidaily.com/6050aa5ce58a3d916a0355d32e6800af8938ccf6a
 * **Result** :  
 ![Screenshot of ChatGPT Brainstorming Token Project Ideas](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/brainstorm-token-project-ideas.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Sometimes, we fall into a creativity rut. Don't let it stop you. You can use this type of prompt to brainstorm ideas that run the gamut from crypto projects to[meme crypto coins](https://www.makeuseof.com/what-are-crypto-meme-coins/) . ChatGPT is your oyster.
 
 ## 9\. Get Guidelines for Launching a Project
@@ -111,10 +116,11 @@ thumbnail: https://thmb.techidaily.com/6050aa5ce58a3d916a0355d32e6800af8938ccf6a
 * **Result** :  
 ![Screenshot of ChatGPT offering a Guideline for Launching a Project](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/get-a-guideline-for-launching-a-project.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
  If you've got a crypto project idea to solve whatever world problems you can conjure up, this prompt lets ChatGPT break down the process of successfully launching your project.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10\. Role-Play Anyone for Their Crypto Opinion
 
@@ -126,13 +132,11 @@ thumbnail: https://thmb.techidaily.com/6050aa5ce58a3d916a0355d32e6800af8938ccf6a
 ![Screenshot of ChatGPT Role-play Vitalik Buterin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/role-play-anyone-for-their-crypto-opinion.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Yes, you can have fun with ChatGPT too. This prompt exemplifies how you can turn ChatGPT into a crypto thought leader and get their opinion without DMing them on social media. You can even go further and generate a conversation with two personalities.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## ChatGPT Crypto Prompts Are Like Cheat Codes
 
  ChatGPT crypto prompts can be likened to cheat codes. They significantly reduce the time and effort you need to become informed. In this age, promptly getting the most important information is crucial. Hence, using the power of ChatGPT to make your crypto journey more enjoyable is a wise move.
@@ -141,14 +145,11 @@ thumbnail: https://thmb.techidaily.com/6050aa5ce58a3d916a0355d32e6800af8938ccf6a
 
  ​The information on this website does not constitute financial advice, investment advice, or trading advice, and should not be considered as such. MakeUseOf does not advise on any trading or investing matters and does not advise that any particular cryptocurrency should be bought or sold. Always conduct your own due diligence and consult a licensed financial adviser for investment advice.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -157,4 +158,26 @@ thumbnail: https://thmb.techidaily.com/6050aa5ce58a3d916a0355d32e6800af8938ccf6a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ssessing-the-riches-of-mr-beast/"><u>[New] Assessing the Riches of Mr. Beast</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-unwind-the-clock-pioneering-techniques-for-youtube-video-reversal/"><u>[New] In 2024, Unwind the Clock Pioneering Techniques for YouTube Video Reversal</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-the-complete-hand-tracking-encyclopedia-for-2024/"><u>[New] The Complete Hand-Tracking Encyclopedia for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-ideal-green-visual-effects-systems-practical-steps-for-2024/"><u>[Updated] Ideal Green Visual Effects Systems Practical Steps for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-you-utilize-chatgpt-for-smart-home-automation-controls/"><u>Can You Utilize ChatGPT for Smart Home Automation Controls?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatbots-on-guard-protecting-privacy-against-3-main-risks/"><u>Chatbots on Guard: Protecting Privacy Against 3 Main Risks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/could-chatgpt-be-the-secret-ingredient-in-mastering-health-conscious-cooking-techniques/"><u>Could ChatGPT Be the Secret Ingredient in Mastering Health-Conscious Cooking Techniques?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-learn-to-purge-your-devices-youtube-content-easily/"><u>In 2024, Learn to Purge Your Device's YouTube Content Easily</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovative-poetry-writing-via-ai-the-chatgpt-approach/"><u>Innovative Poetry Writing via AI: The ChatGPT Approach</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximize-your-television-screen-with-playnite-fullscreen/"><u>Maximize Your Television Screen with Playnite Fullscreen</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-career-milestones-using-gpt-technology/"><u>Navigating Career Milestones Using GPT Technology</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-mts-video-editing-software-5-top-rated-options-for-2024/"><u>New MTS Video Editing Software 5 Top-Rated Options for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/overcoming-authentication-hurdles-expert-advice-on-correcting-401-unauthorized-errors/"><u>Overcoming Authentication Hurdles: Expert Advice on Correcting 401 Unauthorized Errors</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/streamline-your-programming-workflow-with-these-7-ai-tools-similar-to-chatgpt/"><u>Streamline Your Programming Workflow with These ✨7 AI Tools Similar to ChatGPT✨</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-definitive-guide-linking-ai-chatbots-with-large-language-models-on-quoras-poe/"><u>The Definitive Guide: Linking AI Chatbots with Large Language Models on Quora's Poe</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-intersection-of-science-fiction-and-technology-discover-8-ways-ai-makes-it-happen/"><u>The Intersection of Science Fiction and Technology: Discover 8 Ways AI Makes It Happen</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-contrast-what-sets-natural-language-processing-apart-from-machine-learning/"><u>Understanding the Contrast: What Sets Natural Language Processing Apart From Machine Learning?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-truth-busting-9-common-misconceptions-about-artificial-intelligence-chatbots/"><u>Unveiling the Truth: Busting 9 Common Misconceptions About Artificial Intelligence Chatbots</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/when-theory-meets-reality-chatgpts-journey/"><u>When Theory Meets Reality: ChatGPT's Journey</u></a></li>
+</ul></div>
 

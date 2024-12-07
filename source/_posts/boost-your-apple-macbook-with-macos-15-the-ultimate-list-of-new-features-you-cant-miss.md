@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Apple MacBook with MacOS 15: The Ultimate List of New Features You Can't Miss"
-date: 2024-11-22T06:45:31.522Z
-updated: 2024-11-27T21:22:38.669Z
+date: 2024-12-04T18:05:23.078Z
+updated: 2024-12-07T20:33:14.036Z
 tags:
   - apple
 categories:
@@ -38,10 +38,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Apple Intelligence
 
 Screenshot by Nina Raemont
@@ -57,7 +53,7 @@ Apple's approach to AI is markedly different from that of its competitors, howev
 This lets Apple disengage from the chaotic rat race to a degree, positioning itself as the careful, more ethical actor when it comes to AI, particularly in light of [recent debilitating security concerns](https://www.zdnet.com/article/after-brutal-critiques-microsoft-recall-will-get-these-major-privacy-and-security-changes/) from Microsoft's Recall feature, which is delaying the release of a host of its new [Copilot+ PCs](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Continuity
@@ -72,6 +68,10 @@ The app also streamlines your devices by bringing your iPhone's notifications st
   
 Alternatively, the new standby mode on the iPhone displays a host of at-a-glance (but un-interactable) data like a clock and calendar while you're using the Continuity app on the Mac. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Siri 2.0
 
 Screenshot by Nina Raemont
@@ -85,7 +85,7 @@ During the WWDC keynote, Apple showed off Siri's new look as an ever-present AI 
 The new Siri also comes with on-screen awareness, allowing the AI to respond to what you're looking at on the screen without requiring the user to provide specific context with each prompt. This also allows Siri to take in-app actions in a way that wasn't possible before. In MacOS Sequoia, Siri's integration with OpenAI's LLM propels the virtual assistant to the top players in the field alongside [ChatGPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt-plus-from-gpt-4o-to-interactive-tables/) and [Google's Gemini](https://www.zdnet.com/article/what-is-google-gemini/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. AI-fueled productivity apps
@@ -100,6 +100,10 @@ Apple Intelligence has been integrated across all of the big productivity apps i
 * **Photos:** AI-based photo editing features in the Photos app allow users to make touch-ups, remove backgrounds, and do editing instantaneously. Additionally, searching for specific photos and videos using natural language will bring up images of specific people or events.
 * **Notes:** Voice functionality is coming to the Notes app, with the ability to add voice memos directly embedded into your notes. AI will also support audio transcription and transcripts of audio recordings. You can record and transcribe audio, and when your recording is finished, the AI will create a summary on its own.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. New and improved Safari
 
 Screenshot by Nina Raemont
@@ -111,7 +115,7 @@ Safari will see a host of improvements powered by AI functionality, including an
 Apple demoed Safari's machine learning capability to automatically detect relevant information on a webpage, including things like quick links, directions, and quick summaries with logistical information like phone numbers and addresses. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Standalone Passwords app
@@ -123,10 +127,6 @@ Aligning with Apple's positioning of its AI features as secure and trustworthy, 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
 This standalone app is an extension of the existing iCloud Keychain, and seeks to simplify password storage by employing Face ID and Touch ID alongside character-string passwords. Much of it is designed to work automatically and seamlessly in an effort to solve what is a huge UX headache that everyone has experienced at one point or another. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Gaming
 
@@ -162,16 +162,18 @@ Apple wants to create a "unified gaming platform" across the iPhone, iPad, and M
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-essential-insights-mastering-youtube-keyword-strategies/"><u>[New] 2024 Approved Essential Insights Mastering YouTube Keyword Strategies</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-crafting-compelling-360-videos-for-social-media-streams-for-2024/"><u>[New] Crafting Compelling 360 Videos for Social Media Streams for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-snap-it-all-navigating-the-world-of-free-tiktok-bgs/"><u>[Updated] 2024 Approved Snap It All Navigating the World of Free TikTok BGs</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-seamlessly-patch-directx-on-your-windows-11-or-windows-10-device/"><u>How to Seamlessly Patch DirectX on Your Windows 11 or Windows 10 Device</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-how-to-remove-images-background-in-canva/"><u>In 2024, How to Remove Image's Background In Canva</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/incognito-mode-mastery-speedy-setup-for-privacy-conscious-internet-users-2020/"><u>Incognito Mode Mastery: Speedy Setup for Privacy-Conscious Internet Users (2020)</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/making-the-most-of-your-television-with-fb-live/"><u>Making the Most of Your Television with FB Live</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/master-the-art-of-setting-up-and-installing-a-brother-printer-on-any-wifi-network/"><u>Master the Art of Setting Up and Installing a Brother Printer on Any WiFi Network</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/maximize-your-pcs-potential-with-these-proven-techniques-for-windows-nx-enhancements/"><u>Maximize Your PC's Potential with These Proven Techniques for Windows nX Enhancements</u></a></li>
-<li><a href="https://howto.techidaily.com/motorola-moto-g84-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Motorola Moto G84 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/stop-warzone-crashes-troubleshoot-and-resolve-the-notorious-directx-error-in-just-four-steps/"><u>Stop Warzone Crashes: Troubleshoot and Resolve the Notorious DirectX Error in Just Four Steps</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-30fps-versus-60fps-best-choice-for-clear-video-capture/"><u>[Updated] 2024 Approved 30Fps versus 60Fps - Best Choice for Clear Video Capture</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-audacity-mastery-for-mac-users-audio-recording-essentials/"><u>[Updated] Audacity Mastery for Mac Users Audio Recording Essentials</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-pioneering-open-worlds-worth-your-time-for-2024/"><u>[Updated] Pioneering Open Worlds Worth Your Time for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-sony-s6500-review-latest-improvements/"><u>2024 Approved Sony S6500 Review Latest Improvements</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/dvdhandbrake/"><u>DVD抽出手順：HandBrakeの使い方ガイド</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-conversion-techniques-from-avi-to-m4v-files-a-comprehensive-tutorial/"><u>Easy Conversion Techniques From AVI to M4V Files - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-instructions-for-streaming-4k-video-files-on-apple-iphones-and-ipads/"><u>Easy Instructions for Streaming 4K Video Files on Apple iPhones and iPads</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-tutorial-on-modifying-windows-media-players-playback-velocity-visual-aid-included/"><u>Easy Tutorial on Modifying Windows Media Player's Playback Velocity - Visual Aid Included</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-guide-setting-up-openwizard-in-kodi-for-ultimate-system-care-and-smart-data-management/"><u>Effortless Guide: Setting Up OpenWizard in Kodi for Ultimate System Care & Smart Data Management</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/europes-polyglot-panorama-a-century-written-in-languages/"><u>Europe's Polyglot Panorama: A Century' Written In Languages</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-honor-x9a-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Honor X9a to Gmail | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/newbies-compendium-demystifying-and-assembling-home-sound-systems-with-ease/"><u>Newbie's Compendium: Demystifying and Assembling Home Sound Systems with Ease</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209671632-9781722522353-prayer-is-the-answer/"><u>Prayer is the Answer | Free Book</u></a></li>
 </ul></div>
 

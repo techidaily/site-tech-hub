@@ -1,7 +1,7 @@
 ---
 title: Score Your New 2Nd Gen Apple Pencil for Just 95 Dollars! Exclusive Labor Day Offer | CNET Gadgets Deals
-date: 2024-10-26T08:07:33.783Z
-updated: 2024-11-02T09:35:09.674Z
+date: 2024-12-06T17:28:09.402Z
+updated: 2024-12-07T20:13:55.259Z
 tags:
   - apple
 categories:
@@ -32,6 +32,10 @@ The Apple Pencil is super responsive and has pixel-perfect precision with indust
 By using the Apple Pencil with your iPad (specifically, the iPad Pro 2022 model), you'll get exclusive features like the new hover feature that makes part of the iPad's interface come to life when the tip of the Apple Pencil gets within 12mm of the iPad's display. 
 
 Get the [Apple Pencil (2nd Gen)](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Pencil-2nd-Generation-Pixel-Perfect-Precision-Industry-Leading-Low-Latency-Perfect-Note-Taking-Drawing-Signing-documents-Attaches-Charges-Pairs%2F949679706&subId1=zd-__COM_CLICK_ID__-dtp) with $35 in savings right now if you want to upgrade your iPad stylus. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -67,21 +71,20 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-simplify-screenplay-to-film-use-windows-movie-maker-win11/"><u>[New] In 2024, Simplify Screenplay to Film Use Windows Movie Maker (Win11)</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-pexels-101-finding-the-picture-of-your-dreams/"><u>[Updated] Pexels 101 Finding the Picture of Your Dreams</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1726028824043-google-meet/"><u>「Google Meetから始まる容易な動画編集手順ガイド」</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1726028792914-iso/"><u>「ISOファイル」を分割するための効果的な二つのアプローチ</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1726029130286-fbrmp4/"><u>使いやすくて賢明なFBRファイルをMP4に変換する技術</u></a></li>
-<li><a href="https://blog-min.techidaily.com/online-aiffavi-easy-convert/"><u>無償で使えるOnline AIFFファイルをAVIに変換するツール | Easy-Convert</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-optimal-performance-patch-your-pc-with-conexant-compatible-windows-10-version-2004-update/"><u>Get Optimal Performance: Patch Your PC with Conexant-Compatible Windows 10 Version 2004 Update</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/launching-flipbook-links-into-separate-windows-with-ease-a-step-by-step-guide/"><u>Launching Flipbook Links Into Separate Windows with Ease - A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1726029334396-youtube/"><u>YouTubeでの地域ロックを落とす究極のガイド</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/charting-the-boundaries-of-chatgpts-token-count/"><u>Charting the Boundaries of ChatGPT's Token Count</u></a></li>
+<li><a href="https://techtrends.techidaily.com/creating-an-oculus-meta-quest-2-login-a-comprehensive-walkthrough/"><u>Creating an Oculus Meta Quest 2 Login: A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancing-team-outputs-by-integrating-chatgpt-into-your-operational-strategy/"><u>Enhancing Team Outputs by Integrating ChatGPT Into Your Operational Strategy</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-myths-does-chatgpt-lose-its-edge-over-time/"><u>Exploring the Myths: Does ChatGPT Lose Its Edge Over Time?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-top-7-substitutes-for-chatgpt-in-coding-software-automation/"><u>Exploring the Top 7 Substitutes for ChatGPT in Coding Software Automation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/future-proofing-digital-assets-the-top-7-predicted-cybersecurity-movements/"><u>Future-Proofing Digital Assets: The Top 7 Predicted Cybersecurity Movements</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-train-chatgpt-to-write-like-you/"><u>How to Train ChatGPT to Write Like You</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-amplify-engagement-essential-tips-for-tiktok-unbox-videos/"><u>In 2024, Amplify Engagement Essential Tips for TikTok Unbox Videos</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-oppo-a59-5g-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Oppo A59 5G Phone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-llm-choices-9-essential-pros-and-cons-for-informed-decision-making/"><u>Navigating LLM Choices: 9 Essential Pros & Cons for Informed Decision-Making</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-silent-calls-on-skype-with-these-simple-steps/"><u>Resolve Silent Calls on Skype with These Simple Steps</u></a></li>
+<li><a href="https://games-able.techidaily.com/tackling-launch-issues-for-your-display-driver-a-guide-to-windows-11/"><u>Tackling Launch Issues for Your Display Driver: A Guide to Windows 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-6-extensions-supercharging-your-gpt-experience-in-vs-code/"><u>Top 6 Extensions: Supercharging Your GPT Experience in VS Code</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/top-tips-eficiente-migrar-dados-para-ssd-em-2024-guia-abrangente/"><u>Top Tips: Eficiente Migrar Dados Para SSD Em 2024 - Guia Abrangente</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/transforma-tu-clip-de-formato-mp4-en-un-divertido-gif-gratuito-manteniendo-la-nitidez-perfecta-online/"><u>Transforma Tu Clip De Formato MP4 en Un Divertido GIF Gratuito Manteniendo La Nitidez Perfecta Online</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

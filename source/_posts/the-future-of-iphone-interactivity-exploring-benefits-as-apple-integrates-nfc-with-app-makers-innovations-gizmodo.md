@@ -1,7 +1,7 @@
 ---
 title: "The Future of iPhone Interactivity: Exploring Benefits as Apple Integrates NFC with App Makers' Innovations | Gizmodo"
-date: 2024-10-31T23:53:44.102Z
-updated: 2024-11-01T21:39:58.739Z
+date: 2024-11-30T20:46:37.799Z
+updated: 2024-12-07T16:00:37.889Z
 tags:
   - apple
 categories:
@@ -32,6 +32,10 @@ Apple
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Session Players
 
 Session Players expands Logic Pro's Drummer feature, which lets creators add virtual drummers to their projects. The feature now includes Bass Player and Keyboard Player, creating "a personal, AI-driven backing band that responds directly to feedback," according to the release. 
@@ -61,10 +65,7 @@ Keyboard Player in Logic Pro
 Apple
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stem Splitter
@@ -76,10 +77,7 @@ Stem Splitter in Logic Pro
 Apple
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChromaGlow
@@ -124,24 +122,24 @@ Logic Pro for iPad 2 and Logic Pro for Mac 11 will be available on the App Store
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-skyrocket-your-earnings-on-tiktok-discover-the-top-8-ways/"><u>[New] In 2024, Skyrocket Your Earnings on TikTok Discover the Top 8 Ways</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-free-and-easy-best-mac-screen-recorder-software-of-2023/"><u>[Updated] In 2024, Free and Easy Best Mac Screen Recorder Software of 2023</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mp4avimovmtsm2ts/"><u>効率的な方法でMP4、AVI、またはMOVと同じくらい一般的なMTS/M2TSビデオファイルの分割手順</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-well-can-chatgpt-handle-complex-equations-and-calculations/"><u>How Well Can ChatGPT Handle Complex Equations and Calculations?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-basics-to-expert-a-complete-guide-to-youtube-chapter-addition/"><u>In 2024, From Basics to Expert A Complete Guide to YouTube Chapter Addition</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-motorola-razr-40-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Motorola Razr 40 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-xiaomi-redmi-k70-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Xiaomi Redmi K70 Users</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/learn-to-purge-your-devices-youtube-content-easily-for-2024/"><u>Learn to Purge Your Device's YouTube Content Easily for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mp3wavwindows11/"><u>MP3に再編成するためのWAV音楽ファイルの方法：Windows11で最新ガイド４選</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mpeg-audio-layer-iiiac-3advanced-audio-codingaac/"><u>MPEG Audio Layer III（AC-3）とAdvanced Audio Coding（AAC）の比較分析</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mtsm2ts/"><u>MTS/M2TSビデオを簡単に音楽クリップに変換するコツ</u></a></li>
-<li><a href="https://fox-that.techidaily.com/navigating-apples-distance-inspection-service-for-iphones-and-ipads/"><u>Navigating Apple's Distance Inspection Service for iPhones and iPads</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/nec-laptop-how-to-screen-record/"><u>NEC Laptop: 簡単ガイド - How To Screen Record</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/quick-and-effective-methods-to-transform-wmv-files-into-mp4-format-windows-macos-or-web-based-options/"><u>Quick & Effective Methods to Transform WMV Files Into MP4 Format: Windows, MacOS, or Web-Based Options</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/simple-tutorial-transforming-videos-into-vintage-film-style-using-windows-tools/"><u>Simple Tutorial: Transforming Videos Into Vintage Film Style Using Windows Tools</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-overcoming-hurdles-in-your-latest-windows-11-system-update/"><u>Solved! Overcoming Hurdles in Your Latest Windows 11 System Update</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/solving-fraps-display-problems-on-windows-a-comprehensive-solution-for-gamers/"><u>Solving FRAPS Display Problems on Windows #: A Comprehensive Solution for Gamers</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-best-of-the-best-essential-tablet-sketching-tools/"><u>The Best of the Best Essential Tablet Sketching Tools</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mixed-tracks/"><u>パソコン上で二重奏の音楽的統合: Mixed Tracksの作り方</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-download-pc-sound-logger-x-recorder-app-for-2024/"><u>[New] Download Pc Sound Logger - X-Recorder App for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-expressive-emojis-and-images-kinemaster-tips/"><u>[New] In 2024, Expressive Emojis & Images KineMaster Tips</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-beatfinder-tools-tune-in-to-online-freshness/"><u>[Updated] Beatfinder Tools Tune in to Online Freshness</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-streamlining-the-update-process-for-accurate-tiktok-age-details/"><u>[Updated] In 2024, Streamlining the Update Process for Accurate TikTok Age Details</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-strategies-for-perfecting-igtv-video-titles-for-2024/"><u>[Updated] Strategies for Perfecting IGTV Video Titles for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-and-google-bard-head-to-head-determining-the-superior-conversational-ai/"><u>ChatGPT and Google Bard Head-to-Head: Determining the Superior Conversational AI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/emotion-artificeintelligence-explored-can-it-authentically-comprehend-our-emotions/"><u>Emotion ArtificeIntelligence Explored – Can It Authentically Comprehend Our Emotions?</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-turn-off-all-facebook-notifications/"><u>How To Turn Off All Facebook Notifications</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-word-chatgpt-powered-doc-automation/"><u>Mastering Word: ChatGPT-Powered Doc Automation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-digital-truths-and-lies-how-chatgpt-4-is-revolutionizing-conversations-online/"><u>Navigating Digital Truths and Lies: How ChatGPT-4 Is Revolutionizing Conversations Online</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/protecting-conversations-a-deep-dive-into-neural-network-model-inversion-vulnerabilities-in-chatbots/"><u>Protecting Conversations: A Deep Dive Into Neural Network Model Inversion Vulnerabilities in Chatbots</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/relying-on-ais-pros-and-cons-of-chatgptbard-in-money-matters/"><u>Relying on AIs: Pros & Cons of ChatGPT/Bard in Money Matters</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/start-today-engage-with-8-individualized-gpt-services/"><u>Start Today: Engage with 8 Individualized GPT Services</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-solution-for-cd-dvd-and-blu-ray-drives-stuck-on-windowsmac/"><u>Step-by-Step Solution for CD, DVD, and Blu-Ray Drives Stuck on Windows/Mac</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/streamlining-document-production-using-chatgpt-with-microsoft-word/"><u>Streamlining Document Production: Using ChatGPT with Microsoft Word</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-10-substitutes-for-chatgpt-enhancing-your-ai-experience/"><u>Top 10 Substitutes for ChatGPT: Enhancing Your AI Experience</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-apple-iphone-x-by-drfone-ios/"><u>Top 11 Free Apps to Check IMEI on Apple iPhone X</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-techniques-to-optimize-video-size-twitter-friendly-tips-for-desktop-mobile-and-cloud/"><u>Top Techniques to Optimize Video Size: Twitter-Friendly Tips for Desktop, Mobile & Cloud</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-save-location-glitch-quick-guide/"><u>Windows Save Location Glitch: Quick Guide</u></a></li>
 </ul></div>
 

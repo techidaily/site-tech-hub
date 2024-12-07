@@ -1,7 +1,7 @@
 ---
 title: "In Parallel Circuits, the Total Capacitance Is the Sum of Individual Capacitances: C_total = C1 + C2 + ... + Cn."
-date: 2024-11-17T17:06:26.600Z
-updated: 2024-11-18T23:09:48.950Z
+date: 2024-12-02T20:51:24.283Z
+updated: 2024-12-07T16:29:02.462Z
 tags:
   - apple
 categories:
@@ -60,6 +60,10 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -69,10 +73,7 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -107,13 +108,6 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -123,6 +117,10 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -153,10 +151,7 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -168,10 +163,7 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -218,21 +210,19 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-great.techidaily.com/problemas-con-mail-merge-en-office-365-aqui-tienes-4-metodos-practicos-para-solucionarlo/"><u>¿Problemas Con Mail Merge en Office 365? Aquí Tienes 4 Métodos Prácticos Para Solucionarlo</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-oculus-rift-vs-htc-vive-vs-playstation-vr-whats-the-best-for-gaming/"><u>[New] Oculus Rift vs HTC Vive vs PlayStation VR What’s the Best for Gaming?</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-swiftly-freeze-action-in-your-iphone-photography-journey/"><u>2024 Approved Swiftly Freeze Action in Your iPhone Photography Journey</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-unveiling-your-online-income-an-all-encompassing-guide-on-measuring-youtube-growth-and-earnings/"><u>2024 Approved Unveiling Your Online Income An All-Encompassing Guide on Measuring YouTube Growth & Earnings</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/dream-weavers-the-marvel-interactive-sculptors-for-2024/"><u>Dream Weavers The Marvel Interactive Sculptors for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/how-to-insert-watermark-or-logo-into-video-on-windows-and-mac/"><u>How to Insert Watermark or Logo Into Video on Windows and Mac</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-audiovisual-quality-its-significance-in-video-ranking/"><u>In 2024, Audiovisual Quality Its Significance in Video Ranking</u></a></li>
-<li><a href="https://win-hot.techidaily.com/los-mejores-metodos-para-garantizar-la-integridad-de-sus-datos-copias-de-seguridad-en-tiempo-real-con-unidades-externas/"><u>Los Mejores Métodos Para Garantizar La Integridad De Sus Datos: Copias De Seguridad en Tiempo Real Con Unidades Externas</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/-growth-metropolis-balancing-development-and-nature-for-2024/"><u>Smart Growth Metropolis Balancing Development and Nature for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-5-factors-propelling-chatgpts-unprecedented-rise-as-todays-most-popular-application/"><u>Top 5 Factors Propelling ChatGPT's Unprecedented Rise as Today’s Most Popular Application</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-7-ai-tools-beyond-gpt-for-code-automation/"><u>Top 7 AI Tools Beyond GPT for Code Automation</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-7-ai-powered-tools-revolutionizing-presentation-creation/"><u>Top 7 AI-Powered Tools Revolutionizing Presentation Creation</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-8-chatbot-add-ons-enhancing-your-health-and-wellbeing-journey/"><u>Top 8 Chatbot Add-Ons Enhancing Your Health & Wellbeing Journey</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-claude-pros-unique-offerings-compared-to-gptplus/"><u>Understanding Claude Pro's Unique Offerings Compared to GPT+</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-llama-2-a-comprehensive-guide-to-its-features-and-applications/"><u>Understanding LLaMA 2: A Comprehensive Guide to Its Features & Applications</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-leading-edge-how-does-chatgpt-stack-up-against-huggingchat/"><u>Unveiling the Leading Edge: How Does ChatGPT Stack Up Against HuggingChat?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-content-creation-showdown-twitch-versus-youtube-explored/"><u>[Updated] 2024 Approved Content Creation Showdown Twitch Versus YouTube Explored</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-how-to-handle-accidental-reflections-in-video-conversations-for-2024/"><u>[Updated] How To Handle Accidental Reflections in Video Conversations for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-bugs-a-guide-to-ensuring-smooth-launches-of-saints-row-on-pc-systems/"><u>Beat the Bugs: A Guide to Ensuring Smooth Launches of Saints Row on PC Systems</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/boost-your-traffic-with-the-advanced-cookiebot-solutions/"><u>Boost Your Traffic with the Advanced Cookiebot Solutions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/facing-the-future-your-top-5-choices-as-microsofts-mainstream-windows-1/"><u>Facing the Future: Your Top 5 Choices as Microsoft's Mainstream Windows 1</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-redmi-note-12t-pro-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi Redmi Note 12T Pro to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-update-arduino-usb-interface-software-on-windows-machines/"><u>How to Update Arduino USB Interface Software on Windows Machines</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-your-iphone-fixing-five-major-problems-using-dfu-mode/"><u>Revive Your iPhone: Fixing Five Major Problems Using DFU Mode</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-guide-to-silencing-videos-advanced-techniques-for-audio-removal/"><u>Ultimate Guide to Silencing Videos: Advanced Techniques for Audio Removal</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-guide-choosing-the-ideal-player-for-your-anime-viewing-experience/"><u>Ultimate Guide: Choosing the Ideal Player for Your Anime Viewing Experience</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-guide-downloading-stunning-4k-and-8k-360-youtube-videos-with-easy-steps/"><u>Ultimate Guide: Downloading Stunning 4K & 8K 360° YouTube Videos with Easy Steps</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/vts-vts/"><u>VTSファイル改造プロセス: VTS変換ツールでの手順解説</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/wmaandroid-androidwma/"><u>WMAファイルが苦手なAndroidデバイス向けの優雅にてんこみました - AndroidとWMA再生の新しいコツ</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ts/"><u>データ品質を保ちながらの二つのTSファイル分割方法</u></a></li>
 </ul></div>
 

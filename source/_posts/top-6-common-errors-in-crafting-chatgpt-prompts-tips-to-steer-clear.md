@@ -1,7 +1,7 @@
 ---
 title: "Top 6 Common Errors in Crafting ChatGPT Prompts: Tips to Steer Clear"
-date: 2024-09-02T09:26:45.069Z
-updated: 2024-09-03T09:26:45.069Z
+date: 2024-12-04T16:49:15.904Z
+updated: 2024-12-07T17:27:57.622Z
 tags:
   - chatgpt
   - open-ai
@@ -31,9 +31,6 @@ thumbnail: https://thmb.techidaily.com/eaa498618a30b7449a5127779e22901025842c318
 
  OpenAI's early May 2024 ChatGPT update was enormous, bringing heaps of new features to the world's leading generative AI chatbot. Most of the improvements center around enhancing user interaction, new functionalities, and improving overall performance, and there are heaps of reasons why you should give them a try.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Image Input and Output Capabilities
 
  ChatGPT is now capable of taking images as input and generating images as output! The new image input capability allows users to upload images directly into their chat interactions with ChatGPT. This feature expands the ways users can seek help and share information, making it possible to discuss visual content seamlessly.
@@ -42,9 +39,6 @@ thumbnail: https://thmb.techidaily.com/eaa498618a30b7449a5127779e22901025842c318
 
 ![Asking ChatGPT to identify and make recipes for ingredients based on an image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/asking-chatgpt-for-recipes.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  It gave me some pretty accurate results in identifying items in the fridge and giving recipes I could make using the ingredients identified.
 
  Aside from taking images as input, ChatGPT can also generate DALL-E images within the interaction.
@@ -54,15 +48,13 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 ![Asking ChatGPT to generate an image using text description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-16-161949.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  As you can see, ChatGPT provides some promising results, providing an image plus a description of the image. However, it still seems like you'll need to use[third-party solutions to save the image in JPG or PNG](https://www.makeuseof.com/how-convert-dalle-3-webp-images-jpg-or-png/) , since there isn't a way to save the image beside WebP.
 
  ChatGPT Plus users were immediately given access to the new features using OpenAI's new ChatGPT-4o (Omnimodal) model. Free-tier users will also have access to these features but with limited usage.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Expanded Knowledge Base and Cross-Chat Memory
 
  ChatGPT's upgraded web browsing capabilities allow it to retrieve up-to-date information from the web with better accuracy. It ensures responses are based on the latest available data and insights, making it particularly valuable for quickly evolving topics like news, technology, and market trends.
@@ -72,6 +64,10 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
  I asked ChatGPT to check the Saturday weather forecast and advise whether I should reschedule my activities based on the weather update.
 
 ![Using ChatGPT as an AI assistant using memory and web browsing features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-as-assistant-using-expanded-knowledge-base-1-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  ChatGPT provided sound advice by browsing the web for the weather and reviewing its memory of my schedule. It even gave me a list of activities I could do instead based on my past interactions with ChatGPT.
 
@@ -88,8 +84,9 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
  GPT-4o's voice interaction is available to all users using the ChatGPT Android/iOS app. However, the video interaction feature is unavailable at the time of writing but is expected to roll out in the near future.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Upgraded Code Analysis
 
  The previous ChatGPT Code Interpreter is now called Advanced Data Analysis (ADA). Since it is already out of beta and ChatGPT plugins are no longer available, ADA is now an integrated feature within both ChatGPT-4 and ChatGPT-4o, and both Free and Plus tier users now have this feature. No plugin or activation is needed; simply prompt ChatGPT to run, analyze, or write code, and it should do the rest for you.
@@ -99,11 +96,16 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 ![Using-ChatGPT-Advanced-Data-Analysis](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-advanced-data-analysis.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  I already knew the numbers before running it using ADA on ChatGPT-4o, so I know the provided graph is accurate. However, running it on ChatGPT-4 continually gave me errors, was slow, and never really provided me with the graph. So, although ADA is not functionally different from the old code interpreter, running ADA right on ChatGPT-4o was certainly easier, faster, and smarter.
 
  OpenAI's demonstrations also showed live code debugging using voice commands, which is another enormous upgrade for ChatGPT. Instead of having to type commands and work bit by bit, live interactions with your code could speed up the process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Temporary Chat
 
@@ -115,14 +117,11 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
  The latest updates to ChatGPT introduce a host of features that cater to a wide range of user needs, from enhanced interactivity and data analysis to real-time information access and personalized experiences. Whether you're a professional, student, or casual user, these features offer powerful new ways to leverage ChatGPT for improved productivity, learning, and everyday convenience.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -131,4 +130,26 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-screen-streaming-showdown-choose-between-obs-and-shadowgl-for-2024/"><u>[New] Screen Streaming Showdown Choose Between OBS & ShadowGL for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-the-editors-lifeline-essential-responses-to-filmora-queries/"><u>[New] The Editor's Lifeline Essential Responses to Filmora Queries</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-decoding-video-thread-embellishments/"><u>[Updated] In 2024, Decoding Video Thread Embellishments</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-start-making-money-today-top-13-easy-methods-for-newbies/"><u>[Updated] In 2024, Start Making Money Today! Top 13 Easy Methods for Newbies</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/amazonbasics-tripod-the-smart-start-to-sharp-images/"><u>AmazonBasics Tripod - The Smart Start to Sharp Images</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782474-9781591432661-atlantis-in-the-caribbean-3rd-ed/"><u>Atlantis in the Caribbean (3rd ed.) | Free Book</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-reviews-of-2024s-leading-cable-modems-on-the-market/"><u>Expert Reviews of 2024'S Leading Cable Modems on the Market</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-ideas-to-impressions-writing-with-ais-insight/"><u>From Ideas to Impressions: Writing with AI's Insight</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/meet-gemma-googles-latest-innovation-in-easy-to-use-ai-technology-for-developers/"><u>Meet Gemma – Google's Latest Innovation in Easy-to-Use AI Technology for Developers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/one-month-apple-vision-pro-analysis-all-your-faqs-covered/"><u>One-Month Apple Vision Pro Analysis: All Your FAQs Covered</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/optimized-mobile-ai-qualcomm-enables-stable-diffusion-features-on-android-devices/"><u>Optimized Mobile AI: Qualcomm Enables Stable Diffusion Features on Android Devices</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionary-breakthrough-rivian-introduces-new-tech-for-cutting-edge-ev-infotainment-displays/"><u>Revolutionary Breakthrough: Rivian Introduces New Tech for Cutting-Edge EV Infotainment Displays</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionizing-productivity-discover-the-latest-ai-enhancements-in-google-chrome-version-121/"><u>Revolutionizing Productivity: Discover the Latest AI Enhancements in Google Chrome Version 121</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionizing-reality-checks-5-cutting-edge-tools-for-digital-skepticism/"><u>Revolutionizing Reality Checks: 5 Cutting-Edge Tools for Digital Skepticism</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-on-mirroring-vr-experiences-from-oculus-quest-2-to-your-hdtv-screen/"><u>Step-by-Step Tutorial on Mirroring VR Experiences From Oculus Quest 2 to Your HDTV Screen</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-world-of-nonconvertible-legal-tender-unveiling-the-concept-of-fiat-currency/"><u>The World of Nonconvertible Legal Tender: Unveiling the Concept of Fiat Currency</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/troubleshooting-the-chatgpt-connection-failure-with-7-effective-strategies/"><u>Troubleshooting the ChatGPT Connection Failure with 7 Effective Strategies</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/windows-mac/"><u>모바일/스마트폰에서 안정화된 영상 방법 - Windows, Mac 사용자를위해</u></a></li>
+</ul></div>
 

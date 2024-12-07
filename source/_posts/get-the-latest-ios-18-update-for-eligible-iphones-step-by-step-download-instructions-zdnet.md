@@ -1,7 +1,7 @@
 ---
 title: Get the Latest iOS 18 Update for Eligible iPhones - Step-by-Step Download Instructions | ZDNet
-date: 2024-10-31T05:33:45.675Z
-updated: 2024-11-01T21:45:09.657Z
+date: 2024-12-05T19:41:22.021Z
+updated: 2024-12-07T18:43:07.799Z
 tags:
   - apple
 categories:
@@ -26,6 +26,10 @@ While the official iOS 18 general release is today, users have already been able
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to install iOS 18
 
 Jason Hiner/ZDNET
@@ -36,20 +40,21 @@ Jason Hiner/ZDNET
 
 Go to your iPhone's Settings and select General. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Go to Software Update in Settings
 
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Download and install
 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Enter your passcode and follow steps to install
 
@@ -59,29 +64,19 @@ After installing the latest iOS update, your iPhone will restart.
 
 ## FAQs
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### When is Apple Intelligence coming out?
 
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### When was iOS 18 released?
 
 Apple released the iOS 18 developer beta during WWDC 2024 in June, and the public beta version was released on July 15\. The general release of iOS 18 is September 16.
 
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Can you still download the iOS 18 public beta?
 
@@ -90,6 +85,10 @@ You can always be part of the Apple Beta program to get the latest beta versions
 * Back up your device and personal information.
 * Don't download beta software, which will likely have bugs and glitches, on your everyday iPhone.
 * You should go into the experience to test new features and share feedback to improve iOS, which is why beta versions are released.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How do I install the iOS 18 beta version?
 
@@ -117,19 +116,6 @@ If you can't see this option, go to your **Settings,** select **Privacy & Securi
 **Also: [How to use and customize your iPhone's new Control Center with iOS 18](https://www.zdnet.com/article/how-to-use-and-customize-your-iphones-new-control-center-with-ios-18/)**
 
 If you aren't already a member of the Apple Developer Program, you can sign up to become one in the app. An annual membership costs $99.
-
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### What is in iOS 18 beta 3?
 
@@ -175,18 +161,15 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-making-a-mark-with-square-video-formats-using-imovie-and-instagram-for-2024/"><u>[New] Making a Mark with Square Video Formats Using iMovie and Instagram for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-the-top-ten-webcam-enhancers-master-stream-quality/"><u>[Updated] In 2024, The Top-Ten Webcam Enhancers Master Stream Quality</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-positive-persuasion-the-secret-to-attracting-followers/"><u>[Updated] Positive Persuasion The Secret to Attracting Followers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/effortlessly-correct-silent-avi-files-a-step-by-step-guide-for-restoring-sound/"><u>Effortlessly Correct Silent AVI Files: A Step-by-Step Guide for Restoring Sound</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/excel/"><u>Excel表示範囲の記録方法：操作手順ビデオガイド</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/flacmkv/"><u>FLAC形式でMKV動画からオーディオ抽出手順</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/guide-to-transferring-the-big-bang-theory-seasons-1-7-from-dvds-onto-your-ios-device/"><u>Guide to Transferring The Big Bang Theory Seasons 1-7 From DVDs Onto Your iOS Device</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-12-pro-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 12 Pro to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-innovative-classroom-techniques-utilizing-youtube-effectively/"><u>In 2024, Innovative Classroom Techniques Utilizing YouTube Effectively</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ipad-youtube-ban-tutorial-for-parents-and-guardians/"><u>IPad YouTube Ban Tutorial for Parents and Guardians</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-cinematic-views-with-greased-lightning-installation-guide-for-kodi-users-on-leia-and-krypton-systems/"><u>Mastering Cinematic Views with Greased Lightning - Installation Guide for Kodi Users on Leia and Krypton Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-windows-ethernet-connection-errors-due-to-loose-cables/"><u>Solving Windows Ethernet Connection Errors Due to Loose Cables</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ultimate-guide-to-tp-link-re305-wifi-range-extender-features-and-performance-analysis/"><u>Ultimate Guide to TP-Link RE305 WiFi Range Extender: Features and Performance Analysis</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/rowth-hacking-for-youtube-stars-maximizing-fans-for-2024/"><u>[New] Growth Hacking for YouTube Stars Maximizing Fans for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-cutting-edge-methods-for-capturing-your-playtime/"><u>[Updated] 2024 Approved Cutting-Edge Methods for Capturing Your Playtime</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-unleashing-potential-professional-tips-to-transform-your-social-media-presence-for-2024/"><u>[Updated] Unleashing Potential Professional Tips to Transform Your Social Media Presence for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-realme-c55-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/iphone-app-struggles-9-reliable-ways-to-get-your-chatgpt-up-and-running-again/"><u>IPhone App Struggles? 9 Reliable Ways to Get Your ChatGPT Up and Running Again</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/synchronizing-your-soundtracks-a-step-by-step-guide-to-embedding-spotify-playlists-on-instagram/"><u>Synchronizing Your Soundtracks: A Step-by-Step Guide to Embedding Spotify Playlists on Instagram</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-new-era-of-aesthetics-and-performance-hidden-cable-zero-desktops-by-maingear-begins-at-1399/"><u>Unveiling the New Era of Aesthetics and Performance: Hidden Cable Zero Desktops by Maingear Begins at $1,399</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-why-select-microsoft-copilot-over-chatgpts-alternatives/"><u>Unveiling: Why Select Microsoft CoPilot Over ChatGPT's Alternatives</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-content-authors-should-think-twice-before-outsourcing-to-ai-chatbots-8-key-points/"><u>Why Content Authors Should Think Twice Before Outsourcing to AI Chatbots: 8 Key Points</u></a></li>
 </ul></div>
 

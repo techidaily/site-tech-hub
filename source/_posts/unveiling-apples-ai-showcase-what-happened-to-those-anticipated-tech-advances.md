@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Apple's AI Showcase: What Happened to Those Anticipated Tech Advances?"
-date: 2024-10-29T20:27:25.846Z
-updated: 2024-11-02T12:20:43.511Z
+date: 2024-12-06T19:29:44.992Z
+updated: 2024-12-07T16:45:07.001Z
 tags:
   - apple
 categories:
@@ -43,6 +43,10 @@ With spatial audio, Vision Pro users can also keep track of other Personas' dire
 
 Currently, you can only enable spatial Personas during a FaceTime call. Apple said that developers are working on games and collaborative apps that would allow Vision Pro users to interact with multiple spatial Personas as if they were sitting around the same table.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to enable spatial Persona
 
 Spatial Personas are now available on the Apple Vision Pro with visionOS 1.1\. Here's how to use spatial Personas:
@@ -83,24 +87,19 @@ If you have a Vision Pro running visionOS 1.1 but can't see the spatial Persona 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-why-is-my-instagram-video-rotated-unnaturally/"><u>[New] Why Is My Instagram Video Rotated Unnaturally?</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-elevating-your-streaming-experience-switching-between-spotify-and-youtube-music/"><u>[Updated] 2024 Approved Elevating Your Streaming Experience Switching Between Spotify & YouTube Music</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-elevate-your-creative-process-mastering-the-use-of-luts-in-pscc/"><u>[Updated] Elevate Your Creative Process Mastering the Use of LUTs in PSCC</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-ultimate-hd-video-memory-creators/"><u>[Updated] In 2024, Ultimate HD Video Memory Creators</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/advanced-tips-for-screenshot-management-and-archiving-for-2024/"><u>Advanced Tips for Screenshot Management and Archiving for 2024</u></a></li>
-<li><a href="https://win-superb.techidaily.com/exploring-the-world-of-cloud-antivirus-why-its-superior-to-conventional-antivirus-programs/"><u>Exploring the World of Cloud Antivirus - Why It's Superior to Conventional Antivirus Programs</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/free-methods-to-download-music-in-mp3-format-from-open-graph-audio-files/"><u>Free Methods to Download Music in MP3 Format From Open Graph Audio Files</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/free-vs-premium-a-comprehensive-guide-to-avi-video-converter-factory-and-pro/"><u>Free Vs. Premium: A Comprehensive Guide to AVI Video Converter Factory & Pro</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-access-extratorrent-a-guide-to-using-unblocking-proxies-and-finding-reliable-alternatives/"><u>How to Access ExtraTorrent: A Guide to Using Unblocking Proxies & Finding Reliable Alternatives</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-seamlessly-transfer-videos-onto-google-drive-for-both-computers-and-smartphones/"><u>How To Seamlessly Transfer Videos Onto Google Drive - For Both Computers & Smartphones</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/mastering-google-voice-call-recording-essential-steps-for-2024/"><u>Mastering Google Voice Call Recording Essential Steps for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95782708-9781594778537-psychonavigation/"><u>Psychonavigation | Free Book</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-birds-eye-briefing-critique/"><u>[New] Bird's Eye Briefing Critique</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-navigating-tiktoks-guest-entry-guide/"><u>[New] Navigating TikTok's Guest Entry Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unlocking-emotional-depth-in-self-narrated-videos-yt/"><u>[New] Unlocking Emotional Depth in Self-Narrated Videos YT</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-apple-music-for-dynamic-video-enhancement/"><u>[Updated] Apple Music for Dynamic Video Enhancement</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-selecting-the-right-top-15-tripods-for-gopro-cameras/"><u>[Updated] Selecting the Right Top 15 Tripods for GoPro Cameras</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boosting-earnings-through-side-job-options-like-chatgpt-diy-pc-construction-guide-and-nostalgic-handheld-game-systems/"><u>Boosting Earnings Through Side Job Options Like ChatGPT, DIY PC Construction Guide, and Nostalgic Handheld Game Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-tactics-to-optimize-your-daily-routine-and-save-time/"><u>ChatGPT Tactics to Optimize Your Daily Routine and Save Time</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-anker-30-speedy-usb-hub-assessment-unleash-ultimate-connectivity/"><u>Comprehensive Anker 3.0 Speedy USB Hub Assessment: Unleash Ultimate Connectivity</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-latest-in-pc-gear-with-toms-hardware-guides/"><u>Exploring the Latest in PC Gear with Tom's Hardware Guides</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-infinix-note-30-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Infinix Note 30 Pro Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-samsung-galaxy-a14-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Samsung Galaxy A14 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-mindfulness-a-guide-to-creating-consistent-meditation-practice-with-chatgpt/"><u>Mastering Mindfulness: A Guide to Creating Consistent Meditation Practice with ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/universal-access-connecting-with-chatgpt-on-the-go-through-chatgpt-everywhere/"><u>Universal Access: Connecting with ChatGPT on the Go Through ChatGPT Everywhere</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-secrets-of-ai-content-detection-via-gptzero/"><u>Unveiling the Secrets of AI Content Detection via GPTZero</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

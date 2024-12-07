@@ -1,7 +1,7 @@
 ---
 title: "IOS 16 Update Unveiled: Enhance Your iPhone Experience with Expert Lock Screen Hacks by ZDNET"
-date: 2024-10-26T21:50:07.334Z
-updated: 2024-11-02T07:41:23.361Z
+date: 2024-12-03T21:25:53.198Z
+updated: 2024-12-07T18:13:43.098Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Camera Control button
 
 Kerry Wan/ZDNET
@@ -47,10 +51,7 @@ The iPhone 16 receives a substantial update to its camera system. The device pos
 The button acts as a camera shortcut of sorts. Pushing it takes a photo, but the button also supports gesture controls. Swiping on the button with your thumb or finger lets you zoom in or out, while a double light-press presents you with various shooting modes, zoom lengths, photographic styles, and more. It's a fun and intuitive way to take photos. The best part about the button is that it's a great way to introduce more people to photography.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Siri 2.0 is arriving very soon
@@ -66,16 +67,7 @@ The new Siri can engage in more natural conversations. Users no longer need to c
 Everything mentioned so far is just the tip of the iceberg. It's been reported that next year Siri will be able to find and act on items on-device based on your context. For example, you could ask the AI what time your mom's flight is landing and Siri will pull together information from texts and emails, and then present this insight to you in a brief response.
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. A new AI-powered chipset
@@ -122,22 +114,22 @@ Besides Apple Intelilgence, the A18 chipset should enable faster processing spee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-nighttime-portrait-etiquette-dos-and-donts/"><u>[New] 2024 Approved Nighttime Portrait Etiquette Do's and Don'ts</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-all-time-highest-chart-youtubes-premier-video-list/"><u>[New] In 2024, All-Time Highest Chart YouTube's Premier Video List</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-discover-the-most-effective-5-screen-capturing-tools-for-chromebook/"><u>[New] In 2024, Discover the Most Effective 5 Screen Capturing Tools for Chromebook</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-tailor-your-devices-alerts-with-custom-android-sounds/"><u>[Updated] 2024 Approved Tailor Your Device's Alerts with Custom Android Sounds</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-from-beginner-to-master-a-stepwise-guide-for-excellent-posts/"><u>2024 Approved From Beginner to Master A Stepwise Guide for Excellent Posts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/choosing-the-best-bittorrent-clients-for-windows-users/"><u>Choosing the Best BitTorrent Clients for Windows Users</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-detailed-guide-taking-full-screen-photos-with-android/"><u>In 2024, Detailed Guide Taking Full-Screen Photos with Android</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revival-tactics-restoring-microsoft-store-on-win-11-and-11/"><u>Revival Tactics: Restoring Microsoft Store on Win 11 & 11</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/revive-your-aging-computer-with-these-5-essential-often-free-tricks-for-the-windows-10-os-zdnet/"><u>Revive Your Aging Computer with These 5 Essential, Often-Free Tricks for the Windows 10 OS | ZDNet</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-to-capturing-4k-60hz-clips-from-youtube/"><u>Step-by-Step Guide to Capturing 4K @ 60Hz Clips From YouTube</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-to-elevate-your-screen-captures-visual-fidelity/"><u>Step-by-Step Guide to Elevate Your Screen Capture's Visual Fidelity</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-converting-ac3-audio-files-into-wav-format-both-online-and-offline/"><u>Step-by-Step Guide: Converting AC3 Audio Files Into WAV Format Both Online & Offline</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-how-can-you-save-your-favorite-trovo-content/"><u>Step-by-Step Guide: How Can You Save Your Favorite Trovo Content?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-instructions-on-separating-audio-tracks-in-wmv-format-both-web-and-desktop-solutions/"><u>Step-by-Step Instructions on Separating Audio Tracks in .WMV Format, Both Web and Desktop Solutions.</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/stream-elysium-anywhere-the-ultimate-guide-to-digital-copy-download/"><u>Stream 'Elysium' Anywhere – The Ultimate Guide to Digital Copy Download</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-sites-to-stream-complete-episodes-of-attack-on-titan-anime-dub-season-1-4/"><u>Top Sites to Stream Complete Episodes of 'Attack on Titan' Anime Dub Season 1-4</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/verifying-accurate-dvd-names-using-windows-media-player-a-step-by-step-guide/"><u>Verifying Accurate DVD Names Using Windows Media Player: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-mememakerpro-visual-laughter-factory/"><u>[New] 2024 Approved MemeMakerPro Visual Laughter Factory</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-counteract-vibration-for-clear-captures-for-2024/"><u>[New] Counteract Vibration for Clear Captures for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-finding-the-perfect-screen-recorder-for-schooling-for-2024/"><u>[Updated] Finding the Perfect Screen Recorder for Schooling for 2024</u></a></li>
+<li><a href="https://win-superb.techidaily.com/1728466305470-aomei-backupper/"><u>AOMEI Backupper - 全面解決方案：詳盡入門教程</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/are-we-sacrificing-quality-for-convenience-in-messaging-apps/"><u>Are We Sacrificing Quality for Convenience in Messaging Apps?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-is-now-available-on-android/"><u>ChatGPT Is Now Available on Android</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discerning-legitimate-from-illegitimate-language-models-on-ios-app-platforms/"><u>Discerning Legitimate From Illegitimate Language Models on iOS App Platforms</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/fixing-missing-or-corrupt-ac1st16dll-error-on-your-computer/"><u>Fixing 'Missing or Corrupt' ac1st16.dll Error on Your Computer</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-13-to-other-iphone-13-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 13 To Other iPhone 13 devices? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-ai-imagery-in-chatgpt-4-via-dall-e/"><u>Mastering AI Imagery in ChatGPT-4 via DALL-E</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-chatgpt-integration-enhance-your-google-sheets-with-ai-powered-automation/"><u>Mastering ChatGPT Integration: Enhance Your Google Sheets with AI-Powered Automation</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-on-restoring-wi-fi-access-for-your-ipad/"><u>Step-by-Step Tutorial on Restoring Wi-Fi Access for Your iPad</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-trick-to-watch-netflix-for-free-a-step-by-step-breakdown/"><u>The Ultimate Trick to Watch Netflix for Free - A Step-by-Step Breakdown</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-strategies-leveraging-chatgpt-skills-for-enhanced-data-analysis/"><u>Top Strategies: Leveraging ChatGPT Skills for Enhanced Data Analysis</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-the-power-of-chatgpt-for-android-users-a-comprehensive-tutorial/"><u>Unlocking the Power of ChatGPT for Android Users: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/king-youtubes-inner-workings-your-path-to-success/"><u>Unlocking YouTube's Inner Workings Your Path to Success</u></a></li>
+<li><a href="https://article-helps.techidaily.com/unveiling-the-best-storytelling-schools-1-8-guide/"><u>Unveiling the Best Storytelling Schools - #1-#8 Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Shared Experiences: The Unspoken Challenges of Moving to iOS 18 on iPhones | ZDNET Insights"
-date: 2024-11-26T06:20:29.030Z
-updated: 2024-11-27T17:00:52.494Z
+date: 2024-12-04T20:56:09.556Z
+updated: 2024-12-07T20:20:13.691Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,15 +109,20 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-depth-guide-on-using-annotations-for-marketing/"><u>[New] In-Depth Guide on Using Annotations for Marketing</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-the-creme-de-la-creme-best-large-scale-linguistic-algorithms/"><u>Discover the Creme De La Creme: Best Large-Scale Linguistic Algorithms</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/elevate-digital-marketing-discover-cookiebots-powerful-capabilities/"><u>Elevate Digital Marketing: Discover Cookiebot's Powerful Capabilities</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/fine-tune-fitness-dialogue-with-chatgpt-tips/"><u>Fine-Tune Fitness Dialogue with ChatGPT Tips</u></a></li>
-<li><a href="https://driver-download.techidaily.com/hp-network-driver-download-for-windows-1178/"><u>HP Network Driver Download for Windows 11/7/8</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-action-cam-showdown-which-holds-the-crown-gopro-or-yi/"><u>In 2024, Action Cam Showdown Which Holds the Crown - GoPro or Yi?</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-taming-soundscapes-mastering-gradual-volume-increase-with-audition/"><u>In 2024, Taming Soundscapes Mastering Gradual Volume Increase with Audition</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/strategic-placement-of-access-points-for-maintenance-is-crucial-for-the-long-term-operation-and-integrity-of-a-pipeline-system/"><u>Strategic Placement of Access Points for Maintenance Is Crucial for the Long-Term Operation and Integrity of a Pipeline System.</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/streamlining-communication-how-to-combine-chatgpts-power-with-your-iphonee-siri-feature/"><u>Streamlining Communication: How to Combine ChatGPT's Power with Your iPhone'e Siri Feature</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/tips-and-techniques-for-expert-use-of-anthropics-new-claude-3-prompt-engine/"><u>Tips and Techniques for Expert Use of Anthropic's New Claude 3 Prompt Engine</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-elite-meme-conceptualization-tools/"><u>[New] 2024 Approved Elite Meme Conceptualization Tools</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-top-8-best-kept-video-download-secrets/"><u>2024 Approved Top 8 Best-Kept Video Download Secrets</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ais-role-in-crafting-the-next-generation-of-content/"><u>AI's Role in Crafting the Next Generation of Content</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bespoke-chatbot-through-gpt-development-journey/"><u>Bespoke Chatbot Through GPT Development Journey</u></a></li>
+<li><a href="https://games-able.techidaily.com/can-mechanical-keyboards-truly-improve-your-gaming/"><u>Can Mechanical Keyboards Truly Improve Your Gaming?</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/download-adobe-premiere-pro-cs6-for-mac-free-2023-edition/"><u>Download Adobe Premiere Pro CS6 for Mac Free 2023 Edition</u></a></li>
+<li><a href="https://facebook.techidaily.com/earn-prestigious-badge-via-metas-investment/"><u>Earn Prestigious Badge via Metas Investment</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Infinix Hot 40 Pro? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unraveling-video-platform-distinctions-a-youtube-vs-dailymention-analysis/"><u>In 2024, Unraveling Video Platform Distinctions A YouTube Vs. DailyMention Analysis</u></a></li>
+<li><a href="https://facebook.techidaily.com/new-center-highlighting-facebooks-commitment-to-policy-clarity/"><u>New Center Highlighting Facebook's Commitment to Policy Clarity</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/streamline-pcs-with-chatgpt-application/"><u>Streamline PCs with ChatGPT Application</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/trustworthy-application-of-chatgpt-technology-in-emotional-well-bee/"><u>Trustworthy Application of ChatGPT Technology in Emotional Well-Bee</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/tweet-titans-social-networks-10-most-shared-posts-for-2024/"><u>Tweet Titans Social Network’s 10 Most Shared Posts for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-superior-search-capabilities-with-perplexity-ai-the-ultimate-google-search-enhancer/"><u>Unlock Superior Search Capabilities with Perplexity AI - The Ultimate Google Search Enhancer</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/voice-activated-mastery-top-5-methods-to-command-chatgpt/"><u>Voice-Activated Mastery: Top 5 Methods to Command ChatGPT</u></a></li>
 </ul></div>
 

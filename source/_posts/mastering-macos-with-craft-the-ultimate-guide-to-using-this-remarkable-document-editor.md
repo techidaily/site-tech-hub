@@ -1,7 +1,7 @@
 ---
 title: "Mastering MacOS with Craft: The Ultimate Guide to Using This Remarkable Document Editor"
-date: 2024-11-16T17:37:50.995Z
-updated: 2024-11-18T16:26:49.593Z
+date: 2024-12-01T21:30:03.898Z
+updated: 2024-12-07T19:53:34.470Z
 tags:
   - apple
 categories:
@@ -20,6 +20,10 @@ But then something sort of magical happened -- I started using the app. Once I u
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is Craft?
 
 According to the official website, Craft is built for digital devices from the ground up and brings the joy back to writing.   
@@ -36,10 +40,7 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -63,10 +64,7 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -80,10 +78,7 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -134,22 +129,19 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-best-5-twitter-alternatives/"><u>[New] 2024 Approved Best 5 Twitter Alternatives</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-gif-magic-transformations-without-extra-files-downloaded/"><u>[New] GIF Magic Transformations Without Extra Files Downloaded</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-the-blueprint-to-youtube-wealth-smart-strategies-for-facebook-video-marketing-for-2024/"><u>[Updated] The Blueprint to YouTube Wealth Smart Strategies for Facebook Video Marketing for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-to-network-or-not-a-detailed-guide-for-youtubers-considering-mncs/"><u>[Updated] To Network, Or Not A Detailed Guide for YouTubers Considering MNCs</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/free-youtube-to-mp3-converters-you-should-know-onlinewinmac-for-2024/"><u>Best Free YouTube to MP3 Converters You Should Know [Online/Win/Mac] for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-galaxy-a24-by-fonelab-android-recover-video/"><u>How to recover old videos from your Galaxy A24</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-nubia-z50s-pro-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Nubia Z50S Pro to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-how-to-shuffle-youtube-playlist/"><u>In 2024, How to Shuffle YouTube Playlist</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/noise-troubles-in-pandoras-land-resolving-sound-problems-with-pc-version-of-borderlands-3/"><u>Noise Troubles in Pandora's Land: Resolving Sound Problems with PC Version of Borderlands 3</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-dangers-of-delegating-care-to-chatbots/"><u>The Dangers of Delegating Care to Chatbots</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-insight-into-predictive-ai-systems-operations-and-principles/"><u>The Insight Into Predictive AI Systems: Operations & Principles</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-latest-on-dall-e-3-now-includes-edit-options-that-need-tweaking/"><u>The Latest on DALL-E 3: Now Includes Edit Options That Need Tweaking</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-path-to-ai-mastery-creating-a-unique-chatgpt/"><u>The Path to AI Mastery: Creating a Unique ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-spectrum-of-realism-in-the-age-of-ai/"><u>The Spectrum of Realism in the Age of AI</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/tips-for-immediate-gpt-4-adoption-in-chatgpt-usage/"><u>Tips for Immediate GPT-4 Adoption in ChatGPT Usage</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-4-pitfalls-to-steer-clear-of-in-chatgpt-driven-content-development/"><u>Top 4 Pitfalls to Steer Clear of in ChatGPT-Driven Content Development</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-the-significance-of-real-time-info-for-chatgpt-and-its-effect-on-society/"><u>Understanding the Significance of Real-Time Info for ChatGPT and Its Effect on Society</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-maximizing-impact-the-best-instagram-hashtag-list-for-2024/"><u>[New] Maximizing Impact The Best Instagram Hashtag List for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-syncing-songs-to-social-networks-iphonesandroid-approach/"><u>[Updated] Syncing Songs to Social Networks IPhones/Android Approach</u></a></li>
+<li><a href="https://article-helps.techidaily.com/becoming-a-final-cut-pro-expert-your-quick-reference/"><u>Becoming a Final Cut Pro Expert – Your Quick Reference</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-conversational-ai-like-chatgpt-become-a-tool-for-cybercriminals-against-financial-institutions/"><u>Can Conversational AI Like ChatGPT Become a Tool for Cybercriminals Against Financial Institutions?</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-driven-solutions-enhancing-your-online-experience/"><u>Cookiebot-Driven Solutions: Enhancing Your Online Experience</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/earn-a-150-apple-gift-card-when-buying-your-next-mac-or-ipad-for-education-simple-steps-revealed/"><u>Earn a $150 Apple Gift Card When Buying Your Next Mac or iPad for Education - Simple Steps Revealed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/flash-file-mastery-easily-convert-videos-tofrom-swf-for-universal-compatibility/"><u>Flash File Mastery - Easily Convert Videos To/From SWF for Universal Compatibility</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/guide-on-effortlessly-transforming-mkv-videos-into-divx-for-free/"><u>Guide on Effortlessly Transforming MKV Videos Into DivX for Free</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-effortlessly-backup-free-youtube-content-on-your-google-drive/"><u>How to Effortlessly Backup Free YouTube Content on Your Google Drive</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-utilizing-instagram-filters-to-elevate-your-photos/"><u>In 2024, Utilizing Instagram Filters to Elevate Your Photos</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/innovative-naming-solutions-for-channels/"><u>Innovative Naming Solutions for Channels</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/re-encode-video-to-desired-size-quality-format-etc/"><u>Re-Encode Video to Desired Size, Quality, Format, Etc.</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/seamless-voice-chat-capture-with-telegram-tips-and-tricks-for-recording-across-various-gadgets/"><u>Seamless Voice Chat Capture with Telegram: Tips and Tricks for Recording Across Various Gadgets</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-excessive-ram-use-by-chrome-tips-included/"><u>Troubleshooting Excessive RAM Use by Chrome [Tips Included]</u></a></li>
 </ul></div>
 

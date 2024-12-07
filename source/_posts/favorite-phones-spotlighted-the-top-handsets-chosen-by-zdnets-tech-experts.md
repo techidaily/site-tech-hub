@@ -1,7 +1,7 @@
 ---
 title: "Favorite Phones Spotlighted: The Top Handsets Chosen by ZDNet's Tech Experts"
-date: 2024-10-24T17:23:29.200Z
-updated: 2024-10-27T16:43:33.323Z
+date: 2024-11-30T17:57:51.694Z
+updated: 2024-12-07T17:22:06.825Z
 tags:
   - apple
 categories:
@@ -17,6 +17,10 @@ Curious about the favorite devices and phone buying habits of _ZDNet's_ tech rep
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -47,6 +51,10 @@ Cons
 * New design Cameras are impressive Performance Battery life
 
 ## iPhone 12 Pro
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Jason Cipriani and Simon Bisson
 
@@ -104,20 +112,11 @@ Cons
 
 Show Expert Take Show less 
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## iPhone SE (2020)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Greg Nichols, Aimee Chanthadavong, and David Grober
 
@@ -147,6 +146,10 @@ Cons
 
 ## iPhone 12
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Chris Matyszczyk
 
 **Chris Matyszczyk:** My XR became heavy and cumbersome. It had begun to fade. I saw the 12's blue color and thought it might be fetching. And then an Apple store employee took the time to talk me into the 12, just when I was at my weakest.
@@ -163,13 +166,6 @@ Pros
 Cons 
 * Fast performance New camera features Strong battery life
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## iPhone 11 Pro
 
 ### Ed Bott
@@ -179,6 +175,10 @@ Cons
 **Next phone or dream phone?** Next year I'll probably get an iPhone 12 Pro, gently used, courtesy of some obsessive Apple upgrader who will trade it in shortly after its successor comes out. I do like the camera improvements Apple made in the 12 series, but I'm not tied to Apple's ecosystem in any serious way so maybe I'll get a new Samsung instead.
 
 Show Expert Take Show less 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Ulefone Armor 9
 
@@ -196,6 +196,10 @@ Pros
 Cons 
 * Strong battery life Good performance More affordable
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Google Pixel 2
 
 ### Tony Baer
@@ -212,14 +216,11 @@ Show less
 
 [View now at Huawei P40 Pro](https://consumer.huawei.com/en/phones/p40-pro/)
 
-## Huawei P20 Pro
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Huawei P20 Pro
 
 ### Federico Guerrini
 
@@ -259,30 +260,9 @@ Show Expert Take Show less
 
 ###   
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###   
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## iPhone X
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Robin Harris
 
@@ -310,13 +290,6 @@ I've always used iPhones. Started with the iPhone 3, and never strayed. I refuse
 
 Show Expert Take Show less 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## iPhone 7 Plus
 
 ### Tiernan Ray
@@ -339,7 +312,15 @@ Purchased in 2016, I've had no reason to upgrade in four years. The thing does a
 
 **Next phone or dream phone?** I have no idea. I get overwhelmed by the amount of choice. It'll be an iPhone I guess. I'm used to them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Lumia 1520
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mary Branscombe
 
@@ -349,14 +330,11 @@ Yes, I am indeed still clinging to the phone that made me love phablets, upgrade
 
 Show less 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Samsung Galaxy Note 8
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Charles McLellan
 
@@ -398,22 +376,24 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-bridging-the-gap-youtube-and-facebook-content-collaboration/"><u>[New] In 2024, Bridging the Gap YouTube and Facebook Content Collaboration</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-enhancing-engagement-a-guide-to-popular-tiktok-unboxers/"><u>2024 Approved Enhancing Engagement A Guide to Popular TikTok Unboxers</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/enhancing-efficiency-the-key-to-srt-export-in-premiere/"><u>Enhancing Efficiency The Key to SRT Export in Premiere</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/hassle-free-adb-driver-installation-process-on-windows-systems/"><u>Hassle-Free ADB Driver Installation Process on Windows Systems</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/hassle-free-brother-printer-installation-expert-tips-and-tricks/"><u>Hassle-Free Brother Printer Installation: Expert Tips and Tricks</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-can-you-determine-if-your-laptop-features-bluetooth-connectivity-exploring-two-methods/"><u>How Can You Determine If Your Laptop Features Bluetooth Connectivity? Exploring Two Methods</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-make-games-run-faster-on-pc-solved/"><u>How to Make Games Run Faster on PC [SOLVED]</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-overcome-black-screen-anomalies-with-the-webcam-under-microsoft-environments/"><u>How To Overcome Black Screen Anomalies with the Webcam Under Microsoft Environments</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-play-fallout-3-on-windows-11/"><u>How to Play Fallout 3 on Windows 11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-rollback-nvidia-drivers-in-windows-11/"><u>How to Rollback Nvidia Drivers in Windows 11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-set-up-vpn-on-windows-10-step-by-step/"><u>How to Set Up VPN on Windows 10 [Step by Step]</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-vivo-y27-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Vivo Y27 5G</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-basics-of-zoom-group-divisions-unveiled/"><u>In 2024, Basics of Zoom Group Divisions Unveiled</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-tecno-spark-10c-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Tecno Spark 10C Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-6-plus-drfone-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 6 Plus | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-the-art-of-frames-with-top-rated-tools-24/"><u>In 2024, Mastering the Art of Frames with Top-Rated Tools '24</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-glitch-your-way-to-creativity-top-video-editors-for-windows-and-mac/"><u>New 2024 Approved Glitch Your Way to Creativity Top Video Editors for Windows and Mac</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-facebooks-fabulous-video-showcase/"><u>[Updated] In 2024, Facebook's Fabulous Video Showcase</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-unleash-the-content-free-movie-player-windowsmac/"><u>[Updated] In 2024, Unleash the Content FREE MOVIE PLAYER (Windows/Mac)</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-top-10-youtube-shorts-video-editing-apps-for-ios-and-android/"><u>2024 Approved Top 10 YouTube Shorts Video Editing Apps for iOS and Android</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-vivo-y78t-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Vivo Y78t System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-and-originality-concerns-a-deep-dive-into-its-content-creation/"><u>ChatGPT and Originality Concerns: A Deep Dive Into Its Content Creation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/emojis-as-a-tool-for-financial-insight-navigating-risks-post-activision-hack-and-chatgpts-job-disruption-potential/"><u>Emojis as a Tool for Financial Insight: Navigating Risks Post-Activision Hack and ChatGPT’s Job Disruption Potential</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/e-with-these-top-10-student-oriented-history-channels/"><u>Engage with These Top 10 Student-Oriented History Channels</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-distinctions-a-deep-dive-into-gpt-4-versus-gpt-4-turbo-vs-phi/"><u>Exploring Distinctions: A Deep Dive Into GPT-4 Versus GPT-4 Turbo Vs. Phi</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-canon-printer-mf743cdw-drivers-and-software-compatible-with-windows-systems/"><u>Free Canon Printer MF743CDW Drivers & Software Compatible with Windows Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/google-unveils-bard-the-advanced-ai-system-competing-with-microsofts-chatgpt/"><u>Google Unveils Bard - The Advanced AI System Competing with Microsoft's ChatGPT</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/how-to-run-a-sports-youtube-chain-on-macos/"><u>How to Run a Sports YouTube Chain on MacOS</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-dreaming-through-the-viewfinder-inspiring-photo-ideas/"><u>In 2024, Dreaming Through the Viewfinder Inspiring Photo Ideas</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-streamline-your-podcasts-effective-editing-tips-for-garageband-users/"><u>In 2024, Streamline Your Podcasts Effective Editing Tips for GarageBand Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/new-ai-contender-is-gemini-superior-to-chatgpt/"><u>New AI Contender: Is Gemini Superior to ChatGPT?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/openais-head-honcho-demands-tighter-control-over-artificnial-intelligence-why/"><u>OpenAI's Head Honcho Demands Tighter Control Over Artificnial Intelligence - Why?</u></a></li>
+<li><a href="https://facebook.techidaily.com/overcoming-facebooks-inaccessible-profile-issue/"><u>Overcoming Facebook's Inaccessible Profile Issue</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/scrutinizing-codegpt-artificial-intelligence-and-programming/"><u>Scrutinizing CodeGPT: Artificial Intelligence and Programming</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-controversy-unveiled-how-openai-meta-and-stars-like-sarah-silverman-clash-over-ai-rights/"><u>The Controversy Unveiled: How OpenAI, Meta, and Stars Like Sarah Silverman Clash Over AI Rights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-serenity-a-guide-to-reducing-anxiety-via-chatgpt/"><u>Unlocking Serenity: A Guide to Reducing Anxiety via ChatGPT</u></a></li>
 </ul></div>
 

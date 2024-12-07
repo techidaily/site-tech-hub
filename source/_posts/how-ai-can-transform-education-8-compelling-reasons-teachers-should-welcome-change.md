@@ -1,7 +1,7 @@
 ---
 title: "How AI Can Transform Education: 8 Compelling Reasons Teachers Should Welcome Change"
-date: 2024-09-02T09:28:44.562Z
-updated: 2024-09-03T09:28:44.562Z
+date: 2024-12-02T19:52:32.015Z
+updated: 2024-12-07T16:01:56.841Z
 tags:
   - chatgpt
   - open-ai
@@ -29,8 +29,9 @@ thumbnail: https://thmb.techidaily.com/8902585d66f327811523945d1407154d052552e15
  OpenAI's premium version of ChatGPT, known as ChatGPT Plus, offers users a range of extra features in exchange for the monthly subscription fee. ChatGPT Plus's newest feature, GPT call-outs or mentions, may prove very useful to you if you use various GPTs within the ChatGPT interface. So, how does this feature work, and how can it benefit you?
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is ChatGPT's GPT Mentions Feature?
 
  As a ChatGPT Plus member, you can[enjoy custom GPTs from the Custom GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/) . These are versions of ChatGPT that are tailored to help with specific tasks. Some[popular custom GPTs](https://www.makeuseof.com/best-custom-gpts/) include...
@@ -53,9 +54,6 @@ So, how can you use this?
 
 ![screenshot of GPT mentions feature window on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-mention-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
  It's super easy to use GPT Mentions, so let's delve into an example of when it would be helpful.
 
  Let's say you wanted to gather some key data and then create an infographic to introduce what you've found. To find the data, you start a chat with the Consensus GPT. Once Consensus gives you the relevant information, you mention Canva in your chat, and click on the Canva GPT option.
@@ -63,18 +61,20 @@ So, how can you use this?
 ![screenshot of chatgpt beta mentions feature being used in desktop browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-mentions-chat.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Now, you're chatting with Canva until you click "X" on the**Talking to Canva** tab that will appear above the chat text box.
 
 ![screenshot of active canva chat using beta gpt mentions feature on desktop browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-canva-talking.png)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can talk to the Canva GPT while mentioning the above conversation you've already had with Consensus. Simply ask Canva to create a graphic introducing the research Consensus provided, and the GPT will get to work providing you with something useful.
 
 ![screenshot of chatgpt custom gpt callout feature working with canva prompt on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-talking-canva.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Of course, if you're not happy with Canva's initial response, you can make more specific requests to highlight what you're looking for. Maybe you want a specific font, or want a certain phrase used in the text of the graphic. Just ask, and the custom GPT should be able to comply.
 
@@ -87,27 +87,26 @@ So, how can you use this?
 ![screenshot of kayak prompt result with chatgpt on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-kayak-result.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After getting the results, we added the All Trails GPT to the chat using the GPT Mentions feature, and asked it to find trails near the hotels that KAYAK previously recommended.
 
 ![screenshot of alltrails gpt being used in chatgpt on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-alltrails-result.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Now, we have hotels, flights, and trails for our trip all in one chat!
 
  There's no end to what you can do with this new GPT Mentions feature, be it for work or play. If you're a ChatGPT Plus user, give this handy feature a try today to see what you can do when talking to two or more GPTs at once.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -116,4 +115,22 @@ Now, we have hotels, flights, and trails for our trip all in one chat!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-comprehensive-coverage-coalition-picking-an-mcn/"><u>[New] 2024 Approved Comprehensive Coverage Coalition Picking an MCN</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-reposition-mac-picture-cache-destination/"><u>[New] In 2024, Reposition Mac Picture Cache Destination</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-speed-dial-for-vimeo-video-loading-for-2024/"><u>[New] Speed Dial for Vimeo Video Loading for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-high-frame-rate-filming-with-yi/"><u>[Updated] Exploring High Frame Rate Filming with YI</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-grasp-the-typical-earning-curve-for-podcasters/"><u>2024 Approved Grasp the Typical Earning Curve for Podcasters</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/action-camera-faceoff-gopro-hero-vs-sony-dslr-for-adventure-seekers/"><u>Action Camera Faceoff GoPro Hero Vs. Sony DSLR for Adventure Seekers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bringing-the-brain-to-your-bands-chatgpts-top-6-smartwatch-upgrades/"><u>Bringing the Brain to Your Bands: ChatGPT's Top 6 Smartwatch Upgrades</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-users-trust-the-safety-of-using-chatgpt/"><u>Can Users Trust the Safety of Using ChatGPT?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chat-like-never-before-access-free-high-performance-chatgpt-clones-directly-from-your-windows-pc/"><u>Chat Like Never Before – Access Free, High-Performance ChatGPT Clones Directly From Your Windows PC</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/1720671362461-issues-with-stellar-video-file-repairs/"><u>Issues with Stellar Video File Repairs.</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/making-sense-of-artificial-intelligence-simplified/"><u>Making Sense of Artificial Intelligence Simplified</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-note-taking-with-chatgpt-expert-techniques/"><u>Mastering Note-Taking with ChatGPT: Expert Techniques</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-convert-video-to-audio-best-apps-for-ios-and-android/"><u>New 2024 Approved Convert Video to Audio Best Apps for iOS and Android</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-mechanics-behind-chatbots-and-their-ability-to-engage-in-human-like-conversations/"><u>The Mechanics Behind Chatbots and Their Ability to Engage in Human-Like Conversations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/visionary-image-design-the-best-open-tools/"><u>Visionary Image Design: The Best Open Tools</u></a></li>
+</ul></div>
 

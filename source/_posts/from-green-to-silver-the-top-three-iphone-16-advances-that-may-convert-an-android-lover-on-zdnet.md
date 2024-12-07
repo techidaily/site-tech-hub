@@ -1,7 +1,7 @@
 ---
 title: "From Green to Silver: The Top Three iPhone 16 Advances That May Convert an Android Lover on ZDNet."
-date: 2024-11-11T20:03:56.632Z
-updated: 2024-11-18T22:22:21.998Z
+date: 2024-12-01T19:18:43.106Z
+updated: 2024-12-07T20:11:13.719Z
 tags:
   - apple
 categories:
@@ -36,6 +36,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Reducing lens flare with new materials
 
 When capturing images with the iPhone -- Pro model or not -- bright light sources like the sun, lamp posts, and car lights can produce lens flare and ghosting effects, an output that includes streaks of light and distorted figures. While the issue is most common in dimmer environments, the iPhone has similar experiences when used outdoors during the day, as ZDNET's Jason Hiner remarked when [testing the iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-15-pro-max-50-photos-that-show-what-the-new-camera-system-can-do/#:~:text=the%20iPhone%20is%20still%20generally%20the%20worst%20smartphone%20camera%20system%20for%20generating%20lens%20flare%20and%20unwanted%20artifacts%2C%20especially%20when%20shooting%20into%20the%20sun.) last year.
@@ -45,10 +49,7 @@ When capturing images with the iPhone -- Pro model or not -- bright light source
 As reported by [MacRumors](https://www.macrumors.com/2024/04/15/iphone-16-pro-camera-reduced-lens-flare/), sources close to Apple's supply chain have hinted that the company is testing a new anti-reflective optical coating, made of atomic layer deposition, intended to reduce the camera artifacts previously mentioned. Should Apple introduce the feature with the iPhone 16, it would fix one of the longest-standing complaints about the iPhone camera system.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Higher refresh rate displays on non-Pro models
@@ -60,10 +61,7 @@ Apple did something very courageous last year: It brought the Pro line's Dynamic
 Compared to the Pro model's 120Hz display, which portrays animations in a much flowy, smoother manner, the non-Pro iPhones' 60Hz panels just didn't look as polished, with a noticeable stutter when scrolling through bodies of text. Dialing up the refresh rate, even up to 90Hz, would make the baseline iPhone 16 models more satisfying to look at and interact with.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. A voice assistant I can take Siri-ously
@@ -106,24 +104,19 @@ Apple has already hinted at an AI-focused [Worldwide Developer Conference](https
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-youtuber-essentials-must-have-hardware-and-software-for-successful-streams/"><u>[New] 2024 Approved Youtuber Essentials Must-Have Hardware & Software for Successful Streams</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-viral-beats-cutting-edge-music-for-youtube-short-videos/"><u>2024 Approved Viral Beats Cutting-Edge Music for YouTube Short Videos</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-oppo-k11-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Oppo K11 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/faithful-frequencies-free-christian-music-downloads/"><u>Faithful Frequencies Free Christian Music Downloads</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-viable-is-a-career-in-ai-prompt-engineering-insights-for-future-professionals/"><u>How Viable Is a Career in AI Prompt Engineering? Insights for Future Professionals</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/innovative-approaches-to-writing-winning-youtube-scripts-through-chatgpt/"><u>Innovative Approaches to Writing Winning YouTube Scripts Through ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-it-possible-for-ais-to-tell-a-joke-alongside-a-dive-into-how-laptops-evolved-and-progress-in-vpn-solutions/"><u>Is It Possible for AIs to Tell a Joke?: Alongside, a Dive Into How Laptops Evolved & Progress in VPN Solutions</u></a></li>
-<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-nubia-red-magic-8s-proplus-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Nubia Red Magic 8S Pro+ FRP Without Computer</u></a></li>
-<li><a href="https://win11.techidaily.com/mastery-over-windows-memory-not-recorded-issue/"><u>Mastery over Windows Memory Not Recorded Issue</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-ai-language-essential-vocabulary-for-enthusiasts/"><u>Navigating AI Language: Essential Vocabulary for Enthusiasts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-the-best-8-chatgpt-crypto-upgrades-unveiled/"><u>Navigating the Best 8 ChatGPT Crypto Upgrades Unveiled</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/new-best-10-emoji-apps-to-emoji-yourself-make-an-emoji-of-yourself-for-2024/"><u>New Best 10 Emoji Apps to Emoji Yourself-Make an Emoji of Yourself for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/optimizing-presentation-outcomes-with-smart-ai-integration-chatgpt/"><u>Optimizing Presentation Outcomes with Smart AI Integration: ChatGPT</u></a></li>
-<li><a href="https://extra-information.techidaily.com/overhaul-overflow-cutting-edge-techniques-for-massive-tiktok-drafts/"><u>Overhaul Overflow Cutting-Edge Techniques for Massive TikTok Drafts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/replicating-human-like-dialogue-with-ai/"><u>Replicating Human-Like Dialogue with AI</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/securely-navigating-the-deletion-of-your-chatgpt-records/"><u>Securely Navigating the Deletion of Your ChatGPT Records</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-integrating-and-utilizing-chatgpt-add-ons/"><u>Step-by-Step Guide: Integrating & Utilizing ChatGPT Add-Ons</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-12-prominent-vivo-t2-pro-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Vivo T2 Pro 5G Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-lava-yuva-3-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Lava Yuva 3 Users</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-secrets-encased-exploring-e-commerce-realms-of-mystery-boxes/"><u>[New] Secrets Encased Exploring E-Commerce Realms of Mystery Boxes</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-guide-to-global-exploration-by-channel/"><u>[New] The Ultimate Guide to Global Exploration, By Channel</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-advice-on-acquiring-royalty-free-high-quality-graphics/"><u>2024 Approved Expert Advice on Acquiring Royalty-Free, High-Quality Graphics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/command-line-proficiency-decoding-errors-in-windows-through-advanced-troubleshooting-techniques/"><u>Command Line Proficiency: Decoding Errors in Windows Through Advanced Troubleshooting Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-fix-vlc-player-issues-with-playing-youtube-urls/"><u>How to Fix VLC Player Issues with Playing YouTube URLs</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-lava-yuva-2-by-fonelab-android-recover-music/"><u>How to restore wiped music on Lava Yuva 2</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-grandest-meme-makeover-utility/"><u>In 2024, Grandest Meme Makeover Utility</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/master-your-captions-the-top-10-precision-subtitle-editors/"><u>Master Your Captions The Top 10 Precision Subtitle Editors</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-video-cropping-essential-tips-and-tricks/"><u>Mastering the Art of Video Cropping: Essential Tips and Tricks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mkv-to-mp4-vlc/"><u>MKV to MP4変換 - VLCメディアプレーヤーで安定した品質保持</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mov-mp4wmv/"><u>MOVファイルの変換手順: MP4、WMVへの変換と元に戻し方</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/planifier-pour-la-vie-semaine-en-7-jours/"><u>Planifier Pour La Vie: Semaine en 7 Jours</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/preserving-high-resolution-effective-tips-for-sharing-gopro-videos-on-youtube/"><u>Preserving High Resolution: Effective Tips for Sharing GoPro Videos on YouTube</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/quick-guide-seamlessly-changing-your-ts-audio-into-mp3-format/"><u>Quick Guide: Seamlessly Changing Your TS Audio Into MP3 Format</u></a></li>
 </ul></div>
 

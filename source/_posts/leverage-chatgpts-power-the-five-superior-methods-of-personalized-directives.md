@@ -1,7 +1,7 @@
 ---
 title: "Leverage ChatGPT's Power: The Five Superior Methods of Personalized Directives"
-date: 2024-09-02T09:23:40.006Z
-updated: 2024-09-03T09:23:40.006Z
+date: 2024-11-30T19:28:13.741Z
+updated: 2024-12-07T19:56:56.814Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,10 @@ thumbnail: https://thmb.techidaily.com/60a777af346560d9b3330b89f1a2cdfdf0449c805
 
 ## Discover the Wonders of GPT-4: Universal Access Unveiled
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Is GPT-4o?](https://www.makeuseof.com/how-gpt-4o-works-is-it-free/#what-is-gpt-4o)
@@ -24,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/60a777af346560d9b3330b89f1a2cdfdf0449c805
  ChatGPT goes from strength to strength, and its new model, GPT-4o brings a heap of new features and upgrades to the world's leading AI chatbot.
 
 So, what is GPT-4o?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Is GPT-4o?
 
@@ -37,13 +45,18 @@ So, what is GPT-4o?
 
 ![openai gpt4o peformance chart may 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/openai-gpt4o-peformance-chart-may-2024.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [OpenAI](https://openai.com/index/hello-gpt-4o/)
 
  Now, numbers are all very well and good, but what does that actually translate to? Well, again, working from OpenAI's numbers, GPT-4o "matches GPT-4 Turbo performance" for English writing and coding, is significantly faster in "non-English languages," and, most importantly, is faster and cheaper in terms of API use.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## GPT-4o Live Capabilities Are Astounding
 
  I've worked in tech for a long time, and I've seen a lot of shiny new "game-changers" come and go. But GPT-4o's conversational speech is truly brilliant. GPT-4o can hold proper conversations with you, even allowing you to interrupt, change the conversation focus, change topics, and more, almost without skipping a beat.
@@ -56,9 +69,6 @@ So, what is GPT-4o?
 
  I was in Morocco recently, and even with Google Translate helping get some meaning into Arabic, the full context of the translation is never completely accurate. GPT-4o's live translation would have been incredibly useful!
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Coding and Tutoring
 
  GPT-4o also brings significant upgrades to code interpretation and assistance using its multi-modal capabilities. Similar to the other tools, yes, ChatGPT could already work with some data, but its new model drastically steps this up.
@@ -66,8 +76,9 @@ So, what is GPT-4o?
  The ability to debug code using just your voice is remarkable. However, its real use will only become clear when actual programmers and developers begin using the tool. While ChatGPT's coding abilities are useful, they're only as useful as the knowledge of the user, like most generative AI tools.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## When Does GPT-4o Launch? Is GPT-4o Free?
 
  GPT-4o launched immediately to ChatGPT Plus subscribers paying the $20 monthly fee. But, in another enormous moment for generative AI, OpenAI revealed that GPT-4o would launch for all users—including free users—in due course.
@@ -78,14 +89,11 @@ So, what is GPT-4o?
 
  GPT-4o will also bring a long-awaited ChatGPT desktop version, starting with macOS, but again, it hasn't launched yet.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -94,4 +102,21 @@ So, what is GPT-4o?
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-curated-list-of-premium-iphone-x7-camera-improvers-for-2024/"><u>[New] Curated List of Premium iPhone X/7 Camera Improvers for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/elve-into-discussions-of-dedicated-viewers/"><u>[New] Delve Into Discussions of Dedicated Viewers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-10-essential-tips-to-turnback-a-live-twitch-session/"><u>[Updated] 10 Essential Tips to Turnback a Live Twitch Session</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-elevate-your-content-tiktoks-top-10-filter-winners/"><u>[Updated] 2024 Approved Elevate Your Content TikTok's Top 10 Filter Winners</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-ideal-7-digital-photography-devices-for-high-quality-video-streams/"><u>[Updated] 2024 Approved Ideal 7 Digital Photography Devices for High-Quality Video Streams</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparing-creative-outputs-a-tale-of-three-chatbots-faced-with-a-common-challenge/"><u>Comparing Creative Outputs: A Tale of Three Chatbots Faced with a Common Challenge</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-truthgpt-the-next-gen-ai-that-could-change-everything-as-envisioned-by-elon-musk/"><u>Decoding TruthGPT: The Next-Gen AI That Could Change Everything, as Envisioned by Elon Musk</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-power-of-chatgpt-in-personal-healthcare-learn-why-its-worth-considering-now/"><u>Discover the Power of ChatGPT in Personal Healthcare – Learn Why It's Worth Considering Now</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elite-communities-for-artificinas-intelligentis-prompts/"><u>Elite Communities for Artificinas Intelligentis Prompts</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-apex-storage-wizards-best-of-android-cloud/"><u>In 2024, Apex Storage Wizards Best of Android Cloud</u></a></li>
+<li><a href="https://fox-http.techidaily.com/the-future-speaks-inspirational-metaverse-quotes-with-arvr/"><u>The Future Speaks Inspirational Metaverse Quotes with AR/VR</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-students-toolkit-utilizing-chatgpt-for-effective-writing-and-research-projects/"><u>The Student's Toolkit: Utilizing ChatGPT for Effective Writing & Research Projects</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Motorola Moto G04? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-televisions-unveiled-at-ces-2024-discoveries-from-tech-insider-zdnet/"><u>Top-Rated Televisions Unveiled at CES 2024 - Discoveries From Tech Insider ZDNet</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Understanding ChatGPT Jailbreaks: Benefits and Risks of Using Them"
-date: 2024-09-02T09:25:13.813Z
-updated: 2024-09-03T09:25:13.813Z
+date: 2024-11-30T18:18:34.711Z
+updated: 2024-12-07T16:53:38.463Z
 tags:
   - chatgpt
   - open-ai
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/2d67e14b0eb8d4077153a676b64f0ce1665316566
 
  You can still[use ChatGPT like a search engine](https://www.makeuseof.com/is-chatgpt-search-engine-threat/) . Just make sure you don’t take its answers at face value; otherwise, you might publish misleading information. As a general rule, always compare AI responses with official resources.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Language Models Like GPT-3 Follow Templates
 
  Modern AI platforms use[sophisticated language models like GPT-3](https://www.makeuseof.com/what-is-gpt-3-and-is-it-really-the-future-of-creative-work/) . They execute aggressive machine and deep learning methods to produce human-like text.
@@ -44,8 +48,9 @@ thumbnail: https://thmb.techidaily.com/2d67e14b0eb8d4077153a676b64f0ce1665316566
 ![ChatGPT Generated a 200-Word Article on Dogs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-article-about-dogs.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Overdependence on AI Makes You a Lazy Researcher
 
  AI has further simplified “research.” Instead of combing through Google search results, you can just ask chatbots and writing tools. They’ll provide brief, concise answers.
@@ -55,8 +60,9 @@ thumbnail: https://thmb.techidaily.com/2d67e14b0eb8d4077153a676b64f0ce1665316566
  Before writing, make sure you study your subject. Extensive research is the core of every well-written piece—spend at least 30 to 60 minutes reading online sources. You can provide value by comparing resources, laying down verified facts, and asserting well-founded conclusions. Simply paraphrasing what chatbots say is senseless.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. AI Scrapes Commonly Published Information
 
 ![Copy.ai Generates an Article on Taking Care of Dogs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/copy-ai-article-on-dogs.jpg)
@@ -65,13 +71,14 @@ thumbnail: https://thmb.techidaily.com/2d67e14b0eb8d4077153a676b64f0ce1665316566
 
 ![Copy.ai Lists Down Article Sources](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/copy-ai-article-sources.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Generic pieces rarely gain traffic. To attract readers and score higher SERP rankings, write original articles that are exclusive to your site. Stop rewriting stuff that everyone already knows.
 
  Of course, you can still discuss general subjects. Just make sure you cover a unique angle or stand that aligns with your branding and image.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. AI Generates the Same Results for Similar Questions
 
  While AI scans billions of resources, its answers contain the same information. Chatbots and writing tools generate formulaic text comprising repeated data, regardless of how you state questions. Restructuring prompts will only trigger sentence variations.
@@ -79,15 +86,13 @@ thumbnail: https://thmb.techidaily.com/2d67e14b0eb8d4077153a676b64f0ce1665316566
  For more accurate insights, double-check facts by visiting reputable, credible resources. Also, compare differing opinions. There are several ways to approach topics—you don’t have to copy the story angles of your AI tools.
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. AI Can’t Adopt Your Tone
 
 ![ChatGPT Generates Dog Articles in Different Tones](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-dog-articles-examples.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  AI writing tools and chatbots can structure responses in certain ways. For instance, the above photo shows that ChatGPT could form professional and casual variations of the same topic. Generally, if you insert specific keywords into your prompts, you’ll trigger detailed changes.
 
  Despite their advancements in mimicking human-like text, chatbots and writing tools still have limitations. They can’t wholly replicate tone. AI follows predetermined, formulaic templates, even when instructed to adopt a specific tone.
@@ -112,23 +117,17 @@ thumbnail: https://thmb.techidaily.com/2d67e14b0eb8d4077153a676b64f0ce1665316566
 
  Writers have differing opinions about the morality of publishing AI content and plagiarism, but as a respectable professional, you should do your own research. Never risk plagiarizing content. Study the topics for yourself, draw logical conclusions, then convey them in your own words.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Use AI Chatbots Responsibly
 
  Treat AI like a tool, not a content production department. Always remember that writing tools check for neither plagiarism nor factual accuracy. Publishing AI-generated pieces as is will plummet your site’s SERP ranking, hurt your credibility, and diminish your writing quality. It’s also hard to shake off the reputation of being a lazy, AI-dependent writer.
 
  With that said, writers don’t have to avoid AI altogether. Despite its shortcomings, it presents innovative features that will streamline your workflow and automate tedious tasks. Explore ways of responsibly utilizing it. For instance, AI could assist with non-writing activities like plagiarism detection, basic editing, keyword research, and site-building.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -137,4 +136,23 @@ thumbnail: https://thmb.techidaily.com/2d67e14b0eb8d4077153a676b64f0ce1665316566
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-noble-mic-necessities-for-youtube-newbies-on-the-cheap/"><u>[New] 2024 Approved Noble Mic Necessities for YouTube Newbies on the Cheap</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-craft-impeccable-sequences-editor-supreme-for-vimeo-for-2024/"><u>[New] Craft Impeccable Sequences Editor Supreme for Vimeo for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-garageband-strategies-for-perfect-podcast-editing-for-2024/"><u>[New] GarageBand Strategies for Perfect Podcast Editing for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-cross-platform-movie-recording-pc-mac-and-mobile/"><u>[New] In 2024, Cross-Platform Movie Recording PC, Mac & Mobile</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-top-10-emerging-youtube-channels-to-spark-motivation/"><u>[New] Top 10 Emerging YouTube Channels to Spark Motivation</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cult-of-the-lamb-on-pc-keep-crashing-heres-how-to-solve-it/"><u>Cult of the Lamb on PC Keep Crashing? Here's How to Solve It!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/experience-enhanced-convenience-why-chatgpt-deserves-a-spot-in-your-apple-devices-app-library/"><u>Experience Enhanced Convenience: Why ChatGPT Deserves a Spot in Your Apple Device's App Library</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gpt-4-universally-accessible-6-reasons-to-persist-with-platinum-plan/"><u>GPT-4 Universally Accessible; 6 Reasons to Persist with Platinum Plan.</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-itel-p40-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-leading-makers-premium-instagram-highlight-craftsmen/"><u>In 2024, Leading Makers Premium Instagram Highlight Craftsmen</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leading-platforms-for-ai-content-generation/"><u>Leading Platforms for AI Content Generation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/optimize-cover-letter-success-with-ai-powered-by-gpt-3/"><u>Optimize Cover Letter Success with AI Powered by GPT-3</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/perfecting-mp4-files-with-srt-a-modern-methodology/"><u>Perfecting MP4 Files with SRT - A Modern Methodology</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/programmers-dilemma-evaluating-chatgpt-and-gemini-for-top-notch-coding-performance/"><u>Programmer's Dilemma: Evaluating ChatGPT and Gemini for Top-Notch Coding Performance</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-selection-of-8-leading-crypto-conversational-agents-chatgpt-plugins/"><u>The Ultimate Selection of 8 Leading Crypto Conversational Agents (ChatGPT Plugins)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleashing-gpt-on-pc-the-freedomgpt-way/"><u>Unleashing GPT on PC: The FreedomGPT Way</u></a></li>
+</ul></div>
 

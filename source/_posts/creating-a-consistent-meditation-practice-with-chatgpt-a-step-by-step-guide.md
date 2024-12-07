@@ -1,7 +1,7 @@
 ---
 title: "Creating a Consistent Meditation Practice with ChatGPT: A Step-by-Step Guide"
-date: 2024-09-02T09:23:34.619Z
-updated: 2024-09-03T09:23:34.619Z
+date: 2024-12-01T16:29:52.150Z
+updated: 2024-12-07T19:21:10.477Z
 tags:
   - chatgpt
   - open-ai
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/f386bcd1cdef2e7eae82e10cf44eeb6665615e5a1
  For this week's show, we asked ChatGPT to help out with outlining and even writing the show. Here's a bit more information on[how we used ChatGPT to script the podcast](https://www.makeuseof.com/i-used-chatgpt-to-script-a-podcast-heres-what-happened/) .
 
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Shownotes
 
@@ -44,14 +48,11 @@ We finish the show with the following recommendations:
 
  Christian Cawley hosts this week's podcast, and is joined by Ben Stegner. You can contact them on Twitter:[@thegadgetmonkey](https://twitter.com/thegadgetmonkey) and[@stegnersaurus](https://twitter.com/stegnersaurus) , with your suggestions for future topics.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -60,8 +61,19 @@ We finish the show with the following recommendations:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/updated-discover-the-most-reliable-android-apps-to-replay-your-favorite-ps2-games-for-2024/"><u>[Updated] Discover the Most Reliable Android Apps to Replay Your Favorite PS2 Games for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-digital-doppelganger-designs-sketching-an-animated-self/"><u>[Updated] In 2024, Digital Doppelganger Designs Sketching an Animated Self</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-mastering-altitude-with-djis-new-gadget-for-2024/"><u>[Updated] Mastering Altitude with DJI's New Gadget for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/are-we-witnessing-generative-ais-role-expand-into-crafting-false-information-campaigns/"><u>Are We Witnessing Generative AI's Role Expand Into Crafting False Information Campaigns?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/automate-responses-using-chatgpt-on-whatsapp-for-better-support/"><u>Automate Responses Using ChatGPT on WhatsApp for Better Support</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/creative-utilization-tactics-for-gpt-models/"><u>Creative Utilization Tactics for GPT Models</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-picks-leading-watershield-phones-cases-of-2024-reviewed/"><u>Expert Picks: Leading Watershield Phones Cases of 2024 Reviewed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-boundaries-5-key-issues-with-using-chatgpt-for-crypto-investment-insights/"><u>Exploring the Boundaries: 5 Key Issues with Using ChatGPT for Crypto Investment Insights</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-simply-turn-off-your-insta-tv/"><u>In 2024, Simply Turn Off Your Insta TV</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-directories-not-empty-error-on-win11-with-0x80070091/"><u>Remedying Directories Not Empty Error on Win11 with #0X80070091</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-comprehensive-guide-to-authenticating-health-information-sourced-from-ai-tools/"><u>The Comprehensive Guide to Authenticating Health Information Sourced From AI Tools</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unbeatable-youtube-video-titling-assistant/"><u>Unbeatable YouTube Video Titling Assistant</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->

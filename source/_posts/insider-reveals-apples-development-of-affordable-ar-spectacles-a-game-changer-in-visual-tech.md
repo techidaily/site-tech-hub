@@ -1,7 +1,7 @@
 ---
 title: "Insider Reveals Apple's Development of Affordable AR Spectacles: A Game Changer in Visual Tech"
-date: 2024-11-15T23:27:01.841Z
-updated: 2024-11-18T21:02:44.862Z
+date: 2024-12-03T20:27:47.612Z
+updated: 2024-12-07T21:22:09.057Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ Training Load is also coming in WatchOS 11, allowing you to keep track of the st
 
 Serious athletes will likely be drawn to these features since this is the first time Apple has shipped recovery and strain tracking on its watches. But plenty of casual users may also find these features useful when in the process of adopting healthier habits.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Pause your rings
 
 Ever get sick one day or just need a break, but you're concerned about not keeping your streak to close your Apple Watch's rings? Now, you don't have to worry about missing out on the day's progress. In WatchOS 11, Apple is giving you the ability to pause your rings for a day, week, month, or longer until you're ready to get back in the game.
@@ -53,10 +57,7 @@ The feature plays into the Apple Watch's cycle-tracking experience, so everythin
 Apple
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More widgets for your Smart Stack, including Live Activities
@@ -70,10 +71,7 @@ Plus, Live Activities are coming to Smart Stack, so you can keep tabs on live ev
 Apple
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. The Photos face, powered by machine learning
@@ -90,19 +88,6 @@ Double tap gesture on Apple Watch Series 9.
 
 Jason Hiner/ZDNET
 
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Check In comes to your wrist
 
 With WatchOS 11, Apple is adding Check In. Originally launched in iOS 17, Check In allows you to keep track of a friend or loved one by having them confirm when they've reached their destination or have finished something like a gym session. Check In works within the Workout app and Messages.
@@ -118,15 +103,16 @@ Move over, Venmo. Also in iOS 18, Apple is bringing Tap to Cash to WatchOS 11\. 
 Apple is adding the Translate app to WatchOS 11, allowing you to translate in any of 20 supported languages. Previously, the app was available only on the iPhone and iPad. When you're traveling abroad where a supported language is spoken, it'll automatically pop up in your watch's Smart Stack. Otherwise, choose the target and source languages and speak the words you want to be translated. Tap the Play button, and the translation plays through your watch's internal speaker.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 10\. Improved workout tracking for GPS-specific workouts
 
 Soccer, American Football, Australian Football, Outdoor Hockey, Lacrosse, Downhill Skiing, Cross Country Skiing, Snowboarding, Golf, Outdoor Rowing, and other activities are being updated in WatchOS 11 to take advantage of enhancements in GPS positioning for more accurate results. You can also view your route maps for more workout types.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 11\. Tickets in your Wallet get an upgrade
 
@@ -166,20 +152,24 @@ Right now, [WatchOS 11 is available as a public beta](https://www.zdnet.com/arti
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-5-facebook-video-grabbers/"><u>[New] 2024 Approved 5 Facebook Video Grabbers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722973898623-download-and-install-the-latest-synaptics-driver-for-your-windows-tabletlaptop/"><u>Download & Install the Latest Synaptics Driver for Your Windows Tablet/Laptop!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/free-flexible-ais-for-practical-use-beyond-sora/"><u>Free, Flexible AIs for Practical Use: Beyond Sora</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/from-activision-hacks-to-ai-dominance-navigating-challenges-in-cybersecurity-and-job-security-amidst-technological-advances/"><u>From Activision Hacks to AI Dominance: Navigating Challenges in Cybersecurity and Job Security Amidst Technological Advances</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/future-of-work-identifying-positions-vulnerable-to-replacement-by-chatgpt-style-technology/"><u>Future of Work: Identifying Positions Vulnerable to Replacement by ChatGPT-Style Technology</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/generate-images-for-free-with-dall-e-3-through-microsoft-bing-integration/"><u>Generate Images for Free with DALL-E 3 Through Microsoft Bing Integration</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/getting-acquainted-with-gptzero-for-detecting-ais/"><u>Getting Acquainted with GPTZero for Detecting AIs</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/groundbreaking-developments-in-bard-ai-showcased-at-google-io-2cuyb3zunveiling-the-top-7-enthralling-updates-of-2023/"><u>Groundbreaking Developments in BARD AI Showcased at Google I/O 2Cuyb3z—Unveiling the Top 7 Enthralling Updates of 2023</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/holy-stone-rc-cartoon-race-car-review/"><u>Holy Stone RC Cartoon Race Car Review</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-safe-are-our-finances-can-chatgpt-become-a-tool-for-hacking-banks-and-pcs/"><u>How Safe Are Our Finances: Can ChatGPT Become a Tool for Hacking Banks and PCs?</u></a></li>
-<li><a href="https://techidaily.com/how-to-exit-recovery-mode-on-apple-iphone-12-mini-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on Apple iPhone 12 mini? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-samsung-galaxy-m34-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Samsung Galaxy M34.</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-an-ultimate-guide-about-video-resolution-for-beginners/"><u>In 2024, An Ultimate Guide About Video Resolution for Beginners</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-vivo-y200e-5g-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Vivo Y200e 5G</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/revolutionary-sound-enhancement-how-lgs-latest-tv-update-delights-apple-fans-exclusive-insight-from-zdnet/"><u>Revolutionary Sound Enhancement: How LG's Latest TV Update Delights Apple Fans - Exclusive Insight From ZDNet</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-exploring-the-monetization-framework-of-tseries-via-youtube-for-2024/"><u>[New] Exploring the Monetization Framework of TSeries via YouTube for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-professional-insights-mastering-the-craft-of-creating-stunning-slow-motion-content-for-instagram/"><u>[New] In 2024, Professional Insights Mastering the Craft of Creating Stunning Slow Motion Content for Instagram</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-recording-powerhouse-tactics-for-windows-10-aficionados/"><u>[New] Recording Powerhouse Tactics for Windows 10 Aficionados</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-endless-entertainment-the-science-behind-youtube-loops/"><u>[Updated] Endless Entertainment The Science Behind YouTube Loops</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/google-chromemozilla-firefoxmicrosoft-edgeweb/"><u>最新ガイド：Google Chrome・Mozilla Firefox・Microsoft Edgeで簡単にWebページのスクリーンショットを撮る方法</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/best-free-streaming-platforms-top-11-sites-for-downloading-tv-shows-and-movies-with-hd-quality/"><u>Best Free Streaming Platforms: Top 11 Sites for Downloading TV Shows & Movies with HD Quality</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-methods-for-converting-mmm-soundtracks-to-mp3-and-various-audio-types/"><u>Easy Methods for Converting MMM Soundtracks to MP3 and Various Audio Types</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/efficient-methods-for-transforming-mp4-files-into-flac-format-a-step-by-step-guide/"><u>Efficient Methods for Transforming MP4 Files Into FLAC Format: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortlessly-transform-google-presentations-into-high-quality-videos-with-these-simple-steps/"><u>Effortlessly Transform Google Presentations Into High-Quality Videos with These Simple Steps</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhance-your-kodi-experience-with-the-easy-groku-addon-setup-tutorial/"><u>Enhance Your Kodi Experience with the Easy Groku Addon Setup Tutorial</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/essential-instructions-for-crafting-a-custom-kodi-media-center-a-diy-beginners-approach/"><u>Essential Instructions for Crafting a Custom Kodi Media Center: A DIY Beginner's Approach</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/fc2ios-iphoneipad/"><u>FC2動画をiOSデバイスに転送するための最適化手順 - iPhone/iPad用</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/five-expert-tips-cutting-your-sounds-on-windows-10-without-spending-a-penny/"><u>Five Expert Tips: Cutting Your Sounds on Windows 10 Without Spending a Penny</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-6s-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 6s Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/instagram-video-troubleshooting-no-silence-full-sound-for-2024/"><u>Instagram Video Troubleshooting - No Silence, Full Sound for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/microsoft-surface-pro-4-driver-downloads-and-setup-instructions-easy-integration-with-windows-system/"><u>Microsoft Surface Pro 4 Driver Downloads & Setup Instructions: Easy Integration with Windows System</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/rndis-driver-download-and-update-for-windows-solved/"><u>RNDIS Driver Download & Update for Windows [SOLVED]</u></a></li>
 </ul></div>
 

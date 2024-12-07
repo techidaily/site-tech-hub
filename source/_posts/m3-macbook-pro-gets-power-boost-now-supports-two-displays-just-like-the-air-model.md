@@ -1,7 +1,7 @@
 ---
 title: "M3 MacBook Pro Gets Power Boost: Now Supports Two Displays, Just Like the Air Model"
-date: 2024-11-25T19:00:32.710Z
-updated: 2024-11-27T20:29:32.623Z
+date: 2024-11-30T17:58:12.272Z
+updated: 2024-12-07T18:52:33.061Z
 tags:
   - apple
 categories:
@@ -32,6 +32,10 @@ Want a little help deciding? Here's a breakdown of the biggest differences betwe
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Specifications
 
 | **MacBook Air M3** | **MacBook Air M2**                           |                                              |
@@ -56,10 +60,6 @@ Jason Hiner/ZDNET
 
 If you find yourself doing a lot of downloading for work, or you're a gamer, the MacBook Air with M3 features the new [Wi-Fi 6e standard](https://www.zdnet.com/home-and-office/networking/wi-fi-6e-the-future-of-wireless-connectivity-today-with-some-caveats/) that provides faster download speeds and lower latency -- provided you're using a Wi-Fi 6e router, of course. While you might not notice much of a difference for everyday tasks, if you do Wi-Fi-intensive tasks where latency is critical, you'll quickly appreciate the upgrade. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  2\. You use more than one monitor
 
 One of the biggest advantages of the M3, aside from the purely technical upgrades, is dual monitor support. While there are workarounds to use two monitors on the M2, they have some drawbacks and don't increase the actual number of display outputs supported by the hardware.
@@ -69,7 +69,7 @@ One of the biggest advantages of the M3, aside from the purely technical upgrade
 The M3 MacBook Air has [full connectivity](https://www.zdnet.com/article/you-can-use-your-m3-macbook-pro-with-dual-monitors-now-just-like-the-m3-macbook-air/) for two [external monitors](https://www.zdnet.com/home-and-office/smart-office/apple-studio-display-monitor-review/), so if you frequently work with more than one monitor, it's certainly worth upgrading. There is a small catch in that you can only use two external monitors while the laptop lid is closed. So you don't get your laptop's display _and_ two monitors; you just get the monitors.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  3\. You want the absolute best performance
@@ -91,7 +91,7 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You should buy the M2 MacBook Air if...
@@ -103,7 +103,7 @@ Cliff Joseph/ZDNET
 You don't get too many chances to save money on Apple products, but you have one here by opting for the M2 version of the MacBook Air. With the release of the M3 version. Apple has dropped the M2 MacBook Air's starting price to $999, but that price could drop further later in the year, opening the door for bigger savings. Even though the M2 is slightly older, it's still a perfectly capable laptop that will work fine for most people.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  2\. You don't need the latest and greatest features
@@ -119,7 +119,7 @@ If you were expecting a radical redesign with the latest MacBook, you won't get 
 [Buy the M2 MacBook Air View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F13-inch-m2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -156,21 +156,18 @@ If you were expecting a radical redesign with the latest MacBook, you won't get 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-find-the-right-aspect-ratio-for-your-video/"><u>[New] Find The Right Aspect Ratio For Your Video</u></a></li>
-<li><a href="https://games-able.techidaily.com/7-activision-blizzard-games-microsoft-should-revive/"><u>7 Activision Blizzard Games Microsoft Should Revive</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpts-ethical-standards-for-sourcing-data/"><u>ChatGPT's Ethical Standards for Sourcing Data</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/conversational-innovations-snapchat-vs-gpt-powered-chatter/"><u>Conversational Innovations: Snapchat vs GPT-Powered Chatter</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-the-top-8-ai-powered-apps-for-your-smartphone/"><u>Discover the Top 8 AI-Powered Apps for Your Smartphone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/free-online-image-converter-convert-raw-files-to-jpg-using-movavi-tool/"><u>Free Online Image Converter: Convert RAW Files to JPG Using Movavi Tool</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/future-of-computing-best-5-ai-hardware-advances/"><u>Future of Computing: Best 5 AI Hardware Advances</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-safe-are-non-official-chatgpt-plugins-and-addons/"><u>How Safe Are Non-Official ChatGPT Plugins & Addons?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-upgrade-your-amd-radeon-gpu-with-latest-software-version-2410/"><u>How To Upgrade Your AMD Radeon GPU with Latest Software Version 24.10</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on OnePlus Nord 3 5G | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-encore-list-top-pick-for-digital-music-tones/"><u>In 2024, The Encore List Top Pick for Digital Music Tones</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/latest-amd-radeon-hd-6450-graphics-card-driver-enhancements-for-windows-10/"><u>Latest AMD Radeon HD 6450 Graphics Card Driver Enhancements for Windows 10</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/leveraging-chatgpt-to-excel-in-your-next-interview/"><u>Leveraging ChatGPT to Excel in Your Next Interview</u></a></li>
-<li><a href="https://win-answers.techidaily.com/prevent-paladins-crashes-essential-tips-and-hacks-players/"><u>Prevent Paladins Crashes: Essential Tips and Hacks Players</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/register-now-navigate-through-microsofts-ai-integrated-bing-search-platform-easily/"><u>Register Now: Navigate Through Microsoft's AI Integrated Bing Search Platform Easily</u></a></li>
-<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-oppo-reno-9a-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Oppo Reno 9A FRP</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-the-ultimate-guide-cropping-and-editing-music-in-canva/"><u>[New] In 2024, The Ultimate Guide Cropping & Editing Music in Canva</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-unleash-potential-stardews-premium-mod-lineup-7-14/"><u>[New] In 2024, Unleash Potential Stardew's Premium Mod Lineup #7-14</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unveiling-subscriber-lists-a-youtube-guide-for-2024/"><u>[Updated] Unveiling Subscriber Lists A YouTube Guide for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bringing-serenity-to-chaos-mastery-through-gpt-techniques/"><u>Bringing Serenity to Chaos: Mastery Through GPT Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/deciphering-real-health-tips-effective-verification-techniques-with-chatgpt-and-artificial-intelligence/"><u>Deciphering Real Health Tips: Effective Verification Techniques with ChatGPT & Artificial Intelligence</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-do-copyright-regulations-apply-to-creations-made-by-machine-learning-algorithms/"><u>How Do Copyright Regulations Apply to Creations Made by Machine Learning Algorithms?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-reliable-is-chatgpt-in-crafting-your-tailored-workout-programs-safely/"><u>How Reliable Is ChatGPT in Crafting Your Tailored Workout Programs Safely?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/integrating-chatgpt-api-essential-techniques-and-best-practices/"><u>Integrating ChatGPT API: Essential Techniques and Best Practices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-detailed-hardware-breakdowns-from-toms-team/"><u>Mastering Technology: Detailed Hardware Breakdowns From Tom's Team</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/one-on-one-text-versus-plugin-enriched-gpt-exchanges/"><u>One-on-One Text Versus Plugin-Enriched GPT Exchanges</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolving-issues-with-microsofts-compliant-battery-driver-under-the-acpi-framework/"><u>Resolving Issues with Microsoft's Compliant Battery Driver Under the ACPI Framework</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-the-binkw32dll-error-expert-strategies-and-solutions/"><u>Troubleshooting the Binkw32.dll Error: Expert Strategies and Solutions</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unleash-portable-energy-with-poweradd-pilot-pro2-expert-review-on-multi-device-charger/"><u>Unleash Portable Energy with POWERADD Pilot Pro2 - Expert Review on Multi-Device Charger</u></a></li>
 </ul></div>
 

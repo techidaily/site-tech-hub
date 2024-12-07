@@ -1,7 +1,7 @@
 ---
 title: The Comprehensive Guide to Authenticating Health Information Sourced From AI Tools
-date: 2024-09-02T09:25:01.192Z
-updated: 2024-09-03T09:25:01.192Z
+date: 2024-12-04T20:05:05.078Z
+updated: 2024-12-07T20:13:43.257Z
 tags:
   - chatgpt
   - open-ai
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/1c99e9418ecc4dc629f64c0ecebd23df13aefb6fa
 ## Exploring the Potential of Generative AI as a Modern Conduit for False Information Dissemination
 
  Artificial Intelligence (AI) now plays a role in various aspects of our lives. Specifically, generative AI tools such as ChatGPT and others have grown significantly. This means that there will be an abundance of AI-generated content in the future.However, generative AI also introduces the risk of AI-generated disinformation. Its features make it easier for opportunistic individuals to spread false information. So, let's explore how generative AI is being utilized for disinformation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Potential Risks of Generative AI to Spread Disinformation
 
@@ -38,8 +42,9 @@ False news can be categorized into three types:
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. Generating Fake Content Online
 
  Creating fake content using generative AI is a common strategy employed by those who spread false news. They use popular generative AI tools like ChatGPT, DALL-E, Bard, Midjourney, and others to produce various types of content. For example,[ChatGPT can help content creators in many ways](https://www.makeuseof.com/how-chatgpt-can-help-content-creators/) . But it can also generate social media posts or news articles that may deceive people.
@@ -51,13 +56,11 @@ Here's the fictitious article that ChatGPT came up with:
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ### 2\. Using Chatbots to Influence People's Opinions
 
  Chatbots that rely on generative AI models can employ various tactics to influence people's opinions, including:
@@ -70,8 +73,9 @@ Here's the fictitious article that ChatGPT came up with:
  These examples all illustrate how chatbots can be utilized to mislead people.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Creating AI DeepFakes
 
  Someone can use deepfakes to create false videos of an individual saying or doing things they never did. They can use such tools for social engineering or running smear campaigns against others. Moreover, in today's meme culture, deepfakes can serve as tools for cyberbullying on social media.
@@ -89,8 +93,9 @@ Here's the fictitious article that ChatGPT came up with:
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by[The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Spot AI-Spread Disinformation
 
  Combating the spread of disinformation facilitated by AI is a pressing issue in today's world. So how can you spot false information that's been made by AI?
@@ -102,23 +107,17 @@ Here's the fictitious article that ChatGPT came up with:
 
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Beware of Disinformation Spread by AI
 
  Generative software has played a crucial role in advancing AI. Still, they can also be a significant source of disinformation in society. These affordable tools have enabled anyone to create different types of content using sophisticated AI models; their ability to generate content in large quantities and incorporate deepfakes makes them even more dangerous.
 
  It's important that you're aware of the challenges of disinformation in the AI era. Understanding how AI can be used to spread fake news is the first step towards protecting yourself from misinformation.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -127,4 +126,26 @@ Here's the fictitious article that ChatGPT came up with:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-maximize-sharing-tiktok-video-broadcasts-on-facebook/"><u>[New] 2024 Approved Maximize Sharing TikTok Video Broadcasts on Facebook</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-captivating-movement-a-guide-to-perfect-canon-timelapses/"><u>[New] In 2024, Captivating Movement A Guide to Perfect Canon Timelapses</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-pushing-the-limits-with-gopro-film-techniques/"><u>[New] Pushing the Limits with GoPro Film Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/avoiding-common-missteps-with-autoai-tools/"><u>Avoiding Common Missteps with AutoAI Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boosting-dungeons-and-dragons-adventures-mastering-the-art-of-integrating-chatgpt/"><u>Boosting Dungeons & Dragons Adventures: Mastering the Art of Integrating ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-ai-prompt-injections-insight-into-their-functionality-and-security-risks/"><u>Decoding AI Prompt Injections: Insight Into Their Functionality & Security Risks</u></a></li>
+<li><a href="https://win-best.techidaily.com/diy-guide-overcoming-hard-disk-error-codes-with-4-proven-fixes-for-a-successful-dst-short-test/"><u>DIY Guide: Overcoming Hard Disk Error Codes with 4 Proven Fixes for a Successful DST Short Test</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/explore-these-exceptional-alternatives-to-chatgpt-for-seamless-interactions/"><u>Explore These Exceptional Alternatives to ChatGPT for Seamless Interactions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-call-of-duty-modern-warfare-3s-fps-stuttering-issue-in-early-2024/"><u>How to Fix Call of Duty Modern Warfare 3'S FPS Stuttering Issue in Early 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-acceleration-station-top-gif-speed-editors-online-and-on-the-go/"><u>In 2024, Acceleration Station Top GIF Speed Editors Online and On-The-Go</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leveraging-ai-for-routine-mindfulness-engagement/"><u>Leveraging AI for Routine Mindfulness Engagement</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-in-browser-ai-the-ultimate-guide-to-deploying-ai-agents-using-agentgpt/"><u>Mastering In-Browser AI: The Ultimate Guide to Deploying AI Agents Using AgentGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastery-of-hugging-face-comprehending-its-role-in-advancing-natural-language-processing/"><u>Mastery of Hugging Face: Comprehending Its Role in Advancing Natural Language Processing</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>Reasons why Pokémon GPS does not Work On Apple iPhone SE? | Dr.fone</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/refreshening-your-storage-device-with-quick-batal-formatting-techniques-a-step-by-step-guide-for-indonesian-users/"><u>Refreshening Your Storage Device with Quick BATAL Formatting Techniques: A Step-by-Step Guide for Indonesian Users</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/solving-the-issue-of-spontaneous-windows-powershell-launches-in-your-system/"><u>Solving the Issue of Spontaneous Windows PowerShell Launches in Your System</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/supercharged-solutions-utilizing-ai-to-boost-project-potentials/"><u>Supercharged Solutions: Utilizing AI to Boost Project Potentials</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-messaging-apps-register-on-platforms-like-chatgpt-telegram-and-whatsapp-without-your-cellphone-number/"><u>Unlocking Messaging Apps: Register on Platforms Like ChatGPT, Telegram & WhatsApp without Your Cellphone Number</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722969268997-updated-version-of-hp-designjet-500-drivers-now-available-for-free/"><u>Updated Version of HP DesignJet 500 Drivers - Now Available for Free</u></a></li>
+</ul></div>
 

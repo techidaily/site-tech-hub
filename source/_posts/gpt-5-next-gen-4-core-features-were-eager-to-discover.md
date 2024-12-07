@@ -1,7 +1,7 @@
 ---
 title: "GPT-5 Next Gen: 4 Core Features We're Eager to Discover"
-date: 2024-09-02T09:26:38.664Z
-updated: 2024-09-03T09:26:38.664Z
+date: 2024-12-04T21:04:27.790Z
+updated: 2024-12-07T17:19:12.787Z
 tags:
   - chatgpt
   - open-ai
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 
  Still, no matter the due date, there are a few key features we want to see when GPT-5 launches.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is OpenAI's GPT-5?
 
  GPT-5 is the highly anticipated successor to OpenAI's GPT-4 AI model, widely expected to be the most powerful generative model in the market. While there is currently no official release date for GPT-5, there are indications it could be released as early as the summer of 2024\. Very little detail about the model is known at this time, but several things can be said with some amount of certainty:
@@ -39,16 +43,14 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 
  These all point to one exciting reality: GPT-5 is coming! That said, quite a lot of things are speculations at this point. But there are a few things we hope to see and are fairly confident of seeing in the model. Here are some of them:
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ## 1\. More Multimodality
 
 ![OpenAI Sora text-to-video generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/openai-sora-text-to-video-generator.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  One of the most exciting improvements to the GPT family of AI models has been multimodality. For clarity, multimodality is the ability of an AI model to process more than just text but also other types of inputs like images, audio, and video. Multimodality will be an important advancement benchmark for the GPT family of models going forward.
 
  With GPT-4 already adept at handling image inputs and outputs, improvements covering audio and video processing are the next milestone for OpenAI, and GPT-5 is a good place to start. Google is already making serious headway with this sort of multimodality with its Gemini AI model. It would be uncharacteristic of OpenAI not to respond. But, of course, don't take our word for it. In his[Unconfuse Me podcast](https://assets.gatesnotes.com/8a5ac0b3-6095-00af-c50a-89056fbe4642/f0d6c3f0-00cc-4ab6-93cc-7f1d7fd3246e/Unconfuse-Me-with-Bill-Gates-episode-6-TGN-transcript.pdf) \[PDF transcript\], Bill Gates asked OpenAI CEO Sam Altman what milestones he foresaw for the GPT series in the next two years. His first answer? Video Processing.
@@ -56,16 +58,17 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
  So, for GPT-5, we expect to be able to play around with videos—upload videos as prompts, create videos on the go, edit videos with text prompts, extract segments from videos, and find specific scenes from large video files. We expect to be able to do similar things to audio files. It's a big ask, yes. But given how fast AI development is, it's a very reasonable expectation.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Larger and More Efficient Context Window
 
 ![Monitor on a desk with OpenAI logo](https://thmb.techidaily.com/0d605cbff29d9fac95ea636e3f1dc6722b73dcac2e7b43e02dacf71b94afcc8e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Ralf Jhetner Borja/[flickr](https://www.flickr.com/photos/198726053@N04/53043766807/)
 
  Despite being one of the most sophisticated AI models in the market, the GPT family of AI models has one of the smallest context windows. For instance,[Google's Gemini can process a staggering 1 million tokens](<http://C:\Users\DELL\Desktop\Chatbase> images\OpenAI Sora text-to-video generator.jpg) , while[ Google's Gemini can process a staggering 1 million tokens](https://www.makeuseof.com/why-gemini-context-window-is-a-game-changer/) (128,000 for standard usage). In contrast, GPT-4 has a relatively smaller context window of 128,000 tokens, with approximately 32,000 tokens or fewer realistically available for use on interfaces like ChatGPT.
@@ -75,15 +78,13 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  You see, a model might have a one million token context window (around 700,000 words capacity) but fail to produce a comprehensive summary when asked to summarize a 500,000-word book because it can't adequately process the entirety of the context despite having the capacity to do so in theory. That you can read a 500k-word book does not mean you can recall everything in it or process it sensibly.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. GPT Agents
 
 ![ChatGPT accessed on a smartphone](https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51ce8909742113d79362ddfedd.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/vancouver-canada-jan-23-2024-webpage-2417500449)
 
  Perhaps one of the most exciting possibilities of a GPT-5 release is the debut of GPT Agents. While the term "game-changer" has probably been overused in AI, GPT agents would truly be game-changers in every practical sense. But just how game-changing would this be?
@@ -110,14 +111,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  As we eagerly await the official release of this highly anticipated AI model, one thing is certain: GPT-5 has the potential to redefine the boundaries of what is possible with artificial intelligence, ushering in a new era of human-machine collaboration and innovation.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -126,4 +124,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-elevate-your-hiring-game-with-the-best-vids-in-town/"><u>[New] In 2024, Elevate Your Hiring Game with the Best Vids in Town</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-how-to-make-reels-on-facebook/"><u>[New] In 2024, How to Make Reels on Facebook?</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-music-management-made-simple-in-inshot/"><u>[New] Music Management Made Simple in InShot</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/he-ultimate-money-making-guide-to-streaming-services/"><u>[New] The Ultimate Money-Making Guide to Streaming Services</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-desktop-merging-images-seamlessly/"><u>2024 Approved Mastering Desktop Merging Images Seamlessly</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/honor-data-retrieval-tool-restore-lost-data-from-honor-play-7t-by-fonelab-android-recover-data/"><u>Honor Data Retrieval tool – restore lost data from Honor Play 7T</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/remove-device-supervision-from-your-apple-iphone-se-by-drfone-ios/"><u>Remove Device Supervision From your Apple iPhone SE</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-to-restoring-your-google-map-experience-when-problems-arise/"><u>Step-by-Step Guide to Restoring Your Google Map Experience when Problems Arise</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-switching-keyboard-layouts-in-windows-11/"><u>Step-by-Step Guide: Switching Keyboard Layouts in Windows 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-updating-your-applications-in-windows-11/"><u>Step-by-Step Guide: Updating Your Applications in Windows 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-discovering-all-saved-pictures-in-windows-11-system/"><u>Step-by-Step Tutorial: Discovering All Saved Pictures in Windows 11 System</u></a></li>
+<li><a href="https://common-error.techidaily.com/stop-dns-errors-in-their-tracks-with-these-4-user-friendly-fixes/"><u>Stop DNS Errors in Their Tracks with These 4 User-Friendly Fixes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-golden-era-of-pc-gaming-unmatched-quality-despite-abundance-of-game-launchers/"><u>The Golden Era of PC Gaming: Unmatched Quality Despite Abundance of Game Launchers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-new-surface-laptop-6-from-microsoft-not-available-at-retailers/"><u>The New Surface Laptop 6 From Microsoft – Not Available at Retailers!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/the-ultimate-walkthrough-transitioning-from-older-systems-to-the-new-windows-11-os/"><u>The Ultimate Walkthrough: Transitioning From Older Systems to the New Windows 11 OS</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-10-essential-batch-file-scripts-for-power-users-on-windows/"><u>Top 10 Essential Batch File Scripts for Power Users on Windows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-9-methods-for-launching-powershell-on-windows-10-pcs/"><u>Top 9 Methods for Launching PowerShell on Windows 10 PCs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transforming-date-and-time-formats-on-your-windows-11-system-a-step-by-step-guide/"><u>Transforming Date and Time Formats on Your Windows 11 System: A Step-by-Step Guide</u></a></li>
+</ul></div>
 
