@@ -1,7 +1,7 @@
 ---
 title: "Electron Capture Detector (ECD):"
-date: 2024-12-02T18:58:56.860Z
-updated: 2024-12-07T19:27:37.420Z
+date: 2024-12-09T20:24:20.489Z
+updated: 2024-12-13T19:23:39.828Z
 tags:
   - apple
 categories:
@@ -19,6 +19,10 @@ Whether you're trying to demonstrate a bug to a tech support rep or you're demon
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to screen record on any iPhone
 
@@ -38,7 +42,7 @@ This is the Screen Recording option we'll be adding to Control Center
 Michael Gariffo
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Add the Screen Recording button to your Control Center
@@ -52,7 +56,7 @@ This is the screen recording button we'll use to start the recording.
 Michael Gariffo
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Open your Control Center
@@ -65,10 +69,6 @@ While recording, your Screen Recording button will look like this (minus the red
 
 Michael Gariffo
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Begin screen recording
 
 When you're ready to begin recording, tap the Screen Recording button. This starts a 3-second countdown. At the end of it, the recording will begin. This countdown time can be used to close the Control Center and get back to the true subject of your Screen Recording before the video capture actually begins. 
@@ -80,7 +80,7 @@ Your clock will look like this as long as Screen Recording is active.
 Michael Gariffo
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 5: Record
@@ -91,10 +91,6 @@ This is the confirmation box that will appear when you stop your recording.
 
 Michael Gariffo
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. End your recording
 
 When you're ready to end your recording, there are two ways to stop it. The first is to tap the red clock in the top left of your screen. This will produce a dialogue box like the one seen above. You'll need to tap "Stop" to end your recording. If you're in a full-screen app that hides the clock, you can also once again pull out your Control Center and tap the Screen Recording button. If you use this second method, the recording will end immediately, with no confirmation required. 
@@ -104,6 +100,10 @@ In both cases, the recording you just produced will immediately be saved to your
 **Also:** [How to record a call on your iPhone](https://www.zdnet.com/article/how-to-record-a-phone-call-on-your-iphone/)
 
 ## FAQs
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What does the Screen Recording app actually capture?
 
@@ -153,22 +153,19 @@ Be aware that some apps, particularly email and messaging apps that don't rely o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-perfect-virtual-scenes-enhancing-zoomgoogle-experience/"><u>[New] In 2024, Perfect Virtual Scenes Enhancing Zoom/Google Experience</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-get-started-signing-up-for-a-youtube-channel/"><u>[Updated] How to Get Started Signing Up for a YouTube Channel</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-top-12-effortless-typing-solutions-on-ios-and-android-the-ultimate-keyboard-app-selection/"><u>Discover the Top 12 Effortless Typing Solutions on iOS & Android: The Ultimate Keyboard App Selection</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723207952817-easy-solutions-to-common-file-explorer-problems-in-windows-10/"><u>Easy Solutions to Common File Explorer Problems in Windows 10!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-for-fixing-the-0x80240034-update-issue-in-your-windows-10-system/"><u>Expert Tips for Fixing the 0X80240034 Update Issue in Your Windows 10 System</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/from-concept-to-completion-utilizing-luts-effectively-in-premiere-pro/"><u>From Concept to Completion Utilizing LUTs Effectively in Premiere Pro</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-5-best-live-streaming-software-for-mac-you-must-know/"><u>In 2024, 5 Best Live Streaming Software for Mac You Must Know</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/inside-on-device-intelligence-functionality-and-advantages-for-smartphones/"><u>Inside On-Device Intelligence: Functionality & Advantages for Smartphones</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-it-feasible-to-obtain-custom-exercise-routines-that-are-both-secure-and-productive-via-chatgpt/"><u>Is It Feasible to Obtain Custom Exercise Routines That Are Both Secure and Productive via ChatGPT?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-it-possible-for-chatgpt-to-create-personalized-secure-fitness-routines/"><u>Is It Possible for ChatGPT to Create Personalized, Secure Fitness Routines?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-social-media-engagement-strategies-with-chatgpt/"><u>Mastering Social Media Engagement: Strategies with ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionize-your-workflow-discover-8-key-benefits-of-implementing-chatgpt-vision/"><u>Revolutionize Your Workflow: Discover 8 Key Benefits of Implementing ChatGPT Vision</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/talk-titans-clash-understanding-distinct-chatbot-traits/"><u>Talk Titans Clash: Understanding Distinct Chatbot Traits</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-battle-for-video-editing-supremacy-final-cut-pro-vs-lumafusion/"><u>The Battle for Video Editing Supremacy Final Cut Pro vs LumaFusion</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-verdict-on-secretlabs-titan-evo-gen-7-a-top-pick-for-gamers/"><u>The Ultimate Verdict on Secretlab's Titan Evo Gen-7 : A Top Pick for Gamers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlock-creative-writing-potential-top-9-ways-to-use-chatgpt-for-your-novel/"><u>Unlock Creative Writing Potential: Top 9 Ways to Use ChatGPT for Your Novel</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-digital-success-how-chatgpt-facilitates-your-web-design-journey/"><u>Unlocking Digital Success: How ChatGPT Facilitates Your Web Design Journey</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-how-much-do-youtube-clips-pay-per-view/"><u>[New] 2024 Approved How Much Do YouTube Clips Pay Per View?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-captureone-expert-tutorial-series/"><u>[Updated] CaptureOne Expert Tutorial Series</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-bridging-gaps-using-markers-for-smooth-transition-sequences/"><u>[Updated] In 2024, Bridging Gaps Using Markers for Smooth Transition Sequences</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-initiate-internet-income-low-cost-youtube-channel-buys/"><u>[Updated] Initiate Internet Income Low-Cost YouTube Channel Buys</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparing-ipad-air-4-and-ipad-air-5-is-it-time-to-switch-devices-tips-for-tech-enthusiasts/"><u>Comparing iPad Air 4 & iPad Air 지 5: Is It Time To Switch Devices? - Tips for Tech Enthusiasts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/elevate-your-slides-with-auditory-elements-powerpoint/"><u>Elevate Your Slides with Auditory Elements (PowerPoint)</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/farming-fiesta-fun-pack-the-ultimate-agritainment-guide-for-2024/"><u>Farming Fiesta Fun-Pack The Ultimate Agritainment Guide for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovating-artificial-minds-how-apples-recent-ai-breakthroughs-are-shaping-the-future-of-technology-nextgentech-news/"><u>Innovating Artificial Minds: How Apple's Recent AI Breakthroughs Are Shaping the Future of Technology | NextGenTech News</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-free-video-editing-magic-top-special-effects-apps-for-ios-and-android/"><u>New In 2024, Free Video Editing Magic Top Special Effects Apps for iOS and Android</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-3-cutting-edge-innovations-in-the-iphone-16-reasons-to-get-pumped-for-an-upgrade-guide/"><u>Top 3 Cutting-Edge Innovations in the iPhone 16: Reasons to Get Pumped for an Upgrade! Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-productivity-apps-for-ipad-streamline-your-tasks-and-improve-efficiency-insights/"><u>Top Productivity Apps for iPad: Streamline Your Tasks & Improve Efficiency - Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-guide-discontinuing-your-subscription-to-apple-music-without-using-itunes-insights-from-zdnet/"><u>Ultimate Guide: Discontinuing Your Subscription to Apple Music Without Using iTunes - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-anticipation-is-the-upcoming-lg-headset-a-meta-quest-3-pro-or-an-exclusive-release/"><u>Unveiling Anticipation - Is the Upcoming LG Headset A Meta Quest 3 Pro or an Exclusive Release?</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/vivid-validation-authentic-user-videos/"><u>Vivid Validation: Authentic User Videos</u></a></li>
 </ul></div>
 

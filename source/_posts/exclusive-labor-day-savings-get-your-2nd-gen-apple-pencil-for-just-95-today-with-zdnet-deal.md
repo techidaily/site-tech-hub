@@ -1,7 +1,7 @@
 ---
 title: Exclusive Labor Day Savings! Get Your 2Nd Gen Apple Pencil for Just $95 Today with ZDNET Deal
-date: 2024-12-03T19:37:04.327Z
-updated: 2024-12-07T20:53:09.203Z
+date: 2024-12-07T16:32:05.158Z
+updated: 2024-12-13T18:34:32.075Z
 tags:
   - apple
 categories:
@@ -34,7 +34,7 @@ By using the Apple Pencil with your iPad (specifically, the iPad Pro 2022 model)
 Get the [Apple Pencil (2nd Gen)](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Pencil-2nd-Generation-Pixel-Perfect-Precision-Industry-Leading-Low-Latency-Perfect-Note-Taking-Drawing-Signing-documents-Attaches-Charges-Pairs%2F949679706&subId1=zd-__COM_CLICK_ID__-dtp) with $35 in savings right now if you want to upgrade your iPad stylus. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -71,15 +71,19 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-building-business-via-beauty-vlogs/"><u>[New] Building Business via Beauty Vlogs</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-benq-sw320-monitor-reveal-a-spectacle-in-4k-technology/"><u>[Updated] BenQ SW320 Monitor Reveal A Spectacle in 4K Technology</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-step-into-a-tiktok-realm-a-guide-for-joining-lives/"><u>[Updated] In 2024, Step Into a TikTok Realm A Guide for Joining Lives</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-realme-12-pro-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Realme 12 Pro 5G</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fix-guide-overcoming-workspace-failure-in-win-office/"><u>Quick-Fix Guide: Overcoming Workspace Failure in Win Office</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-to-capturing-4k-60hz-clips-from-youtube/"><u>Step-by-Step Guide to Capturing 4K @ 60Hz Clips From YouTube</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-to-elevate-your-screen-captures-visual-fidelity/"><u>Step-by-Step Guide to Elevate Your Screen Capture's Visual Fidelity</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-instructions-on-separating-audio-tracks-in-wmv-format-both-web-and-desktop-solutions/"><u>Step-by-Step Instructions on Separating Audio Tracks in .WMV Format, Both Web and Desktop Solutions.</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/stream-elysium-anywhere-the-ultimate-guide-to-digital-copy-download/"><u>Stream 'Elysium' Anywhere – The Ultimate Guide to Digital Copy Download</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/troubleshooting-steps-for-pc-players-of-granblue-fantasy-with-recurring-relink-glitches/"><u>Troubleshooting Steps for PC Players of Granblue Fantasy with Recurring ReLink Glitches</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-blades-high-dynamic-range-redefined-in-four-kaps/"><u>[New] Blade's High Dynamic Range Redefined in Four Kaps</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-the-art-of-using-videos-in-education/"><u>[Updated] The Art of Using Videos in Education</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/battle-of-the-bots-evaluating-chatgpt-and-geminis-programming-skills/"><u>Battle of the Bots: Evaluating ChatGPT and Gemini's Programming Skills</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-and-content-creation-avoiding-4-major-blunders-for-successful-results/"><u>ChatGPT and Content Creation: Avoiding 4 Major Blunders for Successful Results</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-desktop-coming-soon-get-started-with-the-best-open-source-solutions-today/"><u>ChatGPT Desktop Coming Soon? Get Started with the Best Open Source Solutions Today!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-sign-up-intermission-explained-when-are-new-slots-expected-to-resume/"><u>ChatGPT Sign-Up Intermission Explained – When Are New Slots Expected to Resume?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/debunking-gpt-as-a-malware-creation-tool/"><u>Debunking GPT as a Malware Creation Tool</u></a></li>
+<li><a href="https://fox-access.techidaily.com/from-amateurs-to-pros-transformative-steps-in-gopro-timelapses/"><u>From Amateurs to Pros Transformative Steps in GoPro Timelapses</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-itel-p55plus-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Itel P55+ Device</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-plug-in-proweries-expert-analysis/"><u>In 2024, PLUG-IN PROWERIES Expert Analysis</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/pixelpie-cutter-for-2024/"><u>PixelPie Cutter for 2024</u></a></li>
+<li><a href="https://techidaily.com/tecno-spark-20-pro-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Tecno Spark 20 Pro support - Forgotten screen lock.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-6-in-1-usb-c-port-expansion-kit-upgrade-from-faulty-wires-with-a-superior-solution/"><u>Top 6-in-1 USB-C Port Expansion Kit: Upgrade From Faulty Wires with a Superior Solution</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-romance-discover-the-most-captivating-love-songs-of-2024-to-serenade-on-v-day-now-downloadable/"><u>Ultimate Romance: Discover the Most Captivating Love Songs of 2024 to Serenade on V-Day, Now Downloadable!</u></a></li>
 </ul></div>
 

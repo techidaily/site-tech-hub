@@ -1,7 +1,7 @@
 ---
 title: Top Trends Shaping Today’s Mobile Landscape - From AI Integration to Revolutionary Phone Design | Tech Insights by ZDNET
-date: 2024-11-30T19:29:54.194Z
-updated: 2024-12-07T19:42:43.366Z
+date: 2024-12-07T21:17:01.633Z
+updated: 2024-12-13T20:57:46.276Z
 tags:
   - apple
 categories:
@@ -31,19 +31,23 @@ Read on for a look at some of the new accessibility features coming to Apple har
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New eye-tracking features
 
 Apple is bringing a new feature to both iOS and iPadOS that will let you navigate your iPhone and iPad with just your eye movements. The feature uses the device's front-facing camera to track your eye movements and let you move through apps. Apple said that its new Eye Tracking feature will work across both its own and third-party apps, and will work with gestures powered solely by eye movements.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Apple Music haptics
 
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Addressing motion sickness
@@ -55,7 +59,7 @@ Motion sickness in cars can often be the result of a disconnect between what you
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Understanding speech
@@ -65,7 +69,7 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New CarPlay features
@@ -73,10 +77,6 @@ Another feature, Listen for Atypical Speech, will use machine learning to unders
 Apple's in-car CarPlay software is also getting new accessibility features, including the ability for you to navigate CarPlay and engage with apps using only your voice. A new Sound Recognition feature will display alerts on CarPlay's screen when car horns or sirens go off, and Color Filters will make CarPlay easier to use for colorblind users.
 
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Some other updates
 
@@ -112,16 +112,20 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-10-best-apps-for-editing-igtv-vertical-videos/"><u>[New] 2024 Approved 10 Best Apps for Editing IGTV Vertical Videos</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-hot-off-the-internet-discover-amazons-30-tiktok-must-haves/"><u>[New] 2024 Approved Hot Off the Internet? Discover Amazon's 30 TikTok Must-Haves</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-education-enhancement-the-art-of-lecture-transcription-on-macos/"><u>[Updated] 2024 Approved Education Enhancement The Art of Lecture Transcription on MacOS</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/augment-your-workflow-access-8-personalized-ais/"><u>Augment Your Workflow: Access 8 Personalized AIs</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-oneplus-ace-2-pro-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost OnePlus Ace 2 Pro for Free? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-motorola-moto-g84-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Motorola Moto G84 5G to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-the-world-of-ai-assistants-determining-whos-best-between-chatgpt-bing-by-microsoft-and-bard-from-google/"><u>Navigating the World of AI Assistants: Determining Who's Best Between ChatGPT, Bing by Microsoft, and Bard From Google</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-music-after-redmi-13c-5g-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after Redmi 13C 5G has been deleted</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-verdict-on-virtual-assistance-is-chatgpts-health-advice-credible/"><u>The Verdict on Virtual Assistance: Is ChatGPT's Health Advice Credible?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transform-your-smartphone-with-chatgpt-and-android/"><u>Transform Your Smartphone with ChatGPT & Android</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlock-advanced-problem-solving-with-these-7-ai-math-tools/"><u>Unlock Advanced Problem-Solving with These 7 AI Math Tools</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-the-ultimate-benq-sw320-review-a-journey-to-4k/"><u>[Updated] In 2024, The Ultimate BenQ SW320 Review A Journey to 4K</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1-finding-liquid-inside-iphone-charger-port-how-to-respond-expert-tips-from-tech-bloggers/"><u>1. 'Finding Liquid Inside iPhone Charger Port: How to Respond?' - Expert Tips From Tech Bloggers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/echoharvest-app-reviews-step-by-step-guide/"><u>EchoHarvest App Reviews Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/tive-approach-to-swiftly-eliminate-video-comments-for-2024/"><u>Effective Approach to Swiftly Eliminate Video Comments for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-sound-mastery-with-sonos-s2-app-unveiled-benefits-and-surprises-revealed/"><u>Effortless Sound Mastery with Sonos S2 App Unveiled: Benefits and Surprises Revealed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-apple-vision-pro-a-2-day-test-drive-and-top-3-insights-insiders-report-from-zdnet/"><u>Exploring the Apple Vision Pro: A 2-Day Test Drive & Top 3 Insights - Insider's Report From ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-apples-ai-must-evolve-top-10-capabilities-required-to-rival-openai-and-google-insights/"><u>How Apple's AI Must Evolve: Top 10 Capabilities Required to Rival OpenAI & Google - Insights</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Xiaomi Redmi K70? | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-top-youtube-spotlight-key-influences-on-your-viewership-position/"><u>In 2024, Top YouTube Spotlight Key Influences on Your Viewership Position</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Samsung Galaxy F14 5G? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-best-5-udemy-subtitle-translator-auto-translation/"><u>New Best 5 Udemy Subtitle Translator (Auto Translation)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reintroduced-lost-network-interface-on-windows-10-laptop/"><u>Reintroduced Lost Network Interface on Windows 10 Laptop</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-error-0x80040610-restoring-smooth-functionality-to-outlook/"><u>Tackling Error 0X80040610: Restoring Smooth Functionality to Outlook</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-iphone-12-and-pro-protective-covers-2023-edition-featured/"><u>Top-Rated iPhone 12 & Pro Protective Covers - 2023 Edition Featured</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unmissable-apple-watch-series/"><u>Unmissable Apple Watch Series</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Celebrate Presidents' Day with Unbeatable Savings: Snag Your 2023 M2 MacBook Air for an Incredible $300 Discount"
-date: 2024-12-05T18:40:47.858Z
-updated: 2024-12-07T18:56:09.185Z
+date: 2024-12-09T16:44:22.210Z
+updated: 2024-12-13T21:41:43.025Z
 tags:
   - apple
 categories:
@@ -34,7 +34,7 @@ ZDNET editor-in-chief Jason Hiner says the pair are the most easily recommendabl
 If you're ready to replace that old pair of wired earbuds with one of our favorite wireless earbuds, you might as well hop on this [second-generation AirPods Pro deal](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D1XD1ZV3%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6a967f3d-7d3f-4fdf-b579-d62f551f1b28%7Cdtp&dtb=1). But act fast -- the discount won't last long. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,18 +81,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-lead-the-charge-with-our-12-best-tycoon-games-ever-played/"><u>[Updated] Lead the Charge with Our #12 Best Tycoon Games Ever Played</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/atlas-air-by-turtle-beach-an-immersive-audio-journey-with-unmatched-comfort/"><u>Atlas Air by Turtle Beach: An Immersive Audio Journey with Unmatched Comfort</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/choosing-the-superior-ai-4-critical-reasons-to-make-the-move-from-chatgpt-to-claude-3-today/"><u>Choosing the Superior AI: 4 Critical Reasons to Make the Move From ChatGPT to Claude 3 Today</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/decoding-the-chatbot-debate-gpt-pluses-versus-perplexities/"><u>Decoding the Chatbot Debate: GPT Pluses versus Perplexities</u></a></li>
-<li><a href="https://fox-place.techidaily.com/easy-solutions-step-by-step-tutorial-for-overcoming-0x110-windows-error-code/"><u>Easy Solutions: Step-by-Step Tutorial for Overcoming 0X1#10 Windows Error Code</u></a></li>
-<li><a href="https://app-tips.techidaily.com/harnessing-artificial-intelligence-expert-insights-on-securing-victory-in-cyberspace-warfare-zdnet/"><u>Harnessing Artificial Intelligence: Expert Insights on Securing Victory in Cyberspace Warfare | ZDNet</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-do-nubia-z50s-pro-screen-sharing-drfone-by-drfone-android/"><u>How To Do Nubia Z50S Pro Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-visionary-solutions-top-1-ward-video-recorders-on-the-web/"><u>In 2024, Visionary Solutions Top 1 Ward Video Recorders on the Web</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/miniscreen-tape-snapshot-assessment-and-substitutes/"><u>MiniScreen Tape Snapshot Assessment & Substitutes</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-ai-journey-simplified-edition/"><u>The AI Journey, Simplified Edition</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-advanced-conversations-creating-a-restrict-free-ai-chatbot-on-windows-via-freedomgpt/"><u>Unlocking Advanced Conversations: Creating a Restrict-Free AI Chatbot on Windows via FreedomGPT</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/why-is-ipogo-not-working-on-nubia-z50s-pro-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Nubia Z50S Pro? Fixed | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-the-ultimate-tutorial-for-recording-your-fb-chat-history/"><u>[Updated] In 2024, The Ultimate Tutorial for Recording Your FB Chat History</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-spotlight-on-top-trending-tweets-for-2024/"><u>[Updated] Spotlight on Top Trending Tweets for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/apples-smart-speaker-showdown-choosing-between-the-homepod-and-homepod-mini-your-comprehensive-guide-techradar/"><u>Apple's Smart Speaker Showdown: Choosing Between the HomePod and HomePod Mini - Your Comprehensive Guide | TechRadar</u></a></li>
+<li><a href="https://article-posts.techidaily.com/audio-extraction-simplified-with-pazera-tools-in-the-new-era-for-2024/"><u>Audio Extraction Simplified with Pazera Tools in the New Era for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boost-your-privacy-on-apple-vision-pro-by-installing-a-vpn-expert-tutorial-and-key-benefits-for-users-cybersavvyguide/"><u>Boost Your Privacy on Apple Vision Pro by Installing a VPN: Expert Tutorial & Key Benefits for Users | CyberSavvyGuide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/chuckle-o-meter-starts-with-zero-mememasters-kit-for-2024/"><u>Chuckle-O-Meter Starts with Zero – MemeMasters Kit for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-the-secrets-of-successful-gaming-with-steam/"><u>Decoding the Secrets of Successful Gaming with Steam</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/encountering-liquids-inside-iphone-charging-dock-here-are-your-solutions/"><u>Encountering Liquids Inside iPhone Charging Dock? Here Are Your Solutions!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/get-quality-on-a-budget-with-the-lg-24lh4830-smart-tv-reliable-entertainment-for-less/"><u>Get Quality on a Budget with the LG 24LH4830 Smart TV – Reliable Entertainment for Less!</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-merge-folders-and-files-in-windows-10-and-11/"><u>How to Merge Folders and Files in Windows 10 and 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/labor-day-discount-snag-your-new-ipad-at-only-199-on-amazon-exclusive-deal-covered-by-zdnet/"><u>Labor Day Discount: Snag Your New iPad at Only $199 on Amazon – Exclusive Deal Covered by ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/smartphone-camera-battle-royale-pixel-amidst-the-iphone-15s-lens-stunning-results-and-surprising-upset-uncovered-gizmohub/"><u>Smartphone Camera Battle Royale: Pixel Amidst the iPhone 15'S Lens - Stunning Results & Surprising Upset Uncovered | GizmoHub</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-walkthrough-for-setting-up-an-ipad-fresh-from-the-box-tips-and-tricks-by-zdnet/"><u>Ultimate Walkthrough for Setting Up an iPad Fresh From the Box - Tips & Tricks by ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-your-ultimate-soccer-experience-with-apple-sport-the-ideal-free-app-for-football-enthusiasts-discover-more-on-zdnet/"><u>Unlock Your Ultimate Soccer Experience with Apple Sport: The Ideal Free App for Football Enthusiasts – Discover More on ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-trusting-chatgpt-with-your-text-summarization-might-not-be-ideal-expert-insights/"><u>Why Trusting ChatGPT with Your Text Summarization Might Not Be Ideal: Expert Insights</u></a></li>
 </ul></div>
 

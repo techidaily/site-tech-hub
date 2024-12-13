@@ -1,7 +1,7 @@
 ---
 title: Top AT&T Mobile Offers in May 2024 - Exclusive Insights
-date: 2024-12-02T17:57:34.791Z
-updated: 2024-12-07T20:52:48.814Z
+date: 2024-12-12T19:23:19.870Z
+updated: 2024-12-13T17:48:22.160Z
 tags:
   - apple
 categories:
@@ -117,7 +117,7 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 [View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/motorola-razrplus.html) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## More AT&T deals
@@ -134,6 +134,10 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 
 [Motorola moto g stylus, $2.99/month, no trade-in required View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/motorola-moto-g-stylus-5g-2023.html)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Accessory and service deals
 
 [Google Pixel Buds A-Series wireless earbuds: Save 50% when you buy a Pixel device View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/accessories/Headphones/google-pixel-buds-a-series-true-wireless-earbuds-clearly-white.html)
@@ -143,10 +147,6 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 [AT&T 15W wireless charging pad: $10 (save $19) $10 at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/accessories/Chargers/att-15w-wireless-charging-pad.html)
 
 [BodyGuardz Pure 2 Edge antimicrobial glass screen protector (iPhone 14 range) for $10 (save $35) $10 at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/accessories/Screen-Protectors/bodyguardz-pure-2-edge-antimicrobial-tempered-glass-screen-protector-iphone-14-13-13-pro.html)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How did we choose these AT&T phone deals?
 
@@ -158,34 +158,34 @@ When we made our selection for the best AT&T deals, we wanted to include options
 * **Free products**: Devices drop in value over time, and to offload excess stock, some carriers will launch time-sensitive deals, giving subscribers free products in exchange for signing up for a new contract.
 * **Events**: It's always worth checking retailers after a major event, such as Samsung Unpacked. You will often find that deals will be launched just after, luring customers to agree to preorder their new handset in return for discounts and free storage upgrades.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Does AT&T offer deals for existing customers?
 
 It's true that carriers are the most aggressive with their offers when it's year-end and new customers are shopping around for services to switch to. Still, AT&T has done a fairly balanced job of pushing promotions for new and existing customers, including all the deals we have listed above. If you've been a loyal customer, we'd even recommend reaching out to your local AT&T provider to see if there are any exclusive deals just for you.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is it cheaper to buy a phone online or in-store?
 
 In general, there is no difference in how much money you save whether you shop online or in stores. Instead, deciding between the two really boils down to your preference for transactions. With how complicated carrier phone deals can be, you may be better off heading down to the local AT&T store and consulting with a product expert to help you navigate the fine print. Otherwise, shopping online can be faster and more convenient.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the best deals right now?
 
 ZDNET experts split out the latest and greatest deals for you below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Best deals by retailer**
 
 * [The best AT&T deals](https://www.zdnet.com/article/att-deals/)
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Best deals by category**
 
@@ -236,24 +236,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-maximize-creativity-10-no-cost-tiktok-editors-for-macos/"><u>[Updated] 2024 Approved Maximize Creativity 10 No-Cost TikTok Editors for MacOS</u></a></li>
-<li><a href="https://techtrends.techidaily.com/aiff-avi-movavi/"><u>高效率在線 AIFF-AVI 邏輯導航: 利用 Movavi 易於操作的轉換器</u></a></li>
-<li><a href="https://video-capture.techidaily.com/best-bgms-and-gifs-stylish-google-meet-backdrops/"><u>Best BGMs & GIFs Stylish Google Meet Backdrops</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-powered-podcasts-on-budget-phones-safety/"><u>ChatGPT-Powered Podcasts on Budget Phones' Safety</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/comparing-chatbots-can-claude-ai-outperform-chatgpt/"><u>Comparing Chatbots: Can Claude AI Outperform ChatGPT?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/dual-task-perfection-iphones-single-action-capture/"><u>Dual-Task Perfection IPhone's Single Action Capture</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/emoji-economy-explained-simplified/"><u>Emoji Economy Explained Simplified</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/engage-in-privacy-focused-conversations-with-duckduckgos-innovative-ai-chat-featuring-chatgpt-and-beyond/"><u>Engage in Privacy-Focused Conversations with DuckDuckGo's Innovative AI Chat Featuring ChatGPT & Beyond</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/expanding-horizons-in-ai-the-game-changing-access-to-chatgpt-and-whisper-apis-for-business-innovation/"><u>Expanding Horizons in AI: The Game-Changing Access to ChatGPT & Whisper APIs for Business Innovation</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/freelancing-powered-by-ai-6-ways-to-master-chatgpt-tools/"><u>Freelancing Powered by AI: 6 Ways to Master ChatGPT Tools</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-y77t-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Y77t Phone Forgot Password</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 10 Best Spy Watches For your Apple iPhone XR | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-through-digital-deception-identifying-7-ai-approaches-used-by-virtual-scammers-for-romantic-trickery/"><u>Navigating Through Digital Deception: Identifying 7 AI Approaches Used by Virtual Scammers for Romantic Trickery</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-cut-out-sounds-problem-tips-for-stable-audio-on-windows-11/"><u>Solving the Cut-Out Sounds Problem: Tips for Stable Audio on Windows 11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-making-the-most-of-chatgpt-plugins/"><u>Step by Step: Making the Most of ChatGPT Plugins</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/streamlining-workplace-e-mail-dilemmas-with-machine-learning/"><u>Streamlining Workplace E-Mail Dilemmas with Machine Learning</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-issues-with-non-functioning-voice-chat-warnings/"><u>Troubleshooting Guide: Resolving Issues with Non-Functioning Voice Chat Warnings</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/truthseekers-elons-latest-ai-venture/"><u>TruthSeekers: Elon's Latest AI Venture?</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-top-converters-turn-videos-into-live-photos-with-ease-for-2024/"><u>Updated Top Converters Turn Videos Into Live Photos with Ease for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-it-be-me-discover-techniques-for-identifying-whether-your-privacy-is-compromised-by-an-airtag/"><u>Can It Be Me? Discover Techniques for Identifying Whether Your Privacy Is Compromised by an AirTag.</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-to-correct-the-absent-or-lost-d3dx939dll-error-on-your-pc/"><u>Guide to Correct the Absent or Lost D3DX9_39.dll Error on Your PC</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-perfect-shots-start-with-the-right-camera-and-lens-selection/"><u>In 2024, Perfect Shots Start With The Right Camera & Lens Selection</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-15-pro-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone 15 Pro</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/iphone-14-evaluation-adequate-performance-for-users-needs-as-analyzed-by-zdnet-reviewers/"><u>IPhone 14 Evaluation: Adequate Performance for Users' Needs, as Analyzed by ZDNET Reviewers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/score-big-savings-limited-time-offer-for-apple-watch-s9-at-record-low-prices-after-prime-day-sale-concludes-zdnet/"><u>Score Big Savings: Limited Time Offer for Apple Watch S9 at Record Low Prices After Prime Day Sale Concludes | ZDNET</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/securing-your-ai-data-in-the-cloud-insights-into-apples-protective-measures-and-their-importance/"><u>Securing Your AI Data in the Cloud: Insights Into Apple's Protective Measures and Their Importance</u></a></li>
+<li><a href="https://games-able.techidaily.com/tactile-navigation-expert-tips-on-buttons-for-game-playing/"><u>Tactile Navigation: Expert Tips on Buttons for Game Playing</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unlock-your-devices-potential-universal-adb-on-demand/"><u>Unlock Your Device's Potential - Universal ADB on Demand</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-did-my-imessages-fail-to-send-last-day-uncover-the-reasons-with-zdnet/"><u>Why Did My iMessages Fail to Send Last Day? Uncover the Reasons with ZDNet</u></a></li>
+<li><a href="https://fox-http.techidaily.com/windows-10s-finest-film-and-multimedia-editing-apps-guide/"><u>Windows 10'S Finest Film and Multimedia Editing Apps Guide</u></a></li>
 </ul></div>
 

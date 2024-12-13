@@ -1,7 +1,7 @@
 ---
 title: Microsoft Enhances Bing with Advanced AI Capabilities – Insights Into the Future
-date: 2024-08-29T01:23:27.650Z
-updated: 2024-08-30T01:23:27.650Z
+date: 2024-12-07T16:49:29.705Z
+updated: 2024-12-13T17:53:28.323Z
 tags:
   - chatgpt
   - open-ai
@@ -19,9 +19,17 @@ thumbnail: https://thmb.techidaily.com/91e7f02bd957e18d2516616e2ae6cdb5e18d02627
 
  Using ChatGPT as a dungeon master assistant is useful for both scripted and unscripted sessions! Keep reading for a quick look at how you can use ChatGPT to greatly improve your Dungeons & Dragons sessions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Create Random Encounters While Players Are Traveling
 
 ![A blue and yellow D20 di](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/blue-dice.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Whether you're strictly following a scripted adventure or mostly just going with the flow, ChatGPT can make it easy to add random encounters to your campaign. This is especially useful for when your players are traveling. It's also a great addition for anyone learning[how to play Dungeons & Dragons online](https://www.makeuseof.com/how-to-play-dungeons-dragons-online/) .
 
@@ -38,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/91e7f02bd957e18d2516616e2ae6cdb5e18d02627
 5. Provide the stats for each monster/enemy.
 
  There are plenty of additional commands you could add to this prompt for additional details. However, this serves as a great boilerplate. Keep in mind that the more details on the context you provide, the easier it will be for ChatGPT to tie its output to your campaign.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Create NPCs and Generate Dialogue
 
@@ -58,8 +70,9 @@ Here's a pretty great prompt for generating NPCs:
  Of course, you can swap out multiple variables in each prompt to adjust them to your campaign and situation. For extra flair, you can[use ChatGPT and DALL-E to generate images of characters](https://www.makeuseof.com/how-to-use-chatgpt-and-dall-e-to-create-characters-for-dungeons-and-dragons/) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Filler Content in a Pinch: When Players Deviate From the Story
 
  You've probably run into a situation where your players decide to deviate from a carefully crafted campaign. While ChatGPT can't help with the frustration this can cause, it can help you with filler content in a pinch. It's a fantastic option for creating engaging content on the fly and avoiding awkward or long pauses during the session.
@@ -70,23 +83,12 @@ Here's one example of a prompt that can work:
 
 ![Prompt in ChatGPT for D&D when players deviate from story](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/players-deviate-from-campaign.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
  Here, ChatGPT automatically generated an easy-to-understand environment, an NPC with a name, and a quest to boot. All of this within seconds. The next time your party surprises you by taking a new direction, ChatGPT has you covered.
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. ChatGPT Can Assist in Map Creation
 
  You can use ChatGPT to describe an area to your party better or build a room for an encounter. In fact, there are two great ways to use ChatGPT to generate maps.
@@ -95,9 +97,6 @@ Here's one example of a prompt that can work:
 
  Alternatively, you can use ChatGPT for map creation by prompting for ideas. You can provide the basics of your idea for a foundation, and ChatGPT will provide you with and elaborate on the details.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Keep Track of the Game State
 
  If you've been running a campaign for more than 15 sessions, you might consider using ChatGPT as a D&D assistant to keep track of the game state. It might take some work and a bit of time, but it's definitely worth it. And in many cases, it's better than managing a complex spreadsheet and a tall stack of notes.
@@ -108,32 +107,23 @@ Here's one example of a prompt that can work:
 
  If you're not too happy with the answers from this prompt, there are a few[ways to write effective ChatGPT prompts](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/) that you might consider implementing. A cheat sheet can really help you tweak prompts to better fit the context of your campaign.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Provide Guidance and Feedback for New DMs
 
  Guidance and feedback from ChatGPT can take place in or outside a session. During a session, you can use ChatGPT to quickly double-check rules and look up information regarding classes, races, abilities, items, and more. It's also a definite lifesaver in complicated battle scenarios.
 
  For new DMs, though, it's a great way to get some feedback on ideas and session summaries. For the prompt, you can write out a summary of what happened, and ask if the events that took place made sense, followed the rules, and if there's anything that could have been done better.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Improve Your D&D Experience With ChatGPT
 
  ChatGPT, with the right prompts, can greatly improve your D&D experience by functioning as an efficient dungeon master assistant, whether you're just getting started or you're a veteran dungeon master. Assisting with map and environment creation, NPC dialogue, guidance and feedback after sessions, and generating random events are just a few examples.
 
  There are, of course, a plethora of other ways to use ChatGPT to improve your D&D sessions. With the right prompt, you can even run a solo RPG campaign in ChatGPT with additional instructions to test out ideas from a player's perspective.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -142,4 +132,16 @@ Here's one example of a prompt that can work:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-peeking-at-perfection-a-compreayer-look-at-lgs-27ud68-display/"><u>[New] Peeking at Perfection A Compreayer Look at LG’s 27UD68 Display</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-expert-advice-for-flawless-recordings-on-mi-11-phones-for-2024/"><u>[Updated] Expert Advice for Flawless Recordings on Mi 11 Phones for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-infinix-note-30-vip-racing-edition-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Infinix Note 30 VIP Racing Edition? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/choosing-your-perfect-smartwatch-comparing-the-apple-watch-ultra-and-series-pertinence-in-todays-technologically-driven-society-particularly-when-it-comes-t159/"><u>Choosing Your Perfect Smartwatch: Comparing the Apple Watch Ultra and Series Pertinence in Today's Technologically-Driven Society, Particularly when It Comes to Healthcare.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-launch-failures-a-comprehensive-walkthrough-for-harvest-heroes-22/"><u>Fixing Launch Failures: A Comprehensive Walkthrough for Harvest Heroes 22</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-5-unmissable-ios-16-features-for-a-superior-mobile-life-a-step-by-step-guide/"><u>Top 5 Unmissable iOS 16 Features for a Superior Mobile Life – A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-wireless-charging-pads-in-depth-review-by-tech-gurus-zdnet/"><u>Top-Rated Wireless Charging Pads - In-Depth Review by Tech Gurus | ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/whats-next-for-users-after-apple-phases-out-apple-pay-later-a-glimpse-into-upcoming-alternatives-tech-news-by-zdnet/"><u>What's Next for Users After Apple Phases Out Apple Pay Later? A Glimpse Into Upcoming Alternatives - Tech News by ZDNet</u></a></li>
+</ul></div>
 

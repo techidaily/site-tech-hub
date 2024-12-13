@@ -1,7 +1,7 @@
 ---
 title: Buy These New Apple Features Announced at WWDC Today – Where to Get Them | CNET News
-date: 2024-12-05T20:43:18.851Z
-updated: 2024-12-07T19:47:14.017Z
+date: 2024-12-11T17:09:13.689Z
+updated: 2024-12-13T19:45:11.481Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ To help you make this decision, we've broken down all of the most important deta
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Specifications
@@ -50,12 +50,16 @@ To help you make this decision, we've broken down all of the most important deta
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You should buy the iPhone 16 if...
 
 Kerry Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  1\. You'd benefit from Apple Intelligence features
 
@@ -65,6 +69,10 @@ Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.c
 
 There is more to the AI features beyond Siri. Apple Intelligence will be able to summarize notifications and Priority Messages in the Mail app. Like Siri, the feature will be able to understand context. [Apple Intelligence](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/) will gain additional features later in the year like the ability to create custom emojis and perform multiple actions across apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  2\. You want a better photography experience
 
 The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-which-new-iphone-should-you-buy/) is seeing a new camera array. On the back will be a 48MP Fusion camera serving as the main lens. It'll have a 2x Telephoto option for up-close photography. Apple states it'll be like having "two cameras in one." Alongside it will be a 12MP Ultra Wide lens with an autofocus function that can enable "macro photography." It can also take in "2.6x times more light \[than before\] for higher image quality." 
@@ -72,10 +80,6 @@ The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-whi
 **Also: [The 5 best iPhone 16 Pro features that enthusiasts will care about](https://www.zdnet.com/article/the-5-best-iphone-16-pro-features-that-enthusiasts-will-care-about/)**
 
 On the side below the [Power Button is the new Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/). It's a tactile switch with a special sensor that can perform unique actions with a light touch. For example, pressing it quickly launches the Camera app for taking quick snapshots or recording a video. It even introduces a preview feature to help you frame the shot. And if that wasn't enough, it'll work with third-party apps.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  3\. You want "next-level performance"
 
@@ -94,10 +98,6 @@ ZDNET saves you time and money by delivering the best products and tech deals to
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  You should buy the iPhone 15 if...
 
@@ -120,7 +120,7 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 [Buy the iPhone 15 $729.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6417992%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6417992.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -157,20 +157,17 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-resolve-androidios-issues-with-fb-video-playback/"><u>[Updated] Resolve Android/iOS Issues with FB Video Playback</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/claim-your-edge-with-claude-top-tier-ai-for-competitive-advantage/"><u>Claim Your Edge with Claude: Top-Tier AI for Competitive Advantage</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Infinix Smart 8? | Dr.fone</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/enhance-conversions-using-the-advanced-features-of-cookiebot/"><u>Enhance Conversions Using the Advanced Features of Cookiebot</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/enhance-your-online-presence-with-manycam-premier-choice-for-live-broadcasts-and-virtual-webcams/"><u>Enhance Your Online Presence with ManyCam: Premier Choice for Live Broadcasts and Virtual Webcams</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-efficient-is-auto-gpt-without-the-advanced-capabilities-of-gpt-4-technology/"><u>How Efficient Is Auto-GPT Without the Advanced Capabilities of GPT-4 Technology?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-tecno-spark-10-4g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Tecno Spark 10 4G Users</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/installing-and-updating-logitech-hd-webcam-c270-driver-software-on-windows-10-and-11-systems/"><u>Installing & Updating Logitech HD WebCam C270 Driver Software on Windows 10 and 11 Systems</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/limits-on-learning-machines/"><u>Limits on Learning Machines</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-away-from-official-gpt-models-are-jailbreaks-the-next-big-thing/"><u>Navigating Away From Official GPT Models – Are Jailbreaks the Next Big Thing?</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-beyond-gopro-studio-top-picks-for-editing-your-adventure-videos/"><u>New Beyond GoPro Studio Top Picks for Editing Your Adventure Videos</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/securing-your-ideal-career-the-role-of-chatgpt-in-boosting-job-applications/"><u>Securing Your Ideal Career: The Role of ChatGPT in Boosting Job Applications</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/strong-ai-and-weak-ai-unraveling-the-difference/"><u>Strong AI & Weak AI: Unraveling the Difference</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-ultimate-guide-to-decreasing-sounds-prominence-in-lumafusion/"><u>The Ultimate Guide to Decreasing Sounds' Prominence in Lumafusion</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-the-animators-toolkit-8-essential-software-for-mac-and-windows-for-2024/"><u>Updated The Animators Toolkit 8 Essential Software for Mac and Windows for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/apples-latest-update-free-powerful-ai-augments-programmer-arsenal-explore-the-impact-at-zdnet/"><u>Apple's Latest Update: Free, Powerful AI Augments Programmer Arsenal – Explore the Impact at ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-ultimate-sound-premium-headphone-promotions-for-march-2024-by-cnet/"><u>Discover the Ultimate Sound: Premium Headphone Promotions for March 2024 by CNET</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/efficient-chrome-os-snaps-4-techniques-to-try-for-2024/"><u>Efficient Chrome OS Snaps - 4 Techniques to Try for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortlessly-terminate-in-app-purchases-a-step-by-step-guide-for-disabling-apple-store-subscriptions-via-iphone-with-ios-15-techtips/"><u>Effortlessly Terminate In-App Purchases: A Step-by-Step Guide for Disabling Apple Store Subscriptions via iPhone with iOS 15 - TechTips</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/explore-the-ultimate-list-of-leading-microsoft-business-apps-on-ios-curated/"><u>Explore the Ultimate List of Leading Microsoft Business Apps on iOS - Curated</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-from-iphone-7-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even From iPhone 7 If Youve Tried Everything</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-poco-c50-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-inside-look-how-dell-p2715q-delivers-on-4k-quality/"><u>In 2024, Inside Look How Dell P2715Q Delivers on 4K Quality</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-mastering-time-stamps-on-youtube-videos/"><u>In 2024, Mastering Time Stamps on YouTube Videos</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-the-beginners-guide-to-canon-time-lapse-shooting/"><u>In 2024, The Beginner's Guide to Canon Time-Lapse Shooting</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/portable-moko-multi-functional-folding-bluetooth-keyboard/"><u>Portable MoKo Multi-Functional Folding Bluetooth Keyboard</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionizing-on-the-go-power-how-a-20-anker-solution-outperforms-expensive-chargers-zdnet-review/"><u>Revolutionizing On-the-Go Power: How a $20 Anker Solution Outperforms Expensive Chargers | ZDNet Review</u></a></li>
 </ul></div>
 

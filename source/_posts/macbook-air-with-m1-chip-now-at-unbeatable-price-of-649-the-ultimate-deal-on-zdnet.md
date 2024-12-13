@@ -1,7 +1,7 @@
 ---
 title: "MacBook Air with M1 Chip Now at Unbeatable Price of $649: The Ultimate Deal on ZDNet"
-date: 2024-12-04T20:50:54.273Z
-updated: 2024-12-07T17:25:38.855Z
+date: 2024-12-08T17:20:16.098Z
+updated: 2024-12-13T19:13:32.498Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,20 +81,19 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-3-simple-ways-to-color-grading-in-photoshop/"><u>[New] 3 Simple Ways to Color Grading in Photoshop</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-prime-screen-grabbers-selection-1-8/"><u>[New] Prime Screen Grabbers Selection #1-8</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-navigating-noise-free-auditory-shifts/"><u>[Updated] 2024 Approved Navigating Noise-Free Auditory Shifts</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-vimeo-video-snippets-turn-into-dynamic-shareable-gifs-for-2024/"><u>[Updated] Vimeo Video Snippets Turn Into Dynamic, Shareable GIFs for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/m2tff3/"><u>最適な無料ツールでM2TFFファイルの変換方法:上位3つ紹介</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/by-accident-tiktok-rewind-restore-lost-content-in-2024/"><u>By Accident, TikTok Rewind Restore Lost Content, In 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-the-ultimate-pc-clipper-guide-choose-from-the-5-best-tools/"><u>In 2024, The Ultimate PC Clipper Guide - Choose From the 5 Best Tools</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mp3-dvd/"><u>MP3へ変換: DVDのオーディオリッピング手順詳細ガイド</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-speed-up-or-slow-down-the-best-free-video-editing-apps-for-mobile-for-2024/"><u>New Speed Up or Slow Down The Best Free Video Editing Apps for Mobile for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/professional-blackberry-video-transcoder-ultimate-guide-using-wonderfox-factory-pro/"><u>Professional BlackBerry Video Transcoder: Ultimate Guide Using WonderFox Factory Pro</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/quick-and-simple-steps-to-transform-dss-files-into-high-quality-wav-format/"><u>Quick & Simple Steps to Transform DSS Files Into High-Quality WAV Format</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/rotating-video-footage-effortlessly-alternatives-to-windows-media-player/"><u>Rotating Video Footage Effortlessly - Alternatives to Windows Media Player</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-how-to-incornately-insert-text-overlays-in-videos-at-zero-cost-and-without-watermarks/"><u>Step-by-Step Guide: How to Incornately Insert Text Overlays in Videos at Zero Cost and Without Watermarks</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-separating-audio-from-video-in-davinci-resolve/"><u>Step-by-Step Guide: Separating Audio From Video in DaVinci Resolve</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-10-spontaneous-crashes-a-case-study/"><u>Windows 10 Spontaneous Crashes: A Case Study</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-the-ultimate-hdr-conversion-playbook-starting-with-sdr/"><u>[New] The Ultimate HDR Conversion Playbook - Starting with SDR</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-navigating-common-youtube-short-hurdles/"><u>[Updated] Navigating Common YouTube Short Hurdles</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlocking-iphones-ultimate-live-photography-potential/"><u>[Updated] Unlocking iPhone's Ultimate Live Photography Potential</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/5-groundbreaking-ai-programs-for-emotional-balance/"><u>5 Groundbreaking AI Programs for Emotional Balance</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/7-prompting-techniques-to-improve-your-chatgpt-responses/"><u>7 Prompting Techniques to Improve Your ChatGPT Responses</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-comprehensive-guide-to-the-features-and-uses-of-chatgpt-copilot/"><u>A Comprehensive Guide to the Features and Uses of ChatGPT Copilot</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ace-your-workflow-implementing-chatgpt-for-enhanced-personal-assistance/"><u>Ace Your Workflow: Implementing ChatGPT for Enhanced Personal Assistance</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/boost-your-sites-traffic-with-advanced-cookiebot-technology/"><u>Boost Your Site's Traffic with Advanced Cookiebot Technology</u></a></li>
+<li><a href="https://article-files.techidaily.com/breathe-life-into-your-visual-narrative-free-text-animation-for-2024/"><u>Breathe Life Into Your Visual Narrative Free Text Animation for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-establish-an-alias-for-your-primary-gmail-account-effortlessly/"><u>How to Establish an Alias for Your Primary Gmail Account Effortlessly</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-cure-for-windows-11s-slow-poke-problem/"><u>Quick Cure for Windows 11'S Slow Poke Problem</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/the-crash-course-in-surf-cameras-2e3/"><u>The Crash Course in Surf Cameras (2E3)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-microsoft-copilot-takes-the-lead-over-chatgpt-discover-4-compelling-reasons/"><u>Why Microsoft Copilot Takes the Lead Over ChatGPT – Discover 4 Compelling Reasons</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/your-step-by-step-guide-to-global-chatgpt-connectivity/"><u>Your Step-by-Step Guide to Global ChatGPT Connectivity</u></a></li>
 </ul></div>
 

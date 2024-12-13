@@ -1,7 +1,7 @@
 ---
 title: "Leveraging Apple Pay Across Retailers & Websites: Insights on Why It's a Must-Try | Tech Advice"
-date: 2024-12-04T19:32:17.587Z
-updated: 2024-12-07T18:11:37.765Z
+date: 2024-12-09T17:25:37.234Z
+updated: 2024-12-13T18:24:31.122Z
 tags:
   - apple
 categories:
@@ -30,10 +30,6 @@ OK, let's go.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to order Apple Vision Pro
 
 ## 1\. If you wear glasses or contacts
@@ -53,7 +49,7 @@ Be sure your [phone is up to date](https://www.zdnet.com/article/how-to-get-your
 **Also: [How to get your iPhone ready for the landmark iOS 17.4 update](https://www.zdnet.com/article/how-to-get-your-iphone-ready-for-the-landmark-ios-17-4-update/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  You must have a current prescription
@@ -73,6 +69,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 That prescription works fine in my Quest 3, but Apple and ZEISS won't accept it. I had to book an appointment with my local optometrist. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  It's your distance prescription that counts
 
@@ -159,7 +159,7 @@ This process took me a very long time. Not only did I have difficulty trying to 
 But the real trick, which I mentioned at the start of this section, is that I turned on all the lights and set the phone down at face height, so I could stand in front of it. Before that, I tried again and again to make it like me. As soon as I used a stable, head-height platform, it took the requisite measurements in less than a minute. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Pre-order the optical insert lenses
@@ -207,16 +207,12 @@ And, finally, you're done with the first phase of ordering your optical inserts.
 Screenshot by David Gewirtz/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Order the Vision Pro itself
 
 Now, it's time to decide how much storage you want to have on the Vision Pro. Keep in mind this is very much like choosing the storage on your iPhone or iPad.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##   
 
@@ -289,6 +285,10 @@ Screenshot by David Gewirtz/ZDNET
 ## 5\. Upload your prescription to ZEISS
 
 Now, it's time to upload your prescription to ZEISS. Apple does let you come back later (like if you didn't read this article and just found out you need a current glasses prescription and have to run to the optometrist). But you are reading this article because you're smart and good-looking.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##   
 
@@ -365,21 +365,22 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-youtube-movie-maker-tutorial-and-alternatives/"><u>[New] 2024 Approved YouTube Movie Maker Tutorial and Alternatives</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-tag-with-your-favorite-show-podcast-on-ig/"><u>[New] Tag with Your Favorite Show Podcast on IG</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-overcoming-social-media-roadblocks-fix-your-story-upload/"><u>[Updated] In 2024, Overcoming Social Media Roadblocks Fix Your Story Upload</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/exploring-the-pros-and-cons-of-the-budget-friendly-hp-stream-14-with-windows-os/"><u>Exploring the Pros and Cons of the Budget-Friendly HP Stream 14 with Windows OS</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-maximize-focus-with-enhanced-zoom-on-google-meet-for-2024/"><u>How to Maximize Focus with Enhanced Zoom on Google Meet for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/illusory-gpt-plugin-hijacks-fb-accounts/"><u>Illusory GPT Plugin: Hijacks FB Accounts</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-activation-lock-on-ipod-and-apple-iphone-xs-the-right-way-by-drfone-ios/"><u>In 2024, How To Bypass iCloud Activation Lock On iPod and Apple iPhone XS The Right Way</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-nokia-c12-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Nokia C12 To Phone | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/kostenloser-4khd-videosammler-fur-mac-herunterladen-von-high-quality-filmen/"><u>Kostenloser 4K/HD-Videosammler Für Mac - Herunterladen Von High-Quality Filmen</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-phone-number-free-signups-unlock-access-to-popular-tools-such-as-chatgpt-whatsapp-and-telegram/"><u>Mastering Phone-Number-Free Signups: Unlock Access to Popular Tools Such as ChatGPT, WhatsApp & Telegram.</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-safely-in-the-digital-playground-5-methods-for-child-friendly-chatgpt-use/"><u>Navigating Safely in the Digital Playground: 5 Methods for Child-Friendly ChatGPT Use</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-10-chatgpt-integrations-for-effortless-pdf-editing/"><u>Top 10 ChatGPT Integrations for Effortless PDF Editing</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/top-20-gratist-video-konverterar-apps-for-windows-11-8-and-7/"><u>Top 20 Gratist Video Konverterar Apps För Windows 11, 8 & 7</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-6-advanced-ai-linguistic-systems-unveiled/"><u>Top 6 Advanced AI Linguistic Systems Unveiled</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transformative-chatbots-building-with-create-a-gpt-techniques/"><u>Transformative ChatBots: Building with Create a GPT Techniques</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlock-unlimited-potential-generate-images-using-dall-e-3-on-bing-without-cost/"><u>Unlock Unlimited Potential: Generate Images Using DALL-E 3 on Bing Without Cost</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-boosting-windows-file-audit-with-precision/"><u>[New] Boosting Windows File Audit with Precision</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1-apple-suspends-online-sales-of-apple-watch-series-9-and-ultra-service-disruptions-impacting-older-models-detailed-analysis/"><u>1. Apple Suspends Online Sales of Apple Watch Series 9 & Ultra; Service Disruptions Impacting Older Models – Detailed Analysis</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/2024-ultimate-guide-to-smartwatches-curated-list-and-expert-opinions/"><u>2024 Ultimate Guide to Smartwatches: Curated List and Expert Opinions</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/combat-times-toll-on-your-old-computer-uncover-free-fixes-and-enhancements-for-enduring-windows-asterity-insights-by-zdnet/"><u>Combat Time's Toll on Your Old Computer: Uncover Free Fixes and Enhancements for Enduring Windows Asterity | Insights by ZDNET</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-tech-ageism-how-apple-defines-vintage-and-obsolete-devices-insights/"><u>Decoding Tech Ageism: How Apple Defines Vintage and Obsolete Devices | Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-exciting-features-of-your-upcoming-magsafe-enabled-android-device/"><u>Discover the Exciting Features of Your Upcoming MagSafe-Enabled Android Device</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-finest-apple-watch-offers-for-summer-2024-a-comprehensive-list-from-zdnets-top-picks/"><u>Discover the Finest Apple Watch Offers for Summer 2024: A Comprehensive List From ZDNet's Top Picks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/dont-miss-out-exclusive-double-deal-on-favorite-nomad-iphone-cases-special-bogo-promo/"><u>Don't Miss Out – Exclusive Double Deal on Favorite Nomad iPhone Cases | Special Bogo Promo</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/impulsive-buy-how-apples-usb-c-enhanced-earpods-became-a-must-have-during-amazons-prime-day-insights-from-zdnet/"><u>Impulsive Buy: How Apple's USB-C Enhanced EarPods Became a Must-Have During Amazon's Prime Day - Insights From ZDNet</u></a></li>
+<li><a href="https://driver-install.techidaily.com/installation-guide-hp-printer-model-1102w/"><u>Installation Guide: HP Printer Model 1102W</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/iphone-notes-recovery-software-to-recover-deleted-notes-on-iphone/"><u>IPhone Notes Recovery Software to Recover Deleted Notes on iPhone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/pursuing-your-vision-learn-professional-filmmaking-on-youtube-for-2024/"><u>Pursuing Your Vision Learn Professional Filmmaking on YouTube for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-cellular-connection-problems-essential-tips-for-keeping-your-apple-watch-online/"><u>Solving Cellular Connection Problems: Essential Tips for Keeping Your Apple Watch Online</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-hidden-advantages-of-driving-an-electric-vehicle-free-parking-and-carpool-lane-access/"><u>The Hidden Advantages of Driving an Electric Vehicle: Free Parking & Carpool Lane Access</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-next-generation-of-airpods-whens-their-launch-and-how-can-you-reserve-them-insights-from-zdnet/"><u>The Next Generation of AirPods - When's Their Launch, and How Can You Reserve Them? Insights From ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-guide-to-the-best-magsafe-wallets-of-2024-tested-and-evaluated-by-professionals-zdnet/"><u>Ultimate Guide to the Best MagSafe Wallets of 2024 - Tested and Evaluated by Professionals | ZDNet</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/understanding-and-applying-auto-hdr-a-windows-11-tutorial/"><u>Understanding and Applying Auto HDR A Windows 11 Tutorial</u></a></li>
 </ul></div>
 

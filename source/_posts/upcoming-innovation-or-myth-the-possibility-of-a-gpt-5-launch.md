@@ -1,7 +1,7 @@
 ---
 title: Upcoming Innovation or Myth? The Possibility of a GPT-5 Launch
-date: 2024-09-02T09:18:43.750Z
-updated: 2024-09-03T09:18:43.750Z
+date: 2024-12-12T20:16:36.032Z
+updated: 2024-12-13T19:52:04.329Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/a0bc606d13bf5b4bb98db38e302e2de3fccfa94f7
 
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Shownotes
 
  This week, we bring you the following tech explainers, tips, and tricks:
@@ -29,14 +33,11 @@ thumbnail: https://thmb.techidaily.com/a0bc606d13bf5b4bb98db38e302e2de3fccfa94f7
 
  Christian Cawley, Gavin Phillips, and Ben Stegner host this week's podcast. You can contact them on Twitter:[@thegadgetmonkey](https://twitter.com/thegadgetmonkey) ,[@gavinspavin](https://twitter.com/gavinspavin) , and[@stegnersaurus](https://twitter.com/stegnersaurus) , with your suggestions for future topics.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -45,9 +46,22 @@ thumbnail: https://thmb.techidaily.com/a0bc606d13bf5b4bb98db38e302e2de3fccfa94f7
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-classic-captures-portraiture-on-the-xiphone/"><u>[New] Classic Captures Portraiture on the XiPhone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-leading-platforms-for-digital-graffiti-fonts/"><u>[New] Leading Platforms for Digital Graffiti Fonts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/wmvflv-movavi/"><u>在線免收費轉WMV為FLV - 利用 Movavi 改編器功能</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/cross-language-communication-skills-boosted-by-chatgpt/"><u>Cross-Language Communication Skills Boosted by ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/deciding-the-top-language-model-bard-chatgpt-or-offline-alpaca/"><u>Deciding the Top Language Model: Bard, ChatGPT or Offline Alpaca?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/demystifying-ai-integration-inside-look-at-the-functioning-of-7-gpt-4-enhanced-applications/"><u>Demystifying AI Integration: Inside Look at the Functioning of 7 GPT-4 Enhanced Applications</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-realme-c55-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Realme C55</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-words-to-images-expert-strategies-for-crafting-ai-graphics-via-chatgpt/"><u>From Words to Images: Expert Strategies for Crafting AI Graphics via ChatGPT</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-xiaomi-redmi-note-12t-pro-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Xiaomi Redmi Note 12T Pro Through Google Earth?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-excel-2010-files-from-virus-infected-pen-drives-for-free-by-stellar-guide/"><u>Recover Excel 2010 Files from Virus-Infected Pen Drives for Free</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/tablets-showdown-determining-your-ideal-match-between-amazon-and-samsung-models/"><u>Tablets Showdown: Determining Your Ideal Match Between Amazon and Samsung Models</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/time-mastery-tips-using-chatgpt-discover-4-proven-methods/"><u>Time Mastery Tips Using ChatGPT: Discover 4 Proven Methods</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-the-basics-of-inbuilt-ai-technology-on-devices-working-principles-revealed/"><u>Understanding the Basics of Inbuilt AI Technology on Devices - Working Principles Revealed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-the-european-unions-ai-regulation-implications-for-chatbot-services-like-chatgpt/"><u>Understanding the European Union's AI Regulation: Implications for Chatbot Services Like ChatGPT</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->

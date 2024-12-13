@@ -1,7 +1,7 @@
 ---
 title: "March Release Anticipated: Exploring the Potential Launch of Apple's Upcoming MacBook Air, iPad Pro & iPad Air - Insights From ZDNet"
-date: 2024-12-05T20:59:40.231Z
-updated: 2024-12-07T20:52:34.336Z
+date: 2024-12-12T17:57:25.048Z
+updated: 2024-12-13T19:48:16.492Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Intelligence (AI)
@@ -91,7 +91,7 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -109,7 +109,7 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -123,7 +123,7 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -136,6 +136,10 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -153,10 +157,6 @@ Jason Hiner/ZDNET
 * Apple TV brings **multiview to Vision Pro**, which is especially useful when watching sports games.
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## AirPods
 
@@ -210,20 +210,20 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-pro-tips-for-utilizing-green-screen-effects-professionally/"><u>[New] In 2024, Pro Tips for Utilizing Green Screen Effects Professionally</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-quality-video-sharing-leading-alternative-converters-from-flv-to-yt/"><u>[Updated] Quality Video Sharing Leading Alternative Converters From FLV to YT</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/1-transfert-facile-de-jeux-steam-vers-un-nouveau-disque-dur-ou-ssd/"><u>1. Transfert Facile De Jeux Steam Vers Un Nouveau Disque Dur Ou SSD</u></a></li>
-<li><a href="https://driver-download.techidaily.com/best-practices-updating-your-amd-graphics-card-software-on-windows-platforms/"><u>Best Practices: Updating Your AMD Graphics Card Software on Windows Platforms</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/compare-and-contrast-what-sets-echo-pop-apart-from-echo-dot/"><u>Compare & Contrast: What Sets Echo Pop Apart From Echo Dot?</u></a></li>
-<li><a href="https://fox-http.techidaily.com/direct-match-twitchs-battle-against-youtubes-dominance-for-2024/"><u>Direct Match Twitch's Battle Against YouTube's Dominance for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/easy-guide-restoring-damaged-mp4-videos-using-top-rated-quick-fix-software/"><u>Easy Guide: Restoring Damaged MP4 Videos Using Top-Rated Quick Fix Software</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/easy-methods-for-transposing-vp8-into-vp9-and-reversing-the-process-with-webm-videos/"><u>Easy Methods for Transposing VP8 Into VP9 and Reversing the Process with WebM Videos</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/effortless-batch-transformation-from-wav-to-aac-audio-on-pc-expert-tips-and-tools/"><u>Effortless Batch Transformation From WAV to AAC Audio on PC: Expert Tips & Tools</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/effortless-conversion-transforming-vcds-into-dvd-format-on-your-pc-using-windows/"><u>Effortless Conversion: Transforming VCDs Into DVD Format on Your PC Using Windows</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/effortless-mpg-playback-on-pc-the-ultimate-top-10-list-of-applications/"><u>Effortless MPG Playback on PC: The Ultimate Top 10 List of Applications</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/facebook/"><u>Facebookで音楽ファイルの安全なダウンロード手順</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-xiaomi-redmi-note-13-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Xiaomi Redmi Note 13 5G Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-on-creating-free-dvds-from-wmv-videos-with-winx-dvd-author-software/"><u>Step-by-Step Tutorial on Creating Free DVDs From WMV Videos with WinX DVD Author Software</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/flashmp4/"><u>ファイル形式変更ガイド: FLASH動画からMP4へ完全な変換方法</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-expand-your-library-prime-10-ps5-extra-drives/"><u>[New] In 2024, Expand Your Library Prime 10 PS5 Extra-Drives</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-identifying-and-nurturing-your-brands-character/"><u>[Updated] 2024 Approved Identifying and Nurturing Your Brand's Character</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-iphone-sky-photography-essential-tips-and-tricks/"><u>2024 Approved Mastering iPhone Sky Photography Essential Tips & Tricks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-ultimate-guide-to-high-speed-pc-controller-extensions/"><u>2024 Approved Ultimate Guide to High-Speed PC Controller Extensions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/deciphering-the-differences-amongst-public-private-and-personal-ai-platforms/"><u>Deciphering the Differences Amongst Public, Private, and Personal AI Platforms</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-ai-types-the-fundamental-distinctions-between-strong-ai-and-weak-ai/"><u>Decoding AI Types: The Fundamental Distinctions Between Strong AI and Weak AI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-ultimate-list-of-5-exceptional-ai-powered-prompt-makers-for-your-ai-applications/"><u>Discover the Ultimate List of 5 Exceptional AI-Powered Prompt Makers for Your AI Applications</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discovering-chatgpt-the-powerhouse-behind-innovations-in-generative-ai-solutions/"><u>Discovering ChatGPT: The Powerhouse Behind Innovations in Generative AI Solutions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-your-skills-discover-the-best-5-elearning-platforms-for-ai-prompt-creation/"><u>Elevate Your Skills - Discover the Best 5 eLearning Platforms for AI Prompt Creation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/expert-advice-curtailing-chatgpts-conversation-logging/"><u>Expert Advice: Curtailing ChatGPT's Conversation Logging</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-future-with-5-mental-health-bots/"><u>Exploring the Future with 5 Mental Health Bots</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-the-leading-game-console-innovations-a-comprehensive-breakdown/"><u>Exploring the Leading Game Console Innovations : A Comprehensive Breakdown</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-chatbot-prompts-to-podcast-echoes/"><u>From ChatBot Prompts to Podcast Echoes</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-realme-c55-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Realme C55 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-apps-and-online-tools-to-track-samsung-galaxy-s23-tactical-edition-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Samsung Galaxy S23 Tactical Edition Phone With/Without IMEI Number</u></a></li>
 </ul></div>
 

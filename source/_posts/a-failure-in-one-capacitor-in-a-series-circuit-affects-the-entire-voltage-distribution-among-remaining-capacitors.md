@@ -1,7 +1,7 @@
 ---
 title: A Failure in One Capacitor in a Series Circuit Affects the Entire Voltage Distribution Among Remaining Capacitors.
-date: 2024-12-03T17:05:30.641Z
-updated: 2024-12-07T17:43:54.734Z
+date: 2024-12-12T21:51:24.863Z
+updated: 2024-12-13T19:33:17.167Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ But which features will actually have the most impact on iPhone enthusiasts? Wha
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. The 5x zoom comes to the Pro
@@ -35,7 +35,7 @@ But which features will actually have the most impact on iPhone enthusiasts? Wha
 When Apple first released the [iPhone 15](https://www.zdnet.com/article/iphone-15-plus-review/) series, it only gave the 5x tetraprism zoom lens to the Max Pro. This time around, both the 16 Pro and the 16 Pro Max are getting the high-end zoom capability. This choice means the camera is essentially the same on the 16 Pro and 16 Pro Max, leaving other features to differentiate the two models. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. The camera control
@@ -53,7 +53,7 @@ The camera control button is available on all iPhone 16 models, but it's when pa
 [Not everyone is a fan](https://www.zdnet.com/article/i-want-to-be-excited-about-the-iphone-16s-new-camera-button-but-cant-for-now/) of the new camera button, however, as this shift from software to hardware will likely come with usability growing pains and mistakenly-accessed features.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Siri's much-needed makeover
@@ -71,7 +71,7 @@ Well, the time has finally come. Apple unveiled a ton of new functionality for S
 Beyond Siri, we have [Visual Intelligence](https://www.zdnet.com/article/apple-adds-visual-intelligence-its-answer-to-google-lens-to-the-iphone-16-camera/), which allows multi-modal AI via the camera, similar to what we've seen across other AI models this year. Apple Intelligence will start with a live beta in October in the US, with additional countries in December, and additional languages next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Upgraded chipset for the AI age
@@ -87,7 +87,7 @@ The 3mm technology has smaller, more efficient transistors, and constitutes a bi
 Even with AI's demanding memory requirements, having this much memory on the iPhone is a bonus for overall performance, particularly multitasking and starting up apps. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. The biggest iPhones yet
@@ -124,22 +124,20 @@ The iPhone 16 Pro and Pro Max are the largest iPhones ever, with 6.3 and 6.9-inc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-mirror-of-society-top-100-inspiring-instagramcaptions/"><u>[New] In 2024, Mirror of Society Top 100 Inspiring #InstagramCaptions</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-visual-virtuosos-questions-addressed/"><u>[New] In 2024, Visual Virtuosos Questions Addressed</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-obs-101-youtube-live-stream-setup-tutorial/"><u>[Updated] 2024 Approved OBS 101 Youtube Live Stream Setup Tutorial</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-ae-title-effect-wizardry/"><u>[Updated] The Ultimate Guide to AE Title Effect Wizardry</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-unlocking-the-secrets-to-overwatch-video-capture/"><u>2024 Approved Unlocking the Secrets to Overwatch Video Capture</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mp34/"><u>高品質音楽保存に使える、MP3サイズ削減の巧妙トリック4点</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mp3wav-4/"><u>簡単なMP3・WAVファイル変換 - インストール不必要のベスト4サイト</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-honor-play-8t-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Honor Play 8T?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-realme-11x-5g-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Realme 11X 5G</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/les-plus-efficaces-techniques-pour-transferer-des-fichiers-lourds-entre-navigateurs-sous-windows-107/"><u>Les Plus Efficaces Techniques Pour Transférer Des Fichiers Lourds Entre Navigateurs Sous Windows 10/7</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mp3windows-1/"><u>MP3ファイル再生ツール選びのヒント：Windows 1</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/new-update-alert-wonderfoxs-dvd-video-tool-now-at-version-11/"><u>New Update Alert: WonderFox's DVD Video Tool Now at Version 1.1!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/pcm-audio-editing-tutorials-for-beginners-master-sound-manipulation-with-ease/"><u>PCM Audio Editing Tutorials for Beginners - Master Sound Manipulation with Ease</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ely-transforming-youtube-videos-into-mp3-files-3-techniques/"><u>Securely Transforming YouTube Videos Into MP3 Files - 3 Techniques</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/speedy-guide-mastering-quick-dvd-duplication-on-windows-11/"><u>Speedy Guide: Mastering Quick DVD Duplication on Windows 11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-recording-your-favorite-shows-from-directv-using-any-device/"><u>Step-by-Step Guide: Recording Your Favorite Shows From DirecTV Using Any Device</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mp4-ou/"><u>カスタマイズMP4ビデオ: どうやって副音量を削除するか教えましou?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-synchronizing-sessions-obs-timer-integration-walkthrough/"><u>[New] 2024 Approved Synchronizing Sessions OBS Timer Integration Walkthrough</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-become-a-skilled-concealer-of-in-game-voices-compre-points-on-altering-sounds-in-free-fire/"><u>[Updated] Become a Skilled Concealer of In-Game Voices Compre Points on Altering Sounds in Free Fire</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-breakthrough-ways-to-amplify-your-video-content-reach-for-2024/"><u>[Updated] Breakthrough Ways to Amplify Your Video Content Reach for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-key-screen-snapping-programs-for-content-sharing/"><u>2024 Approved Key Screen-Snapping Programs for Content Sharing</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/budget-friendly-ssl-certs-value-or-risk/"><u>Budget-Friendly SSL Certs: Value or Risk?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-power-of-gpt-4-without-opening-your-wallet-top-5-tactics/"><u>Discover the Power of GPT-4 Without Opening Your Wallet – Top 5 Tactics</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-your-online-conversations-incorpressing-chatgpt-into-your-social-media-strategy/"><u>Elevate Your Online Conversations: Incorpressing ChatGPT Into Your Social Media Strategy</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/embarking-on-ai-driven-conversational-engineering/"><u>Embarking on AI-Driven Conversational Engineering</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/essential-7-aspects-how-to-select-a-superior-ai-chatbot-solution/"><u>Essential 7 Aspects: How to Select a Superior AI Chatbot Solution</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/essential-errors-to-escape-while-crafting-content-with-chatgpt/"><u>Essential Errors to Escape While Crafting Content with ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/experience-intelligent-query-processing-access-bings-latest-ai-powered-mobile-search-for-both-android-and-ios-users/"><u>Experience Intelligent Query Processing: Access Bing's Latest AI-Powered Mobile Search for Both Android & iOS Users</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-mastering-the-art-of-prepping-space-for-virtual-reality/"><u>In 2024, Mastering the Art of Prepping Space for Virtual Reality</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-lava-blaze-2-5g-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Lava Blaze 2 5G Phone? Unlock It Now</u></a></li>
+<li><a href="https://extra-support.techidaily.com/revamp-voice-output-with-ease-for-ps5ps4-gamers-for-2024/"><u>Revamp Voice Output with Ease for PS5/PS4 Gamers for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-a-healthier-lifestyle-with-chatgpt-the-ultimate-9-step-guide/"><u>Unlocking a Healthier Lifestyle with ChatGPT: The Ultimate 9-Step Guide</u></a></li>
 </ul></div>
 

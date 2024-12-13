@@ -1,7 +1,7 @@
 ---
 title: "Premium Laps Top Match-Up: Samsung Galaxy Book 2 Ultra Takes on Apple's MacBook Pro in a High Stakes Tech Battle | ZDNet"
-date: 2024-11-30T16:09:53.420Z
-updated: 2024-12-07T17:30:48.132Z
+date: 2024-12-06T18:28:13.601Z
+updated: 2024-12-13T16:28:07.681Z
 tags:
   - apple
 categories:
@@ -26,6 +26,10 @@ We'll compare the specs of the [Galaxy Book 3 Ultra](https://shop-links.co/link/
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Specifications
 
 | **Samsung Galaxy Book 3 Ultra** | **Apple M2-gen MacBook Pro (16-inch)**                                                                                                                                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                   |
@@ -49,10 +53,6 @@ There are definitely some strong MacBook Pro vibes informing Samsung's aesthetic
 
 Samsung
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  1\. You're committed to Samsung's ecosystem
 
 ### Samsung Unpacked
@@ -66,16 +66,12 @@ Samsung realized this and included benefits like the options to use a [Galaxy Ta
 If you've already got a Galaxy smartphone or tablet, there are definitely practical benefits to functionality that you'll receive by opting for this model. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  2\. You expect to do any gaming
 
 Macs have never matched their Windows-based counterparts when it comes to gaming. Despite the massive boost in power provided by Apple's M2 Pro and Max chips, this remains true. Of course there's the issue that a handful of gaming titles are available for MacOS, almost none of which are new or AAA games. But an equally big problem is MacBooks' lack of discrete GPUs. The Galaxy Book 3 Ultra, on the other hand, has options for an [Nvidia RTX 4050 or 4070 GPU](https://www.zdnet.com/article/nvidia-unveils-its-latest-studio-laptop-series-which-showcases-its-fastest-most-powerful-gpu-chip/), either of which should offer frame rates that are playable to exceptional for almost any title. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  3\. You want maximum software compatibility
 
@@ -94,7 +90,7 @@ The most recent, M2 Pro or Max-powered refresh of the venerable 16-inch MacBook 
 Apple
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  1\. You, or your family, are committed to Apple's ecosystem
@@ -116,13 +112,13 @@ It's an issue that can chafe at times, but it's also one that has led many, myse
 
 **Also:** [**Samsung Galaxy S23 Ultra vs Google Pixel 7 Pro: Which Android flagship is king?**](https://www.zdnet.com/article/samsung-galaxy-s23-ultra-vs-google-pixel-7-pro/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  2\. You're a content creator looking for a mobile desktop replacement
 
 Apple's M1 generation of chips was already more than enough power for most photo editors, and even a large chunk of video editors, including those working in 4K+ formats. Now, with the advent of M2 Pro and M2 Max options, the 16-inch MacBook Pro is like an entire production studio unto itself, especially when combined with the ample variety of RAM and storage configurations now available for both chips and a full-fledged HDMI port, as well as three DisplayPort-capable Thunderbolt ports. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  3\. You need a ton of RAM or storage
 
@@ -131,6 +127,10 @@ The maximum amount of memory and storage you can configure a Galaxy Book 3 Ultra
 **Also: [Apple's new MacBook Pro with M2 Pro chip is a compelling package](https://www.zdnet.com/article/apples-new-macbook-pro-with-m2-pro-chip-is-a-compelling-package/)**
 
 [Buy the 16-inch Apple MacBook Pro $2,499 at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -185,24 +185,17 @@ Absolutely must have a 16-inch laptop? Lenovo's ThinkPad Z16 is among the most p
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-the-ultimate-list-10-best-date-counting-clocks-androidios/"><u>[New] 2024 Approved The Ultimate List 10 Best Date-Counting Clocks Android/iOS</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-expert-techniques-for-enhanced-minecraft-zooms/"><u>[Updated] 2024 Approved Expert Techniques for Enhanced Minecraft Zooms</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-discover-top-15-youtube-sources-for-sci-education-for-2024/"><u>[Updated] Discover Top 15 YouTube Sources for Sci-Education for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-breaking-the-barrier-easy-livestream-setup-for-podcasters/"><u>[Updated] In 2024, Breaking the Barrier Easy Livestream Setup for Podcasters</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-premier-fifa-vids-data-visualized-for-social-media/"><u>[Updated] In 2024, Premier FIFA Vids Data Visualized for Social Media</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1-download-juice-wrlds-latest-tracks-a-step-by-step-guide/"><u>1. 'Download Juice Wrld's Latest Tracks: A Step-by-Step Guide'</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/best-8-3d-gold-text-effect-websites/"><u>Best 8 3D Gold Text Effect Websites</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/cutting-edge-strategies-to-minimize-vids-for-instagram-on-macos-for-2024/"><u>Cutting-Edge Strategies to Minimize Vids for Instagram on macOS for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-solutions-for-resolving-track-extraction-failures-in-windows-media-player/"><u>Step-by-Step Solutions for Resolving Track Extraction Failures in Windows Media Player</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-on-effortlessly-transforming-flv-videos-into-mov-format/"><u>Step-by-Step Tutorial on Effortlessly Transforming FLV Videos Into MOV Format</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/streamline-your-music-the-ultimate-guide-to-transforming-aac-tracks-into-lossless-flac-format/"><u>Streamline Your Music: The Ultimate Guide to Transforming AAC Tracks Into Lossless FLAC Format</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-ultimate-tutorial-using-vlc-player-to-open-and-view-iso-files/"><u>The Ultimate Tutorial: Using VLC Player to Open and View ISO Files</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-4-techniques-for-converting-dvds-into-high-quality-mp3-files/"><u>Top 4 Techniques for Converting DVDs Into High-Quality MP3 Files</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-rated-handbrake-alternative-seamless-dvd-and-video-conversion/"><u>Top-Rated Handbrake Alternative: Seamless DVD & Video Conversion</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unavailable-microsoft-teams-recordings-discover-effective-remedies/"><u>Unavailable Microsoft Teams Recordings? Discover Effective Remedies!</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unlock-full-potential-using-polarrs-image-tools-for-2024/"><u>Unlock Full Potential Using Polarr's Image Tools for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-a-new-era-of-tech-how-the-advanced-intel-ai-chip-transforms-laptops-and-delivers-incredible-advantages-zdnet/"><u>Unveiling a New Era of Tech: How the Advanced Intel AI Chip Transforms Laptops and Delivers Incredible Advantages | ZDNET</u></a></li>
-<li><a href="https://win11.techidaily.com/utilizing-windows-tools-for-superior-macos-experience/"><u>Utilizing Windows Tools for Superior macOS Experience</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/youtube-windows-1011/"><u>YouTube動画の保存方法: Windows 10/11用ガイド</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-beginners-path-to-screen-casting-with-apple-devices/"><u>[New] 2024 Approved Beginner’s Path to Screen Casting with Apple Devices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-create-a-youtube-account/"><u>[New] In 2024, How to Create a YouTube Account</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/he-art-of-featured-channels-an-in-depth-exploration-for-maximizing-engagement/"><u>[New] The Art of Featured Channels An In-Depth Exploration for Maximizing Engagement</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/our-guide-to-smooth-browsing-select-the-top-7-android-adblockers-for-2024/"><u>[New] Your Guide to Smooth Browsing Select the Top 7 Android AdBlockers for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-vivo-v30-lite-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Vivo V30 Lite 5G Data? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-motorola-moto-g34-5g-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Motorola Moto G34 5G Device</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-double-edged-sword-of-generative-ai/"><u>The Double-Edged Sword of Generative AI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-chatbot-question-gpt-pluses-or-perplexities/"><u>The Ultimate Chatbot Question: GPT Pluses or Perplexities?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-strategy-enhancing-everyday-living-with-chatgpt/"><u>The Ultimate Strategy: Enhancing Everyday Living with ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transformative-tastes-with-ai-assisted-healthy-recipes/"><u>Transformative Tastes with AI-Assisted Healthy Recipes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-chatgpts-maximum-message-capacity-how-many-tokens-are-allowed/"><u>Understanding ChatGPT's Maximum Message Capacity: How Many Tokens Are Allowed?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Is the Latest AirPower Footage a Sign of Resurrected Qi Wireless Charger by Apple? Exclusive Insights | TechCrunch
-date: 2024-12-03T17:44:10.158Z
-updated: 2024-12-07T17:27:02.750Z
+date: 2024-12-10T19:16:50.425Z
+updated: 2024-12-13T20:25:58.380Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ What do I believe Apple needs to reveal -- or, at least, set in motion -- this m
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Develop a clear on-device strategy for generative AI and invest in AI-driven developer tools
@@ -52,6 +52,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Leverage ethical AI and privacy as a competitive advantage
 
 Emphasizing [ethical AI](https://www.zdnet.com/article/how-we-can-harness-the-power-of-generative-ai-ethically/) development will ensure fairness, transparency, and accountability. Ethical AI involves addressing biases in AI models, ensuring AI decisions are explainable, and adhering to principles that prevent misuse or harm. This approach will help build trust and set a high standard in the AI industry.
@@ -63,6 +67,10 @@ Apple's historical commitment to privacy can also give it a significant advantag
 Providing private or family-specific AI instances would further enhance privacy and personalized interactions. For example, HomePod could recognize individual voices and offer personalized responses, while Apple TV+ could recommend shows tailored to each user. AI can coordinate family schedules, manage activities, and send reminders. Robust privacy controls and advanced parental controls ensure secure and healthy digital environments for children.
 
 By focusing on these principles, Apple can lead by example and set new benchmarks in developing and deploying ethical AI.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Integrate seamlessly with third-party services and partner with multiple AI providers
 
@@ -79,7 +87,7 @@ Apple should also incorporate [Retrieval-Augmented Generation](https://www.zdnet
 Partnering with multiple AI providers, including specialists in natural language processing, computer vision, and machine learning, will bring cutting-edge innovations and accelerate the development of advanced features across Apple's ecosystem. This multi-partner approach reduces the risk of over-reliance on a single provider, increases resilience, and allows Apple to tailor AI solutions to different markets and user segments.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Deploy AI-accelerated appliances on the edge with dedicated cloud capacity
@@ -91,7 +99,7 @@ To meet the growing demand for fast application response times, I believe Apple 
 Additionally, Apple could collaborate with cloud-based AI providers to manage complex AI tasks in the cloud when necessary. Combining edge and cloud resources, this hybrid approach would create a robust and scalable AI infrastructure that supports real-time AI applications such as augmented reality, language translation, and advanced data analytics.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Enhance proactive assistance and personalization
@@ -103,10 +111,6 @@ Apple's AI should proactively anticipate user needs and provide personalized exp
 AI can enhance contextual awareness by integrating with sensors and data sources on Apple devices. For example, starting a workout on Fitness+ could prompt AI to suggest a matching Apple Music playlist, monitor health metrics in real-time with Apple Watch, and provide motivational prompts. AI can analyze user behavior to offer smart recommendations for content, activities, and products, acting as a personal assistant attuned to individual tastes.
 
 Proactive health and wellness features could remind users to take medication via the Health app, suggest wellness tips based on activity levels tracked by Apple Watch, and offer mental health support through mindfulness reminders. Personalized routines on Apple devices, like HomePod adjusting lighting based on daily habits, will enhance user experiences.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Ensure AI shines across all products and services
 
@@ -123,10 +127,6 @@ For Apple TV, AI could improve content discovery by recommending shows based on 
 Leveraging AI to enhance HomeKit's capabilities is essential, especially since HomeKit isn't a market leader in home automation. AI can offer smarter home automation by predicting user behavior to automate lights, thermostat settings, and security systems. 
 
 Integrating AI across all devices ensures a seamless user experience. Preferences and data from one device would then inform recommendations on another, creating a unified ecosystem.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How Apple wins the generative AI race
 
@@ -170,24 +170,21 @@ For consumers, the AI race is about trust, user experience, and integrating adva
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-culinary-crescendo-high-impact-food-network-monikers/"><u>[Updated] 2024 Approved Culinary Crescendo High-Impact Food Network Monikers</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-the-digital-frontier-navigating-fbs-autoplay-options/"><u>[Updated] 2024 Approved The Digital Frontier Navigating FB's Autoplay Options</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/8-ultimate-free-3d-players-perfect-for-pcmac-users-out-there/"><u>8 Ultimate Free 3D Players Perfect for PC/Mac Users Out There</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/boost-your-computers-performance-top-rated-free-and-premium-tools-recommended-by-experts-insights-from-yl-computing/"><u>Boost Your Computer's Performance: Top Rated Free and Premium Tools Recommended by Experts - Insights From YL Computing</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/elevate-your-persuasion-skills-a-step-by-step-tutorial-on-creating-winning-proposals-with-chatgpt/"><u>Elevate Your Persuasion Skills: A Step-by-Step Tutorial on Creating Winning Proposals with ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/essential-criteria-preparing-to-utilize-chatgpt-in-mental-health-support/"><u>Essential Criteria: Preparing to Utilize ChatGPT in Mental Health Support</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/expert-guide-to-leveraging-chatgpt-on-mobile-best-practices-for-android-and-apple-devices/"><u>Expert Guide to Leveraging ChatGPT on Mobile - Best Practices for Android & Apple Devices</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/explore-the-top-7-ai-powered-systems-as-effective-successors-to-chatgpt-in-auto-coding/"><u>Explore the Top 7 AI-Powered Systems as Effective Successors to ChatGPT in Auto-Coding</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/get-your-macbook-air-with-powerful-m1-chip-for-only-649-best-price-available-shop-smart/"><u>Get Your MacBook Air with Powerful M1 Chip for Only $649 - Best Price Available | Shop Smart</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your OnePlus Ace 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-optimized-process-for-melding-gopro-sequences-in-full-dome-videos/"><u>In 2024, Optimized Process for Melding GoPro Sequences in Full-Dome Videos</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigate-crypto-markets-easier-with-these-5-chatgpt-investment-tips/"><u>Navigate Crypto Markets Easier with These 5 ChatGPT Investment Tips</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-looking-for-subtitle-edit-mac-alternative-here-are-the-best-options-for-2024/"><u>New Looking for Subtitle Edit Mac Alternative? Here Are the Best Options for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/next-level-autosync-discovering-mercedes-benzs-latest-innovation-chatgpt-voice-assistants-for-drivers/"><u>Next-Level Autosync: Discovering Mercedes-Benz's Latest Innovation - ChatGPT Voice Assistants for Drivers</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210775789-9798889130451-positive-psychology-unlock-the-power-of-positive-thinking-and-enhance-your-life-with-the-proven-techniques-of-positive-psychology/"><u>Positive Psychology: Unlock the Power of Positive Thinking and Enhance Your Life with the Proven Techniques of Positive Psychology | Free Book</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-complete-guide-handling-408-request-timeouts-effectively/"><u>The Complete Guide: Handling 408 Request Timeouts Effectively</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-impact-of-advanced-ai-preparing-for-the-arrival-of-gpt-4-in-diy-projects/"><u>The Impact of Advanced AI: Preparing for the Arrival of GPT-4 in DIY Projects</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-role-of-vector-databases-in-advancing-ai-technologies/"><u>The Role of Vector Databases in Advancing AI Technologies</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/ultimate-list-of-squid-game-themed-games-available-on-every-device-from-pc-to-playstation/"><u>Ultimate List of Squid Game Themed Games Available on Every Device From PC to PlayStation</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-xbox-gameplay-perfect-screen-recording-guide/"><u>[New] 2024 Approved Xbox Gameplay Perfect Screen Recording Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-essential-insights-for-capturing-online-meeting-transcripts-for-2024/"><u>[New] Essential Insights for Capturing Online Meeting Transcripts for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-how-to-turn-a-minute-into-millions-maximizing-viewership-for-youtubers-for-2024/"><u>[Updated] How to Turn a Minute Into Millions Maximizing Viewership for YouTubers for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-become-a-social-media-sensation-top-9-tips-for-instagram-stardom/"><u>2024 Approved Become a Social Media Sensation Top 9 Tips for Instagram Stardom</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/debloating-windows-the-pitfalls-and-better-alternatives-explained-insights-from-zdnet/"><u>Debloating Windows: The Pitfalls and Better Alternatives Explained - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-how-simple-it-really-is-to-transfer-your-macbook-data-with-our-swift-solutions/"><u>Discover How Simple It Really Is to Transfer Your MacBook Data with Our Swift Solutions!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-upgraded-apple-carplay-features-showcased-at-wwdc-2024-in-depth-analysis-and-expert-insights/"><u>Discover the Upgraded Apple CarPlay Features Showcased at WWDC 2024: In-Depth Analysis and Expert Insights</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/edge-softening-secrets-in-photo-editing-software/"><u>Edge-Softening Secrets in Photo Editing Software</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/essential-guide-how-to-effortlessly-set-up-your-new-ipad-insights/"><u>Essential Guide: How to Effortlessly Set Up Your New iPad - Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/experience-your-dream-of-apple-sports-come-true-a-free-and-user-friendly-iphone-app-reviewed-by-experts-zdnet/"><u>Experience Your Dream of Apple Sports Come True: A Free and User-Friendly iPhone App Reviewed by Experts | ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-why-the-discounted-apple-watch-ultra-2-is-my-ideal-smartwatch-pick-this-labor-day-insights-from-zdnet/"><u>Exploring Why the Discounted Apple Watch Ultra 2 Is My Ideal Smartwatch Pick This Labor Day - Insights From ZDNet</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2622877-9781936740994-toasts/"><u>Toasts | Free Book</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-bargains-on-amazon-hottest-offers-of-sept-24-featured/"><u>Top Bargains on Amazon - Hottest Offers of Sept '24 Featured</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-budget-tablets-of-2024-comprehensive-reviews-by-tech-experts/"><u>Top-Rated Budget Tablets of 2024: Comprehensive Reviews by Tech Experts</u></a></li>
+<li><a href="https://win-trending.techidaily.com/umwandlungshinweis-konvertierung-von-sd-karteneinstellungen-raw-zu-fat32-dateisystem/"><u>Umwandlungshinweis: Konvertierung Von SD-Karteneinstellungen RAW Zu FAT32 Dateisystem</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/wie-sie-mit-einem-asus-notebook-den-wiederherstellungsmodus-in-windows-11-nutzen-konnen-eine-praktische-anleitung/"><u>Wie Sie Mit Einem Asus-Notebook Den Wiederherstellungsmodus in Windows 11 Nutzen Können: Eine Praktische Anleitung</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Perform a Firmware Upgrade for Your Apple Studio Display (Tips and Tricks by ZDNet)
-date: 2024-12-02T19:38:31.843Z
-updated: 2024-12-07T19:12:07.766Z
+date: 2024-12-11T19:03:58.911Z
+updated: 2024-12-13T16:31:50.149Z
 tags:
   - apple
 categories:
@@ -23,6 +23,10 @@ If you're going to be one of those people, read on.
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -53,17 +57,9 @@ These are the iPhones that can run iOS 15:
 
 If your iPhone is one of these and is not running the latest version of iOS 15, then I recommend upgrading to the latest release to get the best experience. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  2\. Look out for apps that need additional handholding during a transfer
 
 Next, some apps -- specifically banking apps in my experience -- prefer it if you deactivate or deauthorize them on the old iPhone before moving to a new handset. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### read this
 
@@ -74,6 +70,10 @@ It's not that you can't still get the service to work, but you may have to jump 
 I'd definitely check any banking and financial apps for any special process involved in moving them to a new handset and take care of that up front. 
 
 **Also:** [**The 5 best payment apps (Venmo isn't your only option)**](https://www.zdnet.com/article/best-payment-app/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  3\. Protect your data
 
@@ -88,7 +88,7 @@ Don't have enough iCloud space? Don't worry! Apple will let you borrow some [tem
 **Also:** [**Here's a hidden way to increase your iCloud storage**](https://www.zdnet.com/article/the-secret-hidden-way-you-can-double-apples-maximum-2tb-icloud-storage-limit/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  4\. Get ready for the transfer
@@ -106,7 +106,7 @@ Apple has made transferring to a new iPhone easy.
 Screenshot/Adrian Kingsley-Hughes
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  5\. Wiping the old iPhone
@@ -136,16 +136,16 @@ Remember, once you start this process, there's no going back!
 
 **Also:** [**iOS 15 privacy and security checklist**](https://www.zdnet.com/article/ios-15-ultimate-privacy-and-security/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### See also
 
 * [6 things you can do to give your devices a spring cleaning](https://www.zdnet.com/article/6-things-you-can-do-to-give-your-devices-a-spring-cleaning/)
 * [How to clean your Apple Watch in 5 steps](https://www.zdnet.com/article/how-to-clean-your-apple-watch-in-5-steps/)
 * [How to clean and sanitize your AirPods](https://www.zdnet.com/article/how-to-clean-and-sanitize-your-airpods/)
 * [How to clean a mechanical keyboard](https://www.zdnet.com/article/how-to-clean-a-mechanical-keyboard/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  6\. Spring-clean your iPhone
 
@@ -187,19 +187,24 @@ Now you can relax and enjoy your [new iPhone](https://www.zdnet.com/article/here
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-true-story-of-youtube-earnings-and-viewer-volume-requirements/"><u>[Updated] The True Story of YouTube Earnings and Viewer Volume Requirements</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/2023-dvd-css/"><u>2023年度適用: 迅速なDVD CSS解除手法ガイド</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/5yq55p6c55qe44gq5oml44ow44os44o844kr44o844gu44ot44oh44kq5zyn57iu44og44kv44ol44od44kv77ya44k544ob44ol44ov44o844oj44k344kn44ki44cn/"><u>効果的な手ブレーカーのビデオ圧縮テクニック：スチュワードシェア」</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/20243/"><u>新入学生に最適! 2024年専用で人気のある無料ミュージックエディターアプリベスト3選</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/bbc-sound-capture-tutorial-transforming-broadcasts-into-mp3-format-with-five-easy-steps/"><u>BBC Sound Capture Tutorial: Transforming Broadcasts Into MP3 Format with Five Easy Steps</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/exploring-4k-quality-hc-wxf991-review/"><u>Exploring 4K Quality: HC-WXF991 Review</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-12-pro-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On Apple iPhone 12 Pro</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-zte-axon-40-lite-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from ZTE Axon 40 Lite to New Android? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-through-vivas-video-content/"><u>In 2024, Navigating Through Viva's Video Content</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-realme-gt-5-pro-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Realme GT 5 Pro Phone Pattern Lock</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/taming-troublesome-buffer-underruns/"><u>Taming Troublesome Buffer Underruns</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/transformez-votre-jour-de-consultation-a-domicile-en-une-experience-agreable-et-positive/"><u>Transformez Votre Jour De Consultation À Domicile en Une Expérience Agréable Et Positive</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1726029346129-pc3/"><u>アクティブライフスタイルとしてのPCゲーム動画撮影：3つの効果的な方法</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/44ov44kh44oz44k244gn44gk6kal44gb44gf5yuv55s744ks5a6j5ywo44gr6kiy6yyy44o75lplusd566h44gz44kl5oml5byv44gn/"><u>ファンザでお見せた動画を安全に記録・保管する手引き</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-best-in-class-iphone-and-android-video-enhancers/"><u>[Updated] 2024 Approved Best-In-Class iPhone and Android Video Enhancers</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-pro-tips-for-captivating-snapchat-stories/"><u>[Updated] Pro Tips for Captivating Snapchat Stories</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/does-chatgpt-learn-from-user-conversations/"><u>Does ChatGPT Learn From User Conversations?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/empower-your-wrist-tech-discover-chatgpts-revolutionary-effects-on-smartwatches/"><u>Empower Your Wrist Tech: Discover ChatGPT's Revolutionary Effects on Smartwatches</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/essential-dos-and-donts-navigating-generative-ai-successfully/"><u>Essential Dos and Don'ts: Navigating Generative AI Successfully</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-chatgpt-token-restrictions-insights-on-surpassing-character-constraints/"><u>Exploring ChatGPT Token Restrictions: Insights on Surpassing Character Constraints</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-impact-of-ai-chatbot-content-filtering-what-you-need-to-know/"><u>Exploring the Impact of AI Chatbot Content Filtering: What You Need to Know</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/focused-repairs-nvidia-cards-sans-displays/"><u>Focused Repairs: NVIDIA Cards Sans Displays</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-baseline-to-boosted-performance-the-unique-features-of-gpt-4-gpt-4-turbo-and-gpt-n/"><u>From Baseline to Boosted Performance: The Unique Features of GPT-4, GPT-4 Turbo, & GPT-N</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-realme-gt-neo-5-se-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Realme GT Neo 5 SE Pictures An Easy Method Explained.</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-sign-up-for-chatgpts-new-plugins-feature/"><u>How to Sign Up for ChatGPT's New Plugins Feature</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/imposter-extension-plunders-social-media-logins/"><u>Imposter Extension: Plunders Social Media Logins</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/inside-look-at-chatsonic-thorough-review-uncovers-vital-information-on-this-state-of-the-art-artificial-intelligence-chat-interface/"><u>Inside Look at Chatsonic: Thorough Review Uncovers Vital Information on This State-of-the-Art Artificial Intelligence Chat Interface</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/inside-the-transformation-a-comprehensive-guide-through-each-version-of-openais-groundbreaking-gpt-models/"><u>Inside the Transformation: A Comprehensive Guide Through Each Version of OpenAI's Groundbreaking GPT Models</u></a></li>
+<li><a href="https://article-tips.techidaily.com/tech-savvy-guide-from-digital-to-physical-dvds-on-mac/"><u>Tech Savvy Guide From Digital to Physical - DVDs on Mac</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-definitive-guide-to-high-performance-computing-by-toms-hardware/"><u>The Definitive Guide to High-Performance Computing by Tom's Hardware</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-oppo-find-x7-ultra-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Oppo Find X7 Ultra Phone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshoot-and-enhance-fortnites-pc-experience-a-comprehensive-guide-for-eliminating-lags/"><u>Troubleshoot & Enhance Fortnite's PC Experience: A Comprehensive Guide for Eliminating Lags</u></a></li>
 </ul></div>
 

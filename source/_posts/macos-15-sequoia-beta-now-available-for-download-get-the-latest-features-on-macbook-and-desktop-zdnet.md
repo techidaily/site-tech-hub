@@ -1,7 +1,7 @@
 ---
 title: MacOS 15 'Sequoia' Beta Now Available for Download – Get the Latest Features on MacBook & Desktop | ZDNET
-date: 2024-12-04T17:22:02.760Z
-updated: 2024-12-07T20:05:21.478Z
+date: 2024-12-08T17:08:22.098Z
+updated: 2024-12-13T18:07:56.318Z
 tags:
   - apple
 categories:
@@ -26,23 +26,19 @@ While the official iOS 18 general release is today, users have already been able
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to install iOS 18
 
 Jason Hiner/ZDNET
 
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Go to General in your iPhone Settings
 
 Go to your iPhone's Settings and select General. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Go to Software Update in Settings
 
@@ -52,10 +48,6 @@ Within General, tap on Software Update. This will show you if the iOS 18 update 
 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Enter your passcode and follow steps to install
 
 Enter your passcode, if necessary, to authorize the installation of the new iOS on your iPhone, and follow the prompts to complete the installation.
@@ -64,15 +56,27 @@ After installing the latest iOS update, your iPhone will restart.
 
 ## FAQs
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### When is Apple Intelligence coming out?
 
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### When was iOS 18 released?
 
 Apple released the iOS 18 developer beta during WWDC 2024 in June, and the public beta version was released on July 15\. The general release of iOS 18 is September 16.
 
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Can you still download the iOS 18 public beta?
 
@@ -81,10 +85,6 @@ You can always be part of the Apple Beta program to get the latest beta versions
 * Back up your device and personal information.
 * Don't download beta software, which will likely have bugs and glitches, on your everyday iPhone.
 * You should go into the experience to test new features and share feedback to improve iOS, which is why beta versions are released.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How do I install the iOS 18 beta version?
 
@@ -96,10 +96,6 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 4. Select iOS 18 Public Beta. Then you'll begin receiving automatic software updates to the latest beta version of iOS 18\. Apple currently has four beta versions of iOS: iOS 18 public beta, iOS 18 developer beta, iOS 17 public beta, and iOS 17 developer beta. These four options will soon be reduced to just the two iOS 18 variants. Once you do this, return to the previous page. If an update is available now, your iPhone will prompt you to download and install it.
 
 Screenshot: Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to download the iOS 18 developer beta?
 
@@ -116,6 +112,10 @@ If you can't see this option, go to your **Settings,** select **Privacy & Securi
 **Also: [How to use and customize your iPhone's new Control Center with iOS 18](https://www.zdnet.com/article/how-to-use-and-customize-your-iphones-new-control-center-with-ios-18/)**
 
 If you aren't already a member of the Apple Developer Program, you can sign up to become one in the app. An annual membership costs $99.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What is in iOS 18 beta 3?
 
@@ -161,19 +161,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-expert-techniques-for-integrating-standardized-luts-in-post-production-workflows-for-2024/"><u>[New] Expert Techniques for Integrating Standardized LUTs in Post-Production Workflows for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-combining-camera-and-display-in-one-go/"><u>[Updated] Combining Camera and Display in One Go</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-high-definition-wonders-with-the-nikon-d500-for-2024/"><u>[Updated] High Definition Wonders with the Nikon D500 for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-comedy-kings-the-most-popular-memes/"><u>[Updated] In 2024, Comedy Kings The Most Popular Memes</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1726029688723-youtube/"><u>「車内で音楽再生が難しい時の解決策：YouTubeリンク共有方法」</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1726028680247-mp4/"><u>「最強無料MP4フォーマッター:アヴィ変換の追いかける方法」</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-5-best-photo-editing-app-for-android-phone/"><u>2024 Approved 5 Best Photo Editing App for Android Phone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-how-to-preserve-your-roblox-experience-with-flawless-recording-mac/"><u>2024 Approved How to Preserve Your Roblox Experience with Flawless Recording (Mac)</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1726030415371-gifpc/"><u>GIFアニメをトリミングするPC方法：長さ制御とスクリーンフィット</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-telegram-for-newcomers-how-to-make-your-advertising-stand-out/"><u>In 2024, Telegram for Newcomers How to Make Your Advertising Stand Out</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-live-tv-access-a-top-ranked-list-review-for-2024/"><u>Mastering Live TV Access A Top-Ranked List Review for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tweaking-fn-keys-to-your-desired-effects-on-windows-11/"><u>Tweaking FN Keys to Your Desired Effects on Windows 11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1726028822139-windowspc/"><u>WindowsPCで音楽を保存するためのダウンロード・レコーディング技術</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1726029140615-youtubevimeo/"><u>YouTubeやVimeoなど、映像ファイルに他のビデオを組み込む方法</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-documenting-xbox-gaming-tips-and-tricks/"><u>[New] Documenting Xbox Gaming Tips & Tricks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-tower-of-fantasy-keeps-crashing-on-pc/"><u>[SOLVED] Tower of Fantasy Keeps Crashing on PC</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-insearchofimprovedcameratech-beyond-mycam-for-2024/"><u>[Updated] InSearchOfImprovedCameraTech Beyond MyCam for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transforming-standard-calls-into-visual-masterpieces-with-zoom/"><u>[Updated] Transforming Standard Calls Into Visual Masterpieces with Zoom</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-unleash-your-devices-full-potential-capture-and-store-youtube-streams-flawlessly-for-2024/"><u>[Updated] Unleash Your Device's Full Potential Capture and Store YouTube Streams Flawlessly for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enabling-unrestricted-gpt-on-windows-systems/"><u>Enabling Unrestricted GPT on Windows Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/examining-the-prestige-of-chatgpt-premium/"><u>Examining the Prestige of ChatGPT Premium</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-chatgpts-ability-in-mathematics-assistance/"><u>Exploring ChatGPT's Ability in Mathematics Assistance</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/google-bard-vs-chatgpt-an-in-depth-comparison/"><u>Google Bard vs ChatGPT: An In-Depth Comparison</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gpt-5-release-forecast-when-can-we-anticipate-its-debut/"><u>GPT-5 Release Forecast – When Can We Anticipate Its Debut?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-the-revolutionary-tangle-free-usb-c-cable-became-my-essential-backpack-companion-zdnet-insights/"><u>How the Revolutionary Tangle-Free USB-C Cable Became My Essential Backpack Companion | ZDNET Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-protect-your-privacy-steps-to-disconnect-from-chatgpt/"><u>How to Protect Your Privacy: Steps to Disconnect From ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/identifying-and-evading-the-most-common-chatgpt-hoaxes/"><u>Identifying and Evading the Most Common ChatGPT Hoaxes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-unveiled-chatgpt-versus-astrological-prophecies/"><u>The Future Unveiled: ChatGPT Versus Astrological Prophecies</u></a></li>
 </ul></div>
 

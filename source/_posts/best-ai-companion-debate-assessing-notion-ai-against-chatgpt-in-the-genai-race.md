@@ -1,7 +1,7 @@
 ---
 title: "Best AI Companion Debate: Assessing Notion AI Against ChatGPT in the GenAI Race"
-date: 2024-08-29T01:23:26.351Z
-updated: 2024-08-30T01:23:26.351Z
+date: 2024-12-10T20:05:33.501Z
+updated: 2024-12-13T16:48:51.464Z
 tags:
   - chatgpt
   - open-ai
@@ -39,9 +39,6 @@ thumbnail: https://thmb.techidaily.com/8e351a495ce579ab157428c084339d1c33794d9d4
 
  Here are other important things you'll need to keep in mind to use ChatGPT efficiently as a translation tool.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ### 1\. Provide Context
 
  One of the key advantages of ChatGPT over popular translation tools like Google Translate is its ability to accurately consider the context of a text when generating translations. Considering context can be the difference between simply translating individual words in a sentence and generating a translation that truly reflects the author's or speaker's intention.
@@ -50,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/8e351a495ce579ab157428c084339d1c33794d9d4
 
 ![Translating with context using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/translating-with-context-using-chatgpt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
  Of course, Google Translate will provide the same translation no matter how many times you attempt to translate it because it doesn't have a way to recognize contextual nuance. As per the screenshot above, ChatGPT will attempt to provide the most accurate translation depending on the provided context. Providing context can significantly improve the quality of your translation. If you are not sure how to provide context, here are some inspirations:
 
 * "Translate \[text to translate in Filipino\] to English from the perspective of a native Filipino speaker" should try to maintain as many cultural connotations as possible in a translation.
@@ -73,22 +66,19 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  The prompts above or similar ones help ChatGPT use relevant or industry-specific context when generating a translation. Although ChatGPT sometimes recognizes the right niche words to use for translation, you'll have to explicitly prompt it to do so using type declaration in some cases.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ### 3\. Use Style Transfer
 
  Sometimes, when translating text, the translation might be too technical or simply inappropriate for the target audience. Using style transfer in ChatGPT can help adjust the tone and style of a translation to match the target audience or industry. So, if you're translating a legal document, the translation could retain the author's original meaning while using more layman's wording. In the example below, I translated a soccer commentary from Spanish to English, first without style transfer and then using style transfer.
 
 ![Translating with ChatGPT using style transfer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/translating-using-style-transfer.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
  The translation above uses the closest English equivalent of the corresponding Spanish words, while the one below uses words suitable for an audience not acquainted with soccer terms. However, it is interesting to note that both translations are considered accurate.
 
 ![An English translation using style transfer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/an-english-translation-using-style-transfer.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To use style transfer when translating, use prompts like:
 
@@ -99,8 +89,9 @@ DbSchema database designer for all databases, schema design in the team, schema 
  You might have to tweak and adjust the style you want, but the possibilities are effectively endless.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 4\. Account for Regional Differences
 
  Some words may have different meanings or connotations depending on the region or country of the speaker. For instance, the English sentence "I'm going to play football" could translate to "我要去踢足球 (Wǒ yào qù tī zúqiú)" in Chinese. While this seems like a perfect translation, if the speaker was American, the translation could be wrong. By saying "football," an American speaker would likely be referring to the rugby-style sport called American football instead of the football known by the rest of the world.
@@ -111,9 +102,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 ![ChatGPT translation accounting for regional differences in meaning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-translation-accounting-for-regional-differences-in-meaning.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  We repeated the translation prompt but added hints about the speaker's origin and possible intent. ChatGPT changed the translation to "我要去踢橄榄球 (Wǒ yào qù tī gǎnlǎnqiú)," this time using "gǎnlǎnqiú" which is the Chinese term for American football and better reflects the potential intent of the speaker.
 
 ### 5\. Use Summarized Translation
@@ -128,8 +116,9 @@ DbSchema database designer for all databases, schema design in the team, schema 
  Translation summaries are great when you're trying to communicate but don't necessarily have time to get deep into learning the language immediately.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 6\. Use a Fine-Tuned Instance of ChatGPT
 
  Using a fine-tuned instance of ChatGPT is one of the best ways to utilize ChatGPT as a translation tool. It opens up almost endless possibilities for translation using the AI chatbot. But how can you fine-tune ChatGPT for translation?
@@ -147,13 +136,18 @@ DbSchema database designer for all databases, schema design in the team, schema 
  We achieved improved translation with every prompt without taking any further steps.
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 7\. Use Custom Instructions for Consistency in Translations
 
  If you use ChatGPT for translation frequently, one of the most frustrating limitations you'll experience is having to provide certain translation instructions every time you start a new chat. Fortunately, [ChatGPT's Custom Instructions feature](https://www.makeuseof.com/what-is-chatgpt-custom-instructions-feature/) can help solve that problem. The feature allows you to create reusable translation instructions that ChatGPT will remember across all future conversations. You can use it to specify your preferred translation style just once, and ChatGPT will then apply automatically whenever you ask ChatGPT to translate something.
 
  For instance, in point six above, we talked about a word-translation pair. You can simply add your preferred translations of words to the ChatGPT Custom Instruction editor and have the chatbot use that preference across all chat sessions. If you spend time translating between two specific languages and use tricky, unique, or colloquial words and phrasing, this will speed up your ChatGPT language translation efforts.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 8\. Replicate Linguistic Form
 
@@ -171,6 +165,10 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  Of course, this is not a perfect translation example, but with a few prompt tweaks, there's more to achieve.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Don't Rely Solely on Machine Translation
 
  While ChatGPT is an impressive translation tool, it's important to remember that it is still a machine and may not always produce the best translation. So don't rely solely on it, especially for important or sensitive documents. Instead, try a combination of tools, and whenever possible, consider using a professional translator to proofread to ensure accuracy.
@@ -179,14 +177,11 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  However, you'll need to get creative with your prompts to make the best of ChatGPT as a translation tool. We've done the hard part—here's how to get the best results from ChatGPT as a translation tool.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -195,4 +190,26 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-excellent-text-plugin-compendium/"><u>[Updated] 2024 Approved Excellent Text Plugin Compendium</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-precision-and-vividness-with-the-benq-sw320-4k-monitor/"><u>[Updated] Precision & Vividness with the BenQ SW320 4K Monitor</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/apple-enhances-icloud-support-on-windows-discover-the-latest-updates-and-improvements-zdnet/"><u>Apple Enhances iCloud Support on Windows: Discover the Latest Updates and Improvements - ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/apple-watch-ultra-2-review-the-ultimate-gadget-at-an-unbeatable-labor-day-price-insights-from-a-tech-expert/"><u>Apple Watch Ultra 2 Review: The Ultimate Gadget at an Unbeatable Labor Day Price! - Insights From a Tech Expert</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparing-the-apple-pencil-pro-and-apple-pencil-2nd-gen-determining-the-ideal-choice-for-your-ipad-needs-tech-advice-by-zdnet/"><u>Comparing the Apple Pencil Pro and Apple Pencil (2Nd Gen): Determining the Ideal Choice for Your iPad Needs | Tech Advice by ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/design-your-own-business-cards-on-ios-17-with-the-new-namedrop-tool-mobile-marketing-strategy/"><u>Design Your Own Business Cards on iOS 17 with the New NameDrop Tool | Mobile Marketing Strategy</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-seamless-integration-of-apple-airplay-in-luxury-hotels-enhancing-your-stay-with-touch-free-remote-features-gadgetguru/"><u>Discover the Seamless Integration of Apple AirPlay in Luxury Hotels: Enhancing Your Stay with Touch-Free Remote Features | GadgetGuru</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-apple-became-the-pioneer-of-ultimate-viewing-experiences-with-vision-pro-insights-from-zdnet/"><u>How Apple Became the Pioneer of Ultimate Viewing Experiences with Vision Pro – Insights From ZDNet</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-googles-efficient-route-to-instantaneous-visual-masterpieces/"><u>In 2024, Google's Efficient Route to Instantaneous Visual Masterpieces</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-samsung-galaxy-xcover-6-pro-tactical-edition-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Samsung Galaxy XCover 6 Pro Tactical Edition</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/preserve-the-shine-of-your-iphone-13-with-these-3-essential-accessories-tips-by-zdnet/"><u>Preserve the Shine of Your iPhone 13 with These 3 Essential Accessories - Tips by ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/putting-apples-push-to-upgrade-your-iphone-to-the-ultimate-test-insights-from-a-tech-guru/"><u>Putting Apple's Push to Upgrade Your iPhone to the Ultimate Test - Insights From a Tech Guru</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revealing-why-electric-vehicles-excel-in-performance-against-gasoline-models/"><u>Revealing Why Electric Vehicles Excel in Performance Against Gasoline Models</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/seamless-wi-fi-network-management-with-windows-11-expert-tips-from-yl-computing-software-solutions/"><u>Seamless Wi-Fi Network Management with Windows 11 - Expert Tips From YL Computing | Software Solutions</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/seo-excellence-transforming-podcast-discoverability/"><u>SEO Excellence Transforming Podcast Discoverability</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-alternative-productivity-tools/"><u>The Ultimate Guide to Alternative Productivity Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transforming-your-workspace-the-ultimate-guide-to-utilizing-an-ipad-pro-for-remote-working/"><u>Transforming Your Workspace: The Ultimate Guide to Utilizing an iPad Pro for Remote Working</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/winxdvd-final-user-license-agreement-digiarty-software/"><u>WinXDVD Final User License Agreement - Digiarty Software</u></a></li>
+</ul></div>
 

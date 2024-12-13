@@ -1,7 +1,7 @@
 ---
 title: "Visionary AI Devices: Unveiling the Top 5 Pioneering Tech Marvels"
-date: 2024-08-29T01:23:14.797Z
-updated: 2024-08-30T01:23:14.797Z
+date: 2024-12-09T17:15:09.277Z
+updated: 2024-12-13T21:07:11.756Z
 tags:
   - chatgpt
   - open-ai
@@ -40,27 +40,34 @@ thumbnail: https://thmb.techidaily.com/34a94943f164b90199ce5a5021ae83a50e184cfb3
  The suspicious domain directs users to a fake OpenAI website resembling the official one. The site features a “DOWNLOAD FOR WINDOWS” button, which, when clicked, downloads an executable file containing data-stealing malware.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. chat-gpt-pc.online
 
  ChatGPT AI, the fake ChatGPT Facebook page, also features posts that include links to “chat-gpt-pc.online,” another domain that redirects users to a malicious ChatGPT-themed website.
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. chatgpt-go.online
 
  The domain “chatgpt-go.online” leads users to a website that’s a clone of the official ChatGPT website. The copy-pasted site, however, swaps the “TRY CHATGPT” button link with malicious links containing Lumma Stealer. The domain also hosts different kinds of malicious files, including clipper malware and Aurora stealer.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. pay.chatgptftw.com
 
 ![pay.chatgptftw.com's payment page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pay-chatgptftw-com.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Cybercriminals also use ChatGPT-themed payment pages for financial fraud. For example, on the domain “pay.chatgptftw.com,” Cyble came across a page designed to steal credit card details. This webpage poses as a genuine payment page for ChatGPT Plus.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. ChatGPT1
 
@@ -70,21 +77,12 @@ thumbnail: https://thmb.techidaily.com/34a94943f164b90199ce5a5021ae83a50e184cfb3
 
  “AI Photo” is another app that uses the ChatGPT icon, but is malicious in intent. This app was found to harbor the SpyNote malware, capable of stealing device files, contact lists, call logs, and text messages.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 8\. Meterpreter Posing as “SuperGPT” App
 
 ![The official SuperGPT's install page on Google Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/supergpt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  SuperGPT is an AI assistant app built on ChatGPT. However, researchers from Unit 42 uncovered a malicious APK sample posing as the app. This fake “SuperGPT” is a Meterpreter Trojan, [a RAT that enables remote access](https://www.makeuseof.com/android-remote-access-trojan/) of Android devices.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 9\. Trojan-PSW.Win64.Fobo
 
  Kaspersky researchers discovered that cybercriminals were using a fake ChatGPT desktop client for Windows to distribute a stealer Trojan. The Trojan, dubbed Trojan-PSW.Win64.Fobo, if installed on the user’s computer, can steal account details stored in various browsers, including Chrome, Edge, Firefox, and Brave.
@@ -94,6 +92,10 @@ thumbnail: https://thmb.techidaily.com/34a94943f164b90199ce5a5021ae83a50e184cfb3
  If you click the link, you’ll be redirected to a website that prompts you to download ChatGPT for Windows. Clicking on the button will download an archive containing an executable file.
 
  Upon extracting the archive and running the file, you may or may not receive an installation failure message. In either case, the Trojan is installed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Protect Yourself From Malicious ChatGPT-Themed Apps
 
@@ -107,14 +109,11 @@ thumbnail: https://thmb.techidaily.com/34a94943f164b90199ce5a5021ae83a50e184cfb3
 
  Here’s a list of malicious ChatGPT-themed domains and apps that you need to be aware of.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -123,4 +122,23 @@ thumbnail: https://thmb.techidaily.com/34a94943f164b90199ce5a5021ae83a50e184cfb3
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-laugh-loom-robotic-deadlines/"><u>[New] Laugh Loom Robotic Deadlines</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-top-picks-elite-4k-displays-for-cutting-edge-editing/"><u>[New] Top Picks Elite 4K Displays for Cutting-Edge Editing</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-discovering-the-true-significance-of-pfp-in-tiktok-world/"><u>[Updated] In 2024, Discovering the True Significance of PFP in TikTok World</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/2024s-ultimate-selection-of-iphone-1616-pro-skins-expert-reviews-and-ratings-on-zdnet/"><u>2024'S Ultimate Selection of iPhone 16/16 Pro Skins: Expert Reviews and Ratings on ZDNET</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/experience-the-future-of-computing-with-macos-15-top-notch-enhancements-for-your-apple-macbook-insights/"><u>Experience the Future of Computing with MacOS 15 - Top-Notch Enhancements for Your Apple MacBook | Insights !</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/find-out-where-to-get-the-latest-deals-on-ipad-pro-ipad-air-and-apple-pencil-pro-exclusive-preorder-offers-now-gadgetdealz/"><u>Find Out Where to Get the Latest Deals on iPad Pro, iPad Air, and Apple Pencil Pro - Exclusive Preorder Offers Now | GadgetDealz</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-essential-tips-for-crop-and-export-videos-for-instagram/"><u>In 2024, Essential Tips for Crop & Export Videos for Instagram</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Nokia C32? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-infusing-action-into-photos-using-illustrators-features/"><u>In 2024, Infusing Action Into Photos Using Illustrator's Features</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-unlocking-success-with-instagrams-business-platform/"><u>In 2024, Unlocking Success with Instagram's Business Platform</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionizing-daily-life-with-apples-innovative-home-based-robot-assistant-insights-from-zdnet/"><u>Revolutionizing Daily Life with Apple’s Innovative Home-Based Robot Assistant | Insights From ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tech-marvel-alert-this-newly-released-ipad-calculator-app-may-convince-you-to-invest-in-an-apple-pencil/"><u>Tech Marvel Alert: This Newly Released iPad Calculator App May Convince You to Invest in an Apple Pencil!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-guide-to-choosing-the-ideal-apple-watch-shield-according-to-zdnet-experts/"><u>The Ultimate Guide to Choosing the Ideal Apple Watch Shield , According to ZDNet Experts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/transforming-unboxing-magic-7-ways/"><u>Transforming Unboxing Magic 7 Ways</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleashing-the-full-power-of-the-new-m4-ipad-pro-how-ai-enhances-its-capabilities-revealed-at-apples-wwdc/"><u>Unleashing the Full Power of the New M4 iPad Pro - How AI Enhances Its Capabilities Revealed at Apple's WWDC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/winx-dvd-ripper-platinum-rapidly-convert-dvd-to-high-quality-mp4-in-just-5-minutes/"><u>WinX DVD Ripper Platinum: Rapidly Convert DVD to High-Quality MP4 in Just 5 Minutes!</u></a></li>
+</ul></div>
 

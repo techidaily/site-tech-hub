@@ -1,7 +1,7 @@
 ---
 title: Epic Sale Alert for Apple Enthusiasts! Score Your Favorite AirPods at an Unbeatable $40 Price Drop This 4Th of July
-date: 2024-12-01T21:02:14.740Z
-updated: 2024-12-07T19:45:00.838Z
+date: 2024-12-09T17:27:49.059Z
+updated: 2024-12-13T18:58:21.333Z
 tags:
   - apple
 categories:
@@ -30,7 +30,7 @@ The second-generation AirPods come with a Lightning charger case. They offer sol
 Buy the AirPods on sale at [Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-AirPods-Charging-Latest-Model%2Fdp%2FB07PXGQC1Q%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc897cc8f-f17e-41e6-8410-d72f180f8ed4%7Cdtp&dtb=1) now. You can also check out more [headphone deals](https://www.zdnet.com/article/best-headphone-deals/) and the [top products ZDNET readers bought last month](https://www.zdnet.com/home-and-office/the-25-most-popular-products-zdnet-readers-bought-last-month/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -62,17 +62,17 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-boost-your-fb-ads-strategy-get-free-video-making-kit/"><u>[New] 2024 Approved Boost Your FB Ads Strategy Get Free Video-Making Kit</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/igital-domination-worlds-top-10-video-content-kings-and-queens/"><u>[New] Digital Domination World's Top 10 Video Content Kings & Queens</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-unveiling-leading-edge-vr-developers-for-2024/"><u>[New] Unveiling Leading-Edge VR Developers for 2024</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/3-ways-to-export-contacts-from-apple-iphone-15-plus-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>3 Ways to Export Contacts from Apple iPhone 15 Plus to Excel CSV & vCard Easily | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/demystifying-ai-with-openai-insights/"><u>Demystifying AI with OpenAI Insights</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/easy-setup-without-a-phone-how-to-enroll-in-popular-communication-platforms-using-other-identifiers/"><u>Easy Setup Without a Phone: How to Enroll in Popular Communication Platforms Using Other Identifiers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhance-directive-creation-with-these-7-online-resources/"><u>Enhance Directive Creation with These 7 Online Resources</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/gateway-to-anywheres-gpt-chatgpt-everywhere/"><u>Gateway to Anywhere's GPT: ChatGPT Everywhere</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/hidden-history-unveiled-understanding-off-facebook-data-for-2024/"><u>Hidden History Unveiled Understanding Off-Facebook Data for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-huawei-nova-y71-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Huawei Nova Y71 to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/lowest-price-for-endless-mondly-use/"><u>Lowest Price for Endless Mondly Use</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-creativity-a-guide-to-using-chatgpt-for-crafting-imaginary-realms/"><u>Unlocking Creativity: A Guide to Using ChatGPT for Crafting Imaginary Realms</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-digital-audio-prowess-the-top-9-mic-recorders-for-23-for-2024/"><u>[New] Digital Audio Prowess The Top 9 Mic Recorders for '23 for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-the-quickest-way-to-entertain-kapwing-memes/"><u>[New] In 2024, The Quickest Way to Entertain - Kapwing Memes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ahead-of-the-curve-meta-quest-3-launches-pre-vision-pro-ai-capabilities-how-to-activate-them/"><u>Ahead of the Curve: Meta Quest 3 Launches Pre-Vision Pro AI Capabilities - How to Activate Them</u></a></li>
+<li><a href="https://facebook.techidaily.com/digital-ears-of-phones-spying-for-marketing-reality/"><u>Digital Ears of Phones: Spying for Marketing Reality?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhanced-website-traffic-with-cookiebot-technology/"><u>Enhanced Website Traffic with Cookiebot Technology</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/fortnite-returns-to-apple-app-store-step-by-step-instructions-for-iphone-users-digitalgamingnews/"><u>Fortnite Returns to Apple App Store: Step-by-Step Instructions for iPhone Users | DigitalGamingNews</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-8-plus-passcode-without-computer-by-drfone-ios/"><u>How to Unlock iPhone 8 Plus Passcode without Computer?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Vivo V27 Pro? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-enhances-geforce-210-on-win11/"><u>NVIDIA Enhances GeForce 210 on Win11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionizing-budget-sound-unveiling-the-potential-of-beats-new-solitary-earphones-as-alternatives-to-under-1n-airpods-reviews-by-zdnet/"><u>Revolutionizing Budget Sound: Unveiling the Potential of Beats' New Solitary Earphones as Alternatives to Under $1N AirPods, Reviews by ZDNET</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-mini-tablet-reviews-of-2024-in-depth-analysis-by-tech-experts-zdnet/"><u>Top-Rated Mini Tablet Reviews of 2024 - In Depth Analysis by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-tablet-protectors-s-ultimate-ipad-air-case-guide-reviews/"><u>Top-Rated Tablet Protectors 'S Ultimate iPad Air Case Guide Reviews</u></a></li>
 </ul></div>
 

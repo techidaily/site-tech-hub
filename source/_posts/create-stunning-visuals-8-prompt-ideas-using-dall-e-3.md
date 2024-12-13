@@ -1,7 +1,7 @@
 ---
 title: "Create Stunning Visuals: 8 Prompt Ideas Using DALL-E 3"
-date: 2024-09-02T09:16:59.399Z
-updated: 2024-09-03T09:16:59.399Z
+date: 2024-12-10T18:57:58.744Z
+updated: 2024-12-13T18:28:35.204Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/6d08ef0c51b7d66c7e631fe3667e11cb568cec8b1
 
  ChatGPT has a wealth of games in its custom GPT store, covering everything from, RPGs and Dungeons and Dragons-style adventures, classic retro games, card games, quizzes, mysteries, and so much more.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1.[Murder Mystery Mayhem](https://chat.openai.com/g/g-82dEDeoN3-murder-mystery-mayhem)
 
  Let's start with one of the top-rated games on ChatGPT's custom GPT store. Murder Mystery Mayhem is a procedurally generated game where you play the role of a detective in the year 1925.
@@ -42,10 +46,6 @@ Close
 
  Murder Mystery Mayhem is good fun, with the location and murderer changing round by round, and each suspect has new alibis and evidence to reveal. The changes keep it feeling fresh, and one game played through to the end can keep you engaged and seeking the truth for well over an hour. (Don't forget, you don't have to play it all at once!)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2.[Oregon Trail](https://chat.openai.com/g/g-ijJRJgWHp-oregon-trail)
 
  Dying of dysentery has become a longstanding meme from the original Oregon Trail game, but you can now relive that horrifying experience in ChatGPT. The Oregan Trail custom GPT brings one of the first edu-games (not_the_ first, mind!) to ChatGPT... where you can suffer through the wilderness all over again.
@@ -57,8 +57,9 @@ Close
  It's a basic version of the classic game, but it's engaging enough. The custom GPT's scripting doesn't allow you to go off-piste and, say, rob the local convenience store for supplies (nor did the original), but it's certainly a lot easier without so many setbacks constantly upending and destroying your party. It's a much easier version, that's for sure.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3.[Poker](https://chat.openai.com/g/g-lHyTLJaCX-poker)
 
  From the potential death and horror of the Oregon Trail to something a little more relaxing: Poker. You play against the AI in this Poker custom GPT, starting with 10,000 credits, and play standard five-card Texas hold'em until someone's credits run out.
@@ -68,8 +69,9 @@ Close
  My only major gripe about this poker game is that ChatGPT seems to mimic your choices, such as check, raise, and so on, which can make the game predictable (or at least less random).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4.[Console GPT](https://chat.openai.com/g/g-3p94K4Djb-console-gpt)
 
  Now, this is a cool idea of how a custom GPT can span multiple types of input to create a custom game with a unique storyline.
@@ -79,8 +81,9 @@ Close
 ![cyber syndicate cartridge ai image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/cyber-syndicate-cartridge-ai-image.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Input the type of game you want in the text box, select**Glif It!** , and watch as your creation comes to life. I went with "retro-futurism crime lord" and was presented with "Cyber Syndicate," a game where you "navigate a neon-soaked, cyberpunk metropolis teeming with high-tech heists and digital espionage," with a goal of becoming the ultimate syndicate leader.
 
  Now, download the Cyber Syndicate cartridge (as an image; it's not really a cartridge file) by hovering over the image and selecting**Download** .
@@ -92,8 +95,9 @@ Close
  The narrative flow is a bit shaky, and Console GPT could use some extra commands to remember other parts of the story, but it's good fun for a while. For example, one moment, I was a lone operative in a bar, and the next, I was planning a heist in a room with the rest of my assembled team.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5.[Cookie Clicker](http://chat.openai.com/g/g-g0b22bvqB-cookie-clicker)
 
  Not content with card games, custom cartridge adventures, or adventuring? Why not give a custom GPT idle game a try instead?
@@ -106,9 +110,6 @@ Close
 
  Still, if you're into idle games and want to try something different, it could be worth a try.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 6.[Cute Little Zombies](https://chat.openai.com/g/g-CEON6aFtV-cute-little-zombies-a-text-adventure-game)
 
 [Adventure Inked](https://adventureinked.wixsite.com/gpts/) has developed more than 200 ChatGPT text adventure games, so there are far too many to list here. Cute Little Zombies is a perfect example of why its text adventures are great, giving you a heap of different scenarios to play through, all with cute little AI-generated images to help build the story out.
@@ -123,14 +124,11 @@ Close
 
  ChatGPT's games are entertaining, and custom GPT games can add an extra dimension with some clever designs, but that limit means you'll always have more fun with a regular game instead.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -139,4 +137,26 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-professional-photogridding-services-to-polish-your-art/"><u>[New] 2024 Approved Professional Photogridding Services to Polish Your Art</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-navigating-through-peak-fluid-gaming-titles-for-2024/"><u>[New] Navigating Through Peak Fluid Gaming Titles for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-best-xsplit-alternatives-for-streaming-for-2024/"><u>[Updated] Best Xsplit Alternatives for Streaming for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-next-evaluation-diverse-solutions-for-2024/"><u>[Updated] Next Evaluation Diverse Solutions for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-agriculture-adventures-the-ultimate-farmers-game-guide/"><u>2024 Approved Agriculture Adventures The Ultimate Farmer's Game Guide</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-the-ultimate-channel-growth-guide-top-5-video-marketing-tactics-revealed/"><u>2024 Approved The Ultimate Channel Growth Guide Top 5 Video Marketing Tactics Revealed</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/affordable-remobell-smart-doorbell-under-100-in-depth-product-analysis/"><u>Affordable RemoBell Smart Doorbell (Under $100) - In-Depth Product Analysis</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/conserve-battery-life-with-ease-unlock-the-secrets-of-macos-montereys-low-power-feature-explained/"><u>Conserve Battery Life with Ease: Unlock the Secrets of MacOS Monterey's Low Power Feature Explained</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-strategies-for-enhancing-complexity-on-your-apple-watch-tips/"><u>Effortless Strategies for Enhancing Complexity on Your Apple Watch - Tips</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancing-lg-television-experience-with-exclusive-sound-improvements-a-match-made-in-heaven-for-apple-lovers-insights-from-zdnet/"><u>Enhancing LG Television Experience with Exclusive Sound Improvements: A Match Made in Heaven for Apple Lovers! - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-advice-correcting-the-error-of-stop-0x0000003d-and-preventing-future-bsods/"><u>Expert Advice: Correcting the Error of STOP 0X0000003D and Preventing Future BSODs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-apples-vision-the-enchantment-of-tech-enabled-eyewear-a-deep-dive-by-zdnet/"><u>Exploring Apple's Vision: The Enchantment of Tech-Enabled Eyewear - A Deep Dive by ZDNet</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-streamline-youtube-sounds-to-mp3-using-mac/"><u>In 2024, Streamline YouTube Sounds to MP3 Using Mac</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/titan-face-off-in-depth-comparison-of-the-samsung-galaxy-watch-ultra-and-apple-watch-ultra-find-out-which-suits-you-best/"><u>Titan Face-Off: In-Depth Comparison of the Samsung Galaxy Watch Ultra and Apple Watch Ultra – Find Out Which Suits You Best!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-30-essential-gmail-shortcut-keys-you-should-know/"><u>Top 30 Essential Gmail Shortcut Keys You Should Know</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-notetakers-comprehensive-reviews-and-comparisons-techradar/"><u>Top Rated Notetakers - Comprehensive Reviews & Comparisons | TechRadar</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-magsafe-wallet-reviews-comprehensive-testing-by-tech-gurus/"><u>Top-Rated MagSafe Wallet Reviews - Comprehensive Testing by Tech Gurus</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-guide-to-choosing-the-finest-small-tablets-of-2024-as-tested-by-tech-gurus-insights-from-zdnet/"><u>Ultimate Guide to Choosing the Finest Small Tablets of 2024, as Tested by Tech Gurus | Insights From ZDNET</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-at-the-let-loose-event-the-new-m4-ipad-pro-and-13-inch-ipad-air-revealed-with-upgraded-apple-pencil-full-recap/"><u>Unveiling at the Let Loose Event: The New M4 iPad Pro and 13-Inch iPad Air Revealed with Upgraded Apple Pencil - Full Recap</u></a></li>
+</ul></div>
 

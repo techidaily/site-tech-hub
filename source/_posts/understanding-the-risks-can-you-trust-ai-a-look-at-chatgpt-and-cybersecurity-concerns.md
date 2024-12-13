@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Risks: Can You Trust AI? A Look at ChatGPT and Cybersecurity Concerns"
-date: 2024-09-02T09:21:26.578Z
-updated: 2024-09-03T09:21:26.578Z
+date: 2024-12-08T20:35:28.940Z
+updated: 2024-12-13T20:28:10.101Z
 tags:
   - chatgpt
   - open-ai
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/8eeffb0e6f2c9998156198f379aca60dcf8cc0a81
  For this week's show, we asked ChatGPT to help out with outlining and even writing the show. Here's a bit more information on[how we used ChatGPT to script the podcast](https://www.makeuseof.com/i-used-chatgpt-to-script-a-podcast-heres-what-happened/) .
 
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Shownotes
 
@@ -44,14 +48,11 @@ We finish the show with the following recommendations:
 
  Christian Cawley hosts this week's podcast, and is joined by Ben Stegner. You can contact them on Twitter:[@thegadgetmonkey](https://twitter.com/thegadgetmonkey) and[@stegnersaurus](https://twitter.com/stegnersaurus) , with your suggestions for future topics.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -60,9 +61,18 @@ We finish the show with the following recommendations:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-end-screen-design-made-easy-with-our-templates-and-tutorials/"><u>[New] 2024 Approved End-Screen Design Made Easy with Our Templates & Tutorials</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-lost-in-translation-no-videos-on-a6400/"><u>[New] In 2024, Lost in Translation No Videos on A6400</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-getting-acquainted-with-quantum-hdr-techniques/"><u>[Updated] 2024 Approved Getting Acquainted with Quantum HDR Techniques</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-android-screen-capture-kings-the-ultimate-8-free-guide/"><u>[Updated] In 2024, Android Screen Capture Kings The Ultimate 8-Free Guide</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>3 Ways to Change Location on Facebook Marketplace for Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovative-worldbuilding-with-chatgpt-unleash-your-creative-potential/"><u>Innovative Worldbuilding with ChatGPT: Unleash Your Creative Potential</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximizing-productivity-eight-innovative-ways-to-utilize-auto-gpt-technology/"><u>Maximizing Productivity: Eight Innovative Ways to Utilize Auto-GPT Technology</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-10-enhanced-ai-models-improving-upon-chatgpts-capabilities/"><u>Top 10 Enhanced AI Models Improving Upon ChatGPT's Capabilities</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-distinct-types-of-ai-public-private-and-personal-explained/"><u>Understanding Distinct Types of AI: Public, Private & Personal Explained</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-generating-windows-11-keys-via-ai-chatbots-is-not-advised-learn-alternatives/"><u>Why Generating Windows 11 Keys via AI Chatbots Is Not Advised – Learn Alternatives</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/your-ai-education-begins-here-engage-with-our-top-9-groups/"><u>Your AI Education Begins Here: Engage With Our Top 9 Groups</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->

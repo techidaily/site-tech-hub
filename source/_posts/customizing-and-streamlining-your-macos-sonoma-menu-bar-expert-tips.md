@@ -1,7 +1,7 @@
 ---
 title: Customizing & Streamlining Your MacOS Sonoma Menu Bar - Expert Tips
-date: 2024-12-06T17:52:54.967Z
-updated: 2024-12-07T18:02:30.887Z
+date: 2024-12-08T20:40:40.145Z
+updated: 2024-12-13T18:42:34.321Z
 tags:
   - apple
 categories:
@@ -29,13 +29,13 @@ Those sneaky little earbuds can walk away from us, but luckily the AirPods have 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to find your lost AirPods
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Set up Find My ASAP
@@ -45,7 +45,7 @@ Nina Raemont/ZDNET
 First and foremost, set up Find My. Find My, one of the native apps on your iPhone and iPad, will become your best friend when you begin a search for lost devices like AirPods or Apple Watches. Note: You'll want to set up Find My as soon as possible, because you can't locate your AirPods through Find My _after_ you've lost them. If your AirPods are already set up on Find My, go to the next step. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Open Find My
@@ -54,22 +54,22 @@ Nina Raemont/ZDNET
 
 Open the Find My app, then toggle to the Devices tab to select your AirPods, which you've registered on Find My. If your AirPods are nearby, they'll appear on the map. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Play sound to find AirPods
 
 Nina Raemont/ZDNET
 
 Click the Play Sound feature to locate your earbuds. You'll hear a ringing sound near you. It's important to know that at least one of the two earbuds must be out of its charging case or it won't play a sound. You can play sound for the left and right earbuds by tapping L or R. Once you've found them, you can hit stop. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Will this work if I've lost my AirPods while they're in the charging case?
 
 If you've lost your AirPods while they're in the charging case, it gets harder to locate them on Find My.The Find My map will show the most recent location where the case was last opened, but won't be updated to their current location if they've been moved since they were last used.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can you locate AirPods that aren't online?
@@ -106,20 +106,14 @@ Unfortunately, no. They need to be online and connected to Find My to easily loc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-quick-methods-for-saving-videos-on-youtube/"><u>[New] 2024 Approved Quick Methods for Saving Videos on YouTube</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-navigating-the-propeller-market-for-top-tier-fpv-drones/"><u>[New] In 2024, Navigating the Propeller Market for Top-Tier FPV Drones</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-total-byte-requirement-for-a-days-movie-watching/"><u>[New] In 2024, Total Byte Requirement for a Day's Movie Watching</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-play-your-srt-files-easily-winmac-tips-for-2024/"><u>[New] Play Your SRT Files Easily Win/Mac Tips for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-unparalleled-editing-experience-vimeo-edition-awaits/"><u>[New] Unparalleled Editing Experience Vimeo Edition Awaits</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mp4avimovmtsm2ts/"><u>効率的な方法でMP4、AVI、またはMOVと同じくらい一般的なMTS/M2TSビデオファイルの分割手順</u></a></li>
-<li><a href="https://common-error.techidaily.com/abrupt-termination-devices-last-stand/"><u>Abrupt Termination: Devices' Last Stand</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-visionary-educators-guide-to-multimedia-use/"><u>In 2024, The Visionary Educator's Guide to Multimedia Use</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-motorola-moto-g23-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Motorola Moto G23? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/master-the-art-of-downloading-from-newgrounds-discover-three-proven-strategies-for-quick-and-safe-video-extraction/"><u>Master the Art of Downloading From Newgrounds: Discover Three Proven Strategies for Quick and Safe Video Extraction</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-video-editing-expert-tips-on-using-ffmpeg-and-other-superior-options/"><u>Mastering Video Editing: Expert Tips on Using FFmpeg and Other Superior Options</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/microsoft-os/"><u>Microsoft OSの最新バージョンを使った音楽トリミングテクニック紹介</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mp3wavwindows11/"><u>MP3に再編成するためのWAV音楽ファイルの方法：Windows11で最新ガイド４選</u></a></li>
-<li><a href="https://win-able.techidaily.com/successfully-installing-and-playing-tiny-tinas-wonderlands-on-your-pc-a-troubleshooting-guide/"><u>Successfully Installing and Playing Tiny Tina's Wonderlands on Your PC: A Troubleshooting Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mixed-tracks/"><u>パソコン上で二重奏の音楽的統合: Mixed Tracksの作り方</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/declutter-your-inbox-easily-using-these-tricks-say-goodbye-to-messy-emails-without-complicated-filters-or-separate-addresses-the-verge/"><u>Declutter Your Inbox Easily Using These Tricks - Say Goodbye to Messy Emails Without Complicated Filters or Separate Addresses | The Verge</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-strategies-to-overcome-the-persistent-0x80070490-problem-in-microsofts-windows-updates/"><u>Expert Strategies to Overcome the Persistent 0X80070490 Problem in Microsoft's Windows Updates</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/kostenlose-techniken-fur-die-vervielfaltigung-von-inhalten-wie-kann-ich-eine-dvd-in-ein-usb-format-konvertieren-und-speichern/"><u>Kostenlose Techniken Für Die Vervielfältigung Von Inhalten: Wie Kann Ich Eine DVD in Ein USB-Format Konvertieren Und Speichern?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-conversations-with-nvidias-rtx-ai-bot-installation-and-usage-tips-for-desktop-enthusiasts/"><u>Mastering Conversations with Nvidia’s RTX AI Bot - Installation & Usage Tips for Desktop Enthusiasts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-bot-learning-tackling-board-games-with-chatgpt/"><u>Mastering the Art of Bot Learning: Tackling Board Games with ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/new-chatgpt-subscriptions-are-closed-but-why-and-when-will-they-reopen/"><u>New ChatGPT Subscriptions Are Closed, but Why, and When Will They Reopen?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/outsmarting-fraudgpt-effective-ways-to-shield-yourself-from-potential-online-scams/"><u>Outsmarting FraudGPT: Effective Ways to Shield Yourself From Potential Online Scams</u></a></li>
+<li><a href="https://extra-support.techidaily.com/premier-5-ios-backdrop-change-applications-for-iphones-x-8-7-for-2024/"><u>Premier 5 iOS Backdrop Change Applications for iPhones (X, 8, 7) for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/top-6-benefits-of-being-bilingual-what-is-bilingualism/"><u>Top 6 Benefits Of Being Bilingual - What Is Bilingualism?</u></a></li>
 </ul></div>
 

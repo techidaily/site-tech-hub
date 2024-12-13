@@ -1,7 +1,7 @@
 ---
 title: "Mastering Mac OS MONTEREY: Setting Up Personalized Do Not Disturb Lists for Improved Concentration"
-date: 2024-12-05T16:19:48.660Z
-updated: 2024-12-07T20:55:41.447Z
+date: 2024-12-06T17:20:24.935Z
+updated: 2024-12-13T21:15:38.315Z
 tags:
   - apple
 categories:
@@ -28,12 +28,16 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 
 ## Create a custom Focus
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
@@ -45,7 +49,7 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Open the Focus tab
@@ -55,10 +59,6 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 **Figure 2:** You'll find a single pre-configured Focus for Do Not Disturb already available.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
 
@@ -77,7 +77,7 @@ Image: Jack Wallen
 After naming and selecting a color/icon, click Add to save the new Focus.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Allowing specific notifications
@@ -95,7 +95,7 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
@@ -140,16 +140,24 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-soundwave-startups-curating-melodies-for-your-podcast-opener/"><u>[New] Soundwave Startups Curating Melodies for Your Podcast Opener</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-anonymous-legacy-non-protected-creative-pieces/"><u>[Updated] Anonymous Legacy Non-Protected Creative Pieces</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-leading-gamescript-replacements-for-fbx-files/"><u>[Updated] Leading Gamescript Replacements for FBX Files</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/4mkvmp4/"><u>4効果的なフリーコツ：MKVからMP4への変換ガイド</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/54sh5paz44ko44oh44kj44k44o844gn44or44k944kz44oz44gr5yplusw44kk6l6844kt44gg44ot44oh44kq5pig5yop44gu5yq55p6c55qe44gq57eo6zug5pa55rov/"><u>無料エディターでパソコンに取り込んだビデオ映像の効果的な編集方法</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/alternatives-to-idm-for-youtube-content-extraction-a-comprehensive-guide-on-video-downloading-techniques-and-tools/"><u>Alternatives to IDM for YouTube Content Extraction - A Comprehensive Guide on Video Downloading Techniques and Tools</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-y78plus-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on Y78+</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-usb-20-essentials-an-overview-of-transfer-speeds-wires-and-interfaces/"><u>Mastering USB 2.0 Essentials: An Overview of Transfer Speeds, Wires, and Interfaces</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/resolving-iphone-power-drain-issues-after-ios-cuetinado-1751-upgrade-top-7-fixes-revealed/"><u>Resolving iPhone Power Drain Issues After iOS Cuetinado 17.5.1 Upgrade - Top 7 Fixes Revealed</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-final-cut-pro-time-lapse-tutorial-create-stunning-videos-in-minutes/"><u>Updated 2024 Approved Final Cut Pro Time Lapse Tutorial Create Stunning Videos in Minutes</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/amv/"><u>スマートフォンAMV動画無制限再生方法</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-smooth-and-simple-guide-to-iphone-screensaving-process/"><u>[New] Smooth & Simple Guide to Iphone Screensaving Process</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-bridging-beats-unraveling-the-secrets-of-crossfade/"><u>2024 Approved Bridging Beats Unraveling the Secrets of Crossfade</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/apple-reveals-a-batch-of-new-features-for-fall-devices-showcasing-ai-advancements-in-iphone-ipad-and-mac-products-zdnet-insights/"><u>Apple Reveals a Batch of New Features for Fall Devices, Showcasing AI Advancements in iPhone, iPad, and Mac Products | ZDNET Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/apples-new-ai-revealed-at-wwdc-why-simplicity-might-trump-spectacle-s-tech-scene-zdnet/"><u>Apple's New AI Revealed at WWDC: Why Simplicity Might Trump Spectacle 'S Tech Scene | ZDNET</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/cutting-edge-thinness-in-tablets-discovering-apples-thinnest-ipads-ever-at-008-inches-and-evaluating-their-real-world-benefits/"><u>Cutting Edge Thinness in Tablets: Discovering Apple's Thinnest iPads Ever at 0.08 Inches and Evaluating Their Real-World Benefits</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/detecting-whether-your-location-is-being-monitored-by-an-apple-airtag-a-comprehensive-guide/"><u>Detecting Whether Your Location Is Being Monitored by an Apple AirTag: A Comprehensive Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/expert-tips-to-fix-blue-screen-of-death-from-driver-overrun-errors/"><u>Expert Tips to Fix Blue Screen of Death From Driver Overrun Errors</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-samsung-galaxy-s24-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/get-exclusive-access-try-the-new-ios-181-preview-with-enhanced-apple-features-zdnet/"><u>Get Exclusive Access: Try the New IOS 18.1 Preview with Enhanced Apple Features | ZDNet</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-meizu-21-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-tech-triumphs-cutting-edge-vr-devices-reviewed/"><u>In 2024, Tech Triumphs Cutting-Edge VR Devices Reviewed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/iphone-14-pro-and-iphone-14-pro-max-comparison-choosing-the-right-model-for-your-upgrade-insights-from-zdnet/"><u>IPhone 14 Pro and iPhone 14 Pro Max Comparison: Choosing the Right Model for Your Upgrade - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/selecting-the-ultimate-steadicams-for-flawless-dslr-shoots-for-2024/"><u>Selecting the Ultimate Steadicams for Flawless DSLR Shoots for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/shared-experiences-the-unspoken-challenges-of-moving-to-ios-18-on-iphones-zdnet-insights/"><u>Shared Experiences: The Unspoken Challenges of Moving to iOS 18 on iPhones | ZDNET Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/snag-the-newly-discounted-299-10gen-apple-ipad-in-post-prime-day-blowout-deal-tech-insights-from-zdnet/"><u>Snag the Newly Discounted $299 10Gen Apple iPad in Post-Prime Day Blowout Deal | Tech Insights From ZDNET</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-solutions-for-connection-error-in-new-world/"><u>Step-by-Step Solutions for 'Connection Error in New World'</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/strike-a-chord-with-instagram-reels-using-tiktoks-hit-hacks-for-2024/"><u>Strike a Chord with Instagram Reels Using TikTok's Hit Hacks for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/troubleshooting-cellular-connectivity-problems-after-ios-1721-upgrade-insights-by-zdnet/"><u>Troubleshooting Cellular Connectivity Problems After iOS 17.2.1 Upgrade | Insights by ZDNET</u></a></li>
 </ul></div>
 

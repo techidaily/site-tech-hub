@@ -1,7 +1,7 @@
 ---
 title: Transforming Your Interview Game - Insights for Leveraging ChatGPT
-date: 2024-09-02T09:17:21.040Z
-updated: 2024-09-03T09:17:21.040Z
+date: 2024-12-06T20:33:38.701Z
+updated: 2024-12-13T19:31:41.094Z
 tags:
   - chatgpt
   - open-ai
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/74732f3286f05f088e049d5a5051d94a307e70b48
 ---
 
 ## Navigating Through Words: Evaluating ChatGPT Against Google Translate for Superior Accuracy
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -44,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/74732f3286f05f088e049d5a5051d94a307e70b48
  Similarly, colloquialisms that involve proverbs, idioms, and wordplay can be problematic to translate.
 
  Since text translation is one of the[things ChatGPT can do impressively](https://www.makeuseof.com/things-you-can-do-with-chatgpt/) , we decided to compare how it stacks up against Google Translate. We selected some hard-to-translate text that featured common translation problems to compare the two tools.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Google Translate vs. ChatGPT: Translating Colloquialisms
 
@@ -77,23 +85,16 @@ And so did Google:
 
 ![ChatGPT malayalam translation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/chat.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 Google, on the other hand, did fairly well.
 
 ![Google Translate translating malayalam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/goo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  None of the tools could get it perfectly, but Google Translate was as close as you can get. This is a close contest. While Google Translate has an edge, ChatGPT can provide the meaning of idioms instead of just translations. This could be very useful when translating a larger body of text that contains an idiom. In such cases, translating an idiom literally could be a source of confusion when read together with the surrounding text.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ## Google Translate vs. ChatGPT: General Accuracy
 
  Subtle differences between a source text and its translation can completely alter the meaning of a text. Therefore, we tested both Google Translate and ChatGPT to see their general translation accuracy.
@@ -114,18 +115,12 @@ Up next is a translation task in Filipino.
 
 ![Google translates filipino text](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/google-translates-filipino.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
  ChatGPT, on the other hand, turned up: "The cure for a heartbroken woman is the affection of an understanding man."
 
 ![ChatGPT translate filipino](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/chatgpt-translate-filipino.jpg)
 
  None of the translations are particularly perfect, but ChatGPT got as close as possible.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Google Translate vs. ChatGPT: Translating Creoles
 
  Creoles, especially those that borrow many words from other languages, are notoriously hard to translate. We tasked both ChatGPT and Google Translate to interpret a creole called "Pidgin English," spoken in West Africa.
@@ -141,11 +136,16 @@ Below is the source text:
 ![Google Translate Pidgin Translation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/google-translate-pidgin-translation.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Although not flawlessly, ChatGPT's interpretation was able to clearly convey the meaning and intent of the speaker. Considering the highly contextual nature of Pidgin English, the results are very impressive.
 
 ![ChatGPT Pidgin Translation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-pidgin-translation.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Google Translate vs. ChatGPT: Language Coverage
 
@@ -154,8 +154,9 @@ Below is the source text:
  Of course, we tested ChatGPT on several languages not supported by Google Translate. It was able to provide translations for these additional languages, which Google Translate does not offer. However, the quality of ChatGPT's translations for these unsupported languages was a bit inconsistent. While some were considerably accurate, some were quite poor and inaccurate. While ChatGPT covers more languages, the translations it provides for many of them leave much to be desired in terms of accuracy.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Google Translate vs. ChatGPT: Which Translation Tool Is Better?
 
  It's hard to say with certainty. Both translation tools have their strong points. Google has been making massive investments in[Natural Language Processing (NLP)](https://www.makeuseof.com/what-is-natural-language-processing-and-how-does-it-work/) . As a result, it outperforms ChatGPT in languages to which it has paid special attention. However, considering[how ChatGPT works and its training](https://www.makeuseof.com/how-does-chatgpt-work/) , it represents a unique and exciting approach to translation. Which of them should you use? Both tools are free, so feel free to experiment and settle for which one works for you.
@@ -166,14 +167,11 @@ Below is the source text:
 
  While we can't confidently say whether ChatGPT will challenge Google Translate's dominance as the preferred translation tool, the AI chatbot clearly has the potential to give Google a fight.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -182,4 +180,26 @@ Below is the source text:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-how-to-save-or-record-periscope-videos-complete-guide/"><u>[New] In 2024, How to Save or Record Periscope Videos Complete Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-mobile-media-posting-videos-not-retweets/"><u>[New] In 2024, Mobile Media Posting Videos, Not Retweets</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-instagram-streamlining-the-process-of-image-addition/"><u>[New] Instagram Streamlining the Process of Image Addition</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-high-speed-windows-photo-explorer-tool/"><u>[Updated] In 2024, High-Speed Window's Photo Explorer Tool</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-essential-techniques-for-insta-photo-cover-highlights/"><u>2024 Approved Essential Techniques for Insta Photo Cover Highlights</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-motorola-g54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Motorola G54 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effectively-track-down-misplaced-airpods-proven-tips-and-future-proofing-techniques/"><u>Effectively Track Down Misplaced AirPods: Proven Tips and Future-Proofing Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/embrace-the-future-of-payments-with-apple-pay-a-comprehensive-tutorial-on-using-it-both-offline-and-online/"><u>Embrace the Future of Payments with Apple Pay: A Comprehensive Tutorial on Using It Both Offline and Online</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-mobile-mastery-unveiling-our-comprehensive-smartphone-testing-methodology/"><u>Exploring Mobile Mastery : Unveiling Our Comprehensive Smartphone Testing Methodology</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/free-up-precious-iphone-memory-space-in-minutes-discover-the-ultimate-clean-up-guide/"><u>Free Up Precious iPhone Memory Space in Minutes – Discover the Ultimate Clean-Up Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ht-or-stereo-receiver-unveiling-key-differences-and-optimal-use-cases/"><u>HT or Stereo Receiver: Unveiling Key Differences and Optimal Use Cases</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-embark-on-a-joyful-journey-downloading-tiktok-for-macbook/"><u>In 2024, Embark on a Joyful Journey Downloading TikTok for MacBook</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-master-quick-youtube-video-uploads-and-rendering-secrets/"><u>In 2024, Master Quick YouTube Video Uploads and Rendering Secrets</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/secure-your-new-ipad-9th-generation-at-a-steal-only-250-post-apple-launch-discover-more-on-zdnet/"><u>Secure Your New iPad (9Th Generation) at a Steal: Only $250 Post-Apple Launch! Discover More on ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-smart-lock-solution-for-iphones-stylish-and-secure/"><u>The Ultimate Smart Lock Solution for iPhones – Stylish & Secure!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-picks-unmissable-laptop-offers-in-july-2024-spotted/"><u>Top Picks: Unmissable Laptop Offers in July 2024 - Spotted</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-productive-ipad-apps-boost-your-efficiency-with-these-must-have-tools-insights/"><u>Top Productive iPad Apps: Boost Your Efficiency with These Must-Have Tools - Insights</u></a></li>
+<li><a href="https://fox-access.techidaily.com/ultimate-guide-to-ios-photography-apps-x-8-for-2024/"><u>Ultimate Guide to iOS Photography Apps (X, 8) for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-im-choosing-apples-new-iphone-16-pro-instead-of-the-max-a-detailed-comparison-zdnet/"><u>Why I'm Choosing Apple's New iPhone 16 Pro Instead of the Max : A Detailed Comparison | ZDNet</u></a></li>
+</ul></div>
 

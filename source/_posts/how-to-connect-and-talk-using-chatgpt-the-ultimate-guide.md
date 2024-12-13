@@ -1,7 +1,7 @@
 ---
 title: How to Connect and Talk Using ChatGPT - The Ultimate Guide
-date: 2024-09-02T09:19:24.428Z
-updated: 2024-09-03T09:19:24.428Z
+date: 2024-12-10T17:28:33.936Z
+updated: 2024-12-13T16:24:13.793Z
 tags:
   - chatgpt
   - open-ai
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/f55494b1c8843bed72fd409a0474603bdb628f918
  Meta released Llama 2 in the summer of 2023\. The new version of Llama is fine-tuned with 40% more tokens than the original Llama model, doubling its context length and significantly outperforming other open-sourced models available. The fastest and easiest way to access Llama 2 is via an API through an online platform. However, if you want the best experience, installing and loading Llama 2 directly on your computer is best.
 
  With that in mind, we've created a step-by-step guide on how to use Text-Generation-WebUI to load a quantized Llama 2 LLM locally on your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why Install Llama 2 Locally
 
@@ -62,8 +66,9 @@ thumbnail: https://thmb.techidaily.com/f55494b1c8843bed72fd409a0474603bdb628f918
  However, the program is only a model loader. Let's download Llama 2 for the model loader to launch.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Step 3: Download the Llama 2 Model
 
  There are quite a few things to consider when deciding which iteration of Llama 2 you need. These include parameters, quantization, hardware optimization, size, and usage. All of this information will be found denoted in the model's name.
@@ -78,9 +83,6 @@ thumbnail: https://thmb.techidaily.com/f55494b1c8843bed72fd409a0474603bdb628f918
 
 ![HuggingFace model naming convention](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/huggingface-model-naming-convention-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In this example, the model can be identified as a medium-sized Llama 2 model trained on 13 billion parameters optimized for chat inferencing using a dedicated CPU.
 
  For those running on a dedicated GPU, choose a**GPTQ** model, while for those using a CPU, choose**GGML** . If you want to chat with the model like you would with ChatGPT, choose**chat** , but if you want to experiment with the model with its full capabilities, use the**standard** model. As for parameters, know that using bigger models will provide better results at the expense of performance. I would personally recommend you start with a 7B model. As for quantization, use q4, as it's only for inferencing.
@@ -95,18 +97,24 @@ thumbnail: https://thmb.techidaily.com/f55494b1c8843bed72fd409a0474603bdb628f918
 
 ![Downloading Llama 2 model of your preference](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/8-download-llama-2-model.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After the download is finished, place the model in**text-generation-webui-main** \>**models** .
 
 ![Placing Llama 2 model to model folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/9-place-model-to-model-folder.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Now that you have your model downloaded and placed in the model folder, it's time to configure the model loader.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Step 4: Configure Text-Generation-WebUI
 
 Now, let's begin the configuration phase.
@@ -116,29 +124,24 @@ Now, let's begin the configuration phase.
 3. Now click on the dropdown menu of the**Model loader** and select**AutoGPTQ** for those using a GTPQ model and**ctransformers** for those using a GGML model. Finally, click on**Load** to load your model.  
 ![Setting model loader](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/10-select-model-loader.jpg)
 4. To use the model, open the Chat tab and start testing the model.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Testing Llama 2 locally](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/12-testing-llama-2-locally.jpg)
 
  Congratulations, you've successfully loaded Llama2 on your local computer!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try Out Other LLMs
 
  Now that you know how to run Llama 2 directly on your computer using Text-Generation-WebUI, you should also be able to run other LLMs besides Llama. Just remember the naming conventions of models and that only quantized versions of models (usually q4 precision) can be loaded on regular PCs. Many quantized LLMs are available on HuggingFace. If you want to explore other models, search for TheBloke in HuggingFace's model library, and you should find many models available.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -147,4 +150,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-navigating-the-clouds-and-crowds-stream-from-dji-to-facebook/"><u>[New] 2024 Approved Navigating the Clouds and Crowds Stream From DJI to Facebook</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-exploring-interactive-boundaries-the-vision-of-mixed-reality/"><u>[New] Exploring Interactive Boundaries The Vision of Mixed Reality</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-enhancing-social-reach-joining-instagram-and-facebook/"><u>[Updated] 2024 Approved Enhancing Social Reach Joining Instagram & Facebook</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pros-choice-10-cameras-with-shake-reduction-feature/"><u>2024 Approved Pro's Choice 10 Cameras with Shake Reduction Feature</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-whos-spreading-the-word-identifying-people-who-shared-your-post-on-facebook/"><u>Discover Who's Spreading the Word: Identifying People Who Shared Your Post on Facebook</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elon-musk-unveils-the-power-of-grok-ai-understanding-its-capabilities-and-pricing/"><u>Elon Musk Unveils the Power of Grok AI: Understanding Its Capabilities & Pricing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-resolve-code-24-errors-and-restore-device-connectivity-on-windows-pcs/"><u>Guide to Resolve Code 24 Errors and Restore Device Connectivity on Windows PCs</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-choosing-free-video-editing-software-on-iphone-and-ipad/"><u>In 2024, Choosing Free Video Editing Software on iPhone & iPad</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leveraging-chatgpt-for-superior-workflow-strategies-and-enhanced-productivity/"><u>Leveraging ChatGPT for Superior Workflow Strategies and Enhanced Productivity</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximizing-chatgpt-potential-in-different-tongues/"><u>Maximizing ChatGPT Potential in Different Tongues</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionizing-play-the-role-of-ai-in-shaping-the-video-game-world/"><u>Revolutionizing Play: The Role of AI in Shaping the Video Game World</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/steps-to-save-twitch-replays-for-desktop-mobile-and-web-users/"><u>Steps to Save Twitch Replays for Desktop, Mobile & Web Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stuck-keys-alert-restoring-order-in-windows/"><u>Stuck Keys Alert: Restoring Order in Windows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-evolution-of-social-media-scams-navigating-the-risks-on-twitter-and-exploring-metas-authentication-leap-with-chatgpt-4-revealed/"><u>The Evolution of Social Media Scams: Navigating the Risks on Twitter and Exploring Meta's Authentication Leap with ChatGPT-4 Revealed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-7-incredible-chrome-extensions-enhancing-your-chatgpt-experience-for-smarter-browsing/"><u>Top 7 Incredible Chrome Extensions Enhancing Your ChatGPT Experience for Smarter Browsing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleash-your-online-potential-with-perplexity-ai-the-ultimate-yet-untapped-google-search-enhancer/"><u>Unleash Your Online Potential with Perplexity AI - The Ultimate, Yet Untapped Google Search Enhancer</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/workplace-shift-will-ai-overtake-jobs/"><u>Workplace Shift: Will AI Overtake Jobs?</u></a></li>
+</ul></div>
 

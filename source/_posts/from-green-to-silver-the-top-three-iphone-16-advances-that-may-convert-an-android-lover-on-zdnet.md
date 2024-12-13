@@ -1,7 +1,7 @@
 ---
 title: "From Green to Silver: The Top Three iPhone 16 Advances That May Convert an Android Lover on ZDNet."
-date: 2024-12-01T19:18:43.106Z
-updated: 2024-12-07T20:11:13.719Z
+date: 2024-12-08T18:22:01.881Z
+updated: 2024-12-13T16:18:16.546Z
 tags:
   - apple
 categories:
@@ -37,7 +37,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Reducing lens flare with new materials
@@ -49,7 +49,7 @@ When capturing images with the iPhone -- Pro model or not -- bright light source
 As reported by [MacRumors](https://www.macrumors.com/2024/04/15/iphone-16-pro-camera-reduced-lens-flare/), sources close to Apple's supply chain have hinted that the company is testing a new anti-reflective optical coating, made of atomic layer deposition, intended to reduce the camera artifacts previously mentioned. Should Apple introduce the feature with the iPhone 16, it would fix one of the longest-standing complaints about the iPhone camera system.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Higher refresh rate displays on non-Pro models
@@ -61,7 +61,7 @@ Apple did something very courageous last year: It brought the Pro line's Dynamic
 Compared to the Pro model's 120Hz display, which portrays animations in a much flowy, smoother manner, the non-Pro iPhones' 60Hz panels just didn't look as polished, with a noticeable stutter when scrolling through bodies of text. Dialing up the refresh rate, even up to 90Hz, would make the baseline iPhone 16 models more satisfying to look at and interact with.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. A voice assistant I can take Siri-ously
@@ -104,19 +104,20 @@ Apple has already hinted at an AI-focused [Worldwide Developer Conference](https
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-secrets-encased-exploring-e-commerce-realms-of-mystery-boxes/"><u>[New] Secrets Encased Exploring E-Commerce Realms of Mystery Boxes</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-guide-to-global-exploration-by-channel/"><u>[New] The Ultimate Guide to Global Exploration, By Channel</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-advice-on-acquiring-royalty-free-high-quality-graphics/"><u>2024 Approved Expert Advice on Acquiring Royalty-Free, High-Quality Graphics</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/command-line-proficiency-decoding-errors-in-windows-through-advanced-troubleshooting-techniques/"><u>Command Line Proficiency: Decoding Errors in Windows Through Advanced Troubleshooting Techniques</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-fix-vlc-player-issues-with-playing-youtube-urls/"><u>How to Fix VLC Player Issues with Playing YouTube URLs</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-lava-yuva-2-by-fonelab-android-recover-music/"><u>How to restore wiped music on Lava Yuva 2</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-grandest-meme-makeover-utility/"><u>In 2024, Grandest Meme Makeover Utility</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/master-your-captions-the-top-10-precision-subtitle-editors/"><u>Master Your Captions The Top 10 Precision Subtitle Editors</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-video-cropping-essential-tips-and-tricks/"><u>Mastering the Art of Video Cropping: Essential Tips and Tricks</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mkv-to-mp4-vlc/"><u>MKV to MP4変換 - VLCメディアプレーヤーで安定した品質保持</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mov-mp4wmv/"><u>MOVファイルの変換手順: MP4、WMVへの変換と元に戻し方</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/planifier-pour-la-vie-semaine-en-7-jours/"><u>Planifier Pour La Vie: Semaine en 7 Jours</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/preserving-high-resolution-effective-tips-for-sharing-gopro-videos-on-youtube/"><u>Preserving High Resolution: Effective Tips for Sharing GoPro Videos on YouTube</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/quick-guide-seamlessly-changing-your-ts-audio-into-mp3-format/"><u>Quick Guide: Seamlessly Changing Your TS Audio Into MP3 Format</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-bypassing-edge-academy-video-free-study-strategies-for-2024/"><u>[New] Bypassing EDGE Academy Video-Free Study Strategies for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-excellence-in-offline-speech-recognition-software/"><u>[Updated] Excellence in Offline Speech Recognition Software</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Oppo Reno 8T? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-no-hypervisor-detection-in-windows-sandbox-environment/"><u>Overcoming No Hypervisor Detection in Windows Sandbox Environment</u></a></li>
+<li><a href="https://win-trending.techidaily.com/schnell-und-effizient-alle-moglichkeiten-musik-von-windows-11-zu-ihrem-iphone-hinzuzufugen/"><u>Schnell Und Effizient - Alle Möglichkeiten, Musik Von Windows 11 Zu Ihrem iPhone Hinzuzufügen</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-dilemma-of-your-unresponsive-laptops-trackpad-or-external-mouse/"><u>Solving the Dilemma of Your Unresponsive Laptop's Trackpad or External Mouse</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-for-pairing-apple-airpods-with-the-nintendo-switch/"><u>Step-by-Step Instructions for Pairing Apple AirPods with the Nintendo Switch</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/the-ultimate-strategy-for-creating-viral-hashtags-on-facebook-for-2024/"><u>The Ultimate Strategy for Creating Viral Hashtags on Facebook for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-linguistic-mastery-the-power-of-chatgpt-plus-in-your-language-learning-journey/"><u>Unlocking Linguistic Mastery: The Power of ChatGPT Plus in Your Language Learning Journey</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-new-opportunities-how-businesses-benefit-from-the-latest-chatgpt-and-whisper-api-integrations/"><u>Unlocking New Opportunities: How Businesses Benefit From the Latest ChatGPT & Whisper API Integrations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-future-the-anticipated-arrival-of-gpt-5-explained/"><u>Unveiling the Future: The Anticipated Arrival of GPT-5 Explained</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-latest-insights-into-apples-artificial-intelligence-announcements-at-wwdc-2024/"><u>Unveiling the Latest Insights Into Apple's Artificial Intelligence Announcements at WWDC 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-power-of-shapley-explanations-in-machine-learning-with-openais-shape/"><u>Unveiling the Power of Shapley Explanations in Machine Learning with OpenAI's ShapE</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-top-5-innovative-tools-to-generate-advanced-ai-dialogue-starters/"><u>Unveiling the Top 5 Innovative Tools to Generate Advanced AI Dialogue Starters</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/weaving-tales-gpt-3-and-world-design/"><u>Weaving Tales: GPT-3 and World Design</u></a></li>
 </ul></div>
 

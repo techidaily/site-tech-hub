@@ -1,7 +1,7 @@
 ---
 title: "Mastering MacOS with Craft: The Ultimate Guide to Using This Remarkable Document Editor"
-date: 2024-12-01T21:30:03.898Z
-updated: 2024-12-07T19:53:34.470Z
+date: 2024-12-10T20:39:15.195Z
+updated: 2024-12-13T17:40:12.536Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ But then something sort of magical happened -- I started using the app. Once I u
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Craft?
@@ -40,7 +40,7 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -64,7 +64,7 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -78,7 +78,7 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -129,19 +129,18 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-maximizing-impact-the-best-instagram-hashtag-list-for-2024/"><u>[New] Maximizing Impact The Best Instagram Hashtag List for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-syncing-songs-to-social-networks-iphonesandroid-approach/"><u>[Updated] Syncing Songs to Social Networks IPhones/Android Approach</u></a></li>
-<li><a href="https://article-helps.techidaily.com/becoming-a-final-cut-pro-expert-your-quick-reference/"><u>Becoming a Final Cut Pro Expert – Your Quick Reference</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/can-conversational-ai-like-chatgpt-become-a-tool-for-cybercriminals-against-financial-institutions/"><u>Can Conversational AI Like ChatGPT Become a Tool for Cybercriminals Against Financial Institutions?</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/cookiebot-driven-solutions-enhancing-your-online-experience/"><u>Cookiebot-Driven Solutions: Enhancing Your Online Experience</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/earn-a-150-apple-gift-card-when-buying-your-next-mac-or-ipad-for-education-simple-steps-revealed/"><u>Earn a $150 Apple Gift Card When Buying Your Next Mac or iPad for Education - Simple Steps Revealed</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/flash-file-mastery-easily-convert-videos-tofrom-swf-for-universal-compatibility/"><u>Flash File Mastery - Easily Convert Videos To/From SWF for Universal Compatibility</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/guide-on-effortlessly-transforming-mkv-videos-into-divx-for-free/"><u>Guide on Effortlessly Transforming MKV Videos Into DivX for Free</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-effortlessly-backup-free-youtube-content-on-your-google-drive/"><u>How to Effortlessly Backup Free YouTube Content on Your Google Drive</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-utilizing-instagram-filters-to-elevate-your-photos/"><u>In 2024, Utilizing Instagram Filters to Elevate Your Photos</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/innovative-naming-solutions-for-channels/"><u>Innovative Naming Solutions for Channels</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/re-encode-video-to-desired-size-quality-format-etc/"><u>Re-Encode Video to Desired Size, Quality, Format, Etc.</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/seamless-voice-chat-capture-with-telegram-tips-and-tricks-for-recording-across-various-gadgets/"><u>Seamless Voice Chat Capture with Telegram: Tips and Tricks for Recording Across Various Gadgets</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-excessive-ram-use-by-chrome-tips-included/"><u>Troubleshooting Excessive RAM Use by Chrome [Tips Included]</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harnessing-the-power-of-color-difference-keying-methods/"><u>[New] 2024 Approved Harnessing the Power of Color Difference Keying Methods</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-frame-rate-impact-on-video-quality-30vs60-in-detail/"><u>[New] Frame Rate Impact on Video Quality 30Vs.60 In Detail</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-convenient-methods-for-macbook-pros-video-recording-for-2024/"><u>[Updated] Convenient Methods for MacBook Pro's Video Recording for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-cutting-edge-framing-apps-for-stunning-images/"><u>[Updated] In 2024, Cutting-Edge Framing Apps for Stunning Images</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-google-meet-aesthetics-elevating-with-filters-and-effects/"><u>2024 Approved Google Meet Aesthetics Elevating with Filters and Effects</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/comment-sauver-ses-fichiers-detruits-par-inadvertance-sur-windows-une-methode-gratuite-etape-par-etape/"><u>Comment Sauver Ses Fichiers Détruits Par Inadvertance Sur Windows: Une Méthode Gratuite Étape Par Étape</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-posting-media-on-twitter-keep-it-simple-no-twit/"><u>In 2024, Posting Media on Twitter - Keep It Simple, No Twit</u></a></li>
+<li><a href="https://extra-support.techidaily.com/m1-magic-cutting-edge-video-edits-for-ultra-smooth-results-for-2024/"><u>M1 Magic Cutting-Edge Video Edits for Ultra-Smooth Results for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/reigniting-your-contents-sparkle-top-strategies-for-increasing-youtube-visibility/"><u>Reigniting Your Content's Sparkle Top Strategies for Increasing YouTube Visibility</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transform-your-fantasy-stories-the-innovative-approach-of-using-ch/"><u>Transform Your Fantasy Stories: The Innovative Approach of Using Ch</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/troubleshooting-the-chatgpt-capacity-exceeded-message-on-your-windows-pc/"><u>Troubleshooting the ‘ChatGPT Capacity Exceeded’ Message on Your Windows PC</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-list-of-favorite-chatgpt-triggers-found-on-github/"><u>Ultimate List of Favorite ChatGPT Triggers Found on GitHub</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-bert-a-guide-to-googles-advanced-nlp-technology-vs-gpt/"><u>Understanding BERT: A Guide to Google's Advanced NLP Technology Vs. GPT</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "In Parallel Circuits, the Total Capacitance Is the Sum of Individual Capacitances: C_total = C1 + C2 + ... + Cn."
-date: 2024-12-02T20:51:24.283Z
-updated: 2024-12-07T16:29:02.462Z
+date: 2024-12-10T21:31:11.214Z
+updated: 2024-12-13T18:24:42.122Z
 tags:
   - apple
 categories:
@@ -61,7 +61,7 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -73,7 +73,7 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -108,6 +108,10 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -119,7 +123,7 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -150,10 +154,6 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -163,7 +163,7 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -210,19 +210,24 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-content-creation-showdown-twitch-versus-youtube-explored/"><u>[Updated] 2024 Approved Content Creation Showdown Twitch Versus YouTube Explored</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-how-to-handle-accidental-reflections-in-video-conversations-for-2024/"><u>[Updated] How To Handle Accidental Reflections in Video Conversations for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/beat-the-bugs-a-guide-to-ensuring-smooth-launches-of-saints-row-on-pc-systems/"><u>Beat the Bugs: A Guide to Ensuring Smooth Launches of Saints Row on PC Systems</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/boost-your-traffic-with-the-advanced-cookiebot-solutions/"><u>Boost Your Traffic with the Advanced Cookiebot Solutions</u></a></li>
-<li><a href="https://app-tips.techidaily.com/facing-the-future-your-top-5-choices-as-microsofts-mainstream-windows-1/"><u>Facing the Future: Your Top 5 Choices as Microsoft's Mainstream Windows 1</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-redmi-note-12t-pro-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi Redmi Note 12T Pro to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-update-arduino-usb-interface-software-on-windows-machines/"><u>How to Update Arduino USB Interface Software on Windows Machines</u></a></li>
-<li><a href="https://fox-that.techidaily.com/revive-your-iphone-fixing-five-major-problems-using-dfu-mode/"><u>Revive Your iPhone: Fixing Five Major Problems Using DFU Mode</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ultimate-guide-to-silencing-videos-advanced-techniques-for-audio-removal/"><u>Ultimate Guide to Silencing Videos: Advanced Techniques for Audio Removal</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ultimate-guide-choosing-the-ideal-player-for-your-anime-viewing-experience/"><u>Ultimate Guide: Choosing the Ideal Player for Your Anime Viewing Experience</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ultimate-guide-downloading-stunning-4k-and-8k-360-youtube-videos-with-easy-steps/"><u>Ultimate Guide: Downloading Stunning 4K & 8K 360° YouTube Videos with Easy Steps</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/vts-vts/"><u>VTSファイル改造プロセス: VTS変換ツールでの手順解説</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/wmaandroid-androidwma/"><u>WMAファイルが苦手なAndroidデバイス向けの優雅にてんこみました - AndroidとWMA再生の新しいコツ</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ts/"><u>データ品質を保ちながらの二つのTSファイル分割方法</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-advanced-strategies-for-youtube-audio-editing-mastery-for-2024/"><u>[Updated] Advanced Strategies for YouTube Audio Editing Mastery for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-a-comprehensive-introduction-to-color-grading-with-luts/"><u>[Updated] In 2024, A Comprehensive Introduction to Color Grading with LUTs</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-breaking-tiktok-trends-twitters-1-list-unveiled/"><u>[Updated] In 2024, Breaking TikTok Trends Twitter's #1 List Unveiled</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-the-prosperous-path-share-tiktok-via-twitter/"><u>[Updated] The Prosperous Path Share TikTok via Twitter</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-integration-of-microsofts-bing-ai-into-your-android-typing-experience/"><u>Easy Integration of Microsoft's Bing AI Into Your Android Typing Experience</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-your-workout-the-ultimate-list-of-8-powerful-gpt-plugins-for-fitness-excellence/"><u>Elevate Your Workout: The Ultimate List of 8 Powerful GPT Plugins for Fitness Excellence</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/empowered-enterprises-via-chatgpt-and-whisper-integration/"><u>Empowered Enterprises via ChatGPT & Whisper Integration</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancing-writing-skills-through-chatgpt-practice/"><u>Enhancing Writing Skills Through ChatGPT Practice</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-ai-conversational-agents-which-one-is-better-chatgpt-or-huggingchat/"><u>Exploring AI Conversational Agents: Which One Is Better, ChatGPT or HuggingChat?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/finding-out-if-chatgpt-is-down-a-guide-to-5-reliable-techniques/"><u>Finding Out if ChatGPT Is Down: A Guide to 5 Reliable Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-basics-to-pros-mastering/"><u>From Basics to Pros: Mastering</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-browser-to-agents-agentgpts-efficiency-tutorial/"><u>From Browser to Agents: AgentGPT’s Efficiency Tutorial</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-idea-to-manuscript-leverage-chatgpts-expertise-with-our-9-ingenious-writing-techniques/"><u>From Idea to Manuscript: Leverage ChatGPT's Expertise with Our 9 Ingenious Writing Techniques</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-oppo-a79-5g-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Oppo A79 5G 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-tecno-spark-20-by-drfone-android/"><u>In 2024, How to Bypass FRP on Tecno Spark 20?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/pajama-plots-performed-a-critical-study-of-bedtime-storytelling-vids/"><u>Pajama Plots Performed A Critical Study of Bedtime Storytelling Vids</u></a></li>
+<li><a href="https://win-dash.techidaily.com/seamless-download-and-update-how-to-get-the-newest-drivers-for-your-amd-rx-580/"><u>Seamless Download and Update: How to Get the Newest Drivers for Your AMD RX 580</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/step-by-step-guide-how-to-update-your-amazon-kindle-device-to-version-572x/"><u>Step-by-Step Guide: How to Update Your Amazon Kindle Device to Version 5.7.2.x</u></a></li>
 </ul></div>
 

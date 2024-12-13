@@ -1,7 +1,7 @@
 ---
 title: "Communicate on the Go: Sending Messages From Your Apple Watch with Friends and Family"
-date: 2024-11-30T17:11:34.369Z
-updated: 2024-12-07T18:20:02.005Z
+date: 2024-12-09T17:17:13.216Z
+updated: 2024-12-13T17:46:40.757Z
 tags:
   - apple
 categories:
@@ -27,16 +27,12 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to check in with a friend or family member from your Apple Watch
 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Update your devices
 
@@ -48,15 +44,15 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I was on the fence with the Apple Watch 10, but these 3 features changed my mind](https://www.zdnet.com/article/i-was-on-the-fence-with-the-apple-watch-10-but-these-3-features-changed-my-mind/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Send the default Check In through the Messages app
 
 Launch the Messages app on your Apple Watch. Start or continue a conversation with a trusted family member or friend. Tap the + icon to the left of the iMessage field. From the menu, select Check In. By default, the Check In screen will indicate a specific destination, such as home or work, and the estimated time of arrival from your current location. The feature will use a timer to determine how long it will take you to reach the destination. If you wish to share that information as is with the other person, tap Send.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. View the initial Check In notification
 
@@ -74,6 +70,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. View the actual Check in alert
 
 When the timer is up to indicate that you should have reached your destination, you'll be prompted to stop the Check In to confirm that you've arrived. You can add more time or cancel the Check In. Otherwise, the recipient will receive your Check In notification. If the confirmation isn't sent, more time will be added. After that, the recipient will be informed that you haven't yet checked in. They can then try to contact you by text or phone call to find out why you haven't yet arrived.
@@ -90,15 +90,15 @@ If you still wish to use a timer for the Check In option but change the amount o
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Send a customized Check In through the Messages app
 
 To further customize the Check In, tap the Edit button at the Check In screen. Tap Check In. You can now set a notification to be sent when you've arrived at your destination, after the timer ends, or when a workout ends. Tap the option for "When I arrive."
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Add a destination and send the text
 
@@ -108,15 +108,15 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Set a Check In for a workout in the Messages app
 
 Maybe you're working out at the gym or at home and want to let someone know when you've finished. You can do this a couple of ways. In the Messages app on your watch, start or continue a conversation with the recipient. Tap the Add icon, select Check In, and then tap Edit. Tap the option for Check In and change it to "When workout ends." Start your workout. When you're done, swipe the screen to the right and tap End. The other person will then receive the notification.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9\. Set a Check In for a workout in the Workout app
 
@@ -154,21 +154,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-from-zero-to-profit-beginners-guide-on-periscope-earning-for-2024/"><u>[Updated] From Zero to Profit Beginner’s Guide on Periscope Earning for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-saying-goodbye-to-instagram-forever-a-detailed-walkthrough-for-2024/"><u>[Updated] Saying Goodbye to Instagram Forever A Detailed Walkthrough for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-boost-your-images-advanced-online-photoshop-cropping-tips/"><u>2024 Approved Boost Your Images Advanced Online Photoshop Cropping Tips</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-employing-inbuilt-screen-recording-tools-on-mate-p-models-p20-p10/"><u>2024 Approved Employing Inbuilt Screen Recording Tools on Mate, P Models (P20, P10)</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-channels-to-champions-leveraging-lingo-in-telegram-marketing/"><u>2024 Approved From Channels to Champions Leveraging Lingo in Telegram Marketing</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/decoding-the-contrast-how-does-nlp-differ-from-machine-learning/"><u>Decoding the Contrast: How Does NLP Differ From Machine Learning?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/effective-strategies-for-implementing-chatgpt-in-cbt-practices/"><u>Effective Strategies for Implementing ChatGPT in CBT Practices</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/gpt-and-cybersecurity-risks-to-your-bank-data/"><u>GPT and Cybersecurity: Risks to Your Bank Data?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-honor-90-lite-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Honor 90 Lite to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Google Pixel Fold? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-asus-rog-phone-8-pro-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Asus ROG Phone 8 Pro Get Deleted Pictures Back with Ease and Safety?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-from-iphone-15-plus-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock From iPhone 15 Plus? How to Fix it?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-gpt-3-enabling-web-browser-and-plugin-beta/"><u>Mastering GPT-3: Enabling Web Browser & Plugin Beta</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionize-your-daily-routine-using-chatgpt/"><u>Revolutionize Your Daily Routine Using ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-enhancements-streamlining-the-chatgpt-plugin-directory/"><u>Top Enhancements: Streamlining the ChatGPT Plugin Directory</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unleash-your-creativity-using-microsofts-copilot-image-generator-a-step-by-journey/"><u>Unleash Your Creativity Using Microsoft's Copilot Image Generator - A Step-by-Journey</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-quintessential-ios-emulators-for-playstation-2/"><u>[New] 2024 Approved Quintessential iOS Emulators for PlayStation 2</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-crafting-stunning-insta-films-templates-plus-hacks-for-2024/"><u>[Updated] Crafting Stunning Insta Films Templates + Hacks for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-crafting-success-on-facebook-a-beginners-and-pro-guide-compilation/"><u>[Updated] Crafting Success on Facebook A Beginner's & Pro Guide Compilation</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-breaking-down-the-monetization-barriers/"><u>[Updated] In 2024, Breaking Down the Monetization Barriers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-podcast-introscape-audiophiles-melodic-treasure-trove/"><u>[Updated] Podcast Introscape Audiophile's Melodic Treasure Trove</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/apple-airpods-pro-max-the-ultimate-sound-experience-unveiled-in-our-in-depth-analysis/"><u>Apple AirPods Pro Max - The Ultimate Sound Experience Unveiled in Our In-Depth Analysis!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/defying-apples-desire-for-iphone-replacement-a-firsthand-trial-experience/"><u>Defying Apple's Desire for iPhone Replacement: A Firsthand Trial Experience</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-covert-in-built-radio-chips-in-macipad-devices-is-it-time-for-an-upgrade/"><u>Discover the Covert In-Built Radio Chips in Mac/iPad Devices – Is It Time for an Upgrade?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-unbeatable-amazon-discounts-for-august-2eomv-2024-your-source-to-smart-shopping/"><u>Discover Unbeatable Amazon Discounts for August 2Eomv, 2024: Your Source to Smart Shopping</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-apples-ai-revolution-essential-insights-into-new-ai-capabilities-for-ios-and-macos-devices/"><u>Exploring Apple's AI Revolution: Essential Insights Into New AI Capabilities for iOS & macOS Devices</u></a></li>
+<li><a href="https://win-news.techidaily.com/guia-paso-a-paso-para-liberar-recursos-en-tu-sistema-cierre-de-aplicaciones-pesadas/"><u>Guía Paso a Paso Para Liberar Recursos en Tu Sistema: Cierre De Aplicaciones Pesadas</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-easily-connect-your-nintendo-switch-gaming-system-to-your-tv/"><u>How To Easily Connect Your Nintendo Switch Gaming System to Your TV</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/no-more-bills-how-to-terminate-apple-music-service-independently-of-itunes-expert-advice/"><u>No More Bills: How To Terminate Apple Music Service Independently of iTunes | Expert Advice</u></a></li>
+<li><a href="https://some-skills.techidaily.com/no-pay-unlock-fcp-paths-to-a-free-edit-suite-for-2024/"><u>No Pay? Unlock FCP Paths to a Free Edit Suite for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-guide-to-picking-between-macbook-pro-and-macbook-air-insights-from-zdnet/"><u>The Ultimate Guide to Picking Between MacBook Pro and MacBook Air - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-protective-sleeves-and-skins-for-the-new-iphone-1212-pro-latest-picks-zdnet/"><u>Top-Rated Protective Sleeves & Skins for the New iPhone 12/12 Pro - Latest Picks | ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-buyers-guide-to-the-most-durable-waterproof-smartwatches-of-2024-toms-hardware/"><u>Ultimate Buyer's Guide to the Most Durable Waterproof Smartwatches of 2024 | Tom's Hardware</u></a></li>
+<li><a href="https://win-top.techidaily.com/windows-server-2019-losung-fur-probleme-mit-dem-remote-desktop-zugriff-rdp/"><u>Windows Server 2019 - Lösung Für Probleme Mit Dem Remote-Desktop-Zugriff (RDP)</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/be-vs-dailymotion-key-platform-distinctions/"><u>YouTube Vs. Dailymotion Key Platform Distinctions</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Cellular Connectivity Problems After iOS 17.2.1 Upgrade | Insights by ZDNET
-date: 2024-12-03T17:03:56.598Z
-updated: 2024-12-07T17:13:46.267Z
+date: 2024-12-12T21:05:22.579Z
+updated: 2024-12-13T21:36:31.064Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,20 +109,24 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-innovative-activities-for-the-modern-podcaster-for-2024/"><u>[New] Innovative Activities for the Modern Podcaster for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-miniscreen-capture-scrutiny-and-replacements/"><u>[New] MiniScreen Capture Scrutiny and Replacements</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harnessing-monetization-potential-with-youtube-ad-strategies/"><u>[Updated] 2024 Approved Harnessing Monetization Potential with YouTube Ad Strategies</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-advanced-audio-editing-apps-ranked-by-users/"><u>[Updated] In 2024, Advanced Audio Editing Apps Ranked by Users</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/battle-of-language-models-can-chatgpt-outperform-google-bard/"><u>Battle of Language Models: Can ChatGPT Outperform Google Bard?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/developing-your-own-nutritious-eating-schedule-with-the-help-of-chatgpt/"><u>Developing Your Own Nutritious Eating Schedule with the Help of ChatGPT</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-installation-of-lenovo-x1-carbon-drivers-on-windows-11-and-7-systems/"><u>Easy Installation of Lenovo X1 Carbon Drivers on Windows 11 & 7 Systems</u></a></li>
-<li><a href="https://win-updates.techidaily.com/easy-steps-transforming-images-into-motion-a-beginners-guide/"><u>Easy Steps: Transforming Images Into Motion - A Beginner's Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/from-ordinary-to-stunning-a-guide-to-hdr-portraits/"><u>From Ordinary to Stunning A Guide to HDR Portraits</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/innovative-approaches-to-academic-research-the-role-of-chatgpt/"><u>Innovative Approaches to Academic Research: The Role of ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/seamless-entry-into-chatgpt-despite-login-hurdles/"><u>Seamless Entry Into ChatGPT Despite Login Hurdles</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-impact-of-chatgpt-on-creativity-a-look-at-its-strengths-and-limitations/"><u>The Impact of ChatGPT on Creativity: A Look at Its Strengths and Limitations</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-9-benefits-of-switching-to-chatgpt-plus-why-the-upgrade-is-essential/"><u>Top 9 Benefits of Switching to ChatGPT Plus: Why the Upgrade Is Essential</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-ai-chatbot-moderation-impacts-on-users/"><u>Understanding AI Chatbot Moderation: Impacts on Users</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/unveiling-the-best-youtube-channel-titles-a-must-have-guide-for-vloggers-limit-to-156-characters-for-2024/"><u>Unveiling the Best Youtube Channel Titles A Must-Have Guide for Vloggers (Limit to 156 Characters) for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-freshflicks-app-overview-and-score/"><u>[New] 2024 Approved FreshFlicks App Overview & Score</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-exploring-virtuality-current-realities-future-hurdles/"><u>[New] In 2024, Exploring Virtuality Current Realities, Future Hurdles</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-free-logo-blueprint-tailor-and-share-your-brand-identity/"><u>[Updated] 2024 Approved Free Logo Blueprint Tailor and Share Your Brand Identity</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/2023s-ultimate-guide-to-apple-watch-screen-protectors-the-best-choices-as-reviewed-by-zdnet/"><u>2023'S Ultimate Guide to Apple Watch Screen Protectors: The Best Choices, as Reviewed by ZDNET</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-episode-excellence-optimal-launch-windows/"><u>2024 Approved Episode Excellence Optimal Launch Windows</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-modernity-discover-these-top-10-digital-realms-for-artistic-font-styles/"><u>2024 Approved Unveiling Modernity Discover These Top 10 Digital Realms for Artistic Font Styles</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/1726222312185-wmvmpeg-movavi/"><u>直接在線WMV到MPEG轉換器免費 - Movavi 移動影片工具</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/apple-approves-sideloading-on-ios-devices-within-european-union-understanding-the-limitations/"><u>Apple Approves Sideloading on iOS Devices Within European Union: Understanding the Limitations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-future-of-artificial-intelligence-on-ios-devices-key-insights-into-upcoming-iphone-mac-and-ipad-innovations/"><u>Exploring the Future of Artificial Intelligence on iOS Devices: Key Insights Into Upcoming iPhone, Mac, & iPad Innovations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/get-your-iphone-upgraded-with-ios-18-step-by-step-download-instructions-and-supported-devices-insights/"><u>Get Your iPhone Upgraded with iOS 18! Step-by-Step Download Instructions and Supported Devices | Insights</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-can-you-access-archived-notifications-on-an-iphone/"><u>How Can You Access Archived Notifications on an iPhone?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-apple-iphone-12-pro-max-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 12 Pro Max Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-motorola-g24-power-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Motorola G24 Power</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/labor-day-sale-save-24-on-apple-airtag-4-pack-at-walmart-exclusive-zdnet-deal/"><u>Labor Day Sale: Save $24 on Apple AirTag 4-Pack at Walmart - Exclusive ZDNet Deal</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-the-latest-ios-update-europe-gets-online-app-store-access-with-version-175-beta-2-techinsights/"><u>Navigating the Latest iOS Update: Europe Gets Online App Store Access with Version 17.5 Beta 2 | TechInsights</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/optimizing-playback-speed-a-guide-for-spotify-users/"><u>Optimizing Playback Speed A Guide for Spotify Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-11-must-have-windows-and-macos-applications-expert-recommendations-from-zdnet/"><u>Top 11 Must-Have Windows & macOS Applications - Expert Recommendations From ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-exclusive-enhancements-discover-top-benefits-of-macos-15-on-your-apple-macbook-for-free/"><u>Unlock Exclusive Enhancements: Discover Top Benefits of macOS 15 on Your Apple MacBook for Free!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-you-should-consider-buying-an-apple-watch-6-persuasive-points-from-wearables-authorities-zdnet-exclusive/"><u>Why You Should Consider Buying an Apple Watch: 6 Persuasive Points From Wearables Authorities | ZDNET Exclusive</u></a></li>
 </ul></div>
 

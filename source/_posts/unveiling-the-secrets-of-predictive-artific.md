@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Secrets of Predictive Artific
-date: 2024-09-02T09:20:51.026Z
-updated: 2024-09-03T09:20:51.026Z
+date: 2024-12-07T16:24:49.299Z
+updated: 2024-12-13T20:00:12.930Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/77abbad2412c75bf2d155c822e86669e88f9a5dd8
 
 ![ChatGPT logo on dark green background ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-risk.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Yes, there will almost certainly be a 5th iteration of OpenAI's GPT large language model called GPT-5\. Unfortunately, much like its predecessors, GPT-3.5 and GPT-4, OpenAI adopts a reserved stance when disclosing details about the next iteration of its GPT models. Instead, the company typically reserves such information until a release date is very close. This tight-lipped policy typically fuels conjectures about the release timeline for every upcoming GPT model.
 
  Already, various sources have predicted that GPT-5 is currently undergoing training, with an anticipated release window set for early 2024.
@@ -33,9 +37,17 @@ thumbnail: https://thmb.techidaily.com/77abbad2412c75bf2d155c822e86669e88f9a5dd8
 
 Here's a video of Altman's discussion below:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When Is GPT-5 Coming?
 
 ![When is GPT-5 coming. Question mark illustration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/pexels-pixabay-356079-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  While Altman's comments about GPT-5's development make it seem like a 2024 release of GPT-5 is off the cards, it's important to pay extra attention to the details of his comment.
 
@@ -51,16 +63,14 @@ So, a 2024 release date for GPT-5? Is that possible?
 
  Remember, GPT-4 is both a language model and a vision model. However, consumers have barely used the "vision model" capabilities of GPT-4\. There is still huge potential in GPT-4 we've not explored, and OpenAI might dedicate the next several months to helping consumers make the best of it rather than push for the much hype GPT-5.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ## What Changes Could GPT-5 Bring?
 
 ![chatgpt conversation open on smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/smartphone-chatgpt-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  While it might be too early to say with certainty, we fully expect GPT-5 to be a considerable leap from GPT-4\. GPT-3 was mainly a language model. GPT-4 improved on that by being both a language model and a vision model. We expect GPT-5 might possess the abilities of a sound recognition model in addition to the abilities of GPT-4.
 
  Also, there's been underground talk about GPT models being able to process videos, much like GPT-4 models can take images as inputs. So, we could possibly have a model that can process text, images, sound, and videos.
@@ -68,22 +78,20 @@ So, a 2024 release date for GPT-5? Is that possible?
  However, considering the current abilities of GPT-4, we expect the law of diminishing marginal returns to set in. Simply increasing the model size, throwing in more computational power, or diversifying training data might not necessarily bring the significant improvements we expect from GPT-5.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## GPT-5: An Exciting Future Awaits
 
  While much of the details about GPT-5 are speculative, it is undeniably going to be another important step towards an awe-inspiring paradigm shift in artificial intelligence.
 
  We might not achieve the much talked about "artificial general intelligence," but if it's ever possible to achieve, then GPT-5 will take us one step closer.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -92,4 +100,19 @@ So, a 2024 release date for GPT-5? Is that possible?
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-game-ahead-with-funimates-easy-apk-instructions/"><u>[New] 2024 Approved Game Ahead with Funimate's Easy APK Instructions</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-irreversible-integration-of-tiktok-profile-linking-technique/"><u>[New] 2024 Approved Irreversible Integration of TikTok Profile Linking Technique</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-edu-topic-10-selective-learning-channels-online/"><u>[New] In 2024, Edu-Topic 10 Selective Learning Channels Online</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-top-8-picks-for-excellent-free-srt-translation-tools/"><u>2024 Approved Top 8 Picks for Excellent Free SRT Translation Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boosting-efficiency-implementing-chatgpt-for-advanced-functions-in-microsoft-excel/"><u>Boosting Efficiency: Implementing ChatGPT for Advanced Functions in Microsoft Excel</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/evaluating-differences-how-google-palm-2-stacks-up-against-openais-gpt-4/"><u>Evaluating Differences: How Google PaLM 2 Stacks Up Against OpenAI's GPT-4</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/freelancers-ai-assistant-showdown-which-language-tool-prevails/"><u>Freelancer's AI Assistant Showdown: Which Language Tool Prevails?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/meet-your-new-co-pilot-mercedes-benz-equips-cars-with-advanced-ai-chatgpt-voice-controls/"><u>Meet Your New Co-Pilot: Mercedes-Benz Equips Cars with Advanced AI, ChatGPT Voice Controls</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-flip-rotate-and-edit-videos-online-with-ease/"><u>New Flip, Rotate, and Edit Videos Online with Ease</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/snapchats-own-brainchild-my-ai-versus-the-renowned-chatgpt-making-the-best-choice/"><u>Snapchat's Own Brainchild, My AI versus the Renowned ChatGPT: Making the Best Choice</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-lenovo-ideapad-5th-gen-t430s-drivers-with-ease-step-by-step-guide-for-windows-users/"><u>Update Lenovo IdeaPad 5Th Gen T430s Drivers with Ease – Step-by-Step Guide for Windows Users</u></a></li>
+<li><a href="https://video-capture.techidaily.com/webcam-mastery-how-to-transform-your-video-recording-for-2024/"><u>WebCam Mastery How to Transform Your Video Recording for 2024</u></a></li>
+</ul></div>
 

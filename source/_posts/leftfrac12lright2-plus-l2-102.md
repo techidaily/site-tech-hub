@@ -1,7 +1,7 @@
 ---
 title: \\[ \\Left(\\frac{1}{2}l\\right)^2 + L^2 = 10^2 \\
-date: 2024-12-05T16:00:36.275Z
-updated: 2024-12-07T20:47:28.525Z
+date: 2024-12-08T16:46:43.579Z
+updated: 2024-12-13T21:41:13.713Z
 tags:
   - apple
 categories:
@@ -24,6 +24,10 @@ While the Pixel 6 Pro at time of release was only $100 cheaper ($899) than the $
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Specifications
 
 | **Google Pixel 6 Pro** | **iPhone 13 Pro**                                                                                                                                                            |                                                                                                                                                                                                                                                                                                                                                             |
@@ -41,18 +45,18 @@ While the Pixel 6 Pro at time of release was only $100 cheaper ($899) than the $
 | Colors                 | Cloudy White, Sorta Sunny, Stormy Black                                                                                                                                      | Alpine Green, Silver, Gold, Graphite, Sierra Blue                                                                                                                                                                                                                                                                                                           |
 | Price                  | [Starting at $899](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://store.google.com/product/pixel%5F6%5Fpro?hl=en-US&pli=1) | [Starting at $999](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fiphone-13-pro%2Fkey-features%2F%3Fafid%3Dp238%257CsNQZDFTnQ-dc%5Fmtid%5F20925d2q39172%5Fpcrid%5F588006468460%5Fpgrid%5F126654828229%5F%26cid%3Dwwa-us-kwgo-iphone--slid---Brand-iphone13pro-avail-&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  You should buy the Google Pixel 6 Pro if…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  1\. You want fun and experimental camera features
@@ -64,7 +68,7 @@ One standout camera feature on the Pixel 6 Pro is **Motion Mode,** whichallows u
 Another new and useful feature is **Magic Eraser.** Like Photoshop's Content Aware Fill, the software trick allows you to magically erase unwanted objects from a photo. Using the feature is as simple as circling what you'd like to erase from your image, whether that's strangers in the background, stain marks, or signage, and the Pixel 6 Pro does the rest. When done correctly, the image will look like it was perfectly captured in the first place. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  2\. You want a bigger battery
@@ -75,6 +79,10 @@ While Apple's iPhones have made significant improvements to battery life since t
 
 CNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  3\. You want a sleek, innovative design
 
 While the iPhone 13 Pro stuck to its traditional, stainless-steel design, only adding a larger camera bump, Google's design broke creative boundaries, especially when compared to previous Pixel generations. Featuring a camera bar that stretches across the back, the Pixel camera doesn't take up half of your phone like that of the iPhone 13 Pro. The bar slightly protrudes from the back glass -- about 3mm from the surface -- which keeps the whole device wobble-free when laid flat. 
@@ -84,10 +92,6 @@ With a Gorilla Glass Victus rear and a curved aluminum-edged frame, the Pixel 6 
 Lastly, the Pixel 6 Pro runs on the latest Android 12 software, with Android 13 on the horizon. With improved theme capabilities, new adaptive widgets, and a slew of Android perks, the Pixel software is both pleasing to the eye and practical. 
 
 [Buy the Google Pixel 6 Pro $418.88 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09HYR2NC8%2Fref%3Dasc%5Fdf%5FB09HYR2NC81727521200000%3Fcreative%3D395261%26creativeASIN%3DB09HYR2NC8%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7e5b1293-c7f0-4074-bebc-aa1278013569%7Cdtp&dtb=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  You should buy the iPhone 13 Pro if...
 
@@ -110,10 +114,6 @@ There's a reason for Apple's cult following and customer loyalty. Its products h
 While not an actual product, the Apple ecosystem is still very much part of the product you purchase when investing in, say, an iPhone. Your Apple ID credentials serve as the ecosystem's life source, allowing you to manage and protect multiple devices effortlessly. If you already own a pair of AirPods, an Apple Watch, or a MacBook, then buying the iPhone 13 Pro will make more sense usability-wise. 
 
 Image: Apple
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  3\. You want the best software and hardware support
 
@@ -153,24 +153,15 @@ This support extends to the many physical Apple storefronts, equipped with custo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-exploring-the-heart-of-srt-in-depth/"><u>[New] In 2024, Exploring the Heart of SRT in Depth</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-best-non-zoom-video-conferencing-tools-desktopmobile/"><u>[Updated] In 2024, Best Non-Zoom Video Conferencing Tools (Desktop/Mobile)</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-live-streaming-on-mac-os-costless-option-for-2024/"><u>[Updated] Live Streaming on Mac OS - Costless Option for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-mastering-game-record-on-windows-10-top-5-tips/"><u>[Updated] Mastering Game Record on Windows 10 Top 5 Tips</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-navigating-the-top-10-ways-to-improve-fb-page-rankings/"><u>[Updated] Navigating the Top 10 Ways to Improve FB Page Rankings</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/best-free-and-premium-wav-converter-tools-top-picks-for-superior-audio-quality/"><u>Best Free and Premium WAV Converter Tools: Top Picks for Superior Audio Quality</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/bulk-conversion-guide-upscale-your-soundcloud-tracks-to-high-quality-320kbps-audio/"><u>Bulk Conversion Guide: Upscale Your SoundCloud Tracks to High-Quality 320Kbps Audio</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/bypassing-borderlines-enjoy-canadian-films-worldwide-free-from-region-codes/"><u>Bypassing Borderlines: Enjoy Canadian Films Worldwide, Free From Region Codes</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/el-upgrade-how-reaching-500-viewers-propelts-monetization/"><u>Channel Upgrade How Reaching 500 Viewers Propelts Monetization</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/comparing-wav-and-mp3-files-a-comprehensive-guide-on-whats-best-for-you/"><u>Comparing WAV and MP3 Files - A Comprehensive Guide on What's Best for You</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/complete-instructions-for-installing-the-tvnsports-plugin-in-kodi-version-19/"><u>Complete Instructions for Installing the TVNSports Plugin in Kodi Version 19</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/comprehensive-document-management-by-wonderfox-easily-organize-word-excel-pdf-and-powerpoint-files-for-business/"><u>Comprehensive Document Management by WonderFox: Easily Organize Word, Excel, PDF & PowerPoint Files for Business</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/comprehensive-guide-transferring-data-from-windows-server-201/"><u>Comprehensive Guide: Transferring Data From Windows Server 201</u></a></li>
-<li><a href="https://common-error.techidaily.com/connect-to-the-web-anywhere-the-ultimate-guide-to-usb-tethering-in-windows-11/"><u>Connect to the Web Anywhere: The Ultimate Guide to USB Tethering in Windows 11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/cutting-the-final-5-minutes-of-your-computers-playback-in-windows-1011/"><u>Cutting the Final 5 Minutes of Your Computer's Playback in Windows 10/11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discovering-taylor-swift-hassle-free-mp3-downloads-to-enhance-your-musical-journey/"><u>Discovering Taylor Swift: Hassle-Free MP3 Downloads to Enhance Your Musical Journey</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/easy-steps-capturing-the-hottest-videos-from-youtube-using-a-reliable-video-downloader/"><u>Easy Steps: Capturing the Hottest Videos From YouTube Using a Reliable Video Downloader</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Apple iPhone 11? | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-quash-unwanted-youtube-suggested-videos/"><u>In 2024, Quash Unwanted YouTube Suggested Videos</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-digital-detective-work-cracking-the-code-to-live-streams/"><u>[New] 2024 Approved Digital Detective Work Cracking the Code to Live Streams</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-best-price-to-performance-ratio-for-asmr-equipment/"><u>[New] The Best Price-to-Performance Ratio for ASMR Equipment</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-elite-presenter-tagline-generator-20/"><u>2024 Approved Elite Presenter Tagline Generator 2.0</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-auto-gpt-installation-the-ultimate-step-by-step-guide/"><u>Effortless Auto-GPT Installation: The Ultimate Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancing-networking-how-chatgpt-boosts-your-chance-for-linkedin-employment/"><u>Enhancing Networking: How ChatGPT Boosts Your Chance for LinkedIn Employment</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/essential-vs-expanded-choosing-the-right-chatgpt-version/"><u>Essential Vs. Expanded: Choosing the Right ChatGPT Version</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/evolving-intelligence-key-developments-between-gpt-35-and-its-successor-gpt-4/"><u>Evolving Intelligence: Key Developments Between GPT-3.5 and Its Successor, GPT-4</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/guia-facil-para-transferir-el-sistema-operativo-de-un-ssd-a-un-hdd-usando-software-libre-y-gratis/"><u>Guía Fácil Para Transferir El Sistema Operativo De Un SSD a Un HDD Usando Software Libre Y Gratis</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-pro-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Pro to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-8-best-alternatives-to-windows-10-photos/"><u>Updated 8 Best Alternatives to Windows 10 Photos</u></a></li>
 </ul></div>
 

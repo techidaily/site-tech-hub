@@ -1,7 +1,7 @@
 ---
 title: How Samsung Galaxy AI Ventures Surge as Google Faces Antitrust Challenges, Redefining the Landscape of Technological Breakthroughs | ZDNet
-date: 2024-12-02T21:11:36.125Z
-updated: 2024-12-07T19:31:46.852Z
+date: 2024-12-09T18:12:42.744Z
+updated: 2024-12-13T21:57:19.006Z
 tags:
   - apple
 categories:
@@ -71,28 +71,26 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-above-and-beyond-vertical-panoramas-made-easy/"><u>[New] Above and Beyond Vertical Panoramas Made Easy</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-face-fluidity-techniques-implementing-motion-blur-effects/"><u>[New] Face Fluidity Techniques Implementing Motion Blur Effects</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-a-step-by-step-guide-to-using-polarr-for-stunning-images/"><u>[Updated] In 2024, A Step-by-Step Guide to Using Polarr for Stunning Images</u></a></li>
-<li><a href="https://techtrends.techidaily.com/2024s-top-performing-cable-modem-and-router-packages-find-your-best-fit/"><u>2024'S Top-Performing Cable Modem and Router Packages – Find Your Best Fit</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/conquered-laptops-erratic-screenshots-flashing/"><u>Conquered Laptop's Erratic Screenshots Flashing</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/dive-into-the-world-of-openais-api-unleashing-creativity-and-innovation/"><u>Dive Into the World of OpenAI's API: Unleashing Creativity and Innovation</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/effective-strategies-for-sharing-your-chatgpt-conversations-online/"><u>Effective Strategies for Sharing Your ChatGPT Conversations Online</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/essential-apps-and-extensions-for-archiving-your-chatgpt-interactions/"><u>Essential Apps & Extensions for Archiving Your ChatGPT Interactions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-gap-between-standard-copilot-and-copilot-pro-worth-the-extra-investment/"><u>Exploring The Gap Between Standard Copilot and Copilot Pro - Worth The Extra Investment?</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/free-web-based-converter-transforming-nef-photos-into-tiff-format-with-ease-using-movavi/"><u>Free Web-Based Converter: Transforming NEF Photos Into TIFF Format with Ease - Using Movavi</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-techniques-to-elevate-your-fullscreen-experience-in-premiere/"><u>In 2024, Expert Techniques to Elevate Your Fullscreen Experience in Premiere</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-navigating-google-chromes-picture-in-picture-feature/"><u>In 2024, Navigating Google Chrome's Picture In Picture Feature</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/launch-in-minutes-top-8-specialized-gpt-variants-at-your-fingertips/"><u>Launch in Minutes: Top 8 Specialized GPT Variants at Your Fingertips</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/magnifying-youtube-visual-experience-for-2024/"><u>Magnifying YouTube Visual Experience for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-chatgpt-discover-the-5-most-powerful-custom-command-techniques/"><u>Mastering ChatGPT: Discover the 5 Most Powerful Custom Command Techniques</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-masked-image-softening-tricks-for-2024/"><u>Mastering Masked Image Softening Tricks for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-microsoft-excel-skills-and-functions-beyond-ai-tools-like-chatgpt/"><u>Mastering Microsoft Excel: Skills and Functions Beyond AI Tools Like ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/optimize-your-digital-footprint-chatgpts-4-pathways-to-success/"><u>Optimize Your Digital Footprint: ChatGPT's 4 Pathways to Success</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/rapid-italian-crackdown-on-chatgpt-usage-explored/"><u>Rapid Italian Crackdown on ChatGPT Usage Explored</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-how-to-add-videos-to-youtube-playlist/"><u>[Updated] 2024 Approved How to Add Videos to YouTube Playlist?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-best-of-the-best-20-hilarious-incarceration-posts-to-brighten-your-digital-world-for-2024/"><u>[Updated] Best of the Best - 20 Hilarious Incarceration Posts to Brighten Your Digital World for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-direct-upload-from-twitter-to-tumblr/"><u>[Updated] Direct Upload From Twitter to Tumblr</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/bot-banter-battlegrounds-ais-new-era-of-talk/"><u>Bot Banter Battlegrounds: AI's New Era of Talk</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/googles-bard-ai-upgrades-revealed-at-io-202n3-the-top-7-features-you-cant-miss/"><u>Google's BARD AI Upgrades Revealed at IO 202N3 - The Top 7 Features You Can't Miss</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/guia-definitiva-para-girar-videos-en-formato-mp4-de-90-180-o-270-grados-sin-comprometer-su-calidad/"><u>Guía Definitiva Para Girar Videos en Formato MP4 De 90, 180 O 270 Grados Sin Comprometer Su Calidad</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-15-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 15 without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/immediate-use-dive-into-8-tailored-gpt-experiences/"><u>Immediate Use: Dive Into 8 Tailored GPT Experiences</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-navigating-the-complex-world-of-lipos-for-drones/"><u>In 2024, Navigating the Complex World of LiPos for Drones</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/in-depth-language-models-comparison-gpt-and-bert-explored/"><u>In-Depth Language Models Comparison: GPT & BERT Explored</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/inside-the-legality-and-functioning-of-chatgpt-jailbreaking-techniques/"><u>Inside the Legality and Functioning of ChatGPT Jailbreaking Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/langchain-llm-essentials-starting-point-for-newcomers/"><u>LangChain LLM Essentials: Starting Point for Newcomers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/launching-your-career-as-a-prompt-engineer-essential-insights-and-techniques/"><u>Launching Your Career as a Prompt Engineer: Essential Insights and Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-3d-printing-with-chatgpt-a-comprehensive-guide/"><u>Mastering 3D Printing with ChatGPT: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/multi-channel-money-makers-and-system-tweaks/"><u>Multi-Channel Money Makers & System Tweaks</u></a></li>
+<li><a href="https://games-able.techidaily.com/safe-play-facing-the-rising-game-crime-wave/"><u>Safe Play: Facing the Rising Game Crime Wave</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solution-getting-dolby-atmos-up-and-running-in-windows-11-and-10/"><u>Step-by-Step Solution: Getting Dolby Atmos Up and Running in Windows 11 & 10</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
