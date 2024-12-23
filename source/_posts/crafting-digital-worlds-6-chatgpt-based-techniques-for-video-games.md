@@ -1,7 +1,7 @@
 ---
 title: "Crafting Digital Worlds: 6 ChatGPT-Based Techniques for Video Games"
-date: 2024-08-29T01:18:43.434Z
-updated: 2024-08-30T01:18:43.434Z
+date: 2024-12-19T00:21:41.638Z
+updated: 2024-12-22T20:02:05.665Z
 tags:
   - chatgpt
   - open-ai
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/00ca8ff6fce624dea66e7545a63f888233e8bb4b7
 ---
 
 ## Boost Your AI Skills: 7 Proven AI Prompting Techniques for Superior Results
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -53,15 +57,20 @@ thumbnail: https://thmb.techidaily.com/00ca8ff6fce624dea66e7545a63f888233e8bb4b7
 
 ![An itinerary generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-06-24.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  However, I wanted to get further information that wasn't included. So, I asked for hotel recommendations within a customized budget:
 
 ![An expanded answer with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-11-12.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As a general rule of thumb, ask as many questions as you feel necessary to get all the information you're looking for. You may also want to determine[whether premium AI prompts are worth the money](https://www.makeuseof.com/should-you-buy-ai-prompts/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3 Explain What Hasn't Worked When You've Prompted in the Past
 
  As you use AI prompting more frequently, you'll get a better idea of what does and doesn't work for you. You'll also learn which prompts are useful and which ones confuse the tool that you're using. Once you've become more familiar with AI, make sure that you clearly outline what hasn't worked before.
@@ -70,12 +79,13 @@ thumbnail: https://thmb.techidaily.com/00ca8ff6fce624dea66e7545a63f888233e8bb4b7
 
  Besides mentioning what hasn't worked for you when prompting in the past, you may also wish to outline anything that has not worked with what you're trying to do. For example, if you're putting together a new workout regimen, you may want to talk about which foods you've noticed you have a negative reaction to before.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4 Don't Make Your AI Multitask
 
 ![chatgpt logo and message on smartphone feature](https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002a35f04201c966ce7066b460.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Ascannio/[Shutterstock](https://www.shutterstock.com/image-photo/chatgpt-chat-bot-screen-seen-on-2237655785)
 
@@ -85,9 +95,6 @@ thumbnail: https://thmb.techidaily.com/00ca8ff6fce624dea66e7545a63f888233e8bb4b7
 
  Once you've received one prompt's results, you can move on to the next one until you're happy with everything. Doing things this way might seem more time-consuming, but[single-tasking often improves productivity](https://www.makeuseof.com/master-single-tasking-using-technology-improve-productivity/) , and it's the same for your AI, too.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5 Tell Your AI Tool What You Don't Want in Your Answer
 
  Do you remember in our first point when we told you to be as specific as possible? This also means you should let your AI tool know what you don't want in your answers. While generative AI can produce some pretty cool results, it can't guess everything for you.
@@ -96,23 +103,12 @@ thumbnail: https://thmb.techidaily.com/00ca8ff6fce624dea66e7545a63f888233e8bb4b7
 
 ![Answer options from ChatGPT, based on what the user did and didn't want ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-38-46.png)
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Sometimes, your AI tool will give you multiple options in your answers. You can then choose whichever one works best for you.
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6 Upload Images or Files (if Available)
 
  Uploading images or files will often make your AI prompts much more effective. For example, if you want to[create a one-page resume with AI](https://www.makeuseof.com/create-one-page-resume/) , it's worth uploading an existing PDF and getting feedback. You can use several plugins to get better responses, especially if you use ChatGPT. One example is[Resume by jobbright.ai](https://chat.openai.com/g/g-MrgKnTZbc-resume) .
@@ -129,19 +125,13 @@ thumbnail: https://thmb.techidaily.com/00ca8ff6fce624dea66e7545a63f888233e8bb4b7
 
 ![A LinkedIn post generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-54-04.png)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  AI prompting takes some time to become competent with, and you'll need to adjust how you type depending on the tool you use and the information you wish to extract. The good news, however, is that you normally only need small tweaks to make your prompts deliver better results. Having read this guide, you should now be in a much better place to prompt more efficiently.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -150,4 +140,24 @@ thumbnail: https://thmb.techidaily.com/00ca8ff6fce624dea66e7545a63f888233e8bb4b7
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-fbx-gameplay-snapshot-techniques/"><u>[New] FBX Gameplay Snapshot Techniques</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-ultimate-guide-to-top-tier-360-pro-cams/"><u>[New] The Ultimate Guide to Top-Tier 360 Pro Cams</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mac-masters-choice-top-10-incredible-4k-displays/"><u>2024 Approved Mac Master's Choice Top 10 Incredible 4K Displays</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-masters-of-illusion-top-vr-producers/"><u>2024 Approved Masters of Illusion Top VR Producers</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-monetization-face-off-analyzing-dailymovement-and-youtube-profits/"><u>In 2024, Monetization Face-Off Analyzing DailyMovement and Youtube Profits</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-sending-direct-tweets-share-photosvideos-on-twitter-without-retweeting/"><u>In 2024, Sending Direct Tweets Share Photos/Videos on Twitter without Retweeting</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/inside-look-at-whatsapps-voice-communication-design-for-2024/"><u>Inside Look at WhatsApp's Voice Communication Design for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-chatgpts-stream-errors-successfully/"><u>Navigating ChatGPT's Stream Errors Successfully</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-obstacles-learn-why-your-chatgpt-account-may-be-locked-and-what-steps-you-can-take-to-regain-access/"><u>Navigating Obstacles: Learn Why Your ChatGPT Account May Be Locked and What Steps You Can Take to Regain Access</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/potential-downfalls-generating-windows-11-keys-via-ai-chatbot-solutions/"><u>Potential Downfalls: Generating Windows 11 Keys via AI Chatbot Solutions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/rethinking-artificial-intelligence-the-6-downsides-you-need-to-know/"><u>Rethinking Artificial Intelligence: The 6 Downsides You Need to Know</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionize-routine-discovering-9-gpt-life-enhancements/"><u>Revolutionize Routine: Discovering 9 GPT Life Enhancements</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/startling-insight-initiate-conversations-with-gpt-3/"><u>Startling Insight: Initiate Conversations With GPT-3</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/stay-alert-understanding-the-recent-twitter-fraud-craze-metas-trustworthy-badge-launch-and-chatgpt-4-demystified/"><u>Stay Alert! Understanding the Recent Twitter Fraud Craze, Meta's Trustworthy Badge Launch, and ChatGPT-4 Demystified</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tailored-training-and-nutrition-via-select-8-gpts/"><u>Tailored Training & Nutrition via Select 8 GPTs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-swiftly-sweep-away-windows-drive-segments/"><u>The Ultimate Guide to Swiftly Sweep Away Windows Drive Segments</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/unlocking-user-engagement-through-strategic-tags/"><u>Unlocking User Engagement Through Strategic Tags</u></a></li>
+</ul></div>
 

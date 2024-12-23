@@ -1,7 +1,7 @@
 ---
 title: "Editor's Choice: The Mobile Phones Truly Favored Tech Experts"
-date: 2024-12-02T17:15:45.854Z
-updated: 2024-12-07T16:36:19.043Z
+date: 2024-12-15T17:49:18.969Z
+updated: 2024-12-23T00:33:47.153Z
 tags:
   - apple
 categories:
@@ -94,10 +94,6 @@ Pros
 Cons 
 * Long battery life Strong performance The camera is very impressive
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPhone 12 Pro Max
 
 ### Matthew Miller
@@ -136,6 +132,10 @@ Pros
 Cons 
 * Gorgeous flat glass OLED Flat matte edges Vibrant blue color iOS 14 with Android elements 5G Loud stereo speakers
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iPhone 12
 
 ### Chris Matyszczyk
@@ -156,6 +156,10 @@ Cons
 
 ## iPhone 11 Pro
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Ed Bott
 
 **Ed Bott:** I switch between two phones regularly, the iPhone 11 Pro and a newish Galaxy S21 5G, because a lot of what I do requires that I understand both platforms well. I generally stay roughly one generation behind the current models, which avoids hardware teething issues and lets me save a ton of money. I picked up the iPhone, which was only about three months old, from a seller on Swappa, replacing my old iPhone XS and paying about $500 less than a new model would have cost. The Galaxy was a deal from Xfinity Mobile that basically gave me a flagship Samsung phone at half price with no contract or commitment. I like both phones about equally and have been pleasantly surprised by the smoothness of the interface on the Samsung.
@@ -165,13 +169,13 @@ Cons
 Show Expert Take Show less 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Ulefone Armor 9
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Adrian Kingsley-Hughes
@@ -188,7 +192,15 @@ Pros
 Cons 
 * Strong battery life Good performance More affordable
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Google Pixel 2
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tony Baer
 
@@ -204,11 +216,11 @@ Show less
 
 [View now at Huawei P40 Pro](https://consumer.huawei.com/en/phones/p40-pro/)
 
-## Huawei P20 Pro
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Huawei P20 Pro
 
 ### Federico Guerrini
 
@@ -252,10 +264,6 @@ Show Expert Take Show less
 
 ## iPhone X
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Robin Harris
 
 I have a Moment wide-angle lens and case, which gives me the tech I need for landscape photography. There's a lot of landscape where I live, and picturing it never gets old. I keep looking at the newer iPhones each year, but things like a wider lens and low-light performance aren't hot buttons. I haven't used my Canon DSLR in years. 
@@ -263,7 +271,7 @@ I have a Moment wide-angle lens and case, which gives me the tech I need for lan
 **Next phone or dream phone?** iPhone 13 or 14 Pro Max. Folding iPhone? I like a big screen as long as it will fit in a shirt pocket, and Moment makes a case for it. Not sure I'd be up for the extra fiddling a folding iPhone would require, but it would likely replace my iPad Mini. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###   
@@ -277,10 +285,6 @@ Cons
 * Best smartphone display Worthwhile camera improvements Battery life is solid
 
 ## iPhone XS Max
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Asha Barbaschow
 
@@ -298,11 +302,11 @@ Purchased in 2016, I've had no reason to upgrade in four years. The thing does a
 
 **Next phone or dream phone?** Apple Watch Series 13\. It would just be a stylish wireless transceiver for the AirPods. Never worry about leaving the phone somewhere by accident because it's always on the wrist! 
 
-## iPhone 6s Plus
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## iPhone 6s Plus
 
 ### David Gewirtz and Iliana Meir
 
@@ -316,11 +320,11 @@ Purchased in 2016, I've had no reason to upgrade in four years. The thing does a
 
 **Next phone or dream phone?** I have no idea. I get overwhelmed by the amount of choice. It'll be an iPhone I guess. I'm used to them.
 
-## Lumia 1520
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Lumia 1520
 
 ### Mary Branscombe
 
@@ -331,10 +335,6 @@ Yes, I am indeed still clinging to the phone that made me love phablets, upgrade
 Show less 
 
 ## Samsung Galaxy Note 8
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Charles McLellan
 
@@ -376,22 +376,17 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-text-temporal-tinkering-tools/"><u>[New] 2024 Approved Text Temporal Tinkering Tools</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-from-amateur-to-professional-iphone-filmmaking-8-key-tips-for-2024/"><u>[New] From Amateur to Professional iPhone Filmmaking (8 Key Tips) for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-webcam-advancements-revolutionizing-video-capture-at-home-for-2024/"><u>[New] WebCam Advancements Revolutionizing Video Capture at Home for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/beyond-talk-revolutionizing-generative-tech/"><u>Beyond Talk: Revolutionizing Generative Tech</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpts-preloaded-extensions-exploring-uses-and-benefits/"><u>ChatGPT’s Preloaded Extensions: Exploring Uses and Benefits</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/decoding-tech-tangles-chatgpt-for-pc-recovery/"><u>Decoding Tech Tangles - ChatGPT for PC Recovery</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-ai-communication-frontiers-10-critical-comparisons-between-bings-and-microsofts-chatgpt/"><u>Exploring AI Communication Frontiers - 10 Critical Comparisons Between Bing’s and Microsoft’s ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/gym-enhancements-with-top-7-intelligent-plugins/"><u>Gym Enhancements with Top 7 Intelligent Plugins</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/hugging-face-explained-its-significance-and-uses/"><u>Hugging Face Explained: Its Significance and Uses</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Nubia Z50S Pro | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-easy-ways-to-add-music-to-imovie-from-youtube/"><u>In 2024, Easy Ways to Add Music to iMovie From YouTube</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-the-essential-guide-to-creating-cinematic-videos-in-camtasa/"><u>In 2024, The Essential Guide to Creating Cinematic Videos in Camtasa</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/in-2024-which-video-sharing-giant-suits-your-content-best-igtv-or-youtube-analysis/"><u>In 2024, Which Video-Sharing Giant Suits Your Content Best? - IGTV or YouTube Analysis</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-the-hurdle-connecting-airpods-to-your-windows-11-pc-latest-solutions/"><u>Overcoming the Hurdle: Connecting AirPods to Your Windows 11 PC - Latest Solutions</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/pathfinding-your-way-from-adsense-to-accounts-aplenty-for-2024/"><u>Pathfinding Your Way From AdSense to Accounts Aplenty for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/resolving-typical-mistakes-in-gpt-dialogue-a-concise-guide/"><u>Resolving Typical Mistakes in GPT Dialogue: A Concise Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-for-leveraging-artificamocial-intelligence-in-bing-mobile-app-android/"><u>Step-by-Step Tutorial for Leveraging Artificamocial Intelligence in Bing Mobile App (Android)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-8-step-formula-for-captivating-your-instagram-audience-with-reels/"><u>[New] The 8-Step Formula for Captivating Your Instagram Audience with Reels</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-a-melodic-guide-navigating-copyright-with-instagram/"><u>[Updated] In 2024, A Melodic Guide Navigating Copyright with Instagram</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-streamline-your-screens-the-benefits-of-using-showmore/"><u>[Updated] In 2024, Streamline Your Screens The Benefits of Using ShowMore</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/adding-protective-marks-mastering-image-watermarking-in-flipimage-professional-tool/"><u>Adding Protective Marks: Mastering Image Watermarking in FlipImage Professional Tool</u></a></li>
+<li><a href="https://fox-that.techidaily.com/getting-your-iphone-and-laptop-talking-a-step-by-step-guide/"><u>Getting Your iPhone and Laptop Talking: A Step-by-Step Guide</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-on-apple-iphone-12-mini-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even On Apple iPhone 12 mini If Youve Tried Everything</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/pioneering-ai-how-vector-databases-make-a-difference/"><u>Pioneering AI: How Vector Databases Make a Difference</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/protecting-privacy-in-bespoke-gpt-scenarios/"><u>Protecting Privacy in Bespoke GPT Scenarios</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/rapid-bavarder-configuration-guide-for-linux/"><u>Rapid Bavarder Configuration Guide for Linux</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/securing-sensitive-information-with-curated-ai-solutions/"><u>Securing Sensitive Information with Curated AI Solutions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-15-budget-friendly-webm-players-that-work-flawlessly-for-2024/"><u>Top 15 Budget-Friendly WebM Players That Work Flawlessly for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-guide-the-best-freemake-replacements-for-efficient-video-conversion-and-download/"><u>Ultimate Guide: The Best Freemake Replacements for Efficient Video Conversion and Download</u></a></li>
 </ul></div>
 

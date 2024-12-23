@@ -1,7 +1,7 @@
 ---
 title: ChaTxt Tools for Enhanced Storytelling
-date: 2024-08-29T01:21:03.291Z
-updated: 2024-08-30T01:21:03.291Z
+date: 2024-12-17T20:37:32.509Z
+updated: 2024-12-22T23:18:04.963Z
 tags:
   - chatgpt
   - open-ai
@@ -38,6 +38,10 @@ GPT-4 is here, and the rush to integrate it into apps has begun.
 
  GPT-4 is being used to create a reactive and responsive learning environment where no two conversations are alike. The first version is restricted to English speakers wanting to learn Spanish or French and is available only on iOS. Duolingo Max is priced at $29.99 monthly or $167.99 for an annual subscription.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Be My Eyes
 
 ![Picture Introducing Virtual Volunteer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/picture-introducing-virtual-volunteer.jpg)
@@ -45,8 +49,9 @@ GPT-4 is here, and the rush to integrate it into apps has begun.
  The use of AI in our lives has been the source of many heated discussions. However, there are some areas where there can be little argument that AI has a positive effect. Be My Eyes is one such example. The app is designed to make the world more accessible for visually impaired people.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How Does Be My Eyes Use GPT-4?
 
  The role that GPT-4 plays in the app is that of a virtual volunteer. The process works by analyzing images through GPT-4's image-to-text generator. Context is the critical factor here. The GPT-4 engine doesn't just analyze the content of the image but the context of the image as well.
@@ -55,9 +60,6 @@ GPT-4 is here, and the rush to integrate it into apps has begun.
 
  The Be My Eyes Virtual Volunteer is in beta testing; the company hopes to roll it out to the public soon. It will be available for free to all blind and low-vision members on both Android and iOS platforms.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ## 3\. Khan Academy
 
 ![Screenshot of Khan Academy Homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-khan-academy-homepage.jpg)
@@ -96,8 +98,9 @@ GPT-4 is here, and the rush to integrate it into apps has begun.
  OpenAI—the brains behind the brains of GPT-4—is already in collaboration with Stripe. Now, Stripe is integrating GPT-4 into its platform. The company already used GPT-3 for simple tasks, but integrating GPT-4 means AI will play a bigger role in the company's processes.
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How Stripe Intends to Use GPT-4
 
  Details of the roles GPT-4 will play are sketchy at the moment. However,[Stripe](https://openai.com/customer-stories/stripe) has reportedly looked at 50 potential uses, of which 15 were strong enough candidates.
@@ -120,9 +123,6 @@ GPT-4 is here, and the rush to integrate it into apps has begun.
 
  The app is an upgraded version of WriteSonic, a writing aid based on ChatGPT 3.5\. WriteSonic is the foundation that ChatSonic was built on; GPT-4 adds the extra functionality.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### What Can You Do With ChatSonic?
 
  The basis of the app is to be a one-stop personal assistant for your business. From developing your website to acting as a customer support chatbot, ChatSonic can do this and much more. The core tasks of this multi-tool include:
@@ -135,32 +135,28 @@ GPT-4 is here, and the rush to integrate it into apps has begun.
 
  ChatSonic is free to try, and the paid version starts at $12.67 per month. Full details are available on the[WriteSonic](https://writesonic.com/chat) website.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Bing AI
 
 ![Screenshot_of Bing app opening screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot_of-bing-app-opening-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Screenshot of Bing Chat Opening Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-bing-chat-opening-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Screenshot of Bing answering query](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-bing-answering-query.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 Close
 
  Microsoft was an early adopter of GPT-4, which it integrated into its Bing search page. A Bing app is now available for Android and iOS, bringing the power of GPT-4 to the mobile masses.
 
  The Bing app is representative of the next generation of search engines and, in true ChatGPT style, is capable of far more than just listing relevant results.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ### What Can You Use the Bing AI App For?
 
  This is an app that can be used as a personal assistant in so many different ways. Among the capabilities of Bing AI are:
@@ -176,13 +172,18 @@ Close
 
 **Download** : Bing AI for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2023057/https://play.google.com/store/apps/details?id=com.microsoft.bing) |[iOS](https://apps.apple.com/us/app/bing-your-ai-copilot/id345323231) (Free)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Petey
 
 ![Screenshot of Petey home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-petey-home-page.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Image Credit: Petey Assistant
 
  Petey is an iOS app that is similar in function to Bing Co-Pilot. It is a paid app that could be considered a supercharged version of Siri. The inclusion of GPT-4 in its latest version adds more flexibility and functions than the previous version, which was already a more able assistant than poor old Siri.
@@ -197,20 +198,21 @@ Close
 
 **Download** :[Petey](https://apps.apple.com/us/app/petey-ai-assistant/id6446047813) for iOS ($3.99 Premium version required for GPT-4)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## GPT-4: A New Level of Artificial Intelligence
 
  These apps represent the tip of a huge GPT-4 iceberg. As more developers unlock the power of GPT-4, there will be many apps to follow. These will likely emulate many of the features and uses we mentioned. But what is more exciting is the companies looking to explore new and imaginative uses for a fledgling technology.
 
  All of the examples illustrate just how fast GPT-4 is rolling out, and it won't be long until you're using an app with a GPT-4 based function.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -219,4 +221,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/a-critical-evaluation-of-ustream-with-equivalents-for-2024/"><u>A Critical Evaluation of Ustream with Equivalents for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/immerse-in-cultures-and-conversations-powered-by-mondlyar/"><u>Immerse in Cultures and Conversations, Powered by MondlyAR</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-creating-an-impactful-film-short-summary/"><u>In 2024, Creating an Impactful Film Short Summary</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-motorola-edge-2023-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Motorola Edge 2023 to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/personalized-ai-how-it-diverges-from-general-and-restricted-applications/"><u>Personalized AI: How It Diverges From General and Restricted Applications</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/prolific-fiction-top-gpt-fueled-techniques-for-dynamic-characters/"><u>Prolific Fiction: Top GPT-Fueled Techniques for Dynamic Characters</u></a></li>
+<li><a href="https://blog-min.techidaily.com/reparez-vos-photos-historiques-avec-des-outils-gratuits-et-alimentes-par-ai-decouvrez-les-meilleurs-8-solutions/"><u>Réparez Vos Photos Historiques Avec Des Outils Gratuits Et Alimentés Par AI - Découvrez Les Meilleurs 8 Solutions</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/symphonic-synthesis-scientifically-proven-tips-for-musical-linguistics/"><u>Symphonic Synthesis: Scientifically Proven Tips for Musical Linguistics</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/techs-elite-showdown-googles-gemini-versus-openais-chatgpt/"><u>Tech's Elite Showdown: Google's Gemini Versus OpenAI’s ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-scribe-of-the-digital-age-harnessing-ai-in-gaming-narratives/"><u>The Scribe of the Digital Age: Harnessing AI in Gaming Narratives</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-checklist-for-cross-verifying-health-recommendations-from-ai-entities-such-as-chatgpt/"><u>The Ultimate Checklist for Cross-Verifying Health Recommendations From AI Entities Such as ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-4-advantages-of-choosing-the-claude-ai-over-chatgpt/"><u>Top 4 Advantages of Choosing the Claude AI Over ChatGPT</u></a></li>
+<li><a href="https://common-error.techidaily.com/tutorial-reducing-microsofts-compatibility-telemetry-impact-on-hard-drive-space-usage-for-windows-10-users/"><u>Tutorial: Reducing Microsoft's Compatibility Telemetry Impact on Hard Drive Space Usage for Windows 10 Users</u></a></li>
+</ul></div>
 

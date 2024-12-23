@@ -1,7 +1,7 @@
 ---
 title: Who Qualifies for Access? Inside Look at NVIDIA’s Customizable AI Foundations Platform
-date: 2024-08-29T01:21:27.930Z
-updated: 2024-08-30T01:21:27.930Z
+date: 2024-12-18T20:05:12.043Z
+updated: 2024-12-22T19:15:20.698Z
 tags:
   - chatgpt
   - open-ai
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/6d778735b7f740e653b201094c23e32c3c4849964
  For this week's show, we asked ChatGPT to help out with outlining and even writing the show. Here's a bit more information on[how we used ChatGPT to script the podcast](https://www.makeuseof.com/i-used-chatgpt-to-script-a-podcast-heres-what-happened/) .
 
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Shownotes
 
@@ -44,14 +48,11 @@ We finish the show with the following recommendations:
 
  Christian Cawley hosts this week's podcast, and is joined by Ben Stegner. You can contact them on Twitter:[@thegadgetmonkey](https://twitter.com/thegadgetmonkey) and[@stegnersaurus](https://twitter.com/stegnersaurus) , with your suggestions for future topics.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -60,8 +61,17 @@ We finish the show with the following recommendations:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-capturing-unrooted-audio-4-easy-steps-for-android/"><u>[New] 2024 Approved Capturing Unrooted Audio 4 Easy Steps for Android</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-promotional-planning-perfection/"><u>[New] Promotional Planning Perfection</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-from-video-to-visual-storytelling-crafting-gifs-with-youtube-content-for-2024/"><u>[Updated] From Video to Visual Storytelling Crafting GIFs with YouTube Content for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-how-to-master-iphone-video-screening/"><u>[Updated] In 2024, How to Master iPhone Video Screening</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-makeover-building-with-your-own-insights/"><u>ChatGPT Makeover: Building with Your Own Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparing-top-generative-ai-contenders-which-is-superior-chatgpt-or-notion-ai/"><u>Comparing Top Generative AI Contenders: Which Is Superior, ChatGPT or Notion AI?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/create-custom-chat-experiences/"><u>Create Custom Chat Experiences</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-ai-hallucination-phenomena-recognition-techniques-and-insights/"><u>Decoding AI Hallucination Phenomena: Recognition Techniques and Insights</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-mac-os-slideshow-creator-turn-memories-into-stunning-videos-for-2024/"><u>New Mac OS Slideshow Creator Turn Memories Into Stunning Videos for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reactivating-file-explorer-in-windows-11-proactively/"><u>Reactivating File Explorer in Windows 11 Proactively</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

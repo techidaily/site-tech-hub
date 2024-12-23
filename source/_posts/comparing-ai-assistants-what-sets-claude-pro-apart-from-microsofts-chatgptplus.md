@@ -1,7 +1,7 @@
 ---
 title: "Comparing AI Assistants: What Sets Claude Pro Apart From Microsoft's ChatGpt+?"
-date: 2024-08-29T01:17:55.338Z
-updated: 2024-08-30T01:17:55.338Z
+date: 2024-12-20T00:10:22.020Z
+updated: 2024-12-22T19:37:57.173Z
 tags:
   - chatgpt
   - open-ai
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/e8268e497efdb6d8ea1a7969a9fa65d609c226672
 
  The following comparisons and tests are not meant to be exhaustive but rather give you an indication of key points and capabilities.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which Is the Easiest Large Language Model to Use?
 
  Both Bard and ChatGPT require an account to use the service. Both Google and OpenAI accounts are easy and free to create, and you can immediately start asking questions.
@@ -56,15 +60,13 @@ thumbnail: https://thmb.techidaily.com/e8268e497efdb6d8ea1a7969a9fa65d609c226672
  In contrast, a local model on your own machine doesn't require an account or share user data with anyone.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Which LLM Has the Best General Knowledge?
 
 ![man at the base of a flagpole flying the flag of nepal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/man-at-the-base-of-a-flagpole-flying-the-flag-of-nepal.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
  In order to test which LLM has the best general knowledge, we asked three questions.
 
  The first question, "Which national flag has five sides?" was only correctly answered by Bard, which identified the national flag of Nepal as having five sides.
@@ -77,13 +79,18 @@ thumbnail: https://thmb.techidaily.com/e8268e497efdb6d8ea1a7969a9fa65d609c226672
 
  All three chatbots correctly identified Franco Malerba as an Italian astronaut and member of the European Parliament, with Bard giving an answer worded identically to a section of Malerba's Wikipedia entry.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which LLM Is Good for Technical Instructions?
 
 ![burnt socket for a  BS 1363 type plug](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/burnt-socket-for-a-bs-1363-type-plug.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  When you have technical problems, you might be tempted to turn to a chatbot for help. While technology marches on, some things remain the same. The BS 1363 electrical plug has been in use in Britain, Ireland, and many other countries since 1947\. We asked the language models how to correctly wire it up.
 
  Cables attaching to the plug have a live wire (brown), an earth wire (yellow/green), and a neutral wire (blue). These must be attached to the correct terminals within the plug housing.
@@ -96,9 +103,6 @@ thumbnail: https://thmb.techidaily.com/e8268e497efdb6d8ea1a7969a9fa65d609c226672
 
  In our opinion. none of the chatbots gave instructions sufficient to help someone correctly wire a BS 1363 electrical plug. A concise and correct response would be, "Blue on the left, brown on the right."
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ## Which LLM Is Good for Writing Code?
 
 ![MicroPython logo with snake sitting on a microchip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/asdfasdf.jpg)
@@ -111,9 +115,6 @@ thumbnail: https://thmb.techidaily.com/e8268e497efdb6d8ea1a7969a9fa65d609c226672
 
 ![Yellow ball with laughing expression painted on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3d-laughing-emoji-ball-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  Humor is one of the fundamentals of being human and surely one of the best ways of telling man and machine apart. To each of our models, we gave the simple prompt: "Create an original and funny joke."
 
  Fortunately for comedians everywhere and the human race at large, none of the models were capable of generating an original joke.
@@ -127,8 +128,9 @@ thumbnail: https://thmb.techidaily.com/e8268e497efdb6d8ea1a7969a9fa65d609c226672
 You read it here first, folks.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## No Chatbot Is Perfect
 
  We found that while all three large language models have their advantages and disadvantages, none of them can replace the real expertise of a human being with specialized knowledge.
@@ -137,14 +139,11 @@ You read it here first, folks.
 
  If you'd like to create great AI art without worrying that somebody's looking over your shoulder, it's easy to run an art AI model on your local machine, too.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -153,4 +152,23 @@ You read it here first, folks.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-choosing-the-best-screen-capture-app-obs-vs-fraps/"><u>[New] 2024 Approved Choosing the Best Screen Capture App – OBS vs Fraps</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-a-comprehensive-guide-to-focusing-on-your-iphone-camera/"><u>[New] A Comprehensive Guide to Focusing on Your iPhone Camera</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-freelancers-corner-yearly-best-free-text-files/"><u>[New] Freelancers’ Corner Yearly Best FREE Text Files</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-analyzing-the-differences-twitch-vs-youtube-platforms/"><u>[New] In 2024, Analyzing the Differences Twitch vs YouTube Platforms</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/aetherial-acts-the-vr-stage-for-2024/"><u>Aetherial Acts The VR Stage for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/auditory-treasure-trove-unearth-top-hits-at-no-charge/"><u>Auditory Treasure Trove Unearth Top Hits at No Charge</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/get-ready-personalized-gpt-shops-opened-by-openai/"><u>Get Ready: Personalized GPT Shops Opened by OpenAI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-safeguard-your-interactions-exporting-data-from-chatgpt/"><u>How to Safeguard Your Interactions: Exporting Data From ChatGPT</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-stay-ahead-of-the-curve-top-task-filled-ideas-for-maximizing-your-podcast-experience/"><u>In 2024, Stay Ahead of the Curve Top Task-Filled Ideas for Maximizing Your Podcast Experience</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/inside-the-illusion-exposing-nine-widespinas-misconceptions-about-bots/"><u>Inside the Illusion: Exposing Nine Widespinas Misconceptions About Bots</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leverage-the-capabilities-of-chatgpt-to-create-rich-roleplaying-games-in-a-text-format/"><u>Leverage the Capabilities of ChatGPT to Create Rich, Roleplaying Games in a Text Format</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximize-your-ai-potential-with-gpt-cu4-turbo-the-ultimate-guide-using-copilot-no-cost/"><u>Maximize Your AI Potential with GPT-Cu4 Turbo: The Ultimate Guide Using Copilot (No Cost)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigate-the-web-easier-with-bings-new-ai-search-feature-now-on-mobile-apps-for-android-and-ios/"><u>Navigate the Web Easier with Bing's New AI Search Feature Now on Mobile Apps for Android and iOS</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-chatgpts-legal-issues-updated-google-news-feeds-and-optimal-mobile-connectivity-for-travelers/"><u>Navigating ChatGPT's Legal Issues: Updated Google News Feeds & Optimal Mobile Connectivity for Travelers</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidias-evolution-rtx-takes-over-from-gtx/"><u>Nvidia's Evolution: RTX Takes Over From GTX</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-top-rated-avi-video-cutting-tools-trim-and-split-avi-videos-multi-platform/"><u>Updated 2024 Approved Top-Rated AVI Video Cutting Tools Trim and Split AVI Videos Multi-Platform</u></a></li>
+</ul></div>
 

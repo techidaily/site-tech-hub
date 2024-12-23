@@ -1,7 +1,7 @@
 ---
 title: Epic Sale Alert for Apple Enthusiasts! Score Your Favorite AirPods at an Unbeatable $40 Price Drop This 4Th of July
-date: 2024-12-09T17:27:49.059Z
-updated: 2024-12-13T18:58:21.333Z
+date: 2024-12-16T19:42:07.473Z
+updated: 2024-12-22T22:19:08.030Z
 tags:
   - apple
 categories:
@@ -30,7 +30,7 @@ The second-generation AirPods come with a Lightning charger case. They offer sol
 Buy the AirPods on sale at [Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-AirPods-Charging-Latest-Model%2Fdp%2FB07PXGQC1Q%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc897cc8f-f17e-41e6-8410-d72f180f8ed4%7Cdtp&dtb=1) now. You can also check out more [headphone deals](https://www.zdnet.com/article/best-headphone-deals/) and the [top products ZDNET readers bought last month](https://www.zdnet.com/home-and-office/the-25-most-popular-products-zdnet-readers-bought-last-month/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -62,17 +62,19 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-digital-audio-prowess-the-top-9-mic-recorders-for-23-for-2024/"><u>[New] Digital Audio Prowess The Top 9 Mic Recorders for '23 for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-the-quickest-way-to-entertain-kapwing-memes/"><u>[New] In 2024, The Quickest Way to Entertain - Kapwing Memes</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ahead-of-the-curve-meta-quest-3-launches-pre-vision-pro-ai-capabilities-how-to-activate-them/"><u>Ahead of the Curve: Meta Quest 3 Launches Pre-Vision Pro AI Capabilities - How to Activate Them</u></a></li>
-<li><a href="https://facebook.techidaily.com/digital-ears-of-phones-spying-for-marketing-reality/"><u>Digital Ears of Phones: Spying for Marketing Reality?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/enhanced-website-traffic-with-cookiebot-technology/"><u>Enhanced Website Traffic with Cookiebot Technology</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/fortnite-returns-to-apple-app-store-step-by-step-instructions-for-iphone-users-digitalgamingnews/"><u>Fortnite Returns to Apple App Store: Step-by-Step Instructions for iPhone Users | DigitalGamingNews</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-8-plus-passcode-without-computer-by-drfone-ios/"><u>How to Unlock iPhone 8 Plus Passcode without Computer?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Vivo V27 Pro? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidia-enhances-geforce-210-on-win11/"><u>NVIDIA Enhances GeForce 210 on Win11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionizing-budget-sound-unveiling-the-potential-of-beats-new-solitary-earphones-as-alternatives-to-under-1n-airpods-reviews-by-zdnet/"><u>Revolutionizing Budget Sound: Unveiling the Potential of Beats' New Solitary Earphones as Alternatives to Under $1N AirPods, Reviews by ZDNET</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-rated-mini-tablet-reviews-of-2024-in-depth-analysis-by-tech-experts-zdnet/"><u>Top-Rated Mini Tablet Reviews of 2024 - In Depth Analysis by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-rated-tablet-protectors-s-ultimate-ipad-air-case-guide-reviews/"><u>Top-Rated Tablet Protectors 'S Ultimate iPad Air Case Guide Reviews</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-mastering-stunning-photographic-mosaics-for-2024/"><u>[New] Mastering Stunning Photographic Mosaics for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-from-screens-to-spreads-the-dos-and-donts-of-live-blogging/"><u>[Updated] From Screens to Spreads The Do's and Don'ts of Live Blogging</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-how-to-access-full-range-of-groups-shared-media/"><u>[Updated] In 2024, How to Access Full Range of Group's Shared Media</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-retailing-revelations-and-methods/"><u>[Updated] Retailing Revelations and Methods</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-large-scale-llms-an-insight-into-their-working-mechanisms/"><u>Exploring Large-Scale LLMs: An Insight Into Their Working Mechanisms</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-realm-of-predictive-artificeal-intelligence-insights-and-functionality/"><u>Exploring the Realm of Predictive Artificeal Intelligence: Insights & Functionality</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exposing-deceptive-chatgpt-networks-know-what-to-do/"><u>Exposing Deceptive ChatGPT Networks: Know What To Do</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/foreseeing-future-firewalls-the-latest-in-security-trends/"><u>Foreseeing Future Firewalls: The Latest in Security Trends</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/free-image-generation-made-easy-with-dall-e-3-via-microsofts-search-engine/"><u>Free Image Generation Made Easy with DALL-E 3 via Microsoft's Search Engine</u></a></li>
+<li><a href="https://article-tips.techidaily.com/from-average-to-spectacular-mastering-dynamic-range-portraits-for-2024/"><u>From Average to Spectacular Mastering Dynamic Range Portraits for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-4k-resolution-unveiled-in-chroma-focused-lenses/"><u>In 2024, 4K Resolution Unveiled in Chroma-Focused Lenses</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-6-plus-passcode-screen-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 6 Plus Passcode Screen? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Vivo S17e? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Oppo Reno 11 Pro 5G? | Dr.fone</u></a></li>
 </ul></div>
 

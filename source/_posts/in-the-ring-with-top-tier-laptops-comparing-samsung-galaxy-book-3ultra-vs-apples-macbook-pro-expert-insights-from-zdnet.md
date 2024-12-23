@@ -1,7 +1,7 @@
 ---
 title: "In The Ring with Top Tier Laptops: Comparing Samsung Galaxy Book 3Ultra Vs. Apple's MacBook Pro | Expert Insights From ZDNet"
-date: 2024-12-07T19:21:55.682Z
-updated: 2024-12-13T18:09:51.087Z
+date: 2024-12-21T17:08:29.894Z
+updated: 2024-12-22T16:32:37.726Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ We'll compare the specs of the [Galaxy Book 3 Ultra](https://shop-links.co/link/
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Specifications
@@ -53,10 +53,6 @@ There are definitely some strong MacBook Pro vibes informing Samsung's aesthetic
 
 Samsung
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  1\. You're committed to Samsung's ecosystem
 
 ### Samsung Unpacked
@@ -68,6 +64,10 @@ It's much easier when your devices not only work well together out of the box, b
 Samsung realized this and included benefits like the options to use a [Galaxy Tab-branded tablet](https://www.zdnet.com/article/samsung-galaxy-tab-s8-ultra-review/) as a wireless second display, to use your Galaxy smartphone as a wirelessly syncing camera, and to control all three devices, at once, from the keyboard and touchpad of the laptop itself. 
 
 If you've already got a Galaxy smartphone or tablet, there are definitely practical benefits to functionality that you'll receive by opting for this model. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  2\. You expect to do any gaming
 
@@ -83,23 +83,19 @@ The other factor is Apple's switch to its own silicon. When Apple was using Inte
 
 [Buy Samsung's Galaxy Book 3 Ultra $2,199 at Samsung](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fcomputing%2Fgalaxy-book3-ultra%2Fbuy%2F&publisher_slug=itechdaily19598&exclusive=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  You should buy Apple's 16-inch M2-gen MacBook Pro if...
 
 The most recent, M2 Pro or Max-powered refresh of the venerable 16-inch MacBook Pro.
 
 Apple
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  1\. You, or your family, are committed to Apple's ecosystem
 
 This is the other side of the coin. Apple was among the first, and might still be the best, at giving you reasons to stay locked into its ecosystem. On an individual level, this includes things like the ability to share screens and inputs across devices and tricks like [Continuity Camera, which lets you use your iPhone as an advanced webcam](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/), or Apple's excellent cross-device messaging. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -117,7 +113,7 @@ It's an issue that can chafe at times, but it's also one that has led many, myse
 **Also:** [**Samsung Galaxy S23 Ultra vs Google Pixel 7 Pro: Which Android flagship is king?**](https://www.zdnet.com/article/samsung-galaxy-s23-ultra-vs-google-pixel-7-pro/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  2\. You're a content creator looking for a mobile desktop replacement
@@ -131,6 +127,10 @@ The maximum amount of memory and storage you can configure a Galaxy Book 3 Ultra
 **Also: [Apple's new MacBook Pro with M2 Pro chip is a compelling package](https://www.zdnet.com/article/apples-new-macbook-pro-with-m2-pro-chip-is-a-compelling-package/)**
 
 [Buy the 16-inch Apple MacBook Pro $2,499 at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -185,22 +185,20 @@ Absolutely must have a 16-inch laptop? Lenovo's ThinkPad Z16 is among the most p
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-speed-kings-guide-to-fast-frame-gathering/"><u>[New] Speed King's Guide to Fast Frame Gathering</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1-water-found-in-iphone-charging-port-what-can-you-do-expert-advice-from-tech-site/"><u>1. 'Water Found in iPhone Charging Port: What Can You Do?' - Expert Advice From Tech Site</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-calculate-and-change-aspect-ratio-online/"><u>2024 Approved Calculate and Change Aspect Ratio Online</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-the-art-of-analytics-understanding-metrics-without-fancy-tools/"><u>2024 Approved The Art of Analytics Understanding Metrics Without Fancy Tools</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/apple-complies-with-macbook-class-action-agreement-eligible-users-receive-compensation-insights/"><u>Apple Complies with MacBook Class-Action Agreement: Eligible Users Receive Compensation - Insights</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/esrs-revolutionary-fast-charge-solution-the-new-qi2-magsafe-charger-redefines-heatless-iphone-16-charging-zdnet/"><u>ESR's Revolutionary Fast-Charge Solution: The New Qi2 MagSafe Charger Redefines Heatless iPhone 16 Charging | ZDNET</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-15-pro-max-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone 15 Pro Max Lock Screen with Notifications? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-key-methods-to-incorporate-facebook-live-into-website-designs/"><u>In 2024, Key Methods to Incorporate Facebook Live Into Website Designs</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-realme-narzo-60-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Realme Narzo 60 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-top-8-live-selling-platforms-beginners-tool-tip-for-2024/"><u>New Top 8 Live Selling Platforms Beginners Tool Tip for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/prime-day-savings-alert-discover-the-ultimate-top-36-apple-bargains-still-up-for-grabs/"><u>Prime Day Savings Alert: Discover the Ultimate Top 36 Apple Bargains Still Up for Grabs!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-trends-shaping-todays-mobile-landscape-from-ai-integration-to-revolutionary-phone-design-tech-insights-by-zdnet/"><u>Top Trends Shaping Today’s Mobile Landscape - From AI Integration to Revolutionary Phone Design | Tech Insights by ZDNET</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-rated-childrens-tablets-as-chosen-by-parents-insights/"><u>Top-Rated Children's Tablets as Chosen by Parents - Insights</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-ios-1nce-new-season-brings-transcript-support-for-podcasts-exciting-emojis-and-revamped-apple-store-policies-in-the-eu-coverage/"><u>Unveiling iOS 1Nce: New Season Brings Transcript Support for Podcasts, Exciting Emojis, and Revamped Apple Store Policies in the EU | Coverage</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-ultimate-choice-top-rated-apple-watch-titanium-band-reviewed/"><u>Unveiling the Ultimate Choice: Top-Rated Apple Watch Titanium Band Reviewed</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-nokia-c12-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Nokia C12 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/youtube-mastery-screen-recording-unveiled-for-2024/"><u>YouTube Mastery Screen Recording Unveiled for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-crafting-humor-the-art-of-mememaking-for-2024/"><u>[Updated] Crafting Humor The Art of Mememaking for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-your-guide-to-understanding-youtube-tvs-signature-features/"><u>[Updated] In 2024, Your Guide to Understanding YouTube TV's Signature Features</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-vr-real-world-impacts/"><u>2024 Approved VR Real-World Impacts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/conquer-document-creation-chatgpt-word-partnership-for-efficiency/"><u>Conquer Document Creation: ChatGPT-Word Partnership for Efficiency</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/crafting-digital-masterpieces-the-finest-open-source-ai-image-synthesis-programs/"><u>Crafting Digital Masterpieces: The Finest Open Source AI Image Synthesis Programs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-trojan-viruses-threats-protection-and-prevention/"><u>Decoding Trojan Viruses: Threats, Protection & Prevention</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/diversify-your-income-with-chatgpt-side-projects-comprehensive-pc-build-tutorials-and-a-walkthrough-of-retro-handheld-gaming-collection/"><u>Diversify Your Income with ChatGPT Side Projects, Comprehensive PC Build Tutorials, and a Walkthrough of Retro Handheld Gaming Collection</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortlessly-auto-code-with-these-7-powerful-solutions-no-chatgpt-required/"><u>Effortlessly Auto-Code with These 7 Powerful Solutions (No ChatGPT Required)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-your-finances-with-smart-side-jobs-via-chatgpt-pc-custom-building-best-practices-and-the-timeless-appeal-of-retro-handheld-devices/"><u>Elevate Your Finances with Smart Side Jobs via ChatGPT, PC Custom Building Best Practices & The Timeless Appeal of Retro Handheld Devices</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhance-your-note-taking-skills-with-these-6-advanced-ai-applications/"><u>Enhance Your Note-Taking Skills with These 6 Advanced AI Applications</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/factory-reset-iphone-12-mini-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/guide-how-to-attract-more-nfl-viewers-for-your-sports-live-streaming-channel/"><u>Guide How to Attract More NFL Viewers for Your Sports Live Streaming Channel</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-11-best-pokemon-go-spoofers-for-gps-spoofing-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, 11 Best Pokemon Go Spoofers for GPS Spoofing on Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-minitool-movie-maker-is-it-the-best-choice-plus-top-alternatives/"><u>New 2024 Approved Minitool Movie Maker Is It the Best Choice? + Top Alternatives</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/perfect-sync-saving-your-camera-memories-seamlessly-on-snapchat/"><u>Perfect Sync Saving Your Camera Memories Seamlessly on Snapchat</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Is the Latest AirPower Footage a Sign of Resurrected Qi Wireless Charger by Apple? Exclusive Insights | TechCrunch
-date: 2024-12-10T19:16:50.425Z
-updated: 2024-12-13T20:25:58.380Z
+date: 2024-12-20T23:59:48.694Z
+updated: 2024-12-22T16:24:34.129Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ What do I believe Apple needs to reveal -- or, at least, set in motion -- this m
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Develop a clear on-device strategy for generative AI and invest in AI-driven developer tools
@@ -53,7 +53,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Leverage ethical AI and privacy as a competitive advantage
@@ -67,10 +67,6 @@ Apple's historical commitment to privacy can also give it a significant advantag
 Providing private or family-specific AI instances would further enhance privacy and personalized interactions. For example, HomePod could recognize individual voices and offer personalized responses, while Apple TV+ could recommend shows tailored to each user. AI can coordinate family schedules, manage activities, and send reminders. Robust privacy controls and advanced parental controls ensure secure and healthy digital environments for children.
 
 By focusing on these principles, Apple can lead by example and set new benchmarks in developing and deploying ethical AI.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Integrate seamlessly with third-party services and partner with multiple AI providers
 
@@ -87,7 +83,7 @@ Apple should also incorporate [Retrieval-Augmented Generation](https://www.zdnet
 Partnering with multiple AI providers, including specialists in natural language processing, computer vision, and machine learning, will bring cutting-edge innovations and accelerate the development of advanced features across Apple's ecosystem. This multi-partner approach reduces the risk of over-reliance on a single provider, increases resilience, and allows Apple to tailor AI solutions to different markets and user segments.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Deploy AI-accelerated appliances on the edge with dedicated cloud capacity
@@ -99,7 +95,7 @@ To meet the growing demand for fast application response times, I believe Apple 
 Additionally, Apple could collaborate with cloud-based AI providers to manage complex AI tasks in the cloud when necessary. Combining edge and cloud resources, this hybrid approach would create a robust and scalable AI infrastructure that supports real-time AI applications such as augmented reality, language translation, and advanced data analytics.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Enhance proactive assistance and personalization
@@ -111,6 +107,10 @@ Apple's AI should proactively anticipate user needs and provide personalized exp
 AI can enhance contextual awareness by integrating with sensors and data sources on Apple devices. For example, starting a workout on Fitness+ could prompt AI to suggest a matching Apple Music playlist, monitor health metrics in real-time with Apple Watch, and provide motivational prompts. AI can analyze user behavior to offer smart recommendations for content, activities, and products, acting as a personal assistant attuned to individual tastes.
 
 Proactive health and wellness features could remind users to take medication via the Health app, suggest wellness tips based on activity levels tracked by Apple Watch, and offer mental health support through mindfulness reminders. Personalized routines on Apple devices, like HomePod adjusting lighting based on daily habits, will enhance user experiences.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Ensure AI shines across all products and services
 
@@ -170,21 +170,19 @@ For consumers, the AI race is about trust, user experience, and integrating adva
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-xbox-gameplay-perfect-screen-recording-guide/"><u>[New] 2024 Approved Xbox Gameplay Perfect Screen Recording Guide</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-essential-insights-for-capturing-online-meeting-transcripts-for-2024/"><u>[New] Essential Insights for Capturing Online Meeting Transcripts for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-how-to-turn-a-minute-into-millions-maximizing-viewership-for-youtubers-for-2024/"><u>[Updated] How to Turn a Minute Into Millions Maximizing Viewership for YouTubers for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-become-a-social-media-sensation-top-9-tips-for-instagram-stardom/"><u>2024 Approved Become a Social Media Sensation Top 9 Tips for Instagram Stardom</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/debloating-windows-the-pitfalls-and-better-alternatives-explained-insights-from-zdnet/"><u>Debloating Windows: The Pitfalls and Better Alternatives Explained - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-how-simple-it-really-is-to-transfer-your-macbook-data-with-our-swift-solutions/"><u>Discover How Simple It Really Is to Transfer Your MacBook Data with Our Swift Solutions!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-the-upgraded-apple-carplay-features-showcased-at-wwdc-2024-in-depth-analysis-and-expert-insights/"><u>Discover the Upgraded Apple CarPlay Features Showcased at WWDC 2024: In-Depth Analysis and Expert Insights</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/edge-softening-secrets-in-photo-editing-software/"><u>Edge-Softening Secrets in Photo Editing Software</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/essential-guide-how-to-effortlessly-set-up-your-new-ipad-insights/"><u>Essential Guide: How to Effortlessly Set Up Your New iPad - Insights</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/experience-your-dream-of-apple-sports-come-true-a-free-and-user-friendly-iphone-app-reviewed-by-experts-zdnet/"><u>Experience Your Dream of Apple Sports Come True: A Free and User-Friendly iPhone App Reviewed by Experts | ZDNet</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-why-the-discounted-apple-watch-ultra-2-is-my-ideal-smartwatch-pick-this-labor-day-insights-from-zdnet/"><u>Exploring Why the Discounted Apple Watch Ultra 2 Is My Ideal Smartwatch Pick This Labor Day - Insights From ZDNet</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2622877-9781936740994-toasts/"><u>Toasts | Free Book</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-bargains-on-amazon-hottest-offers-of-sept-24-featured/"><u>Top Bargains on Amazon - Hottest Offers of Sept '24 Featured</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-rated-budget-tablets-of-2024-comprehensive-reviews-by-tech-experts/"><u>Top-Rated Budget Tablets of 2024: Comprehensive Reviews by Tech Experts</u></a></li>
-<li><a href="https://win-trending.techidaily.com/umwandlungshinweis-konvertierung-von-sd-karteneinstellungen-raw-zu-fat32-dateisystem/"><u>Umwandlungshinweis: Konvertierung Von SD-Karteneinstellungen RAW Zu FAT32 Dateisystem</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/wie-sie-mit-einem-asus-notebook-den-wiederherstellungsmodus-in-windows-11-nutzen-konnen-eine-praktische-anleitung/"><u>Wie Sie Mit Einem Asus-Notebook Den Wiederherstellungsmodus in Windows 11 Nutzen Können: Eine Praktische Anleitung</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-deciding-the-best-live-streamer-vmix-against-wirecast/"><u>[Updated] 2024 Approved Deciding the Best Live Streamer VMix Against Wirecast</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-download-unlimited-mcb-visual-elements/"><u>[Updated] In 2024, Download Unlimited MCB Visual Elements</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-windowsmac-captioning-crusade-the-ultimate-guide-to-text-placement-for-2024/"><u>[Updated] Windows/Mac Captioning Crusade The Ultimate Guide to Text Placement for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/can-snapdragon-x-match-up-to-apple-silicon-qualcomm-demonstrates-its-capabilities/"><u>Can Snapdragon X Match Up to Apple Silicon? Qualcomm Demonstrates Its Capabilities</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effective-etiquette-for-interacting-with-ai-assistants-siri-alexa/"><u>Effective Etiquette for Interacting With AI Assistants (Siri, Alexa)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-radiant-registering-and-unregistering-rites/"><u>In 2024, Radiant Registering and Unregistering Rites</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/langchain-llm-unveiled-essential-insights-for-novices-and-experts-alike/"><u>LangChain LLM Unveiled: Essential Insights for Novices and Experts Alike</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/le-chat-by-mistral-ai-tested-against-chatgpt-what-we-found-out/"><u>Le Chat by Mistral AI Tested Against ChatGPT – What We Found Out</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/openai-ceo-resignation-unpacking-the-implications-for-chatgpt-technology/"><u>OpenAI CEO Resignation: Unpacking the Implications for ChatGPT Technology.</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/optimize-training-sessions-leading-7-gpt-additions/"><u>Optimize Training Sessions: Leading 7 GPT Additions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/prep-for-perfection-using-chatgpt-in-interviews/"><u>Prep for Perfection: Using ChatGPT in Interviews</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/prime-photograph-peruser-in-windows-10/"><u>Prime Photograph Peruser in Windows 10</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pursuit-of-visual-excellence-10-essential-iphone-composition-techniques-for-2024/"><u>Pursuit of Visual Excellence 10 Essential iPhone Composition Techniques for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-oneplus-nord-ce-3-5g-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On OnePlus Nord CE 3 5G</u></a></li>
 </ul></div>
 

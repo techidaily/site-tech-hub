@@ -1,7 +1,7 @@
 ---
 title: "Apple Complies with MacBook Class-Action Agreement: Eligible Users Receive Compensation - Insights"
-date: 2024-12-12T16:51:34.699Z
-updated: 2024-12-13T17:19:44.008Z
+date: 2024-12-21T19:14:17.865Z
+updated: 2024-12-22T20:09:11.008Z
 tags:
   - apple
 categories:
@@ -31,10 +31,6 @@ To continue this conversation, I'm going to ask you to hold two competing though
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How could Meta possibly beat Apple?
 
 Good, better, best. What does this mean? How can a $500 device from Meta (Facebook, believe it or not) beat Apple's offering?
@@ -58,10 +54,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 During this time, the company focused on providing viable mixed reality and VR experiences, adding capabilities, better visuals, better cameras, improving the headsets overall, and constantly pushing to make the price viable for consumers. 
 
 Essentially, Meta's focus has been on finding the sweet spot for AR and VR devices using current technology and baking that into its products. In the Quest 3, it has introduced a truly great device at a reasonably affordable price.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  That old Apple magic
 
@@ -90,6 +82,10 @@ Bloomberg's Gurman believes Apple is more willing to kill products now than it h
 
 His inference is that it's possible Apple will lose patience with the slow progress of the Vision Pro and kill it off, although he says his sources claim the company is more focused on introducing a cost-cut Vision device that off-loads the processing to a tethered iPhone or Mac. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Think different?
 
 For Apple to be able to move forward with the Vision Pro, it must answer one simple question: Why should I buy this thing? 
@@ -111,7 +107,7 @@ The virtual Mac screen the Vision Pro now offers doesn't add much. But being abl
 There are always reasons for delays. It's certainly possible the company hit technical hurdles. But perhaps it could have moved resources over from circus sideshow projects like converting 2D photos into 3D photos -- a feature _no one_ will use as a justification to buy a Vision Pro -- into something that could and will provide real, tangible value and even a justification for the high purchase price. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  A Vision for the rest of us
@@ -139,7 +135,7 @@ The eye tracking and hand gestures interface that are the primary means of opera
 You can see this in action with the [Puzzling Places game](https://www.meta.com/experiences/3931148300302917/). On the Quest 3, the game provides a much richer interface than on the Vision Pro. That's because it's much easier to navigate objects in the 3D space using the Quest controllers. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Stay away from cable tethering
@@ -155,7 +151,7 @@ The idea that a future Vision device might need to be physically tethered to an 
 There might be one compromise, which is to wirelessly offload some processing to an iPhone, similar to the symbiotic relationship the Apple Watch has with the iPhone. That could work. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Make a tough margin decision
@@ -177,6 +173,10 @@ Think about that. If the Quest 3 is sold for $500, retailers like Amazon are lik
 **Also: [Who's afraid of VR? I was - until I tried Meta Quest 3](https://www.zdnet.com/article/whos-afraid-of-vr-i-was-until-i-tried-meta-quest-3/)**
 
 Apple, by contrast, is making a fairly predictable margin on the Vision Pro, which is why the price is so high by comparison. Apple does have some cost-cutting options (display, chips, assembly, structure, and lenses), but if Facebook is competing at a loss, that puts Apple into the uncomfortable position of also taking a per-unit COGS loss or pricing well higher than the current market leader. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Looking towards the future
 
@@ -227,20 +227,20 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-innovations-in-videography-infusing-narratives-effortlessly/"><u>[New] 2024 Approved Innovations in Videography Infusing Narratives Effortlessly</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-gain-momentum-with-these-strategies-for-trending-youtubers/"><u>[Updated] 2024 Approved Gain Momentum with These Strategies for Trending YouTubers</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-step-by-step-review-mastering-the-art-of-picsart/"><u>[Updated] 2024 Approved Step-by-Step Review Mastering the Art of PicsArt</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-dive-into-design-get-a-complimentary-set-of-50-banner-pieces/"><u>[Updated] In 2024, Dive Into Design Get a Complimentary Set of 50 Banner Pieces</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-best-15-sci-fi-and-educational-youtube-hubs/"><u>2024 Approved Best 15 Sci-Fi & Educational YouTube Hubs</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/affordable-tablet-picks-in-depth-reviews-and-ratings-from-industry-professionals/"><u>Affordable Tablet Picks : In-Depth Reviews and Ratings From Industry Professionals</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/comparing-apples-latest-innovations-unveiling-the-distinct-features-of-the-upcoming-airpods-model-4-a-comprehensive-guide-by-zdnet/"><u>Comparing Apple's Latest Innovations: Unveiling the Distinct Features of the Upcoming AirPods Model 4 - A Comprehensive Guide by ZDNet</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/complete-guide-taking-screenshots-and-recording-screens-on-iphone-easy-steps/"><u>Complete Guide: Taking Screenshots & Recording Screens on iPhone - Easy Steps</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/convert-arw-raw-images-to-jpeg-for-free-with-movavis-user-friendly-online-tool/"><u>Convert ARW RAW Images to JPEG for Free with Movavi's User-Friendly Online Tool</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-the-ultimate-apple-mac-lineup-tech-experts-picks-and-analyses-zdnet/"><u>Discover the Ultimate Apple Mac Lineup : Tech Experts' Picks and Analyses | ZDNet</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-tecno-pova-6-pro-5g-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Tecno Pova 6 Pro 5G Pattern Lock Screen</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-detailed-imagery-in-digital-spaces/"><u>In 2024, Unlocking Detailed Imagery in Digital Spaces</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionary-tech-milestone-google-pixel-s-unveils-worlds-first-sos-messaging-via-satellites/"><u>Revolutionary Tech Milestone: Google Pixel S Unveils World's First SOS Messaging via Satellites</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ultimate-selection-of-iphone-12pro-skins-reviewed-and-ranked/"><u>Ultimate Selection of iPhone 12/Pro Skins Reviewed and Ranked</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/why-the-new-iphone-16s-innovative-capabilities-make-it-time-for-an-update-insights-from-zdnet/"><u>Why The New iPhone 16'S Innovative Capabilities Make It Time for an Update - Insights From ZDNet</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-design-unique-outro-videos-without-paying-a-penny/"><u>[Updated] 2024 Approved Design Unique Outro Videos Without Paying a Penny</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-detailed-review-on-vlcs-screenshotting/"><u>[Updated] Detailed Review on VLC's Screenshotting</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/digital-audio-revolution-from-srt-to-xmlssattml/"><u>Digital Audio Revolution From SRT to XML/SSA/TTML</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhance-productivity-through-mematics-tools/"><u>Enhance Productivity Through Mematic's Tools</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-vivo-x100-pro-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Vivo X100 Pro online without jailbreak</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-asus-rog-phone-7-ultimate-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Asus ROG Phone 7 Ultimate to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigate-job-landscape-6-chatgpt-techniques-for-success/"><u>Navigate Job Landscape: 6 ChatGPT Techniques for Success</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-through-deceptive-bingchatgpt-crypto-tokens-how-to-detect-and-avoid-risks/"><u>Navigating Through Deceptive BingChatGPT Crypto Tokens: How to Detect and Avoid Risks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-through-nvidias-ai-foundations-insights-into-its-custom-generative-tech-and-user-accessibility/"><u>Navigating Through NVIDIA's AI Foundations – Insights Into Its Custom Generative Tech & User Accessibility</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/outmaneuvering-fraudgpts-deception-be-vigilant-online/"><u>Outmaneuvering FraudGPT's Deception - Be Vigilant Online</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/reviving-past-conversations-with-chatgpt-a-step-by-step-guide/"><u>Reviving Past Conversations with ChatGPT: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/seamless-worldwide-engagement-with-chatgpt/"><u>Seamless Worldwide Engagement with ChatGPT</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-solution-for-ds4-controller-errors-in-windows-successful-driver-reinstallation-tips/"><u>Step-by-Step Solution for DS4 Controller Errors in Windows – Successful Driver Reinstallation Tips</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-future-of-smart-doorbells-a-detailed-review-of-google-nest-hello-with-facial-recognition-and-package-sensing/"><u>The Future of Smart Doorbells: A Detailed Review of Google Nest Hello with Facial Recognition & Package Sensing</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/troubleshoot-your-printers-spooler-error-with-expert-tips-from-yl-software-experts/"><u>Troubleshoot Your Printer's Spooler Error with Expert Tips From YL Software Experts</u></a></li>
 </ul></div>
 

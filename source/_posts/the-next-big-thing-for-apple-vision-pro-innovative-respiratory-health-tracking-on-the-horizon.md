@@ -1,7 +1,7 @@
 ---
 title: The Next Big Thing for Apple Vision Pro? Innovative Respiratory Health Tracking on the Horizon
-date: 2024-12-12T18:23:24.629Z
-updated: 2024-12-13T21:09:31.502Z
+date: 2024-12-15T20:19:58.002Z
+updated: 2024-12-22T21:27:54.515Z
 tags:
   - apple
 categories:
@@ -28,6 +28,10 @@ If anything, the latest iOS 18.1 betas with Apple Intelligence features have bee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The annual upgrade ritual
 
 Every year, my wife and I eagerly await the release of the new iPhones. Being part of [Apple's Upgrade Program](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fiphone%2Fiphone-upgrade-program&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), we return our devices, reset our loan with Citizens Bank, and acquire the latest model. Over the past few years, I have opted for the [Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fiphone-15-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), and my wife has chosen the [base model](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fiphone-15%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). The expected annual improvements have been incremental but appreciated. 
@@ -35,7 +39,7 @@ Every year, my wife and I eagerly await the release of the new iPhones. Being pa
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
@@ -63,7 +67,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## New hardware leaks: what to expect from the iPhone 16
@@ -83,7 +87,7 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
@@ -95,7 +99,7 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
@@ -113,10 +117,6 @@ Apple could achieve this by equipping MacOS, iOS, and iPadOS with Apple Intellig
 Enterprises may also employ a mobile device management solution to facilitate access to on-device LLMs with business Macs. Additionally, iPhones or Macs could be used as proxies for Apple Watch or HomePod requests for mobile users. We may also see a more powerful Apple TV with more onboard memory and processing to act as an Apple Intelligence "hub" for every Apple device in a household.
 
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## I'm still optimistic
 
@@ -158,15 +158,19 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-dive-deep-into-time-lapse-creation-using-samsung-gear/"><u>[New] In 2024, Dive Deep Into Time-Lapse Creation Using Samsung Gear</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/anticipating-cyber-risks-apples-enhanced-protections-for-imessage-as-featured-by-zdnet/"><u>Anticipating Cyber Risks: Apple's Enhanced Protections for iMessage as Featured by ZDNet</u></a></li>
-<li><a href="https://win-community.techidaily.com/easy-file-deletion-tips-for-windows-users-master-the-skill-with-yls-quick-fixes/"><u>Easy File Deletion Tips for Windows Users - Master the Skill with YL's Quick Fixes</u></a></li>
-<li><a href="https://article-files.techidaily.com/enlightening-epics-and-epochs-the-leading-storytelling-institutions-top-8-for-2024/"><u>Enlightening Epics and Epochs The Leading Storytelling Institutions (Top 8) for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-quick-and-easy-fb-video-access-choose-from-these-5-chromium-tools/"><u>In 2024, Quick and Easy FB Video Access Choose From These 5 Chromium Tools</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/in-depth-analysis-of-the-new-iphone-15-why-its-a-must-have-for-power-users-and-prospects-digitalinsights/"><u>In-Depth Analysis of the New iPhone 15: Why It's a Must-Have for Power Users and Prospects | DigitalInsights</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209886338-9781071507124-liderazgo-ganar-respeto-y-hacer-las-cosas/"><u>Liderazgo: Ganar Respeto Y Hacer Las Cosas | Free Book</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mode/"><u>Mode</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-latest-upgrade-for-apple-enthusiasts-how-the-new-camera-button-on-iphone-16-models-enhances-photography-digital-trends-analysis/"><u>The Latest Upgrade for Apple Enthusiasts: How the New Camera Button on iPhone 16 Models Enhances Photography | Digital Trends Analysis</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-fixes-for-among-us-continuous-crash-issues/"><u>Top Fixes for 'Among Us' Continuous Crash Issues</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-standard-youtube-license-vs-creative-commons/"><u>[New] In 2024, Standard YouTube License Vs. Creative Commons</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-get-more-from-tiny-screens-top-6-youtube-shorts-downloader-apps/"><u>2024 Approved Get More From Tiny Screens Top 6 YouTube Shorts Downloader Apps</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bing-chat-vs-chatgpt-for-freelancers-evaluate-with-8-key-considerations/"><u>Bing Chat Vs. ChatGPT for Freelancers: Evaluate with 8 Key Considerations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-source-usage-scrutinized-a-look-at-accusations-of-content-theft/"><u>ChatGPT Source Usage Scrutinized: A Look at Accusations of Content Theft</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chrome-plugin-mimicking-chatgpt-compromises-facebook-usernames-and-passwords/"><u>Chrome Plugin Mimicking ChatGPT Compromises Facebook Usernames and Passwords</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/convert-and-download-mp4-mkv-avi-to-wavmp3-for-free-with-movavis-web-based-tool/"><u>Convert and Download MP4, MKV, AVI to WAV/MP3 for Free with Movavi's Web-Based Tool</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/crack-the-ransomware-code-for-just-050-mobile-strategies-and-chatgpt-insights-shared-in-our-exclusive-podcast/"><u>Crack the Ransomware Code for Just $0.50 - Mobile Strategies & ChatGPT Insights Shared in Our Exclusive Podcast!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-truthgpt-coin-understanding-its-value-and-potential-risks-to-avoid-frauds/"><u>Decoding TruthGPT Coin: Understanding Its Value and Potential Risks to Avoid Frauds</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/delving-into-functionality-the-process-behind-7-leading-gpt-4-enhanced-applications/"><u>Delving Into Functionality: The Process Behind 7 Leading GPT-4 Enhanced Applications</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/embed-presentation-asset-as-video-feature/"><u>Embed Presentation Asset as Video Feature</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-zte-blade-a73-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from ZTE Blade A73 5G to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-selection-of-top-5-best-android-photo-apps/"><u>In 2024, The Ultimate Selection of Top 5 Best Android Photo Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/taming-the-taskbar-quick-navigation-via-system-tray-keys/"><u>Taming the Taskbar: Quick Navigation via System Tray Keys</u></a></li>
 </ul></div>
 

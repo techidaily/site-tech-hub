@@ -1,7 +1,7 @@
 ---
 title: Discover How to Identify If Someone's Using an AirTag for Surveillance – Expert Tips From ZDNet
-date: 2024-12-02T17:55:06.934Z
-updated: 2024-12-07T19:23:46.716Z
+date: 2024-12-17T19:31:09.074Z
+updated: 2024-12-22T17:39:53.351Z
 tags:
   - apple
 categories:
@@ -36,6 +36,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to know if an AirTag is tracking you
 
 **What you'll need:** To get help locating an unwanted AirTag, you'll need an [iPhone](https://www.zdnet.com/article/best-iphone/) or an [Android phone](https://www.zdnet.com/article/best-android-phone/). We detail below what it looks like on an iPhone when an AirTag tracks you.
@@ -56,10 +60,6 @@ This can also happen with other Find My Network accessories, like [AirPods](http
 This is the notification you get when your iPhone notices an AirTag is moving with you.
 
 Apple
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Check that your Tracking Notifications are on
 
@@ -106,7 +106,7 @@ If an AirTag is moving with you, you should be able to check the Find My app _(M
 Screenshot: Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. If you find an AirTag that doesn't belong to you, check its information
@@ -123,10 +123,6 @@ Tapping an Apple AirTag with an NFC-enabled smartphone will let you see its info
 
 Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Disable the AirTag
 
 Disabling an AirTag means the owner will no longer be able to see its current location or get updates for it. 
@@ -138,10 +134,14 @@ Maria Diaz/ZDNET
 If you're concerned about unwanted tracking or fear for your safety, take screenshots throughout this process, including the device's serial number and owner's information, contact local law enforcement, and give the disabled AirTag to authorities.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQs
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to find out if an AirTag is tracking me on Android?
 
@@ -161,6 +161,10 @@ AirTags don't have [GPS](https://www.zdnet.com/article/best-gps-trackers-and-dev
 
 With so many Apple devices worldwide, Apple's Find My network has become very reliable. Each Apple device is a node that grows the network, so a lost AirTag can transmit an accurate location without GPS if it's near Find My devices. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How long does an AirTag battery last?
 
 AirTag batteries are designed to last over a year. These trackers use a CR2032 lithium 3V coin battery that is easily replaceable by twisting open the AirTag. If you're the AirTag's owner, your iPhone will alert you when the battery needs to be replaced.
@@ -176,10 +180,6 @@ Yes, other Bluetooth trackers may or may not be compatible with the Find My netw
 **Also: [Attention Apple AirTag users: Don't ignore this warning](https://www.zdnet.com/article/attention-apple-airtag-users-dont-ignore-this-warning/)**
 
 Apple's Find My network isn't the only one with this feature. If a Samsung Tag is found moving with you, you'll also get a notification. Google's newer Find My feature also gives you alerts when an unknown Bluetooth tracker is found moving with you.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How do I stop an Apple AirTag from tracking me?
 
@@ -229,19 +229,17 @@ Although someone else won't be able to track your AirTag, they can hear it if it
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-all-about-youtube-micro-videos-for-2024/"><u>[Updated] All About YouTube Micro Videos for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-the-ultimate-guide-to-effective-instagram-tagging-with-these-top-25-hashes-for-2024/"><u>[Updated] The Ultimate Guide to Effective Instagram Tagging with These Top 25 Hashes for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-winning-strategies-and-hashtags-for-youtubes-best-freefirers/"><u>[Updated] Winning Strategies & Hashtags for YouTube's Best FreeFirers</u></a></li>
-<li><a href="https://win-able.techidaily.com/defeating-pubg-pc-game-bugs-tips-to-counteract-freezing-and-non-responsive-issues/"><u>Defeating PUBG PC Game Bugs: Tips to Counteract Freezing and Non-Responsive Issues</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/differences-between-copilot-basic-and-premium-versions-to-upgrade-or-not-to-upgrade/"><u>Differences Between Copilot Basic & Premium Versions: To Upgrade or Not to Upgrade?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/evaluating-the-benefits-and-drawbacks-of-chatgpt-plus-a-comprehensive-guide/"><u>Evaluating the Benefits & Drawbacks of ChatGPT Plus: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-cost-free-ai-companions-similar-to-sora/"><u>Exploring Cost-Free, AI Companions Similar to Sora</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-visual-potential-of-chatgpt-with-8-unique-and-practical-ideas/"><u>Exploring the Visual Potential of ChatGPT with 8 Unique and Practical Ideas</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/gaming-revolutionized-learn-and-create-via-chatgpts-my-bot-features/"><u>Gaming Revolutionized: Learn & Create via ChatGPT's My Bot Features</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-oneplus-ace-2-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On OnePlus Ace 2 Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6s-plus-to-other-iphone-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6s Plus To Other iPhone devices? | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/immerse-in-imagery-top-10-sticker-apps-for-appleandroid-users/"><u>Immerse in Imagery – Top 10 Sticker Apps for Apple/Android Users</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-tips-for-truly-tuning-into-your-iphone-podcasts/"><u>In 2024, Tips for Truly Tuning Into Your iPhone Podcasts</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-ultimate-insights-for-successful-short-video-creation-for-2024/"><u>The Ultimate Insights for Successful Short Video Creation for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/boosting-gearsports-frame-rate-tactics/"><u>Boosting Gearsports Frame Rate Tactics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-between-iphone-16-pro-and-14-pro-is-the-newest-model-worth-it-expert-review/"><u>Choosing Between iPhone 16 Pro and 14 Pro: Is the Newest Model Worth It? - Expert Review</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficiently-refreshing-wireless-drivers-on-pcs/"><u>Efficiently Refreshing Wireless Drivers on PCs</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lava-yuva-2-pro-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Lava Yuva 2 Pro Phone with Broken Screen</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/spotlight-on-leading-ai-hardware-technologies-shaping-tomorrow/"><u>Spotlight on Leading AI Hardware Technologies Shaping Tomorrow</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/storytelling-mastery-unleashed-with-chatgpt-tips-and-tricks/"><u>Storytelling Mastery Unleashed with ChatGPT – Tips and Tricks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-dangers-of-phony-chatgpt-plugins-protecting-your-social-media-access-points-on-chrome/"><u>The Dangers of Phony 'ChatGPT' Plugins: Protecting Your Social Media Access Points on Chrome</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-fallacy-of-relying-on-ai-for-safe-key-crafting/"><u>The Fallacy of Relying on AI for Safe Key Crafting</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-role-of-ai-in-advancing-or-compromising-mental-support-systems-an-analysis/"><u>The Role of AI in Advancing or Compromising Mental Support Systems: An Analysis</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-unleash-your-creativity-best-hand-drawing-whiteboard-animation-tools-2023-for-2024/"><u>Updated Unleash Your Creativity Best Hand Drawing Whiteboard Animation Tools 2023 for 2024</u></a></li>
 </ul></div>
 

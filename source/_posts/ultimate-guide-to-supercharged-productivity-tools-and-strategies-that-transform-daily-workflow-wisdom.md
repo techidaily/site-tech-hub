@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide to Supercharged Productivity: Tools and Strategies That Transform Daily Workflow Wisdom"
-date: 2024-12-11T19:15:32.683Z
-updated: 2024-12-13T21:13:05.703Z
+date: 2024-12-20T18:58:45.349Z
+updated: 2024-12-22T22:03:41.158Z
 tags:
   - apple
 categories:
@@ -24,10 +24,6 @@ Before I take you through both the tools and my "process," let me point out that
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### See also
 
 [The 6 best to-do list apps: Get organized What is the best to-do list app? Any.do! But ZDNet reviewed all the top picks to help you organize and liberate your life.  Read now](https://www.zdnet.com/article/best-to-do-list-app/)
@@ -35,6 +31,10 @@ Before I take you through both the tools and my "process," let me point out that
 Today, I coordinate with teams, rather than manage them. I have students rather than employees. I research projects rather than launch products. My daily productivity flow reflects the changes in career as I've evolved from founder to advisor, manager to professor, and publisher to columnist. 
 
 I use a tremendous number of tools for my projects, and they often change from project to project. But what I'm going to discuss here are the tools I use on a daily basis to manage my "flow". 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What do I mean by my flow?
 
@@ -61,10 +61,6 @@ In any case, what that means is that instead of my escalating ranking of phones,
 ## Tools for my daily flow
 
 Now that you understand how my working environment has changed and how I structure my work day, let's discuss the tools I use in my daily flow. It all starts with Gmail... 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## First morning Gmail
 
@@ -93,7 +89,7 @@ At this point, I tend to take note of what's in my inbox, but I neither process 
 I also take a quick look at my calendar and my to-do list to make sure I know what's on deck for the day. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Daily must-reads with Pocket
@@ -125,7 +121,7 @@ Part of my morning flow is posting to the social networks. Unfortunately, this h
 But Facebook broke that. Facebook no longer allows tools like Buffer and [Hootsuite](https://hootsuite.com/) to to post to personal Facebook pages. I've spent years building up my personal Facebook page following and don't want to start a corporate page (or orphan all my followers), so when Facebook broke auto-posting, it hurt. Now, I hand post to Twitter and then do it again on Facebook. LinkedIn gets a lot less attention, and, frankly, I post less frequently. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Featured reviews
@@ -142,6 +138,10 @@ Rinse, wash, repeat.
 I'm relatively holistic about my morning reading process. I do it until I'm bored or hungry, or feel like switching gears and moving on to managing my email and schedule. 
 
 The key point to all of this is that ever since I moved to this Pocket-read-post-archive cycle for my daily reading, my productivity and flexibility has gone up tremendously. I'm getting more done, and the quality of the process is far more pleasant. I'm no longer tied to my desktop browser, because all of these tools work on all my devices. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Connecting and scheduling
 
@@ -165,10 +165,6 @@ Now, to be fair, I have a slight email fetish, so I do check back in to my inbox
 
 In fact, now that I have email notifications integrated into my watch, I'm finding I'm actually breaking myself of the habit, because unless I hear the notification tone, I don't have any important emails coming in. I have actually gone a few hours without checking my email inbox, which is something of a record for me. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Managing my daily teaching opportunities
 
 As it turns out, supporting users is a lot like teaching online students.
@@ -182,6 +178,10 @@ Help Scout also has great team features, but I'm a programming army of one.
 I just think of those users like more of my students. If any questions show up in my inbox, I go into the ticketing system and answer questions. I'm not assigning users letter grades, but otherwise the process is pretty much the same. 
 
 By the way, this is also a great way to think about users, which I initially was a bit unhappy about adding to my daily workload. But the reframe is this: I'm an educator and these are more people in need of assistance while they're learning to use these plugins. So, rather than thinking about providing user support as an added workload, I think of the users as more of my students and their questions as simply more teaching opportunities. It's also a great way to keep up on what people are doing out there, and gives me a much more "on the street" dialog with users, which is invaluable as a tech journalist.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Featured
 
@@ -243,7 +243,7 @@ Finally, there's Planner Tentative. This is where I block out the approximate ti
 With this system, I rarely lose track of projects and also rarely overbook myself. It's worked quite well for a bunch of years now.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Rethinking your flow
@@ -275,20 +275,24 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-top-10-cost-free-video-chat-apps-on-ios-and-android/"><u>[New] In 2024, Top 10 Cost-Free Video Chat Apps on iOS & Android</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-the-complete-guide-to-recording-flawless-zoom-based-podcasts-for-2024/"><u>[New] The Complete Guide to Recording Flawless Zoom-Based Podcasts for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-powerpoint-and-voice-a-seamless-journey-explored/"><u>[Updated] PowerPoint and Voice A Seamless Journey Explored</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/digital-jesters-from-notebooks-to-vpn-guardians-in-action/"><u>Digital Jesters: From Notebooks to VPN Guardians in Action</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/forget-rice-apple-recommends-these-methods-to-revive-your-wet-smartphone-exclusive-guide-by-zdnet/"><u>Forget Rice, Apple Recommends These Methods to Revive Your Wet Smartphone | Exclusive Guide by ZDNET</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-find-out-if-an-airtag-is-tracking-you-zdnet/"><u>How to Find Out if an AirTag Is Tracking You | ZDNET.</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fortified-process-for-adding-tiktok-profile-hyperlinks/"><u>In 2024, Fortified Process for Adding TikTok Profile Hyperlinks</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/inter-service-shuffle-keeping-playlist-purity/"><u>Inter-Service Shuffle Keeping Playlist Purity</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/preserve-and-disguise-effective-ways-to-hide-chatgpt-messages-effortlessly/"><u>Preserve and Disguise: Effective Ways to Hide ChatGPT Messages Effortlessly</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/small-yet-powerful-the-latest-m4-mac-mini-compares-to-apple-tv/"><u>Small Yet Powerful: The Latest M4 Mac Mini Compares to Apple TV</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/swift-screen-capture-with-your-idevice-for-2024/"><u>Swift Screen Capture with Your iDevice for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-10-cutting-edge-technology-presents-explore-the-latest-by-zdnet/"><u>Top 10 Cutting-Edge Technology Presents - Explore the Latest by ZDNet</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-xiaomi-redmi-note-12-pro-4g-by-drfone-android/"><u>Top 10 Password Cracking Tools For Xiaomi Redmi Note 12 Pro 4G</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/upcoming-marchapril-launch-date-revealed-for-ipads-what-to-expect-according-to-zdnet/"><u>Upcoming March/April Launch Date Revealed for iPads : What to Expect, According to ZDNet</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/upgrade-or-not-a-detailed-analysis-of-ipad-air-4-versus-ipad-air-5-features-and-performance-digital-world-insights/"><u>Upgrade or Not? A Detailed Analysis of iPad Air 4 Versus iPad Air 5 Features and Performance | Digital World Insights</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-from-live-to-legacy-preserving-facebook-events-for-2024/"><u>[New] From Live to Legacy Preserving Facebook Events for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-unparalleled-strategies-for-virtual-session-recording-for-2024/"><u>[New] Unparalleled Strategies for Virtual Session Recording for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-cheap-pc-screenshot-and-recording-software-guide/"><u>[Updated] 2024 Approved Cheap PC Screenshot & Recording Software Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-construct-humor-memes-via-adobe/"><u>[Updated] Construct Humor Memes via Adobe</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-unlock-fb-success-with-professional-360-video-tips/"><u>[Updated] Unlock FB Success with Professional 360 Video Tips</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-journey-to-discovering-your-personal-youtube-musical-realm/"><u>2024 Approved Journey to Discovering Your Personal Youtube Musical Realm</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/differences-between-gpt-4-variants-understanding-gpt-4-gpt-4-turbo-and-gpt-4o/"><u>Differences Between GPT- 4 Variants: Understanding GPT-4, GPT-4 Turbo and GPT-4o</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/dissecting-language-leaders-googles-palm-2-vs-gpt-4/"><u>Dissecting Language Leaders: Google's PaLM 2 Vs. GPT-4</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/efficient-chatgpt-engagement-in-multilingual-scenarios/"><u>Efficient ChatGPT Engagement in Multilingual Scenarios</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-personal-training-discover-8-powerful-chatgpt-plugins-for-wellness-coaching/"><u>Elevate Personal Training: Discover 8 Powerful ChatGPT Plugins for Wellness Coaching</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/engage-in-confidential-dialogue-experience-the-future-of-private-messaging-with-duckduckgo-and-chatgpt-integration/"><u>Engage in Confidential Dialogue - Experience the Future of Private Messaging with DuckDuckGo and ChatGPT Integration</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhance-your-ai-experience-discover-5-key-ways-to-implement-chatgpts-tailored-directives/"><u>Enhance Your AI Experience: Discover 5 Key Ways to Implement ChatGPT's Tailored Directives</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancing-your-social-media-presence-a-guide-to-writing-effective-posts-using-chatgpt/"><u>Enhancing Your Social Media Presence: A Guide to Writing Effective Posts Using ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/explore-these-6-powerful-ai-tools-as-affordable-options-to-replace-gpt-3/"><u>Explore These 6 Powerful AI Tools as Affordable Options to Replace GPT-3!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-huggingchat-an-affordable-open-source-chatbot-option-like-chatgpt/"><u>Exploring HuggingChat - An Affordable, Open Source Chatbot Option Like ChatGPT</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-samsung-galaxy-xcover-6-pro-tactical-edition-by-fonelab-android-recover-messages/"><u>How To Restore Missing Messages Files from Samsung Galaxy XCover 6 Pro Tactical Edition</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-freeze-entire-browser-display/"><u>In 2024, Freeze Entire Browser Display</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-vivo-y100-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Vivo Y100 Through Google Earth?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ssionalizing-your-youtube-income-with-universal-tech-tips-for-2024/"><u>Professionalizing Your YouTube Income with Universal Tech Tips for 2024</u></a></li>
 </ul></div>
 

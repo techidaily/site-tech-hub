@@ -1,7 +1,7 @@
 ---
 title: Top 7 Effective Techniques for Mastering AI Prompt Engineering
-date: 2024-08-29T01:17:42.552Z
-updated: 2024-08-30T01:17:42.552Z
+date: 2024-12-21T00:17:25.096Z
+updated: 2024-12-22T19:24:18.391Z
 tags:
   - chatgpt
   - open-ai
@@ -54,20 +54,15 @@ thumbnail: https://thmb.techidaily.com/aa427c93a364e264a275d02d7b783f7e962d85c1f
 ![An itinerary generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-06-24.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  However, I wanted to get further information that wasn't included. So, I asked for hotel recommendations within a customized budget:
 
 ![An expanded answer with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-11-12.png)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  As a general rule of thumb, ask as many questions as you feel necessary to get all the information you're looking for. You may also want to determine[whether premium AI prompts are worth the money](https://www.makeuseof.com/should-you-buy-ai-prompts/) .
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3 Explain What Hasn't Worked When You've Prompted in the Past
 
  As you use AI prompting more frequently, you'll get a better idea of what does and doesn't work for you. You'll also learn which prompts are useful and which ones confuse the tool that you're using. Once you've become more familiar with AI, make sure that you clearly outline what hasn't worked before.
@@ -80,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/aa427c93a364e264a275d02d7b783f7e962d85c1f
 
 ![chatgpt logo and message on smartphone feature](https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002a35f04201c966ce7066b460.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Ascannio/[Shutterstock](https://www.shutterstock.com/image-photo/chatgpt-chat-bot-screen-seen-on-2237655785)
 
 [Avoiding common mistakes when using AI prompting tools](https://www.makeuseof.com/mistakes-generative-ai-tools/) isn't always easy, but one of the main issues you'll encounter is trying to make the tool multitask. AI programs will often generate your results within a few minutes, but they can only do one thing at a time. If you try to ask too many things in one go, you won't get the results you want.
@@ -89,8 +88,9 @@ thumbnail: https://thmb.techidaily.com/aa427c93a364e264a275d02d7b783f7e962d85c1f
  Once you've received one prompt's results, you can move on to the next one until you're happy with everything. Doing things this way might seem more time-consuming, but[single-tasking often improves productivity](https://www.makeuseof.com/master-single-tasking-using-technology-improve-productivity/) , and it's the same for your AI, too.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5 Tell Your AI Tool What You Don't Want in Your Answer
 
  Do you remember in our first point when we told you to be as specific as possible? This also means you should let your AI tool know what you don't want in your answers. While generative AI can produce some pretty cool results, it can't guess everything for you.
@@ -99,14 +99,11 @@ thumbnail: https://thmb.techidaily.com/aa427c93a364e264a275d02d7b783f7e962d85c1f
 
 ![Answer options from ChatGPT, based on what the user did and didn't want ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-38-46.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
  Sometimes, your AI tool will give you multiple options in your answers. You can then choose whichever one works best for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6 Upload Images or Files (if Available)
 
@@ -116,6 +113,10 @@ No advertising on the website.
 
 [Some AI tools can even answer questions from your PDFs](https://www.makeuseof.com/ai-tools-answer-pdf/) if you want to get more clarity.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7 Mention Where You Want to Use Your Prompt Answers
 
  Sometimes, the results your AI prompts generate won't be useful for the place you want to use them. For example, if you want to create a post for Instagram, you probably don't want your tool to provide huge bodies of text. On the other hand, you might want something more formal if you're going to[improve your LinkedIn profile with AI](https://www.makeuseof.com/linkedin-how-to-improve-profile-with-ai/) .
@@ -124,19 +125,13 @@ No advertising on the website.
 
 ![A LinkedIn post generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-54-04.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
  AI prompting takes some time to become competent with, and you'll need to adjust how you type depending on the tool you use and the information you wish to extract. The good news, however, is that you normally only need small tweaks to make your prompts deliver better results. Having read this guide, you should now be in a much better place to prompt more efficiently.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -145,4 +140,20 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-elevating-user-experience-in-windows-11/"><u>[New] 2024 Approved Elevating User Experience in Windows 11</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-enhancing-professionalism-blurring-teambackgrounds-effectively/"><u>[New] In 2024, Enhancing Professionalism Blurring TeamBackgrounds Effectively</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-the-strategy-behind-automatic-youtube-playback-on-fb/"><u>[New] The Strategy Behind Automatic YouTube Playback on FB</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-convert-youtube-to-mp3-in-3-ways-safe/"><u>[Updated] 2024 Approved How to Convert YouTube to MP3 in 3 Ways [Safe]</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-simplified-processes-generating-your-podcasts-rss-feed-for-2024/"><u>[Updated] Simplified Processes Generating Your Podcast's RSS Feed for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/apples-upcoming-subtle-but-powerful-ai-innovation-revealed-at-wwdc-the-hidden-gem-of-tech/"><u>Apple's Upcoming Subtle but Powerful AI Innovation Revealed at WWDC: The Hidden Gem of Tech</u></a></li>
+<li><a href="https://win-blog.techidaily.com/clearing-up-the-out-of-video-memory-problem-in-fortnite-effective-strategies/"><u>Clearing Up the 'Out of Video Memory' Problem in Fortnite: Effective Strategies</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-the-ultimate-list-facebooks-top-10-vids/"><u>In 2024, The Ultimate List Facebook's Top 10 Vids</u></a></li>
+<li><a href="https://fox-access.techidaily.com/rhythmic-revelations-songs-that-will-echo-yes/"><u>Rhythmic Revelations Songs That Will Echo 'Yes'</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-impactful-role-of-artificial-intelligence-in-content-making/"><u>The Impactful Role of Artificial Intelligence in Content Making</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-three-faces-of-ai-unveiling-the-variations-between-public-private-and-personal-ais/"><u>The Three Faces of AI: Unveiling the Variations Between Public, Private, and Personal AIs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-twin-question-which-ai-wins/"><u>The Twin Question: Which AI Wins?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-5-strategies-for-crafting-impactful-prompts-with-chatgpt-for-optimal-ai-responses/"><u>Top 5 Strategies for Crafting Impactful Prompts with ChatGPT for Optimal AI Responses</u></a></li>
+</ul></div>
 

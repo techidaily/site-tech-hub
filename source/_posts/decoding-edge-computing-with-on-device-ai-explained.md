@@ -1,7 +1,7 @@
 ---
 title: Decoding Edge Computing with On-Device AI Explained
-date: 2024-08-29T01:17:56.464Z
-updated: 2024-08-30T01:17:56.464Z
+date: 2024-12-16T20:09:00.851Z
+updated: 2024-12-22T16:04:23.734Z
 tags:
   - chatgpt
   - open-ai
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/e83f983f9af6b6adf732e263161638d4efc710da8
  For this week's show, we asked ChatGPT to help out with outlining and even writing the show. Here's a bit more information on[how we used ChatGPT to script the podcast](https://www.makeuseof.com/i-used-chatgpt-to-script-a-podcast-heres-what-happened/) .
 
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Shownotes
 
@@ -44,14 +48,11 @@ We finish the show with the following recommendations:
 
  Christian Cawley hosts this week's podcast, and is joined by Ben Stegner. You can contact them on Twitter:[@thegadgetmonkey](https://twitter.com/thegadgetmonkey) and[@stegnersaurus](https://twitter.com/stegnersaurus) , with your suggestions for future topics.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -60,8 +61,18 @@ We finish the show with the following recommendations:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-unveiling-the-art-of-digital-broadcasting-in-real-time-for-2024/"><u>[New] Unveiling the Art of Digital Broadcasting in Real Time for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-demystifying-video-seo-on-youtube-as-a-novice/"><u>[Updated] In 2024, Demystifying Video SEO on YouTube as a Novice</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-premiere-pro-exposure-corrections-to-fix-overlit-iphone-videos/"><u>2024 Approved Premiere Pro Exposure Corrections to Fix Overlit iPhone Videos</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/t-friendly-video-recorder-sets-top-11-picks-for-2024/"><u>Budget-Friendly Video Recorder Sets Top 11 Picks for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-lava-yuva-3-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Lava Yuva 3 Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/expert-perspectives-how-10-worldwide-technology-innovators-view-ai/"><u>Expert Perspectives: How 10 Worldwide Technology Innovators View AI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/explore-private-and-smart-chatting-utilize-duckduckgos-ai-tools-and-chatgpt-features-for-secure-communication/"><u>Explore Private and Smart Chatting: Utilize DuckDuckGo’s AI Tools & ChatGPT Features for Secure Communication</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-functionality-of-a-chatgpt-code-interpreter-its-critical-role-unveiled/"><u>Exploring the Functionality of a ChatGPT Code Interpreter: Its Critical Role Unveiled</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/flight-frontier-forward-why-upgrade-to-copilot-pro/"><u>Flight Frontier Forward: Why Upgrade to Copilot Pro?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-script-to-soundscape-using-chatgpt-in-podcast-production/"><u>From Script to Soundscape: Using ChatGPT in Podcast Production</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-the-ultimate-list-15-best-apps-to-create-cartoon-avatars-on-mobile/"><u>Updated In 2024, The Ultimate List 15 Best Apps to Create Cartoon Avatars on Mobile</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

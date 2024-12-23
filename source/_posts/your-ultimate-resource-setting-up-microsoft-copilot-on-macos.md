@@ -1,7 +1,7 @@
 ---
 title: "Your Ultimate Resource: Setting Up Microsoft Copilot on macOS"
-date: 2024-08-29T01:21:24.063Z
-updated: 2024-08-30T01:21:24.063Z
+date: 2024-12-17T22:49:13.341Z
+updated: 2024-12-22T16:13:54.680Z
 tags:
   - chatgpt
   - open-ai
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/90c2e01727fc918de7950373ab7790d2b6bd79b92
 * [Copilot Offers DALL-E Image Generation for Free](https://www.makeuseof.com/reasons-to-use-copilot-instead-of-chatgpt/#copilot-offers-dall-e-image-generation-for-free)
 * [Copilot Is Integrated Into the Larger Microsoft Ecosystem](https://www.makeuseof.com/reasons-to-use-copilot-instead-of-chatgpt/#copilot-is-integrated-into-the-larger-microsoft-ecosystem)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Copilot offers GPT-4 for free, outmatching ChatGPT's GPT-3.5 in power and depth.
@@ -30,29 +34,28 @@ thumbnail: https://thmb.techidaily.com/90c2e01727fc918de7950373ab7790d2b6bd79b92
 
  ChatGPT has dominated the AI chatbot space, and rightfully so. But competing products like Microsoft's Copilot are entering the fray with enticing features, and there are a good few reasons you should give Copilot a try over ChatGPT.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Copilot Offers GPT-4 for Free
 
 ![gpt-4 logo with google and bing logos on smartphone screen feature](https://thmb.techidaily.com/2df210d64d34d4b3dc09759541c3c9d53d18577f1202b54d6fbdf849bf81ed68.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
  Image Credit: Tada Images/[Shutterstock](https://www.shutterstock.com/image-photo/portland-usa-mar-16-2023-microsoft-2276149235)
 
  ChatGPT offers the older, less capable GPT-3.5 AI model on its free tier. The more advanced GPT-4 model is slapped behind a $20 per month[ChatGPT Plus subscription plan](https://www.makeuseof.com/reasons-you-should-upgrade-chatgpt-plus/) . While GPT-3.5 is a powerful AI model in its own right, it doesn't compare to the power and depth you get with GPT-4.
 
  Microsoft Copilot offers GPT-4 for free, alongside other features like Custom GPTs and plugins (the latter being discontinued on ChatGPT in April 2024). If you don't really need a ChatGPT-specific feature, the choice is simple. You can get access to undeniably one of the most advanced AI models for free on Copilot, or you can pay $20 to use the same model on the ChatGPT platform.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Copilot Has Better Internet Access and Search
 
 ![Copilot Internet access](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/copilot-internet-access.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To be clear, both Copilot and[ChatGPT can access the internet](https://www.makeuseof.com/what-chatgpt-accessing-up-to-date-information-means/) . However, you can only do that with a ChatGPT premium plan. You'd have to pay at least $20 a month to access live internet data if you use ChatGPT. With Copilot, on the other hand, you can access the internet with a free account—you don't even need an account to access the internet on Copilot. However, it is not just whether either model can access the internet that matters; an important factor is how they use the internet access.
 
  As someone who has used ChatGPT and Copilot extensively, I can say that Copilot's approach to synthesizing internet data is far superior to ChatGPT. Copilot is better at deciding when to use its training data to answer a question and when to access the internet to get the answer. This might seem trivial, but it can be the difference between getting an up-to-date response and an outdated one.
@@ -60,15 +63,13 @@ thumbnail: https://thmb.techidaily.com/90c2e01727fc918de7950373ab7790d2b6bd79b92
  It is worth pointing out that Copilot, initially released as Bing AI, was built as a search engine. This means by default, the AI chatbot is looking at the larger internet for information. ChatGPT, on the other hand, relies heavily on training data. As a result, Copilot is the better option when performing tasks that require up-to-date information or citing sources.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Copilot Offers DALL-E Image Generation for Free
 
 ![microsoft copilot in edge browser feb 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/microsoft-copilot-in-edge-browser-feb-2024.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
  Have you picked up on the pattern yet? If not, let me spell it out. Microsoft seems to be on a mission to one-up OpenAI at every turn. They're taking the premium features that make ChatGPT so enticing and putting its own spin on them, offering them up for free through their Copilot service. Access to the DALL-E image generator is just one such feature.
 
  With ChatGPT, you need to pay for one of the premium tiers to access the DALL-E image generator. But with Copilot, Microsoft is opening the gates, letting users create stunning AI images using the same DALL-E model without payment.
@@ -76,22 +77,20 @@ thumbnail: https://thmb.techidaily.com/90c2e01727fc918de7950373ab7790d2b6bd79b92
  Of course, there's also the issue with ChatGPT's GPT-4 usage caps, which limits the number of times you can prompt the model for text and image generation. Copilot is more liberal on this front, offering users the ability to generate significantly more images with the DALL-E image generator than with ChatGPT.
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Copilot Is Integrated Into the Larger Microsoft Ecosystem
 
  An equally important advantage Copilot has over ChatGPT is how tightly it has been woven into the larger Microsoft ecosystem. This helps to create a seamless and cohesive experience that gives it an edge over standalone AI chatbots like ChatGPT. For users already accustomed to Microsoft's suite of productivity tools and services, Copilot's deep integration means using the tool in the Microsoft ecosystem will feel like a natural extension of the workflow they're already familiar with.
 
  Ultimately, the choice between Copilot and ChatGPT depends on your specific needs and preferences. If you're primarily looking for an AI chatbot to take on heavy-duty tasks like data analysis, image manipulation, or detailed creative writing and are willing to pay for it, ChatGPT may still be the better option. However, if you enjoy some of ChatChatGPT's features, up-to-date information, and a tightly integrated experience within the Microsoft ecosystem—without necessarily having to pay for it—then Copilot could be the way to go.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -100,4 +99,24 @@ thumbnail: https://thmb.techidaily.com/90c2e01727fc918de7950373ab7790d2b6bd79b92
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ed-implementing-custom-overlays-in-youtube-videos-for-2024/"><u>[Updated] Implementing Custom Overlays in YouTube Videos for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-seeking-solutions-why-no-facebook-videos-pop-up-in-2024/"><u>[Updated] Seeking Solutions Why No Facebook Videos Pop Up, In 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-monetizing-your-passion-from-youtube-gamer-to-entrepreneur/"><u>2024 Approved Monetizing Your Passion From YouTube Gamer to Entrepreneur</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-realme-11-5g-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Realme 11 5G to Protect Your Individual Information</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-iphone-14-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14 When We Dont Have Apple ID or Password?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-oneplus-nord-ce-3-5g-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 OnePlus Nord CE 3 5G Android SIM Unlock APK</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-best-watermark-free-video-joiners-for-seamless-edits/"><u>New Best Watermark-Free Video Joiners for Seamless Edits</u></a></li>
+<li><a href="https://extra-support.techidaily.com/rethinking-wirecast-choices-for-2024/"><u>Rethinking WireCast Choices for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionizing-online-discovery-how-artifice-intelligence-alters-website-visibility/"><u>Revolutionizing Online Discovery: How Artifice Intelligence Alters Website Visibility</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/smartphone-evolution-the-top-8-android-and-ios-ai-apps/"><u>Smartphone Evolution: The Top 8 Android & iOS AI Apps</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tailored-ai-by-nvidia-how-it-works-and-who-benefits/"><u>Tailored AI by NVIDIA: How It Works & Who Benefits</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tailoring-ai-to-yourselves-a-how-to-for-unique-prose/"><u>Tailoring AI to Yourselves: A How-To for Unique Prose</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-inner-workings-of-gpt-eall-a-detailed-walkthrough/"><u>The Inner Workings of GPT-eAll: A Detailed Walkthrough</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-insightful-overview-what-is-hugving-face-used-for/"><u>The Insightful Overview: What Is Hugving Face Used For?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-talking-trend-le-chat-ai-vs-chatgpt/"><u>The Talking Trend: Le Chat AI vs ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-list-of-top-free-ai-platforms-for-designing-photos-and-graphics/"><u>The Ultimate List of Top Free AI Platforms for Designing Photos and Graphics</u></a></li>
+</ul></div>
 

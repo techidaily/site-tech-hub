@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Walkthrough to Setting Up and Utilizing ChatGPT Plugins
-date: 2024-08-29T01:21:19.780Z
-updated: 2024-08-30T01:21:19.780Z
+date: 2024-12-20T16:51:18.205Z
+updated: 2024-12-22T19:21:04.199Z
 tags:
   - chatgpt
   - open-ai
@@ -65,11 +65,9 @@ Whereas, ChatGPT appears to believe that 2022 lies in the future!
 ![Screenshot of ChatGPT answering baseball question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-answering-baseball-question.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## Summarizing Articles
 
  You can use URLs to "force" both tools to access more current data. We tested this ability by asking them to summarize a MakeUseOf article on[remotely accessing Android phones](https://www.makeuseof.com/tag/can-i-control-a-phone-with-my-computer-android/) . In the first instance, we provided the URL.
@@ -81,6 +79,10 @@ Whereas, ChatGPT appears to believe that 2022 lies in the future!
  The HuggingChat response wasn't bad but lacked some of the detail covered by ChatGPT.
 
 ![Screenshot of HuggingChat summarzing MUO article-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-huggingchat-summarzing-muo-article-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To test this ability further, we asked a similar question without entering the URL and using an article that was only published (it was "[What Are IPFS Phishing Attacks](https://www.makeuseof.com/what-are-ipfs-phishing-attacks-and-how-to-avoid-them) ," for reference). Again, both tools managed this admirably, as the images demonstrate.
 
@@ -95,8 +97,9 @@ HuggingChat's summary looked like this:
  There isn't much difference between the two tools here, so let's see how they compare when we test them for creativity.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## HuggingChat vs. ChatGPT: How Do They Compare Creatively?
 
  Although surrounded by controversy, the ability to create creative works is perhaps one of the most useful aspects of AI chatbots. However, we will sidestep the moral and ethical implications and put the tools head-to-head in a creative clash of the chatbots.
@@ -111,14 +114,12 @@ And this was HuggingChat's.
 
 ![Screenshot HuggingChat love song](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-huggingchat-love-song.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Shakespeare himself would be impressed with both of these!
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Security and Privacy
 
  Security and privacy are general concerns surrounding generative AI. There are[definite security concerns with ChatGPT](https://www.makeuseof.com/does-chatgpt-have-security-risks-or-issues/) , but it is fair to say that most of these concerns apply to most chatbots, including HuggingChat.
@@ -132,8 +133,9 @@ Shakespeare himself would be impressed with both of these!
  One thing to note is that HuggingChat seems to work fine with an account. This is useful if you want to minimize the privacy risks associated with the platforms.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Which Is Best: HuggingChat or ChatGPT?
 
  As you can see from the tests, there is no easy answer. ChatGPT had a definite edge when summarizing articles, whereas HuggingChat had the advantage when you compare how current the training data is.
@@ -147,8 +149,9 @@ Shakespeare himself would be impressed with both of these!
  Ultimately, the choice between them will likely be driven more by user requirements than user preferences. As the tools are free and quick to access, checking both out is not a great hassle.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Are You a Hugger or a Chatter?
 
  These tools represent the future of human and machine interaction. Both are incredibly powerful, and it wasn't so long ago that the thought of having such tools at your fingertips would have seemed inconceivable.
@@ -157,14 +160,11 @@ Shakespeare himself would be impressed with both of these!
 
  What these show us is that AI has reached a point of critical momentum. Tools such as HuggingChat and ChatGPT will continue to develop and improve, and no doubt, many others will follow.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -173,4 +173,24 @@ Shakespeare himself would be impressed with both of these!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unleash-creativity-best-free-video-editor-apps-android-edition/"><u>[New] Unleash Creativity Best Free Video Editor Apps, Android Edition</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-efficient-use-of-vlc-for-media-creation/"><u>2024 Approved Efficient Use of VLC for Media Creation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-comprehensive-guide-to-swapping-out-your-mobile-devices-shield-panel/"><u>A Comprehensive Guide to Swapping Out Your Mobile Device's Shield Panel</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-deep-dive-into-facebooks-evolution-why-it-resonates-with-users-and-the-fundamentals-you-need-to-know/"><u>A Deep Dive Into Facebook's Evolution: Why It Resonates with Users & The Fundamentals You Need to Know</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/affordably-secure-your-phone-understand-ransomware-and-meet-ai-ally-chatgpt-in-our-exclusive-talk/"><u>Affordably Secure Your Phone: Understand Ransomware & Meet AI Ally ChatGPT in Our Exclusive Talk!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-conversationalists-face-off-determining-superiority-between-chatgpt-and-huggingchat/"><u>AI Conversationalists Face-Off: Determining Superiority Between ChatGPT and HuggingChat</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beginners-guide-to-ai-learning-together-in-these-9-clusters/"><u>Beginner's Guide to AI: Learning Together in These 9 Clusters</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/behind-the-scenes-producing-my-podcast-episode-using-chatgpts-assistance-insights-and-outcomes/"><u>Behind the Scenes: Producing My Podcast Episode Using ChatGPT's Assistance - Insights and Outcomes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bringing-the-future-home-gpt-4-for-crafters/"><u>Bringing the Future Home: GPT-4 for Crafters</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/building-knowledge-not-just-text/"><u>Building Knowledge, Not Just Text</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/charting-the-course-of-ais-emotional-comprehension/"><u>Charting the Course of AI's Emotional Comprehension</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-and-confidentiality-understanding-the-importance-of-secure-information-sharing/"><u>ChatGPT and Confidentiality: Understanding the Importance of Secure Information Sharing</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/fast-guide-retrieving-user-data-from-your-pcs-storage-in-windows-1011/"><u>Fast Guide: Retrieving User Data From Your PC's Storage in Windows 10/11</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/how-to-share-vimeo-video-online/"><u>How to Share Vimeo Video Online</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Nokia C12? | Dr.fone</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/1728471953435-jpg3/"><u>JPG画像の自由な復旧:3つの戦略</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-does-your-ps5-say-about-older-ps4-game-compatibility/"><u>What Does Your PS5 Say About Older PS4 Game Compatibility?</u></a></li>
+</ul></div>
 

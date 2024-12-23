@@ -1,7 +1,7 @@
 ---
 title: "Freelancing with Finesse: The Right & Wrong Way to Use ChatGPT for Writing Projects"
-date: 2024-08-29T01:21:38.668Z
-updated: 2024-08-30T01:21:38.668Z
+date: 2024-12-20T17:41:44.968Z
+updated: 2024-12-22T17:51:10.300Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/c572e526911ff13873cfea2690ee252e9ff11a89c
 
  The apps are available now via the Play Store and App Store, although you do have to join the waiting list to try out the chatbot functionality if you don't have access already.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## AI-Powered Bing Comes to Mobile
 
  Microsoft has been going all-in on AI recently. The[ChatGPT-enabled version of Bing](https://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/) caused a storm online as it threatens to[totally change how we search the internet](https://www.makeuseof.com/is-chatgpt-search-engine-threat/) .
@@ -27,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/c572e526911ff13873cfea2690ee252e9ff11a89c
 
 ![bing and skype with chatgpt enhanced](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-and-skype-with-chatgpt-enhanced.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image Credit:[Microsoft](https://blogs.microsoft.com/blog/2023/02/22/the-new-bing-preview-experience-arrives-on-bing-and-edge-mobile-apps-introducing-bing-now-in-skype/)
 
  The Bing app has a whole new look, and perhaps the most interesting part is that it now supports voice to help make your prompts and searches even more intuitive.
@@ -34,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/c572e526911ff13873cfea2690ee252e9ff11a89c
  You get started by tapping the Bing icon at the bottom of the screen to begin a chat session. Your responses come in the form of text, bullet points, or simple replies, and you can use it for more than just search.[Microsoft suggests](https://blogs.microsoft.com/blog/2023/02/22/the-new-bing-preview-experience-arrives-on-bing-and-edge-mobile-apps-introducing-bing-now-in-skype/) you might use it to write emails or poems, for example.
 
  The chatbot is also built into the Edge browser, where you can access it via the homepage.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Skype Gets AI Features
 
@@ -44,9 +56,9 @@ thumbnail: https://thmb.techidaily.com/c572e526911ff13873cfea2690ee252e9ff11a89c
  To access this feature, you simply need to add Bing to your group chats as you would any other contact. It's available worldwide and can respond in over 100 languages.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Use the New ChatGPT Bing Apps
 
  If you haven't already got access to the new Bing chatbot, you'll have to[join the waitlist](https://www.makeuseof.com/try-bing-ai-powered-search-engine/) before you can start using it. To do this, just install one of the apps and follow the on-screen prompts. Microsoft says it has given access to more than a million users across 169 countries so far, with more added every day.
@@ -58,9 +70,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 **Download:** Skype for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2022079/https://play.google.com/store/apps/details?id=com.skype.raider) |[iOS](https://apps.apple.com/us/app/skype/id304878510) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Test Out AI Chat on Android and iPhone Today
 
  It was only a matter of time before AI chatbots made the move to mobile. The new version of Bing has certainly shaken up the industry—although it hasn't been without controversy.
@@ -69,14 +81,11 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  And in its mobile form, it is still very much a search tool, so is not something that's going to be replacing Google Assistant, Siri, Bixby, or any other voice assistant any time soon.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -85,4 +94,19 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-fpv-fantasy-a-closer-look-at-the-hubsan-h501x4-for-2024/"><u>[New] FPV Fantasy A Closer Look at the Hubsan H501X4 for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-skyrocket-to-your-youtube-audience-goal-1kplus/"><u>[New] In 2024, Skyrocket to Your YouTube Audience Goal 1K+</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-time-saving-tips-for-documenting-virtual-meeting-events/"><u>[Updated] 2024 Approved Time-Saving Tips for Documenting Virtual Meeting Events</u></a></li>
+<li><a href="https://win11.techidaily.com/demystifying-windows-update-failure-code-0xca00a009/"><u>Demystifying Windows Update Failure Code: 0XCA00A009</u></a></li>
+<li><a href="https://extra-information.techidaily.com/establishing-value-driven-partnerships-with-brand-sponsors-in-youtubesphere/"><u>Establishing Value-Driven Partnerships with Brand Sponsors in Youtubesphere</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-7-alternative-ai-programming-helpers-like-chatgpt/"><u>Exploring 7 Alternative AI Programming Helpers Like ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-potential-risks-in-chatgpt-a-security-perspective/"><u>Exploring Potential Risks in ChatGPT: A Security Perspective</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-twitters-new-feature-ax-drops-and-checkmarks/"><u>Exploring Twitter's New Feature: Ax Drops & Checkmarks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/five-student-driven-uses-for-ai-tutor-chatgpt/"><u>Five Student-Driven Uses for AI Tutor: ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/four-key-methods-governments-use-to-oversee-artificnial-intelligence-technologies/"><u>Four Key Methods Governments Use to Oversee Artificnial Intelligence Technologies</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-oppo-a18-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Oppo A18 For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-unexpected-app-halts-in-cod-modern-warfare-3-fix-guide/"><u>Overcoming Unexpected App Halts in COD Modern Warfare 3 - Fix Guide</u></a></li>
+</ul></div>
 

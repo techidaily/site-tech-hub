@@ -1,7 +1,7 @@
 ---
 title: "The End of ChatGPT Freedom: Understanding Why Jailbreaking Is No Longer Effective"
-date: 2024-08-29T01:17:39.934Z
-updated: 2024-08-30T01:17:39.934Z
+date: 2024-12-21T22:43:00.597Z
+updated: 2024-12-22T17:17:41.362Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/250f73dd4b9929867a630f9b8f32aa45e2b59d5ca
 
  OpenAI's advanced chatbot may have reinvigorated the public's interest in artificial intelligence, but few have seriously contemplated the potential security risks associated with this product.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ChatGPT: Security Threats and Issues
 
  The technology underpinning ChatGPT and other chatbots may be similar, but ChatGPT is in a category of its own. This is great news if you intend to use it as a kind of personal assistant, but worrying if you consider that threat actors also use it.
@@ -29,9 +33,17 @@ thumbnail: https://thmb.techidaily.com/250f73dd4b9929867a630f9b8f32aa45e2b59d5ca
 
  This just underscores how important it is to[limit what you share with ChatGPT](https://www.makeuseof.com/shouldnt-trust-chatgpt-confidential-data/) , which collects a staggering amount of data by default. Tech behemoth Samsung learned this the hard way, when a group of employees who had been using the chatbot as an assistant accidentally leaked confidential information to it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is ChatGPT a Threat to Your Privacy?
 
 ![ChatGPT logo on green background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-threat.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Security and privacy are not one and the same](https://www.makeuseof.com/privacy-anonymity-security-mean/) , but they are closely related and often intersect. If ChatGPT is a security threat, then it is also a threat to privacy, and vice versa. But what does this mean in more practical terms? What are ChatGPT's security and privacy policies like?
 
@@ -40,8 +52,9 @@ thumbnail: https://thmb.techidaily.com/250f73dd4b9929867a630f9b8f32aa45e2b59d5ca
  In any case, you should be careful when using ChatGPT, especially[if you use it for work](https://www.makeuseof.com/things-you-can-do-with-chatgpt) , or to process sensitive information. As a general rule of thumb, you should not share with the bot what you wouldn't like the public to know.
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Addressing the Security Risks Associated With ChatGPT
 
  Artificial intelligence will be regulated at some point, but it's difficult to imagine a world in which it doesn't pose a security threat. Like all technology, it can—and will—be abused.
@@ -51,22 +64,20 @@ thumbnail: https://thmb.techidaily.com/250f73dd4b9929867a630f9b8f32aa45e2b59d5ca
  This will radically transform security as we know it. But as Malwarebytes also noted, ChatGPT and similar tools can be used by cybersecurity professionals as well; for example to look for bugs in software, or "suspicious patterns" in network activity.
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Raising Awareness Is Key
 
  What will ChatGPT be capable of five or 10 years from now? We can only speculate, but what we do know for sure is that artificial intelligence is not going anywhere.
 
  As even more advanced chatbots emerge, entire industries will have to adjust and learn how to use them responsibly. This includes the cybersecurity industry, which is already being shaped by AI. Raising awareness about the security risks associated with AI is key, and will help ensure these technologies are developed and used in an ethical way.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -75,4 +86,22 @@ thumbnail: https://thmb.techidaily.com/250f73dd4b9929867a630f9b8f32aa45e2b59d5ca
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-photoperfect-optimizing-visuals-and-videos-in-instagram/"><u>[New] PhotoPerfect Optimizing Visuals and Videos in Instagram</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-filmmakers-ally-unlocking-youtube-studio-editor-secrets/"><u>[Updated] The Filmmaker's Ally Unlocking YouTube Studio Editor Secrets</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/6-chatgpt-prompt-mistakes-to-avoid/"><u>6 ChatGPT Prompt Mistakes to Avoid</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722209119086-chatgpt-now-on-ios-download-the-cutting-edge-ai-assistant-today/"><u>ChatGPT Now On iOS - Download the Cutting-Edge AI Assistant Today</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-enabledisable-network-discovery-feature-on-windows-10/"><u>Guide: Enable/Disable Network Discovery Feature on Windows 10</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-vivo-s17-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Vivo S17</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-did-you-know-cameras-have-a-built-in-feature-to-shoot-slow-motion-clips-this-article-is-about-using-sony-sandq-to-capture-slow-motion-scenes-for-2024/"><u>New Did You Know Cameras Have a Built-In Feature to Shoot Slow-Motion Clips? This Article Is About Using Sony S&Q to Capture Slow-Motion Scenes for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-the-ultimate-list-of-meme-creation-apps-for-mobile-for-2024/"><u>New The Ultimate List of Meme Creation Apps for Mobile for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-nokia-c12-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Nokia C12 FRP Bypass</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-ai-prompt-injection-attacks-how-do-they-function/"><u>Understanding AI Prompt Injection Attacks: How Do They Function?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/universal-gpt-mastery-for-cross-boundary-communication/"><u>Universal GPT Mastery for Cross-Boundary Communication</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-creativity-how-chatgpt-enhances-content-production-in-9-ways/"><u>Unlocking Creativity: How ChatGPT Enhances Content Production in 9 Ways</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unmasking-false-projections-in-artificial-intelligence-outputs/"><u>Unmasking False Projections in Artificial Intelligence Outputs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/verse-vanguard-showdown-bards-chatbots-and-wooly-companions/"><u>Verse Vanguard Showdown: Bards, ChatBots & Wooly Companions</u></a></li>
+</ul></div>
 

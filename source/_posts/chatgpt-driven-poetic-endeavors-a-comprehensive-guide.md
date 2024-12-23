@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT-Driven Poetic Endeavors: A Comprehensive Guide"
-date: 2024-08-29T01:17:14.666Z
-updated: 2024-08-30T01:17:14.666Z
+date: 2024-12-22T00:20:06.691Z
+updated: 2024-12-22T16:35:15.252Z
 tags:
   - chatgpt
   - open-ai
@@ -43,11 +43,16 @@ thumbnail: https://thmb.techidaily.com/75040013d17be0726faccbc397c3b3541c1732db6
 
 ![A gym routine generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-12-59-46.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The more context you provide your AI tool, the better of a response you'll receive.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2 Ask for More Information After Getting an Initial Answer
 
  As you use tools like ChatGPT more frequently, you'll quickly learn that the first answer you get shouldn't always be taken as is. In the same way that you'd ask a person further questions to get more information out of them, you should do the same when prompting with AI.
@@ -62,10 +67,6 @@ thumbnail: https://thmb.techidaily.com/75040013d17be0726faccbc397c3b3541c1732db6
 
  As a general rule of thumb, ask as many questions as you feel necessary to get all the information you're looking for. You may also want to determine[whether premium AI prompts are worth the money](https://www.makeuseof.com/should-you-buy-ai-prompts/) .
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ## 3 Explain What Hasn't Worked When You've Prompted in the Past
 
  As you use AI prompting more frequently, you'll get a better idea of what does and doesn't work for you. You'll also learn which prompts are useful and which ones confuse the tool that you're using. Once you've become more familiar with AI, make sure that you clearly outline what hasn't worked before.
@@ -74,13 +75,14 @@ thumbnail: https://thmb.techidaily.com/75040013d17be0726faccbc397c3b3541c1732db6
 
  Besides mentioning what hasn't worked for you when prompting in the past, you may also wish to outline anything that has not worked with what you're trying to do. For example, if you're putting together a new workout regimen, you may want to talk about which foods you've noticed you have a negative reaction to before.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 Don't Make Your AI Multitask
 
 ![chatgpt logo and message on smartphone feature](https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002a35f04201c966ce7066b460.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Ascannio/[Shutterstock](https://www.shutterstock.com/image-photo/chatgpt-chat-bot-screen-seen-on-2237655785)
 
 [Avoiding common mistakes when using AI prompting tools](https://www.makeuseof.com/mistakes-generative-ai-tools/) isn't always easy, but one of the main issues you'll encounter is trying to make the tool multitask. AI programs will often generate your results within a few minutes, but they can only do one thing at a time. If you try to ask too many things in one go, you won't get the results you want.
@@ -88,6 +90,10 @@ thumbnail: https://thmb.techidaily.com/75040013d17be0726faccbc397c3b3541c1732db6
  Sometimes, you'll begin a prompt and realize you forgot to add further information. When this happens, stop or edit the current prompt and include those details before re-generating your answer.
 
  Once you've received one prompt's results, you can move on to the next one until you're happy with everything. Doing things this way might seem more time-consuming, but[single-tasking often improves productivity](https://www.makeuseof.com/master-single-tasking-using-technology-improve-productivity/) , and it's the same for your AI, too.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5 Tell Your AI Tool What You Don't Want in Your Answer
 
@@ -97,23 +103,8 @@ thumbnail: https://thmb.techidaily.com/75040013d17be0726faccbc397c3b3541c1732db6
 
 ![Answer options from ChatGPT, based on what the user did and didn't want ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-38-46.png)
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Sometimes, your AI tool will give you multiple options in your answers. You can then choose whichever one works best for you.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6 Upload Images or Files (if Available)
 
  Uploading images or files will often make your AI prompts much more effective. For example, if you want to[create a one-page resume with AI](https://www.makeuseof.com/create-one-page-resume/) , it's worth uploading an existing PDF and getting feedback. You can use several plugins to get better responses, especially if you use ChatGPT. One example is[Resume by jobbright.ai](https://chat.openai.com/g/g-MrgKnTZbc-resume) .
@@ -123,8 +114,9 @@ thumbnail: https://thmb.techidaily.com/75040013d17be0726faccbc397c3b3541c1732db6
 [Some AI tools can even answer questions from your PDFs](https://www.makeuseof.com/ai-tools-answer-pdf/) if you want to get more clarity.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7 Mention Where You Want to Use Your Prompt Answers
 
  Sometimes, the results your AI prompts generate won't be useful for the place you want to use them. For example, if you want to create a post for Instagram, you probably don't want your tool to provide huge bodies of text. On the other hand, you might want something more formal if you're going to[improve your LinkedIn profile with AI](https://www.makeuseof.com/linkedin-how-to-improve-profile-with-ai/) .
@@ -135,14 +127,11 @@ thumbnail: https://thmb.techidaily.com/75040013d17be0726faccbc397c3b3541c1732db6
 
  AI prompting takes some time to become competent with, and you'll need to adjust how you type depending on the tool you use and the information you wish to extract. The good news, however, is that you normally only need small tweaks to make your prompts deliver better results. Having read this guide, you should now be in a much better place to prompt more efficiently.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -151,4 +140,23 @@ thumbnail: https://thmb.techidaily.com/75040013d17be0726faccbc397c3b3541c1732db6
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-best-10-zero-cost-video-collaboration-platforms-for-enterprises-and-education-for-2024/"><u>[New] Best 10 Zero-Cost Video Collaboration Platforms For Enterprises & Education for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ro-video-editing-selections-for-social-media-for-2024/"><u>[New] Pro Video Editing Selections for Social Media for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-tips-for-optimizing-facebooks-auto-play-videos/"><u>[New] Tips for Optimizing Facebook's Auto-Play Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/creating-compelling-content-using-windows-movie-maker-in-windows-8-os/"><u>Creating Compelling Content Using Windows Movie Maker in Windows 8 OS</u></a></li>
+<li><a href="https://discover-help.techidaily.com/effortless-methods-to-transform-your-tumblr-content-into-mp4mp3-files-with-ease/"><u>Effortless Methods to Transform Your Tumblr Content Into MP4/MP3 Files with Ease</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-swipes-to-conversations-gpt-in-love-seeking/"><u>From Swipes to Conversations: GPT in Love Seeking</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/future-proofing-your-mp4s-srt-integration-hacks/"><u>Future-Proofing Your MP4s SRT Integration Hacks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/guide-leveraging-chatgpts-recommendations-for-your-next-movie-or-show/"><u>Guide: Leveraging ChatGPT's Recommendations for Your Next Movie or Show</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/guide-updating-toshiba-satellite-device-drivers-using-windows/"><u>Guide: Updating Toshiba Satellite Device Drivers Using Windows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/harnessing-vocal-power-top-strategies-to-manage-chatgpt-by-speaking/"><u>Harnessing Vocal Power: Top Strategies to Manage ChatGPT by Speaking</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-does-ai-driven-chatbot-screening-influence-user-experience/"><u>How Does AI-Driven Chatbot Screening Influence User Experience?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-secure-is-your-data-with-chatgpt-assessing-the-privacy-concerns/"><u>How Secure Is Your Data with ChatGPT: Assessing the Privacy Concerns</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-supercharge-your-scholarly-studies-the-impact-of-artificial-intelligence-in-academia/"><u>How to Supercharge Your Scholarly Studies: The Impact of Artificial Intelligence in Academia</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-use-chatgpt-for-virtual-team-meetings/"><u>How to Use ChatGPT for Virtual Team Meetings</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-xmlssattml-to-srt-actionable-insights-for-media-professionals/"><u>In 2024, XML/SSA/TTML-to-SRT Actionable Insights for Media Professionals</u></a></li>
+<li><a href="https://common-error.techidaily.com/unraveling-error-0x80004005-a-step-by-step-troubleshooting-guide/"><u>Unraveling Error 0X80004005 - A Step-by-Step Troubleshooting Guide</u></a></li>
+</ul></div>
 

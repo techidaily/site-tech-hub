@@ -1,7 +1,7 @@
 ---
 title: Uncover Apple's New Tech Magic for iPhone/iPad/Mac with This Fall’s Revolutionary Updates Including Artificial Intelligence | Expert Analysis
-date: 2024-12-11T17:31:26.447Z
-updated: 2024-12-13T20:12:07.713Z
+date: 2024-12-16T22:48:52.882Z
+updated: 2024-12-22T16:52:49.717Z
 tags:
   - apple
 categories:
@@ -61,7 +61,7 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -71,6 +71,10 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -91,7 +95,7 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -109,7 +113,7 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -133,10 +137,6 @@ Adam Breeden/ZDNET
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## VisionOS 2
 
 Jason Hiner/ZDNET
@@ -155,7 +155,7 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -210,14 +210,16 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-a-list-to-remember-reddits-highly-endorsed-top-threads/"><u>[New] A List to Remember Reddit’s Highly Endorsed Top Threads</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-approach-to-uncovering-favorite-youtube-remarks/"><u>2024 Approved Step-by-Step Approach to Uncovering Favorite YouTube Remarks</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-poker-playpersonalized-projections/"><u>In 2024, POKER PLAYPERSONALIZED PROJECTIONS</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/push-the-boundaries-of-snapchat-choose-from-these-best-edits-for-2024/"><u>Push the Boundaries of Snapchat Choose From These Best Edits for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/the-essential-meme-blueprint-building-impactful-gifs-for-2024/"><u>The Essential Meme Blueprint Building Impactful GIFs for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-premier-selection-of-chatbot-initiation-prompts-curated-from-githubs-best-contributions/"><u>The Premier Selection of Chatbot Initiation Prompts Curated From GitHub's Best Contributions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-ultimate-ai-companion-chatgpt-for-a-healthier-happier-you/"><u>The Ultimate AI Companion: ChatGPT for a Healthier, Happier You</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-7-revolutionary-ai-mathematical-assistants-tackling-numbers-with-ease/"><u>Top 7 Revolutionary AI Mathematical Assistants: Tackling Numbers with Ease</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-8-ways-embracing-ai-empowers-teachers-and-enhances-learning-experiences/"><u>Top 8 Ways Embracing AI Empowers Teachers and Enhances Learning Experiences</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-how-to-start-and-sustain-an-indie-podcast-hit/"><u>[New] 2024 Approved How to Start & Sustain an Indie Podcast Hit</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-from-hundreds-to-millions-a-youtube-growth-journey/"><u>[Updated] From Hundreds to Millions A YouTube Growth Journey</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-high-definition-horizons-comparing-ultrawide-and-uhd-4k-monitors/"><u>[Updated] In 2024, High-Definition Horizons Comparing UltraWide and UHD 4K Monitors</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-pivotal-moments-top-20-anime-themes/"><u>[Updated] Pivotal Moments Top 20 Anime Themes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723010758664-getting-your-discord-overlay-back-up-and-running-in-no-time/"><u>Getting Your Discord Overlay Back Up & Running in No Time</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-the-sound-solutions-for-non-responsive-sony-headphones-on-your-computer/"><u>Revive the Sound: Solutions for Non-Responsive Sony Headphones on Your Computer</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transform-your-messaging-setting-up-microsoft-bing-chatbot-on-android-devices/"><u>Transform Your Messaging: Setting Up Microsoft Bing Chatbot on Android Devices</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transform-your-mobile-interactions-with-these-7-advanced-options-over-chatgpt/"><u>Transform Your Mobile Interactions with These 7 Advanced Options over ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/uncover-new-reads-using-cutting-edge-ai-recommender-services/"><u>Uncover New Reads Using Cutting-Edge AI Recommender Services</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-fraudgpt-essential-strategies-for-self-protection-against-the-risky-ai/"><u>Understanding FraudGPT: Essential Strategies for Self-Protection Against the Risky AI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-the-power-of-chatgpt-for-seamless-language-translation-services/"><u>Unlocking the Power of ChatGPT for Seamless Language Translation Services</u></a></li>
 </ul></div>
 

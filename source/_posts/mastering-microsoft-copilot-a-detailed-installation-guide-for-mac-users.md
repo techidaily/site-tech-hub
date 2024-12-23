@@ -1,7 +1,7 @@
 ---
 title: "Mastering Microsoft Copilot: A Detailed Installation Guide for Mac Users"
-date: 2024-08-29T01:17:20.131Z
-updated: 2024-08-30T01:17:20.131Z
+date: 2024-12-16T21:00:03.401Z
+updated: 2024-12-22T17:55:22.252Z
 tags:
   - chatgpt
   - open-ai
@@ -48,17 +48,14 @@ To add ChatGPT as a Windows app using Edge:
 
 ![uninstall chatgpt edge app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-chatgpt-edge-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Press the**Win** key and type**ChatGPT** .
 2. Right-click on the app icon and**Uninstall.**
 3. Click**Uninstall** again to confirm the action.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ## How to Add ChatGPT as a Windows App Using Chrome
 
  Similar to Microsoft Edge, Chrome features a Create shortcut feature. You can add any site as a shortcut to use it as a native app. Here’s how to add ChatGPT as a shortcut using Chrome.
@@ -70,9 +67,6 @@ No advertising on the website.
 4. Enter a name in the**Create shortcut** popup.  
 ![chatgpt create chrome shortcut create](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-create-chrome-shortcut-create.jpg)
 5. Select the**Open as window** option. Without this, the ChatGPT shortcut will open the site in a new Chrome window instead of in its standalone window.
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Click**Create** to finish.
 
  You can open the ChatGPT Chrome shortcut from the Start menu. Right-click on the Shortcut to add it to the Start menu and taskbar.
@@ -81,6 +75,10 @@ No advertising on the website.
 
 ![uninstall chrome shortcut chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-chrome-shortcut-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Press the**Win** key and type**ChatGPT** .
 2. Right-click on the**ChatGPT** icon and select**Uninstall** .
 3. In the**Control Panel** window, locate and select**ChatGPT** .
@@ -88,9 +86,6 @@ No advertising on the website.
 
  In addition to this, you can[install websites as desktop apps on Windows](https://www.makeuseof.com/websites-desktop-apps-windows/) using tools like WebCatalog. It allows you to turn web pages into desktop apps, organize them, and even switch between multiple accounts without logging out.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Run ChatGPT Natively Using an Unofficial Project
 
 ![chat gpt github unofficial project running on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chat-gpt-github-unofficial-project-running-on-windows.jpg)
@@ -104,9 +99,11 @@ Here’s how to run the unofficial ChatGPT project on Windows:
 1. Go to the[ChatGPT unofficial GitHub page](https://github.com/lencx/ChatGPT) .  
 ![chat gpt github unofficial project](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chat-gpt-github-unofficial-project.jpg)
 2. Scroll down to the Windows section and click on the**.msi installer** download link for the**Direct download installer** . On Microsoft Edge, Windows Defender Screen Filter may temporarily block the download and prompt you to confirm whether you trust the file. To allow the download, click on**Show more,** and then the**three-dots** **menu** . Next, select**Keep** to download the installer. To be on the safer side, you can[scan the installer using an online virus scanning tool](https://www.makeuseof.com/check-suspicious-file-malware/) to find any traces of malware.
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. Next, run the installer and follow the on-screen instructions to complete the installation.
 4. Once installed, launch the app and log in with your ChaptGPT credentials, and you can start generating responses.
 
@@ -121,8 +118,9 @@ Here’s how to run the unofficial ChatGPT project on Windows:
 ![uninstall chatgpt unofficial client](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/uninstall-chatgpt-unofficial-client.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 1. Press**Win + I** to open**Settings** .
 2. Next, open the**Apps** tab and click**Installed Apps** .
 3. Search for the ChatGPT app, click the**three-dots** menu next to the app name and select**Uninstall** .
@@ -130,22 +128,20 @@ Here’s how to run the unofficial ChatGPT project on Windows:
  Once done, you might also want to delete the setup file from the Downloads folder in File Explorer.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Install ChatGPT as a Windows App
 
  Adding ChatGPT as a Windows app lets you access the app in a standalone window. This removes the hassle of visiting the site frequently to use the service.
 
  In addition, it also removes the clutter around the web apps and browsers and offers a clean user interface with only necessary options.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -154,4 +150,16 @@ Here’s how to run the unofficial ChatGPT project on Windows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-navigating-the-world-of-internet-hilarity/"><u>[New] 2024 Approved Navigating the World of Internet Hilarity</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-retro-revelry-exploring-the-ultimate-selection-of-gb-console-emulation-for-pcs/"><u>[New] Retro Revelry Exploring The Ultimate Selection of GB Console Emulation for PCs</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-craft-superior-canon-chrono-series-for-2024/"><u>[Updated] Craft Superior Canon Chrono Series for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-seamless-integration-free-text-animations-both-ways/"><u>[Updated] Seamless Integration Free Text Animations Both Ways</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/15-tips-for-effective-auto-gpt-utilization/"><u>15 Tips for Effective Auto-GPT Utilization</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/determining-film-production-price-points/"><u>Determining Film Production Price Points</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-bert-model-an-exploration-of-nlp-techniques-vs-gpts-approach/"><u>Unveiling the BERT Model: An Exploration of NLP Techniques Vs. GPT's Approach</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/upgrade-to-copilot-pro-or-stick-with-the-original-the-ultimate-breakdown-of-differences-and-value/"><u>Upgrade to CoPilot Pro or Stick with the Original – The Ultimate Breakdown of Differences and Value</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-choose-claude-artificial-intelligence-for-your-needs/"><u>Why Choose Claude Artificial Intelligence for Your Needs?</u></a></li>
+</ul></div>
 

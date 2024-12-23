@@ -1,7 +1,7 @@
 ---
 title: "Celebrate Presidents' Day with Unbeatable Savings: Snag Your 2023 M2 MacBook Air for an Incredible $300 Discount"
-date: 2024-12-09T16:44:22.210Z
-updated: 2024-12-13T21:41:43.025Z
+date: 2024-12-20T20:39:36.216Z
+updated: 2024-12-22T17:32:19.387Z
 tags:
   - apple
 categories:
@@ -34,7 +34,7 @@ ZDNET editor-in-chief Jason Hiner says the pair are the most easily recommendabl
 If you're ready to replace that old pair of wired earbuds with one of our favorite wireless earbuds, you might as well hop on this [second-generation AirPods Pro deal](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D1XD1ZV3%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6a967f3d-7d3f-4fdf-b579-d62f551f1b28%7Cdtp&dtb=1). But act fast -- the discount won't last long. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,20 +81,19 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-the-ultimate-tutorial-for-recording-your-fb-chat-history/"><u>[Updated] In 2024, The Ultimate Tutorial for Recording Your FB Chat History</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-spotlight-on-top-trending-tweets-for-2024/"><u>[Updated] Spotlight on Top Trending Tweets for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/apples-smart-speaker-showdown-choosing-between-the-homepod-and-homepod-mini-your-comprehensive-guide-techradar/"><u>Apple's Smart Speaker Showdown: Choosing Between the HomePod and HomePod Mini - Your Comprehensive Guide | TechRadar</u></a></li>
-<li><a href="https://article-posts.techidaily.com/audio-extraction-simplified-with-pazera-tools-in-the-new-era-for-2024/"><u>Audio Extraction Simplified with Pazera Tools in the New Era for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/boost-your-privacy-on-apple-vision-pro-by-installing-a-vpn-expert-tutorial-and-key-benefits-for-users-cybersavvyguide/"><u>Boost Your Privacy on Apple Vision Pro by Installing a VPN: Expert Tutorial & Key Benefits for Users | CyberSavvyGuide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/chuckle-o-meter-starts-with-zero-mememasters-kit-for-2024/"><u>Chuckle-O-Meter Starts with Zero – MemeMasters Kit for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/decoding-the-secrets-of-successful-gaming-with-steam/"><u>Decoding the Secrets of Successful Gaming with Steam</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/encountering-liquids-inside-iphone-charging-dock-here-are-your-solutions/"><u>Encountering Liquids Inside iPhone Charging Dock? Here Are Your Solutions!</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/get-quality-on-a-budget-with-the-lg-24lh4830-smart-tv-reliable-entertainment-for-less/"><u>Get Quality on a Budget with the LG 24LH4830 Smart TV – Reliable Entertainment for Less!</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-merge-folders-and-files-in-windows-10-and-11/"><u>How to Merge Folders and Files in Windows 10 and 11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/labor-day-discount-snag-your-new-ipad-at-only-199-on-amazon-exclusive-deal-covered-by-zdnet/"><u>Labor Day Discount: Snag Your New iPad at Only $199 on Amazon – Exclusive Deal Covered by ZDNet</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/smartphone-camera-battle-royale-pixel-amidst-the-iphone-15s-lens-stunning-results-and-surprising-upset-uncovered-gizmohub/"><u>Smartphone Camera Battle Royale: Pixel Amidst the iPhone 15'S Lens - Stunning Results & Surprising Upset Uncovered | GizmoHub</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ultimate-walkthrough-for-setting-up-an-ipad-fresh-from-the-box-tips-and-tricks-by-zdnet/"><u>Ultimate Walkthrough for Setting Up an iPad Fresh From the Box - Tips & Tricks by ZDNet</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlock-your-ultimate-soccer-experience-with-apple-sport-the-ideal-free-app-for-football-enthusiasts-discover-more-on-zdnet/"><u>Unlock Your Ultimate Soccer Experience with Apple Sport: The Ideal Free App for Football Enthusiasts – Discover More on ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/why-trusting-chatgpt-with-your-text-summarization-might-not-be-ideal-expert-insights/"><u>Why Trusting ChatGPT with Your Text Summarization Might Not Be Ideal: Expert Insights</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-story-remix-windows-10-photos-for-video-editing/"><u>[New] Mastering Story Remix Windows 10 Photos for Video Editing</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-peak-level-illustration-tweaks-for-2024/"><u>[New] Peak Level Illustration Tweaks for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-digital-frontier-assessing-current-vr-landscape/"><u>[New] The Digital Frontier Assessing Current VR Landscape</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-fast-techniques-to-restructure-your-youtube-sequence-for-2024/"><u>[Updated] Fast Techniques to Restructure Your YouTube Sequence for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-navigating-the-world-of-virtual-backgrounds-for-online-media-professionals/"><u>2024 Approved Navigating the World of Virtual Backgrounds for Online Media Professionals</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1721879647934-beware-no-legitimate-chatgpt-app-for-windows-thats-malicious-software/"><u>Beware: No Legitimate ChatGPT App for Windows – That's Malicious Software!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722105563150-chatgpts-ios-application-launched/"><u>ChatGPT's iOS Application Launched</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gb-for-a-continuous-video-watched-daily-for-2024/"><u>GB for a Continuous Video Watched Daily for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-list-of-7-indispensable-software-for-windows-users-explained/"><u>The Ultimate List of 7 Indispensable Software for Windows Users Explained</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210195729-9781953474018-the-voice-of-venus/"><u>The Voice of Venus | Free Book</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-potential-misuse-of-gpt-technology/"><u>Unveiling the Potential Misuse of GPT Technology</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/weighing-the-value-of-gpt-plus/"><u>Weighing the Value of GPT Plus</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/what-drives-sites-to-blockade-gptbot-ai-and-cybersecurity-concerns/"><u>What Drives Sites to Blockade GPTBot? AI & Cybersecurity Concerns</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/write-winning-resumes-fast-leveraging-chatgpt-technology-for-cover-letters/"><u>Write Winning Resumes Fast: Leveraging ChatGPT Technology for Cover Letters</u></a></li>
 </ul></div>
 

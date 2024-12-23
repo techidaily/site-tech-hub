@@ -1,7 +1,7 @@
 ---
 title: Get Ready for an Upgraded Search with Microsoft’s Bing and AI Capabilities
-date: 2024-08-29T01:18:00.291Z
-updated: 2024-08-30T01:18:00.291Z
+date: 2024-12-17T23:54:08.924Z
+updated: 2024-12-22T21:36:42.159Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,10 @@ thumbnail: https://thmb.techidaily.com/da588ad139882f359e01e1480116ed64f1f64c7e5
 
 ## Explore the Power of Artificial Creativity with Microsoft's Bing and DALL-E 3 for Free
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Easily access and use DALL-E 3 for free with Microsoft Bing Chat or Bing Image Creator. No subscription fees or sign-up required.
@@ -27,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/da588ad139882f359e01e1480116ed64f1f64c7e5
 
 ![A half human half robot character generated with DALL-E 3 on Bing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/a-half-human-half-robot-character-generated-with-dall-e-3-on-bing.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Bing is a search engine featuring an AI chat function and an AI Image Creator. Thanks to a partnership with OpenAI, Microsoft was the first company to integrate DALL-E 3 into its products. This means you can use DALL-E 3 for free using either of the features mentioned.
 
 1. Head to[Bing Chat](https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx) or the[Bing Image Creator](https://www.bing.com/create) to start generating images.
@@ -36,20 +44,18 @@ thumbnail: https://thmb.techidaily.com/da588ad139882f359e01e1480116ed64f1f64c7e5
 
  There are plenty more[alternatives to DALL-E 3](https://www.makeuseof.com/ai-text-to-art-generators/) worth checking out, too. Compare them to see which image creator works best for you.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## What Makes DALL-E 3 Special?
 
 ![Four AI-generated images of cats wearing a hat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/four-ai-generated-images-of-cats-wearing-a-hat.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  DALL-E 3 promises to be a step up from its previous versions with improved accuracy, better photorealism capabilities, and more creative images. We've noticed a step up in quality as well, even when our prompts contain very few details.
 
  But the most notable change about DALL-E 3 is that it has been integrated into ChatGPT, OpenAI's powerful AI chatbot. It opens up a whole new way of interacting with the image generator and gives you a fresh way of creating prompts.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Craft a Good DALLE-3 Prompt Using Bing
 
  DALL-E 3 is much easier to use thanks to its integration with GPT-4, the large language model that powers ChatGPT and Microsoft Bing.
@@ -60,9 +66,6 @@ thumbnail: https://thmb.techidaily.com/da588ad139882f359e01e1480116ed64f1f64c7e5
 
 ![DALL-E 2 image of NYC and plants](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-2-image-of-nyc-and-plants.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When we asked if it could add animals to that image it just generated, it couldn't. Instead, it generated new images of just animals.
 
 ![DALL-E 2 prompt for animals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-2-prompt-for-animals.jpg)
@@ -79,17 +82,18 @@ thumbnail: https://thmb.techidaily.com/da588ad139882f359e01e1480116ed64f1f64c7e5
 
 ![DALL-E 3 image of a city overun with animals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-3-image-of-a-city-overun-with-animals.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  With just a small amount of time chatting with DALLE-3 in Bing, we arrived at a really interesting image of New York City if it were overrun by plants and animals. No prompt engineering is required.
 
 ![DALL-E 3 image of a city with animals on top of buildings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-3-image-of-a-city-with-animals-on-top-of-buildings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
+
 ## Limitations of DALL-E 3 and Bing
 
  With no subscription fees or waitlist, you're probably wondering what the catch is.
@@ -102,21 +106,15 @@ thumbnail: https://thmb.techidaily.com/da588ad139882f359e01e1480116ed64f1f64c7e5
 
  But this will be a welcome addition for artists who don't want their images to train DALL-E in the first place. Adding to this, you can now fill in the[OpenAI opt-out form](https://share.hsforms.com/1%5FOuT5tfFSpic89PqN6r1CQ4sk30) to make sure your image doesn't go into the training pool.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ## Don't Wait to Try DALL-E 3; Access It Now With Bing
 
  Head to Bing Chat to try DALL-E 3 for free. Each week, you get free boost credits that make it quick to generate an image. On top of that, you don't need to worry about engineering a prompt any longer, as DALL-E 3 can transform even the most vague request into an interesting AI-generated image.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -125,4 +123,22 @@ thumbnail: https://thmb.techidaily.com/da588ad139882f359e01e1480116ed64f1f64c7e5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-best-asmr-apps-for-android-and-ios-you-should-know/"><u>[New] 2024 Approved Best ASMR Apps for Android and iOS You Should Know</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-social-media-sensation-top-eight-videos/"><u>[New] 2024 Approved Social Media Sensation Top Eight Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-altering-voices-for-a-competitive-edge-in-free-fire/"><u>[Updated] The Ultimate Guide Altering Voices for a Competitive Edge in Free Fire</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-comprehensive-guide-to-using-claude-2/"><u>A Comprehensive Guide to Using Claude 2</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-tale-of-three-ais-diving-into-the-nuances-between-gpt-4-gpt-4-turbo-and-gpt-n-models/"><u>A Tale of Three AIs: Diving Into the Nuances Between GPT-4, GPT-4 Turbo & GPT-N Models</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-revolution-how-chatgpt-might-disrupt-the-workforce-landscape/"><u>AI Revolution: How ChatGPT Might Disrupt the Workforce Landscape</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-assisted-wellbeing-safe-practices-in-counseling/"><u>AI-Assisted Wellbeing: Safe Practices in Counseling</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/artificial-intelligence-and-its-pitfalls-discovering-6-important-concerns-to-consider/"><u>Artificial Intelligence and Its Pitfalls - Discovering 6 Important Concerns to Consider</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bard-vs-chatgpt-vs-offline-alpaca-an-in-depth-comparison-of-llms-to-find-the-best-option-for-you/"><u>Bard Vs. ChatGPT Vs. Offline Alpaca: An In-Depth Comparison of LLMs to Find the Best Option for You</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beware-of-the-treacherous-google-bard-app-malicious-program-lurking-inside/"><u>Beware of the Treacherous Google Bard App: Malicious Program Lurking Inside</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-strategies-for-handling-and-fixing-error-closures-in-your-geforce-application/"><u>Effective Strategies for Handling & Fixing Error Closures in Your GeForce Application</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-edge-computing-and-5g-are-revolutionizing-modern-healthcare-3-breakthrough-trends/"><u>How Edge Computing & 5G Are Revolutionizing Modern Healthcare: 3 Breakthrough Trends</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-honor-magic-6-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Honor Magic 6</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/microsoft-windows-11-to-7-device-issue-fixes-dealing-with-code-24-this-device-is-not-present/"><u>Microsoft Windows 11 to 7 Device Issue Fixes: Dealing with 'Code 24 - This Device Is Not Present'</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: IMessage Communication with Windows PCs - Tips & Tricks Unveiled (ZDNet)
-date: 2024-12-07T21:45:20.984Z
-updated: 2024-12-13T17:17:19.170Z
+date: 2024-12-15T21:44:55.823Z
+updated: 2024-12-23T00:27:02.606Z
 tags:
   - apple
 categories:
@@ -44,6 +44,10 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 
 ## How to send and receive iMessages on Windows
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Use Microsoft Phone Link
 
 Before you can use Phone Link, you'll have to take care of a few items on your phone and your PC.
@@ -62,10 +66,6 @@ Click the Start button, go to All Apps, and select Phone Link from the list. The
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Scan the QR codes
 
 A QR code should appear in the Phone Link app. Launch the camera on your iPhone and scan the code. On your iPhone, tap the link at the bottom of the camera screen to pair your devices. If you can't scan the code for any reason, click the link to continue manually without a QR code and follow those steps.
@@ -77,7 +77,7 @@ You should see pairing prompts on both your iPhone and your Windows 11 computer.
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Sync your iPhone data
@@ -85,6 +85,10 @@ Screenshot by Lance Whitney/ZDNET
 Your phone should ask if you want your PC to receive notifications from your iPhone. Tap Allow to OK this. Go to the Bluetooth settings screen on your phone, tap the Info icon for your computer, and turn on the switches for Show Notifications, Sync Contacts, and Share System Notifications. Doing so will let you fully access and use the apps and data from your phone on your PC, including messages.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Run Phone Link
 
@@ -105,7 +109,7 @@ You can also start a new conversation. To do this, select one of your displayed 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Use Intel Unison
@@ -118,10 +122,6 @@ Launch the app and click the Accept & Continue button. You'll be asked how you'd
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Pair your phone and computer
 
 You should then be asked to pair your phone and PC. Scan the QR code with your phone and tap the link to download and install the Unison mobile app from the Apple App Store.
@@ -133,10 +133,6 @@ You'll then be asked to grant the app access to your contacts, photo library, de
 At the next screen on your phone, tap the button for "Scan QR code." Scan the code in the Unison screen on your PC. Confirm the text string that appears on the screen. Your phone and PC should tell you that the pairing was successful. Tap Get Started in the iPhone app.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Launch the Windows Unison app
 
@@ -155,6 +151,10 @@ Screenshot by Lance Whitney/ZDNET
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Receive a message
 
@@ -192,22 +192,16 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-ultimate-guide-to-4k-capturing-applications/"><u>[New] 2024 Approved Ultimate Guide to 4K Capturing Applications</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-curated-list-14-captivating-text-animation-showcases/"><u>[New] Curated List 14 Captivating Text Animation Showcases</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-essential-strategies-for-uninterrupted-facebook-broadcasts/"><u>[Updated] In 2024, Essential Strategies for Uninterrupted Facebook Broadcasts</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-focus-frameworks-key-tools-to-brighten-videos/"><u>2024 Approved Focus Frameworks Key Tools to Brighten Videos</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-the-best-cloud-storage-for-your-photos-free-and-paid-included/"><u>2024 Approved The Best Cloud Storage for Your Photos Free and Paid Included</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-htc-u23-pro-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your HTC U23 Pro Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-zooms-best-audio-practices-2-simple-steps-to-enhanced-quality/"><u>In 2024, Zoom's Best Audio Practices 2 Simple Steps to Enhanced Quality</u></a></li>
-<li><a href="https://article-posts.techidaily.com/inside-spaces-weaving-in-the-essence-of-daylight-for-2024/"><u>Inside Spaces Weaving in the Essence of Daylight for 2024</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/inspiron-15-hddssd-pc/"><u>Inspiron 15 HDDからSSDへの変換ガイド - デルPCの改修方法</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/introducing-a-lifesaving-feature-googles-latest-pixel-vehicle-9-the-first-android-phone-to-support-sos-messaging-via-satellite-tech-insights/"><u>Introducing a Lifesaving Feature: Google's Latest Pixel Vehicle 9, The First Android Phone to Support SOS Messaging via Satellite | Tech Insights</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/june-2024s-must-see-discounts-at-best-buy-showcased-by-zdnet/"><u>June 2024'S Must-See Discounts at Best Buy Showcased by ZDNET</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/literary-devices-in-literature/"><u>Literary Devices in Literature</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-iphone-case-review-surpassing-the-comfort-of-a-physical-keyboard-unveiling-hidden-gems/"><u>The iPhone Case Review: Surpassing the Comfort of a Physical Keyboard - Unveiling Hidden Gems</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-rated-tablets-professional-evaluation-and-comprehensive-reviews-by-tech-experts/"><u>Top-Rated Tablets : Professional Evaluation & Comprehensive Reviews by Tech Experts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-m4-boosted-mac-mini-a-small-device-with-a-big-bang-like-apples-set-top-box/"><u>Unveiling the M4-Boosted Mac Mini: A Small Device with a Big Bang Like Apple's Set-Top Box</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/upcoming-autumn-releases-in-depth-look-at-apples-newest-additions-to-iphone-ipad-mac-and-integration-of-ai-features-insights-from-zdnet/"><u>Upcoming Autumn Releases: In-Depth Look at Apple's Newest Additions to iPhone, iPad, Mac & Integration of AI Features - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/zdnets-ultimate-guide-to-the-top-computers-in-202c-analyzing-apple-dell-and-more/"><u>ZDNet's Ultimate Guide to the Top Computers in 202C - Analyzing Apple, Dell, and More!</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-revolutionize-your-farm-life-stardews-best-7-game-updates/"><u>[New] In 2024, Revolutionize Your Farm Life Stardew's Best 7 Game Updates</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-apple-synergy-vision-and-sound-merging/"><u>2024 Approved Apple Synergy Vision and Sound Merging</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-view-hevc-h-265-content-on-motorola-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Can’t view HEVC H.265 content on Motorola</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancing-your-social-media-presence-a-guide-to-crafting-engaging-posts-with-chatgpt/"><u>Enhancing Your Social Media Presence: A Guide to Crafting Engaging Posts with ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/expanded-api-horizons-gpt-chat-whisper-for-businesses/"><u>Expanded API Horizons: GPT-Chat, Whisper for Businesses</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-inner-workings-of-7-cutting-edge-gpt-4-integrated-tools/"><u>Exploring the Inner Workings of 7 Cutting-Edge GPT-4 Integrated Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/four-desired-improvements-for-the-next-generation-ai-gpt-5/"><u>Four Desired Improvements for the Next Generation AI, GPT-5</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/google-translate-vs-chatgpt-evaluating-the-top-contenders-in-effective-linguistic-translation/"><u>Google Translate Vs. ChatGPT – Evaluating the Top Contenders in Effective Linguistic Translation</u></a></li>
+<li><a href="https://review-topics.techidaily.com/infinix-data-recovery-recover-lost-data-from-infinix-zero-30-5g-by-fonelab-android-recover-data/"><u>Infinix Data Recovery – recover lost data from Infinix Zero 30 5G</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/inside-the-arsenal-the-complete-review-of-sj-cam-s6-for-2024/"><u>Inside the Arsenal The Complete Review of SJ-CAM S6 for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/star-wars-jedi-fallen-order-not-running-smoothly-on-your-computer-fixes-inside/"><u>Star Wars Jedi: Fallen Order Not Running Smoothly on Your Computer? Fixes Inside</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Beyond the Physical Keyboard: Discovering Why This iPhone Case Stands Out | Expert Reviews at ZDNet"
-date: 2024-12-06T19:43:14.023Z
-updated: 2024-12-13T18:41:51.296Z
+date: 2024-12-20T16:06:55.849Z
+updated: 2024-12-22T21:08:30.559Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ Matthew Miller/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  ZDNET's key takeaways
@@ -84,7 +84,7 @@ My biggest challenge now is memorizing all the shortcuts I've created, but the a
 Clicks is available for the two iPhone 14 Pro models and all four models of the iPhone 15\. Availability of the various colors varies, so check back on the website if you don't see the one you want. I would love to hear which shortcuts you created and find the most useful, so leave a comment below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  ZDNET's buying advice
@@ -123,19 +123,18 @@ If you miss the physical keyboard on devices like the Blackberry, this accessory
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-integrating-zoom-appointments-into-phone-and-pc-schedules/"><u>[New] In 2024, Integrating Zoom Appointments Into Phone & PC Schedules</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-youtubers-edge-the-ultimate-guide-to-apps-for-short-form-edits/"><u>[Updated] 2024 Approved Youtubers' Edge The Ultimate Guide to Apps for Short Form Edits</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-ultimate-top-ten-nintendo-switch-battle-titles-max-156/"><u>[Updated] In 2024, Ultimate Top Ten Nintendo Switch Battle Titles (Max 156)</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-uncovering-hidden-content-secrets-of-fb-suggested-vids/"><u>[Updated] In 2024, Uncovering Hidden Content Secrets of FB Suggested Vids</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-apple-m1-demystified-the-tech-leap-forward/"><u>2024 Approved Apple M1 Demystified The Tech Leap Forward</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-oppo-a79-5g-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Oppo A79 5G Fingerprint Lock</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-disabling-ios-push-alerts-and-hiding-lockscreen-notifications/"><u>Step-by-Step Guide: Disabling iOS Push Alerts and Hiding Lockscreen Notifications</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-hugging-face-purpose-and-applications/"><u>Understanding Hugging Face: Purpose and Applications</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-the-restrictions-are-there-bounds-in-length-for-chatgpt-replies/"><u>Understanding the Restrictions: Are There Bounds in Length for ChatGPT Replies?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlock-endless-possibilities-engaging-in-talks-with-chatgpt-revealed/"><u>Unlock Endless Possibilities: Engaging in Talks with ChatGPT Revealed</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlock-visual-inspiration-using-dall-e-3-8-unique-concept-prompts-for-artists/"><u>Unlock Visual Inspiration Using DALL-E 3: 8 Unique Concept Prompts for Artists</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-the-truth-about-prompt-engineering-careers-9-factors-to-evaluate-before-you-decide/"><u>Unlocking The Truth About Prompt Engineering Careers: 9 Factors To Evaluate Before You Decide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unraveling-the-mystery-ownership-and-copyrights-in-ai-generated-content/"><u>Unraveling the Mystery: Ownership and Copyrights in AI-Generated Content</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-epochs-epic-journey-best-free-mmo-games-roundup/"><u>[New] In 2024, Epoch's Epic Journey Best Free MMO Games Roundup</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-expertly-selected-top-7-internet-voice-recorders-2023/"><u>[New] In 2024, Expertly Selected Top 7 Internet Voice Recorders 2023</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-and-its-code-translator-a-deep-dive-into-why-it-matters/"><u>ChatGPT and Its Code Translator - A Deep Dive Into Why It Matters</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/choosing-between-direct-chatgpt-and-enhanced-gpt-tools/"><u>Choosing Between Direct ChatGPT & Enhanced GPT Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/choosing-between-local-or-not-for-your-legal-matter-pros-vs-cons-explained/"><u>Choosing Between Local or Not for Your Legal Matter - Pros vs Cons Explained</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparing-gpt-and-bert-unveiling-key-distinctions-between-top-tier-nlp-algorithms/"><u>Comparing GPT and BERT: Unveiling Key Distinctions Between Top-Tier NLP Algorithms</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/craft-engaging-posts-on-social-platforms-using-the-power-of-chatgpt/"><u>Craft Engaging Posts on Social Platforms Using the Power of ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/customizing-workouts-with-ai-trainers-guide/"><u>Customizing Workouts with AI: Trainers' Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/free-listening-transcription-tool-unveiled-for-2024/"><u>Free Listening Transcription Tool Unveiled for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723002229944-god-of-war-memory-crash-resolved/"><u>God of War Memory Crash: Resolved</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/pcs-ultimate-guide-to-ps1-game-emulation-software-for-2024/"><u>PC's Ultimate Guide to PS1 Game Emulation Software for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-tecno-spark-20-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/refine-visuals-effortlessly-editing-videos-using-storyremix-in-windows-11-for-2024/"><u>Refine Visuals Effortlessly Editing Videos Using StoryRemix in Windows 11 for 2024</u></a></li>
 </ul></div>
 

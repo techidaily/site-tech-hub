@@ -1,7 +1,7 @@
 ---
 title: "Apple's Latest Innovation Face-Off: Is It Time to Switch From Apple Watch Series 8 to Series E 10? | Expert Analysis by ZDNET"
-date: 2024-12-07T20:11:31.675Z
-updated: 2024-12-13T21:10:21.857Z
+date: 2024-12-18T16:58:59.021Z
+updated: 2024-12-22T23:43:39.408Z
 tags:
   - apple
 categories:
@@ -71,14 +71,22 @@ But should you splurge on Apple's newest mid-range wearable? Is it time for an u
 
 Kerry Wan/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## You should buy the Apple Watch Series 10 if...
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. You want a thinner design or larger watch sizes
 
 For the first time since the Watch Series 7 in 2021, the Apple Watch has had a facelift. The new Series 10 has a thinner overall profile and features larger faces and more rounded edges. Choose from a 42mm or 46mm display and enjoy a wearable lighter than the previous Series 9\. So, if you've been avoiding an Apple Watch because you've wanted a slimmer profile or larger face, here's your chance. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. You'd benefit from sleep apnea tracking
@@ -99,10 +107,6 @@ The Watch Series 10 is the newest Apple Watch you can buy. History suggests it w
 
 Not only does the Watch Series 10 offer new features like sleep apnea detection, temperature sensing, and a depth gauge, but it's also designed to maximize [WatchOS 11](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) and benefits from a seamless integration with Apple's latest [iPhone 16 models](https://www.zdnet.com/article/every-iphone-16-model-compared-which-new-iphone-should-you-buy/), which run on [iOS 18](https://www.zdnet.com/article/every-iphone-model-that-will-be-updated-to-apples-ios-18-and-which-ones-wont/). 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. It's time to upgrade
 
 If you own a Watch Series 7 or older, you may be looking to surrender your current everyday driver and opt for something fresher. As we inch closer to 2025, the Series 7 is close to being four years old, and any model that precedes that device probably feels a bit outdated or is perhaps experiencing performance dips. Last year I upgraded my Watch Series 3, which I purchased in 2020, to a [Watch SE (2nd Gen)](https://www.zdnet.com/article/the-apple-watch-se-is-just-60-off-this-memorial-day-and-its-my-favorite-purchase-this-year/) after experiencing glitching issues and poor battery life. The difference has been astounding. 
@@ -116,16 +120,12 @@ If you want top functions and maximum longevity, the new Watch Series 10 is the 
 [Buy the Apple Watch Series 10 View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## You should buy the Apple Watch Series 8 if...
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. You want an affordable option
 
@@ -135,15 +135,15 @@ If you want to experience the integrated benefits of the Apple ecosystem on your
 
 While the [Series 9](https://www.zdnet.com/article/apple-watch-series-9-review/) has been available for [upwards of $150 off](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Watch-Series-9-With-Blood-Oxygen-GPS-Cellular-41mm-Starlight-Aluminum-Case-with-Starlight-Sport-Band-S-M%2F5031676480%3Fwmlspartner%3Dwlpa%26selectedSellerId%3D0%26gclsrc%3Daw.ds%26%26adid%3D222222222275031676480_156221679273_18387865360%26wl0%3D%26wl1%3Dg%26wl2%3Dc%26wl3%3D677785081658%26wl4%3Dpla-2228157757188%26wl5%3D9192199%26wl6%3D%26wl7%3D%26wl8%3D%26wl9%3Dpla%26wl10%3D8175035%26wl11%3Donline%26wl12%3D5031676480%26veh%3Dsem%26gad_source%3D1%26gclid%3DCjwKCAjwufq2BhAmEiwAnZqw8qlhlHZgVBlgIzIofDP3CSyc29wH8YwdGFvBqUfPmphFZr9oKyfkTRoCL_cQAvD_BwE&subId1=zd-__COM_CLICK_ID__-dtp) lately, the Series 8 is often even more affordable. You can find [refurbished options](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C2VT692T%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cdb8b7dbc-bcc1-47cf-8fc0-13b0b2496459%7Cdtp&dtb=1) for under $250, though a major downside is this model is increasingly hard to find, especially in new condition. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. You're looking for blood oxygen sensors
 
 A major reason you may be interested in the Series 8, even though it's now a few years old, is the blood oxygen feature. Since the blood oxygen sensor [was banned](https://www.zdnet.com/article/apple-removes-blood-oxygen-sensor-from-new-watches-what-does-this-mean-for-current-users/) for the Series 9, Ultra 2, and as expected, the Series 10, no newer Apple Watch model offers the same capabilities. This situation means the Series 8 is the best option if you're looking for an Apple Watch equipped with blood oxygen sensing. 
 
 [Buy the Apple Watch Series 8 View now at Target](https://shop-links.co/link/?url=https%3A%2F%2Fwww.target.com%2Fp%2Frefurbished-apple-watch-series-8-gps-41mm-midnight-aluminum-case-with-midnight-sport-band-m-l-2022-8th-generation-target-certified-refurbished%2F-%2FA-89776439%3F&publisher_slug=itechdaily19598&exclusive=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -179,24 +179,22 @@ A major reason you may be interested in the Series 8, even though it's now a few
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-digital-rehearsal-mastery-in-recording-streaming-audio/"><u>[Updated] Digital Rehearsal Mastery in Recording Streaming Audio</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-gross-income-estimates-for-youtube-star-pewdopeep/"><u>[Updated] Gross Income Estimates for YouTube Star PewDoPeep</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-beginners-guide-to-simple-yet-effective-filming-gear/"><u>2024 Approved Beginner's Guide to Simple, Yet Effective Filming Gear</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/explore-new-horizons-innovative-applications-for-chatgpts-code-execution-feature/"><u>Explore New Horizons: Innovative Applications for ChatGPT's Code Execution Feature</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-the-new-apple-tv-4k-the-complete-third-generation-review/"><u>Exploring the New Apple TV 4K - The Complete Third Generation Review</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/going-beyond-chatgpt-what-does-the-future-hold-for-generative-ai-and-chatbots/"><u>Going Beyond ChatGPT: What Does the Future Hold for Generative AI and Chatbots?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/gpt-4-and-twitter-verification-a-new-horizon-unfolds/"><u>GPT-4 & Twitter Verification: A New Horizon Unfolds</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/harness-chatgpt-for-efficient-word-document-generation/"><u>Harness ChatGPT for Efficient Word Document Generation</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-big-is-too-big-for-chatgpt-tips-on-surpassing-its-characters-threshold/"><u>How Big Is Too Big for ChatGPT: Tips on Surpassing Its Characters Threshold</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-claude-ai-outperforms-chatgpt-exploring-four-key-benefits/"><u>How Claude AI Outperforms ChatGPT: Exploring Four Key Benefits</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Itel P55T? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-reliable-is-chatgpt-in-crafting-personalized-and-safe-exercise-schedules-for-your-needs/"><u>How Reliable Is ChatGPT in Crafting Personalized and Safe Exercise Schedules for Your Needs?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-oneplus-ace-2-pro-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your OnePlus Ace 2 Pro via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-resetting-your-stream-reverse-your-video-order-now/"><u>In 2024, Resetting Your Stream Reverse Your Video Order Now</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/innovative-10-personalized-ai-models-superior-to-chatgpt/"><u>Innovative 10 Personalized AI Models Superior to ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/investigating-the-misuse-risk-using-chatgpt-as-a-tool-for-malware-development/"><u>Investigating the Misuse Risk: Using ChatGPT as a Tool for Malware Development</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/reflect-and-record-capture-your-window-world-for-2024/"><u>Reflect & Record Capture Your Window World for 2024</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/upcoming-release-alert-yl-computing-announces-january-2024-shipment-date-for-bitmains-cutting-edge-antminer-t21/"><u>Upcoming Release Alert: YL Computing Announces January 2024 Shipment Date for Bitmain’s Cutting-Edge Antminer T21</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-vivo-v30-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Vivo V30 Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-identifying-and-tapping-into-youtubes-hidden-niches/"><u>[New] In 2024, Identifying and Tapping Into Youtube's Hidden Niches</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-unleashing-the-power-of-time-lapse-photography-using-gopro/"><u>[New] Unleashing the Power of Time-Lapse Photography Using GoPro</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-amp-up-your-media-get-free-soundtracks-for-2024/"><u>[Updated] Amp Up Your Media Get Free Soundtracks for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-harnessing-the-full-potential-of-windows-11s-auto-hdr-feature/"><u>[Updated] Harnessing the Full Potential of Windows 11'S Auto HDR Feature</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-simplify-streaming-with-obs-studio-techniques-android-for-2024/"><u>[Updated] Simplify Streaming with OBS Studio Techniques (Android) for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-the-all-inclusive-guide-to-sj-cam-s6s-features-for-2024/"><u>[Updated] The All-Inclusive Guide to SJ-CAM S6's Features for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-the-ladies-who-code-yts-10-gamers/"><u>2024 Approved The Ladies Who Code YT's #10 Gamers</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/animate-like-a-pro-the-best-free-and-paid-3d-software-for-beginners-and-experts/"><u>Animate Like a Pro The Best Free and Paid 3D Software for Beginners and Experts</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolve-your-zoom-call-display-glitches-a-comprehensive-guide-to-fixing-black-screens-on-pc/"><u>Resolve Your Zoom Call Display Glitches: A Comprehensive Guide to Fixing Black Screens on PC</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/securely-navigating-the-deletion-of-your-chatgpt-records/"><u>Securely Navigating the Deletion of Your ChatGPT Records</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-integrating-and-utilizing-chatgpt-add-ons/"><u>Step-by-Step Guide: Integrating & Utilizing ChatGPT Add-Ons</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-setting-up-local-llama-2-installs/"><u>Step-by-Step Guide: Setting Up Local Llama 2 Installs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/survival-guide-for-ai-dominated-professions-six-essentials/"><u>Survival Guide for AI-Dominated Professions: Six Essentials</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tailor-made-ai-dialogues/"><u>Tailor-Made AI Dialogues</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-comprehensive-guide-to-ai-innovation-discovering-claude-ns-functionalities/"><u>The Comprehensive Guide to AI Innovation: Discovering Claude N's Functionalities</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-language-titans-dissecting-bert-and-gpts-roles/"><u>The Language Titans: Dissecting BERT and GPT's Roles</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-quintessential-quintet-navigating-through-superior-language-modeling-systems/"><u>The Quintessential Quintet: Navigating Through Superior Language Modeling Systems</u></a></li>
 </ul></div>
 

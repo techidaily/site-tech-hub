@@ -1,7 +1,7 @@
 ---
 title: "Unraveling Twitter's New Security Features: The Impact of Ax & Checkmark Integration"
-date: 2024-08-29T01:19:06.574Z
-updated: 2024-08-30T01:19:06.574Z
+date: 2024-12-15T16:10:16.162Z
+updated: 2024-12-22T21:56:54.507Z
 tags:
   - chatgpt
   - open-ai
@@ -35,6 +35,10 @@ It was also stated in the same report that:
 
  It seems the continued adoption and development of AI will pose a threat to our cybersecurity, though the degree to which it affects us is yet to be seen.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Increased Digital Supply Chain Attacks
 
 ![digital graphic of globe and transport vehicles behind alert symbol](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/alert-supply-chain.jpg)
@@ -55,16 +59,10 @@ It was also stated in the same report that:
 
  Zero-trust systems also provide granular access and granular control. This means that no one individual ever has control of or access to the majority of data and power within the network. Each user is provided information on a strictly need-to-know basis. Blockchains work similarly, wherein power and data are spread across the network in a decentralized manner.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Further Exploit of EV Security Systems
 
 ![close up shot of electric car charging](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/ev-charging-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Gone are the days when a car was just a mechanical vehicle with a radio. Now, we can use Bluetooth, Wi-Fi, and even NFC in our cars. These wireless connections, along with a reliance on software, have opened the door for cybercriminals.
 
  This is especially the case with electric vehicles. A lot of EVs are designed with high-tech features, such as NFC-based door locks, AI hazard detection, Wi-Fi capabilities, apps for charging, and so much more. Both remote and short-range hacks can be carried out by exploiting such features, putting EV owners and other drivers at risk.
@@ -78,8 +76,9 @@ It was also stated in the same report that:
 ![picture of living room with smart tech connection grid in front](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/smart-home-grid.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  IoT devices make our day-to-day lives possible. Whether you're using your smartphone, smart speaker, smartwatch, or anything similar, IoT is facilitating your actions. In short IoT is a blanket term covering all interconnected devices. This network of connected "things" forms its own[Internet of Things (IoT)](https://www.makeuseof.com/tag/what-is-internet-of-things/) . It's this increased connectivity forming the Internet of Things that has attracted cybercriminals.
 
  The reason for this is similar to the increased focus on EV hacking. Not only do IoT devices rely on software, but they also use wireless connections to communicate with each other. These two elements leave a door open for exploits, be it through software vulnerabilities, malware, or inside actors.
@@ -93,10 +92,9 @@ It was also stated in the same report that:
 ![digital graphic of blue cloud blocks with circuitry within](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/cloud-blue-digital.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  There's a good chance you already have data stored on a cloud platform, such as Microsoft OneDrive or Google Drive. These platforms aren't easy to hack, but the hordes of data they store make them very lucrative targets for hackers.
 
  While cloud platforms are undeniably a convenient storage option, one's ability to access data anywhere with the correct credentials creates a problem. If a hacker manages to access someone's account, they can then look at any data stored on said account—work documents, ID photos, photos and videos, financial information, or anything else.
@@ -104,16 +102,17 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
  With this pot of data gold waiting for cybercriminals, it's no surprise that they're doing all they can to get inside. While cloud platforms often come with various security features, they're not impenetrable, and the sheer amount of data stored on these platforms nowadays makes them increasingly attractive to hackers.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Continued Topical Email Scams
 
 ![laptop surrounded by cybersecurity buzzwords ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/mail-scam-laptop.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  There's no shortage of scammers looking to profit from current events. We saw a slew of scams arise from the COVID-19 pandemic, but things don't stop there. The Russia-Ukraine war and the Israel-Palestine conflict have also been used throughout 2023 to squeeze money out of victims through social engineering.
 
  For instance, a scammer may email a potential victim claiming to be a representative for a charity. They provide a link to a donation page so that the recipient can provide some money for the cause. But in reality, the charity is either make-believe, or the sender is impersonating an employee from a well known charitable organization. The scammer may be looking for a one-off payment, but they could also be providing a link to a phishing site designed to steal the victim's payment details. Either way, the recipient ends up losing out.
@@ -124,14 +123,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  As 2023 comes to its conclusion, it's important to keep 2024's top security trends and predictions in mind. Remaining security-literate helps you fend off threats and better prepare yourself for malicious campaigns. No one knows for sure what 2024 will bring for the cybersecurity realm, but consider keeping the above in mind, as they'll very likely make an appearance.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -140,4 +136,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-rewind-and-play-an-in-depth-look-at-snapchats-reversal-feature/"><u>[New] In 2024, Rewind & Play An In-Depth Look at Snapchat's Reversal Feature</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-accessing-fb-video-on-apple-tv-step-by-step-guide/"><u>[Updated] Accessing FB Video on Apple TV Step by Step Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-freezeframe-stop-and-screen-retain-guide/"><u>[Updated] In 2024, FreezeFrame Stop & Screen Retain Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transform-your-iphone-footage-creating-and-editing-lengthened-visual-narratives/"><u>2024 Approved Transform Your iPhone Footage Creating & Editing Lengthened Visual Narratives</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-you-rely-on-chatgpt-or-bard-for-your-money-matters-an-expert-take/"><u>Can You Rely on ChatGPT or Bard for Your Money Matters: An Expert Take</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-at-your-fingertips-configuring-ai-conversations-for-android-users-and-ios-enthusiasts/"><u>ChatGPT at Your Fingertips: Configuring AI Conversations for Android Users & iOS Enthusiasts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-extensions-unleashed-how-to-get-started-and-make-them-work-for-you/"><u>ChatGPT Extensions Unleashed: How To Get Started & Make Them Work For You</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-your-virtual-partner-in-navigating-personal-health-7-perspectives/"><u>ChatGPT: Your Virtual Partner in Navigating Personal Health - 7 Perspectives</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/copilot-vs-copilot-pro-whats-the-difference-and-should-you-upgrade/"><u>Copilot Vs. Copilot Pro: What's the Difference, and Should You Upgrade?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/dall-e-3-imagery-seamless-conversion-from-webp-to-your-preferred-image-type/"><u>DALL-E 3 Imagery: Seamless Conversion From WebP to Your Preferred Image Type!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/digital-defenses-failing-an-ai-challenge/"><u>Digital Defenses Failing: An AI Challenge</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-gpts-top-pairings-with-files-and-text/"><u>Discover GPT's Top Pairings with Files and Text</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/distinguishing-features-between-amazons-echo-dot-and-apples-homepod-mini/"><u>Distinguishing Features Between Amazon's Echo Dot and Apple's HomePod Mini</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/oadmap-to-engaging-youtube-trailers-through-filmora-for-2024/"><u>The Roadmap to Engaging YouTube Trailers Through Filmora for 2024</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/top-5-wegensperrvervallingen-herleidingen-en-risicos-van-ongeltingsbestanden/"><u>Top 5 Wegensperrvervallingen: Herleidingen en Risico's Van Ongeltingsbestanden</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-top-10-free-video-repeater-tools-for-seamless-loops-for-2024/"><u>Updated Top 10 Free Video Repeater Tools for Seamless Loops for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-against-zero-x-eight-oh-three-one-f-failures-in-mail-apps/"><u>Winning Against Zero X Eight Oh Three One F Failures in Mail Apps</u></a></li>
+</ul></div>
 

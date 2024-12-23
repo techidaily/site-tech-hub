@@ -1,7 +1,7 @@
 ---
 title: Explore These 4 Essential AI Narrative Creators
-date: 2024-08-29T01:19:31.023Z
-updated: 2024-08-30T01:19:31.023Z
+date: 2024-12-17T18:30:59.951Z
+updated: 2024-12-22T17:50:49.778Z
 tags:
   - chatgpt
   - open-ai
@@ -106,8 +106,9 @@ thumbnail: https://thmb.techidaily.com/bcf259aa94b83b760e0c11d2e676389c6277abf06
  These ‘gold’ rules help establish the spending mechanic and limit exploitation.
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Craft the Story, Setting, and NPCs
 
  How you craft your prompt on ChatGPT will determine what your experience will be like—and the next thing you should consider for your game’s prompt is the setting and story you would like. For instance, we used a world inspired by the Elder Scrolls as the basis of our world in this one.
@@ -129,8 +130,9 @@ thumbnail: https://thmb.techidaily.com/bcf259aa94b83b760e0c11d2e676389c6277abf06
 ![Villager asking on the player's welfare in text game dialogue](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/villager-asking-on-the-player-s-welfare-in-text-game-dialogue.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can embellish this section with as many rules and preferences as you like. You can add an overarching plot, implement rules for governing, or even detail NPC clothes and attitudes in this section. But remember to keep it simple because multilayered rules may confuse the AI.
 
 ## Add Combat and Magic Rules
@@ -160,8 +162,9 @@ thumbnail: https://thmb.techidaily.com/bcf259aa94b83b760e0c11d2e676389c6277abf06
  Combat rules can be especially tricky for the AI, so you might need to experiment with this a bit till you find something that sticks.
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclude Your Prompt
 
  Your prompt conclusion should contain a few vital commands that will hold the game's structure.
@@ -177,15 +180,13 @@ And finally, don’t forget to actually start the game:
  As you play, you might have to remind the AI of the rules you’ve laid out. The AI will respond to the same prompt differently, so every user might have a different experience.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Using GPT-4 vs. GPT-3.5 to Run Your Game
 
 ![GPT-4 generating texts for a turn-based text RPG](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gpt-4-generating-texts-for-a-turn-based-text-rpg.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  If you have ChatGPT Plus, it grants you access to GPT-4, a more intelligent version of GPT-3.5\. You should try running a few RPG sessions with GPT-4 instead of GPT3.5\. It's way more creative, better at crafting stories, remembering rules, and all-around better at improv. It costs $20/month, and it's a good tool for doing other things apart from text-based gaming.
 
  Should you pay the $20 solely for text-based gaming? Realistically, no. Unless you're a big fan of RPGs, it might not be worth the money. Also, GPT-4 has a limit of 50 messages every three hours, so you won't have endless fun, and you'll be returned to GPT-3 in a short while. Some users have also complained that[GPT-4 is slower than GPT3.5](https://www.makeuseof.com/why-is-chatgpt-4-so-slow-compared-to-chatgpt-35/) .
@@ -289,22 +290,20 @@ And finally, don’t forget to actually start the game:
  Once again, don't forget that AI is still an emerging technology and will change as time goes on. Your experience using our prompts may differ significantly from ours.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Is This the Beginning of Open-Ended Gaming?
 
  ChatGPT has revealed that it is possible to have a game that changes with the player without following a pre-defined path or forcing the player to engage in the same NPC conversations. The future of gaming could mean entering your parameters and allowing AI to generate your ideal game without having a team of developers.
 
  You can tap into that future now with ChatGPT and create your own fun-filled adventure text game on the chat. Have fun, but remember that right now, AI is still very limited.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -313,4 +312,20 @@ And finally, don’t forget to actually start the game:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-eco-friendly-recorder-ads-absolved/"><u>[Updated] In 2024, Eco-Friendly Recorder - Ads Absolved</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-top-10-text-boosting-techniques-in-videos/"><u>[Updated] Top 10 Text Boosting Techniques in Videos</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ais-creative-leap-understanding-the-search-and-output-dynamics/"><u>AI's Creative Leap: Understanding the Search & Output Dynamics</u></a></li>
+<li><a href="https://fox-links.techidaily.com/best-matched-sd-cards-to-boost-your-gopro-heros-performance/"><u>Best Matched SD Cards to Boost Your GoPro HERO's Performance</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/explore-the-finest-virtual-hydro-adventures-for-2024/"><u>Explore the Finest Virtual Hydro Adventures for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-cutting-edge-gadgets-at-toms-hardware-storehouse/"><u>Exploring Cutting-Edge Gadgets at Tom's Hardware Storehouse</u></a></li>
+<li><a href="https://fox-info.techidaily.com/fine-tuning-focus-closeups-on-teams-for-2024/"><u>Fine-Tuning Focus Closeups on Teams for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-oppo-find-x7-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Oppo Find X7 to Another | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleash-your-browsers-ai-potential-our-top-7-suggestions/"><u>Unleash Your Browser's AI Potential: Our Top 7 Suggestions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-smart-search-the-ultimate-walkthrough-for-ai-integration-with-the-bing-app-on-android/"><u>Unlocking Smart Search: The Ultimate Walkthrough for AI Integration with the Bing App on Android</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-every-detail-the-newest-ai-features-from-the-apple-wwdc-2024/"><u>Unveiling Every Detail: The Newest AI Features From the Apple WWDC 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-evolution-a-comprehensive-guide-from-gpt-1-to-gpt/"><u>Unveiling the Evolution: A Comprehensive Guide From GPT-1 to GPT-</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/what-exactly-is-the-enigmatic-truthgpt-initiative-led-by-elon-musk/"><u>What Exactly Is the Enigmatic TruthGPT Initiative Led by Elon Musk?</u></a></li>
+</ul></div>
 

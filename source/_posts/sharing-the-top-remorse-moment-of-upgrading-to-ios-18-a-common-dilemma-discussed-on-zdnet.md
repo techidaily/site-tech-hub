@@ -1,7 +1,7 @@
 ---
 title: Sharing the Top Remorse Moment of Upgrading to iOS 18 – A Common Dilemma Discussed on ZDNet
-date: 2024-12-08T20:06:21.298Z
-updated: 2024-12-13T19:01:48.649Z
+date: 2024-12-19T22:24:38.849Z
+updated: 2024-12-22T17:37:57.488Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,22 +109,20 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-leading-edge-webcams-insiders-choice-in-windows-11/"><u>[Updated] In 2024, Leading Edge Webcams Insider's Choice in Windows 11</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-one-click-wonder-livestream-your-podcast/"><u>[Updated] In 2024, One Click Wonder Livestream Your Podcast</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Infinix Hot 30 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-samsung-galaxy-m34-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Samsung Galaxy M34 to Mac? | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-videography-6-tips-for-making-macro-video/"><u>In 2024, Videography 6 Tips for Making Macro Video</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/iphone-16-now-features-advanced-image-recognition-technology-mirroring-google-lens-capabilities-insights-for-tech-enthusiasts-techspot/"><u>IPhone 16 Now Features Advanced Image Recognition Technology, Mirroring Google Lens Capabilities - Insights for Tech Enthusiasts | TechSpot</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/iphone-showdown-iphone-1er-vs-iphone-14-pro-max-deciding-on-your-best-bet-expert-review-reviews/"><u>IPhone Showdown: IPhone 1Er vs iPhone 14 Pro Max – Deciding on Your Best Bet [Expert Review] Reviews</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-ios-16-top-5-indispensable-features-for-enhanced-iphone-experience-discover-and-utilize-them-effortlessly/"><u>Mastering iOS 16: Top 5 Indispensable Features for Enhanced iPhone Experience - Discover and Utilize Them Effortlessly</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/own-the-latest-from-apples-wwdc-today-discover-top-picks-and-preorder-details-exclusive-guide/"><u>Own the Latest From Apple's WWDC Today! Discover Top Picks and Preorder Details Exclusive Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/pro-mobile-showdown-google-pixel-e-vs-apple-iphone-13-expert-review-and-buying-guide/"><u>Pro Mobile Showdown: Google Pixel E vs Apple iPhone 13 | Expert Review and Buying Guide</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/scoutingcameras-more-than-just-mycam-for-2024/"><u>ScoutingCameras More Than Just MyCam for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-showdown-twitchs-challenge-to-youtubes-market-for-2024/"><u>The Ultimate Showdown Twitch's Challenge to YouTube's Market for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-rated-iphone-friendly-smart-lock-elegant-design-meets-advanced-security/"><u>Top-Rated iPhone-Friendly Smart Lock: Elegant Design Meets Advanced Security</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-rated-iphones-professional-reviews-and-comparisons/"><u>Top-Rated iPhones : Professional Reviews & Comparisons</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-fortnite-microphone-issues-solutions-and-fixes/"><u>Troubleshooting Fortnite Microphone Issues: Solutions & Fixes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unexpected-darkness-your-laptops-non-responsive-screen/"><u>Unexpected Darkness: Your Laptop's Non-Responsive Screen</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/why-the-iphone-16-pro-isnt-worth-the-upgrade-from-my-iphone-14-insights-and-analysis-zdnet/"><u>Why the iPhone 16 Pro Isn’t Worth the Upgrade From My iPhone 14? Insights and Analysis - ZDNet</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-chromium-device-live-screen-recorder/"><u>[New] Chromium Device Live Screen Recorder</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-visionaries-of-virtuality-industry-breakthroughs/"><u>[Updated] In 2024, Visionaries of Virtuality Industry Breakthroughs</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-paving-the-way-for-win11-a-user-friendly-upgrade-adventure/"><u>[Updated] Paving the Way for Win11 A User-Friendly Upgrade Adventure</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-beginners-blueprint-mastering-the-use-of-microsofts-advanced-language-model-chatgpt/"><u>A Beginner's Blueprint: Mastering the Use of Microsoft's Advanced Language Model, ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/adaptable-assistants-launch-your-own-8-ai-experieninas/"><u>Adaptable Assistants: Launch Your Own 8 AI Experieninas</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/addressing-chatgpt-legal-issues-discovering-new-features-in-google-news-and-maximizing-your-mobile-internet-experience-on-vacation/"><u>Addressing ChatGPT Legal Issues, Discovering New Features in Google News & Maximizing Your Mobile Internet Experience on Vacation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/addressing-glitches-restoring-chatgpt-and-service-harmony/"><u>Addressing Glitches: Restoring ChatGPT & Service Harmony</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/empowering-writers-select-ai-applications-for-efficiency/"><u>Empowering Writers: Select AI Applications for Efficiency</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-how-the-newly-enhanced-amazon-echo-auto-aids-drivers-with-roadside-help-analysis-on-zdnet/"><u>Explore How the Newly Enhanced Amazon Echo Auto Aids Drivers with Roadside Help – Analysis on ZDNET</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722212556760-free-gpt-4-for-everyone-nonetheless-select-plus-membership-continues-to-provide-unique-services/"><u>Free GPT-4 for Everyone; Nonetheless, Select Plus Membership Continues to Provide Unique Services</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/perfect-iphone-photos-quick-editing-hacks/"><u>Perfect iPhone Photos Quick Editing Hacks</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/the-rise-of-popular-images-a-deep-dive-into-meme-culture-for-2024/"><u>The Rise of Popular Images A Deep Dive Into Meme Culture for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210640290-9798885401395-the-search-for-dry-land/"><u>The Search for Dry Land | Free Book</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722168108069-transform-how-you-interact-get-chatgpt-for-android-and-start-conversing-today/"><u>Transform How You Interact: Get ChatGPT for Android and Start Conversing Today</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/what-is-the-turing-test-and-its-prospect-for-a-champion/"><u>What Is the Turing Test and Its Prospect for a Champion?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Distinctions: Public, Private, and Personal AI – Understanding Their Unique Roles"
-date: 2024-08-29T01:20:48.974Z
-updated: 2024-08-30T01:20:48.974Z
+date: 2024-12-16T18:50:01.469Z
+updated: 2024-12-22T16:39:01.958Z
 tags:
   - chatgpt
   - open-ai
@@ -35,9 +35,9 @@ thumbnail: https://thmb.techidaily.com/8e8fd391ef433874750ab325d9bce417e7f1e76ed
  But Bard was never the AI titan people hoped for, and GPT-4 remains the dominant generative AI chat bot platform. Now, Google's Gemini is here—but is the long-awaited AI model better than ChatGPT?
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is Google's Gemini AI Model?
 
 [Gemini is Google's most capable generative AI model](https://www.makeuseof.com/what-is-googles-ai-project-gemini/) , able to understand and operate across different data formats, including text, audio, image, and video. It is Google's attempt to create a unified AI model drawing capabilities from its most capable AI technologies. Gemini will be available in three variants:
@@ -52,25 +52,20 @@ The ultimate burning program for all your needs!</a>
 
 ![google gemini ai data comparing to open ai gpt4 model](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/google-gemini-ai-data-comparing-to-open-ai-gpt4-model.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Google](https://blog.google/technology/ai/google-gemini-ai/#performance)
 
  Gemini Ultra can also understand, explain, and generate high-quality code in some of the world's most popular programming languages, including Go, JavaScript, Python, Java, and C++. On paper, these are all great results. But these are all benchmarks, and benchmarks do not always tell the whole story. So, how well does Gemini perform in real-world tasks?
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Use Google Gemini AI
 
  Of the three variants of the Gemini AI model, you can start using Gemini Pro right now. Gemini Pro is currently available on Google's Bard chatbot. To use Gemini Pro with Bard, head to[bard.google.com](http://bard.google.com/chat) and sign in with your Google account.
 
  Google says that Gemini Ultra will roll out in January 2024, so we've had to settle for testing Gemini Pro against ChatGPT for now.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How Gemini Compares to GPT-3.5 and GPT-4
 
  When any new AI model is launched, it is tested against OpenAI's GPT AI models, which are generally accepted as the state-of-the-art model other models should be held up against. So, using Bard and ChatGPT, we tested Gemini's ability in math, creative writing, code generation, and accurately processing image inputs.
@@ -81,12 +76,13 @@ The ultimate burning program for all your needs!</a>
 
 ![Bard answers Math question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/bard-answers-math-question.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 We tried ChatGPT running on GPT-3.5\. The first trial got it right.
 
 ![ChatGPT answers math question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-answers-math-question.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To test Gemini's image interpretation abilities, we tasked it with interpreting some popular memes. It declined, saying it can't interpret images with people in it. ChatGPT, running GPT-4V, was willing and able to do so flawlessly.
 
@@ -99,6 +95,10 @@ Here's the source screenshot.
  Below is Gemini Pro's attempt to interpret and replicate the screenshot using HTML and CSS.
 
 ![results of screenshot replication by Bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/results-of-screenshot-replication-by-bard.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  And here's GPT-4's attempt at replicating the screenshot. The result is not surprising, considering GPT-4 has historically been strong at coding. We've previously demonstrated[using GPT-4 to build a web app from scratch](https://www.makeuseof.com/chatgpt-how-build-web-app/) .
 
@@ -115,23 +115,20 @@ Here's the source screenshot.
  It may be a personal choice, but Gemini Pro's take on this seems better. But we'll let you be the judge.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Is Gemini Better than ChatGPT?
 
  Before Google launched Bard, we thought it'd be the ChatGPT competition we had been waiting for—it wasn't. Now, Gemini is here, and so far, Gemini Pro doesn't seem like the model to give ChatGPT the knockout punch.
 
  Google says Gemini Ultra is going to be much better. We truly hope it is, and that it meets or exceeds the claims made in the Gemini Ultra announcement. But until we see and test the best version of Google's generative AI tool, we won't know if it can unseat other AI model competitors. As it stands, GPT-4 remains the undisputed AI model champion.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -140,4 +137,22 @@ Here's the source screenshot.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-banish-youtube-shorts-forever-with-ease/"><u>[New] 2024 Approved Banish YouTube Shorts Forever with Ease</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-quantum-hdr-phenomenon-in-digital-photography/"><u>[New] In 2024, Quantum HDR Phenomenon in Digital Photography</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-unleash-luxury-top-10-accessories-for-the-sj4000/"><u>[New] In 2024, Unleash Luxury Top 10 Accessories for the SJ4000</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-boosting-collaboration-essential-zoom-video-alterations-for-2024/"><u>[Updated] Boosting Collaboration Essential Zoom Video Alterations for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-best-facebook-practices-videographers-dilemrante/"><u>2024 Approved Best Facebook Practices Videographer's Dilemrante</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/charting-the-course-for-safe-ai-ceos-regulatory-plea/"><u>Charting the Course for Safe AI: CEO’s Regulatory Plea</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatbot-face-off-can-microsoft-bing-challenge-gpt-in-generative-ai/"><u>Chatbot Face-Off: Can Microsoft Bing Challenge GPT in Generative AI?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/choosing-the-best-chatgpt-option-direct-browser-interaction-vs-enhanced-with-plugins/"><u>Choosing the Best ChatGPT Option: Direct Browser Interaction Vs. Enhanced with Plugins</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/combat-loneliness-using-chatgpt-strategies-for-connection-and-compannionship/"><u>Combat Loneliness Using ChatGPT: Strategies for Connection and Compannionship</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/cooking-up-healthiness-can-chatgpt-be-your-dietary-mentor/"><u>Cooking Up Healthiness: Can ChatGPT Be Your Dietary Mentor?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/critical-errors-using-ai-for-secure-money-market-analysis/"><u>Critical Errors: Using AI for Secure Money Market Analysis</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/crystalizing-cryptocurrency-talks-with-ai/"><u>Crystalizing Cryptocurrency Talks with AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/evaluating-the-performance-of-integrated-editing-tools-in-dall-e-3-version/"><u>Evaluating the Performance of Integrated Editing Tools in DALL-E 3 Version</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-oppo-a1x-5g-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Oppo A1x 5G Phone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/uncover-the-concealed-sidebar-on-windows-explorers-a-step-by-step-guide/"><u>Uncover the Concealed Sidebar on Windows Explorers: A Step-by-Step Guide</u></a></li>
+</ul></div>
 

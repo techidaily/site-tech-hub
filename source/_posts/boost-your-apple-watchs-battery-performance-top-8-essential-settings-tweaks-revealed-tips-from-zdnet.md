@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Apple Watch's Battery Performance: Top 8 Essential Settings Tweaks Revealed - Tips From ZDNet"
-date: 2024-12-07T20:59:56.309Z
-updated: 2024-12-13T21:06:33.519Z
+date: 2024-12-15T22:41:17.141Z
+updated: 2024-12-22T21:39:51.672Z
 tags:
   - apple
 categories:
@@ -36,10 +36,6 @@ Even with a healthy battery life in my device, I'm not sure when the problem ori
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Turn off the always-on display
 
 This is the most effective thing you can do to preserve your Apple Watch's battery life. While yes, it can be super inconvenient to ditch the always-on display, it can be the difference between your Apple Watch lasting all day and it dying before dinner time. I turned mine off for a weekend and was surprised to find that it greatly enhances endurance, albeit not to the point of pre-watchOS 10.
@@ -47,7 +43,7 @@ This is the most effective thing you can do to preserve your Apple Watch's batte
 **How to:** On your Apple Watch, head to Settings > Display & Brightness > Always On, then toggle the feature off.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Use Low Power Mode when you can
@@ -57,10 +53,6 @@ I don't recommend using Low Power Mode all day since it limits the functionality
 **How to:** Lift your Apple Watch and press the side button to bring up the quick settings menu. Tap your battery percentage, then hit the "Low Power Mode" button. From there, scroll down through the list of features that Apple says the feature will disable. Then, tap the yellow "Turn On" button. You can also schedule it to turn off after a while, if you want.
 
 **Also:** [**Apple Watch Ultra 2 vs. Watch Ultra: Is it time to upgrade?**](https://www.zdnet.com/article/apple-watch-ultra-2-vs-ultra/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Disable cellular connectivity
 
@@ -88,15 +80,15 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Turn off irregular heart rate notifications
 
 With some of the newest Apple Watches, Apple includes a feature that can alert you when your heart rate is beating in irregular intervals and alert you when it may be atrial fibrillation. While that's nice to have for tracking your health over time, it means the heart rate sensor is constantly on collecting your heart rate, which isn't good for battery life.
 
 **How to:** Visit Settings > Heart > Irregular Rhythm Notifications and flick the feature off.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Reduce the amount of notifications you get
 
@@ -107,7 +99,7 @@ When a notification comes in, it not only plays a "ding!" to alert you, it also 
 **Also:** [**Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11**](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Turn off Siri
@@ -118,11 +110,19 @@ Ah, Siri. Many people swear by the voice assistant and use it daily to do things
 
 Adrian Kingsley-Hughes/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Factory reset your Apple Watch (a.k.a. the last resort)
 
 I've heard from many folks who have faced issues with battery life on the Apple Watch that it's best to do a complete factory reset. Full disclosure: it's not going to work for everyone, but if you've exhausted every option on your Apple Watch to extend battery life, the battery is still healthy, and you don't want to upgrade, your best bet is to reset it and start from scratch. That way, you can set up your watch and, along the way, spot the app or service that drains your battery the most. It may also help clean up some of the system bloat in watchOS 10 that's led to poor efficiency on your watch.
 
 **How to:** Go to Settings > General > Reset on your Apple Watch, then choose "Erase All Content and Settings." You won't have to disable Find My or get rid of your cellular plan since you'll be setting it up with your iPhone again, but if you want to get rid of absolutely everything, make sure you disable Find My and dump your cellular plan during the process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How we test smartwatches
 
@@ -165,24 +165,15 @@ For a deeper look at our testing process, check out our comprehensive [smartwatc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-prime-windows-10-photo-display/"><u>[New] 2024 Approved Prime Windows 10 Photo Display</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/augmented-listening-on-the-horizon-anticipate-camera-equipped-airpods-from-apple-by-2026-says-zdnet-insight/"><u>Augmented Listening on the Horizon? Anticipate Camera-Equipped AirPods From Apple by 2026, Says ZDNET Insight</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/effective-techniques-for-crafting-and-changing-fb-video-covers-for-2024/"><u>Effective Techniques for Crafting & Changing FB Video Covers for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/exclusive-play-on-apex-how-to-turn-off-cross-platform-mode-for-2024/"><u>Exclusive Play on Apex How to Turn Off Cross-Platform Mode for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-silent-pc-solutions-for-restoring-audio-in-borderlands-3/"><u>Fixing Silent PC: Solutions for Restoring Audio in Borderlands 3</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/hassle-free-setup-for-chatgpt-users-on-linux-platforms/"><u>Hassle-Free Setup for ChatGPT Users on Linux Platforms</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-apples-17-earpods-with-usb-c-became-an-impulse-buy-during-amazon-prime-day-a-tech-review/"><u>How Apple's $17 EarPods With USB-C Became an Impulse Buy During Amazon Prime Day - A Tech Review</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-itel-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Itel S23+ | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-poco-m6-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Poco M6 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-honor-x9b-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Honor X9b to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/in-parallel-circuits-the-total-capacitance-is-the-sum-of-individual-capacitances-ctotal-c1-plus-c2-plus-plus-cn/"><u>In Parallel Circuits, the Total Capacitance Is the Sum of Individual Capacitances: C_total = C1 + C2 + ... + Cn.</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/insider-reveals-apples-development-of-affordable-ar-spectacles-a-game-changer-in-visual-tech/"><u>Insider Reveals Apple's Development of Affordable AR Spectacles: A Game Changer in Visual Tech</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ipad-air-4-vs-ipad-air-5-comparison-is-it-time-for-an-upgrade/"><u>IPad Air 4 Vs. IPad Air 5 Comparison: Is It Time for an Upgrade?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/macbook-showdown-pros-and-cons-of-macbook-air-and-macbook-pro-to-find-the-perfect-fit-for-you-zdnet/"><u>MacBook Showdown: Pros and Cons of MacBook Air & MacBook Pro to Find the Perfect Fit for You | ZDNET</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/master-the-swift-migration-of-your-macbook-content-with-simple-techniques-revealed/"><u>Master the Swift Migration of Your MacBook Content with Simple Techniques - Revealed</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-fixing-pasting-errors-on-your-windows-11-pc/"><u>Step-by-Step Solution for Fixing Pasting Errors on Your Windows 11 PC</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-3-essential-gadgets-to-preserve-the-pristine-condition-of-your-iphone-13-insights-from-zdnet/"><u>Top 3 Essential Gadgets to Preserve the Pristine Condition of Your iPhone 13 - Insights From ZDNet</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-made-easy-fix-your-apex-legends-not-loading-in-minutes/"><u>Troubleshooting Made Easy: Fix Your 'Apex Legends Not Loading' In Minutes</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-the-risks-how-ios-18-may-cause-issues-with-some-ipad-models-expert-advice-and-precautions/"><u>Understanding the Risks: How iOS 18 May Cause Issues with Some iPad Models - Expert Advice and Precautions</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-unbeatable-screen-grabbers-for-modern-windows-pcs/"><u>[Updated] 2024 Approved Unbeatable Screen Grabbers for Modern Windows PCs</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-mastering-your-iphone-lens-essential-techniques-for-nature-pics/"><u>[Updated] In 2024, Mastering Your iPhone Lens Essential Techniques for Nature Pics</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-swift-playlist-dispatch-on-youtube/"><u>[Updated] In 2024, Swift Playlist Dispatch on YouTube</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Tecno Camon 20 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-panasonics-hx-a1-wearable-cam-examined-a-detailed-review/"><u>In 2024, Panasonic’s HX-A1 Wearable Cam Examined - A Detailed Review</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-the-turing-test-outdated-5-turing-test-alternatives/"><u>Is the Turing Test Outdated? 5 Turing Test Alternatives</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/llama-2-the-next-level-in-automation-tools/"><u>Llama 2: The Next Level in Automation Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/local-deployment-of-llama-2-downloading-and-installation-instructions/"><u>Local Deployment of Llama 2: Downloading & Installation Instructions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/making-magical-movies-on-a-budget-with-chatgpt-assisted-scripts/"><u>Making Magical Movies on a Budget with ChatGPT-Assisted Scripts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/retrieve-deleted-notifications-tips-for-finding-old-messages-on-an-iphone/"><u>Retrieve Deleted Notifications: Tips for Finding Old Messages on an iPhone</u></a></li>
 </ul></div>
 

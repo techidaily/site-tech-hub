@@ -1,7 +1,7 @@
 ---
 title: "Premium Laps Top Match-Up: Samsung Galaxy Book 2 Ultra Takes on Apple's MacBook Pro in a High Stakes Tech Battle | ZDNet"
-date: 2024-12-06T18:28:13.601Z
-updated: 2024-12-13T16:28:07.681Z
+date: 2024-12-20T00:42:39.430Z
+updated: 2024-12-22T19:30:52.614Z
 tags:
   - apple
 categories:
@@ -26,10 +26,6 @@ We'll compare the specs of the [Galaxy Book 3 Ultra](https://shop-links.co/link/
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Specifications
 
 | **Samsung Galaxy Book 3 Ultra** | **Apple M2-gen MacBook Pro (16-inch)**                                                                                                                                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                   |
@@ -46,6 +42,10 @@ We'll compare the specs of the [Galaxy Book 3 Ultra](https://shop-links.co/link/
 | Price                           | [Starting at $2,199](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fgalaxybooks%2Fgalaxy-book3-ultra%2F&publisher_slug=itechdaily19598&exclusive=1) | [Starting at $2,499](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) |
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  You should buy Samsung's Galaxy Book 3 Ultra if...
 
@@ -66,7 +66,7 @@ Samsung realized this and included benefits like the options to use a [Galaxy Ta
 If you've already got a Galaxy smartphone or tablet, there are definitely practical benefits to functionality that you'll receive by opting for this model. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  2\. You expect to do any gaming
@@ -89,13 +89,13 @@ The most recent, M2 Pro or Max-powered refresh of the venerable 16-inch MacBook 
 
 Apple
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  1\. You, or your family, are committed to Apple's ecosystem
 
 This is the other side of the coin. Apple was among the first, and might still be the best, at giving you reasons to stay locked into its ecosystem. On an individual level, this includes things like the ability to share screens and inputs across devices and tricks like [Continuity Camera, which lets you use your iPhone as an advanced webcam](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/), or Apple's excellent cross-device messaging. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -112,13 +112,13 @@ It's an issue that can chafe at times, but it's also one that has led many, myse
 
 **Also:** [**Samsung Galaxy S23 Ultra vs Google Pixel 7 Pro: Which Android flagship is king?**](https://www.zdnet.com/article/samsung-galaxy-s23-ultra-vs-google-pixel-7-pro/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  2\. You're a content creator looking for a mobile desktop replacement
 
 Apple's M1 generation of chips was already more than enough power for most photo editors, and even a large chunk of video editors, including those working in 4K+ formats. Now, with the advent of M2 Pro and M2 Max options, the 16-inch MacBook Pro is like an entire production studio unto itself, especially when combined with the ample variety of RAM and storage configurations now available for both chips and a full-fledged HDMI port, as well as three DisplayPort-capable Thunderbolt ports. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  3\. You need a ton of RAM or storage
 
@@ -129,7 +129,7 @@ The maximum amount of memory and storage you can configure a Galaxy Book 3 Ultra
 [Buy the 16-inch Apple MacBook Pro $2,499 at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -185,17 +185,20 @@ Absolutely must have a 16-inch laptop? Lenovo's ThinkPad Z16 is among the most p
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-beginners-path-to-screen-casting-with-apple-devices/"><u>[New] 2024 Approved Beginner’s Path to Screen Casting with Apple Devices</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-create-a-youtube-account/"><u>[New] In 2024, How to Create a YouTube Account</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/he-art-of-featured-channels-an-in-depth-exploration-for-maximizing-engagement/"><u>[New] The Art of Featured Channels An In-Depth Exploration for Maximizing Engagement</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/our-guide-to-smooth-browsing-select-the-top-7-android-adblockers-for-2024/"><u>[New] Your Guide to Smooth Browsing Select the Top 7 Android AdBlockers for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Samsung Galaxy A24 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-vivo-v30-lite-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Vivo V30 Lite 5G Data? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-motorola-moto-g34-5g-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Motorola Moto G34 5G Device</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-double-edged-sword-of-generative-ai/"><u>The Double-Edged Sword of Generative AI</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-ultimate-chatbot-question-gpt-pluses-or-perplexities/"><u>The Ultimate Chatbot Question: GPT Pluses or Perplexities?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-ultimate-strategy-enhancing-everyday-living-with-chatgpt/"><u>The Ultimate Strategy: Enhancing Everyday Living with ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transformative-tastes-with-ai-assisted-healthy-recipes/"><u>Transformative Tastes with AI-Assisted Healthy Recipes</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-chatgpts-maximum-message-capacity-how-many-tokens-are-allowed/"><u>Understanding ChatGPT's Maximum Message Capacity: How Many Tokens Are Allowed?</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-enhance-branding-the-ultimate-guide-to-custom-urls-for-youtube/"><u>[New] In 2024, Enhance Branding The Ultimate Guide to Custom URLs for YouTube</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-gamers-choice-the-best-of-the-best-4k-tvs/"><u>[New] In 2024, Gamer's Choice The Best of the Best 4K TVs</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-mastering-igtv-hash-tagging-boosting-your-fan-base/"><u>[New] In 2024, Mastering IGTV Hash Tagging Boosting Your Fan Base</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-charting-a-course-through-youtubes-maker-domain/"><u>[Updated] Charting a Course Through YouTube's Maker Domain</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-ai-like-chatgpt-tackle-complex-math-questions/"><u>Can AI Like ChatGPT Tackle Complex Math Questions?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-as-your-secret-weapon-for-stunning-presentations/"><u>ChatGPT as Your Secret Weapon for Stunning Presentations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-plus-revolutionizing-the-way-you-learn-languages-today/"><u>ChatGPT Plus: Revolutionizing the Way You Learn Languages Today</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/coding-excellence-face-off-which-is-superior-chatgpt-or-gemini/"><u>Coding Excellence Face-Off: Which Is Superior, ChatGPT or Gemini?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/combating-solitude-leveraging-chatgpt-to-ease-loneliness/"><u>Combating Solitude: Leveraging ChatGPT to Ease Loneliness</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/deciphering-chatgpt-unleashing-the-power-of-ai-generation/"><u>Deciphering ChatGPT: Unleashing the Power of AI Generation</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-redmi-note-12r-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Redmi Note 12R</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-honor-magic-6-lite-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Honor Magic 6 Lite to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-value-the-near-perfect-17-headlamp-reviewed-on-zdnet/"><u>Ultimate Value: The Near-Perfect $17 Headlamp Reviewed on ZDNet</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/vid-wizards-guide-to-glitter-and-glamour-creating-your-chanel/"><u>Vid-Wizards Guide to Glitter and Glamour Creating Your Chanel</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "From Green to Silver: The Top Three iPhone 16 Advances That May Convert an Android Lover on ZDNet."
-date: 2024-12-08T18:22:01.881Z
-updated: 2024-12-13T16:18:16.546Z
+date: 2024-12-18T23:41:25.193Z
+updated: 2024-12-22T16:32:09.078Z
 tags:
   - apple
 categories:
@@ -37,7 +37,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Reducing lens flare with new materials
@@ -49,7 +49,7 @@ When capturing images with the iPhone -- Pro model or not -- bright light source
 As reported by [MacRumors](https://www.macrumors.com/2024/04/15/iphone-16-pro-camera-reduced-lens-flare/), sources close to Apple's supply chain have hinted that the company is testing a new anti-reflective optical coating, made of atomic layer deposition, intended to reduce the camera artifacts previously mentioned. Should Apple introduce the feature with the iPhone 16, it would fix one of the longest-standing complaints about the iPhone camera system.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Higher refresh rate displays on non-Pro models
@@ -61,7 +61,7 @@ Apple did something very courageous last year: It brought the Pro line's Dynamic
 Compared to the Pro model's 120Hz display, which portrays animations in a much flowy, smoother manner, the non-Pro iPhones' 60Hz panels just didn't look as polished, with a noticeable stutter when scrolling through bodies of text. Dialing up the refresh rate, even up to 90Hz, would make the baseline iPhone 16 models more satisfying to look at and interact with.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. A voice assistant I can take Siri-ously
@@ -104,20 +104,19 @@ Apple has already hinted at an AI-focused [Worldwide Developer Conference](https
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-bypassing-edge-academy-video-free-study-strategies-for-2024/"><u>[New] Bypassing EDGE Academy Video-Free Study Strategies for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-excellence-in-offline-speech-recognition-software/"><u>[Updated] Excellence in Offline Speech Recognition Software</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Oppo Reno 8T? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-no-hypervisor-detection-in-windows-sandbox-environment/"><u>Overcoming No Hypervisor Detection in Windows Sandbox Environment</u></a></li>
-<li><a href="https://win-trending.techidaily.com/schnell-und-effizient-alle-moglichkeiten-musik-von-windows-11-zu-ihrem-iphone-hinzuzufugen/"><u>Schnell Und Effizient - Alle Möglichkeiten, Musik Von Windows 11 Zu Ihrem iPhone Hinzuzufügen</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-dilemma-of-your-unresponsive-laptops-trackpad-or-external-mouse/"><u>Solving the Dilemma of Your Unresponsive Laptop's Trackpad or External Mouse</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-for-pairing-apple-airpods-with-the-nintendo-switch/"><u>Step-by-Step Instructions for Pairing Apple AirPods with the Nintendo Switch</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/the-ultimate-strategy-for-creating-viral-hashtags-on-facebook-for-2024/"><u>The Ultimate Strategy for Creating Viral Hashtags on Facebook for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-linguistic-mastery-the-power-of-chatgpt-plus-in-your-language-learning-journey/"><u>Unlocking Linguistic Mastery: The Power of ChatGPT Plus in Your Language Learning Journey</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-new-opportunities-how-businesses-benefit-from-the-latest-chatgpt-and-whisper-api-integrations/"><u>Unlocking New Opportunities: How Businesses Benefit From the Latest ChatGPT & Whisper API Integrations</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-future-the-anticipated-arrival-of-gpt-5-explained/"><u>Unveiling the Future: The Anticipated Arrival of GPT-5 Explained</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-latest-insights-into-apples-artificial-intelligence-announcements-at-wwdc-2024/"><u>Unveiling the Latest Insights Into Apple's Artificial Intelligence Announcements at WWDC 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-power-of-shapley-explanations-in-machine-learning-with-openais-shape/"><u>Unveiling the Power of Shapley Explanations in Machine Learning with OpenAI's ShapE</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-top-5-innovative-tools-to-generate-advanced-ai-dialogue-starters/"><u>Unveiling the Top 5 Innovative Tools to Generate Advanced AI Dialogue Starters</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/weaving-tales-gpt-3-and-world-design/"><u>Weaving Tales: GPT-3 and World Design</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-mastering-voice-over-recording-for-videos/"><u>[Updated] Mastering Voice-Over Recording for Videos</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-powered-spreadsheet-solutions-via-chatgpt-and-excel/"><u>AI-Powered Spreadsheet Solutions via ChatGPT & Excel</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/all-revealed-delving-into-every-detail-of-apples-artificial-intelligence-at-the-2024-worldwide-developers-conference/"><u>All Revealed: Delving Into Every Detail of Apple's Artificial Intelligence at the 2024 Worldwide Developers Conference</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/anticipating-ai-breakthroughs-expecting-gpt-5s-launch/"><u>Anticipating AI Breakthroughs: Expecting GPT-5's Launch?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/assessing-chatbot-skills-gpt-versus-huggingface/"><u>Assessing Chatbot Skills: GPT Versus HuggingFace</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/auto-gpt-setup-made-easy-a-comprehensive-tutorial-for-ubuntu-users/"><u>Auto-GPT Setup Made Easy: A Comprehensive Tutorial for Ubuntu Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/best-artifice-intelligence-chatbots-showdown-chatgpt-versus-microsofts-bing-and-googles-bard/"><u>Best Artifice Intelligence Chatbots Showdown: ChatGPT Versus Microsoft's Bing and Google's Bard</u></a></li>
+<li><a href="https://win11.techidaily.com/configuring-gpos-on-single-user-accounts-using-the-latest-windows-oses/"><u>Configuring GPOs on Single-User Accounts Using the Latest Windows OSes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/dont-miss-out-exclusive-october-prime-day-202n4-offers-on-games-save-up-to-1k-now-zdnet/"><u>Don't Miss Out! Exclusive October Prime Day 202N4 Offers on Games - Save Up To $1K Now | ZDNET</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-nokia-c22-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Nokia C22 To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-call-recording-made-easy-understanding-the-law-and-techniques/"><u>IPhone Call Recording Made Easy - Understanding the Law and Techniques</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/the-fortune-changing-club-free-50-banners-await/"><u>Join The Fortune-Changing Club Free 50 Banners Await</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/revolutionize-editing-the-secret-techniques-for-background-obliteration-in-affinity/"><u>Revolutionize Editing The Secret Techniques for Background Obliteration in Affinity</u></a></li>
+<li><a href="https://driver-download.techidaily.com/upgrade-graphics-performance-downloading-and-installing-the-newest-amd-rx-6800-xt-driver-for-various-windows-versions-win11-win10-win8-win7/"><u>Upgrade Graphics Performance: Downloading & Installing the Newest AMD RX 6800 XT Driver for Various Windows Versions (Win11, Win10, Win8, Win7)</u></a></li>
 </ul></div>
 

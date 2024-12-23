@@ -1,7 +1,7 @@
 ---
 title: "Shared Experiences: The Unspoken Challenges of Moving to iOS 18 on iPhones | ZDNET Insights"
-date: 2024-12-12T18:01:16.044Z
-updated: 2024-12-13T20:34:24.422Z
+date: 2024-12-20T18:47:13.050Z
+updated: 2024-12-22T23:12:55.977Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,19 +109,16 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-achieve-professional-results-podcast-editing-made-simple-in-garageband/"><u>[Updated] Achieve Professional Results Podcast Editing Made Simple in GarageBand</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-the-essential-tips-for-maximizing-youtuber-profits-on-mobile/"><u>[Updated] In 2024, The Essential Tips for Maximizing YouTuber Profits on Mobile</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-proiphone-techniques-capturing-perfect-close-up-and-macro-shots/"><u>[Updated] Proiphone Techniques Capturing Perfect Close-Up and Macro Shots</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/activating-slack-alerts-on-apple-watch-a-complete-guide-zdnet/"><u>Activating Slack Alerts on Apple Watch - A Complete Guide | ZDNet</u></a></li>
-<li><a href="https://win11.techidaily.com/command-prompt-secrets-5-entertaining-hacks/"><u>Command Prompt Secrets: 5 Entertaining Hacks</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-update-mpow-bluetooth-driver-for-windows-1187-free-guide/"><u>Download and Update MPOW Bluetooth Driver for Windows 11/8/7 - Free Guide</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/elevate-your-craft-the-best-premiere-pro-templates-2023/"><u>Elevate Your Craft The Best Premiere Pro Templates 2023</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/expert-take-on-iphone-15-pros-explained-and-the-unwavering-recommendation-for-tech-enthusiasts-zdnet/"><u>Expert Take on iPhone 15: Pros Explained and the Unwavering Recommendation for Tech Enthusiasts | ZDNet</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Xiaomi Redmi 12 | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-vivo-y100-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Vivo Y100</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Gionee F3 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/pros-and-cons-of-googles-pixel-vs-apple-in-the-wearable-arena-making-sense-of-the-pixel-watch-vs-apple-watch-series-veer-a-side-by-side-evaluation-gadgetflo11/"><u>Pros & Cons of Google's Pixel Vs. Apple in the Wearable Arena - Making Sense of the Pixel Watch Vs. Apple Watch Series Veer: A Side-By-Side Evaluation | GadgetFlow</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/section-2a-explanation-of-tipping-bucket-scales/"><u>Section 2A: Explanation of Tipping-Bucket Scales</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/why-im-continuously-choosing-the-apple-watch-series-7-over-upcoming-series-10/"><u>Why I'm Continuously Choosing the Apple Watch Series 7 Over Upcoming Series 10</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/horts-fix-completed-no-more-anxiety-for-2024/"><u>[New] Shorts Fix Completed – No More Anxiety for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-the-startups-secret-weapon-kit-must-have-items-that-set-you-apart/"><u>[Updated] In 2024, The Startup's Secret Weapon Kit Must-Have Items That Set You Apart</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-streamed-audiovideo-crafts-meetup/"><u>2024 Approved Streamed Audio/Video Crafts Meetup</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-new-era-of-authenticity-understanding-the-algorithm-update/"><u>2024 Approved The New Era of Authenticity Understanding the Algorithm Update</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/artificial-intelligence-developments-tentative-date-for-gpt-5/"><u>Artificial Intelligence Developments: Tentative Date for GPT-5?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/battle-of-the-bots-llama-3-against-gpt-neuroses-4/"><u>Battle of the Bots: LLaMA 3 Against GPT-nEuroses 4</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beware-the-shortcomings-of-ai-detection-apps-like-zerogpt-exposed-through-four-case-studies/"><u>Beware! The Shortcomings of AI Detection Apps Like ZeroGPT Exposed Through Four Case Studies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/building-your-personal-ai-companer-install-and-run-an-open-alternative-to-chatgpt-on-windows/"><u>Building Your Personal AI Companer: Install and Run an Open Alternative to ChatGPT on Windows</u></a></li>
+<li><a href="https://win-net.techidaily.com/solving-graphics-card-problems-in-windows-a-comprehensive-guide-by-yl-software/"><u>Solving Graphics Card Problems in Windows: A Comprehensive Guide by YL Software</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/step-by-step-guide-adding-your-dvd-content-to-google-drive-or-other-cloud-platforms/"><u>Step-by-Step Guide: Adding Your DVD Content to Google Drive or Other Cloud Platforms</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/top-tier-writing-structure-space/"><u>Top-Tier Writing Structure Space</u></a></li>
 </ul></div>
 

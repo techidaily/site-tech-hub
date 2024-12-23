@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Cellular Connectivity Problems After iOS 17.2.1 Upgrade | Insights by ZDNET
-date: 2024-12-12T21:05:22.579Z
-updated: 2024-12-13T21:36:31.064Z
+date: 2024-12-20T21:51:47.784Z
+updated: 2024-12-22T23:55:16.583Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,24 +109,22 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-freshflicks-app-overview-and-score/"><u>[New] 2024 Approved FreshFlicks App Overview & Score</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-exploring-virtuality-current-realities-future-hurdles/"><u>[New] In 2024, Exploring Virtuality Current Realities, Future Hurdles</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-free-logo-blueprint-tailor-and-share-your-brand-identity/"><u>[Updated] 2024 Approved Free Logo Blueprint Tailor and Share Your Brand Identity</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/2023s-ultimate-guide-to-apple-watch-screen-protectors-the-best-choices-as-reviewed-by-zdnet/"><u>2023'S Ultimate Guide to Apple Watch Screen Protectors: The Best Choices, as Reviewed by ZDNET</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-episode-excellence-optimal-launch-windows/"><u>2024 Approved Episode Excellence Optimal Launch Windows</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-modernity-discover-these-top-10-digital-realms-for-artistic-font-styles/"><u>2024 Approved Unveiling Modernity Discover These Top 10 Digital Realms for Artistic Font Styles</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/1726222312185-wmvmpeg-movavi/"><u>直接在線WMV到MPEG轉換器免費 - Movavi 移動影片工具</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/apple-approves-sideloading-on-ios-devices-within-european-union-understanding-the-limitations/"><u>Apple Approves Sideloading on iOS Devices Within European Union: Understanding the Limitations</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-future-of-artificial-intelligence-on-ios-devices-key-insights-into-upcoming-iphone-mac-and-ipad-innovations/"><u>Exploring the Future of Artificial Intelligence on iOS Devices: Key Insights Into Upcoming iPhone, Mac, & iPad Innovations</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/get-your-iphone-upgraded-with-ios-18-step-by-step-download-instructions-and-supported-devices-insights/"><u>Get Your iPhone Upgraded with iOS 18! Step-by-Step Download Instructions and Supported Devices | Insights</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-can-you-access-archived-notifications-on-an-iphone/"><u>How Can You Access Archived Notifications on an iPhone?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-apple-iphone-12-pro-max-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 12 Pro Max Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-motorola-g24-power-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Motorola G24 Power</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/labor-day-sale-save-24-on-apple-airtag-4-pack-at-walmart-exclusive-zdnet-deal/"><u>Labor Day Sale: Save $24 on Apple AirTag 4-Pack at Walmart - Exclusive ZDNet Deal</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-the-latest-ios-update-europe-gets-online-app-store-access-with-version-175-beta-2-techinsights/"><u>Navigating the Latest iOS Update: Europe Gets Online App Store Access with Version 17.5 Beta 2 | TechInsights</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/optimizing-playback-speed-a-guide-for-spotify-users/"><u>Optimizing Playback Speed A Guide for Spotify Users</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-11-must-have-windows-and-macos-applications-expert-recommendations-from-zdnet/"><u>Top 11 Must-Have Windows & macOS Applications - Expert Recommendations From ZDNet</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlock-exclusive-enhancements-discover-top-benefits-of-macos-15-on-your-apple-macbook-for-free/"><u>Unlock Exclusive Enhancements: Discover Top Benefits of macOS 15 on Your Apple MacBook for Free!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/why-you-should-consider-buying-an-apple-watch-6-persuasive-points-from-wearables-authorities-zdnet-exclusive/"><u>Why You Should Consider Buying an Apple Watch: 6 Persuasive Points From Wearables Authorities | ZDNET Exclusive</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/rofessional-3d-design-apps-top-5-for-youtubers-for-2024/"><u>[New] Professional 3D Design Apps - Top 5 for Youtubers for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-best-practices-for-documenting-live-streamed-sporting-matches/"><u>[Updated] In 2024, Best Practices for Documenting Live-Streamed Sporting Matches</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-on-the-go-is-the-mobile-app-beneficial-or-detrimental/"><u>ChatGPT on the Go: Is the Mobile App Beneficial or Detrimental?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/clash-of-tech-titans-exploring-8-key-differences-between-snapchats-my-ai-and-microsofts-bing-chat-on-skype/"><u>Clash of Tech Titans: Exploring 8 Key Differences Between Snapchat's My AI & Microsoft's Bing Chat on Skype</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/critical-considerations-when-leveraging-chatgpt-for-emotional-well-being/"><u>Critical Considerations When Leveraging ChatGPT for Emotional Well-Being</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/discovering-the-perfect-shape-tailoring-aspect-ratios-in-videos/"><u>Discovering the Perfect Shape Tailoring Aspect Ratios in Videos</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/driving-decisions-perfecting-persuasive-business-proposals-with-ai/"><u>Driving Decisions: Perfecting Persuasive Business Proposals with AI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevating-teaching-and-learning-with-5-innovative-chatgpt-strategies/"><u>Elevating Teaching and Learning with 5 Innovative ChatGPT Strategies</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723007539711-expert-tips-to-fix-cannot-connect-mishaps-in-your-favorite-game-lost-ark/"><u>Expert Tips to Fix 'Cannot Connect' Mishaps in Your Favorite Game, Lost Ark!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/explore-books-with-ai-the-ultimate-list-of-smart-recommendation-tools/"><u>Explore Books with AI: The Ultimate List of Smart Recommendation Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/future-workforce-how-ai-revolutionizes-employment/"><u>Future Workforce: How AI Revolutionizes Employment</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/google-bard-may-be-infected-stay-safe-by-not-downloading-this-app-to-prevent-malware-threats/"><u>Google Bard May Be Infected: Stay Safe by Not Downloading This App to Prevent Malware Threats</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-perfecting-iphone-images-in-dim-light/"><u>In 2024, Perfecting iPhone Images in Dim Light</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-realme-gt-5-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/soundmax-driver-download-and-install-on-windows/"><u>SoundMAX Driver Download and Install on Windows</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/step-up-your-vr-game-with-oculus-quest-2s-elite-wristband-extra-juice-pack-and-protective-travel-case-our-in-depth-review/"><u>Step Up Your VR Game with Oculus Quest 2'S Elite Wristband, Extra Juice Pack, and Protective Travel Case - Our In-Depth Review!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtubes-trophy-chain-for-engaged-audiences-for-2024/"><u>YouTube's Trophy Chain for Engaged Audiences for 2024</u></a></li>
 </ul></div>
 

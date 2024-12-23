@@ -1,7 +1,7 @@
 ---
 title: "Investigating the Origins: The In-Depth Story Behind CrowdStrike and the Infamous Windows Meltdn of '24 | Insights"
-date: 2024-12-07T17:30:10.252Z
-updated: 2024-12-13T20:47:17.879Z
+date: 2024-12-21T00:21:59.598Z
+updated: 2024-12-22T18:40:02.684Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What happened?
@@ -55,7 +55,7 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -95,7 +95,7 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -125,7 +125,7 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -176,17 +176,15 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-best-youtube-ad-creators/"><u>[New] 2024 Approved Best YouTube Ad Creators</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-transform-stories-in-a-flash-free-extensions-and-mobile-magic/"><u>[New] 2024 Approved Transform Stories in a Flash – Free Extensions & Mobile Magic</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-kinemaster-app-for-android-complete-review-2023/"><u>[Updated] 2024 Approved KineMaster App for Android - Complete Review 2023</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-your-guide-to-the-top-hdmi-tvs-21-a-comparison-chart/"><u>2024 Approved Your Guide to the Top HDMI TVs (2.1) A Comparison Chart</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Vivo Y78+ | Dr.fone</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/launch-of-vanecks-newly-revised-bitcoin-etf-offering-live-updates-by-yl-computing/"><u>Launch of VanEck's Newly Revised Bitcoin ETF Offering - Live Updates by YL Computing</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/leveraging-chatgpts-ai-power-securing-your-ideal-career-opportunity/"><u>Leveraging ChatGPT's AI Power: Securing Your Ideal Career Opportunity</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/mastering-handbrake-a-step-by-step-guide-to-optimizing-video-bitrates-and-quality/"><u>Mastering Handbrake: A Step-by-Step Guide to Optimizing Video Bitrates and Quality</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-the-digital-trail-setting-up-an-account-on-bing-with-advanced-ai-capabilities/"><u>Mastering the Digital Trail: Setting Up an Account on Bing with Advanced AI Capabilities</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-the-interview-process-with-chatgpts-assistance/"><u>Mastering the Interview Process with ChatGPT's Assistance</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-the-world-of-ai-chatbot-moderation-and-its-effects/"><u>Navigating the World of AI Chatbot Moderation and Its Effects</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/selecting-premium-microphones-for-mac-users-reviewed-for-2024/"><u>Selecting Premium Microphones for Mac Users (Reviewed) for 2024</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/aucune-mise-a-jour-les-etapes-pour-arreter-le-nettoyage-auto-des-fichiers-de-norton/"><u>Aucune Mise À Jour : Les Étapes Pour Arrêter Le Nettoyage Auto Des Fichiers De Norton</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-12-pro-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 12 Pro to other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-audio-recording-solutions-for-educators-using-apple-products/"><u>In 2024, Audio Recording Solutions for Educators Using Apple Products</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-chatgpt-advantage-for-writing-subtly-sensitive-company-emails/"><u>The ChatGPT Advantage for Writing Subtly Sensitive Company Emails</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-evolutionary-path-of-ai-analyzing-and-comparing-the-advancements-in-openais-generative-pre-trained-transformer-models-from-gpt-1-to-gpt-4/"><u>The Evolutionary Path of AI: Analyzing and Comparing the Advancements in OpenAI’s Generative Pre-Trained Transformer Models From GPT-1 to GPT-4</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-misuse-of-ai-for-cybercrimes-discovering-5-key-tactics/"><u>The Misuse of AI for Cybercrimes - Discovering 5 Key Tactics</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-top-5-differences-between-advanced-language-models-gpt-4-versus-gpt-35-unpacked/"><u>The Top 5 Differences Between Advanced Language Models: GPT-4 Versus GPT-3.5 Unpacked</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/1728486036276-n/"><u>サーバー上で必要なメモリを確保できず、エラーによりコマンドが拒否さn:記憶容量不足 - 対処法と解決</u></a></li>
 </ul></div>
 

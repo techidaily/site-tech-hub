@@ -1,7 +1,7 @@
 ---
 title: Transcending the Turing Test in Modern AI Scrutiny
-date: 2024-08-29T01:19:23.226Z
-updated: 2024-08-30T01:19:23.226Z
+date: 2024-12-17T19:32:38.098Z
+updated: 2024-12-22T19:42:32.717Z
 tags:
   - chatgpt
   - open-ai
@@ -17,9 +17,17 @@ thumbnail: https://thmb.techidaily.com/aaf0974e4ab83d3cc5b35041225761e54de0f8418
 
  As the field of artificial intelligence continues to evolve at a dizzying pace, a new contender is poised to enter the playing field. TruthGPT, an AI chatbot proposed by tech billionaire Elon Musk, is generating a lot of buzz online.But what is TruthGPT? Why does Elon Musk want to create it? And how will it be different from the AI tools we already have?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is TruthGPT?
 
 ![Man Holding Artificial Intelligence Sticky Note](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/artificial-intelligence.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  TruthGPT is a proposed AI model aimed at addressing the ills of existing models that powers the likes of ChatGPT and Bard, with particular emphasis on truth and safety. According to Elon Musk, TruthGPT will be a "maximum truth-seeking" AI that understands the nature of the universe and would be unlikely to destroy humanity because it sees humans as a critical component of the universe.
 
@@ -36,15 +44,13 @@ Maximum truth-seeking AI? Understand the nature of the universe?
  Elon Musk, who recently authored an open letter calling for a[moratorium on the development of powerful AI](http://www.makeuseof.com/why-elon-musk-want-to-pause-ai-development/) models (specifically those more powerful than GPT-4), believes AI is moving too fast. He believes we need to slow down and reevaluate our approach to AI safety before AI "takes control." TruthGPT is a large language model (LLM) that promises to address these two core concerns with today's AI systems.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Would TruthGPT Look Like?
 
 ![artificial brain doing data analytics ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/mou-article-banner.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The first hint into how TruthGPT would look is in the name. Considering the "GPT" appendage, TruthGPT will likely have a similar architecture to ChatGPT. Remember, Elon Musk helped assemble OpenAI and the team that built ChatGPT's GPT model.
 
  Also, considering GPT's architecture has proven to be both a technical and commercial success, pursuing a different path will likely be too time-consuming and costly. Time is one thing that Elon Musk doesn't have if he's to build something that can truly stand toe to toe with state-of-the-art AI as soon as possible. So, don't get too hyped—TruthGPT might not be that radically different from the AI tools we already have.
@@ -53,16 +59,14 @@ Maximum truth-seeking AI? Understand the nature of the universe?
 
 So, is this idea of a maximum truth-seeking AI even practical?
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why Building TruthGPT Is a Huge Challenge
 
 ![Cogs on a machine](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/pexels-pixabay-159298.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Once you[understand how large language models like GPT work](http://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) , it becomes clear that it is impractical to be correct at all times. Typically trained on a large dataset of internet data, a lot of it is, predictably, going to be false information, and LLM's have no inert way of telling fact from fiction.
 
  The best intervention is typically from human trainers who try to teach the language model what's good behavior and what's bad. But human trainers are biased.[Bias is passed to the AI models](https://www.makeuseof.com/what-is-ai-bias/) , defeating the whole purpose of a "maximum truth-seeking AI." Note, we're not talking about outright bias or prejudice against a people or otherwise. It's the more subtle bias about how you interpret language, situations, challenges, and so on that leach into the process. Humans are human, after all.
@@ -72,22 +76,20 @@ So, is this idea of a maximum truth-seeking AI even practical?
  For Musk, TruthGPT appears to be a chance for him to carve an AI model that he sees fit to deliver the truth. How that would come about without introducing his own biases is another question entirely and effectively leads us back to the start of the conversation. How are Musk's opinions on what is biased or not any different from those who trained and directed ChatGPT?
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Is TruthGPT an Exciting Possibility?
 
  Elon Musk's plans for TruthGPT seem noble and commendable. However, building an AI model with a negligible incidence of inaccuracies is a tough task.
 
  While we'd expect a tech billionaire who has demystified rocket science to be able to pull off something of this nature, some things are easier said than done.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -96,4 +98,26 @@ So, is this idea of a maximum truth-seeking AI even practical?
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-superior-sites-for-selecting-storied-soundtracks-for-2024/"><u>[New] Superior Sites for Selecting Storied Soundtracks for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/he-filmmakers-guide-to-selecting-excellent-lenses-for-2024/"><u>[New] The Filmmaker's Guide to Selecting Excellent Lenses for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-stream-wars-evaluation-who-comes-out-on-top-obs-or-twitch-studio-for-2024/"><u>[Updated] Stream Wars Evaluation Who Comes Out on Top, OBS or Twitch Studio for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/cambia-i-tuoi-file-aiff-in-formato-wav-senza-costi-con-movavi/"><u>Cambia I Tuoi File AIFF in Formato WAV Senza Costi Con Movavi</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/essential-guide-utilizing-screencastify-recorder-for-2024/"><u>Essential Guide Utilizing Screencastify Recorder for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Oppo A56s 5G | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-tips-to-seamlessly-retrieve-youtube-srt-subtitles/"><u>In 2024, Expert Tips to Seamlessly Retrieve YouTube SRT Subtitles</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-tips-and-tricks-for-iphone-low-light-photography/"><u>In 2024, Tips and Tricks for iPhone Low Light Photography</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-samsung-galaxy-a34-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Samsung Galaxy A34 5G without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/prospering-amidst-automation-top-6-tactics-to-excel-as-ai-redefines-the-job-landscape/"><u>Prospering Amidst Automation: Top 6 Tactics to Excel as AI Redefines the Job Landscape</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionize-your-artwork-leveraging-microsofts-copilot-for-customized-ai-image-production/"><u>Revolutionize Your Artwork: Leveraging Microsoft's Copilot for Customized AI Image Production</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/scripting-scenarios-6-gpt-techniques-for-engaging-dandd-adventures/"><u>Scripting Scenarios: 6 GPT Techniques for Engaging D&D Adventures</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/steps-to-detect-and-handle-chatgpt-phishing-attempts-online/"><u>Steps to Detect and Handle ChatGPT Phishing Attempts Online</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/streamlining-communication-integrating-chatgpt-into-virtual-work-sessions/"><u>Streamlining Communication: Integrating ChatGPT Into Virtual Work Sessions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-art-of-simplicity-chatgpts-top-9-techniques/"><u>The Art of Simplicity: ChatGPT's Top 9 Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-beginners-path-to-generate-exclusive-ai-visuals-via-microsofts-copilot-tool/"><u>The Beginner's Path to Generate Exclusive AI Visuals via Microsoft's Copilot Tool</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-future-on-your-wrist-enhancing-smartwatches-with-chatgpts-technology/"><u>The Future on Your Wrist: Enhancing Smartwatches with ChatGPT's Technology</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-newest-player-in-ai-chatter-googles-bard-poses-serious-competition-for-chatgpt/"><u>The Newest Player in AI Chatter: Google's Bard Poses Serious Competition for ChatGPT</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-secrets-to-discreetly-fading-out-sounds-using-audacity/"><u>The Secrets to Discreetly Fading Out Sounds Using Audacity</u></a></li>
+</ul></div>
 

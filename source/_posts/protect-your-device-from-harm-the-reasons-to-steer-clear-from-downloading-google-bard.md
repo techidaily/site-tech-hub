@@ -1,7 +1,7 @@
 ---
 title: Protect Your Device From Harm - The Reasons to Steer Clear From Downloading Google Bard
-date: 2024-08-29T01:21:49.436Z
-updated: 2024-08-30T01:21:49.436Z
+date: 2024-12-21T16:48:10.690Z
+updated: 2024-12-22T22:11:23.858Z
 tags:
   - chatgpt
   - open-ai
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 ---
 
 ## Risky Alert: The Google Bard App Is Not Safe to Download – Contains Malware
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -31,13 +35,18 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 
 ![A screenshot of the Google Bard chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/google-bard.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  There are many[ways to use Google Bard](https://www.makeuseof.com/how-to-use-google-bard/) . You can enter a prompt asking Google Bard to explain how something works, give you ideas for a project, and even write code for you.
 
  The key issue is that Google Bard is only available in browsers and requires a Google account. So, don't be tempted to install an app advertised as Google Bard, as it's malware that Google is taking legal action to take down.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why You Shouldn't Download the Google Bard App
 
  On November 13, 2023, Google announced on its official blog,[The Keyword](https://blog.google/outreach-initiatives/public-policy/taking-legal-action-to-protect-users-of-ai-and-small-businesses/) , that it's filing a lawsuit and taking legal action against scammers said to be based in Vietnam. You can view the lawsuit complaint on[ Thomson Reuters \[PDF\]](https://fingfx.thomsonreuters.com/gfx/legaldocs/jnpwwongbpw/GOOGLE%20BARD%20LAWSUIT%20complaint.pdf) .
@@ -45,8 +54,9 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 ![An image of AIGoogleBard's Facebook page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/aigooglebard-facebook-page.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Image Credit:[Google Bard Lawsuit Complaint](http://chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://fingfx.thomsonreuters.com/gfx/legaldocs/jnpwwongbpw/GOOGLE%20BARD%20LAWSUIT%20complaint.pdf)
 
  The scammers created social media pages under account names such as Google AI, AIGoogle Bard FB, and AIGoogleBard and ran advertisements encouraging users to download an app version of Google Bard.
@@ -60,22 +70,20 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
  Google has already submitted 300 takedown requests against these scammers since April 2023 and wants them prevented from registering future malicious domains and disabled with US domain registrars. Google hopes that providing appropriate legal action and cooperating with government officials will expose scammers and promote a safe space for users online.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stick With Google Bard on Your Browser
 
  If you're thinking about downloading an app version of Google Bard you saw advertised on Facebook, think twice;**it's malware** .
 
  There is no app version of Google Bard at the time of writing, so users should stick to the free web-based version until Google officially announces an app. Until then, use the web-based version and always check the source's reliability before downloading or installing any software.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -84,4 +92,22 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/updated-iphone-photo-perfection-implement-these-10-composition-tenets/"><u>[Updated] IPhone Photo Perfection Implement These 10 Composition Tenets</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-reinventing-your-avatar-a-detailed-guide-to-changing-tiktok-handle-for-2024/"><u>[Updated] Reinventing Your Avatar A Detailed Guide to Changing TikTok Handle for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-return-journey-maker-collection/"><u>2024 Approved Return Journey Maker Collection</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/cleaner-frames-with-advanced-webcam-tech/"><u>Cleaner Frames with Advanced Webcam Tech</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/dall-e-3-upgraded-with-editing-tools-still-a-work-in-progress/"><u>DALL-E 3 Upgraded With Editing Tools – Still a Work in Progress</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/demystifying-gpt-4-access-and-utilization-explained-for-broad-audiences/"><u>Demystifying GPT-4: Access and Utilization Explained for Broad Audiences</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/diy-ai-assistant-developing-a-chatgpt-clone-using-unique-data-sources/"><u>DIY AI Assistant: Developing a ChatGPT Clone Using Unique Data Sources</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/diy-your-own-open-source-chatgpt-replica-for-windows-discover-how-with-freedomgpts-step-by-step-guide/"><u>DIY Your Own Open Source ChatGPT Replica for Windows: Discover How With FreedomGPT's Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/efficiently-design-presentations-through-chatgpt-help/"><u>Efficiently Design Presentations Through ChatGPT Help</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-prompt-crafting-on-chatgpt-using-our-exclusive-chrome-extension/"><u>Effortless Prompt Crafting on ChatGPT Using Our Exclusive Chrome Extension</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/embrace-the-power-of-gpt-4-your-step-by-step-user-manual/"><u>Embrace the Power of GPT-4: Your Step-by-Step User Manual</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/envisioning-virtual-vigilance-projected-trends-in-security/"><u>Envisioning Virtual Vigilance: Projected Trends in Security</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Nokia C32? | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-timing-translation-from-20mb-to-seconds-measurement/"><u>In 2024, Timing Translation From 20Mb to Seconds Measurement</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unraveling-the-mystery-of-claude-maximizing-your-potential-with-this-advanced-tool/"><u>Unraveling the Mystery of Claude ^: Maximizing Your Potential with This Advanced Tool</u></a></li>
+</ul></div>
 

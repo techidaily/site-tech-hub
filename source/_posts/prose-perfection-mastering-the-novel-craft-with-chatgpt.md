@@ -1,7 +1,7 @@
 ---
 title: "Prose Perfection: Mastering the Novel Craft with ChatGPT"
-date: 2024-08-29T01:18:05.585Z
-updated: 2024-08-30T01:18:05.585Z
+date: 2024-12-17T18:32:55.484Z
+updated: 2024-12-22T20:41:47.581Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/9b9110ec4a61375e331a8801ee2c3323c1b29e5d6
 
 ![In Solve the Murders, you play a detective who has chat with AI suspects in a murder mystery to find out who the killer is](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-solve-the-murders.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Author Screenshot by Mihir Patkar - No attribution required
 
  Solve the Murders is based on a similar large language model as ChatGPT, where you play a detective who has to solve the murder mystery by chatting with AI-generated bots. At the start, you'll be given a list of facts about the murder and the players involved.
@@ -35,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/9b9110ec4a61375e331a8801ee2c3323c1b29e5d6
 
 ![Gron is a retro 8-bit RPG-style online game where you unravel a murder mystery by finding evidence and clues, as well as interrogating suspects with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-gron-town.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Author Screenshot by Mihir Patkar - No attribution required
 
  You already know that[ChatGPT can create fictional characters](https://www.makeuseof.com/chatgpt-prompts-to-develop-book-characters/) to talk with or let you chat with existing famous characters once the right data is fed. Gron leverages this power to make a murder mystery game like an old-school 8-bit RPG.
@@ -43,16 +51,14 @@ thumbnail: https://thmb.techidaily.com/9b9110ec4a61375e331a8801ee2c3323c1b29e5d6
 
  When you interact with a character, Gron automatically starts a chat window. Knowing the right prompts and asking the right questions is important. For example, we asked a character if he is the only son and got an affirmative response, but when asked if he had any siblings, he quickly replied that he misunderstood the first question and he had a sister. As you ask more questions, use the in-game diary to record responses so that you can cross-reference different testimonies to deduce who the murderer is.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ## 3.[Mystery-o-Matic](https://mystery-o-matic.com/) (Web): New Murder Mystery Generated Daily Randomly
 
 ![Mystery-o-matic uses AI like ChatGPT to generate a new murder mystery every day where you have to guess the killer, the weapon, and the location based on a set of clues](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-mystery-o-matic.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Author Screenshot by Mihir Patkar - No attribution required
 
  Move over,[Wordle and its alternatives](https://www.makeuseof.com/best-wordle-alternatives/) . There's a new daily puzzle, and lives are at stake! Mystery-o-Matic generates a new murder mystery every day using machine-learning algorithms. It uses a few base elements and then creates permutations and combinations that set up a daily mystery.
@@ -62,15 +68,13 @@ thumbnail: https://thmb.techidaily.com/9b9110ec4a61375e331a8801ee2c3323c1b29e5d6
  Use the built-in investigator's notebook to figure out who was in which room at what time and how they could have accessed a murder weapon. Once you're sure about the solution, say who the murderer was, the weapon was, and the time of the murder. The game might get a little repetitive the longer you play it, but hey, where else would you get to solve a murder mystery daily?
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4.[Murdle](https://murdle.com/) (Web): Daily Murder Mystery Logic Puzzles
 
 ![Murdle offers a new murder mystery everyday, generated by an AI and written by Hollywood mystery writer G. T. Karber, increasing in difficulty from Monday to Sunday](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-murdle.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Author Screenshot by Mihir Patkar - No attribution required
 
  Hollywood mystery writer G. T. Karber offers one new murder mystery logic puzzle daily at his website Murdle. The long-running successful website has already led to three books of murder mysteries, written by Karber and generated by "Moriarty", a proprietary algorithm capable of planning a million murders a minute.
@@ -80,22 +84,20 @@ thumbnail: https://thmb.techidaily.com/9b9110ec4a61375e331a8801ee2c3323c1b29e5d6
  You play as Detective Logico and are given a series of clues and evidence, which you can use with the cross-referencing charting to match suspects, locations, and weapons. It's best to start off with the mini-Murdle tutorial and then get to the daily puzzles. When you're ready to make your accusation, you'll need to say who the murderer was, how they did it, and where the ghastly act took place.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Create Your Own ChatGPT Murder Mystery
 
  Yes, you can create a murder mystery game with ChatGPT by yourself. These murder mystery apps relieve you of the burden of giving the AI base information and data and then figuring out the best prompts to have it generate a mystery. But if you're willing to learn those skills, you can soon set up a few templates of your own and construct a custom ChatGPT mystery.
 
  A good place to learn how to set up these prompts is Reddit. On r/ChatGPT, you'll find posts like creating a murder mystery with the characters of the sitcom Friends or the mystery inspired by the game Clue. How cool would it be to play a murder mystery based on your favorite fictional characters?
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -104,4 +106,22 @@ thumbnail: https://thmb.techidaily.com/9b9110ec4a61375e331a8801ee2c3323c1b29e5d6
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-facebook-frenzy-top-downloader-tools-that-bring-videos-to-life-on-idevices-for-2024/"><u>[Updated] Facebook Frenzy Top Downloader Tools that Bring Videos to Life on iDevices for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-how-to-unlock-full-potential-with-iphone-hdr/"><u>2024 Approved How to Unlock Full Potential with iPhone HDR</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ing-the-perfect-soundtrack-youtubes-best-audio-sites-ranked/"><u>Curating the Perfect Soundtrack YouTube's Best Audio Sites Ranked</u></a></li>
+<li><a href="https://facebook.techidaily.com/elevate-operations-designating-an-admin-on-facebook/"><u>Elevate Operations: Designating an Admin on Facebook</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-windows-11-context-menu-with-submenus/"><u>Enhancing Windows 11 Context Menu with Submenus</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-framework-how-governments-can-control-ai-technology/"><u>Exploring the Framework: How Governments Can Control AI Technology</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-future-7-key-cybersecurity-innovations-ahead/"><u>Exploring the Future: 7 Key Cybersecurity Innovations Ahead</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gpts-dark-side-could-it-expose-bank-or-computer-vulnerabilities/"><u>GPT's Dark Side: Could It Expose Bank or Computer Vulnerabilities?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/harness-the-power-of-dall-e-for-webp-to-png-and-jpeg-transitions/"><u>Harness the Power of DALL-E for WebP to PNG & JPEG Transitions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-do-large-scale-llms-operate-to-process-human-language/"><u>How Do Large-Scale LLMs Operate to Process Human Language?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-elevate-your-youtube-content-seo-methods-revealed/"><u>In 2024, Elevate Your YouTube Content SEO Methods Revealed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/inside-huggingchat-the-free-collaborative-ai-chat-platform/"><u>Inside HuggingChat: The Free, Collaborative AI Chat Platform</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-chatgpt-capable-of-learning-from-user-dialogue-exchanges/"><u>Is ChatGPT Capable of Learning From User Dialogue Exchanges?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-archiving-ai-conversations/"><u>The Ultimate Guide to Archiving AI Conversations</u></a></li>
+</ul></div>
 

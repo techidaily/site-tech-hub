@@ -1,7 +1,7 @@
 ---
 title: "AI's Evolutionary Path: From Weak to Robustness"
-date: 2024-08-29T01:20:21.952Z
-updated: 2024-08-30T01:20:21.952Z
+date: 2024-12-19T20:45:34.135Z
+updated: 2024-12-22T21:04:19.941Z
 tags:
   - chatgpt
   - open-ai
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/72529af7d2bf02239916cd0ba31d950846919ac8a
 ---
 
 ## Microsoft's Revolutionary Image Creator Tool – Generate One-of-a-Kind AI Images Today
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -31,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/72529af7d2bf02239916cd0ba31d950846919ac8a
 
  That's right; you can use Microsoft Copilot to generate free AI images using DALL-E 3, and it's incredibly simple to do.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is Microsoft Copilot Image Creator?
 
  The[Official Microsoft Blog](https://blogs.microsoft.com/blog/2023/03/21/create-images-with-your-words-bing-image-creator-comes-to-the-new-bing/) first announced that AI image creation would be coming to Copilot on 21 March 2023\. At the time, Copilot was still called Bing AI Chat prior to its November 2023 name change.
@@ -42,21 +50,15 @@ thumbnail: https://thmb.techidaily.com/72529af7d2bf02239916cd0ba31d950846919ac8a
  There are two "versions" of Copilot Image Creator, though they both work similarly. You can access the Copilot Image Creator directly from Microsoft Copilot within the Edge browser, which is an exclusive Edge feature. However, not wanting to cut potential users out, you can also access it in any browser by heading to the[Copilot Image Creator](https://copilot.microsoft.com/) . I'll cover the differences between each option below, but both AI image creation tools follow the same premise: you input your words, and the AI tool turns them into unique images.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Use Microsoft Copilot Image Generator
 
  Microsoft's Copilot Image Creator uses DALL-E 3 to create AI images. DALL-E 3 is the same AI text-to-image you'll find on ChatGPT Plus, OpenAI's premium $20 subscription tier. So here's the rub: you can use the same DALL-E 3 image creation tool with Copilot without paying a penny.
 
  Copilot Image Creator is completely free, which gives it a substantial advantage over ChatGPT Plus. It's also not the only[reason to use Microsoft Copilot instead of ChatGPT](https://www.makeuseof.com/reasons-to-use-copilot-instead-of-chatgpt/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ### Microsoft Copilot Image Creator in Edge
 
  If you use Microsoft's Edge browser, the easiest way to start using the Image Creator is in a regular Copilot chat. Ask Copilot to create an image, and it'll do its best to deliver a unique take on your input, providing four 1:1 images (it will not give you a 2:1 image or otherwise, no matter what input you try—but there is a reason for that!).
@@ -70,9 +72,9 @@ No advertising on the website.
 ![microsoft copilot image creator four images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/microsoft-copilot-image-creator-four-images.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  However, from there, I selected the image I wanted to use, pressed the "expand" icon in the bottom right corner, and selected**Landscape** . Copilot auto-magically adjusted the original image into a 2:1 1792x1024, finally fulfilling my original request.
 
 Close
@@ -81,9 +83,6 @@ Close
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Microsoft Copilot Image Creator in Any Browser
 
  If you don't use Edge, you can use Copilot Image Creator in any browser with its dedicated site. The Copilot Image Creator site is mostly the same but with a couple of differences.
@@ -92,16 +91,14 @@ Close
 
 ![microsoft copilot image creator browser version with four images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/microsoft-copilot-image-creator-browser-version-with-four-images.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Second, the Image Creator available to all browsers uses a "boost" token system to provide speedy images. You start with 100 boosts, and each time you input a prompt, it uses a boost. Once your boosts run out, Image Creator won't prioritize your creations, and they can take a few minutes to appear. It doesn't appear to make a difference to quality, mind, just time.
 
  What I found interesting was that Image Creator images generated in Copilot on Edge will appear in your Image Creator recent images. Edits you make to the Copilot on Edge images will update across the two tools as you make them, but it's a one-way process.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Should You Use Microsoft Copilot Image Creator or ChatGPT Plus With DALL-E 3?
 
  It's frustrating that Copilot Image Creator won't create a 2:1 image out of the box, but Microsoft's editing tool takes care of this with some extra clicks, so it's not too much of an issue.
@@ -114,14 +111,11 @@ Close
 
  Overall, if you want a free AI text-to-image generator, it's hard to look beyond Microsoft Copilot Image Creator. It's simple to use, powerful, and outputs a wide range of image types, styles, and more.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -130,4 +124,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-unlock-the-potential-of-hd-videos-on-android-devices/"><u>[New] In 2024, Unlock the Potential of HD Videos on Android Devices</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-ultra-rich-viewable-ventures/"><u>[New] Ultra-Rich Viewable Ventures</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/boost-your-workflow-with-macbook-airs-splitting-screen-techniques/"><u>Boost Your Workflow with MacBook Air's Splitting Screen Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-you-rely-on-ai-detection-like-zerogpt-see-why-not-through-these-examples/"><u>Can You Rely on AI Detection Like ZeroGPT? See Why Not Through These Examples.</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-beta-unleashed-enabling-and-using-web-browsing-features-and-plugins-for-enhanced-interaction/"><u>ChatGPT Beta Unleashed: Enabling and Using Web Browsing Features and Plugins for Enhanced Interaction</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-hacks-are-banks-at-risk-pc-threats-unveiled/"><u>ChatGPT Hacks: Are Banks at Risk? PC Threats Unveiled</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-a-game-changer-in-the-world-of-advanced-excel-workflows/"><u>ChatGPT: A Game Changer in the World of Advanced Excel Workflows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-initiating-a-human-like-discussion/"><u>ChatGPT: Initiating a Human-Like Discussion</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpts-processing-hurdles-a-look-at-seven-non-negotiables/"><u>ChatGPT's Processing Hurdles: A Look at Seven Non-Negotiables</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpts-real-time-data-widespread-advantages/"><u>ChatGPT's Real-Time Data: Widespread Advantages</u></a></li>
+<li><a href="https://win-info.techidaily.com/comment-effacer-votre-historique-de-sauvegarde-sur-windows-10/"><u>Comment Effacer Votre Historique De Sauvegarde Sur Windows 10?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/grandiose-photographic-epic-weaver-for-2024/"><u>Grandiose Photographic Epic Weaver for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-successfully-diagnose-and-resolve-pc-speaker-issues/"><u>How To Successfully Diagnose and Resolve PC Speaker Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/revitalize-your-huion-sketch-tool-5-fast-fixes-for-a-broken-pen/"><u>Revitalize Your Huion Sketch Tool - 5 Fast Fixes for a Broken Pen</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-apple-watch-savings-the-ultimate-guide-to-the-best-promotions-in-july-2024-spotted-by-zdnet/"><u>Top Apple Watch Savings: The Ultimate Guide to the Best Promotions in July 2024 - Spotted by ZDNet</u></a></li>
+</ul></div>
 

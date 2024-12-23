@@ -1,7 +1,7 @@
 ---
 title: CEO Departure at AI Hub - Will GPT Follow Suit?
-date: 2024-08-29T01:21:55.930Z
-updated: 2024-08-30T01:21:55.930Z
+date: 2024-12-16T16:13:36.835Z
+updated: 2024-12-22T17:27:06.067Z
 tags:
   - chatgpt
   - open-ai
@@ -15,11 +15,19 @@ thumbnail: https://thmb.techidaily.com/8e351a495ce579ab157428c084339d1c33794d9d4
 
 ## AI Hub Unveils Tailored GPT Marketplace – Your Guide
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [How to Access the GPT Store](https://godlikehost.sjv.io/vnbxzv)
 * [How to Find the Best Custom GPTs in the GPT Store](https://ancheer.sjv.io/y96bgp)
 * [Is it Worth Upgrading to ChatGPT Plus to Use Custom GPTs?](https://getlyla.pxf.io/ek9gkg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -35,9 +43,6 @@ thumbnail: https://thmb.techidaily.com/8e351a495ce579ab157428c084339d1c33794d9d4
 
  ChatGPT's custom GPT Store is open right now, and this is how you can use it to find the pre-programmed AI tools you need.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Access the GPT Store
 
  Access and use of the new GPT Store [requires a ChatGPT subscription](http://www.makeuseof.com/chatgpt-plus-subscription-worth-it/). Only users with ChatGPT Plus, ChatGPT Teams, or ChatGPT Enterprise accounts will be able to use the store's catalog of custom GPTs. You also need a ChatGPT subscription if you want to [create your own custom GPT](https://www.makeuseof.com/how-use-create-a-gpt-to-create-a-customized-version-of-chatgpt/).
@@ -48,9 +53,6 @@ thumbnail: https://thmb.techidaily.com/8e351a495ce579ab157428c084339d1c33794d9d4
 
  On the left sidebar of the ChatGPT interface, you should see **Explore GPTs** instead of simply **Explore**. Once you see this, you can start using the GPT Store! Remember, the whole idea of the GPT Store is to help users browse and access a wide range of GPTs built by the community. So, how can you use it to find the right GPT for your tasks?
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Find the Best Custom GPTs in the GPT Store
 
  Using the GPT Store is quite straightforward. Here's how you can browse and search for custom GPTs:
@@ -59,32 +61,27 @@ thumbnail: https://thmb.techidaily.com/8e351a495ce579ab157428c084339d1c33794d9d4
 2. At the top of the store page, you will see featured categories like Writing, Productivity, Programming, Research and Analysis, and DALL-E for image generation. Click on a category to view a list of the top-performing custom GPT models in that specific category.  
 ![Screenshot of the GPT store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-store.jpg)
 3. You can also use the search bar to find GPTs by keyword or related terms.  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![GPT Store search screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-store-search-screen.jpg)
 4. When you find a GPT you want to try, click on it to open the individual GPT page.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. On the GPT page, you will see information about what that model offers.
 6. After testing a GPT that solves your problem well, take one important extra step—click on the GPT name in the top left corner of the page, then click **Keep in sidebar**. This saves that GPT to the sidebar along with your chat history for easy future access.  
 ![Adding a GPT to sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/adding-a-gpt-to-sidebar.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  However, you should note that at the time of writing, the GPT Store isn't reviewed, and there is no rating system or otherwise. We're hoping that OpenAI will introduce some type of rating system in the near future, as currently, without any system in place, you're effectively on your own when it comes to figuring out what works well. By extension, it seems likely that some form of rating or review system will be implemented once GPT Store revenue sharing is launched, but OpenAI hasn't given any fixed timeline for this.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Is it Worth Upgrading to ChatGPT Plus to Use Custom GPTs?
 
  Since you need a ChatGPT subscription to use custom GPTs, you're probably wondering whether it's worth paying the $20 subscription fee to access the feature.
@@ -101,8 +98,6 @@ thumbnail: https://thmb.techidaily.com/8e351a495ce579ab157428c084339d1c33794d9d4
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -110,4 +105,24 @@ thumbnail: https://thmb.techidaily.com/8e351a495ce579ab157428c084339d1c33794d9d4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-essential-skills-for-youtube-gamers/"><u>[New] Essential Skills for YouTube Gamers</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-building-a-strong-online-presence-with-attractive-video-thumbnails-for-2024/"><u>[Updated] Building a Strong Online Presence with Attractive Video Thumbnails for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-diy-iphone-audio-memos-step-by-step/"><u>[Updated] In 2024, DIY iPhone Audio Memos Step by Step</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/best-self-driving-vehicle-producers-top-picks/"><u>Best Self-Driving Vehicle Producers : Top Picks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discovering-the-gaps-7-requests-chatgpt-cannot-fulfill-or-interpret/"><u>Discovering the Gaps: 7 Requests ChatGPT Cannot Fulfill or Interpret</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhance-your-mobile-tech-with-these-8-advanced-ai-applications-for-phones/"><u>Enhance Your Mobile Tech with These 8 Advanced AI Applications for Phones</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/experience-better-conversations-with-these-9-compelling-reasons-for-chatgpt-plus/"><u>Experience Better Conversations with These 9 Compelling Reasons for ChatGPT Plus</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-deep-learnings-concealed-mechanisms-ai-black-boxes-revealed/"><u>Exploring Deep Learning's Concealed Mechanisms: AI Black Boxes Revealed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-evolution-of-openais-gpt/"><u>Exploring the Evolution of OpenAI's GPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-reality-of-prompt-engineering-as-a-career-top-9-aspects-to-evaluate/"><u>Exploring the Reality of Prompt Engineering as a Career: Top 9 Aspects to Evaluate</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-update-for-hp-deskjet-ink-advantage-3050-software-suite-on-windows-systems-step-by-step-tutorial/"><u>Free Update for HP Deskjet Ink Advantage 3050 Software Suite on Windows Systems: Step-by-Step Tutorial</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/freedom-for-chatgpt-loss-for-openai/"><u>Freedom for ChatGPT, Loss for OpenAI?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-text-to-visualization-the-ultimate-guide-to-using-dall-e-with-chatgpt-4-for-ai-artwork/"><u>From Text to Visualization: The Ultimate Guide to Using DALL-E with ChatGPT-4 for AI Artwork</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/step-by-step-guide-how-to-digitize-your-dvds-and-share-them-on-youtube/"><u>Step-by-Step Guide: How To Digitize Your DVDs and Share Them on YouTube</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-infinix-gt-10-pro-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Infinix GT 10 Pro.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-smart-speaker-reviews-comprehensive-analysis-by-tech-experts-zdnet/"><u>Top-Rated Smart Speaker Reviews - Comprehensive Analysis by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/forming-youtube-videos-into-cash-flows/"><u>Transforming YouTube Videos Into Cash Flows</u></a></li>
+</ul></div>
 

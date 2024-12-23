@@ -1,7 +1,7 @@
 ---
 title: Easy Guide to Activating Slack Alerts on Apple Watch - Tips
-date: 2024-12-09T16:59:30.555Z
-updated: 2024-12-13T19:06:01.787Z
+date: 2024-12-18T19:49:25.175Z
+updated: 2024-12-22T22:21:24.480Z
 tags:
   - apple
 categories:
@@ -52,6 +52,10 @@ Here's how.
 
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Install the Slack app on your iPhone
 
 There is no dedicated Slack app for the Apple Watch, but there is an iPhone app. This app controls everything about how Slack works with notifications on your phone. So, if you don't already have Slack on your iPhone, go to [the App Store and install it](https://apps.apple.com/us/app/slack/id618783545).
@@ -62,6 +66,10 @@ Once it's installed, go ahead and log into your various Slack channels. Get thos
 
 Let's make sure iOS is set up to allow Slack notifications. Go to the main Settings app and on the main settings screen, scroll all the way down to Slack. It's a long scroll past many other apps. Tap into Slack.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##   
 
 Screenshot by David Gewirtz/ZDNET
@@ -71,10 +79,6 @@ Once you're in the Slack settings pane, make sure Background App Refresh and Cel
 Now, back out to the top of the Settings app and tap the red Notifications icon. Make sure you Allow Notifications and turn on Time Sensitive Notifications. I also recommend you make sure Sounds is set to on. 
 
 Screenshot by David Gewirtz/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Set up Slack notifications in the Slack app
 
@@ -98,10 +102,6 @@ Screenshot by David Gewirtz/ZDNET
 
 Set it to "Always, even when I'm active". That way, you'll always get notifications, no matter what you're doing (unless you have Do Not Disturb turned on).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Set your notification schedule
 
 Let's go back to the Slack app's Notifications screen for a moment. Scroll down to General Settings and notice the Notification Schedule option. See how it says "Every day."
@@ -123,22 +123,22 @@ So, make sure you set the Start and End times that fit with your schedule.
 Recommendation to Slack: Where you put the "Every day" option in that setting, add the times as well (e.g., "Every day 8 a.m. - 11 p.m."). That way, it's clear to users what they might need to change. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Enable Slack notifications in the Watch app
 
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##   
 
 Screenshot by David Gewirtz/ZDNET
 
 There. You've set up notifications. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
 
@@ -179,18 +179,19 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-all-inclusive-list-best-downloader-software-for-vimeo/"><u>[Updated] In 2024, All-Inclusive List Best Downloader Software for Vimeo</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-ultimate-guide-prime-video-stabilizers-for-2024/"><u>[Updated] Ultimate Guide Prime Video Stabilizers for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhancing-privacy-measures-for-adaptive-chatgpt-applications/"><u>Enhancing Privacy Measures for Adaptive ChatGPT Applications</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/experiencing-issues-with-chatgpt-try-these-5-tricks-to-check-its-status/"><u>Experiencing Issues with ChatGPT? Try These 5 Tricks to Check Its Status</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploiting-ai-attention-cues-to-expose-shadow-bots/"><u>Exploiting AI Attention Cues to Expose Shadow Bots</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/explore-the-power-of-ai-in-browsers-7-cutting-edge-extensions-to-supercharge-your-chatgpt-use/"><u>Explore the Power of AI in Browsers: 7 Cutting-Edge Extensions to Supercharge Your ChatGPT Use</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-role-of-content-filtering-in-ai-chatbots/"><u>Exploring the Role of Content Filtering in AI Chatbots</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-does-chatgpt-decode-programming-languages-the-importance-unveiled/"><u>How Does ChatGPT Decode Programming Languages? The Importance Unveiled</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Honor 80 Pro Straight Screen Edition? | Dr.fone</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/mastering-the-art-of-retrieving-data-from-unformatted-sd-cards-with-expert-techniques/"><u>Mastering the Art of Retrieving Data From Unformatted SD Cards with Expert Techniques</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-windows-10-white-out/"><u>Overcoming Windows 10 White Out</u></a></li>
-<li><a href="https://win11.techidaily.com/securing-windows-11-with-additional-firewall-options-via-context-menu/"><u>Securing Windows 11 with Additional Firewall Options via Context Menu</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-tips-for-finding-love-beating-the-no-matches-hurdle-on-bumble/"><u>Top Tips for Finding Love: Beating the No Matches Hurdle on Bumble</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-beat-makers-paradise-downloading-premium-dj-visuals/"><u>[New] 2024 Approved Beat Makers' Paradise Downloading Premium DJ Visuals</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-snaplink-collage-harmonize-photos-for-instagram/"><u>[New] 2024 Approved SnapLink Collage Harmonize Photos for Instagram</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-convert-twitter-vids-into-aacmp4-files-for-2024/"><u>[New] Convert Twitter Vids Into AAC/MP4 Files for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-enhancing-the-endurance-of-your-gopro-battery-for-2024/"><u>[Updated] Enhancing the Endurance of Your GoPro Battery for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-reel-in-your-audience-with-professional-ipadiphone-podcasting-hacks/"><u>[Updated] Reel in Your Audience with Professional IPad/iPhone Podcasting Hacks</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-unlocking-youtube-on-facebook-feeds/"><u>[Updated] Unlocking YouTube on Facebook Feeds</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-filmora-edits-explained-addressing-common-concerns-and-questions/"><u>2024 Approved Filmora Edits Explained Addressing Common Concerns and Questions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/introducing-the-future-of-driving-chatgpt-powered-by-voice-control-in-new-mercedes-benz-models/"><u>Introducing the Future of Driving: ChatGPT Powered by Voice Control in New Mercedes-Benz Models</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-ai-technology-like-chatgpt-phasing-out-the-need-for-traditional-student-writing/"><u>Is AI Technology Like ChatGPT Phasing Out the Need for Traditional Student Writing?</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/is-it-possible-to-recover-data-after-formatting-a-hard-drive/"><u>Is It Possible to Recover Data After Formatting a Hard Drive?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-your-information-safe-with-chatgpt-assessing-its-credibility-and-trustworthiness/"><u>Is Your Information Safe with ChatGPT? Assessing Its Credibility and Trustworthiness</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leverage-chatgpt-power-10-essential-methods-for-securing-a-job-on-linkedin/"><u>Leverage ChatGPT Power: 10 Essential Methods for Securing a Job on LinkedIn</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leveraging-ai-for-education-discover-5-ways-to-use-chatgpt-at-school/"><u>Leveraging AI for Education: Discover 5 Ways to Use ChatGPT at School</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximize-output-discover-the-top-8-smart-ai-extensions-for-google-chrome/"><u>Maximize Output: Discover the Top 8 Smart AI Extensions for Google Chrome</u></a></li>
 </ul></div>
 
