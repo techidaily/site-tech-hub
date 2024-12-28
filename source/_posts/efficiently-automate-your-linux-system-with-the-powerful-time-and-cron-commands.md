@@ -1,7 +1,7 @@
 ---
 title: Efficiently Automate Your Linux System with the Powerful Time and Cron Commands
-date: 2024-08-29T01:11:10.397Z
-updated: 2024-08-30T01:11:10.397Z
+date: 2024-12-25T01:33:53.660Z
+updated: 2024-12-27T17:07:19.218Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Efficiently Automate Your Linux System with the Powerful Time and Cron Commands
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -31,9 +35,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  We want to use the GNU version of time because it has more [options](http://man7.org/linux/man-pages/man1/time.1.html#OPTIONS) and is more flexible.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ##  Which time Will Run?
 
  You can check which version will run by using the type command. type will let you know whether the shell will handle your instruction itself, with its internal routines, or pass it on to the GNU binary. In a terminal window type the word **type**, a space, and then the word **time**and hit Enter.
@@ -42,9 +43,6 @@ type time
 
 ![type time in a bash terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/05/time_1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  We can see that in the bash shell time is a reserved word. This means Bash will use its internal time routines by default.
 
 type time
@@ -52,8 +50,9 @@ type time
 ![type time in a zsh terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/05/time_2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In the Z shell (zsh) time is a reserved word, so the internal shell routines will be used by default.
 
 type time
@@ -61,6 +60,10 @@ type time
 ![type time in a Korn shell window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/05/time_3.png) 
 
  In the Korn shell time is a keyword. An internal routine will be used instead of the GNU time command.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Running the GNU time Command
 
@@ -71,6 +74,10 @@ type time
 * Use a backslash like `\time`.
 
 ![time command output in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/05/time_4.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The `which time` command gives us the path to the binary.
 
@@ -110,7 +117,6 @@ int main (int argc, char* argv[])
  if (szString[i] == '-')  
  count++;  
 
-
  printf("Counted %d hyphens\n", count);  
  exit (0);  
 } // end of main`
@@ -131,7 +137,6 @@ int main (int argc, char* argv[])
  if (szString[i] == '-')  
  count++;  
 
-
  printf("Counted %d hyphens\n", count);  
  exit (0);  
 } // end of main`
@@ -142,9 +147,6 @@ int main (int argc, char* argv[])
 
 ![time results for loop1 in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/05/time_6.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Now let's do the same for `loop2`.
 
 \time ./loop2
@@ -152,8 +154,9 @@ int main (int argc, char* argv[])
 ![time output for loop2 in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/05/time_7.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  That's given us two sets of results, but they're in a really ugly format. We can do something about that later, but let's pick a few bits of information out of the results.
 
  When programs run there are two execution modes that they are switched back and forth between. These are called user mode and kernel mode.
@@ -164,9 +167,6 @@ int main (int argc, char* argv[])
 
  The inefficient `loop2` program took three times longer to execute. Its total elapsed time is 0.3 seconds. The duration of the processing time in user mode is 0.29 seconds. Nothing is registering for kernel mode. `loop2` was awarded an average of 96% of CPU time for the duration of its run.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Formatting The Output
 
  You can customize the output from `time` using a format string. The format string can contain text and format specifiers. The list of format specifiers can be [found on the man page](http://man7.org/linux/man-pages/man1/time.1.html#OPTIONS) for `time`. Each of the format specifiers represents a piece of information.
@@ -206,8 +206,9 @@ cat test_results.txt
 ![type time in a bash terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/05/time_1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The loop1 program output is displayed in the terminal window and the results from time go to the test\_results.txt file.
 
  If you want to capture the next set of results in the same file, you must use the -a (append) option as follows:
@@ -218,9 +219,6 @@ cat test_results.txt
 
 ![type time in a bash terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/05/time_1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
  It should now be apparent why we used the %C format specifier to include the name of the program in the output from the format string.
 
 ##  And We're Out Of time
@@ -239,8 +237,6 @@ cat test_results.txt
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -248,4 +244,26 @@ cat test_results.txt
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-5-strategies-for-storing-mov-on-windows-10/"><u>[New] In 2024, 5 Strategies for Storing .mov on Windows 10</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-how-to-profit-from-your-youtube-channels/"><u>[New] In 2024, How to Profit From Your YouTube Channels</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-obs-tutorial-for-instagram-live-streams-your-ultimate-reference/"><u>[Updated] 2024 Approved OBS Tutorial for Instagram Live Streams Your Ultimate Reference</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/achieve-better-results-from-chatgpt-discover-5-crucial-methods-for-writing-superior-ai-prompts/"><u>Achieve Better Results From ChatGPT: Discover 5 Crucial Methods for Writing Superior AI Prompts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/achieving-optimal-health-through-chatgpt-strategies/"><u>Achieving Optimal Health Through ChatGPT Strategies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-code-battles-comparing-chatgpt-and-gemini-for-top-programming-skills/"><u>AI Code Battles: Comparing ChatGPT and Gemini for Top Programming Skills</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-a-bot-master-mathematics/"><u>Can a Bot Master Mathematics?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpts-constraints-the-impermissible-questions-list/"><u>ChatGPT's Constraints: The Impermissible Questions List</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/cipher-games-with-ai-twists-engage-in-4-intriguing-puzzles/"><u>Cipher Games with AI Twists: Engage in 4 Intriguing Puzzles</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/crafting-customized-clips-on-iphone-3-free-music-integration-techniques-for-2024/"><u>Crafting Customized Clips on iPhone – 3 Free Music Integration Techniques for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722205308132-discover-the-leading-replacements-for-chatgpt-now/"><u>Discover the Leading Replacements for ChatGPT Now</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/from-amateur-to-professional-iphone-filmmaking-8-key-tips/"><u>From Amateur to Professional iPhone Filmmaking (8 Key Tips)</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-samsung-galaxy-s23-femirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Samsung Galaxy S23 FEMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://discover-able.techidaily.com/is-regular-comprehensive-scanning-needed-for-windows-defender-protection-insights-from-yl-computing/"><u>Is Regular Comprehensive Scanning Needed for Windows Defender Protection - Insights From YL Computing</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-add-wonderful-old-school-feeling-distortion-and-glitch-effects-to-your-video-with-vhs-effect-read-this-article-to-learn-about-the-best-and-popular-metho/"><u>New Add Wonderful Old-School Feeling, Distortion, and Glitch Effects to Your Video with VHS Effect. Read This Article to Learn About the Best and Popular Methods to Add VHS Effects to Your Videos in a Few Minutes for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722080346910-streamlined-chatgpt-chrome-extension-your-new-partner/"><u>Streamlined ChatGPT: Chrome Extension, Your New Partner!</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/enefits-of-upgrading-to-a-youtube-premium-account/"><u>The Benefits of Upgrading to a YouTube Premium Account</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722084825246-the-ultimate-selection-of-ai-prompt-trading-hubs-ranked/"><u>The Ultimate Selection of AI Prompt Trading Hubs: Ranked</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/the-table-youtube-reversal-techniques-and-tutorials-for-2024/"><u>Turn the Table YouTube Reversal Techniques & Tutorials for 2024</u></a></li>
+</ul></div>
 

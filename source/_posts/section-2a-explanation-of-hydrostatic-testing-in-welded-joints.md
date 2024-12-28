@@ -1,7 +1,7 @@
 ---
 title: "Section 2A: Explanation of Hydrostatic Testing in Welded Joints"
-date: 2024-11-30T19:03:09.516Z
-updated: 2024-12-07T17:03:16.652Z
+date: 2024-12-22T10:14:58.951Z
+updated: 2024-12-28T06:36:49.087Z
 tags:
   - apple
 categories:
@@ -61,7 +61,7 @@ Show less
 ## Microsoft Office
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Word, Excel, PowerPoint, and more, in one app
@@ -78,11 +78,11 @@ Show less
 
 [View now at App Store](https://apps.apple.com/us/app/microsoft-onenote/id410395246)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Microsoft OneNote
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### The hidden gem of the Office family
 
@@ -98,15 +98,7 @@ Show less
 
 [View now at App Store](https://apps.apple.com/us/app/microsoft-onedrive/id477537958)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Microsoft OneDrive
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Unlock a terabyte of cloud storage with a Microsoft 365 subscription
 
@@ -121,6 +113,10 @@ Show Expert Take Show less
 Show less 
 
 [View now at App Store](https://apps.apple.com/us/app/microsoft-edge-web-browser/id1288723196)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Microsoft Edge
 
@@ -138,11 +134,11 @@ Show less
 
 [View now at App Store](https://apps.apple.com/us/app/microsoft-teams/id1113153706)
 
-## Microsoft Teams
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Microsoft Teams
 
 ### One stop for video chats, meetings, files, tasks, and calendars
 
@@ -158,14 +154,10 @@ Show less
 
 [View now at App Store](https://apps.apple.com/us/app/microsoft-to-do/id1212616790)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Microsoft To Do
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Keep track of Projects and tasks and send reminders to yourself or your team
@@ -198,6 +190,10 @@ Show less
 
 [View now at App Store](https://apps.apple.com/us/app/microsoft-lists/id1530637363)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Microsoft Lists
 
 ### Keep track of assets, inventory, issues, and more
@@ -207,6 +203,10 @@ When you're firmly entrenched in Microsoft's world as a developer or IT pro and 
 Think of Microsoft Lists as OneNote without all the annoying paragraphs. You can use lists to track issues like customer support requests, or assets in your business, or customers or inventory or ... well, you get the idea. The real secret of Microsoft Lists is not creating personal lists but rather in sharing lists with a team, complete with enterprise-grade security and customizable views that can keep everyone on the same extremely orderly page.
 
 Show Expert Take Show less 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##   
 
@@ -240,18 +240,21 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-file-forwarding-made-easy-top-5-methods-to-upload-directly-on-pc/"><u>[New] 2024 Approved File Forwarding Made Easy Top 5 Methods to Upload Directly on PC</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-snapquarter-testimony/"><u>[New] SnapQuarter Testimony</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-acquire-high-quality-sounds-for-media-creators/"><u>[Updated] Acquire High-Quality Sounds for Media Creators!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/building-better-emotional-skills-utilizing-chatgpt-for-personal-growth/"><u>Building Better Emotional Skills: Utilizing ChatGPT for Personal Growth</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/download-and-configure-your-own-llama-2-on-premises-a-beginners-tutorial/"><u>Download & Configure Your Own Llama 2 on Premises - A Beginner's Tutorial</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/essential-tips-for-quickly-fixing-common-auto-gpt-installation-hiccucks/"><u>Essential Tips for Quickly Fixing Common Auto-GPT Installation Hiccucks</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-from-your-apple-iphone-12-mini-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card from Your Apple iPhone 12 mini Apple ID and Apple Pay</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ideal-set-best-8-macbook-themes-and-skins-for-2024/"><u>Ideal Set Best 8 MacBook Themes & Skins for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/linux-uncomplicated-without-wsl/"><u>Linux Uncomplicated, Without WSL</u></a></li>
-<li><a href="https://win-blog.techidaily.com/no-more-muted-play-restoring-sound-to-your-roblox-experience-on-windows-systems/"><u>No More Muted Play: Restoring Sound to Your Roblox Experience on Windows Systems</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/notion-ai-vs-chatgpt-the-battle-of-generative-tech-giants-in-ai-innovation/"><u>Notion AI Vs. ChatGPT: The Battle of Generative Tech Giants in AI Innovation</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/optimizing-your-health-outcomes-how-chatgpt-can-help-you-set-and-achieve-fitness-milestones/"><u>Optimizing Your Health Outcomes: How ChatGPT Can Help You Set and Achieve Fitness Milestones</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transforming-pressure-into-peace-a-guide-to-using-chatgpt-for-stress-management/"><u>Transforming Pressure Into Peace: A Guide to Using ChatGPT for Stress Management</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-outro-aesthetics-selecting-templates-any-budget/"><u>[New] In 2024, Outro Aesthetics Selecting Templates, Any Budget</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/between-two-tech-giants-determining-the-best-ai-chatbot-experience-with-google-bard-vs-bing-chat/"><u>Between Two Tech Giants: Determining the Best AI Chatbot Experience with Google Bard Vs. Bing Chat</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-microsoft-word-automation-using-chatgpt/"><u>Effortless Microsoft Word Automation Using ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/game-changing-ai-for-the-diy-industry-gpt-4-is-coming/"><u>Game-Changing AI for the DIY Industry: GPT-4 Is Coming</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/harvest-highs-celebrating-farming-gaming-innovation/"><u>Harvest Highs Celebrating Farming Gaming Innovation</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-s23-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on S23</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Vivo Y17s? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-oppo-reno-11f-5g-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Oppo Reno 11F 5G to Protect Your Individual Information</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-ranking-premium-free-excellence-the-finest-free-lut-selections/"><u>In 2024, Ranking Premium-Free Excellence The Finest Free LUT Selections</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-vr-game-engine-picks-2023/"><u>In 2024, The Ultimate Guide to VR Game Engine Picks, 2023</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-vivo-s17-pro-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Vivo S17 Pro Phones</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/innovative-cleansing-companion-the-dreame-bot-l1amooring-and-sweeping-robot-powered-by-lidar-technology-reviewed/"><u>Innovative Cleansing Companion: The Dreame Bot L1amooring and Sweeping Robot Powered by LiDAR Technology Reviewed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-uses-of-llama-2-for-maximum-efficiency/"><u>Mastering the Uses of Llama 2 for Maximum Efficiency</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-quirk-of-machine-learning-discovering-why-chatgpt-cant-detect-its-creations/"><u>The Quirk of Machine Learning: Discovering Why ChatGPT Can't Detect Its Creations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/trusting-chatgpt-and-bard-in-the-world-of-cash-management/"><u>Trusting ChatGPT & Bard in the World of Cash Management</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleashing-potential-with-ai-the-impact-of-chatgpt-on-next-gen-wearable-devices/"><u>Unleashing Potential with AI: The Impact of ChatGPT on Next-Gen Wearable Devices</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Understanding the Security Measures Behind Reliable Cloud Storage Systems
-date: 2024-08-29T01:10:36.577Z
-updated: 2024-08-30T01:10:36.577Z
+date: 2024-12-24T21:00:59.197Z
+updated: 2024-12-28T01:29:35.595Z
 tags:
   - web
 categories:
@@ -29,8 +29,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Note that when we say “secure,” we mean that your files are safe from outside attacks, as well as from snooping by the provider itself. Sadly, not all [cloud storage](https://desktop-recording.techidaily.com/instant-record-and-commentary-assistive-software/) is created equal and finding a service that respects your right to security and privacy isn’t as easy as you may think.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  "Secure" Cloud Storage
 
  Many cloud storage platforms will try to get your business by claiming they’re secure because they’re using “[military-grade encryption](https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-meizu-21-pro-drfone-by-drfone-virtual-android/).” That sounds very impressive, but it just means that they’re using AES-256, an encryption protocol that has been approved for use by the United States government, in conjunction with SSL/TLS, which is used for almost all internet traffic.
@@ -38,8 +39,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  At the time of writing, AES-256 hasn't been broken, _can't_ be brute-forced in any practical time frame, and thus, is a great protocol to use. However, it’s often presented as being special somehow, while pretty much anybody can implement it, and they often do. It’s used by all kinds of services and apps to scramble information, from cloud storage to [VPNs](https://extra-guidance.techidaily.com/2024-approved-masterclass-in-3d-color-grading-with-custom-luts/). 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Data at Rest and in Transfer
 
 _When_ data is encrypted is much more important. Many cloud storage providers, maybe even a majority, use a two-step process. When you send data from your hard drive, they will use [SSL/TLS](https://extra-skills.techidaily.com/2024-approved-inspirational-movies-for-momentum-and-self-belief/) to encrypt your data in transit, then once it arrives on their servers, decrypt it and re-encrypt it for storage using AES-256\. When you download data, this process is reversed.
@@ -49,8 +51,9 @@ _When_ data is encrypted is much more important. Many cloud storage providers, m
  Of course, we’re not going to make a stand for copyright violators, but this security architecture can be a serious issue if the provider is compromised in some way. If a cybercriminal were to have access to their servers, they’d have access to your files. There is a way to fix this, though.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  End-to-End Encryption
 
  The answer comes in the form of [end-to-end encryption](https://extra-hints.techidaily.com/new-13-creative-ways-to-save-and-store-online-audio-broadcasts/), which you’ll sometimes see referenced as EE2E. As the name suggests, this process encrypts your data from one end of the download/upload pipeline to another. Your files are encrypted on your hard drive and stay that way during transit and at rest until they’re back on your hard drive again.
@@ -60,8 +63,9 @@ _When_ data is encrypted is much more important. Many cloud storage providers, m
  When it comes to both security and privacy, end-to-end encryption is much better than the encrypt-then-decrypt-again method. There doesn’t seem to be a good reason why the latter is still used, though there are indications that it’s less resource intensive—besides letting you keep an eye on your customers’ files.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Zero-Knowledge Encryption
 
  Another important aspect to cloud storage security is something called [zero-knowledge encryption](https://tech-recovery.techidaily.com/navigating-the-features-of-an-internet-connected-tv-what-you-need-to-know/), sometimes referred to as zero-knowledge access. Zero knowledge in this case means that the service you’re using doesn’t know what your password is.
@@ -69,8 +73,9 @@ _When_ data is encrypted is much more important. Many cloud storage providers, m
  This means that at no point can anyone from that service access your encrypted files. More importantly, even if there is a breach, your password _can’t_ be leaked because nobody knows it. It’s a great system, but does have a downside: you can’t reset your password. Always make sure you use a [password manager](https://facebook-video-recording.techidaily.com/new-a-comprehensive-guide-to-producing-videos-for-social-media/) when creating an account with a zero-knowledge service, or you risk getting locked out permanently. 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Keeping Your Files Safe
 
  Between end-to-end encryption and zero-knowledge access, you can rest assured that your files will be safe while in the cloud. When choosing the [best cloud storage](https://instagram-video-recordings.techidaily.com/navigating-the-truth-in-your-photos-an-instagram-selfie-audit/), it pays to make sure that the provider you choose offers both. After all, they’re your files. Nobody else should be looking at them.
@@ -83,8 +88,6 @@ _When_ data is encrypted is much more important. Many cloud storage providers, m
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -92,4 +95,22 @@ _When_ data is encrypted is much more important. Many cloud storage providers, m
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-getting-started-with-itunes-podcasts-on-ios-devices/"><u>[New] In 2024, Getting Started with iTunes Podcasts on iOS Devices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-highly-compensated-online-visionary-creator/"><u>[New] In 2024, Highly Compensated Online Visionary Creator</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-capturing-coziness-ideal-winter-scenes-for-yt-video/"><u>[Updated] In 2024, Capturing Coziness Ideal Winter Scenes for YT Video</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-savvy-savers-for-your-instagram-treasures/"><u>2024 Approved Savvy Savers for Your Instagram Treasures</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/digiarty-the-ultimate-dvd-and-video-conversion-program/"><u>Digiarty - The Ultimate DVD & Video Conversion Program</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-vivo-v27e-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Vivo V27e Device SIM</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211160886-9798989522217-life-and-life/"><u>Life and Life | Free Book</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximize-your-output-the-power-of-onlyoffice-docspace-combined-with-chatgpt-for-superior-results/"><u>Maximize Your Output: The Power of ONLYOFFICE DocSpace Combined with ChatGPT for Superior Results</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximizing-productivity-how-to-integrate-chatgpt-into-your-workflow-planning/"><u>Maximizing Productivity: How to Integrate ChatGPT Into Your Workflow Planning</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/new-chatgpt-feature-enables-tailored-creation-of-personalized-gpt-architectures/"><u>New ChatGPT Feature Enables Tailored Creation of Personalized GPT Architectures</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/optimize-your-chat-experience-evaluating-chatgpt-with-browser-support-against-plugin-solutions/"><u>Optimize Your Chat Experience: Evaluating ChatGPT with Browser Support Against Plugin Solutions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/optimize-your-productivity-uncovering-7-gpt-secrets-to-efficiency/"><u>Optimize Your Productivity: Uncovering 7 GPT Secrets to Efficiency</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/protect-your-insights-easy-steps-to-backup-your-chatgpt-conversations/"><u>Protect Your Insights: Easy Steps to Backup Your ChatGPT Conversations</u></a></li>
+<li><a href="https://facebook.techidaily.com/switching-your-facebook-page-for-a-modern-identity/"><u>Switching Your Facebook Page for a Modern Identity</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-secret-to-exceptional-instagram-reels/"><u>The Secret to Exceptional Instagram Reels</u></a></li>
+</ul></div>
 

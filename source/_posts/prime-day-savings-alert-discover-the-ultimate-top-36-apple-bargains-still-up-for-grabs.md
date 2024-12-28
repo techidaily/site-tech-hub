@@ -1,7 +1,7 @@
 ---
 title: "Prime Day Savings Alert: Discover the Ultimate Top 36 Apple Bargains Still Up for Grabs!"
-date: 2024-12-18T19:12:36.722Z
-updated: 2024-12-23T00:40:21.850Z
+date: 2024-12-24T03:13:32.531Z
+updated: 2024-12-28T04:21:02.672Z
 tags:
   - apple
 categories:
@@ -91,6 +91,10 @@ While the Series 8 isn't the latest and greatest Apple Watch, it's still a great
 * [Apple Watch SE](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FRestored-Apple-Watch-SE-40mm-GPS-Cellular-Gold-Aluminum-Case-Starlight-Sport-Band%2F5031506033%3F&subId1=zd-__COM_CLICK_ID__-dtp) (40mm, Pink Sport Band, Restored): $124 (save $21)
 * [Apple Watch SE](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Watch-SE-GPS-Cellular-44mm-Gold-Aluminum-Case-with-Starlight-Sport-Band-Used%2F1620367883%3F&subId1=zd-__COM_CLICK_ID__-dtp) (44mm, GPS, Starlight Sport Band, Used): $125 (save $35)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How did we choose these deals?
 
 ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
@@ -102,7 +106,7 @@ We also looked over customer reviews to find out what matters to real people who
 ZDNET's top pick for the [best Apple watch](https://www.zdnet.com/article/best-apple-watch/) is the Apple Watch Ultra 2 since it is lauded by athletes and members of the press as the best Apple Watch ever made thanks to its rugged durability, large and bright display, long battery life, water resistance, and more. It's no surprise it became the flagship model as soon as the Ultra was released last year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Do Apple Watches track my AFib?
@@ -110,10 +114,6 @@ ZDNET's top pick for the [best Apple watch](https://www.zdnet.com/article/best-a
 Yes, your Apple Watch, as long as it is a Series 6 or newer, can track your AFib, or irregular heartbeat. In fact, The US Food and Drug Administration (FDA) has recently [awarded](https://content.govdelivery.com/accounts/USFDA/bulletins/399d551) medical device development tool (MDDT) status to the Apple Watch's atrial fibrillation (AFib) history tracker. The feature is first piece of digital health technology to earn MDDT status, the FDA said in a statement.
 
 **Also:** [**Your Apple Watch's AFib history could soon be used in clinical studies**](https://www.zdnet.com/article/your-apple-watchs-afib-history-could-soon-be-used-in-clinical-studies/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Apple Watch SE vs Series 8: Which is the better buy?
 
@@ -128,7 +128,7 @@ However, if you want to get in at the lowest price or you're buying a watch for 
 Apple has a lengthy lineup of its flagship tech wearable, with several iterations over the last few years. The two newest watch releases come in the Apple Watch Series 9 and the Apple Watch Ultra 2, which were released in September 2023\. The Apple Watch SE (2nd Gen) remains the most up-to-date base model. With multiple models available, both old and new, you'll be sure to find a watch that fits your needs and your price point. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which Apple watches have the new double tap feature?
@@ -136,7 +136,7 @@ Apple has a lengthy lineup of its flagship tech wearable, with several iteration
 Apple's newest releases, the Watch Series 9 and the Watch Ultra 2 both feature the new finger tap capability. Apple formally refers to this as the "double tap gesture," and with it users can easily control either watch with just one hand and without touching the display. Users can tap the index finger and thumb of their watch hand together twice to quickly perform many of the most common actions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the different Apple Watch bands available?
@@ -158,7 +158,7 @@ When participating in a trade-in offer, you are providing your previously used i
 **Also:** [**Apple is paying more for your used Apple watches**](https://www.zdnet.com/article/apple-is-now-paying-more-for-your-used-apple-watches-and-ipads/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will these deals expire?
@@ -205,16 +205,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-capturing-attention-from-content-creation-to-commerce/"><u>[New] Capturing Attention From Content Creation to Commerce</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-the-gamers-blueprint-techniques-to-record-virtual-realms/"><u>[New] In 2024, The Gamer's Blueprint Techniques to Record Virtual Realms</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-visual-storytelling-excellence-10-tactics-for-captivating-instagram-ads/"><u>[Updated] 2024 Approved Visual Storytelling Excellence 10 Tactics for Captivating Instagram Ads</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1725290395151-dvd/"><u>DVD 複写技術：合法的に映像素材を保存する方法</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/how-can-you-air-facebook-videos-on-your-television-set-for-2024/"><u>How Can You Air Facebook Videos on Your Television Set for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/making-your-photos-secret-facebooks-privacy-haven/"><u>Making Your Photos Secret: Facebook's Privacy Haven</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-setting-up-microsoft-office-suite-on-your-computer/"><u>Step-by-Step Guide: Setting Up Microsoft Office Suite on Your Computer</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-on-device-artific/"><u>Understanding On-Device Artific</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-the-potential-top-5-benefits-of-using-chatgpt-in-your-cryptocurrency-investments/"><u>Unlocking the Potential: Top 5 Benefits of Using ChatGPT in Your Cryptocurrency Investments</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-influence-of-smart-chatbots-on-modern-content-creation-techniques/"><u>Unveiling the Influence of Smart Chatbots on Modern Content Creation Techniques</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/virtual-reality-meets-artificial-intelligence-shaping-tomorrows-gaming/"><u>Virtual Reality Meets Artificial Intelligence: Shaping Tomorrow's Gaming</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-vivo-x100-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Vivo X100 to Roku | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/automate-sync-and-conquer-to-dot-and-ifttt/"><u>Automate, Sync, and Conquer: To-Dot & IFTTT</u></a></li>
+<li><a href="https://fox-info.techidaily.com/flight-in-the-smallest-form-a-compreenasive-look-at-dji-sparks-miniature-wonders/"><u>Flight in the Smallest Form A Compreenasive Look at DJI Spark's Miniature Wonders</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/guide-to-recovering-a-non-showing-seagate-exhdd-in-your-windows-11-pc/"><u>Guide to Recovering a Non-Showing Seagate ExHDD in Your Windows 11 PC</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-create-restore-point-in-windows-7/"><u>How to Create Restore Point in Windows 7</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-factory-reset-an-hp-laptop-step-by-step/"><u>How to Factory Reset an HP Laptop [Step by Step]</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-install-asus-aura-desktop-effects-and-control-panel-on-win11-systems/"><u>How to Install ASUS Aura Desktop Effects and Control Panel on Win11 Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-overcome-delays-in-starting-your-windows-1111-system/"><u>How to Overcome Delays in Starting Your Windows 11/11 System</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Apple iPhone 6 Plus? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-samsung-galaxy-a23-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Samsung Galaxy A23 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-0x800705b4-issue-a-step-by-step-solution-for-windows-10-updates/"><u>Resolving 0X800705b4 Issue: A Step-by-Step Solution for Windows 10 Updates</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-tecno-spark-20-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Tecno Spark 20 Pro to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-why-sovled-warno-continually-fails-on-your-computer/"><u>Troubleshooting: Why SOVLED Warno Continually Fails on Your Computer</u></a></li>
 </ul></div>
 

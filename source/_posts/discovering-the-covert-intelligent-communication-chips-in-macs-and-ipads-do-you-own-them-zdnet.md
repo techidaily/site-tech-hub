@@ -1,7 +1,7 @@
 ---
 title: Discovering the Covert Intelligent Communication Chips in Macs and iPads - Do You Own Them? | ZDNET
-date: 2024-12-19T00:37:11.454Z
-updated: 2024-12-22T22:59:10.193Z
+date: 2024-12-26T01:24:47.015Z
+updated: 2024-12-28T10:30:01.328Z
 tags:
   - apple
 categories:
@@ -28,11 +28,11 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to customize your iPhone's new Control Center with iOS 18
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Access Control Center
 
@@ -41,7 +41,7 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -53,7 +53,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -63,7 +63,7 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -80,15 +80,15 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -126,17 +126,15 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-perfect-pairing-transferring-camera-roll-content-effortlessly-to-snapchat-for-2024/"><u>[Updated] Perfect Pairing Transferring Camera Roll Content Effortlessly to Snapchat for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-transforming-srt-a-complete-reference-guide-for-conversion-for-2024/"><u>[Updated] Transforming SRT A Complete Reference Guide for Conversion for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/bright-horizons-pioneering-light-in-video-production/"><u>Bright Horizons Pioneering Light in Video Production</u></a></li>
-<li><a href="https://win-able.techidaily.com/faster-frame-rates-ahead-how-to-tackle-wows-lag-issues-in-2n24/"><u>Faster Frame Rates Ahead! How to Tackle WoW's Lag Issues in 2N24</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-nokia-c12-plus-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Nokia C12 Plus Location Settings | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/reimagined-search-bing-embraces-ai/"><u>Reimagined Search: Bing Embraces AI</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-the-issue-why-your-android-device-wont-get-text-messages/"><u>Solving the Issue: Why Your Android Device Won't Get Text Messages</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1722046563028-twitters-emoji-ban-linuss-leaks-trojan-insight-and-chatgpt-shortcomings-highlighted/"><u>Twitters Emoji Ban, Linus's Leaks, Trojan Insight, & ChatGPT Shortcomings Highlighted.</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-potential-exciting-new-capabilities-we-wish-to-see-in-gpt-5/"><u>Unveiling Potential: Exciting New Capabilities We Wish to See in GPT-5</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/vanguard-marketplaces-for-ai-content-crafting/"><u>Vanguard Marketplaces for AI Content Crafting</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/why-claude-3-dominates-chatgpt-unpacking-the-four-benefits/"><u>Why Claude 3 Dominates ChatGPT - Unpacking the Four Benefits</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/why-claude-triumphs-over-gpt-top-4-beneficial-aspects-unveiled/"><u>Why Claude Triumphs Over GPT: Top 4 Beneficial Aspects Unveiled</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-turning-views-into-cash-secrets-to-successful-facebook-video-money-making/"><u>[New] 2024 Approved Turning Views Into Cash Secrets to Successful Facebook Video Money-Making</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-a-guide-to-the-top-12-most-captivating-pc-clickers/"><u>[New] In 2024, A Guide to the Top 12 Most Captivating PC Clickers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-11-best-beginnerwaterproofvlogging-camera-for-kids-easy-to-use/"><u>[Updated] 11 Best Beginner/Waterproof/Vlogging Camera for Kids (Easy-to-Use)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-optimize-your-channels-with-youtubes-featured-spotlight/"><u>[Updated] 2024 Approved How to Optimize Your Channels with YouTube’s Featured Spotlight</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/dissecting-distinct-uses-in-ai-technologies/"><u>Dissecting Distinct Uses in AI Technologies</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/how-to-present-ppt-on-google-meet-for-2024/"><u>How to Present PPT on Google Meet for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-honor-magic-5-lite-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Honor Magic 5 Lite Device</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/trio-strategies-enhancing-dialogue-with-chatgpt-and-wolframalpha/"><u>Trio Strategies: Enhancing Dialogue with ChatGPT & WolframAlpha</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-chatgpts-gaming-side-a-list-of-the-coolest-6-games-you-can-enjoy/"><u>Unveiling ChatGPT's Gaming Side: A List of the Coolest 6 Games You Can Enjoy</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-the-chatgpt-desktop-software-surpasses-the-convenience-of-the-online-site/"><u>Why the ChatGPT Desktop Software Surpasses the Convenience of the Online Site</u></a></li>
 </ul></div>
 

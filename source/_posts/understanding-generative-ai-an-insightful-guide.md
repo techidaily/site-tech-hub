@@ -1,7 +1,7 @@
 ---
 title: "Understanding Generative AI: An Insightful Guide"
-date: 2024-08-29T01:14:47.401Z
-updated: 2024-08-30T01:14:47.401Z
+date: 2024-12-26T11:09:41.281Z
+updated: 2024-12-27T18:34:08.549Z
 tags:
   - chatgpt
   - open-ai
@@ -15,11 +15,19 @@ thumbnail: https://thmb.techidaily.com/4b4c42d86cbc7f5900b95e8b4af00dbe97e236701
 
 ## Copilot or Copilot Pro? Understanding the Divergence and Choosing Wisely
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Is Copilot Pro?](https://www.makeuseof.com/copilot-vs-copilot-pro/#what-is-copilot-pro)
 * [How Much Does Copilot Pro Cost?](https://www.makeuseof.com/copilot-vs-copilot-pro/#how-much-does-copilot-pro-cost)
 * [Should You Upgrade to Copilot Pro?](https://www.makeuseof.com/copilot-vs-copilot-pro/#should-you-upgrade-to-copilot-pro)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -32,8 +40,9 @@ thumbnail: https://thmb.techidaily.com/4b4c42d86cbc7f5900b95e8b4af00dbe97e236701
  And you'll be very pleased to hear that isn't changing any time soon—but Microsoft is rolling out Copilot Pro, a new subscription model for its free AI companion, featuring new capabilities, custom GPT support, and deeper integration into its Microsoft 365 suite.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is Copilot Pro?
 
  Copilot Pro is a new subscription-based update to Microsoft Copilot, the AI tool that allows you to use OpenAI's premium GPT-4 model (and now GPT-4 Turbo, the latest model) for free.
@@ -48,8 +57,9 @@ thumbnail: https://thmb.techidaily.com/4b4c42d86cbc7f5900b95e8b4af00dbe97e236701
  All in all, Microsoft wants Copilot Pro to be "a single AI experience that runs across your devices," providing a unified AI tool that's familiar with every bit of software you use.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Much Does Copilot Pro Cost?
 
 [Microsoft Copilot Pro](https://www.microsoft.com/en-us/store/b/copilotpro) will cost $20 per month per user, and officially launched on January 14, 2024.
@@ -58,18 +68,6 @@ thumbnail: https://thmb.techidaily.com/4b4c42d86cbc7f5900b95e8b4af00dbe97e236701
 
  Given the deeper integration of Copilot Pro into Microsoft's ecosystem, the $20 subscription could make Pro a valuable tool versus other tools that are useful in terms of AI but lack specific integrations with regularly used software, especially in business and productivity.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Should You Upgrade to Copilot Pro?
 
  Users of Microsoft Copilot will note that Copilot Pro now integrates many of the features previously exclusive to ChatGPT Plus—but they still come at a cost. As artificial intelligence development costs money and energy (quite a large amount of both!), there was always going to come a point where the free version of Copilot would begin to miss out on features.
@@ -77,8 +75,9 @@ thumbnail: https://thmb.techidaily.com/4b4c42d86cbc7f5900b95e8b4af00dbe97e236701
 ![microsoft copilot answering question jan 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/microsoft-copilot-answering-question-jan-2024.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  However, given the extensive number of free features Copilot has, I don't expect many folks will be disappointed. Deeper integration with Microsoft 365 is great if you use those tools, but if you're using Copilot as an enhanced internet search engine, these updates won't mean much to you.
 
  Furthermore, given the mixed results of OpenAI's custom GPTs, custom Copilot models might not be a feature that gains much traction— at least, not initially. When custom GPTs first launched, there was a wave of excitement, but it took some[time to find custom GPTs worth using](https://www.makeuseof.com/best-custom-gpts/) .
@@ -87,14 +86,11 @@ thumbnail: https://thmb.techidaily.com/4b4c42d86cbc7f5900b95e8b4af00dbe97e236701
 
  So, while Copilot Pro undoubtedly has more features and will receive updates faster than the free version, Copilot remains an extremely useful tool for those who want[GPT-4 access without paying](https://www.makeuseof.com/ways-access-gpt-4-free/) .
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -103,4 +99,26 @@ thumbnail: https://thmb.techidaily.com/4b4c42d86cbc7f5900b95e8b4af00dbe97e236701
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-are-critiques-on-items-compensated-monetarily/"><u>[New] Are Critiques on Items Compensated Monetarily?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-insta-gone-locating-the-disappeared-fans/"><u>[New] Insta Gone? Locating the Disappeared Fans</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-ouroboros-creator-suite/"><u>[New] Ouroboros Creator Suite</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/hriving-as-a-novice-youtuber-sidestep-these-8-crucial-pitfalls-in-2024/"><u>[New] Thriving as a Novice YouTuber? Sidestep These 8 Crucial Pitfalls, In 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-revolutionize-virtual-participation-with-top-10-free-recorder-software-for-2024/"><u>[Updated] Revolutionize Virtual Participation with Top 10 Free Recorder Software for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-unveiling-the-secrets-of-stardew-valley-emphasizing-its-jewel-ginger-island-for-2024/"><u>[Updated] Unveiling the Secrets of Stardew Valley, Emphasizing Its Jewel - Ginger Island for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/combining-forces-how-to-leverage-gpt-for-excel-docs-and-google-sheets-integration/"><u>Combining Forces: How to Leverage GPT for Excel, Docs, and Google Sheets Integration</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/dandd-mastery-unlocked-chatgpt-strategies-for-epic-adventures/"><u>D&D Mastery Unlocked: ChatGPT Strategies for Epic Adventures</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-chatgpt-jailbreaks-are-they-safe-and-effective-to-use/"><u>Decoding ChatGPT Jailbreaks - Are They Safe and Effective to Use?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/disc-drives-hidden-windows-11-troubleshooted/"><u>Disc Drives Hidden: Windows 11 Troubleshooted</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-ultimate-list-of-20-powerful-chatgpt-triggers-from-github-repositories/"><u>Discover the Ultimate List of 20 Powerful ChatGPT Triggers From GitHub Repositories</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Realme 12 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/efficiency-exploration-4-creative-uses-of-chatgpt-for-time-planning/"><u>Efficiency Exploration: 4 Creative Uses of ChatGPT for Time Planning</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-openais-bug-bounty-initiative-steps-for-participation/"><u>Exploring OpenAI's Bug Bounty Initiative: Steps for Participation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-future-with-microsoft-and-blizzard-innovations-in-ai-artistry-and-translation-tech-podcast-series/"><u>Exploring the Future with Microsoft and Blizzard: Innovations in AI Artistry & Translation Tech - Podcast Series</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-world-of-ai-prompt-engineering-job-outlook-and-potential/"><u>Exploring the World of AI Prompt Engineering: Job Outlook & Potential</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/idea-wellspring-harnessing-gpt-3-with-mindmaps/"><u>Idea Wellspring: Harnessing GPT-3 with Mindmaps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-allure-of-the-new-ipad-air-discover-4-undeniable-reasons-from-apple-that-make-it-worth-your-attention/"><u>The Allure of the New iPad Air: Discover 4 Undeniable Reasons From Apple that Make It Worth Your Attention</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-18-high-quality-webcam-capture-software/"><u>Top 18 High-Quality Webcam Capture Software</u></a></li>
+</ul></div>
 

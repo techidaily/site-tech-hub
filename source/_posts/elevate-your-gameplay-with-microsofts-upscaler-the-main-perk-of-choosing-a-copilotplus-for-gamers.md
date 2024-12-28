@@ -1,7 +1,7 @@
 ---
 title: Elevate Your Gameplay with Microsoft's Upscaler - The Main Perk of Choosing a CoPilot+ for Gamers
-date: 2024-08-29T01:11:33.049Z
-updated: 2024-08-30T01:11:33.049Z
+date: 2024-12-25T09:28:21.806Z
+updated: 2024-12-27T22:44:24.373Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Elevate Your Gameplay with Microsoft's Upscaler - The Main Perk of Choosing a CoPilot+ for Gamers
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -27,8 +31,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Microsoft’s answer DLSS and FSR is here. Automatic Super Resolution is a Windows-integrated upscaling method that, at least according to an early demo, works rather well. Microsoft has already launched Auto SR, so let me explain how it works and how you can use it.
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Auto SR Is Here, and It Looks Promising
 
  Microsoft Auto SR is finally here and, while [the initial demo](https://devblogs.microsoft.com/directx/autosr/) doesn’t include any video of the tech in action, I’ve got to say that Auto SR does look pretty darn solid, while also bringing pretty respectable performance gains.
@@ -38,8 +43,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Two Borderlands 3 screenshots showing a native and an upscaled image.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/microsoft-auto-sr.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Microsoft/Gearbox
 
  The 1440p Auto SR screenshot features sharper textures, with most of the intricate details preserved after upscaling the original 720p image, along with almost double the frame rate. The image resolve is sharper compared to native 1440p, but you can see some issues if you look closely.
@@ -54,16 +60,14 @@ Microsoft/Gearbox
 
 ![Native vs Auto SR upscaled Borderlands 3 screenshot.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/microsoft-auto-sr-03.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 Microsoft/Gearbox
 
  That said, even with those caveats, Auto SR looks quite promising. I’d like to see a video of Auto SR in action, but even in the provided screenshots, Microsoft’s OS-integrated AI upscaler gives FSR and XeSS a run for their money. It’s the first CoPilot+ PC feature that could be genuinely useful to gamers.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Auto SR Looks Better Than Driver-Level Upscalers
 
  Automatic Super Resolution is OS-integrated and it provides better results than driver-level upscalers. The reason for this is that [NVIDIA Image Scaling](https://some-approaches.techidaily.com/updated-the-essential-list-7-leading-generators-for-nft-artworks/) and AMD Radeon Super Resolution are just simple image upscalers that don’t utilize machine-learning algorithms.
@@ -77,8 +81,9 @@ Microsoft/Gearbox
  While Auto SR can’t match DLSS when it comes to image quality, Microsoft’s AI upscaler is still great news for gamers looking for a quality image upscaler they can use in games that don’t support DLSS, FSR, or XeSS.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  It Just Works (In Supported Games)
 
  One of the best things about Auto SR is that it just works. After you enable the option in Windows settings, Auto SR automatically turns on in supported games, in full-screen and windowed borderless modes, and then seamlessly turns off and switches your native resolution back once you exit the game. On the other hand, driver-based upscalers require a manual set-up process for each game, on top of not looking as good as Auto SR.
@@ -89,9 +94,6 @@ Microsoft/Gearbox
 
  Another good thing about Auto SR is that it only adds a single frame of latency to an upscaled game on average. Such a tiny input latency hit is possible because Auto SR runs off a Neural Processing Unit (NPU) instead of using your GPU or CPU, thus not using any resources that might be spent on rendering the game.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ##  Auto SR Is Only Available on CoPilot+ PCs
 
  Requiring an NPU to work is Auto SR’s biggest caveat. The NPU-reliance means that Auto SR is only available on [CoPilot+ PCs](https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-motorola-moto-g24-drfone-by-drfone-virtual-android/). At the moment, this only includes laptops equipped with [Qualcomm’s Snapdragon X](https://extra-skills.techidaily.com/updated-mobile-mastery-upgrade-photos-elevated-at-no-price/) chips. This should change once we get CoPilot+ PCs powered by next-gen laptop CPUs from Intel ([Lunar Lake](https://android-unlock.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-vivo-y78-5g-fingerprint-lock-by-drfone-android/)) and AMD (Ryzen AI 300 CPUs), both of which include potent NPUs.
@@ -108,8 +110,6 @@ Microsoft/Gearbox
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -117,4 +117,21 @@ Microsoft/Gearbox
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-transform-your-speech-access-to-no-cost-voice-manipulation-tools-for-2024/"><u>[New] Transform Your Speech Access to No-Cost Voice Manipulation Tools for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-prime-chrome-audio-transformers-leading-web-based-text-to-speech-apps/"><u>[Updated] 2024 Approved Prime Chrome Audio Transformers Leading Web-Based Text-to-Speech Apps</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-the-best-apps-for-keeping-your-linkedin-vids-safe-and-sound/"><u>[Updated] The Best Apps for Keeping Your LinkedIn Vids Safe & Sound</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-guide-to-swiftly-eliminate-unwanted-youtube-comments/"><u>2024 Approved Guide to Swiftly Eliminate Unwanted YouTube Comments</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-webcam-integration-in-gaming-setup-mastery/"><u>2024 Approved Webcam Integration in Gaming Setup Mastery</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/data-safe-restoration-the-ultimate-guide-to-fixing-a-broken-transcend-hdd/"><u>Data-Safe Restoration: The Ultimate Guide to Fixing a Broken Transcend HDD</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/harnessing-the-power-of-chatgpt-for-quick-and-efficient-web-app-development/"><u>Harnessing the Power of ChatGPT for Quick and Efficient Web App Development</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-could-advanced-ai-models-such-as-chatgpt-impact-future-of-web-search-engines/"><u>How Could Advanced AI Models Such as ChatGPT Impact Future of Web Search Engines?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-does-claude-pro-stack-up-against-chatgpt-plus-in-natural-language-processing/"><u>How Does Claude Pro Stack Up Against ChatGPT Plus in Natural Language Processing?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-tecno-spark-go-2023-by-drfone-android/"><u>How to Show Wi-Fi Password on Tecno Spark Go (2023)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-crafting-conceptions-unveiling-the-worlds-best-schools-for-stories-top-8/"><u>In 2024, Crafting Conceptions Unveiling the World's Best Schools for Stories (Top 8)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovative-approaches-combining-chatgpt-with-traditional-cbt-methods/"><u>Innovative Approaches: Combining ChatGPT with Traditional CBT Methods</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/jumpstart-with-these-8-ready-to-use-gpt-variants-today/"><u>Jumpstart with These 8 Ready-to-Use GPT Variants Today</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/top-rated-home-theater-systems-in-22024/"><u>Top-Rated Home Theater Systems in 2^2024</u></a></li>
+</ul></div>
 

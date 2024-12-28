@@ -1,7 +1,7 @@
 ---
 title: "Top 9 Methods to Launch PowerShell on Windows 11: A Comprehensive Guide"
-date: 2024-08-29T01:11:16.467Z
-updated: 2024-08-30T01:11:16.467Z
+date: 2024-12-24T21:47:33.596Z
+updated: 2024-12-27T20:57:18.062Z
 tags:
   - desktop
 categories:
@@ -40,9 +40,6 @@ thumbnail: https://thmb.techidaily.com/c540c3268cb02c45602ab66fa4199a7f1fc574c2a
 
  While you can open PowerShell from the Start menu, this list includes some (potentially) easier and lesser-known ways you can launch this tool.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ##  Open PowerShell From the Power Users Menu
 
  The Power Users menu appears in the taskbar when you press Windows+X. It's an easy way to access a multitude of settings, utilities, and system programs from one menu.
@@ -55,21 +52,19 @@ thumbnail: https://thmb.techidaily.com/c540c3268cb02c45602ab66fa4199a7f1fc574c2a
 
  It's straightforward to [switch back to showing the PowerShell](https://video-screen-grab.techidaily.com/updated-in-2024-gameboy-advance-mastered-android-emulator-selection/) in the Power User menu. 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Use the Start Menu Search to Open PowerShell
 
  Probably one of the fastest ways to open PowerShell is via a Start Menu Search. Just click the Start or Search icon, and then type "powershell" in the search box.
 
 ![Click the Search icon and type &quot;powershell&quot; in the text box.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-16_14h02_57.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
  Now, click "Open" or "Run as Administrator" to open PowerShell either normally or with [administrative privileges](https://win11.techidaily.com/a-guide-to-quickly-opens-sticky-notes-in-windows-11/).
 
 ![Click &quot;Open&quot; or &quot;Run As Administrator.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-16_13h52_39.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  By Scrolling Through All Apps in the Start Menu
 
@@ -80,8 +75,9 @@ thumbnail: https://thmb.techidaily.com/c540c3268cb02c45602ab66fa4199a7f1fc574c2a
 ![Click the Start icon, and then click &quot;All Apps.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-16_14h19_45.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Scroll down, click the "Windows PowerShell" folder, and then select "Windows PowerShell" to open it.
 
 ![Click the &quot;Windows PowerShell&quot; folder, and then click &quot;Windows PowerShell.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-16_14h22_29.png) 
@@ -97,8 +93,9 @@ thumbnail: https://thmb.techidaily.com/c540c3268cb02c45602ab66fa4199a7f1fc574c2a
 ![Type &quot;powershell&quot; in the text box, and then click &quot;OK.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-16_15h56_56.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Launch PowerShell From the File Explorer File Menu
 
  If you need to open a PowerShell instance from a specific folder on your computer, you can use File Explorer to initiate it within the currently selected directory.
@@ -112,24 +109,30 @@ thumbnail: https://thmb.techidaily.com/c540c3268cb02c45602ab66fa4199a7f1fc574c2a
 
 ![Click &quot;File,&quot; hover over &quot;Open Windows PowerShell,&quot; and then click your preferred option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-16_17h12_38.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Note that this method doesn't work from the "Quick Access" directory. You'll find the option to open PowerShell grayed out when you click "File."
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  From the File Explorer Address Bar
 
  To open PowerShell from the File Explorer address bar, open File Explorer. Click the address bar, type "powershell", and then press Enter.
 
 ![Type &quot;powershell&quot; in the File Explorer address bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-16_19h29_17.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  PowerShell will open with the path of the current folder already set.
 
 ![PowerShell open in Windows Terminal.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/powershell-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  From Task Manager
 
  To open Task Manager, press Ctrl+Shift+Esc. In the window that appears, click "More details".
@@ -137,24 +140,27 @@ thumbnail: https://thmb.techidaily.com/c540c3268cb02c45602ab66fa4199a7f1fc574c2a
 ![Click &quot;More details.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-16_19h14_11.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Now, click File > Run New Task.
 
 ![Click &quot;File,&quot; and then click &quot;Run New Task.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-16_19h16_01.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
  Type "powershell" in the text box, and then click "OK" to continue.
 
 ![Type &quot;powershell&quot; in the text box, and then click &quot;OK.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-16_19h17_20.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you want to run PowerShell with administrator permissions, make sure the "Create This Task with Administrator Privileges" option is selected.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  From the Right-Click Context Menu
 
  Another way you can open Windows PowerShell from wherever you are is via the right-click context menu. If you simply right click the folder, though, you won't see the option. Instead, press Shift as you right click. This opens the context menu and includes the "Open PowerShell Window Here" option.
@@ -165,9 +171,6 @@ thumbnail: https://thmb.techidaily.com/c540c3268cb02c45602ab66fa4199a7f1fc574c2a
 
 ![The &quot;Open PowerShell Here&quot; option in the context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/01/apc_top.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Create a PowerShell Shortcut on the Desktop
 
  If you'd rather just click an icon to open PowerShell, it's easy to create one for your Desktop.
@@ -176,9 +179,6 @@ thumbnail: https://thmb.techidaily.com/c540c3268cb02c45602ab66fa4199a7f1fc574c2a
 
 ![Right-click empty space on your desktop, then go to New > Shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/right-click-new-shortcut.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
  In the window that appears, type "powershell" in the text box, and then click "Next" to continue.
 
 ![Type &quot;powershell&quot; in the text box, and then click &quot;Next.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-16_18h57_27.png) 
@@ -187,16 +187,10 @@ thumbnail: https://thmb.techidaily.com/c540c3268cb02c45602ab66fa4199a7f1fc574c2a
 
 ![Type a name for your shortcut in the text box, and then click &quot;Finish.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-16_18h58_05.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now, whenever you double click the icon, PowerShell will open.
 
 ![A &quot;Windows PowerShell&quot; window opened from a desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-16_19h09_17.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
  If you want to open PowerShell with administrative privileges, right click the shortcut and choose "Properties" from the context menu.
 
 ![Click &quot;Properties.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-17_13h57_38.png) 
@@ -205,12 +199,13 @@ thumbnail: https://thmb.techidaily.com/c540c3268cb02c45602ab66fa4199a7f1fc574c2a
 
 ![Click &quot;Advanced.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-17_13h57_53.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Finally, select the box next to the "Run as Administrator" option to allow the shortcut to run with the highest privileges.
 
 ![Select the &quot;Run as Administrator&quot; option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-17_13h58_05.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Click "OK" in both windows to save your changes and close the properties windows.
 
@@ -224,8 +219,6 @@ thumbnail: https://thmb.techidaily.com/c540c3268cb02c45602ab66fa4199a7f1fc574c2a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -233,4 +226,26 @@ thumbnail: https://thmb.techidaily.com/c540c3268cb02c45602ab66fa4199a7f1fc574c2a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/eaders-in-learning-select-sci-yt-channels-for-2024/"><u>[New] Leaders in Learning Select Sci-YT Channels for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unveiling-your-signature-look-a-beginners-blueprint/"><u>[New] Unveiling Your Signature Look A Beginner's Blueprint</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-innovating-informative-intros/"><u>[Updated] 2024 Approved Innovating Informative Intros</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-how-to-use-dslr-for-facebook-live-on-you-pc-or-mac/"><u>[Updated] How to Use DSLR for Facebook Live on You PC or Mac?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cutting-edge-cloud-lockers-on-android-2024-edition/"><u>Cutting-Edge Cloud Lockers on Android, 2024 Edition</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-apple-iphone-15-pro-max-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Your Apple iPhone 15 Pro Max Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-superior-mkv-reader-laptoptablet-edition/"><u>In 2024, Superior MKV Reader (Laptop/Tablet Edition)</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/solo-voices-that-echo-a-podcasters-pathway-for-2024/"><u>Solo Voices that Echo A Podcaster's Pathway for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-role-of-good-manners-in-engaging-effectively-with-artificeus-such-as-chatgpt-alexa-and-siri-is-it-necessary/"><u>The Role of Good Manners in Engaging Effectively with Artificeus Such as ChatGPT, Alexa & Siri: Is It Necessary?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-7-emerging-cybersecurity-trends-and-forecasts/"><u>Top 7 Emerging Cybersecurity Trends & Forecasts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-8-essential-chatgpt-tools-for-health-enthusiasts/"><u>Top 8 Essential ChatGPT Tools for Health Enthusiasts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-8-smart-chrome-tools-enhanced-with-ai-technology/"><u>Top 8 Smart Chrome Tools Enhanced with AI Technology</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-9-imitation-chatgpt-apps-that-pose-as-viruses-protecting-your-data/"><u>Top 9 Imitation ChatGPT Apps That Pose as Viruses: Protecting Your Data</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/trustworthy-techniques-for-apple-ai-app-discovery/"><u>Trustworthy Techniques for Apple AI App Discovery</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/uncover-the-bigger-picture-beyond-ai-generated-synopses/"><u>Uncover the Bigger Picture Beyond AI-Generated Synopses</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-and-utilizing-openais-shapley-explanations-for-machine-learning-insights/"><u>Understanding and Utilizing OpenAI's Shapley Explanations for Machine Learning Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-chatgpt-and-unleashing-the-power-of-generative-artific/"><u>Understanding ChatGPT & Unleashing the Power of Generative Artific</u></a></li>
+<li><a href="https://win11.techidaily.com/wins-blue-screen-blight-finding-the-fix/"><u>Win’s Blue Screen Blight - Finding the Fix</u></a></li>
+</ul></div>
 

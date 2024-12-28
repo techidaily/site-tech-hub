@@ -1,7 +1,7 @@
 ---
 title: Score Your New 2Nd Gen Apple Pencil for Just 95 Dollars! Exclusive Labor Day Offer | CNET Gadgets Deals
-date: 2024-12-06T17:28:09.402Z
-updated: 2024-12-07T20:13:55.259Z
+date: 2024-12-25T01:03:35.457Z
+updated: 2024-12-27T22:29:15.484Z
 tags:
   - apple
 categories:
@@ -34,7 +34,7 @@ By using the Apple Pencil with your iPad (specifically, the iPad Pro 2022 model)
 Get the [Apple Pencil (2nd Gen)](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Pencil-2nd-Generation-Pixel-Perfect-Precision-Industry-Leading-Low-Latency-Perfect-Note-Taking-Drawing-Signing-documents-Attaches-Charges-Pairs%2F949679706&subId1=zd-__COM_CLICK_ID__-dtp) with $35 in savings right now if you want to upgrade your iPad stylus. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -71,20 +71,20 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-hub.techidaily.com/charting-the-boundaries-of-chatgpts-token-count/"><u>Charting the Boundaries of ChatGPT's Token Count</u></a></li>
-<li><a href="https://techtrends.techidaily.com/creating-an-oculus-meta-quest-2-login-a-comprehensive-walkthrough/"><u>Creating an Oculus Meta Quest 2 Login: A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhancing-team-outputs-by-integrating-chatgpt-into-your-operational-strategy/"><u>Enhancing Team Outputs by Integrating ChatGPT Into Your Operational Strategy</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-myths-does-chatgpt-lose-its-edge-over-time/"><u>Exploring the Myths: Does ChatGPT Lose Its Edge Over Time?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-top-7-substitutes-for-chatgpt-in-coding-software-automation/"><u>Exploring the Top 7 Substitutes for ChatGPT in Coding Software Automation</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/future-proofing-digital-assets-the-top-7-predicted-cybersecurity-movements/"><u>Future-Proofing Digital Assets: The Top 7 Predicted Cybersecurity Movements</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-train-chatgpt-to-write-like-you/"><u>How to Train ChatGPT to Write Like You</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-amplify-engagement-essential-tips-for-tiktok-unbox-videos/"><u>In 2024, Amplify Engagement Essential Tips for TikTok Unbox Videos</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-oppo-a59-5g-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Oppo A59 5G Phone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-llm-choices-9-essential-pros-and-cons-for-informed-decision-making/"><u>Navigating LLM Choices: 9 Essential Pros & Cons for Informed Decision-Making</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolve-silent-calls-on-skype-with-these-simple-steps/"><u>Resolve Silent Calls on Skype with These Simple Steps</u></a></li>
-<li><a href="https://games-able.techidaily.com/tackling-launch-issues-for-your-display-driver-a-guide-to-windows-11/"><u>Tackling Launch Issues for Your Display Driver: A Guide to Windows 11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-6-extensions-supercharging-your-gpt-experience-in-vs-code/"><u>Top 6 Extensions: Supercharging Your GPT Experience in VS Code</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/top-tips-eficiente-migrar-dados-para-ssd-em-2024-guia-abrangente/"><u>Top Tips: Eficiente Migrar Dados Para SSD Em 2024 - Guia Abrangente</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/transforma-tu-clip-de-formato-mp4-en-un-divertido-gif-gratuito-manteniendo-la-nitidez-perfecta-online/"><u>Transforma Tu Clip De Formato MP4 en Un Divertido GIF Gratuito Manteniendo La Nitidez Perfecta Online</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-best-4-choices-unhackable-video-meetings-for-small-firms-for-2024/"><u>[New] Best 4 Choices Unhackable Video Meetings for Small Firms for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-selecting-prime-meme-blueprints-for-2024/"><u>[New] Selecting Prime Meme Blueprints for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-50-free-youtube-banners-come-see-them-all/"><u>[Updated] 2024 Approved 50 FREE YouTube Banners - Come See Them All!</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-hidden-whatsapp-gems-top-tricks-to-enhance-your-messaging-experience-for-2024/"><u>[Updated] Hidden WhatsApp Gems Top Tricks to Enhance Your Messaging Experience for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-for-the-modern-freelancer-six-key-techniques-for-successful-remote-collaboration/"><u>ChatGPT for the Modern Freelancer: Six Key Techniques for Successful Remote Collaboration</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/customize-your-own-gpt-variant-with-the-new-features-in-chatgpts-latest-update/"><u>Customize Your Own GPT Variant with the New Features in ChatGPT's Latest Update</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-tecno-spark-20-proplus-is-unlocked-by-drfone-android/"><u>How To Check if Your Tecno Spark 20 Pro+ Is Unlocked</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-make-a-digital-signature-for-svd-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to make a digital signature for .svd file</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/live-shopping-in-china-major-changes-in-the-industry/"><u>Live Shopping in China Major Changes in the Industry</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/mastering-home-networks-with-the-intelligent-technology-of-the-linksys-ea9500-high-performance-router/"><u>Mastering Home Networks with the Intelligent Technology of the Linksys EA9500 High-Performance Router</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/perfect-prompt-engineering-made-easy-top-7-web-based-tools/"><u>Perfect Prompt Engineering Made Easy: Top 7 Web-Based Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/safeguard-your-info-exiting-chatgpts-service/"><u>Safeguard Your Info - Exiting ChatGPT's Service</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/techniques-to-exceed-gpts-textual-boundary/"><u>Techniques to Exceed GPT's Textual Boundary</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-dawn-of-machine-minds-unveiling-the-early-days-of-ai/"><u>The Dawn of Machine Minds: Unveiling the Early Days of AI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-hidden-hazards-of-leveraging-ai-for-windows-codes/"><u>The Hidden Hazards of Leveraging AI for Windows Codes</u></a></li>
 </ul></div>
 

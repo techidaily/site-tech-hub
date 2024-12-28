@@ -1,7 +1,7 @@
 ---
 title: "Unlocking the Potential of Conky: Enhancing Your Linux Desktop Aesthetics"
-date: 2024-08-29T01:12:14.068Z
-updated: 2024-08-30T01:12:14.068Z
+date: 2024-12-26T01:57:22.351Z
+updated: 2024-12-28T11:04:10.036Z
 tags:
   - desktop
 categories:
@@ -28,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/dfca7fb0aa6438e6377385ff2f472549907a4325f
 * **Choose information source:** Embed information from any third-party sources and show it on your desktop.
 * **Tweak appearance:** Complete control over the fonts, colors, and layouts of each widget.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ##  Installation and Set Up
 
  For the purpose of this tutorial, I’ll install Conky on Ubuntu 22.04\. If you aren’t running Ubuntu, check out the [official Conky documentation](https://conky.sourceforge.net/documentation.html) for help with installation.
@@ -66,8 +63,9 @@ sudo apt install conky-manager2
 ![Default Conky Widget and its script in a notepad window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/default-conky-widget-and-script.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Close 
 
  A more streamlined and user-friendly approach is using Conky Manager. It gives you a GUI interface with a list of all installed Conky widgets and themes on your PC. The names appear as complete paths to the specific file. So, instead of saying the "Network panel", it'll show you the entire path "\~/.conky/TeejeeTech/Network Panel."
@@ -77,17 +75,15 @@ Close
 ![Conky manager overview](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/conky-manager-overview.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Using Conky Manager to Edit Conky Widgets](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/using-conky-manager-to-edit-conky-widgets.png) 
 
 Close 
 
  By default, the Conky Manager comes with a number of widgets, but they aren’t eye-catching enough. Not to worry though, as there are talented folks who have developed dedicated Conky themes with stylish widgets that you can simply download and start using on your system, no code necessary.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Installing Conky Themes
 
  For this demonstration, I’ll install the victorConky Theme. To do this, visit its [download page](https://www.pling.com/p/1287775), click on “Files,” and download the .zip file. Once downloaded, visit the containing folder and extract the file.
@@ -96,6 +92,10 @@ Close
 
 ![Extract the victorConky zip file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/extract-the-victorconky-zip-file.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close 
 
  For the Conky widget to work, you’ll first need to install the provided fonts. Simply enter the “fonts” folders, open each of the five fonts one by one and click on the “Install” button.
@@ -103,8 +103,9 @@ Close
 ![Install necessary fonts for VictorConky theme.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/install-necessary-fonts-for-victorconky-theme.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Once done, you’ll need to move the victorConky file to the “.conky” folder in the [home directory](https://instagram-clips.techidaily.com/crafting-captivating-ig-stories-with-youtube-content-for-2024/), so that it becomes accessible via the Conky Manager. To do this, open the terminal in the download directory (or wherever you extracted the file to) and enter the following command:
 
 mv victorConky ~/.conky
@@ -116,8 +117,9 @@ mv victorConky ~/.conky
 ![The victorConky widget enabled and visible on an Ubuntu desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/victorconky-widget-showcase.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Useful Resources
 
  Here’s a list of my top 10 favorite Conky themes ranked by ease of installation (1=easiest and 10=most complex). For more Conky themes, you can visit the [Pling Store](https://www.pling.com/browse?cat=124&ord=latest) or [Deviant Art](https://www.deviantart.com/search?q=conky).
@@ -147,8 +149,6 @@ mv victorConky ~/.conky
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,4 +156,20 @@ mv victorConky ~/.conky
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-top-6-efficient-urban-minecraft-residences/"><u>[Updated] 2024 Approved Top 6 Efficient Urban Minecraft Residences</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-urban-elegance-best-6-modern-mc-mansions/"><u>[Updated] 2024 Approved Urban Elegance Best 6 Modern MC Mansions</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-guide-to-overcoming-mobile-video-sending-problems-in-fb-chat/"><u>[Updated] In 2024, Guide to Overcoming Mobile Video Sending Problems in FB Chat</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-tips-for-uncovering-missing-exclusive-photos/"><u>[Updated] Tips for Uncovering Missing Exclusive Photos</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/3-effective-ways-to-use-chatgpt-in-excel/"><u>3 Effective Ways to Use ChatGPT in Excel</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/9-dangerous-fake-chatgpt-virus-tools-you-need-to-watch-out-for-securing-your-digital-life/"><u>9 Dangerous Fake ChatGPT Virus Tools You Need to Watch Out For – Securing Your Digital Life</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-beginners-primer-on-ai/"><u>A Beginner’s Primer on AI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-assistants-as-therapists-9-critical-concerns-to-consider-before-going-digital/"><u>AI Assistants as Therapists? 9 Critical Concerns to Consider Before Going Digital</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-for-competitive-edge-leveraging-chatgpt-in-commerce/"><u>AI for Competitive Edge: Leveraging ChatGPT in Commerce</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-driven-innovation-transforming-the-global-games-market/"><u>AI-Driven Innovation: Transforming the Global Games Market</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-vr-equipment-enhancing-flight-control-for-2024/"><u>Best VR Equipment Enhancing Flight Control for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/gameplay-causes-system-recalibrations/"><u>Gameplay Causes System Recalibrations</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-behind-the-scenes-of-effective-online-streaming/"><u>In 2024, Behind the Scenes of Effective Online Streaming</u></a></li>
+</ul></div>
 

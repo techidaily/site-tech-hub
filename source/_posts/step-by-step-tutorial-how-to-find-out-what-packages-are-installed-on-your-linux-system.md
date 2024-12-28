@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: How to Find Out What Packages Are Installed on Your Linux System"
-date: 2024-08-29T01:11:12.608Z
-updated: 2024-08-30T01:11:12.608Z
+date: 2024-12-27T01:29:49.391Z
+updated: 2024-12-28T08:35:01.322Z
 tags:
   - desktop
 categories:
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/6c30e06757b848b8822a0592ade3cd707135548fc
 * [Why Check Installed Packages and Applications?](https://snapchat-videos.techidaily.com/updated-securing-your-snapchat-memories-mobile-recording-tips/)
 * [Make Informed Decisions](https://tech-recovery.techidaily.com/enabling-extra-protection-a-guide-to-turning-on-gmails-2fa/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * To see installed apps on Ubuntu, use the "apt list --installed" command in your terminal, or "dnf list installed" for Fedora.
@@ -40,9 +44,6 @@ thumbnail: https://thmb.techidaily.com/6c30e06757b848b8822a0592ade3cd707135548fc
 
  There are a few major package managers that you'll commonly encounter. Red Hat-derived distributions (like Fedora) use the `dnf` package manager, Debian-derived distributions (like Ubuntu) use `apt`, and Arch-based distributions use `pacman`. There are also a few distribution-agnostic package managers like [Snap](https://some-guidance.techidaily.com/in-2024-top-10-innovative-mobile-layering-apps-for-android-and-iphone/) and Flatpak that you can use on most any Linux system.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Apt: List Installed Packages on Ubuntu
 
  The `apt` command allows you to use the [package manager for the Debian distribution](https://blog-min.techidaily.com/how-to-repair-system-issues-of-iphone-xs-max-drfone-by-drfone-ios-system-repair-ios-system-repair/) and the many distributions that have sprung from it, including [Ubuntu](https://common-error.techidaily.com/overcoming-graphics-card-not-supported-hurdles-in-fortnite-for-windows-users/).
@@ -59,9 +60,6 @@ apt list --installed
 
 ![The output from the apt list command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/7-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To see how many entries there are, we can pipe through `wc`, as we did before.
 
 apt list --installed | wc -l
@@ -69,8 +67,9 @@ apt list --installed | wc -l
 ![counting installed apps with apt and wc](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/8-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To find packages of interest, we can use `grep` and part of the name or topic we're interested in.
 
 apt list --installed | grep xfonts
@@ -85,9 +84,6 @@ apt show xml-core
 
 Related: [apt vs. apt-get: What's the Difference on Linux?](https://youtube-lab.techidaily.com/024-approved-best-practices-for-designing-compelling-youtube-video-thumbnails/) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  DNF: List Installed Packages on Fedora
 
  Fedora is the most successful of the RedHat-derived desktop distributions. We'll use that to discuss listing installed applications with the `dnf` package manager.
@@ -102,13 +98,18 @@ dnf list installed
 
 ![Listing of installed apps from dnf](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/2-2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To see how many packages were listed, we can pass the output through `wc`, with the `-l` (lines) option.
 
 ![counting the installed apps with dnf and wc](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/3-3.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  This tells us `dnf` found 1,968 installed packages. To make the output more manageable you could [pipe it into grep](https://screen-recording.techidaily.com/updated-10-superior-choices-high-end-video-conferencing-software-for-2024/), and search for packages of interest.
 
 dnf list installed | grep terminal
@@ -116,8 +117,9 @@ dnf list installed | grep terminal
 ![Using grep to search for specific entries in the output from dnf](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/4-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You could also [pipe the output into less](https://win-amazing.techidaily.com/hp-scanjet-driver-updates-available-install-now-for-enhanced-performance-on-windows-systems/) and use the search function within `less` to find what you are looking for.
 
  If you see a package in the list that you want to know more about—which is a good idea if you're considering removing it—you can use the `dnf info` command.
@@ -138,9 +140,6 @@ pacman -Q
 
 ![Listing installed apps with pacman](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/11-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The list of packages is displayed in the terminal window.
 
 ![List of installed applications from pacman](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/12-1.png) 
@@ -153,9 +152,6 @@ pacman -Q | wc -l
 
 ![counting the installed apps with pacman and wc](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/13-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
  The `-i` (info) option lets us look at the details of a package.
 
 pacman -Qi bash
@@ -163,17 +159,9 @@ pacman -Qi bash
 ![Getting information on a single app with pacman](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/14-1.png) 
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Adding the `-i` option twice can provide a bit more information, if any is available.
 
 pacman -Qii bash
@@ -185,8 +173,9 @@ pacman -Qii bash
 ![extra information provided by using the -i option twice with pacman](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/16-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Flatpak: List Installed Packages on Any Distro
 
  There are ways to install applications that are [distribution](https://win11.techidaily.com/the-art-of-merging-your-guide-to-windows-efficiency/) agnostic. They're designed to be universal package managers. They install sandboxed versions of apps, including any dependencies they have. This makes it easy to install different versions of an application without having to worry about incompatibilities or cross-contamination from version to version.
@@ -205,19 +194,16 @@ flatpak list --app
 
 ![listing apps and excluding supporting files using flatpak](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/18.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To see the details of an individual application, use the `info` command and the application ID of the package, not the application name.
 
 flatpak info org.blender.Blender
 
 ![Seeing the details of a single flatpak app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/19.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ##  Snap: List Installed Packages on Any Distro
 
  The other popular universal package manager is [called snap](https://some-guidance.techidaily.com/in-2024-top-10-innovative-mobile-layering-apps-for-android-and-iphone/). It is a Canonical initiative. It is used by default in the Ubuntu Software application on recent Ubuntu releases and `snap` can be installed on other distributions too.
@@ -228,6 +214,10 @@ snap list
 
 ![listing installed applications with snap](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/20.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To see the details for a single application, use the snap info command and the name of the application.
 
 snap info firefox
@@ -235,8 +225,9 @@ snap info firefox
 ![getting the details of a single snap app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/21.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Why Check Installed Packages and Applications?
 
  The choice of free and [open-source applications](https://facebook-videos.techidaily.com/new-leveraging-social-media-power-optimal-use-of-hash-tags-on-fb/) available to Linux users is astonishing. For a newcomer to Linux it can be overwhelming. But it's also part of the fun. If you have a particular need, you search for a piece of software to address that need. If you don't get along with the one you find, that's no problem. There are likely to be dozens more that you can try until you find one that ticks all of your boxes.
@@ -249,9 +240,6 @@ snap info firefox
 
  In order to manage the situation, the obvious first step is to find out what is installed. Once you know what, you can review the list and decide what stays and what goes.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Make Informed Decisions
 
 `dnf`, `apt`, and `pacman` have options that automatically find and delete orphaned and unneeded packages. But they won't find old packages that you just don't use anymore. That requires human intervention and the knowledge of what requires uninstalling. That's where these handy commands come in.
@@ -264,8 +252,6 @@ snap info firefox
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -273,4 +259,24 @@ snap info firefox
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-secure-your-content-copyright-checks-before-tiktok-sharing/"><u>[New] Secure Your Content Copyright Checks Before TikTok Sharing</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-video-editing-power-filmora-for-youtube-trailers-for-2024/"><u>[Updated] Video Editing Power Filmora for YouTube Trailers for 2024</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/outlook-google/"><u>如何将 Outlook 电子邮件移动至 Google 云端硬盘：两种不同策略</u></a></li>
+<li><a href="https://win-trending.techidaily.com/configurer-et-activer-la-sauvegarde-sys-dans-windows-10/"><u>Configurer Et Activer La Sauvegarde Sys Dans Windows 10</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-capabilities-of-gemini-vs-chatgpt-from-tech-giants/"><u>Exploring the Capabilities of Gemini Vs. ChatGPT From Tech Giants</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-mechanics-of-artificial-intelligence-ai-prompt-based-security-breaches/"><u>Exploring the Mechanics of Artificial Intelligence (AI) Prompt-Based Security Breaches</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exposing-falsehoods-the-non-existent-chatgpt-app-for-windows-is-not-safe-avoid-potential-threats/"><u>Exposing Falsehoods: The Non-Existent ChatGPT App for Windows Is Not Safe - Avoid Potential Threats</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/fraudgpt-unveiled-protecting-yourself-from-potential-online-scams/"><u>FraudGPT Unveiled: Protecting Yourself From Potential Online Scams</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/freeing-yourself-from-the-mobile-tether-register-on-chatgpt-telegram-and-whatsapp-without-a-phone-number-in-easy-steps/"><u>Freeing Yourself From the Mobile Tether: Register on ChatGPT, Telegram & WhatsApp without a Phone Number in Easy Steps</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-confusion-to-clarity-excel-made-simple-by-chatgpt/"><u>From Confusion to Clarity: Excel Made Simple by ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-gpt-3-to-claude-3-identifying-four-key-differences/"><u>From GPT-3 to Claude 3: Identifying Four Key Differences</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/future-proof-your-data-the-upcoming-7-trendscapes/"><u>Future-Proof Your Data: The Upcoming 7 Trendscapes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/insiders-guide-to-the-vr-lexicon-essentials/"><u>Insider's Guide to the VR Lexicon Essentials</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-logitech-c920-driver-download-for-new-windows-11-pc/"><u>Latest Logitech C920 Driver Download for New Windows 11 PC</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-the-dilemma-of-error-0x0000004e-in-win11/"><u>Tackling the Dilemma of Error 0X0000004E in Win11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-pitfalls-in-mastering-apple-vision-pro-and-how-to-avoid-them-for-success-insider-tips-revealed/"><u>Top Pitfalls in Mastering Apple Vision Pro and How to Avoid Them for Success - Insider Tips Revealed!</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-vivo-y27-5g-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Vivo Y27 5G Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+</ul></div>
 

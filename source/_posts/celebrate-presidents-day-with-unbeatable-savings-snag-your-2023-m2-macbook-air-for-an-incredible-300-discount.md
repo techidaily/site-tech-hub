@@ -1,7 +1,7 @@
 ---
 title: "Celebrate Presidents' Day with Unbeatable Savings: Snag Your 2023 M2 MacBook Air for an Incredible $300 Discount"
-date: 2024-12-20T20:39:36.216Z
-updated: 2024-12-22T17:32:19.387Z
+date: 2024-12-26T13:32:31.054Z
+updated: 2024-12-28T11:51:54.956Z
 tags:
   - apple
 categories:
@@ -34,7 +34,7 @@ ZDNET editor-in-chief Jason Hiner says the pair are the most easily recommendabl
 If you're ready to replace that old pair of wired earbuds with one of our favorite wireless earbuds, you might as well hop on this [second-generation AirPods Pro deal](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D1XD1ZV3%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6a967f3d-7d3f-4fdf-b579-d62f551f1b28%7Cdtp&dtb=1). But act fast -- the discount won't last long. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,19 +81,21 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-story-remix-windows-10-photos-for-video-editing/"><u>[New] Mastering Story Remix Windows 10 Photos for Video Editing</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-peak-level-illustration-tweaks-for-2024/"><u>[New] Peak Level Illustration Tweaks for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-digital-frontier-assessing-current-vr-landscape/"><u>[New] The Digital Frontier Assessing Current VR Landscape</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-fast-techniques-to-restructure-your-youtube-sequence-for-2024/"><u>[Updated] Fast Techniques to Restructure Your YouTube Sequence for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-navigating-the-world-of-virtual-backgrounds-for-online-media-professionals/"><u>2024 Approved Navigating the World of Virtual Backgrounds for Online Media Professionals</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1721879647934-beware-no-legitimate-chatgpt-app-for-windows-thats-malicious-software/"><u>Beware: No Legitimate ChatGPT App for Windows – That's Malicious Software!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1722105563150-chatgpts-ios-application-launched/"><u>ChatGPT's iOS Application Launched</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/gb-for-a-continuous-video-watched-daily-for-2024/"><u>GB for a Continuous Video Watched Daily for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-list-of-7-indispensable-software-for-windows-users-explained/"><u>The Ultimate List of 7 Indispensable Software for Windows Users Explained</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210195729-9781953474018-the-voice-of-venus/"><u>The Voice of Venus | Free Book</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-potential-misuse-of-gpt-technology/"><u>Unveiling the Potential Misuse of GPT Technology</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/weighing-the-value-of-gpt-plus/"><u>Weighing the Value of GPT Plus</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/what-drives-sites-to-blockade-gptbot-ai-and-cybersecurity-concerns/"><u>What Drives Sites to Blockade GPTBot? AI & Cybersecurity Concerns</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/write-winning-resumes-fast-leveraging-chatgpt-technology-for-cover-letters/"><u>Write Winning Resumes Fast: Leveraging ChatGPT Technology for Cover Letters</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-stand-out-and-thrive-strategies-for-staff-recognition-at-vimeo/"><u>[New] In 2024, Stand Out and Thrive Strategies for Staff Recognition at Vimeo</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-insider-tips-thriving-in-ginger-islet/"><u>[New] Insider Tips Thriving in Ginger Islet</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-to-network-or-not-a-detailed-guide-for-youtubers-considering-mncs/"><u>[Updated] In 2024, To Network, Or Not A Detailed Guide for YouTubers Considering MNCs</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-from-iphone-15-plus-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled From iPhone 15 Plus? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discovering-the-unique-model-code-of-your-apple-macbook-easily/"><u>Discovering the Unique Model Code of Your Apple MacBook Easily</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-insight-on-the-samsung-ru7300-is-its-design-a-game-changer-for-your-viewing-experience/"><u>Expert Insight on the Samsung RU7300 - Is Its Design a Game-Changer for Your Viewing Experience?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-the-essential-rotators-playbook-for-youtube-video-spinning/"><u>In 2024, The Essential Rotator's Playbook for YouTube Video Spinning</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-the-art-of-powerpoint-modifications-tips-for-an-updated-and-modern-presentation/"><u>Master the Art of PowerPoint Modifications: Tips for an Updated and Modern Presentation</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723000277890-naraka-point-blank-unravelled-glitches-and-fixes/"><u>Naraka: Point Blank - Unravelled Glitches and Fixes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/resolving-the-realtek-pci-express-gbe-family-device-drivers-on-windows-7/"><u>Resolving the Realtek PCI Express GBE Family Device Drivers on Windows 7</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/simple-guide-switching-your-pcs-system-language-in-windows-11-step-by-step/"><u>Simple Guide: Switching Your PC's System Language in Windows 11 – Step by Step</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/solving-the-no-display-problem-of-your-webcam-on-microsoft-operating-systems/"><u>Solving the No-Display Problem of Your Webcam on Microsoft Operating Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/speedy-and-simple-methods-for-keeping-device-drivers-current-on-windows-11/"><u>Speedy & Simple Methods for Keeping Device Drivers Current on Windows 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-restore-system-integrity-with-the-windows-sfc-and-scanosnow-commands/"><u>Step-by-Step Guide: Restore System Integrity with the Windows SFC & ScanOSnow Commands</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-adding-the-netflix-addon-on-your-kodi-device/"><u>Step-by-Step Tutorial: Adding the Netflix Addon on Your Kodi Device</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-rise-of-erc-20-tokens-and-decentralized-exchanges-dexs-as-key-components-in-building-a-decentralized-financial-ecosystem-on-top-of-ethereum/"><u>The Rise of ERC-20 Tokens and Decentralized Exchanges (DEXs) as Key Components in Building a Decentralized Financial Ecosystem on Top of Ethereum</u></a></li>
 </ul></div>
 

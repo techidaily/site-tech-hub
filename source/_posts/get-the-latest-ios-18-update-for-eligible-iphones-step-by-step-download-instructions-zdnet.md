@@ -1,7 +1,7 @@
 ---
 title: Get the Latest iOS 18 Update for Eligible iPhones - Step-by-Step Download Instructions | ZDNet
-date: 2024-12-05T19:41:22.021Z
-updated: 2024-12-07T18:43:07.799Z
+date: 2024-12-21T22:41:13.901Z
+updated: 2024-12-28T02:12:18.389Z
 tags:
   - apple
 categories:
@@ -26,22 +26,22 @@ While the official iOS 18 general release is today, users have already been able
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to install iOS 18
 
 Jason Hiner/ZDNET
 
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Go to General in your iPhone Settings
 
 Go to your iPhone's Settings and select General. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Go to Software Update in Settings
@@ -53,7 +53,7 @@ Within General, tap on Software Update. This will show you if the iOS 18 update 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Enter your passcode and follow steps to install
@@ -75,7 +75,7 @@ Apple released the iOS 18 developer beta during WWDC 2024 in June, and the publi
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Can you still download the iOS 18 public beta?
@@ -87,7 +87,7 @@ You can always be part of the Apple Beta program to get the latest beta versions
 * You should go into the experience to test new features and share feedback to improve iOS, which is why beta versions are released.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How do I install the iOS 18 beta version?
@@ -161,15 +161,22 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/rowth-hacking-for-youtube-stars-maximizing-fans-for-2024/"><u>[New] Growth Hacking for YouTube Stars Maximizing Fans for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-cutting-edge-methods-for-capturing-your-playtime/"><u>[Updated] 2024 Approved Cutting-Edge Methods for Capturing Your Playtime</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-unleashing-potential-professional-tips-to-transform-your-social-media-presence-for-2024/"><u>[Updated] Unleashing Potential Professional Tips to Transform Your Social Media Presence for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-realme-c55-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Realme C55 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Tecno Spark 10 4G | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/iphone-app-struggles-9-reliable-ways-to-get-your-chatgpt-up-and-running-again/"><u>IPhone App Struggles? 9 Reliable Ways to Get Your ChatGPT Up and Running Again</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/synchronizing-your-soundtracks-a-step-by-step-guide-to-embedding-spotify-playlists-on-instagram/"><u>Synchronizing Your Soundtracks: A Step-by-Step Guide to Embedding Spotify Playlists on Instagram</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-new-era-of-aesthetics-and-performance-hidden-cable-zero-desktops-by-maingear-begins-at-1399/"><u>Unveiling the New Era of Aesthetics and Performance: Hidden Cable Zero Desktops by Maingear Begins at $1,399</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-why-select-microsoft-copilot-over-chatgpts-alternatives/"><u>Unveiling: Why Select Microsoft CoPilot Over ChatGPT's Alternatives</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/why-content-authors-should-think-twice-before-outsourcing-to-ai-chatbots-8-key-points/"><u>Why Content Authors Should Think Twice Before Outsourcing to AI Chatbots: 8 Key Points</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/nlock-your-potential-50-free-high-impact-banners-at-your-disposal-for-2024/"><u>[New] Unlock Your Potential 50 FREE, High-Impact Banners at Your Disposal for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-light-and-color-interplay-for-images/"><u>2024 Approved Light & Color Interplay for Images</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/crafting-soundscapes-with-chatgpt-advanced-techniques-for-digital-audio-workstations/"><u>Crafting Soundscapes with ChatGPT: Advanced Techniques for Digital Audio Workstations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/diy-installation-of-chatgpt-for-windows-users-a-comprehensive-guide/"><u>DIY Installation of ChatGPT for Windows Users: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/essential-iphone-recording-apps-for-2024/"><u>Essential iPhone Recording Apps for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/expert-advice-on-gadgets-with-tomhardwareguide/"><u>Expert Advice on Gadgets with TomHardwareGuide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-generative-ai-search-capabilities-and-industry-leaders-utilizing-them/"><u>Exploring Generative AI Search Capabilities and Industry Leaders Utilizing Them</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-boundaries-what-is-the-maximum-capacity-of-a-chatgpt-exchange/"><u>Exploring the Boundaries: What Is the Maximum Capacity of a ChatGPT Exchange?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-can-i-browse-through-all-my-contacts-shared-videos-and-photos/"><u>In 2024, Can I Browse Through All My Contact's Shared Videos & Photos?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovative-writing-with-ai-6-ways-to-utilize-chatgpt-for-creativity/"><u>Innovative Writing with AI: 6 Ways to Utilize ChatGPT for Creativity</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/orbital-offerings-exceptional-content-plus-praise/"><u>Orbital Offerings: Exceptional Content + Praise</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/ranking-the-top-5-instant-frame-recorder-apps/"><u>Ranking the Top 5 Instant Frame Recorder Apps</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-next-step-in-smartwear-top-benefits-of-integrating-chatgpt-with-watches/"><u>The Next Step in Smartwear: Top Benefits of Integrating ChatGPT with Watches</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/trouble-free-steps-to-successfully-install-the-latest-ios-17-update/"><u>Trouble-Free Steps to Successfully Install the Latest iOS 17 Update</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/whats-new-with-chatgpt-a-guide-to-its-latest-and-most-impactful-updates/"><u>What's New with ChatGPT? A Guide to Its Latest and Most Impactful Updates</u></a></li>
 </ul></div>
 

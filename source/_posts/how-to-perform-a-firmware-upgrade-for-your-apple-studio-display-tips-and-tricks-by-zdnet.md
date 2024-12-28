@@ -1,7 +1,7 @@
 ---
 title: How to Perform a Firmware Upgrade for Your Apple Studio Display (Tips and Tricks by ZDNet)
-date: 2024-12-21T18:20:46.592Z
-updated: 2024-12-22T17:39:22.504Z
+date: 2024-12-24T05:17:33.470Z
+updated: 2024-12-28T09:56:59.222Z
 tags:
   - apple
 categories:
@@ -24,6 +24,10 @@ If you're going to be one of those people, read on.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 * [The best smartwatches you can buy: Apple, Samsung, Google, and more compared](https://www.zdnet.com/article/best-smartwatch/)
@@ -34,7 +38,7 @@ If you're going to be one of those people, read on.
 You don't want to mess up this transfer, because not only could you lose data, but the next person could end up being unable to use the iPhone you sold or gave them. Follow these steps for a successful result for both of you. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  1\. Update
@@ -58,16 +62,12 @@ These are the iPhones that can run iOS 15:
 If your iPhone is one of these and is not running the latest version of iOS 15, then I recommend upgrading to the latest release to get the best experience. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  2\. Look out for apps that need additional handholding during a transfer
 
 Next, some apps -- specifically banking apps in my experience -- prefer it if you deactivate or deauthorize them on the old iPhone before moving to a new handset. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### read this
 
@@ -133,7 +133,7 @@ Remember, once you start this process, there's no going back!
 **Also:** [**iOS 15 privacy and security checklist**](https://www.zdnet.com/article/ios-15-ultimate-privacy-and-security/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### See also
@@ -144,7 +144,7 @@ Remember, once you start this process, there's no going back!
 * [How to clean a mechanical keyboard](https://www.zdnet.com/article/how-to-clean-a-mechanical-keyboard/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  6\. Spring-clean your iPhone
@@ -187,17 +187,20 @@ Now you can relax and enjoy your [new iPhone](https://www.zdnet.com/article/here
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-propel-your-content-using-igtv-hashtags-to-expand-audiences/"><u>[New] In 2024, Propel Your Content Using IGTV Hashtags to Expand Audiences</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-solving-movie-editing-queries-with-filmora-guidance/"><u>[New] Solving Movie-Editing Queries with Filmora Guidance</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-the-complete-rankings-of-mobile-apps-altering-your-speech/"><u>[Updated] 2024 Approved The Complete Rankings of Mobile Apps Altering Your Speech</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-upgrade-your-experience-10-high-performance-drives-for-2024/"><u>[Updated] Upgrade Your Experience #10 High-Performance Drives for 2024</u></a></li>
-<li><a href="https://win-info.techidaily.com/44cm44k744kv44k44oq44kk44k744kv44k5pa55byp44gr44ki44kl44kv44ot44o844ol44oz44kw5oml6acg44gu6kmz57sw44ks44kk44oj44cn/"><u>「セクタバイセクタ方式によるクローニング手順の詳細ガイド」</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/digital-creativity-unleashed-changing-numbers-in-tiktok/"><u>Digital Creativity Unleashed Changing Numbers in TikTok</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/inematic-journey-crafting-youtube-trailers-in-filmora/"><u>The Cinematic Journey Crafting YouTube Trailers in Filmora</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-5-strategies-for-leveraging-custom-commands-in-chatgpt/"><u>Top 5 Strategies for Leveraging Custom Commands in ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ultimate-strategies-to-enhance-your-notes-using-chatgpt/"><u>Ultimate Strategies to Enhance Your Notes Using ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-more-potential-why-chatgpts-desktop-app-is-superior-to-the-web-platform/"><u>Unlocking More Potential: Why ChatGPT's Desktop App Is Superior to the Web Platform</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/upgrading-chatgpts-add-on-ecosystem-with-these-crucial-enhancements/"><u>Upgrading ChatGPT's Add-On Ecosystem with These Crucial Enhancements</u></a></li>
-<li><a href="https://games-able.techidaily.com/what-is-the-nintendo-switch-online-expansion-pack-and-is-it-worth-the-price/"><u>What Is the Nintendo Switch Online Expansion Pack and Is It Worth the Price?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ecome-a-livestream-king-the-best-webcams-for-youtube-stars-for-2024/"><u>[New] Become a Livestream King The Best Webcams for YouTube Stars for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-tips-for-snagging-quality-streams-on-facebook/"><u>[Updated] 2024 Approved Tips for Snagging Quality Streams on Facebook</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beyond-chatgpt-uncover-the-best-mobile-app-alternatives-in-ai-conversations/"><u>Beyond ChatGPT: Uncover the Best Mobile App Alternatives in AI Conversations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhance-daily-living-using-these-9-chatgpt-techniques/"><u>Enhance Daily Living Using These 9 ChatGPT Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/explore-the-ultimate-list-of-5-superior-ai-prompt-designers-to-boost-your-tools-capabilities/"><u>Explore The Ultimate List of 5 Superior AI Prompt Designers to Boost Your Tool's Capabilities</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/flights-frontiers-basic-vs-professional-pilots/"><u>Flight's Frontiers: Basic Vs. Professional Pilots</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Samsung Galaxy A25 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-a15-4g-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy A15 4G Bootloader Easily</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/latest-happenings-unveiling-the-new-twitter-fraud-scheme-official-rollout-of-metas-verification-feature-and-comprehensive-guide-to-chatgpt-4/"><u>Latest Happenings: Unveiling the New Twitter Fraud Scheme, Official Rollout of Meta's Verification Feature & Comprehensive Guide to ChatGPT-4</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solve-non-functional-usb-audio-device-issue-in-win10/"><u>Solve Non-Functional USB Audio Device Issue in WIN10</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/stay-safe-not-seducedgoogles-bard-malware-warning/"><u>Stay Safe, Not Seduced—Google's Bard Malware Warning!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/step-by-step-guide-double-effect-wonders-for-tiktoks/"><u>Step-by-Step Guide Double Effect Wonders for TikToks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transformative-windows-tips-top-20-cmd-commands/"><u>Transformative Windows Tips: Top 20 CMD Commands</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-mystery-what-are-artificial-intelligence-hallucinations-and-how-can-you-recognize-them/"><u>Unveiling the Mystery: What Are Artificial Intelligence Hallucinations & How Can You Recognize Them?</u></a></li>
 </ul></div>
 

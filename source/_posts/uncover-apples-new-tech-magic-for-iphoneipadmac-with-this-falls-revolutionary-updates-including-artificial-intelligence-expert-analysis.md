@@ -1,7 +1,7 @@
 ---
 title: Uncover Apple's New Tech Magic for iPhone/iPad/Mac with This Fall’s Revolutionary Updates Including Artificial Intelligence | Expert Analysis
-date: 2024-12-16T22:48:52.882Z
-updated: 2024-12-22T16:52:49.717Z
+date: 2024-12-21T20:44:31.878Z
+updated: 2024-12-28T01:42:52.698Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -60,10 +64,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -73,7 +73,7 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -95,7 +95,7 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -113,7 +113,7 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -154,10 +154,6 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -165,6 +161,10 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -210,16 +210,24 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-how-to-start-and-sustain-an-indie-podcast-hit/"><u>[New] 2024 Approved How to Start & Sustain an Indie Podcast Hit</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-from-hundreds-to-millions-a-youtube-growth-journey/"><u>[Updated] From Hundreds to Millions A YouTube Growth Journey</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-high-definition-horizons-comparing-ultrawide-and-uhd-4k-monitors/"><u>[Updated] In 2024, High-Definition Horizons Comparing UltraWide and UHD 4K Monitors</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-pivotal-moments-top-20-anime-themes/"><u>[Updated] Pivotal Moments Top 20 Anime Themes</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723010758664-getting-your-discord-overlay-back-up-and-running-in-no-time/"><u>Getting Your Discord Overlay Back Up & Running in No Time</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-the-sound-solutions-for-non-responsive-sony-headphones-on-your-computer/"><u>Revive the Sound: Solutions for Non-Responsive Sony Headphones on Your Computer</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transform-your-messaging-setting-up-microsoft-bing-chatbot-on-android-devices/"><u>Transform Your Messaging: Setting Up Microsoft Bing Chatbot on Android Devices</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transform-your-mobile-interactions-with-these-7-advanced-options-over-chatgpt/"><u>Transform Your Mobile Interactions with These 7 Advanced Options over ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/uncover-new-reads-using-cutting-edge-ai-recommender-services/"><u>Uncover New Reads Using Cutting-Edge AI Recommender Services</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-fraudgpt-essential-strategies-for-self-protection-against-the-risky-ai/"><u>Understanding FraudGPT: Essential Strategies for Self-Protection Against the Risky AI</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-the-power-of-chatgpt-for-seamless-language-translation-services/"><u>Unlocking the Power of ChatGPT for Seamless Language Translation Services</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-ensuring-privacy-in-zoom-meetings-by-recording/"><u>[New] Ensuring Privacy in Zoom Meetings by Recording</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-top-tips-to-flawlessly-integrate-timely-text-in-your-fb-videos/"><u>[New] Top Tips to Flawlessly Integrate Timely Text in Your FB Videos</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-mix-masters-ideal-dj-videos-to-download/"><u>[Updated] Mix Masters Ideal DJ Videos to Download</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-audience-allure-identifying-the-top-6-video-types/"><u>2024 Approved Audience Allure Identifying the Top 6 Video Types</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-exceptional-artifice-intelligence-based-search-systems-tailored-for-seamless-internet-queries/"><u>Discover Exceptional Artifice Intelligence-Based Search Systems Tailored for Seamless Internet Queries</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/essential-ai-mobile-apps-for-androidios-users/"><u>Essential AI Mobile Apps for Android/iOS Users</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/how-to-reclaim-your-missing-iphone-contacts-with-top-tier-restoration-applications/"><u>How to Reclaim Your Missing iPhone Contacts with Top-Tier Restoration Applications</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-nubia-z50s-pro-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Nubia Z50S Pro</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovative-uses-of-chatgpt-to-revolutionize-your-approach-to-asteroid-3d-printing/"><u>Innovative Uses of ChatGPT to Revolutionize Your Approach to Asteroid 3D Printing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-ai-chats-10-winning-phrases-to-boost-your-cryptocurrency-knowledge/"><u>Mastering AI Chats: 10 Winning Phrases to Boost Your Cryptocurrency Knowledge</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-the-world-of-gadgets-with-toms-hardware-experts/"><u>Navigating the World of Gadgets with Tom's Hardware Experts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/openais-ai-assistant-cybersecurity-implications/"><u>OpenAI's AI Assistant: Cybersecurity Implications</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-corporate-merge-unpacked-microsoft-brings-blizzard-in-house-ai-breakthroughs-in-art-creation-and-language-services-discussed-podcast-analysis/"><u>The Corporate Merge Unpacked: Microsoft Brings Blizzard In-House; AI Breakthroughs in Art Creation & Language Services Discussed [Podcast Analysis]</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-launch-crashes-for-necromunda-hired-gun-on-personal-computers/"><u>Troubleshooting Launch Crashes for Necromunda: Hired Gun on Personal Computers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-linguistic-blindspots-in-ai-the-reason-behind-chatgpts-inability-to-recognize-its-text/"><u>Understanding Linguistic Blindspots in AI: The Reason Behind ChatGPT’s Inability to Recognize Its Text</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleash-your-inner-bard-crafting-an-entire-poetry-collection-using-chatgpt/"><u>Unleash Your Inner Bard: Crafting an Entire Poetry Collection Using ChatGPT</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-vivo-y28-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Vivo Y28 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/wiederherstellen-von-datas-und-protokollen-auf-dem-windows-server-2012-r2/"><u>Wiederherstellen Von Datas Und Protokollen Auf Dem Windows Server 2012 R2</u></a></li>
+<li><a href="https://win-tips.techidaily.com/windows-11-dism-2/"><u>Windows 11 離線恢復技術：DISM 解決方案處理程序的 2 種不同方法</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Top AT&T Mobile Offers in May 2024 - Exclusive Insights
-date: 2024-12-20T23:16:02.397Z
-updated: 2024-12-22T18:25:45.566Z
+date: 2024-12-22T13:56:52.318Z
+updated: 2024-12-28T02:48:56.080Z
 tags:
   - apple
 categories:
@@ -116,6 +116,10 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 
 [View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/motorola-razrplus.html) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## More AT&T deals
 
 [Apple iPhone 15 Pro Max, $5.56/month with trade-in View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/apple-iphone-15-pro-max.html)
@@ -131,7 +135,7 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 [Motorola moto g stylus, $2.99/month, no trade-in required View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/motorola-moto-g-stylus-5g-2023.html)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Accessory and service deals
@@ -144,6 +148,10 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 
 [BodyGuardz Pure 2 Edge antimicrobial glass screen protector (iPhone 14 range) for $10 (save $35) $10 at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/accessories/Screen-Protectors/bodyguardz-pure-2-edge-antimicrobial-tempered-glass-screen-protector-iphone-14-13-13-pro.html)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How did we choose these AT&T phone deals?
 
 When we made our selection for the best AT&T deals, we wanted to include options based on the following criteria: 
@@ -154,16 +162,12 @@ When we made our selection for the best AT&T deals, we wanted to include options
 * **Free products**: Devices drop in value over time, and to offload excess stock, some carriers will launch time-sensitive deals, giving subscribers free products in exchange for signing up for a new contract.
 * **Events**: It's always worth checking retailers after a major event, such as Samsung Unpacked. You will often find that deals will be launched just after, luring customers to agree to preorder their new handset in return for discounts and free storage upgrades.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Does AT&T offer deals for existing customers?
 
 It's true that carriers are the most aggressive with their offers when it's year-end and new customers are shopping around for services to switch to. Still, AT&T has done a fairly balanced job of pushing promotions for new and existing customers, including all the deals we have listed above. If you've been a loyal customer, we'd even recommend reaching out to your local AT&T provider to see if there are any exclusive deals just for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is it cheaper to buy a phone online or in-store?
@@ -174,17 +178,13 @@ In general, there is no difference in how much money you save whether you shop o
 
 ZDNET experts split out the latest and greatest deals for you below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Best deals by retailer**
 
 * [The best AT&T deals](https://www.zdnet.com/article/att-deals/)
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Best deals by category**
@@ -236,22 +236,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-full-guide-to-adobe-cloud-storage-and-best-alternatives/"><u>[New] Full Guide to Adobe Cloud Storage and Best Alternatives</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unleash-the-full-potential-in-the-metaverse-with-this-list/"><u>2024 Approved Unleash the Full Potential in the Metaverse with This List</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/accidentally-trashed-a-file-learn-how-to-get-it-back-with-microsoft-windows-tools-from-yl-computing-experts/"><u>Accidentally Trashed a File? Learn How to Get It Back with Microsoft Windows Tools From YL Computing Experts</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-honor-magic-vs-2-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Honor Magic Vs 2 via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-realme-c51-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Realme C51.</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-songsyncing-simplified-your-guide-to-turning-tamil-music-into-alerts/"><u>In 2024, SongSyncing Simplified Your Guide to Turning Tamil Music Into Alerts</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/live-stream-and-webcam-integration-on-tumblr-with-manycam-the-ultimate-guide/"><u>Live Stream & Webcam Integration on Tumblr with ManyCam - The Ultimate Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/maximizing-impact-uploading-srt-subtitles-to-popular-networks-seamlessly/"><u>Maximizing Impact Uploading SRT Subtitles to Popular Networks Seamlessly</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/pc-compatibility-coming-soon-unlocking-the-potential-of-playstation-vr2-on-your-computer-a-closer-look/"><u>PC Compatibility Coming Soon: Unlocking the Potential of PlayStation VR2 on Your Computer - A Closer Look</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/preventing-unauthorized-data-access-by-adaptive-ai/"><u>Preventing Unauthorized Data Access by Adaptive AI</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/protecting-your-information-the-risks-of-using-personalized-chatgpt-models/"><u>Protecting Your Information: The Risks of Using Personalized ChatGPT Models</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/stanza-squadron-vs-artificial-intelligence-offline-alpaca-edition/"><u>Stanza Squadron vs Artificial Intelligence - Offline Alpaca Edition</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-mastering-the-microsoft-ai-bing-application-on-your-android-device/"><u>Step-by-Step Guide: Mastering the Microsoft AI Bing Application on Your Android Device</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/tailoring-dietary-patterns-with-ai-assistance/"><u>Tailoring Dietary Patterns With AI Assistance</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/three-cutting-edge-strategies-for-enhancing-excel-performance/"><u>Three Cutting-Edge Strategies for Enhancing Excel Performance</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-8-artificial-intelligence-mobile-applications-for-android-and-ios/"><u>Top 8 Artificial Intelligence Mobile Applications for Android & iOS</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transform-your-fitness-routine-6-innovative-uses-of-chatgpt-for-smartwatch-enhancement/"><u>Transform Your Fitness Routine: 6 Innovative Uses of ChatGPT for Smartwatch Enhancement</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/outube-shorts-and-tiktok-which-one-is-better-for-personal-usage/"><u>[New] YouTube Shorts & TikTok Which One Is Better for Personal Usage?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/solved-errconnectiontimedout-in-chrome/"><u>[SOLVED] ERR_CONNECTION_TIMED_OUT in Chrome</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/solved-how-to-unblock-websites-on-chrome/"><u>[Solved] How to Unblock Websites on Chrome</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-metaverse-mayhem-top-10-sci-fi-movies-breaking-boundaries/"><u>[Updated] In 2024, Metaverse Mayhem Top 10 Sci-Fi Movies Breaking Boundaries</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/application-ownership-terms/"><u>Application Ownership Terms</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-listing-the-elite-selection-of-robot-mop-cleaners-for-202/"><u>Exclusive Listing: The Elite Selection of Robot Mop Cleaners for 202</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-perfecting-the-live-broadcast-4-tips-for-fb-enthusiasts/"><u>In 2024, Perfecting the Live Broadcast 4 Tips for FB Enthusiasts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/roblox-launching-woes-here-are-5-ways-to-resume-gameplay-swiftly/"><u>Roblox Launching Woes? Here Are 5 Ways to Resume Gameplay Swiftly</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/running-older-programs-seamlessly-compatibility-mode-tips-for-windows-11-users/"><u>Running Older Programs Seamlessly: Compatibility Mode Tips for Windows 11 Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/secure-your-internet-with-savings-snag-a-49-discount-on-expressvpn-coupons-today/"><u>Secure Your Internet with Savings: Snag a 49% Discount on ExpressVPN Coupons Today!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/solutions-to-restore-functionality-of-a-malfunctioning-logitech-c922-camcorder/"><u>Solutions to Restore Functionality of a Malfunctioning Logitech C922 Camcorder</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/solving-installation-media-cant-be-written-to-a-gpt-disk-a-complete-guide/"><u>Solving 'Installation Media Can't Be Written to a GPT Disk': A Complete Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-enabling-remote-access-with-windows-10/"><u>Step-by-Step Guide: Enabling Remote Access with Windows 10</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshooting-and-fixing-hp-officejet-pro-6978-driver-problems-effectively/"><u>Troubleshooting & Fixing HP OfficeJet Pro 6978 Driver Problems Effectively</u></a></li>
 </ul></div>
 

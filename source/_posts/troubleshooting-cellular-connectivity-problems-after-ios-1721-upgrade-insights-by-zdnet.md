@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Cellular Connectivity Problems After iOS 17.2.1 Upgrade | Insights by ZDNET
-date: 2024-12-20T21:51:47.784Z
-updated: 2024-12-22T23:55:16.583Z
+date: 2024-12-21T11:07:59.234Z
+updated: 2024-12-27T22:51:45.654Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,22 +109,17 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/rofessional-3d-design-apps-top-5-for-youtubers-for-2024/"><u>[New] Professional 3D Design Apps - Top 5 for Youtubers for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-best-practices-for-documenting-live-streamed-sporting-matches/"><u>[Updated] In 2024, Best Practices for Documenting Live-Streamed Sporting Matches</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-on-the-go-is-the-mobile-app-beneficial-or-detrimental/"><u>ChatGPT on the Go: Is the Mobile App Beneficial or Detrimental?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/clash-of-tech-titans-exploring-8-key-differences-between-snapchats-my-ai-and-microsofts-bing-chat-on-skype/"><u>Clash of Tech Titans: Exploring 8 Key Differences Between Snapchat's My AI & Microsoft's Bing Chat on Skype</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/critical-considerations-when-leveraging-chatgpt-for-emotional-well-being/"><u>Critical Considerations When Leveraging ChatGPT for Emotional Well-Being</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/discovering-the-perfect-shape-tailoring-aspect-ratios-in-videos/"><u>Discovering the Perfect Shape Tailoring Aspect Ratios in Videos</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/driving-decisions-perfecting-persuasive-business-proposals-with-ai/"><u>Driving Decisions: Perfecting Persuasive Business Proposals with AI</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/elevating-teaching-and-learning-with-5-innovative-chatgpt-strategies/"><u>Elevating Teaching and Learning with 5 Innovative ChatGPT Strategies</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723007539711-expert-tips-to-fix-cannot-connect-mishaps-in-your-favorite-game-lost-ark/"><u>Expert Tips to Fix 'Cannot Connect' Mishaps in Your Favorite Game, Lost Ark!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/explore-books-with-ai-the-ultimate-list-of-smart-recommendation-tools/"><u>Explore Books with AI: The Ultimate List of Smart Recommendation Tools</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/future-workforce-how-ai-revolutionizes-employment/"><u>Future Workforce: How AI Revolutionizes Employment</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/google-bard-may-be-infected-stay-safe-by-not-downloading-this-app-to-prevent-malware-threats/"><u>Google Bard May Be Infected: Stay Safe by Not Downloading This App to Prevent Malware Threats</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-perfecting-iphone-images-in-dim-light/"><u>In 2024, Perfecting iPhone Images in Dim Light</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-realme-gt-5-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Realme GT 5 | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/soundmax-driver-download-and-install-on-windows/"><u>SoundMAX Driver Download and Install on Windows</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/step-up-your-vr-game-with-oculus-quest-2s-elite-wristband-extra-juice-pack-and-protective-travel-case-our-in-depth-review/"><u>Step Up Your VR Game with Oculus Quest 2'S Elite Wristband, Extra Juice Pack, and Protective Travel Case - Our In-Depth Review!</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/youtubes-trophy-chain-for-engaged-audiences-for-2024/"><u>YouTube's Trophy Chain for Engaged Audiences for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-capture-clarity-high-quality-screen-recordings-for-youtubers-pcmac/"><u>[New] In 2024, Capture Clarity High-Quality Screen Recordings for YouTubers (PC/Mac)</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-the-ultimate-how-to-for-navigating-old-features-on-fb-mobilepc/"><u>[New] In 2024, The Ultimate How-To for Navigating Old Features on FB, Mobile/PC</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-maximizing-gaming-experience-record-games-on-win10/"><u>[New] Maximizing Gaming Experience Record Games on Win10</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/solved-bluetooth-keyboard-stop-working-in-windows-10/"><u>[Solved] Bluetooth Keyboard Stop Working in Windows 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-powered-content-is-it-ses-kryptonite/"><u>GPT-Powered Content: Is It SE's Kryptonite?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/recovering-access-steps-to-restore-a-forgotten-ipad-passcode-and-unlock-securely/"><u>Recovering Access: Steps to Restore a Forgotten iPad Passcode and Unlock Securely</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/resolve-excessive-tiworkerexe-cpu-and-memory-consumption-in-windows-11/"><u>Resolve Excessive tiworker.exe CPU and Memory Consumption in Windows 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/speed-hacks-supercharge-minecraft-gameplay/"><u>Speed Hacks - Supercharge Minecraft Gameplay!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-efficiently-clearing-your-entire-google-search-log/"><u>Step-by-Step Guide: Efficiently Clearing Your Entire Google Search Log</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ised-content-ease-youtube-loop-integration-guide-for-2024/"><u>Televised Content Ease YouTube Loop Integration Guide for 2024</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/top-rated-dell-data-protection-choosing-the-ideal-backup-and-recovery-solution/"><u>Top-Rated Dell Data Protection: Choosing the Ideal Backup & Recovery Solution</u></a></li>
 </ul></div>
 

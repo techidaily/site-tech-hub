@@ -1,7 +1,7 @@
 ---
 title: Deepen Relationships with Emotional Intelligence Assistance
-date: 2024-08-24T11:31:07.203Z
-updated: 2024-08-25T11:31:07.203Z
+date: 2024-12-22T03:08:16.685Z
+updated: 2024-12-27T19:00:09.017Z
 tags:
   - chatgpt
   - open-ai
@@ -34,44 +34,45 @@ thumbnail: https://thmb.techidaily.com/c91ef4997081e65543be4ed1e14a92e0b1b11ea3f
  To get started with GPT-4 Turbo, just boot up Copilot and start talking with it. At the time of writing, Copilot will use GPT-4 Turbo by default when talking to a user on the free tier. Paid users can go back to previous models if they wish, but you don't need to worry about that if you just want to use the latest and greatest model.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to Use GPT-4 Turbo for Free on Windows 10 and 11
 
 ![Copilot prompt on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/copilot-prompt-on-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  If you're a Windows 10 or 11 user, there's a very good chance you have a Copilot button on your taskbar. To get started with GPT-4 Turbo, just click this button and begin chatting with the chatbot when it appears.
 
  If you want to bring Copilot up faster, you can do so by pressing**Win + C** . Or, if you're lucky enough to own a[laptop with a dedicated Copilot button](https://www.makeuseof.com/microsofts-copilot-key-windows-11-pc/) , just press that to bring up the assistant at any time.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to Use GPT-4 Turbo for Free on Other Devices
 
 ![microsoft copilot answering question jan 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/microsoft-copilot-answering-question-jan-2024.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you don't have a Copilot button yet or use a different operating system, you can still use the[Copilot website](https://copilot.microsoft.com/) . Open it up, start talking, and it will automatically use GPT-4 Turbo to parse your prompts.
 
  If you're on mobile, you can download the[Copilot app for Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2032122/https://play.google.com/store/apps/details?id=com.microsoft.copilot&hl=en&gl=US) or[iOS](https://apps.apple.com/us/app/microsoft-copilot/id6472538445) . The app has a toggle when you open it that enables or disables GPT-4\. It may not be the Turbo version, but it should still be powerful enough to handle your queries.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Get the Most Out of GPT-4 Turbo
 
 ![GPT 4 graphic with digital patterns](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-4-graphic-with-digital-patterns.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  GPT-4 Turbo is very powerful, but it's only as good as what you feed it. Here are a few tips to get the most out of GPT-4 Turbo and Copilot.
 
  Always remember that Copilot currently doesn't process its queries locally; everything gets sent back to Microsoft's servers so it can generate your answer. Be careful and avoid telling Copilot anything private or something that could identify you.
@@ -80,14 +81,11 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  GPT-4 Turbo is a very powerful tool, and fortunately, you don't have to pay a cent to use it. Now you know how to use the popular chatbot model for free, whether you're on a Windows PC or otherwise.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -96,4 +94,21 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-elevated-experience-selective-best-of-the-series/"><u>[New] 2024 Approved Elevated Experience Selective Best of the Series</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-expert-tips-for-creating-dynamic-youtube-splits/"><u>[New] 2024 Approved Expert Tips for Creating Dynamic YouTube Splits</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-dissecting-the-technology-behind-frapss-screenshot-pro-for-2024/"><u>[New] Dissecting the Technology Behind Fraps's Screenshot Pro for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-quick-screen-grabs-for-win-11-users/"><u>[Updated] In 2024, Quick Screen Grabs for Win 11 Users</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mambos-in-the-mangroves/"><u>[Updated] Mambos in the Mangroves</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/achieving-excellence-in-recorded-gaming-experiences-for-2024/"><u>Achieving Excellence in Recorded Gaming Experiences for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/battle-of-the-ais-notion-ai-versus-gpt-3-in-writing/"><u>Battle of the AIs: Notion AI Versus GPT-3 in Writing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/conversor-de-videos-online-transforma-tu-contenido-con-facilidad-en-formatos-como-mp4-mov-avi-y-otros-mas/"><u>Conversor De Vídeos Online: Transforma Tu Contenido Con Facilidad en Formatos Como MP4, MOV, AVI Y Otros Más</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-cover-letter-writing-using-chatgpt-top-strategies-revealed/"><u>Effortless Cover Letter Writing Using ChatGPT: Top Strategies Revealed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-ensure-authenticity-of-ai-chat-apps-before-purchasing-on-iphoneipad-platform/"><u>How to Ensure Authenticity of AI Chat Apps Before Purchasing on iPhone/iPad Platform</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-through-openais-bug-bounty-scheme-eligibility-processes-and-earning-potential/"><u>Navigating Through OpenAI’s Bug Bounty Scheme: Eligibility, Processes, and Earning Potential</u></a></li>
+<li><a href="https://techtrends.techidaily.com/simplified-steps-to-set-up-and-utilize-apple-pay-via-your-apple-wrist-device/"><u>Simplified Steps to Set Up and Utilize Apple Pay via Your Apple Wrist Device</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-next-ai-leap-when-do-experts-predict-gpt-5-will-debut/"><u>The Next AI Leap – When Do Experts Predict GPT-5 Will Debut?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-the-power-of-chatgpt-in-any-language-you-speak/"><u>Unlock the Power of ChatGPT in Any Language You Speak</u></a></li>
+</ul></div>
 

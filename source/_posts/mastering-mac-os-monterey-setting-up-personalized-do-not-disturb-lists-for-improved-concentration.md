@@ -1,7 +1,7 @@
 ---
 title: "Mastering Mac OS MONTEREY: Setting Up Personalized Do Not Disturb Lists for Improved Concentration"
-date: 2024-12-19T17:06:41.017Z
-updated: 2024-12-22T16:40:33.017Z
+date: 2024-12-23T03:34:35.546Z
+updated: 2024-12-27T17:33:57.116Z
 tags:
   - apple
 categories:
@@ -27,17 +27,21 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a custom Focus
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
@@ -48,6 +52,10 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 
 Image: Jack Wallen
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Open the Focus tab
 
 Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
@@ -55,10 +63,6 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 **Figure 2:** You'll find a single pre-configured Focus for Do Not Disturb already available.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
 
@@ -77,7 +81,7 @@ Image: Jack Wallen
 After naming and selecting a color/icon, click Add to save the new Focus.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Allowing specific notifications
@@ -93,10 +97,6 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 **Figure 6:** Adding contacts to a Focus in macOS Monterey.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
 
@@ -140,22 +140,20 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-laughter-unleashed-a-stepwise-strategy-for-making-impactful-gifs/"><u>[New] In 2024, Laughter Unleashed A Stepwise Strategy for Making Impactful GIFs</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-techniques-and-strategies-for-swift-removal-of-comments/"><u>[Updated] 2024 Approved Techniques and Strategies for Swift Removal of Comments</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-capture-kings-list-the-ultimate-screen-recorder-showdown/"><u>[Updated] Capture Kings List The Ultimate Screen Recorder Showdown</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-transform-valorant-gameplay-top-ranked-costless-voice-alterer-revealed/"><u>[Updated] Transform Valorant Gameplay Top-Ranked, Costless Voice Alterer Revealed</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/6-ways-to-survive-and-thrive-in-the-ai-dominated-workplace/"><u>6 Ways to Survive and Thrive in the AI-Dominated Workplace</u></a></li>
-<li><a href="https://article-tips.techidaily.com/discovering-the-ultimate-set-of-text-tools-for-ae-artistry-for-2024/"><u>Discovering the Ultimate Set of Text Tools for AE Artistry for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/guided-by-the-pros-authoritative-opinions-on-movavis-software-suite-for-creatives/"><u>Guided by the Pros: Authoritative Opinions on Movavi's Software Suite for Creatives</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-command-attention-elevating-your-page-to-the-social-summit/"><u>In 2024, Command Attention Elevating Your Page to the Social Summit</u></a></li>
-<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-oneplus-nord-n30-se-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your OnePlus Nord N30 SE Phone FRP Lock</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/optimize-fitness-coaching-with-chatgpt-expertise/"><u>Optimize Fitness Coaching with ChatGPT Expertise</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/potential-risks-could-chatgpt-be-used-by-hackers-to-infiltrate-banks-and-computers/"><u>Potential Risks: Could ChatGPT Be Used by Hackers to Infiltrate Banks and Computers?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionary-ai-dialogue-pivotal-features-of-the-future-gpt-5/"><u>Revolutionary AI Dialogue: Pivotal Features of the Future GPT-5</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/safeguarding-against-fake-chatgpt-software-on-apple-devices-a-guide/"><u>Safeguarding Against Fake ChatGPT Software on Apple Devices – A Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-to-streamlining-your-interactions-with-chatgpt-using-folder-techniques/"><u>Step-by-Step Guide to Streamlining Your Interactions with ChatGPT Using Folder Techniques</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-7-most-effective-ai-software-to-craft-professional-presentations/"><u>The 7 Most Effective AI Software to Craft Professional Presentations</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-future-of-gaming-exploring-ais-influence-on-game-development/"><u>The Future of Gaming: Exploring AI's Influence on Game Development</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-hidden-applications-where-gpt-shines/"><u>The Hidden Applications Where GPT Shines</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elite-gamers-showcase-premium-setups-unveiled/"><u>[New] In 2024, Elite Gamers' Showcase – Premium Setups Unveiled</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-your-quick-guide-to-successful-online-television-archiving/"><u>[New] In 2024, Your Quick Guide to Successful Online Television Archiving</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-navigating-snapads-a-business-strategy-guide-for-2024/"><u>[New] Navigating SnapAds A Business Strategy Guide for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unleash-your-creative-potential-free-voice-effects-at-hand/"><u>[New] Unleash Your Creative Potential Free Voice Effects at Hand</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unleashing-creativity-how-to-convert-your-favorite-youtube-videos-to-gifs/"><u>[Updated] Unleashing Creativity How to Convert Your Favorite Youtube Videos To Gifs</u></a></li>
+<li><a href="https://change-location.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/augmented-intelligence-core-enhancements-in-gpt-5/"><u>Augmented Intelligence: Core Enhancements in GPT-5</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-directx-protocols-for-your-gaming-system/"><u>Effortless DirectX Protocols for Your Gaming System</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-lost-or-stolen-iphone-6-plus-in-easy-steps-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Data From Lost or Stolen iPhone 6 Plus In Easy Steps | Stellar</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mac-users-walkthrough-getting-started-with-microsoft-copilot-integration/"><u>Mac Users' Walkthrough: Getting Started with Microsoft Copilot Integration</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/professionals-guide-top-tools-for-identifying-ai-contributions-in-educational-settings/"><u>Professional's Guide: Top Tools for Identifying AI Contributions in Educational Settings</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionizing-analysis-unveil-the-power-of-chatgpt/"><u>Revolutionizing Analysis: Unveil the Power of ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/streamline-document-management-the-power-of-onlyoffice-and-chatgpt-combined/"><u>Streamline Document Management: The Power of ONLYOFFICE and ChatGPT Combined</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-significance-of-chatgpts-code-translator-explained-essential-insights/"><u>The Significance of ChatGPT's Code Translator Explained - Essential Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/what-to-expect-as-microsoft-enhances-bing-with-artificnial-intelligence-features/"><u>What To Expect as Microsoft Enhances Bing With Artificnial Intelligence Features</u></a></li>
 </ul></div>
 

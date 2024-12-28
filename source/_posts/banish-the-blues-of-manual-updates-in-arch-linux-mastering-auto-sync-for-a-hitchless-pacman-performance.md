@@ -1,7 +1,7 @@
 ---
 title: Banish the Blues of Manual Updates in Arch Linux - Mastering Auto-Sync for a Hitchless Pacman Performance
-date: 2024-08-29T01:11:22.066Z
-updated: 2024-08-30T01:11:22.066Z
+date: 2024-12-26T00:53:06.958Z
+updated: 2024-12-28T10:04:06.950Z
 tags:
   - desktop
 categories:
@@ -50,8 +50,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The Arch Linux mirror list generator web page](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  I’m selecting "United Kingdom" from the scrolling list and "HTTPS" and "IPV4" from the checkboxes. I’ve selected the "Use Mirror Status" checkbox, so only active mirrors are included in the results.
 
  To see the results, click the "Generate List" button.
@@ -61,8 +62,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![A generated mirror list](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can repeat this process for other regions, pasting the results to your editor each time. I also selected mirrors in Germany and Sweden. That way, should the UK mirrors be down or inaccessible, pacman will try to use the mirrors from Sweden and Germany.
 
  pacman reads its mirrors from a file called "/etc/pacman.d/mirrorlist." You need to edit that file and replace its contents with the new list.
@@ -70,6 +72,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
         `sudo gedit /etc/pacman.d/mirrorlist`
     
 ![Editing the mirrolist file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/4.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Replace “gedit” with your favorite editor. Copy and paste the list you’ve just created into the mirrorlist file, replacing the original contents. Save the file and close your editor.
 
@@ -83,6 +89,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  In Arch Linux, Reflector isn’t installed by default, but in other Arch-based distributions, it might be.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Installing Reflector on Arch Linux
 
  Installing Reflector is simple, as long as you have a working mirror list. If you don’t, pacman won’t work. If that’s the case, you’ll have to go through the steps above to manually create a working mirror list.
@@ -93,9 +103,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
     
 ![Installing Reflector on Arch Linux](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/6.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ##  Using Reflector on the Command Line
 
  Using Reflector on the command line can overwrite your existing mirror list, so if you want to preserve your existing mirror list as a backup, make a copy of it before you start.
@@ -105,13 +112,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Making a copy of the mirrorlist file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/7.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  This example _doesn’t_ overwrite your mirror list.
 
         `reflector --verbose --ipv4 --protocol https --score 10 --sort rate`
     
 ![A mirror list generated by Reflector in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/8.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The options we used were:
 
@@ -127,18 +139,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
     
 ![The Reflector help output in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/9.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
  As we've seen, omitting the --save option lets you dry-run Reflector commands without putting your existing mirror list at risk. Let's include the --save option so that we update our mirrorlist file. You need to use sudo when using this option.
 
         `sudo reflector --verbose --country DE,SE,GB --protocol https --sort rate --latest 20 --download-timeout 6 --save /etc/pacman.d/mirrorlist`
     
 ![Reflector generating a mirror list in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/10.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
  Our new options are:
 
 * **country**: Select the regions we wish to include mirrors from. You can use country codes or country names.
@@ -152,9 +158,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
     
 ![Using less to view the mirrorlist](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/11.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Reflector writes a timestamped header, so you can see when the last update happened.
 
 ![The contents of the mirrorlist file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/12.png) 
@@ -172,22 +175,19 @@ sudo systemctl enable reflector.timer
 
 ![Enabling and starting the Reflector timer](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/13.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To edit the Reflector configuration file, use your favorite editor in this command:
 
         `sudo gedit /etc/xdg/reflector/reflector.conf`
     
 ![Editing the Reflector configuration file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/14.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  You can see that the command-line options are listed on separate lines.
 
 ![The contents of the Reflector configuration file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/15.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can change their values or add in the ones you want to use.
 
@@ -197,10 +197,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
     
 ![Editing the Reflector timer configuration file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/16.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
  We've described [how to configure timers in-depth](https://screen-activity-recording.techidaily.com/smooth-video-capture-with-your-laptops-webcam/) in another article.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Use the Timer and Update When You Want
 
@@ -212,8 +213,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -221,4 +220,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-crafting-content-that-captivates-for-virality-on-ig/"><u>[New] In 2024, Crafting Content that Captivates for Virality on IG</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-efficient-techniques-to-enhance-engagement-by-uploading-srt-content/"><u>[Updated] 2024 Approved Efficient Techniques to Enhance Engagement by Uploading SRT Content</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-elevate-video-playback-with-youtubes-latest-feature-av1-for-2024/"><u>[Updated] Elevate Video Playback with YouTube's Latest Feature - AV1 for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-360-camera-buying-guide-how-to-choose-a-suitable-360-camera-2023-update/"><u>2024 Approved 360 Camera Buying Guide How to Choose a Suitable 360 Camera -2023 Update</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/bring-your-message-alive-how-to-send-gifs-via-snapchat/"><u>Bring Your Message Alive How to Send Gifs via Snapchat</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-chatbot-intelligence-methods-for-simulating-conversations-with-users/"><u>Decoding Chatbot Intelligence: Methods for Simulating Conversations with Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/engage-in-confidential-chats-using-duckduckgos-innovative-ai-platform-alongside-chatgpt/"><u>Engage in Confidential Chats Using DuckDuckGo's Innovative AI Platform Alongside ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/examining-advantages-and-disadvantages-of-chatgpt-in-creative-composition/"><u>Examining Advantages & Disadvantages of ChatGPT in Creative Composition</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-ai-weak-points-demystifying-the-mechanism-behind-prompt-injection-attacks/"><u>Exploring AI Weak Points: Demystifying the Mechanism Behind Prompt Injection Attacks</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-review-of-huawei-mediapad-m5-a-masterpiece-for-immersive-sight-and-sound/"><u>In-Depth Review of Huawei MediaPad M5 – A Masterpiece for Immersive Sight and Sound</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-best-free-video-special-effects-apps-ios-and-android-for-2024/"><u>Updated Best Free Video Special Effects Apps iOS & Android for 2024</u></a></li>
+</ul></div>
 

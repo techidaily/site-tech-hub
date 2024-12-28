@@ -1,7 +1,7 @@
 ---
 title: "MacBook Air with M1 Chip Now at Unbeatable Price of $649: The Ultimate Deal on ZDNet"
-date: 2024-12-18T23:34:08.282Z
-updated: 2024-12-22T19:56:41.517Z
+date: 2024-12-21T06:57:06.680Z
+updated: 2024-12-28T13:54:15.270Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,18 +81,22 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-quick-and-clear-swap-clown-fins-voices-on-pcs/"><u>[New] In 2024, Quick & Clear Swap Clown Fins' Voices on PCs</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-pixel-perfection-in-image-integration/"><u>[New] Pixel Perfection in Image Integration</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/examining-the-oneplus-8t-exceptional-speed-with-room-for-photographic-improvement/"><u>Examining the OnePlus 8T: Exceptional Speed with Room for Photographic Improvement</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/harness-the-power-of-ai-for-seamless-web-app-creation-with-chatgpt/"><u>Harness the Power of AI for Seamless Web App Creation with ChatGPT</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-continuous-buffering-issues-during-discord-live-broadcasts/"><u>How to Fix Continuous Buffering Issues During Discord Live Broadcasts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-identify-and-reject-suspicious-chatgpt-portals/"><u>How to Identify and Reject Suspicious ChatGPT Portals</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/identifying-bingchatgpt-cryptocurrency-frauds-a-guide-on-recognizing-sham-coins/"><u>Identifying BingChatGPT Cryptocurrency Frauds: A Guide on Recognizing Sham Coins</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-11-best-practices-for-capturing-online-conferences-for-free/"><u>In 2024, 11 Best Practices for Capturing Online Conferences for Free</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/invisible-inbox-concealing-your-chatgpt-dialogues-without-erasing-them/"><u>Invisible Inbox: Concealing Your ChatGPT Dialogues Without Erasing Them</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/master-these-4-simple-tricks-for-chatgpt-to-access-your-pdf-files/"><u>Master These 4 Simple Tricks for ChatGPT to Access Your PDF Files</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-chatgpt-integration-in-ubuntus-command-line-with-shellgpt/"><u>Mastering ChatGPT Integration in Ubuntu's Command Line with ShellGPT</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-motorola-moto-g13-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Motorola Moto G13 | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solving-your-problems-when-google-chrome-refuses-to-start/"><u>Solving Your Problems: When Google Chrome Refuses to Start</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-perfecting-iphone-cinematic-work-top-8-tips-for-excellent-pro-video-production/"><u>[New] 2024 Approved Perfecting iPhone Cinematic Work Top 8 Tips for Excellent Pro Video Production</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-effortless-visual-transitions-using-instagram-chroma-keying/"><u>[Updated] 2024 Approved Effortless Visual Transitions Using Instagram Chroma Keying</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-is-it-a-secure-conversationalist-exploring-6-key-cybersecurity-issues-with-openais-innovation/"><u>ChatGPT: Is It a Secure Conversationalist? Exploring 6 Key Cybersecurity Issues with OpenAI's Innovation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/conversational-gold-how-to-supercharge-chatgpts-interaction/"><u>Conversational Gold: How to Supercharge ChatGPT's Interaction</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/data-driven-discourse-constructing-custom-ai-companions/"><u>Data-Driven Discourse: Constructing Custom AI Companions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-truthgpt-a-deep-dive-law-enforcement-cracks-down-on-mullvad-vpn-premier-selection-of-free-pc-gaming-experiences-the-ultimate-guide-to-mechanical-ke33/"><u>Decoding TruthGPT: A Deep Dive | Law Enforcement Cracks Down on Mullvad VPN | Premier Selection of FREE PC Gaming Experiences | The Ultimate Guide to Mechanical Keyboard Setups</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/demystifying-ai-understanding-the-core-concepts-with-a-comprehensive-glossary-of-29-terms/"><u>Demystifying AI: Understanding the Core Concepts with a Comprehensive Glossary of 29 Terms</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-samsung-galaxy-m14-5g-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Samsung Galaxy M14 5G to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-contacts-from-apple-iphone-6-to-iphone-quickly-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Contacts from Apple iPhone 6 to iPhone Quickly | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-iphone-15-pro-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your iPhone 15 Pro Properly</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leverage-powerful-ai-now-eight-customizable-gpt-models-at-your-fingertips/"><u>Leverage Powerful AI Now: Eight Customizable GPT Models at Your Fingertips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/neatness-noted-navigating-a-tidier-windowed-explore/"><u>Neatness Noted: Navigating a Tidier Windowed Explore</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/pursuing-the-honest-path-with-truthcoin/"><u>Pursuing The Honest Path with TruthCoin?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-the-speakers-effective-remedies-for-laptops-with-no-audible-output/"><u>Reviving the Speakers: Effective Remedies for Laptops with No Audible Output</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/smirk-stash-ultimate-guide-to-free-meme-templates-for-2024/"><u>Smirk Stash Ultimate Guide to FREE Meme Templates for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-value-gaming-motherboard-deals/"><u>Ultimate Value Gaming Motherboard Deals</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-functions-and-advantages-of-usechatgpts-copilot-extension-for-chromefirefox/"><u>Unveiling the Functions and Advantages of UseChatGPT's Copilot Extension for Chrome/Firefox</u></a></li>
 </ul></div>
 

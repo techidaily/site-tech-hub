@@ -1,7 +1,7 @@
 ---
 title: "Editing Images with Your iPhone's Photos App: A Step-by-Step Guide"
-date: 2024-08-29T01:10:52.055Z
-updated: 2024-08-30T01:10:52.055Z
+date: 2024-12-21T14:28:39.854Z
+updated: 2024-12-27T18:31:47.491Z
 tags:
   - mobile
 categories:
@@ -47,18 +47,23 @@ thumbnail: https://thmb.techidaily.com/dd77f8cbbec8ed8ce40dfd9ce55bda6a399ba6919
 
  You can edit photos on an iPad, too. Thanks to iCloud Photo Library, photos you take on your iPhone will sync to your iPad where you can edit them on the bigger screen.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Making Image Adjustments
 
  The vast majority of editing tools are found under the "Adjust" section, which is automatically selected whenever you tap on the "Edit" button in the Photos app. You'll find the standard photo-editing tools for changing the way your photo looks here.
 
 ![The photo editing interface as it appears in the Photos app for iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ios_photos_adjust.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In total, there are 15 adjustment parameters plus an "auto" option with a "magic wand" icon. Tap the wand to enhance the image automatically, then move the slider left and right to adjust the image. Tap on the wand again to undo these changes.
 
  While automatic edits make it easy to improve a mediocre image, you'll learn more about photo editing in general by experimenting with the other options. If you want your images to exhibit a unique sense of style, manually editing your image is a must.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Light Adjustments
 
@@ -70,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/dd77f8cbbec8ed8ce40dfd9ce55bda6a399ba6919
 * **Shadows:** Shadows are the darkest parts of your image. Increasing shadows may recover more detail in underexposed areas.
 
  Compressed images discard a lot of "invisible" data, so there are limits to what you can achieve with a JPEG or HEIF image. [Shooting in RAW on your iPhone](https://article-helps.techidaily.com/2024-approved-action-cam-battle-hero-4-against-hero-5/) can overcome these limitations at the cost of file size.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Color Adjustments
 
@@ -92,15 +101,15 @@ thumbnail: https://thmb.techidaily.com/dd77f8cbbec8ed8ce40dfd9ce55bda6a399ba6919
 * **Noise reduction:** Apply digital noise reduction to smooth out image grain, useful for images shot in low light.
 * **Vignette:** A vignette is a dark or light ring around the edge of an image, which is often an unwanted effect of shooting with certain lenses.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ##  Previewing Your Changes
 
  At any point while editing your image, you can tap once on the photo to see the original. This provides a point of reference for any edits you have made. You can see whether your changes enhance the image or not. The original image is indicated by the "Original" label that appears on the screen.
 
 ![The "Original" label in the Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ios_photos_original_tap.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you're editing a Live Photo, which is a still image with a few seconds of video for context, you can also tap and hold the image at any point to see how your edits affect the video.
 
@@ -112,30 +121,18 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![The "Cancel" and "Revert" options in the iPhone Photos editing interface.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ios_photos_cancel_revert.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
  Can't see the "Revert" option? You'll need to hit "Done" first to save your image, then tap "Edit" to enter the editing interface so that the "Revert" button appears.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ##  Editing with Filters
 
  Tap on the "Filters" button to the right of the "Adjust" section to see a selection of Apple photo filters. Swipe through them and tap on one to apply it, then move the slider underneath to adjust the intensity of the effect. You can only apply one filter at a time.
 
 ![Filters in the Photos app for iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ios_photos_filters.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
  Like Apple's other photo-editing tools, filters are non-destructive. You can apply a filter, save your image, then come back at any time and select a different filter (or turn filters off altogether).
 
  You can't shoot with filters enabled, but you can [apply in-camera Photographic Styles](https://some-knowledge.techidaily.com/updated-funny-carousel-image-builder/) to give your images a certain look.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Crop, Straighten and Perspective
 
  To the right of the other editing tools is the Crop section. When you tap on this button, you'll see manual straightening tools at the bottom of the screen. Move the slider left or right to reposition your image as you see fit.
@@ -148,13 +145,14 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![Additional tools that appear in the Crop section of the Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ios_photos_crop_tools.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On the right-hand side of the screen is the aspect ratio tool. This allows you to pick from a predetermined aspect ratio including portrait/landscape and square presets.
 
  You can use these tools to crop your photos for a better composition, to remove sensitive information from a screenshot you intend to share, or to create square format images from portrait and landscape shots. Just like the other tools on this list, you can always get back to your original photo by editing it or using the "Revert" button.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Choose a Key Photo from a Live Photo
 
  When you tap Edit on an image in the Photos app, you might see a Live Photo icon at the bottom of the screen. (It looks like a circle surrounded by a dotted circle). Tap this to see the few seconds of video that was recorded alongside your photo.
@@ -163,15 +161,27 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![Choosing a Key Photo from a Live Photo in the iPhone Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ios_photos_make_key_photo.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To do this, scrub with your finger until you find a frame you like. Tap on "Make Key Photo" to select that frame instead. Now when you go back to the Photos app you will see the still frame you selected, rather than the image you originally shot.
 
  Unfortunately, the quality of these stills can vary quite a bit. They're essentially still frames from a video, so they can't match the resolution or detail of the original key photo.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Doing More with Live Photos
 
  Live Photos give you the option of creating animations and faux time-lapse photographs thanks to the [video that's recorded alongside your image](https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-poco-x5-pro-drfone-by-drfone-virtual-android/). Find any Live Photo in the Photos app (don't hit "Edit") and look for the "Live" drop-down box in the top-left corner.
 
 ![Live Photo options in the iPhone Photos app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ios_photos_live_options.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Here you can pick from Live, Loop, Bounce, Long Exposure, and Live Off.
 
@@ -188,13 +198,11 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 ![Copy and paste edits or edit a photo with other apps using Photos for iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ios_photos_apps_copy_paste.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can also use this option to copy edits you have applied to an image or paste edits that you've already copied. This can make batch editing a little easier.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Some Good Editing Tips to Remember
 
  Hopefully, with this guide and some experimentation, you can take your images to the next level. The best way to learn is to experiment, and you can do so consequence-free, knowing that you can simply revert to the original image at any point.
@@ -203,18 +211,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![Editing a photo on iPhone in landscape orientation.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ios_photos_landscape.png) 
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Tim Brookes / How-To Geek
 
  With that in mind, it's a good idea to exercise restraint with a few sliders. Overdoing the saturation can result in overly colorized images and highly unnatural skin tones. Some digital sharpening can help save a soft image, but too much will introduce noise.
@@ -233,8 +229,6 @@ Tim Brookes / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -242,4 +236,23 @@ Tim Brookes / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-achieving-convenient-multi-screen-browsing-with-chrome-pip/"><u>[New] Achieving Convenient Multi-Screen Browsing With Chrome PIP</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-enhancing-teamimage-blurring-backgrounds-on-microsoft-teams-for-2024/"><u>[New] Enhancing TeamImage Blurring Backgrounds on Microsoft Teams for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-essential-skills-for-capturing-soundless-videography/"><u>[New] Essential Skills for Capturing Soundless Videography</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-ethereal-escapades-vr-film-adventures-for-2024/"><u>[Updated] Ethereal Escapades VR Film Adventures for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-fb-content-downloader-showdown-1-5-best-picks-unveiled/"><u>[Updated] In 2024, FB Content Downloader Showdown - #1-5 Best Picks Unveiled</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparative-chat-analysis-gpt-versus-bings-bot/"><u>Comparative Chat Analysis: GPT Versus Bing's Bot</u></a></li>
+<li><a href="https://games-able.techidaily.com/digital-delivery-of-games-a-steam-guide-to-gifts/"><u>Digital Delivery of Games: A Steam Guide to Gifts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-best-ai-tools-with-these-9-innovative-communities/"><u>Discover the Best AI Tools with These 9 Innovative Communities</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-work-performance-with-these-chatgpt-driven-tips-for-enhanced-productivity/"><u>Elevate Work Performance with These ˈChatGPT-Driven Tips for Enhanced Productivity</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-your-ai-experience-discover-why-chatgptplus-beats-free-version-in-9-ways/"><u>Elevate Your AI Experience: Discover Why ChatGPT+ Beats Free Version in 9 Ways</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-your-chatgpt-experience-by-seamlessly-introducing-custom-gpts-using-smart-references/"><u>Elevate Your ChatGPT Experience by Seamlessly Introducing Custom GPTs Using Smart References</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhance-your-android-phone-with-ai-the-complete-guide-to-integrating-the-chatgpt-widget/"><u>Enhance Your Android Phone with AI: The Complete Guide to Integrating the ChatGPT Widget</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancing-cbt-practices-via-ai-driven-dialogue/"><u>Enhancing CBT Practices via AI-Driven Dialogue</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/full-guide-to-apple-iphone-11-icloud-bypass-by-drfone-ios/"><u>Full guide to Apple iPhone 11 iCloud Bypass</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/transform-your-laptop-with-these-8-stylish-skins-for-2024/"><u>Transform Your Laptop with These 8 Stylish Skins for 2024</u></a></li>
+<li><a href="https://win-info.techidaily.com/aapaka-aaiifana-66s-ma-khaya-gaya-ekasapalrara-kasa-vapasa-kara/"><u>आपकी आईफोन 6/6S में खोया गया एक्सप्लोरर कैसे वापस करें?</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Exploring Void Linux: Understanding Its Distinctive Features"
-date: 2024-08-29T01:11:44.737Z
-updated: 2024-08-30T01:11:44.737Z
+date: 2024-12-24T20:17:46.713Z
+updated: 2024-12-27T16:02:18.378Z
 tags:
   - desktop
 categories:
@@ -29,18 +29,12 @@ thumbnail: https://thmb.techidaily.com/faf305db1bff9ec7cfb8fafeb68d0a5e6478101d4
 
 Void Linux opts for lightweight software, such as the XFCE4 desktop environment.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  What Makes Void Different?
 
  Void is an independent Linux distro, meaning it isn't based on another existing distribution (e.g., Ubuntu is based on Debian). As such, it has a unique package manager (the X Binary Package System, or "XBPS"). XBPS is similar to other package managers in that it's the way Void installs applications and software. Like most other tools in Void, XBPS is lightweight; as a result, it installs, updates, and deletes apps quickly and efficiently.
 
 ![A picture of the terminal displaying options for Void Linux's package manager binaries.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/xbps-install-xbps-remove-help.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 There are separate binaries for installing, removing, and finding software in Void Linux.
 
  Void also uses a different "init" system (the first program an operating system runs to initialize other programs and services) than most other Linux distros; while systemd is commonly used by distros, Void uses runit, which is significantly smaller in scope and size. As such, Void boots very quickly and generally uses fewer computing resources than other distros like Ubuntu or Fedora.
@@ -48,8 +42,9 @@ There are separate binaries for installing, removing, and finding software in Vo
  Lastly, Void is a "stable rolling release," which attempts to strike a balance between distros like Arch (which uses the latest software available, bugs and all) and Debian (which releases major updates every few years). Void and its packages are updated frequently with tested and "stable" versions, meaning Void provides up-to-date software without most of the pitfalls of a true rolling release. The end result for you as the user is access to the newest versions of apps that are tested and suitable for public release.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Why Should You Use Void?
 
  You might like Void Linux if you're looking for a distro that focuses on lightweight software without sacrificing many of the features modern Linux distros enjoy. Void ships out of the box with lighter software like runit and the XFCE4 desktop environment, which both focus on efficiency over features.
@@ -65,13 +60,18 @@ There are separate binaries for installing, removing, and finding software in Vo
 ![HTOP in Void Linux showing less than 1% CPU usage and 400MB RAM usage during an idle desktop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/void-linux-idle-htop.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 On an idle desktop, Void uses less than 1% of CPU and roughly 400-500MB of RAM.
 
 ![A picture of HTOP in Void showing CPU usage at 5% and RAM usage at 1.53 GB with 5 tabs open in Firefox and an image loaded in GIMP.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/void-linux-htop-firefox-5-tabs-gimp-with-picture-loaded.png) 
 
 Even with 5 tabs in Firefox (including a YouTube video playing) and an image loaded in GIMP for editing, Void is light on demand.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Try Void Linux and Install It
 
@@ -85,23 +85,6 @@ Even with 5 tabs in Firefox (including a YouTube video playing) and an image loa
 
 ![The Void installer has a simple interface and walks through the installation setup.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/void-installer-options.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
  Here are my recommendations:
 
 **Keyboard:** Set to"us" for United States English (standard QWERTY)
@@ -132,6 +115,10 @@ Key features:
 
 ![The partition scheme for installing Void to a BIOS system.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/void-linux-installer-disk-partition-scheme-with-swap.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Filesystems:** If you are on a UEFI system, select your 200MB boot partition, then select "vfat"for FAT32\. When prompted to specify a mount point, enter "/boot/efi"and hit enter, then select "Yes."
 
  If you created a swap partition, select it and select "swap"and then "Yes."Now select your main partition (the largest one) and select "ext4."For the mount point, type **"/"** in the field, hit enter, and select "Yes."Once you're finished configuring the filesystems, select "Done."
@@ -140,22 +127,21 @@ Key features:
 
 ![The filesystem scheme for a installing Void to a BIOS system.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/void-linux-installer-filesystem-scheme.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Install:** Select "Yes"and let the installer run. Once it is finished, you'll be asked to reboot your system. Select "Yes" to boot into your Void Linux install.
 
  Congratulations! You've installed Void Linux! Welcome to the Void!
 
 ![This is a picture of the Void Linux logo set as the wallpaper for the desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/enter-the-void.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -164,4 +150,17 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-10-athletic-free-front-rows-for-relaxing/"><u>[New] 10 Athletic-Free Front Rows for Relaxing</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-swiftvideo-pro-accelerate-your-android-content/"><u>[New] In 2024, SwiftVideo Pro Accelerate Your Android Content</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-unlock-video-potential-with-top-titler-ai-for-2024/"><u>[Updated] Unlock Video Potential with Top Titler AI for 2024</u></a></li>
+<li><a href="https://techidaily.com/1723807985696-how-to-remove-password-in-windows-10-easily/"><u>How to Remove Password in Windows 10. Easily</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-tecno-pova-5-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Tecno Pova 5 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximizing-efficiency-with-gpt-automation-unlocking-8-powerful-strategies/"><u>Maximizing Efficiency with GPT Automation: Unlocking 8 Powerful Strategies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-through-ai-tips-for-using-microsoft-bing-on-your-android-smartphone/"><u>Navigating Through AI: Tips for Using Microsoft Bing on Your Android Smartphone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/next-viewing-choice-leveraging-chatgpt-for-personalized-movie-recommendations/"><u>Next Viewing Choice: Leveraging ChatGPT for Personalized Movie Recommendations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/python-and-gpt-3-integration-techniques/"><u>Python & GPT-3 Integration Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/strategic-personas-design-using-advanced-chatgpt-techniques/"><u>Strategic Personas Design Using Advanced ChatGPT Techniques</u></a></li>
+</ul></div>
 

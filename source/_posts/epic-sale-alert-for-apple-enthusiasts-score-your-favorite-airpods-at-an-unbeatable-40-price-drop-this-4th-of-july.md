@@ -1,7 +1,7 @@
 ---
 title: Epic Sale Alert for Apple Enthusiasts! Score Your Favorite AirPods at an Unbeatable $40 Price Drop This 4Th of July
-date: 2024-12-16T19:42:07.473Z
-updated: 2024-12-22T22:19:08.030Z
+date: 2024-12-25T02:15:24.715Z
+updated: 2024-12-28T14:18:05.239Z
 tags:
   - apple
 categories:
@@ -30,7 +30,7 @@ The second-generation AirPods come with a Lightning charger case. They offer sol
 Buy the AirPods on sale at [Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-AirPods-Charging-Latest-Model%2Fdp%2FB07PXGQC1Q%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc897cc8f-f17e-41e6-8410-d72f180f8ed4%7Cdtp&dtb=1) now. You can also check out more [headphone deals](https://www.zdnet.com/article/best-headphone-deals/) and the [top products ZDNET readers bought last month](https://www.zdnet.com/home-and-office/the-25-most-popular-products-zdnet-readers-bought-last-month/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -62,19 +62,19 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-mastering-stunning-photographic-mosaics-for-2024/"><u>[New] Mastering Stunning Photographic Mosaics for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-from-screens-to-spreads-the-dos-and-donts-of-live-blogging/"><u>[Updated] From Screens to Spreads The Do's and Don'ts of Live Blogging</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-how-to-access-full-range-of-groups-shared-media/"><u>[Updated] In 2024, How to Access Full Range of Group's Shared Media</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-retailing-revelations-and-methods/"><u>[Updated] Retailing Revelations and Methods</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-large-scale-llms-an-insight-into-their-working-mechanisms/"><u>Exploring Large-Scale LLMs: An Insight Into Their Working Mechanisms</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-realm-of-predictive-artificeal-intelligence-insights-and-functionality/"><u>Exploring the Realm of Predictive Artificeal Intelligence: Insights & Functionality</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exposing-deceptive-chatgpt-networks-know-what-to-do/"><u>Exposing Deceptive ChatGPT Networks: Know What To Do</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/foreseeing-future-firewalls-the-latest-in-security-trends/"><u>Foreseeing Future Firewalls: The Latest in Security Trends</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/free-image-generation-made-easy-with-dall-e-3-via-microsofts-search-engine/"><u>Free Image Generation Made Easy with DALL-E 3 via Microsoft's Search Engine</u></a></li>
-<li><a href="https://article-tips.techidaily.com/from-average-to-spectacular-mastering-dynamic-range-portraits-for-2024/"><u>From Average to Spectacular Mastering Dynamic Range Portraits for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-4k-resolution-unveiled-in-chroma-focused-lenses/"><u>In 2024, 4K Resolution Unveiled in Chroma-Focused Lenses</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-6-plus-passcode-screen-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 6 Plus Passcode Screen? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Vivo S17e? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Oppo Reno 11 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-exclusive-lineup-all-angle-recorders/"><u>[New] 2024 Approved Exclusive Lineup All-Angle Recorders</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-top-6-best-4k-full-frame-camera-for-2024/"><u>[New] Top 6 Best 4K Full Frame Camera for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Sony Xperia 5 V? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-flip-it-a-step-by-step-guide-to-rotating-clips-in-fcp-for-2024/"><u>New Flip It! A Step-by-Step Guide to Rotating Clips in FCP for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-strategies-to-skyrocket-frame-rates-in-gaming-ultimate-tips-for-the-year-2024/"><u>Step-by-Step Strategies to Skyrocket Frame Rates in Gaming - Ultimate Tips for the Year 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-how-to-manually-control-device-driver-updates-on-windows-10/"><u>Step-by-Step Tutorial: How To Manually Control Device Driver Updates on Windows 10</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-modifying-the-default-language-of-your-windows-10-operating-system/"><u>Step-by-Step Tutorial: Modifying the Default Language of Your Windows 10 Operating System</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/successfully-updating-to-directx-12-with-windows-11-a-step-by-step-process/"><u>Successfully Updating to DirectX 12 with Windows 11 - A Step-by-Step Process</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-5-premier-vpn-choices-for-a-safer-youtube-browsing-adventure/"><u>The 5 Premier VPN Choices for a Safer YouTube Browsing Adventure</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/the-complete-step-by-step-tutorial-on-recording-your-favorite-youtube-clips-with-audio-using-a-mac/"><u>The Complete Step-by-Step Tutorial on Recording Your Favorite YouTube Clips with Audio Using a Mac</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-tv-streaming-services/"><u>Top Rated TV Streaming Services</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/troubleshooting-airpods-poor-performance-with-pc-a-step-by-step-guide/"><u>Troubleshooting AirPods Poor Performance with PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/k-video-potential-with-expert-chroma-techniques/"><u>Unlock Video Potential with Expert Chroma Techniques</u></a></li>
 </ul></div>
 

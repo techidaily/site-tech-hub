@@ -1,7 +1,7 @@
 ---
 title: "IOS 16 Update Unveiled: Enhance Your iPhone Experience with Expert Lock Screen Hacks by ZDNET"
-date: 2024-12-03T21:25:53.198Z
-updated: 2024-12-07T18:13:43.098Z
+date: 2024-12-25T16:41:41.698Z
+updated: 2024-12-28T07:04:36.024Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Camera Control button
@@ -51,7 +51,7 @@ The iPhone 16 receives a substantial update to its camera system. The device pos
 The button acts as a camera shortcut of sorts. Pushing it takes a photo, but the button also supports gesture controls. Swiping on the button with your thumb or finger lets you zoom in or out, while a double light-press presents you with various shooting modes, zoom lengths, photographic styles, and more. It's a fun and intuitive way to take photos. The best part about the button is that it's a great way to introduce more people to photography.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Siri 2.0 is arriving very soon
@@ -67,7 +67,7 @@ The new Siri can engage in more natural conversations. Users no longer need to c
 Everything mentioned so far is just the tip of the iceberg. It's been reported that next year Siri will be able to find and act on items on-device based on your context. For example, you could ask the AI what time your mom's flight is landing and Siri will pull together information from texts and emails, and then present this insight to you in a brief response.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. A new AI-powered chipset
@@ -114,22 +114,15 @@ Besides Apple Intelilgence, the A18 chipset should enable faster processing spee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-mememakerpro-visual-laughter-factory/"><u>[New] 2024 Approved MemeMakerPro Visual Laughter Factory</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-counteract-vibration-for-clear-captures-for-2024/"><u>[New] Counteract Vibration for Clear Captures for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-finding-the-perfect-screen-recorder-for-schooling-for-2024/"><u>[Updated] Finding the Perfect Screen Recorder for Schooling for 2024</u></a></li>
-<li><a href="https://win-superb.techidaily.com/1728466305470-aomei-backupper/"><u>AOMEI Backupper - 全面解決方案：詳盡入門教程</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/are-we-sacrificing-quality-for-convenience-in-messaging-apps/"><u>Are We Sacrificing Quality for Convenience in Messaging Apps?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-is-now-available-on-android/"><u>ChatGPT Is Now Available on Android</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discerning-legitimate-from-illegitimate-language-models-on-ios-app-platforms/"><u>Discerning Legitimate From Illegitimate Language Models on iOS App Platforms</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/fixing-missing-or-corrupt-ac1st16dll-error-on-your-computer/"><u>Fixing 'Missing or Corrupt' ac1st16.dll Error on Your Computer</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-13-to-other-iphone-13-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 13 To Other iPhone 13 devices? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-ai-imagery-in-chatgpt-4-via-dall-e/"><u>Mastering AI Imagery in ChatGPT-4 via DALL-E</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-chatgpt-integration-enhance-your-google-sheets-with-ai-powered-automation/"><u>Mastering ChatGPT Integration: Enhance Your Google Sheets with AI-Powered Automation</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-on-restoring-wi-fi-access-for-your-ipad/"><u>Step-by-Step Tutorial on Restoring Wi-Fi Access for Your iPad</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-trick-to-watch-netflix-for-free-a-step-by-step-breakdown/"><u>The Ultimate Trick to Watch Netflix for Free - A Step-by-Step Breakdown</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-strategies-leveraging-chatgpt-skills-for-enhanced-data-analysis/"><u>Top Strategies: Leveraging ChatGPT Skills for Enhanced Data Analysis</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-the-power-of-chatgpt-for-android-users-a-comprehensive-tutorial/"><u>Unlocking the Power of ChatGPT for Android Users: A Comprehensive Tutorial</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/king-youtubes-inner-workings-your-path-to-success/"><u>Unlocking YouTube's Inner Workings Your Path to Success</u></a></li>
-<li><a href="https://article-helps.techidaily.com/unveiling-the-best-storytelling-schools-1-8-guide/"><u>Unveiling the Best Storytelling Schools - #1-#8 Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-solving-snapchat-silent-sections-a-2023-guide-to-smooth-viewing-for-2024/"><u>[Updated] Solving Snapchat Silent Sections - A 2023 Guide to Smooth Viewing for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/artificial-intelligence-pitfalls-six-reasons-to-think-twice-before-trusting-algorithms-blindly/"><u>Artificial Intelligence Pitfalls: Six Reasons to Think Twice Before Trusting Algorithms Blindly</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-installation-tips-for-intel-pro1000-mt-server-ethernet-controller/"><u>Download & Installation Tips for Intel Pro/1000 MT Server Ethernet Controller</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-ai-limitations-with-gpt-3/"><u>Exploring AI Limitations with GPT-3</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-topics-to-cover-in-your-vlogs/"><u>Fresh Topics to Cover in Your Vlogs</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-efficient-hashtag-use-for-skyrocketing-youtube-audience/"><u>In 2024, Efficient Hashtag Use for Skyrocketing YouTube Audience</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-expert-tactics-for-designing-attention-grabbing-thumbnails/"><u>In 2024, Expert Tactics for Designing Attention-Grabbing Thumbnails</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/seamlessly-integrating-chatgpt-with-your-linux-machine/"><u>Seamlessly Integrating ChatGPT with Your Linux Machine</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-analysis-and-hardware-insights/"><u>Tom's Tech Reviews: In-Depth Analysis and Hardware Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-corporate-concerns-the-5-most-significant-arguments-for-banning-gpt/"><u>Unveiling Corporate Concerns: The 5 Most Significant Arguments for Banning GPT</u></a></li>
 </ul></div>
 

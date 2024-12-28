@@ -1,7 +1,7 @@
 ---
 title: "Transforming Date and Time Formats on Your Windows 11 System: A Step-by-Step Guide"
-date: 2024-08-29T01:13:02.330Z
-updated: 2024-08-30T01:13:02.330Z
+date: 2024-12-25T09:11:50.429Z
+updated: 2024-12-28T02:01:56.358Z
 tags:
   - deals
 categories:
@@ -15,6 +15,10 @@ thumbnail: https://thmb.techidaily.com/68d72132debc55d7a219d5ad96f3f8ade10f55eb9
 
 * [How to Access the Date and Time Format Settings in Windows 10](https://win-howtos.techidaily.com/mysterious-shade-monitor-malaise/)
 * [How to Customize the Date and Time Format in Windows 10](https://extra-skills.techidaily.com/new-overcoming-video-blank-screen-the-ultimate-chromesafari-guide/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -33,8 +37,9 @@ thumbnail: https://thmb.techidaily.com/68d72132debc55d7a219d5ad96f3f8ade10f55eb9
 ![Search "Change the date" in the Start Menu, then select "Change the date and time formats."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-search-change-the-date.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  On this Change Date and Time Formats settings screen, you can select different formats for the “Short date,” “Long date,” “Short time,” and “Long time.”
 
 ![The location where you can change long and short date formats.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-short-date-long-date-times.png) 
@@ -43,19 +48,21 @@ thumbnail: https://thmb.techidaily.com/68d72132debc55d7a219d5ad96f3f8ade10f55eb9
 
 ![Date formats for "Short Date."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-date-formats.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You aren't limited to the pre-set options though—you can access a screen in the old Control Panel to enter a custom date or time format.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Customize the Date and Time Format in Windows 10
 
  To access the screen in the Control Panel that will allow you to enter a custom date or time format, search the Start Menu for "Date and Time" and open the "Date and Time Settings" result. 
 
 ![Search for "Date and Time" in the Start Menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/4-date-and-time-settings.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Scroll down to the "Related" area and select "Date, Time, & Regional Formatting." 
 
@@ -66,8 +73,9 @@ thumbnail: https://thmb.techidaily.com/68d72132debc55d7a219d5ad96f3f8ade10f55eb9
 ![Select "Additional Date, Time & Regional Settings."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/6-additional.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  We've just jumped from the Settings app to the original Control Panel. Click "Change Date, Time, or Number Formats" under the "Region" section. 
 
 ## ![Click](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/7-change-date-time-formats.png) 
@@ -78,9 +86,6 @@ thumbnail: https://thmb.techidaily.com/68d72132debc55d7a219d5ad96f3f8ade10f55eb9
 
 ![Click "Additional Settings."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/8-additional-settings.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Click the “Date” tab in the Customize Format dialog box. 
 
 ![Select the "Date" tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/9-select-date.png) 
@@ -106,10 +111,6 @@ thumbnail: https://thmb.techidaily.com/68d72132debc55d7a219d5ad96f3f8ade10f55eb9
 
 ![Short date format changed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/10-short-date.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
  You can tweak the short date, long date, and time displays in the exact same fashion. Once you're done, click the "Apply" button to see how it looks, and then click the "OK" button to close the window. If you decide you dislike the format you've entered, you can always click "Reset" to restore the default settings. 
 
  Our custom date format with the periods now displays in the notification area of the Taskbar.
@@ -117,8 +118,9 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 ![The custom time format displayed on the taskbar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/11-time-displayed-on-task-bar.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Note that when you change the date or time format back to a different format, after entering a custom format, the custom format is not preserved as a choice. You would have to enter it again to change to that custom format.
 
 <ins class="adsbygoogle"
@@ -127,8 +129,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -136,4 +136,18 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-spotting-the-top-10-covert-story-spectators/"><u>[New] Spotting the Top 10 Covert Story Spectators</u></a></li>
+<li><a href="https://fox-making.techidaily.com/1728475532150-windows-file-recovery/"><u>「Windows File Recovery」でファイル再生がうまくいかない？解決策とヒントをご紹介</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-deep-dive-into-forefront-ai-and-its-stand-against-chatgpt/"><u>A Deep Dive Into Forefront AI and Its Stand Against ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-driven-creativity-catalysts-for-writers/"><u>AI-Driven Creativity Catalysts for Writers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1721852992177-avoid-deception-true-tales-of-tech-and-false-fakes/"><u>Avoid Deception: True Tales of Tech & False Fakes</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/game-on-excavating-elite-escape-chamber-quests-for-2024/"><u>Game On Excavating Elite Escape Chamber Quests for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722018910628-ransomware-demystified-for-budget-phones-exclusive-chatgpt-podcast-edition-stay-safe-and-informed/"><u>Ransomware Demystified for Budget Phones: Exclusive ChatGPT Podcast Edition - Stay Safe and Informed!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-adding-new-contacts-in-whatsapp-across-iphone-and-android-devices/"><u>Step-by-Step Guide: Adding New Contacts in WhatsApp Across iPhone & Android Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-bluetooth-device-shows-as-pairing-in-windows-11-but-wont-connect/"><u>Troubleshooting: Bluetooth Device Shows as Pairing in Windows 11, But Won't Connect</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-vivo-y02t-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Vivo Y02T | Dr.fone</u></a></li>
+</ul></div>
 

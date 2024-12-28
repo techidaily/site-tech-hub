@@ -1,7 +1,7 @@
 ---
 title: "Seamless Integration: Unlock the Secrets of Moving From Windows to Linux with These 6 Crucial Factors"
-date: 2024-08-29T01:11:58.530Z
-updated: 2024-08-30T01:11:58.530Z
+date: 2024-12-21T02:03:28.489Z
+updated: 2024-12-27T22:48:41.599Z
 tags:
   - desktop
 categories:
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/e12562333e85045ab9221a99e913b83b793150ee7
  That fish out of water feeling is awful, when the most basic operations throw you for a loop. It's natural to worry that everything else is going to be a struggle too. Getting nowhere fast leads to people giving up entirely. When dabbling in the shallows is so discouraging, the idea of taking the plunge becomes unappealing.
 
  As is often the case, it’s the little things that matter most. So here’s our list of little things that have a big impact on your first few days as a Windows user exploring the Linux command line.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1  Case Sensitivity 
 
@@ -55,8 +59,9 @@ ls -l`
  All of these subdirectories exist within the same parent directory.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2  Paths and Directories Separators 
 
  Windows uses a backslash \\ as the directory path separator, but Linux uses /, the forward slash. You’re going to need to concentrate to overcome the muscle memory of typing \\.
@@ -66,13 +71,11 @@ ls -l`
 ![A directory path displayed in a Linux terminal window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4-6.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  \\ dates back to the release of MS-DOS in 1981, but / was born in 1971 with the first version of Unix. If MS-DOS had used / as well, this issue wouldn’t exist.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3  File Extensions 
 
  On Windows, file extensions tell the operating system which application to launch when you double-click a file. On Linux, the operating system determines the file type by examining its header bytes.
@@ -92,9 +95,6 @@ and-you.too`
     
 ![Running commands with and without extensions in a Linux terminal window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-10.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4  Hidden Files and Directories 
 
  On Linux, if a file or directory has a period ‘.’ as the first character of its name, it’ll be hidden. To hide a file on Windows, you right-click the file, click Properties, click the Hidden checkbox so that it is selected, then click OK.
@@ -108,19 +108,28 @@ ls -a`
     
 ![Using the Linux touch command to create a regular and a hidden file in a terminasl window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/5-5.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Most file browsers, such as GNOME’s Files, support toggling back and forth between showing and hiding your hidden files, by hitting Ctrl+H. In the Windows 11 file explorer, from the toolbar select View > Show > Hidden Items to do the same thing.
 
  In GNOME Files, without showing hidden files, we see a single file.
 
 ![One file visible in GNOME Files, with a hidden file present but not displayed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/6-6.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Hitting Ctrl+H reveals the hidden file.
 
 ![A regular and a hidden file displayed in GNOME Files, because the user has pressed Ctrl+H.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/7-5.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5  Command Differences 
 
  Terminal commands are very different on Linux from their Windows counterparts, and often come with short names. The ultimate has to be a single period. On Linux, ‘.’ tells the shell to _source_ or read a file.
@@ -143,9 +152,6 @@ ls -a`
 
  We shouldn't be surprised at these differences. Different platforms are bound to have different command sets. Our only answer is to embrace the change, and learn the commands.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ## 6  Use sudo Instead of Run as Administrator 
 
  Window users might be familiar with the Run as Administrator option found in an executable's right-click context menu. This runs the program with elevated permissions.
@@ -166,8 +172,6 @@ ls -a`
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -175,4 +179,20 @@ ls -a`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-groundbreaking-insights-into-asmr-recordings/"><u>[New] 2024 Approved Groundbreaking Insights Into ASMR Recordings</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-your-ultimate-guide-to-telegram-web-navigation/"><u>[New] In 2024, Your Ultimate Guide to Telegram Web Navigation</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-the-features-of-magix-video-pro-x/"><u>[New] Navigating the Features of Magix Video Pro X</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-demystifying-youtubes-seo-a-keyword-research-guide/"><u>[Updated] In 2024, Demystifying YouTube's SEO A Keyword Research Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-10-visionary-beauty-experts-leading-online-trends/"><u>2024 Approved 10 Visionary Beauty Experts Leading Online Trends</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-guide-overcoming-windows-based-video-dxgkrnl-critical-failures/"><u>Comprehensive Guide: Overcoming Windows-Based Video Dxgkrnl Critical Failures</u></a></li>
+<li><a href="https://media-tips.techidaily.com/convert-and-edit-4k-xavc-footage-efficiently-in-avid-using-a-complimentary-4k-mov-to-mp4-transition-tool/"><u>Convert and Edit 4K XAVC Footage Efficiently in AVID Using a Complimentary 4K Mov to MP4 Transition Tool</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/get-accessible-entertainment-on-crackle-see-movies-and-shows-at-zero-cost/"><u>Get Accessible Entertainment on Crackle – See Movies & Shows at Zero Cost!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/master-the-art-of-writing-discover-9-uses-for-chatgpt-when-penning-novels/"><u>Master the Art of Writing: Discover 9 Uses for ChatGPT When Penning Novels</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximizing-chatgpt-in-remote-team-discussions/"><u>Maximizing ChatGPT in Remote Team Discussions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-the-impact-of-machine-intelligence-on-coder-productivity/"><u>Navigating the Impact of Machine Intelligence on Coder Productivity</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/protect-your-classroom-4-cutting-edge-chatbot-detectors-for-educators-and-bosses/"><u>Protect Your Classroom: 4 Cutting-Edge Chatbot Detectors for Educators & Bosses</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionize-programming-in-vs-code-by-leveraging-these-10-chatgpt-techniques/"><u>Revolutionize Programming in VS Code by Leveraging These 10 ChatGPT Techniques</u></a></li>
+</ul></div>
 

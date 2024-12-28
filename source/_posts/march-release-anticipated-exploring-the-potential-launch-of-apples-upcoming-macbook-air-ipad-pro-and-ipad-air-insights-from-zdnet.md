@@ -1,7 +1,7 @@
 ---
 title: "March Release Anticipated: Exploring the Potential Launch of Apple's Upcoming MacBook Air, iPad Pro & iPad Air - Insights From ZDNet"
-date: 2024-12-20T16:04:41.820Z
-updated: 2024-12-22T21:03:03.163Z
+date: 2024-12-23T03:15:15.709Z
+updated: 2024-12-28T11:00:29.854Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Intelligence (AI)
@@ -64,10 +64,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -77,7 +73,7 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -112,10 +108,6 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -137,6 +129,10 @@ Adam Breeden/ZDNET
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## VisionOS 2
 
 Jason Hiner/ZDNET
@@ -154,6 +150,10 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -163,7 +163,7 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -210,22 +210,20 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/irect-download-destiny-ultimate-guide-to-mp3-makers-for-2024/"><u>[New] Direct Download Destiny Ultimate Guide to Mp3 Makers for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-simplify-complex-designs-by-mastering-figmas-backdrop-cleansing/"><u>[New] Simplify Complex Designs by Mastering Figma's Backdrop Cleansing</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-maximizing-efficiency-video-capturing-in-adobe-presenter/"><u>[Updated] 2024 Approved Maximizing Efficiency Video Capturing in Adobe Presenter</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-resolving-ntdlldll-errors-in-windows-os-windows-1087/"><u>Comprehensive Guide: Resolving ntdll.dll Errors in Windows OS (Windows 10/8/7)</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oppo-reno-8t-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Oppo Reno 8T FRP</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-google-pixel-8-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Google Pixel 8 Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/ingenious-ways-to-alter-track-pace-on-spotify-app-for-2024/"><u>Ingenious Ways to Alter Track Pace on Spotify App for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/leverage-advanced-cookiebot-features-for-enhanced-web-presence-and-seo-success/"><u>Leverage Advanced Cookiebot Features for Enhanced Web Presence & SEO Success</u></a></li>
-<li><a href="https://driver-install.techidaily.com/match-software-with-processor/"><u>Match Software with Processor</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/recognizing-the-phenomenon-of-ai-dreaming-a-guide-to-detecting-ai-hallucinations/"><u>Recognizing the Phenomenon of AI Dreaming: A Guide to Detecting AI Hallucinations</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/sculpting-stanzas-with-the-help-of-chatgpt-ai/"><u>Sculpting Stanzas with the Help of ChatGPT AI</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/should-computers-be-counted-on-for-consolidating-cash/"><u>Should Computers Be Counted on for Consolidating Cash?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/spotlight-on-9-fraudulent-ai-apps-masquerading-as-chatgpt-endangering-user-data/"><u>Spotlight on 9 Fraudulent AI Apps Masquerading as ChatGPT, Endangering User Data</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-erasing-your-conversations-with-chatgpt/"><u>Step-by-Step Guide: Erasing Your Conversations with ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/swift-action-for-stabilizing-plugin-service-communication/"><u>Swift Action for Stabilizing Plugin-Service Communication</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/tailoring-ai-communication-implementing-gpt-creation/"><u>Tailoring AI Communication: Implementing GPT Creation</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-critical-criteria-you-need-to-assess-before-relying-on-chatgpt-for-mental-health-care/"><u>The Critical Criteria You Need to Assess Before Relying on ChatGPT for Mental Health Care</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-essential-tips-on-choosing-and-using-the-best-6-head-harnesses-for-gopro/"><u>[New] 2024 Approved Essential Tips on Choosing & Using the Best 6 Head Harnesses for GOPRO</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gopro-hero5-black-vs-gopro-hero4-silver/"><u>[New] GoPro Hero5 Black vs GoPro Hero4 Silver</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-ideal-strategies-for-recording-app-activity/"><u>2024 Approved Ideal Strategies for Recording App Activity</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-vivo-y36i-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/are-browser-extensions-that-utilize-chatgpt-trustworthy-and-safe-to-use/"><u>Are Browser Extensions that Utilize ChatGPT Trustworthy and Safe to Use?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exciting-prospects-for-gpt-5-top-4-improvements-we-hope-to-see/"><u>Exciting Prospects for GPT-5: Top 4 Improvements We Hope to See</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Realme Narzo 60 5G? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-excel-2019-workbook-by-stellar-guide/"><u>How to Repair Corrupt Excel 2019 Workbook?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/kickstarting-your-career-in-crafting-dynamic-chatbots/"><u>Kickstarting Your Career in Crafting Dynamic Chatbots</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximize-your-chatgpt-utility-explore-the-top-7-chrome-extensions-that-transform-ai-communication-in-browsers/"><u>Maximize Your ChatGPT Utility: Explore the Top 7 Chrome Extensions That Transform AI Communication in Browsers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/must-have-elements-of-ai-conversational-platforms/"><u>Must-Have Elements of AI Conversational Platforms</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-limits-in-ai-conversation-exploring-the-token-threshold-of-chatgpt/"><u>Navigating Limits in AI Conversation: Exploring the Token Threshold of ChatGPT</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-realme-c53-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Realme C53 Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/y-sounds-discover-role-rhythms-for-2024/"><u>Snappy Sounds Discover Role Rhythms for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/web-development-simplified-crafting-interactive-sites-with-chatgpt-integration/"><u>Web Development Simplified: Crafting Interactive Sites with ChatGPT Integration</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Crafting an AI Chatbot with Generative Pre-Trained Transformer Technology and Azure Bot Service Tools"
-date: 2024-08-29T01:14:19.820Z
-updated: 2024-08-30T01:14:19.820Z
+date: 2024-12-26T12:22:07.835Z
+updated: 2024-12-28T04:27:34.210Z
 tags:
   - cutting-edge
 categories:
@@ -29,9 +29,6 @@ thumbnail: https://thmb.techidaily.com/5b8892c5db775bfe3651bc6e97180034918a18715
 
  During the customization of this bot, I taught it who I am, what I do, and what specific types of tasks I need help with. Now that ChatGPT can access the web, I could craft a bot that would help me with sourced research, could come up with outlines or ideas, and give me editorial feedback on anything I write. However, this is just one possibility. You could make a bot that helps you pick out what movies to watch, or come up with schedules and activities for your kids. Sound good? Let's look at how to build a bot,
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ##  How to Build Your Bot Step-by-Step
 
  Creating your own fine-tuned custom ChatGPT bot is pretty straightforward, and the obvious starting point is to log into your ChatGPT Plus account in your browser. Then click on the "Explore" button in the lefthand sidebar.
@@ -42,9 +39,6 @@ thumbnail: https://thmb.techidaily.com/5b8892c5db775bfe3651bc6e97180034918a18715
 
 ![The ChatGPT web interface with "Create a GPT" highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/create-a-gpt.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
  Now you're in the GPT Builder. The tool is split into two sections. On the left, you have the actual builder. On the right, you have a preview of the bot you're making. You can interact with it and test it on the fly.
 
 ![The main GPT Builder Interface with the builder bot on the left and the preview of the custom bot on the right.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/gpt-builder.png) 
@@ -54,19 +48,25 @@ thumbnail: https://thmb.techidaily.com/5b8892c5db775bfe3651bc6e97180034918a18715
 ![A GPT Builder Conversation where the user describes what sort of chatbot they want to create.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/gpt-builder-conversation.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You'll see the builder working on your bot in the background, and it will likely suggest a name. You can either accept the name, or specify a new one. Once the name is nailed down, GPT Builder will use [DALL-E 3](https://screen-activity-recording.techidaily.com/new-the-complete-user-manual-how-to-use-screen-recording-on-mac-for-2024/) to generate a profile image for the bot. You can ask for something different, or you can upload your own image later after the bot is finalized.
 
 ![A convesation with GPT Builder asking for the  Name and Profile image of the users requested custom Chatbot.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/gpt-name-and-profile.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You'll see the bot's name and description on the right-hand side in the preview section. Meet the "HTG PC Builder", which helps you plan your PC builds.
 
 ![The HTG PC Builder bot name, profile, and description.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/gpt-bot-preview.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  With the name and profile image done, the builder will start asking you questions specific to the type of bot you've asked for. This is going to differ for everyone, so just keep going until GPT builder tells you you're all set.
 
 ![GPT Builder asks questions about the specific tweaks the user wants to make to their bot.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/gpt-builder-questions.png) 
@@ -80,18 +80,15 @@ thumbnail: https://thmb.techidaily.com/5b8892c5db775bfe3651bc6e97180034918a18715
 ![The GPT Custom bot Save Button with private, semi-private, and public publishing options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/gpt-save-button.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You'll now find your new bot listed under ChatGPT. If you want to edit your bot later, you can just go back to "Explore" and click the pencil icon next to your bot to open GPT Builder again.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  What Are the Limits of a Custom Bot?
 
  Custom bots are quite powerful, but they aren't the fully-fledged custom bot experience you'd get by hand-tuning GPT for your own app, for example. These bots have to be used through the ChatGPT interface for ChatGPT Plus. That means this isn't a good solution for creating business-class AI chatbot tools, but it's perfect for individuals, and perhaps even small teams.
@@ -110,8 +107,6 @@ thumbnail: https://thmb.techidaily.com/5b8892c5db775bfe3651bc6e97180034918a18715
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -119,4 +114,18 @@ thumbnail: https://thmb.techidaily.com/5b8892c5db775bfe3651bc6e97180034918a18715
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/wisting-the-tape-youtube-video-rotation-techniques-unveiled-for-2024/"><u>[New] Twisting the Tape YouTube Video Rotation Techniques Unveiled for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpts-core-extensions-what-they-are-and-how-you-can-use-them-effectively/"><u>ChatGPT’s Core Extensions: What They Are & How You Can Use Them Effectively</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-msmpengexe-overloading-your-cpu-on-windows-11-solved/"><u>How to Fix MsMpEng.exe Overloading Your CPU on Windows 11 [SOLVED]</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-oppo-find-n3-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Oppo Find N3</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovative-training-crafting-custom-exercise-routines-using-chatgpt-for-trainers/"><u>Innovative Training: Crafting Custom Exercise Routines Using ChatGPT for Trainers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/investigating-chatgpts-influence-on-data-protection/"><u>Investigating ChatGPT's Influence on Data Protection</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/lg-gram-17-analysis-ultra-light-notebook-with-remarkable-power/"><u>LG Gram 17 Analysis: Ultra-Light Notebook with Remarkable Power</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-verdict-on-unihertz-atom-xl-big-features-small-package/"><u>The Ultimate Verdict on Unihertz Atom XL – Big Features, Small Package!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/thin-is-in-a-firsthand-look-at-the-slimmest-ever-ipads-from-apple-is-less-really-more-at-just-008-inches/"><u>Thin Is In: A Firsthand Look at the Slimmest Ever iPads From Apple - Is Less Really More at Just 0.08 Inches?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-4-strategies-governments-use-to-control-artificial-intelligence-applications/"><u>Top 4 Strategies Governments Use to Control Artificial Intelligence Applications</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-7-artificial-intelligence-image-generation-platforms/"><u>Top 7 Artificial Intelligence Image Generation Platforms</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Electron Capture Detector (ECD):"
-date: 2024-12-20T19:25:03.268Z
-updated: 2024-12-22T21:15:33.207Z
+date: 2024-12-24T14:17:53.987Z
+updated: 2024-12-28T07:31:26.048Z
 tags:
   - apple
 categories:
@@ -29,10 +29,6 @@ You'll find the necessary setting in the Control Center section of your Settings
 
 Michael Gariffo
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Open your Settings app and find "Control Center"
 
 Apple added a quick, easy way to record your screen with [iOS 14 in 2020](https://www.zdnet.com/article/apple-launches-ios-14-aims-for-siri-overhaul-better-app-organization/), but you'll need to enable it before you can use it. To do this, open your Settings app and find Control Center (as seen above in the red rectangle).
@@ -40,6 +36,10 @@ Apple added a quick, easy way to record your screen with [iOS 14 in 2020](https:
 This is the Screen Recording option we'll be adding to Control Center
 
 Michael Gariffo
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Add the Screen Recording button to your Control Center
 
@@ -50,10 +50,6 @@ Depending on how many controls you have active, you may need to scroll down a bi
 This is the screen recording button we'll use to start the recording. 
 
 Michael Gariffo
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Open your Control Center
 
@@ -75,10 +71,6 @@ Your clock will look like this as long as Screen Recording is active.
 
 Michael Gariffo
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step 5: Record
 
 This is when you'll want to complete whatever task it is you wanted to screen record. Once you've finished recording your task, move on to the final step below.
@@ -88,7 +80,7 @@ This is the confirmation box that will appear when you stop your recording.
 Michael Gariffo
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. End your recording
@@ -99,14 +91,22 @@ In both cases, the recording you just produced will immediately be saved to your
 
 **Also:** [How to record a call on your iPhone](https://www.zdnet.com/article/how-to-record-a-phone-call-on-your-iphone/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQs
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What does the Screen Recording app actually capture?
 
 It captures everything that goes on across your entire iPhone screen, as well as any sound produced by the iPhone itself while it's recording. This includes any actions you perform, any full-screen videos, and any audio you play via websites, apps, etc. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can I add narration to my captured videos?
@@ -153,24 +153,22 @@ Be aware that some apps, particularly email and messaging apps that don't rely o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-unleashing-brand-potential-with-free-youtube-marketing-templates/"><u>[New] 2024 Approved Unleashing Brand Potential with FREE YouTube Marketing Templates</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-free-nba-action-at-home-the-best-15-ways-to-watch-games-online/"><u>[New] Free NBA Action at Home The Best 15 Ways to Watch Games Online</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-6-ways-to-record-mov-files-on-windows-10/"><u>[Updated] 2024 Approved 6 Ways to Record .mov Files on Windows 10</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/beat-the-rush-discover-apples-affordable-799-m2-macbook-air-pre-prime-day-special-tech-insights-at-zdnet/"><u>Beat the Rush! Discover Apple's Affordable $799 M2 MacBook Air Pre-Prime Day Special | Tech Insights at ZDNet</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/deciphering-ai-security-threats-the-inner-workings-of-prompt-injection-techniques/"><u>Deciphering AI Security Threats: The Inner Workings of Prompt Injection Techniques</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/deconstructing-ai-vulnerability-unraveling-the-workings-of-prompt-injections/"><u>Deconstructing AI Vulnerability - Unraveling the Workings of Prompt Injections</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/digital-dollar-dominance-gpt-for-cryptocurrency-profits/"><u>Digital Dollar Dominance: GPT for Cryptocurrency Profits</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-a-wiser-way-to-web-search-with-bings-new-ai-feature/"><u>Discover a Wiser Way to Web Search with Bing’s New AI Feature</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-the-revolutionary-capabilities-bard-ais-new-functionality-unpacked-from-google-io-2023/"><u>Discover the Revolutionary Capabilities: Bard AI's New Functionality Unpacked From Google I/O 2023</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discovering-grok-elon-musks-new-ai-venture-explained/"><u>Discovering Grok: Elon Musk's New AI Venture Explained</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/easy-installation-tutorial-configuring-auto-gpt-on-ubuntu-platforms/"><u>Easy Installation Tutorial: Configuring Auto-GPT on Ubuntu Platforms</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/effective-techniques-incorporating-chatgpt-into-cognitive-behavioral-therapy-practices/"><u>Effective Techniques: Incorporating ChatGPT Into Cognitive Behavioral Therapy Practices</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/efficient-site-planning-using-chatgpts-four-tactics/"><u>Efficient Site Planning Using ChatGPT's Four Tactics</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/free-copilot-full-turbo-revolutionize-ai-interaction/"><u>Free Copilot, Full Turbo: Revolutionize AI Interaction</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/headquarters-of-virtual-reality-entertainment-for-2024/"><u>Headquarters of Virtual Reality Entertainment for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ating-your-image-tips-for-crafting-irresistible-youtube-live-graphics/"><u>Innovating Your Image Tips for Crafting Irresistible YouTube Live Graphics</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/techniques-for-downloading-pinterest-videos-as-mp3s-for-2024/"><u>Techniques for Downloading Pinterest Videos as MP3s for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-the-garmin-vivomove-hr-a-chic-wrist-companion-for-health-enthusiasts/"><u>The Ultimate Guide to the Garmin Vivomove HR: A Chic Wrist Companion for Health Enthusiasts</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlock-iphone-8-plus-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>Unlock iPhone 8 Plus With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-chorus-of-creativity-the-mac-studio-experience/"><u>[New] In 2024, Chorus of Creativity The Mac Studio Experience</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-aesthetic-enhancement-font-integration-for-ae/"><u>[Updated] Aesthetic Enhancement Font Integration for AE</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-sculpting-visual-clarity-overcoming-gopro-lens-distortion/"><u>[Updated] Sculpting Visual Clarity Overcoming GoPro Lens Distortion</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-exclusive-list-of-premium-video-downloader-apps/"><u>2024 Approved Exclusive List of Premium Video Downloader Apps</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/anticipating-cyberspace-7-upcoming-protection-phenomena/"><u>Anticipating Cyberspace: 7 Upcoming Protection Phenomena</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/battle-of-ai-giants-comparing-googles-bard-and-microsofts-bing-chat/"><u>Battle of AI Giants: Comparing Google's Bard and Microsoft's Bing Chat</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boost-your-writing-process-with-these-8-powerful-ai-assistants/"><u>Boost Your Writing Process with These 8 Powerful AI Assistants</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/dive-into-periscope-no-cost-entry-and-user-account-setup-steps/"><u>Dive Into Periscope No Cost Entry & User Account Setup Steps</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-installation-a-beginners-guide-to-chatgpt-plug-in-tools/"><u>Effortless Installation: A Beginner's Guide to ChatGPT Plug-In Tools</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-improve-your-digital-television-signal-using-a-home-antenna/"><u>How to Improve Your Digital Television Signal Using a Home Antenna</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-montereys-release-what-to-expect/"><u>Navigating Monterey's Release: What to Expect</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/navigating-through-vrs-bright-side-and-dark-hole-for-2024/"><u>Navigating Through VR's Bright Side & Dark Hole for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/optimal-notetaking-top-6-ai-enhanced-software-picks/"><u>Optimal Notetaking: Top 6 AI-Enhanced Software Picks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/optimal-use-of-gpt-tokens-in-interactive-dialogue/"><u>Optimal Use of GPT Tokens in Interactive Dialogue</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/resolving-looms-desktop-application-and-chrome-extension-issues-a-comprehensive-guide/"><u>Resolving Loom's Desktop Application & Chrome Extension Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/securely-update-your-proton-vpn-login-details-and-unmask-the-truth-behind-chatgpt-for-windows-users/"><u>Securely Update Your Proton VPN Login Details and Unmask the Truth Behind ChatGPT for Windows Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/turing-test-overview-and-possibility-of-surpassing/"><u>Turing Test Overview & Possibility of Surpassing</u></a></li>
 </ul></div>
 

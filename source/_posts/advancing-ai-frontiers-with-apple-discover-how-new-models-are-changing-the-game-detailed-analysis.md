@@ -1,7 +1,7 @@
 ---
 title: "Advancing AI Frontiers with Apple: Discover How New Models Are Changing the Game | Detailed Analysis"
-date: 2024-11-30T20:25:01.062Z
-updated: 2024-12-07T18:03:09.660Z
+date: 2024-12-26T11:39:28.356Z
+updated: 2024-12-27T16:08:05.364Z
 tags:
   - apple
 categories:
@@ -49,7 +49,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A trained charm offensive
@@ -83,7 +83,7 @@ She began to play a demonstration video that, dare I confess, is quite moving.
 The fact that someone else can see (a digital version of) your eyes is a touchingly humane feature, even if imperfect. But the simple gesturing and the apparent power of that gesturing is, even on video, quite something.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Suddenly, it's all business
@@ -125,7 +125,7 @@ I asked if she thought this would become the new way of living, where people wan
 (Well, not quite all the apps. Netflix and YouTube [aren't there](https://www.zdnet.com/article/what-apps-will-be-on-apple-vision-pro-not-these-two-major-ones/).)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Was I sold? Not quite yet
@@ -191,20 +191,14 @@ I asked the female store employee whether she'd be able to try one on before the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-shotchrome-intrinsic-recorder-for-os-x/"><u>[New] ShotChrome Intrinsic Recorder for OS X</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-thriving-on-both-sides-work-and-youtubing-tips/"><u>[New] Thriving on Both Sides Work and YouTubing Tips</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-enhance-your-feed-editing-tall-videos-with-fcpx-expertise-for-2024/"><u>[Updated] Enhance Your Feed Editing Tall Videos with FCPX Expertise for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-vivo-y200e-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Vivo Y200e 5G</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discovering-the-world-of-ai-9-essential-tools-for-starters/"><u>Discovering the World of AI: 9 Essential Tools for Starters</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/future-of-ai-writing-assistant-our-wishlist-for-gpt-5/"><u>Future of AI Writing Assistant: Our Wishlist for GPT-5</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-regain-original-typing-positions-on-windows-11-devices/"><u>Guide to Regain Original Typing Positions on Windows 11 Devices</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-five-steps-to-enhance-your-screenplay-narration/"><u>In 2024, Five Steps to Enhance Your Screenplay Narration</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-samsung-galaxy-xcover-7-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Samsung Galaxy XCover 7 to Mac? | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-simple-strategies-for-capturing-games-on-consoles/"><u>In 2024, Simple Strategies for Capturing Games on Consoles</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/leveraging-chatgpt-for-efficient-and-creative-website-creation/"><u>Leveraging ChatGPT for Efficient and Creative Website Creation</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/overcoming-chatgpts-character-threshold-for-extended-conversations/"><u>Overcoming ChatGPT's Character Threshold for Extended Conversations</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/running-chatgpt-as-a-desktop-app-on-windows-quick-instructions/"><u>Running ChatGPT as a Desktop App on Windows - Quick Instructions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-dichotomy-of-ai-mass-engagement-vs-precious-data/"><u>The Dichotomy of AI: Mass Engagement Vs. Precious Data</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/top-5-car-locator-apps-for-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>Top 5 Car Locator Apps for Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/our-ultimate-guide-to-downloading-youtube-on-ios/"><u>[New] Your Ultimate Guide to Downloading YouTube on iOS</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-decoding-the-fuzziness-in-facebook-videos/"><u>2024 Approved Decoding the Fuzziness in Facebook Videos</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-inherent-modules-of-chatgpt-functionality-and-applications/"><u>Exploring the Inherent Modules of ChatGPT: Functionality and Applications</u></a></li>
+<li><a href="https://some-tips.techidaily.com/fall-releases-exploring-the-latest-innovations-on-iphone-ipad-mac-and-beyond-from-apple-with-advanced-ai-integration-insights/"><u>Fall Releases: Exploring the Latest Innovations on iPhone, iPad, Mac & Beyond From Apple with Advanced AI Integration Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-get-llama-2-running-locally-a-comprehensive-tutorial/"><u>How to Get Llama 2 Running Locally – A Comprehensive Tutorial</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/step-by-step-guide-to-creating-a-comment-export-email-on-macos/"><u>Step-by-Step Guide to Creating a Comment Export Email on macOS</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ai-evolution-assessing-if-chatgpt-signals-trouble-for-established-search-platforms/"><u>The AI Evolution: Assessing If ChatGPT Signals Trouble for Established Search Platforms</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/transform-media-files-in-a-flash-using-winxvideos-ai-and-gpu-boost-technology/"><u>Transform Media Files in a Flash Using Winxvideo's AI and GPU Boost Technology</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transform-your-approach-to-math-the-best-7-ai-programs-at-your-fingertnails/"><u>Transform Your Approach to Math: The Best 7 AI Programs at Your Fingertnails</u></a></li>
 </ul></div>
 

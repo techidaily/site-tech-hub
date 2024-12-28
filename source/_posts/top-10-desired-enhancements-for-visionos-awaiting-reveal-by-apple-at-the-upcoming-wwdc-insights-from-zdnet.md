@@ -1,7 +1,7 @@
 ---
 title: Top 10 Desired Enhancements for VisionOS Awaiting Reveal by Apple at the Upcoming WWDC - Insights From ZDNet
-date: 2024-12-04T19:40:31.270Z
-updated: 2024-12-07T17:22:32.906Z
+date: 2024-12-24T22:57:41.460Z
+updated: 2024-12-28T08:01:17.369Z
 tags:
   - apple
 categories:
@@ -38,10 +38,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -64,6 +60,10 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -71,6 +71,10 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -105,7 +109,7 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -117,10 +121,6 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -151,7 +151,7 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -163,7 +163,7 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -210,18 +210,20 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-instant-screen-capture-plus-audio-walkthrough/"><u>[New] Instant Screen Capture + Audio Walkthrough</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-perfecting-auto-captioned-content-in-instagram-reels/"><u>[New] Perfecting Auto-Captioned Content in Instagram Reels</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-upgrade-your-editing-game-learning-youtube-cuts-in-sony-vegas-basics/"><u>[Updated] Upgrade Your Editing Game Learning YouTube Cuts in Sony Vegas Basics</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/6-proven-ways-to-unlock-nokia-c210-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Nokia C210 Phone When You Forget the Password</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/content-strategy-game-changers-leveraging-ai-technology-to-enhance-writing-workflows/"><u>Content Strategy Game-Changers: Leveraging AI Technology to Enhance Writing Workflows</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/essential-ps2-emulators-for-ios-devices/"><u>Essential PS2 Emulators for IOS Devices</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-eight-lucrative-ai-jobs-with-chatgpt-your-potential-goldmine/"><u>Exploring Eight Lucrative AI Jobs with ChatGPT - Your Potential Goldmine?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-honor-90-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Honor 90? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-ai-communication-on-quora-how-poe-tools-open-doors-to-llms-and-advanced-chatbots/"><u>Mastering AI Communication on Quora – How Poe Tools Open Doors to LLMs & Advanced Chatbots</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/sculpt-personalized-language-agents/"><u>Sculpt Personalized Language Agents</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/the-complete-beginners-guide-to-utilizing-look-up-tables-luts/"><u>The Complete Beginner’s Guide to Utilizing Look-Up Tables (LUTs)</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-ultimate-tutorial-combining-chatgpt-with/"><u>The Ultimate Tutorial: Combining ChatGPT With</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unearthing-hidden-ai-advantages-top-5-unused-chatgpt-features/"><u>Unearthing Hidden AI Advantages: Top 5 Unused ChatGPT Features</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-broadcasting-with-a-history-live-transmission-of-pre-recorded-videos/"><u>[New] 2024 Approved Broadcasting with a History LIVE Transmission of Pre-Recorded Videos</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-the-secret-to-striking-visuals-optimal-video-aspect-ratios-for-2024/"><u>[New] The Secret to Striking Visuals Optimal Video Aspect Ratios for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-step-by-step-inserting-dates-in-digital-pictures/"><u>[Updated] 2024 Approved Step-by-Step Inserting Dates in Digital Pictures</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-how-to-vlog-confidently-like-popular-youtubers-in-2024/"><u>[Updated] How to Vlog Confidently Like Popular YouTubers, In 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-unveiling-the-ultimate-editor-sets-for-macos-sierra-users/"><u>[Updated] In 2024, Unveiling the Ultimate Editor Sets for macOS Sierra Users</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-srt-file-handling-simplified-on-pcmac/"><u>[Updated] SRT File Handling Simplified on PC/Mac</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-comprehensive-tutorial-on-enabling-system-defense-mechanisms-in-windows-10/"><u>A Comprehensive Tutorial on Enabling System Defense Mechanisms in Windows 10</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/creating-a-recovery-point-with-ease-a-windows-11-users-manual/"><u>Creating a Recovery Point with Ease: A Windows 11 User's Manual</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723011112024-fix-that-frustrating-microsoft-word-error-in-just-five-steps/"><u>Fix That Frustrating Microsoft Word Error in Just Five Steps</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-infinix-smart-7-hd-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Infinix Smart 7 HD Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/logitech-g29-racing-wheel-driver-software-free-download-for-windows-users/"><u>Logitech G29 Racing Wheel Driver Software - Free Download for Windows Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-admin-access-a-step-by-step-guide-to-launching-the-command-prompt-with-elevated-rights-on-windows-10881/"><u>Mastering Admin Access: A Step-by-Step Guide to Launching the Command Prompt with Elevated Rights on Windows 10/8/8.1</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/resolve-your-windows-10-updating-woes-silent-install-successfully-achieved/"><u>Resolve Your Windows 10 Updating Woes - Silent Install Successfully Achieved!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-accessing-the-control-panel-on-windows-11-7-and-8/"><u>Step-by-Step Guide: Accessing the Control Panel on Windows 11, 7 & 8</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-starting-fresh-with-a-clean-boot-on-your-windows-11-pc/"><u>Step-by-Step Guide: Starting Fresh with a Clean Boot on Your Windows 11 PC</u></a></li>
 </ul></div>
 

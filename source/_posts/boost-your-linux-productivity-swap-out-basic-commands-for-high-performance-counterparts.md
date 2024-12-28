@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Linux Productivity: Swap Out Basic Commands for High-Performance Counterparts"
-date: 2024-08-29T01:11:23.398Z
-updated: 2024-08-30T01:11:23.398Z
+date: 2024-12-22T23:51:30.479Z
+updated: 2024-12-27T18:08:24.167Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/00ca8ff6fce624dea66e7545a63f888233e8bb4b7
 ---
 
 ## Boost Your Linux Productivity: Swap Out Basic Commands for High-Performance Counterparts
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -55,6 +59,10 @@ batcat --theme=Dracula file1
 
  If you want to set a theme permanently, you can [set an environment variable](https://media-tips.techidaily.com/effortless-format-transformation-how-to-seamlessly-switch-from-mpeg-4-to-mpeg/) in your .bashrc file. You can also add new themes and syntax definitions to bat.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2  ncdu: More User-Friendly Than du 
 
  The [ncdu (NCurses Disk Usage) command](https://dev.yorhel.nl/ncdu) is a great tool for analyzing your disk space. The traditional du command provides disk usage that's hard to parse. The ncdu command makes it easier to see what's eating up your space.
@@ -81,9 +89,6 @@ ncdu
 
 ![Using the ncdu command to analyze the disk space of the current directory.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/using-the-ncdu-command-to-analyze-the-disk-space-of-the-current-directory.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
  To analyze a specific directory, add that directory path as an argument. For example, if you want to analyze the snap directory, run this command:
 
 ncfu /snap
@@ -99,6 +104,10 @@ ncdu /
 ncdu -d /
 
  When you're done with the analysis, press q to return to the command line.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3  eza: Beautiful Alternative to ls 
 
@@ -127,8 +136,9 @@ eza -lh --icons
 ![Using the eza command to list files and directories in the terminal with full details.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/using-the-eza-command-to-list-files-and-directories-in-the-terminal-with-full-details.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4  fd: Fast and Friendly find 
 
  The [fd command](https://github.com/sharkdp/fd) isn't a direct replacement for the find command. However, you can perform most of find's functionalities with it. fd has a more intuitive syntax than find and supports regular expressions.
@@ -161,9 +171,6 @@ fdfind
 
 ![Running the fd command shows the content of the current directory.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/running-the-fd-command-shows-the-content-of-the-current-directory.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The most basic way to use the fd command is by passing a pattern as an argument. Suppose, you want to search for files that contain the string "file", then you need to pass that as an argument.
 
 fdfind file
@@ -182,9 +189,6 @@ fdfind -e sh
 
 ![Using the fdfind command to search files by extensions.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/using-the-fdfind-command-to-search-files-by-extensions.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
  If you want to learn more, check out our [full fd command guide](https://visual-screen-recording.techidaily.com/updated-2024-approved-unmatched-hdds-for-enhanced-xbox-experience/).
 
 ## 5  ripgrep: grep, but Faster 
@@ -228,8 +232,9 @@ rg "Python" demo_project --type py
  If you have hidden files, directories, ripgrep ignores them while searching.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6  zoxide: Smarter Than cd 
 
  cd is one of the most [basic Linux commands](https://win11-tips.techidaily.com/precision-adjusting-windows-locksleep-timer/). It's used for navigating through the file system on the terminal. [zoxide](https://github.com/ajeetdsouza/zoxide?tab=readme-ov-file) makes navigating much easier by remembering your most visited directories. You can install zoxide on any Linux distro using the provided installation script. Run this command:
@@ -251,22 +256,15 @@ z demo1/demo2/demo3/demo4/
 
 ![Navigating the Linux file system using zoxide.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/navigating-the-linux-file-system-using-zoxide.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
  Once you do that, zoxide will remember it for the future. You won't have to type the whole directory path and instead write the one you need to enter last.
 
 ![An example of faster file system navigation with zoxide.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/an-example-of-faster-file-system-navigation-with-zoxide.png) 
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If there are multiple directories with the same name, you'll see a list of directories, and you can choose from there. For that, you'll need the fzf tool as well.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7  btop: More Interactive Than top 
 
@@ -280,20 +278,22 @@ cd btop/
     
 ![The process of installing btop on Linux.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/installing-btop-on-linux.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After installing, run:
 
 btop
 
 ![An example of btop running on Linux.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/running-btop-on-linux.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
  You can monitor disk usage, RAM usage, battery life, network, processes, and more.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8  tldr: The Simplified Version of man 
 
  When you're new to Linux and you want to learn more about a command, you're often asked to use [the man command](https://video-capture.techidaily.com/in-2024-masterclass-flawless-powerpoint-screen-recordings/). However, as a beginner, it may seem confusing and intimidating. That's where [the tldr command](https://tldr.sh/) comes in. It simplifies manual pages and provides practical use cases of the command.
@@ -309,8 +309,9 @@ tldr rm
 ![Using the tldr command to display the manual page of the rm command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/using-the-tldr-command-to-display-the-manual-page-of-the-rm-command.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 9  sd: Easier Syntax Than sed 
 
  The sd command supports commonly used [Regex](https://extra-lessons.techidaily.com/top-10-after-effects-text-presets/) syntax, unlike [the sed command](https://visual-screen-recording.techidaily.com/new-in-2024-forward-thinking-ios-for-ps2-emulation/). It also has a string-literal mode, making it much easier to use. You can install sd using cargo.
@@ -326,9 +327,6 @@ sed -i 's/quick brown fox/swift red fox/g' paragraph.txt
 
 ![Using the sed command to replace text in a txt file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/using-the-sed-command-to-replace-text-in-a-txt-file.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  There are many more advanced uses of sd where you can apply complicated search patterns.
 
 ---
@@ -341,8 +339,6 @@ sed -i 's/quick brown fox/swift red fox/g' paragraph.txt
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -350,4 +346,24 @@ sed -i 's/quick brown fox/swift red fox/g' paragraph.txt
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-backwards-play-iphones-unique-reverse-feature/"><u>[New] Backwards Play IPhone's Unique Reverse Feature</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-assessing-virtual-realitys-dual-facets-pros-and-cons/"><u>[Updated] In 2024, Assessing Virtual Reality’s Dual Facets Pros & Cons</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-googles-musical-sidekick-ringers-guide/"><u>2024 Approved Google's Musical Sidekick Ringers Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/easy-introduction-to-pairing-and-utilizing-bluetooth-with-an-iphone/"><u>Easy Introduction to Pairing and Utilizing Bluetooth with an iPhone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/future-yous-earlier-past-storing-gpt-chats/"><u>Future You's Earlier Past: Storing GPT Chats</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/generative-ai-mastery-avoid-these-7-frequent-mistakes/"><u>Generative AI Mastery: Avoid These 7 Frequent Mistakes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/getting-started-with-langchain-llm-a-comprehensive-introduction/"><u>Getting Started with LangChain LLM: A Comprehensive Introduction</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/googles-gemini-navigating-through-its-artificial-intelligence-landscape/"><u>Google’s Gemini: Navigating Through Its Artificial Intelligence Landscape</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/harnessing-smart-technology-the-6-greatest-ai-assisted-notetakers-reviewed/"><u>Harnessing Smart Technology: The 6 Greatest AI Assisted Notetakers Reviewed</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-teleport-your-gps-location-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Vivo X90S? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-use-gpt-mentions-to-call-out-custom-gpts-in-any-chatgpt-conversation/"><u>How to Use GPT Mentions to Call Out Custom GPTs in Any ChatGPT Conversation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-use-the-ai-powered-bing-app-on-android/"><u>How to Use the AI-Powered Bing App on Android</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-realme-11-proplus-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Realme 11 Pro+ Devices | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-zero-price-green-screen-resources/"><u>In 2024, Zero-Price Green Screen Resources</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-it-possible-to-employ-chatgpt-for-developing-malicious-software/"><u>Is It Possible to Employ ChatGPT for Developing Malicious Software?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/strategies-to-become-a-top-notch-interviewer-for-2024/"><u>Strategies to Become a Top-Notch Interviewer for 2024</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-honor-play-8t-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Honor Play 8T Hard Reset | Dr.fone</u></a></li>
+</ul></div>
 

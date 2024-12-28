@@ -1,7 +1,7 @@
 ---
 title: Transform Your Windows Laptop From Power Drain to Efficiency Ninja - Tips & Tricks
-date: 2024-08-29T01:12:11.727Z
-updated: 2024-08-30T01:12:11.727Z
+date: 2024-12-27T08:42:39.556Z
+updated: 2024-12-28T03:00:15.690Z
 tags:
   - desktop
 categories:
@@ -29,9 +29,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  As a Windows laptop user, you know the frustration of searching for a charging spot because your laptop's battery life is short. The problem is worse if your laptop is older, since batteries lose capacity over time. Luckily, you can change some Windows settings to improve your laptop's battery life..
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Modify the Power Plan Settings
 
  Link State Power Management is a feature on your Windows computer that saves battery life by controlling the connection between the [CPU](https://facebook-clips.techidaily.com/echoes-of-now-strategies-for-downloading-current-events/) and devices connected through the PCI Express (PCIe) slots. It works alongside Active State Power Management (ASPM) and offers three modes to configure — "Off," "Moderate Power Savings," and "Maximum Power Savings."
@@ -43,17 +40,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Change Advanced Power Settings option in the Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/change-advanced-power-settings-option-in-the-control-panel.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In the Power Options window, double-click the "PCI Express" option and the "Link State Power Management" option. From the On battery drop-down menu, select "Maximum Power Savings." Then, choose "Moderate Power Savings" from the Plugged In dropdown menu.
 
 ![PCI Express option in the Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/pci-express-option-in-the-control-panel.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click "Apply" and "OK" to save the changes. After that, restart your laptop to see the impact on battery performance.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Change Video Playback Settings
 
  Many [UWP apps and third-party applications](https://screen-activity-recording.techidaily.com/new-in-2024-plant-and-play-best-friends-games-in-the-agricultural-world/) use the video platform built into Windows 11\. You can control the video playback settings for these apps when your device is on battery to reduce battery consumption compared to before.
@@ -62,16 +65,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Video playback option in the Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/video-playback-option-in-the-settings-app.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
  Choose the "Optimize for Battery Life" option from the Battery Options menu. Then, check the "Play video at a lower resolution when on battery" option.
 
 ![Optimize for battery life option in the Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/optimize-for-battery-life-option-in-the-settings-app.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Apply the Energy Recommendations Changes
 
  Windows 11 has an Energy recommendations option in the Settings menu that shows all the minor changes you can make on your device to [improve battery life](https://screen-capture.techidaily.com/2024-approved-mastering-the-art-of-virtual-board-usage-in-web-conferences-android-apple-and-pc/). To apply these changes, open the Settings app, select "System" from the left sidebar, and click "Power & Battery" on the right.
@@ -82,13 +79,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Energy Recommendation option in the Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/energy-recommendation-option-in-the-settings-app.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can click the "Apply All" option to apply all the changes recommended by Windows. Alternatively, you can click the "Apply" button next to the change you want to make on your device.
 
 ![Apply all option in the Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/apply-all-option-in-the-settings-app.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Configure Unnecessary Apps to Use Less Powerful GPU
 
  In Windows, you can manually choose which [GPU](https://android-unlock.techidaily.com/unlock-vivo-s17-pro-phone-password-without-factory-reset-full-guide-here-by-drfone-android/) an application uses. This can be helpful because there's no reason to use a powerful GPU for simple tasks like the Calculator app. Using the powerful GPU for such tasks would put more strain on your computer and drain your battery faster.
@@ -103,18 +101,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Power Saving option in the Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/power-saving-option-in-the-settings-app.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Disable the RGB Lighting
 
  If your laptop has a backlit keyboard or you have an external keyboard with RGB lighting attached, you can improve your battery life by [disabling the RGB lighting](https://eaxpv-info.techidaily.com/updated-getting-started-with-your-new-youtube-premium-account-for-2024/). Different laptop and keyboard brands use different key combinations to turn off the lighting.
 
  For example, on my HP laptop, I can disable the keyboard backlight by pressing the Fn+F5 keys together. If you're unsure of the key combination for your device, you can check the user manual that came with your laptop.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Switch to the Dark Mode
 
 [Switching to dark mode](https://smart-video-creator.techidaily.com/new-from-beginner-to-pro-6-adobe-premiere-tips-to-transform-your-video-editing/) on your Windows 11 laptop can help improve battery life, but the increase won't be as significant as other tips in this article. Specifically, you can expect a 2-3% increase in battery life after switching to dark mode, and even that increase depends on your laptop screen. If your laptop has an [OLED screen](https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-tecno-phantom-v-flip-by-fonelab-android-recover-messages/), you'll see that 2-3% battery life boost. However, if it's an LCD screen, the percentage will be even lower.
@@ -142,23 +134,33 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Customized Power Saving command in CMD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/customized-power-saving-command-in-cmd.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To reduce CPU max clock speed of efficiency cores when laptop is not plugged into power, type **powercfg /setdcvalueindex <Power Scheme GUID> SUB\_PROCESSOR PROCTHROTTLEMAX 99** and hit Enter.
 
 ![Command for efficiency cores in CMD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/command-for-efficiency-cores-in-cmd.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To reduce CPU max clock speed of performance cores when laptop is not plugged into power, type **powercfg /setdcvalueindex <Power Scheme GUID> SUB\_PROCESSOR PROCTHROTTLEMAX1 99** and hit Enter.
 
 ![Command for performance cores in CMD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/command-for-performance-cores-in-cmd.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Next, type **powercfg /setactive <Power Scheme GUID>** and hit Enter.
 
 ![Setactive command in CMD](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/setactive-command-in-cmd.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After that, simply restart your computer and you will see a sudden increase in your battery performance and a reduction in laptop heat.
 
 ---
@@ -171,8 +173,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -180,4 +180,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-advanced-psd-text-styling/"><u>[New] In 2024, Advanced PSD Text Styling</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-instant-recovery-of-vanished-reddit-topics/"><u>[New] Instant Recovery of Vanished Reddit Topics</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-optimal-room-decorations-for-livestreams/"><u>[Updated] In 2024, Optimal Room Decorations for Livestreams</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/9-proven-methods-to-repair-chatgpt-app-issues-on-your-ios-device/"><u>9 Proven Methods to Repair ChatGPT App Issues on Your iOS Device</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/abbyys-strategic-guidance-natasha-mann-as-a-key-board-member/"><u>ABBYY's Strategic Guidance: Natasha Mann as a Key Board Member</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/accessible-chatgpt-dialogue-for-android-users/"><u>Accessible ChatGPT Dialogue for Android Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-integration-with-bing-app-top-tips-for-android-smartphone-owners/"><u>AI Integration with Bing App: Top Tips for Android Smartphone Owners</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-samsung-galaxy-z-fold-5-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Samsung Galaxy Z Fold 5 by Name | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/macxdvd-launches-big-savings-unlock-your-exclusive-discount-codes-offering-43-off/"><u>MacXDVD Launches Big Savings - Unlock Your Exclusive Discount Codes Offering 43% Off!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722027096621-mobile-phone-is-50-ransomware-decryption-explained-and-chatgpt-writes-our-podcast/"><u>Mobile Phone Is 50, Ransomware Decryption Explained, and ChatGPT Writes Our Podcast!</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/navigating-tiktok-to-twitter-for-2024/"><u>Navigating TikTok to Twitter for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-would-you-like-to-know-how-to-change-the-ratio-of-the-video-or-which-is-the-correct-aspect-ratio-for-uploading-to-the-online-platform-then/"><u>New 2024 Approved Would You Like to Know How to Change the Ratio of the Video or Which Is the Correct Aspect Ratio for Uploading to the Online Platform? Then, Go Through the Article to Get Complete Details About the Video Aspect Ratio</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722118579788-the-hidden-depth-of-snapchats-myai-learn-about-its-six-unexpected-utilities-beyond-cool-tech/"><u>The Hidden Depth of Snapchat's MyAI - Learn About Its Six Unexpected Utilities Beyond Cool Tech</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722149038581-top-9-essential-ai-toolsets-for-newbies-start-your-journey-today/"><u>Top 9 Essential AI Toolsets for Newbies: Start Your Journey Today</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1721973786775-what-is-the-turing-test-and-will-it-ever-be-beaten/"><u>What Is the Turing Test and Will It Ever Be Beaten?</u></a></li>
+</ul></div>
 

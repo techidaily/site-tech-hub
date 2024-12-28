@@ -1,7 +1,7 @@
 ---
 title: "Introducing Google’s Enhanced PaLM 2: A Breakthrough in Large Language Model Technology"
-date: 2024-08-24T11:31:41.373Z
-updated: 2024-08-25T11:31:41.373Z
+date: 2024-12-20T17:27:00.140Z
+updated: 2024-12-28T13:08:44.196Z
 tags:
   - chatgpt
   - open-ai
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/f9a5463fbd0c790fcad5c9ca24a63fabc5c5b34da
 ## 1\. Create Random Encounters While Players Are Traveling
 
 ![A blue and yellow D20 di](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/blue-dice.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Whether you're strictly following a scripted adventure or mostly just going with the flow, ChatGPT can make it easy to add random encounters to your campaign. This is especially useful for when your players are traveling. It's also a great addition for anyone learning[how to play Dungeons & Dragons online](https://www.makeuseof.com/how-to-play-dungeons-dragons-online/) .
 
@@ -49,6 +53,10 @@ Here's a pretty great prompt for generating NPCs:
 
 ![Prompt for generating an NPC description in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/generate-description.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Here's how you can prompt dialogue from players to interact with characters created in ChatGPT:
 
 * One of the players asks the innkeeper: "Have you heard any interesting news lately?"
@@ -57,9 +65,6 @@ Here's a pretty great prompt for generating NPCs:
 
  Of course, you can swap out multiple variables in each prompt to adjust them to your campaign and situation. For extra flair, you can[use ChatGPT and DALL-E to generate images of characters](https://www.makeuseof.com/how-to-use-chatgpt-and-dall-e-to-create-characters-for-dungeons-and-dragons/) .
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Filler Content in a Pinch: When Players Deviate From the Story
 
  You've probably run into a situation where your players decide to deviate from a carefully crafted campaign. While ChatGPT can't help with the frustration this can cause, it can help you with filler content in a pinch. It's a fantastic option for creating engaging content on the fly and avoiding awkward or long pauses during the session.
@@ -71,14 +76,11 @@ Here's one example of a prompt that can work:
 ![Prompt in ChatGPT for D&D when players deviate from story](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/players-deviate-from-campaign.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Here, ChatGPT automatically generated an easy-to-understand environment, an NPC with a name, and a quest to boot. All of this within seconds. The next time your party surprises you by taking a new direction, ChatGPT has you covered.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. ChatGPT Can Assist in Map Creation
 
  You can use ChatGPT to describe an area to your party better or build a room for an encounter. In fact, there are two great ways to use ChatGPT to generate maps.
@@ -88,8 +90,9 @@ Here's one example of a prompt that can work:
  Alternatively, you can use ChatGPT for map creation by prompting for ideas. You can provide the basics of your idea for a foundation, and ChatGPT will provide you with and elaborate on the details.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Keep Track of the Game State
 
  If you've been running a campaign for more than 15 sessions, you might consider using ChatGPT as a D&D assistant to keep track of the game state. It might take some work and a bit of time, but it's definitely worth it. And in many cases, it's better than managing a complex spreadsheet and a tall stack of notes.
@@ -100,14 +103,6 @@ Here's one example of a prompt that can work:
 
  If you're not too happy with the answers from this prompt, there are a few[ways to write effective ChatGPT prompts](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/) that you might consider implementing. A cheat sheet can really help you tweak prompts to better fit the context of your campaign.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Provide Guidance and Feedback for New DMs
 
  Guidance and feedback from ChatGPT can take place in or outside a session. During a session, you can use ChatGPT to quickly double-check rules and look up information regarding classes, races, abilities, items, and more. It's also a definite lifesaver in complicated battle scenarios.
@@ -115,22 +110,20 @@ Here's one example of a prompt that can work:
  For new DMs, though, it's a great way to get some feedback on ideas and session summaries. For the prompt, you can write out a summary of what happened, and ask if the events that took place made sense, followed the rules, and if there's anything that could have been done better.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Improve Your D&D Experience With ChatGPT
 
  ChatGPT, with the right prompts, can greatly improve your D&D experience by functioning as an efficient dungeon master assistant, whether you're just getting started or you're a veteran dungeon master. Assisting with map and environment creation, NPC dialogue, guidance and feedback after sessions, and generating random events are just a few examples.
 
  There are, of course, a plethora of other ways to use ChatGPT to improve your D&D sessions. With the right prompt, you can even run a solo RPG campaign in ChatGPT with additional instructions to test out ideas from a player's perspective.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -139,4 +132,26 @@ Here's one example of a prompt that can work:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-techniques-for-tidying-up-image-backdrops/"><u>[New] 2024 Approved Techniques for Tidying Up Image Backdrops</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-step-by-step-guide-to-watching-facebook-live-2sy-year/"><u>[New] Step-by-Step Guide to Watching Facebook Live, 2Sy Year</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-seamless-incorporation-of-text-overlays-for-vimeo-films/"><u>[Updated] In 2024, Seamless Incorporation of Text Overlays for Vimeo Films</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-greenlights-refurbishment-authorized-reuse-of-components-in-selected-iphone-fixes-zdnet/"><u>Apple Greenlights Refurbishment: Authorized Reuse of Components in Selected iPhone Fixes - ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/customizable-ai-revolution-crafting-unique-gpt-models-via-chatgpt-upgrade/"><u>Customizable AI Revolution: Crafting Unique GPT Models via ChatGPT Upgrade</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancing-everyday-living-using-chatgpt-a-comprehensive-guide/"><u>Enhancing Everyday Living Using ChatGPT: A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/static-to-sprightly-bouncing-text-animations-for-2024/"><u>From Static to Sprightly Bouncing Text Animations for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/guard-against-risks-of-custom-gpts-a-guide-to-protect-your-information-when-using-platforms-like-chatgpt/"><u>Guard Against Risks of Custom GPTs: A Guide to Protect Your Information When Using Platforms Like ChatGPT</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-7-plus-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 7 Plus to an Older iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-harness-the-power-of-chatgpt-for-building-interactive-web-applications/"><u>How To Harness The Power of ChatGPT For Building Interactive Web Applications</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-securely-export-your-data-from-the-chatgpt-platform/"><u>How to Securely Export Your Data From the ChatGPT Platform</u></a></li>
+<li><a href="https://howto.techidaily.com/quick-fixes-for-why-is-my-vivo-y28-5g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Vivo Y28 5G Black and White | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/resolving-iphone-reboot-loop-step-by-step-guide-to-exit-dfu-recovery/"><u>Resolving iPhone Reboot Loop: Step-by-Step Guide to Exit DFU Recovery</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-to-crafting-unique-pictures-with-microsoft-copilot-creator/"><u>Step-by-Step Guide to Crafting Unique Pictures with Microsoft Copilot Creator</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-prospects-of-a-prompt-engineers-job-market/"><u>The Prospects of a Prompt Engineer’s Job Market</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-techniques-to-pen-convincing-proposals-leveraging-the-power-of-chatgpt/"><u>The Ultimate Techniques to Pen Convincing Proposals Leveraging the Power of ChatGPT</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-non-lenovo-non-dell-2-in-1-laptop-deal-save-big-before-prime-day-insider-tips-from-zdnet/"><u>Top Non-Lenovo, Non-Dell 2-in-1 Laptop Deal: Save Big Before Prime Day - Insider Tips From ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-hidden-potentials-essential-chatgpt-capabilities-often-overlooked/"><u>Unlock Hidden Potentials: Essential ChatGPT Capabilities Often Overlooked</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/valheim-seeds-selection-and-cultivation-mastery-guide-for-2024/"><u>Valheim Seeds Selection & Cultivation Mastery Guide for 2024</u></a></li>
+</ul></div>
 

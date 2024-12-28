@@ -1,7 +1,7 @@
 ---
 title: "Shared Experiences: The Unspoken Challenges of Moving to iOS 18 on iPhones | ZDNET Insights"
-date: 2024-12-20T18:47:13.050Z
-updated: 2024-12-22T23:12:55.977Z
+date: 2024-12-21T10:14:36.405Z
+updated: 2024-12-28T10:39:47.978Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,16 +109,22 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/horts-fix-completed-no-more-anxiety-for-2024/"><u>[New] Shorts Fix Completed – No More Anxiety for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-the-startups-secret-weapon-kit-must-have-items-that-set-you-apart/"><u>[Updated] In 2024, The Startup's Secret Weapon Kit Must-Have Items That Set You Apart</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-streamed-audiovideo-crafts-meetup/"><u>2024 Approved Streamed Audio/Video Crafts Meetup</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-new-era-of-authenticity-understanding-the-algorithm-update/"><u>2024 Approved The New Era of Authenticity Understanding the Algorithm Update</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/artificial-intelligence-developments-tentative-date-for-gpt-5/"><u>Artificial Intelligence Developments: Tentative Date for GPT-5?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/battle-of-the-bots-llama-3-against-gpt-neuroses-4/"><u>Battle of the Bots: LLaMA 3 Against GPT-nEuroses 4</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/beware-the-shortcomings-of-ai-detection-apps-like-zerogpt-exposed-through-four-case-studies/"><u>Beware! The Shortcomings of AI Detection Apps Like ZeroGPT Exposed Through Four Case Studies</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/building-your-personal-ai-companer-install-and-run-an-open-alternative-to-chatgpt-on-windows/"><u>Building Your Personal AI Companer: Install and Run an Open Alternative to ChatGPT on Windows</u></a></li>
-<li><a href="https://win-net.techidaily.com/solving-graphics-card-problems-in-windows-a-comprehensive-guide-by-yl-software/"><u>Solving Graphics Card Problems in Windows: A Comprehensive Guide by YL Software</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/step-by-step-guide-adding-your-dvd-content-to-google-drive-or-other-cloud-platforms/"><u>Step-by-Step Guide: Adding Your DVD Content to Google Drive or Other Cloud Platforms</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/top-tier-writing-structure-space/"><u>Top-Tier Writing Structure Space</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-decoding-the-art-of-engaging-in-youtube-short-forms/"><u>[New] 2024 Approved Decoding the Art of Engaging in YouTube Short Forms</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/tep-by-step-guide-to-collab-videos-and-channel-growth/"><u>[New] Step-by-Step Guide to Collab Videos & Channel Growth</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-how-to-use-zoom-to-stream-facebook-live/"><u>[Updated] In 2024, How to Use Zoom to Stream Facebook Live</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-infinix-smart-8-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/from-chaos-to-clarity-combining-obs-with-zoom/"><u>From Chaos to Clarity Combining OBS with Zoom</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/list-of-10-invisible-stories-watchers-for-2024/"><u>List of 10 Invisible Stories Watchers for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-multi-tasking-a-guide-to-splitting-your-ipads-screen/"><u>Mastering Multi-Tasking: A Guide to Splitting Your iPad's Screen</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-window-10-strategies-for-ultimate-optimization-and-improvement/"><u>Mastering Window 10: Strategies for Ultimate Optimization and Improvement</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximizing-your-pcs-bluetooth-connectivity-tips-and-tricks-for-windows-10-and-11/"><u>Maximizing Your PC's Bluetooth Connectivity: Tips & Tricks for Windows 10 and 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/optimize-your-privacy-with-chromes-best-vpn-services-instant-easy-configuration/"><u>Optimize Your Privacy with Chrome's Best VPN Services - Instant, Easy Configuration</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-realme-11-pro-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Realme 11 Pro to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/quick-and-simple-guide-reset-your-facebook-password-instantly/"><u>Quick and Simple Guide: Reset Your Facebook Password Instantly</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/quick-fix-for-a-malfunctioning-logitech-k520-keyboard-easy-tips-inside/"><u>Quick Fix for a Malfunctioning Logitech K520 Keyboard – Easy Tips Inside!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/quick-fix-for-removing-windows-10-lock-screen-a-user-friendly-approach/"><u>Quick Fix for Removing Windows 10 Lock Screen - A User-Friendly Approach</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/quick-guide-identifying-and-verifying-your-windows-10-os-version-instantly/"><u>Quick Guide: Identifying and Verifying Your Windows 10 OS Version Instantly</u></a></li>
+<li><a href="https://article-files.techidaily.com/strategizing-superior-screen-snatchers/"><u>Strategizing Superior Screen-Snatchers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-6-platforms-revolutionizing-business-social-interaction-for-2024/"><u>Top 6 Platforms Revolutionizing Business-Social Interaction for 2024</u></a></li>
 </ul></div>
 

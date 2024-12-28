@@ -1,7 +1,7 @@
 ---
 title: Does ChatGPT Have the Capability of Image Creation?
-date: 2024-08-29T01:14:01.833Z
-updated: 2024-08-30T01:14:01.833Z
+date: 2024-12-26T08:27:48.255Z
+updated: 2024-12-28T04:11:38.900Z
 tags:
   - cutting-edge
 categories:
@@ -17,15 +17,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [Can You Use Images for ChatGPT Prompts?](https://extra-information.techidaily.com/peek-through-the-curtain-viewers-disguised-commentaries/)
 * [How to Get AI-Generated Images](https://location-social.techidaily.com/how-to-change-honor-100-location-on-skout-drfone-by-drfone-virtual-android/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
  No, ChatGPT cannot create images. However, you can use it to help you create prompts for AI image generators.
 
  ChatGPT is capable of many writing feats, and you might wonder if it can generate images. ChatGPT does not function as an AI image generator, but other AI services can generate images---and ChatGPT can even give you a hand.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Can You Use ChatGPT as a Picture Generator?
 
 [ChatGPT](https://extra-resources.techidaily.com/new-capture-clarity-editing-insights-for-professional-results/) cannot generate images---not as of May, 2023, at least. However, there are quite a few [AI image generators](https://fox-info.techidaily.com/new-synthesize-stellar-titles-using-ai-insights/) out there, such as [DALL-E](https://facebook-video-content.techidaily.com/2024-approved-social-networking-101-registering-with-facebook/), [Stable Diffusion](https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-xiaomi-redmi-k70-phone-by-drfone-android/), and more.
@@ -43,13 +44,18 @@ _Jason Fitzpatrick / Stable Diffusion_
 Related: [Bing Chat: How to Use the AI Chatbot](https://facebook-video-recording.techidaily.com/new-in-2024-the-insiders-look-at-securing-fb-status-videos/) 
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Can You Use Images for ChatGPT Prompts?
 
  No, you cannot provide an image as a ChatGPT prompt. ChatGPT is not connected to the web and has no way to access images. ([ChatGPT can browse the web with plugins](https://fox-glue.techidaily.com/new-in-2024-begin-your-editing-journey-adopting-movie-maker-for-w11/), but that's it.)
 
  You can paste any URL into ChatGPT, and ChatGPT may pretend to be able to see the URL---just like [ChatGPT may pretend to give you reminders](https://vp-tips.techidaily.com/2024-approved-navigating-through-linkedin-account-termination-procedures/)\---but ChatGPT can't access it. ChatGPT may sometimes appear to see images and other web resources, but ChatGPT is likely "guessing" based on the structure of the URL. For example, if you ask ChatGPT what the photo as www.example.com/blue-flower.jpg is, ChatGPT may say, "That's a blue flower"---just from the textual information you've just given it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Get AI-Generated Images
 
@@ -64,9 +70,6 @@ Related: [Bing Chat: How to Use the AI Chatbot](https://facebook-video-recording
 
 Related: [The Best AI Image Generators You Can Use Right Now](https://fox-info.techidaily.com/new-synthesize-stellar-titles-using-ai-insights/) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ###  How to Use AI Image Generators
 
  Despite the plethora of AI image generators out there, they all work similarly. You need to come up with a prompt that describes the image you want. The more detailed your prompt is, the better the chance that you'll get a nice image.
@@ -77,12 +80,13 @@ Related: [The Best AI Image Generators You Can Use Right Now](https://fox-info.t
 
 ![The Dream by WOMBO AI image generator creating an image of a 4-dimensional whale.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/dream-ia-generator-making-an-image-of-a-4-dimensional-whale.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Reyadh Rahaman / Dream
 
  In addition to playing around with keywords and phrasing for your prompts, you can use AI models to help you come up with better prompts.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  How to Use ChatGPT To Create AI Art Prompts
 
@@ -98,15 +102,13 @@ Reyadh Rahaman / Dream
 ![Someone asking ChatGPT to come up with a Stable Diffusion image generation prompt about a dragon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-ai-art-prompt.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  We then put our ChatGPT-created prompt into Stable Diffusion, and this is what we got:
 
 ![A surrealistic red dragon image created by Stable Diffusion.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/ai-dragon.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Reyadh Rahaman / Stable Diffusion
 
  Not bad. There are a few elements missing, however: Stable Diffusion probably doesn't have a great selection of examples for "genies being exhaled by a dragon," so we can forgive it in that regard. With that said, the subject in the image is clearly a red dragon, there is a definite focus on the color yellow, and the style is certainly reminiscent of Salvidor Dali's paintings.
@@ -119,8 +121,6 @@ Related: [Stable Diffusion Brings Local AI Art Generation to Your PC](https://ex
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -128,4 +128,26 @@ Related: [Stable Diffusion Brings Local AI Art Generation to Your PC](https://ex
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-instant-guide-photos-to-powerful-youtube-channel-thumbnails-in-a-flash/"><u>[Updated] 2024 Approved Instant Guide Photos to Powerful YouTube Channel Thumbnails in a Flash</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-cutting-edge-techniques-for-gopro-users/"><u>[Updated] In 2024, Cutting-Edge Techniques for GoPro Users</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-essential-guide-to-5-prime-slow-motion-cameras/"><u>[Updated] In 2024, Essential Guide to 5 Prime Slow Motion Cameras</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unleash-creativity-with-a-diy-guide-to-haul-edits/"><u>[Updated] Unleash Creativity with a DIY Guide to Haul Edits</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-focused-freedom-advanced-mounting-solutions-for-phonescams/"><u>2024 Approved Focused Freedom Advanced Mounting Solutions for Phones/Cams</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-syncopating-scenes-and-beats-the-tiktok-video-guide/"><u>2024 Approved Syncopating Scenes & Beats The TikTok Video Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ais-tomorrow-progressing-past-chatgpt-in-generative-conversations/"><u>AI's Tomorrow: Progressing Past ChatGPT in Generative Conversations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/avoiding-ineffective-tools-the-6-worst-chatgpt-substitutes/"><u>Avoiding Ineffective Tools: The 6 Worst ChatGPT Substitutes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpts-culinary-revolution-explore-these-7-innovations/"><u>ChatGPT's Culinary Revolution: Explore These 7 Innovations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/combatting-solitude-using-conversational-ai-tips-and-tricks/"><u>Combatting Solitude Using Conversational AI - Tips & Tricks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-huggingchat-the-costless-community-driven-substitute-for-chatgpt/"><u>Discover HuggingChat - The Costless, Community-Driven Substitute for ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-your-job-search-game-with-chatgpt-discover-6-useful-techniques/"><u>Elevate Your Job Search Game with ChatGPT: Discover 6 Useful Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancing-scholarly-pursuits-4-ai-techniques-for-advanced-research/"><u>Enhancing Scholarly Pursuits: 4 AI Techniques for Advanced Research</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-zero-to-hero-in-presentation-creation-harnessing-the-magic-of-chatgpt/"><u>From Zero to Hero in Presentation Creation: Harnessing the Magic of ChatGPT</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-motorola-edge-40-neo-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Motorola Edge 40 Neo to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-top-5-economical-game-ready-keyboards/"><u>In 2024, Top 5 Economical Game-Ready Keyboards</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mastering-winxdvd-step-by-step-usage-guide-for-optimal-experience/"><u>Mastering WinXDVD: Step-by-Step Usage Guide for Optimal Experience</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/narrative-artistry-accolades-1-8-distinguished-academies-for-2024/"><u>Narrative Artistry Accolades #1-#8 Distinguished Academies for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-finest-ai-app-selection-for-android-and-iphone-users/"><u>The Finest AI App Selection for Android & iPhone Users</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Exclusive Labor Day Savings! Get Your 2Nd Gen Apple Pencil for Just $95 Today with ZDNET Deal
-date: 2024-12-20T23:20:13.188Z
-updated: 2024-12-22T23:32:43.358Z
+date: 2024-12-20T19:29:12.622Z
+updated: 2024-12-27T21:03:02.874Z
 tags:
   - apple
 categories:
@@ -34,7 +34,7 @@ By using the Apple Pencil with your iPad (specifically, the iPad Pro 2022 model)
 Get the [Apple Pencil (2nd Gen)](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Pencil-2nd-Generation-Pixel-Perfect-Precision-Industry-Leading-Low-Latency-Perfect-Note-Taking-Drawing-Signing-documents-Attaches-Charges-Pairs%2F949679706&subId1=zd-__COM_CLICK_ID__-dtp) with $35 in savings right now if you want to upgrade your iPad stylus. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -71,16 +71,16 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-expert-tips-for-high-quality-sound-memos-for-2024/"><u>[Updated] Expert Tips for High-Quality Sound Memos for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-innovating-your-approach-a-compre-written-by-an-industry-expert-on-effective-youtube-banner-strategies-for-advertisers/"><u>[Updated] Innovating Your Approach A Compre Written by an Industry Expert on Effective YouTube Banner Strategies for Advertisers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/download-movavi-video-editor-free-ultimate-software-suite/"><u>Download Movavi Video Editor - Free Ultimate Software Suite [無料下載]</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/quick-tagalog-mastery-daily-learning-in-under-an-hour/"><u>Quick Tagalog Mastery: Daily Learning in Under an Hour</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/streamline-workflow-integrating-microsoft-copilot-into-macos/"><u>Streamline Workflow: Integrating Microsoft Copilot Into macOS</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-essence-of-claude-3-what-it-does-and-how-to-use-it/"><u>The Essence of Claude 3 – What It Does & How to Use It</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-power-of-codegpt-can-this-ai-system-truly-master-the-art-of-programming/"><u>The Power of CodeGPT - Can This AI System Truly Master the Art of Programming?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-price-tag-behind-elon-musks-new-brainchild-understanding-grok-ai-costs/"><u>The Price Tag Behind Elon Musk’s New Brainchild: Understanding Grok AI Costs</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-10-most-effective-conversations-with-chatgpt-in-the-cryptocurrency-world/"><u>Top 10 Most Effective Conversations with ChatGPT in the Cryptocurrency World</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Infinix Note 30 Pro | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlock-immediate-savings-purchase-high-performance-msi-gaming-notebooks-at-500-discounted-price-today-only/"><u>Unlock Immediate Savings: Purchase High-Performance MSI Gaming Notebooks at $500 Discounted Price - Today Only!</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-frame-your-cinematic-tales-three-paths-for-instagram-borders/"><u>[New] Frame Your Cinematic Tales Three Paths for Instagram Borders</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-fusionflicker-compiling-media-on-sierra-screens/"><u>[Updated] FusionFlicker Compiling Media on Sierra Screens</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-learn-to-activate-picture-in-picture-viewing-on-iphones-youtube-app/"><u>[Updated] In 2024, Learn to Activate Picture-in-Picture Viewing on iPhone's Youtube App</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-ai-variants-how-public-private-and-personal-ai-differentiate-from-each-other/"><u>Decoding AI Variants: How Public, Private, and Personal AI Differentiate From Each Other</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/embrace-free-gpt-4-but-dont-ignore-the-exclusive-perks-available-to-plus-users/"><u>Embrace Free GPT-4; But Don’t Ignore the Exclusive Perks Available to Plus Users.</u></a></li>
+<li><a href="https://driver-install.techidaily.com/epson-printer-compatibility-universal-software-download-for-oss/"><u>Epson Printer Compatibility: Universal Software Download for OSs</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/saving-smiles-the-ultimate-list-of-twitvid-tools-for-2024/"><u>Saving Smiles The Ultimate List of TwitVid Tools for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/shield-site-from-web-scouring-ais/"><u>Shield Site From Web-Scouring AIs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-essentials-of-shap-e-how-openai-is-advancing-model-interpretability/"><u>The Essentials of Shap-E: How OpenAI Is Advancing Model Interpretability</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-the-risks-can-employees-be-terminated-for-utilizing-chatgpt/"><u>Understanding the Risks: Can Employees Be Terminated for Utilizing ChatGPT?</u></a></li>
 </ul></div>
 

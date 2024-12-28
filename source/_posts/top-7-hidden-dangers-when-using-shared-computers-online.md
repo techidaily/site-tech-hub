@@ -1,7 +1,7 @@
 ---
 title: Top 7 Hidden Dangers When Using Shared Computers Online
-date: 2024-08-29T01:10:31.463Z
-updated: 2024-08-30T01:10:31.463Z
+date: 2024-12-22T17:57:55.536Z
+updated: 2024-12-27T17:19:25.599Z
 tags:
   - web
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Top 7 Hidden Dangers When Using Shared Computers Online
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -30,24 +34,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  While public computers are easily accessible and convenient, they are also hotspots for malware and traps set by malicious actors. Here's why using a public PC can be so dangerous, and why you should avoid them unless it is necessary.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Anyone Can Access a Public PC
 
 ![People using public computers in a New York City library](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/computers-in-a-public-library.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Lee Snider Photo Images/Shutterstock.com](https://www.shutterstock.com/image-photo/new-york-city-june-22-2013-418391977)
 
  Unlike personal computers that are for your exclusive use, public computers are accessible to anyone. Ricky might unknowingly install a malicious app, John could click on a harmful popup and infect the browser, and Harry might accidentally disable security features. Since many users don't follow security practices, you could end up using a PC infected by previous users.
 
  Connecting your external drive, phone, or other devices to a compromised PC can infect the devices and corrupt your data. Using such a device to access confidential information puts you at risk of exposing critical information to hackers. While proper security measures and restrictions imposed by an administrator can reduce these risks, you can never be completely sure about safety.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Lack of Security Updates
 
  If someone with limited technical expertise oversees the public system, they may not update it as thoroughly or promptly as they should. Security updates that fix vulnerabilities may not be installed in time, leaving the device open to exploitation. Hackers can exploit these flaws and security vulnerabilities without the average user noticing.
@@ -66,10 +65,6 @@ _[Igor Martis/Shuterstock.com](https://www.shutterstock.com/image-photo/free-wif
 
  If you can avoid entering sensitive personal details on a public network, you should. If you must use a public computer, try to [confirm that the website you're connected to is encrypting your traffic](https://extra-skills.techidaily.com/2024-approved-inspirational-movies-for-momentum-and-self-belief/). It isn't perfect, but it is much better than nothing. 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ##  The Browser Could Be Infected
 
  Like operating system updates, apps installed on a public PC are often not updated timely. Security updates released by browser developers to fix vulnerabilities are frequently delayed, leaving the system open to malicious actors. Hackers can exploit these vulnerabilities and tweak browser features without the average user noticing.
@@ -84,9 +79,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![The Keychron Q1 HE -Wireless QMK Custom Magnetic Switch Keyboard with keys removed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/53663002984_f2992c0a1f_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  Hijackers could also set up malicious software or run scripts to capture your session cookies. This allows them to access your social media, email, or any other confidential account you log into on the computer. Because of this, you should avoid even seemingly harmless activities like checking an urgent email due to the risk of session hijacking.
@@ -97,6 +89,10 @@ Jerome Thomas / How-To Geek
 
  There really isn't a surefire way to reduce the risk of a keylogger or malware unless you have administrative access to the device, but you could always try [running a virus scan on Windows 10](https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-oppo-k11-5g-online-without-jailbreak-by-drfone-android/) or [on Windows 11](https://howto.techidaily.com/restore-missing-app-icon-on-lava-yuva-2-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/). If the PC in question is running a third-party antivirus installed by a network administrator, you probably won't be able to do that—but that is also a good sign! It means someone took the time to try and secure the device. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  You Can’t Always Trust the Administrator
 
  While most network administrators diligently protect user data, I don't fully trust them, especially in public settings like internet cafés. They have extensive access to system settings, software, and network traffic, which allows them to monitor and log activities. They could potentially steal your confidential information and misuse or sell it.
@@ -106,11 +102,16 @@ Jerome Thomas / How-To Geek
  Libraries are usually staffed by well-meaning people, so if you need to take a chance trusting a network administrator, that is a reasonable place to start. 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Ongoing Risk From Shoulder Surfers
 
 ![Person using a windows laptop with a gpt chat window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/person-using-a-windows-laptop-with-a-gpt-chat-window.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lucas Gouveia / Hannah Stryker / How-To Geek
 
@@ -128,8 +129,6 @@ Lucas Gouveia / Hannah Stryker / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,4 +136,16 @@ Lucas Gouveia / Hannah Stryker / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-web-warriors-championing-screen-recording-tools/"><u>[Updated] In 2024, Web Warriors Championing Screen Recording Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/avoid-data-theft-expose-fraudulent-chatgpt-sites-now/"><u>Avoid Data Theft: Expose Fraudulent ChatGPT Sites Now!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/best-no-cost-ai-applications-to-generate-stunning-visual-content/"><u>Best No-Cost AI Applications to Generate Stunning Visual Content</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beware-no-legitimate-chatgpt-desktop-app-exists-avoid-phony-windows-software/"><u>Beware: No Legitimate ChatGPT Desktop App Exists – Avoid Phony Windows Software</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beyond-language-models-three-capabilities-where-excel-outperforms-chatgpt/"><u>Beyond Language Models: Three Capabilities Where Excel Outperforms ChatGPT</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/crafting-a-personalized-auditory-experience-on-ios-for-2024/"><u>Crafting a Personalized Auditory Experience on iOS for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-k70-pro-bootloader-easily-by-drfone-android/"><u>How to Unlock Xiaomi Redmi K70 Pro Bootloader Easily</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://solve-info.techidaily.com/step-by-step-guide-converting-mkv-video-track-into-mp4m4a-audio-file/"><u>Step-by-Step Guide: Converting MKV Video Track Into MP4/M4A Audio File</u></a></li>
+</ul></div>
 

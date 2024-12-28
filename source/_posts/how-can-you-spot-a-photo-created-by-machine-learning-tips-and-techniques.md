@@ -1,7 +1,7 @@
 ---
 title: How Can You Spot a Photo Created by Machine Learning? Tips & Techniques
-date: 2024-08-29T01:13:32.109Z
-updated: 2024-08-30T01:13:32.109Z
+date: 2024-12-21T12:42:46.947Z
+updated: 2024-12-28T11:50:52.897Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ---
 
 ## How Can You Spot a Photo Created by Machine Learning? Tips & Techniques
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -23,20 +27,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  It's getting harder all the time to tell if an image has been digitally manipulated, let alone AI-generated, but there are a few methods you can still use to see if that photo of the pope in a Balenciaga puffer is real (it's not).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Is AI Generated Photography?
 
  An AI-generated photograph is any image that has been produced or manipulated with synthetic content using so-called artificial intelligence (AI) software based on [machine learning](https://some-tips.techidaily.com/new-unleash-creative-potential-the-ultimate-hdr-guide/). As the images cranked out by AI image generators like [DALL-E 2](https://extra-hints.techidaily.com/best-practices-for-converting-webp-to-jpg-format-for-2024/), [Midjourney](https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-motorola-moto-g73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/), and [Stable Diffusion](https://screen-mirroring-recording.techidaily.com/updated-2024-approved-quick-tips-making-high-quality-recordings-on-iphone/) get more realistic, some have experimented with creating fake photographs. Depending on the quality of the AI program being used, they can be good enough to fool people --- even if you're looking closely.
 
  Messing with AI to create [fantastical images](https://www.instagram.com/everydayyokai/) can be fun, and even help brainstorm ideas, but it has raised concerns over digital rights, privacy, and [copyright](https://article-files.techidaily.com/beyond-ustream-an-examination-of-video-streaming/). If someone uses an AI likeness of someone without their consent that depicts them in an intentionally humiliating light, for example, that's a huge problem. So how do we know if an image is real or churned out by AI?
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ##  4 Ways to Check If a Photo Was Made by AI
 
  At the current level of AI-generated imagery, it's usually easy to tell an artificial image by sight. Fingers or glasses look off. Light sources don't make sense. Backgrounds are warped.
@@ -44,9 +44,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  But there are other, more technical ways to dig into an image if you're still not sure. We'll get to that below, but we'll start with the most common-sense tip on the list.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Check the Photo Caption/Description and Comments
 
  Oftentimes people playing with AI and posting the results to social media like Instagram will straight up tell you the image isn't real. Read the caption for clues if it's not immediately obvious the image is fake.
@@ -72,9 +72,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Objects and people in the background of AI images are especially prone to weirdness. In originalaiartgallery's (objectively amazing) [series of AI photos of the pope baptizing a crowd with a squirt gun](https://www.instagram.com/p/Cs9R-nsufzR/), you can see that several of the people's faces in the background look strange. The water in some shots also appears to be coming from nowhere.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ###  Try Using a GAN Detector
 
  AI image generators use Generative Adversarial Networks, or GANs. There are a few apps and plugins designed to try and detect fake images that you can use as an extra layer of security when attempting to authenticate an image. For example, there's a [Chrome plugin](https://chrome.google.com/webstore/detail/fake-profile-detector-dee/jbpcgcnnhmjmajjkgdaogpgefbnokpcc) that will check if a profile picture is GAN generated when you right-click on the photo.
@@ -83,16 +80,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Screenshot of test results from Maybe's AI Image detector mistakenly marking an AI photo as a human.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/Screenshot-2023-07-12-at-3.05.49-PM.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  As with [AI image generators](https://fox-info.techidaily.com/new-synthesize-stellar-titles-using-ai-insights/), this technology will continue to improve, so don't discount it completely either.
 
 Related: [Audio Deepfakes: Can Anyone Tell If They're Fake?](https://buynow-marvelous.techidaily.com/unbeatable-endurance-a-deep-dive-into-moto-g-powers-remarkable-battery-performance/) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Run an Image or Web Search
 
  If you aren't sure of what you're seeing, there's always the old [Google image search](https://extra-lessons.techidaily.com/expert-tips-on-syncing-gmail-and-zoom-for-remote-collaboration/). These days you can just right click an image to search it with Google and it'll return visually similar images.
@@ -102,8 +97,9 @@ Related: [Audio Deepfakes: Can Anyone Tell If They're Fake?](https://buynow-marv
  If the image is used in a news story that could be a disinformation piece, look for other reporting on the same event. If no other outlets are reporting on it, especially if the event in question is incredibly sensational, it could be fake.
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  AI Images of the Future
 
  These programs are only going to improve, and some of them are already scarily good. Midjourney's V5 seems to have tackled the problem of rendering hands correctly, and its images can be [strikingly photorealistic](https://instagram-clips.techidaily.com/2024-approved-visual-storytelling-on-social-media-crafting-an-effective-plan/).
@@ -118,8 +114,6 @@ Related: [How Good Is Midjourney at AI Art? We Compared All the Models](https://
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -127,4 +121,24 @@ Related: [How Good Is Midjourney at AI Art? We Compared All the Models](https://
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-able.techidaily.com/fixed-csgo-fps-drops-issues/"><u>[Fixed] CS:GO FPS Drops Issues</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-exclusive-review-best-free-videocall-platforms-w-screen-view/"><u>[New] Exclusive Review Best Free Videocall Platforms W/ Screen View</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-go-live-on-youtube-with-minimum-follower-criteria-met/"><u>[New] Go Live on Youtube with Minimum Follower Criteria Met</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-sonic-storytelling-with-soundtracks-in-imovie/"><u>2024 Approved Sonic Storytelling with Soundtracks in iMovie</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/advanced-email-writing-techniques-empowered-by-ai-utilizing-chatgpt-in-the-workplace/"><u>Advanced Email Writing Techniques Empowered by AI: Utilizing ChatGPT in the Workplace</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/advanced-strategies-for-proficiently-using-chatgpt-for-notes-and-organization/"><u>Advanced Strategies for Proficiently Using ChatGPT for Notes and Organization</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-and-comedy-collide-assessing-chatgpts-capacity-to-entertain-and-elicit-giggles/"><u>AI and Comedy Collide: Assessing ChatGPT's Capacity to Entertain and Elicit Giggles</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-and-writing-why-chatbot-solutions-may-not-meet-the-needs-of-content-authors/"><u>AI and Writing: Why Chatbot Solutions May Not Meet the Needs of Content Authors</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-artist-copyright-issues-and-responsibilities/"><u>AI Artist: Copyright Issues & Responsibilities</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-code-warriors-can-gemini-outperform-chatgpt-for-developers/"><u>AI Code Warriors: Can Gemini Outperform ChatGPT for Developers?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722154497628-ballads-battleground-chatgpt-vs-shepherds-alpacas-unite/"><u>Ballads Battleground: ChatGPT vs Shepherds, Alpacas Unite!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hassle-free-process-to-revamp-your-scansnap-ix5e-driver-compatibility-on-windows-systems/"><u>Hassle-Free Process to Revamp Your ScanSnap iX5e Driver Compatibility on Windows Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-agile-practices-clash-with-advanced-ai-techniques-according-to-latest-studies-zdnet/"><u>How Agile Practices Clash with Advanced AI Techniques, According to Latest Studies | ZDNet</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Vivo Y28 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/tamiltunes-handbook-downloading-and-trimming-melodies-for-calls-for-2024/"><u>TamilTunes Handbook Downloading & Trimming Melodies for Calls for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722108346755-why-it-matters-to-be-courteous-when-speaking-to-artificial-intelligence-insights-on-chatgpt-alexa-and-siri/"><u>Why It Matters to Be Courteous When Speaking to Artificial Intelligence: Insights on ChatGPT, Alexa & Siri.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-struggles-restoring-steam-offline-functionality/"><u>Win Struggles: Restoring Steam Offline Functionality</u></a></li>
+</ul></div>
 

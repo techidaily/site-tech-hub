@@ -1,7 +1,7 @@
 ---
 title: "Embrace the Future with Essential Keywords: Mastering 7 Crucial Concepts in Artificial Intelligence"
-date: 2024-08-29T01:14:04.365Z
-updated: 2024-08-30T01:14:04.365Z
+date: 2024-12-23T19:07:43.896Z
+updated: 2024-12-27T22:58:34.805Z
 tags:
   - cutting-edge
 categories:
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/2759ed3d822d64726b5041a7dfa5154bfc20081c3
 
  AI is advancing at breakneck speed. If you want to keep up with the times, it's crucial that you know the jargon used by AI companies and marketers. Here are seven AI terms commonly used in everyday discourse to help you become an informed participant.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1  Artificial Intelligence (AI) vs AGI (Artificial General Intelligence) 
 
  AI companies often talk about achieving AGI. What is it, and how does it differ from [today's AI](https://buynow-info.techidaily.com/the-best-google-wireless-nest-doorbell-battery-version-on-the-market-expert-review/)?
@@ -30,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/2759ed3d822d64726b5041a7dfa5154bfc20081c3
  The textbook definition of AI is computer systems that can perform tasks requiring human-like intelligence. However, current [AI tools don't fully meet this definition](https://extra-hints.techidaily.com/is-picku-the-ultimate-answer-to-enhancing-your-android-photos/). They only show glimpses of human-like intelligence, focused on specific tasks.
 
 ![A human like robot hanging out with a human](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/1-a-human-like-robot-hanging-out-with-a-human.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Dibakar Ghosh / How-To Geek | Midjourney
 
@@ -39,21 +47,10 @@ Dibakar Ghosh / How-To Geek | Midjourney
 
  That said, while we know what AGI should do, we don't know [how it would work](https://www.bloomberg.com/news/newsletters/2024-01-25/ai-companies-are-obsessed-with-agi-no-one-can-agree-what-exactly-it-is). Most AI researchers, including Meta's AI Chief, think [AGI is decades away](https://www.cnbc.com/2023/12/03/meta-ai-chief-yann-lecun-skeptical-about-agi-quantum-computing.html).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2  AI Hallucination 
 
 ![A robot hallucinating.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/2-a-robot-hallucinating.png) 
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Dibakar Ghosh / How-To Geek | Midjourney
 
  ver asked ChatGPT a question and got a perfect-sounding answer—until you realized it was made up? That's AI hallucination.
@@ -82,13 +79,14 @@ Dibakar Ghosh / How-To Geek | Midjourney
 
  Also, some neural networks—especially deep learning models (more on that in the next section)—are hard to interpret. Understanding how they reach conclusions can be tricky. This is the [black box problem](https://umdearborn.edu/news/ais-mysterious-black-box-problem-explained). Researchers are working on more interpretable models and ways to explain AI decisions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4  Machine Learning vs Deep Learning 
 
 ![A robot has a lightbulb for a head and it's turned on as it reads a book](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/4-a-robot-has-a-lightbulb-for-a-head-and-it-s-turned-on-as-it-reads-a-book.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 Dibakar Ghosh / How-To Geek | Midjourney
 
 [Machine Learning](https://buynow-marvelous.techidaily.com/top-5-essentials-to-know-prior-to-purchasing-your-first-fitness-tracker/) (ML) and Deep Learning (DL) are two of the biggest buzzwords in the tech space. While some people think Machine Learning and Deep Learning are the same, there is a subtle but important difference worth noting.
@@ -101,9 +99,6 @@ Dibakar Ghosh / How-To Geek | Midjourney
 
  You can use Deep Learning to find patterns in raw data with little human help. It's great at handling complex data like images or text. It drives advanced computing tasks like image and facial recognition, speech processing, and autonomous vehicles. However, to make this possible, DL models require huge training datasets and lots of computational power.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5  Natural Language Processing (NLP) 
 
 ![A human face made up of words](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/5-a-human-face-made-up-of-words.png) 
@@ -116,13 +111,18 @@ Dibakar Ghosh / How-To Geek | Midjourney
 
  NLP is the backbone of conversational technology like Alexa, Siri, and other AI chatbots. It also helps with translation, content moderation, and auto-generated content. Recent NLP advances have made AI writing more human-like. That's the reason why ChatGPT sounds so natural.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6  Transformer Models 
 
 ![complex machine with multiple input streams converging into a central processing unit](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/6-complex-machine-with-multiple-input-streams-converging-into-a-central-processing-unit.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Dibakar Ghosh / How-To Geek | Midjourney
 
  Transformer models are a recent and revolutionary tool in the AI space. The idea for transformers was proposed in a 2017 paper titled "[Attention Is All You Need](https://research.google/pubs/attention-is-all-you-need/)" by researchers at Google Brain.
@@ -135,14 +135,6 @@ Dibakar Ghosh / How-To Geek | Midjourney
 
  Transformer models are the technology behind powerful tools like Google's BERT (Bidirectional Encoder Representations from Transformers) or ChatGPT (Chat Generative Pre-trained Transformer). However, it's not just text generation, as these tools are also useful for computer vision and speech recognition.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ## 7  Large Language Models 
 
 ![Massive library with endless rows of digital books and screens](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/7-massive-library-with-endless-rows-of-digital-books-and-screens.png) 
@@ -167,8 +159,6 @@ Dibakar Ghosh / How-To Geek | Midjourney
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -176,4 +166,20 @@ Dibakar Ghosh / How-To Geek | Midjourney
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/updated-5-ways-to-record-vr-gameplay-for-2024/"><u>[Updated] 5 Ways to Record VR Gameplay for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-from-ideas-to-impact-mastering-video-marketing-on-instagram/"><u>[Updated] From Ideas to Impact Mastering Video Marketing on Instagram</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-pioneering-affordable-switch-emulators/"><u>[Updated] Pioneering Affordable Switch Emulators</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-infinix-zero-30-5g-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Infinix Zero 30 5G</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-leading-mp3-devices-comprehensive-review-by-zdnet/"><u>Discover the Leading MP3 Devices - Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/empowering-home-efficiency-through-chatgpt-utilization/"><u>Empowering Home Efficiency Through ChatGPT Utilization</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-resolve-file-size-exceeds-drive-capacity-on-your-external-memory-device/"><u>How to Resolve 'File Size Exceeds Drive Capacity' On Your External Memory Device</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/improve-your-gpt-3-interaction-skills-with-these-5-key-steps-to-effective-prompt-writing/"><u>Improve Your GPT-3 Interaction Skills with These 5 Key Steps to Effective Prompt Writing</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-discover-the-pinnacle-of-motion-capture-with-sj-cam-s6/"><u>In 2024, Discover the Pinnacle of Motion Capture with SJ-CAM S6</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tackling-algebra-and-beyond-with-these-7-premier-ai-math-solver-applications/"><u>Tackling Algebra and Beyond with These 7 Premier AI Math Solver Applications</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-4-advantages-of-using-the-claude-ai-chatbot-over-chatgpt/"><u>Top 4 Advantages of Using the Claude AI Chatbot Over ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transformative-chef-techniques-with-7-ai-gourmet-assistance/"><u>Transformative Chef Techniques with 7 AI Gourmet Assistance</u></a></li>
+<li><a href="https://article-helps.techidaily.com/unveiling-the-art-of-hdr-photography-on-iphone-for-2024/"><u>Unveiling the Art of HDR Photography on iPhone for 2024</u></a></li>
+</ul></div>
 

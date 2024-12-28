@@ -1,7 +1,7 @@
 ---
 title: Explore These 10 Playful Linux Tricks - Perfect for Curiosity and Downtime!
-date: 2024-08-29T01:11:40.835Z
-updated: 2024-08-30T01:11:40.835Z
+date: 2024-12-22T19:18:02.887Z
+updated: 2024-12-28T04:37:48.988Z
 tags:
   - desktop
 categories:
@@ -28,6 +28,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Who said the Linux terminal is boring? Not when you have a list of fun Linux commands to run and have a chuckle. Whether you're just looking to kill some time or explore new Linux programs, these 10 commands will take you on an adventure into the world of Linux entertainment.
 
  All the commands we mention are available for most Linux distributions. You can follow the installation commands to get them working in your specific distro. For demonstration purposes, we'll be using the Ubuntu 22.04 LTS version.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. sl: Full Steam Ahead
 
@@ -82,6 +86,10 @@ sl | lolcat
 
 ![The cmatrix command making green characters raining on your Linux terminal like The Matrix movie](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/cmatrix-command.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Ever wanted to feel like you're in a scene from "The Matrix" movie? This [Linux command](https://buynow-help.techidaily.com/misinterpretation-of-gram-staining-results-can-lead-to-incorrect-identification-affecting-treatment-decisions-in-clinical-settings/) turns your terminal into a cascading stream of green characters, much like the Matrix's digital rain.
 
  To get this hacker terminal effect on Debian, Ubuntu, and their derivatives, use:
@@ -127,8 +135,9 @@ cmatrix
 ![ASCII firework animation running on your terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/aafire-command.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The aafire command sets your terminal on fire. Okay, not literally. It launches a dazzling display of ASCII art fireworks across your terminal. It's a great way to create a virtual bonfire.
 
  To install aafire's virtual fire on Debian, Ubuntu, and their derivatives, use:
@@ -153,12 +162,13 @@ aafire
 
  The only sad part is you can't feel the real heat or hear the sound.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  4\. oneko: A Playful Desktop Pet
 
 ![Oneko cat running through the Linux terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/oneko-command.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Here's one for cat lovers. This adorable pixel art cat will roam your desktop, play with toys, and even curl up for a quick nap.
 
@@ -195,9 +205,6 @@ oneko
 
 ![Eyeballs following your mouse cursor](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/xeyes-command.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
  A pair of eyes following you all the time? Spooky, right? The xeyes command makes that happen. These animated eyeballs will track your mouse cursor across the screen.
 
  To get these observing eyeballs on Debian, Ubuntu, and their derivatives, use:
@@ -270,13 +277,6 @@ espeak "Hello World"
 
  Giving a voice to your Linux terminal is like having a personal narrator on your desktop.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ##  7\. yes: The Ultimate Affirmation
 
 ![The Linux terminal generating an infinite amount of yes yes yes text](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/yes-command.png) 
@@ -301,13 +301,18 @@ yes Linux is fun
 
  This command will keep displaying the text "Linux is fun" until you terminate it. Learn more about [how to use the yes command](https://fox-info.techidaily.com/new-2024-approved-asus-mg28uq-4k-monitor-review/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  8\. rig: Generate Virtual Identities
 
 ![The Linux terminal displaying a fake identity generated with the rig command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/rig-command-on-linux.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Need a fake name and address to protect your privacy online? The rig command or Random Identity Generator, for short, is your go-to tool. It crafts realistic first and last names, street addresses, cities, states, ZIP codes, and phone numbers.
 
  Get this identity generator on Debian, Ubuntu, and their derivatives with:
@@ -337,9 +342,6 @@ rig
 
  Sorry telemarketers. I'm not giving you my real identity.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  9\. asciiquarium: Under the Sea
 
 ![Fishes swimming under the sea in your Linux terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/asciiquarium-command.png) 
@@ -370,13 +372,14 @@ asciiquarium
 
  It's an aquatic way to add a touch of tranquility to your Linux world.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  10\. toilet: Text Art Banners
 
 ![Displaying ASCII text banners on the Linux terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/toilet-command.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
  The toilet command transforms your text into eye-catching ASCII art banners. Choose from a variety of fonts and styles to create personalized messages.
 
  To create these cool banners on Debian, Ubuntu, and their derivatives, install toilet with:
@@ -410,11 +413,9 @@ toilet "Hello World" | lolcat
 ![Displaying colorful ASCII text banner Hello World in the Linux terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/toilet-command-with-lolcat.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
+
 ##  Toying With the Linux Terminal
 
  We hope you found this list of fun Linux commands funny and helpful. While most of these commands may not be useful in your regular usage, they can bring a smile to your face in your most intense terminal sessions.
@@ -425,8 +426,6 @@ toilet "Hello World" | lolcat
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -434,4 +433,26 @@ toilet "Hello World" | lolcat
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-mobile-and-desktop-tips-for-gotomeeting-captures/"><u>[New] 2024 Approved Mobile & Desktop Tips for GoToMeeting Captures</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-primes-premier-pieces-the-watched-and-tweeted-superstars/"><u>[New] In 2024, Prime’s Premier Pieces The #Watched & Tweeted Superstars</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-instant-mp3-conversion-of-fb-video-content/"><u>[Updated] Instant MP3 Conversion of FB Video Content</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/challenges-with-chatgpt-7-inquiries-it-cant-handle/"><u>Challenges with ChatGPT: 7 Inquiries It Can't Handle</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatbot-companions-are-they-lifesavers-in-natures-realm/"><u>Chatbot Companions: Are They Lifesavers in Nature's Realm?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatbots-and-their-art-of-conversational-simulation/"><u>Chatbots and Their Art of Conversational Simulation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-and-its-ability-to-command-your-smart-house-system/"><u>ChatGPT and Its Ability to Command Your Smart House System</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-driven-side-businesses-and-pc-optimization/"><u>ChatGPT-Driven Side Businesses & PC Optimization</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/conquering-communication-which-superior-ai-prevails/"><u>Conquering Communication: Which Superior AI Prevails?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/crafting-adventures-playing-text-rpg-with-chatgpt/"><u>Crafting Adventures: Playing Text-RPG with ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-character-voices-chatgpts-role-in-game-dialogue-development/"><u>Crafting Character Voices: ChatGPT's Role in Game Dialogue Development</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/developing-your-own-chatbot-app-a-comprehensive-walkthrough/"><u>Developing Your Own Chatbot App: A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-huggingchat-your-free-community-driven-answer-to-chatgpt/"><u>Discover HuggingChat: Your Free, Community-Driven Answer to ChatGPT</u></a></li>
+<li><a href="https://fox-search.techidaily.com/erweckt-ihr-trages-ipad-zum-laufen-probieren-sie-diese-8-effektiven-methoden-und-2-verbluffenden-tipps-fur-mehr-geschwindigkeit/"><u>Erweckt Ihr Träges iPad Zum Laufen? Probieren Sie Diese 8 Effektiven Methoden Und 2 Verblüffenden Tipps Für Mehr Geschwindigkeit</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fixing-dell-optiplex-790-device-driver-problems-on-windows-systems/"><u>Fixing Dell OptiPlex #790 Device Driver Problems on Windows Systems</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/funds-flowchart-from-sung-rhythms-to-visual-harmony/"><u>Funds Flowchart From Sung Rhythms To Visual Harmony</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/identifying-spam-threats-discovering-the-reasons-for-frequent-unsolicited-calls-to-you/"><u>Identifying Spam Threats: Discovering the Reasons for Frequent Unsolicited Calls to You</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-mastering-vrecorder-a-download-and-install-journey/"><u>In 2024, Mastering VRecorder A Download & Install Journey</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-first-look-at-apple-vision-pro-with-testflight-your-step-by-step-walkthrough/"><u>Unlock First Look at Apple Vision Pro with TestFlight - Your Step-by-Step Walkthrough</u></a></li>
+</ul></div>
 

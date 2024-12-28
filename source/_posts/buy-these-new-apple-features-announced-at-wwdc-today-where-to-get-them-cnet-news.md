@@ -1,7 +1,7 @@
 ---
 title: Buy These New Apple Features Announced at WWDC Today – Where to Get Them | CNET News
-date: 2024-12-18T22:43:08.775Z
-updated: 2024-12-22T20:48:36.581Z
+date: 2024-12-23T02:26:09.562Z
+updated: 2024-12-27T18:03:11.503Z
 tags:
   - apple
 categories:
@@ -46,7 +46,7 @@ To help you make this decision, we've broken down all of the most important deta
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You should buy the iPhone 16 if...
@@ -54,7 +54,7 @@ To help you make this decision, we've broken down all of the most important deta
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  1\. You'd benefit from Apple Intelligence features
@@ -66,7 +66,7 @@ Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.c
 There is more to the AI features beyond Siri. Apple Intelligence will be able to summarize notifications and Priority Messages in the Mail app. Like Siri, the feature will be able to understand context. [Apple Intelligence](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/) will gain additional features later in the year like the ability to create custom emojis and perform multiple actions across apps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  2\. You want a better photography experience
@@ -95,10 +95,6 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  You should buy the iPhone 15 if...
 
 Kerry Wan/ZDNET
@@ -112,7 +108,7 @@ All of the bells and whistles on the iPhone 16 are certainly nice, but are they 
 Sometimes, it's best to wait until all the bugs have been ironed out. Plus, there's a lot of uncertainty surrounding the chipset. Early impressions indicate the A18 can handle all the AI features, but can it? Or will we see a performance drop once it launches? 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  2\. You're on a budget
@@ -122,6 +118,10 @@ With the release of a new model, older phones often see a price drop, and that i
 It wouldn't be a bad pick-up, either. The camera system of the previous generation is great to this day, the A16 Bionic chip is still plenty powerful, and the Dynamic Island is a welcomed addition. You can enjoy a similar camera performance. Plus, you won't be bogged down by nascent AI features you may or may not ever use. 
 
 [Buy the iPhone 15 $729.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6417992%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6417992.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -157,21 +157,24 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-curated-curation-of-classic-tonal-treasures/"><u>[New] Curated Curation of Classic Tonal Treasures</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-maximize-video-potential-a-complete-guide-to-youtube-thumbnail-dimensions/"><u>[New] In 2024, Maximize Video Potential A Complete Guide to YouTube Thumbnail Dimensions</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-unlocking-full-potential-the-laptop-recording-manual-for-2024/"><u>[New] Unlocking Full Potential The Laptop Recording Manual for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-unveiling-the-top-10-essential-podcast-microphones/"><u>[Updated] Unveiling the Top 10 Essential Podcast Microphones</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/a-comprehensive-guide-to-chatgpt-enterprise-understanding-its-offerings-and-differentiators/"><u>A Comprehensive Guide to ChatGPT Enterprise: Understanding Its Offerings and Differentiators</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/beginners-guide-top-9-communities-where-you-can-learn-about-ai-tools/"><u>Beginner's Guide: Top 9 Communities Where You Can Learn About AI Tools</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/bing-chat-vs-chatgpt-a-comprehensive-guide-for-freelancers/"><u>Bing Chat Vs. ChatGPT: A Comprehensive Guide for Freelancers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/can-you-rely-on-ai-spotters-insights-into-zerogpts-stealth-capabilities/"><u>Can You Rely on AI Spotters? Insights Into ZeroGPT's Stealth Capabilities</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/claude-vs-chatgpt-deciding-the-top-ai-chatbot-for-daily-use/"><u>Claude Vs. ChatGPT: Deciding the Top AI Chatbot for Daily Use</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/desktop-capture-the-windows-user-guide-for-2024/"><u>Desktop Capture The Windows User Guide for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discerning-dialogue-dynamos-is-gemini-pro-or-plus-chatgpt-superior/"><u>Discerning Dialogue Dynamos: Is Gemini Pro or Plus-ChatGPT Superior?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-insights-on-technology-from-toms-equipment-review-hub/"><u>Expert Insights on Technology From Tom's Equipment Review Hub</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-itel-p55t-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Itel P55T to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-look-at-the-viair-88ps-mighty-performance-and-slight-disadvantages-in-air-compression/"><u>In-Depth Look at the Viair 88P's Mighty Performance and Slight Disadvantages in Air Compression</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1722029438331-is-it-time-for-a-change-investigating-contemporary-substitutes-for-the-traditional-turing-challenge/"><u>Is It Time for a Change? Investigating Contemporary Substitutes for the Traditional Turing Challenge.</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/ultimate-guide-converting-mpeg-files-to-crystal-clear-wav-audio/"><u>Ultimate Guide: Converting MPEG Files to Crystal-Clear WAV Audio</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-how-to-record-ps4-with-obs-for-2024/"><u>[New] How To Record PS4 with OBS for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1-discover-what-an-apple-vision-pro-can-reveal-about-your-marriage-insights-from-a-sales-encounter-featured-on-zdnet/"><u>1. Discover What an Apple Vision Pro Can Reveal About Your Marriage: Insights From a Sales Encounter Featured on ZDNet</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-express-yourself-accessibility-available-for-free/"><u>2024 Approved Express Yourself, Accessibility Available for Free</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-techniques-for-finding-no-cost-image-frame-films/"><u>2024 Approved Techniques for Finding No-Cost Image Frame Films</u></a></li>
+<li><a href="https://fox-that.techidaily.com/comprehensive-fix-for-mobile-network-sim-not-provisioned-mmi-2-glitches/"><u>Comprehensive Fix for Mobile Network SIM Not Provisioned MMI 2 Glitches</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/funnyframeforge-picfunnyfactory-for-2024/"><u>FunnyFrameForge PicFunnyFactory for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-eveo-bluetooth-connection-software-and-drivers-click-to-download-now/"><u>Get the Latest Eveo Bluetooth Connection Software & Drivers - Click to Download Now</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gpt-linguistic-threshold-forbidden-dialogues/"><u>GPT Linguistic Threshold - Forbidden Dialogues</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/guide-to-extending-bluetooth-ranges-tips-for-better-performance-on-windows-operating-systems/"><u>Guide to Extending Bluetooth Ranges: Tips for Better Performance on Windows Operating Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-connect-beats-wireless-to-windows-1111-solved/"><u>How to Connect Beats Wireless to Windows 11/11 [Solved]</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-correctly-handle-an-absent-msvcr100dll-dll-error-on-your-computer-issue-resolved/"><u>How to Correctly Handle an Absent MSVCR100.dll DLL Error on Your Computer (Issue Resolved)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-craft-a-win10-bootable-repair-usb-a-step-by-step-guide/"><u>How to Craft a Win10 Bootable Repair USB: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-find-computer-specs-windows-10-easily/"><u>How to Find Computer Specs Windows 10 [Easily]</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-fix-and-finalize-hard-drive-formatting-when-windows-fails-initially/"><u>How to Fix and Finalize Hard Drive Formatting when Windows Fails Initially</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-fix-login-issues-with-windows-11-a-step-by-step-solution/"><u>How to Fix Login Issues with Windows 11: A Step-by-Step Solution</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-reactivate-windows-11-desktop-synchronization-settings-no-longer-disabled/"><u>How to Reactivate Windows 11 Desktop Synchronization Settings (No Longer Disabled)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-share-games-on-xbox-one-with-your-friendsfamilies/"><u>How to Share Games on Xbox One with Your Friends/Families</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719577943413-quick-lingua-norvegica-grasp-10-mins-a-day/"><u>Quick Lingua Norvegica Grasp, 10-Mins A Day</u></a></li>
 </ul></div>
 

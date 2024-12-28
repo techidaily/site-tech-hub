@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Finding Out Your Java Versions on Windows 11"
-date: 2024-08-29T01:12:50.861Z
-updated: 2024-08-30T01:12:50.861Z
+date: 2024-12-23T14:19:04.582Z
+updated: 2024-12-27T23:03:05.246Z
 tags:
   - deals
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/e2bd7441f115d457631670c7835514cc1e1ad27ea
 ---
 
 ## Step-by-Step Guide: Finding Out Your Java Versions on Windows 11
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -25,8 +29,9 @@ thumbnail: https://thmb.techidaily.com/e2bd7441f115d457631670c7835514cc1e1ad27ea
  Some apps require you to run a certain Java version to properly function. You can check which version of Java you have installed using a graphical tool or via the command line.
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Check Your Java Version Graphically
 
  If you prefer to avoid the command line, you can use the About Java utility to find the installed Java version.
@@ -43,9 +48,6 @@ thumbnail: https://thmb.techidaily.com/e2bd7441f115d457631670c7835514cc1e1ad27ea
 
  If you don't see either the About Java or Configure Java tools, you likely don't have Java installed. You can [download it](https://www.java.com/en/download/) from Oracle's official website.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ##  Check Your Java Version Using the Command Prompt
 
  You can check your Java version from the Command Prompt, too.
@@ -55,8 +57,9 @@ thumbnail: https://thmb.techidaily.com/e2bd7441f115d457631670c7835514cc1e1ad27ea
 ![Search for 'Command Prompt' in the Start menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-search-command-prompt.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  When the Command Prompt opens, type the following command at the prompt and press "Enter."
 
 java -version
@@ -66,26 +69,24 @@ java -version
 ![The output of 'java -version' in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-java-version-in-command-prompt.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If the Command Prompt says that Java is not recognized as an internal or external command, that's probably because the system variables are not properly set---or perhaps because you don't have Java installed. Reinstall Java on your PC and this should fix the issue for you.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Check Your Java Version Using PowerShell
 
  Checking your Java version in PowerShell is basically the same as Command Prompt. First, open the Start menu and search "powershell," then click the top result to launch PowerShell. 
 
 ![Search 'PowerShell' in the Start menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/powershell.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
  Type **java -version** into the window and hit Enter. Information about your Java version will be dispayed below.
 
 ![5 java version in powershell](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-java-version-in-powershell.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Information about Java displayed in PowerShell. 
 
@@ -101,8 +102,6 @@ Information about Java displayed in PowerShell.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -110,4 +109,23 @@ Information about Java displayed in PowerShell.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-digital-delights-the-finest-15-comedic-channels-on-youtube/"><u>[New] 2024 Approved Digital Delights The Finest 15 Comedic Channels on YouTube</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/hannel-name-inspiration-strategies-for-success-for-2024/"><u>[New] Channel Name Inspiration Strategies for Success for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-revamping-educational-experiences-through-vr-for-2024/"><u>[Updated] Revamping Educational Experiences Through VR for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-steering-clear-of-mundane-channel-names-in-a-crowded-space/"><u>[Updated] Steering Clear of Mundane Channel Names in a Crowded Space</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/7-important-characteristics-of-leading-ai-chatbot-platforms-to-evaluate-before-subscription/"><u>7 Important Characteristics of Leading AI Chatbot Platforms to Evaluate Before Subscription</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-comprehensive-guide-to-employing-chatgpt-for-translators/"><u>A Comprehensive Guide to Employing ChatGPT for Translators</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/achieving-success-in-ai-conversations-building-accurate-user-personas-for-chatgpt/"><u>Achieving Success in AI Conversations: Building Accurate User Personas for ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/advanced-idea-generation-leveraging-mind-maps-and-chatgpt-tools-for-dynamic-thinking/"><u>Advanced Idea Generation: Leveraging Mind Maps and ChatGPT Tools for Dynamic Thinking</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-assistants-showdown-github-copilot-and-chatgpt-who-wins-in-coding/"><u>AI Assistants Showdown: GitHub Copilot and ChatGPT - Who Wins in Coding?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-love-cons-decoding-the-seven-methods-used-by-online-scammers-in-romantic-schemes/"><u>AI Love Cons: Decoding the Seven Methods Used by Online Scammers in Romantic Schemes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722030428601-assessing-the-truthfulness-of-medical-insights-from-chatgpt-a-look-at-its-trustworthiness/"><u>Assessing the Truthfulness of Medical Insights From ChatGPT: A Look at Its Trustworthiness</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-xiaomi-13t-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Xiaomi 13T</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-gopro-deep-dive-side-by-side-specification-comparison/"><u>In 2024, GoPro Deep Dive Side-by-Side Specification Comparison</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-solutions-for-when-windows-cant-finish-installing-software/"><u>Quick Solutions for When Windows Can't Finish Installing Software</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-updating-your-windows-pcs-processor-drivers/"><u>Step-by-Step Guide: Updating Your Windows PC's Processor Drivers</u></a></li>
+</ul></div>
 

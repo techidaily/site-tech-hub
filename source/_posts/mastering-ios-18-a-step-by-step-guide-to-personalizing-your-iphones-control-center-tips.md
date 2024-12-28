@@ -1,7 +1,7 @@
 ---
 title: "Mastering iOS 18: A Step-by-Step Guide to Personalizing Your iPhone's Control Center - Tips"
-date: 2024-12-18T18:28:15.379Z
-updated: 2024-12-22T17:54:55.561Z
+date: 2024-12-24T08:20:11.548Z
+updated: 2024-12-28T08:03:30.910Z
 tags:
   - apple
 categories:
@@ -28,10 +28,14 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -41,7 +45,7 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -52,10 +56,6 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
@@ -63,7 +63,7 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -80,15 +80,15 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -126,22 +126,17 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-integrating-snaps-smoothly-into-your-zoom-schedule/"><u>[New] Integrating Snaps Smoothly Into Your Zoom Schedule</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-no-cost-sound-transformation-ultimate-10-youtube-tools/"><u>[Updated] 2024 Approved No-Cost Sound Transformation Ultimate 10 YouTube Tools</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-elevate-your-display-with-these-8-macbook-backgrounds/"><u>2024 Approved Elevate Your Display with These 8 MacBook Backgrounds</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/4-typical-slip-ups-when-deploying-chatgpt-for-articles/"><u>4 Typical Slip-Ups When Deploying ChatGPT for Articles</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/1728495497530-windows-server/"><u>効果的な戦略：Windows Serverのバックアップエラー修正法</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/a-comprehensive-look-at-selecting-the-ideal-chatbot-assistance/"><u>A Comprehensive Look at Selecting the Ideal Chatbot Assistance</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ace-the-first-impression-create-professional-cover-letters-with-help-from-chatgpt/"><u>Ace the First Impression: Create Professional Cover Letters With Help From ChatGPT</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-easy-fixes-how-to-recover-forgotten-icloud-password-on-your-iphone-14-by-drfone-ios/"><u>In 2024, Easy Fixes How To Recover Forgotten iCloud Password On your iPhone 14</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-the-art-of-gesture-tracking-for-2024/"><u>Mastering the Art of Gesture Tracking for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-from-iphone-8-plus-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock From iPhone 8 Plus You Should Try Out</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/tiktok-rave-review-2024/"><u>TikTok Rave Review 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlock-the-power-of-ai-with-dall-e-ntegration-in-microsoft-bing-at-no-cost/"><u>Unlock the Power of AI with DALL-E Ntegration in Microsoft Bing at No Cost</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-chatgpts-maximum-message-length-strategies-for-extending-it/"><u>Unveiling ChatGPT's Maximum Message Length: Strategies for Extending It</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-chatgpt-text-limit-understanding-and-overcoming-restrictions/"><u>Unveiling the ChatGPT Text Limit: Understanding and Overcoming Restrictions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/what-does-generative-ai-mean-comprehensive-explainer/"><u>What Does Generative AI Mean? Comprehensive Explainer</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/why-choose-claude-unlocking-potential-through-advanced-ai/"><u>Why Choose Claude? Unlocking Potential Through Advanced AI</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ust-have-filmmaking-tools-for-aspiring-youtubers-for-2024/"><u>[New] Must-Have Filmmaking Tools for Aspiring YouTubers for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-the-verdict-on-video-clips-a-deep-dive-into-inshots-performance/"><u>[Updated] 2024 Approved The Verdict on Video Clips A Deep Dive Into InShot's Performance</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-web-supplement-fb-stories-downloader/"><u>[Updated] Web Supplement FB Stories Downloader</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-showdown-llama-3-vs-gpt-4-evaluating-the-best-language-model/"><u>AI Showdown: Llama 3 Vs. GPT-4 – Evaluating the Best Language Model</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/best-recording-methods-for-environmentally-friendly-screens-for-2024/"><u>Best Recording Methods for Environmentally Friendly Screens for 2024</u></a></li>
+<li><a href="https://techidaily.com/boost-your-digital-campaigns-using-the-advanced-tools-of-cookiebot/"><u>Boost Your Digital Campaigns Using the Advanced Tools of Cookiebot</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-artificebot-like-chatgpt-be-a-game-changer-for-modern-medicine/"><u>Can Artificebot Like ChatGPT Be a Game-Changer for Modern Medicine?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatxt-innovation-for-enriched-storytelling/"><u>ChaTxt Innovation for Enriched Storytelling</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/guarding-against-unwanted-web-traffic-techniques-to-stop-openai-from-mining-your-site/"><u>Guarding Against Unwanted Web Traffic: Techniques to Stop OpenAI From Mining Your Site</u></a></li>
+<li><a href="https://network-issues.techidaily.com/successful-troubleshooting-for-streaming-on-latest-windows-10/"><u>Successful Troubleshooting for Streaming on Latest Windows 10</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-samsung-galaxy-m34-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Samsung Galaxy M34 Android SIM Unlock APK</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transforming-employment-the-top-7-impacts-of-generative-ai/"><u>Transforming Employment: The Top 7 Impacts of Generative AI</u></a></li>
 </ul></div>
 

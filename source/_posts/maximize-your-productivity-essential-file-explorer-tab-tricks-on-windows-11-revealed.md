@@ -1,7 +1,7 @@
 ---
 title: "Maximize Your Productivity: Essential File Explorer Tab Tricks on Windows 11 Revealed"
-date: 2024-08-29T01:11:53.466Z
-updated: 2024-08-30T01:11:53.466Z
+date: 2024-12-27T07:59:55.672Z
+updated: 2024-12-28T07:44:02.459Z
 tags:
   - desktop
 categories:
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/0e797ac9495f1912f56b8317309a2339c9d64cc11
 
  As someone who uses File Explorer daily to manage my workflow, tabs have helped me to have different folders for work that is at different stages of completion. Here are my top tips for using the tabs for productivity.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Open and Close Tabs
 
  Assuming you [have the latest update of Windows 11](https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-realme-v30-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/) installed on your computer, press Ctrl+E to open File Explorer. Before I discovered the File Explorer tabs, I used to open a second window, which would take more time and clutter my screen.
@@ -34,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/0e797ac9495f1912f56b8317309a2339c9d64cc11
 
 ![File Explorer with the 'Open In New Tab' option open having right-clicked a folder to open in the new tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/new-tab-2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  It's just as easy to close a tab. Use the shortcut key Ctrl+W to close your active tab, click the small "X" in the corner of a tab to close it, or click your mouse scrolling wheel on the tab you want to close. Whichever method you use, if you have only one tab open in the File Explorer window, this will close the whole window.
 
 ![File Explorer with the 'X' to close the tab highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/close-tab.png) 
@@ -44,9 +52,6 @@ thumbnail: https://thmb.techidaily.com/0e797ac9495f1912f56b8317309a2339c9d64cc11
 
  Click "Close Other Tabs" to leave just that one tab open, or click "Close Tabs To The Right" to keep that tab and the tabs to the left open, while closing all the other tabs.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ##  Change the Default New Tab Folder
 
  By default, Windows will open the Home folder when you launch File Explorer or open a new tab, which contains things such as your Quick Access, Favorite, and Recent items. If, like me, you rarely use these sections but tend to use OneDrive, changing the default tab can make life much easier.
@@ -56,18 +61,13 @@ thumbnail: https://thmb.techidaily.com/0e797ac9495f1912f56b8317309a2339c9d64cc11
 ![The File Explorer 'Options,' accessed via the three dots on the ribbon in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/file-explorer-options.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Open the "Home" tab in Folder Options window, and click the "Open File Explorer To" drop-down arrow. From there, you can change the default launch folder to "Home" (if this is not already selected), "This PC," or "\[Your Name\] - Personal" (your OneDrive folder). You'll see this in action next time you open a new File Explorer window or tab.
 
 ![File Explorer's Folder Options Window with the 'Open File Explorer To' drop-down options highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/file-explorer-folder-options-window.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Jump Between and Reorder Tabs
 
  Now that you have several tabs open, you can simply click between them to access the different folders. However, you can further speed up the process by using keyboard shortcuts:
@@ -78,15 +78,17 @@ thumbnail: https://thmb.techidaily.com/0e797ac9495f1912f56b8317309a2339c9d64cc11
 ![Five File Explorer tabs numbered from one to five.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/numbered-tabs.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To reorder your tabs along the tab bar (for example, I like to organize my tabs in terms of work completion, with new tasks on the left, semi-finished tasks in their various degrees of completion in the middle, and completed tasks on the right), simply click and drag the tab you want to move and drop it in its new place.
 
  If you want to split your tabs back into separate windows (for example, if you're working on two screens and would find it easier to see a specific folder on the second screen), drag and drop the tab away from the File Explorer window.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Move or Copy Files or Folders Between Tabs
 
  One of the benefits of having more than one tab open is that you can quickly move and copy files or folders from one place to another, avoiding the need to locate different folders and use Ctrl+C or Ctrl+X.
@@ -107,8 +109,6 @@ thumbnail: https://thmb.techidaily.com/0e797ac9495f1912f56b8317309a2339c9d64cc11
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -116,4 +116,22 @@ thumbnail: https://thmb.techidaily.com/0e797ac9495f1912f56b8317309a2339c9d64cc11
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-stay-ahead-adapting-your-approach-for-instagrams-evolved-feed/"><u>[Updated] 2024 Approved Stay Ahead Adapting Your Approach for Instagram’s Evolved Feed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tailored-transmission-terminal-podcasters-hub/"><u>[Updated] Tailored Transmission Terminal Podcaster's Hub</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-long-lasting-friendship-on-snapchat-ideas-and-insights/"><u>2024 Approved Long-Lasting Friendship on Snapchat Ideas and Insights</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/cookiebot-enabled-features-enhancing-user-experience-through-smart-analytics/"><u>Cookiebot-Enabled Features: Enhancing User Experience Through Smart Analytics</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/dall-e-3-reveals-integrated-editing-tools-time-to-polish-and-perfect-them/"><u>DALL-E 3 Reveals Integrated Editing Tools - Time to Polish and Perfect Them!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-new-directions-for-your-words-top-5-artificial-intelligence-scribes/"><u>Discover New Directions for Your Words: Top 5 Artificial Intelligence Scribes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-convenience-of-chatgpt-9-life-changing-tricks/"><u>Discover the Convenience of ChatGPT: 9 Life-Changing Tricks</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevating-your-deck-game-a-selection-of-superior-accessories/"><u>Elevating Your Deck Game: A Selection of Superior Accessories</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancing-helpdesk-operations-gpt-3-and-whatsapp-alliance/"><u>Enhancing Helpdesk Operations: GPT-3 & WhatsApp Alliance</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancing-text-via-ai-editing/"><u>Enhancing Text via AI Editing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/experiencing-issues-with-chatgpt-here-are-5-tips-for-verifying-its-status/"><u>Experiencing Issues with ChatGPT? Here Are 5 Tips for Verifying Its Status</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-xiaomi-redmi-k70e-by-drfone-android/"><u>How to Bypass FRP on Xiaomi Redmi K70E?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>In 2024, How to Unlock iPhone SE With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-optimal-budget-free-fb-videopicture-engineer/"><u>In 2024, Optimal Budget-Free FB Video/Picture Engineer</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/petcube-affordable-hd-pet-camera-your-budget-pet-monitor/"><u>Petcube Affordable HD Pet Camera - Your Budget Pet Monitor</u></a></li>
+</ul></div>
 

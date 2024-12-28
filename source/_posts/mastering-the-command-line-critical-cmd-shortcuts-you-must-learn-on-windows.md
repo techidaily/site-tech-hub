@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Command Line: Critical CMD Shortcuts You Must Learn on Windows"
-date: 2024-08-29T01:11:52.281Z
-updated: 2024-08-30T01:11:52.281Z
+date: 2024-12-25T03:16:12.856Z
+updated: 2024-12-28T14:32:47.802Z
 tags:
   - desktop
 categories:
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/a7fa63ce234167f10d2e30f61413bb6b349d75128
 
  Tired of navigating through the cluttered Windows interface to find the tools you need? Look no further than Run commands. Run commands can take you straight to the Windows tools or settings you need without the fuss. Let's explore some useful Run commands that every Windows user should know.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Why Use Run Commands?
 
  You might be wondering why you should bother with Run commands when you can access many of these settings through the Start Menu or Control Panel. The answer is efficiency: Run commands are a faster and more direct way to access various Windows settings, tools, and features.
@@ -47,8 +51,9 @@ thumbnail: https://thmb.techidaily.com/a7fa63ce234167f10d2e30f61413bb6b349d75128
 ![The msconfig window open on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/msconfig-system-configuration-window.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Run msinfo32 to Get Your System Specs
 
  Curious about your [system's specs](https://tech-haven.techidaily.com/has-chatgpt-simplified-or-compromised-academic-writings/)? Just type **msinfo32** in the Run dialog box, and you’ll see everything from your processor type to the amount of RAM installed. You can access detailed system summaries, including hardware resources, software environments, and components.
@@ -56,6 +61,10 @@ thumbnail: https://thmb.techidaily.com/a7fa63ce234167f10d2e30f61413bb6b349d75128
  This information can be invaluable when you're troubleshooting, [upgrading your hardware](https://win-dash.techidaily.com/step-by-step-guide-solving-realtek-wireless-connection-error-in-windows-operating-systems/), or generating a report for technical support. You can even use it to [check your BIOS version](https://win11-tips.techidaily.com/running-state-of-the-art-ai-windows-edition/) or verify your system's specifications.
 
 ![The example PC's information.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/msinfo32-system-infomation.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Manage Your Installed Apps With appwiz.cpl
 
@@ -65,9 +74,6 @@ thumbnail: https://thmb.techidaily.com/a7fa63ce234167f10d2e30f61413bb6b349d75128
 
 ![A list of installed programs showing in Programs and Features window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/appwiz-programs-and-features-window.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ##  Customize Your Display With desk.cpl
 
  Whether you need to [change your screen resolution](https://instagram-clips.techidaily.com/2024-approved-unleashing-your-brand-potential-with-advanced-insights-on-instagram-data/), or [orientation](https://some-knowledge.techidaily.com/frustrated-photographers-face-black-screen-woes-for-2024/), or manage multiple monitors, the desk.cpl command brings all display-related settings to your fingertips. Additionally, it allows you to adjust your screen brightness, refresh rate, or the size of apps, text, or any other items.
@@ -77,11 +83,9 @@ thumbnail: https://thmb.techidaily.com/a7fa63ce234167f10d2e30f61413bb6b349d75128
 ![The Display settings menu of the system.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/desk-display-settings.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
+
 ##  Adjust Your Mouse Settings With main.cpl
 
  Running **main.cpl** in the Run dialog box launches the Mouse Properties window, where you can [adjust mouse settings](https://vimeo-videos.techidaily.com/new-2024-approved-how-to-maximize-your-content-impact-with-imovie-on-vimeo/), such as [pointer speed](https://extra-hints.techidaily.com/updated-crafting-compelling-docu-scripts-a-step-by-step-guide/), [sensitivity](https://youtube-tips.techidaily.com/024-approved-disabling-youtube-shorts-for-good-a-simple-approach/), and button configuration. You can also configure double-clicking behavior, wheel setting, trackpoint, and trackpad settings of your mouse.
@@ -91,8 +95,9 @@ thumbnail: https://thmb.techidaily.com/a7fa63ce234167f10d2e30f61413bb6b349d75128
 ![Showing properties and other options for mouse and trackpad.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/main-mouse-properties.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Establish a Remote Connection Using mstsc
 
  mstsc refers to Microsoft Terminal Services Client, which is usually known as Remote Desktop Connection. Simply type **mstsc** in the Run window and [establish a remote desktop connection](https://fox-direct.techidaily.com/unleash-creativity-with-these-essential-vector-editors-for-2024/). You can also customize your remote desktop settings by changing its size, color, audio, and others.
@@ -101,12 +106,6 @@ thumbnail: https://thmb.techidaily.com/a7fa63ce234167f10d2e30f61413bb6b349d75128
 
 ![The remote desktop connections window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/mstsc-remote-desktop-connection.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ##  Calibrate Your Screen With dccw
 
  Want to calibrate your monitor for accurate colors? Try dccw. Running this command will open the Display Color Calibration tool, which guides you through [adjusting your monitor’s color settings](https://games-able.techidaily.com/catch-up-on-classic-gaming-with-iphone-and-psp-fusion/). Poor color accuracy can be frustrating, especially for graphic designers or photographers.
@@ -122,11 +121,13 @@ thumbnail: https://thmb.techidaily.com/a7fa63ce234167f10d2e30f61413bb6b349d75128
 ![Removing unwanted files with the Disk Cleanup utility.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/cleanmgr-clean-disk.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Monitor Your PC's Performance With resmon
 
  Want to keep a watchful eye on your PC's performance? Try resmon command. This command opens the Resource Monitor, which displays real-time data on system resources, such as memory, disk, CPU, and network usage.
@@ -153,8 +154,6 @@ thumbnail: https://thmb.techidaily.com/a7fa63ce234167f10d2e30f61413bb6b349d75128
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,4 +161,20 @@ thumbnail: https://thmb.techidaily.com/a7fa63ce234167f10d2e30f61413bb6b349d75128
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-techniques-to-procure-free-visual-frame-videos/"><u>[New] Techniques to Procure Free Visual Frame Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-transform-your-video-content-using-story-remix-on-windows-photos-for-2024/"><u>[New] Transform Your Video Content Using Story Remix on Windows Photos for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-ezvid-video-recorder-review/"><u>2024 Approved Ezvid Video Recorder Review</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-takes-the-ios-stage/"><u>ChatGPT Takes the iOS Stage!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-transforms-officedoc-space-for-optimal-performance/"><u>ChatGPT Transforms OfficeDoc Space for Optimal Performance</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-ventures-viable-income-strategies/"><u>ChatGPT Ventures: Viable Income Strategies?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-vs-bings-intelligent-companion-unveiling-the-10-main-differences/"><u>ChatGPT Vs. Bing's Intelligent Companion: Unveiling the 10 Main Differences</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-powered-nutrition-success-how-to-design-and-stick-to-a-healthy-meal-plan/"><u>ChatGPT-Powered Nutrition Success: How to Design and Stick to a Healthy Meal Plan</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/content-connoisseurs-guide-outperforming-ai-writing-tools/"><u>Content Connoisseurs Guide: Outperforming AI Writing Tools</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/engaging-oratorics-assessment-version-8-for-2024/"><u>Engaging Oratorics Assessment, Version 8 for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/guide-converting-your-pal-dvds-into-widely-supported-video-types-a-step-by-step-tutorial/"><u>Guide: Converting Your PAL DVDs Into Widely-Supported Video Types – A Step by Step Tutorial</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/turn-up-the-scene-speed-on-your-iphone-filming-and-slowing-down-methods-for-2024/"><u>Turn Up the Scene Speed on Your iPhone Filming & Slowing Down Methods for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/yearly-insider-list-the-most-exciting-unboxers-on-youtube/"><u>Yearly Insider List The Most Exciting Unboxers on YouTube</u></a></li>
+</ul></div>
 

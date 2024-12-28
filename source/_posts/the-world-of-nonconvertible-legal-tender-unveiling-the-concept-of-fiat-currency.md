@@ -1,7 +1,7 @@
 ---
 title: "The World of Nonconvertible Legal Tender: Unveiling the Concept of Fiat Currency"
-date: 2024-08-29T01:13:45.650Z
-updated: 2024-08-30T01:13:45.650Z
+date: 2024-12-22T14:11:51.882Z
+updated: 2024-12-27T21:42:32.107Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/41013bb9d5578181edb6e45a776caec9c659ae0e0
 ---
 
 ## The World of Nonconvertible Legal Tender: Unveiling the Concept of Fiat Currency
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -21,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/41013bb9d5578181edb6e45a776caec9c659ae0e0
 
  Currencies with no other commodity backing them are known as fiat currency. The euro, pound, yen, and other major currencies are all considered fiat currencies.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  From the Gold Standard to Fiat
 
  In 1971, the United States [officially ended the gold standard](https://www.history.com/this-day-in-history/fdr-takes-united-states-off-gold-standard). Instead of a dollar representing a specified amount of gold, the U.S. dollar is now valued based on supply and demand and faith in the U.S. government.
@@ -30,8 +38,9 @@ thumbnail: https://thmb.techidaily.com/41013bb9d5578181edb6e45a776caec9c659ae0e0
  In some cases, these smaller less developed countries don't even issue their own currency. And if by chance they do, they typically peg it to a more stable fiat of a developed economy. For example, most countries in the Caribbean peg their currencies to the U.S dollar since most of their economies are funded by U.S. tourists. Lebanon pegs its currency to the British Pound. Most African countries maintain a peg to the euro.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The Side Effect of Fiat
 
  The goal of doing this is to keep their economies more stable. However, there is one flaw. Economic policy enacted by countries with the reserve currency like the United States or European Union ultimately trickles down to these smaller nations. They have little say and are forced to deal with the hand they are dealt.
@@ -42,9 +51,6 @@ thumbnail: https://thmb.techidaily.com/41013bb9d5578181edb6e45a776caec9c659ae0e0
 
  This standardization eliminated exchange rates. Therefore, if you were attempting to convert your British pounds into American dollars, all you would need to know is how many pounds and dollars the British and American governments said one ounce of gold was worth.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Fiats Today
 
  As World War II concluded and a new geopolitical landscape developed, the winners of the war coordinated to unveil the new economic game plan. Originally the plan was for the U.S. dollar to be exchanged with gold at a rate of $35 per ounce. Then every other nation's currency would be tied to the U.S. dollar.
@@ -58,8 +64,9 @@ thumbnail: https://thmb.techidaily.com/41013bb9d5578181edb6e45a776caec9c659ae0e0
  Yet increased government control over the economy has not always been sustainable. Fiat currencies are not always reliable. They can be overmanipulated and once out of control, it can be difficult to pull in the reins.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Inflation Is Inevitable
 
  One key pitfall of fiat currencies is an increased risk of inflation. There are a handful of examples throughout history when central banks have abused their power.
@@ -73,8 +80,9 @@ thumbnail: https://thmb.techidaily.com/41013bb9d5578181edb6e45a776caec9c659ae0e0
 Related: [What Is Bitcoin, and How Does it Work?](https://extra-support.techidaily.com/navigating-through-excellent-hdr-cam-choices-for-2024/) 
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Fiat Currencies vs. Cryptocurrencies
 
  Even if not overnight, inflation can slowly take place over decades.
@@ -95,8 +103,6 @@ Related: [What Is Bitcoin, and How Does it Work?](https://extra-support.techidai
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -104,4 +110,19 @@ Related: [What Is Bitcoin, and How Does it Work?](https://extra-support.techidai
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-stable-vr-experience-8-ways-to-prevent-nausea/"><u>[New] 2024 Approved Stable VR Experience 8 Ways to Prevent Nausea</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-from-end-to-start-on-instagram-vids-guide/"><u>[New] In 2024, From End to Start on Instagram Vids [Guide]</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-virtual-reality-streaming-who-to-watch/"><u>2024 Approved Virtual Reality Streaming Who to Watch</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/7-compelling-factors-for-opting-chatgpt-in-managing-personal-health-inquiries/"><u>7 Compelling Factors for Opting ChatGPT in Managing Personal Health Inquiries</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-dialogues-battlefront-choosing-between-gpt-and-bing/"><u>AI Dialogues Battlefront: Choosing Between GPT & Bing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-powered-assistants-transforming-the-editors-workspace/"><u>AI-Powered Assistants Transforming the Editor's Workspace</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/key-steps-prior-to-transitioning-to-an-iphone-15-ensure-all-essentials-are-safe-and-secured/"><u>Key Steps Prior to Transitioning to an iPhone 15 - Ensure All Essentials Are Safe and Secured!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722061952501-my-ai-from-snapchat-more-than-just-fun-here-are-6-remarkable-benefits/"><u>My AI From Snapchat - More Than Just Fun, Here Are 6 Remarkable Benefits</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722169062478-step-by-step-guide-to-utilizing-openais-cutting-edge-custom-gpt-shop-access-today/"><u>Step-by-Step Guide to Utilizing OpenAI's Cutting-Edge Custom GPT Shop – Access Today!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-oppo-k11-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Oppo K11 5G FRP Bypass</u></a></li>
+<li><a href="https://win-forum.techidaily.com/what-is-windows-10-system-restore/"><u>What Is Windows 10 System Restore</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-honor-90-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Honor 90 | Dr.fone</u></a></li>
+</ul></div>
 

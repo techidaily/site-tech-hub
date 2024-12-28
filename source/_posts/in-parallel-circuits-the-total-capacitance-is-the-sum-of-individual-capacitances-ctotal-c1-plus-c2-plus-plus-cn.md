@@ -1,7 +1,7 @@
 ---
 title: "In Parallel Circuits, the Total Capacitance Is the Sum of Individual Capacitances: C_total = C1 + C2 + ... + Cn."
-date: 2024-12-18T19:09:18.097Z
-updated: 2024-12-22T16:42:48.814Z
+date: 2024-12-25T14:34:59.293Z
+updated: 2024-12-28T06:28:06.332Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -60,10 +64,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -71,10 +71,6 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -119,7 +115,7 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -134,7 +130,7 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -154,6 +150,10 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -163,7 +163,7 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -210,22 +210,14 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-innovations-in-mobile-photography-a-look-at-iphone-x/"><u>[New] In 2024, Innovations in Mobile Photography A Look at iPhone X</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-techniques-for-broadcasting-purpose-driven-lifestyle-plays/"><u>[Updated] 2024 Approved Techniques for Broadcasting Purpose-Driven Lifestyle Plays</u></a></li>
-<li><a href="https://games-able.techidaily.com/effortless-sparkle-a-comprehensive-console-care-plan/"><u>Effortless Sparkle: A Comprehensive Console Care Plan</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-apple-iphone-13-pro-max-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your Apple iPhone 13 Pro Max When You Forget the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/narrow-your-focus-on-elite-hdr-camera-systems-for-2024/"><u>Narrow Your Focus on Elite HDR Camera Systems for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/ready-to-delete-heres-what-you-should-do-first/"><u>Ready to Delete? Here's What You Should Do First</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/simple-guide-seamlessly-transferring-your-hard-drive-data-to-google-drive/"><u>Simple Guide: Seamlessly Transferring Your Hard Drive Data to Google Drive</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-birth-of-bard-googles-revolutionary-ai-venture-to-outshine-chatgpt/"><u>The Birth of Bard – Google's Revolutionary AI Venture to Outshine ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-chatgpt-approach-to-exceptional-resumes/"><u>The ChatGPT Approach to Exceptional Resumes</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-four-pillars-of-state-driven-artificial-intelligence-oversight-mechanisms/"><u>The Four Pillars of State-Driven Artificial Intelligence Oversight Mechanisms</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-power-play-microsoft-acquires-blizzard-discovering-the-potential-of-ai-in-art-and-translation-on-our-newest-podcast-release/"><u>The Power Play: Microsoft Acquires Blizzard; Discovering the Potential of AI in Art & Translation on Our Newest Podcast Release</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-top-6-gpt-3-addons-you-should-skip-save-your-sanity/"><u>The Top 6 GPT-3 Addons You Should Skip - Save Your Sanity!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transform-your-storytelling-with-chatgpt-building-rich-dialogue-driven-rpgs-for-solo-players/"><u>Transform Your Storytelling with ChatGPT: Building Rich, Dialogue-Driven RPGs for Solo Players</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/trustworthy-virtual-health-guidelines-for-gpt-use/"><u>Trustworthy Virtual Health: Guidelines for GPT Use</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-chatgpts-legal-troubles-insights-from-updated-google-news-feeds-and-strategies-for-superior-mobile-signal-while-abroad/"><u>Understanding ChatGPT's Legal Troubles: Insights From Updated Google News Feeds & Strategies for Superior Mobile Signal While Abroad</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/why-is-ipogo-not-working-on-honor-magic5-ultimate-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Honor Magic5 Ultimate? Fixed | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-embark-on-elevating-voice-startup-steps-for-an-engaging-product-vlog-channel/"><u>[New] Embark on Elevating Voice Startup Steps for an Engaging Product Vlog Channel</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-best-ios-applications-for-gameplaying-iconic-psp-titles/"><u>[Updated] In 2024, Best iOS Applications for Gameplaying Iconic PSP Titles</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bridging-ai-and-mobile-how-to-utilize-bings-android-app/"><u>Bridging AI and Mobile: How to Utilize Bing's Android App</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/choosing-your-code-companion-github-copilot-versus-chatgpt/"><u>Choosing Your Code Companion: GitHub Copilot Versus ChatGPT</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-how-to-optimize-windows-disk-capacity-economically/"><u>Discover How to Optimize Windows Disk Capacity Economically</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-gpt-as-a-writing-checker/"><u>Exploring GPT as a Writing Checker</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-delete-your-chatgpt-account/"><u>How to Delete Your ChatGPT Account</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fixes-for-steams-captcha-failed-issue/"><u>Quick Fixes for Steam's 'CAPTCHA Failed' Issue</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-vllo-on-mac-your-ultimate-guide-to-downloads-and-alternatives-for-2024/"><u>Updated VLLO on Mac Your Ultimate Guide to Downloads and Alternatives for 2024</u></a></li>
 </ul></div>
 

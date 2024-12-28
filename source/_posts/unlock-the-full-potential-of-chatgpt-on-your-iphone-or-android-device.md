@@ -1,7 +1,7 @@
 ---
 title: Unlock the Full Potential of ChatGPT on Your iPhone or Android Device
-date: 2024-08-29T01:14:46.197Z
-updated: 2024-08-30T01:14:46.197Z
+date: 2024-12-27T07:04:28.680Z
+updated: 2024-12-28T02:20:25.324Z
 tags:
   - chatgpt
   - open-ai
@@ -37,6 +37,10 @@ Type prompts such as:
 
 ![Screenshot ofChatGPT response to exercise prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-ofchatgpt-response-to-exercise-prompt.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The AI chatbot generates a series of solid workout plans that don’t sound too different from the advice you might get in some of those great[workout apps you’ll stick with for the long haul](https://www.makeuseof.com/best-workout-apps/) .
 
  Although general questions will yield general answers, you can always respond with further prompts. Remember, the more specific your question, the more tailored to your needs the answers are likely to be. It’s definitely worth learning[how to write effective ChatGPT prompts](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/) to get the most out of your interaction with the tool.
@@ -45,9 +49,6 @@ Type prompts such as:
 
  However, ChatGPT could be a great source of initial advice if you're just after a general workout plan.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Use ChatGPT to Get Advice on Meal Plans or Find New Recipes
 
  Although everyone knows the importance of eating healthily for well-being, your busy lifestyle might mean you get stuck in a rut with meal choices. You could break free of this by downloading one of the[best healthy eating apps](https://www.makeuseof.com/best-healthy-eating-apps/) or consulting[meal planning websites](https://www.makeuseof.com/meal-planning-sites-to-make-cooking-simple/) .
@@ -62,9 +63,6 @@ Type prompts such as:
 
  However, for general advice and some unusual recipe ideas, you can enjoy seeing what ChatGPT suggests for your next meal.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Use ChatGPT to Help You Develop Wellness Habits
 
  While you can use[ChatGPT for your home productivity routines](https://www.makeuseof.com/use-chatgpt-home-productivity/) , what about personal routines? You can use AI to help you form good habits in practically any aspect of your personal care.
@@ -75,9 +73,6 @@ Type prompts such as:
 
 ![Screenshot of ChatGPT response to forming good sleep habits prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-chatgpt-response-to-forming-good-sleep-habits-prompt.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Use ChatGPT for Mindfulness and Meditation
 
  If you like the idea of meditation but not the reality of joining a class or practicing in front of strangers, ChatGPT can prove a great tool for giving you mindfulness and meditation ideas. Depending on your needs, you could ask for techniques for meditation or even phrases to help you to be mindful. For example, the simple prompt, “Provide some ideas for a mindful moment,” gave me excellent practical advice, such as breathing, walking in nature, and mindful eating.
@@ -85,8 +80,13 @@ Type prompts such as:
 ![Screenshot of ChatGPT response to meditation information prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-chatgpt-response-to-meditation-information-prompt.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Use ChatGPT for Journaling Prompts
 
  Journaling is a highly effective way to practice mindfulness. There are many[effective techniques to use in your digital gratitude journaling](https://www.makeuseof.com/digital-gratitude-journaling-effective-techniques/) , and ChatGPT can help you to deploy these, providing prompts to help you get started without that “blank page terror.”
@@ -100,13 +100,18 @@ Type prompts such as:
  ChatGPT can be used as a virtual symptom checker to help you identify and interpret any health symptoms and provide guidance on your next steps. It can help you decide whether you should seek medical attention and even provide suggestions for self-care measures you may wish to consider first, such as over-the-counter medications.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Use ChatGPT to Get Health Advice
 
  ChatGPT can give you access to a vast range of medical information beyond simply checking symptoms. You can ask specific questions and get advice tailored to your individual health needs. Since this instant database is available free of charge from your own home, without requiring you to make appointments and consult medical experts, it brings the further advantage of relieving strain on medical services.
 
  As the technology and the AI database develops continually, there are many[reasons to consider using ChatGPT for health advice](https://www.makeuseof.com/reasons-consider-using-chatgpt-health-advice/) . Of course, you must verify any health advice provided in this manner, so here’s[how to fact-check health information from ChatGPT and AI sources](https://www.makeuseof.com/fact-check-health-information-chatgpt-ai-sources/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Use ChatGPT to Understand and Manage Medications
 
@@ -118,12 +123,6 @@ Type prompts such as:
 
 ![Screenshot of ChatGPT response to medication information request](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-chatgpt-response-to-medication-information-request.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 9\. Use ChatGPT for Mental Health Support
 
  Getting help for mental health issues can be a challenge. Services where you live may be difficult to access, or you may not be well enough to take the brave step of asking for support.
@@ -131,6 +130,10 @@ Type prompts such as:
  As a first step, ChatGPT can be used to identify your symptoms and get some immediate coping strategies. In the longer term, it can help you find out how and where to access further mental health support and resources. It could prove far easier to ask AI for help with the first stages of your recovery.
 
 ![Screenshot of ChatGPT response to mental health question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-chatgpt-response-to-mental-health-question.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You must be aware of the limitations of this and all medical interactions with ChatGPT. For all its potential benefits, there are some valid[reasons why you shouldn’t trust ChatGPT for medical advice](https://www.makeuseof.com/reasons-you-shouldnt-trust-chatgpt-medical-advice/) .
 
@@ -140,14 +143,11 @@ Type prompts such as:
 
  Exercise caution, however. ChatGPT is not an error-free tool, and it’s certainly not a replacement for the personal advice you can get from a trained medical professional, dietitian, or counselor. That’s why you must always fact-check any recommendations it provides with verified sources, and for serious medical conditions, consult a qualified medical professional.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -156,4 +156,20 @@ Type prompts such as:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-proving-ground-8-outstanding-tablets-beyond-filmoras-borders/"><u>[New] 2024 Approved Proving Ground 8 Outstanding Tablets Beyond Filmora's Borders</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-introducing-high-quality-capture-with-yi/"><u>[New] Introducing High-Quality Capture with YI</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-time-saving-techniques-from-complicated-srt-to-simplified-txt/"><u>[Updated] In 2024, Time-Saving Techniques From Complicated SRT to Simplified TXT</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/how-to-successfully-install-pokemon-go-on-your-iphone-regardless-of-your-country-restrictions-solutions-inside/"><u>How to Successfully Install Pokémon Go on Your iPhone, Regardless of Your Country Restrictions - Solutions Inside!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-a-prompt-engineers-job-real-a-comprehensive-guide-on-what-matters-most/"><u>Is a Prompt Engineer's Job Real? A Comprehensive Guide on What Matters Most</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leap-ahead-in-polyglotism-with-chatgpt-plus-tips-and-tricks-for-effective-language-acquisition/"><u>Leap Ahead in Polyglotism with ChatGPT Plus: Tips and Tricks for Effective Language Acquisition</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-gpts-error-correction-top-6-strategies-for-success/"><u>Mastering GPT's Error Correction: Top 6 Strategies for Success</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-basics-how-does-ai-utilize-transfer-learning/"><u>Mastering the Basics: How Does AI Utilize Transfer Learning?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/microsoft-turing-nlg-microsoft-gpt-3-alternatives-top-picks/"><u>Microsoft Turing NLG, Microsoft GPT-3 Alternatives - Top Picks</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/musical-enhancements-for-social-video-sharing-platforms-fb-for-2024/"><u>Musical Enhancements for Social Video Sharing Platforms (FB) for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/mystic-river/"><u>Mystic River</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-fcpx-tutorial-elevate-your-edits-with-l-cuts-and-j-cuts/"><u>New 2024 Approved FCPX Tutorial Elevate Your Edits with L-Cuts and J-Cuts</u></a></li>
+<li><a href="https://fox-making.techidaily.com/simple-steps-effortlessly-duplicate-your-external-hard-drive-over-an-ethernet-connection/"><u>Simple Steps: Effortlessly Duplicate Your External Hard Drive Over an Ethernet Connection</u></a></li>
+</ul></div>
 

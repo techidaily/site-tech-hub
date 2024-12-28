@@ -1,7 +1,7 @@
 ---
 title: Sharing the Top Remorse Moment of Upgrading to iOS 18 – A Common Dilemma Discussed on ZDNet
-date: 2024-12-19T22:24:38.849Z
-updated: 2024-12-22T17:37:57.488Z
+date: 2024-12-23T21:21:02.273Z
+updated: 2024-12-27T16:45:24.704Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,20 +109,17 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-chromium-device-live-screen-recorder/"><u>[New] Chromium Device Live Screen Recorder</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-visionaries-of-virtuality-industry-breakthroughs/"><u>[Updated] In 2024, Visionaries of Virtuality Industry Breakthroughs</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-paving-the-way-for-win11-a-user-friendly-upgrade-adventure/"><u>[Updated] Paving the Way for Win11 A User-Friendly Upgrade Adventure</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/a-beginners-blueprint-mastering-the-use-of-microsofts-advanced-language-model-chatgpt/"><u>A Beginner's Blueprint: Mastering the Use of Microsoft's Advanced Language Model, ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/adaptable-assistants-launch-your-own-8-ai-experieninas/"><u>Adaptable Assistants: Launch Your Own 8 AI Experieninas</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/addressing-chatgpt-legal-issues-discovering-new-features-in-google-news-and-maximizing-your-mobile-internet-experience-on-vacation/"><u>Addressing ChatGPT Legal Issues, Discovering New Features in Google News & Maximizing Your Mobile Internet Experience on Vacation</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/addressing-glitches-restoring-chatgpt-and-service-harmony/"><u>Addressing Glitches: Restoring ChatGPT & Service Harmony</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/empowering-writers-select-ai-applications-for-efficiency/"><u>Empowering Writers: Select AI Applications for Efficiency</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/explore-how-the-newly-enhanced-amazon-echo-auto-aids-drivers-with-roadside-help-analysis-on-zdnet/"><u>Explore How the Newly Enhanced Amazon Echo Auto Aids Drivers with Roadside Help – Analysis on ZDNET</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1722212556760-free-gpt-4-for-everyone-nonetheless-select-plus-membership-continues-to-provide-unique-services/"><u>Free GPT-4 for Everyone; Nonetheless, Select Plus Membership Continues to Provide Unique Services</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/perfect-iphone-photos-quick-editing-hacks/"><u>Perfect iPhone Photos Quick Editing Hacks</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/the-rise-of-popular-images-a-deep-dive-into-meme-culture-for-2024/"><u>The Rise of Popular Images A Deep Dive Into Meme Culture for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210640290-9798885401395-the-search-for-dry-land/"><u>The Search for Dry Land | Free Book</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1722168108069-transform-how-you-interact-get-chatgpt-for-android-and-start-conversing-today/"><u>Transform How You Interact: Get ChatGPT for Android and Start Conversing Today</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/what-is-the-turing-test-and-its-prospect-for-a-champion/"><u>What Is the Turing Test and Its Prospect for a Champion?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-unleashing-clarity-with-eizos-coloredge-cg318-4k/"><u>[New] 2024 Approved Unleashing Clarity with EIZO's ColorEdge CG318-4K</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-unveiling-filmoras-most-attractive-edits/"><u>[New] In 2024, Unveiling Filmora's Most Attractive Edits</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-detailed-review-and-comparison-with-vlc-successors/"><u>[Updated] Detailed Review and Comparison with VLC Successors</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comprehve-guide-factory-restore-instructions-for-an-hp-laptop-detailed-steps/"><u>Comprehve Guide: Factory Restore Instructions for an HP Laptop [Detailed Steps]</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/coordinating-your-quest-expert-strategies-for-partnered-gameplay-in-monster-hunter-world/"><u>Coordinating Your Quest: Expert Strategies for Partnered Gameplay in Monster Hunter World</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/diy-tutorial-crafting-an-easy-to-use-windows-7-bootable-flash-drive/"><u>DIY Tutorial: Crafting an Easy-to-Use Windows 7 Bootable Flash Drive</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/diy-wireless-printer-configuration-made-simple-a-step-by-step-guide/"><u>DIY Wireless Printer Configuration Made Simple: A Step-by-Step Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-oneplus-12-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On OnePlus 12</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/large-studiofx-light-kit-solid-vibrant-glow/"><u>Large StudioFX Light Kit - Solid, Vibrant Glow</u></a></li>
+<li><a href="https://extra-support.techidaily.com/perfect-precision-with-zoom-your-ultimate-youtube-live-stream-toolkit-for-2024/"><u>Perfect Precision with Zoom Your Ultimate YouTube Live Stream Toolkit for 2024</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/quick-guide-adding-srt-captions-seamlessly-to-mp4-file-format/"><u>Quick Guide: Adding SRT Captions Seamlessly to MP4 File Format</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-make-your-own-cartoons-top-rated-mobile-apps/"><u>Updated In 2024, Make Your Own Cartoons Top-Rated Mobile Apps</u></a></li>
 </ul></div>
 

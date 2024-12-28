@@ -1,7 +1,7 @@
 ---
 title: The Rise of GPTBot and the Reasons Behind Site Restrictions
-date: 2024-08-29T01:15:48.611Z
-updated: 2024-08-30T01:15:48.611Z
+date: 2024-12-25T23:04:48.883Z
+updated: 2024-12-28T03:40:18.560Z
 tags:
   - chatgpt
   - open-ai
@@ -35,6 +35,10 @@ It was also stated in the same report that:
 
  It seems the continued adoption and development of AI will pose a threat to our cybersecurity, though the degree to which it affects us is yet to be seen.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Increased Digital Supply Chain Attacks
 
 ![digital graphic of globe and transport vehicles behind alert symbol](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/alert-supply-chain.jpg)
@@ -49,22 +53,20 @@ It was also stated in the same report that:
 
 ![person in suit using tablet with zero-trust spider diagram in front](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/zero-trust-image.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
  Zero-trust systems do not rely on any user or group of users to authenticate, monitor, or store data. Additionally, every user present in a zero-trust system must authorize access to a new user, otherwise the system remains off-limits to that individual. In short, a zero-trust system is designed not to trust any one individual. All users are assumed untrustworthy unless authentication is provided by other users.
 
  In terms of cybersecurity, a zero-trust system can be a huge benefit. A lot of current networks—be it those used for data storage, social communication, media sharing, or server hosting—are not designed to be zero-trust. This means that the system puts a level of trust in certain users. If a given user turns out to be malicious and the system has already decided to trust them, cyberattacks become possible.
 
  Zero-trust systems also provide granular access and granular control. This means that no one individual ever has control of or access to the majority of data and power within the network. Each user is provided information on a strictly need-to-know basis. Blockchains work similarly, wherein power and data are spread across the network in a decentralized manner.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Further Exploit of EV Security Systems
 
 ![close up shot of electric car charging](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/ev-charging-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Gone are the days when a car was just a mechanical vehicle with a radio. Now, we can use Bluetooth, Wi-Fi, and even NFC in our cars. These wireless connections, along with a reliance on software, have opened the door for cybercriminals.
 
  This is especially the case with electric vehicles. A lot of EVs are designed with high-tech features, such as NFC-based door locks, AI hazard detection, Wi-Fi capabilities, apps for charging, and so much more. Both remote and short-range hacks can be carried out by exploiting such features, putting EV owners and other drivers at risk.
@@ -74,15 +76,13 @@ It was also stated in the same report that:
  This is just one of the numerous[types of EV hacks](https://www.makeuseof.com/can-electric-vehicles-be-hacked/) that are possible. In order to avoid this, EV manufacturers need to thoroughly vet their software to ensure vulnerabilities aren't being left behind in the code.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Improved Smart Home and IoT Security
 
 ![picture of living room with smart tech connection grid in front](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/smart-home-grid.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  IoT devices make our day-to-day lives possible. Whether you're using your smartphone, smart speaker, smartwatch, or anything similar, IoT is facilitating your actions. In short IoT is a blanket term covering all interconnected devices. This network of connected "things" forms its own[Internet of Things (IoT)](https://www.makeuseof.com/tag/what-is-internet-of-things/) . It's this increased connectivity forming the Internet of Things that has attracted cybercriminals.
 
  The reason for this is similar to the increased focus on EV hacking. Not only do IoT devices rely on software, but they also use wireless connections to communicate with each other. These two elements leave a door open for exploits, be it through software vulnerabilities, malware, or inside actors.
@@ -91,9 +91,6 @@ It was also stated in the same report that:
 
  Because of this growing threat, smart home and IoT security is expected to see an improvement throughout 2024\. Providing patches for vulnerabilities, offering more security features (such as encryption and two-factor authentication), and conducting regular code audits can all help to fend of cyberattacks aimed towards IoT devices and smart homes.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Further Exploit of Cloud Platforms
 
 ![digital graphic of blue cloud blocks with circuitry within](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/cloud-blue-digital.jpg)
@@ -103,6 +100,10 @@ It was also stated in the same report that:
  While cloud platforms are undeniably a convenient storage option, one's ability to access data anywhere with the correct credentials creates a problem. If a hacker manages to access someone's account, they can then look at any data stored on said account—work documents, ID photos, photos and videos, financial information, or anything else.
 
  With this pot of data gold waiting for cybercriminals, it's no surprise that they're doing all they can to get inside. While cloud platforms often come with various security features, they're not impenetrable, and the sheer amount of data stored on these platforms nowadays makes them increasingly attractive to hackers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Continued Topical Email Scams
 
@@ -115,20 +116,18 @@ It was also stated in the same report that:
  As we continue to see more conflicts, tragedies, and scandals arise, there's no doubt that cybercriminals will continue to try and profit from other people's hardships.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Each Year Brings New Cybersecurity Threats
 
  As 2023 comes to its conclusion, it's important to keep 2024's top security trends and predictions in mind. Remaining security-literate helps you fend off threats and better prepare yourself for malicious campaigns. No one knows for sure what 2024 will bring for the cybersecurity realm, but consider keeping the above in mind, as they'll very likely make an appearance.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -137,4 +136,26 @@ It was also stated in the same report that:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-macs-leading-5-mkv-playbackers/"><u>[New] Mac's Leading 5 MKV Playbackers</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-affordable-minecraft-video-graphics/"><u>[Updated] 2024 Approved Affordable Minecraft Video Graphics</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-enhanced-repertoire-of-questions-to-spark-podcast-conversations/"><u>[Updated] Enhanced Repertoire of Questions to Spark Podcast Conversations</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-quicktweet-clip-iphone-friendly-video-download-tool-for-2024/"><u>[Updated] QuickTweet Clip IPhone-Friendly Video Download Tool for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-boosting-income-through-effective-video-marketing/"><u>2024 Approved Boosting Income Through Effective Video Marketing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-introductory-editor-software-devices/"><u>2024 Approved Ultimate Introductory Editor Software (Devices)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-keep-openais-bots-from-harvesting-data-on-your-website/"><u>How to Keep OpenAI's Bots From Harvesting Data on Your Website</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-quickly-update-your-asus-vg248qe-graphics-card-on-windows/"><u>How to Quickly Update Your Asus VG248QE Graphics Card on Windows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-start-using-the-advanced-ai-driven-microsoft-bing-engine/"><u>How to Start Using the Advanced, AI-Driven Microsoft Bing Engine</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/identifying-bing-chatgpts-fraudulent-cryptocurrency-coins-detection-tips/"><u>Identifying Bing ChatGPT's Fraudulent Cryptocurrency Coins - Detection Tips</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-vivo-v29e-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Vivo V29e Device</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/in-depth-look-all-the-new-ai-features-apple-unravelled-at-worldwide-developers-conference-2024/"><u>In-Depth Look: All the New AI Features Apple Unravelled at Worldwide Developers Conference 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/inclusivity-in-ai-how-gpt-4-becomes-universal/"><u>Inclusivity in AI: How GPT-4 Becomes Universal</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovative-ai-powered-platforms-engage-and-analyze-your-pdfs-and-texts/"><u>Innovative AI-Powered Platforms: Engage and Analyze Your PDFs and Texts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovative-ways-to-collaborate-with-chatgpt-for-enhanced-vehicle-personalization-techniques/"><u>Innovative Ways to Collaborate With ChatGPT for Enhanced Vehicle Personalization Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/integrating-natural-language-understanding-in-workflows/"><u>Integrating Natural Language Understanding in Workflows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-googles-latest-gemini-ai-superior-to-microsofts-chatgpt-in-the-battle-of-digital-assistants/"><u>Is Google's Latest Gemini AI Superior to Microsoft's ChatGPT in the Battle of Digital Assistants?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-10-techniques-for-youtube-to-mp4-conversion/"><u>Top 10 Techniques for YouTube to MP4 Conversion</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/unveiling-the-cutting-edge-cost-free-platforms-for-professional-video-editing-for-2024/"><u>Unveiling The Cutting-Edge, Cost-Free Platforms for Professional Video Editing for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Grand 8 Oversights of Apple's Software Legacy
-date: 2024-08-29T01:14:22.553Z
-updated: 2024-08-30T01:14:22.553Z
+date: 2024-12-24T04:56:33.252Z
+updated: 2024-12-28T13:29:31.725Z
 tags:
   - cutting-edge
 categories:
@@ -25,6 +25,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 
  Apple has a history of appealing product design, user-friendly software, and releasing products that are built to last. Along the way, Cupertino has made its fair share of memorable gaffes too. Here are some of the more notable mistakes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The iCloud Photo Library Scanning U-Turn
 
  In August 2021 Apple published its plans to use on-device scanning to screen iCloud photo libraries for child sexual abuse material (CSAM). The company said that the feature was "designed with user privacy in mind" and that the feature would use hashing to match the contents of a user's Photos library with known abusive images, without ever revealing the contents of the image.
@@ -41,9 +45,6 @@ _Apple_
 
  But the real kicker here is that the company had already been scanning some uploaded material for years (though this was limited to iCloud Mail attachments) and that both Google and Microsoft already do this, as [outlined by AppleInsider](https://appleinsider.com/articles/22/08/26/apples-csam-detection-system-may-not-be-perfect-but-it-is-inevitable).
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  The Launch of Apple Maps in iOS 6
 
  The year is 2012 and you've just picked up a shiny new iPhone 5, which came with iOS 6 pre-installed. The operating system looks quite different from the iPhone software of the future, with bloggers using words like "skeuomorphic" to describe the way UI elements and app icons mimicked real-life objects. But this time around there's a new icon and app in town: Apple Maps.
@@ -58,9 +59,6 @@ _Apple_
 
 Related: [The Best CarPlay Apps for Navigating, Entertainment, and More](https://extra-resources.techidaily.com/2024-approved-breaking-barriers-in-text-animation-with-no-cost-tools/) 
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Spotty iCloud Performance
 
  Say what you will about [iCloud](https://facebook-video-share.techidaily.com/updated-in-2024-breaking-barriers-worlds-best-and-largest-shorts-downloaders/), but there's no denying Apple's cloud storage service has had its issues. Two years in developers were referring to the cloud service as "[a developer's worst nightmare](https://9to5mac.com/2013/03/27/icloud-fails-to-just-work-for-third-party-apps-complain-developers/)" due to Apple's early failure to integrate iCloud with Core Data, the way that iPhone apps store data. This led many developers to [consider using Dropbox over iCloud](https://www.macworld.com/article/221433/developers-on-dropbox-datastore-as-an-icloud-alternative.html) to sync app data.
@@ -70,6 +68,10 @@ Related: [The Best CarPlay Apps for Navigating, Entertainment, and More](https:/
  Back then iCloud was far more closed off. Though iCloud first arrived with iOS 5 in 2011, it wasn't until the release of iOS 8 in 2014 that iCloud Drive was introduced. This allowed [iPhone](https://vimeo-videos.techidaily.com/in-2024-quick-vimeo-transformation-tips-easy-to-create-gifs/) and [Mac](https://techno-recovery.techidaily.com/cat5-or-cat6-choosing-the-right-ethernet-cable-for-your-network-needs/) users to store files in iCloud, just like Google Drive, Dropbox, and others had been doing for years.
 
  Like Maps, iCloud has matured a lot since it was first introduced. Though complaints have died down and many apps now use iCloud as standard, fresh iCloud sync issues appeared in November 2021, prompting developers to [speak out in early 2022](https://forums.macrumors.com/threads/developers-unhappy-with-bug-causing-icloud-unreliability.2332348/) in a bid to improve reliability. By January, Apple [informed developers](https://www.idownloadblog.com/2022/01/26/apple-devs-icloud-sync-fix/) that the issue was fixed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  iOS 7's Bold New Direction (and Bugs)
 
@@ -89,6 +91,10 @@ Related: [iPhone Emoji Are the Worst (and Here's Proof)](https://screen-mirror.t
 
  It wouldn't be fair to write iOS 7 off entirely. Apple made strides with some new features. These included [Control Center](https://twitter-videos.techidaily.com/in-2024-gif-galore-converting-tweet-videos-at-zero-cost/) for quickly accessing settings, [AirDrop](https://youtube-zero.techidaily.com/024-approved-creating-stunning-youtube-openings-best-tools-list/) for wireless [file transfer](https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-realme-gt-5frp-lock-by-drfone-android/), and the first iteration of CarPlay.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Failures of the Mac App Store
 
  The Mac App Store works a lot like the App Store on the iPhone and iPad. It's an Apple-vetted method of distributing software, and it comes with many of the same prerequisites. You must conform to Apple's guidelines around the types of apps that are available and the technologies in use, but you get some nice bonuses like automatic updates and the ability to avoid Gatekeeper warnings.
@@ -97,9 +103,6 @@ Related: [iPhone Emoji Are the Worst (and Here's Proof)](https://screen-mirror.t
 
 ![Mac App Store on macOS Ventura](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/mac_app_Store.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
  Sketch still has no Mac App Store version to this day, but the app seems to be going strong. Fortunately, Mac users have an alternative the iPhone and iPad owners do not in that they can [install software from anywhere](https://youtube-stream.techidaily.com/new-streaming-services-face-off-facebook-youtube-and-spaces/) on the macOS platform. But at least Apple's restrictions maintain a high quality of software on the Mac App Store, right? Unfortunately not.
 
  The Mac App Store has [fallen victim to an abundance of crapware](https://extra-support.techidaily.com/new-optimize-zoom-performance-top-three-tactical-approaches/), much of which ticks the right boxes to pass Apple's vetting process but can leave consumers paralyzed by choice. Things have improved somewhat since 2017, but the store isn't perfect.
@@ -107,9 +110,9 @@ Related: [iPhone Emoji Are the Worst (and Here's Proof)](https://screen-mirror.t
  Games in particular still leave a lot to be desired. Multiplayer experiences are still poor on Apple's platform, with games like Civilization VI lacking online multiplayer altogether despite fetching the same price as the (online multiplayer-capable) Steam versions. Pricing is also exorbitant, and (likely due to dwindling popularity) development is slow in terms of updates. We'd recommend buying games on [Steam](http://www.steampowered.com) or [itch.io](http://itch.io) instead.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  "Error 53" and Bricked iPhones
 
  In 2016 some iPhone users started noticing an "Error 53" warning that rendered their devices unusable after updating to iOS 9\. The error was a result of repairs performed on the iPhone 6 and iPhone 6 Plus by a third-party (non-Apple) technician, particularly relating to the [Touch ID](https://facebook-video-recording.techidaily.com/from-zero-to-hero-how-to-triumph-with-10-powerful-fb-strategies-for-2024/) sensor.
@@ -138,13 +141,14 @@ Related: [You Can Now Get Unlimited iPhone Repairs With AppleCare+](https://fox-
 
 ![Apple Music Connect](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/apple_music_connect.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Finding friends who used the service was more complicated than it needed to be, and there was no way to listen to the same music with others (at least [now we have SharePlay](https://extra-approaches.techidaily.com/in-2024-reinforcing-photo-viewing-functionality-with-windows-10-solutions/)). Posts were limited to those made by artists, and the feature became a less prominent part of the Apple Music experience until it was killed off in 2018.
 
  Some of those features persist today, like the ability to find and follow friends but the integration is still poor. Finding your friends involves diving into your profile (hidden under your user icon) or perusing the "What Friends Are Listening To" section of the Listen tab. Still, at least Apple's not calling it a social network anymore.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Missed Opportunities in Mac Gaming
 
  It's often said that people don't buy Macs for gaming, but that didn't necessarily need to be the case. Apple's longstanding indifference to gaming in the non-mobile sense of the word is a big missed opportunity. It's not necessarily that Apple did anything to drive people away from Mac gaming, but rather they did very little to help the scene along (until now, at least).
@@ -157,9 +161,6 @@ Related: [10 Games You Won't Believe Your M1 or M2 Mac Can Run](https://fox-clou
 
  The good news is that Apple seems to finally be waking up to this with titles like Resident Evil Village launching on Mac as a showcase for what [Metal 3's new MetalFX upscaler](https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-itel-s23plus-drfone-by-drfone-virtual-android/) can do. It's also worth acknowledging that "mobile" gaming is very much Apple's pie, with the company [raking in more profit than Sony, Microsoft, or Nintendo](https://appleinsider.com/articles/21/10/03/apple-earned-more-from-gaming-than-sony-nintendo-microsoft-activision-combined) in this department. The term "mobile" game is nebulous, however, since Apple operates its stores on iOS, iPadOS, tvOS, macOS, and via its [Apple Arcade gaming subscription](https://vimeo-videos.techidaily.com/new-get-started-on-vimeo-for-free-the-basics-of-video-editing-for-2024/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Even More Mistakes
 
  If you enjoyed this look at some of Apple's biggest software missteps, make sure to check out our list of [Apple's biggest hardware design fails](https://sim-unlock.techidaily.com/tutorial-to-change-itel-a60-imei-without-root-a-comprehensive-guide-by-drfone-android/) too.
@@ -172,8 +173,6 @@ Related: [10 Games You Won't Believe Your M1 or M2 Mac Can Run](https://fox-clou
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -181,4 +180,21 @@ Related: [10 Games You Won't Believe Your M1 or M2 Mac Can Run](https://fox-clou
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-strategies-for-effective-360-video-broadcasts-on-fb/"><u>[New] 2024 Approved Strategies for Effective 360 Video Broadcasts on FB</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-mastering-multimedia-transfer-facebook-videos-on-whatsapp/"><u>[New] Mastering Multimedia Transfer Facebook Videos on WhatsApp</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-subtitles-revolution-srt-to-sub-upgrade/"><u>[New] Subtitles Revolution SRT to SUB Upgrade</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpts-recent-advancements-a-closer-look-at-new-functionalities-you-need-to-know-about/"><u>ChatGPT's Recent Advancements: A Closer Look at New Functionalities You Need to Know About</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/get-culinary-superpowers-unleash-potential-with-7-chatgpt-methods/"><u>Get Culinary Superpowers: Unleash Potential With 7 ChatGPT Methods</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/guard-against-cyber-threats-recognizing-the-menace-of-these-nine-counterfeit-chatgpt-virus-and-malware-programs/"><u>Guard Against Cyber Threats: Recognizing the Menace of These Nine Counterfeit ChatGPT Virus and Malware Programs</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/guide-to-overcome-lag-and-hang-ups-in-minecraft-for-desktop-players/"><u>Guide to Overcome Lag and Hang-Ups in Minecraft for Desktop Players</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209850266-9781947151277-horn-of-plenty/"><u>Horn of Plenty | Free Book</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-safe-are-non-official-chatgpt-plugins-and-addons/"><u>How Safe Are Non-Official ChatGPT Plugins & Addons?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-from-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password From Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-honor-90-pro-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Honor 90 Pro Phone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-project-excellence-with-chatgpt-a-guide-to-enhanced-content-and-ideas/"><u>Mastering Project Excellence with ChatGPT: A Guide to Enhanced Content & Ideas</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ready-for-a-game-discover-chatgpts-hidden-treasures/"><u>Ready for a Game? Discover ChatGPT's Hidden Treasures</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-guide-to-enhancing-learning-one-talk-show-at-a-time/"><u>The Ultimate Guide to Enhancing Learning, One Talk Show at a Time</u></a></li>
+</ul></div>
 

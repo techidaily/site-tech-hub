@@ -1,7 +1,7 @@
 ---
 title: How Apple's Groundbreaking Gaze Control Is Changing the Game for iPhone & iPad Users with Enhanced Accessibility Options | Insights
-date: 2024-12-06T17:39:01.375Z
-updated: 2024-12-07T16:04:01.491Z
+date: 2024-12-25T08:02:49.875Z
+updated: 2024-12-28T07:54:46.903Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ Read on for a look at some of the new accessibility features coming to Apple har
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New eye-tracking features
@@ -49,7 +49,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Apple Music haptics
@@ -57,7 +57,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Addressing motion sickness
@@ -68,6 +68,10 @@ Motion sickness in cars can often be the result of a disconnect between what you
 
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Understanding speech
 
 A new feature called Voice Shortcuts will let you "assign custom utterances" that Apple's virtual personal assistant Siri will save. When Siri hears those utterances, it'll perform whatever action was assigned to it, including launching apps or engaging in more complex tasks on the device.
@@ -75,7 +79,7 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New CarPlay features
@@ -83,10 +87,6 @@ Another feature, Listen for Atypical Speech, will use machine learning to unders
 Apple's in-car CarPlay software is also getting new accessibility features, including the ability for you to navigate CarPlay and engage with apps using only your voice. A new Sound Recognition feature will display alerts on CarPlay's screen when car horns or sirens go off, and Color Filters will make CarPlay easier to use for colorblind users.
 
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Some other updates
 
@@ -122,19 +122,18 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-flash-and-fly-gaming-top-10-speedy-apps-on-desktopmobile-for-2024/"><u>[Updated] Flash & Fly Gaming Top 10 Speedy Apps on Desktop/Mobile for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-enhancing-clarity-and-comprehensibility-adding-on-screen-captions-in-video-projects/"><u>[Updated] In 2024, Enhancing Clarity & Comprehensibility Adding On-Screen Captions in Video Projects</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-unveiling-the-secrets-of-lut-customization-in-premiere/"><u>[Updated] In 2024, Unveiling the Secrets of LUT Customization in Premiere</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-pioneering-the-pathway-personal-youtube-videos-in-google-accounts/"><u>[Updated] Pioneering the Pathway Personal YouTube Videos in Google Accounts</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-itel-a60s-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Itel A60s Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhancing-your-craft-optimal-uses-of-chatgpt-by-independent-authors/"><u>Enhancing Your Craft: Optimal Uses of ChatGPT by Independent Authors</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-copyright-law-in-artificial-intelligence-who-is-the-author/"><u>Exploring Copyright Law in Artificial Intelligence: Who Is The Author?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-to-get-free-picture-frame-videos-for-2024/"><u>How to Get Free Picture Frame Videos for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-motorola-edge-2023-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Motorola Edge 2023 PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/incorporating-ai-into-fitness-coaching-the-ultimate-guide-to-chatgpt-for-personalized-workouts/"><u>Incorporating AI Into Fitness Coaching: The Ultimate Guide to ChatGPT for Personalized Workouts</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-image-transformation-with-effective-use-of-3d-lut-in-ps-for-2024/"><u>Mastering Image Transformation with Effective Use of 3D LUT in PS for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/resolving-pc-issues-efficiently-with-the-help-of-chatgpt/"><u>Resolving PC Issues Efficiently with the Help of ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-connecting-chatgpt-with-your-whatsapp-business-account/"><u>Step-by-Step Guide: Connecting ChatGPT with Your WhatsApp Business Account</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/study-hacks-gone-wrong-steering-clear-of-misusing-chatgpt-as-a-student/"><u>Study Hacks Gone Wrong: Steering Clear of Misusing ChatGPT as a Student</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-interactive-features/"><u>[New] Interactive Features</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-professional-strategies-for-drone-imagery-editing/"><u>[New] Professional Strategies for Drone Imagery Editing</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/16-unique-metaverse-scenarios-demonstrating-vrs-impact/"><u>16 Unique Metaverse Scenarios Demonstrating VR's Impact</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-machine-delusions-strategies-for-identifying-artificial-intelligence-ai-hallucinations/"><u>Decoding Machine Delusions: Strategies for Identifying Artificial Intelligence (AI) Hallucinations</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-vivo-y78plus-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Vivo Y78+? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/local-llm-weighing-the-benefits-vs-drawbacks-is-it-right-for-your-business/"><u>Local LLM: Weighing the Benefits vs Drawbacks - Is It Right for Your Business?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximize-productivity-on-the-go-how-to-implement-chatgpt-into-your-iphone-or-ipad-experience/"><u>Maximize Productivity on the Go: How to Implement ChatGPT Into Your iPhone or iPad Experience</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/multilingual-mastery-unlocking-the-potential-of-chatgpt-across-different-languages/"><u>Multilingual Mastery: Unlocking the Potential of ChatGPT Across Different Languages</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-macos-video-editing-made-easy-introducing-ezvid-slideshow-software-for-2024/"><u>New MacOS Video Editing Made Easy Introducing Ezvid Slideshow Software for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/sm-bus-controller-downloads-compatible-drivers-for-windows-users-win-11-win-10-win-8-and-win-7/"><u>SM Bus Controller Downloads: Compatible Drivers for Windows Users (Win 11, Win 10, Win 8 & Win 7)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/spellbreak-stability-enhancements-for-windows-users-no-more-crashes/"><u>Spellbreak Stability Enhancements for Windows Users - No More Crashes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/srt-mastery-advanced-techniques-for-mac-users/"><u>SRT Mastery Advanced Techniques for Mac Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/websites-reimagined-through-ai-the-evolutionary-influence-of-cognitive-technologies-on-search-engine-optimization/"><u>Websites Reimagined Through AI: The Evolutionary Influence of Cognitive Technologies on Search Engine Optimization</u></a></li>
 </ul></div>
 

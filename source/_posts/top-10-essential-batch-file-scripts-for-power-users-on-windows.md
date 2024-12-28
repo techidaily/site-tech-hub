@@ -1,7 +1,7 @@
 ---
 title: Top 10 Essential Batch File Scripts for Power Users on Windows
-date: 2024-08-29T01:12:59.789Z
-updated: 2024-08-30T01:12:59.789Z
+date: 2024-12-23T06:29:49.147Z
+updated: 2024-12-28T07:36:17.075Z
 tags:
   - deals
 categories:
@@ -46,12 +46,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The msconfig window open on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/msconfig-system-configuration-window.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Run msinfo32 to Get Your System Specs
 
  Curious about your [system's specs](https://tech-haven.techidaily.com/has-chatgpt-simplified-or-compromised-academic-writings/)? Just type **msinfo32** in the Run dialog box, and you’ll see everything from your processor type to the amount of RAM installed. You can access detailed system summaries, including hardware resources, software environments, and components.
@@ -60,9 +54,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The example PC's information.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/msinfo32-system-infomation.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ##  Manage Your Installed Apps With appwiz.cpl
 
  If you're looking to manage your installed applications, appwiz.cpl is the command for you. This command brings up the Programs and Features window, giving you a complete list of installed applications on your PC. With a few clicks, you can [quickly uninstall programs](https://youtube-docs.techidaily.com/ed-in-2024-strategies-for-using-youtube-to-boost-classroom-engagement/), change installed programs, or repair programs that aren't working properly.
@@ -72,11 +63,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![A list of installed programs showing in Programs and Features window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/appwiz-programs-and-features-window.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Customize Your Display With desk.cpl
 
  Whether you need to [change your screen resolution](https://instagram-clips.techidaily.com/2024-approved-unleashing-your-brand-potential-with-advanced-insights-on-instagram-data/), or [orientation](https://some-knowledge.techidaily.com/frustrated-photographers-face-black-screen-woes-for-2024/), or manage multiple monitors, the desk.cpl command brings all display-related settings to your fingertips. Additionally, it allows you to adjust your screen brightness, refresh rate, or the size of apps, text, or any other items.
@@ -84,6 +77,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Press Windows+R and type **desk.cpl** to start customizing your desktop environment based on your preferences.
 
 ![The Display settings menu of the system.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/desk-display-settings.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Adjust Your Mouse Settings With main.cpl
 
@@ -93,9 +90,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Showing properties and other options for mouse and trackpad.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/main-mouse-properties.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Establish a Remote Connection Using mstsc
 
  mstsc refers to Microsoft Terminal Services Client, which is usually known as Remote Desktop Connection. Simply type **mstsc** in the Run window and [establish a remote desktop connection](https://fox-direct.techidaily.com/unleash-creativity-with-these-essential-vector-editors-for-2024/). You can also customize your remote desktop settings by changing its size, color, audio, and others.
@@ -104,9 +98,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The remote desktop connections window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/mstsc-remote-desktop-connection.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Calibrate Your Screen With dccw
 
  Want to calibrate your monitor for accurate colors? Try dccw. Running this command will open the Display Color Calibration tool, which guides you through [adjusting your monitor’s color settings](https://games-able.techidaily.com/catch-up-on-classic-gaming-with-iphone-and-psp-fusion/). Poor color accuracy can be frustrating, especially for graphic designers or photographers.
@@ -114,8 +105,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  To make sure that colors are displayed correctly while calibrating, follow the step-by-step instructions in the dccw calibration window. Additionally, it guides you through adjusting gamma, brightness, contrast, and color balance.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Remove Junk and Old Files Using cleanmgr
 
  Over time, your computer builds up unnecessary files. To keep your computer working smoothly, you need to [remove these files](https://on-screen-recording.techidaily.com/updated-street-smart-showdown-top-hand-to-hand-video-games-for-2024/). You can do this within a few steps by typing the **cleanmgr** command in the Run dialog box.
@@ -123,6 +115,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  With cleanmgr, you can scan your specific drives and delete temporary files, system caches, recycled items, and other unnecessary data. It’s a quick way to reclaim disk space and [improve system performance](https://screen-activity-recording.techidaily.com/new-capturing-clarity-the-essential-list-of-macos-recorders-for-2024/).
 
 ![Removing unwanted files with the Disk Cleanup utility.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/cleanmgr-clean-disk.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Monitor Your PC's Performance With resmon
 
@@ -133,13 +129,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Viewing real time data of system resources in Resource Monitor window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/resmon-resource-tool.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Navigate Efficiently With "." and ".."
 
  Finally, we have the single dot **.** and the double dot **..** commands. You might use these **.** and **..** commands with cd in the command prompt or PowerShell or any other [terminal for changing directories](https://extra-information.techidaily.com/quick-and-easy-iphone-burst-techniques/). The **.** and **..** commands may seem simple, but they're incredibly useful for navigating the Windows file system.
 
  In the Run dialog, typing **.** opens the current user's home directory, while **..** opens the Users directory. These commands are shortcuts for quick navigation through the file system, especially useful for accessing user-specific files and folders.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Mastering Your Windows PC
 
@@ -153,8 +154,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,4 +161,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/avigating-revenue-systems-for-mobile-creators-a-2024-comprehensive-tutorial/"><u>[New] Navigating Revenue Systems for Mobile Creators - A 2024 Comprehensive Tutorial</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-examining-splitcam-top-video-recorder/"><u>[Updated] Examining SplitCam Top Video Recorder?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-elevate-your-channelenas-expensive-check-out-our-11-free-name-generators-guide/"><u>[Updated] In 2024, Elevate Your Channel'enas Expensive? Check Out Our 11 Free Name Generators Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-mobile-and-desktop-no-cost-magnifier-toolkit-for-2024/"><u>[Updated] Mobile & Desktop No-Cost Magnifier Toolkit for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/50-ransomware-fix-with-smartphone-hacks-plus-how-chatgpt-is-shaping-our-podcast-conversations-today/"><u>$50 Ransomware Fix with Smartphone Hacks - Plus, How ChatGPT Is Shaping Our Podcast Conversations Today!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/6-ways-content-writers-can-outperform-ai-writing-tools/"><u>6 Ways Content Writers Can Outperform AI Writing Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-and-math-are-they-compatible/"><u>AI & Math: Are They Compatible?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-communication-contest-assessing-the-superior-capabilities-of-perplexity-and-chatgpt-plus/"><u>AI Communication Contest: Assessing the Superior Capabilities of Perplexity and ChatGPT Plus</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-enhanced-browsing-with-bing-easy-sign-up-instructions/"><u>AI Enhanced Browsing with Bing: Easy Sign-Up Instructions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exclusive-analysis-full-potential-of-bublcams-360-degree-scope-for-2024/"><u>Exclusive Analysis Full Potential of Bublcam's 360-Degree Scope for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/iconic-logos-for-podcasts-standout-strategies/"><u>Iconic Logos for Podcasts Standout Strategies</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-convert-with-confidence-best-apps-to-turn-spotify-into-youtube-channels/"><u>In 2024, Convert with Confidence Best Apps to Turn Spotify Into YouTube Channels</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-optimizing-audio-clarity-in-home-vo-recording-setups/"><u>In 2024, Optimizing Audio Clarity in Home VO Recording Setups</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722153552959-transitioning-to-ai-freedom-discover-the-continued-benefits-of-choosing-chatgpt-plus-over-free-gpt/"><u>Transitioning to AI Freedom: Discover the Continued Benefits of Choosing ChatGPT Plus Over Free GPT- #</u></a></li>
+</ul></div>
 

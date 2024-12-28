@@ -1,7 +1,7 @@
 ---
 title: "From Green to Silver: The Top Three iPhone 16 Advances That May Convert an Android Lover on ZDNet."
-date: 2024-12-18T23:41:25.193Z
-updated: 2024-12-22T16:32:09.078Z
+date: 2024-12-25T08:43:49.745Z
+updated: 2024-12-28T14:12:17.215Z
 tags:
   - apple
 categories:
@@ -37,7 +37,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Reducing lens flare with new materials
@@ -49,7 +49,7 @@ When capturing images with the iPhone -- Pro model or not -- bright light source
 As reported by [MacRumors](https://www.macrumors.com/2024/04/15/iphone-16-pro-camera-reduced-lens-flare/), sources close to Apple's supply chain have hinted that the company is testing a new anti-reflective optical coating, made of atomic layer deposition, intended to reduce the camera artifacts previously mentioned. Should Apple introduce the feature with the iPhone 16, it would fix one of the longest-standing complaints about the iPhone camera system.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Higher refresh rate displays on non-Pro models
@@ -61,7 +61,7 @@ Apple did something very courageous last year: It brought the Pro line's Dynamic
 Compared to the Pro model's 120Hz display, which portrays animations in a much flowy, smoother manner, the non-Pro iPhones' 60Hz panels just didn't look as polished, with a noticeable stutter when scrolling through bodies of text. Dialing up the refresh rate, even up to 90Hz, would make the baseline iPhone 16 models more satisfying to look at and interact with.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. A voice assistant I can take Siri-ously
@@ -104,19 +104,22 @@ Apple has already hinted at an AI-focused [Worldwide Developer Conference](https
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-mastering-voice-over-recording-for-videos/"><u>[Updated] Mastering Voice-Over Recording for Videos</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-powered-spreadsheet-solutions-via-chatgpt-and-excel/"><u>AI-Powered Spreadsheet Solutions via ChatGPT & Excel</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/all-revealed-delving-into-every-detail-of-apples-artificial-intelligence-at-the-2024-worldwide-developers-conference/"><u>All Revealed: Delving Into Every Detail of Apple's Artificial Intelligence at the 2024 Worldwide Developers Conference</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/anticipating-ai-breakthroughs-expecting-gpt-5s-launch/"><u>Anticipating AI Breakthroughs: Expecting GPT-5's Launch?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/assessing-chatbot-skills-gpt-versus-huggingface/"><u>Assessing Chatbot Skills: GPT Versus HuggingFace</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/auto-gpt-setup-made-easy-a-comprehensive-tutorial-for-ubuntu-users/"><u>Auto-GPT Setup Made Easy: A Comprehensive Tutorial for Ubuntu Users</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/best-artifice-intelligence-chatbots-showdown-chatgpt-versus-microsofts-bing-and-googles-bard/"><u>Best Artifice Intelligence Chatbots Showdown: ChatGPT Versus Microsoft's Bing and Google's Bard</u></a></li>
-<li><a href="https://win11.techidaily.com/configuring-gpos-on-single-user-accounts-using-the-latest-windows-oses/"><u>Configuring GPOs on Single-User Accounts Using the Latest Windows OSes</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/dont-miss-out-exclusive-october-prime-day-202n4-offers-on-games-save-up-to-1k-now-zdnet/"><u>Don't Miss Out! Exclusive October Prime Day 202N4 Offers on Games - Save Up To $1K Now | ZDNET</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-nokia-c22-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Nokia C22 To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/iphone-call-recording-made-easy-understanding-the-law-and-techniques/"><u>IPhone Call Recording Made Easy - Understanding the Law and Techniques</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/the-fortune-changing-club-free-50-banners-await/"><u>Join The Fortune-Changing Club Free 50 Banners Await</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/revolutionize-editing-the-secret-techniques-for-background-obliteration-in-affinity/"><u>Revolutionize Editing The Secret Techniques for Background Obliteration in Affinity</u></a></li>
-<li><a href="https://driver-download.techidaily.com/upgrade-graphics-performance-downloading-and-installing-the-newest-amd-rx-6800-xt-driver-for-various-windows-versions-win11-win10-win8-win7/"><u>Upgrade Graphics Performance: Downloading & Installing the Newest AMD RX 6800 XT Driver for Various Windows Versions (Win11, Win10, Win8, Win7)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-fast-track-to-flawless-podcast-live/"><u>[Updated] 2024 Approved Fast Track to Flawless Podcast Live</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/assessing-intelligence-progressive-approaches-post-turing/"><u>Assessing Intelligence: Progressive Approaches Post-Turing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/avoiding-threats-while-grabbing-gratis-vlc-player-for-apple-machines-for-2024/"><u>Avoiding Threats While Grabbing Gratis VLC Player for Apple Machines for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparative-analysis-snapchats-ai-vs-microsofts-bing-chat-on-skype-unveiling-the-top-8-distinctions/"><u>Comparative Analysis: Snapchat's AI Vs. Microsoft's Bing Chat on Skype - Unveiling the Top 8 Distinctions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/deciphering-generative-ai-search-industry-adopters-explained/"><u>Deciphering Generative AI Search: Industry Adopters Explained</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/disable-screen-lock-on-y200e-5g-by-drfone-android-unlock-android-unlock/"><u>Disable screen lock on Y200e 5G</u></a></li>
+<li><a href="https://some-tips.techidaily.com/empresa-converter-mpg-para-videos-em-wma-gratis-utilizando-a-ferramenta-on-line-do-movavi/"><u>Empresa Converter MPG Para Vídeos Em WMA Gratis, Utilizando a Ferramenta On-Line Do Movavi</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/how-to-captivate-with-instagrams-live-feature/"><u>How to Captivate with Instagram's Live Feature</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Honor Magic 5? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovative-character-building-how-chatgpt-and-dall-e-enhance-your-dandd-gameplay/"><u>Innovative Character Building: How ChatGPT and DALL-E Enhance Your D&D Gameplay</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastery-in-making-essential-7-tricks-for-ai-success/"><u>Mastery in Making: Essential 7 Tricks for AI Success</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/premium-background-music-compilations-for-2024/"><u>Premium Background Music Compilations for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionize-your-online-experience-the-top-ai-chrome-tools-for-enhanced-performance/"><u>Revolutionize Your Online Experience: The Top AI Chrome Tools for Enhanced Performance</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-new-potentials-in-excel-the-top-3-ways-to-utilize-chatgpt-technology/"><u>Unlocking New Potentials in Excel: The Top 3 Ways to Utilize ChatGPT Technology</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-versatile-implementation-of-chatgpt/"><u>Unveiling the Versatile Implementation of ChatGPT</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-download-filmora-free-safe-and-virus-free-torrent-guide/"><u>Updated 2024 Approved Download Filmora Free Safe and Virus-Free Torrent Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/upgraded-multitasking-with-microsofts-multi-display-feature-in-edge/"><u>Upgraded Multitasking with Microsoft's Multi-Display Feature in Edge</u></a></li>
 </ul></div>
 

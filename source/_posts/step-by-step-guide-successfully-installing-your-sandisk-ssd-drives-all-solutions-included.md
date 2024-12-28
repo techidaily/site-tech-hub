@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Successfully Installing Your Sandisk SSD Drives - All Solutions Included"
-date: 2024-08-29T01:15:05.230Z
-updated: 2024-08-30T01:15:05.230Z
+date: 2024-12-26T18:13:42.059Z
+updated: 2024-12-28T08:40:57.743Z
 tags:
   - win11
   - win10
@@ -26,11 +26,24 @@ thumbnail: https://thmb.techidaily.com/fd52a4ddb4c67fef5b4a68a7a51c8e47e5f13f4d1
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run dialog box. Then, type in**msinfo32** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-69.png)
 2. Here pops up the**System Information** window. On the**System Summary** tab, in the details pane, look for**System Manufacturer** and**System Model** , then take note of their**Value** – that’s precisely the make and model of your motherboard.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  For example, as shown below, the motherboard manufacturer should be Dell and the device model should be Vostro 270.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-70.png)
 3. Close the window when you finish noting down the information.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to download and install SATA Controller drivers
 
@@ -46,9 +59,6 @@ OR
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ## Option 1 – Download and install the driver manually
 
  Motherboard manufacturers such as Intel keep updating their motherboard SSD Controller drivers. To get them, you need to go to their official websites, find the driver corresponding with your specific flavor of Windows version (for example, Windows 32 bit) and download the driver manually.  
@@ -60,8 +70,9 @@ OR
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Option 2 – Automatically update the SATA Controller driver
 
  If you don’t have the time, patience or computer skills to download and install your SATA Controller driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -74,17 +85,14 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/de-scan-6.1.png)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/Intel-SATA-AHCI-Controller.png)
 4. Restart your computer for the change to take effect.
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Driver Easy uses only genuine drivers, straight from your hardware manufacturer. And they’re all tested and certified – either by Microsoft or by itself. Or both.
 
@@ -109,8 +117,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -118,4 +124,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-youtubes-finest-ranked-by-skyrocketing-subscriber-numbers/"><u>[Updated] In 2024, YouTube's Finest Ranked by Skyrocketing Subscriber Numbers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-new-users-on-the-road-to-zoom-room-mastery/"><u>[Updated] New Users on the Road to Zoom Room Mastery</u></a></li>
+<li><a href="https://common-error.techidaily.com/conquering-error-code-0x80070643-effective-solutions-for-windows-updateinstallation-failures/"><u>Conquering Error Code 0X80070643: Effective Solutions for Windows Update/Installation Failures</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effortless-method-for-verifying-installed-nvidia-chip-drivers/"><u>Effortless Method for Verifying Installed NVIDIA Chip Drivers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/facing-a-chatgpt-freeze-out-here-are-4-common-issues-and-how-to-resolve-them-quickly/"><u>Facing a ChatGPT Freeze-Out? Here Are 4 Common Issues and How to Resolve Them Quickly</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/free-dvd-ripping-showdown-in-depth-comparison-between-winx-dvd-ripper-and-handbrake-features-and-performance/"><u>Free DVD Ripping Showdown: In-Depth Comparison Between WinX DVD Ripper and HandBrake Features and Performance</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-text-to-adventure-navigating-gpts-roleplay-scenarios/"><u>From Text to Adventure: Navigating GPT's Roleplay Scenarios</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-artificial-intelligence-boosts-scholarly-study-unveiling-4-techniques/"><u>How Artificial Intelligence Boosts Scholarly Study: Unveiling 4 Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-craft-your-own-personalized-chatbot-integrating-local-data-for-enhanced-learning/"><u>How to Craft Your Own Personalized Chatbot: Integrating Local Data for Enhanced Learning</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/identifying-the-beneficiary-in-ai-copyright-claims/"><u>Identifying the Beneficiary in AI Copyright Claims</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-why-the-samsung-galaxy-s10-stands-out-as-a-superior-smartphone/"><u>The Ultimate Guide to Why the Samsung Galaxy S10 Stands Out as a Superior Smartphone</u></a></li>
+</ul></div>
 

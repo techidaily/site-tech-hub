@@ -1,7 +1,7 @@
 ---
 title: "Save 20%% Today: Top Picks in Travel-Friendly Cell Case & Charger Bundles + Apple Band Deals on ZDNet"
-date: 2024-12-21T16:41:30.643Z
-updated: 2024-12-22T16:01:11.952Z
+date: 2024-12-25T13:25:12.816Z
+updated: 2024-12-28T14:18:20.979Z
 tags:
   - apple
 categories:
@@ -25,7 +25,7 @@ We've gone hands-on with dozens of laptops this year, and scoured the internet f
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The best laptop deals for Amazon Prime Day 2024
@@ -79,6 +79,10 @@ Equipped with an Nvidia GeForce RTX 4080 GPU and a dual mode mini LED display, t
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C3P346B4%2Fref%3Dasc%5Fdf%5FB0C3P346B41727002800000%3Fcreative%3D395261%26creativeASIN%3DB0C3P346B4%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9ce9008-3603-459e-8a58-f4457742ba16%7Cdtp&dtb=1) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Prime Day Chromebook deals
 
 Asus/ZDNET
@@ -103,16 +107,16 @@ HPZDNET
 * [HP Victus 15.6-inch laptop for $599 (Save $100)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Display-i5-12450H-Dedicated-15-fa1029nr%2Fdp%2FB0CVNJ7LLN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9ce9008-3603-459e-8a58-f4457742ba16%7Cdtp&dtb=1): This is a great price for a 15-inch laptop designed for cloud gaming and light creative work. It's got an Nvidia GeForce RTX 2050 dedicated graphics card and a144Hz Full-HD display.
 * [HP 14 inch Laptop for $349 (Save $120)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Generation-i3-1215U-Graphics-14-dq5009nr%2Fdp%2FB0CS3XPZNH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9ce9008-3603-459e-8a58-f4457742ba16%7Cdtp&dtb=1): This budget laptop features a modest suite of hardware but covers all the basics for an inexpensive but capable and portable machine.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Prime Day Lenovo deals
 
 Lenovo/ZDNET
 
 * [Lenovo Legion 5i for $1,339 (save $160)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Display-GeForce-2560x1600-Battery%2Fdp%2FB0CVLFS7WP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9ce9008-3603-459e-8a58-f4457742ba16%7Cdtp&dtb=1): This 16-inch laptop from Lenovo's gaming PC line features an Intel i7 processor, 32GB of RAM, and a solid selection of ports for all your gaming accessories for just $1,500.
 * [Lenovo ThinkBook 15 for $525 (save $74)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkBook-15-Business-i7-1165G7%2Fdp%2FB0D1CQPWPG%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9ce9008-3603-459e-8a58-f4457742ba16%7Cdtp&dtb=1): This laptop is a powerhouse for your back-to-school or business needs. Its 8-core AMD Ryzen 7 processor pairs with 16GB of RAM, so any major spec-heavy tasks will perform smoothly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best Buy laptop deals during Prime Day
 
@@ -124,7 +128,7 @@ Kyle Kucharski/ZDNET
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## More Prime Day 2024 laptop deals
@@ -141,17 +145,9 @@ Kyle Kucharski/ZDNET
 
 Amazon Prime Day officially ran from July 16 to July 17, but sometimes deals continue afterward.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### What's the best gaming laptop deal on Prime Day?
 
 There are a lot of great gaming laptops on sale right now, but in our opinion, [this deal on the Razer Blade 16](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRazer-Blade-Gaming-Laptop-4090-13th%2Fdp%2FB0BQP1WCP4%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9ce9008-3603-459e-8a58-f4457742ba16%7Cdtp&dtb=1) is the best. We're talking $1,000 off one of the most high-end gaming laptops on the market, with hardware that is future-proofed to be relevant for years to come. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Is Amazon Prime Day a good time to buy a laptop?
 
@@ -162,6 +158,10 @@ Even though Amazon isn't typically the first place you think of when you're shop
 At ZDNET, we only write about deals our team members would want to buy -- devices and products we desire, need, or would recommend. We looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops.
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we recommend. These recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### When will these deals expire?
 
@@ -230,22 +230,16 @@ And the best deals still available from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-how-to-quickly-capture-iphone-screens-on-the-fly/"><u>[New] 2024 Approved How to Quickly Capture iPhone Screens on the Fly</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/lite-content-makers-top-paid-online-stars/"><u>[New] Elite Content Makers Top Paid Online Stars</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-two-effective-ways-how-can-i-share-youtube-videos-on-facebook-for-2024/"><u>[Updated] Two Effective Ways! How Can I Share YouTube Videos on Facebook for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/5-crucial-considerations-for-selecting-the-perfect-fitness-monitor-or-tracker/"><u>5 Crucial Considerations for Selecting the Perfect Fitness Monitor or Tracker</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/boost-visibility-and-engagement-with-smart-social-media-videos/"><u>Boost Visibility and Engagement with Smart Social Media Videos</u></a></li>
-<li><a href="https://win-dash.techidaily.com/cost-free-hp-laserjet-printer-drivers-download-for-optimal-windows-7-compatibility/"><u>Cost-Free HP LaserJet Printer Drivers Download for Optimal Windows 7 Compatibility</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-updated-drivers-for-your-gigabyte-z370m-p-motherboard-today/"><u>Download Updated Drivers for Your Gigabyte Z370M-P Motherboard Today</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-honor-90-gt-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Honor 90 GT and Browser | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Motorola Defy 2? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-ai-prompts-with-these-top-five-online-training-programs/"><u>Mastering the Art of AI Prompts with These Top Five Online Training Programs</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/maximizing-productivity-with-chatgpts-personalized-command-options-a-comprehensive-guide/"><u>Maximizing Productivity with ChatGPT's Personalized Command Options: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mitigate-loneliness-using-conversational-ai-tips-with-chatgpt/"><u>Mitigate Loneliness Using Conversational AI - Tips with ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-future-tech-4-regulatory-avenues-for-ai-tools/"><u>Navigating Future Tech: 4 Regulatory Avenues for AI Tools</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-generative-tech-with-parenthood/"><u>Navigating Generative Tech with Parenthood</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-through-gpt-3s-custom-instruction-mechanism/"><u>Navigating Through GPT-3’s Custom Instruction Mechanism</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/paving-the-path-for-auto-gpt-installation/"><u>Paving the Path for Auto-GPT Installation</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/peak-performance-structuring-effective-ai-dialogue/"><u>Peak Performance: Structuring Effective AI Dialogue</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-nix-youtube-snippet-playback-on-all-devices/"><u>[New] Nix YouTube Snippet Playback on All Devices</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-rgbs-role-in-modern-color-standards-compared-to-srgb/"><u>[Updated] 2024 Approved Rgb's Role in Modern Color Standards Compared to Srgb</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-seamless-creation-with-xp-movie-maker-features/"><u>[Updated] In 2024, Seamless Creation with XP Movie Maker Features</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-snap-scissor-and-save-how-the-iphone-revolutionizes-image-cropping/"><u>[Updated] Snap, Scissor & Save How the iPhone Revolutionizes Image Cropping</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/te-your-recordings-doing-without-a-microphone/"><u>Elevate Your Recordings Doing Without a Microphone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/protecting-youself-from-chatgpt-monitoring/"><u>Protecting Youself From ChatGPT Monitoring</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-battle-of-linguistic-giants-how-gpt-differs-from-bert/"><u>The Battle of Linguistic Giants: How GPT Differs From BERT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-future-of-analysis-chatgpts-six-game-changing-techniques/"><u>The Future of Analysis: ChatGPT’s Six Game-Changing Techniques</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-origin-not-loading-or-going-online/"><u>Troubleshooting Origin Not Loading or Going Online</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-tips-how-to-tell-if-playstation-network-is-down-or-if-the-problem-lies-with-your-setup/"><u>Troubleshooting Tips: How to Tell if PlayStation Network Is Down or If the Problem Lies with Your Setup</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unnecessary-chatgpt-plugins-why-theyre-not-worth-the-effort/"><u>Unnecessary ChatGPT Plugins: Why They're Not Worth the Effort</u></a></li>
 </ul></div>
 

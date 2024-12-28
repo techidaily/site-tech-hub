@@ -1,7 +1,7 @@
 ---
 title: Curated List of the Top 8 Android & iPhone AI Apps
-date: 2024-08-29T01:15:55.565Z
-updated: 2024-08-30T01:15:55.565Z
+date: 2024-12-25T12:10:41.035Z
+updated: 2024-12-27T18:08:12.350Z
 tags:
   - chatgpt
   - open-ai
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/5f1d20c9cdc38cb1d77f47c43dee5a5d477e2ff17
  For this week's show, we asked ChatGPT to help out with outlining and even writing the show. Here's a bit more information on[how we used ChatGPT to script the podcast](https://www.makeuseof.com/i-used-chatgpt-to-script-a-podcast-heres-what-happened/) .
 
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Shownotes
 
@@ -44,14 +48,11 @@ We finish the show with the following recommendations:
 
  Christian Cawley hosts this week's podcast, and is joined by Ben Stegner. You can contact them on Twitter:[@thegadgetmonkey](https://twitter.com/thegadgetmonkey) and[@stegnersaurus](https://twitter.com/stegnersaurus) , with your suggestions for future topics.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -60,8 +61,22 @@ We finish the show with the following recommendations:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-capturecrafted-expert-reviews-on-the-best-screen-recorders-for-2024/"><u>[New] CaptureCrafted Expert Reviews on the Best Screen Recorders for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-celestial-wonders-at-your-fingertips-hd-sky-website-guide/"><u>[New] Celestial Wonders at Your Fingertips - HD Sky Website Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-action-in-high-definition-t5-eye-revealed/"><u>2024 Approved Action in High Definition T5 Eye Revealed</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-night-mode-magic-with-iphone-cameras/"><u>2024 Approved Night Mode Magic with iPhone Cameras</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/capturing-motion-in-4k-with-nikon-d500-for-2024/"><u>Capturing Motion in 4K with Nikon D500 for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/full-tutorial-to-bypass-your-realme-12plus-5g-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Realme 12+ 5G Face Lock?</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-prevent-dreamlight-valley-pc-game-crashes-a-comprehensive-guide/"><u>How To Prevent Dreamlight Valley PC Game Crashes - A Comprehensive Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-xiaomi-redmi-12-5g-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Xiaomi Redmi 12 5G Is Unlocked</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/puzzling-the-digital-sphere-join-4-ai-enhanced-crime-games/"><u>Puzzling the Digital Sphere: Join 4 AI-Enhanced Crime Games</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/replaced-leader-openai-and-gpt-implications/"><u>Replaced Leader: OpenAI and GPT Implications</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionize-your-development-process-with-these-angs-to-leverage-chatgpts-syntax-translation-capabilities/"><u>Revolutionize Your Development Process with These Angs to Leverage ChatGPT's Syntax Translation Capabilities</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/seamlessly-edit-pdfs-find-the-ultimate-ai-plugin-set/"><u>Seamlessly Edit PDFs: Find the Ultimate AI Plugin Set</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/select-the-best-ai-conversational-agent-7-crucial-characteristics-to-look-for/"><u>Select the Best AI Conversational Agent: 7 Crucial Characteristics to Look For</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tailored-cv-writing-personalized-cover-letters-with-gpt/"><u>Tailored CV: Writing Personalized Cover Letters with GPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tapping-into-conversational-ai-5-approaches-to-engage-with-chatgpt-anonymously/"><u>Tapping Into Conversational AI: 5 Approaches to Engage with ChatGPT Anonymously</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->

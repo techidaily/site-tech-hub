@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Journey of Creating Guitar Solos Using AI Technology
-date: 2024-08-29T01:13:49.465Z
-updated: 2024-08-30T01:13:49.465Z
+date: 2024-12-24T13:12:47.725Z
+updated: 2024-12-27T18:14:19.286Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Unveiling the Journey of Creating Guitar Solos Using AI Technology
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -27,8 +31,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  I started playing electric guitar recently and quickly discovered that creating new songs is hard, especially if you don't know music theory or scales. So, I thought, why not ask someone who knows music theory better than anyone else—AI?
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Rocking It With ChatGPT
 
  Let's kick things off with something simple, such as a rock guitar riff.
@@ -54,8 +59,9 @@ Your browser does not support the video tag.
  An odd anomaly is that ChatGPT said the riff contains slides and bends, but there aren't any indications in the tabs to play them. Slides are usually indicated with a slanted line or the letter "s," and bends are indicated with a "b." They're missing from the tabs, so I chose to omit them as well.
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Does Gemini Do It Better?
 
 Your browser does not support the video tag. 
@@ -69,8 +75,9 @@ Your browser does not support the video tag.
  Considering that these two riffs were the best that I could get after fiddling with Gemini for half an hour, I think that ChatGPT is the better musician.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Let’s Try a Few Basslines
 
  Since bass is my favorite instrument, I had to include a couple of basslines to see how ChatGPT did.
@@ -84,8 +91,9 @@ Your browser does not support the video tag.
  The second bassline is for a rock song, and I think that it's pretty good. It's a bit repetitive, but that could easily be remedied by alternating between lower and higher strings while maintaining the same intervals.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  It’s Best to Interpret and Improvise
 
  There's a lot of room for creativity within these riffs and basslines. If you sit down with your guitar with the intent to make an original song but don't feel inspired, there's no shame in asking ChatGPT to get you started with a unique riff. Figuring out the rhythm alone is a massive part of the music creation process; let your emotions dictate how the tabs should be played, just like I did today.
@@ -98,8 +106,6 @@ Your browser does not support the video tag.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -107,4 +113,24 @@ Your browser does not support the video tag.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-elite-gopro-hero5-black-charger-kits-genuine-and-counterparts-for-2024/"><u>[New] Elite GoPro Hero5 Black Charger Kits, Genuine and Counterparts for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-visual-voyage-the-finest-10-mac-exclusive-drawing-apps-free/"><u>[New] In 2024, Visual Voyage The Finest 10 Mac-Exclusive Drawing Apps (Free)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-budget-friendly-high-quality-earphones-for-gaming/"><u>[Updated] 2024 Approved Budget-Friendly, High-Quality Earphones for Gaming</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-comprehensive-guide-to-claude-3-uses-and-functions/"><u>A Comprehensive Guide to Claude 3 Uses & Functions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/aerial-robotics-simplified-how-drones-fly-talk-and-work/"><u>Aerial Robotics Simplified How Drones Fly, Talk & Work</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-conversationalists-face-off-can-chatgpt-outperform-google-bard/"><u>AI Conversationalists Face-Off: Can ChatGPT Outperform Google Bard?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1721814779498-ai-integration-boosts-bing-mobile-search-for-android-and-ios-devices/"><u>AI Integration Boosts Bing Mobile Search for Android & iOS Devices</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-limitations-exposed-5-compelling-reasons-against-using-chatgpt-for-health-consultations/"><u>AI Limitations Exposed: 5 Compelling Reasons Against Using ChatGPT for Health Consultations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-powered-insights-integrating-chatgpt-into-your-research-process/"><u>AI-Powered Insights: Integrating ChatGPT Into Your Research Process</u></a></li>
+<li><a href="https://fox-that.techidaily.com/experiencing-delayed-text-messages-on-your-iphone-try-these-9-fixes/"><u>Experiencing Delayed Text Messages on Your iPhone? Try These 9 Fixes</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-iphone-15-pro-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 Pro When We Dont Have Apple ID or Password?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-digital-diary-keepers-securely-download-tweets-videos/"><u>In 2024, Digital Diary Keepers Securely Download Tweets' Videos</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/print-error-unforeseen-setup-glitch-detected/"><u>Print Error: Unforeseen Setup Glitch Detected</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-key-to-ai-conversations-leveraging-quora-for-entry-into-the-world-of-elite-chatbots-and-large-language-models/"><u>The Key to AI Conversations: Leveraging Quora for Entry Into the World of Elite Chatbots & Large Language Models</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722213116531-tweet-no-more-emojis-linuss-leaks-trojan-breakdown-and-chatgpt-woes/"><u>Tweet No More Emojis, Linus's Leaks, Trojan Breakdown, & ChatGPT Woes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-the-smart-brains-behind-android-a-guide-to-system-intelligence/"><u>Understanding the Smart Brains Behind Android: A Guide to System Intelligence</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722027440380-unveiling-nine-innovative-options-better-than-openais-chatbot-app-for-android-and-ios-devices/"><u>Unveiling Nine Innovative Options Better than OpenAI's Chatbot App for Android and iOS Devices.</u></a></li>
+</ul></div>
 

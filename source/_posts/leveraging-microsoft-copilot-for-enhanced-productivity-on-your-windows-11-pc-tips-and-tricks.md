@@ -1,7 +1,7 @@
 ---
 title: "Leveraging Microsoft Copilot for Enhanced Productivity on Your Windows 11 PC: Tips and Tricks"
-date: 2024-08-29T01:11:51.032Z
-updated: 2024-08-30T01:11:51.032Z
+date: 2024-12-23T04:07:58.489Z
+updated: 2024-12-28T06:46:14.240Z
 tags:
   - desktop
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/15f46f7d0d38e67cb89897b04873987b9a53cd336
 
  You've likely noticed by now that AI assistants, despite appearing nearly everywhere these days, don't always have obvious usecases. To that end, I've been using Microsoft Copilot on Windows 11 on everything from everyday tasks to advanced projects. I'll show you how it helps me get the most out of my daily PC use.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Are AI Assistants Really Useful?
 
  In 2024, we're frewuently told that AI assistants should make using our tech a breeze. Microsoft's offering, [Copilot](https://vimeo-videos.techidaily.com/new-2024-approved-ultimate-vimeo-cutting-suite-revealed/), is being put on every PC Microsoft can. The chatbot aims to simplify messing with Windows settings, editing photos in Paint, working on Office documents, and making coding in Notepad faster.
@@ -27,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/15f46f7d0d38e67cb89897b04873987b9a53cd336
  For the most part, it feels like AI just adds extra steps to tasks that weren't that difficult to begin with. It's no more convenient to instruct Windows Copilot to ["lock my computer"](https://facebook.techidaily.com/renewable-revolution-complete-energy-for-fb/) when pressing Windows+L accomplishes the task just as well.
 
  That being said, when AI works, it truly works wonders. With Copilot, I've gained a better understanding of the code I write in Go with Notepad, improved my image editing in Paint, and so on. I'm willing to give it a chance and am excited to see how its promise evolves closer to reality.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  First Impressions of Copilot
 
@@ -42,23 +50,25 @@ thumbnail: https://thmb.techidaily.com/15f46f7d0d38e67cb89897b04873987b9a53cd336
 
  Note that these four tests are important to how I use Copilot. However, everyone uses AI tools differently. You may have different criteria for Copilot, and that's OK!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Task 1: Multitasking Efficiency
 
 ![cop-snap-my-windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/cop-snap-my-windows.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 Co-pilot snapping my windows in my project.
 
  In the first test, I explored Copilot's multitasking efficiency and asked it to organize a virtual workspace for a project I've been working on: launching specific apps, arranging my windows in a particular way on the desktop, and setting up reminder notifications. This test is designed to assess how Copilot handles multitasking, which requires several steps. During my testing, Copilot easily executed basic commands. However, it struggled with following complex instructions and often got them wrong.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Task 2: Creative Assistance in Paint
 
 ![cop-paint-text](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/cop-paint-text.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Co-pilot failing at generating readable text in Paint.
 
@@ -67,8 +77,9 @@ Co-pilot failing at generating readable text in Paint.
 ![cop-paint-with-layers](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/cop-paint-with-layers.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Co-pilot helping me replace my background with a generated landscape in Paint.
 
  However, it struggled with generating text, like nearly all AI artwork tools.
@@ -81,16 +92,10 @@ Co-pilot analyzing my Go code.
 
  Given how useful I find Copilot's integration with Notepad, I decided to test how well it can help me with debugging code. I presented Copilot with some intentionally broken Go code and asked it to fix it for me. In no time, it could find the errors, explain them to me, and generate some working code that I could deploy.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Task 4: Usability
 
  In using Copilot, I found (at least in my personal experience) that voice interaction was excellent for executing basic tasks. For example: vocally asking it "Snap my windows" works well. However, for more advanced tasks, like "analyze this code," typing out instructions worked much better as it was easier to explain what I wanted.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  My Favorite Features To Use
 
  By far, my favorite feature to use with Microsoft's new Copilot feature is Notepad integration. Normally, when I write my Go code on my computer, it's on Linux in the Geany IDE. However, on Windows 11, I feel comfortable writing code in Notepad because I can ask Copilot questions about functions I'm writing or for advice on implementing code. It's an excellent feature and one that I hope gets more publicity.
@@ -99,9 +104,6 @@ Co-pilot analyzing my Go code.
 
  Lastly, I enjoy the Copilot integration with Paint. For years, Paint has been a sub-par photo editing tool on Windows, lacking features that paid tools like Photoshop offer. However, with the new Copilot integration, Paint can do everything from removing backgrounds in images to generating content like ChatGPT can.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ##  See What Copilot Can Do for You
 
  From my experience with Copilot, it is evident that this new feature isn't a silly toy to play with but a useful tool that re-imagines the way you interact with your Windows 11 PC. If you've never tried out Copilot before, I encourage you to integrate it into your PC workflow so that you can experience the multitude of ways that [it can personalize and enrich your computing experience](https://extra-resources.techidaily.com/iphone-tricks-to-embrace-cameras-motion-artistry/).
@@ -112,8 +114,6 @@ Co-pilot analyzing my Go code.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,4 +121,17 @@ Co-pilot analyzing my Go code.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-crafting-impressive-instagram-reels-quickly-for-2024/"><u>[New] Crafting Impressive Instagram Reels Quickly for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-unconfident-to-impactful-embracing-youtube-blogging/"><u>[Updated] In 2024, From Unconfident to Impactful Embracing YouTube Blogging</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/balancing-curiosity-and-security-with-chatgpt-for-children/"><u>Balancing Curiosity and Security with ChatGPT for Children</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-in-action-exploring-seven-practical-use-cases/"><u>ChatGPT in Action: Exploring Seven Practical Use Cases</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-login-trouble-heres-how-you-can-fix-it-easily/"><u>ChatGPT Login Trouble? Here's How You Can Fix It Easily</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-no-go-zone-unpacking-italys-sudden-ban-on-ai-conversational-tool/"><u>ChatGPT No-Go Zone: Unpacking Italy’s Sudden Ban on AI Conversational Tool</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-apples-advanced-artificial-intelligence-in-next-gen-devices-innovatetech-today/"><u>Exploring Apple's Advanced Artificial Intelligence in Next-Gen Devices | InnovateTech Today</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-oppo-a58-4g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Oppo A58 4G Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-apple-id-from-iphone-12-mini-without-password-by-drfone-ios/"><u>How to Remove Apple ID from iPhone 12 mini without Password?</u></a></li>
+<li><a href="https://win-lab.techidaily.com/perfektes-verfahren-zum-klonen-von-windows-11-auf-einem-nvme-ssd/"><u>Perfektes Verfahren Zum Klonen Von Windows 11 Auf Einem NVMe SSD</u></a></li>
+</ul></div>
 

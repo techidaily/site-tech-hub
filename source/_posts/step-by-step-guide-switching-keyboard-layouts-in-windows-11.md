@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Switching Keyboard Layouts in Windows 11"
-date: 2024-08-29T01:12:52.140Z
-updated: 2024-08-30T01:12:52.140Z
+date: 2024-12-24T11:59:42.624Z
+updated: 2024-12-27T17:39:13.178Z
 tags:
   - deals
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343eb
 ---
 
 ## Step-by-Step Guide: Switching Keyboard Layouts in Windows 11
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -25,9 +29,6 @@ thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343eb
 
  Whether you work with international clients or just want to impress your friends, you might encounter situations that require you to type in another language. Fortunately, navigating between keyboard layouts and typing in your desired language is a breeze on Windows 11.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ##  How to Change Your Keyboard Language
 
  During the Windows 11 setup process, you'll be asked to choose your preferred keyboard language. This will become the default language for your computer. However, you can easily install additional keyboard languages and switch between them through the Windows Settings app.
@@ -39,15 +40,17 @@ thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343eb
 ![Time & language option in the Settings app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/time-language-option.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Click the "Add a Language" button.
 
 ![Add a language option in the Settings app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/add-a-language-option.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Choose the language you want to install and then click the "Next" button.
 
 ![Next option in the Settings app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/next-option.jpg) 
@@ -60,18 +63,6 @@ thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343eb
 
 ![Language icon in the Settings app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/language-icon.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Alternatively, you can press the Windows+ Spacebar or Alt+Shift keys together to switch the language on your Windows computer.
 
 ##  How to Change Your Keyboard Layout
@@ -85,8 +76,9 @@ thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343eb
 ![Language options in the Settings app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/language-options.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Click the "Add a Keyboard" button next to Installed keyboards.
 
 ![Add a keyboard option in the Settings app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/add-a-keyboard-option.jpg) 
@@ -94,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343eb
  Choose the layout of your choice to install it. You can [use the on-screen keyboard](https://screen-capture.techidaily.com/updated-2024-approved-how-to-record-your-desktop-screen-on-windows-for-free-3-methods/) to see how the selected layout will work on your computer.
 
 ![Onscreen keyboard on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/onscreen-keyboard.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you've finalized a layout, you can remove the other keyboard layouts for your language.
 
@@ -105,22 +101,20 @@ thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343eb
 
 ![Remove option in the Settings app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/remove-option.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  A prompt will appear asking you to confirm whether you want to remove the selected language. Click "Yes" to confirm.
 
 ![Yes option in the Settings app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/yes-option.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  That's all! The selected language is now removed from your computer.
 
  As we mentioned before, a language can have multiple keyboard layouts. If you don't like a particular layout for your language, you can remove it. To do this, click the three dots next to the language whose layout you want to remove and choose "Language Options" from the menu.
 
 ![Language options in the Settings app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/language-options.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Under the Keyboards section, click the three dots next to the layout you want to remove and choose "Remove" from the menu that crops up.
 
 ![Remove button in the Settings app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/remove-button.jpg) 
@@ -137,8 +131,6 @@ thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343eb
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,4 +138,19 @@ thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343eb
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-bridging-the-gap-between-facebook-videos-and-apple-tv-compatibility/"><u>[Updated] 2024 Approved Bridging the Gap Between Facebook Videos and Apple TV Compatibility</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-audio-avenger-your-pathway-to-sound-in-story-posts/"><u>[Updated] The Audio Avenger Your Pathway to Sound in Story Posts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-seeking-excellence-prime-free-srt-online-translators-guide/"><u>2024 Approved Seeking Excellence Prime Free SRT Online Translators Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/adapting-chatgpt-for-personalized-prose-strategies-to-match-your-penmanship/"><u>Adapting ChatGPT for Personalized Prose: Strategies to Match Your Penmanship</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-at-the-helm-unveiling-the-top-8-productive-chrome-extensions/"><u>AI at the Helm: Unveiling the Top 8 Productive Chrome Extensions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-enhanced-solutions-for-hr-efficiency/"><u>AI Enhanced Solutions for HR Efficiency</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-powered-quests-redefining-microsofts-bing-experience/"><u>AI-Powered Quests: Redefining Microsoft's Bing Experience</u></a></li>
+<li><a href="https://solve-help.techidaily.com/expert-guide-why-winx-mediatrans-is-the-preferred-choice-for-effortless-cross-platform-content-movement-on-ios-and-pc/"><u>Expert Guide: Why WinX MediaTrans Is the Preferred Choice for Effortless Cross-Platform Content Movement on iOS & PC</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1721894075258-facing-chatgpt-body-stream-issue-here-are-seven-effective-fixes-to-try-out/"><u>Facing ChatGPT Body Stream Issue? Here Are Seven Effective Fixes to Try Out!</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-apple-iphone-13-could-not-be-activatedreached-issue-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone 13 Could Not Be Activated/Reached Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/microsoft-store-locked-heres-your-path-forward/"><u>Microsoft Store Locked? Here's Your Path Forward</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-6-must-have-party-essentials-for-unforgettable-outdoor-celebrations-insights-from-zdnet/"><u>Top 6 Must-Have Party Essentials for Unforgettable Outdoor Celebrations - Insights From ZDNet</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Stop Unexpected Shutdowns on Windows Systems: Identify and Fix the Most Common Issues in 8 Easy Steps"
-date: 2024-08-29T01:12:05.295Z
-updated: 2024-08-30T01:12:05.295Z
+date: 2024-12-27T02:12:17.893Z
+updated: 2024-12-28T09:59:51.523Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/7e2c59b8b1649e31fbe322986a570ae3c50e92f57
 ---
 
 ## Stop Unexpected Shutdowns on Windows Systems: Identify and Fix the Most Common Issues in 8 Easy Steps
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -22,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/7e2c59b8b1649e31fbe322986a570ae3c50e92f57
 * [Update Drivers](https://extra-lessons.techidaily.com/inside-the-speech-of-cyberspace-must-know-vr-terms/)
 * [Change Advanced Battery Settings](https://facebook-record-videos.techidaily.com/updated-2024-approved-clearing-up-black-screens-in-youtube-playback/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Ensure the power cable is properly plugged in, and plug your PC into a different electric socket. Also, run your laptop directly on an AC power supply to check if the battery has a problem.
@@ -30,34 +38,22 @@ thumbnail: https://thmb.techidaily.com/7e2c59b8b1649e31fbe322986a570ae3c50e92f57
 
  Is your Windows laptop or PC shutting down unexpectedly? Issues such as a faulty laptop battery, a loose power cable, overheating, misconfigured power settings, outdated drivers, or faulty PC components could be to blame. If you're frustrated by this problem, try these solutions.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ##  Using a PC? Perform Some Preliminary Checks
 
  Unlike a laptop, which draws power from its battery, a PC relies on a steady connection to an external power supply to remain on. If the power cable is loosely connected to the computer or the socket, even a slight disturbance can disrupt the power flow, leading to shutdowns. Therefore, check that the power cable is securely plugged in at both ends. 
 
  Also, inspect the power cable for any signs of damage, and plug the power cable into a different socket to eliminate potential socket-related issues. If you use a UPS to manage power outages, ensure it's not faulty and supplies stable power. Also, if you're [overclocking your CPU](https://facebook-video-content.techidaily.com/the-role-and-significance-of-blue-icons-in-fb-chats/), turn off overclocking, as it could lead to similar issues.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Check for Issues With Your Battery
 
 ![Person holding a removable laptop battery](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/52924050697_319a9e0730_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Jordan Gloor / How-To Geek
 
  If you're experiencing this issue with a laptop while using it on battery power, ensure a faulty battery isn't causing it. To check this, remove the battery from your laptop, plug the official charger into an electric socket, and run the laptop directly on the power supply. If the problem doesn't occur when using a direct power supply, the battery is probably faulty.
 
  However, if you face the same problem even when the laptop is powered directly, the battery is not to blame. Try some of the remaining fixes instead. 
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Ensure Your Device Isn't Being Overheated
 
  If your computer shuts down only when it's overheated, heat is likely the problem. This happens because computers have a protection mechanism that kicks in to prevent damage to hardware components. To confirm that overheating is the issue, run less intensive tasks that don't cause overheating. If your computer is fine running tasks that don't use many resources, but it crashes running intensive applications (like photo or video editing software, games, and so on), heat could be your problem. You can [see which program is using up system resources](https://video-screen-grab.techidaily.com/in-2024-from-spoken-word-to-memo-iphone-audio-guidance/) in the Task Manager. 
@@ -71,6 +67,10 @@ Jordan Gloor / How-To Geek
  To do so, type **Control Panel** into the Windows Search bar and open it. Navigate to Hardware and Sound > Power Options, and select "Choose What the Power Button Does" on the left-hand side. After that, uncheck the box beside "Turn on Fast Startup (Recommended)" and click "Save Changes."
 
 ![Disabling Fast Startup in Control Panel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/disabling-fast-startup-control-panel.jpeg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If turning off this feature doesn't resolve the issue, re-enable it and try the remaining troubleshooting steps.
 
@@ -88,9 +88,6 @@ Jordan Gloor / How-To Geek
 
  There isn't a practical way to repair RAM or a storage drive, so if either are faulty, you'll have to replace them. 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ##  Update Drivers
 
  Faulty drivers could also cause random shutdowns. To rule out this possible, type **Device Manager** in Windows Search and open Device Manager. If you see a warning sign or exclamation mark next to a driver, it indicates it's outdated or corrupted. So, you need to update it or reinstall it from scratch.
@@ -99,12 +96,13 @@ Jordan Gloor / How-To Geek
 
 ![Windows 11 Update Drivers window highlighting 'Browse my computer for drivers' option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-update-drivers-window-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Make sure you update drivers for the GPU, battery, disk drives, processor, USB controllers, and other software components, even if there are no warning signs next to them.
 
  You may also be able to [find an error message in Event Viewer](https://remote-screen-capture.techidaily.com/in-2024-unlocking-the-potential-of-screenshotting-your-android-device/) that will narrow down which driver (or device) is the problem. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Change Advanced Battery Settings
 
@@ -118,6 +116,10 @@ Jordan Gloor / How-To Geek
 
 ![Changing the low battery action in power settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/changing-the-low-battery-action-in-power-settings.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
  If your computer was experiencing random shutdowns due to one of the causes discussed earlier, you should have addressed the issue by now. If the problem persists despite trying the suggested fixes or unsure about performing the steps mentioned, you can seek assistance from a professional to resolve the issue.
@@ -128,8 +130,6 @@ Jordan Gloor / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,4 +137,21 @@ Jordan Gloor / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-the-fundamentals-of-starting-an-instantaneous-broadcast/"><u>[New] 2024 Approved The Fundamentals of Starting an Instantaneous Broadcast</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-innovative-boomers-for-dynamic-snaps-on-snapchat-for-2024/"><u>[New] Innovative Boomers for Dynamic Snaps on Snapchat for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-secrets-to-unlocking-costless-image-streams/"><u>[Updated] Secrets to Unlocking Costless Image Streams</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/50-mobile-phone-deal-unlocking-the-secrets-of-ransomware-decryption-join-us-for-an-exciting-chatgpt-powered-podcast/"><u>$50 Mobile Phone Deal: Unlocking the Secrets of Ransomware Decryption - Join Us for an Exciting ChatGPT-Powered Podcast!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/8-innovative-neural-network-alternatives-eclipsing-chatgpts-mobile-version/"><u>8 Innovative Neural Network Alternatives Eclipsing ChatGPT's Mobile Version</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-step-by-step-guide-to-fixing-stop-0x0000007b-system-critical-process-terminated-unexpectedly-bsod/"><u>A Step-by-Step Guide to Fixing STOP 0X0000007B System Critical Process Terminated Unexpectedly BSOD</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/accelerate-administrative-hr-tasks-5-smart-gpt-powered-techniques/"><u>Accelerate Administrative HR Tasks: 5 Smart GPT-Powered Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ace-your-job-hunt-writing-an-impressive-resume-using-chatgpt/"><u>Ace Your Job Hunt: Writing an Impressive Resume Using ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-driven-recruitment-tips-navigating-linkedin-with-10-helpful-insights/"><u>AI-Driven Recruitment Tips: Navigating LinkedIn with 10 Helpful Insights</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/ensuring-perfect-fb-live-recordings-a-guide-to-4-ways/"><u>Ensuring Perfect FB Live Recordings A Guide to 4 Ways</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mov-files-on-samsung-galaxy-f14-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>How do you play .mov files on Samsung Galaxy F14 5G ?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/implementing-slack-into-daily-routines-for-efficient-project-management/"><u>Implementing Slack Into Daily Routines for Efficient Project Management</u></a></li>
+<li><a href="https://win-dash.techidaily.com/solve-rndis-driver-woes-with-this-simple-guide-to-installation-and-updates-on-windows-pcs/"><u>Solve RNDIS Driver Woes with This Simple Guide to Installation & Updates on Windows PCs</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/why-the-nook-glowlight-3-stands-out-in-low-light-a-comprehensive-review-for-book-lovers/"><u>Why the Nook GlowLight 3 Stands Out in Low Light: A Comprehensive Review for Book Lovers</u></a></li>
+</ul></div>
 

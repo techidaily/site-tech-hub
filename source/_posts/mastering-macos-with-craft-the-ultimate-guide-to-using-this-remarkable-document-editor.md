@@ -1,7 +1,7 @@
 ---
 title: "Mastering MacOS with Craft: The Ultimate Guide to Using This Remarkable Document Editor"
-date: 2024-12-18T17:12:09.888Z
-updated: 2024-12-23T00:40:20.061Z
+date: 2024-12-22T04:48:19.705Z
+updated: 2024-12-27T16:26:01.394Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ But then something sort of magical happened -- I started using the app. Once I u
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Craft?
@@ -40,7 +40,7 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -64,7 +64,7 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -78,7 +78,7 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -129,17 +129,22 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-camlock-secure-mounting-clip/"><u>[New] 2024 Approved CamLock Secure Mounting Clip</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-ultimate-list-of-highest-rated-free-video-editing-apps-for-idevices/"><u>[Updated] 2024 Approved Ultimate List of Highest-Rated Free Video Editing Apps for iDevices</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-mastering-color-grading-techniques-in-gopro-studio-for-2024/"><u>[Updated] Mastering Color Grading Techniques in GoPro Studio for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-oppo-find-x7-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Oppo Find X7 Ultra | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-tips-fixing-two-users-ms-login-conflicts/"><u>Expert Tips: Fixing Two Users' MS Login Conflicts</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-easy-steps-to-locate-recently-viewed-videos-by-you-on-fb/"><u>In 2024, Easy Steps to Locate Recently Viewed Videos by You on FB</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Samsung Galaxy S23 FE | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1721991999681-no-more-waiting-for-chatgpt-unleash-the-power-of-this-amazing-free-open-source-alternative/"><u>No More Waiting for ChatGPT: Unleash the Power of This Amazing Free Open Source Alternative!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-7-superior-ai-programs-for-swift-and-accurate-math-problem-solving/"><u>Unveiling 7 Superior AI Programs for Swift and Accurate Math Problem Solving</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-possible-vulnerabilities-in-chatgpt/"><u>Unveiling Possible Vulnerabilities in ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/user-confidentiality-in-ai-driven-interactions/"><u>User Confidentiality in AI-Driven Interactions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/walkthrough-efficiently-downloading-and-implementing-your-own-auto-gpt/"><u>Walkthrough: Efficiently Downloading and Implementing Your Own Auto-GPT</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-crafting-engaging-music-reactions-the-youtube-enthusiasts-blueprint/"><u>[New] 2024 Approved Crafting Engaging Music Reactions The YouTube Enthusiast's Blueprint</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-tech-insight-pulling-and-keeping-twitters-vids-in-phone-for-2024/"><u>[New] Tech Insight Pulling and Keeping Twitters Vids in Phone for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-ace-10-drones-for-photography-and-cinematic-prowess/"><u>[Updated] Ace 10 Drones for Photography & Cinematic Prowess</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-masterpiece-maker-top-free-editors-for-android-devices/"><u>2024 Approved Masterpiece Maker Top Free Editors for Android Devices</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-plus-top-6-advantages-over-the-newly-free-gpt-4-why-you-should-stick-with-premium/"><u>ChatGPT Plus: Top 6 Advantages Over the Newly Free GPT-4 – Why You Should Stick with Premium!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comprehensive-walkthrough-accessing-chatgpt-anywhere-even-on-android-and-ios-phones/"><u>Comprehensive Walkthrough: Accessing ChatGPT Anywhere, Even on Android & iOS Phones</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancing-prose-leveraging-gpt-3-in-creative-narratives/"><u>Enhancing Prose: Leveraging GPT-3 in Creative Narratives</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/explore-these-5-tricks-for-no-cost-open-source-ai-access/"><u>Explore These 5 Tricks for No Cost, Open Source AI Access</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-facts-about-truthgpt-coin-not-just-another-crypto-scam/"><u>Exploring the Facts About TruthGPT Coin – Not Just Another Crypto Scam?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/go-beyond-basic-10-advanced-whatsapp-tips-and-tricks-you-must-try-for-2024/"><u>Go Beyond Basic 10 Advanced WhatsApp Tips and Tricks You Must Try for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/protect-yourself-discerning-authentic-from-imitation-chatgpt-apps-on-iphone/"><u>Protect Yourself: Discerning Authentic From Imitation ChatGPT Apps on iPhone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/streamlining-content-designs-using-canva-gpt-at-scale/"><u>Streamlining Content Designs Using Canva, GPT at Scale</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-art-of-choosing-effective-timeline-image-covers/"><u>The Art of Choosing Effective Timeline Image Covers</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ltimate-format-selection-elevating-your-youtube-content-for-2024/"><u>The Ultimate Format Selection – Elevating Your YouTube Content for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/unleashing-the-power-of-color-in-final-cut-pro-for-2024/"><u>Unleashing the Power of Color in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-differences-a-closer-look-at-gpt-4-versus-its-counterparts-gpt-4-turbo-and-gpt-4o/"><u>Unveiling Differences: A Closer Look at GPT-4 Versus Its Counterparts, GPT-4 Turbo and GPT-4o</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-1011-enforcing-group-policy-on-single-user-profiles/"><u>Win 10/11: Enforcing Group Policy on Single-User Profiles</u></a></li>
 </ul></div>
 

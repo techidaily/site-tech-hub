@@ -1,7 +1,7 @@
 ---
 title: "Revamp Your PC's Identity: A Step-by-Step Guide to Renaming Admin Account on Windows 11"
-date: 2024-08-29T01:12:45.850Z
-updated: 2024-08-30T01:12:45.850Z
+date: 2024-12-21T00:45:36.757Z
+updated: 2024-12-28T04:35:22.447Z
 tags:
   - deals
 categories:
@@ -26,8 +26,9 @@ thumbnail: https://thmb.techidaily.com/03446fa7c6c4437cc78cf994a5cd500e9e19b7398
  Didn't choose a unique administrator name when you set up your computer, but now you want to add a personal touch? Windows makes it easy to change the administrator name. Here are four quick ways to change the administrator name on Windows 11.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  1\. Change the Administrator Name Using the Settings App
 
  If you're signed in with a [Microsoft account](https://sim-unlock.techidaily.com/in-2024-sim-unlock-vivo-y17s-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/) instead of a local account, you can change your name using the link in the Accounts window of the Settings app. To do that, press Windows+i to [open the Settings app](https://facebook-video-footage.techidaily.com/updated-2024-approved-5-easy-ways-to-multiply-your-youtube-follower-base/). Then, go to Accounts > Your info > Accounts.
@@ -42,14 +43,8 @@ thumbnail: https://thmb.techidaily.com/03446fa7c6c4437cc78cf994a5cd500e9e19b7398
 
 ![Save option on Microsoft page](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/save-option-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
  That's it! The administrator name of your computer is now changed.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ##  2\. Change the Administrator Name Using the Control Panel
 
  The Settings app method only works if you're logged in with a Microsoft account. If you're using a [local account](https://tech-recovery.techidaily.com/protect-your-system-with-these-15-free-instant-boot-antivirus-tools/), you must change the admin account name using a different method.
@@ -58,13 +53,18 @@ thumbnail: https://thmb.techidaily.com/03446fa7c6c4437cc78cf994a5cd500e9e19b7398
 
 ![Change my account name option in the Control Panel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/change-my-account-name.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Type the new name in the "New account name" field and click "Change Name".
 
 ![Change name option in the Control Panel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/change-name-option.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You'll see the new name appear on the welcome screen and the Start menu.
 
 ##  3\. Change the Administrator Name Using the Netplwiz Command
@@ -76,22 +76,21 @@ thumbnail: https://thmb.techidaily.com/03446fa7c6c4437cc78cf994a5cd500e9e19b7398
 ![netplwiz command in the Run tool](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/netplwiz-command.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In the User Accounts window that appears, select your account and click "Properties".
 
 ![Properties option in the User Accounts window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/properties-option-1.jpg) 
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Type the name in the "Full name" field and then click "Apply" and "OK".
 
 ![Full name field in the User Accounts window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/full-name-field-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
  Then, you'll have to sign out and sign back in for the changes to take effect.
 
 ##  4\. Change the Administrator Name Using Command Prompt
@@ -114,6 +113,10 @@ wmic useraccount get fullname, name
     
 ![Administrator name changing command in Command Prompt](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/administrator-name-changing-command.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You will see the "Method execution successful" message indicating that the command ran successfully and the administrator account name is now changed.
 
 ---
@@ -126,8 +129,6 @@ wmic useraccount get fullname, name
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,4 +136,20 @@ wmic useraccount get fullname, name
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-spin-the-wheels-developing-dances-on-your-macos/"><u>[Updated] In 2024, Spin the Wheels Developing Dances on Your MacOS</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/5-breakthrough-bots-providing-virtual-therapy-assistance/"><u>5 Breakthrough Bots Providing Virtual Therapy Assistance</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/5-ways-students-can-use-chatgpt-in-school/"><u>5 Ways Students Can Use ChatGPT in School</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/9-easy-steps-to-mend-your-mobile-minds-chatgpt-issues/"><u>9 Easy Steps to Mend Your Mobile Mind's ChatGPT Issues</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-and-your-kids-an-in-depth-parents-handbook-for-understanding-chatgpt/"><u>AI and Your Kids: An In-Depth Parent's Handbook for Understanding ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-programming-pros-chatgpt-vs-gemini-who-wins-the-code-challenge/"><u>AI Programming Pros: ChatGPT Vs. Gemini – Who Wins the Code Challenge?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-steps-downloading-and-installing-your-hp-all-in-one-printer-drivers-on-windows-computers/"><u>Easy Steps: Downloading & Installing Your HP All-in-One Printer Drivers on Windows Computers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1721834500833-how-these-seven-cutting-edge-apps-harness-the-capabilities-of-gpt-revealed/"><u>How These Seven Cutting-Edge Apps Harness the Capabilities of GPT-# Revealed</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-realme-10t-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Realme 10T 5G to iPad | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-oppo-reno-8t-5g-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Oppo Reno 8T 5G</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/shop-now-exclusive-deal-on-powerband-for-apple-watches-save-big-and-boost-functionality-for-only-40-insights/"><u>Shop Now: Exclusive Deal on PowerBand for Apple Watches! Save Big and Boost Functionality for Only $40 | Insights</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-guide-to-clearing-up-iphone-troubles-with-a-network-settings-reset/"><u>The Ultimate Guide to Clearing Up iPhone Troubles with a Network Settings Reset</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-images-into-ultra-high-definition-uhd-using-winxvideo-ai/"><u>Transform Images Into Ultra-High Definition (UHD) Using Winxvideo AI</u></a></li>
+</ul></div>
 

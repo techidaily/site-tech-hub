@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Updating Your Applications in Windows 11"
-date: 2024-08-29T01:12:54.690Z
-updated: 2024-08-30T01:12:54.690Z
+date: 2024-12-27T11:26:10.455Z
+updated: 2024-12-28T10:53:45.865Z
 tags:
   - deals
 categories:
@@ -33,24 +33,26 @@ thumbnail: https://thmb.techidaily.com/23c1e788c86a1fe74b0e576c3c163c7e8cc36d0f7
 
 ![Microsoft Store highlighted in Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-open-microsoft-store.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the Store’s left sidebar, select "Library."
 
 !['Library' highlighted in Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-microsoft-store-library.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  On the Library page, in the Updates and Downloads section, you’ll find the apps due for an update.
 
  To update a specific app, next to that app’s name, click the "Update" button. To update all your apps at once, at the top of the page, click the "Update All" button.
 
 !['Update All' highlighted in Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/12-update-apps-microsoft-store.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Wait for the Store to download and install the updates for your apps. Once that’s done, you can launch your apps.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ###  How to Enable Automatic Updates in Microsoft Store
 
  Microsoft Store can automatically [update your apps](https://win11-tips.techidaily.com/proper-planning-essential-steps-for-using-wsl-2-right/) if you’d like. To enable that option, in the Store’s top-right corner, click the profile icon and select "Settings."
@@ -61,11 +63,12 @@ thumbnail: https://thmb.techidaily.com/23c1e788c86a1fe74b0e576c3c163c7e8cc36d0f7
 
 !['App Updates' highlighted in Microsoft Store Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-microsoft-store-disable-app-updates.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the future, to prevent the Store from automatically updating apps, turn off the "App Updates" option. We recommend keeping the option turned on, but if you’re on a metered connection, you might not want the Store to use so much of your internet data.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Update Non-Microsoft Store Apps
 
  To update an app that doesn’t come from Microsoft Store, use an option within the app or visit the app developer site.
@@ -75,10 +78,9 @@ thumbnail: https://thmb.techidaily.com/23c1e788c86a1fe74b0e576c3c163c7e8cc36d0f7
 ![Help > Check for Updates highlighted in VLC Media Player.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-update-vlc.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Similarly, in Spotify, you can select Help > About Spotify and choose "Click Here to Download" if an update is available.
 
  Some apps, like 7-Zip, don’t offer the update option in the app. In these cases, you’ll have to visit the app developer’s site, download the latest app installer, and run the installer to replace the current app version with the latest one. This will bring your app up to date.
@@ -86,8 +88,9 @@ The powerful video editing program for your Windows PC</a>
 !['Download' options highlighted on the 7-Zip website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-update-7-zip.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Update Apps Using Command Prompt
 
  If you prefer command line methods over graphical ones, [use the winget (Windows Package Manager) command](https://activate-lock.techidaily.com/3-effective-ways-to-bypass-activation-lock-on-iphone-xs-by-drfone-ios/) in Command Prompt to update your apps. This command lets you update apps individually or all of them at once. 
@@ -97,8 +100,9 @@ The powerful video editing program for your Windows PC</a>
 !['Run as Administrator' highlighted for Command Prompt in Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-run-cmd-as-admin.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In the "User Account Control" (UAC) prompt, select "Yes."
 
  To list the apps that are due for an update, type the following command and press Enter:
@@ -115,9 +119,6 @@ winget upgrade “AppName”
 
 !['winget upgrade 'Zoom' typed in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/11-update-specific-app-winget.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
  The command will begin updating the specified app. You’ll see the live progress on the CMD window. It’ll let you know when the app is updated.
 
  If you want to update all the apps at once, use the following command:
@@ -136,8 +137,6 @@ winget upgrade -h -all
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +144,23 @@ winget upgrade -h -all
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-navigating-the-world-of-pc-screencasters-with-ease/"><u>[New] 2024 Approved Navigating the World of PC Screencasters with Ease</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-design-personalized-brands-with-zero-cost-templates/"><u>[Updated] 2024 Approved Design Personalized Brands with Zero-Cost Templates</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-comparative-study-the-advantages-and-disadvantages-of-local-llms/"><u>A Comparative Study: The Advantages & Disadvantages of Local LLMs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ace-interviews-how-chatgpt-can-help-you-create-an-impressive-cover-letter/"><u>Ace Interviews: How ChatGPT Can Help You Create an Impressive Cover Letter</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-in-action-chatgpts-transformative-use-cases/"><u>AI in Action: ChatGPT's Transformative Use Cases</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-powered-artistry-writing-beautiful-poems-with-the-assistance-of-chaturbot/"><u>AI-Powered Artistry: Writing Beautiful Poems with the Assistance of Chaturbot</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722113423606-chatgpt-now-on-your-iphone-and-ipad-discover-how/"><u>ChatGPT Now on Your iPhone and iPad - Discover How</u></a></li>
+<li><a href="https://win-forum.techidaily.com/facebook-vs-twitter-vs-instagram-vs-youtube-the-battle-for-user-engagement-in-major-social-media-platforms/"><u>Facebook vs Twitter vs Instagram vs YouTube - The Battle for User Engagement in Major Social Media Platforms</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/how-to-apologize-and-say-sorry-in-german/"><u>How To Apologize And Say Sorry In German</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722096037571-impatient-for-chatgpt-on-your-device-heres-where-you-can-find-robust-open-source-solutions-instead/"><u>Impatient for ChatGPT on Your Device? Here's Where You Can Find Robust Open Source Solutions Instead</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722012379630-misleading-alert-the-non-existent-safe-chatgpt-window-version-is-actually-malware/"><u>Misleading Alert: The Non-Existent Safe ChatGPT Window Version Is Actually Malware</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-resize-youtube-videos-to-right-aspect-ratio-on-mac-for-2024/"><u>Quick Resize YouTube Videos to Right Aspect Ratio on Mac for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/roblox-audio-not-working-solve-the-mute-mystery-in-windows-11-and-10-environments/"><u>Roblox Audio Not Working? Solve the Mute Mystery in Windows 11 and 10 Environments</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/samsung-galaxy-watch-active-reviewed-the-essential-wearable-for-fitness-and-lifestyle-tracking/"><u>Samsung Galaxy Watch Active Reviewed - The Essential Wearable for Fitness and Lifestyle Tracking</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/wirecast-review-and-alternatives/"><u>Wirecast Review and Alternatives</u></a></li>
+</ul></div>
 

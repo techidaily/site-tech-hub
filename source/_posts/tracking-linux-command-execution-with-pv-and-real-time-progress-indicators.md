@@ -1,7 +1,7 @@
 ---
 title: Tracking Linux Command Execution with 'Pv' And Real-Time Progress Indicators
-date: 2024-08-29T01:11:17.790Z
-updated: 2024-08-30T01:11:17.790Z
+date: 2024-12-24T07:49:39.198Z
+updated: 2024-12-28T11:37:46.911Z
 tags:
   - desktop
 categories:
@@ -55,9 +55,13 @@ sudo pacman -Syu pv
 ![sudo pacman -Syu pv in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/progress_3.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Using pv
 
 `pv` stands for [pipe viewer](http://man7.org/linux/man-pages/man1/pv.1.html). Piping has to be involved in the command somewhere. Here's an example where we're piping an ISO image through `zip` to make a compressed zip file of the ISO.
@@ -68,12 +72,13 @@ pv /media/dave/SILVERXHD/gparted-live-1.0.0-1-amd64.iso | zip > gparted.zip
 
 ![pv /media/dave/SILVERXHD/gparted-live-1.0.0-1-amd64.iso | zip > gparted.zip in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/progress_6.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The information `pv` gives us can be seen in the bottom line of the display.
 
 ![pv output for creating a zip file in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/progress_7.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  From left to right, the information that is displayed is:
 
@@ -83,9 +88,6 @@ pv /media/dave/SILVERXHD/gparted-live-1.0.0-1-amd64.iso | zip > gparted.zip
 * A progress bar and a percentage completed figure.
 * The estimated time left before completion (ETA).
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Copying a File with pv
 
  To copy a file with output from `pv`, use this command:
@@ -95,15 +97,13 @@ pv /media/dave/SILVERXHD/gparted-live-1.0.0-1-amd64.iso > gparted.iso
 ![pv /media/dave/SILVERXHD/gparted-live-1.0.0-1-amd64.iso | gparted.iso in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/progress_8.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  We get a progress report as the file is copied.
 
 ![copying a file with pv in a te terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/progress_9.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Copying Multiple Files with pv
 
  To copy multiple files and folders with `pv` we need to use a little trick. We use `tar` to move the files for us.
@@ -122,9 +122,6 @@ tar -c help-files/ | pv | tar -x -C Documents/
 
  We do not get an ETA. The progress bar now displays a moving indicator. It shows that the process is active, but it doesn't grow from left to right like a traditional progress bar. `pv` is limited to displaying the information it can extract from the process that is being piped.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ##  Using pv and tar to Create an Archive
 
  Copying files with `pv` and `tar` does not leave us with an archive file. A sort of "virtual" archive is created by `tar`, which is fed straight back into `tar` to extract the files. If our objective is to copy files, that is accomplished. But what if we want to create an archive file?
@@ -144,8 +141,9 @@ tar -czf - ./help-files/ | pv > help-files.tgz
 ![sudo apt-get install pv in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/progress_1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The pv Display Options
 
  There are a number of options you can use with `pv` to change the details of its report.
@@ -168,8 +166,9 @@ tar -czf - ./help-files/ | pv - p > help-files.tgz
 ![sudo apt-get install pv in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/progress_1.png) 
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  This turns off all of the other display options. `pv` provides the percentage completed element only.
 
  Because `pv` doesn't get a percentage completed figure from `tar`, the progress bar is replaced with a moving indicator. There is no percentage figure.
@@ -190,12 +189,6 @@ tar -czf - ./help-files/ | pv - p > help-files.tgz
 
 ![sudo apt-get install pv in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/progress_1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ##  Installing the progress Command
 
  The `progress` command gives the same sort of [useful information](http://manpages.ubuntu.com/manpages/bionic/man1/progress.1.html) as `pv`, but it works with a specific set of Linux commands.
@@ -212,18 +205,12 @@ sudo dnf install progress
 
 ![sudo dnf install pv in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/progress_2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
  To install `progress` in Manjaro, use this command:
 
 sudo pacman -Syu progress
 
 ![sudo dnf install pv in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/progress_2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  The Commands progress Works With
 
  Typing `progress` in a terminal window and pressing Enter will give you a list of the commands that `progress` works with.
@@ -232,9 +219,6 @@ progress
 
 ![output of progress commmand in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/progress_5.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Using Progress With Pipes
 
  There are two techniques we can use to monitor commands with `progress`. The first is to use pipes.
@@ -249,9 +233,6 @@ tar -czf help.tgz ./help-files/ | progress -m
 
 ![sudo apt-get install pv in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/progress_1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The terminal window will show the progress of the `tar` command as it creates the archive.
 
 ![sudo apt-get install pv in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/progress_1.png) 
@@ -268,8 +249,9 @@ tar -czf help.tgz ./help-files/ | progress -m
  You might be surprised to see a second data set appear. This first data set is for `tar`. The second one is for `gzip`. `tar` calls `gzip` to perform the compression. Because `gzip` is in the list of supported commands, `progress` reports on it.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Using Progress in Continual Monitor Mode
 
  You can use `progress` in a real-time continual monitor mode by using the -M (monitor) option.
@@ -284,6 +266,10 @@ progress -M
 
 ![sudo dnf install pv in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/progress_2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In another terminal window, type a command that is in the list of commands that progress can monitor.
 
  We're going to use `cat`. Commands that are over too quickly won't register with `progress`, so we'll list the contents of a very long text file.
@@ -292,9 +278,17 @@ cat words.page
 
 ![sudo dnf install pv in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/progress_2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the terminal window with `progress` in it, you'll see statistics for the `cat` command as it executes and works towards completion.
 
 ![sudo apt-get install pv in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/progress_1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When `cat` finishes listing the file `progress` returns to its waiting state.
 
@@ -318,8 +312,6 @@ cat words.page
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -327,4 +319,22 @@ cat words.page
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-alter-default-store-place-for-mac-images/"><u>[New] Alter Default Store Place for Mac Images</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-premium-commercial-cloud-vaulting-services/"><u>[Updated] Premium Commercial Cloud Vaulting Services</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/digiarty-software-winx-dvd-faq/"><u>Digiarty Software WinX DVD: よくある質問への解決策 - FAQガイド</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhancing-indoor-tv-reception-the-ultimate-guide-to-choosing-the-right-antenna/"><u>Enhancing Indoor TV Reception: The Ultimate Guide to Choosing the Right Antenna</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-imageintensifyx7-transform-scenes-with-simplicity/"><u>In 2024, ImageIntensifyX7 Transform Scenes with Simplicity</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/revamped-drivers-elevate-geforce-210-experience-on-windows-11/"><u>Revamped Drivers Elevate GeForce 210 Experience on Windows 11</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/steps-to-saving-fb-status-video-memories/"><u>Steps to Saving Fb Status Video Memories</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-pinnacle-of-bike-gaming-adventures-for-2024/"><u>The Pinnacle of Bike Gaming Adventures for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-to-oppo-f23-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Oppo F23 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleashing-video-potential-mastering-script-craft-with-chatgpt/"><u>Unleashing Video Potential: Mastering Script Craft with ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-the-secrets-of-detective-games-play-four-advanced-ai-powered-mysteries-online/"><u>Unlock the Secrets of Detective Games: Play Four Advanced AI-Powered Mysteries Online</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-the-power-of-artificial-intelligence-in-imagery-with-chatgpt/"><u>Unlocking the Power of Artificial Intelligence in Imagery with ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-ais-roots-tracing-the-inception-moment-in-its-timeline/"><u>Unveiling AI's Roots - Tracing the Inception Moment in Its Timeline</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-claude-3-capabilities-functions-and-uses-explained/"><u>Unveiling Claude 3 Capabilities: Functions & Uses Explained</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/virtual-companionship-using-chatgpt-to-connect-people/"><u>Virtual Companionship: Using ChatGPT to Connect People</u></a></li>
+</ul></div>
 

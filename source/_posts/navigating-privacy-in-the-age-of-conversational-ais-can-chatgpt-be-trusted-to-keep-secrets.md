@@ -1,7 +1,7 @@
 ---
 title: "Navigating Privacy in the Age of Conversational AIs: Can ChatGPT Be Trusted to Keep Secrets?"
-date: 2024-08-29T01:16:11.110Z
-updated: 2024-08-30T01:16:11.110Z
+date: 2024-12-23T13:13:32.573Z
+updated: 2024-12-27T23:18:38.739Z
 tags:
   - chatgpt
   - open-ai
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/270179364474a44da1eaeda7613c10f10260fff7a
 ---
 
 ## Tired of the Wait? Here’s an Outstanding Open Source Option that Rivals the Anticipated ChatGPT Desktop App
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -34,8 +38,9 @@ thumbnail: https://thmb.techidaily.com/270179364474a44da1eaeda7613c10f10260fff7a
  But if you can't wait—like me!—you can try a free, open-source version instead.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is the Open-Source ChatGPT Desktop Application?
 
  ChatGPT users have long wanted a desktop version. The world's leading generative AI chatbot works great in a browser, but sometimes, a desktop app is more convenient.
@@ -49,20 +54,19 @@ thumbnail: https://thmb.techidaily.com/270179364474a44da1eaeda7613c10f10260fff7a
 ![chatgpt open source desktop version login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-login.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Install and Configure ChatGPT Desktop Application
 
 ![chatgpt open source desktop version home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-home-page.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 1. Head to the open-source[ChatGPT Desktop Application download page](https://github.com/lencx/ChatGPT/releases/tag/v1.1.0) . The latest version at the time of writing is V1.1.0, but you can check for a newer version.
 2. Download the applicable version for your operating system, then install it as per your operating system.
 3. Launch the ChatGPT Desktop Application.
@@ -72,11 +76,9 @@ thumbnail: https://thmb.techidaily.com/270179364474a44da1eaeda7613c10f10260fff7a
 ![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
+
 ## When Is the Official ChatGPT Desktop Version Launching?
 
  The official ChatGPT Desktop app is already slowly rolling out to macOS users.
@@ -85,14 +87,11 @@ thumbnail: https://thmb.techidaily.com/270179364474a44da1eaeda7613c10f10260fff7a
 
  Still, if you can't wait, you can give this open-source ChatGPT desktop version a try instead.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -101,4 +100,26 @@ thumbnail: https://thmb.techidaily.com/270179364474a44da1eaeda7613c10f10260fff7a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/updated-unlock-the-power-of-vocal-performance-in-digital-media-production-for-2024/"><u>[Updated] Unlock the Power of Vocal Performance in Digital Media Production for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-harness-the-power-of-iphoneipad-for-top-tier-travel-and-interview-podcasts/"><u>2024 Approved Harness the Power of iPhone/iPad for Top-Tier Travel & Interview Podcasts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/5-reasons-why-chatgpt-became-the-fastest-growing-app-of-all-time/"><u>5 Reasons Why ChatGPT Became the Fastest Growing App of All Time</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/adopt-a-new-mindset-integrate-chatgpt-into-your-meditation-habit-formation-plan/"><u>Adopt a New Mindset: Integrate ChatGPT Into Your Meditation Habit Formation Plan</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/artificeintelligent-advancements-transforming-academic-research-methods/"><u>ArtificeIntelligent Advancements: Transforming Academic Research Methods</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/artificial-intellect-made-accessible-a-clear-and-concise-guide-to-ai-explained/"><u>Artificial Intellect Made Accessible: A Clear and Concise Guide to AI Explained</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boost-your-ai-experience-7-unique-chatgpt-extensions-for-chrome-users-seeking-smart-prompts-and-responses/"><u>Boost Your AI Experience: 7 Unique ChatGPT Extensions for Chrome Users Seeking Smart Prompts and Responses</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-algorithms-tackle-math-questions/"><u>Can Algorithms Tackle Math Questions?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-outage-check-learn-these-5-techniques-to-confirm-if-its-operational/"><u>ChatGPT Outage Check - Learn These 5 Techniques to Confirm If It's Operational</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparing-creativity-top-results-from-three-distinct-ai-chatbots/"><u>Comparing Creativity: Top Results From Three Distinct AI Chatbots</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/crafting-successful-reels-with-chatgpt-help/"><u>Crafting Successful Reels with ChatGPT Help</u></a></li>
+<li><a href="https://windows11.techidaily.com/direct-paths-opening-system-information-at-your-fingertips/"><u>Direct Paths: Opening System Information at Your Fingertips</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/fast-easy-free-the-top-choices-for-onsite-gif-to-video-changes-for-2024/"><u>Fast, Easy, Free The Top Choices for Onsite GIF to Video Changes for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/innovating-with-obs-studio-on-android-systems-for-2024/"><u>Innovating with OBS Studio on Android Systems for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/microsoft-wireless-mouse-5000-driver-downloads-speedy-hassle-free-setup/"><u>Microsoft Wireless Mouse 5000 Driver Downloads – Speedy, Hassle-Free Setup!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-nokia-c12-plus-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Nokia C12 Plus FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-definitive-review-of-huaweis-mediapad-m5-a-tablet-revolutionizing-audio-visual-engagement/"><u>The Definitive Review of Huawei's MediaPad M5 - A Tablet Revolutionizing Audio-Visual Engagement</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210185662-9781631598487-the-power-of-breathwork/"><u>The Power of Breathwork | Free Book</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/ultimate-guide-7-high-ranking-audio-transformation-apps/"><u>Ultimate Guide 7 High-Ranking Audio Transformation Apps</u></a></li>
+</ul></div>
 

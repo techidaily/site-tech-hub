@@ -1,7 +1,7 @@
 ---
 title: "Unleashing Creativity in Animation: Transform Your Ideas Into Breathtaving Artwork Using MidJourney's Advanced Model"
-date: 2024-08-29T01:14:29.911Z
-updated: 2024-08-30T01:14:29.911Z
+date: 2024-12-24T22:35:40.658Z
+updated: 2024-12-27T19:40:00.249Z
 tags:
   - cutting-edge
 categories:
@@ -19,13 +19,14 @@ thumbnail: https://thmb.techidaily.com/7cccd9eb9a0e5868fdcc8e1d565a6361afbd69516
 
  MidJourney is arguably the best overall AI image generator currently on the market, and it can handle almost any type of request with aplomb. However, you might not have known that it has a special alternate mode specifically for anime and manga style illustrations—Niji.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Meet the Niji Model for MidJourney
 
  Niji is an alternative model to the standard, general-purpose MidJourney model. It's been trained and tuned specifically to create the best anime and manga style art it can. As I write this, the latest model of Niji is V6, which is the same number of generations as the main MidJourney model. While Niji has always been good at creating anime-style images, with the V6 Alpha its taken a similar leap in consistency, prompt adherence, and quality as its mainstream sibling.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ##  Can Standard MidJourney Do Anime?
 
  Since the standard MidJourney model is general-purpose, it can definitely produce anime-style images. However. Niji has specific knowledge of anime art styles, compositions, dynamic action, and everything else that makes anime and manga so distinct as a total body of work. While this becomes more apparent as you attempt anime-style images on both models, here's an example of the same prompt run through both models.
@@ -41,11 +42,16 @@ Sydney Louw Butler / How-To Geek / MidJourney
 ![Niji V6 attempting to render Anime swordsmen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-11-at-12-54-52.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Sydney Louw Butler / How-To Geek / MidJourney
 
  Even though the prompt specified an anime style, only Niji produced something that's immediately recognizable as anime or manga style illustrations. There's nothing wrong with the images that the standard model produces, but it's just not tuned for this specific aesthetic. Whereas if you want anime-style illustrations consistently, then Niji will deliver them almost every time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Switching to Niji
 
@@ -56,28 +62,21 @@ Sydney Louw Butler / How-To Geek / MidJourney
 ![Discord Settings Command for MidJourney.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/discord-command.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You'll see a settings window pop up, where you can choose Niji from a drop-down list. Choose the latest version, or the latest non-Alpha version if you prefer.
 
 ![Discord MidJourney Select Model Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/discord-select-model.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you're using the MidJourney web interface, then click on the settings icon, which looks like a set of three horizontal sliders, and then under the "Version" drop-down select the Niji model of your choice.
 
 ![MidJourney web Alpha Dropdown menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/web-alpha-dropdown.png) 
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Until you change it back, all of your subsequent images will now be run through Niji. To get back to the standard model, just repeat the same steps.
 
 ##  Making Cool Anime Art With the Right Keywords
@@ -96,9 +95,6 @@ Sydney Louw Butler / How-To Geek / MidJourney
 
 ![An 80s anime style mech walking through a jungle](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/an-80s-anime-style-mech-walking-through-a-jungle.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 Sydney Louw Butler / How-To Geek / MidJourney
 
  Prompt: "70s anime male elven archers wearing light armor"
@@ -117,9 +113,6 @@ Sydney Louw Butler / How-To Geek / MidJourney
 
 ![90s anime male vampire warrior dark and gothic generated by MidJourney Niji.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/90s-anime-male-vampire-warrior-dark-and-gothic.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Sydney Louw Butler / How-To Geek / MidJourney
 
 ---
@@ -132,8 +125,6 @@ Sydney Louw Butler / How-To Geek / MidJourney
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -141,4 +132,22 @@ Sydney Louw Butler / How-To Geek / MidJourney
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-comprehensive-guide-to-screen-capturing-in-windows-8/"><u>[New] Comprehensive Guide to Screen Capturing in Windows 8</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-frosty-ambiance-cozy-cinematics-best-bgs-ideas/"><u>[Updated] 2024 Approved Frosty Ambiance, Cozy Cinematics Best Bgs Ideas</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-most-advanced-virtual-classrooms-not-udemys-offspring/"><u>[Updated] The Most Advanced Virtual Classrooms, Not Udemy's Offspring</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comprehensive-insight-into-what-generative-ai-entails-and-how-it-works/"><u>Comprehensive Insight Into What Generative AI Entails and How It Works</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effective-strategies-utilizing-chatgpts-assistance-for-automotive-customization/"><u>Effective Strategies: Utilizing ChatGPT's Assistance for Automotive Customization</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-honor-x50-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Honor X50? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-top-picks-browsers-excelling-at-digital-visualization/"><u>In 2024, Top Picks Browsers Excelling at Digital Visualization</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/secrets-of-success-incorporating-chatgpt-into-interview-practices/"><u>Secrets of Success: Incorporating ChatGPT Into Interview Practices</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-latest-upgrade-in-dall-e-3-unpacking-integrated-editing-features-strengths-and-shortcomings/"><u>The Latest Upgrade in DALL-E 3: Unpacking Integrated Editing Features' Strengths and Shortcomings</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-itel-p55-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Itel P55 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-six-important-points-to-know-about-utilizing-chatgpt-for-emotional-support/"><u>Top Six Important Points to Know About Utilizing ChatGPT for Emotional Support</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-fluent-communication-skills-using-chatgpt-plus-for-effective-language-acquisition/"><u>Unlock Fluent Communication Skills Using ChatGPT Plus for Effective Language Acquisition</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-professional-goals-ais-contribution-to-employment/"><u>Unlocking Professional Goals: AI's Contribution to Employment</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/1728464715552-usb/"><u>USBメモリ自動保存ツール - 忙しいユーザーに最適な無料バックアップソフトウェア</u></a></li>
+</ul></div>
 
